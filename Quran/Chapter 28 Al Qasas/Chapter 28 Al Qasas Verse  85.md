@@ -2676,6 +2676,12 @@ Hamon [Parvardigore], ki Qur'onro [nozil namud va taʙliƣaşro] ʙar tu voçiʙ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నీపై ఖుర్‌ఆన్‌ను అవతరింపజేసినవాడు నిన్ను తిరిగి పూర్వస్థలానికి చేర్చనున్నాడు. ఈ విధంగా చెప్పు: సన్మార్గాన్ని తీసుకువచ్చిన వారెవరో నా ప్రభువుకు బాగా తెలుసు. స్పష్టమైన అపమార్గంలో పడిఉన్నదెవరో కూడా ఆయనకు తెలుసు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

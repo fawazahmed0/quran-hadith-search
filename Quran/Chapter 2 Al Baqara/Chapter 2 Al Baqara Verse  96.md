@@ -2676,6 +2676,12 @@ mariyu niścayaṅgā, jīvitaṁ paṭla sarvajanula kaṇṭē ekkuva vyāmōh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) జీవితం పట్ల అందరికన్నా ఎక్కువ వ్యామోహం వీరికే ఉందన్న విషయాన్ని నువ్వు గ్రహిస్తావు. (జీవితం పట్ల వ్యామోహంలో) వీరు ముష్రిక్కులను కూడా మించిపోయారు. వీరిలోని ప్రతి ఒక్కడూ వెయ్యి సంవత్సరాల వయస్సును కోరుకుంటాడు. అయితే ఈ దీర్ఘాయుషు కూడా వారిని శిక్ష బారి నుంచి ఏ మాత్రం తప్పించలేదు. అల్లాహ్‌ వారి కార్యకలాపాలన్నింటినీ చూస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

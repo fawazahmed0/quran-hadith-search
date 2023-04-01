@@ -2676,6 +2676,12 @@ vāstavāniki idi varaku cālā yud'dharaṅgālalō (mīru koddimandi unnā) al
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లోగడ చాలా సందర్భాలలో అల్లాహ్‌ మీకు సహాయం చేసి ఉన్నాడు. హునైన్‌ యుద్ధం జరిగిన రోజున కూడా (మిమ్మల్ని ఆదుకున్నాడు). ఆ సందర్భంగా మీరు మీ అధిక సంఖ్య పై గర్వపడ్డారు. కాని ఆ సంఖ్యాబలం మీకే విధంగానూ ప్రయోజనం కలిగించలేదు. భూమి విశాలంగా ఉండి కూడా మీకోసం ఇరుకైపోయింది. అప్పుడు మీరు వెన్నుచూపి మరలిపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

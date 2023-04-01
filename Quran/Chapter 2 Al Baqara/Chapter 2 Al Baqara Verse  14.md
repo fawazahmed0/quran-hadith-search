@@ -2676,6 +2676,12 @@ mariyu viśvāsulanu kalisi napuḍu, vāru: "Mēmu viśvasin̄cāmu." Ani aṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులను కలుసుకున్నప్పుడు వారు,”మేమూ విశ్వసించిన వారమే” అని అంటారు. కాని తమ షైతానుల (అంటే తమ పెద్దల లేక సర్దారుల) వద్దకు పోయినప్పుడు, “మేము మీతోనే ఉన్నామండీ. కాకపోతే వాళ్ళతో పరిహాసమాడుతున్నామంతే” అని పలుకుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

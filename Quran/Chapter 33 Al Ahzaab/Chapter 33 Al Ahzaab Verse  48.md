@@ -2676,6 +2676,12 @@ mariyu nīvu satyatiraskārula mariyu kapaṭa viśvāsula māṭalaku lōbaḍa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసుల, వంచకుల మాట వినకు. (వారి తరఫున జరిగే) వేధింపులను లెక్కచేయకు. అల్లాహ్‌నే నమ్ముకో. కార్య సాధకునిగా అల్లాహ్‌ (ఒక్కడే) చాలు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

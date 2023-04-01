@@ -2676,6 +2676,12 @@ kāni niścayaṅgā, (ā taruvāta kūḍā) mēmu anēka tarālanu prabhavimpa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని మేము ఎన్నో తరాల వారిని ప్రభవింపజేశాము. వారిపై సుదీర్ఘకాలం గడచిపోయింది. అయితే నువ్వు మద్‌యన్‌ వాసుల మధ్య కూడా – మా ఆయతులను చదివి వినిపించడానికి అక్కడ నివసించి ఉండలేదు. కాని మేము మాత్రం ప్రవక్తలను పంపిస్తూనే ఉండేవారము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

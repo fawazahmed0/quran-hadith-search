@@ -2676,6 +2676,12 @@ vārilō evaritōnaitē nīvu oḍambaḍika cēsukunnāvō! Vāru pratisārī t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నువ్వు వారితో ఒప్పందం చేసుకున్నావు. అయినా వారు తమ ఒప్పందాన్ని పదే పదే ఉల్లంఘిస్తున్నారు. పైపెచ్చు ఏమాత్రం భయపడటం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

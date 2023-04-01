@@ -2676,6 +2676,12 @@ māku ihalōkanlō mariyu paralōkanlō kūḍā man̄ci sthitinē vrāyi. Niśc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మా కోసం ప్రపంచంలోనూ, పరలోకంలో కూడా మేలును వ్రాయి. మేము నీ వైపుకే మరలాము.”(సమాధానంగా అల్లాహ్‌ ఈ విధంగా) సెలవిచ్చాడు : “నేను కోరిన వారికి మాత్రమే శిక్ష విధిస్తాను. అయితే నా కారుణ్యం అన్ని వస్తువులనూ ఆవరించి ఉంది. భయభక్తుల వైఖరిని అవలంబిస్తూ, జకాతును చెల్లిస్తూ, మా ఆయతులను విశ్వసించేవారి పేర ఈ కారుణ్యాన్ని తప్పకుండా వ్రాస్తాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

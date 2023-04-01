@@ -2676,6 +2676,12 @@ Emi? Visvasula hrdayalu allah prastavanato krngipoyi, ayana avatarimpa jesina sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, విశ్వాసుల హృదయాలు అల్లాహ్ జ్ఞాపకం పట్ల, ఆయన అవతరింపజేసిన సత్యం పట్ల మెత్తబడే సమయం ఇంకా వారికి ఆసన్నం కాలేదా? వీరికి మునుపు గ్రంథం వొసగబడిన వారి మాదిరిగా వీరు కాకూడదు. మరి ఆ గ్రంథవహులపై ఒక సుదీర్ఘకాలం గడచిపోయేసరికి వారి హృదయాలు కఠినమై పోయాయి. వారిలో చాలామంది అవిధేయులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

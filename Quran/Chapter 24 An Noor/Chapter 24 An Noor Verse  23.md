@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē śīlavatulu, amāyakulu ayina viśvāsa strīlapai ap
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సౌశీల్యవతులుగా ఉన్న, ఏ పాపం ఎరుగని విశ్వసించిన స్త్రీలపై అపనింద మోపేవారు ఇహపరాలలో శపించబడ్డారు. వారి కోసం చాలా పెద్ద శిక్ష ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

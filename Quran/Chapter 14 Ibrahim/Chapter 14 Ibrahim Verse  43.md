@@ -2676,6 +2676,12 @@ Dar hole ki [ʙa sūji munodii mahşar] şitoʙonand va sarhoro ʙolo giriftaand
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తలలు పైకెత్తి పరుగులు తీస్తుంటారు. వారి చూపులు స్వయంగా వారి వైపుకు కూడా తిరిగిరావు. వారి హృదయాల్లో శూన్యం ఆవరిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

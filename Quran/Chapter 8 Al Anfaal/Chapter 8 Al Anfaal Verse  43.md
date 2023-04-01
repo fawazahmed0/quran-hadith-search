@@ -2676,6 +2676,12 @@ Ba jod or (ej Pajomʙar), Alloh dar xoʙ miqdori duşmanonatro ʙa tu kam nişon
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా! ఆ సమయంలో) అల్లాహ్‌ నీ కలలో వారి సంఖ్యను అల్పంగా చేసి చూపించాడు. వారిని అధిక సంఖ్యలో చూపి ఉంటే, మీరు జడుసుకుని, ఈ వ్యవహారంలో మీరు పరస్పరం గొడవపడి ఉండేవారు. అయితే అల్లాహ్‌ (మిమ్మల్ని) కాపాడాడు. నిశ్చయంగా ఆయన గుండెల్లోని గుట్టును (సయితం) బాగా ఎరిగినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

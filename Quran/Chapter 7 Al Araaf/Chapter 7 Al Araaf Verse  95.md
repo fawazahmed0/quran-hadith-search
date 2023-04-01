@@ -2676,6 +2676,12 @@ a taruvata vari dusthitini, susthitiga marcina pidapa varu hayiga untu, ila anna
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత వారి దురవస్థను మంచి స్థితిగా మార్చాము. వారు బాగా అభివృద్ధి చెందినప్పుడు, “(ఇదేమీ కొత్త విషయం కాదు) మా తాతముత్తాతలకు కూడా కష్టసుఖాలు ఎదురయ్యాయి” అని అన్నారు. అప్పుడు మేము వారిని అకస్మాత్తుగా పట్టుకున్నాము. (తమకు ఆ పరిస్థితి ఎదురవుతుందని) వాళ్లకు ఏమాత్రం తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

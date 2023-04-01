@@ -2676,6 +2676,12 @@ a taruvata musa kopantonu, vicarantonu, tana jati vari vaddaku tirigi vacci anna
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా ఆగ్రహోదగ్రుడై, దుఃఖవదనుడై జాతివారి వైపుకు తిరిగి వచ్చాడు. “ఓ నా జాతి ప్రజలారా! మీ ప్రభువు మీకు మంచి వాగ్దానం చేయలేదా?! ఆ గడువు మీకు మరీ అంత సుదీర్ఘం అనిపించిందా?! లేక మీ ప్రభువు ఆగ్రహం మీపై విరుచుకుపడాలనే మీరు కోరుకున్నారా? అందుకే మీరు నాకు చేసిన వాగ్దానానికి విరుద్ధంగా ప్రవర్తించారా?” అని ఆవేదన చెందాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

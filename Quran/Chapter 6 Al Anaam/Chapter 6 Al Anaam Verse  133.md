@@ -2676,6 +2676,12 @@ Mariyu nī prabhuvu svayaṁ samr̥d'dhuḍu, karuṇin̄cē svabhāvaṁ galav�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా నీ ప్రభువు ఏ అక్కరాలేనివాడు, కనికరించేవాడు. ఆయన గనక తలచుకుంటే మీ అందరినీ తుద ముట్టించి, మిమ్మల్ని వేరొక వంశం నుంచి పుట్టించినట్లే, మీ స్థానంలో తాను కోరినవారిని వసింపజేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

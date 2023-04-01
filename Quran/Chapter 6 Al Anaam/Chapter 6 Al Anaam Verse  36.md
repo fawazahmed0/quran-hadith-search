@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē (śrad'dhatō) viṇṭārō, vārē (satyasandēśān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వినేవారు మాత్రమే (సత్యాన్ని) స్వీకరిస్తారు. ఇకపోతే మృతుల విషయం – అల్లాహ్‌ వారిని బ్రతికించిలేపుతాడు. తర్వాత వారంతా ఆయన వద్దకే మరలించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

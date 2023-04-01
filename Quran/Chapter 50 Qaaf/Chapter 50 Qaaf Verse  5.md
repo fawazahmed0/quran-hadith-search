@@ -2676,6 +2676,12 @@ kāni vāru, satyaṁ vāri vaddaku vaccinapuḍu dānini asatyamani tiraskarin�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పైగా వారు, సత్యం తమ వద్దకు వచ్చినప్పుడు దాన్ని అబద్దంగా చిత్రీకరించారు. అసలు వారు అయోమయంలో పడిపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

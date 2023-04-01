@@ -2676,6 +2676,12 @@ mariyu allāh pravaktala nuṇḍi tīsukunna gaṭṭi pramāṇānni (jñāpak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ (తన) ప్రవక్తల నుండి వాగ్దానం తీసుకున్నప్పుడు, ”నేను మీకు గ్రంథాన్ని, వివేకాన్ని ఒసగిన తరువాత, మీ వద్ద ఉన్న దాన్ని సత్యమని ధృవీకరించే ప్రవక్త మీ వద్దకు వస్తే మీరు తప్పకుండా అతన్ని విశ్వసించాలి, అతనికి సహాయపడాలి” అని చెప్పాడు. తరువాత ఆయన, ”ఈ విషయాన్ని మీరు ఒప్పుకుంటున్నారా? నేను మీపై మోపిన బాధ్యతను స్వీకరిస్తున్నారా?” అని ప్రశ్నించగా, ”మేము ఒప్పుకుంటున్నాము” అని అందరూ అన్నారు. ”మరయితే దీనికి మీరు సాక్షులుగా ఉండండి. మీతోపాటు నేనూ సాక్షిగా ఉంటాను” అని అల్లాహ్‌ అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

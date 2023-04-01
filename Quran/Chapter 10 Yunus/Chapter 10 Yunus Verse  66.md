@@ -2676,6 +2676,12 @@ vinaṇḍi! Niścayaṅgā, ākāśālalō unnadantā mariyu bhūmilō unnadant
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలో, భూమిలో ఉన్నవారందరూ అల్లాహ్‌వారేనన్న సంగతిని బాగా తెలుసుకోండి. అల్లాహ్‌ను వదలి ఇతరత్రా భాగస్వాములను పూజించేవారు దేన్ని అనుసరిస్తున్నట్లు?! వారు నిరాధారమైన ఊహలను అనుసరిస్తున్నారు. అంచనాలపై ఆధారపడుతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

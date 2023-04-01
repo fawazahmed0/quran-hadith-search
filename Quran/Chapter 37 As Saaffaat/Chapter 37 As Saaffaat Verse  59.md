@@ -2676,6 +2676,12 @@ mana modaṭi (bhūlōka) maraṇaṁ tappa! Manaku ika elāṇṭi śikṣa pa�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మనకిక శిక్ష కూడా పడదట కదా! (ఇదీ నిజమేనా? అని స్వర్గవాసి తన తోటి సావాసులతో అంటాడు).”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

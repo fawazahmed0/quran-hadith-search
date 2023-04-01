@@ -2676,6 +2676,12 @@ sampannuḍaina vyakti tana ārthika stōmata prakāraṁ kharcu peṭṭāli. M
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+స్థోమత ఉన్నవాడు తన స్థోమతకు తగ్గట్టుగా ఖర్చుచేయాలి. మరెవరికయితే అతని ఉపాధి కుదించబడిందో, అతను అల్లాహ్ తనకు ప్రసాదించిన దానిలో నుంచి (తన స్థాయికి తగ్గట్టుగానే) ఖర్చుపెట్టాలి. అల్లాహ్ ఏ ప్రాణిపైనా దానికి ఇచ్చిన దానికంటే ఎక్కువ భారం మోపడు. అల్లాహ్ ఇబ్బందుల తరువాత సౌలభ్యాన్ని కూడా కల్పిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

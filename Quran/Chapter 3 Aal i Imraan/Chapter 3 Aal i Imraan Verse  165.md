@@ -2676,6 +2676,12 @@ emayindi? Mikoka cinna apade kada kaligindi! Vastavaniki miru, variki (mi satruv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఏమిటీ?) మీపై ఆపదరాగానే – దీనికన్నా రెండింతలుగా మీరు వారిపై విరుచుకుపడి ఉండి కూడా – ఇదెక్కడి నుంచి వచ్చిపడిందని అంటారా? ”ఇది చేజేతులా మీరు కొనితెచ్చుకున్నదే” అని (ఓ ప్రవక్తా!) వారికి చెప్పు. నిశ్చయంగా అల్లాహ్‌ ప్రతి దానినీ చేయగల సమర్థుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

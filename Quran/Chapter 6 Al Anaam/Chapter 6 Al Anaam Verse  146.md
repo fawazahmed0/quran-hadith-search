@@ -2676,6 +2676,12 @@ Mariyu yūdamataṁ avalambin̄cina vāriki mēmu gōḷḷu unna anni jantuvula
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+యూదులకు మేము గోళ్ళు గల జంతువులన్నింటినీ నిషేధించాము. ఇంకా వారికి, ఆవు మరియు మేకలలో వాటి వీపులకు తగిలివున్న కొవ్వునీ, ప్రేగులపై ఉన్నదానినీ, ఎముకలతో కలిసి ఉన్న దానిని తప్ప – మిగిలిన క్రొవ్వును కూడా నిషేధించాము. వారి తలబిరుసుతనం మూలంగా మేము వారికి ఈ శిక్ష విధించాము. ముమ్మాటికీ మేము చెప్పేది నిజం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

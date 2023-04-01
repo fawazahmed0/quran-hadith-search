@@ -2676,6 +2676,12 @@ mariyu vāritō: "Allāh mīku prasādin̄cina jīvanōpādhi nuṇḍi kharcu c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ ప్రసాదించిన దానిలో నుంచి కొంత ఖర్చు చేయండి” అని వారితో అన్నప్పుడల్లా, ఈ తిరస్కారులు విశ్వాసులతో, “మేము వారికి ఎందుకు తినిపించాలి? అల్లాహ్‌ తలిస్తే ఆయన స్వయంగా వారికి అన్నం పెట్టేవాడు. ఎటొచ్చీ మీరే స్పష్టమైన అపమార్గంలో పడి ఉన్నారు” అని సమాధానమిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

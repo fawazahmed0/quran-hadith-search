@@ -2676,6 +2676,12 @@ vārini tiṇṭū (trāgutū) sukhasantōṣālanu anubhavistū (vr̥thā) āś
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నువ్వు వాళ్ళను తింటూ, అనుభవిస్తూ, (బూటకపు) ఆశల్లో మునిగిపోయి ఉండేలా వదిలిపెట్టు. త్వరలోనే (వాస్తవం) స్వయంగా వారికే తెలిసివస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

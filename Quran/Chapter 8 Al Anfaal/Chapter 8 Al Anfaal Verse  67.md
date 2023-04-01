@@ -2676,6 +2676,12 @@ Baroi heç pajomʙare sazovor nest, ki asirone [az laşkari kofiron] doşta ʙo�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+రాజ్యంలో బాగా రక్తపాతంతో కూడిన యుద్ధం జరగనంత వరకూ యుద్ధ ఖైదీలను తన వద్ద ఉంచుకోవటం ఏ ప్రవక్తకూ తగదు. మీరు ప్రాపంచిక సంపదలను కోరుకుంటున్నారు. కాని అల్లాహ్‌ (మీ కోసం) పరలోకాన్ని కోరుకుంటున్నాడు. అల్లాహ్‌ సర్వాధిక్యుడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

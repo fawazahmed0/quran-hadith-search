@@ -2676,6 +2676,12 @@ Phir'aun, hāmān mariyu khārūn la vaddaku! Kāni vāru: "Itanu māntrikuḍu,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఫిరౌను, హామాను, ఖారూను వద్దకు (పంపాము). కాని వారేమో, “ఇతను మాంత్రికుడు, అబద్ధాలకోరు” అని అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

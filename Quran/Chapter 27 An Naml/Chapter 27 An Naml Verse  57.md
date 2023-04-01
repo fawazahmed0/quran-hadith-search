@@ -2676,6 +2676,12 @@ kāvuna mēmu atanini mariyu atani kuṭumbaṁ vārini kāpāḍāmu - atani bh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అందుచేత మేము అతని భార్య మినహా అతన్నీ, అతని పరివారాన్నీ కాపాడాము. ఆమె వెనుక ఉండిపోయేవారిలో చేరుతుందని మేము ముందే నిర్ధారించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

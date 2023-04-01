@@ -2676,6 +2676,12 @@ vāstavāniki nā prabhuvu, nī tōṭa kaṇṭē uttamamaina dānini nāku pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(తెలుసుకో!) నా ప్రభువు నాకు నీ తోట కన్నా మేలైనదాన్ని ప్రసాదించి, నీ తోటపై ఆకాశం నుంచి ఏదన్నా శిక్షను పంపినా పంపవచ్చు (ఆశ్చర్యపోనవసరం లేదు). అప్పుడది తెల్లవారేసరికి చదునైన – నున్నని – మైదానంలా అయిపోవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

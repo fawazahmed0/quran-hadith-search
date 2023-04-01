@@ -2676,6 +2676,12 @@ Okavēḷa allāh evarinainā kumārunigā cēsukōdalistē, tana sr̥ṣṭilō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ (ఎవరినయినా) సంతానంగా చేసుకోదలచుకుంటే, తన సృష్టితాలలో తాను కోరిన వారిని ఎన్నుకుని ఉండేవాడు. (కాని) ఆయన పరమ పవిత్రుడు. ఆ అల్లాహ్‌ ఒకే ఒక్కడు, తిరుగులేనివాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

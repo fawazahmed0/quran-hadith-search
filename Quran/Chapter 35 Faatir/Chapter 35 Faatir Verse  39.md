@@ -2676,6 +2676,12 @@ ayane mim'malni bhumipai uttaradhikaruluga cesinavadu. Kavuna evadu (satyanni) t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మిమ్మల్ని భూమిలో ప్రతినిధులుగా చేసినవాడు ఆయనే. కాబట్టి ఇక ఎవరయినా తిరస్కార వైఖరికి పాల్పడితే అతని తిరస్కార పాపం అతని మీదే పడుతుంది. తిరస్కారుల తిరస్కార వైఖరి వారి ప్రభువు సన్నిధిలో అయిష్టతను (ఆగ్రహాన్ని) మాత్రమే పెంచుతుంది. ఇంకా తిరస్కారుల కొరకు వారి తిరస్కార వైఖరి నష్టాన్ని మాత్రమే వృద్ధిచేస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

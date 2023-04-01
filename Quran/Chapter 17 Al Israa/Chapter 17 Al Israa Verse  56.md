@@ -2676,6 +2676,12 @@ vāritō iṭlanu: "Āyana (allāh) nu kādani mīrevarinaitē (ārādhyadaivāl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు: “మీరు అల్లాహ్‌ను వదలి ఆరాధ్య దైవాలుగా భావిస్తున్న వారిని పిలిచి చూడండి, వారు మీ నుండి ఏ కష్టాన్నీ దూరం చేయటంగానీ, మార్చటంగానీ చేయలేరు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

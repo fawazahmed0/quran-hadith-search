@@ -2676,6 +2676,12 @@ appuḍu lūt ilā prārthin̄cāḍu: "Ō nā prabhū! Daurjan'yaparulapai nāk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు లూత్‌, “ప్రభూ! ఈ అల్లరి మూకకు వ్యతిరేకంగా నాకు సహాయపడు” అని అభ్యర్థించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

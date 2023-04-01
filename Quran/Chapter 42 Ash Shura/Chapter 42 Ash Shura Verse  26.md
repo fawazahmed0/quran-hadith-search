@@ -2676,6 +2676,12 @@ mariyu āyana viśvasin̄ci, satkāryālu cēsēvāri prārthanalanu aṅgīkari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన విశ్వసించి, సదాచరణ చేసే వారి (విన్నపాల)ని వింటాడు. తన కృపతో వారికి మరింతగా అనుగ్రహిస్తాడు. మరి అవిశ్వాసులకేమో చాలా కఠిన శిక్ష పడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

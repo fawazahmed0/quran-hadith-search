@@ -2676,6 +2676,12 @@ emi? Evaraite tama pramanalanu bhangam cesi, sandesaharunni (makka nundi) vedala
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ ప్రమాణాలను భంగం చేసిన వారితో, ప్రవక్తను దేశం నుంచి బహిష్కరించే పథకం వేసిన వారితో మీరు ఎందుకు యుద్ధం చేయరు?(చూడబోతే) తొలిసారి మీపై కవ్వింపు చర్యలకు ఒడిగట్టినది కూడా వారేకదా! ఏమిటీ, మీరు వారికి భయపడుతున్నారా? మీరే గనక విశ్వాసులైతే మీరు భయపడటానికి అల్లాహ్‌యే ఎక్కువ అర్హుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

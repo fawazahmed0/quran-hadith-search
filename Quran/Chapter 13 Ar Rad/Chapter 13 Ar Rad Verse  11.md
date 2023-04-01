@@ -2676,6 +2676,12 @@ Prativāni mundū venukā āyana niyamin̄cina, okari veṇṭa okaru vaccē kā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మనిషికి ముందూ వెనుకా (ఆయన నియమించిన) కావలి వాళ్ళు అంటి ఉన్నారు. వారు దైవాజ్ఞానుసారం అతన్ని కనిపెట్టుకుని ఉంటారు. ఏ జాతి అయినా సరే స్వయంగా తన మనోమయ స్థితిని మార్చుకోనంతవరకూ అల్లాహ్‌ కూడా దాని స్థితిని మార్చడు . అల్లాహ్‌ ఏ జాతినయినా శిక్షించాలనుకుంటే ఇక ఆ శిక్ష తొలగిపోయే ప్రసక్తే ఉండదు. ఆయన తప్ప వారిని రక్షించే వారు కూడా ఎవరూ ఉండరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

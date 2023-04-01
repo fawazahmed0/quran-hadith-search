@@ -2676,6 +2676,12 @@ andulō (narakanlō) vāru śāśvataṅgā uṇṭāru. Vāri śikṣa ē mātr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ (శాపగ్రస్త) స్థితిలో వారు కలకాలం ఉంటారు. వారి శిక్షను తగ్గించటంగానీ, వారికి గడువు ఇవ్వటంగానీ జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

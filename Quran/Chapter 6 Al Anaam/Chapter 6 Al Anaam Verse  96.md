@@ -2676,6 +2676,12 @@ ayane (ratri cikatini) cilci udayanni teccevadu. Mariyu ratrini visranti koraku 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఉదయాన్ని వెలికి తీసేవాడు ఆయనే. ఇంకా ఆయన రాత్రిని విశ్రాంతి సమయంగా చేశాడు. సూర్యచంద్రుల లెక్కను నిర్థారించాడు. ఇదంతా సర్వాధిక్యుడు, మహాజ్ఞాని (అయిన అల్లాహ్‌) చేసిన నిర్థారణ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

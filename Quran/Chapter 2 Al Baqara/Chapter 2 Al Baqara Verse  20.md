@@ -2676,6 +2676,12 @@ a merupu vari drstini incu mincu eguravesuku poyinatluntundi. Pratisari adi meri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మెరుపులు వారి దృష్టిని ఎగరవేసుకుపోతాయా! అన్నట్టుంది వారి పరిస్థితి. అవి (మెరుపు తీగలు) వెలుగును విరజిమ్మినపుడల్లా వారు అందులో కొంతదూరం నడుస్తారు. తర్వాత వారిపై చీకటి ఆవరించగానే నిలబడిపోతారు. అల్లాహ్‌యే గనక తలచుకుంటే వారి వినేశక్తినీ, కంటిచూపునూ పోగొట్టేవాడే, నిశ్చయంగా అల్లాహ్‌ అన్నింటిపై అధికారం గలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

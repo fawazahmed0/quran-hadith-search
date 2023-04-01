@@ -2676,6 +2676,12 @@ mariyu allāh yē mim'malni sr̥ṣṭin̄cāḍu, taruvāta mim'malni maraṇim
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే మిమ్మల్నందరినీ పుట్టించాడు. మరి ఆయనే మీకు చావునిస్తాడు. మీలో అత్యంత దుర్భరమైన వయస్సుకు చేర్చబడే వారు కూడా ఉంటారు-అన్నీ తెలిసి ఉండి కూడా ఏమీ తెలియని వారవటానికి! నిస్సందేహంగా అల్లాహ్‌ సర్వజ్ఞుడు, సర్వాధికారి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

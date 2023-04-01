@@ -2676,6 +2676,12 @@ mariyu vāstavāniki mēmu, nīku pūrvaṁ (ō muham'mad!) Anēka jātula vāri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీకు పూర్వం ఎన్నో సమాజాల వద్దకు కూడా మేము ప్రవక్తలను పంపాము. ఆయా సమాజాలవారు అణకువను వ్యక్తపరచాలన్న ఉద్దేశంతో మేము వాళ్ళను దారిద్య్రానికి, అనారోగ్య బాధలకు గురిచేసి పట్టుకున్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

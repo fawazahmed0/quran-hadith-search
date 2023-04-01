@@ -2676,6 +2676,12 @@ ayana (allah) yokka anugrahalaku krtajnudai undevadu. Ayana (allah) atanini (tan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ అనుగ్రహాల పట్ల కృతజ్ఞతాభావం కలవాడు. అల్లాహ్‌ అతన్ని ఎన్నుకున్నాడు. అతనికి రుజుమార్గం చూపించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem, şehirlinin köylü adına satış yapmasını yasakladı. Ayrıca şöyle buyurdu: 1. Neceş yapmayın. 2.Kişi (din) kardeşinin yaptığı satış üzerine satış yapamaz. 3.(Din) kardeşinin evlilik teklif ettiği kadına evlilik teklif edemez. 4. Kadın, kumasının kabındaki kendisine kalsın diye kocasından kuması boşamasını isteyemez." Tekrar 2148, 2150, 2
+Ebu Hureyre r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem, şehirlinin köylü adına satış yapmasını yasakladı. Ayrıca şöyle buyurdu: 1. Neceş yapmayın. 2.Kişi (din) kardeşinin yaptığı satış üzerine satış yapamaz. 3.(Din) kardeşinin evlilik teklif ettiği kadına evlilik teklif edemez. 4. Kadın, kumasının kabındaki kendisine kalsın diye kocasından kuması boşamasını isteyemez." Tekrar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 34 Hadith 92</td></tr></tbody></table></div>
 

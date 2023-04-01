@@ -2676,6 +2676,12 @@ Ayana (allah) nu vadali miru aradhistunnavi - miru mariyu mi tandri tatalu kalpi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఆయనను వదలి మీరు పూజిస్తున్నవి మీరూ, మీ తాత ముత్తాతలూ స్వయంగా కల్పించుకున్న కొన్ని పేర్లు తప్ప మరేమీ కావు. వాటికి సంబంధించి అల్లాహ్‌ ఏ ప్రమాణాన్నీ అవతరింపజెయ్యలేదు. పరిపాలనాధికారం అల్లాహ్‌కు తప్ప వేరొకరికి లేదు. మీరంతా ఆయన దాస్యాన్ని తప్ప ఇంకొకరి దాస్యం చేయరాదన్నదే ఆయన ఆజ్ఞ. ఇదే సరైన – స్థిరమైన – ధర్మం. కాని చాలామంది ఈ విషయాన్నితెలుసుకోరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

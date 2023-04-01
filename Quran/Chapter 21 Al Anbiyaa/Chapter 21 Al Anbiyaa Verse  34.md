@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Nīku pūrvaṁ mēmu ē mānavuniki kūḍā śāśvata 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నీకు పూర్వం కూడా మేము ఏ మానవుణ్ణీ శాశ్వతంగా జీవించి ఉండేట్లుగా చేయలేదు. ఒకవేళ నువ్వు చనిపోతే, వాళ్లు మాత్రం శాశ్వతంగా బ్రతికి ఉంటారా ఏమిటీ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

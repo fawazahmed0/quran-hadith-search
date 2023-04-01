@@ -2676,6 +2676,12 @@ Ika evaḍaitē! Viśvasin̄ci satkāryālu cēstāḍō ataniki man̄ci pratiph
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అయితే విశ్వసించి, మంచిపనులు చేసినవారికి ప్రతి ఫలంగా మేలు కలుగుతుంది. అలాంటి వారికి మేము సయితం మా పనిలో తేలికపాటి ఆదేశాలే ఇస్తాము” (అని అన్నాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

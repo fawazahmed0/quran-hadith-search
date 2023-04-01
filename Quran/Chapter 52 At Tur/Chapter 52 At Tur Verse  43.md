@@ -2676,6 +2676,12 @@ lēka vāriki allāh gākuṇḍā maroka ārādhya dēvuḍu unnāḍā? Vāru 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, అల్లాహ్ తప్ప వారికి వేరే ఆరాధ్యదైవం ఉన్నాడా? (ముమ్మాటికీ లేడు) వారు కల్పించే భాగస్వామ్యాలకు అల్లాహ్ అతీతుడు, పరిశుద్ధుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

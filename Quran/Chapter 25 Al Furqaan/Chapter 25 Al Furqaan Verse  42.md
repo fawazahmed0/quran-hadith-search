@@ -2676,6 +2676,12 @@ mēmu vāṭi (mā dēvatala) paṭla (dr̥ḍhaviśvāsaṁ mīda) sthiraṅgā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేము మా దేముళ్లపై గట్టిగా నిలబడి ఉండకపోతే, ఇతడు మమ్మల్ని మా దేవుళ్ల నుంచి తప్పించి ఉండేవాడే” అని అంటారు. పూర్తిగా మార్గభ్రష్టతకు గురై ఉన్నదెవరో శిక్షలను చూసినపుడు వారికి స్పష్టంగా తెలిసివస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

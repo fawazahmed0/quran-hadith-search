@@ -2676,6 +2676,12 @@ emi? Niku teliyada (cudatam leda)? Niscayanga, bhumyakasalalo unna sarvamu mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలలో వున్న సమస్త సృష్టితాలు, రెక్కలు చాచి ఎగురుతున్న పక్షులూ అల్లాహ్‌ పవిత్రతను కొనియాడటాన్ని నువ్వు చూడటం లేదా? వాటిలో ప్రతిదీ తన నమాజు విధానాన్ని, స్తోత్రాన్ని గురించి ఎరిగి ఉన్నది. వారు (జనులు) చేసేదంతా అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

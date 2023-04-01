@@ -2676,6 +2676,12 @@ mariyu allāh vaipunaku pilicē vānini anusarin̄cani vāḍu bhūmilō (allāh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌వైపు పిలిచేవాని మాట విననివాడు భూమిలో ఎక్కడా (పారిపోయి అల్లాహ్‌ను) అలుపుకు గురిచేయలేడు. అల్లాహ్‌ తప్ప అతనికి సాయపడేవారు కూడా ఎవరూ ఉండరు. ఇలాంటి వారు స్పష్టమైన మార్గభ్రష్టతకు లోనై ఉన్నారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ niścayaṅgā vāru, nīku - allāh ku pratigā - ē mātraṁ upayōgapaḍal�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(బాగా గుర్తుంచుకో!) అల్లాహ్‌ ముందు వాళ్ళెవరూ ఏ విధంగానూ నీకు ఉపయోగపడరు. ఈ దుర్మార్గులు ఒండొకరికి స్నేహితులుగా ఉంటారు. మరి భయభక్తులు గలవారికి అండగా అల్లాహ్‌ ఉంటాడు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

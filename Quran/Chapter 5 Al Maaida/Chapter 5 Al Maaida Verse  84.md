@@ -2676,6 +2676,12 @@ mariyu mēmu allāh mariyu mā vaddaku vaccina satyānni viśvasin̄cakuṇḍā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేము అల్లాహ్‌ను, మా వద్దకు వచ్చిన సత్యాన్ని విశ్వసించకుండా ఉండటానికి ఇక మా వద్ద మిగిలిన సాకు ఏముంది? మా ప్రభువు మమ్మల్ని సజ్జనుల సహచర్యంలో చేరుస్తాడన్న ఆశ మాకుంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

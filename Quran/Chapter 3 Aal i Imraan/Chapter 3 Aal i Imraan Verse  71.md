@@ -2676,6 +2676,12 @@ o grantha prajalara! Telisi undi kuda miru satyanni asatyanto enduku kappi puccu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”గ్రంథం కల ఓ ప్రజలారా! తెలిసి కూడా మీరు సత్యానికి అసత్యపు రంగు పులిమి దానిని ఎందుకు అనుమానాస్పదం చేస్తారు? (ఉద్దేశపూర్వకంగా) సత్యాన్ని ఎందుకు కప్పిపుచ్చుతున్నారు??”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kanuka (ō pravaktā!) Nīvū mariyu paścāttāpa paḍi (āyana vaipuku marali
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ముహమ్మద్‌!) నీకు ఆజ్ఞాపించబడినట్లుగా నువ్వూ, నీతోపాటు (పశ్చాత్తాపభావంతో) మరలివచ్చిన వారూ గట్టిగా నిలబడి ఉండండి. హద్దు మీరకండి. నిస్సందేహంగా అల్లాహ్‌ మీ కర్మలన్నింటినీ చూస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

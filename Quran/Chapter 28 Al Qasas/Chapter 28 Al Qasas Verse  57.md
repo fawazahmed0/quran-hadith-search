@@ -2676,6 +2676,12 @@ vāru ilā aṇṭāru: "Okavēḷa nītō pāṭu mēmu kūḍā ī mārgadarś
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేమే గనక నీతో చేరి సన్మార్గాన్ని అనుసరిస్తే మా భూభాగం నుంచి మేము తరిమివేయబడటం ఖాయం” అని వారు గగ్గోలు చెందసాగారు. ఏమిటి? మేము వారికి సురక్షితమైన, పవిత్రమైన చోట స్థిరనివాసం కల్పించలేదా? అక్కడ వారికి అన్ని రకాల పండ్లు ఫలాలు ఉపాధి రూపంలో మావద్ద నుంచి సరఫరా చేయబడలేదా? కాని వారిలోని చాలా మంది (ఈ యదార్థాన్ని) తెలుసుకోరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

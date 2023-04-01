@@ -2676,6 +2676,12 @@ mariyu endarō pravaktalu mariyu vāritō kalisi entōmandi dharmavēttalu/ daiv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎంతోమంది ప్రవక్తలకు ఆదరువుగా నిలిచి, ఎందరో అల్లాహ్‌ భక్తులు దైవమార్గంలో పోరాడారు. వారికి కూడా అల్లాహ్‌ మార్గంలో కష్టాలెదురయ్యాయి. కాని వారెన్నడూ ధైర్యం కోల్పో లేదు, అశక్తతకు లోనుకాలేదు, లొంగిపోనూ లేదు. అల్లాహ్‌ ఇష్టపడేది (ఇలాంటి) సహనమూర్తులనే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

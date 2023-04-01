@@ -2676,6 +2676,12 @@ mariyu vāru vyarthamaina māṭalu vinnappuḍu, ilā aṇṭū dūraṅgā tol
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఏదైనా పనికిమాలిన విషయం విన్నప్పుడు, వినీవిననట్లుగా తరలిపోతారు. “మా కర్మలు మావి. మీ కర్మలు మీవి. అయ్యా! మీకో సలాం. అజ్ఞానులతో వాదించదలచుకోలేదు” అని చెప్పేస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāritō anu: "Mīru āyananu, allāh! Ani pilavaṇḍī, lēdā ananta karuṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు : “అల్లాహ్‌ను అల్లాహ్‌ అని పిలిచినా, రహ్మాన్‌ అని పిలిచినా – ఏ పేరుతో పిలిచినా – మంచి పేర్లన్నీ ఆయనవే.” నువ్వు నీ నమాజును మరీ బిగ్గరగానూ, మరీ మెల్లగానూ పఠించకు. వీటికి నడుమ మధ్యేమార్గాన్ని అవలంబించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

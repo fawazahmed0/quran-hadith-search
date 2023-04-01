@@ -2676,6 +2676,12 @@ taruvāta mēmu mūsāku - sajjanulapai mā anugrahānni pūrti cēyaṭāniki, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత మేము ఉత్తమంగా ఆచరించేవారిపై అనుగ్రహం పరిపూర్తికావటానికి, ఆజ్ఞలన్నీ స్పష్టంగా వివరించటానికి, మార్గదర్శకత్వం లభించటానికీ, కరుణించబడటానికి, వారు తమ ప్రభువును కలుసుకునే విషయమై దృఢ విశ్వాసం కలిగి ఉండటానికిగాను మూసాకు గ్రంథాన్ని వొసగాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

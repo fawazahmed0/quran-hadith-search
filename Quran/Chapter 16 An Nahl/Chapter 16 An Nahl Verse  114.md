@@ -2676,6 +2676,12 @@ kāvuna mīru allāh nē ārādhin̄cē vāraitē, āyana mī koraku prasādin̄
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అల్లాహ్‌ను మాత్రమే ఆరాధించేవారు అయితే ఆయన మీకు ప్రసాదించిన ధర్మసమ్మతమైన, పరిశుద్ధమైన ఆహారాన్ని తినండి, అల్లాహ్‌ అనుగ్రహాలకుగాను కృతజ్ఞత చూపండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

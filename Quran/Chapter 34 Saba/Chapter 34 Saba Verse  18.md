@@ -2676,6 +2676,12 @@ mariyu mēmu vāri madhya mariyu mēmu śubhālu prasādin̄cina nagarāla madhy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మేము వారికీ – మేము శుభాలు ప్రోదిచేసి ఉంచిన పట్టణాలకూ మధ్య దారిలో కానవచ్చే మరికొన్ని జనపదాలను కూడా ఉంచాము. వాటి మధ్య ప్రయాణ మజిలీలను కూడా మేము తగురీతిలో నిర్ధారించాము. “రేయింబవళ్ళు సురక్షితంగా వాటిలో సంచరిస్తూ ఉండండి” (అని వారికి సూచించాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

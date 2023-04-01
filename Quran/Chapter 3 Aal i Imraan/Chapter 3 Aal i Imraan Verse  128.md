@@ -2676,6 +2676,12 @@ Dar korhoi (sarnavişti) ʙandagon turo -ej Rasul- kore nest. Hama dar dasti All
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా! ఈ వ్యవహారంలో) నీకెలాంటి నిర్ణయాధికారం లేదు. అల్లాహ్‌ (గనక తలిస్తే) వారి పశ్చాత్తాపాన్ని ఆమోదిస్తాడు లేదా వారిని శిక్షిస్తాడు. ప్రస్తుతానికి వారు అక్రమానికి పాల్పడినవారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

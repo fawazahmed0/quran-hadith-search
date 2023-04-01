@@ -2676,6 +2676,12 @@ Mariyu vāru dānilō (narakanlō) ilā morapeṭṭukuṇṭāru: "Ō mā prabh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అందులో వారిలా ఘోషిస్తారు: “ప్రభూ! మమ్మల్ని బయటికి తియ్యి. మేము ఇప్పటిదాకా చేసిన పనులకు భిన్నంగా మంచి పనులు చేస్తాము.” (సమాధానంగా అల్లాహ్‌ ఇలా అంటాడు): “అర్థం చేసుకునేవానికి అర్థం చేసుకోగలిగేంత వయస్సును మేము మీకు ఇవ్వలేదా? హెచ్చరించేవాడు సయితం మీ వద్దకు వచ్చాడు – కనుక (శిక్షను) చవిచూడండి. (ఇలాంటి) దుర్మార్గులను ఆదుకునే వాడెవడూ లేడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

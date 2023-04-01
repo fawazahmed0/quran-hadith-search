@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulu, tāmu tappin̄cukunnāmani bhāvin̄ca navasaranlēdu.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తాము (శిక్ష నుండి తప్పించుకుని) ముందుకు సాగిపోయామని అవిశ్వాసులు ఎన్నడూ తలపోయరాదు. ఎట్టి పరిస్థితిలోనూ వారు మమ్మల్ని అశక్తుల్ని చేయలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

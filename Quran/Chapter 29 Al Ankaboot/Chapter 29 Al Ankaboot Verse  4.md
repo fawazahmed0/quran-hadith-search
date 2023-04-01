@@ -2676,6 +2676,12 @@ lēka, ceḍupanulu cēstunnavāru, mā (śikṣa) nuṇḍi tappin̄cukōgalara
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దుష్కార్యాలకు పాల్పడేవారు, మా అదుపు నుండి తప్పించుకుని పోగలమని భావిస్తున్నారా ఏమిటీ? ఎటువంటి చెడ్డ తీర్మానాలు చేసుకుంటున్నారు వారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

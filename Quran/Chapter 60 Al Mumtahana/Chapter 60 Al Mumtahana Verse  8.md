@@ -2676,6 +2676,12 @@ evaraitē dharmaviṣayanlō mītō yud'dhaṁ cēyarō mariyu mim'malni mī gr�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ధర్మం విషయంలో మీపై కాలుదువ్వకుండా, మిమ్మల్ని మీ ఇల్లూ వాకిలి నుండి వెళ్ళగొట్టకుండా ఉన్న వారితో మీరు సద్వ్యవహారం చేయటాన్ని, వారికి న్యాయం చేయటాన్ని అల్లాహ్ ఎంత మాత్రం విరోధించడు. పైగా అల్లాహ్ న్యాయం చేసే వారిని ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

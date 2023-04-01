@@ -2676,6 +2676,12 @@ akasalalo mariyu bhumilo unnadanta ayanaku telusu. Mariyu miru dacedi mariyu vel
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలలో ఉండే వాటన్నింటి గురించి ఆయనకు తెలుసు. మీరు దాచేదీ బహిర్గతం చేసేదీ (అంతా) ఆయనకు తెలుసు. అల్లాహ్ గుండెల్లోని గుట్టును సయితం ఎరిగినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

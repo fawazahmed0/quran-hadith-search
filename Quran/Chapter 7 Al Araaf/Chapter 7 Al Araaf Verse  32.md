@@ -2676,6 +2676,12 @@ Ilā anu: "Allāh tana dāsula koraku sr̥ṣṭin̄cina vastrālaṅkaraṇanu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారిని అడుగు : “అల్లాహ్‌ తన దాసుల కొరకు సృజించిన అలంకార వస్తువులను, పరిశుద్ధమైన ఆహారవస్తువులను నిషేధించినదెవరు?” ప్రళయదినాన విశ్వసించిన వారికై ప్రత్యేకించబడిన ఈ వస్తువులన్నీ ఇహలోక జీవితంలో కూడా విశ్వాసుల కోసం ఉన్నాయి అని (ఓ ప్రవక్తా!) వాళ్ళకు చెప్పు. ఈ విధంగా మేము జ్ఞానసంపన్నుల కోసం మా ఆయతులన్నింటినీ విపులీకరిస్తూ ఉంటాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

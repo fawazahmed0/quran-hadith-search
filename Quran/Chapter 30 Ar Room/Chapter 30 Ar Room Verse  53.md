@@ -2676,6 +2676,12 @@ mariyu nīvu andhulanu, vāri mārgabhraṣṭatvaṁ nuṇḍi tappin̄ci, vār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నువ్వు గుడ్డివారిని కూడా వారు పయనిస్తున్న పెడత్రోవ నుంచి సన్మార్గానికి తేలేవు. మా ఆయతులను విశ్వసించే వారికి మాత్రమే నువ్వు (నీ సందేశాన్ని) వినిపించగలవు. వారు మాత్రమే విధేయత చూపుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu mīru dēvadūtalanō, lēdā pravaktalanō prabhuvulugā cēsukōṇḍa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దూతలను, ప్రవక్తలను ప్రభువులుగా చేసుకోమని అతడు మీకు ఎన్నటికీ ఆదేశించ(లే)డు. ఏమిటీ, మీరు ముస్లిములయిన మీదట కూడా అతడు మిమ్మల్ని అవిశ్వాసానికి పాల్పడమని ఆజ్ఞాపిస్తాడా? (ఇది అసంభవం)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

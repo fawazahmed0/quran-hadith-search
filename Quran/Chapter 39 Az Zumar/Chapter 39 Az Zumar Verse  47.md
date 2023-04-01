@@ -2676,6 +2676,12 @@ mariyu okavēḷa vāstavāniki ī durmārgula vadda bhūmilō unna samastamū m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దుర్మార్గానికి ఒడిగట్టే వారి వద్ద భూమి యందలి సమస్తమూ ఉన్నా, దాంతోపాటు మరి అంతటి సంపద ఉన్నా ఘోర శిక్ష నుండి తప్పించుకోవటానికి ప్రళయ దినాన వారు దాన్నంతటినీ కూడా – పరిహారంగా – ఇచ్చివేస్తారు. వారు ఊహించి కూడా ఉండనిది అల్లాహ్‌ తరఫున వారి ముందు ప్రస్ఫుటమవుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

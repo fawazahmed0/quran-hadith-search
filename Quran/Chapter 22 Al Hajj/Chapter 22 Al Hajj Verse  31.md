@@ -2676,6 +2676,12 @@ ekagracittanto (ekadaiva sid'dhantanto) allah vaipunake maralandi. Ayanaku sati 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏకాగ్రతతో దేవుని ఏకత్వాన్ని అనుసరిస్తూ, ఆయనకు సాటి కల్పించకుండా ఉండాలి. వినండి! అల్లాహ్‌కు సాటి కల్పించేవాడు ఆకాశం నుంచి క్రిందపడి పోయిన వానితో సమానం. ఇప్పుడతన్ని పక్షులైనా తన్నుకుపోతాయి లేదా పెనుగాలి అయినా ఎత్తి దూరప్రదేశంలో విసిరేస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

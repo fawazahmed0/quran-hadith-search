@@ -2676,6 +2676,12 @@ vāru atani (yūsuph) daggaraku (marala) vacci annāru: "Ō sardār (ajīj)! Mē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత వారు యూసుఫ్‌ దగ్గరకు వెళ్ళి, “ఓ అజీజ్‌! (ఈజిప్టు అధినేతా!) మాకూ, మా కుటుంబానికీ గడ్డుకాలం వచ్చింది. మేము కొద్ది మొత్తాన్ని మాత్రమే తెచ్చాము. కనుక మాకు పూర్తి ధాన్యాన్నికొలచి ఇవ్వండి. మాకు దానం చెయ్యండి. అల్లాహ్‌ దానధర్మాలు చేసే వారికి తప్పకుండా మంచి ప్రతిఫలం ఇస్తాడు” అని అభ్యర్థించారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

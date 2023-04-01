@@ -2676,6 +2676,12 @@ Mariyu evaraitē, ē tappū cēyani, viśvāsulaina puruṣulaku mariyu strīlak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తప్పు చేయని విశ్వాసులైన పురుషులను, విశ్వాసులైన స్త్రీలను వేధించేవారు (చాలా పెద్ద) అభాండాన్ని, స్పష్టమైన పాపభారాన్ని మోసినవారవుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

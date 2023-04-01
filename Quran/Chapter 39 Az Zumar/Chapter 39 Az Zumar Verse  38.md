@@ -2676,6 +2676,12 @@ Mariyu okavēḷa nīvu vāritō: "Bhūmyākāśālanu sr̥ṣṭin̄cindi evaru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలను, భూమిని సృష్టించిన వాడెవడు? అని నువ్వు గనక వారిని అడిగితే, “అల్లాహ్‌” అని వారు తప్పకుండా చెబుతారు. వారితో చెప్పు : “సరే! చూడండి. మీరు అల్లాహ్‌ను వదలి ఎవరెవరిని పిలుస్తున్నారో వారు, అల్లాహ్‌ నాకేదన్నా కీడు చేయదలిస్తే, ఆ కీడును తొలగించగలరా? పోనీ, అల్లాహ్‌ నన్ను కటాక్షించదలిస్తే, వారు ఆయన కృపను అడ్డుకోగలరా?” ఇలా అను: “నాకు అల్లాహ్‌ చాలు. నమ్మేవారు ఆయన్నే నమ్ముకుంటారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

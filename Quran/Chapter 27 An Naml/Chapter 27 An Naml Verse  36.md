@@ -2676,6 +2676,12 @@ avvāṟē (tūtarkaḷ) sulaimāṉiṭam vantapōtu avar coṉṉār; "nīṅk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(రాణిగారి) దూత సులైమాను వద్దకు చేరుకున్నప్పుడు, “ఏమిటీ, మీరు నాకు ధనరూపేణా సహాయం చేయాలనుకుంటున్నారా? నా ప్రభువు నాకు, మీకిచ్చిన దానికన్నా మేలైనది ప్రసాదించాడు. కాబట్టి మీ కానుకతో మీరే సంతోషపడండి” అని సులైమాను అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

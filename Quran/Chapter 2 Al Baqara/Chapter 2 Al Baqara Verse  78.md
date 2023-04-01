@@ -2676,6 +2676,12 @@ Mariyu vārilō (yūdulalō) kondaru nirakṣarāsyulunnāru, vāriki grantha j�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలో చదువురాని వారు కొందరున్నారు – వారికి గ్రంథ జ్ఞానం లేదు. వారు కేవలం ఆశల్ని నమ్ముకొని ఉన్నారు. లేనిపోని అంచనాలు వేసి, ఊహల్లో విహరిస్తూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāstavāniki - pūrva tarāla vārini nāśanaṁ cēsina taruvāta - m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ పాత తరాన్ని అంతమొందించిన తరువాత మేము మానవులకు వెలుగుగా, మార్గదర్శనంగా, కారుణ్యంగా ఉండే గ్రంథాన్ని మూసాకు ప్రసాదించాము – తద్వారా వారు గుణపాఠం గ్రహిస్తారని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

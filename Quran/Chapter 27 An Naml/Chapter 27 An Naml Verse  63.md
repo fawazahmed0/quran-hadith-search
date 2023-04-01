@@ -2676,6 +2676,12 @@ emi? Ayane kada? Nela mariyu samudrala, andhakaranlo miku margadarsakatvam cesev
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమిపైన, సముద్రంపైన – అలుముకున్న చీకట్లలో మీకు దారి చూపేవాడెవడు? తన కారుణ్యానికి (వర్షానికి) ముందే శుభవార్తల్ని అందజేసే గాలులను పంపేవాడెవడు? ఏమిటీ, అల్లాహ్‌తో పాటు వేరొక ఆరాధ్య దేవుడు కూడా ఉన్నాడా? వారు కల్పించే భాగస్వామ్యాలకు అల్లాహ్‌ అతీతుడు, ఉన్నతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāru (aviśvāsulu): "Nīvu evari vaddanō nērcukunnāvu." Ani anālan�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ విధంగా మేము సూచనలను విభిన్న కోణాల నుంచి విశదీకరిస్తూ ఉంటాము- “నీవు ఎవరి వద్దనో పాఠాలు నేర్చుకున్నావు” అని వారు చెప్పేటందుకు, దాన్ని విజ్ఞులకు బాగా స్పష్టపరచేటందుకుగాను (మేమిలా చేస్తాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

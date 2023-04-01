@@ -2676,6 +2676,12 @@ mariyu ī prāpan̄cika jīvitaṁ kēvalaṁ vinōda kālakṣēpaṁ mariyu kr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ ప్రాపంచిక జీవితం కేవలం ఒక సయ్యాట, వినోదం తప్ప మరేమీ కాదు. అయితే పరలోక నిలయపు జీవితమే అసలు సిసలైన జీవితం. ఈ విషయాన్ని వీళ్ళు తెలుసుకోగలిగితే ఎంత బావుండు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

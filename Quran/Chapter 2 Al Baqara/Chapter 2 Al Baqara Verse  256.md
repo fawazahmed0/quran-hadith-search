@@ -2676,6 +2676,12 @@ Dharmaṁ viṣayanlō balavantaṁ lēdu. Vāstavāniki sanmārgaṁ (ruṣd) d
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ధర్మం విషయంలో బలవంతం ఏమీ లేదు. సన్మార్గం అపమార్గం నుంచి ప్రస్ఫుటమయ్యింది. కనుక ఎవరయితే అల్లాహ్‌ తప్ప వేరితర ఆరాధ్యులను (తాగూత్‌ను) తిరస్కరించి అల్లాహ్‌ను మాత్రమే విశ్వసిస్తారో వారు దృఢమైన కడియాన్ని పట్టుకున్నారు. అది ఎన్నటికీ తెగదు. అల్లాహ్‌ సర్వం వినేవాడు, సర్వం తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

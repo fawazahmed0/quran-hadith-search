@@ -2676,6 +2676,12 @@ allāh tana anugrahantō prasādin̄cina dānitō (prāṇatyāgantō) vāru san
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ తన అనుగ్రహం నుంచి ప్రసాదించిన దాంతో వారు చాలా సంతోషంగా ఉన్నారు. ఇంకా తమతో వచ్చిచేరని, తమ వెనుక (ప్రపంచంలోనే) ఉండిపోయినవారి (విశ్వాసుల) గురించి పరస్పరం శుభవార్త వినిపించుకుంటున్నారు. భయ పడవలసిన, దుఃఖించవలసిన అవసరం లేనందులకు (వారు ఆనందంగా ఉన్నారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

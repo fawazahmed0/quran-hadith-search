@@ -2676,6 +2676,12 @@ mariyu mīru durmārgaṁ cēśāru! Kāvuna, īrōju mīrantā ī śikṣalō k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు దుర్మార్గులని తేలిపోయినప్పుడు, ఈ రోజు మీరంతా నరక యాతనలో భాగస్థులై ఉండటం మీకెలాంటి లబ్దినీ చేకూర్చదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

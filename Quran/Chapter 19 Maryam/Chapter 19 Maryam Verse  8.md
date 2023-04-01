@@ -2676,6 +2676,12 @@ Ataṟkavar ‘‘eṉ iṟaivaṉē! Eppaṭi eṉakkuc cantati ēṟpaṭum? E
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా ప్రభూ! నాకు పిల్లవాడు ఎలా పుడతాడు? నా భార్యయేమో గొడ్రాలు. నేనేమో వృద్ధాప్యపు ఆఖరి దశకు చేరుకున్నవాణ్ణి” అని జకరియ్యా చెప్పుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

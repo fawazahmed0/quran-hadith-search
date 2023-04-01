@@ -2676,6 +2676,12 @@ mariyu vārilō kondaru nī māṭalanu viṇṭū uṇṭāru! Ēmī? Nīvu cev
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలో కొందరు నీ మాటలను శ్రద్ధగా వింటుంటారు. ఏమిటీ, ఏమాత్రం అర్థం చేసుకోలేని చెవిటి వారికి నీవు వినిపించగలవా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

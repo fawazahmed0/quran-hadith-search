@@ -2676,6 +2676,12 @@ ayana dini (niti) dvara mi koraku pantalanu, jaitun mariyu kharjurapu vrksalanu,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దాంతోనే (ఆ నీటితోనే) ఆయన మీ కోసం పొలాలను పండిస్తాడు. జైతూను (ఆలివ్‌), ఖర్జూరం, ద్రాక్ష మరియు అన్ని రకాల పండ్లను పండిస్తాడు. నిశ్చయంగా చింతన చేసేవారి కోసం ఇందులో గొప్ప సూచన ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

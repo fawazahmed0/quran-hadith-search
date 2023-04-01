@@ -2676,6 +2676,12 @@ vāru allāh anugrahāniki, dātr̥tvāniki santōṣapaḍutū uṇṭāru. Mar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ వరాల పట్ల, (ఆయన) అనుగ్రహం పట్ల వారు ఎంతగానో సంతోషిస్తున్నారు. అల్లాహ్‌ విశ్వాసుల పుణ్యఫలాన్ని వృధా కానివ్వడన్న విషయం కూడా వారినెంతగానో సంతృప్త పరచింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

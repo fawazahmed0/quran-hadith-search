@@ -2676,6 +2676,12 @@ Ilā anu: "Ēmī? Allāh taraphu nuṇḍi evariki, dīni kaṇṭē hīnakarama
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు : “అల్లాహ్‌ వద్ద దీనికన్నా చెడు ప్రతిఫలం పొందేవారు ఎవరో నేను మీకు తెలుపనా? అల్లాహ్‌ శాపానికి గురైనవారు, ఆయన ఆగ్రహానికి పాత్రులైనవారు – వారిలో కొందరిని ఆయన కోతులుగా, పందులుగా చేశాడు – ఇంకా మిథ్యా దైవాలను పూజించినవారు. అత్యంత అథమశ్రేణికి చెందినవారు వీరే. రుజుమార్గం నుంచి బహుదూరం వెళ్ళి పోయినవారు కూడా వీరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

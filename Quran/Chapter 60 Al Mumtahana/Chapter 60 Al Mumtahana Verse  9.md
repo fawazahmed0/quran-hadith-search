@@ -2676,6 +2676,12 @@ Kāni, vāstavāniki evaraitē, dharma viṣayanlō mītō yud'dhaṁ cēstārō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ధర్మం విషయంలో మీపై కయ్యానికి కాలుదువ్వి, మిమ్మల్ని మీ ఇల్లూ వాకిళ్ళ నుండి వెళ్ళగొట్టినవారితో, మిమ్మల్ని వెళ్ళగొట్టడంలో ఇతరులకు సహాయపడిన వారితో స్నేహసంబంధాలు ఏర్పరచుకోవటాన్ని మాత్రమే అల్లాహ్ వారిస్తున్నాడు. అలాంటి వారితో కుమ్మక్కు అయినవారే దుర్మార్గులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

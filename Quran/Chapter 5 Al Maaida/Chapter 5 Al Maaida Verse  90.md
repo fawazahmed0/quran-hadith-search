@@ -2676,6 +2676,12 @@ o visvasulara! Niscayanga madhyapanam, judam, balipitham mida bali ivvatam (ansa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వసించిన వారలారా! సారాయి, జూదం, బలిపీఠాలు, జోస్యం కోసం వాడే బాణాలు- ఇవన్నీ పరమ జుగుప్సాకరమైన విషయాలు, షైతాన్‌ చేష్టలు. కాబట్టి వాటికి దూరంగా ఉండండి. మీరలా చేస్తే సాఫల్యం పొందవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu ī satyatiraskārulu ninnu cūsinappuḍallā mītō parahāsamāḍē va
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ అవిశ్వాసులు నిన్ను చూసినప్పుడల్లా నిన్ను ఎగతాళి చేయటం తప్ప వారికి వేరే పనీపాటాలేదు. “మీ దేవుళ్లను గురించి (చెడుగా) ప్రస్తావించేది ఈయన గారేనా!?” అని (వెటకారంగా) వారంటారు. మరి (చూడబోతే) కరుణామయుని ప్రస్తావన రాగానే తిరస్కారానికి పాల్పడుతున్నది వారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

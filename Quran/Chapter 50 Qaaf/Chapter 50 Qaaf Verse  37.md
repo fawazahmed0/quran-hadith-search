@@ -2676,6 +2676,12 @@ niścayaṅgā, hr̥dayamunna vāḍiki, śrad'dhatō vinēvāḍiki mariyu lak�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+హృదయాన్ని కలిగి ఉండి లేదా శ్రద్దగా ఆలకించి సావధానంగా మసలుకునే ప్రతి వ్యక్తికీ ఇందులో హితబోధన గలదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

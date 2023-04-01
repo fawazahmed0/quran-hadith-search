@@ -2676,6 +2676,12 @@ rāju ilā annāḍu: "Atanini nā vaddaku tīsuku raṇḍi!" Rājadūta atani 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అతన్ని నా దగ్గరకు తీసుకురండి” అని రాజు ఆజ్ఞాపించాడు. (రాజ) దూత యూసుఫ్‌ వద్దకు చేరుకున్నప్పుడు, “నువ్వు నీ రాజు వద్దకు తిరిగి వెళ్ళి, తమ చేతులను కోసుకున్న మహిళామణుల వ్యవహారంలోని నిజానిజాలేమిటో తేల్చమని అతన్నిఅడుగు. నిశ్చయంగా వారి జిత్తుల గురించి నా ప్రభువుకు అంతా తెలుసు” అన్నాడు యూసుఫ్‌
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

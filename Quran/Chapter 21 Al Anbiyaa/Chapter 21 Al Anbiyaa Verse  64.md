@@ -2676,6 +2676,12 @@ vāru tamalō tāmu samālōcanalu cēsukuṇṭū ilā anukunnāru: "Niścaya�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దాంతో వారు మనసుల్లోనే (వాస్తవాన్ని ఒప్పుకుని,)” అసలు దుర్మార్గులు మీరే కదా!” అని (పరస్పరం) గొణుక్కున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

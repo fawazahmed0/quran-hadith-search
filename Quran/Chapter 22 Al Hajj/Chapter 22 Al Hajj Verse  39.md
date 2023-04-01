@@ -2676,6 +2676,12 @@ tamapai dāḍi cēsina vāritō yud'dhaṁ cēyaṭāniki anumati ivvabaḍutō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరికి వ్యతిరేకంగా యుద్ధం చేయబడుతుందో, వారికి (కూడా ప్రతిఘటనకు) అనుమతి ఇవ్వబడుతోంది. ఎందుకంటే వారు (ముస్లిములు) పీడితులు. నిశ్చయంగా అల్లాహ్‌ వారిని ఆదుకోగల శక్తి గలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

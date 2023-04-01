@@ -2676,6 +2676,12 @@ vārilō anēkulu satyatiraskārulatō maitri cēsukōvaṭānni, nīvu cūstunn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలో చాలామందిని నీవు చూస్తావు, వారు అవిశ్వాసులతో స్నేహసంబంధాలు పెట్టుకుంటారు. వారు తమ స్వయం కోసం ఏదయితే ముందుకు పంపుకున్నారో అది చాలా చెడ్డది. అందుకే అల్లాహ్‌ వారిపట్ల అప్రసన్నుడయ్యాడు. వారు కలకాలం శిక్షలో పడి ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

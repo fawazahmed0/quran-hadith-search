@@ -2676,6 +2676,12 @@ mariyu dinapu civari reṇḍu bhāgāllōnū mariyu rātripūṭa konta bhāgan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దినము యొక్క రెండు అంచులలోనూ నమాజును స్థాపించు – రాత్రి ఘడియలలో కూడా! నిశ్చయంగా పుణ్యకార్యాలు పాపకార్యాలను దూరం చేస్తాయి. హితబోధను గ్రహించగలిగే వారికి ఇదొక హితోపదేశం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

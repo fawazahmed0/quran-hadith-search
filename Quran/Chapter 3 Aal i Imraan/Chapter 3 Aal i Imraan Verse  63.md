@@ -2676,6 +2676,12 @@ okavēḷa vāru venudirigitē! Niścayaṅgā, allāh ku kallalōlaṁ rēketti
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఈ సవాలు విసిరిన) తరువాత కూడా వారు (సత్యాన్ని) ఒప్పుకోక తిరిగిపోయినట్లయితే, అసలు సంక్షోభాన్ని రేకెత్తించే వారెవరో అల్లాహ్‌కు బాగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

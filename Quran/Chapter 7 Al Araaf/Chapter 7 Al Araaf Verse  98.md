@@ -2676,6 +2676,12 @@ lēdā ī nagarāla vāsulu, paṭṭapagalu tāmu kālakṣēpanlō unnappuḍu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, పొద్దెక్కుతుండగా తాము ఆటపాటల్లో నిమగ్నులై ఉన్నప్పుడు (హటాత్తుగా) మా ఆపద విరుచుకుపడుతుందన్న భయం ఈ బస్తీల వాళ్లకు బొత్తిగా లేదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

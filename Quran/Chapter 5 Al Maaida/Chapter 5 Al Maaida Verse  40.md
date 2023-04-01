@@ -2676,6 +2676,12 @@ emi? Niscayanga, bhumyakasalapai adhipatyam allah denani niku teliyada? Ayana ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాల మరియు భూమి యొక్క రాజ్యాధికారం అల్లాహ్‌దే నన్న సంగతి నీకు తెలియదా? ఆయన తాను తలచిన వారిని శిక్షిస్తాడు, తాను తలచినవారిని క్షమిస్తాడు. అల్లాహ్‌ అన్నింటిపై తిరుగులేని అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

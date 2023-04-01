@@ -2676,6 +2676,12 @@ nikr̥ṣṭulaina strīlu, nikr̥ṣṭulaina puruṣulaku mariyu nikr̥ṣṭu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అపవిత్ర స్త్రీలు అపవిత్ర పురుషులకు తగినవారు. అపవిత్ర పురుషులు అపవిత్ర స్త్రీలకు తగినవారు. (అలాగే) పవిత్ర స్త్రీలు పవిత్ర పురుషులకు తగినవారు. పవిత్ర పురుషులు పవిత్ర స్త్రీలకు తగినవారు. అలాంటి పవిత్రుల గురించి వారు (కపటులు) బొంకే మాటలతో వారికెలాంటి సంబంధం లేదు. వారి కొరకు మన్నింపుతో పాటు గౌరవప్రదమైన ఉపాధి ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

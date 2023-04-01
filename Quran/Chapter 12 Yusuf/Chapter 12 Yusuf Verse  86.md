@@ -2676,6 +2676,12 @@ ataṟkavar, "eṉṉuṭaiya cañcalattaiyum kavalaiyaiyum allāhviṭamē mu�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను నా ఆవేదనను,దుఃఖాన్ని గురించి నా దైవానికే ఫిర్యాదు చేసుకుంటున్నాను. అల్లాహ్‌ తరఫున మీకు తెలియని విషయాలు నాకు తెలుసు” అని దానికి ఆయన బదులిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ evaraitē paralōka jīvitaṁ kaṇṭē, ihalōka jīvitāniki adhika prādhā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు పరలోకానికి బదులు ప్రాపంచిక జీవితాన్నే ప్రేమిస్తున్నారు. అల్లాహ్‌ మార్గం నుంచి (ప్రజలను)ఆపుతూ అందులో వక్రతను సృజించగోర్తున్నారు. మార్గభ్రష్టతలో వారు చాలా దూరం వెళ్ళిపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

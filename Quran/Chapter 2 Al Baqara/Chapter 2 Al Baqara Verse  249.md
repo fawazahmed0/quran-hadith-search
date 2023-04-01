@@ -2676,6 +2676,12 @@ A pidapa'talut (saul) tana sain'yanto bayalu derutu annadu: "Niscayanga, allah o
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తాలూత్‌ సైన్యాన్ని తీసుకుని బయలుదేరినప్పుడు ఇలా ప్రకటించాడు : “చూడండి! అల్లాహ్‌ మిమ్మల్ని ఒక కాలువ ద్వారా పరీక్షించబోతున్నాడు. అందులోని నీళ్ళను త్రాగినవాడు నా వాడు కాడు. త్రాగనివాడు మాత్రమే నా వాడు. చేత్తో గుక్కెడు నీరు తీసుకుని త్రాగితే ఫరవాలేదు.” కాని కొద్దిమంది తప్ప మిగిలిన వారంతా ఆ నీళ్ళను (కడుపునిండా) త్రాగేశారు. తాలూత్‌ విశ్వాసులైన తన సైన్యంతో కాలువ దాటి ముందుకు పోతున్నప్పుడు, “జాలూత్‌తో, అతని సైన్యంతో తలపడే శక్తి ఈ రోజు మాలో లేదు” అని వారన్నారు. కాని అల్లాహ్‌ను కలుసుకోవలసి ఉందనే విషయంపై దృఢవిశ్వాసం గల కొంతమంది ఇలా అన్నారు : “ఒక చిన్న వర్గం, ఒక పెద్ద వర్గాన్ని, దైవాజ్ఞతో జయించటం ఎన్నోసార్లు జరిగింది.” అల్లాహ్‌ సహనం చూపే వారికి అండగా నిలుస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

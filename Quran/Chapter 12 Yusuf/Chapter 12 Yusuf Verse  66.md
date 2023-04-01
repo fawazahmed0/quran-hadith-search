@@ -2676,6 +2676,12 @@ Ataṟku yaḥkūp"uṅkaḷ yāvaraiyumē (ētāvatōr āpattu) cūḻntu (uṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరతన్ని తిరిగి నా దగ్గరకు చేరుస్తామని దేవుని సాక్షిగా మాటిస్తే తప్ప, నేనతన్ని మీ వెంట పంపించను. ఒకవేళ మీరంతా నిర్బంధించబడితే అది వేరే విషయం” అని యాఖూబ్‌ (అలైహిస్సలాం) పలికాడు. అప్పుడు వారంతా ఆ మేరకు అతనికి మాటిచ్చారు. “మనం ఆడిన మాటలను అల్లాహ్‌ గమనిస్తూనే ఉన్నాడ”ని యాఖూబ్‌ అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

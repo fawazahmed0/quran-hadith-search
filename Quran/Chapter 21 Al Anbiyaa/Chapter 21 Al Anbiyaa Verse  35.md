@@ -2676,6 +2676,12 @@ prati prāṇi mr̥tyuvunu cavi cūstundi. Mariyu mēmu mī andarinī, man̄ci m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రతి ప్రాణీ మృత్యువును చవి చూడవలసిందే. మేము మిమ్మల్ని పరీక్షించే నిమిత్తం కష్టసుఖాలకు (కలిమి లేములకు) గురిచేస్తూ ఉంటాము. ఎట్టకేలకు మీరు మా వద్దకే మరలించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

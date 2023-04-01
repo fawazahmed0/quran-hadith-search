@@ -2676,6 +2676,12 @@ mariyu ākāśālalōnu mariyu bhūmilōnu mariyu ā reṇḍiṇṭi madhyanu u
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా ఆయన గొప్ప శుభకరుడు. భూమ్యాకాశాల్లోనూ, వాటి మధ్య నున్న సమస్త వస్తువుల మీదనూ ఆధిపత్యం ఆయనదే. ప్రళయ ఘడియ గురించిన జ్ఞానం కూడా ఆయన వద్దనే ఉంది. మీరంతా (ఆఖరికి) ఆయన వద్దకే మరలించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ appuḍu allāh oka kākini pampāḍu; adi nēlanu travvi atani sōdaruni śav�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత సోదరుని శవాన్ని ఎలా దాచాలో అతనికి చూపించటానికి అల్లాహ్‌ ఒక కాకిని పంపాడు. అది నేలను త్రవ్వసాగింది. అతను (ఆ దృశ్యాన్ని చూసి,) “అయ్యో! నా సోదరుని శవాన్ని దాచే విషయంలో నేను ఈ కాకిపాటి వాణ్ణి కూడా కాలేకపోయానే” అంటూ సిగ్గుతో కుమిలిపోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

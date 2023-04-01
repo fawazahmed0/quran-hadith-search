@@ -2676,6 +2676,12 @@ mariyu vāripai (rāḷḷa) varṣānni kuripin̄cāmu. Kāni adi, heccarin̄ca
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిపై ఒక (ప్రత్యేకమైన రాళ్ల) వాన కురిపించాము. హెచ్చరించబడిన ఆ జనులపై చాలా చెడ్డ వాన కురిసింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

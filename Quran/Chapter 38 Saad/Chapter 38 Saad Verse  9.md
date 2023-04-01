@@ -2676,6 +2676,12 @@ lēka vāri daggara sarvaśaktuḍu, sarvapraduḍu ayina nī prabhuvu yokka kā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పోనీ వాళ్ళ దగ్గర శక్తిమంతుడు, పరమదాత అయిన నీ ప్రభువు కారుణ్య నిధులుగానీ ఉన్నాయా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

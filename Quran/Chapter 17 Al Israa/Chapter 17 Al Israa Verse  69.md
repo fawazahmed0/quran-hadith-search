@@ -2676,6 +2676,12 @@ Lēdā! Marokasāri āyana mim'malni samudranlōki tīsukoni pōyi - mī kr̥tag
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేక అల్లాహ్‌ మిమ్మల్ని మరోసారి సముద్రయానానికి తీసుకుపోయి, మీ కృతఘ్నతా వైఖరికి శాస్తిగా మీపై ప్రచండమైన పెనుగాలులను పంపి మిమ్మల్ని ముంచివేయడని మీరు నిశ్చింతగా ఉన్నారా? ఒకవేళ అదేగనక జరిగితే మీ తరఫున దీని గురించి మమ్మల్ని అడిగే వాడెవడూ మీకు దొరకడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

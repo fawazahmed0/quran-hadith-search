@@ -2676,6 +2676,12 @@ kāni, vāru atanini asatyavāduḍani tiraskarin̄cāru, kāvuna vāripai chāy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మొత్తానికి వారు అతన్ని ధిక్కరించిన కారణంగా (కారు మబ్బుతో కూడిన) ఛాయావృత దినపు విపత్తు వారిని కబళించింది. నిజంగానే అది మహాదినపు శిక్ష
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

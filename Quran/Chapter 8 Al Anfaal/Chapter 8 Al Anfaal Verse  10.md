@@ -2676,6 +2676,12 @@ mariyu mīku śubhavārtanicci, mī hr̥dayālaku śānti kaluga jēyaṭānikē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీకు శుభవార్తను అందించటానికీ, తద్వారా మీ మనసులు కుదుటపడటానికి అల్లాహ్‌ ఈ విధంగా తోడ్పడ్డాడు. తోడ్పాటు అనేది కేవలం అల్లాహ్‌ వద్ద నుంచే లభిస్తుంది సుమా! నిస్సందేహంగా అల్లాహ్‌ శక్తిమంతుడు, వివేక సంపన్నుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

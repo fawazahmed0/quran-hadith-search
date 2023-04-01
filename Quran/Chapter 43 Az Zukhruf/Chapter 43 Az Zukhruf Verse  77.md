@@ -2676,6 +2676,12 @@ mariyu vārilā morapeṭṭukuṇṭāru: "Ō naraka pālakuḍā (mālik)! Nī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ మాలిక్‌! నీ ప్రభువు మమ్మల్ని అంతం చేసేస్తే (అంటే పూర్తిగా ఒకేసారి చంపేస్తే) పోతుంది కదయ్యా” అని వారు అరుస్తారు. దానికతను “మీరు (నిత్యం) ఇలా ఉండాల్సిందే” అంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

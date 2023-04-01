@@ -2676,6 +2676,12 @@ Emiti? Memu modati srstitone alasipoyama? Ala kadu, asalu varu kotta srsti (puna
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, మేము తొలి(సారి) సృష్టికే అలసిపోయామా? అది కాదు, వారసలు సరికొత్త సృష్టి గురించి సందిగ్ధంలో పడిపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

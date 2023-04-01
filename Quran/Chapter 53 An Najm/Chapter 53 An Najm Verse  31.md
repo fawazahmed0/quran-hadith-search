@@ -2676,6 +2676,12 @@ Mariyu ākāśālalō nunnadi mariyu bhūmilō nunnadi, antā allāh kē cendutu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలలో ఉన్నదంతా అల్లాహ్ దే. దుష్కర్మలు చేసేవారికి అల్లాహ్ వారి కర్మలకు తగ్గ ప్రతిఫలం ఇవ్వటానికి, సత్కర్మలు చేసేవారికి వారి కర్మలకు తగ్గట్టుగా పుణ్యఫలం ప్రసాదించటానికి (సన్మార్గ దుర్మార్గాలు ఆయన చేతుల్లోనే ఉన్నాయి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

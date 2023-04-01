@@ -2676,6 +2676,12 @@ ayana akasalanu mariyu bhumini satyanto srstincadu. Varu, ayanaku sati kalpince 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన ఆకాశాలను, భూమిని సత్యబద్ధంగా సృష్టించాడు. వారు కల్పించే భాగస్వామ్యాలకు (షిర్కుకు) ఆయన అతీతుడు, ఉన్నతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

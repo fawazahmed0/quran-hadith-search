@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā mīku pūrvaṁ ennō tarālanu mēmu nāśanaṁ cēśām
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మీకు పూర్వం ఎన్నో జాతులను – వారు అన్యాయానికి ఒడిగట్టినప్పుడు – తుదముట్టించాము. వారి వద్దకు వారి ప్రవక్తలు కూడా సూచనలు తీసుకువచ్చారు. కాని వారు విశ్వసిస్తే కదా?! మేము అపరాధజనులకు ఇలాంటి శిక్షనే విధిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

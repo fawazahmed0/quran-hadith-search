@@ -2676,6 +2676,12 @@ Bahudaivārādhakulaku (muṣrikīn laku) adi enta asahyakaramainā, tana pravak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే తన ప్రవక్తకు మార్గదర్శకత్వాన్నీ, సత్యధర్మాన్నీ ఇచ్చి పంపాడు – ముష్రిక్కులకు ఎంత సహించరానిదయినా సరే, ఇతర ధర్మాలపై దానికి ఆధిక్యతను వొసగటానికి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

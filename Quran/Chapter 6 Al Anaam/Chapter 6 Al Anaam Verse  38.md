@@ -2676,6 +2676,12 @@ mariyu bhūmipai san̄carin̄cē ē jantuvu gānī, lēka tana reṇḍu rekkala
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమిలో సంచరించే ఎన్ని రకాల జంతువులైనా, తమ రెండు రెక్కల సహాయంతో ఎగిరే పక్షులైనా – అన్నీ మీలాంటి సముదాయాలే. మేము గ్రంథంలో నమోదు చేయకుండా దేన్నీ వదలిపెట్టలేదు. ఆపైన అందరూ తమ ప్రభువు వైపుకు సమీకరించబడేవారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

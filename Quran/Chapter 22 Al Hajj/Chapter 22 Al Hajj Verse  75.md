@@ -2676,6 +2676,12 @@ allāh dēvadūtala nuṇḍi mānavula nuṇḍi tana sandēśaharulanu ennuku�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే దైవదూతలలో నుంచి, మానవులలో నుంచి తన సందేశహరులను ఎంపిక చేసుకుంటాడు. నిశ్చయంగా అల్లాహ్‌ అంతా వింటాడు, అన్నీ చూస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

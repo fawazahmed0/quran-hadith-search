@@ -2676,6 +2676,12 @@ nūh, ād, samūd mariyu vāri taruvāta vaccina jātula vāriki vaccinaṭuva�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఉదాహరణకు నూహ్‌, ఆద్‌, సమూద్‌ జాతుల వారికి, ఆ తరువాత వచ్చిన వారికి (పట్టిన దుర్గతే మీకూ పట్టవచ్చు). తన దాసులకు అన్యాయం చేయాలన్నది అల్లాహ్‌ అభిమతం ఎంత మాత్రం కాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

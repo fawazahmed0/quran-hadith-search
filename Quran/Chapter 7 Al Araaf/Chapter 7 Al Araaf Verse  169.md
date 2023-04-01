@@ -2676,6 +2676,12 @@ A pidapa vari taruvata dustulaina varu vari sthananlo granthaniki varasulai, tuc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారి తరువాత వారికి వారసులైనవారు వారి నుంచి గ్రంథాన్ని పొందారు. వారు తుచ్ఛమైన ఐహిక సంపదను తీసుకుంటున్నారు. పైగా, “మేము తప్పకుండా క్షమించబడతాము” అని అంటున్నారు. అలాంటి సొమ్మే మళ్లీ లభిస్తే మళ్లీ దాన్ని కూడా తీసేసుకుంటారు. అల్లాహ్‌ పేరుతో సత్యం తప్ప మరోమాట చెప్పకూడదని గ్రంథంలో ఉన్నటువంటి ప్రమాణం వారి నుండి తీసుకోబడలేదా? (మరి చూడబోతే) అందులో (గ్రంథంలో) ఉన్న దానిని వారు స్వయంగా చదివారు. భయభక్తులు కలిగి ఉండేవారి కోసం పరలోక నిలయం ఎంతో మేలైనది. మరి ఈ విషయాన్ని మీరు అర్థం చేసుకోరేమిటీ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

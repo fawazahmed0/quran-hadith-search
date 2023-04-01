@@ -2676,6 +2676,12 @@ mariyu ceḍupanulu cēsi vaccina vāru narakāgnilō bōrlā trōyabaḍatāru.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరయితే చెడును తీసుకువస్తారో వారు బోర్లాగా అగ్నిలో పడవేయబడతారు. మీరు చేసుకున్న కర్మలకు తగిన ప్రతిఫలమే మీకు ఇవ్వబడుతుంది (అని వారితో అనబడుతుంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

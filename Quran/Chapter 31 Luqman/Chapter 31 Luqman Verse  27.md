@@ -2676,6 +2676,12 @@ okavēḷa vāstavāniki, bhūmilō unna vr̥kṣālannī kalamulai ī samudra�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమండలంలో ఉన్న వృక్షాలన్నీ కలములుగా, సముద్రాలన్నీ సిరాగా మారినా, ఆపైన మరో సప్త సముద్రాలు (సిరాగా) చేరినా అల్లాహ్‌ మాటలు (రాయటానికి) పూర్తికావు. నిస్సందేహంగా అల్లాహ్‌ సర్వాధికుడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

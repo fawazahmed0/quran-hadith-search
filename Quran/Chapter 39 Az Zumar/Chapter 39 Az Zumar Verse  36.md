@@ -2676,6 +2676,12 @@ emiti? Allah tana dasuniki calada? Ayina varu ayana (allah) nu vidici, itarulanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, తన దాసునికి అల్లాహ్‌ సరిపోడా? వీళ్లు నిన్ను అల్లాహ్‌ తప్ప ఇతరుల గురించి భయపెడుతున్నారు. అల్లాహ్‌ అపమార్గం పట్టించిన వానికి మార్గం చూపించగల వాడెవడూ లేడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

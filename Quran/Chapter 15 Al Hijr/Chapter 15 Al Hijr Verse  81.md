@@ -2676,6 +2676,12 @@ mariyu vāriki kūḍā mēmu adbhuta sūcana (āyāt) lanu icci uṇṭimi. Kā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(మరి చూడబోతే) మేము వారికి మా సూచనలను కూడా వొసగాము. అయినప్పటికీ వారు వాటి పట్ల విముఖతే చూపుతూ వచ్చారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

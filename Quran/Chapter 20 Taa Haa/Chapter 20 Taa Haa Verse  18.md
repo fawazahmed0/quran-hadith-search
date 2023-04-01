@@ -2676,6 +2676,12 @@ ataṟkavar ‘‘itu eṉ kaittaṭi. Itaṉmītu nāṉ cāyntu koḷvēṉ. I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇది నా చేతి కర్ర. దీన్ని ఊతగా చేసుకుంటాను. దీంతో నా మేకల కోసం ఆకులు రాలుస్తాను. దీనివల్ల నాకింకా ఎన్నో ప్రయోజనాలున్నాయి” అని (మూసా) బదులిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

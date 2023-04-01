@@ -2676,6 +2676,12 @@ idē vidhaṅgā, vāriki pūrvaṁ gaḍicina vāri vaddaku ē pravakta vaccin�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలాగే వీరికి పూర్వం గడచిన వారు కూడా తమ వద్దకు వచ్చిన ప్రవక్తను గురించి, “ఇతడు మాంత్రికుడైనా అయిఉంటాడు లేదా పిచ్చివాడైనా అయిఉంటాడు” అనేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

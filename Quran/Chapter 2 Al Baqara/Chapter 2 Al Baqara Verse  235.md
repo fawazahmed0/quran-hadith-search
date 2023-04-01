@@ -2676,6 +2676,12 @@ Mariyu mīru (vitantuvu lēka mūḍu viḍākulu pondina strīlatō) vivāhaṁ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ స్త్రీలను (వితంతువులను) నికాహ్‌ చేసుకోవాలన్న మీ సంకల్పాన్ని సూచనా ప్రాయంగా వారికి తెలియజేసినా లేక మీ ఉద్దేశాన్ని మీ గుండెల్లోనే దాచుకున్నా అందులో తప్పేమీలేదు. మీరు తప్పకుండా వారి గురించి ప్రస్తావిస్తారన్న సంగతి అల్లాహ్‌కు తెలుసు. అయితే మీరు వారికి లోపాయికారిగా వాగ్దానాలు చేయకండి. ధర్మయుక్తంగా ఏదన్నా చెబితే అది వేరే విషయం! కాని ఇద్దత్‌ (గడువు) కాలం ముగియనిదే నికాహ్‌ ఒప్పందాన్ని నిశ్చయం చేయకండి. మీ ఆంతర్యాల్లో దాగి వున్న విషయాలను సయితం అల్లాహ్‌ తెలుసుకుంటాడని మరువకండి. కనుక ఆయన పట్ల అప్రమత్తంగా ఉండండి. అల్లాహ్‌ క్షమించేవాడు, సహనశీలి అని కూడా తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

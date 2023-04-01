@@ -2676,6 +2676,12 @@ mariyu vāstavāniki allāh mīku cēsina tana vāgdānānni satyaparacāḍu. E
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మీకు చేసిన వాగ్దానాన్ని నిజం చేసి చూపాడు. అప్పుడు మీరు ఆయన అనుజ్ఞతో వారిని వధించసాగారు. అయితే ఆఖరికి మీరు పిరికితనం చూపారు. కార్యనిర్వహణలో విభేదించుకున్నారు. మీరు ఇష్టపడే వస్తువును ఆయన మీకు చూపేసరికి, మీరు అవిధేయతకు ఒడిగట్టారు. మీలో కొందరు ప్రపంచం కోసం ప్రాకులాడగా, మరికొందరు పరలోకాన్ని కోరుకున్నారు. అందువల్ల అల్లాహ్‌ మిమ్మల్ని పరీక్షించే నిమిత్తం, మిమ్మల్ని వారి నుంచి వెనక్కి మళ్లించాడు. అయినా ఆయన మిమ్మల్ని క్షమించాడు. యదార్థానికి అల్లాహ్‌ విశ్వాసుల పట్ల గొప్ప అనుగ్రహం గలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ aliph - lām - rā. (Idi) oka divyagranthaṁ. Dīni sūktulu (āyāt) nirduṣ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అలిఫ్‌-లామ్‌-రా. ఇది ఒక గ్రంథం. దీని వాక్యాలు నిర్దుష్టమైనవిగా చేయబడ్డాయి. అవి వివేచనాపరుడు, సర్వం ఎరిగిన వాని తరఫు నుండి స్పష్టంగా విశదీకరించబడ్డాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

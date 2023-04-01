@@ -2676,6 +2676,12 @@ mariyu mēmu tīvraṅgā vīcē gālini sulaimān ku (vaśaparicāmu). Adi atan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మేము ప్రచండ వేగంతో వీచే గాలిని సులైమానుకు లోబరచాము. అది అతని ఆజ్ఞలననుసరించి, మేము శుభాలను ప్రోదిచేసిన భూభాగం వైపుకు నడిచేది. అన్ని విషయాలూ మా జ్ఞాన పరిధిలో ఉన్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

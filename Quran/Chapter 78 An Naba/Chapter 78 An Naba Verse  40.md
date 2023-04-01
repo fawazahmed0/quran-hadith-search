@@ -2676,6 +2676,12 @@ niścayaṅgā, mēmu atani samīpanlō unna śikṣanu gurin̄ci mim'malni hecc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దగ్గరలోనే ఉన్న శిక్షను గురించి మేము నీకు హెచ్చరించాము. ఆ రోజు మానవుడు తన చేతులతో ఆర్జించి – ముందుగా పంపుకున్న – దానిని చూసుకుంటాడు. అప్పుడు అవిశ్వాసి, “అయ్యో! నేను మట్టినైపోయినా బావుండేదే!” అనంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

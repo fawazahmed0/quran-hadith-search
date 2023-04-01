@@ -2676,6 +2676,12 @@ Mariyu satyatiraskārula prāṇālanu daivadūtalu tīsē dr̥śyānni nīvu c�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) దూతలు సత్యతిరస్కారుల ప్రాణాలు తీస్తూ ఉన్నప్పటి దృశ్యాన్ని నువ్వు చూడగలిగితే ఎంత బావుండు! వారు వాళ్ల ముఖాలపై, పిరుదులపై కొడుతూ ఉంటారు. ఇంకా ఇలా అంటూ ఉంటారు : “ఇదిగో, దహించివేసే శిక్షను చవి చూడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

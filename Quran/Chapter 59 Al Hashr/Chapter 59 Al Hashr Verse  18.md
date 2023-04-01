@@ -2676,6 +2676,12 @@ o visvasulara! Allah patla bhayabhaktulu kaligi undandi. Mariyu prati vyakti, ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన ఓ ప్రజలారా! అల్లాహ్ కు భయపడుతూ ఉండండి. ప్రతి వ్యక్తీ రేపటి (తీర్పుదినం) కొరకు తానేం పంపుకున్నాడో చూసుకోవాలి. ఎల్ల వేళలా అల్లాహ్ కు భయపడుతూ ఉండండి. నిశ్చయంగా మీరు ఏమేం చేస్తున్నారో అల్లాహ్ కనిపెట్టుకునే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Andhuni mīda nindalēdu mariyu kuṇṭivāni mīda nindalēdu mariyu rōgi mī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+గుడ్డివానిపైగానీ, కుంటివానిపైగానీ, వ్యాధిగ్రస్తునిపైగానీ, స్వయంగా మీపైనగానీ – మీ ఇండ్లలో నుంచి అయినా లేదా మీ తండ్రుల ఇళ్ళ నుంచి అయినా లేదా మీ తల్లుల ఇళ్ల నుంచి అయినా, లేదా మీ అన్నదమ్ముల ఇళ్లనుంచి అయినా లేదా మీ అక్కాచెల్లెళ్ల ఇళ్ల నుంచి అయినా, లేదా మీ పిన తండ్రుల ఇళ్లనుంచి అయినా, లేదా మీ మేనత్తల ఇళ్లనుంచి అయినా లేదా మీ మేనమామల ఇళ్లనుంచి అయినా లేదా మీ పినతల్లుల ఇళ్లనుంచి అయినా లేదా తాళపు చెవులు మీ అధీనంలో వున్న ఇళ్లనుంచి అయినా లేదా మీ స్నేహితుల ఇళ్లనుంచి అయినా – ఏమైనా (ఆహార వస్తువులు) తీసుకుని తింటే అది అభ్యంతరకరం ఏమీ కాదు. మీరంతా కలిసి భుజించినా, లేక వేర్వేరుగా భుజించినా తప్పులేదు. అయితే మీరు ఇండ్లలో ప్రవేశించేటప్పుడు మాత్రం మీ స్వయానికి సలాం చేసుకోండి. ఇది అల్లాహ్‌ తరఫు నుంచి అవతరించిన, మేలు కొరకు చేయబడే ప్రార్థన, శుభకరమైనది, పవిత్రమైనది. ఈ విధంగా అల్లాహ్‌ మీరు గ్రహించగలందులకు తన ఆజ్ఞలను మీకు తేటతెల్లం చేస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

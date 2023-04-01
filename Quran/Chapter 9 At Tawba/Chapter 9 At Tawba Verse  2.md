@@ -2676,6 +2676,12 @@ kāvuna (ō muṣrikulārā!) Mīru nālugu nelala varaku ī dēśanlō svēccha
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ముష్రిక్కులారా!) ఇక మీరు నాలుగు మాసాల వరకు రాజ్యంలో సంచరించండి. మీరు అల్లాహ్‌ను అశక్తుణ్ణి చెయ్యలేరన్న సంగతిని బాగా తెలుసుకోండి. అల్లాహ్‌ అవిశ్వాసులను పరాభవం పాల్జేస్తాడు(అన్న సంగతిని కూడా మరువకండి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

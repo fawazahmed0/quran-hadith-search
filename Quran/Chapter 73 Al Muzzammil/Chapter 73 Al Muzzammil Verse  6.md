@@ -2676,6 +2676,12 @@ niścayaṅgā, rātrivēḷa lēvaṭaṁ (manas'sunu) adupulō un̄cukōvaṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా రాత్రివేళ లేవటం మనో స్థిమితానికి ఎంతో ఉపయుక్తమైనది. మాట సూటిగా వెలువడటానికి అది ఎంతో అనువైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

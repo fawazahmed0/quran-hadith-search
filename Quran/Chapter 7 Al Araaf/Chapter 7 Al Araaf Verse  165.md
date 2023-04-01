@@ -2676,6 +2676,12 @@ taruvāta vāriki cēyabaḍina hitabōdhanu vāru maracinappuḍu! Duṣkāryā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారికి చేస్తూ వచ్చిన హితబోధను వారు విస్మరించినప్పుడు, ఆ చెడు పోకడ నుంచి వారిస్తూ వచ్చిన వారిని మేము రక్షించి, దుర్మార్గానికి పాల్పడిన వారందరినీ వారి అవిధేయతల కారణంగా ఒక కఠినమైన శిక్షతో పట్టుకున్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

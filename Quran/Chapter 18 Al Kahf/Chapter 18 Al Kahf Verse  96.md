@@ -2676,6 +2676,12 @@ mīru nāku inupa muddalu tecci ivvaṇḍi." Atanu ā reṇḍu koṇḍala mad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“….నాకు ఇనుపరేకులను తెచ్చి ఇవ్వండి.” ఆ విధంగా అతను ఆ రెండు పర్వతాల మధ్య గోడను – సమానంగా – లేపిన తరువాత, “అగ్నిని రాజేయండి” అని ఆజ్ఞాపించాడు. ఆ ఇనుప రేకులు బాగా కాలి అగ్నిగా మారిన తరువాత “కరిగిన రాగిని తెండి, దానిపై పోస్తాను” అని అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

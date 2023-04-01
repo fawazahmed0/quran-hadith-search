@@ -2676,6 +2676,12 @@ Mariyu (yūsuph) tana sēvakulatō: "Vāru (dhān'yānni konaṭāniki) teccina 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“వారి మూలధనాన్ని (డబ్బును) వారి మూటలలోనే ఉంచండి. వారు తమ ఇంటి వారలవద్దకు పోయినప్పుడు, తమ మూల ధనాన్నిగుర్తించి బహుశా తిరిగివస్తారు” అని యూసుఫ్‌ తన సేవకులకు ఆజ్ఞాపిస్తూ చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ika mad yan vāri vaddaku vāri sahōdaruḍaina ṣu'aib nu pampāmu. Atanu ann
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మేము మద్‌యన్‌ వారి వైపుకు వారి సోదరుడగు షుఐబ్‌ను పంపాము. అతనిలా ప్రబోధించాడు : “ఓ నా జాతిప్రజలారా! అల్లాహ్‌ను ఆరాధించండి. ఆయన తప్ప మీ ఆరాధ్య దేవుడెవడూ లేడు. కొలతలు తూనికలలో తగ్గించి ఇవ్వకండి. మీరు ఆర్థికంగా మంచి స్థితిలో ఉన్నట్టు చూస్తున్నాను. మీ విషయంలో చుట్టుముట్టే దినపు శిక్ష గురించి నేను భయపడుతున్నాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu pāpakāryālu cēsina vāriki, vāri pāpālaku taginaṭṭi pratiphala
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దుష్కార్యాలు చేసిన వారికి వారి దుష్కార్యాలకు సమానంగా శిక్ష విధించబడుతుంది. పరాభవం వారిని క్రమ్ముకుంటుంది. అల్లాహ్‌ నుండి వారిని కాపాడేవాడెవడూ ఉండడు. ఒక విధంగా వారి ముఖాలు రాత్రి యొక్క చీకటి తెరలు చుట్టబడినట్లే ఉంటాయి. వారు నరకవాసులు. అందులో వారు కలకాలం పడి ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

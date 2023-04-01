@@ -2676,6 +2676,12 @@ ayana akasalanu mariyu bhumini satyanto srstincadu. Ayana ratrini pagati mida cu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన ఆకాశాలను, భూమిని సత్యబద్ధంగా నిర్మించాడు. ఆయన రాత్రిని పగటిపై, పగటిని రాత్రిపై చుట్టివేస్తున్నాడు. సూర్యచంద్రులను కార్యబద్ధుల్ని చేశాడు. (వాటిలో) ప్రతిదీ నిర్ణీత సమయం వరకు సంచరిస్తూ ఉంది. ఆయనే అపార శక్తిమంతుడు, పాపాలను క్షమించేవాడు అని తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

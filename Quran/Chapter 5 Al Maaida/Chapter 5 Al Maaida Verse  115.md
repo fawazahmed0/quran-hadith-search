@@ -2676,6 +2676,12 @@ ataṟku allāh, "niccayamāka nāṉ atai uṅkaḷukku iṟakkivaikkiṟēṉ.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి అల్లాహ్‌ ఇలా జవాబిచ్చాడు: “సరే, ఆ ఆహారాన్ని నేను మీపై అవతరింపజేస్తాను. మరి ఆ తరువాత కూడా మీలో ఎవరయినా అవిశ్వాసానికి పాల్పడితే లోకంలో ఎవరికీ విధించనటువంటి శిక్షను వారికి విధిస్తాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

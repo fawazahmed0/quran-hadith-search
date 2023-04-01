@@ -2676,6 +2676,12 @@ vāstavāniki, ākāśālanu mariyu bhūmini spaṣṭin̄caṭaṁ, mānavulanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా భూమ్యాకాశాల సృష్టి మానవ సృష్టికన్నా గొప్ప విషయం. కాని చాలామంది దీన్ని తెలుసుకోరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

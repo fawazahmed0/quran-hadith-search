@@ -2676,6 +2676,12 @@ O manavulara! Mi prabhuvu nundi miku spastamaina nidarsanam vaccindi. Mariyu mem
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలారా! మీ వద్దకు మీ ప్రభువు తరఫు నుంచి స్పష్టమైన నిదర్శనం (బుర్‌హాన్‌) వచ్చేసింది. ఇంకా, మేము మీ వద్దకు స్పష్టమైన జ్యోతిని పంపాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu allāh yē gālulanu pamputāḍu. Taruvāta avi mēghālanu ettutāyi. �
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే గాలులను పంపిస్తున్నాడు. తరువాత అవి మేఘాలను లేపుతాయి. మరి ఆ మేఘాలను మేము ఒక మృత ప్రదేశం (భూమి) వైపుకు తీసుకుపోతాము. తద్వారా ఆ భూమిని- మృతిచెందిన మీదట – బ్రతికిస్తున్నాము. మళ్లీ తిరిగి లేపటం అనేది (కూడా) ఇలాగే జరుగుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

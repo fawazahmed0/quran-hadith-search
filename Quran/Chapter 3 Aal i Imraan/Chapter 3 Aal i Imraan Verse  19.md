@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh ku sam'matamaina dharmaṁ kēvalaṁ allāh ku vidhēyul
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిస్సందేహంగా ఇస్లాం మాత్రమే అల్లాహ్‌ వద్ద సమ్మతమైన ధర్మం. గ్రంథంకల ప్రజలు తమ వద్దకు జ్ఞానం వచ్చేసిన పిదపనే తమలోని పరస్పర అసూయాద్వేషాల కారణంగా విభేదించుకున్నారు. అల్లాహ్‌ వచనాల పట్ల ఎవరు తిరస్కార వైఖరిని అవలంబించినాసరే, అల్లాహ్‌ చాలా తొందరగానే వారి లెక్క తేలుస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

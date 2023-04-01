@@ -2676,6 +2676,12 @@ Agni (ākāśaṁ nuṇḍi digi vacci) bali (khurbānī)ni mā samakṣanlō ti
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”అగ్ని తినివేసేటటువంటి ఖుర్బానీని మా వద్దకు తేనంత వరకూ ఏ ప్రవక్తనూ విశ్వసించరాదని అల్లాహ్‌ మాకు ఆజ్ఞాపించాడు” అని చెప్పిన జనం వారు. ఓ ప్రవక్తా! వారితో ఇలా అను: ”నాకు పూర్వం మీ వద్దకు వచ్చిన ప్రవక్తలు ఇతర అనేక మహిమలతోపాటు, మీరు కోరుతున్న ఈ మహిమను కూడా తీసుకువచ్చారు. మరి మీరు సత్యవంతులే అయితే వారిని ఎందుకు చంపారు?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

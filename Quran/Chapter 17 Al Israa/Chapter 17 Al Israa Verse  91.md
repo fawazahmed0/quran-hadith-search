@@ -2676,6 +2676,12 @@ lēdā! Nī koraku kharjūrapu mariyu drākṣatōṭa ērpaḍi dāni madhya nu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“లేదా నీ కోసమైనా ఖర్జూరాలు, ద్రాక్ష పండ్లు గల తోట ఒకటి ఉండాలి. దాని మధ్యన నువ్వు అనేక కాలువలను ప్రవహింప జేయాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

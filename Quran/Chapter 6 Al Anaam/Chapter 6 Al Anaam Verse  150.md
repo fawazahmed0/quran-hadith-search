@@ -2676,6 +2676,12 @@ niccayamāka allāh tāṉ itaṉai harāmākkiṉāṉ eṉa cāṭci collakkū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ ఈ వస్తువుల్ని నిషేధించాడు అని సాక్ష్యమిచ్చే మీ సాక్షులను తీసుకురండి” అని వారిని అడుగు. మరి వారు గనక అలా సాక్ష్యమిస్తే నీవు మాత్రం వారితోపాటు సాక్ష్యం ఇవ్వకు. వారి మిథ్యా భావాలను అనుసరించకు. మా ఆయతులను ధిక్కరించేవారి, పరలోకాన్ని విశ్వసించనివారి, ఇంకా ఇతరులను తమ ప్రభువుకు సమానులుగా నిలబెట్టేవారి కోరికలను అనుసరించకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

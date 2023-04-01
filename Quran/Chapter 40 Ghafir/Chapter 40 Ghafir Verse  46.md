@@ -2676,6 +2676,12 @@ a narakagni! Varu dani yedutaku udayamu mariyu sayantramu rappimpabadutu untaru.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఇదిగో) అగ్ని – దాని ఎదుట వారు ప్రతి ఉదయం, సాయంత్రం రప్పించబడుతుంటారు. మరి ప్రళయం సంభవించిననాడు, “ఫిరౌను జనులను దుర్భరమైన శిక్షలో పడవేయండి” (అని సెలవీయబడుతుంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

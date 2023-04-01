@@ -2676,6 +2676,12 @@ vāru ekkaḍunnā, avamānānikē guri cēyabaḍatāru, allāh śaraṇulōnō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సర్వత్రా వారిపై పరాభవపు దెబ్బ పడుతుంది – వారికి అల్లాహ్‌ శరణు లేదా ప్రజల నుండి అభయహస్తం లభిస్తే తప్ప! వారు దైవాగ్రహానికి పాత్రులైపోయారు. వారికి దీనావస్థ అంట గట్టబడింది. వారి ఈ స్థితికి కారణమేమిటంటే వారు అల్లాహ్‌ ఆయతులను తిరస్కరించేవారు, అన్యాయంగా ప్రవక్తలను చంపి వేసేవారు. వారి అవిధేయతకు, అతిక్రమణలకు శాస్తి ఇది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

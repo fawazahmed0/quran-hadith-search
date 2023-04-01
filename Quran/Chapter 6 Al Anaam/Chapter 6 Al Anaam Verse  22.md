@@ -2676,6 +2676,12 @@ mariyu ārōju mēmu vārandarinī samāvēśaparustāmu. Ā taruvāta (allāh k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారందరినీ సమీకరించే రోజున, “మీరు ఆరాధ్య దైవాలుగా చేసుకున్న మీ భాగస్వాములు ఏరి?” అని ముష్రిక్కులను మేము అడిగే సందర్భం కూడా జ్ఞాపకం చేసుకోదగినదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ pidapa mā taraphu nuṇḍi vāripai āpada vaccinapuḍu kūḍā vārenduku v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మా తరఫున వారిపైకి శిక్ష వచ్చినప్పటికీ వారు అణకువను ఎందుకు ప్రదర్శించలేదు? పైగా వారి హృదయాలు కఠినమై పోయాయి. షైతాన్‌ వారి దృష్టిలో వారు చేసే పనులన్నీ మంచివే అని భ్రమపడేలా చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

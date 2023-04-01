@@ -2676,6 +2676,12 @@ mariyu prati oka (saṅghaṁ) oka diśa vaipunaku mukhaṁ tripputundi. Kāvuna
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రతి ఒక్కడూ ఏదో ఒక దిక్కుకు తిరుగుతున్నాడు. కాబట్టి మీరు సత్కార్యాలలో మించిపోయేందుకు ప్రయత్నించండి. మీరు ఎక్కడ ఉన్నాసరే అల్లాహ్‌ మిమ్మల్ని సమీకరిస్తాడు. నిశ్చయంగా అల్లాహ్‌ ప్రతి వస్తువుపై అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

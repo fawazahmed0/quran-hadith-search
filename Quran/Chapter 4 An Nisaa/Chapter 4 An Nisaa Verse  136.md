@@ -2676,6 +2676,12 @@ o visvasulara! Allah nu, ayana sandesaharunni, ayana tana sandesaharunipai (muha
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! అల్లాహ్‌ను, ఆయన ప్రవక్త (స)ను, ఆయన తన ప్రవక్త (స)పై అవతరింపజేసిన గ్రంథాన్నీ, అంతకు మునుపు ఆయన అవతరింపజేసిన గ్రంథాలన్నిటినీ విశ్వసించండి. ఎవడు అల్లాహ్‌ను, ఆయన దూతలను, ఆయన గ్రంథాలను, ఆయన ప్రవక్తలను, అంతిమ దినాన్ని తిరస్కరించాడో వాడు మార్గం తప్పి చాలాదూరం వెళ్ళిపోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vīriki pūrvaṁ mēmu enni tarāla vārini nāśanaṁ cēyalēdu! Ēm�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వీరికి మునుపు ఎన్నో సమూహాలను తుదముట్టించాము. వారిలో ఏ ఒక్కరి జాడనైనా నువ్వు పసిగట్ట గలుగుతున్నావా? లేక కనీసం వారి నిట్టూర్పునైనా వింటున్నావా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

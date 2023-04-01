@@ -2676,6 +2676,12 @@ mariyu allāh prati prāṇini nīṭi nuṇḍi sr̥ṣṭin̄cāḍu. Vāṭil
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సంచరించే సమస్త ప్రాణులను అల్లాహ్‌ నీటితో సృజించాడు. వాటిలో కొన్ని తమ పొట్ట ఆధారంగా ప్రాకుతుండగా, కొన్ని రెండు కాళ్ళపై నడుస్తున్నాయి. మరి కొన్ని నాలుగు కాళ్లపై నడుస్తున్నాయి. అల్లాహ్‌ తాను కోరిన దాన్ని సృజిస్తాడు. నిశ్చయంగా అల్లాహ్‌ ప్రతిదీ చేయగల సమర్థుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ allāh ku sāṭi (bhāgasvāmulu) kalpin̄cēvāru aṇṭāru: "Okavēḷa all
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ తలచుకొని ఉంటే మేముగానీ, మా తాత ముత్తాతలుగానీ షిర్క్‌కు పాల్పడేవారం కాము; ఏ వస్తువునూ నిషిద్ధంగా ఖరారు చేసేవారం కూడా కాము” అని ముష్రిక్కులు అంటారు. వీరికి పూర్వం గతించిన వారు కూడా ఇలాగే ధిక్కార వైఖరిని అవలంబించారు. కడకు వారు మా శిక్షను చవి చూశారు. (ఓ ప్రవక్తా!) వారిని అడుగు: “మీ దగ్గర ఏదైనా ప్రమాణం ఉంటే, దాన్ని మా ముందు సమర్పించండి. మీరు కేవలం ఊహలను అనుసరిస్తారు. అంచనాలతో మాట్లాడతారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Memu cesina manci vagdananni tappakunda pondevadu, memu osangina i prapanci
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము తనకు చేసిన మంచి వాగ్దానాన్ని పొందిన వ్యక్తీను, మేము ప్రాపంచిక జీవితపు కొన్ని లాభాలను ప్రసాదించిన తరువాత ప్రళయదినాన (శిక్షకై) బంధించి తేబడిన వ్యక్తీను – ఇద్దరూ ఒక్కటవుతారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

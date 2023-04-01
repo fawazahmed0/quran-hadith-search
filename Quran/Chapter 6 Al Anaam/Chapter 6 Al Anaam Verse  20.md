@@ -2676,6 +2676,12 @@ Evarikaitē mēmu granthānni prasādin̄cāmō! Vāru tama putrulanu gurtin̄ci
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరికయితే మేము గ్రంథాన్ని వొసగి ఉన్నామో వారు తమ కన్న కొడుకులను గుర్తుపట్టినట్లే ప్రవక్తను గుర్తుపడతారు. అయితే తమను తాము నష్టంలో పడవేసుకున్నవారు మాత్రం విశ్వసించరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

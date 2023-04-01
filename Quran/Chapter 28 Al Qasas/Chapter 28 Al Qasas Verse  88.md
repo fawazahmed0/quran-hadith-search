@@ -2676,6 +2676,12 @@ Mariyu allāh tō pāṭu ē itara daivānnī ārādhin̄caku. Āyana (allāh) t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌తో పాటు మరే దేవుణ్ణీ మొరపెట్టుకోకు. ఆయన తప్ప మరే ఆరాధ్యుడూ లేడు. ఆయన ముఖం తప్ప ప్రతిదీ నశించిపోయేదే. ఆజ్ఞాపించే అధికారం ఆయనకే చెల్లు. మీరంతా ఆయన వద్దకే మరలించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

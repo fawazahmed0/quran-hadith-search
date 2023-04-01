@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā mēmu nūh nu mariyu ibrāhīm nu pampāmu. Mariyu vāridd
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము నూహును, ఇబ్రాహీమును ప్రవక్తలుగా చేసి పంపాము. మరి వారిద్దరి సంతతిలో ప్రవక్త పదవిని, గ్రంథ పరంపరను ఉంచాము. అయితే వారిలో కొందరు సన్మార్గ భాగ్యం పొందగా, అత్యధికులు అవిధేయులయ్యారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

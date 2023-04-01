@@ -2676,6 +2676,12 @@ o ma prabhu! Nannu, na tallidandrulanu mariyu visvasiga na intiloniki pravesinci
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా ప్రభూ! నన్నూ, నా తల్లిదండ్రులను, విశ్వసించి నా ఇంట్లో ప్రవేశించిన వారందరినీ, విశ్వాసులైన సమస్త పురుషులను, స్త్రీలను క్షమించు. దుర్మార్గులకు వినాశంలో తప్ప మరెందులోనూ వృద్ధినొసగకు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

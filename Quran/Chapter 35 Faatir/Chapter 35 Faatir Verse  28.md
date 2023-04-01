@@ -2676,6 +2676,12 @@ mariyu idē vidhaṅgā mānavula, itara prāṇula mariyu paśuvula raṅgulu k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అలాగే మనుషులలో, జంతువులలో, పశువులలో కూడా పలు రంగులు గలవి ఉన్నాయి. అల్లాహ్‌ దాసులలో జ్ఞాన సంపన్నులు మాత్రమే ఆయనకు భయపడతారు. నిశ్చయంగా అల్లాహ్‌ సర్వాధిక్యుడు, క్షమాశీలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

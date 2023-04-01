@@ -2676,6 +2676,12 @@ Niścayaṅgā, musliṁ (allāh ku vidhēyulaina) puruṣulu mariyu musliṁ st
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా ముస్లిం పురుషులు – ముస్లిం స్త్రీలు, విశ్వాసులైన పురుషులు – విశ్వాసులైన స్త్రీలు, విధేయులైన పురుషులు- విధేయులైన స్త్రీలు, సత్యసంధులైన పురుషులు – సత్యసంధులైన స్త్రీలు, సహనశీలురైన పురుషులు – సహనవతులైన స్త్రీలు, అణకువ గల పురుషులు – అణకువ గల స్త్రీలు, దానధర్మాలు చేసే పురుషులు – దానధర్మాలు చేసే స్త్రీలు, ఉపవాసం ఉండే పురుషులు – ఉపవాసం ఉండే స్త్రీలు, తమ మర్మాంగాలను కాపాడుకునే పురుషులు – కాపాడుకునే స్త్రీలు, అల్లాహ్‌ను అత్యధికంగా స్మరించే పురుషులు – స్మరించే స్త్రీలు – వీరందరి కోసం అల్లాహ్ (విస్తృతమైన) మన్నింపును, గొప్ప పుణ్యఫలాన్ని సిద్ధం చేసి ఉంచాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

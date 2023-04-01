@@ -2676,6 +2676,12 @@ evaraitē viśvasin̄ci, tama viśvāsānni ṣirk tō kaluṣitaṁ cēyarō! A
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించి, తమ విశ్వాసాన్ని దుర్మార్గం (షిర్కు)తో కలగా పులగం చేయకుండా ఉండేవారే సురక్షితంగా ఉన్నవారు. సన్మార్గంపై ఉన్నవారు కూడా వారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ovvoru poruḷukkum ataṟkāṉa amaippai vaḻaṅki piṉṉar vaḻikāṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ప్రతి వస్తువుకూ దాని ప్రత్యేక రూపును ఇచ్చి, తర్వాత దానికి మార్గాన్ని చూపినవాడే మా ప్రభువు” అని (మూసా) చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

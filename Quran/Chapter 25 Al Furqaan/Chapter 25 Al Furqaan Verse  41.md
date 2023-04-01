@@ -2676,6 +2676,12 @@ ivaraittāṉā allāh tūtarāka aṉuppiyirukkiṟāṉ" (eṉṟu kūṟi) um
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు (అవిశ్వాసులు) నిన్ను చూచినప్పుడల్లా, నీతో పరిహాసానికి దిగుతారు. “దేవుడు ప్రవక్తగా చేసి పంపినది ఈయనగారి నేనా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

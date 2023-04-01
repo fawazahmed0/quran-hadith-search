@@ -2676,6 +2676,12 @@ allāh virōdhulaku dorikē pratiphalaṁ idē - narakāgni - andu vāri śāśv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ విరోధులకు శిక్ష(గా లభించవలసింది) ఈ నరకాగ్నే. అందులో వారి శాశ్వత నివాస గృహం ఉంటుంది. మా ఆయతులను త్రోసిపుచ్చినందుకు (వారికి లభించిన) ప్రతిఫలం ఇది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

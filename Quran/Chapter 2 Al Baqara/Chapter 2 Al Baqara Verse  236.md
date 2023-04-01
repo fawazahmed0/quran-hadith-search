@@ -2676,6 +2676,12 @@ mīru mī strīlanu muṭṭukōka mundē, lēka vāri mahr nirṇayaṁ kāka p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీరు స్త్రీలను తాకకుండా, వారి మహర్‌ను నిర్ధారించకుండానే వారికి విడాకులిస్తే అది కూడా మీకు పాపం కాదు. అయితే వారికి ఎంతో కొంత ప్రయోజనం చేకూర్చండి. స్థితిమంతుడు తన స్థితికి తగినట్లుగా, పేదవాడు తన స్థోమతకు తగినట్లుగా ధర్మం ప్రకారం ప్రయోజనం చేకూర్చాలి. ఉత్తమంగా వ్యవహరించేవారికి ఇది విధిగా నిర్ణయించబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

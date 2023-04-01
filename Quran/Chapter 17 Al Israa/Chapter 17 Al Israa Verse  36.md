@@ -2676,6 +2676,12 @@ mariyu (ō mānavuḍā!) Nīku teliyani viṣayaṁ veṇṭabaḍaku. Niścaya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీవు తెలుసుకోవలసిన అవసరం లేని విషయాల వెంట పడకు. ఎందుకంటే చెవి, కన్ను, హృదయం – వీటన్నింటి గురించి ప్రశ్నించటం జరుగుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

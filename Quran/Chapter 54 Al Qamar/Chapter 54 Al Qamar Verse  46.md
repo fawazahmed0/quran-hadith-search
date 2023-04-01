@@ -2676,6 +2676,12 @@ antēkādu! Antima ghaḍiyayē, vāri vāgdāna samayaṁ mariyu ā ghaḍiya e
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పైగా వారికి వాగ్దానం చేయబడిన అసలు (పరాభవ) సమయమైతే ప్రళయమే. ఆ ఘడియ అత్యంత కఠినమైనది, చేదైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

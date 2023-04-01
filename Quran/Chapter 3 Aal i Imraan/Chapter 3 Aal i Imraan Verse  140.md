@@ -2676,6 +2676,12 @@ okavēḷa ippuḍu mīru gāyapaḍitē, vāstavāniki ā jātivāru (mī virō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు దెబ్బతిన్నారనుకుంటే మీ ప్రత్యర్థులు కూడా అలాగే దెబ్బతిన్నారు. మేము ఈ కాలచక్రాన్ని జనుల మధ్య త్రిప్పుతూ ఉంటాము. (ఉహుద్‌ యుద్ధంలో మీకు ఎదురైన అపజయానికి అసలు కారణం ఏమిటంటే) మీలో (నికార్సయిన) విశ్వాసులు ఎవరో అల్లాహ్‌ చూపించదలిచాడు. మీలో కొందరికి ‘షహాదత్‌’ (వీర మరణ) స్థాయిని కూడా ఆయన ప్రసాదించదలిచాడు. అల్లాహ్‌ దుర్మార్గులను సుతరామూ ఇష్టపడడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

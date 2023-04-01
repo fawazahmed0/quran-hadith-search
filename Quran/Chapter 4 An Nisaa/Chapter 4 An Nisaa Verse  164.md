@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā, mēmu pampina pravaktalalō kondari gāthalanu nīku teli
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీకు పూర్వం గతించిన ఎంతో మంది ప్రవక్తల వృత్తాంతాలను మేము నీకు తెలియజేశాము. మరెంతో మంది ప్రవక్తల గాథలను తెలుపలేదు. మూసా (అలైహిస్సలాం) తోనైతే అల్లాహ్‌ నేరుగా మాట్లాడాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

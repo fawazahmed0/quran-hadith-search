@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh ādēśālanu (āyāt lanu) tiraskarin̄cē vāriki mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే అల్లాహ్‌ ఆయతులను తిరస్కరిస్తూ, అన్యాయంగా ప్రవక్తలను చంపుతూ, ప్రజల్లో న్యాయం గురించి ఆజ్ఞాపించేవారిని కూడా తుదముట్టిస్తున్నారో వారికి (ఓ ప్రవక్తా!) వ్యధాభరితమైన శిక్ష ఉందన్న శుభవార్తను వినిపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

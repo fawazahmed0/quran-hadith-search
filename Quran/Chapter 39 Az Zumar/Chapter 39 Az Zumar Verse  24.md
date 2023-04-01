@@ -2676,6 +2676,12 @@ emi? Punarut'thana dinavu kathinamaina siksanu tana mukhanto kapadu kovalasina v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే ప్రళయదినాన దుర్భరమైన శిక్ష పడకుండా తన ముఖాన్ని డాలుగా పెట్టుకుంటాడో (అతను ప్రళయదినాన నిశ్చింతగా ఉండేవానితో సమానం కాగలడా?) “మీరు సంపాదించుకున్న దాని రుచిని చూడండి” అని ఆ దుర్మార్గులతో అనబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ i, ma jativaru ayananu vidici itara daivalanu niyamincukunnaru. Ayite, varini (a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఆయన్ని వదలి ఇతరులను ఆరాధ్య దైవాలుగా చేసుకున్న మన జాతి వారు వారి దైవత్వానికి సంబంధించిన స్పష్టమైన ప్రమాణాన్ని ఎందుకు తీసుకురావటం లేదు? అల్లాహ్‌కు అబద్ధాన్ని అంట గట్టేవాడికన్నా ఎక్కువ దుర్మార్గుడెవడుంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

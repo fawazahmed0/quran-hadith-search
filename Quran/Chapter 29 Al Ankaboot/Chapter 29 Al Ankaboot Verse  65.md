@@ -2676,6 +2676,12 @@ vāru nāvalōki ekkinappuḍu tama bhaktini kēvalaṁ allāh ku mātramē prat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారు ఓడలో ప్రయాణమైనప్పుడు, తమ ఆరాధనను అల్లాహ్‌కే ప్రత్యేకించుకుని – కేవలం ఆయన్నే మొరపెట్టుకుంటారు. తరువాత ఆయన వారిని సురక్షితంగా తీరానికి చేర్చగానే, అప్పటికప్పుడే వారు దైవానికి సహవర్తుల్ని కల్పించటం మొదలెడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

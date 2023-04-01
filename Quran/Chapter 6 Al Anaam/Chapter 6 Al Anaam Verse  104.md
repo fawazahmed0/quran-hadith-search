@@ -2676,6 +2676,12 @@ vāstavāniki ippuḍu mī prabhuvu taraphu nuṇḍi nidarśanālu vaccāyi. K�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నిస్సందేహంగా మీ వద్దకు మీ ప్రభువు తరఫునుంచి సత్యాన్ని దర్శించే సూచనలు వచ్చేశాయి. కనుక దాన్ని చూసిన వాడు తనకు లాభం చేకూర్చుకుంటాడు. గ్రుడ్డిగా వ్యవహరిస్తే తనకే నష్టం. నేను మాత్రం మీపై రక్షకుణ్ణి కాను” (అని ఓ ప్రవక్తా! చెప్పు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

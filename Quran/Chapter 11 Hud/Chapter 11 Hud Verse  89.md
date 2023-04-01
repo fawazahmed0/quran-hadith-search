@@ -2676,6 +2676,12 @@ mariyu ō nā jāti prajalārā! Nātō unna bhēdābhiprāyaṁ mim'malni nūh 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ నా జాతివారలారా! నాకు వ్యతిరేకంగా అవలంబిస్తున్న మీ మొండి వైఖరి నూహ్‌ జాతిపై, హూద్‌ జాతిపై, సాలెహ్‌ జాతిపై వచ్చిపడిన శిక్షల్లాంటి శిక్షలకే మిమ్మల్ని కూడా పాత్రులుగా చేస్తుందేమో (జాగ్రత్త!) ఇక లూతు జాతి వారైతే మీకు ఎంతో దూరాన కూడా లేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

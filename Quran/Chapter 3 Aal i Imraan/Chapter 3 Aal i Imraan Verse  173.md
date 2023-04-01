@@ -2676,6 +2676,12 @@ vāritō (viśvāsulatō) prajalu: "Vāstavāniki, mīku vyatirēkaṅgā pedda 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”అవిశ్వాస జనులు మీకు వ్యతిరేకంగా భారీ సైన్యాన్ని మోహరించి ఉన్నారు. మీరు వారికి భయపడండి” అని ప్రజలు వారితో అన్నప్పుడు, ఆ మాట వారి విశ్వాసాన్ని మరింతగా పెంచింది. దానికి జవాబుగా, ”మాకు అల్లాహ్‌ చాలు. ఆయన చాలా మంచి కార్యసాధకుడు” అని వారన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

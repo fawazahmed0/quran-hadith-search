@@ -2676,6 +2676,12 @@ mariyu vārilā aṇṭāru: "Mā (jīvitaṁ) kēvalaṁ ī prāpan̄cika jīvi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా జీవితం మటుకు ఈ ప్రాపంచిక జీవితమే. మేము చస్తున్నాము, బ్రతుకుతున్నాము. కాలం తప్ప మరేదీ మమ్మల్ని చంపటం లేదు” అని వారంటారు. (నిజానికి) వారికి దీని గురించి బొత్తిగా తెలియదు. వారు కేవలం ఊహాస్త్రాలను సంధిస్తూ పోతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

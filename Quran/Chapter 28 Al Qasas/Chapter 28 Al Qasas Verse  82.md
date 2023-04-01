@@ -2676,6 +2676,12 @@ Mariyu ninnaṭi varaku ataḍi (khārūn) valē kāvalenani evaraitē kōrutū 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిన్నటి రోజున అతని స్థాయికి చేరుకోవాలని కాంక్షించిన వారంతా నేటి ఉదయం ఇలా చెప్పుకున్నారు : “ఆహ్‌! అల్లాహ్‌ తన దాసులలో తాను కోరినవారి ఉపాధిని విస్తృతపరుస్తాడు. మరి తాను కోరిన వారికి కుంచింపజేస్తాడు. అల్లాహ్‌ కృపయే గనక మాపై లేకుండాపోతే ఆయన మమ్మల్ని కూడా నేలలో కూర్చివేసి ఉండేవాడే. దేవుని మేళ్లను మరచినవారెన్నటికీ సాఫల్యం పొందలేరన్న సంగతిని మీరు గమనించటం లేదా?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

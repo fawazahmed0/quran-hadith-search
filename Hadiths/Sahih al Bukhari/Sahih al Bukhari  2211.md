@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha şöyle anlatır: Muaviye'nin annesi Hind, Nebi Sallallahu Aleyhi ve Sellem'e: "Kocam Ebu Süfyan cimri bir adamdır. O'nun malından gizlice alsam bana günah olur mu?" diye sordu. Resulullah Sallallahu Aleyhi ve Sellem ona: "Kendine ve çocuklarına örf'e göre yetecek kadar al" buyurdu Tekrar. 2
+Aişe r.anha şöyle anlatır: Muaviye'nin annesi Hind, Nebi Sallallahu Aleyhi ve Sellem'e: "Kocam Ebu Süfyan cimri bir adamdır. O'nun malından gizlice alsam bana günah olur mu?" diye sordu. Resulullah Sallallahu Aleyhi ve Sellem ona: "Kendine ve çocuklarına örf'e göre yetecek kadar al" buyurdu Tekrar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>2211</td></tr><tr><td>Reference</td><td>Book 34 Hadith 157</td></tr></tbody></table></div>
 

@@ -2676,6 +2676,12 @@ mariyu mīru dānini vinnappuḍu: "Ilāṇṭi māṭa palakaḍaṁ māku taga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అసలు మీరు ఆ మాట వినగానే, “ఇలాంటి మాట చెప్పటం మనకు ఎంత మాత్రం తగదు. ఓ అల్లాహ్‌! నీవు పరమ పవిత్రుడవు. ఇది మాత్రం పెద్ద అభాండమే” అని ఎందుకు అనలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

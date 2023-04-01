@@ -2676,6 +2676,12 @@ o na jati prajalara! (I paniki) nenu mi nunci elanti pratiphalam adagatam ledu. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ నాజాతి ప్రజలారా! ఈ పనికై నేను మీనుండి ఎలాంటి ప్రతిఫలాన్నీ అడగటం లేదు. నాకు ప్రతిఫలం ఇచ్చే బాధ్యత నన్నుసృష్టించిన వానిదే. అయినప్పటికీ మీరు వివేకవంతులుగా వ్యవహరించరే?!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

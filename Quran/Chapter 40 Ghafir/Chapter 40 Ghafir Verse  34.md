@@ -2676,6 +2676,12 @@ mariyu vāstavāniki intaku pūrvaṁ yūsuph mī vaddaku spaṣṭamaina pramā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“లోగడ యూసుఫ్‌ (అలైహిస్సలాం) కూడా మీ వద్దకు స్పష్టమైన ప్రమాణాలను తీసుకువచ్చాడు. అయినప్పటికీ ఆయన తెచ్చిన విషయాలపై మీరు అనుమానంతోనే ఉన్నారు. చివరకు ఆయన మరణించినపుడు, ‘ఈయన తరువాత అల్లాహ్‌ ఇంకా ఏ ప్రవక్తనూ పంపబోడు’ అని మీరు చెప్పుకోసాగారు. ఈ విధంగా అల్లాహ్‌ హద్దుమీరే వారినీ, సందేహాలతో బతికేవారిని అపమార్గానికి లోను చేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

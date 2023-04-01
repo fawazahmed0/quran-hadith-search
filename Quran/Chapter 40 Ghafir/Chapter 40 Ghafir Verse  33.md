@@ -2676,6 +2676,12 @@ aroju miru venudirigi paripovalanukuntaru, kani allah (siksa) nundi mim'malni ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఆ రోజు మీరు వెన్ను చూపి తిరిగిపోతారు. మిమ్మల్ని అల్లాహ్‌ (పట్టు) నుండి కాపాడేవాడెవడూ ఉండడు. అల్లాహ్‌ మార్గ భ్రష్టతకు గురిచేసినవారికి సన్మార్గం చూపేవాడెవడూ ఉండడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

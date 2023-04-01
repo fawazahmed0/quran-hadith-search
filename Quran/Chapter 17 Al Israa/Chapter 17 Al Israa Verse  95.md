@@ -2676,6 +2676,12 @@ ilā anu: "Okavēḷa bhūmi mīda dēvadūtalu nivasistū niścintagā tirugut�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “ఒకవేళ దైవదూతలు భూమండలం మీద తిరుగుతూ, నివాసమేర్పరచుకుంటూ ఉన్నట్లయితే, మేము వారి వద్దకు కూడా ఆకాశం నుంచి దైవదూతనే ప్రవక్తగా పంపి ఉండేవారం.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ idantā endukaṇṭē! Niścayaṅgā, allāh kēvalaṁ āyanē satyaṁ. Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే సత్యం గనక, ఆయన్ని వదలి ప్రజలు మొర పెట్టుకునేవన్నీ అసత్యం గనక, అల్లాహ్‌యే మహోన్నతుడూ గొప్పవాడు గనక ఇదంతా (ఈ విధంగా) సజావుగా సాగుతోంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

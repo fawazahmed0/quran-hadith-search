@@ -2676,6 +2676,12 @@ appuḍu ibrāhīm bhayaṁ dūramai, ataniki (santānapu) śubhavārta andina t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇబ్రాహీము భయాందోళనలు తొలగిపోయి, శుభవార్త కూడా అతనికి అందిన మీదట, అతను లూత్‌ జాతి వారి విషయంలో మాతో వాదించసాగాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

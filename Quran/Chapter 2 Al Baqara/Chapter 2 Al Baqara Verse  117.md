@@ -2676,6 +2676,12 @@ Ayane akasalanu mariyu bhumini e namuna lekunda arambhincina (srstincina) vadu. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలను ప్రప్రథమంగా సృష్టించినవాడు ఆయనే. ఆయన ఏ పనినైనా చేయ సంకల్పించుకున్నప్పుడు దాన్ని ‘అయిపో’ అని అంటే చాలు, అది అయిపోతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

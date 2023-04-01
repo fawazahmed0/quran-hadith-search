@@ -2676,6 +2676,12 @@ mariyu āyanē nīṭitō mānavuṇṇi sr̥ṣṭin̄cāḍu. Taruvāta atanik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీటితో మానవుణ్ణి సృష్టించినవాడు ఆయనే. ఆ తరువాత అతనికి వంశపారంపర్యాన్ని, అత్తగారి బంధుత్వాన్ని కల్పించాడు. నిశ్చయంగా నీ ప్రభువు (ప్రతిదీ చేయగల) శక్తి గలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

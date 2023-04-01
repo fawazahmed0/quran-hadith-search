@@ -2676,6 +2676,12 @@ a rendu vipaksa tegala varu tama prabhuvunu gurinci vaduladaru, kavuna varilo sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ ఇరువర్గాల వారు తమ ప్రభువు విషయంలో గొడవపడతారు. అయితే అవిశ్వాసుల కోసం అగ్ని వస్త్రాలు కత్తిరించబడతాయి. సలసల కాగే నీరు వారి తలలపై నుంచి కుమ్మరించబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu vāru, evaraitē, aślīla panulu cēsinā, lēdā tamaku tāmu an'yāya�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ ద్వారా ఏదైనా నీతిబాహ్యమైన పని జరిగిపోతే లేదా తమ ఆత్మలకు వారు ఏదైనా అన్యాయం చేసుకుంటే వెంటనే అల్లాహ్‌ను తలచుకుని, తమ పాపాల క్షమాపణకై వేడుకుంటారు. – నిజానికి అల్లాహ్‌ తప్ప పాపాలను క్షమించే వాడెవడున్నాడు? – వారు తమ వల్ల జరిగింది తప్పు అని తెలిసినపుడు దానిపై హటం చెయ్యరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

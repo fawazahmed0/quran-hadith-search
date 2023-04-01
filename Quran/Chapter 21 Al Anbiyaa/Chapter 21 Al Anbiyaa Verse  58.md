@@ -2676,6 +2676,12 @@ taruvāta atanu oka pedda dānini (vigrahānni) tappa anniṇṭinī mukkalu muk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత అతను వాటన్నింటినీ ముక్కలు ముక్కలుగా పగులగొట్టాడు. అయితే పెద్ద విగ్రహాన్ని మాత్రం విడిచి పెట్టాడు. వారంతా దానివైపు మరలటానికే (అలా చేశాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

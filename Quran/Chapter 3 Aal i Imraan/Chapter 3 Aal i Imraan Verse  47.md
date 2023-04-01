@@ -2676,6 +2676,12 @@ ame (maryam) ila annadi: "O na prabhu! Naku kumarudu ela kalugutadu? E purusudu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆమె, ”నా ప్రభూ! నాకు పిల్లవాడు ఎలా పుడ్తాడు? నన్ను ఏ మనిషీ తాకలేదే!” అని అన్నది. ”అలాగే జరుగుతుంది. అల్లాహ్‌ తాను కోరినది పుట్టిస్తాడు. ఆయన ఏదైనా పనిని చేయ సంకల్పించుకుని ‘అయిపో’ అని అంటే చాలు, అది ‘అయిపోతుంది’ అని (దైవదూత ద్వారా) సమాధానం లభించింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

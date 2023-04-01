@@ -2676,6 +2676,12 @@ kāni vāstavāniki okavēḷa viśvāsulanu, vāri madhya tīrpu cēyaṭāniki
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అదే విశ్వసించిన వారిని తమ మధ్యగల వివాదాలను పరిష్కరించటానికి అల్లాహ్‌ మరియు ఆయన ప్రవక్త వద్దకు పిలిచి నప్పుడు, “మేము విన్నాము, శిరసావహించాము” అని వారు అంటారు. సాఫల్యం పొందేవారు వారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

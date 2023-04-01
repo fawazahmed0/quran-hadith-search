@@ -2676,6 +2676,12 @@ lēka mēmu dēvadūtalanu strīlugā puṭṭin̄cāmā? Mariyu vāru dāniki s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పోనీ, మేము దైవదూతలను ఆడవారుగా సృష్టించినప్పుడు వారు ప్రత్యక్ష సాక్షులుగా ఉన్నారా ఏమి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

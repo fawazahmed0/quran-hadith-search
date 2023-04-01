@@ -2676,6 +2676,12 @@ o visvasulara! Allah mariyu ayana sandesaharudu miku jivanamicce dani vaipunaku,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీకు జీవితాన్నిచ్చే వస్తువు వైపుకు ప్రవక్త మిమ్మల్ని పిలిచినప్పుడు మీరు అల్లాహ్‌ మరియు ఆయన ప్రవక్త పిలుపుకు అనుకూలంగా స్పందించండి. అల్లాహ్‌ మనిషికీ- అతని మనసుకూ మధ్య అడ్డుగా వస్తాడనీ, మీరంతా ఆయన వద్దకే సమీకరించబడతారన్న సంగతిని తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

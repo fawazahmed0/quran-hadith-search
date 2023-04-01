@@ -2676,6 +2676,12 @@ mariyu vāru okavēḷa allāh nu mariyu antima dinānni viśvasin̄ci allāh v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారే గనక అల్లాహ్‌ను, అంతిమదినాన్ని విశ్వసించి, అల్లాహ్‌ తమకు ప్రసాదించిన దానిలో నుంచి ఖర్చుపెడితే ఏం పోయేది? వారి స్థితిగతులు అల్లాహ్‌కు బాగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

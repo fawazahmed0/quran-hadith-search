@@ -2676,6 +2676,12 @@ Mariyu imrān kumārte maryam nu (kūḍā udāharaṇagā pērkonnāḍu) āme 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఇమ్రాన్ కుమార్తె అయిన మర్యం (గురించి కూడా అల్లాహ్ ఉదాహరిస్తున్నాడు). ఆమె తన మానాన్ని కాపాడుకున్నది. మరి మేము మా తరఫున ఆమెలో ప్రాణాన్ని ఊదాము. మరి ఆమె తన ప్రభువు వచనాలను, ఆయన గ్రంథాలను సత్యమని ధృవపరచింది. ఆమె వినయవిధేయతలు గల స్త్రీమూర్తుల కోవకు చెందినది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

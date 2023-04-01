@@ -2676,6 +2676,12 @@ mariyu (punarut'thāna dinamuna) ī aparādhulu, tama prabhuvu samakṣanlō, ē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అపరాధులు తమ ప్రభువు సమక్షంలో తలలు వంచుకుని ఉండటాన్ని నువ్వు చూస్తే ఎంత బావుంటుంది! (వారిలా అంటారు): “మా ప్రభూ! మేమంతా చూసుకున్నాము. (అంతా) విన్నాము. ఇక మమ్మల్ని తిరిగి పంపించు. (ఇక నుంచి) మేము సత్కార్యాలు చేస్తాము. మాకిక పూర్తి నమ్మకం కలిగింది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

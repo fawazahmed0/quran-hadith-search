@@ -2676,6 +2676,12 @@ mariyu evaraitē viśvasin̄ci satkāryālu cēstārō! Mēmu vārini krinda kā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాగా; ఎవరు విశ్వసించి సత్కార్యాలు చేస్తారో వారిని మేము క్రింద కాలువలు ప్రవహించే (స్వర్గ) వనాలలోకి తీసుకుపోతాము. అందులో వారు కలకాలం, శాశ్వతంగా ఉంటారు. ఈ అల్లాహ్‌ వాగ్దానం సత్యమైనది. అల్లాహ్‌ కంటే సత్యమైన మాట పలికేదెవరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

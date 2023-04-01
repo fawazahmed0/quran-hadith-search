@@ -2676,6 +2676,12 @@ Itaṉ piṉṉar nāṉ enta viṣayattaip paṟṟiyāvatu uṅkaḷiṭam kē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఒకవేళ దీని తరువాత ఏ విషయంలోనయినా నేను మిమ్మల్ని ప్రశ్నిస్తే నన్ను మీ వెంట ఉండనివ్వకండి. ఇక మీదట నాపై చర్య గైకొనేందుకు తగిన కారణం మీకు లభించింది” అని మూసా ప్రాధేయపడ్డాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

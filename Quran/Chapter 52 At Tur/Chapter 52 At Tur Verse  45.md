@@ -2676,6 +2676,12 @@ kāvuna vāru tama (tīrpu) dinānni darśin̄cē varaku vārini vadili peṭṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ముహమ్మద్!) వారు స్పృహ తప్పి పడిపోయే రోజున ఎదుర్కొనే వరకూ వారిని వారి మానాన వదలిపెట్టు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

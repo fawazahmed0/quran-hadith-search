@@ -2676,6 +2676,12 @@ vāstavāniki (badr yud'dha raṅganlō) mārkonina ā reṇḍu vargālalō mī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ముఖాముఖీ అయిన ఆ రెండు వర్గాలలో మీ కోసం నిశ్చయంగా గుణపాఠ సూచన ఉంది. వాటిలో ఒక వర్గం దైవ మార్గంలో పోరాడుతూ ఉండగా, రెండోది అవిశ్వాసుల వర్గం. వారు తమకన్నా రెండింతలుండటాన్ని వారు స్వయంగా తమ కళ్ళతో తిలకించారు. అల్లాహ్‌ తాను తలచిన వారికి తన సహాయంతో బలం చేకూర్చుతాడు. కళ్ళున్న వారికోసం ఇందులో గొప్ప గుణపాఠం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

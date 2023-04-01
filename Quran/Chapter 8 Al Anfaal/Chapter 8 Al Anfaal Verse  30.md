@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Satyatiraskārulu, ninnu bandhin̄caṭāniki ninnu hatam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) సత్య తిరస్కారులు నీకు వ్యతిరేకంగా వ్యూహ రచన చేసిన సంఘటనను కూడా గుర్తుకు తెచ్చుకో. నిన్ను బందీగా పట్టుకోవాలా? లేక నిన్ను హత్య చేయాలా? లేక నిన్ను దేశం నుంచి వెళ్ళగొట్టాలా? అని వారు తమ తరఫున ఎత్తులు వేస్తుండగా, అల్లాహ్‌ పై ఎత్తులు వేస్తూ ఉన్నాడు. ఎత్తులు వేయడంలో అల్లాహ్‌ సాటిలేని మేటి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

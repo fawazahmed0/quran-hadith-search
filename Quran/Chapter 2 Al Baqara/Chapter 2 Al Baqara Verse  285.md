@@ -2676,6 +2676,12 @@ i pravakta tana prabhuvu taraphu nundi, tanapai avatarimpajeyabadina danini visv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తన ప్రభువు తరఫున అవతరింపజేయబడిన దానిని ప్రవక్త విశ్వసించాడు. దాన్ని విశ్వాసులు కూడా (సత్యమని నమ్మారు). వారంతా అల్లాహ్‌ను, ఆయన దూతలను, ఆయన గ్రంథాలను, ఆయన ప్రవక్తలనూ విశ్వసించారు. “మేము ఆయన (పంపిన) ప్రవక్తల మధ్య ఎలాంటి విచక్షణను, భేదభావాన్నీ పాటించము” (అని వారు చెబుతారు). “మేము విన్నాము. విధేయులం అయ్యాము. మా ప్రభూ! మేము నీ క్షమాభిక్షను అర్థిస్తున్నాము. కడకు మేము మరలి రావలసింది నీ వద్దకే” అని అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

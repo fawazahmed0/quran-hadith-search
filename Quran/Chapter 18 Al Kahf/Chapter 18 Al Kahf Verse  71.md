@@ -2676,6 +2676,12 @@ A pidapa variddaru bayaluderaru. Civariki variddaru padavalo ekkinapudu atanu pa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిద్దరూ బయలుదేరారు. చివరకు ఒక పడవలో పయనమైనప్పుడు అతను (ఖిజరు) దాని చెక్క పలకలను పగులగొట్టారు. దానికి మూసా, “ఇదేమిటీ, పడవ ప్రయాణీకులందరినీ ముంచేయటానికా వీటిని పగులగొట్టారు? మీరు చాలా ఘోరమైన పనికి ఒడిగట్టారు” అని చెప్పనే చెప్పేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

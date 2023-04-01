@@ -2676,6 +2676,12 @@ akasala yokka mariyu bhumi yokka talapu cevulu ayana vaddane vunnayi. Ayana tanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాల తాళం చెవులు ఆయనవే. ఆయన తాను కోరిన వారికి ఉపాధిని విస్తృతంగా ఇస్తాడు, (మరి తాను కోరిన వారికి) తగ్గించి ఇస్తాడు. నిశ్చయంగా ఆయన ప్రతిదీ తెలిసిన వాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

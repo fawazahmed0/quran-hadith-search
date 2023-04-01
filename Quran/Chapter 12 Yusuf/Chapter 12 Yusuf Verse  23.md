@@ -2676,6 +2676,12 @@ mariyu atanu nivasin̄cē iṇṭi strī atanini mōhin̄ci atani manas'sunu cal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను (యూసుఫ్‌) ఉంటున్న ఇంటి స్త్రీ అతని మానసిక ఏకాగ్రతను దెబ్బతీస్తూ కవ్వించటం మొదలెట్టింది. (ఒకసారి) తలుపులు మూసేసి, ‘రా….రా!’ అని అంది. “అల్లాహ్‌ శరణు! ఆయన నా ప్రభువు. ఆయన నన్ను చాలా మంచి స్థితిలో ఉంచాడు. అన్యాయం చేసేవారు ఎన్నటికీ బాగుపడరు” అని యూసుఫ్‌ అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

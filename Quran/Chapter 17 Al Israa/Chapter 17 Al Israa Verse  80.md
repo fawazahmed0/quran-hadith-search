@@ -2676,6 +2676,12 @@ mariyu ilā prārthin̄cu: "Ō nā prabhū! Nīvu nā prati pravēśānni, satya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ విధంగా పలుకు: “నా ప్రభూ! నన్ను ఎక్కడికి తీసుకెళ్ళినా మంచిస్థితిలో తీసుకుని వెళ్ళు. ఎక్కడి నుంచి తీసినా మంచిస్థితిలోనే తియ్యి. నా కోసం నీ వద్ద నుండి అధికారాన్ని, తోడ్పాటును ప్రసాదించు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

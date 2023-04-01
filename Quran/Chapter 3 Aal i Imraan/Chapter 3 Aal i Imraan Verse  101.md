@@ -2676,6 +2676,12 @@ mariyu allāh sandēśālu mīku cadivi vinipin̄cabaḍutū unnappuḍu mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీకు అల్లాహ్‌ ఆయతులు (వాక్యాలు) చదివి వినిపిస్తుండగా, ఆయన ప్రవక్త మీ మధ్యనుండగా మీరు అవిశ్వాసానికి ఎలా పాల్పడగలరు? ఎవరు అల్లాహ్‌ (ధర్మము)ను గట్టిగా పట్టుకున్నాడో నిస్సందేహంగా అతడు రుజుమార్గం వైపు దర్శకత్వం వహించబడినట్లే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

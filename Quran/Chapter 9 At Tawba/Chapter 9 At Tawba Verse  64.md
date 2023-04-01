@@ -2676,6 +2676,12 @@ tama hr̥dayālalō unna (rahasyālanu) spaṣṭaṅgā teliyajēsēṭaṭu va
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ గుండెల్లో దాగివున్న గుట్టును రట్టుచేసే సూరా ఏదైనా (ముస్లిములపై) అవతరిస్తుందేమోనన్న భయం ఈ కపటులను అనుక్షణం వెంటాడుతూ ఉంటుంది. (ప్రవక్తా!) వారికి చెప్పు: మీరు ఎగతాళి చేస్తూనే ఉండండి. దేని గురించి మీరు భయపడుతున్నారో దాన్ని అల్లాహ్‌ ఎలాగూ బయటపెట్టనున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

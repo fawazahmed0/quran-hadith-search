@@ -2676,6 +2676,12 @@ kāvuna nīvu (ō muham'mad!) Dīni (ī satyadharmaṁ) vaipunakē vārini piluv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ప్రవక్తా!) నువ్వు వారిని దాని వైపునకే పిలుస్తూ ఉండు. నీకు ఆదేశించబడిన దానిపై నిలకడగా ఉండు. వాళ్ల మనోవాంఛలకనుగుణంగా మాత్రం నడవకు. వాళ్లకు ఇలా చెప్పేయ్‌: “అల్లాహ్‌ అవతరింపజేసిన ప్రతి గ్రంథాన్నీ నేను విశ్వసించాను. మీ మధ్య న్యాయం చేయాలని నాకు ఆజ్ఞాపించబడింది. అల్లాహ్‌యే మా ప్రభువు, మీ ప్రభువు కూడాను. మా కర్మలు మావి. మీ కర్మలు మీవి. మాకూ – మీకు మధ్య ఎలాంటి వితండవాదానికి తావు లేదు. అల్లాహ్‌ మనందరినీ సమావేశపరుస్తాడు. కడకు ఆయన వద్దకే మరలి పోవలసిఉంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

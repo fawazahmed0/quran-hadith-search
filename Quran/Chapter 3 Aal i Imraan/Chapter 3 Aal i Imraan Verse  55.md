@@ -2676,6 +2676,12 @@ isave! Niccayamaka nan um'maik kaipparruven;. Innum ennalavil um'mai uyarttik ko
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు అల్లాహ్‌ ఇలా అన్నాడు : ఓ ఈసా! నేను నిన్ను పూర్తిగా తీసుకుంటాను. నిన్ను నా వైపుకు లేపుకుంటాను. అవిశ్వాసుల బారి నుంచి నిన్ను పరిశుద్ధునిగా చేస్తాను. నిన్ను అనుసరించిన వారిని ప్రళయదినం వరకూ అవిశ్వాసులపై పైచేయిగా ఉంచుతాను. ఆ తర్వాత మీరంతా మరలి రావలసింది నా వద్దకే. అప్పుడు నేనే మీ మధ్య ఉన్న పరస్పర విభేదాలపై తీర్పు చేస్తాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

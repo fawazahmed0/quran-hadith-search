@@ -2676,6 +2676,12 @@ a taruvata prasava vedanato ame oka kharjurapu cettu modalu daggariki cerukoni i
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత పురిటినొప్పులు ఆమెను ఒక ఖర్జూర చెట్టు క్రిందికి చేర్చాయి. “అయ్యో! నేను ఇంతకు మునుపే చచ్చిపోయి వుంటే, లోకులు నన్ను మరచిపోయి ఉంటే బావుండునే!” అని ఆమె బాధపడసాగింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

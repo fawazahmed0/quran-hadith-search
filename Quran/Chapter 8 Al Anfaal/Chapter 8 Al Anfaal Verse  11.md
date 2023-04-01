@@ -2676,6 +2676,12 @@ Va ʙa jod ored on zamonero, ki Alloh az xavfi duşmanaton cunon oromiaton doda 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తన తరఫున మీకు నిశ్చింతను ప్రసాదించేందుకు అల్లాహ్‌ మీపై నిద్ర మత్తును ఆవరింపజేసిన సందర్భాన్ని కూడా ఓసారి జ్ఞాపకం చేసుకోండి! మిమ్మల్ని పరిశుభ్రపరచటానికి, షైతాను ప్రేరణలను మీ నుండి పారద్రోలటానికీ, మీకు గుండెదిటవును కలిగించటానికి, మీ కాళ్ళకు నిలకడను ప్రసాదించటానికి ఆయన (ఆ సందర్భంగా) మీపై ఆకాశం నుంచి వర్షం కురిపించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

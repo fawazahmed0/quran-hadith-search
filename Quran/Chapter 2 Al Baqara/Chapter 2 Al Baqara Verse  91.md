@@ -2676,6 +2676,12 @@ mariyu vāritō (yūdulatō): "Allāh avatarimpajēsina dānini (ī khur'ān nu)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ అవతరింపజేసిన గ్రంథాన్ని విశ్వసించండి” అని వారితో అన్నప్పుడు, “మాపై అవతరింపజేయబడిన దానిని మేము విశ్వసిస్తున్నాం” అని సమాధానమిస్తారు. దాని తర్వాత వచ్చిన దాన్ని, అది సత్యమైనప్పటికీ, తమవద్ద ఉన్న గ్రంథాన్ని అది ధృవీకరిస్తున్నప్పటికీ వారు తిరస్కరిస్తారు. (సరే! అలాగైతే) వారిని ఈ విధంగా అడుగు: “(మునుపటి గ్రంథాలపై) మీకు నమ్మకముంటే, మరి పూర్వం వచ్చిన దైవప్రవక్తలను ఎందుకు హత్య చేశారు?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

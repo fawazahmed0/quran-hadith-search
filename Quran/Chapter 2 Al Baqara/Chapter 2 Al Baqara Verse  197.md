@@ -2676,6 +2676,12 @@ hajj niyamita nelalōnē jarugutundi. Ī nirṇīta māsālalō hajj cēyaṭān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+హజ్‌ మాసాలు నిర్థారితమై ఉన్నాయి. కనుక ఈ నిర్ణీత మాసాలలో హజ్‌ను తన కొరకు విధించుకున్న వ్యక్తి – హజ్‌ దినాలలో – కామ క్రీడలకు, పాపకార్యాలకు, ఘర్షణలకు దూరంగా ఉండాలి. మీరు ఏ సత్కార్యం చేసినా దాని గురించి అల్లాహ్‌కు తెలుసు. (హజ్‌ యాత్రకు బయలుదేరినప్పుడు) ప్రయాణ సామగ్రి(ఖర్చు)ని వెంటతీసుకెళ్ళండి. అయితే అన్నింటికంటే అత్యుత్తమ సామగ్రి దైవభీతి (అని బాగా గుర్తుంచుకోండి). కనుక ఓ బుద్ధిమంతులారా! నాకు భయపడుతూ ఉండండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

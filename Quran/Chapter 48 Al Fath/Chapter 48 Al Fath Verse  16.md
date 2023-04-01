@@ -2676,6 +2676,12 @@ Venuka uṇḍi pōyina eḍāri vāsulatō (baddūlatō) ilā anu: "Ika mīda c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్ సల్లల్లాహు అలైహి వసల్లం!) పల్లెటూరి ప్రజలలో వెనుక ఉండిపోయిన వారితో ఇలా అను: “త్వరలోనే మీకు, తీవ్రంగా పోరాడే ఒక జాతితో తలపడేందుకు పిలుపు వస్తుంది. మీరు వారితో యుద్ధం చేయవలసి వస్తుంది. లేదా వారంతట వారే ఆత్మసమర్పణ చేసుకుంటారు. (ఆ సమయంలో) మీరు గనక విధేయత చూపితే అల్లాహ్ మీకు ఉత్తమ ప్రతిఫలం ప్రసాదిస్తాడు. ఒకవేళ మీరు లోగడ విముఖత చూపినట్లే విముఖులైతే ఆయన మిమ్మల్ని బాధాకరమైన శిక్షకు లోను చేస్తాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu bhūmi nuṇḍi ūṭalanu poṅgimpajēśāmu apuḍu nirṇīta kāry�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి భూమి నుండి కూడా నీటి ఊటలు పొంగిపొరలేలా చేశాము. నిర్ణయించబడిన పనిని పూర్తిచేయటానికి (రెండు) నీళ్ళు కలిశాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

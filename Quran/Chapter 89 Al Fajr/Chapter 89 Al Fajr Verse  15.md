@@ -2676,6 +2676,12 @@ ayitē mānavuḍu elāṇṭi vāḍaṇṭē: Atani prabhuvu atanni parīkṣi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మనిషి పరిస్థితి ఎలాంటిదంటే అతని ప్రభువు అతణ్ణి పరీక్షించదలచి అతనికి గౌరవమర్యాదలను, అనుగ్రహభాగ్యాలను ప్రసాదించినప్పుడు అతను (ఉబ్బి తబ్బిబ్బై), “నా ప్రభువు నన్ను గౌరవనీయుణ్ణి చేశాడయా!” అనంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ o pravakta! Nivu ni prabhuvu taraphu nundi nipai avatarimpajeyabadina danini tel
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! నీ ప్రభువు తరఫు నుంచి నీపై అవతరింపజేయబడిన దానిని (ప్రజలకు) అందజెయ్యి. ఒకవేళ నువ్వు గనక ఈ పని చెయ్యకపోతే, దైవప్రవక్తగా నీవు నీ ధర్మాన్ని నిర్వర్తించని వాడవవుతావు. అల్లాహ్‌ నిన్ను ప్రజల (కీడు) నుంచి కాపాడుతాడు. నిశ్చయంగా అల్లాహ్‌ తిరస్కారులకు సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

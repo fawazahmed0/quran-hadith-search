@@ -2676,6 +2676,12 @@ Niścayaṅgā, ataḍu (ṣaitān) mim'malni duṣkāryālu mariyu aślīlamain
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాడు మిమ్మల్ని కేవలం చెడు వైపుకు, నీతి బాహ్యత వైపుకు పురికొల్పుతాడు. ఏ విషయాల జ్ఞానం మీకు లేదో వాటిని అల్లాహ్‌ పేరుతో చెప్పమని మీకు ఆజ్ఞాపిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

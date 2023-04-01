@@ -2676,6 +2676,12 @@ o pravakta! Visvasulanu yud'dhaniki protsahincu. Milo iravai mandi sthairyam gal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! విశ్వాసులను యుద్ధానికై ప్రేరేపించు. మీలో గనక ధైర్య స్థయిర్యాలు గలవారు ఇరవైమంది ఉంటే, వారు రెండొందల మందిని జయిస్తారు. ఒకవేళ మీలో వందమంది ఉంటే వారు వెయ్యిమంది అవిశ్వాసులను జయిస్తారు. ఎందుకంటే వారు (అవిశ్వాసులు) అవివేకులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

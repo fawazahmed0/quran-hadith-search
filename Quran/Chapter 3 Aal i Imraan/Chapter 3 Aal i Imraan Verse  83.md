@@ -2676,6 +2676,12 @@ emi? Viru allah dharmam kaka vere dharmanni avalambincagorutunnara? Mariyu bhumy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలోనూ, భూమిలోనూ ఉన్న వారంతా – తమకు ఇష్టమున్నా లేకపోయినా అల్లాహ్‌ విధేయతకు కట్టుబడి ఉండగా, వీరు అల్లాహ్‌ ధర్మాన్ని కాకుండా మరో ధర్మాన్ని అన్వేషిస్తున్నారా? ఎట్టకేలకు వారంతా ఆయన వైపునకే మరలించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

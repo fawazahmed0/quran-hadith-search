@@ -2676,6 +2676,12 @@ mariyu evaraitē kharcu cēsēṭappuḍu anavasara kharcu gānī lēka lōbhatv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు – ఖర్చుపెట్టే సమయంలో కూడా అటు మరీ దుబారా ఖర్చు చేయకుండా, ఇటు మరీ పిసినారితనం కూడా చూపకుండా – రెండింటికీ మధ్య – సమతూకాన్ని పాటిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

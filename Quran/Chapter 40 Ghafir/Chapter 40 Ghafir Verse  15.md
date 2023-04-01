@@ -2676,6 +2676,12 @@ ayana mahonnatamaina sthanalu galavadu, (sarvadhikara) sinhasananiki (ars ku) ad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన ఉన్నత శ్రేణులు కలవాడు, అర్ష్‌కు (సింహాసనానికి) అధిపతి. ఆయన తన దాసులలో తాను కోరినవారిపై తన సందేశాన్ని (వహీని) అవతరింపజేస్తాడు – సమావేశం కానున్న ఆ దినం గురించి అతడు (ప్రవక్త) భయపెట్టడానికి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

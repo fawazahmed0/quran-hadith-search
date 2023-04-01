@@ -2676,6 +2676,12 @@ evaraitē ī granthānni asatyamani tiraskarin̄cārō mariyu mēmu mā sandēś
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు గ్రంథాన్ని, మా ప్రవక్తలతోపాటు పంపినదానిని కూడా ధిక్కరించారు. వారు త్వరలోనే (యదార్థం ఏమిటో) తెలుసుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

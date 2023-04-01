@@ -2676,6 +2676,12 @@ okavēḷa vāru venudirigitē vāritō ilā anu: "Nēnu mīku andariki bahira�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ వారు గనక ముఖం త్రిప్పుకుంటే వారికీవిధంగా చెప్పెయ్యి: “నేను మిమ్మల్ని సమానంగా హెచ్చరించాను. మీకు వాగ్దానం చేయబడుతున్న విషయం సమీపంలో ఉందో, దూరాన ఉందో నాకైతే తెలియదు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

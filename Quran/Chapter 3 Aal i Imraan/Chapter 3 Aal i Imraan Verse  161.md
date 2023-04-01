@@ -2676,6 +2676,12 @@ mariyu ē pravakta kūḍā vijayadhanaṁ (būṭī) koraku nam'maka drōhānik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒక ప్రవక్త ద్రోహానికి పాల్పడటమనేది జరగని పని. ద్రోహానికి పాల్పడే ప్రతి ఒక్కడూ తను ద్రోహానికి పాల్పడిన దానిని తీసుకుని ప్రళయదినాన హాజరవుతాడు. తరువాత ప్రతి ఒక్కరికీ వారు చేసుకున్న కర్మలకు పూర్తి ప్రతిఫలం ఇవ్వబడుతుంది. వారికెలాంటి అన్యాయం జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

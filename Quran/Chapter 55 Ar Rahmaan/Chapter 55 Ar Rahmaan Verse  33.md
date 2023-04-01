@@ -2676,6 +2676,12 @@ o jinnatula mariyu manava jati varalara! Okavela miru akasala mariyu bhumi yokka
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ జిన్నుల, మానవుల సమూహానికి చెందినవారలారా! మీలో ఎవరికైనా భూమ్యాకాశాల అంచుల నుండి పారిపోయే శక్తి ఉంటే పారిపోయి చూడండి! అధికారం లేకుండా మీరు ఎట్టి పరిస్థితిలోనూ పోలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

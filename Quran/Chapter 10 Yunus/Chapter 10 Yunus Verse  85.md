@@ -2676,6 +2676,12 @@ Appuḍu vārilā javābiccāru: "Mēmu allāh nē nam'mukunnāmu. Ō mā prabh�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు, “మేము అల్లాహ్‌నే నమ్ముకున్నాము. మా ప్రభూ! మమ్మల్ని ఈ దుర్మార్గుల పరీక్షా సాధనంగా చేయకు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

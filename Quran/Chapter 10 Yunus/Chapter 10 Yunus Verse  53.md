@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Vāru iṅkā ilā aḍugutunnāru: " Ēmī? Idantā saty
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ, అది నిజమేనా?” అని వారు నిన్ను అడుగుతున్నారు. “అవును. నా ప్రభువు తోడు! అది (ఆ శిక్ష) పడటం సత్యం. అది సంభవించకుండా ఆపే శక్తి మీకు లేదు” అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

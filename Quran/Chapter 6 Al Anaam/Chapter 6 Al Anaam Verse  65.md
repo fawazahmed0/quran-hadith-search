@@ -2676,6 +2676,12 @@ ilā anu: "Āyana mī painuṇḍi gānī, lēdā mī pādāla krindi nuṇḍi 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “మీ పై నుండి గానీ, మీ పాదాల క్రింది నుంచి గానీ మీపైకి శిక్షను తెచ్చే, లేదా మిమ్మల్ని వర్గాలుగా విడగొట్టి ఒకరి తడాఖాను ఇంకొకరికి చూపించే శక్తి కూడా ఆయనే కలిగి ఉన్నాడు.” వారు వాస్తవాన్ని గ్రహించగలందులకు ఏ విధంగా మేము సూచనలను పలు రీతులుగా వివరిస్తున్నామో చూడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

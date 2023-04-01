@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Śikṣapaḍē ā rōju gurin̄ci prajalanu nīvu heccar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) శిక్ష వచ్చే రోజు గురించి ప్రజలను హెచ్చరించు. ఆ సమయంలో దుర్మార్గులు, “ప్రభూ! మాకు కొద్దిపాటి వ్యవధిని ఇస్తే మేము నీ పిలుపును అందుకుని, నీ ప్రవక్తలను అనుసరిస్తాము” అని అంటారు. (అప్పుడు వారితో ఇలా అనబడుతుంది), “ఏమిటీ, ప్రపంచం నుండి నిష్క్రమించటమనేది మాకు లేనే లేదని ఇంతకు ముందు మీరు ఒట్టేసి మరీ చెప్పలేదా?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

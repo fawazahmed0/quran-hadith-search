@@ -2676,6 +2676,12 @@ mariyu mānavulandarū modaṭa okē saṅghaṅgā (okē dharmaṁ mīda) uṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మొదట్లో జనులంతా ఒకే సంఘంగా ఉండేవారు. తరువాత వారు విభేదించుకున్నారు. నీ ప్రభువు తరఫు నుంచి ముందుగానే ఒక విషయం ఖరారు కాకుండా ఉన్నట్లయితే, వారు విభేదించుకునే విషయం ఎప్పుడో తేల్చివెయ్యబడేది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

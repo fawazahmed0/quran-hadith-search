@@ -2676,6 +2676,12 @@ kāvuna (ō pravaktā!) Vāru ārādhin̄cē vāṭini gurin̄ci nīvu sandēhan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ముహమ్మద్‌!) వారు పూజించే వాటి విషయంలో నువ్వు సందేహాలకు లోను కారాదు. ఇంతకు మునుపు వారి తాతముత్తాతలు పూజించినట్లుగానే వీళ్ళూ పూజిస్తున్నారు. మేమువాళ్లందరికీ వారి వారి భాగాన్నిపూర్తిగా – ఏ మాత్రం తగ్గించకుండా ఇస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

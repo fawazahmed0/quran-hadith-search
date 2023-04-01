@@ -2676,6 +2676,12 @@ vāritō yud'dhaṁ cēyaṇḍi. Allāh mī cētula dvārā vārini śikṣist�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారితో యుద్ధం చేయండి. అల్లాహ్‌ మీ చేతుల మీదుగా వారిని దండిస్తాడు. వారిని అవమానపరుస్తాడు. వారికి వ్యతిరేకంగా మీకు సాయం చేసి, విశ్వాసుల గుండెలను చల్లబరుస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

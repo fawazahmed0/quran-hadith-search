@@ -2676,6 +2676,12 @@ badr (yud'dhaṁ) nandu mīru balahīnulugā unnappuḍu allāh mīku sahāyaṁ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+బద్ర్‌ (యుద్ధం)లో మీరు అత్యంత దయనీయ స్థితిలో ఉన్నప్పుడు అల్లాహ్‌ మిమ్మల్ని ఆదుకున్నాడు. కాబట్టి అల్లాహ్‌కు మాత్రమే భయపడండి. తద్వారా మీకు కృతజ్ఞతలు తెలుపుకునే సద్బుద్ధి ప్రాప్తిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

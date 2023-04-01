@@ -2676,6 +2676,12 @@ o pravakta bharyalara! Miru sadharana strila vanti varu karu. Miru daivabhiti ga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్త సతీమణులారా! మీరు సాధారణ స్త్రీల వంటివారు కారు. మీరు (అల్లాహ్‌కు) భయపడేవారే అయితే సుతిమెత్తని శైలిలో మాట్లాడకండి. దాని వల్ల హృదయంలో (దురాలోచనా) రోగం ఉన్నవాడు అత్యాశకు పోవచ్చు. కనుక మాట్లాడితే ఉత్తమ రీతిలోనే మాట్లాడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

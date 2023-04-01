@@ -2676,6 +2676,12 @@ A taruvata. Atanini yuktamaina rupanlo tircididdi, atanilo tana (nundi) pranam (
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత తగు రీతిలో దానిని మలచి, అందులో తన వద్ద నుండి ఆత్మను ఊదాడు. మరి ఆయనే మీ చెవులను, కళ్లను, హృదయాలను చేశాడు. (ఈ ఉపకారాలకు కూడా) మీరు కృతజ్ఞతలు తెలుపుకునేది చాలా తక్కువే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

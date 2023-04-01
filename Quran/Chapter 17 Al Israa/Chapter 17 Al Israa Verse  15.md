@@ -2676,6 +2676,12 @@ evaḍu sanmārgānni avalambistāḍō, ataḍu niścayaṅgā, tana mēlukē s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సన్మార్గాన్ని పొందేవాడు తన మేలు కోసమే సన్మార్గాన్ని పొందుతాడు. పెడదారి పట్టేవాడు తన కీడుకు తానే కారకుడౌతాడు. బరువు మోసే వాడెవడూ ఇంకొకరి బరువును తనపై వేసుకోడు. ఒక ప్రవక్తను పంపనంతవరకూ ఎవరినయినా శిక్షించటం మా సంప్రదాయం కాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

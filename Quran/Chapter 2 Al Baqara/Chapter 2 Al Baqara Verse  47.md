@@ -2676,6 +2676,12 @@ o israyil santativaralara! Nenu miku cesina mahopakaranni jnapakam cesukondi mar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ఇస్రాయీలు (యాఖూబు) సంతతి వారలారా! నేను మీపై కురిపించిన అనుగ్రహాన్నీ, (నాటి) సమస్త లోకవాసులపై మీకు ఇచ్చిన ప్రాధాన్యతను గురించి (కాస్త) నెమరు వేసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

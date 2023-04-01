@@ -2676,6 +2676,12 @@ kāvuna evaraitē tama cētulārā oka pustakānni vrāsi - dāni valla tuccham�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ స్వహస్తాలతో లిఖించిన గ్రంథాన్ని దైవగ్రంథమని చెప్పి, ప్రాపంచిక తుచ్ఛ ప్రయోజనాన్ని పొందజూసే వారికి ‘వినాశం’ కలదు. వారి ఈ స్వహస్త లిఖిత రచన కూడా వారి వినాశానికి దారితీస్తుంది. వారి ఈ సంపాదన కూడా వారి నాశనానికి కారణ భూతం అవుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

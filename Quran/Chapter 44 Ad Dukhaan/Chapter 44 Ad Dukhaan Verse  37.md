@@ -2676,6 +2676,12 @@ vāru mēlaina vārā? Lēka tubba'a jātivāru mariyu vāri kaṇṭē pūrva�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, వీళ్లు గొప్పవారా లేక ‘తుబ్బా’ జాతి వారు, వారికి పూర్వం గతించిన వారు గొప్పవారా? మేము వాళ్ళందరినీ అంత మొందించాము. ఎందుకంటే వాళ్లు పాపాత్ములుగా తయారయ్యారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

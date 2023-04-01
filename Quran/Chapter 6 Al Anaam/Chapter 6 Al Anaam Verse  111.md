@@ -2676,6 +2676,12 @@ mariyu okavēḷa mēmu vāri vaipuku daivadūtalanu dimpinā mariyu maraṇin̄
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వాళ్ళ దగ్గరికి దూతలను పంపించినా, మృతులు వారితో మాట్లాడినా, సమస్త వస్తువులను మేము వారి కళ్ళ ఎదుటే తెచ్చిపెట్టినా వాళ్ళు విశ్వసించటమనేది కల్ల. ఒకవేళ అల్లాహ్‌ తలిస్తే అది వేరే విషయం. అయితే వీళ్ళలో చాలామంది అజ్ఞానపు మాటలు మాట్లాడేవారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

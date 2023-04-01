@@ -2676,6 +2676,12 @@ idi niścayaṅgā, vāru viśvasin̄cina taruvāta satyatiraskārulavaṭaṁ m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎందుకంటే వారు (మొదట) విశ్వసించి, ఆ తరువాత అవిశ్వాస వైఖరికి పాల్పడ్డారు. అందువల్ల వారి హృదయాలపై సీలు వేయబడింది. ఇక వారు ఏమీ అర్ధం చేసుకో(లే)రు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

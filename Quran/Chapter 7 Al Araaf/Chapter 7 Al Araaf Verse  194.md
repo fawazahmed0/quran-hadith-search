@@ -2676,6 +2676,12 @@ niścayaṅgā, mīru allāh nu viḍici evarinaitē pilustunnārō, vāru kū�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అల్లాహ్‌ను వదలి ఎవరెవరిని మొరపెట్టుకుంటున్నారో వారంతా మీలాంటి దాసులే. మీరు మొరపెట్టుకుంటూనే ఉండండి. (ఈ బహుదైవోపాసనలో) మీరు గనక సత్యవంతులయితే వారు మీ మొరలను ఆలకించి వాటికి సమాధానం ఇవ్వాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

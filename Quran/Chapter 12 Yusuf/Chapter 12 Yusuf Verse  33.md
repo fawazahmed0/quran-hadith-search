@@ -2676,6 +2676,12 @@ ataṟkavar, ‘‘eṉ iṟaivaṉē! Avarkaḷ eṉṉai aḻaikkum (ittīya) 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు యూసుఫ్‌, “ప్రభూ! ఈ స్త్రీలు దేనికోసం నన్నుపిలుస్తున్నారో దానికన్నా కారాగారమే నాకు ప్రీతికరమైనది. నీవు గనక వీళ్ల జిత్తులను నానుండి దూరం చేయకపోతే, నేను వీళ్ల వలలో పడిపోయి, అవివేకులలో చేరిపోతాను!” అని మొరపెట్టుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

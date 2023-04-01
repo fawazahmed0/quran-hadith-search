@@ -2676,6 +2676,12 @@ mariyu ataḍu (kumāruḍu) annāḍu: "Nēnu oka koṇḍa paiki ekki śaraṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వాడు, “(నాన్నా!) నేను ఏదయినా ఒక పెద్ద పర్వతాన్ని ఆశ్రయిస్తాను. అది నన్ను ఈ నీళ్ళ నుంచి కాపాడుతుంది” అని జవాబిచ్చాడు. “అల్లాహ్‌ ఉత్తర్వు నుండి ఈ రోజు కాపాడేవాడెవడూలేడురా! అల్లాహ్‌ తాను దయదలచిన వారిని మాత్రమే కాపాడతాడు” అని నూహ్‌ చెప్పాడు. అంతలోనే వారిద్దరి మధ్యా ఒక అల అడ్డుగా వచ్చింది. అంతే! వాడు కూడా ముంపుకు గురైన వారిలో చేరిపోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

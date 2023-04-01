@@ -2676,6 +2676,12 @@ mariyu idē vidhaṅgā mēmu prati nagaranlō, dānilōni nērasthulaina peddav
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదే విధంగా మేము ప్రతి పట్టణంలోనూ అక్కడి సర్దారులనే అపరాధాలకు ఒడిగట్టేవారుగా చేశాము – అక్కడ వారు తమ పన్నాగాలు పన్నటానికి! వాస్తవానికి వారు తమను తామే వంచించుకుంటున్నారు. కాని వారికి ఆ సంగతి తెలియటం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

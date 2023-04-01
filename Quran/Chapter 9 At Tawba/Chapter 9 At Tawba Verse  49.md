@@ -2676,6 +2676,12 @@ mariyu vārilō: "Nāku (venuka uṇḍaṭāniki) anumatinivvu! Nannu ē mātra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నాకు అనుమతి ఇవ్వండి. నన్ను పరీక్షకు గురి చేయకండి” అని వారిలో ఒకడంటాడు. తెలుసుకోండి! వారు పరీక్షకు గురయ్యే ఉన్నారు. నిశ్చయంగా నరకం అవిశ్వాసులను చుట్టు ముట్టేస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

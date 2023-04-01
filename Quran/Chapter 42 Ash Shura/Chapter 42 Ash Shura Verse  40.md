@@ -2676,6 +2676,12 @@ mariyu kīḍuku pratīkāraṁ dānantaṭi kīḍu mātramē. Kāni evaḍain�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అపకారానికి బదులు అటువంటి అపకారమే. కాని ఎవరయినా (ప్రత్యర్థిని) క్షమించి, సయోధ్యకు వస్తే అతనికి పుణ్య ఫలం ఇచ్చే బాధ్యత అల్లాహ్‌ది. ఎట్టి పరిస్థితిలోనూ అల్లాహ్‌ దుర్మార్గులను ప్రేమించడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

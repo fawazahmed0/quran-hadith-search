@@ -2676,6 +2676,12 @@ bahudaivārādhakulu (muṣrikīn), tāmu satyatiraskārulamani sākṣyamistū,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ముష్రిక్కులు తాము స్వయంగా తమ అవిశ్వాసాన్ని గురించి సాక్ష్యమిస్తున్నప్పుడు వారు అల్లాహ్‌ మస్జిదుల నిర్వహణకు ఎంతమాత్రం తగరు. వారి కర్మలన్నీ వృథా అయిపోయాయి. శాశ్వతంగా వారు నరకాగ్నిలో ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

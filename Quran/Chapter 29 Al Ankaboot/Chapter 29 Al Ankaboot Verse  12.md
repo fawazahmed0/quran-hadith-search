@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulu, viśvāsulatō: "Mīru mā mārgānni anusarin̄caṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసులు విశ్వసించినవారితో, “మీరు మా మార్గాన్ని అనుసరించండి. మీ పాపాలను మేము మోస్తాం” అని అన్నారు. వాస్తవానికి వీళ్ళ పాపాలలో దేన్నీ వారు మోయరు. వారు పచ్చి అబద్ధాలకోరులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Vāru vādistū uṇḍina dānini gurin̄ci vāriki telupaṭāniki mariyu saty
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు విభేదించుకునే విషయాన్ని అల్లాహ్‌ వారికి స్పష్టంగా తెలియజేయటానికి,తాము అబద్ధాలకోరులం అని అవిశ్వాసులు స్వయంగా తెలుసుకోవటానికి (వారిని తిరిగి బ్రతికించటం జరుగుతుంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

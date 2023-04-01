@@ -2676,6 +2676,12 @@ lēka vārilōni cālā mandi viṇṭārani lēdā arthaṁ cēsukuṇṭārani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారిలో అత్యధికమంది వింటారనీ, అర్థం చేసుకుంటారని నువ్వు (ఇప్పటికీ) అనుకుంటున్నావా? వారు వట్టి పశువుల్లాంటి వారు. పైగా వాటికన్నా ఎక్కువగా దారితప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

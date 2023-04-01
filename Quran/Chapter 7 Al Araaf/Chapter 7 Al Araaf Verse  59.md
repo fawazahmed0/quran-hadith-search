@@ -2676,6 +2676,12 @@ vāstavaṅgā, mēmu nūh nu atani jātivāri vaddaku pampāmu. Atanu vāritō:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము నూహ్‌ (అలైహిస్సలాం)ను అతని జాతి వద్దకు పంపాము. అప్పుడతను, “ఓ నా జాతి ప్రజలారా! మీరు అల్లాహ్‌ను ఆరాధించండి. ఆయన తప్ప వేరెవరూ మీ ఆరాధనకు అర్హులు కారు. మీ విషయంలో ఒక మహాదినం నాటి శిక్ష గురించి నాకు భయంగా ఉంది” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

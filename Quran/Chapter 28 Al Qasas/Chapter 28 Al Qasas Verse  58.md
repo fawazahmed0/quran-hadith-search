@@ -2676,6 +2676,12 @@ mariyu mēmu ennō nagarālanu, jīvana sukhasampadalatō uppoṅgipōtū uṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మేము, భోగభాగ్యాల మూలంగా మిడిసిపడే ఎన్నో జనవాసాలను తుదముట్టించాము. అవిగో, అవే వారి నివాస స్థలాలు! వారి తదనంతరం చాలా కొద్దిమంది మాత్రమే అక్కడ ఉండగలిగారు. ఆఖరికి అన్నింటికీ వారసులం అయ్యేది మేమే సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

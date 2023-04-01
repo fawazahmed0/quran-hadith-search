@@ -2676,6 +2676,12 @@ atanu (jul khar nain) annāḍu: "Idi nā prabhuvu yokka kāruṇyaṁ. Kāni n�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇది కేవలం నా ప్రభువు కటాక్షం. అయితే నా ప్రభువు వాగ్దాన సమయం వచ్చినపుడు ఆయన దాన్ని నేలమట్టం చేసేస్తాడు. నిశ్చయంగా నా ప్రభువు వాగ్దానం నెరవేరటం తథ్యం” అని జుల్‌ఖర్‌నైన్‌ చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

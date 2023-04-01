@@ -2676,6 +2676,12 @@ mariyu ī vidhaṅgā mēmu yūsuph ku bhūmipai adhikāra mosaṅgāmu. Dānit�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ విధంగా మేము యూసుఫ్‌కు (ఈజిప్టు రాజ్య) భూభాగంలో అధికారాన్ని ప్రసాదించాము. అక్కడ తాను కోరిన చోట నివసించే సౌలభ్యం అతనికి ఇచ్చాము. మేము కోరిన వారికి (ఇలాగే) మా కారుణ్య భాగ్యాన్ని ప్రసాదిస్తాము. సజ్జనుల పుణ్యఫలాన్ని మేము వృథా కానివ్వము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

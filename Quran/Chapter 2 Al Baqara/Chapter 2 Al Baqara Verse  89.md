@@ -2676,6 +2676,12 @@ mariyu ippuḍu vāri vadda nunna dānini (taurāt nu) dhr̥vīkarin̄cē granth
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి వద్ద (ముందు నుంచే) ఉన్న దైవగ్రంథాన్ని ధృవీకరించే గ్రంథం అల్లాహ్‌ వద్ద నుంచి వచ్చినప్పుడు, తెలిసి కూడా వారు దానిని తిరస్కరించసాగారు – మరి చూడబోతే దీని రాకకు మునుపు తమకు అవిశ్వాసులపై విజయం చేకూరాలని వారు స్వయంగా అభిలషించేవారు. ఇటువంటి తిరస్కారులపై అల్లాహ్‌ శాపం పడుగాక
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

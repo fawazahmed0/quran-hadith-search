@@ -2676,6 +2676,12 @@ mariyu evaru allāh ku mariyu pravaktaku vidhēyulai uṇṭārō, alāṇṭi v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే అల్లాహ్‌కు, ప్రవక్త (సఅసం)కు విధేయత కనబరుస్తారో వారే అల్లాహ్‌ అనుగ్రహం పొందిన ప్రవక్తలతోనూ, సత్య సంధులతోనూ, షహీదులతోనూ, సద్వర్తనులతోనూ ఉంటారు. వీరు ఎంతో మంచి స్నేహితులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

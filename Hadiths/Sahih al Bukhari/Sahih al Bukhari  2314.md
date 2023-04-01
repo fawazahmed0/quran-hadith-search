@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah mengabarkan kepada kami [Al 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd İbn Halid ve Ebu Hureyre'nin rivayet ettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Ey Uneys' (Zina ettiği iddia edilen) o kadına git, eğer suçunu itiraf ederse ona recim cezası uygula. " Tekrar: 2695, 2724, 6633, 6827, 6
+Zeyd İbn Halid ve Ebu Hureyre'nin rivayet ettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Ey Uneys' (Zina ettiği iddia edilen) o kadına git, eğer suçunu itiraf ederse ona recim cezası uygula. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2314</td></tr><tr><td>Arabic No</td><td>2314</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

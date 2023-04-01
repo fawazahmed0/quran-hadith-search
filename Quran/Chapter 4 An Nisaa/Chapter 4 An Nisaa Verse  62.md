@@ -2676,6 +2676,12 @@ ayitē vāru tama cētulārā cēsukunna (duṣkāryāla) phalitaṅgā vāriki 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఇదేమిటి? వారు తమ చేజేతులా చేసుకున్న దాని పర్యవసానంగా వారిపై ఏదన్నా ఆపద వచ్చిపడితే, అప్పుడు వారు నీ వద్దకు వచ్చి, అల్లాహ్‌పై ప్రమాణం చేస్తూ , “మేము మేలును, సయోధ్యను కాంక్షించి మాత్రమే ఇలా చేశాము” అని అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

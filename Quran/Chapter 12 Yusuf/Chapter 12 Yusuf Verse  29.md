@@ -2676,6 +2676,12 @@ o yusuph! I visayanni ponivvu!" (Tana bharyato annadu): "Nivu ni papaniki ksamap
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“యూసుఫ్‌! ఈ విషయాన్ని ఇంతటితో వదిలెయ్యి. (ఏమే!) నువ్వు మాత్రం నీతప్పుకు (అల్లాహ్‌ను) క్షమాపణ వేడుకో. ముమ్మాటికీ తప్పు నీదే” (అన్నాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Munofiqon dar ʙaroʙari şumo ʙa Alloh savgandi durūƣ mexūrand, to xuşnuda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మిమ్మల్నిసంతోషపెట్టడానికి వారు మీ ముందు అల్లాహ్‌పై ప్రమాణాలు చేస్తూ పోతారు. వారు విశ్వాసులే గనక అయితే వారి ఈ సంతోషపెట్టే ధోరణికి అల్లాహ్‌ మరియు ఆయన ప్రవక్త అందరికంటే ఎక్కువ హక్కుదారులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

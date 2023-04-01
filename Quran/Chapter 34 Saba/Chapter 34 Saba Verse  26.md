@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Mana prabhuvu manandarinī (punarut'thāna dinamuna) okē c�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మన ప్రభువు మనందరినీ సమావేశపరచి ఆ తరువాత మన మధ్య సత్యబద్ధంగా తీర్పుచేస్తాడు. ఆయన తీర్పులు చేసేవాడు, సర్వం తెలిసినవాడు” అని చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

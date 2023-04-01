@@ -2676,6 +2676,12 @@ mariyu satyaṁ rītyā mariyu n'yāyaṁ rītyā nī prabhuvu vākku pūrti ayy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సత్యం రీత్యా, న్యాయం రీత్యా నీ ప్రభువు వాక్కు సంపూర్ణమైనది. ఆయన వాక్కులను మార్చగలవాడెవడూ లేడు. ఆయన ప్రతిదీ వినేవాడు, ప్రతిదీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

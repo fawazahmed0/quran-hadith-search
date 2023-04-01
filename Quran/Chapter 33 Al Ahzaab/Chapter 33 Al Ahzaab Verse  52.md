@@ -2676,6 +2676,12 @@ vīru gāka, itara strīlu nīku (vivāhamāḍaṭāniki) dharmasam'mataṁ kā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇక దీని తరువాత, వేరితర స్త్రీలు నీ కొరకు ధర్మసమ్మతం కారు. వీరికి బదులుగా ఇతర స్త్రీలను భార్యలుగా చేసుకోవటం కూడా నీకు సమ్మతం కాదు – వారి అందచందాలు నీకు ఎంత నచ్చినాసరే! అయితే (విజయ ప్రాప్తిగా) నీ స్వాధీనంలోకి వచ్చినవారైతే అది వేరే విషయం. అల్లాహ్‌ అన్నింటినీ కనిపెట్టుకుని ఉన్నాడు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ bhūmyākāśālaku prabhuvu mariyu sinhāsanāniki (arṣ ku) prabhuvu ayina ā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీళ్లు భూమ్యాకాశాల ప్రభువు, అర్ష్‌ (సింహాసనము) నకు అధిపతి అయిన అల్లాహ్‌ వీళ్లు బొంకే మాటలన్నింటికీ అతీతుడు, పవిత్రుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

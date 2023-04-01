@@ -2676,6 +2676,12 @@ o visvasulara! Allah miku dharmasam'matam cesina parisud'dha vastuvulanu nisid'd
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన ఓ ప్రజలారా! అల్లాహ్‌ మీ కోసం ధర్మసమ్మతం (హలాల్‌) చేసిన పవిత్రమైన వస్తువులను మీ అంతట మీరుగా నిషేధించుకోకండి. మితిమీరి పోకండి. నిశ్చయంగా అల్లాహ్‌ మితిమీరి పోయేవారిని ఇష్టపడడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

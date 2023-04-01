@@ -2676,6 +2676,12 @@ mīku asahyakaramainā! (Dharma) yud'dhaṁ cēyaṭaṁ mīku vidhigā nirṇay
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+యుద్ధం చేయటం మీకు కష్టంగా అనిపించినప్పటికీ, అది మీపై విధిగా నిర్ణయించబడింది. మీరు దేన్ని ఇష్టపడటం లేదో అదే మీ పాలిట బహుశా శుభకరం కావచ్చు. అలాగే మీరు మీ కోసం ఎంతగానో కోరుకునే విషయాలే మీ పాలిట హానికరంగా రూపొందవచ్చు. నిజ జ్ఞానం అల్లాహ్‌కు మాత్రమే ఉంది. మీకు ఆ విషయం తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

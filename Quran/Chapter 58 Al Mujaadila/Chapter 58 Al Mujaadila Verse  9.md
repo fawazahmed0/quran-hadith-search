@@ -2676,6 +2676,12 @@ o visvasulara! Miru rahasya samalocanalu ceste - papakaryalu, haddulu miri prava
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు గనక (పరస్పరం) రహస్య సమాలోచన జరిపితే పాపం, అత్యాచారం, ప్రవక్త పట్ల అవిధేయత గురించిన సమాలోచన జరపకండి. దానికి బదులు సత్కార్యం, భయ భక్తులకు సంబంధించిన సమాలోచన జరపండి. అల్లాహ్ కు భయపడుతూ ఉండండి. ఆయన వద్దకే మీరంతా సమీకరించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu idē mā vādana, dānini mēmu ibrāhīm ku, tana jātivāriki vyatirēk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇబ్రాహీము (అలైహిస్సలాం) తన జాతి వారిని ఎదుర్కొనటానికిగాను మేము అతనికి ఇచ్చిన మా ‘నిదర్శనం’ ఇది! మేము తలచుకున్నవారి అంతస్తుల్ని పెంచుతాము. నిశ్చయంగా నీ ప్రభువు వివేకవంతుడు, గొప్ప పరిజ్ఞానం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

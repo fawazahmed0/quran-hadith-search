@@ -2676,6 +2676,12 @@ allāh, satyavantulaku vāri satyāniki pratiphalaṁ nosaṅgaṭāniki mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఎందుకంటే) అల్లాహ్‌ సత్యవంతులకు వారి సత్యత యొక్క ప్రతిఫలం వొసగటానికి, ఇంకా (అల్లాహ్‌) తాను కోరితే కపటులను శిక్షించటానికి లేదా వారి పశ్చాత్తాపాన్ని స్వీకరించటానికి (ఇదంతా జరిగింది). అల్లాహ్‌ అపారంగా క్షమించేవాడు, అమితంగా కరుణించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

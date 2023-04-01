@@ -2676,6 +2676,12 @@ taruvāta phir'aun kuṭumbanvāru - tamaku śatruvai, duḥkhakāraṇuḍava�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+చివరకు ఫిరౌను కుటుంబీకులు ఆ పసికందును ఎత్తుకున్నారు – ఎట్టకేలకు ఈ పసివాడే వారికి శత్రువుగా తయారై, వారి విషాదానికి కారకుడయ్యేందుకు. మొత్తానికి ఫిరౌను, హామాను, వారి సేనలు – వారందరూ పాపాత్ములనటంలో సందేహమే లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

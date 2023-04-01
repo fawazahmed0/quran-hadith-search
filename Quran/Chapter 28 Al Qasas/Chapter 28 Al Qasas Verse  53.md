@@ -2676,6 +2676,12 @@ mariyu vāriki idi vinipin̄cabaḍi nappuḍu, vāru ilā aṇṭāru: "Mēmu d
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి, దానిని (ఖుర్‌ఆన్‌ను) చదివి వినిపించినప్పుడు, “ఇది మా ప్రభువు తరఫు నుంచి వచ్చిన సత్యం అని మేము విశ్వసిస్తున్నాము. అసలు మేము దీనికి ముందు నుంచే ముస్లిములుగా ఉన్నాము” అని వారు చెబుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

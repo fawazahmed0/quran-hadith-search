@@ -2676,6 +2676,12 @@ ataṟkavar ‘‘uṅkaḷukku oru naṉmaiyum tīmaiyum ceyya caktiyaṟṟa a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఇబ్రాహీమ్‌ అప్పటికప్పుడే) అడిగేశాడు : “(మీ పరిస్థితి కడు శోచనీయం!) మీరు అల్లాహ్‌ను వదలి మీకు ఏమాత్రం లాభం గానీ, నష్టంగానీ కలిగించలేని వాటిని పూజిస్తున్నారా?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

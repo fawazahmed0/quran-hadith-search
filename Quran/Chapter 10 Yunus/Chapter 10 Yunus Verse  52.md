@@ -2676,6 +2676,12 @@ appuḍu durmārgulatō ilā anabaḍutundi: "Mīru śāśvatamaina śikṣanu a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు దుర్మార్గులతో ఇలా చెప్పబడుతుంది: “ఇక శాశ్వతమైన శిక్షను చవిచూడండి. మీరు సంపాదించుకున్న దాని ఫలితమే మీకు లభించింది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

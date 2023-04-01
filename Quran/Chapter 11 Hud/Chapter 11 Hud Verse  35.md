@@ -2676,6 +2676,12 @@ emi? Varu: "Atane (muham'made) dinini kalpincadu" ani antunnara? Varito ila anu:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, అతను (ముహమ్మదు) స్వయంగా దీనిని (ఖుర్‌ఆన్‌ను) కల్పించుకున్నాడని వాళ్లంటున్నారా? (ఓ ముహమ్మద్‌!) వారికి చెప్పు: “ఒకవేళ నేనే గనక దాన్ని కల్పించుకుని ఉంటే నానేరం నాపై పడుతుంది. మీరు చేస్తున్న నేరానికి మాత్రం నేను బాధ్యుణ్ణి కాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

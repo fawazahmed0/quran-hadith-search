@@ -2676,6 +2676,12 @@ Emi? Variki kallunnaya, vatito nadavataniki? Leda variki cetulunnaya, vatito pat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, వారు నడవగలగటానికి వారికేమయినా కాళ్లున్నాయా? వారు దేనినయినా పట్టుకోవటానికి వారికి చేతులున్నాయా? చూడగలగటానికి వారికి కళ్లున్నాయా? వినగలగటానికి వారికి చెవులున్నాయా? (ఓ ప్రవక్తా!) వారికి చెప్పు : “మీరు మీ భాగస్వాములందర్నీ పిలుచుకోండి. మరి మీరంతా కలసి నాకు కీడు కలిగించే వ్యూహాన్నీ రచించండి. నాకు కొద్దిపాటి గడువు కూడా ఇవ్వకండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

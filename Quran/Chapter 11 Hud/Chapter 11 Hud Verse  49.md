@@ -2676,6 +2676,12 @@ Alloh ʙaroi Rasulaş Muhammad sallallohu alajhi va sallam megūjad: Inho az xa�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) ఇవి అగోచర సమాచారాలు. వీటిని మేము నీకు వహీ ద్వారా తెలియజేస్తున్నాము. ఇంతకు మునుపు నీకు గానీ, నీజాతి వారికి గానీ వీటి గురించి ఏమీ తెలియదు. కనుక నీవు ఓర్పు వహిస్తూ ఉండు, నిస్సందేహంగా సత్ఫలితం భయభక్తులు గలవారికే లభిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

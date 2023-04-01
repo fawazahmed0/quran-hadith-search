@@ -2676,6 +2676,12 @@ allāhvuṭaiya rahmattiṉ kāraṇamākavē nīr avarkaḷiṭam meṉmaiyāka
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) అల్లాహ్‌ దయవల్లనే నీవు వారి యెడల మృదు మనస్కుడవయ్యావు. ఒకవేళ నువ్వే గనక కర్కశుడవు, కఠిన మనస్కుడవు అయివుంటే వారంతా నీ దగ్గరి నుంచి వెళ్ళిపోయేవారు. కనుక నువ్వు వారిపట్ల మన్నింపుల వైఖరిని అవలంబించు, వారి క్షమాపణ కోసం (దైవాన్ని) వేడుకో. కార్య నిర్వహణలో వారిని సంప్రదిస్తూ ఉండు. ఏదైనా పని గురించి తుది నిర్ణయానికి వచ్చినప్పుడు, అల్లాహ్‌పై భారం మోపు. నిశ్చయంగా అల్లాహ్‌ తనను నమ్ముకున్న వారిని ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

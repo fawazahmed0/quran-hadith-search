@@ -2676,6 +2676,12 @@ ika evaḍainā allāh tō pāṭu maroka daivānni - tana vadda dāni koraku el
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవడైనా, తన దగ్గర ఏ ప్రమాణమూ లేకపోయినప్పటికీ- అల్లాహ్‌తో పాటు వేరొక దేవుణ్ణి మొరపెట్టుకుంటే, అటువంటి వ్యక్తి లెక్క అతని ప్రభువు వద్ద ఉన్నది. నిశ్చయంగా అవిశ్వాసులు సఫలురు కాలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

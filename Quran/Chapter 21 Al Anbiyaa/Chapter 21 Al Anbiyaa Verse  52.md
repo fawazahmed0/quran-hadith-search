@@ -2676,6 +2676,12 @@ atanu tana taṇḍri mariyu tana jāti prajalatō ilā annappuḍu: "Mīru bhak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను తన తండ్రితో, తన జాతి వారితో, “ఇంతకీ మీరు ఇంతటి శ్రద్ధాభక్తులతో పూజిస్తూ కూర్చున్న ఈ విగ్రహాల సంగతేమిటీ?” అని అడిగినప్పుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

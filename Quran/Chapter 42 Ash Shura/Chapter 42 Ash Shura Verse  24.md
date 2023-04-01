@@ -2676,6 +2676,12 @@ emi? Varu: "Atanu (muham'mad!) Allah peruto asatyalu kalpistunnadu" ani antunnar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటి, ఇతను (దైవప్రవక్త – స) అల్లాహ్‌కు వ్యతిరేకంగా అబద్ధం కల్పించాడని వారంటున్నారా?” అల్లాహ్‌యే గనక తలిస్తే నీ హృదయానికి సీలు వేస్తాడు. అల్లాహ్‌ అసత్యాన్ని చెరిపివేసి, సత్యాన్ని తన వచనాల ద్వారా సత్యంగా నిలిపి ఉంచుతాడు. ఆయన ఆంతర్యాల్లో దాగివున్న విషయాలను సైతం ఎరిగినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

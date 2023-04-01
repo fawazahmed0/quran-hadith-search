@@ -2676,6 +2676,12 @@ kāni gruḍḍivānipai elāṇṭi ninda lēdu mariyu kuṇṭivānipai kūḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+గుడ్డివానిపై ఎలాంటి నిందారోపణ లేదు, కుంటివానిపై ఎలాంటి నిందారోపణ లేదు, వ్యాధి గ్రస్తునిపై కూడా ఎలాంటి నిందారోపణ లేదు. ఎవడు అల్లాహ్ కు, ఆయన ప్రవక్తకు విధేయుడై మసలుకుంటాడో అల్లాహ్ అతన్ని క్రింద సెలయేరులు ప్రవహించే స్వర్గవనాలలో ప్రవేశింపజేస్తాడు. మరి వెన్నుచూపి తిరిగిపోయిన వానికి వ్యధాభరితమైన శిక్షకు గురిచేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

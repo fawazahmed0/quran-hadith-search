@@ -2676,6 +2676,12 @@ eṉakkiṭaiyilum, uṅkaḷukkiṭaiyilum cāṭciyāyirukka allāhvē pōtum�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు : “మీకూ – నాకూ మధ్య సాక్షిగా అల్లాహ్‌ చాలు. భూమ్యాకాశాలలో వున్న ప్రతిదీ ఆయనకు తెలుసు. అసత్యాన్ని నమ్మి, అల్లాహ్‌ను తిరస్కరించినవారే తీవ్రంగా నష్టపోయేవారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

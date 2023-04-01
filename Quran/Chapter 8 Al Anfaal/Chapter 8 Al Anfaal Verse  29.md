@@ -2676,6 +2676,12 @@ o visvasulara! Miru allah yandu bhayabhaktulu kaligi unte, ayana miku (manci-ced
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు గనక అల్లాహ్‌ యెడల భయభక్తులతో మెలిగినట్లయితే ఆయన మీకు నిర్ణయాత్మకమైన ఒక వస్తువును (ఫుర్‌ఖాన్‌ను) ప్రసాదిస్తాడు. మీ పాపాలను మీ నుండి దూరం చేస్తాడు. మిమ్మల్ని క్షమిస్తాడు. ఆయన గొప్ప అనుగ్రహం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

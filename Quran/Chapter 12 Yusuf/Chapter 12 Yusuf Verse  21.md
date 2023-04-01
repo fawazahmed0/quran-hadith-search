@@ -2676,6 +2676,12 @@ mariyu atanini konna ījipṭu (misr) vāsi tana bhāryatō annāḍu: "Itanini 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈజిప్టు వారిలో యూసుఫును కొన్న వ్యక్తి తన భార్యతో, “ఇతన్నిగౌరవాదరణలతో ఉంచు. బహుశా ఇతని వల్ల మనకు లాభం కలగవచ్చు. లేదా ఇతన్ని మనం మన కొడుకుగా నయినా చేసుకోవచ్చు” అన్నాడు. ఈ విధంగా మేము, స్వప్నాల సారాన్ని గ్రహించే విద్యను నేర్పడానికి ఈజిప్టు భూభాగంపై యూసుఫ్‌కు నిలదొక్కుకునే అవకాశం కల్పించాము. అల్లాహ్‌ తన నిర్ణయాన్ని అమలు పరచి తీరుతాడు. కాని ప్రజలలో చాలామందికి ఈ విషయం తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

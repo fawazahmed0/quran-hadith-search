@@ -2676,6 +2676,12 @@ Eṉ arumai makaṉē! Umatu kaṉavai uṉ cakōtararkaḷiṭam collik kāṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా ముద్దుల బాబూ! నువ్వు కన్న కలను గురించి నీ సోదరులకు మాత్రం చెప్పకురా. బహుశా వారు నీకు వ్యతిరేకంగా కుట్ర పన్నవచ్చురా. నిశ్చయంగా షైతాన్‌ మనిషికి బద్ధవిరోధి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

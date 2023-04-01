@@ -2676,6 +2676,12 @@ mam'malni ī āpada nuṇḍi kāpāḍitē mēmentō kr̥tajñulamavutāmu.' An
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారిని అడుగు: “నేలపై, సముద్రాలపై అలుముకున్న చీకట్లలో నుండి మిమ్మల్ని రక్షించేవాడెవడు? ‘ఆయన గనక మమ్మల్ని ఈ ఆపద నుంచి రక్షిస్తే మేము తప్పకుండా కృతజ్ఞులమై ఉంటామ’ని కడు దీనంగా, లోలోపలే మీరు ఎవరిని వేడుకుంటారు?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

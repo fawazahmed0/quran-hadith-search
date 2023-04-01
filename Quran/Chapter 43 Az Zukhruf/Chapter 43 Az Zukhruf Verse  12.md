@@ -2676,6 +2676,12 @@ mariyu āyanē anni rakāla jatalanu puṭṭin̄cāḍu! Mariyu ōḍalanu mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన వస్తువులన్నింటికీ జతలను సృష్టించాడు. మరి మీ కోసం ఓడలను, పశువులను (కూడా) చేశాడు. వాటిపై మీరు ఎక్కిపోతుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

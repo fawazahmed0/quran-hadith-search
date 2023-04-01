@@ -2676,6 +2676,12 @@ mariyu nūh ōḍa nirmistū unnappuḍu, pratisāri atani jāti nāyakulu atani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను (నూహు) ఓడ నిర్మాణంలో నిమగ్నుడయ్యాడు. అతని జాతి నాయకులలో అతని వద్ద నుంచి సాగిపోయే వారంతా అతన్ని ఎగతాళి చేసేవారు. “మీరు మాస్థితిపై నవ్విపోతున్నారా? మీరు మాస్థితిపై నవ్విపోతున్నట్లే మేము కూడా ఒకనాడు మీస్థితిపై నవ్వుతాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

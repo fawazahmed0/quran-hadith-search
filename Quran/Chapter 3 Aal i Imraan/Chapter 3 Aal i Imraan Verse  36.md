@@ -2676,6 +2676,12 @@ taruvāta āme āḍa śiśuvu (maryam) nu prasavin̄cinappuḍu, āme ilā vinn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత ఆమె ప్రసవించినప్పుడు, ”ప్రభూ! నాకు ఆడపిల్ల కలిగినదే!” అని విన్నవించుకుంది. ఆమె కన్న సంతానం ఏదో అల్లాహ్‌కు బాగా తెలుసు. మగ పిల్లవాడు ఆడపిల్ల వంటివాడు కాడు. ”నేను ఈ పాపకు మర్యమ్‌ అని పేరు పెట్టాను. నేను ఈమెనూ, ఈమె సంతానాన్ని శాపగ్రస్తుడైన షైతాన్‌ బారి నుంచి రక్షణ పొందటానికి నీకు అప్పగిస్తున్నాను” అని అన్నది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

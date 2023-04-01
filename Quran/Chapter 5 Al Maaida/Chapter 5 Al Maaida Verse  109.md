@@ -2676,6 +2676,12 @@ a roju allah pravaktalandarini samavesaparaci: "Mikemi javabu ivvabadindi?" Ani 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ రోజున అల్లాహ్‌ ప్రవక్తలందరినీ సమావేశపరచి, “మీకు ఏం సమాధానం లభించింది?” అని అడుగుతాడో ఆ రోజు, “మాకేమీ తెలియదు. నిశ్చయంగా రహస్య విషయాల గురించి పరిపూర్ణ జ్ఞానం కలవాడవు నువ్వే” అని వారంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

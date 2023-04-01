@@ -2676,6 +2676,12 @@ Mariyu (jñāpakaṁ cēsukōṇḍi) allāh neravērcavalasina panini neravērc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిర్ణయించబడిన కార్యాన్ని పూర్తి చేసేందుకు మీరు పరస్పరం మార్కొన్న సమయంలో అల్లాహ్‌, మీ కళ్లకు వారు (శత్రువులు) కొద్దిమందిగా కనిపించేలా చేశాడు. అదే సమయంలో వారి కళ్లకు కూడా మిమ్మల్ని కొద్దిమందిగానే చూపించాడు. సమస్త వ్యవహారాలూ అల్లాహ్‌ వైపుకే మళ్ళించబడతాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ iṉṉum kūṟuvīrāka"eṉ mārkkattil antaraṅka cuttiyāka allāhvaiyē n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలా చెప్పు: “నేను మాత్రం నా దాస్యాన్ని అల్లాహ్‌కే ప్రత్యేకించి, ఆయన్నే ఆరాధిస్తాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

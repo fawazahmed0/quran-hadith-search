@@ -2676,6 +2676,12 @@ civaraku mā ādēśaṁ vaccinappuḍu, mēmu ṣu'aib nu mariyu atanitō pā�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మా ఉత్తర్వు (శిక్ష) వచ్చేసినప్పుడు, మేము షుఐబును, అతని వెంటనున్న విశ్వాసులను మా ప్రత్యేక కటాక్షంతో కాపాడాము. దుర్మార్గానికి ఒడిగట్టిన వారిని మాత్రం భయంకరమైన శబ్దం కబళించింది. దాంతో వారు తమ ఇంట్లో బోర్లా పడి పడినట్లే ఉండిపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

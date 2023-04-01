@@ -2676,6 +2676,12 @@ mariyu evaraitē viśvasistārō mariyu vāri santānanvāru viśvāsanlō vāri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరైతే విశ్వసించారో, వారి సంతానం కూడా విశ్వసించి వారిని అనుసరించి ఉంటే, మేము వారి సంతానాన్ని కూడా వారితో కలుపుతాము. మరి వారి కర్మలను ఏ మాత్రం తగ్గించము. (నిజానికి) ప్రతి వ్యక్తీ తన సంపాదనకు తాకట్టుగా ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

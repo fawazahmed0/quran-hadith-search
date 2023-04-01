@@ -2676,6 +2676,12 @@ mariyu namāj sthāpin̄caṇḍi. Vidhidānaṁ (jakāt) ivvaṇḍi. Mīru mun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు మాత్రం నమాజును నెలకొల్పుతూ, జకాత్‌ను ఇస్తూ ఉండండి, మీరు మీ కోసం ఏ మంచి పనులను ముందుగా పంపుకున్నా అల్లాహ్‌ వద్ద వాటిని పొందుతారు. నిస్సందేహంగా అల్లాహ్‌ మీ కార్యకలాపాలన్నింటినీ గమనిస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

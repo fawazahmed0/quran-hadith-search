@@ -2676,6 +2676,12 @@ mariyu (jñāpakamun̄cukōṇḍi) bākā (sūr) ūdabaḍē dinamuna - allāh 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+శంఖం ఊదబడే రోజున ఆకాశాలలో ఉన్నవారు, భూమిపై ఉన్న వారంతా భీతావహులై పోతారు – కాని అల్లాహ్‌ తలచిన వారికి మాత్రం ఆ స్థితి ఏర్పడదు. అందరూ (అశక్తులై), కడు వినమ్రులై ఆయన ముందు హాజరవుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

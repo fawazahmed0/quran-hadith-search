@@ -2676,6 +2676,12 @@ ika nūh jāti vāru: Eppuḍaitē vāru pravaktalanu asatyavādulani tiraskarin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నూహ్‌ జాతి వారు కూడా తమ ప్రవక్తలను ధిక్కరించినపుడు మేము వారిని ముంచివేశాము. ప్రజల కొరకు వారిని గుణపాఠ సూచనగా చేశాము. మేము దుర్మార్గుల కోసం వ్యధాభరితమైన శిక్షను సిద్ధంచేసి ఉంచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

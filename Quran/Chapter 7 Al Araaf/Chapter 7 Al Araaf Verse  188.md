@@ -2676,6 +2676,12 @@ Bigū (ej Rasul): «Man ʙaroi xud naf' va zarar karda nametavonam, magar onci A
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా! వారికి) చెప్పు: “అల్లాహ్‌ తలచినంత మాత్రమే తప్ప నేను సయితం నా కోసం లాభంగానీ, నష్టంగానీ చేకూర్చుకునే అధికారం నాకు లేదు. నాకే గనక అగోచర విషయాలు తెలిసివుంటే నేనెన్నో ప్రయోజనాలు పొంది ఉండేవాణ్ణి. ఏ నష్టమూ నాకు వాటిల్లేది కాదు. నిజానికి నేను విశ్వసించే వారికి హెచ్చరించేవాణ్ణి, శుభవార్తలు అందజేసేవాణ్ణి మాత్రమే.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

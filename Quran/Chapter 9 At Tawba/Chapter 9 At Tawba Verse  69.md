@@ -2676,6 +2676,12 @@ Fe'lu xūi şumo (ej munofiqon dar tamasxur va kufr) ʙa monandi kasonest, ki pe
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(కపటులారా! చూడబోతే మీ పరిస్థితి కూడా) మీ పూర్వీకుల మాదిరిగానే ఉంది. వారు మీకన్నా బలవంతులు. మీకన్నా ఎక్కువ సిరిసంపదలు, సంతానం కలవారు. వారు తమవంతు భాగ్యాన్ని వాడుకున్నారు, మీరు కూడా మీవంతు భాగ్యాన్ని జుర్రుకున్నారు, మీ పూర్వీకులు తమ వంతు భాగ్యాన్ని జుర్రుకున్నట్లు. వారి మాదిరిగానే మీరు కూడా వేళాకోళపు వాదనల్లో పడ్డారు. వారి కర్మలు ప్రపంచంలోనూ, పరలోకంలోనూ వృధా అయిపోయాయి. నష్టానికి గురైన వారంటే వీరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ a pidapa variddaru dani nundi (phalanni) tinagane variddariki, vari digambaratva
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ విధంగా వారిద్దరూ ఆ వృక్షం నుండి (ఫలం) తినగానే వారి మర్మస్థానాలు బహిర్గతమైపోయాయి. వారిద్దరూ స్వర్గంలోని ఆకులతో వాటిని కప్పుకోసాగారు. ఆదమ్‌ తన ప్రభువు మాటను జవదాటి, దారి తప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

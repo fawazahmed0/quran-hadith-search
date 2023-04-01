@@ -2676,6 +2676,12 @@ niścayaṅgā, ibrāhīm (okkaḍē) allāh ku bhaktiparuḍai, ēkadaiva sid'd
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా ఇబ్రాహీం ఒక అనుసరణీయ నాయకుడు. నికార్సయిన దైవవిధేయుడు. అల్లాహ్‌ యందే మనస్సు నిలిపిన వాడు. అతడు బహుదైవారాధకులలో చేరినవాడు కాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ appuḍu mēmu mūsāku: "Nī cēti karratō samudrānni koṭṭu!" Ani vahī d
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నీ చేతి కర్రతో సముద్రాన్ని కొట్టు” అని మేము మూసాకు వహీ పంపాము. అంతే! అప్పటికప్పుడే సముద్రం చీలిపోయింది. ప్రతి చీలిక భాగం పెద్ద పర్వతంలా అయిపోయింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

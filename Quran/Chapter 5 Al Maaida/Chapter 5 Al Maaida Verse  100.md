@@ -2676,6 +2676,12 @@ Bigu: «Nopoku pok ʙaroʙar nestand, harcand farovonii nopok turo ʙa hajrat af
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: అపవిత్రత యొక్క ఆధిక్యత నీకు ఎంత బాగా తోచినప్పటికీ అపవిత్రము – పవిత్రము ఎన్నటికీ సమానం కాలేవు. కనుక ఓ వివేకవంతులారా! అల్లాహ్‌కు భయపడుతూ ఉండండి, తద్వారా మీరు సాఫల్యం పొందవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

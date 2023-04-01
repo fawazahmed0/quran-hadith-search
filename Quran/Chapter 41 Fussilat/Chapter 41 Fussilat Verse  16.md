@@ -2676,6 +2676,12 @@ civaraku mēmu vāriki, ihalōka jīvitanlōnē avamānakaramaina śikṣa ruci 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎట్టకేలకు మేము వారికి, ప్రాపంచిక జీవితంలోనే అవమానకరమైన శిక్షను రుచి చూపించటానికి – దుర్దినాలలో వారిపై భయంకరమైన ఓ పెనుగాలిని పంపాము. పరలోక శిక్ష ఇంతకన్నా పరాభవంతో కూడుకున్నది సుమా! మరి (అక్కడ) వారికెలాంటి సహాయమూ అందదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

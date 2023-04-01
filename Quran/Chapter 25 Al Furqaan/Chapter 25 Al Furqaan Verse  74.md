@@ -2676,6 +2676,12 @@ mariyu evaraitē, ilā prārthistārō: "Ō mā prabhū! Mā sahavāsula (ajvāj
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఇలా ప్రార్థిస్తూ ఉంటారు : “ఓ మా ప్రభూ! నువ్వు మా భార్యల ద్వారా, మా సంతానం ద్వారా మా కళ్లకు చలువను ప్రసాదించు. మమ్మల్ని దైవ భక్తిపరుల (ముత్తఖీన్‌ల) నాయకునిగా చేయి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

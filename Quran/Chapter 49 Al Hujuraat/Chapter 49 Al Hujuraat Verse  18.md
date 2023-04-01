@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh! Ākāśālalō mariyu bhūmilōnunna agōcara viṣayāl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“భూమ్యాకాశాలలో ఉన్న రహస్య విషయాలన్నీ అల్లాహ్ కు బాగా తెలుసు (అన్న సంగతిని మీరు గ్రహించాలి). మీరు చేసేదంతా ఆయన చూస్తూనే ఉన్నాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

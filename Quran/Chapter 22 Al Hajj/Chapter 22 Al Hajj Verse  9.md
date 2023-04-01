@@ -2676,6 +2676,12 @@ allāhvuṭaiya pātaiyiliruntu (makkaḷait) tiruppiviṭum poruṭṭu taṉ k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+గర్వంతో ప్రక్కకు తిరిగిపోయేవాడై! అల్లాహ్‌ మార్గం నుంచి (ప్రజలను) తప్పించాలన్నది వాడి ఉద్దేశం. వాడికి ప్రపంచంలోనూ పరాభవం ఉంది, ప్రళయదినాన కూడా మేమతన్ని నరకంలో దహించివేసే యాతనను చవిచూపిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

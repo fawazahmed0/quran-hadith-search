@@ -2676,6 +2676,12 @@ enenral ivarkal allahvaiyum, avan tutaraiyum nirakarittarkal - ittakaiya pavikal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారి మన్నింపు కోసం నీవు వేడుకున్నా, వేడుకోకపోయినా ఒక్కటే. ఒకవేళ నువ్వు డెబ్భైసార్లు వారి మన్నింపుకోసం వేడుకున్నా సరే అల్లాహ్‌ క్షమించడుగాక క్షమించడు. ఎందుకంటే, వారు అల్లాహ్‌ పట్లా, ఆయన ప్రవక్త పట్లా తిరస్కార వైఖరిని అవలంబించారు. ఇటువంటి అవిధేయులకు అల్లాహ్‌ సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

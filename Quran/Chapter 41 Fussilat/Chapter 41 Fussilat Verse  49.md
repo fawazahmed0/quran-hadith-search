@@ -2676,6 +2676,12 @@ mānavuḍu mēlu koraku prārthistū ennaḍū alasipōḍu. Kāni okavēḷa a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేలును అర్థించటంలో మానవుడు (ఎప్పటికీ) అలసిపోడు. అతనికేదైనా కీడు కలిగితే మాత్రం ఆశలన్నీ వదులుకుని నిస్పృహ చెందుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

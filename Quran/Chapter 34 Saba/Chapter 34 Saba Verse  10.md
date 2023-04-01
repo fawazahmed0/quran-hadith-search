@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā, mēmu dāvūd ku mā taraphu nuṇḍi goppa anugrahānni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మేము దావూదుకు మా తరఫునుండి గొప్ప అనుగ్రహాన్ని ప్రసాదించాము. “ఓ పర్వతాల్లారా! అతనితో కలసి స్తోత్రగానం చేయండి” (అని ఆజ్ఞాపించాము). పక్షులకు కూడా (ఇదే విధంగా ఆదేశించాము). ఇంకా అతని కొరకు మేము ఇనుమును మెత్తబరచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāru oḍambaḍika cēsina taruvāta, maḷḷī tama pramāṇālanu b
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ ఒప్పందం చేసుకున్న తరువాత కూడా వీళ్లు తమ ప్రమాణాలను భంగపరచి, మీ ధర్మాన్ని ఎగతాళి చేస్తే మీరు కూడా ఆ అవిశ్వాస నాయకులతో తలపడండి. ఇంక వారి ప్రమాణాలకు ఏపాటి విలువాలేదు. బహుశా (తగిన శాస్తి జరిగిన తరువాతనే) వారు (తమ దుశ్చేష్టలను) మానుకుంటారేమో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

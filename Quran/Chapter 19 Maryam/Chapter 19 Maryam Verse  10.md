@@ -2676,6 +2676,12 @@ ataṟkavar ‘‘eṉ iṟaivaṉē! (Itaṟku) eṉakkōr attāṭci aḷi'' e
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా ప్రభూ! (మరయితే) నా కొరకు ఏదన్నా సూచనను నిర్ణయించు” అని అతను విన్నవించుకోగా,”నువ్వు కులాసాగా ఉన్నప్పటికీ మూడు రాత్రుల వరకూ ప్రజలతో మాట్లాడలేవు. ఇదే నీ కొరకు ఆనవాలు” అని సెలవీయబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

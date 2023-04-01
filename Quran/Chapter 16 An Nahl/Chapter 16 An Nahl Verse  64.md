@@ -2676,6 +2676,12 @@ mariyu mēmu ī granthānni (khur'ān nu) nīpai avatarimpajēsindi, vāru vibh�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు విభేదించుకునే ప్రతి విషయాన్నీ నువ్వు వారికి స్పష్టంగా విడమరచి చెప్పాలని మేము ఈ గ్రంథాన్ని నీపై అవతరింపజేశాము. విశ్వసించిన జనులకు ఇది మార్గదర్శకత్వం మరియు కారుణ్యం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

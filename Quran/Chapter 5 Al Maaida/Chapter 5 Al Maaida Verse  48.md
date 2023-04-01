@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Mēmu ī granthānni nīpai satyantō avatarimpajēśāmu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా (ఓ ప్రవక్తా!) మేము నీ వైపుకు ఈ గ్రంథాన్ని సత్య సమేతంగా అవతరింపజేశాము. అది తనకన్నా ముందు వచ్చిన గ్రంథాలను సత్యమని ధృవీకరిస్తుంది, వాటిని పరిరక్షిస్తుంది. కాబట్టి నువ్వు వారి పరస్పర వ్యవహారాలపై అల్లాహ్‌ అవతరింపజేసిన ఈ గ్రంథానికనుగుణంగానే తీర్పు చెయ్యి. నీ వద్దకు వచ్చిన ఈ సత్యాన్ని వీడి, వారి మనోవాంఛలను అనుసరించకు. మీలో ప్రతి ఒక్కరి కోసం మేము ఒక విధానాన్ని, మార్గాన్నీ నిర్ధారించాము. అల్లాహ్‌యే గనక తలిస్తే మీ అందరినీ ఒకే సమాజంగా చేసి ఉండేవాడు. అయితే మీకు వొసగబడిన దానిలో మిమ్మల్ని పరీక్షించాలన్నది ఆయన అభిలాష. కాబట్టి మీరు సత్కార్యాలు చేయటంలో త్వరపడండి. మీరంతా మరలిపోవలసింది అల్లాహ్‌ వైపుకే. ఆ తరువాత ఆయన, మీరు పరస్పరం విభేదించుకునే విషయాల గురించి మీకు (తన తీర్పు) తెలియజేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

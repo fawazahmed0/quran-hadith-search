@@ -2676,6 +2676,12 @@ a pidapa memu atanini mariyu atani intivarini - atani bharyanu tappa - raksincam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు మేము లూత్‌ (అలైహిస్సలాం)ను, అతని ఇంటి వారిని కాపాడాము. అతని భార్యను తప్ప! ఆమె దైవశిక్షకు గురయినవారితో ఉండిపోయింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh viśvasin̄cina vārini kāpāḍutāḍu. Niścayaṅgā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా అల్లాహ్‌ నికార్సయిన విశ్వాసుల నుండి శత్రువులను పారద్రోలుతాడు. విశ్వాస ఘాతకులైన కృతఘ్నులను అల్లాహ్‌ సుతరామూ ఇష్టపడడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

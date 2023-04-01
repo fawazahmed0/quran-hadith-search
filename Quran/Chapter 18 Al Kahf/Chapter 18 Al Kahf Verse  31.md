@@ -2676,6 +2676,12 @@ alāṇṭi vāru! Vāri koraku krinda selayēḷḷu pravahin̄cē śāśvata s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి కోసం శాశ్వితమైన స్వర్గవనాలున్నాయి. వారి క్రింది నుంచి కాలువలు ప్రవహిస్తూ ఉంటాయి. అక్కడ వారు బంగారు కంకణాలు తొడిగించబడతారు. సన్నగానూ, దళసరిగానూ ఉండే సుతిమెత్తని ఆకుపచ్చ రంగుగల పట్టు వస్త్రాలు ధరిస్తారు. వారక్కడ ఆసనాలపై (దిండ్లకు) ఆనుకుని ఆసీనులై ఉంటారు. ఎంత చక్కటి పుణ్యఫలం అది! ఎంత అమోఘమైన విశ్రాంతి నిలయం అది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

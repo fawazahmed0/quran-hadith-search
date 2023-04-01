@@ -2676,6 +2676,12 @@ mīru vāritō rājī paḍālani, vāru (kapaṭa viśvāsulu) mī mundu pramā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు వారి పట్ల ప్రసన్నులవుతారన్న ఉద్దేశంతోనే వారు ప్రమాణాలు చేస్తారు. ఒకవేళ మీరు వారి పట్ల ప్రసన్నులైనా అల్లాహ్‌ మాత్రం ఆ అవిధేయులపట్ల ప్రసన్నుడు అవడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

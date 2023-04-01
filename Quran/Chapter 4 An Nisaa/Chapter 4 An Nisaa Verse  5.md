@@ -2676,6 +2676,12 @@ Mariyu allāh mīku nirvahin̄caṭāniki appagin̄cina āstulanu, avivēkulugā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మీ జరుగుబాటుకు ఆధారంగా చేసిన మీ ధనాన్ని అవివేకుల పరం చేయకండి. కాకపోతే ఆ సంపదలో నుంచి వారికి అన్నవస్త్రాలు మొదలగునవి సమకూర్చండి. వారితో మంచితనంతో, మృదువుగా మాట్లాడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

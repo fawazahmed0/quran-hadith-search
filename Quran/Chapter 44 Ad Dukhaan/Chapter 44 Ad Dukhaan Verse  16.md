@@ -2676,6 +2676,12 @@ mēmu śikṣin̄caṭaṁ kōsaṁ gaṭṭigā paṭṭukunna rōju, mēmu ni�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ రోజున మేము మిమ్మల్ని చాలా గట్టిగా పట్టుకుంటామో (ఆ రోజు) మీపై తప్పకుండా ప్రతీకారం తీర్చుకుంటాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

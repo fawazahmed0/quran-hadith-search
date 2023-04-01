@@ -2676,6 +2676,12 @@ mīru bayalu dērakapōtē, āyana mīku bādhākaramaina śikṣanu vidhistā�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు గనక (దైవమార్గంలో) బయలు దేరకపోతే అల్లాహ్‌ మీకు బాధాకరమైన శిక్ష విధిస్తాడు. మీకు బదులుగా మరో జాతిని (మీ స్థానంలో) తీసుకువస్తాడు. మీరు అల్లాహ్‌కు ఎంత మాత్రం నష్టం కలిగించలేరు. అల్లాహ్‌ అన్నింటిపై అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

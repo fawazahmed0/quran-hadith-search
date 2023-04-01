@@ -2676,6 +2676,12 @@ yūnus jātivāru tappa! Itara ē puravāsulaku kūḍā, (śikṣanu cūsina ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఈ విధంగా ఆపదకు చేరువయిన తరువాత) విశ్వాస ప్రకటనచేసే వారి విశ్వాసం – ఒక్క యూనుస్‌ జాతివారికి తప్ప ఇతర బస్తీ వాసులెవరికీ లాభదాయకం కాలేదు. వారు (యూనుస్‌ జాతి ప్రజలు) విశ్వసించగానే ప్రపంచ జీవితంలో అవమానకరమైన శిక్షను వారి నుంచి తొలగించాము. ఒక నిర్ణీత సమయం వరకూ జీవనలాభం పొందే అవకాశం వారికి కల్పించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ candruṇṇi andukōvaṭaṁ sūryuḍi taraṁ kādu. Mariyu rātri pagaṭin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+చంద్రుణ్ణి పట్టుకోవటం సూర్యుని తరంకాదు. పగటిని మించిపోవటం రాత్రి వల్ల కాదు. అవన్నీ (తమ తమ నిర్ధారిత) కక్ష్యల్లో తేలియాడుతున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

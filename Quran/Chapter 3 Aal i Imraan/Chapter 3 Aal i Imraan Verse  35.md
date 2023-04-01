@@ -2676,6 +2676,12 @@ imrān bhārya prārthin̄cindi (jñāpakaṁ cēsukōṇḍi): "Ō nā prabhū!
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఆ సందర్భాన్ని జ్ఞాపకం చేయి,) ఇమ్రాను భార్య ఇలా వేడుకున్నది: ”ఓ నా ప్రభూ! నా గర్భంలో ఉన్న దానిని నీ సేవ కోసం అంకితం చేయాలని మొక్కుకున్నాను. నీవు నా తరఫున దీనిని స్వీకరించు. నిస్సందేహంగా నీవు సర్వం వినేవాడవు, సర్వం తెలిసినవాడవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

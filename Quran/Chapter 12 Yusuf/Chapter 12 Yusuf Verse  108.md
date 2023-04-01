@@ -2676,6 +2676,12 @@ Bigū ej Pajomʙar: «In rohi man ast. Manu pajravonam hamagonro ʙo dalelu huç
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నువ్వు వాళ్ళకు చెప్పేయి : “నా మార్గమైతే ఇదే. నేనూ, నా అనుయాయులూ పూర్తి అవగాహనతో, దృఢనమ్మకంతో అల్లాహ్‌ వైపుకు పిలుస్తున్నాము. అల్లాహ్‌ పరమపవిత్రుడు. నేను, అల్లాహ్‌కు భాగస్వాముల్ని కల్పించే (షిర్క్‌ చేసే) వారిలోనివాణ్ణికాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

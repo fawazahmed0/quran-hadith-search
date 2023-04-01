@@ -2676,6 +2676,12 @@ mariyu (allāh ku) sāṭi kalpin̄cē vāru aṇṭāru: "Okavēḷa allāh kō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ముష్రిక్కులు ఇలా అన్నారు : “అల్లాహ్‌ గనక తలచుకుని ఉంటే మేమూ, మా తాతముత్తాతలూ ఆయన్ని తప్ప ఇంకొక రెవరినీ ఆరాధించేవాళ్ళం కాము. ఆయన ఉత్తర్వులేకుండా ఏ వస్తువునూ నిషేధించే వాళ్ళం కాము. “వీరి పూర్వీకులు చేసింది కూడా అదే. కనుక ప్రవక్తల బాధ్యత సందేశాన్ని స్పష్టంగా అందజేయటం తప్ప మరొకటి కాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

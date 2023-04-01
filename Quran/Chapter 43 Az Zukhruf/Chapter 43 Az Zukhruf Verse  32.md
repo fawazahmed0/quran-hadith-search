@@ -2676,6 +2676,12 @@ nī prabhuvu kāruṇyānni pan̄ci peṭṭē vāru vārēnā ēmiṭi? Mēmē 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, వారు నీ ప్రభువు కారుణ్యాన్ని పంచుతున్నారా? యదార్థానికి మేమే వారి ప్రాపంచిక జీవితంలో వారి ఉపాధిని వారి మధ్య పంచిపెట్టాము. కొందరు మరి కొందరిని లోబరచి ఉంచేందుకుగాను – అంతస్థుల రీత్యా – కొందరికి మరి కొందరిపై ఆధిక్యతను వొసగాము. వారు ప్రోగు చేస్తూపోయే దానికన్నా నీ ప్రభువు కారుణ్యం ఎంతో మేలైనది సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

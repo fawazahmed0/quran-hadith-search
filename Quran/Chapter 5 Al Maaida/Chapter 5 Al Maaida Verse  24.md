@@ -2676,6 +2676,12 @@ vārannāru: "Ō mūsā! Vāru andu unnanta varaku mēmu andulō ennaṭikī pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(కాని ఈ మాటల్ని వారు లక్ష్య పెట్టలేదు). “ఓ మూసా! వారు అక్కడ ఉన్నంత వరకూ మేము సుతరామూ అక్కడికి వెళ్ళబోము. నువ్వూ, నీ ప్రభువూ పోయి ఉభయులూ వారితో పోరాడండి. మేమిక్కడే కూర్చుని ఉంటాము” అని వారు చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu rātrivēḷalō jāgaraṇa (tahajjud) namāj ceyyi. Idi nī koraku adan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+రాత్రిపూట కొంతభాగం తహజ్జుద్‌ (నమాజు)లో ఖుర్‌ఆన్‌ పఠనం చెయ్యి. ఇది నీ కొరకు అదనం. త్వరలోనే నీ ప్రభువు నిన్ను ”మఖామె మహ్‌మూద్‌”కు (ప్రశంసాత్మకమైన స్థానానికి) చేరుస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu evaraitē kalpita daivālanu (tāgūt lanu) tyajin̄ci, vāṭini ārādh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరయితే తాగూత్‌ (షైతాన్‌) దాస్యానికి దూరంగా ఉన్నారో, (సంపూర్తిగా) అల్లాహ్‌ వైపునకు మరలారో, వారు శుభవార్తకు అర్హులు. కనుక (అటువంటి) నా దాసులకు (ఓ ముహమ్మద్‌!) శుభవార్తను వినిపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

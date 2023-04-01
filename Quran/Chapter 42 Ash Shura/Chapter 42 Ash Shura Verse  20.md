@@ -2676,6 +2676,12 @@ evaḍu paralōka phalānni kōrukuṇṭāḍō mēmu ataniki atani phalanlō v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే పరలోక పంటను ఆశిస్తాడో, మేమతనికి అతని పంటలో సమృద్ధిని ఇస్తాము. మరెవరయితే ఇహలోక పంటను ఆశిస్తాడో అతనికి మేము అందులో నుంచే ఎంతో కొంత ఇస్తాము. ఇలాంటి వ్యక్తికి పరలోకంలో ఏ భాగమూ ఉండదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ allāh (okaḍni) koḍukugā cēsukunnāḍu." Ani vāru (yūdulu mariyu kraist
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ సంతానం కలిగి ఉన్నాడని వారంటున్నారు. సుబ్‌హానల్లాహ్‌! (అల్లాహ్‌ పరమ పవిత్రుడు). ఆయన ఏ అవసరమూ లేనివాడు. ఆకాశాలలో, భూమిలో ఉన్నదంతా ఆయనసొత్తే. దీనికి గాను (మీరు ఆపాదించే అసత్యానికి గాను) మీవద్ద ఏ ఆధారమూ లేదు. అల్లాహ్‌ను గురించి మీకు తెలియని మాటలంటున్నారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

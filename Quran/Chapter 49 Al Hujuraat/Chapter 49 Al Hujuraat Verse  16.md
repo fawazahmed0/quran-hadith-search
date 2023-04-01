@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Ēmiṭi? Mīru allāh ku mī dharmasvīkāraṁ gurin̄ci t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు: “ఏమిటీ, మీ ధార్మికత గురించి మీరు అల్లాహ్ కే తెలియపరచాలనుకుంటున్నారా? భూమ్యాకాశాలలో ఉన్న ప్రతిదీ అల్లాహ్ కు తెలుసు. అల్లాహ్ ప్రతిదీ తెలిసినవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ o ma prabhu! Vastavaniki nenu na santananlo kondarini ni pavitra grham (ka'abah)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభూ! నా సంతానంలో కొందరిని పంటలు పండని కటికలోయలో, నీ పవిత్రగృహం వద్ద వసింపజేశాను. మా ప్రభూ! వారు నమాజును నెలకొల్పేందుకే (ఇక్కడ వదలిపెట్టాను). కనుక ప్రజలలో కొందరి మనసులు వారి వైపుకు మొగ్గేలా చేయి. వారికి తినటానికి పండ్లు ఫలాలను ప్రసాదించు – వారు కృతజ్ఞులుగా మెలిగేందుకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

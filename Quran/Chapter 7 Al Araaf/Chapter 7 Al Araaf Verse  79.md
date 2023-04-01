@@ -2676,6 +2676,12 @@ Pidapa atanu (sālih) vāri nuṇḍi tirigi pōtū annāḍu: "Nā jāti prajal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు సాలిహ్‌ (అలైహిస్సలాం) వారి నుండి ముఖం త్రిప్పుకుని, “నా జాతి ప్రజలారా! నా ప్రభువు సందేశాన్ని నేను మీకు అందజేశాను. మీ శ్రేయాన్ని అభిలషించాను. కాని మీకు శ్రేయోభిలాషులంటే ఇష్టం లేకపోయింది” అని చెబుతూ వెళ్ళి పోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

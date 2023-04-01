@@ -2676,6 +2676,12 @@ iṉṟaiya tiṉam, uṅkaḷil cilar (uṅkaḷil maṟṟum) cilarukku naṉm
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక ఈ రోజు మీలో పరస్పరం ఎవరికీ ఎటువంటి లాభాన్ని గానీ, నష్టాన్నిగానీ చేకూర్చే అధికారం లేదు. “మీరు త్రోసి పుచ్చుతూ వచ్చిన అగ్నిశిక్ష రుచి చూడండి” అని మేము దుర్మార్గులతో అంటాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ atalal, (nam avarai nokki) ‘‘tavute! Niccayamaka nam um'maip pumiyil (nam) p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ దావూద్‌! మేము నిన్ను భువిలో వారసుడి (ఖలీఫా)గా చేశాము. కనుక నువ్వు ప్రజల మధ్య సత్య (న్యాయ) బద్ధంగా తీర్పులు ఇస్తూ ఉండు. నీ మనోవాంఛలను అనుసరించకు. అన్యధా అవి నిన్ను అల్లాహ్‌ మార్గం నుంచి తప్పిస్తాయి. అల్లాహ్‌ మార్గం నుంచి తప్పిపోయిన వారికి కఠిన శిక్ష పడటం ఖాయం. ఎందుకంటే వారు లెక్కల దినాన్ని విస్మరించారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

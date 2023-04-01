@@ -2676,6 +2676,12 @@ mariyu atanu vāri nuṇḍi mukhaṁ trippukoni annāḍu: "Ayyō! Yūsuph" ata
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారందరి వైపునుంచి ముఖం త్రిప్పుకుని, (ఆవేదనతో) “ఆహ్‌! యూసుఫ్‌” అన్నాడు. దుఃఖంతో ఆయన కళ్లు తెల్లగా పాలిపోయాయి. బాధను లోలోపలే అణచి పెట్టుకునేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

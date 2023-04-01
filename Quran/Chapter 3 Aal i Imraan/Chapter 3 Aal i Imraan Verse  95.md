@@ -2676,6 +2676,12 @@ ilā anu: "Allāh satyaṁ palikāḍu. Kanuka mīru ēkadaivasid'dhāntaṁ (sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు: ”అల్లాహ్‌ సత్యం పలికాడు. కనుక మీరంతా ఏకాగ్ర చిత్తంకల ఇబ్రాహీము ధర్మాన్నే అనుసరించండి. ఆయన బహుదైవోపాసకులలోని వాడు కాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

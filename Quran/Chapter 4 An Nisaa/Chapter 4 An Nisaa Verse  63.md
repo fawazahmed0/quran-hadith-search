@@ -2676,6 +2676,12 @@ alāṇṭi vārinī (kapaṭa viśvāsulanū)! Vāri hr̥dayālalō unnadī all
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి హృదయాలలో ఉన్నదంతా అల్లాహ్‌కు బాగా తెలుసు. కనుక (ఓ ప్రవక్తా!) వారిని పట్టించుకోకు. కాకపోతే వారికి బోధపరుస్తూ ఉండు. వారి మనోక్షేత్రంలో నాటుకునేలా మాట చెబుతూ ఉండు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

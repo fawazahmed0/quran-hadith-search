@@ -2676,6 +2676,12 @@ avunu, mīrē! Vāri (ī aparādhula) pakṣamuna ihalōka jīvitanlōnaitē vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రాపంచిక జీవితంలోనైతే మీరు వారి తరఫున వాదించారుగాని, ప్రళయ దినాన వారికి మద్దతుగా అల్లాహ్‌తో ఎవరు వాదిస్తారు? వారి తరఫున వకాల్తా ఎవరు పుచ్చుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāvuna punarut'thāna dinamuna vāru tama (pāpāla) bhārālanu pūrtigā mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పర్యవసానంగా ప్రళయదినాన వారు తమ (పాప) భారమంతటినీ మోయటంతోపాటు, అజ్ఞానంతో తాము పెడదారి పట్టించిన వారి బరువును మోయటంలో కూడా భాగస్థులవుతారు. చూడండి! ఎంత చెడ్డ బరువును వారు తమ నెత్తిపై వేసుకుంటున్నారో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

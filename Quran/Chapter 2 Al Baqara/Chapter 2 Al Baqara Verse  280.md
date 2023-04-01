@@ -2676,6 +2676,12 @@ mariyu (mī bākīdāruḍu ārthika) ibbandulalō uṇṭē, atani paristhiti, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ రుణగ్రస్తుడు యిబ్బందుల్లో ఉంటే అతని పరిస్థితి మెరుగుపడేవరకూ అతనికి గడువు ఇవ్వాలి. లేదా మన్నించి దానంగా వదలి పెట్టండి. మీరే గనక తెలుసుకోగలిగితే ఇది మీ కొరకు శ్రేయోదాయకం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

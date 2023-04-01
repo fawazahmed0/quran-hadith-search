@@ -2676,6 +2676,12 @@ a roju evvariki elanti an'yayam jarugadu. Mariyu mi karmalaku taginadi tappa, ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఈనాడు ఎవరికీ ఎటువంటి అన్యాయమూ జరగదు. మీరు చేసుకున్న కర్మల ప్రతిఫలం తప్ప మరొకటి ఏదీ మీకు ఇవ్వబడదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

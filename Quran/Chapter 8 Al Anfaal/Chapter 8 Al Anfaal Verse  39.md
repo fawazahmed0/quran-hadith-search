@@ -2676,6 +2676,12 @@ mariyu adharmaṁ (phitna) ē mātraṁ migalakuṇḍā pōyē varaku mariyu ā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఫిత్నా (షిర్క్‌) సమసిపోనంత వరకూ, ధర్మం మొత్తం అల్లాహ్‌దే అయిపోనంత వరకూ వారితో పోరాడండి. ఒకవేళ వారు గనక తమ వైఖరిని మానుకుని దారికివస్తే అల్లాహ్‌ వారి కర్మలను చూస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

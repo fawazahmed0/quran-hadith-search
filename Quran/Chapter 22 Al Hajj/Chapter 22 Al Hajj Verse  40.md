@@ -2676,6 +2676,12 @@ vāriki evaraitē kēvalaṁ: "Mā prabhuvu allāh!" Ani annanduku mātramē, an
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు అన్యాయంగా తమ ఇళ్ల నుంచి వెళ్ళగొట్టబడ్డారు. (ఇంతకీ వారు చేసిన నేరం) ఏమిటంటే, “మా ప్రభువు అల్లాహ్‌” అని పలకటమే. అల్లాహ్‌యే గనక జనులలో కొందరిని మరి కొందరి ద్వారా అడ్డుకోకపోతే మఠాలు, చర్చీలు, యూదుల ప్రార్థనాలయాలు, అల్లాహ్‌ పేరు అత్యధికంగా స్మరించబడే మస్జిదులు ధ్వంసం చేయబడేవి. అల్లాహ్‌కు సహాయపడేందుకు సమాయత్తం అయిన వారికి అల్లాహ్‌ కూడా తప్పకుండా సహాయ పడతాడు. నిశ్చయంగా అల్లాహ్‌ మహా బలుడు, సర్వాధిక్యుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

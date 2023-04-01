@@ -2676,6 +2676,12 @@ mārgadarśakatvaṁ spaṣṭamaina tarvāta kūḍā, evaraitē tama vīpulu t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే తమకు సన్మార్గం తేటతెల్లమైన తరువాత కూడా వీపు త్రిప్పుకుని మరలిపోయారో వారి కొరకు షైతాను ఒక విషయాన్ని (వారి చేష్టను) అందమైనదిగా చిత్రీకరించాడు. వారికి (మోసపూరితమైన) గడువును ఇచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

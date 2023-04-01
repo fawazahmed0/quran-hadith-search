@@ -2676,6 +2676,12 @@ civaraku ataḍu mā vaddaku vaccinapuḍu (tana veṇṭa unna ṣaitān tō) i
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆఖరికి అతను మా వద్దకు వచ్చినప్పుడు, “ఆహ్‌! నీకూ – నాకూ మధ్య తూర్పు – పడమరలకు మధ్య ఉన్నంత దూరం ఉండి ఉంటే ఎంత బావుండేది! నువ్వు మహాచెడ్డ సావాసివి” అని (తన వెంటనున్న షైతానుతో) అంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

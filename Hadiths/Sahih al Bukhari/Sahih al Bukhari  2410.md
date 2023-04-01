@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (İbn Mes'ud) r.a. şöyle anlatır: Bir kimseyi, Resulullah Sallallahu Aleyhi ve Sellem'den işittiğim şekle aykırı bir şekilde Kur'an okurken işittim. Hemen onu alıp Nebi Sallallahu Aleyhi ve Sellem'in huzuruna götürdüm. Efendimiz Sallallahu Aleyhi ve Sellem, "Her ikiniz de güzel okuyor" buyurdu.' Şu'be, "Ben Resulullah'ın şöyle söylediğini zannediyorum" demiştir: "(Kitabınız) hakkında ihtilafa düşmeyin. Şüphesiz sizden önceki kavimler kitapları hakkında görüş ayrılığına düştüler ve helak oldular. "185 Tekrar: 3408, 3
+Abdullah (İbn Mes'ud) r.a. şöyle anlatır: Bir kimseyi, Resulullah Sallallahu Aleyhi ve Sellem'den işittiğim şekle aykırı bir şekilde Kur'an okurken işittim. Hemen onu alıp Nebi Sallallahu Aleyhi ve Sellem'in huzuruna götürdüm. Efendimiz Sallallahu Aleyhi ve Sellem, "Her ikiniz de güzel okuyor" buyurdu.' Şu'be, "Ben Resulullah'ın şöyle söylediğini zannediyorum" demiştir: "(Kitabınız) hakkında ihtilafa düşmeyin. Şüphesiz sizden önceki kavimler kitapları hakkında görüş ayrılığına düştüler ve helak oldular. "185 Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
 

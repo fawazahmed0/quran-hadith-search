@@ -2676,6 +2676,12 @@ endukaṇṭē! Vāri sandēśaharulu vāri vaddaku spaṣṭamaina sūcanalu t�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారివద్దకు వారి ప్రవక్తలు ఎప్పుడు స్పష్టమైన సూచనలను తీసుకువచ్చినా తమవద్ద ఉన్న ‘విద్య’ ఆధారంగా వారు వికటాట్టహాసం చేసేవారు. వారు దేనిని పరిహసించేవారో ఎట్టకేలకు అదే వారిపై విరుచుకుపడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

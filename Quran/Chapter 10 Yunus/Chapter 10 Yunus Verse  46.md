@@ -2676,6 +2676,12 @@ Mariyu (ō muham'mad!) Mēmu vāstavāniki vāriki vāgdānaṁ cēsina (śikṣ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారికి వాగ్దానం చేస్తున్న దానిలో ఎంతో కొంత నీకు చూపించినా లేక (అది పొడసూపకముందే) మేము నీకు మరణమొసగినా – (ఏం జరిగినా సరే) వారు ఎలాగూ మావద్దకు రావలసినవారే. అదీగాక వారి చేష్టలన్నింటికీ అల్లాహ్‌ సాక్షిగా ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

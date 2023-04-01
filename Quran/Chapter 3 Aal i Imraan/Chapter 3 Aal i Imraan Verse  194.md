@@ -2676,6 +2676,12 @@ o ma prabhu! Mariyu ni pravaktala dvara nivu maku cesina vagdanalanu purti ceyi 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”మా ప్రభూ! నీ ప్రవక్తల ద్వారా నీవు మాకు చేసిన వాగ్దానం ప్రకారం మమ్మల్ని అనుగ్రహించు. ప్రళయదినాన మమ్మల్ని అవమానపరచకు. ఎట్టి పరిస్థితిలోనూ నీవు వాగ్దానానికి విరుద్ధంగా వ్యవహరించేవాడవు కావు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

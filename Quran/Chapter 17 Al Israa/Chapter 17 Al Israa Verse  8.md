@@ -2676,6 +2676,12 @@ Sojad Parvardigoraton ʙar sumo (ej ʙani Isroil) rahmat ovarad, agar az gunoh t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ ప్రభువు మీపై కరుణ చూపే అవకాశం ఉంది. కాని మీరు గనక మళ్లీ అలాగే చేయటం మొదలెడితే మేము కూడా మళ్లీ అలాగే చేస్తాము. మేము నరకాన్ని తిరస్కారుల కోసం కారాగారంగా చేసి ఉంచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

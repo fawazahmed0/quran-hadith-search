@@ -2676,6 +2676,12 @@ o visvasulara! Miru allah mariyu ayana pravakta anumatiki munde nirnayalaku diga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన ఓ ప్రజలారా! అల్లాహ్ ను, ఆయన ప్రవక్తను మించిపోకండి. అల్లాహ్ కు భయపడుతూ ఉండండి. నిశ్చయంగా అల్లాహ్ అంతా వినేవాడు, అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

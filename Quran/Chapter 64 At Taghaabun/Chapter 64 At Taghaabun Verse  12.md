@@ -2676,6 +2676,12 @@ mīru allāh ku vidhēyulai uṇḍaṇḍi mariyu sandēśaharuṇṇi anusarin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ప్రజలారా!) మీరు అల్లాహ్ కు విధేయత చూపండి. ప్రవక్త మాటను వినండి. ఒకవేళ మీరు విముఖత చూపితే, మా ప్రవక్త బాధ్యతల్లా స్పష్టంగా విషయాన్ని చేరవేయటమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

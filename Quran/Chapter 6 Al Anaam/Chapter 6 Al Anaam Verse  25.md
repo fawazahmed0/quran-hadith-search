@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Vārilō kondaru nī (māṭalu) viṇṭunnaṭlu (naṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలో కొంతమంది నీ వైపు చెవి యొగ్గి ఉంటారు. మేము వారి హృదయాలపై తెరవేసి ఉంచాము. అందువల్ల వారు దానిని అర్థం చేసుకోలేరు. వారి చెవులలో చెవుడును ఉంచాము. (ఈ కారణంగా) వారు నిదర్శనాలన్నింటినీ చూసినప్పటికీ వాటిని విశ్వసించరు. ఆఖరికి వారు నీ వద్దకు వచ్చినపుడు అనవసరంగా నీతో వాదనకు దిగుతారు. అవిశ్వాసులు “ఇవి పూర్వీకుల నుంచీ చెలామణీలో ఉన్న కట్టుకథలు తప్ప మరేమీ కావు” అని అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

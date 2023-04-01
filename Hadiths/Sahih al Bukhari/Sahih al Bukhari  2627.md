@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Katade'den rivayet edilmiştir: Enes b. Malik'i şöyle derken işittim: Medine'de bir düşman korkusu olmuştu. Nebi Sallallahu Aleyhi ve Sellem Ebu Talha'nın atını ödünç aldı. Bu atın adı "Mendub" idi. (Etrafı kontrol edip) dönünce "Korkacak bir şey görmedik, bu atı da deniz (gibi iyi koşar) bulduk" buyurdu. Tekrar: 2820, 2857, 2
+Katade'den rivayet edilmiştir: Enes b. Malik'i şöyle derken işittim: Medine'de bir düşman korkusu olmuştu. Nebi Sallallahu Aleyhi ve Sellem Ebu Talha'nın atını ödünç aldı. Bu atın adı "Mendub" idi. (Etrafı kontrol edip) dönünce "Korkacak bir şey görmedik, bu atı da deniz (gibi iyi koşar) bulduk" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2627</td></tr><tr><td>Arabic No</td><td>2627</td></tr><tr><td>Reference</td><td>Book 51 Hadith 59</td></tr></tbody></table></div>
 

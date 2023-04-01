@@ -2676,6 +2676,12 @@ a roju avarincinappudu, palicce prati stri tana cantibiddanu maracipovatanni, ga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆనాడు మీరు దాన్ని చూస్తారు… పాలుపట్టే ప్రతి తల్లీ పాలు త్రాగే తన పసికందును మరచిపోతుంది. గర్భవతుల గర్భాలూ పడిపోతాయి. ప్రజలు మైకంలో తూలుతున్నట్లు నీకు కనిపిస్తారు. వాస్తవానికి వారు మైకంలో ఉండరు. అయితే అల్లాహ్‌ (తరఫున వచ్చిపడిన) విపత్తు అత్యంత తీవ్రంగా ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

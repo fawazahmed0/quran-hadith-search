@@ -2676,6 +2676,12 @@ Evaraitē ā māṭa (śikṣa) vartistundō, vārilā vinnavin̄cukuṇṭāru:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరెవరికి ఈ మాట వర్తిస్తుందో వారిలా జవాబిస్తారు: “మా ప్రభూ! మేము దారి తప్పించింది ఇదిగో వీళ్ళనే. మేము దారి తప్పినట్లుగానే వీళ్ళను కూడా దారి తప్పించాము. ఇక వాళ్ళతో మాకెలాంటి సంబంధం లేదని నీ సమక్షంలో ప్రకటిస్తున్నాము. వీళ్లు మమ్మల్ని పూజించేవారు కారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

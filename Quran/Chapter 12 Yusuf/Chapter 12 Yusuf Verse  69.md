@@ -2676,6 +2676,12 @@ mariyu vāru yūsuph vadda pravēśin̄cagā atanu tana sōdaruṇṇi (ben'yām
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారంతా యూసుఫ్‌ వద్దకు వెళ్ళినప్పుడు, అతను తన సోదరుణ్ణి (వేరుగా) తన దగ్గర కూర్చోబెట్టుకుని, “నేను నీ అన్నను (యూసుఫ్‌ను). కాబట్టి వీళ్ళ దుశ్చేష్టలపై నువ్వు బాధపడకు” అని ఓదార్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

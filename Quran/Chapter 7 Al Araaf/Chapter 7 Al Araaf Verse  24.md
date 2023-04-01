@@ -2676,6 +2676,12 @@ Alloh (ʙa Odamu Havvo va Iʙlis) guft: «Furud oed az osmon, ʙarxe duşmani ʙ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“దిగిపోండి. మీరు ఒండొకరికి విరోధులు. భూమిలో మీకు నివాస స్థానం ఉంటుంది. ఒక నిర్ణీత కాలం వరకూ మీరు అక్కడే లబ్ది పొందవలసి ఉంటుంది” అని సెలవిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

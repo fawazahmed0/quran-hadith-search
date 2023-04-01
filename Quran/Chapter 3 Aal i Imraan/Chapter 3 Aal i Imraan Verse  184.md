@@ -2676,6 +2676,12 @@ eṉavē. Um'mai avarkaḷ poyppittāl (nīr kavalaiyuṟa vēṇṭām, ēṉe�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఇంతగా బోధపరచినప్పటికీ) వారు నిన్ను ధిక్కరిస్తే, నీకు పూర్వం కూడా స్పష్టమయిన నిదర్శనాలను, సహీఫాలను, జోతిర్మయమైన గ్రంథాన్ని తీసుకువచ్చిన ప్రవక్తలు కూడా ఇటువంటి ధిక్కారానికి గురయ్యారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

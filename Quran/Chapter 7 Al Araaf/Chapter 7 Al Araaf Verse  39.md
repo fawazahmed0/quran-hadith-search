@@ -2676,6 +2676,12 @@ mariyu appuḍu modaṭi vāru taruvāta vaccina vāritō: "Mīku māpai elāṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మొదటివారు తమ తరువాతి వారినుద్దేశించి, “మీకు మాపై ఎలాంటి ప్రాధాన్యతా లభించలేదు. కాబట్టి మీరు కూడా మీరు సంపాదించుకున్న దానికి ప్రతిఫలంగా శిక్షను రుచి చూడండి” అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

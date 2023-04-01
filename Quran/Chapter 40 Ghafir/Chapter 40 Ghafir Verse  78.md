@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Vāstavāniki mēmu nīku pūrvaṁ anēka pravaktalanu p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా నీకు పూర్వం కూడా మేము ఎంతోమంది ప్రవక్తల్ని పంపి ఉన్నాము. వారిలో కొందరి సంగతులు మేము నీకు తెలియపర్చాము. మరికొందరి వృత్తాంతాలను అసలు నీకు తెలుపనే లేదు. ఏ ప్రవక్త కూడా అల్లాహ్‌ అనుజ్ఞ లేకుండా ఏ మహిమనూ తీసుకురాలేకపోయేవాడు. మరి అల్లాహ్‌ ఆజ్ఞ వచ్చేసినపుడు సత్య (న్యాయ)బద్ధంగా తీర్పు జరిగితీరుతుంది. మరి అసత్యవాదులు మాత్రం అక్కడ నష్టానికి గురవుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

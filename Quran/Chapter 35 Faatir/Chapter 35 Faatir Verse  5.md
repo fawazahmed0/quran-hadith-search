@@ -2676,6 +2676,12 @@ o manavulara! Niscayanga, allah vagdanam satyam! Kavuna i prapancika jivitam mim
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రజలారా! నిశ్చయంగా అల్లాహ్‌ వాగ్దానం సత్యమైనది. కాబట్టి ప్రాపంచిక జీవితం ఎట్టి పరిస్థితుల్లోనూ మిమ్మల్ని మోసంలో పడవేయకూడదు. ఆ మాయలమారి (షైతాను) కూడా మిమ్మల్ని మోసగించకూడదు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

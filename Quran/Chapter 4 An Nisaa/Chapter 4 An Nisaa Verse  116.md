@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh tanaku sāṭi kalpin̄caṭānni (ṣirk nu) ē mātra�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తనకు భాగస్వామ్యం (షిర్క్‌) కల్పించటాన్ని అల్లాహ్‌ ఎట్టి పరిస్థితిలోనూ క్షమించడు. షిర్క్‌ మినహా తాను కోరిన వారి ఇతర పాపాలను క్షమిస్తాడు. అల్లాహ్‌కు సహవర్తులుగా ఇతరులను నిలబెట్టినవాడు మార్గభ్రష్టతలో చాలా దూరం వెళ్ళి పోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

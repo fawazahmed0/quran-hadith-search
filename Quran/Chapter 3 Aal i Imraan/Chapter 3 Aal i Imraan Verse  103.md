@@ -2676,6 +2676,12 @@ mīrandarū kalasi allāh trāḍu (khur'ān) nu gaṭṭigā paṭṭukōṇḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ త్రాడును అందరూ కలసి గట్టిగా పట్టుకోండి. చీలిపోకండి. అల్లాహ్‌ మీపై కురిపించిన దయానుగ్రహాన్ని జ్ఞప్తికి తెచ్చుకోండి – అప్పుడు మీరు ఒండొకరికి శత్రువులుగా ఉండేవారు. ఆయన మీ హృదయాలలో పరస్పరం ప్రేమానురాగాలను సృజించాడు. దాంతో ఆయన అనుగ్రహం వల్ల మీరు ఒకరి కొకరు అన్నదమ్ములుగా మారారు. మీరు అగ్నిగుండం ఆఖరి అంచులకు చేరుకోగా, ఆయన మిమ్మల్ని దాన్నుంచి కాపాడాడు. మీరు సన్మార్గం పొందాలని ఈ విధంగా అల్లాహ్‌ మీకు తన సూచనలను విశదపరుస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

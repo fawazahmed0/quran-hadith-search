@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musa] telah bercerita kepada kami [Abu 'Awanah] tel
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a.'in şöyle dediği nakledilmiştir: "Hz. Osman Bedir savaşına katılamamıştı. Zira o hasta olan eşi ile ilgilenmek zorundaydı. Onun eşi ise Resulullah Sallallahu Aleyhi ve Sellem'in kızı idi. Resul-i Ekrem Sallallahu Aleyhi ve Sellem ona: "Sana Bedir savaşına katılmış birisi gibi ecir vardır" deyip ganimetten pay verdi. " Tekrar: 3
+Abdullah İbn Ömer r.a.'in şöyle dediği nakledilmiştir: "Hz. Osman Bedir savaşına katılamamıştı. Zira o hasta olan eşi ile ilgilenmek zorundaydı. Onun eşi ise Resulullah Sallallahu Aleyhi ve Sellem'in kızı idi. Resul-i Ekrem Sallallahu Aleyhi ve Sellem ona: "Sana Bedir savaşına katılmış birisi gibi ecir vardır" deyip ganimetten pay verdi. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>3130</td></tr><tr><td>Reference</td><td>Book 57 Hadith 39</td></tr></tbody></table></div>
 

@@ -2676,6 +2676,12 @@ mīru kr̥tajñulai, viśvāsulai uṇṭē allāh mim'malni niṣkāraṇaṅg�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు కృతజ్ఞులుగా మసలుకుంటూ, విశ్వాసులుగా ఉన్నప్పుడు అల్లాహ్‌ మిమ్మల్ని శిక్షించి ఏం చేస్తాడు? అల్లాహ్‌ విలువనిచ్చేవాడూ, అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

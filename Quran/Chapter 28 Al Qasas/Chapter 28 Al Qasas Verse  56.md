@@ -2676,6 +2676,12 @@ Haroina, tu ej Rasul, har kasro, ki dūst dorī nametavonī, hidojat kunī, vale
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నువ్వు కోరిన వారినల్లా సన్మార్గానికి తేలేవు. అయితే అల్లాహ్‌ తాను కోరిన వారిని సన్మార్గానికి తీసుకువస్తాడు. సన్మార్గానికి రాగలిగేవారెవరో ఆయనకు బాగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

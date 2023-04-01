@@ -2676,6 +2676,12 @@ ataṟku mūsā (avaṉai nōkki) ‘‘vāṉaṅkaḷaiyum pūmiyaiyum paṭai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా ఇలా సమాధానమిచ్చాడు: “గుణపాఠంతో కూడుకున్న ఈ సూచనలను భూమ్యాకాశాల ప్రభువు తప్ప మరొకరెవరూ అవతరింపజేయలేదన్న విషయం నీకూ తెలుసు. ఓ ఫిరౌన్‌! నిశ్చయంగా నువ్వు వినాశానికి గురయ్యావని నేను భావిస్తున్నాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

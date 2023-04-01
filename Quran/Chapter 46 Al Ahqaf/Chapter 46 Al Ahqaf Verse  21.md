@@ -2676,6 +2676,12 @@ mariyu jñāpakaṁ cēsukōṇḍi, ād jāti sōdaruḍu (hūd) isuka dibbalal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆద్‌ (జాతి) సోదరుడు తన జాతి వారిని ఇసుక గుట్టల వద్ద హెచ్చరించిన సంగతిని జ్ఞాపకం చేసుకో. అతనికి పూర్వం కూడా హెచ్చరిక చేసేవారు గడిచారు, అతని తరువాత కూడా. “మీరు అల్లాహ్‌ను తప్ప ఇతరులను పూజించకండి. ఒక మహానాడు మీపై విరుచుకుపడే శిక్ష గురించి నేను భయపడుతున్నాను” (అని అతను హెచ్చరించాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

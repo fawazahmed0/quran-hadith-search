@@ -2676,6 +2676,12 @@ satyatiraskārulu, viśvāsulanu gurin̄ci ilā aṇṭāru: "Okavēḷa indulō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసులు విశ్వసించిన వారినుద్దేశించి, “ఒకవేళ ఇది (ఈ ధర్మం) గనక శ్రేయస్కరమైనదై ఉంటే వీళ్ళు మాకన్నా ముందు దీని వైపుకు వెళ్లి ఉండేవారు కారు” అని అంటున్నారు. వారెలాగూ ఈ గ్రంథం ద్వారా సన్మార్గం పొందలేదు. అందువల్ల ‘ఇదొక పాత అబద్ధం’ అని కొట్టిపారేస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

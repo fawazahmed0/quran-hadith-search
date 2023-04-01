@@ -2676,6 +2676,12 @@ mariyu prajalu tama mēlu koraku tondara paḍinaṭlu allāh vāripai (vāri c�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలు లాభం కోసం ఎంత తొందరపెడతారో అంతే తొందరగా అల్లాహ్‌ వారికి నష్టం చేకూర్చితే వారి వాగ్దానం ఎప్పుడో పూర్తయిపోయి ఉండేది. కనుక మా వద్దకు మరలి రావటంపై నమ్మకం లేని వారిని, వారు తమ తలబిరుసుతనంలో తచ్చాడుతూ ఉండేందుకు – వారి మానాన వారిని వదలిపెడతాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

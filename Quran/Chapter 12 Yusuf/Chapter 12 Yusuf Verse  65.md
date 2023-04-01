@@ -2676,6 +2676,12 @@ mariyu vāru tama mūṭalanu vippagā tama som'mu kūḍā tamaku tirigi ivvaba
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ సామాను విప్పినప్పుడు, తమ సొమ్ము తమకు వాపసు చేయబడిన సంగతి తెలుసుకున్నారు. “నాన్నగారూ! మనకు ఇంకేం కావాలి?! చూడండి, మన సొమ్ము కూడా మనకు వాపసు చేయబడింది. మళ్లీ వెళ్ళి మన కుటుంబంకోసం ఆహారపదార్థాలను తెచ్చుకుంటాం. మా తమ్ముణ్ణి కూడా జాగ్రత్తగా కనిపెట్టుకుని ఉంటాం. ఒక ఒంటె మోయగలిగేంత ధాన్యాన్ని అదనంగా తెచ్చుకుంటాం. ఈ పాటి కొలత (అదనపు ధాన్య ప్రాప్తి) చాలా తేలిక” అని ప్రాధేయపడ్డారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

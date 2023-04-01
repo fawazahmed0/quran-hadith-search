@@ -2676,6 +2676,12 @@ Mariyu mūsā tana jātivāritō ilā anna viṣayaṁ (jñāpakaṁ cēsukōṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా తన జాతివారితో, “ఓ నా జాతి ప్రజలారా! నేను మీ వద్దకు అల్లాహ్ తరఫున పంపబడిన ప్రవక్తనన్న సంగతి తెలిసి కూడా మీరు నన్నెందుకు ఇంతగా వేధిస్తున్నారు?” అని చెప్పినప్పటి విషయం (జ్ఞాపకం చేసుకోదగినది). వారు వక్రంగానే ఉండటంతో, అల్లాహ్ వారి హృదయాలు వంకరగానే ఉండేలా చేశాడు. అవిధేయ జనులకు అల్లాహ్ సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

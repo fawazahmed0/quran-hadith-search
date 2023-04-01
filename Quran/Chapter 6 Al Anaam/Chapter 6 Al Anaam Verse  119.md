@@ -2676,6 +2676,12 @@ mariyu mīkēmayindi? Allāh pēru smarin̄cabaḍina dānini mīrenduku tinakū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ పేరు ఉచ్చరించబడిన జంతువు మాంసాన్ని మీరు తినకపోవటానికి అసలు కారణం ఏమిటీ? అల్లాహ్‌ మీ కొరకు నిషేధించిన జంతువుల వివరాలను ముందుగానే స్పష్టపరిచాడు కదా! గత్యంతరం లేని పరిస్థితుల్లో అవి కూడా (ప్రాణరక్షణ కోసం నిషిద్ధ జంతువులు సయితం) మీకోసం ధర్మ సమ్మతం అవుతాయి. వాస్తవమేమిటంటే చాలా మంది ఏ ప్రమాణమూ లేకుండానే – తమ కోరికల ఆధారంగా – జనులను పెడత్రోవ పట్టిస్తూ ఉంటారు. నిశ్చయంగా నియమాలను ఉల్లంఘించే వారిని నీ ప్రభువు బాగా ఎరుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ viśvasin̄cē prajala koraku, mēmu mūsā mariyu phir'aun la yokka nija vr̥tt
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన జనుల కోసం మేము నీకు మూసా, ఫిరౌనుల వృత్తాంతం (లోని కొంత భాగాన్ని) ఉన్నదున్నట్లుగా వినిపిస్తున్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

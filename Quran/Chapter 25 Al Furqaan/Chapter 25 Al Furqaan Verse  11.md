@@ -2676,6 +2676,12 @@ vāstavāniki vāru ā antima ghaḍiyanu abad'dhamani tiraskarin̄cāru. Mariyu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అది కాదు). వారసలు ఆ ఘడియ (తీర్పుదినము)ను ధిక్కరిస్తున్నారు. అయితే ఆ ఘడియను ధిక్కరించేవారి కోసం మేము మండే అగ్నిని సిద్ధం చేసి ఉంచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

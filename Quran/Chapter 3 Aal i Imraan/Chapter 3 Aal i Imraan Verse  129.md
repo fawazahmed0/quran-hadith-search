@@ -2676,6 +2676,12 @@ mariyu ākāśālalō unnadantā mariyu bhūmilō unnadantā allāh kē cendutun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలలో వున్నదంతా అల్లాహ్‌దే. ఆయన తాను కోరిన వారిని క్షమిస్తాడు, తాను కోరిన వారిని శిక్షిస్తాడు. అల్లాహ్‌ క్షమించేవాడూ, కరుణించేవాడు కూడాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

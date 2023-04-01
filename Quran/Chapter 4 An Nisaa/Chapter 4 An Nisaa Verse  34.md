@@ -2676,6 +2676,12 @@ Puruṣulu strīlapai nirvāhakulu (khavvāmūn), endukaṇṭē allāh kondarik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పురుషులు స్త్రీలపై అధికారులు. ఎందుకంటే అల్లాహ్‌ ఒకరికి ఇంకొకరిపై విశిష్ఠతను వొసగాడు. అదీగాక పురుషులు తమ సంపదను (వారిపై) ఖర్చుపెట్టారు. కనుక గుణవంతులైన స్త్రీలు విధేయులై ఉంటారు. తమ భర్తలు లేని సమయంలో అల్లాహ్‌ రక్షణలో ఉంటూ (తమ శీలాన్నీ, భర్త సంపదను) కాపాడుతారు. ఏ స్త్రీలు అవిధేయతకు పాల్పడతారని మీకు భయం ఉంటుందో వారికి నచ్చజెప్పండి. (అవసరమైతే) పడక దగ్గర వారిని వేరుగా ఉంచండి. వారిని కొట్టండి. ఆ తరువాత వారు గనక మీకు విధేయులైతే వారిని అనవసరంగా వేధించే ఉద్దేశ్యంతో సాకులు వెతక్కండి. నిశ్చయంగా అల్లాహ్‌ సర్వోన్నతుడు, గొప్పవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

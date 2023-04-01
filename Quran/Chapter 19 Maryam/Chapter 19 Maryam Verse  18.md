@@ -2676,6 +2676,12 @@ Marjam guft: «Az tu ʙa Allohi mehruʙon panoh meʙaram, agar az Alloh tarsī �
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను నీ బారి నుంచి కరుణామయుని (అల్లాహ్‌) శరణు వేడుతున్నాను, నువ్వు ఏ మాత్రం దైవభీతి గలవాడవైనా (ఇక్కణ్ణుంచి వెళ్ళిపో)” అని ఆమె చెప్పింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

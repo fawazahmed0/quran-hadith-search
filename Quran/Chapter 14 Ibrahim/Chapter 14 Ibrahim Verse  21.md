@@ -2676,6 +2676,12 @@ mariyu vārandarū allāh mundu hājaru paracabaḍi nappuḍu, (ihalōkanlō) b
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారంతా అల్లాహ్‌కు ఎదురుగా నిలబడతారు. అప్పుడు బలహీనులు, (ప్రపంచంలో) పెద్ద మనుషులుగా చెలామణి అయినవారిని ఉద్దేశించి, “మేము (ఒకప్పుడు) మీకు అనుయాయులుగా ఉండేవాళ్ళం. మరి మీరు ఇప్పుడు మా నుంచి దైవశిక్షలలో ఏ కొంచెమైనా శిక్షను తొలగించగలరా?” అని అడుగుతారు. దానికి వారు ఇలా సమాధానమిస్తారు : “అల్లాహ్‌ గనక మాకు సన్మార్గం చూపి ఉంటే మేము కూడా తప్పకుండా మీకు మార్గదర్శకత్వం వహించి ఉండేవాళ్ళం. ఇప్పుడు మనం అసహనాన్ని ప్రదర్శించినా, సహనం వహించినా ఒక్కటే. మనకిక తప్పించుకునే మార్గం ఏదీ లేదు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

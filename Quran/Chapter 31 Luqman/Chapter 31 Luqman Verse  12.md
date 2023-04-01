@@ -2676,6 +2676,12 @@ mariyu niścayaṅgā, mēmu lukhmān ku vivēkānni prasādin̄cāmu, atanu all
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము లుఖ్మానుకు వివేచనను ప్రసాదించి, “నువ్వు అల్లాహ్‌కు కృతజ్ఞుడవై ఉండు” అని చెప్పాము. కృతజ్ఞతా పూర్వకంగా మసలుకునే ప్రతి ఒక్కడూ తన (మేలు) కొరకే కృతజ్ఞుడవుతాడు. మరెవరయినా కృతఘ్నతకు పాల్పడితే, అల్లాహ్‌ అక్కరలు లేనివాడు, ప్రశంసనీయుడు (అన్న సంగతిని అతను తెలుసుకోవాలి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

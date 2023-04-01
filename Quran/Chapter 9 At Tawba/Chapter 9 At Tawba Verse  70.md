@@ -2676,6 +2676,12 @@ Emi? Vari purvikula gatha variki andaleda? Nuh jati vari, ad, samud, ibrahim jat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారికి తమ పూర్వీకులైన నూహ్‌ జాతివారి, ఆద్‌ సమూద్‌ జాతివారి, ఇబ్రాహీమ్‌ జాతివారి, మద్‌యన్‌ వారి, తలక్రిందులుగా చేయబడిన బస్తీలవారి సమాచారం అందలేదా? వారి వద్దకు వారి ప్రవక్తలు నిదర్శనాలను తీసుకువచ్చారు. అల్లాహ్‌ వారికెలాంటి అన్యాయం చేయలేదు. వారు తమ స్వయానికి తామే అన్యాయం చేసుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

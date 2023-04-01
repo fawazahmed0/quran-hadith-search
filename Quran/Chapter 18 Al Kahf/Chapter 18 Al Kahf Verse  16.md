@@ -2676,6 +2676,12 @@ Avarkaḷaiyum, avarkaḷ vaṇaṅkum allāh allātavaṟṟaiyum viṭṭu vil
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇప్పుడు మీరు వాళ్ళతోనూ, అల్లాహ్‌ను గాకుండా వారు పూజిస్తున్న ఇతర దైవాలతోనూ తెగత్రెంపులు చేసుకున్నారు. ఇక ఇప్పుడు ఏదన్నా గుహలోకి పోయి కూర్చోండి. మీ ప్రభువు మీపై తన కారుణ్యాన్ని విస్తరింపజేస్తాడు. మీ కార్యసిద్ధికై సౌలభ్యాన్ని సమకూరుస్తాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

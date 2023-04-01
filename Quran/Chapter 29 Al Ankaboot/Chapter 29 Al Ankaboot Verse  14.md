@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, mēmu nūh nu atani jāti vāri vaddaku pampāmu. Atanu v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము నూహు (అలైహిస్సలాం)ను అతని జాతి వైపునకు పంపాము. అతను వారిమధ్య యాభై తక్కువ వెయ్యి సంవత్సరాలు ఉన్నాడు. ఆ తరువాత వారిని తుఫాను ముట్టడించింది. (ఎందుకంటే) వారు దుర్మార్గులుగా ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

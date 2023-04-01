@@ -2676,6 +2676,12 @@ okavēḷa vāru durahaṅkārāniki pālpaḍitē! Ika nī prabhuvu daggaragā 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయినప్పటికీ వారు గనక అహంకారంతో హఠం చేస్తే (చేయనివ్వు) నీ ప్రభువు దగ్గర ఉన్నవారు (దైవదూతలు) అహో రాత్రులు ఆయన పవిత్రతను కొనియాడుతున్నారు. (ఈ పనిలో ఎన్నటికీ) వారు విసిగిపోరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

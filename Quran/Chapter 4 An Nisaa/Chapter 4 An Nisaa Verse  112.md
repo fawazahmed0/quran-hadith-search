@@ -2676,6 +2676,12 @@ mariyu evaḍu aparādhaṁ gānī, lēdā pāpaṁ gānī cēsi, taruvāta dān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా ఎవరయినా ఏదైనా తప్పు చేసి, లేదా పాపానికి పాల్పడి, ఆ నిందను ఏ పాపం ఎరుగని అమాయకుని పైకి నెట్టివేస్తే, అలాంటివాడు చాలా పెద్ద అపనిందను, స్పష్టమైన పాపాన్ని ఎత్తుకున్నవాడవుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

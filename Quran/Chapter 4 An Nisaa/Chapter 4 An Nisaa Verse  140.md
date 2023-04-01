@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, (allāh) mī koraku ī granthanlō (ī vidhamaina ājña) 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ తన గ్రంథంలో ఇదివరకే మీ వద్దకు ఈ ఆజ్ఞను అవతరింపజేశాడు: ఎవరైనా అల్లాహ్‌ వాక్యాలను తిరస్కరిస్తూ, పరిహాసమాడుతున్నట్లు మీరు విన్నట్లయితే, – వారు ఆ మాటలు విడిచి పెట్టి వేరే మాటలు మాట్లాడటం మొదలు పెట్టనంతవరకూ – ఆ సమూహంలో వారితో కలసి కూర్చోకండి. (అన్యధా) మీరు కూడా ఆ సమయంలో వారిలాంటి వారుగానే పరిగణించబడతారు. అల్లాహ్‌ నిశ్చయంగా కపటులను, అవిశ్వాసులందరినీ నరకంలో పోగుచేయనున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

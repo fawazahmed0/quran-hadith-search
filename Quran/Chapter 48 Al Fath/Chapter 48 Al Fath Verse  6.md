@@ -2676,6 +2676,12 @@ Mariyu kapaṭa viśvāsulu (munāphikhīn) ayina puruṣulanu mariyu kapaṭa v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్ విషయంలో చెడుగా అనుమానించే కపట విశ్వాసులైన పురుషులను – కపట విశ్వాసులైన స్త్రీలను, బహుదైవారాధకులైన పురుషులను – బహుదైవారాధకులైన స్త్రీలను దండించటానికి (కూడా అల్లాహ్ ముస్లింలకు మనోనిబ్బరాన్ని నూరిపోశాడు). వాస్తవానికి వారి దురనుమానాలు వారిపైనే పడతాయి. అల్లాహ్ వారిపై ఆగ్రహించాడు. వారిని శపించాడు. వారికోసం నరకాన్ని సిద్ధం చేశాడు. అది అత్యంత చెడ్డ గమ్యస్థానం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

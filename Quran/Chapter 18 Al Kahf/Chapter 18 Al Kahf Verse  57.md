@@ -2676,6 +2676,12 @@ mariyu tana prabhuvu sūcanalatō hitabōdha cēyabaḍinapuḍu, vāṭiki vimu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తన ప్రభువు వచనాల ద్వారా హితబోధ చేసినప్పటికీ, విముఖత చూపి, తన చేతులతో ముందుగా చేసి పంపుకున్న దానినే మరచిపోయిన వానికన్నా ఎక్కువ దుర్మార్గుడెవడుంటాడు? వారు దానిని (ఖుర్‌ఆనును) అర్థం చేసుకోకుండా మేము వారి హృదయాలపై తెరలు వేసేశాము. వారి చెవులకు చెవుడు కలిగించాము. నువ్వు సన్మార్గం వైపుకు వారిని పిలుస్తూ ఉన్నప్పటికీ, వారు ఎన్నటికీ సన్మార్గం పొందేవారు కారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

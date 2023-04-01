@@ -2676,6 +2676,12 @@ bahuśā, allāh mī madhya mariyu mīku virōdhulaina vāri madhya prēma kalig
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+బహుశా అల్లాహ్ మీకూ – మీ విరోధులకు మధ్య స్నేహాన్ని ఏర్పరచినా ఆశ్చర్యపోనవసరం లేదు. అల్లాహ్ కు అన్నీ సాధ్యమే. అల్లాహ్ (అపారంగా) క్షమించేవాడు, కనికరించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

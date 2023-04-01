@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi) ibrāhīm: "Ō nā prabhū! Nīvu mr̥tula
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(మరొక సంఘటన.) “ఓ ప్రభూ! నీవు మృతులను ఎలా బ్రతికిస్తావో కాస్త నాకు చూపవా?” అని ఇబ్రాహీం విన్నవించుకున్నప్పుడు, “నీకు నమ్మకం లేదా?” అని దేవుని తరఫున సెలవీయబడింది. “ఎందుకు లేదు?! (నాకు పూర్తి నమ్మకం ఉంది. కాకపోతే) ఆత్మ తృప్తికై ఇలా అడిగాను” అని అతనన్నాడు. అప్పుడు అల్లాహ్‌, “నాలుగు పక్షులను తీసుకో. వాటిని మచ్చిక చేసుకో. (వాటిని కోసి ముక్కలు ముక్కలుగా చెయ్యి). తరువాత ఒక్కో పర్వతంపై దాని ఒక్కో (మాంసపు) ముక్కను ఉంచు. ఆపైన వాటిని పిలువు. అవి నీ వద్దకు పరుగెత్తుకుంటూ వస్తాయి. అల్లాహ్‌ సర్వశక్తిమంతుడు, వివేకవంతుడన్న సంగతిని బాగా తెలుసుకో” అని అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

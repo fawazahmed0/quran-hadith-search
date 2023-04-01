@@ -2676,6 +2676,12 @@ Qur'on kitoʙest, ki ʙar tu ej Pajomʙar nozil şuda, dar dili tu az on şuʙha
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదొక గ్రంథం. దీని ఆధారంగా నీవు హెచ్చరించటానికిగాను ఇది నీ వద్దకు పంపబడింది. కాబట్టి (ఓ ప్రవక్తా!) దీని పట్ల నీ మనసులో ఎటువంటి సంకోచం ఉండకూడదు. విశ్వసించిన వారికి ఇది హితబోధిని (జ్ఞాపిక)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

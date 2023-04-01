@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Mīru mī hr̥dayālalō unnadi dācinā velibuccinā, adi a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: ”మీరు మీ గుండెల్లోని మాటలను దాచినా లేక వ్యక్తపరచినా – వాటన్నింటినీ అల్లాహ్‌ తెలుసుకుంటాడు. భూమ్యాకాశాలలో ఉన్నవన్నీ ఆయనకు తెలుసు. అల్లాహ్‌ సర్వాన్నీ చేయగల సమర్థుడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

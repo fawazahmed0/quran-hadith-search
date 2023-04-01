@@ -2676,6 +2676,12 @@ O manavulara! Oka udaharana ivvabadutondi, danini srad'dhaga vinandi! Niscayanga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రజలారా! ఒక ఉపమానం వివరించబడుతోంది – శ్రద్ధగా వినండి. అల్లాహ్‌ను వదలి మీరు ఎవరెవరినయితే మొర పెట్టుకుంటున్నారో, వారంతా ఏకమైనా- ఒక్క ఈగను కూడా సృష్టించలేరు. పైగా ఈగ వారి నుంచి ఏదైనా వస్తువును ఎగరేసుకుపోతే వారు దాన్ని కూడా దాని నుండి విడిపించుకోలేరు. అర్థించేవాడూ, అర్థించబడేవాడూ – ఇరువురూ బలహీనులే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ayana tana karunyanto mi koraku ratrini mariyu pagatini, visranti pondataniki ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే తన కృపతో మీకోసం రేయింబవళ్ళను చేశాడు – మీరు రాత్రిపూట విశ్రాంతిని పొందటానికి, పగటిపూట ఆయన అనుగ్రహాన్ని అన్వేషించటానికీను! మీరు కృతజ్ఞులుగా వ్యవహరిస్తారనే ఇదంతా చేయబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

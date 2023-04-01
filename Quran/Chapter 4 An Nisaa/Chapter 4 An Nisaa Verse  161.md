@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, vāriki niṣēdhimpabaḍinā; vāru vaḍḍī tīsukōv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిషేధించబడిన వడ్డీని పుచ్చుకోవటం వల్లనూ, జనుల సొమ్మును అన్యాయంగా స్వాహా చేయటం వల్లనూ (వారికీ దుర్గతి పట్టింది). వారిలో అవిశ్వాసులుగా ఉన్నవారి కోసం మేము బాధాకరమయిన శిక్షను సిద్ధం చేసి ఉంచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

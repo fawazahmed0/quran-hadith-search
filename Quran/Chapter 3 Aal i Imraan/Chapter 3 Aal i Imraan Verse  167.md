@@ -2676,6 +2676,12 @@ mariyu kapaṭaviśvāsulu evarō telusukōvaṭāniki. Mariyu vāritō (kapaṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దగాకోరులెవరో కూడా ఆయన తెలుసుకోవాలను కున్నాడు. ”రండి, అల్లాహ్ మార్గంలో పోరాడండి లేదా అవిశ్వాసులను ఎదుర్కోండి” అని వారితో (కపటులతో) అన్నప్పుడు, ”యుద్ధం జరగబోతుందని మాకు తెలిసి ఉంటే తప్పకుండా మీవెంట వచ్చే వాళ్ళమే” అని వారు బదులిచ్చారు. ఆనాడు వాళ్లు విశ్వాసం కన్నా అవిశ్వాసానికి బహు చేరువలో ఉన్నారు. తమ మనసుల్లో లేని దాన్ని నోటితో పలుకుతున్నారు. వారు దాచి ఉంచే దానిని అల్లాహ్‌ బాగా ఎరుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

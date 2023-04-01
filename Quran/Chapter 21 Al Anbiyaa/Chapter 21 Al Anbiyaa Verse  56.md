@@ -2676,6 +2676,12 @@ appaṭiyalla. Uṅkaḷuṭaiya iṟaivaṉ vāṉaṅkaḷukkum pūmikkum iṟ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను ఇలా చెప్పాడు: “కాదు, వాస్తవానికి భూమ్యాకాశాల ప్రభువే మీ ప్రభువు. ఆయనే వాటిని సృష్టించాడు. ఈ విషయానికి సాక్ష్యమిచ్చే వారిలో నేనూ ఒకణ్ణి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

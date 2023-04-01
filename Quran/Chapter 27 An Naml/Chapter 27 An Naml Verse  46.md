@@ -2676,6 +2676,12 @@ Soleh ʙa gūruhi kofiron guft: «Ej qavmi man, caro peş az nekī ʙar ʙadī m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను (సాలెహ్‌) ఇలా అన్నాడు : “ఓ నా జాతివారలారా! మీరు మంచి పనికి ముందు చెడుకోసం ఎందుకింత ఆత్రం చేస్తున్నారు? మీరు క్షమాపణ కొరకు అల్లాహ్‌ను ఎందుకు వేడుకోరు? తద్వారా మీరు కరుణించబడవచ్చు కదా!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

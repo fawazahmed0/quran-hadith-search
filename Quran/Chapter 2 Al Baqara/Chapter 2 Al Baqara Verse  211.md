@@ -2676,6 +2676,12 @@ mēmu enni spaṣṭamaina sūcana (āyat) lanu vāriki cūpin̄cāmō isrāyīl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఇస్రాయీల్‌ వంశస్థులకు ఎన్ని స్పష్టమైన నిదర్శనాలను ప్రసాదించామో వారినే అడగండి. దైవ ప్రసాదితాలు తమ వద్దకు చేరిన తరువాత వాటిని తారుమారు చేసేవారు, అల్లాహ్‌ కఠినమైన శిక్షలు విధించగలవాడన్న విషయాన్ని విస్మరించరాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

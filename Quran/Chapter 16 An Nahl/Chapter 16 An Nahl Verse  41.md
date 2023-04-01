@@ -2676,6 +2676,12 @@ mariyu daurjan'yānni sahin̄cina taruvāta, evaraitē allāh koraku valasa pōt
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దౌర్జన్యానికి గురైన తరువాత దైవమార్గంలో (ఇల్లూ వాకిలిని వదలి) వలసపోయిన వారికి మేము ప్రపంచంలోనూ ఉత్తమ నివాసాన్ని కల్పిస్తాము. ఇక పరలోకంలో లభించే పుణ్యఫలమైతే మరింత గొప్పది. ఈ విషయాన్ని జనులు తెలుసుకుంటే ఎంత బావుండు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

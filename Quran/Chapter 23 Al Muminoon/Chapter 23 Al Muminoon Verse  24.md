@@ -2676,6 +2676,12 @@ atani jātilōni satyatiraskārulaina nāyakulu ilā annāru: "Itanu mī vaṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి అవిశ్వాసులైన అతని జాతి సర్దారులు ఇలా అన్నారు: “ఇతను కూడా మీలాంటి ఒక మానవమాత్రుడే. అయితే ఇతను మీపై పెద్దరికాన్ని కోరుకుంటున్నాడు. దేవుడే గనక తలిస్తే (తన ప్రవక్తగా) ఏ దైవదూతనో పంపి ఉండేవాడు. ఇతను చెప్పే దానిని మేము ఇదివరకెన్నడూ, మా తాత ముత్తాతల కాలంలో వినలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

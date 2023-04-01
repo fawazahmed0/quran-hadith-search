@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Vārilō kondaru dānālu (sadakhāt) pan̄cē viṣayanl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానాల పంపిణీ విషయంలో నిన్ను నిందించేవారు కూడా వారిలో ఉన్నారు. అందులో నుంచి వారికి లభిస్తే సంతోషిస్తారు. లభించకపోతే వెంటనే కోపాన్ని వెళ్ళగ్రక్కుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

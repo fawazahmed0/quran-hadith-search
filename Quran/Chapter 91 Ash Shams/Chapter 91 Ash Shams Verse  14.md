@@ -2676,6 +2676,12 @@ Kābaṭṭi vāri prabhuvu vāri pāpāniki paryavasānaṅgā vāri mīda mah�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని వారు మాత్రం తమ ప్రవక్త (మాటల)ను త్రోసిపుచ్చి, దాని గిట్టెలను నరికి (చంపేశారు). అంతే! వారి ప్రభువు వారి దురాగతాల కారణంగా వారిపై వినాశాన్ని పంపాడు. వారందరినీ సమానం (నేలమట్టం) చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

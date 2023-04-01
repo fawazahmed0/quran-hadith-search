@@ -2676,6 +2676,12 @@ emi? Niku teliyada? Niscayanga, akasalalo mariyu bhumilonunna sarvamu allah ku t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలలో ఉన్న ప్రతి వస్తువు గురించి అల్లాహ్ కు తెలుసన్నది నీవు చూడటం లేదా? నాల్గవవాడుగా అల్లాహ్ లేకుండా ఏ ముగ్గురి మధ్య కూడా రహస్య మంతనాలు జరగవు. అరవవాడుగా అల్లాహ్ లేకుండా ఏ ఐదుగురి మధ్యన కూడా (రహస్య సమాలోచనలు సాగవు). అంతకన్నా తక్కువ మంది ఉన్నా, ఎక్కువ మంది ఉన్నా – వారెక్కడ ఉన్నా – ఆయన వారితో ఉంటాడు. మరి వారు చేసుకున్నవన్నీ ప్రళయదినాన వారికి తెలియపరుస్తాడు. నిశ్చయంగా అల్లాహ్ అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

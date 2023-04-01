@@ -2676,6 +2676,12 @@ emi? Denini kuda srstincaleni mariyu (svayanga) tame srstincabadina varini, varu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, ఏ వస్తువునూ సృష్టించలేని వారినీ, వారే స్వయంగా ఒకరి చేత సృష్టించబడిన వారిని వీళ్లు (అల్లాహ్‌కు) భాగస్వాములుగా నిలబెడుతున్నారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

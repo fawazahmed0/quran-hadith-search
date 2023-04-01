@@ -2676,6 +2676,12 @@ o ma prabhu! Mam'malni niku vidheyuluga (muslinluga) ceyi mariyu ma santati nund
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభూ! మమ్మల్ని నీ విధేయులు (ముస్లింలు)గా చేసుకో. మా సంతతి నుండి కూడా నీ విధేయతకు కట్టుబడి ఉండే ఒక సమూహాన్ని ప్రభవింపజెయ్యి. మాకు మా ఆరాధనా రీతులను నేర్పు. మమ్మల్ని క్షమించు. నిశ్చయంగా నీవు మాత్రమే పశ్చాత్తాపాన్ని స్వీకరించేవాడవు, అపారంగా కరుణించేవాడవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

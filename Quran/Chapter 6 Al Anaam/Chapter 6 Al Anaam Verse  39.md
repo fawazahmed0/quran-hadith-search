@@ -2676,6 +2676,12 @@ Mā sūcanalanu abad'dhālani tiraskarin̄cē vāru, ceviṭivāru mariyu mūgav
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే మా ఆయతులను ధిక్కరిస్తున్నారో వారు చీకట్లలో తచ్చాడుతున్న చెవిటివారు, మూగవారు. అల్లాహ్‌ తాను కోరిన వారిని పెడదారి పట్టిస్తాడు. అలాగే ఆయన తాను కోరిన వారిని రుజుమార్గంపై నడిపిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

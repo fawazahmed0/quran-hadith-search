@@ -2676,6 +2676,12 @@ mī taṇḍrulu vivāhamāḍina strīlanu mīru vivāhamāḍakaṇḍī. Inta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ తండ్రులు వివాహమాడిన స్త్రీలను మీరు ఎట్టి పరిస్థితిలోనూ పెళ్ళి చేసుకోకండి. పూర్వం జరిగిందేదో జరిగిపోయింది. అదొక సిగ్గుమాలిన పని, ద్వేషానికి మూలం, ఒక చెడు నడత
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

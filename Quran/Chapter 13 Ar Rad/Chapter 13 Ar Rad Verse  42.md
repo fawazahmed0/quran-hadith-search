@@ -2676,6 +2676,12 @@ Mariyu vāstavāniki vāriki pūrvaṁ unnavāru kūḍā kuṭralu pannāru. K�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీరికి పూర్వం (గతించిన) ప్రజలు కూడా పెద్ద పెద్ద కుట్రలు పన్నారు. అయితే (అసలు సిసలు) తంత్రాలన్నీ అల్లాహ్‌ అధీనంలో ఉన్నాయి. ఎవరేం చేస్తున్నదీ ఆయనకు తెలుసు. ఇహలోక పుణ్యఫలం ఎవరి కోసం ఉందో అవిశ్వాసులు త్వరలోనే తెలుసుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

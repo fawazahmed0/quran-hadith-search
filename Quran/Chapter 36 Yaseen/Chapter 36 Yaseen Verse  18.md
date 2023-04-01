@@ -2676,6 +2676,12 @@ ataṟkavarkaḷ “nāṅkaḷ uṅkaḷ varukaiyai niccayamāka keṭṭa caku
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు, “మేము మిమ్మల్ని దరిద్ర సూచకంగా భావిస్తున్నాము. మీరు గనక (ఈ పనిని) మానుకోకపోతే, మేము మిమ్మల్ని రాళ్లతో కొట్టి చంపేస్తాము. మా తరఫున మీకు బాధాకరమైన శిక్ష అంటుకుంటుంది” అని చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

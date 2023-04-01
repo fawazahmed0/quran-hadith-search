@@ -2676,6 +2676,12 @@ niccayamāka itaṟku muṉṉarum avarkaḷ kuḻappattai virumpiyirukkiṟārk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఇంతకు ముందు కూడా విభేదాలను సృష్టించే ప్రయత్నాలు చేశారు. నీ కార్యక్రమాలను తలక్రిందులుగా చేసే చేష్టలకు కూడా ఒడిగట్టారు. కడకు వారి ఇష్టానికి వ్యతిరేకంగా సత్యం వచ్చేసింది, దైవాజ్ఞే ఆధిపత్యం వహించింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

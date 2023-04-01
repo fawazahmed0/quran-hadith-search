@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi), jakariyyā tana prabhuvunu vēḍukunnapp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జకరియ్యా (వృత్తాంతాన్నికూడా స్మరించుకోండి). అతను తన ప్రభువుతో, “నా ప్రభూ! నన్ను ఒంటరివానిగా వదలకు. నీవు అందరికన్నా అత్యుత్తమ వారసుడవు” అని మొరపెట్టుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

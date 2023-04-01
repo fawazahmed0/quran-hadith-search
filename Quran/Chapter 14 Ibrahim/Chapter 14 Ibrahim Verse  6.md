@@ -2676,6 +2676,12 @@ Mūsā tana jātivāritō ilā annāḍu: " Allāh mīku cēsina anugrahālanu j
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా తన జాతి వారితో ఇలా అన్నప్పటి విషయం కూడా గుర్తుంచుకోదగినదే: “అల్లాహ్‌ మీకు చేసిన మేళ్ళను జ్ఞాపకం చేసుకోండి – మిమ్మల్ని తీవ్రంగా వేధిస్తూ ఉన్న ఫిరౌను జనుల చెర నుండి ఆయన మీకు విముక్తిని కల్పించాడు. వారు మీ కొడుకులను చంపేసి, మీ స్త్రీలను మాత్రమే బ్రతకనిచ్చేవారు. ఇది మీకు మీ ప్రభువు తరఫున పెద్ద పరీక్షగా ఉండేది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

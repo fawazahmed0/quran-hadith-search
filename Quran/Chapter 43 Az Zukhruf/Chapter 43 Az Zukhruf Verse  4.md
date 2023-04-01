@@ -2676,6 +2676,12 @@ mariyu niścayaṅgā, idi mā vadda nunna mātr̥ granthanlōnidē! Adi mahōnn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా ఇది మాతృగ్రంథం (లౌహె మహ్‌ఫూజ్‌)లో ఉన్నది. మా వద్ద అది ఎంతో ఉన్నతమైన, వివేకంతో నిండిన గ్రంథంగా ఉన్నది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

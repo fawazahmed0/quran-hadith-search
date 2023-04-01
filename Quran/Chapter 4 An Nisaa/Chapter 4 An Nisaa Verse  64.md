@@ -2676,6 +2676,12 @@ mariyu mēmu ē pravaktanu pampinā - allāh anujñatō - (prajalu) atanini anus
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఏ ప్రవక్తను పంపినా దైవాజ్ఞతో (ప్రజలు) అతనిని అనుసరించాలనే పంపాము. వారే గనక తమ ఆత్మలకు అన్యాయం చేసుకున్నప్పుడు, నీ వద్దకు వచ్చి క్షమాపణకై దైవాన్ని వేడుకుని ఉంటే, ప్రవక్త కూడా వారి మన్నింపుకై విన్నవించుకుని ఉంటే అప్పుడు వారు అల్లాహ్‌ను క్షమించేవాడుగా, కరుణించేవాడుగా పొంది ఉండేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

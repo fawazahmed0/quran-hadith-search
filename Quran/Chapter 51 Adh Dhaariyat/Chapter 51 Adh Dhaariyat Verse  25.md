@@ -2676,6 +2676,12 @@ vāru atani vaddaku vaccinapuḍu: "Mīku salāṁ!" Ani annāru. Atanu: "Mīkū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారతని దగ్గరకు వచ్చినప్పుడు అతనికి సలాం చెప్పారు. అతను కూడా సలాంకు జవాబు చెప్పి, ‘ వీళ్ళు అపరిచిత వ్యక్తుల్లా ఉన్నారే!’ (అనుకున్నాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

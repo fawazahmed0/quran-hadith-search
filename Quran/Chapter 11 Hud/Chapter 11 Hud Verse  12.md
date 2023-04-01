@@ -2676,6 +2676,12 @@ Va [ej pajomʙar] maʙodo [iʙloƣi] ʙarxe az on ciro, ki ʙa sūjat vahj meşa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓప్రవక్తా!) బహుశా నీవద్దకు పంపబడే వహీలో ఏదైనా భాగాన్నివదలివేస్తావేమో! “ఇతని పైధనాగారం ఎందుకు అవతరించలేదు? పోనీ, ఇతనితో పాటు దైవదూత అయినా ఎందుకు రాలేదు?” అని వారు చెప్పే మాటలు నీకు మనస్తాపం కలిగించినట్లున్నాయి. చూడు! నువ్వు భయపెట్టేవాడివి మాత్రమే. అన్ని విషయాలకు బాధ్యుడు అల్లాహ్‌
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

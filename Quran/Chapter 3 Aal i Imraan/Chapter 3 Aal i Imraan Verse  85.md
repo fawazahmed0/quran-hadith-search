@@ -2676,6 +2676,12 @@ Mariyu evaḍainā allāh ku vidhēyata (islāṁ) tappa itara dharmānni avalam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయినా ఇస్లాంను కాకుండా మరో ధర్మాన్ని అన్వేషిస్తే అతని ధర్మం స్వీకరించబడదు. అలాంటి వ్యక్తి పరలోకంలో నష్టపోయినవారిలో చేరిపోతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

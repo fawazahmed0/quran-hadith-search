@@ -2676,6 +2676,12 @@ bahaśā! Mana prabhuvu manaku dīniki badulugā dīni kaṇṭē śrēṣṭham
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మన ప్రభువు మనకు ఈ తోట స్థానంలో ఇంతకన్నా మంచి తోటను ప్రసాదించవచ్చు. కాబట్టి ఇప్పుడు మనం మన ప్రభువు వైపునకే మరలుదాం” అని అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

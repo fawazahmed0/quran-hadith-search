@@ -2676,6 +2676,12 @@ manasphūrtigā santōṣantō (allāh mārganlō) dānaṁ cēsē viśvāsulanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశాలమనసుతో దానధర్మాలు చేసే విశ్వాసులను నిందించేవారిని, (అల్లాహ్‌ మార్గంలో ఇచ్చేందుకు) తాము చెమటోడ్చి సంపాదించినది తప్ప మరేదీ తమ వద్దలేని వారిని అవహేళన చేస్తూ మాట్లాడేవారిని అల్లాహ్‌ కూడా ఆట పట్టిస్తాడు. వారికోసం వ్యధాభరితమైన శిక్ష ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

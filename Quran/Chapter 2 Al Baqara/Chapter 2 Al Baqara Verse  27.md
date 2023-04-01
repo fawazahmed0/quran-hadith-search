@@ -2676,6 +2676,12 @@ evaraitē allāh tō sthiramaina oḍambaḍika cēsukunna pidapa dānini bhaṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీరు ఎలాంటి వారంటే అల్లాహ్‌తో చేసిన దృఢమైన ప్రమాణాన్ని భంగపరుస్తారు. అల్లాహ్‌ కలిపి ఉంచమని చెప్పిన వాటిని త్రెంచివేస్తారు. భువిలో చెడుగును వ్యాపింపజేస్తారు. వీరే అసలు నష్టాన్ని పొందేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu mēmu vāri kelāṇṭi an'yāyaṁ cēyalēdu. Kāni vārē tamaku tām
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారికి ఏ మాత్రం అన్యాయం చేయలేదు. కాని వారే తమ స్వయానికి అన్యాయం చేసుకున్నారు. నీ ప్రభువు ఉత్తర్వు వచ్చినప్పుడు, అల్లాహ్‌ను వదలి వారు పూజించే వారి ఆరాధ్యదైవాలు వారికెలాంటి ప్రయోజనమూ చేకూర్చలేదు. పైగా వారి నష్టాన్ని మరింత అధికం చేశారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

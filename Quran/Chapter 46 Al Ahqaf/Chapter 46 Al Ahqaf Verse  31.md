@@ -2676,6 +2676,12 @@ mā jāti vāralārā! Allāh vaipunaku pilicēvānini anusarin̄caṇḍi. Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ మా జాతివారలారా! అల్లాహ్‌ వైపునకు పిలిచేవాని మాట వినండి. అతన్ని విశ్వసించండి. అల్లాహ్‌ మీ పాపాలను మన్నిస్తాడు. బాధాకరమైన శిక్ష నుండి మిమ్మల్ని రక్షిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāni, nijaṅgānē nis'sahāyulai, valasa pōvaṭāniki ē sādhanā sampatt�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే నిజంగానే ఏ సాధన సంపత్తి లేని, దారి తెలియని నిస్సహాయులైన పురుషుల, స్త్రీల, పసివాళ్ళ (సంగతి వేరు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

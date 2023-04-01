@@ -2676,6 +2676,12 @@ lēdā itanikoka nidhi enduku ivvabaḍalēdu? Lēdā itanikoka tōṭa enduku i
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“పోనీ ఇతని వద్దకు ఏదైనా ఖజానా ఎందుకు వచ్చిపడలేదు? పోనీ, ఇతను (హాయిగా) తింటూ ఉండటానికి ఇతనికి ఒక తోటన్నా లేదేమిటీ?” “మీరు చేతబడి చేయబడిన ఒక వ్యక్తి వెనుక నడుస్తున్నారు” అని కూడా ఆ దుర్మార్గులు అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāvuna bhūmyākāśāla prabhuvu sākṣigā! Niścayaṅgā, idi satyaṁ; ē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక భూమ్యాకాశాల ప్రభువు సాక్షిగా! ముమ్మాటికీ ఇది సత్యం. మీరు పరస్పరం మాట్లాడుకుంటున్నట్లే (సత్యమిది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

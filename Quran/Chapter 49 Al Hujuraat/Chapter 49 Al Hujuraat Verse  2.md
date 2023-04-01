@@ -2676,6 +2676,12 @@ O visvasulara! Mi kanthasvaralanu, pravakta kanthasvarani kante pencakandi mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీ కంఠస్వరాలను ప్రవక్త కంఠస్వరం కంటే పైన (హెచ్చుగా) ఉంచకండి. మీరు పరస్పరం బిగ్గరగా మాట్లాడుకునే విధంగా ఆయన సల్లల్లాహు అలైహివ సల్లం తో బిగ్గరగా మాట్లాడకండి. దీనివల్ల మీ కర్మలన్నీ వ్యర్ధమైపోవచ్చు. ఆ సంగతి మీకు తెలియను కూడా తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

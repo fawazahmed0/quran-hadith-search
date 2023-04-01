@@ -2676,6 +2676,12 @@ Vāstavāniki vāri gāthalalō bud'dhimantulaku guṇapāṭhamundi. Idi (ī kh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా వీరి (ఈ జాతుల) గాథలలో విజ్ఞతగల వారికి గుణపాఠం ఉంది. ఈ ఖుర్‌ఆన్‌ కల్పితమైన విషయం ఎంతమాత్రం కాదు. పైగా ఇది తనకు పూర్వం ఉన్న గ్రంథాలను ధ్రువీకరిస్తుంది, ప్రతి విషయాన్నీ స్పష్టంగా విడమరచి చెబుతుంది. విశ్వసించే జనులకు ఇది సన్మార్గం, కారుణ్యం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ika maryam kumāruṇṇi mariyu atani tallini mēmu (mā anugrahapu) sūcanagā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మర్యమ్‌ కుమారుణ్ణి, అతని తల్లిని ఒక సూచనగా చేశాము. వారిద్దరికీ ఎత్తయిన ప్రదేశంలో ఆశ్రయం కల్పించాము. అది ప్రశాంతమైన స్థలం, నీటి కాలువగల ప్రదేశం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

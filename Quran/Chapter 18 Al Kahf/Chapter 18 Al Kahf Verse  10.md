@@ -2676,6 +2676,12 @@ anta iḷaiñarkaḷ kukaiyiṉuḷ tañcam pukunta pōtu avarkaḷ"eṅkaḷ i�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ యువకులు గుహలో ఆశ్రయం పొందినపుడు ఇలా ప్రార్థించారు: “మా ప్రభూ! నీ వద్ద నుంచి మాకు కారుణ్యాన్ని ప్రసాదించు. మా పనిలో మా కోసం సన్మార్గాన్ని సులభతరం చెయ్యి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

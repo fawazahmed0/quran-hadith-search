@@ -2676,6 +2676,12 @@ mariyu oka sūrah avatarimpa jēyabaḍinappuḍallā vāri (kapaṭa viśvāsul
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏదైనా ఒక సూరా అవతరించినప్పుడల్లా కపటుల్లోని కొందరు, “ఈ సూరా మీలో ఎవరి విశ్వాసాన్ని వృద్ధి పరచింది?” అని (వెటకారంగా) అడుగుతారు. విశ్వాసుల విశ్వాసాన్ని ఈ సూరా వృద్ధి చేసింది. దానిపై వారు సంతోషిస్తున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

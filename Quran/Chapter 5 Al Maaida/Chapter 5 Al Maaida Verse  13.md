@@ -2676,6 +2676,12 @@ A pidapa varu tamu cesina odambadikanu bhangam cesinanduku, memu varini sapincam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత వారు తమ వాగ్దానాన్ని భంగపరచిన కారణంగా మేము వారిని శపించాము. వారి హృదయాలను కఠినం చేశాము. (తత్కారణంగా) వారు పదాలను వాటి (అసలు) స్థానం నుంచి తారుమారు చేస్తున్నారు. అంతేకాదు, తమకు బోధించబడిన ఉపదేశంలో చాలా భాగం వారు మరచి పోయారు. (ఓ ప్రవక్తా!) వారు పాల్పడే ఏదో ఒక ద్రోహానికి సంబంధించిన సమాచారం నీకు అందుతూనే ఉంటుంది. అయితే వారిలో కొద్దిమంది మాత్రం అలాంటివారు కారు. అయినా సరే నువ్వు వారిని మన్నిస్తూ, ఉపేక్షిస్తూ ఉండు. నిస్సందేహంగా అల్లాహ్‌ ఉత్తమంగా వ్యవహరించేవారిని అమితంగా ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

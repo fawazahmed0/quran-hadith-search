@@ -2676,6 +2676,12 @@ avunu! Okavēḷa mīru sahanaṁ vahin̄ci daivabhīti kaligi vuṇṭē, śatr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”అవును. మీరే గనక సహనం వహించి, భయభక్తులతో మెలగుతూ ఉండి, వారు (దైవ విరోధులు) ఇదే ఆవేశంతో మీపైకి దండెత్తివస్తే, మీ ప్రభువు ఐదువేల మంది ప్రత్యేక చిహ్నాలుగల దూతలతో మీకు సాయమందిస్తాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

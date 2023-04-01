@@ -2676,6 +2676,12 @@ lēdā! Allāh tana anugrahantō prajalaku prasādin̄cina (saubhāgyānni) cūs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేక అల్లాహ్‌ తన అనుగ్రహంతో ప్రజలకు ప్రసాదించిన దానిపై వారు అసూయ పడుతున్నారా? మేమైతే ఇబ్రాహీము సంతతికి గ్రంథాన్ని, వివేకాన్నీ ప్రసాదించాము. గొప్ప సామ్రాజ్యాన్ని కూడా వొసగాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

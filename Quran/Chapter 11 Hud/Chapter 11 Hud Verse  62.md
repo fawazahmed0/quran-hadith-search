@@ -2676,6 +2676,12 @@ vārannāru: "Ō sālih! Intaku mundu mēmu nīpai āśalu peṭṭukoni unnāmu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(దానికి సమాధానంగా వారు) ఇలా అన్నారు: “ఓ సాలిహ్‌! ఇంతకు మునుపు వరకూ మేము నీపై ఎన్నో ఆశలు పెట్టుకున్నాము. ఏమిటీ, మా తాతముత్తాతలు పూజిస్తూ వచ్చిన వారిని పూజించకుండా నువ్వు మమ్మల్ని ఆపుతున్నావా?! నువ్వు మమ్మల్ని ఏ ధర్మం వైపుకు పిలుస్తున్నావో దానిపై మాకు తీవ్రమయిన సందేహం ఉంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

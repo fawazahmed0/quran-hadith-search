@@ -2676,6 +2676,12 @@ mariyu mīru karuṇin̄cabaḍāli aṇṭē namāj sthāpin̄caṇḍi, vidhid
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నమాజును నెలకొల్పండి. జకాతును ఇవ్వండి. దైవప్రవక్తకు విధేయులుగా మసలుకోండి. తద్వారానే మీరు కరుణించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

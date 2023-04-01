@@ -2676,6 +2676,12 @@ viśvasin̄ci tama māṭapai sthiraṅgā unnavārini allāh ihalōkanlōnū ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన వారికి అల్లాహ్‌ స్థిరమైన మాటపై ప్రాపంచిక జీవితంలోనూ, పరలోకంలోనూ నిలకడను ప్రసాదిస్తాడు. అయితే అన్యాయపరులను మాత్రం ఆయన అపమార్గానికి లోను చేస్తాడు. అల్లాహ్‌ తాను తలచుకున్నది చేసి తీరుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

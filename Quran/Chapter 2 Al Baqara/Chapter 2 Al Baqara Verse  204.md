@@ -2676,6 +2676,12 @@ mariyu prajalalō nuṇḍi oka vyakti māṭalu ihalōka jīvitanlō nīku sant
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ప్రజలలో కొందరు పలికే ప్రాపంచిక ఉద్దేశాలతో కూడుకున్న మాటలు నిన్ను అలరించవచ్చు. వాడు తన ఆంతర్యంలోనున్న అసలు విషయానికి అల్లాహ్‌ను సాక్షిగా పెడుతున్నాడు. మరి చూడబోతే వాడు పెద్ద తగవులమారి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

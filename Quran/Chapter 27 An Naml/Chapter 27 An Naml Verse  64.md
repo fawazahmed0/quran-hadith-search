@@ -2676,6 +2676,12 @@ emi? Ayane kada? Srstini tolisari prarambhinci, taruvata danini marala unikiloki
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+చెప్పండి, తొలిసారి సృష్టిని చేసినదెవరు? మళ్ళీ దాన్ని పునరావృతం చేయగలవాడెవడు? భూమ్యాకాశాల నుంచి మీకు ఉపాధిని (ఆహార వనరులను) సమకూర్చేవాడెవడు? ఏమిటీ, అల్లాహ్‌తో పాటు (ఈ కార్యనిర్వహణలో) ఇంకొక ఆరాధ్య దేవుడు కూడా ఉన్నాడా? మీరు సత్యవంతులే అయితే ఆ మేరకు మీ ప్రమాణం ఏదన్నా తీసుకురండి అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

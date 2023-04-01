@@ -2676,6 +2676,12 @@ a (pratiphala) dinamuna, pravakta matanu tiraskarinci, ataniki avidheyata cupina
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు అవిశ్వాసులూ, ప్రవక్త పట్ల అవిధేయతకు పాల్పడినవారూ తాము నేలమట్టం చేయబడితే బావుండునే! అని కోరుకుంటారు. వారు దైవసమక్షంలో ఏ ఒక్క విషయాన్నీ దాచలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

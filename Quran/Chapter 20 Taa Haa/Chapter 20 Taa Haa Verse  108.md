@@ -2676,6 +2676,12 @@ a roju andaru pilicevanini vembadistaru, atani nundi tolagiporu. Ananta karanama
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు వారందరూ పిలిచేవాని వెనుక పడిపోతుంటారు. అందులో (ఆ అనుసరణలో) ఎలాంటి వంకరతనం ఉండదు. కరుణామయుడైన అల్లాహ్‌ సమక్షంలో అందరి కంఠస్వరాలు తగ్గిపోయి ఉంటాయి. గుసగుసలు తప్ప నీకు మరొకటి వినిపించదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

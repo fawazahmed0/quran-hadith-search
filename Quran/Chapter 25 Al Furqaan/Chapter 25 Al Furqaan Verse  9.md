@@ -2676,6 +2676,12 @@ akave, (napiye!) Um'maip parri ivvakkiramakkararkal ennenna varnippukal kurukira
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) చూశావా! వాళ్లు నీ గురించి ఎలాంటి ఉదాహరణల్ని ఇస్తున్నారో! (అది కాదులే), నిజానికి వాళ్లు అసలు మార్గం తప్పారు. ఇక వాళ్లు మార్గానికి రావటం అనేది జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

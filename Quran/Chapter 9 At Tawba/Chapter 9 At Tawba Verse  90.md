@@ -2676,6 +2676,12 @@ mariyu sākulu ceppē eḍāri vāsulu (baddūlu) kūḍā vacci venuka uṇḍi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పల్లెవాసుల్లోని సాకులు చెప్పేవాళ్లు కూడా తమకు (యుద్ధం నుంచి) సెలవు ఇవ్వమని కోరుతూ వచ్చారు. అల్లాహ్‌తోనూ, ఆయన ప్రవక్తతోనూ అబద్దాలాడిన వారు ఎలాగూ కూర్చొనే ఉండిపోయారు. వారిలో అవిశ్వాస పోకడను ప్రదర్శించిన వారికి బాధాకరమైన శిక్ష తప్పదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

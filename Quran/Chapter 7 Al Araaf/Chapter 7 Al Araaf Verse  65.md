@@ -2676,6 +2676,12 @@ iṅkā mēmu ād (jāti) vaddaku vāri sōdaruḍaina hūd nu pampāmu. Atanu: 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఆద్‌జాతి వద్దకు వారి సోదరుడైన హూద్‌ను పంపాము. “నా జాతి ప్రజలారా! మీరు అల్లాహ్‌ను ఆరాధించండి. ఆయన తప్ప మీకు మరో ఆరాధ్య దైవం లేడు. మరలాంటప్పుడు మీరు భయపడరా?” అని అతను చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

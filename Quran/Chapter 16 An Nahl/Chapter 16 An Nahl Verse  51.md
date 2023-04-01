@@ -2676,6 +2676,12 @@ mariyu allāh ilā ājñāpin̄cāḍu: "(Ō mānavulārā!) Iddarinī ārādhya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఇలా సెలవిచ్చాడు: “ఇద్దరు ఆరాధ్య దైవాలను కల్పించుకోకండి. ఆరాధ్య దైవం మటుకు ఆయన ఒక్కడే. కాబట్టి మీరంతా కేవలం నాకే భయపడండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

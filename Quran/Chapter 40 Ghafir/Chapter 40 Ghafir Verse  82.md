@@ -2676,6 +2676,12 @@ emi? Viru bhumilo sancarincaleda? Appudu viriki purvam gatincina vari gati emayi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీరు భువిలో సంచారం చేసి, తమకు పూర్వం గడచిన వారికి పట్టిన గతేమిటో చూడలేదా? వారు సంఖ్యాపరంగా వీరి కన్నా అధికులే. బలపరాక్రమాల రీత్యా వీళ్లకన్నా గట్టివారే. భువిలో వారు ఎన్నో చిహ్నాలను (కూడా) వదలిపోయారు. కాని వారి ఘనకార్యాలు వారికి ఏ విధంగానూ ఉపయోగపడలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

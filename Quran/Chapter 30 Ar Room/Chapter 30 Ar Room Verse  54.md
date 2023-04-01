@@ -2676,6 +2676,12 @@ allāh yē mim'malni balahīna sthitilō puṭṭin̄cina vāḍu. Maḷḷī ā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ – ఆయనే మిమ్మల్ని బలహీన స్థితిలో పుట్టించాడు. మరి ఈ బలహీనత తరువాత (మీకు) బలాన్ని ఇచ్చాడు. మరి ఈ బలం తరువాత మళ్లీ (మీకు) బలహీనతను ఇచ్చాడు, వృద్ధాప్యానికి చేర్చాడు. ఆయన తాను తలచినది సృష్టిస్తాడు. ఆయన అన్నీ తెలిసినవాడు, అన్నింటిపై అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

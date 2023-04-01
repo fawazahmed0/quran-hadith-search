@@ -2676,6 +2676,12 @@ mariyu okavēḷa nīvu vāritō: "Ākāśālanū mariyu bhūminī sr̥ṣṭin�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలను సృష్టించినవాడెవడు? సూర్యచంద్రులను పనిలో నిమగ్నుల్ని చేసినవాడెవడు? అని నువ్వు వారిని అడిగితే ‘అల్లాహ్‌యే’ అని వారు చెబుతారు. మరలాంటప్పుడు వారు (సత్యం నుంచి) ఎలా తిరిగిపోతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

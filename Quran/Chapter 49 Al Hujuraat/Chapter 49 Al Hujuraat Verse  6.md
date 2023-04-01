@@ -2676,6 +2676,12 @@ o visvasulara! Evadaina oka avidheyudu (phasikh), mi vaddaku edaina varta teste,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! ఎవడయినా దుర్వర్తనుడు మీ వద్దకు ఏదైనా సమాచారాన్ని తీసుకువస్తే, దాని నిజానిజాలను నిర్ధారించుకోండి. అన్యథా మీరు నిజం తెలియని కారణంగా ఇతర జనులకు నష్టం కలిగించి, తరువాత చేసిన దానిపై సిగ్గుతో కుంచించుకు పోవలసిన పరిస్థితి రావచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

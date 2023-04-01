@@ -2676,6 +2676,12 @@ ilā anu: "Niścayaṅgā, nā prabhuvu taraphu nuṇḍi, nāku spaṣṭamaina
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి ఈ విధంగా చెప్పు: “మీరు అల్లాహ్‌ను వదలి మొరపెట్టుకుంటున్నటువంటి వాటిని నేను పూజించటాన్ని వారించటం జరిగింది. ఆ మేరకు నా వద్దకు నా ప్రభువు తరఫున సూచనలు వచ్చేశాయి. సకల లోకాల ప్రభువుకే నేను విధేయుడనై ఉండాలని (కూడా) నాకు ఆజ్ఞాపించబడింది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu atanu tana tallidaṇḍrulanu sinhāsanaṁ mīda kūrcōbeṭṭukunnā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను తన తల్లిదండ్రులను ఎత్తయిన సింహాసనంపై కూర్చోబెట్టాడు. వారందరూ అతని ముందు సాష్టాంగపడ్డారు. అప్పుడు అతనిలా అన్నాడు : “నాన్నగారూ! పూర్వం నేను కన్నకలకు భావం ఇది. నా ప్రభువు దీన్ని నిజం చేసి చూపాడు. కారాగారం నుండి బయటకు తీసినపుడు ఆయన నాకు మహోపకారం చేశాడు. నాకూ – నా సోదరులకూ మధ్య షైతాన్‌ చిచ్చుపెట్టిన తరువాత అందరినీ ఎడారి ప్రాంతం నుంచి తీసుకొచ్చి కలిపాడు. నా ప్రభువు తన సంకల్పాన్ని ఎవరూ గ్రహించలేని యుక్తులద్వారా నెరవేరుస్తాడు. ఆయన అన్నీ తెలిసినవాడూ, వివేకవంతుడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

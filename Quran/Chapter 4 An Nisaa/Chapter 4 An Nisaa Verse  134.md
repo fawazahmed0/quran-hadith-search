@@ -2676,6 +2676,12 @@ evaḍu ihalōka phalitānni kōrutāḍō, (vānikadē dorukutundi). Kāni (kē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే ప్రాపంచిక ప్రతిఫలాన్ని కోరుకుంటున్నాడో (అతడు), అల్లాహ్‌ వద్ద ప్రాపంచిక ప్రతిఫలంతో పాటు పరలోక ప్రతిఫలం కూడా ఉంది (అని తెలుసుకోవాలి). అల్లాహ్‌ అంతా వినేవాడు, అన్నింటినీ చూసేవాడు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā, nīku pūrvaṁ cālā mandi pravaktalu, asatyavādulani 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీకు పూర్వం కూడా చాలామంది ప్రవక్తలు ధిక్కరించబడ్డారు. అయితే వారు (ప్రజల) ధిక్కారవైఖరికి, తమకు పెట్టబడిన బాధలకు సహనం వహించారు. కడకు వారికి మా సహాయం అందింది. అల్లాహ్‌ వాక్కులను మార్చేవాడు ఎవడూ లేడు. కొంతమంది ప్రవక్తలకు సంబంధించిన కొన్ని విషయాలు ఇప్పటికే నీ వద్దకు చేరాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ muham'matu(sal) uṅkaḷ āṭavarkaḷil evar oruvarukkum tantaiyāka irukkavi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ప్రజలారా!) ముహమ్మద్‌ (సఅసం) మీ మగవారిలో ఎవరికీ తండ్రికాడు. అయితే ఆయన అల్లాహ్‌ యొక్క సందేశహరుడు. ప్రవక్తల పరంపరను పరిసమాప్తం చేసే (చివరి) వాడు. అల్లాహ్‌ ప్రతిదీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

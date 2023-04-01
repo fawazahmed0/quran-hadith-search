@@ -2676,6 +2676,12 @@ ika vāru narakāgnilō parasparaṁ vādulāḍutunnappuḍu, (ihalōkanlō) ba
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారు నరకాగ్నిలో (కాలుతూ) పరస్పరం వాదోపవాదాలు మొదలెట్టినప్పుడు బలహీనులు, గర్విష్టులనుద్దేశించి, “మేము మీకు తాబేదార్లుగా ఉన్నాం కదా! మరి మీరిప్పుడు ఈ అగ్నిలో ఏ కొంత భాగాన్నయినా మా నుండి తొలగించగలరా?!” అని అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

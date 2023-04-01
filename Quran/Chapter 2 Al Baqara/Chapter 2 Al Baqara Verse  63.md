@@ -2676,6 +2676,12 @@ mariyu (ō isrāyīl santati vāralārā!) Mēmu tūr parvatānni etti mīpai ni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తూరు పర్వతాన్ని మీ పైకి ఎత్తి మేము మీ చేత చేయించిన ప్రమాణాన్ని కాస్త జ్ఞాపకం చేసుకోండి. అప్పుడు, “మేము మీకు ప్రసాదించిన దానిని (గ్రంథాన్ని) గట్టిగా పట్టుకోండి. అందులో వున్న వాటిని బాగా జ్ఞాపకం చేసుకోండి, దీని ద్వారానే మిమ్మల్ని మీరు కాపాడుకునే అవకాశం ఉంది” (అని ఉపదేశించాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

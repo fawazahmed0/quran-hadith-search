@@ -2676,6 +2676,12 @@ mariyu nā jāti prajalārā! Allāh yokka ī āḍa oṇṭe mī koraku oka adb
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ నా జాతి వారలారా! అల్లాహ్‌ మీ కోసం ఒక సూచనగా పంపిన ఆడ ఒంటె ఇది. మీరు ఈ ఒంటెను అల్లాహ్‌ భూమిపై స్వేచ్ఛగా మేస్తూ తిరిగేలా వదిలిపెట్టండి. దానికి ఎలాంటి కీడూ తలపెట్టకండి. మీరు గనక దాని జోలికి పోయారంటే తొందరగానే శిక్ష మీపై విరుచుకుపడుతుంది” అని సాలిహ్‌ వారికి చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

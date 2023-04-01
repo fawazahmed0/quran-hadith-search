@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Ō yūdulārā! Niścayaṅgā, itara prajala kaṇṭē mī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్ సల్లల్లాహు అలైహివ సల్లం!) వారికి ఈ విధంగా చెప్పు: “ఓ యూద జనులారా! ఇతర జనుల కన్నా మీరే అల్లాహ్ కు ప్రియమైన వారన్నది మీ తలంపు అయితే, మీరు చావును కోరుకోండి. మీరు మీ వాదనలో సత్యవంతులే అయితే (ఈ సవాలును స్వీకరించండి).”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

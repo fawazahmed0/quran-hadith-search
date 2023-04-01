@@ -2676,6 +2676,12 @@ i vidhanga varu allah upakaralu mariyu anugrahalato (yud'dharangam nundi) tirigi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(తత్ఫలితంగా) వారు అల్లాహ్‌ ప్రసాదించిన వరాలతో, అనుగ్రహంతో తిరిగి వచ్చారు. వారికెలాంటి కీడూ కలగలేదు. వారు అల్లాహ్‌ ప్రసన్నతను అనుసరించారు. అల్లాహ్‌ గొప్ప అనుగ్రహం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

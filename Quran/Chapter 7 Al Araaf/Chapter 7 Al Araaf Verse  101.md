@@ -2676,6 +2676,12 @@ i nagarala vrttantalanu konnintini memu niku vinipistunnamu. Mariyu vastavaniki 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ బస్తీల గాథలను స్థూలంగా మేము నీకు వివరిస్తున్నాము. వాళ్ళందరి వద్దకూ వారి ప్రవక్తలు స్పష్టమయిన మహిమలను తీసుకువచ్చారు. అయితే మొదట్లో ఒకసారి వారు త్రోసి పుచ్చిన దానిని తరువాత విశ్వసించేవారు కాదు. ఈ విధంగా అల్లాహ్‌ తిరస్కారుల హృదయాలపై ముద్ర వేసేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

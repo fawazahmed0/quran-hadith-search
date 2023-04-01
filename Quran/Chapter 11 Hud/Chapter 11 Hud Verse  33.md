@@ -2676,6 +2676,12 @@ atanu (nūh) annāḍu: "Allāh kōritē niścayaṅgā, dānini (ā śikṣanu)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“దానిని తెచ్చేవాడు కూడా అల్లాహ్‌యే, ఆయన గనక తలచుకుంటే (తెచ్చి తీరుతాడు). మీరు మాత్రం ఆయన్ని ఓడించలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mī bandhuvulu gānī, mī santānaṁ gānī mīku ē vidhaṅgānū panikirār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ రక్తసంబంధాలు, బంధుత్వాలు, మీ బిడ్డలు ప్రళయదినాన మీకు ఏవిధంగానూ ఉపయోగపడరు. అల్లాహ్ మీ మధ్య తీర్పు చేసేస్తాడు. మీరు చేసే పనులన్నిటిని అల్లాహ్ చూస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

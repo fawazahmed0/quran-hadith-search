@@ -2676,6 +2676,12 @@ mariyu mēmu (mūsānu) pilicinapuḍu, nīvu (ō muham'mad!) Tūr parvataṁ da
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము (మూసాను) పిలిచినప్పుడు కూడా నువ్వు తూర్‌ (పర్వతం) వైపున లేవు. నిజానికి నీకు పూర్వం అప్రమత్తం చేసే వాడెవడూ రాని జాతిని నువ్వు అప్రమత్తం చేయడానికి; నీ ప్రభువు తరఫున (నీకు వొసగబడిన) కారుణ్యం ఇది. దీనిద్వారా వారు బహుశా గుణపాఠం నేర్చుకుంటారేమో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

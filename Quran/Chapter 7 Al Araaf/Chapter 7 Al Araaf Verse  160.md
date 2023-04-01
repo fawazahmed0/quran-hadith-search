@@ -2676,6 +2676,12 @@ mariyu mēmu vārini panneṇḍu tegalugā (vargālugā) vibhavin̄cāmu. Mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము (మూసా జాతి) వారిని పన్నెండు తెగలుగా విభజించి, వేర్వేరు సమూహాలుగా చేశాము. మూసా జాతి వారు అతన్ని నీళ్ళు అడిగినప్పుడు, “నీ చేతి కర్రను ఫలానా రాతిపై కొట్టు” అని మేమతన్ని ఆదేశించాము. అంతే! (అతను కర్రతో కొట్టగానే) ఆ రాతి బండ నుంచి పన్నెండు ఊటలు చిమ్ముకువచ్చాయి. ప్రతి తెగవారూ తాము నీళ్లు తాగవలసిన చోటును తెలుసుకున్నారు. మేము వారిపై మబ్బుల ద్వారా నీడను కల్పించాము. వారిపై ‘మన్న సల్వా’లను (ఆహారంగా) దించాము. “మేము మీకు ప్రసాదించిన పరిశుద్ధమైన పదార్థాలను తినండి” (అని వారికి చెప్పాము.) అయితే వారు (కృతఘ్నతకు పాల్పడి) మాకు చేకూర్చిన నష్టం ఏమీలేదు. వారు తమ స్వయానికే నష్టం చేకూర్చుకునేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ eṅkaḷ iṟaivaṉē! Nī eṅkaḷai viṭṭum inta vētaṉaiyai nīkkuvā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అప్పుడు వారు) “మా ప్రభూ! ఈ విపత్తును మా నుండి దూరం చేయి. మేము నిజంగానే విశ్వసిస్తాము” (అని ప్రాధేయపడతారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

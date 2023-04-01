@@ -2676,6 +2676,12 @@ vīrē tama prabhuvu sūcanalanu mariyu āyananu kalusukōvalasi vunnadanē vi�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ ప్రభువు ఆయతులను, ఆయన్ని కలుసుకోవలసి ఉందన్న విషయాన్ని త్రోసి పుచ్చినవారు వీరే. అందువల్ల వారి కర్మలన్నీ వృధా అయిపోయాయి. కాబట్టి ప్రళయదినాన మేము వారి కర్మల బరువును తూయము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

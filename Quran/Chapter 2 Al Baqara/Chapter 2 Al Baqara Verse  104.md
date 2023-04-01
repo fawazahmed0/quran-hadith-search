@@ -2676,6 +2676,12 @@ o visvasulara, (miru pravaktato matladetappudu) ra'ina! Ani anakandi. Un"jurna! 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! (దైవప్రవక్త-సల్లల్లాహు అలైహి వ సల్లంను) ‘రాయినా’ అని అనకండి, ‘ఉన్‌జుర్నా’ అని అనండి. శ్రద్ధగా వింటూ ఉండండి. అవిశ్వాసుల కొరకు బాధాకరమైన శిక్ష ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

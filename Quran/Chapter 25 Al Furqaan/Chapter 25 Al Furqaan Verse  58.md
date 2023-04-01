@@ -2676,6 +2676,12 @@ kāvuna ennaḍū maraṇin̄cani, ā sajīvuni (nityuni) painanē ādhārapaḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎన్నటికీ మరణించనివాడూ, నిత్యుడూ అయిన అల్లాహ్‌ను నమ్ముకో. స్తోత్రసమేతంగా ఆయన పవిత్రతను కొనియాడుతూ ఉండు. తన దాసుల పాపాలను గురించి తెలుసుకునేందుకు ఆయన ఒక్కడే చాలు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

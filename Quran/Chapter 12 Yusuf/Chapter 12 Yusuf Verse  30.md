@@ -2676,6 +2676,12 @@ mariyu nagara strīlu parasparaṁ ilā carcin̄cukōsāgāru. "Ajīj bhārya ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నగర స్త్రీలలో గుసగుసలు మొదలయ్యాయి – “అజీజ్‌ భార్య తన వద్ద నున్న (యువ) బానిసపై (మోజుపడి), తన ఉద్దేశాన్ని నెరవేర్చుకోవటానికి వలపన్నుతోంది. ఆమె మనసులో అతని పట్ల ప్రేమ.గూడు కట్టుకుంది. (ఎంతయినా) మా దృష్టిలో ఆమె చేసేది ఘోరమైనతప్పే” అని వారు చెప్పుకోసాగారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

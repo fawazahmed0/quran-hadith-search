@@ -2676,6 +2676,12 @@ ataṟkavar ‘‘ipṟāhīmē! Nī eṉ teyvaṅkaḷaip puṟakkaṇittu vi�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ ఇబ్రాహీం! నువ్వు నా దైవాలకే విముఖత చూపుతున్నావా? విను! నువ్వు నీ వైఖరిని మానుకోకపోతే నేను నిన్ను రాళ్లతో కొడతాను. మర్యాదగా నన్ను నా మానాన వదలిపెట్టు” అని అతని తండ్రి అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

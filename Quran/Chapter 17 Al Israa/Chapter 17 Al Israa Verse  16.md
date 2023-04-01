@@ -2676,6 +2676,12 @@ mariyu mēmu oka nagarānni nāśanaṁ cēyadalacu kunnappuḍu (modaṭa) andu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఏదైనా ఒక పట్టణాన్ని నాశనం చెయ్యాలని సంకల్పించుకున్నప్పుడు, అక్కడి స్థితిమంతులకు (కొన్ని) ఆజ్ఞలు జారీ చేస్తాము. కాని వారేమో అందులో అవిధేయతకు పాల్పడతారు. ఆ విధంగా వారిపై (శిక్షకు సంబంధించిన) మాట నిరూపితమవుతుంది. ఆపై మేము ఆ పట్టణాన్ని సర్వనాశనం చేసేస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

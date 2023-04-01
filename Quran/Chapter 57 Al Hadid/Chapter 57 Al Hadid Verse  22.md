@@ -2676,6 +2676,12 @@ bhūmi mīda gānī lēdā svayaṅgā mī mīda gānī virucuku paḍē ē āpa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ ఆపద అయినాసరే – అది భూమిలో వచ్చేదైనా, స్వయంగా మీ ప్రాణాలపైకి వచ్చేదైనా – మేము దానిని పుట్టించకమునుపే అదొక ప్రత్యేక గ్రంథంలో వ్రాయబడి ఉంది. ఇలా చేయటం అల్లాహ్ కు చాలా తేలిక
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

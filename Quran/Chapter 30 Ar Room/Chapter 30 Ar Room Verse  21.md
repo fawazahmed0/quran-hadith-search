@@ -2676,6 +2676,12 @@ mariyu āyana sūcanalalō; āyana mī koraku mī jāti nuṇḍiyē - mīru vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆయన సూచనలలోనే ఒకటేమంటే; ఆయన మీ కోసం స్వయంగా మీలో నుంచే భార్యలను సృజించాడు – మీరు వారి వద్ద ప్రశాంతత పొందటానికి! ఆయన మీ మధ్య ప్రేమనూ, దయాభావాన్నీ పొందుపరచాడు. నిశ్చయంగా ఆలోచించే వారి కోసం ఇందులో ఎన్నో సూచనలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

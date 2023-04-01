@@ -2676,6 +2676,12 @@ mariyu āyana sūcanalalō (āyāt lalō) rēyimbavaḷḷu mariyu sūryacandrul
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+రేయింబవళ్లూ, సూర్యచంద్రులు కూడా ఆయన (శక్తి) సూచనలలోనివే. మీరు సూర్యునికిగానీ, చంద్రునికిగానీ సాష్టాంగప్రణామం (సజ్దా) చేయకండి. నిజంగా మీరు అల్లాహ్‌ దాస్యం చేసేవారే అయితే వీటన్నింటినీ సృష్టించిన అల్లాహ్‌ ముందు సాష్టాంగపడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem ihramlı iken kan aldırdı. Tekrar: 1938, 1939, 2103, 2
+İbn Abbas r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem ihramlı iken kan aldırdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1835</td></tr><tr><td>Arabic No</td><td>1835</td></tr><tr><td>Reference</td><td>Book 28 Hadith 15</td></tr></tbody></table></div>
 

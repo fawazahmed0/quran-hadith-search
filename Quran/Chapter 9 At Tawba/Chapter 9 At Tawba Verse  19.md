@@ -2676,6 +2676,12 @@ emi? Hajj mariyu umra koraku vacce variki niru trapatanni mariyu masjid al haram
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, మీరు హజ్‌ యాత్రీకులకు మంచినీళ్లు సరఫరా చేయటాన్ని, మస్జిదె హరామ్‌కు సేవలు చేయటాన్ని; అల్లాహ్‌ను అంతిమ దినాన్ని విశ్వసించి అల్లాహ్‌ మార్గంలో యుద్ధం చేసే వారితో సమానంగా పరిగణించారా? వారు అల్లాహ్‌ దృష్టిలో సమానులు కాజాలరు. అల్లాహ్‌ దుర్మార్గులకు సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

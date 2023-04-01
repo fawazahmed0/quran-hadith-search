@@ -2676,6 +2676,12 @@ Mariyu vāri virāḷaṁ (candā) svīkarin̄cabaḍakuṇḍā pōvaṭāniki 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు పెట్టే ఖర్చు స్వీకరించబడక పోవటానికి కారణం ఇది తప్ప మరొకటేమీ కాదు: వారు అల్లాహ్‌ను, ఆయన ప్రవక్తను తిరస్కరించారు. ఒకవేళ వారు నమాజుకు వచ్చినా బద్దకంతో వస్తారు. (దైవ మార్గంలో) ఖర్చుపెట్టినా అయిష్టంగానే ఖర్చుపెడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mīku pūrvaṁ ilāṇṭi ennō sampradāyālu (tarālu) gaḍici pōyāyi. Sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీకు పూర్వం కూడా ఇలాంటి ఘటనలు జరిగాయి. కనుక (దివ్య సందేశాన్ని) ధిక్కరించిన వారికి పట్టిన గతేమిటో భూమిలో సంచరించి చూడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

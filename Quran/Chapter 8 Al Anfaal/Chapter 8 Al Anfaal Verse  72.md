@@ -2676,6 +2676,12 @@ Niścayaṅgā, viśvasin̄ci valasa pōyē vārū mariyu tama sampada mariyu pr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరు విశ్వసించి, వలసపోయారో, అల్లాహ్‌ మార్గంలో తమ ధనప్రాణాల ద్వారా పోరాడారో వారూ, వారికి ఆశ్రయమిచ్చి సహాయపడినవారూ – వారంతా ఒండొకరికి మిత్రులు. మరెవరు విశ్వసించినప్పటికీ (తమ ఇల్లూ వాకిలిని విడిచి) వలసపోలేదో, వారు వలసపోయి మీ వద్దకు రానంతవరకూ వారితో మీకెలాంటి స్నేహబంధం లేదు. కాకపోతే ధార్మిక వ్యవహారాలలో వారెప్పుడు మీ సహాయం కోరినా, మీరు వారికి సహాయపడటం అవసరం. అయితే మీతో ఒప్పందం చేసుకున్నవారికి వ్యతిరేకంగా మాత్రం కాదు. మీరు చేసే పనులన్నింటినీ అల్లాహ్‌ చూస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

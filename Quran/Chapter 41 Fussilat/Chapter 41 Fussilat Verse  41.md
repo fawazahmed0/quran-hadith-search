@@ -2676,6 +2676,12 @@ niścayaṅgā, tama daggaraku hitabōdha vaccinapuḍu dānini tiraskarin̄cē 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ వద్దకు హితోపదేశం (ఖుర్‌ఆన్‌) వచ్చేసినప్పటికీ, దాన్ని త్రోసిపుచ్చిన వారు (కూడా మా నుండి దాగిలేరు). అదొక ప్రతిష్ఠాత్మకమైన గ్రంథం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

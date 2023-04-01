@@ -2676,6 +2676,12 @@ mariyu tūrpu paḍamaralu allāh kē cendinavi. Kāvuna mīru (mī mukhālanu) 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తూర్పుపడమరలకు అధిపతి అల్లాహ్‌యే. మీరు మీ ముఖాన్ని ఏ వైపుకు త్రిప్పినా, అటు అల్లాహ్‌ సమ్ముఖం లభిస్తుంది. నిస్సందేహంగా అల్లాహ్‌ విస్తృతి కలవాడు, సర్వమూ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

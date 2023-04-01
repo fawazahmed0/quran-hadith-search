@@ -2676,6 +2676,12 @@ Mariyu (ō muham'mad!) Jinnātula oka samūhānni mēmu - khur'ān vinaṭāniki
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) జిన్నుల సమూహం ఒకదానిని మేము ఖుర్‌ఆన్‌ వినేందుకు నీ వైపునకు పంపిన సంగతిని కాస్త మననం చేసుకో. వారు ప్రవక్త దగ్గరకు చేరుకున్నప్పుడు, “నిశ్శబ్దంగా వినండి” అని (పరస్పరం) చెప్పుకున్నారు. మరి ఆ పారాయణం ముగియ గానే, తమ వర్గం వారిని హెచ్చరించటానికి వాళ్ల వద్దకు తిరిగి వచ్చారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Guft: «Ej zanon, on goh ki xostori tani Jusuf meʙuded, hikojati şumo cī ʙud
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు రాజు (సంబంధిత స్త్రీలను పిలిపించి), “ఓ నారీమణులారా! మీరంతా వలపన్ని,యూసుఫ్‌ మనసును చలింపజేయటానికి ప్రయత్నించినప్పుడు అసలేం జరిగింది?” అని అడిగాడు. దానికి వారు, “హాషలిల్లాహ్‌ ! (అల్లాహ్‌ మమ్మల్ని రక్షించుగాక!) మేము యూసుఫ్‌లో ఏ దోషాన్నీ చూడలేదు” అని జవాబిచ్చారు. తర్వాత అజీజ్‌ భార్య కూడా ఈ విధంగా చెప్పింది: “ఇప్పుడు నిజం బయటపడింది. అతని మనసును కవ్వించినది నేనే. అతను మాత్రం సత్యవంతుడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

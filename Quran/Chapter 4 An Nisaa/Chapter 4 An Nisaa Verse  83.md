@@ -2676,6 +2676,12 @@ Mariyu vāru (prajala gurin̄ci) ēdainā śāntivārta gānī lēdā bhayavārt
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+శాంతికి సంబంధించిన వార్తగానీ, భయాందోళనల్ని కలిగించే సమాచారంగానీ ఏదైనా వారికి అందినప్పుడు దాన్ని వారు చాటింపు వేసేస్తారు. దానికి బదులు వారు ఆ విషయాన్ని ప్రవక్తకు, విషయం లోతుల్లోకి వెళ్ళే తమలోని విజ్ఞులకు చేరవేసి ఉంటే వారు అందలి నిజానిజాలను, ఉచితానుచితాలను పరికించి ఒక నిర్ణయానికి రావటానికి ఆస్కారముండేది. దైవానుగ్రహం, ఆయన కారుణ్యమే గనక మీపై లేకుండినట్లయితే మీలో కొందరు తప్ప – అందరూ షైతాను అనుయాయులుగా మారిపోయేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

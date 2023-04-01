@@ -2676,6 +2676,12 @@ iṅkā ilā anu: "Mēmu cēsina pāpālaku mīru praśnin̄cabaḍaru mariyu m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేము చేసిన తప్పులను గురించి మిమ్మల్ని ప్రశ్నించటం గానీ, మీ కర్మలను గురించి మమ్మల్ని ప్రశ్నించటంగానీ జరగదు” అని వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

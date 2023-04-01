@@ -2676,6 +2676,12 @@ tudaku pravaktalu nirāśulayyāru mariyu vāru vāstavāniki (prajala dvārā) 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+చివరకు ప్రవక్తలు ఆశలు వదులుకోగా, తమతో అబద్ధం చెప్పబడిందని వారు (జాతి జనులు) ఊహాగానాలు చేస్తుండగా, అకస్మాత్తుగా వారికి (ప్రవక్తలకు) మా తోడ్పాటు అందింది. మరి మేము కోరిన వారిని కాపాడాము. అసలు విషయం ఏమిటంటే మా శిక్ష అపరాధ జనుల నుంచి తొలగించబడదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

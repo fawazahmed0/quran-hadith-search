@@ -2676,6 +2676,12 @@ Agar pirūzī xohed, pirūzijaton faro rasid va agar az kufr ʙozisted, ʙarojat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ సత్య తిరస్కారులారా!) మీరు తీర్పును కోరుతున్నట్లయితే, ఇదిగో, ఆ తీర్పు మీ ముందుకు వచ్చేసింది. ఇకనయినా మీరు మానుకుంటే అది మీకెంతో మంచిది. ఒకవేళ మీరు మళ్లీ అవే చేష్టలకు పాల్పడితే మేము కూడా అదేవిధంగా సమాధానం ఇవ్వవలసి వస్తుంది. మీ జన సమూహం ఎంత అధికంగా ఉన్నప్పటికీ అది మీకే విధంగానూ పనికిరాదు – అల్లాహ్‌ విశ్వాసులకు తోడుగా ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

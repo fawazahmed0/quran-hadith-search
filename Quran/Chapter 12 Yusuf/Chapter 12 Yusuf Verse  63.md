@@ -2676,6 +2676,12 @@ vāru tama taṇḍri daggaraku tirigi vaccina taruvāta annāru: "Nānnā! Ika 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తిరిగి తమ తండ్రి వద్దకు వచ్చినప్పుడు, “నాన్నా! ఇక మీదట మనకు ధాన్యం కొలవటంపై ఆంక్ష విధించబడింది. కాబట్టి మేము కొలపాత్ర నిండా ధాన్యం తీసుకురావటానికి మీరు మా తమ్ముణ్ణి మా వెంట పంపండి. అతన్ని రక్షించే బాధ్యతమాది” అని విన్నవించుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

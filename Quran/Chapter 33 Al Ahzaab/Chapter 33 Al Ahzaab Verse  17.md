@@ -2676,6 +2676,12 @@ vāritō iṅkā ilā anu: "Okavēḷa allāh mīku kīḍu cēyadalistē! Lēd�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిని అడుగు: “ఒకవేళ అల్లాహ్‌ మీకు ఏదన్నా కీడు కలుగ జేయాలనుకున్నా లేక మీపై దయజూపాలనుకున్నా ఆయన నుండి మిమ్మల్ని కాపాడగలవాడెవడు? (లేక అడ్డుకోగల వాడెవడు?) వారు తమ కోసం అల్లాహ్‌ తప్ప ఏ సంరక్షకుణ్ణీ, ఏ సహాయకుణ్ణీ పొందలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

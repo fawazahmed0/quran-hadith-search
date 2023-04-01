@@ -2676,6 +2676,12 @@ allāh nu vadali (mīru vāṭini ārādhin̄cāru kadā!) Ēmī? Vāru mīku sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు మీకేదన్నా సాయం చేస్తున్నారా? పోనీ, వారు తమకు తామైనా సహాయం చేసుకోగలుగుతున్నారా?” అని వారితో అనటం జరుగుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

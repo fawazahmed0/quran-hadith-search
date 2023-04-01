@@ -2676,6 +2676,12 @@ Pas, agar dar onci ʙar tu nozil kardaem, tardide dorī, az kasone, ki peş az t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మేము నీ వద్దకు పంపిన దానిపై ఏమాత్రం సందేహమున్నా నీకు పూర్వపు గ్రంథాన్ని పారాయణం చేస్తున్నవారిని అడిగి చూడు. నిశ్చయంగా నీ వద్దకు నీ ప్రభువు తరఫు నుంచి సత్యం (తోకూడిన గ్రంథం) వచ్చింది. కనుక నువ్వు ఎంతమాత్రం శంకించేవారిలో చేరకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

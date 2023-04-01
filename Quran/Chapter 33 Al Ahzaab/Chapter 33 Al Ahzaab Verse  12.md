@@ -2676,6 +2676,12 @@ mariyu ā samayanlō, kapaṭa viśvāsulu mariyu tama hr̥dayālalō rōgamunna
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ సమయంలో కపటులు, హృదయాలలో (అనుమానపు) రోగం ఉన్నవారు, “అల్లాహ్‌, ఆయన ప్రవక్త మాతో చేసిన వాగ్దానం మోసం తప్ప మరేమీ కాదు” అని చెప్పసాగారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

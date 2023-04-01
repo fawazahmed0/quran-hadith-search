@@ -2676,6 +2676,12 @@ ayane akasalanu mariyu bhumini mariyu vati madhya unna samastanni aru dinamulalo
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే ఆకాశాలనూ, భూమినీ, వాటి మధ్యనున్న సమస్త వస్తువులను ఆరు దినాలలో సృష్టించాడు. ఆ తరువాత అధికార పీఠంపై (అర్ష్‌పై) ఆసీనుడయ్యాడు. ఆయన కరుణామయుడు. కావాలంటే (ఆయన వైభవాన్ని గురించి) తెలిసిన వానిని అడుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

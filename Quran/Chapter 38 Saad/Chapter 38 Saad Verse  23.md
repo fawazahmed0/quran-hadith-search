@@ -2676,6 +2676,12 @@ vāstavāniki, itaḍu nā sōdaruḍu, itani vadda tombhai tom'midi āḍa gorr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇతను నా సోదరుడు. ఇతని దగ్గర తొంభై తొమ్మిది గొర్రెలున్నాయి. నా దగ్గర మాత్రం ఒకే ఒక్క గొర్రె ఉన్నది. అయినా ఈ ఒక్కదానిని కూడా తనకే ఇచ్చేయమని ఇతనంటున్నాడు. వాదనలో నాతో చాలా పరుషంగా వ్యవహరిస్తున్నాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

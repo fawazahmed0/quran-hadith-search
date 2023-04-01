@@ -2676,6 +2676,12 @@ evaḍaitē viśvasin̄cina taruvāta, allāh nu tiraskaristāḍō - tana hr̥d
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే విశ్వసించిన తరువాత అల్లాహ్‌ పట్ల తిరస్కార వైఖరికి పాల్పడతాడో – కాని బలవంతం చేయబడి (తిరస్కారాన్ని ప్రకటిస్తే), అదే సమయంలో అతని హృదయం విశ్వాసంపై స్థిరంగా ఉంటే (అది వేరే విషయం) – అలాగాకుండా ఎవరైనా హృదయపూర్వకంగా తిరస్కార వైఖరికి పాల్పడితే మాత్రం వారిపై దైవాగ్రహం పడుతుంది. అలాంటి వారి కోసమే చాలా పెద్ద శిక్ష ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

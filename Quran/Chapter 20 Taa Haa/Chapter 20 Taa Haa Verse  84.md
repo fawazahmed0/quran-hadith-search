@@ -2676,6 +2676,12 @@ ataṟkavar ‘‘avarkaḷ itō eṉṉaip piṉtoṭarntē varukiṉṟaṉar.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“వాళ్లూ నా వెనుకే వస్తున్నారు. ఇక నా విషయానికి వస్తే ఓ ప్రభూ! నువ్వు ప్రసన్నుడవు కావాలన్న ఉద్దేశంతోనే తొందరగా వచ్చేశాను” అని అతను అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

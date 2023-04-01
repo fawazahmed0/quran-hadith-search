@@ -2676,6 +2676,12 @@ allāh vāri hr̥dayāla mīda mariyu vāri cevula mīda mudra vēśāḍu. Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ వారి హృదయాలపై,వారి చెవులపై ముద్రవేశాడు. వారి కళ్ళపై పొరవుంది. ఇంకా వారికి మహా (ఘోరమైన) శిక్ష వుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

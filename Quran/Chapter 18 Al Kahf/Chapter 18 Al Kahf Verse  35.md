@@ -2676,6 +2676,12 @@ mariyu ī vidhaṅgā ataḍu tanaku tānu an'yāyaṁ cēsukunēvāḍavutū, t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలా అతను తన ఆత్మకు అన్యాయం చేసుకున్న స్థితిలో తన తోటలోకి వెళ్ళాడు. ఇలా అన్నాడు: “ఏనాటికైనా ఈ తోట నాశనమై పోతుందని నేననుకోను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

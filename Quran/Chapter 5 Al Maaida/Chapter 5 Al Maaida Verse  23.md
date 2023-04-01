@@ -2676,6 +2676,12 @@ Du tan az mardone, ki [az nofarmonī va azoʙi ilohī] metarsidand va Alloh taol
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు, అల్లాహ్‌కు భయపడే వారిలో ఆయన అనుగ్రహం పొందిన ఇద్దరు ఇలా అన్నారు : “మీరు వారిని ఎదుర్కోవటానికి (కనీసం) ద్వారం లోపలికైనా ప్రవేశించండి. మీరు లోపలికి ప్రవేశిస్తే చాలు, మీరే ఆధిక్యత పొందుతారు. మీరు విశ్వాసులే అయితే అల్లాహ్‌నే నమ్మండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

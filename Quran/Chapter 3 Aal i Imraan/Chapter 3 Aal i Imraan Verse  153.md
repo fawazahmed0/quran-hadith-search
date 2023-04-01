@@ -2676,6 +2676,12 @@ Va [ej mu'minon, ʙa jod ovared] hangome ki [dar holi gurez az kūh] ʙolo meraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ సమయంలో మీరు పరారవసాగారు. ఇంకొకరిని పట్టించుకునే ధ్యాసే మీకు లేకపోయింది. ఆ క్షణంలో వెనుక నుంచి ప్రవక్త మిమ్మల్ని కేక వేస్తూనే వున్నాడు. కనుక మీకు దక్కకుండా పోయిన దాని గురించి, వాటిల్లిన నష్టాన్ని గురించి మీరు బాధపడకుండా ఉండటానికి అల్లాహ్‌ మీకు దుఃఖం వెంబడి దుఃఖం కలుగజేశాడు. మీరు చేసే పనులన్నీ అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

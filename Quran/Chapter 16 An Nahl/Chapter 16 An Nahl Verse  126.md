@@ -2676,6 +2676,12 @@ mariyu mīru (mī pratyarthulanu) śikṣin̄cadalacukuṇṭē, mīku jarigina 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీరు ప్రతీకారం తీర్చుకోదలచినా, మీకు ఏ మేరకు బాధపెట్టడం జరిగిందో ఆ మేరకే ప్రతీకారం తీర్చుకోండి. ఒకవేళ మీరు ఓర్చుకున్నట్లయితే, ఓర్పు వహించేవారి పాలిట ఇది ఎంతో శ్రేయస్కరమైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

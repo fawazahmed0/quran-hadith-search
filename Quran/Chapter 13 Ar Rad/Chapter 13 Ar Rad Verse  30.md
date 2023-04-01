@@ -2676,6 +2676,12 @@ andukē (ō muham'mad!) Mēmu ninnu oka samājaṁ vāri vaddaku pampāmu - vās
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) అదే విధంగా మేము నిన్ను ఈ సమాజంలోకి పంపాము – ఇంతకు మునుపు ఎన్నో సమాజాలు గతించాయి – మా తరఫున నీపై అవతరించిన వాణిని నువ్వు వారికి చదివి వినిపించటానికి. కరుణామయుడైన అల్లాహ్‌ను వారు తిరస్కరిస్తున్నారు. వారికి చెప్పు: “ఆయనే నా పోషకుడు. ఆయన తప్ప మరొకరెవరూ ఆరాధనకు అర్హులు కానేకారు. నేను ఆయన్నే నమ్ముకున్నాను – ఆయన వైపుకే నేను మరలుతున్నాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

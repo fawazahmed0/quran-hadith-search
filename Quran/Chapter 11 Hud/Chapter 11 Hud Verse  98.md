@@ -2676,6 +2676,12 @@ punarut'thāna dinamuna ataḍu (phir'aun) tana jāti vāriki munmundugā uṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాడు ప్రళయదినాన తన జాతికి సారథ్యం వహిస్తూ వస్తాడు. వారందరినీ నరకంలోకి తీసుకుపోయి నిలబెడతాడు. వారు నిలబెట్టబడే ఆ చోటు అత్యంతచెడ్డది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

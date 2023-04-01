@@ -2676,6 +2676,12 @@ mariyu mēmu vārandarinī samāvēśaparacina rōju, sāṭi kalpin̄cina (ṣi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారందరినీ సమావేశ పరచేరోజు కూడా ప్రస్తావించదగినదే. అప్పుడు మేము మాకు సహవర్తుల్ని కల్పించే వారి నుద్దేశించి, “ఆగండి, మీరూ, మీరు కల్పించిన సహవర్తులూను!” అని అంటాము. ఆ తరువాత వారి మధ్య చీలికను తెస్తాము. అప్పుడు వారు నిలబెట్టిన భాగస్వాములు “మీరసలు మమ్మల్ని పూజించనేలేదు” (అని అంటారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

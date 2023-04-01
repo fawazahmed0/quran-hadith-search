@@ -2676,6 +2676,12 @@ mēmu cēsina upakārāniki kr̥taghnatagā - sarē (kontakālaṁ) sukhālanu a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మా ప్రసాదితాల పట్ల కృతఘ్నతా వైఖరిని అవలంబించటానికే వారలా చేస్తారు! సరే. కొంత లబ్దిని పొందండి. చివరకు (దాని పర్యవసానం ఏమిటో) మీకే తెలుస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

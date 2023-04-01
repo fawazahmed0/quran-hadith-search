@@ -2676,6 +2676,12 @@ mariyu mīru allāh ku sāṭigā itara daivānni nilupakaṇḍi! Niścayaṅg�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్ తో పాటు మరో ఆరాధ్య దైవాన్ని చేర్చకండి. నిశ్చయంగా నేను ఆయన తరఫున మిమ్మల్ని స్పష్టంగా హెచ్చరించేవాడిని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

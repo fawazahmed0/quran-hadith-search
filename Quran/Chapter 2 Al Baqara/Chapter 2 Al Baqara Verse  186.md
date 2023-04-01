@@ -2676,6 +2676,12 @@ mariyu nā dāsulu, nannu gurin̄ci ninnu aḍigitē: "Nēnu (vāriki) ati samī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నా దాసులు నా గురించి నిన్ను అడిగితే, నేను (వారికి) అత్యంత సమీపంలోనే ఉన్నాననీ, పిలిచేవాడు నన్ను ఎప్పుడు పిలిచినా నేను అతని పిలుపును ఆలకించి ఆమోదిస్తానని (నువ్వు వారికి చెప్పు). కాబట్టి వారు కూడా నా ఆదేశాన్ని శిరసావహించాలి, నన్ను విశ్వసించాలి (ఈ విషయం నీవు వారికి తెలియజేయి). తద్వారానే వారు సన్మార్గ భాగ్యం పొందగల్గుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

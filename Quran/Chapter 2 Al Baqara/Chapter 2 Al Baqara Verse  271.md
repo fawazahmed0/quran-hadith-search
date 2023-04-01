@@ -2676,6 +2676,12 @@ mīru bahiraṅgaṅgā dānālu cēyaṭaṁ man̄cidē! Kāni, guptaṅgā nir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీరు బహిరంగంగా దానధర్మాలు చేసినా మంచిదే గాని, గోప్యంగా నిరుపేదలకు ఇస్తే అది మీ కొరకు ఉత్తమం. (దీనివల్ల) అల్లాహ్‌ మీ పాపాలను తుడిచిపెడతాడు. అల్లాహ్‌కు మీరు చేసేదంతా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

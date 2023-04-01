@@ -2676,6 +2676,12 @@ o visvasulara! Milo evaru (purusulu) itarulevarini egatali ceyaradu. Bahusa vare
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! పురుషులు సాటి పురుషులను ఎగతాళి చేయకూడదు. బహుశా వీరికంటే వారే ఉత్తములై ఉండవచ్చు. అలాగే స్త్రీలు సాటి స్త్రీలను పరిహసించరాదు. ఎందుకంటే బహుశా వీరికంటే వారే ఉత్తమురాలై ఉండవచ్చు. ఒకరినొకరు ఎత్తిపొడుచుకోకండి. ఒండొకరికి చెడ్డపేర్లను ఆపాదించకండి. విశ్వసించిన తరువాత తన సోదరుణ్ణి చెడ్డపేరుతో అవమానించటం ఎంత పాపం! మరెవరైతే పశ్చాత్తాపం చెందరో (ఈ ధోరణిని మానుకొనరో) వారే దుర్మార్గులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

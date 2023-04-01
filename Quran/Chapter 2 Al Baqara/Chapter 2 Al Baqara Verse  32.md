@@ -2676,6 +2676,12 @@ vāru (dēvadūtalu): "Nīvu sarvalōpālaku atītuḍavu, nīvu telipinadē tap
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారంతా ఇలా అన్నారు : “(ఓ అల్లాహ్‌!) నీవు అత్యంత పవిత్రుడవు. నీవు మాకు తెలియజేసినది తప్ప ఇంకేమీ మాకు తెలియదు. నిశ్చయంగా అన్నీ తెలిసినవాడవు, వివేకవంతుడవూ నీవే!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

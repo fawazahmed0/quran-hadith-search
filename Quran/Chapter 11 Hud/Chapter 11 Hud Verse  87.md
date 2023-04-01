@@ -2676,6 +2676,12 @@ vāru (vyaṅgaṅgā) annāru: "Ō ṣu'aib! Ēmī? Mā taṇḍri tātalu ār�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలా అన్నారు : “ఓ షుఐబ్‌! మేము మా తాతముత్తాతలు పూజిస్తూ వస్తున్న దైవాలను వదలి పెట్టాలనీ, మా సొమ్ములను మా ఇష్టప్రకారం ఖర్చు పెట్టడం మానుకోవాలని నీ నమాజు నీకు ఆజ్ఞాపిస్తోందా? నువ్వు మరీ ఉదాత్త హృదయునిలా,రుజువర్తనునిలా ఉన్నావే?!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

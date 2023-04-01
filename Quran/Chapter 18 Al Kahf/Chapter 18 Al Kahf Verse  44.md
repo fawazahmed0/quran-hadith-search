@@ -2676,6 +2676,12 @@ akkaḍa (ā tīrpudinaṁ nāḍu) śaraṇu (rakṣaṇa) kēvalaṁ allāh, �
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సర్వాధికారాలు సత్యబద్ధుడైన అల్లాహ్‌వేననీ, పుణ్యఫలం ప్రసాదించటంలోనూ ఆయనే ఉత్తముడనీ, పర్యవసానం రీత్యా కూడా ఆయనే అత్యుత్తముడనీ అక్కడే తేలిపోయింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

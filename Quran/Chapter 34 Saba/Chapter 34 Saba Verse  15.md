@@ -2676,6 +2676,12 @@ vāstavaṅgā, sabā vāri koraku, vāri nivāsa sthalanlō oka sūcana undi. D
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సబా జాతి వారి కొరకు వారి నివాస స్థలంలోనే (దైవ శక్తికి సంబంధించిన) ఒక సూచన ఉండేది. వారికి కుడి వైపునా, ఎడమ వైపునా రెండు తోటలుండేవి. “మీ ప్రభువు ప్రసాదించిన ఉపాధిని తినండి, ఆయనకు కృతజ్ఞులై ఉండండి” (అని మేము వారికి సూచించి ఉన్నాము). పట్నమేమో ఉత్తమమైనది, ప్రభువేమో మన్నించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

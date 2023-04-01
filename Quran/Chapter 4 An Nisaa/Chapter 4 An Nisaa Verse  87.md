@@ -2676,6 +2676,12 @@ allāh! Āyana tappa vērē ārādhyuḍu lēḍu. Āyana mim'malni andarinī pu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ – ఆయన తప్ప మరో ఆరాధ్య దైవం లేడు. ఆయన మిమ్మల్నందరినీ ప్రళయదినాన సమీకరిస్తాడు. ఆ రోజు (రావటం)లో సందేహానికి తావేలేదు. అల్లాహ్‌ మాటకన్నా సత్యమైన మాట మరెవరిది కాగలదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

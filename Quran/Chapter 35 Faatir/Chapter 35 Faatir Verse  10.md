@@ -2676,6 +2676,12 @@ gauravānni kāṅkṣin̄cu vāḍu telusu kōvāli, gauravamantā allāh kē c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+గౌరవాన్ని ఆశించే వారెవరయినాసరే సకల గౌరవోన్నతులు అల్లాహ్‌వే (నని తెలుసుకోవాలి). సద్వచనాలన్నీ ఆయన వైపుకే ఎగబ్రాకుతాయి. సదాచరణ వాటికి (మరింత) ఉన్నతినిస్తుంది. మరెవరయితే కుతంత్రాలలో నిమగ్నులై ఉంటారో వారి కొరకు ఘోరాతి ఘోరమైన శిక్ష ఉంది. కడకు వారి ఈ కుతంత్రం కకావికలమైపోతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

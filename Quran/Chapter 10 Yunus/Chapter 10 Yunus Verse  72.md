@@ -2676,6 +2676,12 @@ kāni, okavēḷa mīru venudirigitē, nēnu mātraṁ mī nuṇḍi elāṇṭi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పటికీ మీరు విముఖత చూపితే, నేను మీనుండి ఎలాంటి ప్రతిఫలం కోరలేదు. నాకు ప్రతిఫలం ఇచ్చే బాధ్యత కేవలం అల్లాహ్‌ది. ముస్లింగా ఉండాలని నాకు ఆదేశించబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

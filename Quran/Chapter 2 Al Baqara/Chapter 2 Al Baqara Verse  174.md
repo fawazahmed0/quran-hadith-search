@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē allāh granthanlō avatarimpajēsina sandēśālanu d�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ తన గ్రంథంలో అవతరింపజేసిన విషయాలను దాచేవారు, వాటిని కొద్దిపాటి ధరకు అమ్ముకునేవారు వాస్తవానికి తమ పొట్టలను అగ్నితో నింపుకుంటున్నారు. ప్రళయ దినాన అల్లాహ్‌ వారితో అస్సలు మాట్లాడడు. వారిని పరిశుద్ధపరచడు. పైపెచ్చు వారికి బాధాకరమైన శిక్ష కలదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

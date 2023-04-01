@@ -2676,6 +2676,12 @@ ilā anu: "Ēmī? Mīru ālōcin̄cārā? Okavēḷa idi (ī khur'ān) allāh ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు : “చూడండి! ఒకవేళ ఈ ఖుర్‌ఆన్‌ అల్లాహ్‌ తరఫునుంచి వచ్చి ఉంటే, మరి మీరు దానిని తిరస్కరిస్తే, (దాన్ని) వ్యతిరేకించటంలో బహుదూరం వెళ్ళిపోయిన వ్యక్తి కన్నా మార్గభ్రష్టుడు ఎవడుంటాడు?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

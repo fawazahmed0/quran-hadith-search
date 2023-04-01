@@ -2676,6 +2676,12 @@ ilāṇṭi vāri nuṇḍi mēmu vāri man̄ci karmalanu svīkaristāmu. Mariyu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలాంటి వారి సత్కార్యాలనే మేము స్వీకరిస్తాము. వారి తప్పులను క్షమిస్తాము. వారికి చేయబడిన సత్య వాగ్దానం ప్రకారం వారు స్వర్గవాసులలో ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

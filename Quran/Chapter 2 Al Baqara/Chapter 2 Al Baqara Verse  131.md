@@ -2676,6 +2676,12 @@ atani prabhuvu atanitō: "(Māku) vidhēyuḍavugā (musliṅgā) uṇḍu." Ani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(ఆత్మ) సమర్పణ చేసుకో” అని అతని ప్రభువు అతన్ని ఆదేశించినప్పుడల్లా , “సకల లోకాల ప్రభువు సమక్షంలో నన్ను నేను సమర్పించుకున్నాను” అని అతను సమాధానం ఇచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

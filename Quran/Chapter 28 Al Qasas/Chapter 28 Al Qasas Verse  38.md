@@ -2676,6 +2676,12 @@ mariyu phir'aun annāḍu: "Ō nāyakulārā! Nēnu tappa mīku maroka ārādhya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు ఫిరౌన్‌ ఇలా అన్నాడు: “ఓ ప్రముఖులారా! నేను తప్ప మీకు మరో దేవుడున్నాడన్న సంగతి నాకు తెలీదు. హామాన్‌! విను. నువ్వు నా కోసం మట్టిని కాల్చు (ఇటుకలు తయారు చేయి). నా కోసం ఓ ఎత్తయిన ఆకాశహర్మ్యం నిర్మించు. (దాని పైకెక్కి) మూసా దేవుణ్ణి (అసలున్నాడో లేడో) తొంగి చూస్తాను. ఇతను మాత్రం అసత్యవాదుల్లో ఒకడని నా అనుమానం.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

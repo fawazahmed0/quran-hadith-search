@@ -2676,6 +2676,12 @@ mariyu mūsā mēmu nirṇayin̄cina samayāniki (mā nirṇīta cōṭuku) vacc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము నిర్థారించిన సమయానికి మూసా (అలైహిస్సలాం) వచ్చి, అతని ప్రభువు అతనితో సంభాషించిన తర్వాత అతను, “నా ప్రభూ! నాకు నీ దర్శనం కలిగించు. నేను ఓసారి నిన్ను చూస్తాను” అని విన్నవించుకోగా, “ఎట్టి పరిస్థితిలోనూ నువ్వు నన్ను చూడలేవు. అయితే అదిగో! ఆ కొండ వైపు దృష్టిని సారించు. అది గనక యధాస్థితిలో ఉండగలిగితే నువ్వు కూడా నన్ను చూడగలుగుతావు” అని ఆయన సెలవిచ్చాడు. ఆ తరువాత అతని ప్రభువు తేజస్సు ఆ కొండపై ప్రసరించగానే ఆ తేజస్సు దాన్ని తుత్తునియలు చేసేసింది. మూసా స్పృహతప్పి పడిపోయాడు. స్పృహలోకి రాగానే, “(ప్రభూ!) నీవు పరమ పవిత్రుడవు. నేను నీ సన్నిధిలో పశ్చాత్తాపపడుతున్నాను. అందరి కన్నా ముందు నేనే నిన్ను విశ్వసిస్తున్నాను” అని మనవి చేసుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

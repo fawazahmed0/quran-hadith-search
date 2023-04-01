@@ -2676,6 +2676,12 @@ okavēḷa itanu (ī pravakta), mā (allāh nu) gurin̄ci ēdainā abad'dhapu m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ ఇతను (ముహమ్మద్ సల్లల్లాహు అలైహివ సల్లం) గనక ఏదైనా విషయాన్ని కల్పించి మాకు ఆపాదించి ఉంటే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

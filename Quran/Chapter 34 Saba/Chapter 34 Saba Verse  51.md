@@ -2676,6 +2676,12 @@ mariyu vāru bhayakampitulai uṇḍaṭānni, nīvu cūḍagaligitē (enta bāg
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు (అవిశ్వాసులు) భయకంపితులై, తప్పించుకుని పారిపోయేదిక్కు తోచక, చాలా దగ్గరి స్థలం నుంచే పట్టుబడినప్పుడు నువ్వు చూస్తే (ఎంత బావుండు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

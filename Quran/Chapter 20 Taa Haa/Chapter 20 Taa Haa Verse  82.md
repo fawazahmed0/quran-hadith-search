@@ -2676,6 +2676,12 @@ ayitē, evaḍaitē paścāttāpapaḍi viśvasin̄ci mariyu satkāryālu cēsi 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే పశ్చాత్తాపం చెంది, విశ్వసించి, సత్కార్యాలు చేసి, ఆపై సన్మార్గంపై స్థిరంగా ఉన్న వారిని నేను అమితంగా క్షమిస్తాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ataṟku (ipṟāhīm, itō nāṉ celkiṟēṉ) ‘‘um'mītu salām uṇṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“సరే (నాన్నా). మీకు సలాం! నేను మాత్రం మీ మన్నింపు కోసం నా ప్రభువును వేడుకుంటూనే ఉంటాను. నిశ్చయంగా ఆయన నాపై ఎంతో జాలి కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

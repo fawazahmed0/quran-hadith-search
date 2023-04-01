@@ -2676,6 +2676,12 @@ Be gumon medonem, ki suxanaşon turo ej Pajomʙar andūhgin mesozad, vale inho (
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వాళ్లు అనే మాటలు నిన్ను దుఃఖానికి గురి చేస్తున్నాయన్న సంగతి మాకు బాగా తెలుసు. వారు ధిక్కరిస్తున్నది నిన్ను కాదు, నిజానికి ఈ దుర్మార్గులు అల్లాహ్‌ ఆయతులను తిరస్కరిస్తున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

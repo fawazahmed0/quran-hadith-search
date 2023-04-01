@@ -2676,6 +2676,12 @@ mī prabhuvuku mim'malni gurin̄ci bāgā telusu. Āyana kōritē mim'malni karu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ ప్రభువుకు మీ గురించి బాగా తెలుసు. ఆయన తలచుకుంటే మిమ్మల్ని కరుణిస్తాడు లేదా ఆయన కోరితే మిమ్మల్ని శిక్షిస్తాడు. మేము నిన్ను వారిపై సంరక్షకునిగా చేసి పంపలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

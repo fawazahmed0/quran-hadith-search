@@ -2676,6 +2676,12 @@ o visvasulara! Miru musanu badhincina vari vale ayi pokandi. Taruvata allah varu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన ఓ ప్రజలారా! మీరు మూసాను కష్టపెట్టిన వారి మాదిరిగా తయారవకండి. మరి వారు అన్న మాట నుంచి అల్లాహ్‌ అతన్ని-మచ్చలేని వానిగా – నిగ్గుతేల్చాడు. అతను అల్లాహ్‌ దృష్టిలో ఎంతో ఆదరణీయుడుగా ఉండేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

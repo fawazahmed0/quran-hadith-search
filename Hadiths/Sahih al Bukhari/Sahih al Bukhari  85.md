@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Makki bin Ibrahim] berkata, telah mengabarkan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Salim şöyle demiştir: Ebu Hureyre r.a. Nebi s.a.v.'in şöyle dediğini söylemiştir: "ilim kabzedilecek, cehalet ve fitneler yayılacak, herc çoğalacak". Nebi (Sallallahu aleyhi ve Sellem)'e Herc nedir ey Allah'ın Resulü?" diye sordular. Nebi (Sallallahu aleyhi ve Sellem) eli ile ölümü kasdeder gibi işarette bulunarak "İşte budur" dedi. Tekrar: 1036, 1412, 3608, 3609, 5
+Salim şöyle demiştir: Ebu Hureyre r.a. Nebi s.a.v.'in şöyle dediğini söylemiştir: "ilim kabzedilecek, cehalet ve fitneler yayılacak, herc çoğalacak". Nebi (Sallallahu aleyhi ve Sellem)'e Herc nedir ey Allah'ın Resulü?" diye sordular. Nebi (Sallallahu aleyhi ve Sellem) eli ile ölümü kasdeder gibi işarette bulunarak "İşte budur" dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>85</td></tr><tr><td>Arabic No</td><td>85</td></tr><tr><td>Reference</td><td>Book 3 Hadith 27</td></tr></tbody></table></div>
 

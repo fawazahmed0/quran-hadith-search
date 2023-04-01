@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh n'yāyaṁ cēyamani mariyu (itarulaku) mēlu cēyamani m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ న్యాయం చేయమనీ, ఉపకారం (ఇహ్‌సాన్‌) చేయమనీ, బంధువుల హక్కులను నెరవేర్చమనీ ఆజ్ఞాపిస్తున్నాడు. ఇంకా – నీతిబాహ్యమైన పనుల నుండీ, చెడుల నుండీ, దౌర్జన్యం నుండీ ఆయన ఆపుతున్నాడు. మీరు గుణపాఠం గ్రహించటానికి ఆయన స్వయంగా మీకు ఉపదేశిస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

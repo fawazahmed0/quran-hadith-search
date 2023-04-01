@@ -2676,6 +2676,12 @@ mariyu āyanē, rēyimbavaḷḷanu okadāni veṇṭa okaṭi anukramaṅgā va
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే రేయింబవళ్ళను ఒకదాని వెనుక ఒకటి వచ్చేలా చేశాడు. ఇదంతా గుణపాఠం నేర్చుకునే వాని కోసం, లేదా కృతజ్ఞతాపూర్వకంగా మసలుకోదలచిన వాని కోసం చేయబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Ataṟku avar, "uṅkaḷuṭaiya iṟaivaṉiṉ kōpamum, vētaṉaiyum uṅka
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు హూద్‌ ఇలా అన్నాడు : “ఇక మీ ప్రభువు శిక్ష, ఆయన ఆగ్రహం మీపై విరుచుకుపడినట్లే. ఏమిటీ, మీరూ మీ తాతముత్తాతలూ కల్పించుకున్న పేర్ల విషయంలో నాతో గొడవపడుతున్నారా? వాటి గురించి (అవి ఆరాధ్య దైవాలని నిర్థారించే) ఏ ప్రమాణాన్నీ అల్లాహ్‌ అవతరింపజెయ్యలేదు. కాబట్టి మీరూ నిరీక్షించండి, మీతోపాటు నేను కూడా నిరీక్షిస్తాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

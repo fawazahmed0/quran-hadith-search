@@ -2676,6 +2676,12 @@ a taruvata subhavarta telipevadu vacci, (yusuph cokkanu) atani mukham mida veyag
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత శుభవార్త అందించేవాడు వచ్చి అతని ముఖంపై ఆ చొక్కాను వేయగానే అతనికి కంటిచూపు వచ్చేసింది. “మీకు తెలియని విషయాలెన్నో అల్లాహ్‌ తరఫున నాకు తెలుసని నేను మీకు చెప్పలేదా?!” అన్నాడాయన
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

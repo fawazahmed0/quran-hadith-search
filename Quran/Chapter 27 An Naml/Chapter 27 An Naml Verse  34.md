@@ -2676,6 +2676,12 @@ avaḷ kūṟiṉāḷ; "aracarkaḷ oru nakarattuḷ (paṭaiyeṭuttu) nuḻai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆమె (రాణి)గారు ఇలా అభిప్రాయపడ్డారు : “సాధారణంగా రాజులు ఏ నగరంలో జొరబడినా దాన్ని ధ్వంసం చేస్తారు. అక్కడి మర్యాదస్తులను అవమానాలపాలు చేస్తారు. (బహుశా) వీళ్లూ అదే చేయవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

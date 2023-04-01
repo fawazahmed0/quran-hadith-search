@@ -2676,6 +2676,12 @@ allāh tana dāsula paṭla entō mr̥duhr̥dayuḍu; āyana tānu kōrina vāri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ తన దాసుల పట్ల ఎంతో మృదువుగా వ్యవహరిస్తాడు. తాను కోరిన వారికి విస్తృతంగా ఉపాధిని ఇస్తాడు. ఆయన గొప్ప బలశాలి, ప్రాబల్యం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

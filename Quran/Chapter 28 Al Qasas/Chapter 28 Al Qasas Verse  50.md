@@ -2676,6 +2676,12 @@ vāru nīku elāṇṭi samādhānaṁ ivvakapōtē, vāru kēvalaṁ tama kōri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారు గనక నీ సవాలును స్వీకరించకపోతే, వారు తమ మనోవాంఛలను అనుసరించే జనులని తెలుసుకో. అల్లాహ్‌ మార్గ దర్శకత్వాన్ని కాకుండా తన మనోవాంఛల వెనుక నడిచేవాని కన్నా ఎక్కువ మార్గభ్రష్టుడెవడుంటాడు? అల్లాహ్‌ దుర్మార్గులకు ఎట్టి పరిస్థితిలోనూ సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

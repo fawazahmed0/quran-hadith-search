@@ -2676,6 +2676,12 @@ ika (antima ghaḍiyalō) hitabōdha svīkarin̄caṭaṁ vāriki elā paniki r�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఉపదేశం ఇప్పుడు వారికి ఎలా లాభదాయకం అవుతుంది? – అన్నీ విడమరచి చెప్పే ప్రవక్త వారి వద్దకు (ఎప్పుడో) వచ్చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

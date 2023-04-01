@@ -2676,6 +2676,12 @@ i vidhanga variddarini mosapucci, tana (pannugada) vaipunaku trippukunnadu. Vari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ విధంగా వాడు వారిద్దరినీ మోసపుచ్చి క్రిందికి తీసుకువచ్చాడు. వారిద్దరూ ఆ వృక్షం రుచి చూడగానే ఇద్దరి మర్మ స్థానాలూ ఒండొకరి ముందు బహిర్గతం అయిపోయాయి. అప్పుడు వారిరువురూ స్వర్గంలోని ఆకులను తమపై కప్పుకోసాగారు. వారి ప్రభువు వారిని పిలిచి, “మీరుభయులూ ఆ చెట్టు వద్దకు పోరాదని నేను మిమ్మల్ని వారించలేదా? షైతాను మీ బద్ధవిరోధి అని నేను మీకు ముందే చెప్పలేదా?” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ allāh iddaru puruṣula, maroka upamānaṁ iccāḍu: Vārilō okaḍu mūgav�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మరో ఇద్దరు వ్యక్తుల ఉదాహరణను కూడా ఇస్తున్నాడు: వారిలో ఒకడు మూగవాడు. ఏదీ చెయ్యలేడు. పైగా అతను తన యజమానికి భారంగా తయారయ్యాడు. అతన్ని ఎక్కడికి పంపినా మేలును తీసుకురాడు. మరొకతను న్యాయం గురించి ఆదేశిస్తున్నాడు. పైగా అతను సన్మార్గాన ఉన్నాడు. వీరిద్దరూ ఒకటేనా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

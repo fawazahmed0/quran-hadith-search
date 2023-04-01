@@ -2676,6 +2676,12 @@ allāh yē mim'malni puṭṭin̄cāḍu, taruvāta jīvanōpādhiniccāḍu. Ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ అల్లాహ్‌యే మిమ్మల్ని సృష్టించాడు, తర్వాత మీకు ఉపాధిని సమకూర్చాడు, మరి ఆయనే మిమ్మల్ని చంపుతాడు, ఆ తరువాత మిమ్మల్ని బ్రతికిస్తాడు. చెప్పండి! ఈ పనులలో దేన్నయినా చేయగలవాడు మీరు కల్పించే భాగస్వాములలో ఎవడయినా ఉన్నాడా? వారు కల్పించే భాగస్వామ్యాల నుండి అల్లాహ్‌ ఎంతో పవిత్రుడు, ఉన్నతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

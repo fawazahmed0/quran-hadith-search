@@ -2676,6 +2676,12 @@ ataṟkavar ‘‘eṉ tāy makaṉē! Eṉ talaiyaiyum eṉ tāṭiyaiyum piṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ నా మాతా పుత్రుడా! నా గడ్డాన్ని పట్టుకోకు. నా జుత్తు పట్టి లాగకు. ‘నువ్వు ఇస్రాయీలు సంతతిలో చీలిక తెచ్చావు. నా ఉత్తర్వుకోసం నిరీక్షించలేదు’అని నువ్వు అంటావేమోనన్న భయంతో ఆగిపోయాను” అని హారూన్‌ వివరించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

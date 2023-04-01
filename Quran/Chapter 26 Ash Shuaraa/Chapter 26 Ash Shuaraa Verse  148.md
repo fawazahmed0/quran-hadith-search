@@ -2676,6 +2676,12 @@ mariyu ī polālalō, māgina paṇḍlaguttulu gala kharjūrapu ceṭla madhya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఈ పొలాల్లో, సుతిమెత్తని, కోమలమైన పండ్ల గెలలు గల ఈ ఖర్జూర తోటలలో (కలకాలం ఉంటామని అనుకుంటున్నారా)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

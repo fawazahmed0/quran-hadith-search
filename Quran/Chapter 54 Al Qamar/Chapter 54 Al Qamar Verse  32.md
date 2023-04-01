@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, mēmu ī khur'ān nu hitabōdha grahin̄caṭāniki sulabh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఖుర్ ఆన్ ను అర్థం చేసుకునేటందుకు ఎంతో సులభతరం చేశాము. (మరి (దీనిద్వారా) హితబోధను గ్రహించే వాడెవడైనా ఉన్నాడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

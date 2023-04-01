@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā! Mēmu ākāśālanu mariyu bhūmini mariyu vāṭi madhya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము భూమ్యాకాశాలను, వాటి మధ్య ఉన్న వాటన్నింటినీ (కేవలం) ఆరు దినాలలో సృష్టించాము. మరి మాకు అలసట సోకనయినా లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāru tama pramāṇālanu ḍhālugā cēsukunnāru. Ā vidhaṅgā vāru (itar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ ప్రమాణాలను ఆసరాగా చేసుకున్నారు. ఆపై వారు అల్లాహ్ మార్గం నుండి ఆగిపోయారు. వారు పాల్పడే ఈ చేష్ట బహుచెడ్డది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

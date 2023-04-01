@@ -2676,6 +2676,12 @@ Mariyu ākāśālalō unnadantā mariyu bhūmilō unnadantā allāh ku cendinad�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలో, భూమిలో వున్న సమస్తమూ అల్లాహ్‌దే. అల్లాహ్‌కు భయపడుతూ మెలగవలసిందిగా మేము మీకు పూర్వం గ్రంథం వొసగబడినవారికీ, మీకూ ఆజ్ఞాపించాము. ఒకవేళ మీరు తిరస్కరిస్తే, ఆకాశాలలో, భూమిలో ఉన్నదంతా అల్లాహ్‌దేననీ, అల్లాహ్‌ అక్కరలు లేనివాడనీ, స్తోత్రనీయుడనీ మరువకండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

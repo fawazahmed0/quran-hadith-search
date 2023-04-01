@@ -2676,6 +2676,12 @@ Vārē! Okavēḷa mēmu vāriki bhūmipai adhikārānni prasādistē, vāru nam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఈ విశ్వాసులు ఎలాంటివారంటే) మేము గనక వారికి భూమిపై అధికారాన్ని ప్రసాదిస్తే వారు ఖచ్చితంగా నమాజును నెలకొల్పుతారు. జకాతు (అనే విధ్యుక్త దానధర్మాన్ని) చెల్లిస్తారు. మంచి పనులు చేయమని ఆజ్ఞాపిస్తారు. చెడు పనుల నుంచి ఆపుతారు. సమస్త వ్యవహారాల ఫలితం అల్లాహ్‌ అధీనంలోనే ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

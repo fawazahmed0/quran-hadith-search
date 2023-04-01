@@ -2676,6 +2676,12 @@ appuḍu annāmu: "Ō ādam! Niścayaṅgā, itaḍu nīku mariyu nī bhāryaku 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు మేము ఇలా అన్నాము: “ఓ ఆదమ్‌! వీడు నీకూ, నీ భార్యకూ బద్ధ విరోధి. (జాగ్రత్త!) వాడు మీరిద్దరినీ స్వర్గం నుంచి వెళ్లగొట్టే స్థితి రాకూడదు సుమా! ఒకవేళ అదేగనక జరిగితే నువ్వు కష్టాల్లో పడాల్సివస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ maroka rakamaina vārini mīru cūstāru; vāru mī nuṇḍi śānti pondālani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలో మరి కొంతమందిని కూడా మీరు చూస్తారు. వారు (పైకి) మీ నుంచి, తమ వర్గం వారి నుంచి శాంతిగా ఉండాలని కోరుకుంటారు. (కాని) ఎప్పుడైనా ఉపద్రవం వైపు మరలించ బడితే మాత్రం పిల్లిమొగ్గలు వేస్తారు. వారు గనక మీకు దూరంగా ఉండకపోతే, మీకు స్నేహ హస్తం అందించకపోతే, (యుద్ధం నుంచి) తమ చేతులను ఆపి ఉంచకపోతే వారిని పట్టుకోండి, ఎక్కడ దొరికితే అక్కడే వారిని హతమార్చండి. మేము మీకు స్పష్టమయిన అధికారాన్ని ప్రసాదించినది వీరి పైనే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

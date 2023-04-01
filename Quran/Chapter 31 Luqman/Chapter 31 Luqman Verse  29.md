@@ -2676,6 +2676,12 @@ Emi? Niku teliyada (cudatam leda)? Niscayanga, allah ratrini pagatiloniki praves
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఏ విధంగా రాత్రిని పగటి లోనికి, పగటిని రాత్రి లోనికి చొప్పిస్తున్నాడో నువ్వు గమనించటం లేదా? ఆయనే సూర్యచంద్రులను కూడా నియమబద్ధంగా చేశాడు. ప్రతి ఒక్కటి నిర్ణీత సమయం వరకు సాగిపోతున్నాయి. మీరు చేసేదంతా కూడా అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

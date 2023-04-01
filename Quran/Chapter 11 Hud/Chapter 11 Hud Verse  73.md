@@ -2676,6 +2676,12 @@ Vārannāru: "Allāh uttaruvu viṣayanlō mīru āścaryapaḍutunnārā? Ō (i
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి దైవదూతలు, “నువ్వు దైవ శక్తి పట్ల ఆశ్చర్యపడుతున్నావా?! (ఇబ్రాహీము) ఇంటివారలారా! మీపై అల్లాహ్‌ కారుణ్యం, ఆయన శుభాలు కురియుగాక! నిశ్చయంగా ఆయన స్తుతించదగినవాడు, మహాఘనత కలవాడు” అని చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

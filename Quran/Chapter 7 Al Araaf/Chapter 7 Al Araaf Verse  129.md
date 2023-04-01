@@ -2676,6 +2676,12 @@ nīr eṅkaḷiṭam varuvataṟku muṉṉarum (tuṉpappaṭṭōm;) nīr vant
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతని జాతివారు, “మేము సదా పీడించబడ్డాము – నీవు రాకముందూ, నీవు వచ్చిన తరువాత కూడా(మేము పీడించబడుతున్నాము)” అన్నారు. “త్వరలోనే అల్లాహ్‌ మీ శత్రువును తుదముట్టించి, మిమ్మల్ని భూమికి ప్రతినిధులుగా చేస్తాడు. ఆ తరువాత మీ ప్రవర్తన ఎలా ఉంటుందో చూస్తాడు” అని మూసా వారిని ఓదార్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

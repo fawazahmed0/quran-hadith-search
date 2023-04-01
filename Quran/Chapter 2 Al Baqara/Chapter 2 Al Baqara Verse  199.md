@@ -2676,6 +2676,12 @@ taruvāta prajalantā ekkaḍi nuṇḍi veḷtārō akkaḍi nuṇḍi mīrū v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత మీరు ప్రజలందరూ మరలే చోటు నుంచే మరలండి. క్షమాపణకై అల్లాహ్‌ను వేడుకుంటూ ఉండండి. నిస్సందేహంగా అల్లాహ్‌ క్షమించేవాడు, కనికరించేవాడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

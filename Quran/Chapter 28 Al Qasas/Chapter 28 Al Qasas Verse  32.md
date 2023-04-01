@@ -2676,6 +2676,12 @@ nī cētini nī caṅkalōki dūrcukō, adi elāṇṭi lōpaṁ lēkuṇḍā p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నీ చేతిని నీ చొక్కా లోపల పెట్టుకో. అది ఎలాంటి లోపం లేకుండానే – తెల్లగా మెరిసిపోతూ – బయటికి వస్తుంది. భీతావహస్థితి నుంచి (సురక్షితంగా ఉండటానికి) నీ చేతిని (మడచి) నీ పార్శ్యానికి ఆనించిపెట్టు. నువ్వు ఫిరౌను మరియు అతని అధికారుల వద్ద సమర్పించటానికి నీ ప్రభువు తరఫు నుంచి నీకు ఇవ్వబడిన రెండు మహిమలు ఇవి! నిశ్చయంగా వారంతా అవిధేయులుగా తయారయ్యారు” (అని మేమన్నాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ilāṇṭi vāri hr̥dayāla mīdā. Cevula mīdā mariyu kannula mīdā allāh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి హృదయాలపై, వారి చెవులపై, వారి కళ్లపై అల్లాహ్‌ ముద్ర వేసేశాడు. విస్మరణకు (పరధ్యానానికి) గురైన వారంటే వీరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

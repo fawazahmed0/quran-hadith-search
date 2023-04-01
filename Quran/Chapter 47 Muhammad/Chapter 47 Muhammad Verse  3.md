@@ -2676,6 +2676,12 @@ ilā enduku jarigindaṇṭē! Vāstavāniki aviśvāsulu asatyānni anusarin̄c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలా ఎందుకు జరిగిందంటే అల్లాహ్ ను తిరస్కరించినవారు అసత్యాన్ని అనుసరించగా, విశ్వాసులేమో తమ ప్రభువు నుండి వచ్చిన సత్యాన్ని అనుసరించారు. ఇలాగే అల్లాహ్ మానవులకు వారి స్థితిగతులను తెలియపరుస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

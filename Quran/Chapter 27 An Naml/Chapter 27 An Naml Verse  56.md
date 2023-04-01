@@ -2676,6 +2676,12 @@ kāni, atani jātivāri javābu ī vidhaṅgā mātramē uṇḍindi. Vāru ann�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“లూతు పరివారాన్ని మీ నగరం నుంచి వెళ్ళగొట్టండి. వారు మహా పవిత్రులుగా చెలామణీ కాగోరుతున్నారు” అనటం తప్ప అతని జాతి వద్ద మరో సమాధానం లేకపోయింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Mi prabhuvu, miku pratyekanga kumarulanu prasadinci tana koraku devadutalan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, మీ ప్రభువు మీ కోసం కొడుకుల్ని కేటాయించి, తన కోసమేమో దూతలను కూతుళ్ళుగా చేసుకున్నాడా? నిశ్చయంగా మీరు చాలా పెద్ద (ఘోరమైన) మాట అంటున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

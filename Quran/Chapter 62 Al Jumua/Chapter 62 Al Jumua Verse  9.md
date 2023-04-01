@@ -2676,6 +2676,12 @@ o visvasulara! Sukravaram (jumu'ah) roju namaj koraku pilupu ivvabadinappudu, mi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! శుక్రవారం నాడు నమాజు కొరకు అజాన్ (పిలుపు) ఇవ్వబడినప్పుడు, మీరు అల్లాహ్ ధ్యానం వైపు పరుగెత్తండి. క్రయవిక్రయాలను వదలి పెట్టండి. మీరు గనక తెలుసుకోగలిగితే ఇది మీ కొరకు ఎంతో మేలైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

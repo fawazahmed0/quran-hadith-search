@@ -2676,6 +2676,12 @@ mariyu āyanē tana kāruṇyāniki mundu śubhavārtalu teccē vāyuvulanu pamp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తన కారుణ్య జల్లు కురిసేముందు గాలులను శుభవార్త సూచకంగా పంపేది ఆయనే. ఆఖరికి అవి బరువైన మేఘాలను ఎత్తుకున్నప్పుడు, మేము ఆ మేఘాలను నిర్జీవంగా పడివున్న ఏదేని ప్రదేశం వైపుకు తరలిస్తాము. ఆపైన ఆ మేఘాల ద్వారా వర్షాన్ని కురిపిస్తాము. ఆ వర్షపు నీటి ద్వారా అన్నిరకాల పండ్లు ఫలాలను ఉత్పన్నం చేస్తాము. మృతులను కూడా మేము ఇలాగే లేపి నిలబెడతాము. మీరు (నీతిని) గ్రహించేటందుకు గాను(మేము ఇన్ని విధాలుగా విషయాన్ని విడమరచి చెబుతున్నాము సుమా)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

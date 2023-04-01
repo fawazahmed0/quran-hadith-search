@@ -2676,6 +2676,12 @@ o pravakta! Visvasincina strilu pramanam (bai'at) ceyataniki ni vaddaku vacci, t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! విశ్వసించిన స్త్రీలు నీ వద్దకు వచ్చి, తాము ఎవరినీ అల్లాహ్ కు భాగస్వామ్యం కల్పించబోము అనీ, దొంగతనం చేయబోము అనీ, వ్యభిచారానికి పాల్పడబోము అనీ, తమ సంతానాన్ని చంపబోము అనీ, తమ కాళ్ళు చేతుల మధ్య నుండి ఎలాంటి అభాండాన్నీ కల్పించబోము అనీ, ఏ సత్కార్యంలోనూ నీకు అవిధేయత చూపబోము అని ప్రమాణం చేస్తే నువ్వు వారి చేత ప్రమాణం చేయించు. వారి క్షమాపణ కొరకు అల్లాహ్ ను ప్రార్ధించు. నిశ్చయంగా అల్లాహ్ క్షమాశీలి, దయాశీలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

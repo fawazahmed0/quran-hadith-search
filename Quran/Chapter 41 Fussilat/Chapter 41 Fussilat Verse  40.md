@@ -2676,6 +2676,12 @@ niścayaṅgā, mā sūcanalaku vikr̥tārthaṁ aṇṭagaṭṭēvāru māku k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మా వాక్యాల విషయంలో వక్ర వైఖరిని అవలంబిస్తున్న వారు మా దృష్టిలో లేకుండా లేరు. (చెప్పండి!) అగ్నిలో పడవేయబడేవాడు మేలా? లేక ప్రళయ దినాన సురక్షితంగా (ప్రశాంత స్థితిలో) వచ్చేవాడు మేలా? మీరు ఇష్టం వచ్చింది చేసుకుంటూ పోండి. ఆయన మీరు చేసే పనులన్నిటినీ చూస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

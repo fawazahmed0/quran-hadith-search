@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā vāri vaddaku vāri (jāti) nuṇḍi oka pravakta vacci u
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి వద్దకు స్వయంగా వారిలో నుంచే ఒక ప్రవక్త వచ్చాడు. అయినప్పటికీ వారతన్ని ధిక్కరించారు. ఫలితంగా శిక్ష వారిని పట్టుకున్నది. ఎందుకంటే వారు పరమ దుర్మార్గులుగా ఉండేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ okavēḷa mēmu ī khur'ān nu arabbētara bhāṣalō avatarimpa jēsi uṇḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మేము ఈ ఖుర్‌ఆను (గ్రంథము)ను అరబ్బీయేతర ఖుర్‌ఆన్‌గా చేసివుంటే, “దీని వాక్యాలు స్పష్టంగా ఎందుకు వివరించబడలేదు? (ఇదేమిటయ్యా!) ఇదేమో అరబ్బీయేతర గ్రంథమూను, నువ్వేమో అరబీ ప్రవక్తవా!” అని వారు చెప్పి ఉండేవారు. (ఓ ప్రవక్తా!) నువ్వు వారికి చెప్పేయి: “ఇది విశ్వసించిన వారికోసం మార్గదర్శిని, ఆరోగ్య ప్రదాయిని. కాని విశ్వసించని వారి చెవులలో మాత్రం బరువు (చెవుడు) ఉంది. పైగా ఇది వారి పాలిట అంధత్వంగా పరిణమించింది. వారు బహు దూరపు చోటు నుంచి పిలువబడే జనుల్లా ఉన్నారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

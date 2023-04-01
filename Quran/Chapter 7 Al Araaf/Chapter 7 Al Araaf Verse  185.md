@@ -2676,6 +2676,12 @@ emi? Varu bhumyakasalapai gala (allah) adhipatyanni mariyu allah srstincina prat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, ఆకాశాల మరియు భూమి యొక్క వ్యవస్థను, అల్లాహ్‌ సృష్టించిన ఇతర వస్తువులను వారు గమనించలేదా? వారి కాలం దగ్గరపడి ఉండవచ్చునన్న సంగతిని గురించి కూడా వారు ఆలోచించలేదా? మరి ఖుర్‌ఆన్‌ తరువాత, వారు విశ్వసించే ఇంకొక వస్తువు ఏముంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

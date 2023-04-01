@@ -2676,6 +2676,12 @@ niścayaṅgā, viśvāsula paṭla (muslinla paṭla) virōdha viṣayanlō nī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసుల పట్ల శత్రుత్వంలో అందరికన్నా ఎక్కువగా కరడు గట్టినవారు యూదులు మరియు ముష్రిక్కులని నీవు తెలుసుకుంటావు. ఇక విశ్వాసులతో స్నేహం విషయానికి వస్తే “మేము సహాయకులం (నసారా లేక క్రైస్తవులం)” అని చెప్పుకునే వారిని నీవు ఎక్కువ సన్నిహితులుగా చూస్తావు. ఎందుకంటే వారిలో పండితులు, భవబంధాలకు దూరంగా ఉండే మతాచార్యులు ఉన్నారు. ఇంకో విషయం ఏమిటంటే వారు అహంకారం చూపరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

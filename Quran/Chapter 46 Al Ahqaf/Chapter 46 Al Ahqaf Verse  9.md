@@ -2676,6 +2676,12 @@ Bigū: «Man padidai navzuhur dar mijoni pajomʙaron nestam va namedonam sarnavi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు : “నేను కొత్తగా వచ్చిన ప్రవక్తనేమీ కాను. (రేపు) నా పట్లా, మీ పట్లా జరిగే వ్యవహారం ఎలాంటిదో కూడా నాకు తెలీదు. నా వద్దకు పంపబడిన సందేశాన్ని (వహీని) మాత్రమే నేను అనుసరిస్తాను. నేను చాలా స్పష్టంగా హెచ్చరించే వాణ్ణి మాత్రమే.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

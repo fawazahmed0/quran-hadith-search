@@ -2676,6 +2676,12 @@ e manavunikaina allah ataniki granthanni, vivekanni mariyu pravakta padavini pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఏ మనిషికయినా గ్రంథాన్నీ, వివేకాన్నీ, ప్రవక్త పదవిని (నబువ్వత్‌ను) ప్రసాదించిన మీదట కూడా ‘మీరు అల్లాహ్‌ను వదలిపెట్టి నాకు దాసులుకండి’ అని అతడు ప్రజలతో అనటం ఎంతమాత్రం తగదు. దానికి బదులు, ‘మీరంతా ప్రభువు వారైపోండి’ అని అతడనాలి. ఎందుకంటే మీరు గ్రంథాన్ని నేర్పేవారవటం చేతనూ, గ్రంథాన్ని చదివేవారవటం చేతనూ (మీరు మీ ప్రభువు వారవటమే ధర్మం)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

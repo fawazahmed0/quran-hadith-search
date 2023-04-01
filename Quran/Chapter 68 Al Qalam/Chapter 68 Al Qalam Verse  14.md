@@ -2676,6 +2676,12 @@ vāḍu dhanavantuḍū mariyu santāna bhāgyantō talatūgutū unnavāḍu ayi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంతకీ వాడి తలబిరుసుతనానికి కారణం వాడికి సిరిసంపదలు, పుత్ర సంతానం ఉండటమే. (కాబట్టి నువ్వు అతణ్ణి అనుసరించకు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

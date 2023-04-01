@@ -2676,6 +2676,12 @@ kāvuna allāh vāriki ihalōkanlō tagina phalitānni mariyu paralōkanlō utta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ వారికి ప్రాపంచిక ఫలాన్నీ ఇచ్చాడు, పరలోకపు ఉత్తమ పుణ్య ఫలాన్ని కూడా ప్రసాదించాడు. సత్కార్యాలను ఉత్తమరీతిలో నిర్వర్తించేవారిని అల్లాహ్‌ ఎంతగానో ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

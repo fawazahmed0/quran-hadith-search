@@ -2676,6 +2676,12 @@ mariyu allāh grantha prajalatō: "Dīnini (daivapravakta muham'mad rānunnāḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(జ్ఞాపకం చెయ్యి,) అల్లాహ్‌ గ్రంథవహుల నుంచి, ”మీరు గ్రంథజ్ఞానాన్ని ప్రజలకు తప్పకుండా వివరించాలి. దానిని దాచకూడదు” అని వాగ్దానం తీసుకున్నాడు. అయినప్పటికీ వారు ఈ వాగ్దానాన్ని తమ వీపు వెనుక పడవేయటమేగాక అతి తక్కువ మూల్యానికి దాన్ని అమ్మివేశారు. వారు చేసిన ఈ వర్తకం బహు చెడ్డది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

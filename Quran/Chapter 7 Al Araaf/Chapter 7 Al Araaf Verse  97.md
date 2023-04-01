@@ -2676,6 +2676,12 @@ emi? I nagaralavasulu, tamu nidrapoyetappudu ratri samayamana vacce ma siksa nun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయినప్పటికీ ఈ బస్తీల వాళ్లు రాత్రివేళ నిద్రపోతున్నప్పుడు తమపై మా శిక్ష వచ్చిపడదని నిశ్చింతగా ఉన్నారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

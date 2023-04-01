@@ -2676,6 +2676,12 @@ mēmu mā pravacanālalō (āyāt lalō) oka dānini raddu cēsinā lēka marapi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఏదేని ఒక వాక్యాన్ని మేము రద్దుపరచినా లేక మరపింపజేసినా (దాని స్థానంలో) దానికన్నా ఉత్తమమైన దానినీ లేదా కనీసం దానికి సమానమైన దానిని తీసుకువస్తాము. అల్లాహ్‌ ప్రతిదీ చేయగల సమర్థుడన్న సంగతి నీకు తెలియదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

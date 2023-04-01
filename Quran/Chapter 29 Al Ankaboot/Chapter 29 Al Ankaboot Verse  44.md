@@ -2676,6 +2676,12 @@ allāh ākāśālanu mariyu bhūmini satyādhāraṅgā sr̥ṣṭin̄cāḍu. N
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఆకాశాలనూ, భూమినీ సత్య బద్ధంగా (పరమార్ధం దృష్ట్యా) సృష్టించాడు. విశ్వసించే వారి కోసం ఇందులో గొప్ప నిదర్శనం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

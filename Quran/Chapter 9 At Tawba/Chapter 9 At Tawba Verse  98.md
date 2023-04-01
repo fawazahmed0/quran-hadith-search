@@ -2676,6 +2676,12 @@ mariyu eḍārivāsulalō (baddūlalō) kondaru tāmu (allāh mārganlō) kharcu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తాము ఖర్చు పెట్టేదంతా ఒక విధంగా తమపై విధించబడిన జరిమానా అని భావించే వారు కూడా ఈ పల్లెవాసులలో కొందరున్నారు. మీపై చెడ్డకాలం ఎప్పుడు వస్తుందా! అని వారు ఎదురుచూస్తున్నారు. చెడ్డకాలం వాళ్లపైనే వచ్చిపడుతుంది. అల్లాహ్‌ అంతా వినేవాడు, అన్నీ ఎరిగినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

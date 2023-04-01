@@ -2676,6 +2676,12 @@ mariyu mēmu oka sandēśānni (āyat nu) mārci dāni sthānanlō maroka sandē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఒక ఆయతు స్థానంలో మరో ఆయతును మార్చినప్పుడు “నువ్వే కల్పిస్తున్నావు” అని వారంటారు. వాస్తవానికి తాను అవతరింపజేసిన దానిని గురించి అల్లాహ్‌కు బాగా తెలుసు. అయితే వారిలో అత్యధికులకు అసలు విషయం తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vārini ilā aḍugu: "Mīku telistē ceppaṇḍi! Pratidānipai pālanādhikā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సమస్త విషయాల సార్వభౌమత్వం ఎవరి చేతుల్లో ఉందో, శరణు ఇచ్చేవాడెవడో, ఎవరికి వ్యతిరేకంగా ఏ శరణూ లభించదో- ఆయనెవరో మీకు తెలిసి ఉంటే చెప్పండి? అని (ఓ ప్రవక్తా!) వారిని అడుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

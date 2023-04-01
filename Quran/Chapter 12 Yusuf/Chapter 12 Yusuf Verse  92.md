@@ -2676,6 +2676,12 @@ ataṟvar, "iṉṟu uṅkaḷ mītu evvitak kuṟṟaccāṭṭum illai allāh 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు యూసుఫ్‌, “ఈ రోజు మీపై ఎలాంటి నిందాలేదు. అల్లాహ్‌ మిమ్మల్ని క్షమించుగాక! ఆయన కరుణించే వారందరిలోకీ గొప్పగా కరుణించేవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

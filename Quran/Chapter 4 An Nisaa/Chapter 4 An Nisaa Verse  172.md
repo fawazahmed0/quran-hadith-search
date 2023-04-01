@@ -2676,6 +2676,12 @@ tānu, allāh ku dāsuḍananē viṣayānni masīh (krīstu) ennaḍū upēkṣ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మసీహ్‌ (అలైహిస్సలాం) గానీ, అల్లాహ్‌ సామీప్యం పొందిన దూతలుగానీ తాము అల్లాహ్‌ దాసులు కావటాన్ని అగౌరవంగా, అవమానకరంగా ఎంత మాత్రం భావించరు. అల్లాహ్‌ దాస్యం చేయటాన్ని అవమానకరంగా, అగౌరవంగా భావించి, గర్వాతిశయంతో విర్రవీగే వారినందరినీ అల్లాహ్‌ తన వద్దకు ప్రోగుచేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

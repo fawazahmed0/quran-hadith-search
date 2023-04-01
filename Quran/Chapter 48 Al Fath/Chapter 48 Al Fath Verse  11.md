@@ -2676,6 +2676,12 @@ Venuka uṇḍipōyina eḍāri vāsulu (baddūlu) nītō ilā aṇṭāru: "Mā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇక పల్లెటూరి ప్రజలలో వెనుక ఉండిపోయిన వారు ఇప్పుడు నీ దగ్గరకు వచ్చి, “మా ఆస్తిపాస్తులు, మా ఆలుబిడ్డలు మమ్మల్ని కదలకుండా చేశాయి. తమరు కాస్త మా క్షమాపణకై ప్రార్ధించండి” అని ప్రాధేయపడతారు. వారు తమ హృదయాలలో లేని దాన్ని నోటితో పలుకుతున్నారు. వారికి ఈ విధంగా చెప్పు : “అల్లాహ్ యే గనక మీకేదైనా నష్టాన్ని కలిగించదలిస్తే లేదా మీకేదైనా లాభాన్ని చేకూర్చదలిస్తే మీ విషయంలో అల్లాహ్ నిర్ణయాన్ని అడ్డుకునే అధికారం ఎవరికుంది? పైగా మీరు చేస్తున్నదంతా అల్లాహ్ కు బాగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

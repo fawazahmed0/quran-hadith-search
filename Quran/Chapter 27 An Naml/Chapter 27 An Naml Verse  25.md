@@ -2676,6 +2676,12 @@ andukē vāru - ākāśālalōnū mariyu bhūmilōnū dāni vunna vāṭini baya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలోనూ, భూమిలోను నిక్షిప్తమై ఉన్న వస్తువులను వెలికితీసేవాడు, మీరు గోప్యంగా ఉంచే, బహిర్గతం చేసే విషయాలన్నీ తెలిసినవాడైన అల్లాహ్‌కు వారు సాష్టాంగపడాల్సింది (కాని వారలా చేయటం లేదు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

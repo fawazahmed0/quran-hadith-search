@@ -2676,6 +2676,12 @@ uṉṉuṭaiya iru karaṅkaḷum muṉṉarē aṉuppiyuḷḷataṟkāka iru 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ చేతులు ముందుగా చేసి పంపుకున్న కర్మల మూలంగా నీకీ ఖర్మ పట్టింది. అల్లాహ్‌ తన దాసులకు అన్యాయం చేసేవాడు కాడన్న సంగతిని తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

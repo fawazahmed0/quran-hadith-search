@@ -2676,6 +2676,12 @@ ayana sajivudu. Ayana tappa maroka aradhyudu ledu, kavuna miru ayanane prarthinc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన సజీవుడు. ఆయన తప్ప మరో ఆరాధ్యుడు లేడు. కాబట్టి మీరు స్వచ్ఛమైన ఆరాధనను ఆయనకే సమర్పిస్తూ ఆయన్ని వేడుకోండి. ప్రశంసలన్నీ సకల లోకాల ప్రభువైన అల్లాహ్‌కే చెందుతాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

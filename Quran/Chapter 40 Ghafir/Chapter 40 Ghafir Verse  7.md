@@ -2676,6 +2676,12 @@ sinhāsanānni (arṣ nu) mōsēvāru mariyu dāni cuṭṭū uṇḍēvāru (da
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అర్ష్‌ (అల్లాహ్‌ సింహాసనం)ను మోసేవారు, దాని చుట్టూ ఉన్న వారు (దైవదూతలు) స్తోత్రసమేతంగా తమ ప్రభువు పవిత్రతను కొనియాడుతున్నారు. వారు ఆయన్ని విశ్వసిస్తున్నారు. విశ్వాసుల మన్నింపు కొరకు ప్రార్థిస్తూ వారు ఇలా అంటారు: “మా ప్రభూ! నీవు ప్రతి వస్తువును నీ దయానుగ్రహంతో, పరిజ్ఞానంతో ఆవరించి ఉన్నావు. కనుక పశ్చాత్తాపం చెంది, నీ మార్గాన్ని అనుసరించినవారిని నీవు క్షమించు. ఇంకా వారిని నరక శిక్ష నుంచి కూడా కాపాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

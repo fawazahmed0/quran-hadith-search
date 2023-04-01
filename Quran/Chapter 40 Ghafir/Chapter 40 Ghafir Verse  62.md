@@ -2676,6 +2676,12 @@ ayane allah, mi prabhuvu! Prati danini srstincinavadu. Ayana tappa maroka aradhy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ అల్లాహ్‌యే మీ (అందరికీ) ప్రభువు, ప్రతి వస్తువునూ సృష్టించినవాడు. ఆయన తప్ప వేరే ఆరాధ్యుడు లేడు. మరి మీరు ఎటు తిరిగిపోతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

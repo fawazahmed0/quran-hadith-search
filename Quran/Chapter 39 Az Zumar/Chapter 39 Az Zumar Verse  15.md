@@ -2676,6 +2676,12 @@ Kāvuna mīru āyananu vadali mīku iṣṭamaina vārini ārādhin̄caṇḍi!"
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు ఆయన్ని వదలి ఎవరెవరిని పూజించదలుస్తున్నారో పూజించుకోండి.” ఇంకా ఇలా చెప్పు: “ప్రళయదినాన తాము నష్టపోయినదిగాక, తమ పరివారానికి కూడా నష్టం చేకూర్చినవారే పూర్తిగా నష్టపోయినవారు. బాగా వినండి! ఘోరమైన నష్టం ఇదే.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

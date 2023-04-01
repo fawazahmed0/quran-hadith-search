@@ -2676,6 +2676,12 @@ mariyu evaḍu ihalōkanlō andhuḍai melagutāḍō, ataḍu paralōkanlō kū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు (తీర్పు దినాన) మేము ప్రతి మానవ సముదాయాన్నీ దాని నాయకుని సమేతంగా పిలుస్తాము. అప్పుడు తమ కర్మల పత్రం కుడి చేతికివ్వబడివారు (ఉత్సాహంగా) తమ కర్మల పత్రాన్ని చదువుకుంటారు. వారికి పీచంత అన్యాయం కూడా జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

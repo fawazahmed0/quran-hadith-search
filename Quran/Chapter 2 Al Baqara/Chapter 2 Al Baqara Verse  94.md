@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Okavēḷa allāh vaddanunna paralōka nivāsaṁ mānavulan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “ఒకవేళ అల్లాహ్‌ వద్ద పరలోక నివాసం ఇతర మానవులెవరికీ కాకుండా కేవలం మీ కొరకే ప్రత్యేకమై ఉంటే, రండి! మీ వాదన సత్యమైందనడానికి రుజువుగా మరణాన్ని కోరండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

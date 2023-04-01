@@ -2676,6 +2676,12 @@ vāru (dēvadūtalu) javābistāru: "Nīvu sarvalōpālaku atītuḍavu! Nīvē 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(ఓ అల్లాహ్‌!) నీవు పవిత్రుడవు. మా రక్షకుడవు నువ్వు మాత్రమే గాని వీళ్లు కాదు. అసలు వీళ్లు జిన్నులను పూజించే వాళ్ళు. వీరిలో చాలా మంది వాళ్ళనే (జిన్నులనే) నమ్ము కున్నారు” అని వారు సమాధానమిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

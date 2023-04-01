@@ -2676,6 +2676,12 @@ Mardumro ʙo hikmat (Qur'onu sunnat) va pandu nasihati nekū ʙa rohi Parvardigo
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు మార్గం వైపు జనులను వివేకంతోనూ, చక్కని ఉపదేశంతోనూ పిలువు. అత్యుత్తమ రీతిలో వారితో సంభాషణ జరుపు. నిశ్చయంగా తన మార్గం నుంచి తప్పిన వారెవరో నీ ప్రభువుకు బాగా తెలుసు. సన్మార్గాన ఉన్నవారెవరో కూడా ఆయనకు బాగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

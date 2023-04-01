@@ -2676,6 +2676,12 @@ emi? Evadini gurinci ayite ayana (allah taraphu nundi) siksa nirnayincabadi undo
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ వ్యక్తికి వ్యతిరేకంగా శిక్షా వాక్కు ఖరారైపోయిందో, అగ్నికి ఆహుతి అయిపోయిన (అటువంటి) వాణ్ణి నువ్వు బయటికి తీయగలవా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

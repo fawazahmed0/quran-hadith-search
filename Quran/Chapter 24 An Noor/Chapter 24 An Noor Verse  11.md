@@ -2676,6 +2676,12 @@ niścayaṅgā, apaninda mōpēvāru, mīlō nun̄cē kondarunnāru. Adi mīku h
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ పెద్ద అపనిందను కల్పించి తెచ్చినది కూడా మీలోని ఒక వర్గమే. మీరు దీనిని మీ పాలిట కీడుగా భావించకండి. పైగా ఇది మీ కొరకు మేలైనదే. కాకపోతే (ఈ వ్యవహారంలో), వారిలో ప్రతి ఒక్కరికీ వారు సంపాదించిన దాన్నిబట్టి పాపం లభిస్తుంది. మరి వారిలో చాలా పెద్ద పాత్రను పోషించిన వాడికి మాత్రం మహా శిక్ష పడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

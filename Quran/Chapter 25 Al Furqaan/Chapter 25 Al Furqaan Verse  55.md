@@ -2676,6 +2676,12 @@ mariyu vāru allāh nu vadali tamaku lābhaṁ gānī, naṣṭaṁ gānī, cēk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు అల్లాహ్‌ను వదలి తమకు లాభాన్నిగానీ, నష్టాన్నిగానీ చేకూర్చలేని వాటిని ఆరాధిస్తున్నారు. ఎంతయినా అవిశ్వాసి మటుకు తన ప్రభువుకు వ్యతిరేకంగా (షైతానుకు) తోడ్పడేవాడే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

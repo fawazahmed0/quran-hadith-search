@@ -2676,6 +2676,12 @@ ataṟku avaṉ, "nīr attāṭcikaḷaik koṇṭu vantiruppīrāṉāl - nīr 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి ఫిరౌను, “ఒకవేళ నువ్వు ఏదన్నా మహిమను తెచ్చివుంటే, నీ వాదనలో నువ్వు సత్యవంతుడవే అయితే, దాన్ని ప్రదర్శించు” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

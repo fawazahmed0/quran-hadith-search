@@ -2676,6 +2676,12 @@ Mariyu ī vidhaṅgā allāh vāgdānaṁ satyamani civari ghaḍiya niścayaman
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ విధంగా అల్లాహ్‌ వాగ్దానం సత్యమనీ, ప్రళయం (సంభవించటం)లో సందేహానికి తావులేదని ప్రజలు తెలుసుకోవటానికి మేము వారి పరిస్థితిని గురించి ప్రజలకు తెలియజేశాము. మరి వారేమో అప్పుడు ఈ వ్యవహారంలో పరస్పరం తర్జనభర్జన చేసుకోసాగారు – “వీరి గుహపై ఒక కట్టడం కట్టండి” అని కొందరన్నారు. వీరి సంగతి వీరి ప్రభువుకే బాగా తెలుసు. వీళ్ల వ్యవహారంలో పైచేయిగా ఉన్నవారు మాత్రం ఇలా అన్నారు: “మేము వీళ్లు ఉన్నచోట ఒక ఆరాధనాలయం కడతాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

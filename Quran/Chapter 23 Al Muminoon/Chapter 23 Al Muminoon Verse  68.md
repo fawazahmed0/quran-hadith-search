@@ -2676,6 +2676,12 @@ emi? Varu i (daiva) vakkunu gurinci ennadu alocincaleda? Leka vari purvikulaina,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారు ఈ వాక్కు గురించి ఎన్నడూ చింతన చేయలేదా? లేక పూర్వం తమ తాతముత్తాతల వద్దకు రాని విషయం వారి వద్దకు వచ్చినందుకా? (ఈ మంకుతనం)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

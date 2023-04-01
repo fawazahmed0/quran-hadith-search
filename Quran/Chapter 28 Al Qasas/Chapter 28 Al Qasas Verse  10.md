@@ -2676,6 +2676,12 @@ mariyu mūsā talli hr̥dayaṁ tallaḍillipōyindi. Āme viśvasin̄cinavāril
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా తల్లి మనసు తల్లడిల్లి పోయింది. ఆమె విశ్వాసులలోనే స్థిరంగా ఉండడానికి మేము ఆమె మనసును కుదుటపరచి ఉండకపోతే, ఆ విషయాన్ని ఆమె బయటపెట్టి ఉండేదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

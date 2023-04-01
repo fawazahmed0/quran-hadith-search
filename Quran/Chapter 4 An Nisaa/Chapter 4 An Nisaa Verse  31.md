@@ -2676,6 +2676,12 @@ okavēḷa mīku niṣēdhin̄cabaḍi naṭuvaṇṭi mahāpāpālaku mīru dū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీకు వారించబడే మహాపరాధాలకు గనక మీరు దూరంగా ఉన్నట్లయితే, మీ చిన్న చిన్న పాపాలను మేము మీ (లెక్క) నుండి తీసేస్తాము. ఇంకా మిమ్మల్ని గౌరవప్రద స్థానాల్లో ప్రవేశింపజేస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

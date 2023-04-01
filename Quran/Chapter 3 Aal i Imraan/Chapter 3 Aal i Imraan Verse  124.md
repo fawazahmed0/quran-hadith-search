@@ -2676,6 +2676,12 @@ Ba jod ovar (ej Rasul) cun meguftj dar rūzi Badr ʙa mū'minon, ojo şumoro kof
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ కృతజ్ఞతల మూలంగానే మీకు సహాయ సహకారాలు అందవచ్చు. (ఓ ప్రవక్తా!) నీవు విశ్వాసులను ఓదార్చిన ఆ ఘడియలను కాస్త జ్ఞాపకం చేసుకో!) ”ఏమిటీ, ఆకాశం నుంచి మూడు వేల మంది దూతలను దింపి మీ ప్రభువు మీకు తోడ్పడటం మీకు చాలదా?” అని అప్పుడు నువ్వు వారితో అన్నావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

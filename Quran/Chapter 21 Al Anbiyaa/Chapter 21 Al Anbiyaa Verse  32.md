@@ -2676,6 +2676,12 @@ mariyu mēmu ākāśānni surakṣitamaina kappugā cēśāmu. Ayinā vāru andu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆకాశాన్ని సురక్షితమైన కప్పుగా చేసినది కూడా మేమే. కాని ప్రజలు దాని సూచనలపై (పనితనంపై, సృష్టి ప్రక్రియపై) బొత్తిగా ధ్యాస కనబరచరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

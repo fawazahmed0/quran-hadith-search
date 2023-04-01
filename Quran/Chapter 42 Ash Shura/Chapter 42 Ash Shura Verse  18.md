@@ -2676,6 +2676,12 @@ dānini nam'mani vārē dāni koraku tondara peḍatāru. Mariyu viśvasin̄cina
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దాన్ని నమ్మనివారే దాని గురించి ఆత్రం చేస్తున్నారు. దాన్ని నమ్మేవారు మాత్రం దానికి భయపడుతూ ఉన్నారు. అది రావటం సత్యమని (తథ్యమని) వారికి తెలుసు. గుర్తుంచుకోండి! ఆ గడియ విషయంలో గోల చేసేవారు బహుదూరపు అపమార్గంలో పడి ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

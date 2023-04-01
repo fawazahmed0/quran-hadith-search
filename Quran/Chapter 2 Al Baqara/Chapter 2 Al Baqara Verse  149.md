@@ -2676,6 +2676,12 @@ mariyu nīvu ekkaḍiki bayalu dērinā sarē! Nī mukhānni (namāj lō) masjid
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీవు ఎక్కడి నుంచి బయలుదేరినా (నమాజు కోసం) నీ ముఖాన్ని మస్జిదె హరాం వైపునకు త్రిప్పు. ఇదే నీ ప్రభువు తరఫు నుండి వచ్చిన సత్యం. మీరు చేసేదంతా అల్లాహ్‌కు తెలియకుండా లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

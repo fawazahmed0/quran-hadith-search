@@ -2676,6 +2676,12 @@ atanu (mūsā) annāḍu: "Āyana (allāh) aṇṭunnāḍu: 'Ā gōvu bhūmini 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి అతను, “ఆ ఆవు పనిచేసేదీ, దుక్కి దున్నేదీ, సేద్యపు పనిలో ఉపయోగపడేదీ అయి ఉండకూడదు. ఇంకా అది ఆరోగ్యవంతమైనదై, ఎటువంటి మచ్చలూ లేకుండా ఉండాలి అన్నది అల్లాహ్‌ ఆజ్ఞ” అని చెప్పాడు. దానికి వారు “నువ్వు ఇప్పుడు సరిగ్గా చెప్పావు. (మాకిప్పుడు అర్థం అయింది)” అన్నారు. అసలు వారు ఆదేశపాలనకు ఏమాత్రం సుముఖంగా లేరు. ఎట్టకేలకు (మాట విని) ఆవును జిబహ్‌ చేశారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

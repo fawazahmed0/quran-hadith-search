@@ -2676,6 +2676,12 @@ mariyu vāru allāh pērutō dr̥ḍhamaina śapathaṁ cēsi ilā aṇṭāru: 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“చనిపోయిన వారిని అల్లాహ్‌ తిరిగి లేపడు” అని వారు అల్లాహ్‌పై గట్టిగా ప్రమాణాలు చేసి మరీ చెబుతారు. ఎందుకు లేపడు? (తప్పకుండా మళ్లీ బ్రతికించి లేపుతాడు) ఇది ఆయన వాగ్దానం – దాన్ని నెరవేర్చటాన్ని ఆయన విధిగా చేసుకున్నాడు. కాని చాలామందికి ఈ విషయం తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

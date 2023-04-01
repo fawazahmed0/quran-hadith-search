@@ -2676,6 +2676,12 @@ ilā anu: "Mīku vāgdānaṁ cēyabaḍinadi (śikṣa) samīpanlōnē rānunna
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా! వారికి) చెప్పు : “మీతో వాగ్దానం చేయబడుతున్న విషయం (శిక్ష) సమీపంలోనే ఉందో లేక నా ప్రభువు దానికోసం దూరపు గడువును నిర్ణయిస్తాడో నాకు తెలియదు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

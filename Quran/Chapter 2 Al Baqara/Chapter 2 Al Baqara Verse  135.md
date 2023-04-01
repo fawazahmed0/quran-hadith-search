@@ -2676,6 +2676,12 @@ mariyu vāraṇṭāru: "Mīru yūdulugā lēdā kraistavulugā uṇṭēnē mī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు యూదులుగానో, క్రైస్తవులుగానో మారిపోతే సన్మార్గం పొందగలరని వారు అంటారు. (ఓ ముహమ్మద్‌!) మీరు వారికి స్పష్టంగా చెప్పండి: “కాదు, ఇబ్రాహీము ధర్మాన్ని అనుసరించే వారే సన్మార్గంపై ఉన్నారు. ఇబ్రాహీం స్వచ్ఛమైన ఏకదైవారాధ కుడు, అతను బహుదైవోపాసకుడు కాదు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ tama prabhuvunu tiraskarin̄cina vāri karmalanu, tuphānu dinamuna penugāli eg
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ పరిపోషకుని పట్ల తిరస్కార వైఖరిని అవలంబించిన వారి ఉపమానం వారి కర్మలు తుఫాను రోజున వీచే పెనుగాలి వాతన పడిన బూడిద లాంటివి. తాము చేసుకున్న కర్మలలో దేనిపైనా వారికి అధికారం ఉండదు. బహు దూరపు మార్గభ్రష్టత అంటే ఇదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

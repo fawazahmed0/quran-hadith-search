@@ -2676,6 +2676,12 @@ ataḍu tana mundu paṭhin̄cabaḍē allāh sūcanalanu (āyāt lanu) viṇṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాడెలాంటివాడంటే, తన ముందు అల్లాహ్‌ వాక్యాలను చదివి వినిపించినప్పుడు, వాటిని విని, ఆ తర్వాత అసలు వాటిని విననే లేదన్నట్లుగా అహంకారంతో మొండికేస్తాడు. కనుక అలాంటి వారికి బాధాకరమైన శిక్షపడుతుందన్న వార్తను వినిపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu śatruvulanu vembaḍin̄caṭanlō balahīnatanu pradarśin̄cakaṇḍi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిని వెంబడించటంలో ఏ మాత్రం బలహీనతను ప్రదర్శించకండి. ఒకవేళ మీరు అవిశ్రాంతంగా ఉన్నారను కుంటే మీ మాదిరిగానే వారు కూడా అవిశ్రాంతంగా ఉన్నారు. పైగా అల్లాహ్‌ నుంచి వారు ఆశించని వాటిని మీరు ఆశిస్తున్నారు. అల్లాహ్‌ అన్నీ తెలిసినవాడు, వివేచనాపరుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

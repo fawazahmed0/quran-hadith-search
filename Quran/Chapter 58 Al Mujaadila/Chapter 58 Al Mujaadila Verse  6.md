@@ -2676,6 +2676,12 @@ allāh vārandarini marala bratikin̄ci lēpi, vāru cēsindantā vāriki telip�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ రోజున అల్లాహ్ వారందరినీ తిరిగి లేపుతాడో అప్పుడు వారికి వారు చేసుకున్న కర్మలను తెలియపరుస్తాడు. అల్లాహ్ దాన్ని లెక్కించి పెట్టాడు. వారు మాత్రం దానిని మరచిపోయారు. కాని అల్లాహ్ అన్నింటికీ సాక్షిగా ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

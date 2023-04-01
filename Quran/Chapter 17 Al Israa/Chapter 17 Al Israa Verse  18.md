@@ -2676,6 +2676,12 @@ evaḍu (ihalōka) tātkālika sukhālu kōrukuṇṭāḍō - mēmu kōrina vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవడు తొందరగా లభించే ప్రాపంచిక లాభాలను కోరుకుంటాడో అతనికి మేము ఇహంలో తొందరగానే – మేము తలచిన వానికి తలచినంతగా – ఇస్తాము. ఎట్టకేలకు అతని కోసం మేము నరకాన్ని నియమిస్తాము. అందులోకి వాడు అత్యంత నికృష్ట స్థితిలో, కారుణ్యానికి దూరమైనవాడై ప్రవేశిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

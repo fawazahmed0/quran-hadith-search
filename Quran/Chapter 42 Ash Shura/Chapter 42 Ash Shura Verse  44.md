@@ -2676,6 +2676,12 @@ mariyu, evaḍinaitē allāh mārgabhraṣṭatvanlō paḍanistāḍō! Dāni t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఎవరినయినా దారితప్పిస్తే, ఇక ఆ తరువాత అతన్ని ఆదుకునే వాడెవడూ ఉండడు. మరి నువ్వే చూద్దువు గాని, దుర్మార్గులు శిక్షను చూచినపుడు, “మేము తిరిగి వెళ్ళే మార్గం ఏదైనా ఉందా?!” అని అంటూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

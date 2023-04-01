@@ -2676,6 +2676,12 @@ taruvāta punarut'thāna dinamuna āyana vārini avamānaparustāḍu mariyu vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మళ్ళీ ప్రళయదినాన కూడా అల్లాహ్‌ వారిని పరాభవానికి లోనుచేస్తాడు. “నా భాగస్వాములు ఏరి? వారి గురించి మీరు జగడమాడేవారు కదా?!” అని వారిని ప్రశ్నిస్తాడు. అప్పుడు జ్ఞానమొసగబడిన వారు చెబుతారు -“ఈ రోజు పరాభవం, కీడు పడేది అవిశ్వాసులపైనే” అని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

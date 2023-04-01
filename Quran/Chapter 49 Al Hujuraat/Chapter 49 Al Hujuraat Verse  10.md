@@ -2676,6 +2676,12 @@ vāstavāniki viśvāsulu parasparaṁ sahōdarulu, kāvuna mī sahōdarula madh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులు (ముస్లింలు) అన్నదమ్ములు (అన్న సంగతిని మరువకండి). కనుక మీ అన్నదమ్ముల మధ్య సర్దుబాటుకు ప్రయత్నించండి. అల్లాహ్ కు భయపడుతూ ఉండండి – తద్వారా మీరు కరుణించబడవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

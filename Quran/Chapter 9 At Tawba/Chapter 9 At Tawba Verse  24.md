@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Mī taṇḍritātalu mī kumārulu, mī sōdarulu, mī saha
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “ఒకవేళ మీ తండ్రులు, మీ కుమారులు, మీ సోదరులు, మీ భార్యలు, మీ సమీప బంధువులు, మీరు సంపాదించిన సిరిసంపదలు, కుంటుపడుతుందేమోనని మీరు భయపడే మీ వర్తకం, మీకెంతో ప్రియమైన మీ గృహాలు మీకు అల్లాహ్‌ కన్నా, ఆయన ప్రవక్త కన్నా, ఆయన మార్గంలో సలిపే పోరాటం కన్నా ఎక్కువ ప్రియమైనవైతే అల్లాహ్‌ తీసుకువచ్చే తీర్పు (శిక్ష) కొరకు ఎదురుచూడండి. అల్లాహ్‌ అవిధేయులకు సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

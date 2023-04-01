@@ -2676,6 +2676,12 @@ mīru nannu - allāh nu tiraskarin̄ci - evarini gurin̄caitē nāku elāṇṭi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను అల్లాహ్‌ను తిరస్కరించాలనీ, నేనెరుగని వాటిని ఆయనకు సహవర్తులుగా నిలబెట్టాలని మీరు నన్ను ఆహ్వానిస్తుంటే, నేను మాత్రం మిమ్మల్ని అసాధారణ శక్తిశాలి, క్షమాశీలి (అయిన అల్లాహ్‌) వైపునకు ఆహ్వానిస్తున్నాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

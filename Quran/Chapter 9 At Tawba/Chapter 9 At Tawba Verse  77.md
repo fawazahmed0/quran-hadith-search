@@ -2676,6 +2676,12 @@ a pidapa varu allah to cesina vagdanam purti ceyananduku, asatyam palikinanduku,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఫలితం ఏమయిందంటే, అల్లాహ్‌తో చేసిన వాగ్దానానికి విరుద్ధంగా ప్రవర్తించిన కారణంగానూ, అబద్ధాలు చెబుతూ ఉన్నందుకుగానూ అల్లాహ్‌ వారి హృదయాలలో కాపట్యాన్ని ఉంచాడు. అల్లాహ్‌ను కలుసుకునే రోజు వరకూ అది వారిలో ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

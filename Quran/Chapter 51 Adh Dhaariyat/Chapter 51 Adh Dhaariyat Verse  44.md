@@ -2676,6 +2676,12 @@ appuḍu vāru tama prabhuvu ājñanu upēkṣin̄cāru. Kāvuna vāru cūstū u
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(వారు దారికి రాకుండా) తమ ప్రభువు ఆజ్ఞ పట్ల పెడసరి వైఖరిని ప్రదర్శించారు. తత్కారణంగా వారు చూస్తూ ఉండగానే ఒక భయంకరమైన కేక (ప్రేలుడు) అమాంతం వారిని కబళించింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāri madya śāśvataṅgā, yavvanulugā uṇṭē bāluru tirugutū u�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి చుట్టూ (నవ నవలాడే) పిన్న వయస్కులైన అబ్బాయిలు తిరుగాడుతూ ఉంటారు. వాళ్ళు నిత్యం అబ్బాయిలుగానే ఉంటారు. నీవు వారిని చూసినప్పుడు చెదిరిన ముత్యాలా! అని భావిస్తావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Ej mū'minon, cun az çang ʙa nazdi inho munofiqon ʙozgarded, ʙarojaton savga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు వారి వద్దకు తిరిగి వెళ్ళినప్పుడు, మీరు వారిని వారి మానాన వదలి పెడతారన్న ఉద్దేశంతో, వారు మీ ముందు అల్లాహ్‌పై ప్రమాణాలు చేయటం మొదలెడతారు. కాబట్టి మీరు వాళ్ళను వాళ్ళమానాన వదలిపెట్టండి. వాళ్ళు పరమ అశుద్ధులు. వారు సంపాదించుకున్న దానికి ప్రతిఫలంగా వారి నివాస స్థానం నరకం అవుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

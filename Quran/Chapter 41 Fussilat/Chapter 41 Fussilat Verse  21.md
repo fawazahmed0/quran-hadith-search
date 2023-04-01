@@ -2676,6 +2676,12 @@ mariyu vāru tama carmālanu (avayavālanu) aḍugutāru: "Mīrenduku māku vyat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు మాకు వ్యతిరేకంగా ఎందుకు సాక్ష్యమిచ్చారు?” అని వారు తమ చర్మాలనుద్దేశించి అడుగుతారు. “అన్ని వస్తువులకూ మాట్లాడే శక్తిని ఇచ్చిన అల్లాహ్‌యే మాకూ మాట్లాడే శక్తిని ప్రసాదించాడు. ఆయనే మిమ్మల్ని తొలిసారి పుట్టించాడు. మరి ఆయన వైపునకే మీరంతా మరలించబడతారు” అని సమాధానమిస్తాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

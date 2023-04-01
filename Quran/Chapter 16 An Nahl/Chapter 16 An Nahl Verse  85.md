@@ -2676,6 +2676,12 @@ Mariyu durmārgulu ā śikṣanu cūsinappuḍu, adi vāri koraku taggin̄caḍa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ దుర్మార్గులు శిక్షను చూసినప్పుడు దాన్ని వారి నుంచి తేలిక చేయటంగానీ, వారికి విడుపు ఇవ్వటంగానీ జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

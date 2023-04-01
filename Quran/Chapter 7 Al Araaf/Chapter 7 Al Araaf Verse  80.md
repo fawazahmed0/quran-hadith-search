@@ -2676,6 +2676,12 @@ ita lūt! Atanu tana jāti vāritō: "Ēmī? Mīru intaku pūrvaṁ prapan̄canl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము లూతు (అలైహిస్సలామ్‌)ను పంపాము. అతను తన జాతివారిని ఉద్దేశించి, “మీరు ఇంత సిగ్గుమాలిన చేష్టకు పాల్పడుతున్నారేమిటి? మీకు పూర్వం లోకంలో ఎవరూ ఇలాంటి పాడు పని చెయ్యలేదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

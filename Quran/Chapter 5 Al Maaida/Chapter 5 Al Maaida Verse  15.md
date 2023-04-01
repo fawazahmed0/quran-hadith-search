@@ -2676,6 +2676,12 @@ o grantha prajalara! Vastavanga ma pravakta (muham'mad) mi vaddaku vacci vunnadu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ గ్రంథవహులారా! మీ వద్దకు మా ప్రవక్త (సఅసం) వచ్చేశాడు. మీరు కప్పిపుచ్చుతూ ఉండిన గ్రంథంలోని ఎన్నో విషయాలను అతను మీ ముందు విపులీకరిస్తున్నాడు. మరెన్నో విషయాలను ఉపేక్షిస్తున్నాడు. అల్లాహ్‌ తరఫు నుంచి మీ వద్దకు జ్యోతి వచ్చేసింది. అంటే, స్పష్టమైన గ్రంథం వచ్చేసింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

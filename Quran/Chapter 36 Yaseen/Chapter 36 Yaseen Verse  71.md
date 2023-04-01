@@ -2676,6 +2676,12 @@ emi, variki teliyada? Niscayanga, memu variki vari koraku ma cetulato pasuvulanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మా స్వహస్తాలతో చేసిన వాటిలో వారికొరకు చతుష్పాదాలు (కూడా) సృజించబడి ఉండటాన్ని వారు గమనించటం లేదా? మరి (చూస్తే) వాటికి వారు యజమానులుగా ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

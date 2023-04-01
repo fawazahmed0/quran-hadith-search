@@ -2676,6 +2676,12 @@ Mo ʙa tu (ej Muhammad (sallallohu alajhi va sallam) vahj firistodem, hamcunon k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) మేము నూహ్‌ వైపుకు, అతని తరువాత వచ్చిన ప్రవక్తల వైపుకు వహీ పంపినట్లే (వాణిని అవతరింపజేసినట్లే) నీ వైపుకూ వహీ పంపాము. ఇంకా మేము ఇబ్రాహీము, ఇస్మాయీలు, ఇస్‌హాఖు, యాకూబు మరియు అతని సంతతి వారికి, ఈసా, అయ్యూబు, యూనుసు, హారూను, సులైమానుల వైపుకు కూడా వహీ పంపాము. ఇంకా మేము దావూదుకు జబూరు (గ్రంథం) వొసగాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

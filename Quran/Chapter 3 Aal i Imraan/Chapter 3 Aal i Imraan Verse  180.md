@@ -2676,6 +2676,12 @@ allāh tana anugrahantō prasādin̄cina dānilō lōbhaṁ vahin̄cē vāru, ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ తన కృపతో ప్రసాదించిన దానిలో పిసినారులుగా ప్రవర్తించేవారు, ఆ పిసినారితనం తమ పాలిట మేలైనదని భావించరాదు. వాస్తవానికి అది వారి పాలిట హానికరం. పిసినారి తనంతో వారు కూడబెట్టుకున్న వస్తువే ప్రళయదినాన వారి మెడకు గుదిబండగా మారుతుంది. భూమ్యాకాశాల వారసత్వం అల్లాహ్‌కే చెందుతుంది. మీరు చేసేదంతా అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

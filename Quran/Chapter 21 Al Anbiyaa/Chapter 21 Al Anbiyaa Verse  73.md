@@ -2676,6 +2676,12 @@ mariyu mēmu vārini nāyakulugā cēśāmu. Vāru prajalaku mā ājña prakāra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా – మా ఆదేశానుసారం ప్రజలకు మార్గదర్శకత్వం వహించటానికి మేము వారిని ఇమాములు (నాయకులు)గా తీర్చిదిద్దాము. పుణ్యకార్యాలు చేస్తూ ఉండాలనీ, నమాజులను నెలకొల్పుతూ ఉండాలనీ, జకాత్‌ (దానాన్ని) చెల్లిస్తూ ఉండాలనీ మేము వారికి సూచించాము (వారి వైపుకు వహీ పంపాము). వారంతా మమ్మల్నే ఆరాధించేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

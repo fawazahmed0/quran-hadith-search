@@ -2676,6 +2676,12 @@ ataṟkavarkaḷ kūṟiṉārkaḷ: ‘‘ (Ataṉāl eṅkaḷukku) oru pātak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు ఇలా అన్నారు : “మరేమీ ఫరవాలేదు. మేమెలాగూ మా ప్రభువు వద్దకు మరలి వెళ్ళవలసిన వారమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ o adam santanama! Milo nunce mi vaddaku na sucanalanu vinipince pravaktalu vacci
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ఆదం సంతతివారలారా! ఒకవేళ మీలో నుంచే (నియుక్తులైన) ప్రవక్తలు మీవద్దకు వచ్చి, నా ఆదేశాలను వారు మీకు వినిపించినపుడు భయభక్తుల (తఖ్వా) వైఖరిని అవలంబించి, తమ్ము తాము సరిదిద్దుకున్న వారికి భయంగానీ, దుఃఖంగానీ ఉండదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

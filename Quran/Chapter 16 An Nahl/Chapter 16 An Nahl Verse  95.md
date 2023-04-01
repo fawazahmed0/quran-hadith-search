@@ -2676,6 +2676,12 @@ mariyu mīru allāh tō cēsina vāgdānānni spalpalābhāniki am'mukōkaṇḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అల్లాహ్‌తో చేసిన వాగ్దానాన్ని కొద్దిపాటి మూల్యానికి అమ్మివేయకండి. గుర్తుంచుకోండి! మీరు గనక తెలుసుకోగలిగితే అల్లాహ్‌ వద్ద ఉన్నదే మీ కొరకు శ్రేయోదాయకమైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

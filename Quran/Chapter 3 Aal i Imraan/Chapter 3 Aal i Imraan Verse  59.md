@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh dr̥ṣṭilō īsā upamānaṁ, ādam upamānaṁ vaṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ దృష్టిలో ఈసా ఉపమానం ఆదం ఉపమానాన్ని పోలినదే. (ఆయన) అతన్ని మట్టితో చేసి ‘అయిపో’ అని ఆజ్ఞాపించగానే అతను (మనిషిగా) అయిపోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ viśvāsulaina puruṣulanu mariyu viśvāsulaina strīlanu krinda selayēḷḷ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన పురుషులను, విశ్వసించిన స్త్రీలను క్రింద కాలువలు ప్రవహించే స్వర్గవనాలలో ప్రవేశింపజేయడానికి, వారక్కడ కలకాలం ఉండేటందుకు, వారి పాపాలను వారినుండి తొలగించేటందుకు (అల్లాహ్ వారికి ఈ స్థిమితాన్ని ప్రసాదించాడు). అల్లాహ్ సన్నిధిలో ఇదే గొప్ప విజయం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

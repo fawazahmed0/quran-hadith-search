@@ -2676,6 +2676,12 @@ mariyu phitnā mugisipōyē varaku mariyu allāh dharmaṁ mātramē sthāpin̄c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పీడన (ఫిత్నా) సమసిపోనంతవరకూ, దైవధర్మానిది పైచేయి కానంతవరకూ వారితో పోరాడుతూనే ఉండండి. ఒకవేళ వారు యుద్ధాన్ని విరమిస్తే (మీరూ విరమించండి). మెడలు వంచ వలసింది దౌర్జన్యపరులవే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

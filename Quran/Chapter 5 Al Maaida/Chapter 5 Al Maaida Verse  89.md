@@ -2676,6 +2676,12 @@ mīru uddēśaṁ lēkuṇḍānē cēsina pramāṇālanu gurin̄ci allāh mim'
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు చేసే అర్థంలేని ప్రమాణాలను గురించి అల్లాహ్‌ మిమ్మల్ని నిలదీయడు. అయితే మీరు పటిష్టపరచిన ప్రమాణాలను గురించి ఆయన మిమ్మల్ని తప్పకుండా నిలదీస్తాడు. (అటువంటి ప్రమాణభంగానికి మీరు చెల్లించవలసిన) పరిహారం ఏమిటంటే, మీరు మీ ఇంటి వారికి పెట్టే మధ్యరకపు అన్నం పది మంది పేదలకు తినిపించాలి లేదా వారికి బట్టలుపెట్టాలి లేదా ఒక బానిసకో, బానిసరాలికో స్వేచ్ఛనొసగాలి. ఇవేవీ చేయలేనివారు మూడు రోజులపాటు ఉపవాసం పాటించాలి – మీరు ప్రమాణాలు చేసినప్పుడు (వాటిని భంగపరచినందుకు గాను ఇచ్చే) ప్రమాణాల పరిహారం ఇది. అందుకే మీరు ప్రమాణాల విషయంలో చాలా జాగ్రత్తగా ఉండండి. ఈ విధంగా మీరు కృతజ్ఞతాపూర్వకంగా మసలుకునేందుకుగాను అల్లాహ్‌ మీకోసం తన ఆదేశాలను తేటతెల్లం చేస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

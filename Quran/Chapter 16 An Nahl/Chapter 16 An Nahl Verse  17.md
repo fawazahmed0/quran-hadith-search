@@ -2676,6 +2676,12 @@ sr̥ṣṭin̄cēvāḍū asalu ēmī sr̥ṣṭin̄calēni vāḍū samānulā?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, (సర్వాన్నీ) సృష్టించేవాడూ – ఏమీ సృష్టించలేనివాడు ఇద్దరూ ఒకటేనా? మీరు బొత్తిగా ఆలోచించరా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

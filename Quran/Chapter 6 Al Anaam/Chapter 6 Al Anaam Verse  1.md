@@ -2676,6 +2676,12 @@ akasalanu mariyu bhumini srstinci; cikatlanu mariyu velugunu nelakolipina allah 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రశంసలు, పొగడ్తలన్నీ భూమ్యాకాశాలను పుట్టించిన అల్లాహ్‌కు మాత్రమే శోభిస్తాయి. మరి ఆయనే చీకట్లనూ, వెలుగునూ తయారు చేశాడు. అయినప్పటికీ అవిశ్వాసులు (ఇతరులను) తమ ప్రభువుకు సమానులుగా నిలబెడుతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

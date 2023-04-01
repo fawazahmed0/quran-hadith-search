@@ -2676,6 +2676,12 @@ mariyu nīvu nī prabhuvu nāmānni smaristū uṇḍu. Mariyu atyanta śradthat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అందుకే నీవు నీ ప్రభువు నామాన్ని స్మరిస్తూ ఉండు. అన్నింటినీ వదలి ఆయన వైపే మనసును లగ్నం చేయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

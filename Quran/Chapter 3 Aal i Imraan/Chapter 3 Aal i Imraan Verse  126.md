@@ -2676,6 +2676,12 @@ Allāh mīku ī viṣayānni telipindi mīku śubhavārta ivvaṭāniki mariyu m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మీ కొరకు దీనిని శుభవార్తగానూ, ఇంకా మీ మనోనిబ్బరం కోసం జరిగే ఏర్పాటుగానూ చేశాడు. యదార్థానికి అసలు సహాయం మాత్రం అల్లాహ్‌ తరఫు నుంచి లభించేదే. ఆయన సర్వాధిక్యుడు, వివేచనాపరుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

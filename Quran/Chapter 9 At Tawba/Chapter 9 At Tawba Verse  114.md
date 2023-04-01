@@ -2676,6 +2676,12 @@ mariyu ibrāhīm tana taṇḍri kṣamāpaṇa koraku prārthin̄cindi kēvala�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఇబ్రాహీము (అలైహిస్సలాం) తన తండ్రి మన్నింపుకై ప్రార్థించాడంటే, అతను తండ్రికిచ్చిన మాటప్రకారం అలా చేశాడు. అయితే అతని తండ్రి అల్లాహ్‌ విరోధి అని స్పష్టమవగానే అతని పట్ల విసిగిపోయాడు. నిశ్చయంగా ఇబ్రాహీము (అలైహిస్సలాం) మృదుమనస్కుడు, సహనశీలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

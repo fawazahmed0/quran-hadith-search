@@ -2676,6 +2676,12 @@ kāni vāri taruvāta vaccina, vāri santati vāru kondaru, namāj lanu viḍici
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత కొందరు అనర్హులు వచ్చి, నమాజులను వృధా చేశారు, మనోవాంఛలను అనుసరించసాగారు. తమకు కలిగిన నష్టం గురించి వారు మున్ముందు చూసుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu ibrāhīm tana santānānni dīnilōnē (ī islāṁ mārganlōnē) naḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ ఉపదేశమే ఇబ్రాహీం మరియు యాఖూబ్‌ తమ సంతానానికి చేశారు. (వారిలా అన్నారు:) “నా బిడ్డలారా! అల్లాహ్‌ మీ కోసం ఈ (విధేయతా) ధర్మాన్నే ఇష్టపడ్డాడు. కనుక మీరు ముస్లింలుగా తప్ప మరణించకూడదు సుమా!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

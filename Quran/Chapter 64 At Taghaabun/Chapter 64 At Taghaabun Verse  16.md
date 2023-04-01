@@ -2676,6 +2676,12 @@ Kāvuna mīru mī śakti mēraku allāh yandu bhayabhaktulu kaligi uṇḍi, (ā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి శాయశక్తులా మీరు అల్లాహ్ కు భయపడుతూ ఉండండి. (ఆజ్ఞలను) వినండి, విధేయత చూపండి. (దైవమార్గంలో) ఖర్చు చేస్తూ ఉండండి. ఇది స్వయంగా మీకే శ్రేయస్కరం. ఎవరైతే తమ ఆత్మ లోభత్వం నుండి రక్షించబడ్డారో వారే సాఫల్య భాగ్యం పొందినవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

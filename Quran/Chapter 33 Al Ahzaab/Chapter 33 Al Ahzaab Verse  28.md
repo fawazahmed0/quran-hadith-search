@@ -2676,6 +2676,12 @@ O pravakta! Nivu ni bharyalato ila anu: "Okavela miru prapancika jivitanni mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! నీ భార్యలకు ఇలా చెప్పు: “మీరు గనక ప్రాపంచిక జీవితాన్ని, దాని తళుకు బెళుకులను కోరుకుంటూ ఉన్నట్లయితే, రండి, నేను మీకు ఎంతో కొంత ఇచ్చి, మిమ్మల్ని ఉత్తమరీతిలో సాగనంపుతాను –
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

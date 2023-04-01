@@ -2676,6 +2676,12 @@ Mariyu ākāśāla mariyu bhūmi yokka sāmrājyādhipatyaṁ kēvalaṁ allāh 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాల సార్వభౌమత్వం అల్లాహ్‌కే చెందుతుంది. ఏ రోజున ప్రళయ ఘడియ నెలకొంటుందో ఆనాడు అసత్యవాదులు తీవ్రంగా నష్టపోతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

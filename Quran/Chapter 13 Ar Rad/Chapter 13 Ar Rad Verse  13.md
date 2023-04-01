@@ -2676,6 +2676,12 @@ mariyu urumu āyana pavitratanu koniyāḍutundi. Āyana stōtraṁ cēstundi; m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఉరుము సయితం ఆయన పవిత్రతను కొనియాడుతోంది, ఆయన్ని ప్రశంసిస్తోంది. దూతలు కూడా ఆయన భీతివల్ల ఆయన్ని స్తుతిస్తున్నారు. ఆయనే పిడుగులను పంపి, తాను కోరినవారిపై పడవేస్తున్నాడు. అవిశ్వాసులు అల్లాహ్‌ విషయంలో పిడి వాదానికి దిగుతున్నారు! ఆయన మహా శక్తిమంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

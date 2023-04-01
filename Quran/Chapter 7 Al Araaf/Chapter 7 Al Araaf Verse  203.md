@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Nīvu vāriki ēdainā sūcananu tēlēka pōyinappuḍu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీవు వారి ముందు ఏదైనా మహిమను ప్రదర్శించకపోతే,”నువ్వీ మహిమను ఎందుకు తేలేదు?” అని వారంటారు. “నా ప్రభువు తరఫునుంచి నాకు పంపబడిన ఆదేశాన్ని మాత్రమే నేను అనుసరిస్తాను. విశ్వసించేవారికి ఇందులో (దివ్య ఖుర్‌ఆన్‌లో) మీ ప్రభువు తరఫు నుంచి ఎన్నో నిదర్శనాలున్నాయి. ఇది మార్గదర్శకత్వం మరియు కారుణ్యం “ అని ఓ ప్రవక్తా! వారికి తెలియజెయ్యి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

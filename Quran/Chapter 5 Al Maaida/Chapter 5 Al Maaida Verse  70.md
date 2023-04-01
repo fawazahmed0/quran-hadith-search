@@ -2676,6 +2676,12 @@ vāstavāniki mēmu isrāyīl santati vāri nuṇḍi oka gaṭṭi pramāṇān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఇస్రాయీలు సంతతి వారి నుండి గట్టి వాగ్దానం తీసుకున్నాము. వారి వద్దకు ప్రవక్తలను పంపాము. కాని వారి మనోభీష్టానికి విరుద్ధమైన ఆదేశాలను ప్రవక్తలు వారి వద్దకు తీసుకువచ్చినప్పుడల్లా వారు ప్రవక్తలలో కొందరిని ధిక్కరించారు, మరికొందరిని హత్య చేస్తూ ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Vāritō anu: "Mīru (mī pani) cēstū uṇḍaṇḍi, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు : “మీ పనులు మీరు చేస్తూపోండి. మీ పనులను అల్లాహ్‌ స్వయంగా చూస్తాడు. ఆయన ప్రవక్త మరియు విశ్వాసులు కూడా (చూస్తారు). గోప్యమైన వాటినీ, బహిరంగమైన వాటినీ ఎరిగిన వాని వద్దకు మీరు ఎలాగూ మరలక తప్పదు. మీరు చేస్తూ ఉన్న దాన్నంతటినీ ఆయన మీకు తెలియజేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

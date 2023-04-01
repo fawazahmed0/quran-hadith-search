@@ -2676,6 +2676,12 @@ a roju memu vari nolla mida mudra vestamu. Mariyu varemi arjincaro vari cetulu m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ రోజు మేము వారి నోళ్ళకు సీలు వేస్తాము. వారి చేతులు మాతో మాట్లాడతాయి. వారు చేసిన పనుల గురించి వారి కాళ్లు సాక్ష్యమిస్తాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

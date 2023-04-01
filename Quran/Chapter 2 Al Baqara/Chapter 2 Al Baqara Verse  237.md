@@ -2676,6 +2676,12 @@ mariyu mīru tākaka pūrvamē mī strīlaku viḍākulistē mariyu vāstavānik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు స్త్రీలను ముట్టుకోక ముందే విడాకులిచ్చేస్తే, అప్పటికే వారి ‘మహర్‌’ సొమ్ము కూడా నిర్ణయించబడి ఉంటే, నిర్ణీత మహర్‌లో సగం సొమ్ము వారికి ఇవ్వండి. ఒకవేళ వారు (స్త్రీలు) ఆ సొమ్మును కూడా మన్నించి వదలిపెడితే లేక వివాహ బంధం తన చేతిలో ఉన్న వ్యక్తి (పురుషుడు తాను పెళ్ళి సందర్భంగా యిచ్చిన మహర్‌ సొమ్మును) క్షమించివేస్తే అది వేరే విషయం. మీ మన్నింపుల వైఖరి దైవభక్తికి చాలా సన్నిహిత మైనది. ఒండొకరి పట్ల ఔదార్యం చూపటాన్ని విస్మరించకండి. నిస్సందేహంగా అల్లాహ్‌ మీ కర్మలను గమనిస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

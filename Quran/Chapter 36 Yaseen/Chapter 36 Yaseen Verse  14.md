@@ -2676,6 +2676,12 @@ mēmu vāri vaddaku iddarini pampagā vāru ā iddarinī abad'dhīkulani tiraska
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారి వద్దకు ఇద్దరిని (అంటే ఇద్దరు ప్రవక్తలను) పంపగా (మొదట) ఆ ఇద్దరినీ వారు ధిక్కరించారు. మరి వారికి (ఆ ఇద్దరికి) అండగా మేము మూడవ వానిని పంపగా, “మేము మీ దగ్గరకు ప్రవక్తలుగా పంపబడ్డాము” అని వారు (ఆ పట్టణ ప్రజలతో) అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

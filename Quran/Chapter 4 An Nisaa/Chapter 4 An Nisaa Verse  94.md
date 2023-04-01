@@ -2676,6 +2676,12 @@ o visvasulara! Miru allah marganlo (jihad ku) bayaluderi nappudu vivecanato vyav
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు దైవమార్గంలో వెళ్తున్నప్పుడు నిజానిజాలను తెలుసుకొని వ్యవహరించండి. ఎవరయినా మీకు సలాం చేస్తే దానికి సమాధానంగా ‘నీవు విశ్వాసివి కావు’ అని అనకండి. మీరు ప్రాపంచిక జీవన సామగ్రిని అన్వేషించటంలో పడి ఉన్నారేమో! అయితే అల్లాహ్‌ వద్ద విజయధనం పుష్కలంగా ఉంది. లోగడ మీరు కూడా ఇలాగే ఉండేవారు. కాని తరువాత అల్లాహ్‌ మిమ్మల్ని కటాక్షించాడు. కనుక మీరు విషయాన్ని పరికించి మరీ మసలుకోండి. నిస్సందేహంగా అల్లాహ్‌కు మీరు చేసేదంతా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ atani (ibrāhīm) bhārya (akkaḍē) nilabaḍi uṇḍenu; appuḍāme navvind
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అక్కడ నిలబడి ఉన్న అతని భార్య నవ్వేసింది. ఆ సమయంలో మేము ఆమెకు ఇస్‌హాఖ్‌ గురించి, ఇస్‌హాఖు తరువాత యాఖూబు గురించిన శుభవార్తను వినిపించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

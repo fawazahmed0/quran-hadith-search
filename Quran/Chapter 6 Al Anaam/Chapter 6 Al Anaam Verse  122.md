@@ -2676,6 +2676,12 @@ mariyu ēmī? Oka maraṇin̄cina vyaktini (aviśvāsini), mēmu sajīvunigā (v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మృతుడుగా ఉన్న ఒక వ్యక్తికి మేము జీవితం ప్రసాదించి, అతనికి జ్యోతి నొసగగా, దానిని పుచ్చుకుని అతను జనుల మధ్య సంచరిస్తున్నాడు. ఇలాంటి వ్యక్తి, కటిక చీకట్లలో కూరుకుపోయి వాటి నుండి ఏమాత్రం బయటపడలేని వ్యక్తి లాంటివాడా? ఇదే విధంగా సత్యతిరస్కారులకు వారి పనులు వారికెంతో అందమైనవిగా తోస్తాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

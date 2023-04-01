@@ -2676,6 +2676,12 @@ vinaya vidhēyata (dharmaniṣṭhāparatvaṁ) aṇṭē mīru mī mukhālanu t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు మీ ముఖాలను తూర్పు దిక్కుకో, పడమర దిక్కుకో తిప్పటమే సదాచరణ కాదు. సదాచరణ అంటే వాస్తవానికి అల్లాహ్‌ను, అంతిమ దినాన్నీ, దైవదూతలనూ, దైవగ్రంథాన్నీ, దైవ ప్రవక్తలనూ విశ్వసించటం. ధనప్రీతి ఉన్నప్పటికీ సమీప బంధువులకు, అనాధలకు, అగత్యపరులకు, బాటసారులకు, యాచించే వారికి (ధనాన్ని) ఇవ్వటం, బానిసలకు విముక్తి నొసగటం, నమాజును నెలకొల్పటం, జకాతును చెల్లిస్తూ ఉండటం, ఇచ్చిన మాటను నిలుపుకోవటం, లేమిలో కష్టకాలంలో, యుద్ధ సమయాలలో సహన స్థయిర్యాలను కనబరచటం- ఇవన్నీ కలిగి వున్నవారే వాస్తవానికి సత్యమూర్తులు. భయభక్తులు కలవారు కూడా వీరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

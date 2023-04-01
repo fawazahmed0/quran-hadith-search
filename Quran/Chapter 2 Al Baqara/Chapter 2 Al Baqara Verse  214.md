@@ -2676,6 +2676,12 @@ emi? Miru (sulabhanga) svarganlo pravesincagalamani bhavistunnara? Mi purvikulu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, మీరు స్వర్గంలో ఇట్టే ప్రవేశించగలమని అనుకుంటున్నారా? వాస్తవానికి మీకు పూర్వం గతించిన వారికి ఎదురైనటువంటి పరిస్థితులు మీకింకా ఎదురు కానేలేదు. వారిపై కష్టాలు, రోగాలు వచ్చిపడ్డాయి. వారు ఎంతగా కుదిపి వేయబడ్డారంటే, (ఆ ధాటికి తాళలేక) “ఇంతకీ దైవసహాయం ఎప్పుడొస్తుంది?” అని ప్రవక్తలు, వారి సహచరులు ప్రశ్నించసాగారు. “వినండి! దైవ సహాయం సమీపంలోనే ఉంది” (అని వారిని ఓదార్చటం జరిగింది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

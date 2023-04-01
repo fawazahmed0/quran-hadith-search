@@ -2676,6 +2676,12 @@ vāru jarī pani astarugala paṭṭu tivācīla mīda ānukoni kūrconi uṇṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు (స్వర్గవాసులు) దళసరి పట్టు వస్త్రపు అస్తరుగల పరుపులపై దిండ్లకు ఆనుకుని (దర్జాగా) ఆసీనులై ఉంటారు. ఆ రెండు తోటల పండ్లు ఫలాలు (వారికి) మరీ దగ్గరగా ఉంటాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

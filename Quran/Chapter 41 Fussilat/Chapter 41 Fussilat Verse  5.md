@@ -2676,6 +2676,12 @@ mariyu vāru ilā annāru: "Nīvu dēnivaipunakaitē mam'malni pilustunnāvō, d
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలా అన్నారు : “నువ్వు దేని వైపుకు మమ్మల్ని పిలుస్తున్నావో దానికి సంబంధించి మా హృదయాలు తెరలలో ఉన్నాయి. మా చెవులలో భారం ఉంది. నీకూ – మాకూ మధ్య ఒక (అడ్డు) తెర ఉంది. కాబట్టి నీ పనేదో నువ్వు చేసుకో. మా పనిని మేము చేసి తీరుతాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

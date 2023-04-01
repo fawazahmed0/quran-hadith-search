@@ -2676,6 +2676,12 @@ mariyu man̄cī mariyu ceḍulu sarisamānaṁ kājālavu. (Ceḍunu) man̄citō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మంచీ – చెడు (ఎట్టి పరిస్థితిలోనూ) సమానం కాలేవు. (ఓ ప్రవక్తా!) చెడును మంచి ద్వారా తొలగించు. ఆ తరువాత (నువ్వే చూద్దువుగాని), నీకూ- తనకూ మధ్య బద్ధవిరోధం ఉన్న అతను సైతం నీకు ప్రాణస్నేహితుడైపోతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

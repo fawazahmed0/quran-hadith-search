@@ -2676,6 +2676,12 @@ kāni vāru - dāni jñānānni imuḍcukonaka mundē mariyu dāna vyākhyāna�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పైగా వారు తమ జ్ఞానపరిధిలోకి తీసుకోని దానిని అసత్యమని ధిక్కరించారు. ఇంకా దాని అంతిమ ఫలితం వారి ముందుకు రాలేదు. వారికి పూర్వం గతించిన వారు కూడా ఇలాగే ధిక్కరించారు. మరి ఆ దుర్మార్గులకు పట్టిన గతేమిటో చూడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

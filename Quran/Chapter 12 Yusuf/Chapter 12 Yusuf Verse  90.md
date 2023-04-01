@@ -2676,6 +2676,12 @@ vārannāru: "Ēmiṭi? Vāstavāniki nīvē yūsuph vā?" Atanu javābiccāḍu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ, (నిజంగా) నువ్వు యూసుఫువేనా?!” అని వారు ఆశ్చర్యపోయారు. “అవును. నేను యూసుఫ్‌నే. ఇతను (బిన్‌ యామిన్‌) నా సోదరుడు. అల్లాహ్‌ మాపై దయదలిచాడు. అసలు విషయం ఏమిటంటే భయభక్తులతో, సహన స్థయిర్యాలతో మెలిగే సజ్జనుల ప్రతిఫలాన్ని అల్లాహ్‌ వృధా పోనివ్వడు” అని యూసుఫ్‌ చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

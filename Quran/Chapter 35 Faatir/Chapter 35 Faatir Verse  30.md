@@ -2676,6 +2676,12 @@ Idantā allāh vāri pratiphalānni pūrtigā vāriki ivvālanī mariyu tana anu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి వారి ప్రతిఫలాలు (అల్లాహ్‌) పూర్తిగా ఇవ్వటానికి, తన కృపతో ఆయన వారికి మరింతగా ప్రసాదించటానికిగాను (వారు ఈ విధానాన్ని అవలంబిస్తున్నారు). నిశ్చయంగా ఆయన అమితంగా క్షమించేవాడు, సన్మానించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

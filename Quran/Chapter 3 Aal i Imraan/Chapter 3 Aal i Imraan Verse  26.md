@@ -2676,6 +2676,12 @@ Ilā anu: "Ō allāh, viśva sāmrājyādhipati! Nīvu iṣṭapaḍina vāriki 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) ఈ విధంగా పలుకు: ”ఓ అల్లాహ్‌! విశ్వ రాజ్యాధిపతీ! నీవు కోరినవారికి రాజ్యాధికారం ఇస్తావు. నీవు కోరినవారి నుండి రాజ్యాన్ని లాక్కుంటావు. నీవు కోరిన వారికి గౌరవమొసగుతావు. నీవు కోరిన వారిని పరాభవానికి గురి చేస్తావు. సమస్త మేళ్లూ నీ చేతిలోనే ఉన్నాయి. నిశ్చయంగా నీవు ప్రతి వస్తువుపైన అధికారం కలవాడవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

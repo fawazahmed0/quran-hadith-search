@@ -2676,6 +2676,12 @@ a paraloka jivitapu grhanni memu bhumilo peddarikam cupagorani vari koraku mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరు భువిలో బడాయిని ప్రదర్శించకుండా, కల్లోలాన్ని రేకెత్తించకుండా ఉంటారో వారి కోసమే మేము ఈ పరలోక నెలవును ప్రత్యేకించాము. సత్ఫలితం భయభక్తులు గల వారి కొరకే సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

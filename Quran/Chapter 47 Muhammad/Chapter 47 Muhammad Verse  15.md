@@ -2676,6 +2676,12 @@ Bhayabhaktulu galavāriki vāgdānaṁ cēyabaḍina svargaṁ yokka udāharaṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భయభక్తులు గలవారికి వాగ్దానం చేయబడిన స్వర్గ విశిష్టత ఇలా ఉంటుంది: దుర్వాసనకు (కాలుష్యానికి) తావులేని నీటి కాలువలు ఉన్నాయి. రుచిలో మార్పురాని పాల కాలువలు కూడా ఉన్నాయి. త్రాగే వారికి మృదు మధురంగా ఉండే మద్యం కాలువలు కూడా ఉన్నాయి. ఇంకా వారికోసం అందులో అన్ని రకాల పండ్లు ఫలాలు కూడా ఉన్నాయి. అంతేకాదు, వారి ప్రభువు తరఫునుంచి మన్నింపు కూడా ఉంది. ఏమిటి, ఈ అనుగ్రహాలను పొందినవాడు ఎల్లకాలం అగ్నిలో మాడుతూ ఉండేవాని మాదిరిగా, పేగులను సయితం ముక్కలు ముక్కలుగా చేసి వేసేటటువంటి సలసలా కాగే నీరు ఇవ్వబడే వారి మాదిరిగా కాగలడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

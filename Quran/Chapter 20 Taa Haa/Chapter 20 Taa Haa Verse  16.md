@@ -2676,6 +2676,12 @@ kāvuna dānini viśvasin̄cakuṇḍā, tana manōvān̄chalanu anusarin̄cēv�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అయితే దానిని నమ్మకుండా, తన కోర్కెల వెనుక పరుగెత్తే వాడు ఎవడయినా నిన్ను ఆ విషయంలో అడ్డు తగలకూడదు సుమా! అన్యధా నువ్వు కూడా వినాశానికి గురవుతావు (జాగ్రత్త!)”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

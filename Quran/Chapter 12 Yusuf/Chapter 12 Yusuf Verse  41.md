@@ -2676,6 +2676,12 @@ o na iddaru cerasala sahacarulara! Milo okadu tana yajamaniki madyapanam (sarayi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“చెరసాల జీవితం గడుపుతున్న నా సహవాసులారా! మీరిద్దరిలో ఒకడు తన చక్రవర్తికి మధువును పోయడానికి నియమించబడతాడు. మరొకతను శిలువ వేయబడతాడు. పక్షులు అతని తలను పొడిచితింటాయి. మీరిద్దరూ ఏ విషయం గురించి వాకబు చేశారో దాని నిర్ణయం జరిగిపోయింది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

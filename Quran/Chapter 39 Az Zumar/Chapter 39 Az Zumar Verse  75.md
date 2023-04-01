@@ -2676,6 +2676,12 @@ mariyu daivadūtalanu tama prabhuvu pavitratanu koniyāḍutū, āyananu stutist
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి నువ్వు, దైవదూతలు దైవ సింహాసనం చుట్టూ చేరి, తమ ప్రభువు పవిత్రతను కొనియాడటాన్ని, స్తోత్రం చేయటాన్ని చూస్తావు. వారి మధ్య న్యాయబద్ధంగా తీర్పు చేయబడుతుంది. “సకల లోకాల ప్రభువైన అల్లాహ్‌కే సర్వస్తోత్రాలు” అని అనబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mēmu ataniki, mī yud'dhālalō, mī rakṣaṇa koraku kavacālu tayār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ కోసం ఒక (ప్రత్యేక) వస్త్రాన్ని అల్లే కళను మేమతనికి నేర్పాము – తద్వారా మీరు యుద్ధంలో (వేటు పడకుండా) రక్షణ పొందటానికి! మరి మీరు కృతజ్ఞులుగా మసలుకుంటున్నారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

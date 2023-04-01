@@ -2676,6 +2676,12 @@ vāstavāniki allāh mī pramāṇāla parihāra pad'dhati mīku nirdēśin̄cā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అనుచితమైన) మీ ప్రతిజ్ఞలను మీరు ఉపసంహరించుకోవటాన్ని అల్లాహ్ విధిగా ఖరారు చేశాడు సుమా! అల్లాహ్ యే మీ సంరక్షకుడు. ఆయనే సర్వజ్ఞాని, వివేక సంపన్నుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

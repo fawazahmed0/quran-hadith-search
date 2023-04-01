@@ -2676,6 +2676,12 @@ ilāṇṭi vārē tama sahanaśīlataku pratiphalaṅgā (svarganlō) unnata st
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలాంటి వారికే వారి సహన స్థయిర్యాలకు బదులుగా స్వర్గంలోని అత్యున్నత స్థానాలు వొసగబడతాయి. అక్కడ సలాం, దీవెనలతో వారికి స్వాగత సత్కారాలు లభిస్తాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

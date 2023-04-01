@@ -2676,6 +2676,12 @@ mariyu evaraitē (ō muham'mad!) Nīpai avatarimpa jēyabaḍina dānini (ī khu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము నీ వైపుకు (అంటే ప్రవక్త వైపుకు) అవతరింపజేసిన దానినీ, నీకు పూర్వం అవతరింపజేసిన వాటినీ వారు విశ్వసి స్తారు. పరలోకం పట్ల కూడా వారు దృఢనమ్మకం కలిగిఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

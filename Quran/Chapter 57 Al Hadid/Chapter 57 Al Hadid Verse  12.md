@@ -2676,6 +2676,12 @@ A dinamuna nivu visvasulaina purusulanu mariyu visvasulaina strilanu custe, vari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు (ప్రళయదినాన) విశ్వాసులైన పురుషులను, విశ్వాసులైన స్త్రీలను నీవు చూస్తావు. వారి కాంతి వారికి ముందు వైపున, కుడి వైపున పరిగెడుతూ ఉంటుంది. “ఈ రోజు మీకో శుభవార్త! క్రింద కాలువలు ప్రవహించే స్వర్గవనాలు మీ కోసం ఉన్నాయి. అందులో మీరు కలకాలం ఉంటారు. ఇదే గొప్ప సాఫల్యం!” (అని వారితో అనబడుతుంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

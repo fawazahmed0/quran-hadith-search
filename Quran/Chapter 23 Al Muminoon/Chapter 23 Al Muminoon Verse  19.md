@@ -2676,6 +2676,12 @@ taruvāta dāni dvārā mēmu mī koraku kharjūrapu tōṭalanu drākṣatōṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆ నీటి ద్వారా మేము మీకోసం ఖర్జూరపు తోటలను, ద్రాక్షతోటలను ఉత్పన్నం చేశాము. మీ కొరకు వాటిలో ఎన్నో పండ్లు ఫలాలు ఉన్నాయి. వాటిని మీరు ఆరగిస్తారు కూడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

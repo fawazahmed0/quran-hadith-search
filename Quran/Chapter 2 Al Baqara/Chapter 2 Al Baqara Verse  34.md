@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi) mēmu dēvadūtalatō: "Mīrandarū ādam 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరందరూ ఆదం ముందు సాష్టాంగపడండి” అని మేము దూతలను ఆజ్ఞాపించినపుడు ఇబ్లీసు తప్ప అందరూ సాష్టాంగపడ్డారు. వాడు మాత్రం తిరస్కరించాడు. అహంకారి అయి, అవిధేయులలో చేరిపోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

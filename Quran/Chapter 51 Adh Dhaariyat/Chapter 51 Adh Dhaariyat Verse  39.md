@@ -2676,6 +2676,12 @@ ataḍu (phir'aun) tana sabhāsadulatō sahā maralipōtū, ilā annāḍu: "Ita
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని అతను (ఫిరౌను) తన బలగాలను చూసుకుని విముఖతకు పాల్పడ్డాడు. “(వీడా! వీడొక) మాంత్రికుడో లేదా పిచ్చివాడో అయిఉంటాడ”ని ప్రేలాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

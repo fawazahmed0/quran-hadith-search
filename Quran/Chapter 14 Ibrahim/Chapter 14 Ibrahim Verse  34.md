@@ -2676,6 +2676,12 @@ mariyu mīru aḍiginadantā mīku iccāḍu. Mīru allāh anugrahālanu lekkin�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆయనే మీరు అడిగిన దానినల్లా మీకు ఇచ్చి ఉన్నాడు. మీరు అల్లాహ్‌ చేసిన మేళ్లను లెక్కించదలిచినా లెక్కించలేరు. నిశ్చయంగా మానవుడు మహా అన్యాయపరుడు, మేలును మరిచేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

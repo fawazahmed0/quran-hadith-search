@@ -2676,6 +2676,12 @@ mariyu vāstavāniki mā dūtalu śubhavārta tīsukoni ibrāhīm vaddaku vaccā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మా ద్వారా పంపబడిన దూతలు శుభవార్తను మోసుకుని ఇబ్రాహీము దగ్గరకు వెళ్ళారు. అతనికి ‘సలామ్‌’ చేశారు. అతను కూడా ‘ప్రతి సలాం’ చేశాడు. మరి అతను ఏ మాత్రం ఆలస్యం చేయకుండా వేపిన ఆవుదూడను తెచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

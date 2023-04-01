@@ -2676,6 +2676,12 @@ eḍāri vāsulu (baddūlu): "Mēmu viśvasin̄cāmu." Ani aṇṭāru. (Ō muha
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేము విశ్వసించాము” అని పల్లెవాసులు అంటున్నారు. (ఓ ప్రవక్తా!) వారికిలా చెప్పు : “నిజానికి మీరింకా విశ్వసించలేదు. కాని ‘(వ్యతిరేక ధోరణిని మానుకొని) లొంగిపోయాము (ఇస్లాం స్వీకరించాము)’ అని మాత్రం అనండి. వాస్తవానికి విశ్వాసం ఇంకా మీ హృదయాలలో ప్రవేశించనే లేదు. మీరు గనక అల్లాహ్ కు, ఆయన ప్రవక్తకు విధేయత చూపితే, ఆయన మీ కర్మల (ప్రతిఫలం) లో ఏ మాత్రం కోత విధించడు. నిశ్చయంగా అల్లాహ్ క్షమాశీలి, దయాశీలి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

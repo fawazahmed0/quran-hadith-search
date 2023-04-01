@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulaina vāru ilā aṇṭāru: "Mēmu ī khur'ān nu mariyu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేము ఈ ఖుర్‌ఆన్‌నుగానీ, దీనికి పూర్వం వచ్చిన గ్రంథాలనుగానీ ఎట్టి పరిస్థితిలోనూ నమ్మము” అని అవిశ్వాసులు అంటున్నారు. ఈ దుర్మార్గులు తమ ప్రభువు ఎదుట నిలబెట్టబడి, వారు ఒండొకరిని నిందించుకుంటున్నప్పుడు నువ్వు చూస్తే ఎంత బాగుంటుంది! బలహీనులు పెద్దలమనుకున్న వారినుద్దేశించి, “మీరే గనక లేకుండా ఉంటే మేము విశ్వాసులమై ఉండేవారం” అని అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

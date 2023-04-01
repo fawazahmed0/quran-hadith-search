@@ -2676,6 +2676,12 @@ mariyu mīru (itarulapai) ēmi kharcucēsinā, lēka ē mokkubaḍi cēsukunnā,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు (దైవమార్గంలో) ఎంత ఖర్చు చేసినా, ఏ మొక్కుబడి చేసుకున్నా అల్లాహ్‌కు దాని గురించి పూర్తిగా తెలుసు. దుర్మార్గులకు సహాయం చేసే వారెవరూ లేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

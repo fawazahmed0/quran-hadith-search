@@ -2676,6 +2676,12 @@ Uṅkaḷ caktikkēṟpa nīṅkaḷ kuṭiyirukkum iṭattil ('ittā'vilirukkum
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ స్థోమత మేరకు మీరు ఉండే చోటే (విడాకులు పొందిన) ఆ మహిళలను కూడా ఉండనివ్వండి. వారిని ఇబ్బందులపాలు చేసే ఉద్దేశంతో బాధించకండి. ఒకవేళ వారు గర్భవతులై ఉంటే, వారు శిశువును కనే వరకు వారికి ఖర్చులు ఇస్తూ ఉండండి. ఆ తరువాత వారు – మీ అభ్యర్ధన పై – బిడ్డకు పాలిచ్చినట్లయితే వారికి వారి ప్రతిఫలాన్ని ముట్టజెప్పండి. ధర్మానుసారం పరస్పరం సంప్రదించుకోండి. ఒకవేళ మీరు పరస్పరం గొడవపడినట్లయితే అతని కోరికపై మరొకామె బిడ్డకు పాలుపడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

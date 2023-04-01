@@ -2676,6 +2676,12 @@ kāni, pravakta mariyu atanitō pāṭu viśvasin̄cina vāru tama sirisampadala
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని స్వయంగా ప్రవక్తనూ, ఆయనతో పాటు విశ్వసించిన వారినీ చూడండి; వారు తమ ధన ప్రాణాలతో దైవమార్గంలో పోరాడుతున్నారు. కాబట్టి మేళ్లు గలవారు వీరే. సాఫల్యభాగ్యం పొందేవారు కూడా వీరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

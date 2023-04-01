@@ -2676,6 +2676,12 @@ bahudaivārādhakulaku (muṣrikīn laku) allāh tō mariyu āyana pravaktatō o
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ వద్ద, ఆయన ప్రవక్త వద్ద ముష్రిక్కులకు ఒప్పందం ఎలా సాధ్యం? అయితే మీరు మస్జిదె హరామ్‌ దగ్గర ఎవరితో ఒప్పందం చేసుకున్నారో వారు మీ ఒప్పందానికి కట్టుబడి ఉన్నంతవరకూ మీరు కూడా వారి ఒప్పందాన్ని గౌరవించండి. నిశ్చయంగా అల్లాహ్‌ భయభక్తులు గల వారిని ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

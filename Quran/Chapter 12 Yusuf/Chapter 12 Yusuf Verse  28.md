@@ -2676,6 +2676,12 @@ atani aṅgi venuka nuṇḍi cinigi uṇḍaṭānni cūsi (āme bharta) ilā a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+యూసుఫ్‌ చొక్కా వెనుక వైపు నుంచి చినిగి ఉండటం గమనించిన ఆమె భర్త ఇలా అన్నాడు : “ఇవి మీఆడవాళ్ల మాయోపాయాలు. నిశ్చయంగా మీ మాయోపాయాలు మహాఘోరంగా ఉంటాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

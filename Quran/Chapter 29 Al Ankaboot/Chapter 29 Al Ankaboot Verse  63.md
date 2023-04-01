@@ -2676,6 +2676,12 @@ mariyu okavēḷa nīvu vāritō: "Ākāśaṁ nuṇḍi nīṭini kuripin̄ci, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశం నుంచి వర్షాన్ని కురిపించి, తద్వారా భూమిని, అది చచ్చిన తరువాత బ్రతికించినదెవరు? అని నువ్వు వారిని ప్రశ్నించినట్లయితే ‘అల్లాహ్‌యే’ అని వారి నుంచి సమాధానం వస్తుంది. సకల స్తోత్రాలు అల్లాహ్‌కే శోభిస్తాయి అని నువ్వు చెప్పు. కాని వారిలో అనేకులు ఇంగిత జ్ఞానం లేనివారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

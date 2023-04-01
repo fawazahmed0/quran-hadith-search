@@ -2676,6 +2676,12 @@ kāvuna mīru allāh nu mariyu āyana pravaktanu mariyu mēmu avatarimpajēsina 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి మీరు అల్లాహ్ ను, ఆయన ప్రవక్తను, మేము అవతరింపజేసిన జ్యోతిని విశ్వసించండి. మీరు చేసే ప్రతి పనిని అల్లాహ్ కనిపెట్టుకుని ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

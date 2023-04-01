@@ -2676,6 +2676,12 @@ Va nazdik ʙud [ki kofiron ʙo najrang va duşmanī] turo az sarzamin [-i Makka]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాళ్లు నిన్ను ఈ భూభాగం నుంచి వెళ్ళగొట్టే ఉద్దేశంతో నిన్ను నిలదొక్కుకోకుండా చేయడానికి సిద్ధమయ్యారు. ఒకవేళ అదే జరిగితే నీ తరువాత వాళ్లు కూడా అక్కడ ఎంతో కాలం నిలువ లేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

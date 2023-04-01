@@ -2676,6 +2676,12 @@ mariyu nīvu mā samakṣanlō, mā sandēśānusāraṅgā, oka ōḍanu nirmin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మాకళ్ల ముందరే, మా వహీ అనుసారం ఒక ఓడను తయారుచెయ్యి. మాముందు దుర్మార్గుల ఊసు ఎత్తకు. వారంతా ఎలాగూ ముంచి వేయబడేవారే” (అని అల్లాహ్‌ సెలవిచ్చాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

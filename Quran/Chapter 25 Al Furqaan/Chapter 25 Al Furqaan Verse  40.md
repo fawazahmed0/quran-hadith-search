@@ -2676,6 +2676,12 @@ mariyu mēmu dāruṇamaina (rāḷḷa) varṣaṁ kuripin̄cina (lūt) nagara�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దారుణంగా (రాళ్ళ) వర్షం కురిపించబడిన పట్టణం సమీపం నుంచి వారు (అవిశ్వాసులు) రాకపోకలు సాగిస్తున్నారు. అయినా వారు దానిని చూడటం లేదా? అసలు విషయం ఏమిటంటే వారికి మరణానంతరం తిరిగి లేపబడతామన్న దానిపై ఆశలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

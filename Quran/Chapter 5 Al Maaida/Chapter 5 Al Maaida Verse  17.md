@@ -2676,6 +2676,12 @@ Niścayaṅgā, maryam kumāruḍaina masīh (krīstu) yē allāh!" Ani anē vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ (అంటే) మర్యమ్‌ పుత్రుడైన మసీహ్‌యే” అని అన్నవారు నిస్సందేహంగా అవిశ్వాసానికి పాల్పడ్డారు. (ఓ ప్రవక్తా!) వారికి చెప్పు: “ఒకవేళ అల్లాహ్‌ మర్యమ్‌ పుత్రుడైన మసీహ్‌ని, అతని తల్లిని, భూమండలంలోని సమస్త జనులనూ నాశనం చేయదలిస్తే, ఆయన్ని అడ్డుకోగల శక్తి, అధికారం ఎవరికున్నాయి? భూమ్యాకాశాలలోనూ, వాటి మధ్యలోనూ ఉన్నవాటి సమస్త సార్వభౌమత్వానికి అధిపతి అల్లాహ్‌యే. ఆయన తాను కోరిన దాన్ని సృష్టిస్తాడు. అల్లాహ్‌ ప్రతిదీ చేయగల అధికారం కలవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ayana e vidhamaina pramanam avatarimpajeyanide, allah ku sati kalpincinanduku, m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+త్వరలోనే మేము అవిశ్వాసుల హృదయాలలో భయాన్ని కలిగిస్తాము. ఎందుకంటే అల్లాహ్‌ ఏ ప్రమాణాన్నీ అవతరింప జేయనప్పటికీ – నిరాధారంగా – వారు ఇతరత్రా వాటిని అల్లాహ్‌కు భాగస్వాములుగా కల్పిస్తున్నారు. కనుక నరకాగ్నియే వారి నివాస స్థలం. అది దుర్మార్గుల చెడ్డ నివాసం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu, phir'aun tana jāti prajalalō prakaṭistū ilā annāḍu: "Ō nā jā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఫిరౌను తన జాతి (జనుల) మధ్య చాటింపు వేయిస్తూ ఇలా అన్నాడు : “ఓ నా జాతి జనులారా! ఈజిప్టు రాజ్యం నాది కాదా? ఈ కాలువలు నా (మేడల) క్రింద ప్రవహిస్తున్నాయి. మీరు చూడటం లేదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

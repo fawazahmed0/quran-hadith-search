@@ -2676,6 +2676,12 @@ Mariyu mānavulandarū oka (duṣṭa) samājaṅgā māri pōtāranna bhayamē 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మానవులంతా ఒకే వర్గంగా తయారవుతారనే మాటే గనక లేకుంటే, కరుణామయుని పట్ల తిరస్కార వైఖరిని అవలంబించే వారి ఇళ్ళ పైకప్పులను, వారు ఎక్కే మెట్లను (కూడా) మేము వెండితో చేసి ఉండేవారం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

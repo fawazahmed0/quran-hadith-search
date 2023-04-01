@@ -2676,6 +2676,12 @@ ivi vivēkantō niṇḍi vunna viṣayālu. Vāṭini nī prabhuvu nīku divyaj
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇవన్నీ కూడా నీ ప్రభువు నీ వద్దకు వహీ ద్వారా పంపిన వివేచనాభరిత విషయాలు. నువ్వు అల్లాహ్‌తోపాటు వేరొకరిని ఆరాధ్యునిగా కల్పించకు. ఒకవేళ అలా చేశావంటే నిందితుడవై, ప్రతి మేలుకు దూరమైనవాడై నరకంలోకి నెట్టివేయబడతావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

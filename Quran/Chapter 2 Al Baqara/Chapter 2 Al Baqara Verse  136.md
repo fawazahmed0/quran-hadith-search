@@ -2676,6 +2676,12 @@ Ej mū'minon ʙa jahudijon va nasronijon ʙigued: «Mo ʙa Alloh va ojote, ki ʙ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ముస్లిములారా!) మీరు ఇలా ప్రకటించండి : ”మేము అల్లాహ్‌ను విశ్వసించాము. మాపై అవతరింపజేయబడిన దానినీ, ఇబ్రాహీం, ఇస్మాయీల్‌, ఇస్‌హాఖ్‌, యాఖూబ్‌ మరియు వారి సంతతిపై అవతరింపజేయబడిన దానినీ, మూసా, ఈసా ప్రవక్తలకు వారి ప్రభువు తరఫున వొసగబడిన దానిని కూడా మేము విశ్వసించాము. మేము వారిలో ఎవరి మధ్య కూడా ఎలాంటి విచక్షణ (వివక్ష)ను పాటించము. మేము ఆయనకే విధేయులము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

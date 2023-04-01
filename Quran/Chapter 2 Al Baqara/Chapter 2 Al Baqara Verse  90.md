@@ -2676,6 +2676,12 @@ allāh avatarimpajēsina sandēśānni (khur'ān nu) tiraskarin̄ci, vāru enta 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ వస్తువుకు బదులుగా వారు తమను అమ్ముకున్నారో అది అత్యంత నీచమైనది- అది వారి తిరస్కారం. అల్లాహ్‌ తాను ఇష్టపడే తన దాసుణ్ణి ప్రత్యేకంగా అనుగ్రహించాడన్న అసూయతో వారు అల్లాహ్‌ తరఫున అవతరించిన విషయాలను తిరస్కరించి ఆగ్రహంపై ఆగ్రహానికి పాత్రులయ్యారు. ఇంకా ఈ తిరస్కారుల కొరకు ఘోర అవమానంతో కూడిన శిక్ష ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

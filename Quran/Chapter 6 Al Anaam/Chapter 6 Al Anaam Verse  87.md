@@ -2676,6 +2676,12 @@ Mariyu vārilō nuṇḍi kondari taṇḍri tātalaku, vāri santānāniki mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అంతేకాదు, వారి పితామహులలో (తాత ముత్తాతలలో), వారి సంతానంలో, వారి సహోదరులలో కూడా కొందరిని (మేము కటాక్షించాము.) వారిని (మా సేవకోసం) ఎన్నుకున్నాము. వారిని రుజుమార్గం వైపుకు నడిపించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

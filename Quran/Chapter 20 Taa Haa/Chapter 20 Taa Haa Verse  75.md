@@ -2676,6 +2676,12 @@ evaḍaitē viśvāsigā hājaravutāḍō mariyu satkāryālu cēsi uṇṭā�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరు ఆయన సన్నిధికి విశ్వాసిగా వస్తాడో, సత్కార్యాలు కూడా చేసి ఉంటాడో – అలాంటి వారి కోసం ఉన్నత తరగతులున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

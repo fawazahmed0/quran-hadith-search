@@ -2676,6 +2676,12 @@ niścayaṅgā, viśvāsulaina vāri hr̥dayālu allāh prastāvana vaccinapuḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిజమైన విశ్వాసులు ఎటువంటి వారంటే – అల్లాహ్‌ ప్రస్తావన రాగానే వారి హృదయాలు భయంతో వణుకుతాయి. అల్లాహ్‌ ఆయతులు వారి ముందు పఠించబడినపుడు, అవి వారి విశ్వాసాన్ని మరింత వృద్ధిచేస్తాయి. వారు తమ ప్రభువునే నమ్ముకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

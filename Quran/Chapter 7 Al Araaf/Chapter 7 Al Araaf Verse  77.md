@@ -2676,6 +2676,12 @@ a taruvata varu a ada'onte venuka kali mokali peddanaram kosi (campi), tana prab
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత, వారు ఆడ ఒంటెను చంపేశారు. తమ ప్రభువు ఆజ్ఞ పట్ల తలబిరుసుతనం ప్రదర్శించారు. “ఓ సాలిహ్‌! నిజంగానే నువ్వు దైవప్రవక్తవైతే, మమ్మల్ని బెదిరిస్తూ వచ్చిన దానిని మాపైకి తీసుకురా!” అని అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

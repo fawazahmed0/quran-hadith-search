@@ -2676,6 +2676,12 @@ inta ūrai evaṉ kaṇṇiyap paṭuttiyuḷḷāṉō anta iṟaivaṉai vaṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నేను ఈ నగరం (మక్కా) ప్రభువును మాత్రమే ఆరాధిస్తూ ఉండాలని నాకు ఆదేశించబడింది. ఆయన దీన్ని పవిత్ర మైనదిగా చేశాడు. అన్నింటికీ ఆయనే యజమాని. నేను విధేయులలో ఒకడిగా ఉండాలని కూడా నాకు ఆజ్ఞాపించబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

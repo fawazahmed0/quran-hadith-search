@@ -2676,6 +2676,12 @@ mariyu āyana sūcanalalō āyana ākāśālanū mariyu bhūminī sr̥ṣṭin̄
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాల సృష్టి, మీ భాషల్లో, రంగుల్లో ఉన్న వైవిధ్యం కూడా ఆయన (శక్తి) సూచనలలోనివే. జ్ఞాన సంపన్నుల కోసం ఇందులో పలు సూచనలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

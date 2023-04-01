@@ -2676,6 +2676,12 @@ Mariyu āyanē sr̥ṣṭi ārambhin̄cina vāḍu, ā taruvāta dānini tirigi 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే సృష్టి (ప్రక్రియ)ని ప్రారంభిస్తున్నాడు. మరి ఆయనే దాన్ని పునరావృతం చేస్తాడు. ఇది ఆయనకు చాలా తేలిక. ఆకాశాలలోనూ, భూమిలోనూ ఆయన గుణగణాల దర్పమే సర్వోన్నతమైనది. ఆయన సర్వాధిక్యుడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ appuḍu (allāh) aṇṭāḍu: "Mā sūcanalu nī vaddaku vaccinapuḍu, nīvu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“జరగవలసిన విధంగానే జరిగింది. (ఒకప్పుడు) నీ వద్దకు వచ్చిన మా ఆయతులను (వచనాలను, సూచనలను, మహిమలను) నువ్వు విస్మరించావు. అందుకే ఈనాడు నువ్వు కూడా విస్మరించబడుతున్నావు” అని అనబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

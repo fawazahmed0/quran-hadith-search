@@ -2676,6 +2676,12 @@ uṅkaḷ mārkkattai viṭṭu; alalāh eṅkaḷaik kāppāṟṟi viṭṭapi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ మమ్మల్ని మీ ధర్మం నుంచి విముక్తి కలిగించిన తరువాత మళ్లీ మేము గనక అందులోకే వచ్చి కలసిపోతే, మేము అల్లాహ్‌కు పెద్ద అబద్ధాన్ని అంటగట్టిన వాళ్ళం అవుతాము. మీ మతంలోకి మేము తిరిగి రావటమనేది జరగదు – మా ప్రభువైన అల్లాహ్‌ రాసిపెట్టినదయితే అది వేరే విషయం. మా ప్రభువు జ్ఞానం అన్నింటినీ ఆవరించి ఉంది. మేము అల్లాహ్‌నే నమ్ముకున్నాము. ఓ ప్రభూ! మాకూ – మా జాతివారికీ మధ్య న్యాయంగా తీర్పు చెయ్యి. నీవు అందరికన్నా ఉత్తమంగా తీర్పు చేసేవాడవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

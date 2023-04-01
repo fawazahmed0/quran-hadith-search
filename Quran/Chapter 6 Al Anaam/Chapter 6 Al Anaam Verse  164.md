@@ -2676,6 +2676,12 @@ ilā anu: "Ēmī? Nēnu allāh nu vadali itarulanu prabhuvulugā arthin̄cālā?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారిని అడుగు: “ఏమిటీ, నేను అల్లాహ్‌ను కాదని వేరొక ప్రభువును వెతుక్కోవాలా?! వాస్తవానికి ప్రతిదానికీ ప్రభువు ఆయనే. ఎవరు చేసిన పనులకు వారే బాధ్యులు. బరువును మోసేవాడెవడూ ఇంకొకడి బరువును మోయడు. ఆ తర్వాత మీరంతా మీ ప్రభువు వద్దకే పోవలసి ఉంది. అప్పుడు ఆయన మీరు ఏ ఏ విషయాలలో విభేదించుకున్నారో వాటి వాస్తవాలను తెలియజేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

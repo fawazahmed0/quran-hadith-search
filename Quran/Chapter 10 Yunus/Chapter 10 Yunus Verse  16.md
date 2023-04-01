@@ -2676,6 +2676,12 @@ Bigū: «Agar Alloh taolo mexost, na man onro ʙar şumo mexondam va na Ū [Allo
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ కోరితే దీన్నినేను మీకు చదివి వినిపించటంగానీ, అల్లాహ్‌ దాని గురించి మీకు తెలియజేయటం గానీ జరిగి ఉండేదే కాదు. ఎందుకంటే ఇంతకు ముందు నేను నా జీవితకాలంలో ఓ పెద్దభాగం మీ మధ్యనే గడిపాను. అసలు మీరు బుద్ధిని ఉపయోగించరా?” అని అడుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

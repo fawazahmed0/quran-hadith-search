@@ -2676,6 +2676,12 @@ allāh tānu kōrina dānini raddu cēstāḍu mariyu (tānu kōrina dānini) st
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ తాను కోరినదాన్ని చెరిపివేస్తాడు, తాను కోరినదాన్నిఅలాగే ఉండనిస్తాడు. మూలగ్రంథం (లౌహె మహ్‌ఫూజ్‌) ఆయన దగ్గరే ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

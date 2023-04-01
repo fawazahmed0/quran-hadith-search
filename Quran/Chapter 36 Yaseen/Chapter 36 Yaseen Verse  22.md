@@ -2676,6 +2676,12 @@ mariyu nannu sr̥ṣṭin̄cina āyananu nēnenduku ārādhin̄cakūḍadū? Mar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నన్ను పుట్టించిన వానిని నేను ఆరాధించకుండా ఉండటం ఎంతవరకు సమంజసం? మరి (నిజానికి) మీరంతా ఆయన వైపు మరలించబడేవారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

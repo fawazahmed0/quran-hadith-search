@@ -2676,6 +2676,12 @@ mēmu vārilō cālā mandiki - vāṭitō vārini parīkṣin̄caṭāniki - v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలోని పలు రకాల జనులకు మేము ఇచ్చిన ప్రాపంచిక జీవిత వైభవాల వైపు ఆశగా చూడకు. వాటి ద్వారా వాళ్లను పరీక్షించటానికే మేము ఆ వస్తువులను వారికి ఇచ్చాము. వాస్తవానికి నీ ప్రభువు ప్రసాదించిన ఉపాధి మాత్రమే మేలైనది, మిగిలి ఉండేదీను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

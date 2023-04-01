@@ -2676,6 +2676,12 @@ atanu (nūh) annāḍu: "Ō nā jāti prajalārā! Mīru cūstunnāru kadā? Nē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నూహ్‌ ఇలా అన్నాడు: “నాజాతి వారలారా! ఒకవేళ నేను నాప్రభువు తరఫున వచ్చిన స్పష్టమైన నిదర్శనంపై ఉండి, ఆయన నాకు తన ప్రత్యేక కారుణ్య భాగాన్ని కూడా కలుగ జేసి ఉండి, అది మీకు కనిపించకపోతే (నేనేం చేయను?!) మీకిష్టం లేకపోయినా బలవంతంగా మేము దాన్ని మీ మీద ఎలా రుద్దగలం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

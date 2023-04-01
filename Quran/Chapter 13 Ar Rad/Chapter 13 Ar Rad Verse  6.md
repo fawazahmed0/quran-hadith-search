@@ -2676,6 +2676,12 @@ mariyu vāru mēluku mundu kīḍunu (tem'mani) ninnu tondarapeḍutunnāru. Mar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేలుకు ముందే వారు కీడు కోసం నిన్ను తొందరపెడుతున్నారు కదూ! వారికి పూర్వం అలాంటి ఉదాహరణలు (శిక్షలు) గడచి ఉన్నాయి. నిశ్చయంగా ప్రజలు దుర్మార్గాలకు పాల్పడిన తరువాత కూడా నీ ప్రభువు వారిపట్ల క్షమాశీలుడుగా ఉంటాడు. అయితే నీ ప్రభువు శిక్షించే విషయంలో కూడా మహా కఠినుడు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

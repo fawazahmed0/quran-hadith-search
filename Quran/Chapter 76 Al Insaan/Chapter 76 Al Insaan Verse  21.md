@@ -2676,6 +2676,12 @@ vāri oṇṭi mīda sannani ākupaccani śrēṣṭhamaina paṭṭu vastrālu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి శరీరాలపై పచ్చని, నాణ్యమైన సన్నని సిల్కు వస్త్రాలు, దళసరి పట్టు వస్త్రాలే ఉంటాయి. ఇంకా, వారికి వెండి కంకణాలు – ఆభరణంగా – తొడిగింపబడతాయి. వారి ప్రభువు వారికి స్వచ్చమైన, పరిశుద్ధమైన మధువును త్రాగిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ saitan daridrya pramadam cupi (bhayapetti), mim'malni nicakaryalu ceyataniki pre
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+షైతాన్‌ మీకు దారిద్య్రం గురించి భయపెడతాడు. నీతిమాలిన పనులకై పురికొల్పుతాడు. కాగా; అల్లాహ్‌ మిమ్మల్ని క్షమిస్తాననీ, అనుగ్రహిస్తానని వాగ్దానం చేస్తున్నాడు. అల్లాహ్‌ గొప్ప ఉదార స్వభావుడు, అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

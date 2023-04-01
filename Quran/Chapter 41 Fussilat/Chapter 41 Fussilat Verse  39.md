@@ -2676,6 +2676,12 @@ Mariyu āyana sūcana (āyāt) lalō okaṭi: Niścayaṅgā nīvu bhūmini pā�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన శక్తిసూచనలలో మరొకటేమిటంటే నేల అణగి మణగి ఉండటాన్ని నువ్వు చూస్తావు. మరి దానిపై మేము వర్షం కురిపించగానే అది చిగురిస్తూ, ఉబికి వస్తుంది. ఈ నేలను బ్రతికించినవాడే నిస్సందేహంగా మృతులను కూడా బ్రతికిస్తాడు. నిశ్చయంగా ఆయన ప్రతిదీ చేయగల అధికారం గలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

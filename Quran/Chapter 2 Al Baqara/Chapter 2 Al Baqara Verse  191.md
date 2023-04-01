@@ -2676,6 +2676,12 @@ Vāru, mīku ekkaḍa eduraitē akkaḍanē vārini campaṇḍi. Mariyu vāru m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఎక్కడ ఎదురైనా మీరు వారితో తలపడండి, మిమ్మల్ని ఎక్కడి నుంచి వారు తరిమికొట్టారో, అక్కడి నుంచి మీరు కూడా వారిని తరిమికొట్టండి. ఫిత్నా (కుఫ్ర్‌, షిర్క్‌, పీడన) అనేది చంపటం కన్నా తీవ్రమైనది. ‘మస్జిదె హరామ్‌’ వద్ద వారు మీతో యుద్ధం చేయనంతవరకూ మీరూ వారితో పోరాడకండి. వారు గనక మిమ్మల్ని హతమార్చడానికి ప్రయత్నిస్తే మీరు కూడా దీటైన జవాబు ఇవ్వండి. అవిశ్వాసులకు సరైన సమాధానం ఇదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

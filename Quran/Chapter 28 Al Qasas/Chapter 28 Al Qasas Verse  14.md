@@ -2676,6 +2676,12 @@ Mariyu atanu (mūsā) yuktavayas'suku cēri paripūrṇuḍu ayinappuḍu, mēmu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా తన యుక్త వయస్సుకు చేరుకుని, పరిపక్వతను పొందిన మీదట మేమతనికి వివేకాన్నీ, (ధర్మ) జ్ఞానాన్నీ ప్రసాదించాము. సద్వర్తనులకు మేము ఇలాగే (ఉత్తమ) ప్రతిఫలాన్ని ఇస్తుంటాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

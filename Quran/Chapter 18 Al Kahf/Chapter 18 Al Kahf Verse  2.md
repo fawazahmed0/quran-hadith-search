@@ -2676,6 +2676,12 @@ idi sakramaṅgā sthiraṅgā uṇḍi, āyana nuṇḍi vaccē kaṭhina śik�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పైగా అన్నివిధాలా సరైనదిగా ఉంచాడు – తన వద్దనుంచి విధించబడే కఠినమైన శిక్ష గురించి హెచ్చరించటానికి, మంచి పనులు చేసే విశ్వాసులకు ఉత్తమ ప్రతిఫలం ఉందని శుభవార్తలు ఇవ్వటానికి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

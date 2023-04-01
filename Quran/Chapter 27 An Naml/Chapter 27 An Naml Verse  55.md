@@ -2676,6 +2676,12 @@ emi? Miru strilanu vadali purusula vaddaku, mi kama icchanu tircukovataniki pota
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు ఆడవారిని వదిలేసి, మగవారి వద్దకు కామవాంఛతో ఎగబడి వస్తారేమిటి? నిజానికి మీరు వట్టి మూర్ఖులుగా ప్రవర్తిస్తున్నారు” (అని చెప్పాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

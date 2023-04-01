@@ -2676,6 +2676,12 @@ vāriki tama prabhuvu nuṇḍi labhin̄cē pratiphalaṁ śāśvatamaina svarga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి ప్రతిఫలంగా వారి ప్రభువు దగ్గర శాశ్వతమైన స్వర్గ వనాలున్నాయి. వాటి క్రింద కాలువలు ప్రవహిస్తూ ఉంటాయి. వాటిలో వారు కలకాలం ఉంటారు. అల్లాహ్ వారి పట్ల ప్రసన్నుడయ్యాడు. వారు అల్లాహ్ పట్ల సంతోషపడ్డారు. ఈ అనుగ్రహ భాగ్యం తన ప్రభువుకు భయపడే వానికి మాత్రమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

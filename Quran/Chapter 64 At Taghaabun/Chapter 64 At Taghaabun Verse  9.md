@@ -2676,6 +2676,12 @@ Oṉṟu tiraṭṭum (maṟumai) nāḷukkāka avaṉ uṅkaḷai oṉṟu tira
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ రోజున ఆయన మిమ్మల్నందరినీ సమీకరణ జరిగే రోజుకై సమీకరిస్తాడో అది గెలుపోటముల రోజై ఉంటుంది. ఎవరైతే అల్లాహ్ ను విశ్వసించి, సదాచరణ చేస్తారో అల్లాహ్ వారి పాపాలను వారి నుండి దూరం చేస్తాడు. క్రింద కాలువలు ప్రవహించే (స్వర్గ) తోటలలో వారికి ప్రవేశం కల్పిస్తాడు. వారందులో కలకాలం ఉంటారు. గొప్ప సాఫల్యం ఇదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

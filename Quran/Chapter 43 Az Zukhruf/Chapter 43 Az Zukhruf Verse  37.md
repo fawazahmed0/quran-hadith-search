@@ -2676,6 +2676,12 @@ mariyu niścayaṅgā, vāru (ṣaitān lu) vārini (allāh) mārgaṁ nuṇḍi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు (ఆ షైతానులు) వారిని సన్మార్గాన పోకుండా అడ్డుకుంటారు. మరి వారేమో తాము సన్మార్గంపైనే ఉన్నామని భ్రమపడుతూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

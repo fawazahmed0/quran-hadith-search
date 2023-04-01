@@ -2676,6 +2676,12 @@ kāvuna mēmu vāriki pratīkāraṁ cēśāmu mariyu vārini samudranlō mun̄c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తర్వాత మేము వారికి ప్రతీకారం చేశాము. వారిని సముద్రంలో ముంచి వేశాము. ఎందుకంటే, వారు మా ఆయతులను అసత్యాలని ధిక్కరించేవారు, వాటి పట్ల బొత్తిగా నిర్లక్ష్యం వహించేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

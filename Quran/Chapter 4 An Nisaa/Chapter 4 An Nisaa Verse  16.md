@@ -2676,6 +2676,12 @@ mariyu mīlō ē iddarū (strīlu gānī, puruṣulu gānī) dīniki (vyabhicār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీలో ఏ ఇద్దరయినా ఈ (పాడు) పని చేస్తే వారిద్దరినీ బాధించండి. ఒకవేళ వారు పశ్చాత్తాపపడి, తమ ప్రవర్తనను సరిదిద్దుకుంటే వారిని ఉపేక్షించండి. నిస్సందేహంగా అల్లాహ్‌ పశ్చాత్తాపాన్ని స్వీకరించేవాడు, కరుణించేవాడు కూడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

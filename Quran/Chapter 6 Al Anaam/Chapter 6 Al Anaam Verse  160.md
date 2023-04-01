@@ -2676,6 +2676,12 @@ evaḍu oka satkāryaṁ cēstāḍō, ataniki dāniki padireṭlu pratiphalaṁ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సత్కార్యం చేసినవాని సత్కార్యానికి పదిరెట్లు లభిస్తాయి. దుష్కార్యానికి ఒడిగట్టిన వాని దుష్కార్యానికి దానికి సరిపడా శిక్ష మాత్రమే విధించబడుతుంది. వారికి ఎలాంటి అన్యాయం జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

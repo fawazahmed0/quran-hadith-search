@@ -2676,6 +2676,12 @@ mariyu (jñāpakamun̄cukōṇḍi), ā dinamuna durmārguḍu tana cētulanu ko
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు దుర్మార్గుడైన వ్యక్తి తన చేతులను కొరుక్కుంటూ ఇలా అంటాడు: “అయ్యో! నేను దైవప్రవక్త (సఅసం) మార్గాన్ని అనుసరించి ఉంటే ఎంత బావుందేది!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

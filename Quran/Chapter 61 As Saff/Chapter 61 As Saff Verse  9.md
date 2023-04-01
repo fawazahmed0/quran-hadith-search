@@ -2676,6 +2676,12 @@ ayane, tana pravaktaku margadarsakatvanni mariyu satyadharmanni icci pampi, dani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే తన ప్రవక్తకు సన్మార్గాన్ని, సత్యధర్మాన్ని ఇచ్చి పంపాడు – దాన్ని మత ధర్మాలన్నింటిపై ఆధిక్యం వహించేలా చేయటానికి! ఈ విషయం బహుదైవారాధకులకు ఇష్టం లేకపోయినా సరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

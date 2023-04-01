@@ -2676,6 +2676,12 @@ Mariyu (ō pravaktā jñāpakaṁ cēsukō!) Allāh anugrahin̄cina mariyu nīvu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా! ఆ సందర్భాన్ని కాస్త జ్ఞాపకం చేసుకో) అల్లాహ్‌ అనుగ్రహించిన వ్యక్తితో, నువ్వు సయితం ఉపకారం చేసినవానితో “నువ్వు నీ భార్యను నీ దగ్గరే ఉండనివ్వు, అల్లాహ్‌కు భయపడు” అని చెప్పేవాడివి. కాని అల్లాహ్‌ బయటపెట్టాలని ఉన్న ఒక విషయాన్ని నువ్వు నీ మనసులోనే దాచిపెట్టావు. నువ్వు జనులకు భయపడేవాడివి. నిజానికి నువ్వు భయపడటానికి అల్లాహ్‌యే ఎక్కువ హక్కుదారుడు. మరి జైద్‌ ఆ స్త్రీతో తన లాంఛనాలన్నీ పూర్తి చేసిన తరువాత, మేము ఆమె వివాహం నీతో జరిపించాము. దత్తపుత్రులు తమ భార్యల లాంఛనాలన్నీ పూర్తిచేసిన తరువాత (వారికి విడాకులిచ్చిన పిమ్మట) వారి భార్యల (ను వివాహమాడే) విషయంలో ముస్లింలు ఎలాంటి సంకోచానికీ లోనుకాకుండా ఉండేటందుకు మేమిలా చేశాము. అల్లాహ్‌ ఆజ్ఞ అమలు జరిగి తీరవలసిందే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

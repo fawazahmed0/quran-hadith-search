@@ -2676,6 +2676,12 @@ mariyu (prajalanu) allāh vaipunaku pilustū, satkāryālu cēstū: "Nēnu allā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ వైపు (జనులను) పిలుస్తూ, సత్కార్యాలు చేస్తూ ‘నేను విధేయుల (ముస్లింల)లో ఒకడను’ అని పలికేవాని మాటకంటే మంచిమాట మరెవరిది కాగలదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

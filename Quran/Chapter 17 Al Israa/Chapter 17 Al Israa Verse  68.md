@@ -2676,6 +2676,12 @@ emi? Ayana! Nela cilipoyi mim'malni mringakunda; leda tuphanu mipai rakunda; mim
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, (నేల మీదికి చేర్చిన తరువాత) అల్లాహ్‌ మిమ్మల్ని నేలలో కూర్చివేయడనీ, మీపై రాళ్లను కురిపించే తుఫానును పంపించడని మీరు నిర్భయంగా ఉన్నారా? (ఒకవేళ అదే గనక జరిగితే) మీరు మీ కోసం ఏ రక్షకుడినీ పొందజాలరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ allāh nu āyana pravaktanu hr̥dayapūrvakaṅgā viśvasin̄cina vārē nijama
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ను, ఆయన ప్రవక్తను నమ్ముతూ, ఏదైనా సామూహిక వ్యవహారంలో దైవప్రవక్త వెంట ఉన్నప్పుడు ఆయన అనుమతి పొందనంత వరకూ ఎక్కడికీ పోకుండా ఉండేవారే సిసలైన విశ్వాసులు. అలాంటి (కీలక) సమయాలలో నీ నుండి అనుమతి తీసుకునేవారే వాస్తవానికి అల్లాహ్‌ను, ఆయన ప్రవక్తను విశ్వసించినవారు. కనుక (ఓ ప్రవక్తా!) అలాంటి వారు ఎప్పుడయినా, ఏదయినా తమ పని మీద నీ నుండి సెలవు కోరితే, వారిలో నువ్వు తలచిన వారికి సెలవు ఇస్తూ ఉండు. ఇంకా వారి మన్నింపు కొరకు అల్లాహ్‌ను వేడుకుంటూ ఉండు. నిశ్చయంగా అల్లాహ్‌ క్షమాశీలి, కృపాకరుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

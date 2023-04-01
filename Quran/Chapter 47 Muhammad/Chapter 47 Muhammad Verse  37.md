@@ -2676,6 +2676,12 @@ okavēḷa āyana dānini (dhanānnē) aḍigitē mariyu dāni koraku gaṭṭi 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ ఆయన మీనుండి మీ సొమ్మును అడిగితే, ఇవ్వమని మరీ గట్టిగా అడిగితే మీరు పిసినారులుగా ప్రవర్తిస్తారు. మరి ఆయన మీ కాపట్యాన్ని బట్టబయలు చేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

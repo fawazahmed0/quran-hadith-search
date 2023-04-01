@@ -2676,6 +2676,12 @@ okavēḷa vāriki ēdainā āśrayaṁ gānī, guhagānī lēdā taladācukōva
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి రక్షణా స్థలంగానీ, గుహలుగానీ, తలదూర్చే చిన్న బిలంగానీ – ఏది కనిపించినా వారు దాని వైపుకు పగ్గాలు త్రెంచుకుని పారిపోతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

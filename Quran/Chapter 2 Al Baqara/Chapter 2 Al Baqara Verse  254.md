@@ -2676,6 +2676,12 @@ o visvasulara! E beram gani, sneham gani, sipharasu gani panikirani dinam rakamu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! వ్యాపార లావాదేవీలుగానీ, స్నేహబంధాలుగానీ, సిఫార్సులుగానీ ఉండని ఆ రోజు రాకముందే మేము మీకు ప్రసాదించిన దానిలో నుంచి ఖర్చుచేయండి. వాస్తవానికి తిరస్కారులే దుర్మార్గులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

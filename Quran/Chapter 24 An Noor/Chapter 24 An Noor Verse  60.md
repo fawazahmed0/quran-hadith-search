@@ -2676,6 +2676,12 @@ mariyu r̥tusrāvaṁ āgipōyi, vivāha utsāhanlēni strīlu - tama saundarya�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పెళ్ళిపై ఆశ (కోరిక) లేని వృద్ధ స్త్రీలు – తమ అందాలంకరణలు ప్రదర్శించే ఉద్దేశం లేకుండా – తమపై దుప్పట్లను తీసేసినా తప్పులేదు. అయినప్పటికీ వారు జాగ్రత్త వహిస్తే అది వారికే శ్రేయస్కరం. అల్లాహ్‌ అంతా వినేవాడు, అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

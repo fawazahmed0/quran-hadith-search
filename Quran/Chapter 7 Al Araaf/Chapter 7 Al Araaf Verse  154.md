@@ -2676,6 +2676,12 @@ mariyu mūsā kōpaṁ callārini taruvāta ā phalakālanu ettukunnāḍu. Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కోపం చల్లారిన తరువాత మూసా (అలైహిస్సలాం) పలకలను ఎత్తుకున్నాడు. వాటిపై రాయబడి ఉన్నదానిలో తమ ప్రభువుకు భయపడేవారి కొరకు సన్మార్గమూ, కారుణ్యమూ ఉండినవి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ allāh nu kalusukunē kōrika unnavāḍu, allāh nirṇayin̄cina ā samayaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ను కలుసుకోవాలని ఆశిస్తున్న వారెవరయినాసరే అల్లాహ్‌ నిర్థారించిన ఆ ఘడియ తప్పక రానున్నది (అని వారు గ్రహించాలి). ఆయన అంతా వినేవాడు, అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

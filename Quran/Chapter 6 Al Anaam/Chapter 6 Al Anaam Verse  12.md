@@ -2676,6 +2676,12 @@ vārini aḍugu: "Ākāśālalō mariyu bhūmilō unnadantā evariki cendinadi?"
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఆకాశాలలోనూ, భూమిలోనూ ఉన్నదంతా ఎవరిది?” అని వారిని అడుగు. వారికి చెప్పు: “సమస్తమూ అల్లాహ్‌దే.” కనికరించటాన్ని అల్లాహ్‌ తన కోసం అవశ్యం చేసుకున్నాడు. అల్లాహ్‌ ప్రళయదినాన మిమ్మల్నందరినీ సమీకరిస్తాడు. ఇందులో ఎలాంటి సందేహానికీ తావులేదు. కాని తమను తాము నష్టంలో పడవేసుకున్నవారు మాత్రం విశ్వసించరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

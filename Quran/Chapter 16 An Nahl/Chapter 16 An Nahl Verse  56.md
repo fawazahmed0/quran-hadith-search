@@ -2676,6 +2676,12 @@ mariyu mēmu vārikiccina jīvanōpādhi nuṇḍi konta bhāgānni, tāmu ē m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ప్రసాదించిన ఉపాధిలోనుంచి ఒక భాగాన్ని వారు తమకు ఏమాత్రం తెలియని వారి కోసం కేటాయిస్తున్నారు. అల్లాహ్‌ సాక్షి! మీరు అంటగడుతున్న ఈ అబద్ధం గురించి మిమ్మల్ని తప్పకుండా ప్రశ్నించటం జరుగుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

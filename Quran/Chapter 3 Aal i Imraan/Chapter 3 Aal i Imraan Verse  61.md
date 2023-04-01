@@ -2676,6 +2676,12 @@ i jnanam niku andina tarvata kuda evadaina nito atanini (isanu) gurinci vivadani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక నీ వద్దకు ఈ జ్ఞానం వచ్చిన తరువాత కూడా నీతో ఎవరయినా ఈ విషయంలో వాదనకు దిగితే వారితో స్పష్టంగా ఇలా చెప్పేయి: ”రండి! మీరూ మేము కలసి మన కుమారులను, మన స్త్రీలను పిలుద్దాం. స్వయంగా మనం కూడా వద్దాం. ఆ తర్వాత – ‘అబద్ధాలు చెప్పేవారిపై అల్లాహ్‌ శాపం పడుగాక’ అని దీనాతిదీనంగా ప్రార్థిద్దాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

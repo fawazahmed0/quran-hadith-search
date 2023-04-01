@@ -2676,6 +2676,12 @@ mariyu (isrāyīl santati) vāriki bhūmilō adhikāraṁ osaṅgālanī mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భువిలో వారికి ప్రాబల్యాన్ని, స్థిరత్వాన్ని ప్రసాదించాలనీ, ఫిరౌను, హామాను మరియు వారి సైన్యాలకు వారు దేనికి భయపడుతూ ఉండేవారో దాన్నే చూపాలని (మేము అభిలషించాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

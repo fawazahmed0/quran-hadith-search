@@ -2676,6 +2676,12 @@ vārannāru: "Mēmu allāh nu okkaṇṇi mātramē ārādhin̄ci, mā taṇḍr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేము అల్లాహ్‌ను మాత్రమే ఆరాధించాలనీ, మా తాత ముత్తాతలు పూజిస్తూ వచ్చిన వాటిని వదలివేయమని (చెప్పటానికేనా) నువ్వు మా వద్దకు వచ్చింది? ఒకవేళ నువ్వు సత్యవంతుడవే అయితే ఏ శిక్షను గురించి నువ్వు మమ్మల్ని బెదిరిస్తున్నావో దాన్ని మా వద్దకు రప్పించు చూద్దాం” అని వారు అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Samīpanlō rānunna dinānni gurin̄ci vārini heccarin�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) చాలా దగ్గరలోనే ఉన్న ఆ దినం గురించి వారిని హెచ్చరించు. అప్పుడు వారిగుండెలు గొంతుల దాకా వచ్చేస్తాయి. వారంతా గమ్మున (బాధను) దిగమ్రింగుతూ ఉంటారు. (ఆ రోజు) దుర్మార్గులను ఆదుకునే ఆప్తమిత్రుడు గానీ, మాట చెలామణీ చేసుకోగల సిఫారసు చేసేవాడుగానీ ఎవడూ ఉండడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

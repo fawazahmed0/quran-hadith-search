@@ -2676,6 +2676,12 @@ mariyu vāri (ṣaitān la) sahōdarulu vārini tappu dāri vaipuku lākkoni pō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇక షైతానుల సోదరులను వారు మార్గవిహీనత వైపుకు లాక్కుపోతుంటారు. (వారిని భ్రష్టు పట్టించటంలో) ఏ లోటూ రానివ్వరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

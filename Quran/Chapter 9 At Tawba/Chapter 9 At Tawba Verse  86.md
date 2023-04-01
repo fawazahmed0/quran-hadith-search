@@ -2676,6 +2676,12 @@ mariyu: "Allāh nu viśvasin̄caṇḍi. Mariyu āyana pravaktatō kalasi (allā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ను విశ్వసించండి, ఆయన ప్రవక్తతో కలసి పోరాడండి” అని ఆజ్ఞాపించే సూరా అవతరింపజేయబడినప్పుడు వారిలోని శ్రీమంతుల వర్గం ఒకటి నీ దగ్గరకు వచ్చి, “మమ్మల్ని కూర్చుని ఉండేవారితో పాటే ఉండనివ్వండి” అంటూ అనుమతి కోరుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

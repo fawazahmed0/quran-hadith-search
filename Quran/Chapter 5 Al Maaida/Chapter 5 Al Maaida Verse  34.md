@@ -2676,6 +2676,12 @@ mīru svādhīnaparacukōka mundu paścāttāpa paḍēvāru tappa! Kāvuna mīr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని వారిలో ఎవరయినా మీ అదుపులోకి రాకముందే పశ్చాత్తాపపడితే, అల్లాహ్‌ అమితంగా క్షమించేవాడు, అపారంగా కరుణించేవాడని తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

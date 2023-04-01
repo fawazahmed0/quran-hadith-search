@@ -2676,6 +2676,12 @@ emi? Adi (a siksa) mipai vaccipadina taruvatane miru danini nam'mutara? (A roju 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, అది వచ్చిపడినప్పుడు దాన్నివిశ్వసిస్తారా?! ఇప్పుడా విశ్వసించేది?! దీనికోసం మీరు మహాతొందర పెట్టేవారు కదా!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

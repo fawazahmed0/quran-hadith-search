@@ -2676,6 +2676,12 @@ Mariyu niścayaṅgā, nēnu nā prabhuvu mariyu mī prabhuvu (ayina) allāh yok
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు రాళ్లు రువ్వి నన్ను చంపే ప్రయత్నం నుంచి నా ప్రభువూ, మీ ప్రభువూ అయిన అల్లాహ్‌ను నేను శరణు వేడుతున్నాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

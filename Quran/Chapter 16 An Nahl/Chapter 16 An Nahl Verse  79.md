@@ -2676,6 +2676,12 @@ emi? Varu paksulanu akasam madhyalo tatasthya sthitilo (padipokunda) egurutu und
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+శూన్యాకాశంలో ఆజ్ఞాబద్ధులై ఉన్న పక్షులను వారు చూడలేదా? అల్లాహ్‌ తప్ప వాటిని ఆ స్థితిలో నిలిపి ఉంచేవారెవరూ లేరు. నిశ్చయంగా విశ్వసించేవారి కోసం ఇందులో గొప్ప సూచనలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

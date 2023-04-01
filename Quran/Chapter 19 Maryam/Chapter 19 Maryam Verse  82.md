@@ -2676,6 +2676,12 @@ alā kādu! Vāru (ā daivālu) vīri ārādhananu nirākarin̄caṭamē gāka, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని అలా జరగనేరదు. వారి పూజలను వాళ్లు (వారి మిధ్యా దైవాలు) త్రోసి పుచ్చుతారు. పైగా వారికి శత్రువులుగా (వ్యతిరేకులుగా) మారతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

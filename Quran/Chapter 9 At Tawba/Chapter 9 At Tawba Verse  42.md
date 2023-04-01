@@ -2676,6 +2676,12 @@ adi tondaragā dorikē lābhaṁ mariyu sulabhamaina prayāṇaṁ ayitē vāru 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) త్వరగా సొమ్ములు లభించి, ప్రయాణం సులభతరమై ఉంటే వాళ్లు తప్పక నీ వెనుక వచ్చి ఉండేవారే. కాని సుదీర్ఘ ప్రయాణం అనేసరికి అది వారికి దుర్భరంగా తోచింది. ఇప్పుడు వాళ్లు, “మాలోనే గనక శక్తీ స్థోమతలు ఉండి ఉంటే తప్పకుండా మీ వెంట వచ్చి ఉండేవారం” అని అల్లాహ్‌పై ఒట్టేసి మరీ చెబుతారు. వాస్తవానికి వారు తమను తాము నాశనం చేసుకుంటున్నారు. వారు అబద్ధాలకోరులన్న సంగతి అల్లాహ్‌కు బాగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

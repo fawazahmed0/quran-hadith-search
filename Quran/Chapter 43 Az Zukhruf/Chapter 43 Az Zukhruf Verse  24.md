@@ -2676,6 +2676,12 @@ Pajomʙaraşon ʙa onho guftand: «Ojo man dinero ʙaroi şumo ovarda ʙoşam, k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీ తాతముత్తాతలు అనుసరిస్తుండగా మీరు చూసిన మార్గం కంటే చాలా మంచి మార్గాన్ని (గమ్యానికి చేర్చే మార్గాన్ని) నేను మీ వద్దకు తీసుకువచ్చాను” అని (దైవప్రవక్త) అన్నప్పుడు, “మీకిచ్చి పంపబడిన పద్ధతిని మేము తిరస్కరిస్తున్నాం” అని వాళ్లు (తెగేసి) చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

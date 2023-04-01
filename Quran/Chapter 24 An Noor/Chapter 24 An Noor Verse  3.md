@@ -2676,6 +2676,12 @@ oka vyabhicāri, oka vyabhicāriṇini lēka bahudaivārādhakurālayina (muṣr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వ్యభిచారి అయిన పురుషుడు వ్యభిచారం చేసే స్త్రీని లేక ముష్రిక్కు స్త్రీని తప్ప మరెవరినీ వివాహమాడలేడు. అలాగే వ్యభిచారానికి పాల్పడే స్త్రీ కూడా వ్యభిచారం చేసే పురుషుడిని లేక ముష్రిక్కు మగాణ్ణి తప్ప వేరితరులను మనువాడజాలదు. విశ్వాసుల కొరకు ఇది నిషేధించబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

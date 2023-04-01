@@ -2676,6 +2676,12 @@ Mariyu okavēḷa mēmu mānavuṇṇi anugrahistē, ataḍu mā nuṇḍi vimuk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మానవునిపై మేము మా అనుగ్రహాలను కురిపించినప్పుడు, అతడు ముఖం త్రిప్పుకుంటాడు, తన(కు నచ్చిన) ప్రక్కకు తిరిగి పోతాడు. తనపై ఆపద వచ్చిపడినప్పుడు మాత్రం సుదీర్ఘమైన ప్రార్థనలు చేసేవాడిగా మారిపోతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

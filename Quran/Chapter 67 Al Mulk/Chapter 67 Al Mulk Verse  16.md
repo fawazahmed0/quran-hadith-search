@@ -2676,6 +2676,12 @@ emi? Miru nirbhayanga unnara? Akasalalo unnavadu, mim'malni bhumiloki anagadrokk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, నింగినున్నవాడు మిమ్మల్ని నేలలోనికి దిగబడేలా చేసే విషయమై, ఆపై నేల అకస్మాత్తుగా ప్రకంపించటంపై మీరు నిర్భయంగా ఉన్నారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vārilō (kondaru) ī vidhaṅgā allāh pai pramāṇaṁ cēsēvāru k�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఒకవేళ అల్లాహ్‌ తన కృపతో మాకు సంపదను వొసగినట్లయితే మేము తప్పకుండా దాన ధర్మాలు చేసి, సద్వర్తనుల్లో చేరతాము” అని అల్లాహ్‌తో వాగ్దానం చేసిన వారు కూడా వారిలో ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

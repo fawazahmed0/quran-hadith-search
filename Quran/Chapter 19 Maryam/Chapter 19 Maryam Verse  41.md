@@ -2676,6 +2676,12 @@ mariyu ī granthaṁ (khur'ān lō) vunna ibrāhīm gāthanu prastāvin̄cu. Ni�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ గ్రంథంలో ఇబ్రాహీము (అలైహిస్సలాం) వృత్తాంతాన్ని కూడా ప్రస్తావించు. నిస్సందేహంగా అతను సత్యవంతుడైన ప్రవక్త
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

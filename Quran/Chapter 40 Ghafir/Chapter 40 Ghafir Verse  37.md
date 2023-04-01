@@ -2676,6 +2676,12 @@ Akasalaloniki velle margalu! Mariyu vati dvara nenu musa devunni cudataniki. End
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఆ గగన మార్గాలలోకి పోయి, మూసా ఆరాధిస్తున్న దేవుణ్ణి తొంగి చూస్తాను. ఖచ్చితంగా ఇతను (మూసా) అబద్ధాల కోరని నా అనుమానం.” ఈ విధంగా ఫిరౌన్‌ దురాగతాలు అతనికి అందమైనవిగా చూపబడ్డాయి. అతడు సన్మార్గం నుంచి ఆపి వేయబడ్డాడు. ఫిరౌన్‌ పన్నిన పన్నాగాలన్నీ (అతని) వినాశానికే దోహదపడ్డాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

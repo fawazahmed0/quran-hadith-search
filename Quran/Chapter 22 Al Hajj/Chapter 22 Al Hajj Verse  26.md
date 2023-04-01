@@ -2676,6 +2676,12 @@ mariyu mēmu ibrāhīm ku ī gr̥haṁ (ka'abah) yokka sthalānni nirdēśin̄ci
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఇబ్రాహీమునకు కాబా గృహ స్థలాన్ని నిర్థారించినపుడు పెట్టిన షరతు ఇది: నాకు భాగస్వామ్యంగా దేనినీ కల్పించకూడదు. నా గృహాన్ని ప్రదక్షిణ చేసేవారి కోసం, నిలబడేవారి కోసం, తల వంచేవారి కోసం, సాష్టాంగపడే వారి కోసం పవిత్రంగా ఉంచాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

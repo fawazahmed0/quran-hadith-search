@@ -2676,6 +2676,12 @@ kāvuna nīvē nākū mariyu vārikī madhya tīrpu cēyi. Mariyu nannū mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“కాబట్టి నీవు నాకూ – వారికీ మధ్య ఏదైనా అంతిమ నిర్ణయం చెయ్యి. నన్నూ, నాతో ఉన్న విశ్వాసులనూ కాపాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

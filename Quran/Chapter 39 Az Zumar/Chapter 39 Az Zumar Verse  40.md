@@ -2676,6 +2676,12 @@ iḻivu paṭuttum vētaṉai yārukku varum? Nilaiyāṉa vētaṉaiyum yār m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“పరాభవానికి గురిచేసే శిక్ష ఎవరిపై రానున్నదో, శాశ్వతంగా ఉండే శిక్ష ఎవరిపై పడుతుందో! (మీకే తెలుస్తుంది).”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

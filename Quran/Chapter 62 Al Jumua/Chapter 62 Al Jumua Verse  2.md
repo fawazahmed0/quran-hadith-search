@@ -2676,6 +2676,12 @@ ayane a niraksyarasyulaina varilo nundi oka sandesaharunni lepadu. Atanu variki 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే నిరక్షరాస్యులైన జనులలో – స్వయంగా వారిలోనుంచే ఒక ప్రవక్తను ప్రభవింపజేశాడు. అతడు వారికి దేవుని వాక్యాలను చదివి వినిపిస్తున్నాడు. వారిని పరిశుద్ధపరుస్తున్నాడు, వారికి గ్రంథాన్నీ, వివేకాన్ని బోధిస్తున్నాడు. అంతకు ముందు వారు స్పష్టమైన మార్గవిహీనతకు లోనైఉండేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

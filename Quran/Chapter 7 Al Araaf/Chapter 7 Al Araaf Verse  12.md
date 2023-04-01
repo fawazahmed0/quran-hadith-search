@@ -2676,6 +2676,12 @@ nāṉ uṉakkuk kaṭṭaḷaiyiṭṭa pōtu, nī sajtā ceyyātirukka uṉṉ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను నిన్ను ఆజ్ఞాపించినప్పటికీ సాష్టాంగపడకుండా ఏ విషయం నిన్ను అడ్డుకుంది?” అని (అల్లాహ్‌) అడిగితే, “నేను అతనికంటే ఘనుడను. నీవు నన్ను అగ్నితో సృష్టించావు, అతన్నేమో మట్టితో చేశావు” అని ఇబ్లీసు చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

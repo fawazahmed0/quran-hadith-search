@@ -2676,6 +2676,12 @@ strīlu, santānaṁ mariyu kūrcipeṭṭina veṇḍi-baṅgāru rāsulu, mēl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+స్త్రీలు, కుమారులూ, పోగుచేయబడిన వెండి బంగారు రాసులూ, అచ్చువేయబడిన (మేలిజాతి) గుర్రాలు, పశువులూ, పంటపొలాలు వంటి వ్యామోహాలపై ప్రేమ, జనులకు మనోజ్ఞంగా చేయబడింది. ఇది ప్రాపంచిక జీవన సామగ్రి. మరలిపోవలసిన అత్యుత్తమ నివాసమైతే అల్లాహ్‌ వద్దనే ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

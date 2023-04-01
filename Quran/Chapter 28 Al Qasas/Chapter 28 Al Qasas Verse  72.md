@@ -2676,6 +2676,12 @@ iṅkā ilā anu: "Ēmī? Mīru ālōcin̄cārā? Okavēḷa allāh mīpai punar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారిని అడుగు: “చూడండి! ఒకవేళ అల్లాహ్‌ ప్రళయదినం వరకూ మీపై పగలును – శాశ్వతంగా – విధించినట్లయితే అప్పుడైనా అల్లాహ్‌ తప్ప మీ వద్దకు – మీరు విశ్రాంతిని పొందేందుకు రాత్రిని తేగల దేవుడెవడు? మరి మీరు గమనించరేమిటి?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mo in kitoʙi Qur'onro ʙa rostī ʙa tu nozil kardem, to on tavre, ki Alloh ʙa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) అల్లాహ్‌ నీకు చూపిన విధంగా నీవు ప్రజల మధ్య తీర్పు చెయ్యటానికిగాను మేము నీ వైపుకు ఈ గ్రంథాన్ని సత్యంతోపాటు పంపాము. కనుక ద్రోహానికి పాల్పడే వారి తరఫున వాదిగా నిలబడకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

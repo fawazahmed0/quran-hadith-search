@@ -2676,6 +2676,12 @@ idi (ī pad'dhati) prajalu nijamaina sākṣyaṁ ivvaṭāniki lēdā vāri pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ పద్ధతివల్ల వారు యథాతథంగా సాక్ష్యమిస్తారనీ, తాము ప్రమాణాలు చేసిన తరువాత ప్రమాణాలు తమకు వ్యతిరేకంగా పరిణమిస్తాయన్న భయం వారికి ఉంటుందని ఆశించబడుతోంది. అల్లాహ్‌కు భయపడుతూ ఉండండి. వినండి! అల్లాహ్‌ అవిధేయ జనులకు సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

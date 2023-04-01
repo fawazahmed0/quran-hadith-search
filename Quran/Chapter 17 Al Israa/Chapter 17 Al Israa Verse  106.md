@@ -2676,6 +2676,12 @@ mariyu nīvu prajalaku nem'madi nem'madigā cadivi vinipin̄cālani, mēmu khur'
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నువ్వు నెమ్మది నెమ్మదిగా ప్రజలకు వినిపించటానికి వీలుగా మేము ఖుర్‌ఆను గ్రంథాన్ని కొద్ది కొద్దిగా చేసి అవతరింపజేశాము. మేము దీనిని అంచెలవారీగా అవతరింపజేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

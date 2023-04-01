@@ -2676,6 +2676,12 @@ ilā anu: "Ēmī? Mīru allāh nu vadili, mīku naṣṭaṁ gānī, lābhaṁ g
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారితో ఇలా చెప్పు : ఏమిటీ, మీరు అల్లాహ్‌ను కాదని మీకు నష్టంగానీ, లాభంగానీ చేకూర్చే అధికారంలేని వారిని ఆరాధిస్తున్నారా? అల్లాహ్‌ మాత్రమే అన్నీ వినేవాడు, సర్వమూ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ prajalaku vāri vastuvulanu taggin̄ci ivvakaṇḍi. Bhūmilō kallōlaṁ rēk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ప్రజలకు వారి వస్తువులను తగ్గించి ఇవ్వకండి. భువిలో విచ్చలవిడిగా కల్లోలాన్ని రేకెత్తిస్తూ తిరగకండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

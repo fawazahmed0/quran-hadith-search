@@ -2676,6 +2676,12 @@ idi vāstavāniki, vāru allāh ku āgrahaṁ kaligin̄cē vidhānānni anusarin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ఈ దుర్గతికి కారణం వారు అవలంబించిన మార్గమే. తద్వారా వారు అల్లాహ్‌ను అప్రసన్నుణ్ణి చేశారు. ఆయన ప్రసన్నతను వారు ఇష్టపడలేదు. అందుకే అల్లాహ్‌ వారి కర్మలను వృధా గావించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

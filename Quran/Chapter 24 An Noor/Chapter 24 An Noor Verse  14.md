@@ -2676,6 +2676,12 @@ mariyu okavēḷa mīpai allāh anugrahaṁ mariyu āyana karuṇa, ihalōkanlō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇహపరలోకాలలో మీపై అల్లాహ్‌ అనుగ్రహం, ఆయన దయ గనక ఉండకపోతే ఏ మాటల్లోనయితే మీరు పడిపోయారో, దానికి పర్యవసానంగా, ఓ పెద్ద శిక్ష మిమ్మల్ని చుట్టుకునేదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

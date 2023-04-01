@@ -2676,6 +2676,12 @@ vāriki ihalōka jīvitanlōnū mariyu paralōkanlōnū śubhavārta uṇṭundi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రాపంచిక జీవితంలోనూ, పరలోకంలోనూ వారికి శుభవార్త కలదు . అల్లాహ్‌ వాక్కుల్లో మార్పు ఉండదు. ఇదే గొప్ప విజయం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

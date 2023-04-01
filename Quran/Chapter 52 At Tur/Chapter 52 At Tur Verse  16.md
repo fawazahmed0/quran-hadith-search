@@ -2676,6 +2676,12 @@ indulō mīru kālutū uṇḍaṇḍi. Dāniki mīru sahanaṁ vahin̄cinā, sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నరకానికి ఆహుతి అవండి. ఇప్పుడు మీరు ఓపికపట్టినా, ఓపిక పట్టకపోయినా మీకు ఒకటే. మీరు చేసుకున్న దాని ఫలితమే మీకివ్వబడింది” (అని అనబడుతుంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

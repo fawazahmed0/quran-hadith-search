@@ -2676,6 +2676,12 @@ Mariyu ō nā jāti prajalārā! Mī śakti mēraku mīru cēsēdi cēyaṇḍi,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(షుఐబ్‌ ఇంకా ఇలా అన్నాడు:) “ఓ నా జాతిసోదరులారా! మీరు మీ స్థానాలలో మీ పనులు చేస్తూ ఉండండి. నేనూ నా పని చేసుకుంటాను. పరాభవానికి లోను చేసే శిక్ష ఎవరికి పడుతుందో, అసత్యవాది ఎవరో అతిత్వరలోనే మీకు తెలిసిపోతుంది. మీరూ ఎదురు చూడండి, మీతో పాటు నేనూ ఎదురుచూస్తాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

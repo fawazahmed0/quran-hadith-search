@@ -2676,6 +2676,12 @@ kāni, mīru evaritōnaitē oḍambaḍika cēsukoni unnārō, alāṇṭi vāri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే మీతో ఒప్పందం చేసుకున్న వారితో కలసిపోయిన వారికీ, లేదా ఇటు మీతోనూ, అటు తమ వర్గం వారితోనూ యుద్ధం చేయటానికి మనసొప్పక మీ దగ్గరకు వచ్చే వారికి మాత్రం ఈ ఆజ్ఞ నుండి మినహాయింపు ఉంది. అల్లాహ్‌యే గనక తలిస్తే మీపై వారికి ప్రాబల్యాన్ని ఒసగేవాడే. అదేగనక జరిగితే వారు మీతో యుద్ధం చేసేవారే. కాబట్టి వారు మీ దారినుంచి తప్పుకుని, మీతో యుద్ధం చేయకుండా, సంధి కోసం ప్రయత్నిస్తే (అప్పుడు వారిపై దాడి జరపటానికి) అల్లాహ్‌ మీకు మార్గం తెరచి ఉంచలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

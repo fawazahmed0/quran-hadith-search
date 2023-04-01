@@ -2676,6 +2676,12 @@ mariyu ād jātivāri daggariki vāri sahōdaruḍu hūd nu pampāmu. Atanu ilā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మేము ఆద్‌ జాతి వైపుకు వారి సోదరుడైన హూద్‌ను పంపాము. అతను (తన వారినుద్దేశించి) ఇలా అన్నాడు: “ఓ నా జాతి ప్రజలారా! అల్లాహ్‌నే ఆరాధించండి. ఆయన తప్ప మీకు మరో ఆరాధ్యుడు లేడు. మీరు కల్పించేవన్నీ అబద్ధాలు తప్ప మరేమీ కావు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

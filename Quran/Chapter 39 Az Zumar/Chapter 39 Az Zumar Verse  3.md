@@ -2676,6 +2676,12 @@ vinaṇḍi! Bhakti kēvalaṁ allāh koraku mātramē pratyēkin̄cabaḍindi! 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జాగ్రత్త! నిష్కల్మషమైన ఆరాధన మాత్రమే అల్లాహ్‌కు చెందుతుంది. ఎవరయితే అల్లాహ్‌ను గాకుండా ఇతరులను సంరక్షకులుగా ఆశ్రయించారో వారు, “ఈ పెద్దలు మమ్మల్ని అల్లాహ్‌ సాన్నిధ్యానికి చేర్చటంలో తోడ్పడతారని భావించి మాత్రమే మేము వీళ్లను ఆరాధిస్తున్నామ”ని అంటారు. ఏ విషయం గురించి వారు భేదాభిప్రాయానికి లోనై ఉన్నారో దానికి సంబంధించిన (అసలు) తీర్పు అల్లాహ్‌ (స్వయంగా) చేస్తాడు. అబద్ధాలకోరులకు, కృతఘ్నులకు అల్లాహ్‌ ఎట్టి పరిస్థితిలోనూ సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

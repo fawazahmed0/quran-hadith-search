@@ -2676,6 +2676,12 @@ okavēḷa mīru (ī sandēśānni) abad'dhamani tiraskaristē, (āścaryamēmī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఒకవేళ మీరు ధిక్కరించే పక్షంలో మీకు పూర్వం గతించిన సమాజాలు కూడా ధిక్కరించాయి (అన్న సంగతిని మరువకండి). విషయాన్ని స్పష్టంగా అందజేయటం వరకే ప్రవక్త బాధ్యత.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

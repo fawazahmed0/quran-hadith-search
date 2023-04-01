@@ -2676,6 +2676,12 @@ o ma prabhu! Mam'malni dini (i narakam) nundi bayataku tiyi. Okavela memu marala
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభూ! మాకు ఇక్కణ్ణుంచి విముక్తిని ప్రసాదించు. మేము గనక మళ్లీ ఇలాగే చేస్తే అప్పుడు నిశ్చయంగా మేము దుర్మార్గులమవుతాము” (అని విజ్ఞప్తి చేసుకుంటారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāru okarinokaru cūsukuṇṭū uṇṭāru. Ā rōju aparādhi tana santānā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఒండొకరికి చూపించబడతారు. కాని నేరస్థుడు ఆ రోజు (తనకు పడే) శిక్ష నుంచి తప్పించుకోవటానికి పరిహారంగా తన కుమారులను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

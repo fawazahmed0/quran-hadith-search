@@ -2676,6 +2676,12 @@ mariyu pēdarikāniki bhayapaḍi mīru mī santānānni campakaṇḍi. Mēmē 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దారిద్య్ర భయంతో మీరు మీ సంతానాన్ని చంపేయకండి. వారికీ, మీకూ ఉపాధిని ఇచ్చేది మేమే. ముమ్మాటికీ వారి హత్య మహాపాతకం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

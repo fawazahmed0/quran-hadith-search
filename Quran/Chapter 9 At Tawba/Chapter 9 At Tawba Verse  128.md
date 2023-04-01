@@ -2676,6 +2676,12 @@ Jaqinan, pajomʙare az [mijoni] xudi şumo ʙa sūjaton omad, ki rançdidanaton 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ దగ్గరకు స్వయంగా మీలోనుంచే ఒక ప్రవక్త వచ్చాడు. మీకు కష్టం కలిగించే ప్రతిదీ అతనికి బాధ కలిగిస్తుంది. అతను మీ మేలును ఎంతగానో కోరుకుంటున్నాడు. విశ్వాసుల యెడల అతను వాత్సల్యం కలవాడు, దయామయుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

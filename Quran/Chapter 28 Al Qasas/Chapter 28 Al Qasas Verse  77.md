@@ -2676,6 +2676,12 @@ Mariyu allāh nīku iccina sampadatō paralōka gr̥hānni pondaṭāniki prayat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ నీకు ప్రసాదించిన దానితో పరలోక స్థానాన్ని కూడా అన్వేషించు. మరి నీ ప్రాపంచిక భాగాన్ని కూడా మరువబోకు. అల్లాహ్‌ నీకు ఏ విధంగా మేలు చేశాడో అదేవిధంగా నువ్వు కూడా (ప్రజల పట్ల) సద్వ్యవహారం చెయ్యి. భువిలో అరాచకం కోసం ఆరాటపడకు. అరాచకం సృష్టించగోరే వారిని అల్లాహ్‌ ఎంతమాత్రం ఇష్టపడడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

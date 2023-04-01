@@ -2676,6 +2676,12 @@ Mī prabhuvu kṣamāpaṇa vaipunaku mariyu ākāśaṁ mariyu bhūmi yokka vai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(రండి!) మీ ప్రభువు క్షమాభిక్ష వైపు పరుగెత్తండి. ఇంకా, భూమ్యాకాశాలంత వెడల్పు గల స్వర్గం వైపు పరుగిడండి. అల్లాహ్ ను, ఆయన ప్రవక్తలను విశ్వసించే వారికోసం అది తయారు చేయబడింది. ఇది అల్లాహ్ అనుగ్రహం! ఆయన దీనిని తాను కోరిన వారికి ఇస్తాడు. అల్లాహ్ గొప్ప అనుగ్రహం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

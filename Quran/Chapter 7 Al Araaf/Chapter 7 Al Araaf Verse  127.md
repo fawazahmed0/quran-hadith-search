@@ -2676,6 +2676,12 @@ mariyu phir'aun jāti nāyakulu atanitō annāru: "Ēmī? Bhūmilō kallōlaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఫిరౌను జాతి సర్దారులు (తమ చక్రవర్తినుద్దేశించి), “ఏమిటీ, నువ్వు మూసా (అలైహిస్సలాం)ను, అతని జాతి వారిని రాజ్యంలో కల్లోలం వ్యాపింపజేయటానికి, నిన్నూ, నీ ఆరాధ్య దైవాలను పరిత్యజించటానికి వదలిపెడతావా?” అన్నారు. దానికి ఫిరౌను, “మేము ఇప్పుడే వాళ్ల మగపిల్లలను చంపేయటం మొదలుపెడ్తాము. వారి ఆడవారిని మాత్రం బ్రతకనిస్తాము. వాళ్ళపై మాకు అన్ని విధాలా తిరుగులేని అధికారం ఉంది” అని బదులిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

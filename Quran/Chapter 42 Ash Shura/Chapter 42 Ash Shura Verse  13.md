@@ -2676,6 +2676,12 @@ Ayana, nuh ku vidhincina (islam) dharmanne, mi koraku sasincadu; mariyu danine (
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ ధర్మాన్ని స్థాపించమని అల్లాహ్‌ నూహ్‌కు ఆజ్ఞాపించాడో ఆ ధర్మాన్నే మీ కొరకూ నిర్ధారించాడు. దానినే (ఓ ముహమ్మద్‌- సఅసం!) మేము నీ వైపుకు (వహీ ద్వారా) పంపాము. దాని గురించే ఇబ్రాహీముకు, మూసాకు, ఈసా (అలైహిముస్సలాం)కు కూడా తాకీదు చేశాము. ఈ ధర్మాన్నే నెలకొల్పాలనీ, అందులో చీలిక తీసుకురావద్దనీ (వారికి) ఉపదేశించాము. (ఓ ముహమ్మద్‌ – సఅసం!) నువ్వు ఏ విషయం వైపునకు వారిని పిలుస్తున్నావో అది బహుదైవారాధకులకు చాలా భారంగా తోస్తుంది. అల్లాహ్‌ తాను కోరిన వారిని (తన కార్యం కొరకు) ఎన్నుకుంటాడు. తన వైపు మరలే వానికి ఆయన సన్మార్గం చూపుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

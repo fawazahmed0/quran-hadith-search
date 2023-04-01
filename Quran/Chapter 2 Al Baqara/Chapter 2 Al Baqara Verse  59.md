@@ -2676,6 +2676,12 @@ kāni durmārgulaina vāru, vāriki ceppina māṭanu maroka māṭatō mārcār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని దుర్మార్గులు వారితో అనబడిన ఈ మాటను మార్చి వేశారు. అందుచేత మేము కూడా ఆ దుర్మార్గులపై వారి (దుర్మార్గం), ధిక్కార వైఖరికి శాస్తిగా ఆకాశం నుంచి శిక్షను అవతరింపజేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

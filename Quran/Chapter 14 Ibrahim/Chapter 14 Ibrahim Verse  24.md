@@ -2676,6 +2676,12 @@ man̄ci māṭa (kalimaye tayyib) nu allāh dēnitō pōlcāḍō mīku teliyad�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ పరిశుద్ధ వచనాన్ని దేంతో పోల్చాడో మీరు గమనించలేదా? అది ఒక పరిశుద్ధ వృక్షం వంటిది. అది బాగా వ్రేళ్లూనుకుని ఉంది. దాని శాఖలు ఆకాశంలో ఉన్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

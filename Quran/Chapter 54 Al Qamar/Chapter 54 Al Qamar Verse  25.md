@@ -2676,6 +2676,12 @@ emi? Ma andarilo, kevalam atani midane (divya) sandesam pampabadinda? Ala kadu! 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ, మనం ఇంతమందిమి ఉండగా మన మధ్యన కేవలం అతనొక్కడికే బోధన (వహీ) పంపబడిందా? లేదు, అతను బీరాలు పోతున్న అబద్ధాల రాయుడు” అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

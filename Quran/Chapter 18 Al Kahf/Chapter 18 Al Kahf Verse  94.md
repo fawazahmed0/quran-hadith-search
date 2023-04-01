@@ -2676,6 +2676,12 @@ vārannāru: "Ō jul khar nain! Vāstavāniki yājūj mariyu mājūj lu, ī bhū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ జుల్‌ ఖర్‌నైన్‌! యాజూజ్‌ మాజూజ్‌లు ఈ దేశంలో కల్లోలాన్ని సృష్టిస్తున్నారు. నువ్వు మాకూ – వారికీ మధ్య ఒక అడ్డుగోడను నిర్మిస్తావా? దానికయ్యే ఖర్చులు నీకు చెల్లించమంటావా?” అని వాళ్లు విన్నవించుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

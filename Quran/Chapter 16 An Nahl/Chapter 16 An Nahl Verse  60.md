@@ -2676,6 +2676,12 @@ evaraitē paralōkānni viśvasin̄carō vārē duṣṭulugā parigaṇimpaba�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పరలోకాన్ని విశ్వసించనివారి ఉపమానం మాత్రమే చెడ్డది. అల్లాహ్‌ అత్యున్నతమైన గుణగణాల దర్పం కలవాడు. ఆయన సర్వాధిక్యుడు, వివేక సంపన్నుడు కూడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

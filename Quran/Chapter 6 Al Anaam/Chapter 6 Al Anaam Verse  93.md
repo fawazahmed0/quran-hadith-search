@@ -2676,6 +2676,12 @@ mariyu allāh pai abad'dhapu ninda mōpē vāni kaṇṭē, lēdā tanapai ē di
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌పై అబద్ధాన్ని కల్పించేవాడికంటే, లేదా తనపై ఎలాంటి వహీ అవతరించకపోయినప్పటికీ ‘నాపై వహీ అవతరించింది’ అని చెప్పే వానికంటే లేదా అల్లాహ్‌ అవతరింపజేసినటువంటిదే ‘నేను కూడా అవతరింపజేస్తాను’ అని అనేవాడి కంటే పరమ దుర్మార్గుడు ఎవడుంటాడు? ఈ దుర్మార్గులు మరణ యాతనలో ఉన్నప్పుడు, దైవదూతలు తమ చేతులు చాచి, “సరే! ఇక మీ ప్రాణాలు (బయటికి) తీయండి. మీరు అల్లాహ్‌కు అబద్ధాలను ఆపాదించినందుకూ, అల్లాహ్‌ ఆయతుల పట్ల గర్వాతిశయంతో విర్రవీగినందుకుగాను ఈ రోజు మీకు పరాభవంతో కూడిన శిక్ష విధించబడుతుంది” అని చెబుతుండగా (ఆ దృశ్యాన్ని) నీవు చూడగలిగితే ఎంత బావుండు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ adi saraina mārgaṁ vaipunaku mārgadarśakatvaṁ cēstundi. Kāvuna mēmu d�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అది సన్మార్గం వైపు దర్శకత్వం వహిస్తోంది. అందుకే మేము దానిని విశ్వసించాము. ఇక నుంచి మేము ఎవరినీ – ఎన్నటికీ – మా ప్రభువుకు సహవర్తుల్ని కల్పించము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

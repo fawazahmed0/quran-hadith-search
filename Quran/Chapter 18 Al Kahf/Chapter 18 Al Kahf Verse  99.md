@@ -2676,6 +2676,12 @@ Mariyu ā (yājūj mariyu mājūj lu bayaṭiki vaccina) rōju, mēmu vārini al
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు మేము వారిని (సముద్రపు అలల మాదిరిగా) ఒండొకరిలో చొచ్చుకుపోయేలా వదలిపెడతాము. శంఖం ఊద బడుతుంది. అంతే! మేము జనులందరినీ ఒకేసారి సమీకరిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

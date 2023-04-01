@@ -2676,6 +2676,12 @@ Atanu ilā prārthin̄cāḍu: "Ō nā prabhū! Nannu kṣamin̄cu, nā taruvāt
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ప్రభూ! నన్ను మన్నించు. నాకు తప్ప ఇతరులెవరివల్లా కాని సామ్రాజ్యాన్ని నాకు ప్రసాదించు. నిశ్చయంగా నీవు గొప్ప ప్రదాతవు” అని వేడుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

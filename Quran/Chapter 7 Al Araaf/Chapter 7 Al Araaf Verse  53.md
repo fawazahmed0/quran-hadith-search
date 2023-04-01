@@ -2676,6 +2676,12 @@ Emi? Varu (avisvasulu) dani tudi phalitam sambhavincalani niriksistunnara? Dani 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ గ్రంథంలో తెలియజేయబడిన తుదిఫలితం ఎప్పుడు వస్తుందా అని మాత్రమే తప్ప మరో దానికోసం వీరు నిరీక్షించటం లేదు. ఏ రోజున దీని తుది ఫలితం వచ్చేస్తుందో ఆ రోజు, ముందు నుంచీ దీనిని విస్మరిస్తూ వచ్చినవారే ఇలా అంటారు: “మా ప్రభువు (తరఫున నియుక్తులైన) ప్రవక్తలు నిజంగానే సత్య బద్ధమైన విషయాలు తెచ్చారు. ఇప్పుడు మా కోసం సిఫారసు చేసే సిఫారసుదారులెవరయినా మాకు లభిస్తారా? లేదా లోగడ మేము చేసిన (చెడు) కర్మలకు భిన్నమైన కర్మలు చేసేందుకు మళ్లీ మేము (ఇహలోకానికి) తిరిగి పంపబడతామా?” – నిస్సందేహంగా వీళ్లు తమ స్వయానికి నష్టం చేకూర్చుకున్నారు. వీళ్లు కల్పిస్తూ వచ్చిన విషయాలన్నీ వీళ్ల నుంచి మటుమాయం అయ్యాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

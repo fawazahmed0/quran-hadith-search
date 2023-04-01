@@ -2676,6 +2676,12 @@ n'yāyāniki tappa, allāh niṣēdhin̄cina ē prāṇini kūḍā campakaṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+న్యాయసమ్మతంగా తప్ప – అల్లాహ్‌ నిషేధించిన ఏ ప్రాణినీ హతమార్చకూడదు. అన్యాయంగా చంపబడినవాని వారసునికి మేము అధికారం ఇచ్చి ఉన్నాము. అయితే అతను వధించటంలో మితి మీరకూడదు. నిశ్చయంగా అతను సహాయం చేయబడిన వాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

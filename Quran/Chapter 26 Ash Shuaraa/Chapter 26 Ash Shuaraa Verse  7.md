@@ -2676,6 +2676,12 @@ emi? Varu bhumi vaipu cudaleda? Memu danilo enta puskalanga sresthamaina rakarak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారు భూమిపై దృష్టిని సారించలేదా? అందులో మేము అన్నిరకాల శ్రేష్ఠమైన జంట వస్తువులను ఎలా ఉత్పన్నం చేసి ఉన్నామో! (చూడలేదా)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Variki teliyada? Niscayanga, akasalanu mariyu bhumini srstincina vadu allah
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, భూమ్యాకాశాలను సృష్టించిన అల్లాహ్‌, వాటిని సృష్టించటంలో ఏ విధంగానయితే అలసిపోలేదో అదే విధంగా ఆయన మృతులను తిరిగి బ్రతికించగలడని వారు చూడటం లేదా? అవును, ఆయన ప్రతిదీ చేయగల అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

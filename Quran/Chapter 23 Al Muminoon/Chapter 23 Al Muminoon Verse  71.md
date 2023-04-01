@@ -2676,6 +2676,12 @@ mariyu okavēḷa satyamē vāri kōrikalaku anuguṇaṅgā uṇṭē bhūmyāk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సత్యమే గనక వారి కోర్కెల వెనుక పరుగెత్తినట్లయితే భూమ్యాకాశాలు, అందులో వున్న సమస్తం చిందరవందర అయిపోయేవి. యదార్థమేమిటంటే మేము వారికి వారి ఉపదేశాన్ని చేరవేశాము. కాని వారు మాత్రం తమ ఉపదేశం పట్ల విముఖత చూపుతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

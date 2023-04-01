@@ -2676,6 +2676,12 @@ Mariyu prajalalō kondaru (tama nālukalatō): "Mēmu allāh nu viśvasin̄cāmu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జనులలో కొందరు, “మేము అల్లాహ్‌ను విశ్వసించాము” అని (పైకి) మాత్రం చెబుతారు. కాని అల్లాహ్‌ మార్గంలో ఏదైనా బాధ కలిగినప్పుడు, ప్రజల తరఫున పెట్టబడిన బాధను ‘దైవ శిక్ష’గా తలపోస్తారు. మరి నీ ప్రభువు తరఫున తోడ్పాటు అందితే మాత్రం, “మేమూ మీతోనే ఉన్నామండీ!” అని అంటారు. లోకవాసుల ఆంతర్యాలలో ఏముందో అల్లాహ్‌కు తెలియదా ఏమిటి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

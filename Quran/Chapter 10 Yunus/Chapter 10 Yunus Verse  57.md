@@ -2676,6 +2676,12 @@ o manavulara! Vastavanga mi prabhuvu taraphu nundi mi vaddaku hitopadesam (i khu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలారా! మీ ప్రభువు తరఫు నుంచి మీ దగ్గరకు హితోపదేశం వచ్చింది. అది హృదయాలలో ఉన్నవ్యాధుల నుంచి స్వస్థత నొసగేది, నమ్మేవారి కోసం మార్గదర్శకం, కారుణ్యం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

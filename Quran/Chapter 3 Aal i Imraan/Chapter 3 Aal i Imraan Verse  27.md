@@ -2676,6 +2676,12 @@ nīvu rātrini pagaṭilōki pravēśimpajēstāvu mariyu pagaṭini rātrilōki
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నువ్వే రాత్రిని పగటిలోనికి ప్రవేశింపజేస్తావు, పగటిని రాత్రి లోనికి తీసుకెళతావు. నువ్వే నిర్జీవమైన వాటి నుంచి జీవమున్న వాటిని తీస్తున్నావు, మరి నువ్వే జీవమున్న వాటి నుంచి నిర్జీవమైన వాటిని వెలికితీస్తున్నావు. ఇంకా నీవు కోరిన వారికి లెక్కలేనంత ఉపాధిని ఇస్తావు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

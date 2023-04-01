@@ -2676,6 +2676,12 @@ ivarkaḷ (muḥmiṉkaḷaip pārttu) nāṅkaḷ uṅkaḷuṭaṉ irukkavilla
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీళ్ళు (కపటులు) వారిని (విశ్వాసులను) బిగ్గరగా పిలుస్తూ, “మేము మీ వెంటలేమా?!” అనంటారు. దానికి వారు, “అవును. మా వెంట ఉన్న సంగతి నిజమే. కాని మీరు మీ ఆత్మలను వంచించుకున్నారు. (మా పై గడ్డుకాలం రావాలని) ఎదురు చూశారు. సందేహాలలో ఊగిసలాడారు. పనికిమాలిన మీ అభిలాషలే మిమ్మల్ని దగా చేశాయి. ఎట్టకేలకు దైవాజ్ఞ రానే వచ్చింది. అల్లాహ్ విషయంలో మోసగించినవాడు (షైతాన్), మిమ్మల్ని (కడ దాకా) మోసంలోనే ఉంచాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

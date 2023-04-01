@@ -2676,6 +2676,12 @@ e apada kuda, allah anumati lenide sambhavincadu. Mariyu evadaite allah nu visva
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్ అనుమతి లేనిదే ఏ ఆపదా రాదు. ఎవడు అల్లాహ్ ను విశ్వసిస్తాడో అతని హృదయానికి అల్లాహ్ (సరైన దిశలో) మార్గదర్శకత్వం వహిస్తాడు. అల్లాహ్ అన్ని విషయాలూ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

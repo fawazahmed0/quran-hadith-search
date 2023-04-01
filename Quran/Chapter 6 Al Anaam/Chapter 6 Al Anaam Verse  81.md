@@ -2676,6 +2676,12 @@ mariyu mīru allāh ku sāṭi (bhāgasvāmulu)gā kalpin̄cina vāṭiki nēnen
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ మీ వద్దకు ఏ నిదర్శనాన్నీ అవతరింపజేయనప్పటికీ మీరు అల్లాహ్‌కు భాగస్వాములను కల్పించే విషయానికి భయపడటం లేదు. మరి అటువంటప్పుడు అల్లాహ్‌కు సహవర్తులుగా మీరు నిలబెట్టే వాటికి నేనెలా భయపడతాను? కాబట్టి ఈ రెండు పక్షాలలో సురక్షిత స్థితికి అర్హులెవరో మీకు తెలిస్తే కాస్త చెప్పండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

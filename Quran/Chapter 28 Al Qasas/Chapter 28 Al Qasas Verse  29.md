@@ -2676,6 +2676,12 @@ a taruvata musa tana gaduvu purti cesi, tana kutumbam varini tisukoni potundaga,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మూసా ఆ గడువును పూర్తి చేసి, తన ఇంటివారిని తీసుకుని వెళుతుండగా తూరు (పర్వతం) వైపు అగ్ని కనిపించింది. ఆయన తన ఇంటామెతో, “ఇక్కడే ఉండండి. నేను అగ్నిని చూశాను. బహుశా అక్కణ్ణుంచి నేను ఏదైనా సమాచారాన్నిగానీ, లేదా మీరు చలి కాచుకోవటానికి నిప్పు రవ్వనుగానీ తెస్తాను” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

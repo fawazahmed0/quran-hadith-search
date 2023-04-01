@@ -2676,6 +2676,12 @@ avarkaḷukkāka nīr pāvamaṉṉippuk kōriṉālum allatu pāvamaṉṉippuk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారి క్షమాపణ కొరకు నువ్వు ప్రార్ధించినా, ప్రార్ధించకపోయినా ఒక్కటే – అల్లాహ్ ఎట్టి పరిస్థితిలోనూ వారిని క్షమించడు. నిశ్చయంగా అల్లాహ్ (ఇలాంటి) అవిధేయులకు సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

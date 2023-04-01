@@ -2676,6 +2676,12 @@ idantā endukaṇṭē! Niścayaṅgā, allāh ī granthānni satyantō avatarim
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలా ఎందుకు జరిగిందంటే, అల్లాహ్‌ సత్యంతో కూడుకున్న గ్రంథాన్ని అవతరింపజేయగా, ఈ గ్రంథంతో విభేదించే వారు, తమ పెడసరి ధోరణిలో బహుదూరం వెళ్ళిపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

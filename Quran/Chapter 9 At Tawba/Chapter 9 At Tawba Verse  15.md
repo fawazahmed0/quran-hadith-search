@@ -2676,6 +2676,12 @@ Mariyu vāri hr̥dayālalōni krōdhānni dūraṁ cēstāḍu. Mariyu allāh! T
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి హృదయాలలోని దుఃఖాన్ని, కోపాన్ని దూరం చేస్తాడు. ఆయన, తాను కోరినవారి వైపుకు కారుణ్యంతో మరలుతాడు. అల్లాహ్‌ ప్రతిదీ తెలిసినవాడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

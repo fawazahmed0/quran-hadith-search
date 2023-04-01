@@ -2676,6 +2676,12 @@ Inho ʙa xotiri sarkaşī dar zamin va najranghoi ʙade ʙud, ki varzidand. Va i
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లోకంలో తమంతటి వారు లేరనే గర్వాహంకారం మూలంగానూ, వారి దుష్టపన్నాగాల కారణంగానూ (వారిలో ఈ నకారాత్మక భావం జనించింది). అయితే దుష్ట పన్నాగాల కీడు ఆ పన్నాగాలను పన్నేవారి మీదే పడుతుంది. తమ పూర్వీకుల పట్ల అవలంబించబడుతూ వచ్చిన విధానమే తమపట్ల కూడా అవలంబించబడాలని వారు ఎదురు చూస్తున్నారా? మరయితే నువ్వు అల్లాహ్‌ విధానంలో ఎలాంటి మార్పునూ చూడలేవు. అల్లాహ్‌ విధానం (తన దిశ నుంచి) మరలి పోవటాన్ని కూడా నువ్వు చూడలేవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāni evari hr̥dayālalō rōgamundō, idi vāri mālin'yanlō marinta mālin'y
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాగా; ఎవరి హృదయాలు రోగగ్రస్తమై ఉన్నాయో వారి అశుద్ధతలో ఈ సూరా మరింత అశుద్ధతను పెంచింది. ఆఖరికి వారు అవిశ్వాస స్థితిలోనే చచ్చారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

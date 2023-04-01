@@ -2676,6 +2676,12 @@ kāvuna, mā hitabōdha (khur'ān) nuṇḍi mukhaṁ trippukoni ihalōka jīvit
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ప్రవక్తా!) మా ధ్యానం నుండి తిరిగిపోయి, కేవలం ప్రాపంచిక జీవితాన్ని మాత్రమే ఆశించేవాణ్ణి నువ్వు పట్టించుకోకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

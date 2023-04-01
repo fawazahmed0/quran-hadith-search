@@ -2676,6 +2676,12 @@ mariyu vāritō: "Allāh avatarimpajēsina vāṭini (ādēśālanu) anusarin̄c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ అవతరింపజేసిన గ్రంథాన్ని అనుసరించండి” అని వారికి చెప్పినప్పుడల్లా, “మా తాతలు తండ్రులు అవలంబిస్తూ ఉండగా చూచిన పద్ధతినే మేము పాటిస్తాము” అని వారు సమాధానమిస్తారు. వారి పూర్వీకులు ఒట్టి అవివేకులు, మార్గ విహీనులైనప్పటికీ (వీళ్లు వారినే అనుసరిస్తారన్నమాట)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

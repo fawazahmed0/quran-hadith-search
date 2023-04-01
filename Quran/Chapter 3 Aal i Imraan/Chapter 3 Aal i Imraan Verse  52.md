@@ -2676,6 +2676,12 @@ isa varilo satyatiraskaranni kanugoni ila prasnincadu: "Allah marganlo naku saha
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే వారిలోని తిరస్కార వైఖరిని పసిగట్టిన తరువాత ఈసా, ”అల్లాహ్‌ మార్గంలో నాకు తోడ్పడేవారెవరు?” అని ప్రశ్నించగా, హవారీలు, ”అల్లాహ్‌ మార్గంలో మేము (మీకు) తోడ్పడతాము. మేము అల్లాహ్‌ను విశ్వసించాము. మేము విధేయులమయ్యాము. ఈ విషయానికి మీరు సాక్షులుగా ఉండండి” అని జవాబిచ్చారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

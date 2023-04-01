@@ -2676,6 +2676,12 @@ allāh prati prāṇiki dāni karmala pratiphalaṁ ivvaṭāniki. Niścayaṅg�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ప్రతి వ్యక్తికీ అతని సంపాదనకు తగిన ప్రతిఫలం ఇవ్వటానికే ఇదంతా ఏర్పరచబడింది. నిశ్చయంగా అల్లాహ్‌ చాలా వేగంగా లెక్క తీసుకుంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Ataṟkavaṉ ‘‘eṉ iṟaivaṉē! Nī eṉṉai vaḻi keṭuttataṉ kār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ ప్రభూ! నీవు నన్నుఅపమార్గం పట్టించినందువల్ల, నేను వారికి (మానవులకు) భూమండలంలో పాపాన్ని అందంగా కనిపించేలా చేస్తాను. వారినందరినీ పెడత్రోవ పట్టిస్తాను” అని ఇబ్లీసు చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

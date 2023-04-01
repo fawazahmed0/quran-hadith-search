@@ -2676,6 +2676,12 @@ Mariyu mī strīlalō evarainā vyabhicārāniki pālpabaḍitē, vāriki vyatir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ స్త్రీలలో ఎవరయినా అక్రమ సంబంధం పెట్టుకుంటే వారికి వ్యతిరేకంగా మీలోని నలుగురు వ్యక్తులను సాక్షులుగా తీసుకురండి. వారు గనక సాక్ష్యం ఇస్తే ఆ స్త్రీలను మరణకాలం వచ్చే వరకుగానీ, లేదా అల్లాహ్‌ వారికోసం ఏదైనా మార్గాంతరం సూచించేవరకు గానీ – గృహాల్లో నిర్బంధించి ఉంచండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

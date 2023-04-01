@@ -2676,6 +2676,12 @@ o visvasulara! Allah yandu bhayabhaktulu kaligi undandi, mariyu ayana sandesahar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! అల్లాహ్ కు భయపడండి. అతని ప్రవక్తను విశ్వసించండి. అల్లాహ్ మీకు తన కారుణ్యం నుంచి రెట్టింపు భాగాన్ని ప్రసాదిస్తాడు. ఇంకా మీకు జ్యోతిని అనుగ్రహిస్తాడు. దాని వెలుగులో మీరు నడుస్తారు. ఆయన మీ పాపాలను కూడా క్షమిస్తాడు. అల్లాహ్ గొప్ప క్షమాశీలి, దయాశీలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

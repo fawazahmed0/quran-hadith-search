@@ -2676,6 +2676,12 @@ ataṟkavar, "itō! Eṉ putalviyar irukkiṟārkaḷ. Nīṅkaḷ (ētum) ceyt�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీకు అంతగా కావాలనుకుంటే, ఇదిగో నా ఈ కూతుళ్ళు ఉన్నారు” అని (లూత్‌) ప్రాధేయపడ్డాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

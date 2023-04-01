@@ -2676,6 +2676,12 @@ okavēḷa (mīru sāṭi kalpin̄cina) vāru mīku sahāyaṁ cēyalēka pōtē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారు గనక మీ సవాలును స్వీకరించకపోతే, ఈ ఖుర్‌ఆన్‌ దైవజ్ఞానంతో అవతరింపజేయబడిందనీ, ఆయన తప్ప మరో ఆరాధ్యదైవం లేనే లేడని తెలుసుకోండి. మరి ఇప్పుడైనా మీరు ముస్లింలవుతారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

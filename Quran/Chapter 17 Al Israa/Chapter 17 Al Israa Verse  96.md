@@ -2676,6 +2676,12 @@ ilā anu: "Nākū mariyu mīkū madhya allāh yē sākṣigā cālu. Niścayaṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారితో అను: ”నాకూ – మీకూ మధ్య సాక్షిగా అల్లాహ్‌ చాలు. తన దాసుల గురించి ఆయనకు అంతా తెలుసు. ఆయన వారిని చూస్తూనే ఉన్నాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

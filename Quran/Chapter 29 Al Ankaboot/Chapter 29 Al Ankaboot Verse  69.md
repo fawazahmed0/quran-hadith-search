@@ -2676,6 +2676,12 @@ mariyu evaraitē mā koraku hr̥dayapūrvakaṅgā pāṭupaḍatārō, vāriki 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే మా మార్గంలో బాధలు భరిస్తారో, వారికి మేము తప్పకుండా మా ‘మార్గాలు’ చూపుతాము. నిశ్చయంగా అల్లాహ్‌ సద్వర్తనులకు తోడుగా ఉంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

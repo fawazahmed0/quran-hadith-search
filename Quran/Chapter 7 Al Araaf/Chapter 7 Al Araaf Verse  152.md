@@ -2676,6 +2676,12 @@ avududanu (daivanga) cesukunna varu tappakunda tama prabhuvu agrahaniki guri avu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆవుదూడను పూజించిన వారిపై అతి త్వరలోనే వారి ప్రభువు తరఫు నుంచి ఆగ్రహం, అవమానం – ప్రాపంచిక జీవితంలోనే – పడుతుంది. అసత్యాలను అల్లేవారిని మేము ఈ విధంగానే శిక్షిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu okavēḷa mēmu kōrinaṭlayitē nīpai avatarimpajēyabaḍina sandē�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము గనక తలచుకుంటే, నీ వద్దకు పంపిన వహీ మొత్తాన్ని తిరిగి స్వాధీనం చేసుకోగలము. ఆ తరువాత మాకు వ్యతిరేకంగా దానిని తిరిగి ఇప్పించగలిగే ఏ సహాయకుణ్ణీ నీవు పొందలేవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

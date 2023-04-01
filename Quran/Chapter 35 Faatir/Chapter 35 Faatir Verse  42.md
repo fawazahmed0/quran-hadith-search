@@ -2676,6 +2676,12 @@ Mariyu, okavēḷa heccarika cēsēvāḍu vāri vaddaku vastē! Vāru tappaka, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ వద్దకే గనక హెచ్చరించేవాడెవడయినా వస్తే, వేరితర సమాజాల కన్నా ఎక్కువగా తామే సన్మార్గాన్ని అవలంబిస్తామని ఈ అవిశ్వాసులు పెద్ద పెద్ద ప్రమాణాలు చేసి మరీ చెప్పేవారు. కాని తీరా హెచ్చరించేవాడు (ప్రవక్త) వారి వద్దకు వచ్చాక, వారిలో విద్వేషం మాత్రమే మరింత పెచ్చరిల్లింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāni, okavēḷa mīru alā cēyakapōtē! Allāh mariyu āyana sandēśaharuni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీరు గనక అలా చేయనట్లయితే అల్లాహ్‌ మరియు ఆయన ప్రవక్తతో యుద్ధానికి సిద్ధంకండి. ఒకవేళ మీరు పశ్చాత్తాపం చెందితే మీ అసలు సొమ్ము మీకే ఉంటుంది. మీరూ ఒకరికి అన్యాయం చేయకూడదు. మీకు కూడా అన్యాయం జరుగకూడదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

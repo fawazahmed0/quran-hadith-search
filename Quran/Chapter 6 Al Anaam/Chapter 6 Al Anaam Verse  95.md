@@ -2676,6 +2676,12 @@ Niścayaṅgā, dhān'yamunu mariyu kharjūrapu bījānni cīlcē (molaketta jē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిస్సందేహంగా విత్తనాన్ని, టెంకను చీల్చేవాడు అల్లాహ్‌యే. ఆయన జీవమున్న దానిని జీవములేని దానిలో నుంచి తీస్తాడు. జీవములేని దానిని జీవమున్న దానిలో నుంచి తీసేవాడూ ఆయనే. ఆయనే అల్లాహ్‌. మరలాంటప్పుడు మీరు (సత్యం నుండి) ఎటు మరలిపోతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

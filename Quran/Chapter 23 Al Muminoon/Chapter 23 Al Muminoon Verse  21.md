@@ -2676,6 +2676,12 @@ mariyu niścayaṅgā, mī paśuvulalō mīku oka guṇapāṭhamundi. Mēmu vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీకు పశువుల్లో కూడా పెద్ద గుణపాఠం ఉంది. వాటి కడుపులలో నుంచి మేము మీకు ఒక పదార్థాన్ని (పాలను) త్రాపుతున్నాము. ఇంకా, వాటిలో మీకు ఇతరత్రా ప్రయోజనాలు కూడా ఎన్నో ఉన్నాయి. ఆ పశువుల్లో కొన్నింటిని మీరు తింటున్నారు కూడాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

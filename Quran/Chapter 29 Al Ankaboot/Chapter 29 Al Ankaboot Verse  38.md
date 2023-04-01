@@ -2676,6 +2676,12 @@ Mariyu vāstavaṅgā, ād mariyu samūd jātala vāri (vināśa) viṣayaṁ (m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆద్‌, సమూద్‌ వారిని కూడా మేము తుదముట్టించాము. వారి నివాస స్థలాల గురించి మీకు తెలిసిందే. షైతాను వారికి వారి దురాగతాలను అందమైనవిగా చేసి చూపాడు. వారు నిశిత దృష్టి గల వారైనప్పటికీ (షైతాను) వారిని సన్మార్గం నుంచి అడ్డుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

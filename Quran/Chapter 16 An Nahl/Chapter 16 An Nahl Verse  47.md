@@ -2676,6 +2676,12 @@ lēdā, vārini bhayakampitulu jēsi paṭṭukōvaccu kadā! Kāni niścayaṅg
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేదా తమను భయాందోళనలకు లోనుచేసి పట్టుకుంటాడని గానీ వారు భయపడటం లేదా? నిశ్చయంగా నీ ప్రభువు అసామాన్య వాత్సల్యం కలవాడు, అనంత కరుణామయుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

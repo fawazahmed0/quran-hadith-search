@@ -2676,6 +2676,12 @@ mariyu mēmu vāstavāniki, mūsāku spaṣṭamaina tom'midi adbhuta sūcanalan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మూసాకు స్పష్టమైన తొమ్మిది మహిమలను ఇచ్చాము. (కావాలంటే) నువ్వు స్వయంగా ఇస్రాయీల్‌ వంశీయులను అడుగు. అతను వారి వద్దకు వచ్చినప్పుడు, “మూసా! నువ్వు చేతబడి చేయబడ్డావేమోనని నా అనుమానం” అన్నాడు ఫిరౌను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

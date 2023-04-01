@@ -2676,6 +2676,12 @@ A taruvata cala mandi pravaktalanu memu vari taruvata pampamu. Mariyu maryam kum
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారి వెనుకే మేము మా ప్రవక్తలను నిరంతరం పంపసాగాము. వారి తరువాత మర్యం కుమారుడైన ఈసాను పంపాము. అతనికి ఇంజీలు గ్రంథాన్ని వొసగాము. అతన్ని అనుసరించే వారి హృదయాలలో మృదుత్వాన్ని, జాలిని సృజించాము. మరైతే సన్యాసత్వాన్ని (రహ్ బానియత్) వారంతట వారే ఆవిష్కరించారు. మేము మాత్రం దీనిని వారిపై విధించలేదు. దైవప్రీతిని తప్ప! మరి వారు దానికి తగురీతిలో కట్టుబడి ఉండలేకపోయారు. అయినప్పటికీ మేము వారిలో విశ్వసించిన వారికి వారి పుణ్య ఫలాన్ని ప్రసాదించాము. వారిలో అధికులు మాత్రం అవిధేయులుగా తయారయ్యారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

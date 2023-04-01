@@ -2676,6 +2676,12 @@ Vāritō anu: "Allāh ku vidhēyulai uṇḍaṇḍi mariyu sandēśaharuṇṇi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా! వారికి ఈ విధంగా) చెప్పు: “అల్లాహ్‌ ఆదేశాన్ని పాలించండి. దైవప్రవక్తను అనుసరించండి. ఒకవేళ మీరు గనక విముఖత చూపితే దైవప్రవక్తపై మోపబడిన కార్యభారం వరకే అతను బాధ్యుడు, మీపై ఉన్న కర్తవ్య నిర్వహణకు మీరే సంజాయిషీ ఇచ్చుకోవలసి ఉంటుంది. మీరు దైవప్రవక్త మాటను విన్నప్పుడే మీకు సన్మార్గం లభిస్తుంది. విషయాన్ని స్పష్టంగా చేరవేయటం వరకే ప్రవక్త బాధ్యత (అని తెలుసుకోండి!”)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

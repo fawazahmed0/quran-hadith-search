@@ -2676,6 +2676,12 @@ atanu allāh pai abad'dhaṁ kalpin̄cāḍō lēka! Ataniki piccipaṭṭindō 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అతను (స్వయంగానే) అల్లాహ్‌కు అబద్ధాలు ఆపాదిస్తున్నాడో లేక అతనికి పిచ్చిపట్టిందో (మాకు తెలియదు)!” కాదు, (యదార్థమేమిటంటే) పరలోకంపై నమ్మకం లేనివారు మాత్రమే శిక్షకు, బహుదూరపు అపమార్గానికి లోనై ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu paśuvulalō konni baruvu mōyaṭāniki, marikonni cinnavi (bhāraṁ m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పశువులలో ఎత్తుగా ఉండే వాటిని, పొట్టిగా ఉండేవాటినీ పుట్టించినవాడు కూడా ఆయనే. అల్లాహ్‌ మీకు ఇచ్చిన దానిని తినండి. కాని షైతాను అడుగుజాడల్లో నడవకండి. నిశ్చయంగా వాడు మీ బహిరంగ శత్రువు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

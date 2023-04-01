@@ -2676,6 +2676,12 @@ mariyu mīru adi granthaṁ lōnidani bhāvin̄cālani, vāstavāniki vārilō k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలోని మరికొందరు గ్రంథాన్ని పఠిస్తూ తమ నాలుకలను త్రిప్పుతారు – అది గ్రంథంలోని భాగమే అని మీరు భావించాలన్న ఉద్దేశ్యంతో వారలా చేస్తారు. కాని వాస్తవానికి అది గ్రంథంలో అంతర్భాగం కానేకాదు. ”అది అల్లాహ్‌ తరఫు నుంచి వచ్చినది” అని వారు అంటారు. యదార్థానికి అది అల్లాహ్‌ తరఫునుండి వచ్చినది కాదు. వారు ఉద్దేశ్యపూర్వకంగా అల్లాహ్‌కు అసత్యాన్ని అంటగడుతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

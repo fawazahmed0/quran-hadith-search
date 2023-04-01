@@ -2676,6 +2676,12 @@ mariyu vāstavāniki mēmu istunna ī vyavadhini satyatiraskārulu tamaku mēlai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఇస్తున్న అవకాశాన్ని అవిశ్వాసులు తమ పాలిట మేలైనదని భావించరాదు సుమా! వారు తమ పాపాల పుట్టను పెంచుకోవటానికే ఈ అవకాశం ఇస్తున్నాం. అవమానభరిత మైన శిక్ష వారి కోసమే ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

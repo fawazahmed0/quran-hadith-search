@@ -2676,6 +2676,12 @@ Mariyu vāru allāh nu kādani tamaku naṣṭaṁ gānī, lābhaṁ gānī kali
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు అల్లాహ్‌ను వదలి తమకు నష్టాన్నిగానీ, లాభాన్ని గానీ చేకూర్చలేని వాటిని పూజిస్తున్నారు. ఇంకా, “అల్లాహ్‌ సమక్షంలో ఇవి మాకు సిఫారసు చేస్తాయి” అని చెబుతున్నారు. “ఏమిటీ, ఆకాశాలలో గానీ, భూమిలో గానీ అల్లాహ్‌కు తెలియని దానిని గురించి మీరు ఆయనకు తెలియజేస్తున్నారా?” వారు కల్పించే భాగస్వామ్యాల నుంచి ఆయన పవిత్రుడు, ఉన్నతుడు అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

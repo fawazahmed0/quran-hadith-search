@@ -2676,6 +2676,12 @@ vāru (kapaṭa viśvāsulu) iṅkā ilā aṇṭunnāru: "Manaṁ madīnā naga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మనం గనక మదీనా నగరానికి తిరిగి వెళ్ళినట్లయితే, గౌరవనీయుడు అల్పుణ్ణి అక్కణ్ణుంచి వెళ్ళగొడతాడు” అని వారు అంటున్నారు. నిజానికి గౌరవమైతే అల్లాహ్ కు, ఆయన ప్రవక్తకు, విశ్వాసులకే చెందుతుంది. కాని ఈ కపటులు తెలుసుకోవటం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

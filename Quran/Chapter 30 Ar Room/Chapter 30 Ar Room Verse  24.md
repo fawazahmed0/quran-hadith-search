@@ -2676,6 +2676,12 @@ mariyu āyana sūcanalalō, āyana mīku merupunu cūpin̄ci, bhayānni mariyu �
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా ఆయన సూచనలలో (ఇంకొకటి) ఏమిటంటే; ఆయన మిమ్మల్ని భయపెట్టటానికి, ఆశపెట్టటానికి మెరుపును చూపిస్తున్నాడు. ఆకాశం నుంచి వర్షం కురిపిస్తున్నాడు. మరి దాని ద్వారా మృతభూమికి జీవం పోస్తున్నాడు. ఇందులో కూడా బుద్ధిజీవుల కోసం ఎన్నో నిదర్శనాలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

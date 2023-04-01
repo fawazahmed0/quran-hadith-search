@@ -2676,6 +2676,12 @@ mariyu ī vidhaṅgā dr̥ḍhanam'makaṁ unna vārilō cērālani, mēmu ibrā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ విధంగానే మేము ఇబ్రాహీముకు భూమ్యాకాశాలలోని సృష్టితాలను చూపించాము. అతనికి దృఢ నమ్మకం కలగాలన్న ఉద్దేశంతోనే అలా చేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

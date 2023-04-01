@@ -2676,6 +2676,12 @@ mariyu āyanē pandiḷḷa mīda prākē (ekkin̄cabaḍē) tīgalu mariyu pand
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే పందిళ్ళపై ఎక్కించబడే తోటలను, పందిళ్ళపై ఎక్కించబడని తోటలను, ఖర్జూర చెట్లను, పంటపొలాలను సృజించాడు. వాటి ద్వారా రకరకాల ఆహార వస్తువులు లభ్యమవుతాయి. జైతూను (ఆలివ్‌), దానిమ్మ వృక్షాలను కూడా సృజించాడు. వాటిలో కొన్ని పరస్పరం పోలి ఉంటాయి. మరికొన్ని పోలి ఉండవు. వాటన్నింటి పండ్లు పండినప్పుడు వాటిని తినండి. పంటకోసే రోజున తప్పనిసరిగా చెల్లించవలసిన దాని హక్కును చెల్లించండి. మితిమీరకండి. మితిమీరే వారిని అల్లాహ్‌ ఎట్టిపరిస్థితిలోనూ ఇష్టపడడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

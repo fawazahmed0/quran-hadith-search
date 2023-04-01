@@ -2676,6 +2676,12 @@ Mariyu vāru (isrāyīl santatilōni aviśvāsulu, īsā ku virud'dhaṅgā) ku�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసులు రహస్యంగా ఎత్తులు వేయసాగారు. అల్లాహ్‌ కూడా వారి ఎత్తులకు పై ఎత్తులు వేశాడు. ఎత్తులు వేసే వారిలో అల్లాహ్‌ సాటిలేని మేటి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

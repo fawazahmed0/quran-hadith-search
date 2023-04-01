@@ -2676,6 +2676,12 @@ ayane, allah! Ayana tappa maroka aradhyudu ledu. Ayana visvasarvabhaumudu, param
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే అల్లాహ్. ఆయన తప్ప మరో ఆరాధ్యుడు లేడు. ఆయనే రాజాధిరాజు, (పరమ పవిత్రుడు), లోపాలన్నింటికీ అతీతుడు, శాంతి (భద్రతల) ప్రదాత, పర్యవేక్షకుడు, సర్వశక్తుడు, బలపరాక్రమాలు గలవాడు, పెద్దరికం గలవాడు. ప్రజలు ఆయనకు కల్పించే భాగస్వామ్యాల నుండి అల్లాహ్ పవిత్రంగా ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

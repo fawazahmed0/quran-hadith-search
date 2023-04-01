@@ -2676,6 +2676,12 @@ mariyu vāstavāniki mēmu mūsānu, mā sūcanalatō (āyāt latō) pampi: "Nī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మూసాకు మా సూచనలిచ్చి పంపుతూ, “నువ్వు నీ జాతి వారిని అంధకారాల నుంచి – వెలికి తీసి – వెలుగులోకి తీసుకురా. అల్లాహ్‌ యొక్క మహోపకారాలను వారికి జ్ఞాపకం చేయి” అని చెప్పిన సందర్భాన్ని (గుర్తుకు తెచ్చుకోండి). నిశ్చయంగా ఇందులో సహనమూర్తులు, కృతజ్ఞతా మనస్కులైన ప్రతి ఒక్కరికీ సూచనలు ఉన్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu karmapatraṁ vāri mundu un̄cabaḍinapuḍu, ā aparādhulu, andulō u
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కర్మల పత్రాలు (వారి) ముందు ఉంచబడతాయి. నేరస్తులు ఆ పత్రాల్లో రాయబడి ఉన్నదాన్ని చూసి భీతిల్లుతూ, “అయ్యో! మా దౌర్భాగ్యం! ఇదేమి పత్రం? ఇది ఏ చిన్న విషయాన్నీ,ఏ పెద్ద విషయాన్నీ వదలకుండా నమోదు చేసిందే?!” అని వాపోవటం నువ్వు చూస్తావు. తాము చేసినదంతా వారు ప్రత్యక్షంగా చూసుకుంటారు. నీ ప్రభువు ఎవరికీ అన్యాయం చేయడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

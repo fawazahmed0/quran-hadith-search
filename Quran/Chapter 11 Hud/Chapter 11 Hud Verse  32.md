@@ -2676,6 +2676,12 @@ vāru annāru: "Ō nūh! Nīvu mātō vādin̄cāvu, cālā vādin̄cāvu, ika n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ నూహ్‌! నువ్వు మాతో వాదించావు. మరీ మరీ వాదించావు. మరి నువ్వు సత్యవంతుడవే అయితే మమ్మల్ని హెచ్చరించే దానిని (శిక్షను) తీసుకురా” అని అతని జాతి వారు అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

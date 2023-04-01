@@ -2676,6 +2676,12 @@ ayana mi karmalanu sarididdutadu mariyu mi papalanu ksamistadu. Mariyu evadaite 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తద్వారా అల్లాహ్‌ మీ ఆచరణలను చక్కదిద్దుతాడు. మీ పాపాలను మన్నిస్తాడు. ఎవరయితే అల్లాహ్‌కు, ఆయన ప్రవక్తకు విధేయత కనబరచాడో అతను గొప్ప విజయం సాధించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

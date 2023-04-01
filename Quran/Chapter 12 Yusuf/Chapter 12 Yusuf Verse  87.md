@@ -2676,6 +2676,12 @@ Nā kumārulārā! Mīru pōyi yūsuph nu mariyu atani sōdaruṇṇi gurin̄ci 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఒరేయ్‌ అబ్బాయిలూ! మీరు వెళ్ళి యూసుఫ్‌ను గురించీ, అతని సోదరుని గురించీ బాగా దర్యాప్తు చేయండి. అల్లాహ్‌ కారుణ్యం పట్ల నిరాశ చెందకండి. అల్లాహ్‌ను తిరస్కరించిన వారు మాత్రమే ఆయన కారుణ్యం పట్ల నిరాశ చెందుతారు” అని అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

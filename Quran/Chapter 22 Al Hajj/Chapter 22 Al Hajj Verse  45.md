@@ -2676,6 +2676,12 @@ Aniyāyam ceyta ettaṉaiyō ū(rā)rkaḷai nām aḻittirukkiṟōm - avaṟ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎన్నో పట్టణాలను మేము తుడిచిపెట్టేశాము. ఎందుకంటే అవి దుర్మార్గానికి ఒడిగట్టాయి. అవి తమ కప్పులపై తల క్రిందులుగా పడి ఉన్నాయి. ఎన్నో బావులు పాడుపడి ఉన్నాయి. మరెన్నో పటిష్టమైన, ఎత్తైన మేడలు నిర్మానుష్యంగా ఉన్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

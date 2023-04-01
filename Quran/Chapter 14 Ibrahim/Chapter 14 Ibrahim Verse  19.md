@@ -2676,6 +2676,12 @@ emi? Niscayanga, allah bhumyakasalanu satyanto srstincadani niku teliyada?" Ayan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, అల్లాహ్‌ భూమ్యాకాశాలను సత్యబద్ధంగా (అత్యంత యుక్తితో) సృష్టించటాన్ని నువ్వు చూడటం లేదా? ఆయన గనక తలచుకుంటే మీ అందరినీ తుద ముట్టించి, మరో సరికొత్త సృష్టిని తేగలడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

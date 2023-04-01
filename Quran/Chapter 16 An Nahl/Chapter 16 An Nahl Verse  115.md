@@ -2676,6 +2676,12 @@ niścayaṅgā, āyana mī koraku (dānantaṭa adi) caccinadi (paśuvu/pakṣi)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా, ఆయన చచ్చిన పశువు, రక్తం, పందిమాంసం, అల్లాహ్‌ పేరుగాక ఇతరుల పేరు ఉచ్చరించబడినవి మీకు నిషేధించాడు. అయితే ఎవరయినా ఇష్టంతో కాకుండా, మితిమీరే ఉద్దేశం కూడా లేకుండా- గత్యంతరంలేని పరిస్థితిలో- (వాటిని తిన్నట్లయితే) అల్లాహ్‌ క్షమించేవాడు, జాలి చూపేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

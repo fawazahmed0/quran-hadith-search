@@ -2676,6 +2676,12 @@ mariyu vāru: "Itanipai (pravaktapai) itani prabhuvu taraphu nuṇḍi ēdainā 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈయన ప్రభువు తరఫు నుంచి ఈయనపై ఏదైనా మహిమ ఎందుకు అవతరింపజేయబడలేదు? అని వారు అడుగుతున్నారు. “అల్లాహ్‌ (ముమ్మాటికీ) మహిమను అవతరింపజేసే శక్తి కలిగి ఉన్నాడు” అని (ఓ ప్రవక్తా!) వారికి చెప్పు. అయితే వారిలో అధికులకు తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

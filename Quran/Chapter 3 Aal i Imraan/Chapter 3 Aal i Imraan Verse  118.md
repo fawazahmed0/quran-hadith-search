@@ -2676,6 +2676,12 @@ o visvasulara! Miru mi varini (visvasulanu) tappa itarulanu mi sannihita snehitu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు మీ వారిని తప్ప వేరితరులను మీ ఆంతరంగికులుగా చేసుకోకండి. ఇతరులు మీకు నష్టం కలిగించటానికి తమకు దొరికే ఏ అవకాశాన్నీ విడిచిపెట్టరు. మీరు కష్టాల్లో పడాలన్నదే వారి కోరిక. వారిలోని అక్కసు స్వయంగా వారి నోట వెల్లడయింది. ఇక వారు తమ ఆంతర్యాల్లో దాచి ఉంచినది మరింత తీవ్రమైనది. మేము మీ కొరకు సూచనలను స్పష్టం చేశాము. మీరు బుద్ధిమంతులే అయితే (వీటిపై యోచన చేయండి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

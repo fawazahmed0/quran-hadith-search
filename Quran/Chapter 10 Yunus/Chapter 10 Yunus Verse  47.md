@@ -2676,6 +2676,12 @@ mariyu prati samājānikī oka pravakta (pampabaḍḍāḍu). Eppuḍaitē vār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రతి సమాజానికీ ఒక ప్రవక్త ఉన్నాడు. కాబట్టి వారి ప్రవక్త వారివద్దకు వచ్చేసినపుడు వారివ్యవహారంలో న్యాయబద్ధంగా తీర్పు చెయ్యబడుతుంది. వారికెలాంటి అన్యాయం జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

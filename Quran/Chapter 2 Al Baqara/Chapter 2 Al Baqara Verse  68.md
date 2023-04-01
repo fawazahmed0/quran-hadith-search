@@ -2676,6 +2676,12 @@ vāru: "Adi elāṇṭidai uṇḍālō māku spaṣṭaṅgā telupamani nī pr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు వారు, “అయితే అది ఎటువంటిది అయిఉండాలో మాకు వివరించవలసిందిగా నీ ప్రభువును అర్థించు” అని అన్నారు. దానికి అతను, “అది మరీ ముసలిదై ఉండకూడదు, మరీ లేగదూడగా కూడా ఉండరాదు. పైగా అది మధ్యవయస్సులో వున్న ఆవు అయి ఉండాలని ఆయన ఆజ్ఞాపిస్తున్నాడు. (సరేనా!) ఇక ఆజ్ఞాపించబడిన విధంగా చెయ్యండి” అని చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

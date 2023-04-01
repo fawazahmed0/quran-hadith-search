@@ -2676,6 +2676,12 @@ mariyu satyānni tiraskarin̄cina vārini narakāgni mundu pravēśapeṭṭaba�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసులు నరకం వద్దకు తేబడిన రోజున, “ఏమిటి, ఇది సత్యం కాదా?!” (అని వారిని ప్రశ్నించటం జరుగుతుంది). “అవును. మా ప్రభువు సాక్షిగా! (ఇది సత్యమే” అని వారి నుంచి సమాధానం వస్తుంది). “సరే! ఇప్పుడు మీ తిరస్కార వైఖరికి బదులుగా శిక్షను చవిచూడండి” అనంటాడు (అల్లాహ్‌)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ okavēḷa allāh mim'malni tappu dārilō viḍici peṭṭālani kōritē, nē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ మిమ్మల్ని అపమార్గాన వదిలేయదలచుకుంటే నేను మీశ్రేయాన్ని ఎంతగా అభిలషించినా నా శ్రేయోభిలాష మీకే విధంగానూ ఉపకరించదు. ఆయనే మీ అందరి ప్రభువు. ఆయన వైపునకే మీరంతా మరలించబడతారు” అని (నూహు) సమాధానమిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

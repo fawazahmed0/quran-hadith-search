@@ -2676,6 +2676,12 @@ Bixūredu ʙinūşed az ta'omu şaroʙho xuşu guvoro ʙa saʙaʙi a'moli neke, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(వారితో ఇలా అనబడుతుంది:) “మీరు చేసుకున్న కర్మలకు ప్రతిఫలంగా హాయిగా తింటూ, త్రాగుతూ ఉండండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

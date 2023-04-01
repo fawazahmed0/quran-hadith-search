@@ -2676,6 +2676,12 @@ a pidapa ratri cikati atanipai kram'mukunnappudu, atanu oka naksatranni cusi: "I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతనిపై రాత్రి చీకటి అలుముకున్నప్పుడు, అతను ఒక నక్షత్రాన్ని చూసి, “ఇతనే నా ప్రభువు” అన్నాడు. కాని అది అస్తమించగానే, “అస్తమించే వాటిని నేను అభిమానించను” అని చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

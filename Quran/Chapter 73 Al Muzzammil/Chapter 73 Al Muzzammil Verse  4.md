@@ -2676,6 +2676,12 @@ lēdā dāni kaṇṭē konta ekkuva; mariyu khur'ān nu āgi āgi nem'madigā s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేదా దానిని మరికొద్దిగా పెంచుకో. ఖుర్ఆన్ ను మాత్రం బాగా – ఆగి ఆగి నింపాదిగా (స్పష్టంగా) పఠించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

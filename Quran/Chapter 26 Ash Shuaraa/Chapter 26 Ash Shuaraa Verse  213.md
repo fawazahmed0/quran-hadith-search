@@ -2676,6 +2676,12 @@ kāvuna allāh tō pāṭu maroka ārādhya daivānni vēḍukōku, alā cēstē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ప్రవక్తా!) నువ్వు అల్లాహ్‌తోపాటు మరే ఇతర దైవాన్నీ మొరపెట్టుకోకు. నువ్వుగాని అలా చేశావంటే శిక్షించబడేవారిలో చేరిపోతావు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

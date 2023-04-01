@@ -2676,6 +2676,12 @@ vāritō anu: "Ēmī? Mīru satyavantulē ayitē ālōcin̄ci (ceppaṇḍi!) Ok
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వాళ్ళను అడుగు : “చూడండి! అల్లాహ్‌ తరఫునుంచి మీపై ఏదయినా ఆపద వచ్చిపడితే లేక మీపైన ప్రళయమే వస్తే అప్పుడు మీరు అల్లాహ్‌ను తప్ప వేరొకరెవరినయినా మొరపెట్టుకుంటారా? మీరు సత్యవంతులే అయితే (నిజం) చెప్పండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

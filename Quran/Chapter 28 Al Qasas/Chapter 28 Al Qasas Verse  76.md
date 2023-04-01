@@ -2676,6 +2676,12 @@ vāstavāniki, khārūn, mūsā jātiki cendinavāḍē. Kāni ataḍu vāriki v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+చూడబోతే, ఖారూన్‌ కూడా మూసా జాతికి చెందినవాడే. కాని వాడు తన వారిపైనే దురాగతాలకు పాల్పడసాగాడు. మేము వాడికి ఎంత ఖజానాను ప్రసాదించామంటే దాని తాళపుచెవులను అనేక మంది బలాఢ్యులు కలసి కూడా అతి కష్టమ్మీద ఎత్తగలిగే వారు. ఒకసారి అతని జాతివారు అతన్నుద్దేశించి ఇలా అన్నారు: “మిడిసిపడకు. మిడిసిపడే వారిని అల్లాహ్‌ ఇష్ట పడడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

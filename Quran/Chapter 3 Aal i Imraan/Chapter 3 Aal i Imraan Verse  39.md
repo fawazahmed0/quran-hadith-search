@@ -2676,6 +2676,12 @@ taruvāta atanu (jakariyyā) tana gadilō nilabaḍi namāj cēstunnappuḍu dē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కుటీరంలో నిలబడి నమాజు చేస్తుండగా దైవదూతలు తనను పిలిచి, ”అల్లాహ్‌ నీకు యహ్యా గురించిన శుభవార్త ఇస్తున్నాడు. అతడు దైవవాక్కును ధృవపరుస్తాడు. నాయకుడౌతాడు. ఇంద్రియ నిగ్రహం కలవాడు, దైవప్రవక్త, సద్వర్తనుల కోవకు చెందినవాడై ఉంటాడు” అని చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ eṉ iṟaivaṉ, nītattaik koṇṭē ēviyuḷḷāṉ; ovvoru toḻukaiyiṉ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఈ విధంగా చెప్పు: నా ప్రభువు న్యాయంగురించి ఆదేశించాడు. సజ్దా చేసే ప్రతిసారీ మీ దిశ సరిగ్గా ఉండేటట్లు చూసుకోమని, ధర్మాన్ని (ఇబాదత్‌ను) కేవలం అల్లాహ్‌ కొరకే ప్రత్యేకించుకుని ఆయన్ని వేడుకోమని ఆయన ఆజ్ఞాపించాడు. మొదటిసారి అల్లాహ్‌ మిమ్మల్ని ఎలా పుట్టించాడో మలిసారి కూడా మీరు అలాగే పుట్టించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

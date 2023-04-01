@@ -2676,6 +2676,12 @@ niścayaṅgā, rahasya samālōcana ṣaitān cēṣṭayē. Adi viśvāsulaku 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులను వ్యాకుల పరచాలనుకునే (కుత్సిత) సమాలోచనలు షైతాను ప్రేరణలే. అల్లాహ్ అనుజ్ఞ కానంత వరకూ వాడు వారికి ఎలాంటి కీడు కలిగించలేడన్నది నిజం. విశ్వాసులు మాత్రం అల్లాహ్ నే నమ్ముకోవాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

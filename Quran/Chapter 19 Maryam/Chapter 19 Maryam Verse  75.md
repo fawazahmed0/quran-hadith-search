@@ -2676,6 +2676,12 @@ Vāritō anu: "Mārgabhraṣṭatvanlō paḍi vunnavāniki, ananta karuṇāmay
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “అపమార్గానికి లోనై ఉన్నవారికి కరుణామయుడైన అల్లాహ్‌ బాగా గడువు ఇస్తాడు. కడకు వారు- తమకు వాగ్దానం చేయబడుతున్న శిక్షను లేదా ప్రళయ గడియను చూచినపుడు ఎవరి స్థానం నికృష్టమైనదో, ఎవరి సమూహం బలహీనమైనదో తెలుసుకుంటారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

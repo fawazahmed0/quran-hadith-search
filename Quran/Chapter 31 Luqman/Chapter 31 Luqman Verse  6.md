@@ -2676,6 +2676,12 @@ mariyu mānavulalō kondaru - jñānaṁ lēka, vyartha kālakṣēpaṁ cēsē 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జ్ఞానంతో నిమిత్తం లేకుండానే ప్రజలను అల్లాహ్‌ మార్గం నుంచి తప్పించటానికి, దాన్ని వేళాకోళం చేయడానికి మనసును వశీకరించే విషయాలను కొనుగోలు చేసేవాడు కూడా మనుషుల్లో ఉన్నాడు. పరాభవం పాల్జేసే శిక్ష ఉన్నది ఇలాంటి వారికోసమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ bhūmyākāśāla viśvasāmrājyādhipatyaṁ āyanakē cendutundi. Āyana evva
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాల సార్వభౌమత్వం ఆయనదే. ఆయన ఎవరినీ సంతానంగా చేసుకోలేదు. ఆయన రాజ్యాధికారంలో ఆయనకు భాగస్వాములు కూడా ఎవరూ లేరు. ఆయన ప్రతి వస్తువునూ సృష్టించి, దానికి తగ్గట్టుగా – దాని లెక్కను నిర్థారించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

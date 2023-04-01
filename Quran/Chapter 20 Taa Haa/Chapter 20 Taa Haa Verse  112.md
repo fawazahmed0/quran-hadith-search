@@ -2676,6 +2676,12 @@ mariyu satkāryālu cēstū, viśvāsi ayi unna vāniki elāṇṭi an'yāyaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇక సత్కార్యాలు చేసినవాడు; అతను విశ్వాసి కూడా అయివుంటే – అతనికి అన్యాయం జరుగుతుందన్న జంకుగానీ, తన హక్కు కాజేయబడుతుందన్న భీతిగానీ ఉండదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

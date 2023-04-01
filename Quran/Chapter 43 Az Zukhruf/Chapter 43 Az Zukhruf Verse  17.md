@@ -2676,6 +2676,12 @@ mariyu vāru, karuṇāmayuniki aṇṭagaṭṭēdi (āḍa santānamē ganaka)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారిలో ఎవరికయినా, కరుణామయుడైన అల్లాహ్‌కు అతను అంటగట్టిన ఉపమానం అతనికే కలిగిందనే శుభవార్తను అందజేస్తే అతని ముఖంపై చీకటి ఆవరిస్తుంది. ఆపై అతను దుఃఖించసాగుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

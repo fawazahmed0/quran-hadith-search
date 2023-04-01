@@ -2676,6 +2676,12 @@ niścayaṅgā, viśvasin̄ci satkāryālu cēsēvāri koraku krinda selayēḷ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే విశ్వసించి, సత్కార్యాలు చేసేవారి కోసం క్రింద కాలువలు ప్రవహించే తోటలు ఉన్నాయి. ఇదే గొప్ప విజయం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ayana tana istanusaranga mim'malni (matr) garbhalalo tirci diddutadu. Ayana tapp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే తాను కోరిన విధంగా మాతృ గర్భాల్లో మీ రూపురేఖలను మలుస్తాడు. ఆయన తప్ప మరో ఆరాధ్యుడు లేడు. ఆయన శక్తి సంపన్నుడు, వివేక సంపన్నుడు కూడాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

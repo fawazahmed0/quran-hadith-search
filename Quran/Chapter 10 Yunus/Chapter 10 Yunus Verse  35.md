@@ -2676,6 +2676,12 @@ vārini aḍugu: "Mīru allāh ku sāṭi kalpin̄cukunna vārilō satyaṁ vaip
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీ భాగస్వాములలో సత్యం వైపుకు మార్గదర్శకత్వం వహించేవాడెవడయినా ఉన్నాడా?” అని వారిని అడుగు. ”సత్యం వైపుకు మార్గదర్శకత్వం వహించేవాడు అల్లాహ్‌ మాత్రమే. అలాంటప్పుడు సన్మార్గం చూపేవాడు అనుసరణకు ఎక్కువ అర్హుడా? లేక ఇతరులు సన్మార్గం చూపేవరకూ తనంతట తానుగా సన్మార్గం తెలుసుకోలేనివాడా? అసలు మీకేమైపోయింది? మీరు ఇలాంటి నిర్ణయాలు గైకొంటున్నారేమిటి?” అని వారిని అడుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

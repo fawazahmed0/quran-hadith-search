@@ -2676,6 +2676,12 @@ Ilā anu: "Ākāśālalōnū mariyu bhūmilōnū, ēmēmunnāyō cūḍaṇḍi!
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “ఆకాశాలలో, భూమిలో ఏ వస్తువులయితే ఉన్నాయో వాటిని కాస్త (నిశిత దృష్టితో) చూడండి!” విశ్వసించని వారికి సూచనలుగానీ, హెచ్చరికలుగానీ లాభదాయకం కాజాలవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

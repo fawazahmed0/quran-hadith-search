@@ -2676,6 +2676,12 @@ mariyu mā dāsuḍu ayyūb nu gurin̄ci prastāvin̄cu; atanu tana prabhuvutō 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మా దాసుడైన అయ్యూబ్‌ (అలైహిస్సలాం)ను జ్ఞప్తికి తెచ్చుకో. “షైతాను నన్ను దుఃఖానికి, బాధకు లోను చేశాడు” అని అతను తన ప్రభువుకు మొరపెట్టుకున్నప్పుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

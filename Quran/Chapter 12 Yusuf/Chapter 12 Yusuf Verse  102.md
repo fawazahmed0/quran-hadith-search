@@ -2676,6 +2676,12 @@ Inho az xaʙarhoi ƣajʙ ast, ki ʙa tu ej Muhammad (sallallohu alajhi va sallam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) ఇది అగోచర సమాచారాలలోనిది. దీన్ని మేము నీకు వహీ ద్వారా తెలియపరుస్తున్నాము. వారంతా కూడ బలుక్కుని, కుతంత్రం చేస్తున్నప్పుడు నువ్వు వారి దగ్గరలేవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

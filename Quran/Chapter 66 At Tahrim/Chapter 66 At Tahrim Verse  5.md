@@ -2676,6 +2676,12 @@ okavēḷa atanu (muham'mad!) Mī andarikī viḍākulistē! Allāh, mīku badul
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ అతను (ప్రవక్త) మీకు విడాకులిస్తే అతి త్వరలోనే అతని ప్రభువు అతనికి మీకు బదులుగా మీకన్నా ఉత్తమురాలైన భార్యలను ప్రసాదిస్తాడు. వారు ముస్లిములు, విశ్వాసం కలిగి ఉన్న వారు, విధేయత చూపేవారు, పశ్చాత్తాపం చెందేవారు, ఆరాధనలు చేసేవారు, ఉపవాసాలు పాటించేవారు అయి ఉంటారు. వారు వితంతువులూ అయి ఉంటారు, కన్యలూ అయి ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

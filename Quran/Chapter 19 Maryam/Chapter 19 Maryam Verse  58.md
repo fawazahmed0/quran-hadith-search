@@ -2676,6 +2676,12 @@ vārandarū, allāh anugrahin̄cina ādam santati vārilōni daivapravaktalalō 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ అనుగ్రహించిన ప్రవక్తలు వీరు. వారు ఆదం సంతతికి చెందినవారు. నూహుతో పాటు మేము ఓడలోకి ఎక్కించిన వారి వంశీయులు. ఇబ్రాహీము, యాఖూబు (ఇస్రాయీలు)సంతతికి చెందినవారు. వారంతా మా ద్వారా సన్మార్గం పొందినవారు, మా చేత ఎన్నుకోబడిన ప్రజల్లోని వారు. వారి ముందు కరుణామయుడైన దేవుని వచనాలు పారాయణం చేయబడినప్పుడు వారు విలపిస్తూ సాష్టాంగపడేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

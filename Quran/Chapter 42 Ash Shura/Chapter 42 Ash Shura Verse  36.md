@@ -2676,6 +2676,12 @@ kāvuna mīku ivvabaḍindantā prāpan̄cika jīvitapu sukhasantōṣamē. Kanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మీకు ఏది ఇవ్వబడినా అది ప్రాపంచిక జీవితపు (తాత్కాలిక) సంపద మాత్రమే. అల్లాహ్‌ దగ్గర ఉన్నది ఇంతకన్నా మేలైనది, శాశ్వితమైనది. విశ్వసించి, కేవలం తమ ప్రభువును నమ్ముకునేవారికి మాత్రమే అది లభిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

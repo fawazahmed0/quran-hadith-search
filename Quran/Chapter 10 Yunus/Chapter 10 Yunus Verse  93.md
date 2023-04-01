@@ -2676,6 +2676,12 @@ Mariyu vāstavāniki mēmu isrāyīl santati vāriki uṇḍaṭāniki man̄ci s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఇస్రాయీలు సంతతి వారికి చాలా మంచి నివాసస్థలాన్ని, తినటానికి పరిశుద్ధమైన ఆహారపదార్థాలను ఇచ్చాము. వారి వద్దకు (మంచీ చెడుల) జ్ఞానం వచ్చిన తరువాతే వారు విభేదించుకున్నారు! నిశ్చయంగా నీ ప్రభువు ప్రళయదినాన వారు విభేదించుకుంటూ ఉన్న విషయాలపై వారి మధ్య తీర్పు చేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

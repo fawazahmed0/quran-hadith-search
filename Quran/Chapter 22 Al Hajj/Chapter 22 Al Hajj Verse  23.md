@@ -2676,6 +2676,12 @@ niścayaṅgā, viśvasin̄ci satkāryālu cēsēvārini allāh krinda selayē�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించి, సత్కార్యాలు చేసిన వారికి క్రింద సెలయేరులు పారే (స్వర్గ) వనాలలో అల్లాహ్‌ ప్రవేశం కల్పిస్తాడు. అక్కడ వారు బంగారు కంకణాలు తొడిగించబడతారు – స్వచ్ఛమైన ముత్యాలు కూడా! వారు ధరించే వస్త్రాలు కూడా పట్టు వస్త్రాలై ఉంటాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

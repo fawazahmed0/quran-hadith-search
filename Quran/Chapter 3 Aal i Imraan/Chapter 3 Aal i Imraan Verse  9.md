@@ -2676,6 +2676,12 @@ O ma prabhu! Niscayanga nive manavulandarini nis'sandehanga raboye a dinamuna sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”మా ప్రభూ! నిశ్చయంగా నీవు జనులందరినీ ఒక రోజు సమీకరిస్తావు. ఆ రోజు రావటంలో సందేహానికి ఎలాంటి ఆస్కారం లేదు, అల్లాహ్‌ ఎట్టి పరిస్థితిలోనూ వాగ్దానానికి విరుద్ధంగా వ్యవహరించడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

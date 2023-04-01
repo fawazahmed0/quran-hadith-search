@@ -2676,6 +2676,12 @@ Az tu, ej Pajomʙar, dar ʙorai hilolhoi moh mepursand, ʙigū: Alloh onro nişo
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ప్రజలు నిన్ను నెలవంకలను గురించి ప్రశ్నిస్తున్నారు కదూ! ఇది ప్రజల (ఆరాధనల) వేళలను, హజ్‌ కాలాన్ని నిర్ధారించటానికి (జరిగిన ఏర్పాటు) అని నువ్వు వారికి సమాధానం ఇవ్వు. (ఇహ్రామ్‌ స్థితిలో) మీరు మీ ఇళ్ళల్లోకి వెనుక వైపు నుంచి రావటం సత్కార్యం కాదు. అల్లాహ్‌ పట్ల భయభక్తులు కలిగి వున్నవాడిదే అసలు సత్కార్యం. మీరు మీ ఇండ్లల్లోకి వాకిళ్ళ నుండే ప్రవేశించండి. సాఫల్యం పొందగలందులకుగాను అల్లాహ్‌కు భయపడుతూ ఉండండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

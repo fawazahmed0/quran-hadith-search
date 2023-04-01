@@ -2676,6 +2676,12 @@ Mariyu nā vadda nidhulu unnāyani gānī mariyu nāku agōcara jñānamunnadani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా దగ్గర అల్లాహ్‌ నిధులున్నాయని నేను మీతో అనటం లేదే! (వినండి!) నాదగ్గర అగోచర జ్ఞానం కూడా లేదు. నేను దైవదూతనని కూడా అనటం లేదు. మీరు చిన్న చూపు చూస్తున్న వారికి అల్లాహ్‌ ఏమేలూ చెయ్యబోడని కూడా నేను చెప్పటం లేదు. వారి ఆంతర్యాలలో ఉన్న దానిని అల్లాహ్‌ బాగా ఎరిగినవాడు. ఒకవేళ నేను గనక అలాంటి మాట ఏదైనా అంటే నేనూ దుర్మార్గుల్లో ఒకడిగా పరిగణించబడతాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

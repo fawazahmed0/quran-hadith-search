@@ -2676,6 +2676,12 @@ Allāh oka dr̥ṣṭāntaṁ istunnāḍu: Oka mānavuḍu (bānisa) paraspara�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఒక ఉదాహరణ ఇస్తున్నాడు: ఒక (బానిస) వ్యక్తి ఉన్నాడు. అతను విరుద్ధ భావాలు గల అనేకమంది భాగస్వాముల క్రింద ఉన్నాడు. రెండవ వ్యక్తి ఒక్కనికే చెందినవాడు (ఒక యజమానికి చెందిన బానిస). వారిద్దరూ సమానులవుతారా? ప్రశంసలన్నీ అల్లాహ్‌ కొరకే. కాని వారిలో చాలా మంది తెలియనివారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

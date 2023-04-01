@@ -2676,6 +2676,12 @@ mariyu vāru nī vaddaku (ninnu vyatirēkin̄caṭāniki) elāṇṭi upamānān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు నీ వద్దకు ఏ సందేహాన్ని తీసుకువచ్చినా దానికి సత్యంతో కూడిన సమాధానాన్నీ, అత్యుత్తమమైన వివరణను నీకు తెలియజేస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāri hr̥dayālu vinōda krīḍalalō (aśrad'dhalō) munigi unnāyi. Mariyu v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అసలు వారి హృదయాలు ప్రమత్తతలో పడి ఉన్నాయి. “ఇతనూ మీలాంటి మానవ మాత్రుడే కదా! మరలాంటప్పుడు మీరు చూస్తూ చూస్తూ ఇతని మాయాజాలంలో ఎందుకు పడిపోతున్నారు?” అంటూ ఈ దుర్మార్గులు రహస్య మంతనాలు సాగించారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

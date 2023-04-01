@@ -2676,6 +2676,12 @@ Ilā ceppu: "Ēmī? Vāṭi kaṇṭē uttamamaina vāṭini nēnu mīku telupan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: వీటికన్నా మేలైనదేదో నేను మీకు తెలుపనా? దైవభక్తి కలవారికి వారి ప్రభువు వద్ద స్వర్గ వనాలున్నాయి. వాటి క్రింద కాలువలు ప్రవహిస్తుంటాయి. వాటిలో వారు ఎల్లకాలం ఉంటారు. పవిత్రులైన భార్యలు వారి కోసం ఉంటారు. (వీటన్నింటితో పాటు) అల్లాహ్‌ ప్రసన్నత వారికి ప్రాప్తిస్తుంది. అల్లాహ్‌ దాసులను కనిపెట్టుకొని ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

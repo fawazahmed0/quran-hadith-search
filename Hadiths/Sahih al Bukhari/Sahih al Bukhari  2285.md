@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem, Hayber arazisini, ekip dikmeleri için, çıkacak mahsulün yarısı karşılığında onlara (kiraya) vermiştir Nafi' kira miktarını söylemişti, fakat ben aklımda tutamadım Tekrar. 2
+Abdullah İbn Ömer r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem, Hayber arazisini, ekip dikmeleri için, çıkacak mahsulün yarısı karşılığında onlara (kiraya) vermiştir Nafi' kira miktarını söylemişti, fakat ben aklımda tutamadım Tekrar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2285</td></tr><tr><td>Arabic No</td><td>2285</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

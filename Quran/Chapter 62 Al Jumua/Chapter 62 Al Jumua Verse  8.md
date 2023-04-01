@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Vāstavāniki ē cāvu nuṇḍi ayitē mīru pāripōtunnā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు : “ఏ చావు నుండి మీరు పారిపోతున్నారో అది మిమ్మల్ని చేరుకోవటం ఖాయం. ఆ తరువాత మీరు రహస్య, బహిర్గత విషయాలను ఎరిగిన వాని సమక్షంలోకి తరలించబడతారు. మరి ఆయన మీరు చేస్తూ ఉండిన పనులన్నింటినీ మీకు తెలియజెపుతాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

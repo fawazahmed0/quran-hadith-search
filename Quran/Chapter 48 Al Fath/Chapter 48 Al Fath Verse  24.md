@@ -2676,6 +2676,12 @@ mariyu makkā lōyalō mīku vāri mīda prābalyaṁ iccina tarvāta, āyanē v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ముఖ్యంగా మక్కాలో అల్లాహ్ మీకు అవిశ్వాసులపై ప్రాబల్యం ఇచ్చిన మీదట అవిశ్వాసుల చేతులను మీ నుండి, మీ చేతులను వారి నుండి ఆపినవాడు ఆయనే. (అప్పుడు) మీరు చేసేదంతా అల్లాహ్ గమనిస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

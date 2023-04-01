@@ -2676,6 +2676,12 @@ evaraitē vaḍḍī tiṇṭārō! Vāri sthiti (punarut'thāna dinamuna) ṣai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వడ్డీ సొమ్ము తినేవారు షైతాను పట్టటంవల్ల ఉన్మాది అయినవాని లాగానే నిలబడతారు. వారికీ దుర్గతి పట్టడానికి కారణం “వ్యాపారం కూడా వడ్డీ లాంటిదే కదా!” అని వారు అనటమే. వాస్తవానికి అల్లాహ్‌ వ్యాపారాన్ని ధర్మసమ్మతం చేసి, వడ్డీని నిషేధించాడు. కనుక ఎవరు తన ప్రభువు వద్దనుంచి వచ్చిన హితబోధను విని వడ్డీని మానుకున్నాడో, అతడు గతంలో పుచ్చుకున్నదేదో పుచ్చుకున్నాడు. అతని వ్యవహారం దైవా ధీనం. ఇకమీదట కూడా దీనికి పాల్పడినవారే నరకవాసులు. వారు కలకాలం అందులో పడి ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

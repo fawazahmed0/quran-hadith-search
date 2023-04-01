@@ -2676,6 +2676,12 @@ mariyu atanu vāri sāmagrini sid'dhaparacina taruvāta vāritō annāḍu: "Mī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి సామానును సిద్ధం చేయించిన తరువాత, “(మరోసారి మీరు నావద్దకు వచ్చినప్పుడు), మీ తండ్రికి జన్మించిన మీ (సవతి) సోదరుణ్ణి కూడా తీసుకురండి. నేనెలా పూర్తిగా కొలిచి ఇస్తున్నానో, ఎంత చక్కగా అతిథి మర్యాద చేస్తున్నానో మీరు చూడటం లేదా!” అని అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

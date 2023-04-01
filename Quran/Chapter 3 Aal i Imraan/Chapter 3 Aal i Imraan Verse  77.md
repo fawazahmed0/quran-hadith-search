@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē tāmu allāh tō cēsina oppandānni mariyu tama pram�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే అల్లాహ్‌ వాగ్దానాన్ని, తమ ప్రమాణాలను కొద్ది పాటి మూల్యానికి అమ్ముకుంటారో అలాంటి వారికి పరలోకంలో ఏ భాగమూ లేదు. అల్లాహ్‌ వారిని ప్రళయదినాన పలకరించటంగానీ, వారి వంక చూడటంగానీ చేయడు. వారిని పరిశుద్ధ పరచడు. పైగా వారి కోసం బాధాకరమైన శిక్ష ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Ahara padarthalanni israyil santativariki dharmasam'matamainavigane undevi. Kani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తౌరాతు గ్రంథం అవతరించక పూర్వం, ఇస్రాయీల్‌ (యాఖూబు) తన కోసం నిషేధించుకున్న వస్తువులు తప్ప ఇతర ఆహార పదార్థాలన్నీ ఇస్రాయీల్‌ వంశస్థుల కొరకు ధర్మ సమ్మతం గానే ఉండేవి. ‘మీరు సత్యవంతులే అయితే తౌరాతును తీసుకుని రండి, దాన్ని చదివి వినిపించండి’ అని (ఓ ముహమ్మద్‌!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

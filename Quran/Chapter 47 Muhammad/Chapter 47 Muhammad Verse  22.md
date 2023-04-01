@@ -2676,6 +2676,12 @@ Pas ojo agar (az Qur'on va sunnati pajomʙaraş Muhammad sallallohu alajhi va sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీకు అధికారం లభిస్తే మీరు రాజ్యంలో (భువిలో) అరాచకం సృష్టించటానికి, బంధుత్వ సంబంధాల విచ్ఛిత్తికి పాల్పడటానికి కూడా వెనుకాడరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

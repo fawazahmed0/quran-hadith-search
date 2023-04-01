@@ -2676,6 +2676,12 @@ okavēḷa allāh mānavulanu vāru cēsina karmalaku gānū paṭṭukōdalist�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే గనక జనుల చేష్టల ఆధారంగా వారిని పట్టుకోవటం మొదలెడితే భూమండలంపైన ఏ జీవినీ వదలిపెట్టడు. అయితే అల్లాహ్‌ వారికి ఒక నిర్ణీత గడువు వరకు విడుపును ఇస్తున్నాడు. మరి ఆ గడువు ముగియగానే అల్లాహ్‌ స్వయంగా తన దాసుల (సంగతి)ని చూసుకుంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

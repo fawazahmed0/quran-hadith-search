@@ -2676,6 +2676,12 @@ Emi? Ayane kada? Bhumini nivasasthalanga cesi, dani madhya nadulanu erparaci, ad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమిని నివాసయోగ్యంగా చేసినదెవరు? దాని మధ్య నదీనదాలను ప్రవహింపజేసింది, దాని నిలకడ కోసం పర్వతాలను పాతిపెట్టింది ఎవరు? రెండు సముద్రాల మధ్య అడ్డుతెరను ఏర్పరచినదెవరు? (ఈ ఏర్పాట్లలో) అల్లాహ్‌తో పాటు ఇంకొక ఆరాధ్య దేవుడు కూడా (సహాయకుడుగా) ఉన్నాడా? (ముమ్మాటికీ లేడు). అయితే వారిలో అనేకులకు అసలేమీ తెలీదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vārikiccina ādēśaṁ: "Vāru allāh nē ārādhin̄cālani, pūrti ē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు అల్లాహ్ నే ఆరాధించాలని ధర్మాన్ని ఆయన కొరకే ప్రత్యేకించుకోవాలనీ, ఏకాగ్రచిత్తులై – నమాజును నెలకొల్పాలనీ, జకాత్ ను ఇస్తూ ఉండాలని మాత్రమే వారికి ఆదేశించబడింది. ఇదే స్థిరమైన సవ్యమైన ధర్మం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

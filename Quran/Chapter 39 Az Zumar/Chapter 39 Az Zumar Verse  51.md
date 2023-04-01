@@ -2676,6 +2676,12 @@ kāvuna, vāru cēsina duṣkāryāla phalitālu vāripai paḍḍāyi. Mariyu v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారి దురాగతాల దుష్ఫలితాలన్నీ వారిపైనే పడ్డాయి. ఇక వీరిలోని పాపాత్ములు చేసిన పాపకార్యాల దుష్ఫలితాలు కూడా వీరిపై వచ్చిపడతాయి. వీరు మమ్మల్ని (ఎట్టి పరిస్థితిలోనూ) అశక్తుల్ని చేయలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

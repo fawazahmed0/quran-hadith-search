@@ -2676,6 +2676,12 @@ evaḍaitē, tana mukhānni (tananu tānu) allāh ku samarpin̄cukoni sajjanuḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే సద్వర్తనుడయి ఉండి-తన్ను తాను అల్లాహ్‌కు సమర్పించుకున్నాడో, అతను నిశ్చయంగా గట్టి కడియాన్ని పట్టుకున్నాడు. సమస్త వ్యవహారాల తుది నిర్ణయం అల్లాహ్‌ అధీనంలోనే ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

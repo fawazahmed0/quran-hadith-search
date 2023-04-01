@@ -2676,6 +2676,12 @@ mariyu bhūmi vāritō pāṭu kadalakuṇḍā uṇḍālani mēmu dānilō sth
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమి వారిని కుదిపివేయకుండా ఉండటానికని మేము అందులో పర్వతాలను చేశాము. వారు తమ మార్గాలను పొందటానికి అందులో సువిశాలమైన రహదార్లను ఏర్పరచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu nī prabhuvu: Tananu tappa itarulanu ārādhin̄cakūḍadanī mariyu tal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు స్పష్టంగా ఆజ్ఞాపించాడు: మీరు ఆయనను తప్ప మరొకరెవరినీ ఆరాధించకూడదు. తల్లిదండ్రుల యెడల ఉత్తమంగా వ్యవహరించాలి. నీ సమక్షంలో వారిలో ఒకరుగాని, ఇద్దరుగానీ వృద్ధాప్యానికి చేరుకుని ఉంటే వారి ముందు (విసుగ్గా) “ఊహ్‌” అని కూడా అనకు. వారిని కసురుకుంటూ మాట్లాడకు. పైగా వారితో మర్యాదగా మాట్లాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Nivu cudatam leda? Niscayanga, allah ye akasam nundi varsam kuripincevadani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఆకాశం నుంచి వర్షం కురిపించటాన్ని నువ్వు చూడలేదా? మరి దాని ద్వారా మేము పలు రంగుల పండ్లను ఉత్పన్నం చేశాము. మరి పర్వతాలలో కూడా పలు భాగాలు ఉన్నాయి- తెల్లనివి, ఎర్రనివి. వాటి రంగులు కూడా వేర్వేరుగా ఉన్నాయి. చాలా నల్లనివి కూడా ఉన్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

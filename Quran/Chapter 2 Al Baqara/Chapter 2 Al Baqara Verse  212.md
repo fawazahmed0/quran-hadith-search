@@ -2676,6 +2676,12 @@ satyatiraskārulaku ihalōka jīvitaṁ manōharamainadigā cēyabaḍindi. Kāv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసుల కొరకు ప్రాపంచిక జీవితం ఎంతో సుందరంగా, ఆకర్షణీయంగా మలచబడింది. వారు విశ్వసించిన వారిని అవహేళన చేస్తున్నారు. వాస్తవానికి అల్లాహ్‌ పట్ల భయభక్తులు గలవారు ప్రళయ దినాన వారికన్నా ఎంతో ఉన్నత స్థితిలో ఉంటారు. అల్లాహ్‌ తాను తలచిన వారికి లెక్కలేనంతగా ఉపాధిని అనుగ్రహిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

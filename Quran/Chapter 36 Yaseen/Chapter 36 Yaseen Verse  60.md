@@ -2676,6 +2676,12 @@ o adam santativaralara: 'Saitanunu aradhincakandi' ani nenu mim'malni adesincale
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ ఆదం సంతతివారలారా! మీరు షైతాన్‌ను పూజించకండి, వాడు మీ బహిరంగ శత్రువు” అని నేను మీ నుండి వాగ్దానం తీసుకోలేదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

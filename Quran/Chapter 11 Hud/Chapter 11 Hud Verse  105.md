@@ -2676,6 +2676,12 @@ a dinam vaccinappudu, ayana (allah) selavu lenide, e prani kuda matladajaladu. V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అది వచ్చేసిన రోజు ఆయన అనుమతి లేకుండా పల్లెత్తు మాట అనే ధైర్యం ఎవరికీ ఉండదు. వారిలో కొందరు దౌర్భాగ్యులూ ఉంటారు, కొందరు సౌభాగ్యవంతులూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

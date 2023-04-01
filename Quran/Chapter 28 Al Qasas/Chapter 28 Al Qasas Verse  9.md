@@ -2676,6 +2676,12 @@ mariyu phir'aun bhārya (atanitō) ilā annadi: "Itanu nīkū mariyu nākū ka�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఫిరౌను భార్య (తన భర్తతో), “(ఏవండీ!) ఈ అబ్బాయి మీకూ, నాకూ కన్నుల పండువగా ఉన్నాడండీ! ఇతన్ని మాత్రం చంపకండీ! బహుశా ఇతను మనకు ఉపయోగపడవచ్చండీ! లేదంటే మనం ఇతన్ని మన పుత్రునిగానైనా దత్తత తీసుకోవచ్చండి!” అని ప్రాధేయపడింది. కాని (దాని పర్యవసానం గురించి) వారికి తెలీదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mīru vāṭi vīpula mīda ekkaṭāniki; taruvāta mīru vāṭi mīda kūrcun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు వాటి వీపులపై ఎక్కి, ఆ తర్వాత వాటి మీద సర్దుకుని కూర్చున్నప్పుడు మీ ప్రభువు అనుగ్రహాన్ని స్మరిస్తారని (ఇదంతా చేశాము). మీరు ఇలా పలకండి: “దీనిని మాకు వశపరచినవాడు పరమ పవిత్రుడు. లేకపోతే దీనిని వశపరచుకోవటం మావల్ల అయ్యేపనికాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

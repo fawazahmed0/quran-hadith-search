@@ -2676,6 +2676,12 @@ allāh yē saptākāśālanu mariyu vāṭini pōlina bhūmaṇḍalānni sr̥�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్ – ఆయనే సప్తాకాశాలను, అలాంటివే భూములను సృష్టించినవాడు. ఆయన ఆజ్ఞ వాటి మధ్య అవతరిస్తుంది – అల్లాహ్ అన్నింటిపై అధికారం కలిగి ఉన్నాడనీ, ఇంకా అల్లాహ్ తన జ్ఞానంతో అన్నింటినీ పరివేష్టించి ఉన్నాడని మీరు తెలుసుకోవటానికి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

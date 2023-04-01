@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, mēmu mī cuṭṭuprakkala ennō nagarālanu nāśanaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ చుట్టుప్రక్కల ఉండే ఎన్నో జనవాసాలను మేము తుడిచి పెట్టేశాము. వారు దారికి వస్తారేమోనన్న ఉద్దేశంతో మేము రకరకాలుగా మా సూచనలను వారికి వివరించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Ayinā vāru: "Atanē (muham'madē) dīnini kalpin̄cāḍu." Ani aṇṭunnār�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, దీనిని (ఖుర్‌ఆన్‌ గ్రంథాన్ని) అతనే స్వయంగా కల్పించుకున్నాడని వారంటున్నారా? “మరయితే మీరు దీనిలాంటి ఒక్క సూరానైనా (రచించి) తీసుకురండి. ఒకవేళ మీరు సత్యవంతులే అయితే అల్లాహ్‌ను తప్పఎవరెవరిని పిలుచుకుంటారో పిలుచుకోండి” అని వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

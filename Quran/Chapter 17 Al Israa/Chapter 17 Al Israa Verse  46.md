@@ -2676,6 +2676,12 @@ mariyu vāru grahin̄cakuṇḍā, vāri hr̥dayāla mīda teralu mariyu vāri c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అంటే, వారు దానిని అర్థం చేసుకోకుండా వారి హృదయాలపై తెరలు వేసేస్తాము. వారి చెవులను మొద్దుబారజేస్తాము. నువ్వు ఈ ఖుర్‌ఆన్‌లో ఒక్కడైన అల్లాహ్‌ యొక్క ఏకత్వాన్ని (తౌహీద్‌ను) ప్రస్తావించినప్పుడల్లా వారు తీవ్ర అయిష్టతను వ్యక్తం చేస్తూ వెనుతిరిగి వెళ్ళిపోతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

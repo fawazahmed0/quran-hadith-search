@@ -2676,6 +2676,12 @@ Fir'avn ʙa Mūso minnat karda guft: «Ojo ʙa hangomi kūdakī nazdi xud parvar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(మూసాతో ఫిరౌను) ఇలా అన్నాడు : “ఏమిటీ? మేము నీ పసితనంలో నిన్ను మా దగ్గర పోషించలేదా? నీ జీవితంలోని అనేక సంవత్సరాలు నువ్వు మా వద్ద గడిపావు కూడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

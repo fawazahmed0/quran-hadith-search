@@ -2676,6 +2676,12 @@ Kāvuna vāru palikina dāniki phalitaṅgā, allāh vāriki krinda kāluvalu pr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఈ విధంగా పలికినందుకుగాను అల్లాహ్‌ వారికి క్రింద కాలువలు ప్రవహించే స్వర్గవనాలను ప్రసాదిస్తాడు. వారందులో కలకాలం ఉంటారు. సజ్జనులకు ఇలాంటి ప్రతిఫలమే లభిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

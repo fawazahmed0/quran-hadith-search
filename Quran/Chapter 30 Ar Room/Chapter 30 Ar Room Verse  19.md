@@ -2676,6 +2676,12 @@ Ayana sajivini nirjivi nundi tistadu. Mariyu nirjivini sajivi nundi tistadu. Mar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే సజీవిని నిర్జీవి నుంచి, నిర్జీవిని సజీవి నుంచి వెలికి తీస్తాడు. ఆయనే భూమిని అది చచ్చిన తరువాత బ్రతికిస్తాడు. మీరు (కూడా) అలాగే తీయబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

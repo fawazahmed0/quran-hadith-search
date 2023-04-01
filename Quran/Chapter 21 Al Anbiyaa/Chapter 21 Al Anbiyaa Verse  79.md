@@ -2676,6 +2676,12 @@ asalu sulaimān ku mēmu (vāstava viṣayaṁ) teliyajēśāmu. Mariyu vāridda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి (ఆ సమయంలో ఆ వివాదంపై) మేము సులైమానుకు సరైన అవగాహనను కలుగజేశాము. ఆ మాటకొస్తే వారిలో ప్రతి ఒక్కరికీ మేము నిర్ణయం తీసుకునే శక్తినీ, జ్ఞానాన్నీఇచ్చి ఉన్నాము. మేము దావూదుతోపాటు పర్వతాలు, పక్షులు అతనికి లోబడి (దైవ) స్తోత్రం చేసేవిగా చేశాము. ఇదంతా చేసినది మేమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

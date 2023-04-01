@@ -2676,6 +2676,12 @@ ika niścayaṅgā, nī prabhuvu! Vāri koraku, evaraitē modaṭa parīkṣaku 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరయితే బాధలు భరించిన తరువాత (దైవ మార్గంలో) వలసపోయారో, తర్వాత (అల్లాహ్‌ మార్గంలో) పోరాటం చేశారో, సహన స్థయిర్యాలను కనబరిచారో వారిని నీ ప్రభువు – వీటన్నింటి తరువాత – క్షమిస్తాడు, కరుణిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

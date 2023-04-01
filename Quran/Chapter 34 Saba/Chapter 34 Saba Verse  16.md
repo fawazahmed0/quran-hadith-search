@@ -2676,6 +2676,12 @@ ayinā vāru vimukhulayyāru. Kābaṭṭi mēmu vāri paiki, kaṭṭanu ten̄c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని వారు వైముఖ్య ధోరణిని అవలంబించారు. మేము వారిపై ఉధృతమైన వరద (నీరు)ను పంపాము. ఇంకా మేము వారి (నవనవలాడే) తోటలను రెండు (నాసిరకపు) తోటలుగా మార్చివేశాము. వాటి పండ్లు వగరుగా ఉండేవి. (అందులో ఎక్కువగా) ఝూవుక వృక్షాలు, కొన్ని రేగి చెట్లు ఉండేవి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

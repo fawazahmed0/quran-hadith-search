@@ -2676,6 +2676,12 @@ vārakkaḍa maraṇānni ennaḍū ruci cūḍaru; vāri modaṭi (ihalōka) ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మొదటిసారి వచ్చిన మరణం తప్ప, మరింకా వారు అక్కడ మరణం రుచి చూడటమనేదే ఉండదు. నరకాగ్ని శిక్ష నుండి అల్లాహ్‌ వారిని రక్షించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

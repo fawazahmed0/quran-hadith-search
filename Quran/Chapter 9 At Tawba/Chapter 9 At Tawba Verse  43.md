@@ -2676,6 +2676,12 @@ Alloh turo ʙuʙaxşojad ej Pajomʙar, caro ʙa çihod naʙaromadani munofiqon r
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ నిన్ను మన్నించుగాక! నీ సమక్షంలో సత్యవంతులెవరో తేలి, అబద్ధం చెప్పేవారెవరో కూడా నువ్వు తెలుసుకోకుండానే అసలు నువ్వు వారికి అనుమతి ఎందుకిచ్చావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

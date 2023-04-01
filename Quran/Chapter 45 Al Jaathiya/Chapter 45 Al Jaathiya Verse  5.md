@@ -2676,6 +2676,12 @@ mariyu rēyimbavaḷḷa anukramanlō mariyu allāh ākāśaṁ nuṇḍi jīvan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+రేయింబవళ్ళ రాకపోకలలోనూ, అల్లాహ్‌ ఆకాశం నుంచి ఉపాధిని (వర్షం రూపంలో) కురిపించి, భూమిని చచ్చిన పిదప బ్రతికించటంలోనూ, వాయువుల మార్పులోనూ బుద్ధీజ్ఞానాలు గలవారికి పలు సూచనలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

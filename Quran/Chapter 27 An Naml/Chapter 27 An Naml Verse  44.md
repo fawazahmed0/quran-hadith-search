@@ -2676,6 +2676,12 @@ Ameto: "Rajagrhanlo pravesincu!" Ani ceppaga! Ame danini cusi, adoka niti kolana
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేడలోనికి పదండి” అని ఆమెతో అనబడింది. దాన్ని చూడగానే, ‘ ఇది నీటి కొలను కాబోలు’ అని అనుకుని ఆమె తన పిక్కలపైని వస్త్రాన్ని ఎత్తిపట్టుకుంది. అప్పుడతను, “ఇది గాజుతో చేయబడిన నున్నని నిర్మాణం మాత్రమే” అన్నాడు. “ప్రభూ! నేను (ఇప్పటివరకూ) నా ఆత్మకు అన్యాయం చేసుకున్నాను. ఇప్పుడు నేను సులైమానుతో పాటు సర్వలోక ప్రభువు అయిన అల్లాహ్‌కు విధేయత చూపుతున్నాను” అని ఆమె ప్రకటించింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

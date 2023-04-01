@@ -2676,6 +2676,12 @@ mariyu okavēḷa vāru bayaludērālani kōri uṇṭē tappaka dānikai vāru 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+యుద్ధానికి బయలుదేరాలన్న ఉద్దేశమే గనక వారికి ఉండి ఉంటే వారు ఎలాగయినా ప్రయాణ సామగ్రిని సమకూర్చుకుని ఉండేవారు. కాని వారు బయలుదేరటం అల్లాహ్‌కు అస్సలు ఇష్టంలేదు. అందుకే వారిని కదలకుండా ఆపేశాడు. “వెనుక ఉండిపోయే వారితోనే మీరూ ఉండిపోండి” అని వారికి చెప్పబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

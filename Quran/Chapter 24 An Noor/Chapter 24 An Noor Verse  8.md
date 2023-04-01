@@ -2676,6 +2676,12 @@ Ika āme (bhārya) śikṣanu tappin̄cukōvaṭāniki, nālugu sārlu allāh pa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇక ఆ స్త్రీ శిక్ష నుంచి బయటపడే మార్గం ఏమిటంటే, ఆమె నాలుగుసార్లు అల్లాహ్‌పై ప్రమాణం చేసి, ‘తన భర్త చెప్పేది అబద్ధం’ అని పలకాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

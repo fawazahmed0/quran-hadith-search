@@ -2676,6 +2676,12 @@ mariyu viśvāsulaina puruṣulu mariyu viśvāsulaina strīlu okarikokaru snēh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులైన పురుషులూ, విశ్వాసులైన స్త్రీలూ – వారంతా ఒండొకరికి మిత్రులుగా (సహాయకులుగా, చేదోడు వాదోడుగా) ఉంటారు. వారు మంచిని గురించి ఆజ్ఞాపిస్తారు. చెడుల నుంచి వారిస్తారు. నమాజులను నెలకొల్పుతారు, జకాత్‌ను చెల్లిస్తారు. అల్లాహ్‌కు, ఆయన ప్రవక్తకు విధేయులై ఉంటారు. అల్లాహ్‌ అతిత్వరలో తన కారుణ్యాన్ని కురిపించేది వీరిపైనే. నిస్సందేహంగా అల్లాహ్‌ సర్వాధిక్యుడు, వివేచనాశీలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

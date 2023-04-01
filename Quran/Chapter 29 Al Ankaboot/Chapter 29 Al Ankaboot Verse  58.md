@@ -2676,6 +2676,12 @@ ika evaraitē viśvasin̄ci, satkāryālu cēstārō! Vāriki mēmu svarganlō g
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరు విశ్వసించి మంచి పనులు చేశారో వారికి మేము స్వర్గంలోని ఎత్తయిన మేడలలో చోటు కల్పిస్తాము. వాటి క్రింద కాలువలు ప్రవహిస్తూ ఉంటాయి. వారక్కడ శాశ్వతంగా ఉంటారు. సదాచరణ చేసిన వారికి లభించిన ఈ ప్రతిఫలం ఎంత మంచిది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

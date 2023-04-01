@@ -2676,6 +2676,12 @@ cūḍaṇḍi! Mēmu kondariki marikondaripai ē vidhaṅgā ghanata nosaṅgā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+చూడు! వారిలో ఒకరిపై ఇంకొకరికి మేము ఎలా ఆధిక్యతను ఇచ్చి ఉన్నామో! పరలోకం అంతస్థుల రీత్యా మరింత గొప్పది. శ్రేష్ఠతరీత్యా మరింత ఉన్నతమైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

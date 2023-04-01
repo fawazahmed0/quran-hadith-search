@@ -2676,6 +2676,12 @@ a taruvata memu i granthaniki, ma dasulalo nundi memu ennukunna varini varasulug
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత మా దాసులలో మేము ఎన్నుకున్న వారిని (ఈ) గ్రంథానికి వారసులుగా చేశాము. మరి వారిలో కొందరు తమ ఆత్మలపై అన్యాయానికి ఒడిగడుతున్నారు. వారిలో మరి కొందరు మధ్య రకానికి చెందినవారు. వారిలో ఇంకొందరు అల్లాహ్‌ అనుమతితో సత్కార్యాలలో ముందంజ వేస్తున్నారు. ఇది మహదనుగ్రహం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

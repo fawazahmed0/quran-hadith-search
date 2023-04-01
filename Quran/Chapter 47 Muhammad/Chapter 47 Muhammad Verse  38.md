@@ -2676,6 +2676,12 @@ Idigō cūḍaṇḍi! Vāru mīrē! Allāh mārganlō kharcu cēyaṇḍani pil
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదిగో! అల్లాహ్‌ మార్గంలో ఖర్చు చేయండని పిలిచినపుడు మీలో కొందరు పిసినారులుగా వ్యవహరిస్తున్నారు. ఎవడయితే పిసినారితనం వహిస్తున్నాడో అతను తన పట్లనే పిసినారితనం వహిస్తున్నాడు. అల్లాహ్‌ సంపన్నుడు (అక్కరలేనివాడు). మీరేమో పేదలు (ఆయనపై ఆధారపడినవారు). ఒకవేళ మీరు గనక మరలిపోతే ఆయన మీ బదులు – మీ స్థానంలో – మరో జాతివారిని తీసుకువస్తాడు. మరి వారు మీలాంటివారై ఉండరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

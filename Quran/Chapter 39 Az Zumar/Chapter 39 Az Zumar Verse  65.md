@@ -2676,6 +2676,12 @@ mariyu vāstavāniki! Nīkū mariyu nīkaṇṭē mundu vaccina (prati pravaktak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా నీ వద్దకు, నీ పూర్వీకులైన ప్రవక్తల వద్దకు పంపబడిన సందేశం (వహీ) ఇది : “ఒకవేళ నువ్వు గనక బహుదైవారాధనకు పాల్పడితే నువ్వు చేసుకున్నదంతా వృధా అయిపోతుంది. మరి నిశ్చయంగా నువ్వు నష్టపోయినవారిలో చేర్తావు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi) ibrāhīm: "Ō nā prabhū! Ī nagarānni 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా ప్రభూ! నీవు ఈ ప్రదేశాన్ని శాంతి నగరంగా చెయ్యి. ఈ నగరవాసులలో అల్లాహ్‌ను, అంతిమ దినాన్నీ విశ్వసించే వారికి పండ్లు ఫలాలను ఆహారంగా ప్రసాదించు” అని ఇబ్రాహీం అర్థించినప్పుడు అల్లాహ్‌ ఈ విధంగా పలికాడు: “విశ్వసించనివారికి కూడా నేను కొంత ప్రయోజనం చేకూర్చుతాను. కాని చివరకు వారిని అగ్నిశిక్ష వైపుకు ఈడుస్తాను. అది అత్యంత చెడ్డ నివాస స్థలం.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

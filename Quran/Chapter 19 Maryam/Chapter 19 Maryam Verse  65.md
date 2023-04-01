@@ -2676,6 +2676,12 @@ akasalaku, bhumiki mariyu vati madhyanunna samastaniki ayane prabhuvu, kavuna mi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలకూ, భూమికీ, వాటి మధ్య నున్న సమస్తానికీ ప్రభువు ఆయనే. కనుక నువ్వు ఆయన్నే ఆరాధించు. ఆయన ఆరాధనపైనే స్థిరంగా ఉండు. నీకు తెలిసినంతవరకూ ఆయన పేరు గలవాడు ఎవడయినా ఉన్నాడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē viśvasin̄ci satkāryālu cēśārō, niścayaṅgā 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇక విశ్వసించి, సత్కార్యాలు చేసినవారి విషయం – నిశ్చయంగా మేము ఉత్తమ ఆచరణ చేసిన వారి ప్రతిఫలాన్ని వృధా కానివ్వము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

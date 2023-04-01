@@ -2676,6 +2676,12 @@ Jusuf guft: «Ū az nafsi man xohişe kard va maro ʙa xud xond». Va şohide az
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఈమెగారే నన్నువలలో వేసుకోవటానికి ప్రయత్నించింది” అని యూసుఫ్‌ చెప్పాడు. ఆమె వంశానికే చెందిన ఒక వ్యక్తి సాక్ష్యమిస్తూ, “ఇతని చొక్కాగనక ముందువైపు నుంచి చినిగి ఉంటే స్త్రీ చెప్పేది నిజం. ఇతను చెప్పేది అబద్ధం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

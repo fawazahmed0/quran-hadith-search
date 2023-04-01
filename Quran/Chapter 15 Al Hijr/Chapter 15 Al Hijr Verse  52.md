@@ -2676,6 +2676,12 @@ vāru atani vaddaku vacci: "Nīku śānti kalugu gāka (salāṁ)!" Ani annāru.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు అతని దగ్గరకు వచ్చి ‘సలామ్‌’ చెప్పినప్పుడు” మిమ్మల్ని చూస్తే మాకెందుకో భయమేస్తున్నది” అని అతను అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

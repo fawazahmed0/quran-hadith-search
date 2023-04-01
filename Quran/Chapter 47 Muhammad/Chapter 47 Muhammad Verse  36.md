@@ -2676,6 +2676,12 @@ niścayaṅgā, ī prāpan̄cika jīvitaṁ oka āṭa mariyu kālakṣēpaṁ m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిజానికి ఈ ప్రాపంచిక జీవితం ఓ ఆట, కాలక్షేపం మాత్రమే. మీరు గనక విశ్వసించి, భయభక్తుల వైఖరిని అవలంబించినట్లయితే అల్లాహ్‌ మీ పుణ్యఫలం మీకిస్తాడు. ఆయన మీ నుండి మీ సొమ్ముల్ని అడగడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

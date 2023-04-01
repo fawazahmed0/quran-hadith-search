@@ -2676,6 +2676,12 @@ niścayaṅgā, ibrāhīm tō daggari sambandhaṁ gala vāraṇṭē, atanini a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అందరికన్నా ఎక్కువగా ఇబ్రాహీంకు దగ్గరివారమని చెప్పుకునే హక్కు ఎవరికయినా ఉందీ అంటే, అది ఆయన్ని అనుసరించినవారికీ, ఈ ప్రవక్తకూ, విశ్వాసులకూ మాత్రమే ఉంది. అల్లాహ్‌ విశ్వాసులకు మాత్రమే నేస్తం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

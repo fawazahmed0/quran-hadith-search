@@ -2676,6 +2676,12 @@ allāh nu vadali - tamanu āyana sānnidhyāniki tēgalavārani - vāru bhāvin�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దైవ సామీప్యం పొందటానికి వారు – అల్లాహ్‌ను వదలి – ఆశ్రయించిన దేముళ్లు వారినెందుకు ఆదుకోలేదు? పైగా వారు వీళ్లకు అస్సలు కనబడకుండా పోయారు. (నిజానికి) అది వారి అసత్యం, వారు కల్పించుకున్న అభూతకల్పన మాత్రమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

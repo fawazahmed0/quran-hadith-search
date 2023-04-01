@@ -2676,6 +2676,12 @@ mariyu āyana (allāh) vārini samāvēśaparacē rōju, oka dinapu oka ghaḍiy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ వారిని సమీకరించే ఆ రోజు గురించి జ్ఞాపకం చెయ్యి. అప్పుడు వారికి తాము (ప్రపంచ జీవితంలో) దినములో ఒక గడియకాలం ఆగి ఉన్నామేమో!? అనిపిస్తుంది. అల్లాహ్‌ను కలుసుకునే విషయాన్ని అసత్యమని త్రోసిపుచ్చిన వారు నిస్సందేహంగా నష్టపోయారు. వారు సన్మార్గం పొందేవారు కారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

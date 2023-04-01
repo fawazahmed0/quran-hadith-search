@@ -2676,6 +2676,12 @@ kapaṭa viśvāsulu mariyu evari hr̥dayālalō rōgamundō vāru: "Vīrini (ī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ సందర్భంగా కపటులు, హృదయాలలో రోగం ఉన్న వారు కూడా ఇలా అన్నారు : “వీళ్ళ ధర్మం వీళ్ళని మోసంలో పడవేసింది.” కాని ఎవరు అల్లాహ్‌ను నమ్ముకున్నారో నిశ్చయంగా అల్లాహ్‌ సర్వాధిక్యుడు, వివేకవంతుడు (అని తెలుసుకోవాలి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mēmu isrāyīl santati vārini samudraṁ dāṭin̄cina taruvāta vāru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఇస్రాయీలు సంతతివారిని సముద్రం దాటించాము. వారు సాగిపోతున్న దారిలో, తమ విగ్రహాలను అంటి పెట్టుకుని ఉన్న ఒక జాతి ప్రజలు వారికి కనిపించారు. “ఓ మూసా! వీళ్లకు ఈ ఆరాధ్య దైవాలు ఉన్నట్లు మాక్కూడా ఒక దేముణ్ణి చేసిపెట్టవా?!” అని వారు కోరారు. దానికి మూసా, “నిజంగానే మీరు మూర్ఖజనులు” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

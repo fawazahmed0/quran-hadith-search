@@ -2676,6 +2676,12 @@ phir'aun annāḍu: "Nēnu anumati ivvaka mundē mīru atanini viśvasin̄cārā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ, నా అనుమతి పొందకుండానే మీరితన్ని విశ్వసిస్తారా? ముమ్మాటికీ ఇదంతా ఈ నగరం నుంచి ప్రజలను వెళ్ళగొట్టేందుకు మీరందరూ కలిసి పన్నిన పన్నాగమే. అసలు సంగతి మీకు ఇప్పుడు తెలుస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

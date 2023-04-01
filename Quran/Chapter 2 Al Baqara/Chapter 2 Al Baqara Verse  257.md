@@ -2676,6 +2676,12 @@ allāh viśvasin̄cina vāri sanrakṣakuḍu, āyana vārini cīkaṭi nuṇḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించినవారి సంరక్షకునిగా స్వయంగా అల్లాహ్‌ ఉంటాడు. ఆయన వారిని చీకట్ల నుంచి వెలుగు వైపుకు తీసుకుపోతాడు. కాగా; అవిశ్వాసుల నేస్తాలు షైతానులే (తాగూతే). వాళ్లు వారిని వెలుగు నుంచి చీకట్ల వైపుకు లాక్కు పోతారు. వారు నరకవాసులు, కలకాలం అందులోనే పడి ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

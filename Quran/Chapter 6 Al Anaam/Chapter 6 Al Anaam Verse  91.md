@@ -2676,6 +2676,12 @@ mariyu vāru: "Allāh, ē mānavuni painanū ēmī avatarimpajēya lēdu." Ani p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ ఏ మానవమాత్రునిపైనా ఎలాంటి విషయాన్నీ అవతరింపజేయలేదు” అని పలికినప్పుడు ఈ (అవిశ్వాస) జనులు అల్లాహ్‌ను అర్థం చేసుకోవలసిన విధంగా అర్థం చేసుకోలేదు. వారిని అడుగు: “మరి మూసా తెచ్చిన ఆ గ్రంథాన్ని ఎవరు అవతరింపజేసినట్టు? ఆ గ్రంథం ఒక జ్యోతి. మానవుల కొరకు మార్గదర్శకత్వం. మీరు దాన్ని వేర్వేరు కాగితాలుగా విభజించి చూపుతున్నారు. ఎన్నో విషయాలను దాచేస్తున్నారు. మీకుగానీ, మీ పెద్దలకుగానీ తెలియని ఎన్నో విషయాలు (ఇందు మూలంగా) మీకు నేర్పబడ్డాయి.” దాన్ని అవతరింపజేసిన వాడు అల్లాహ్‌యే అని చెప్పు. ఆ తర్వాత వాళ్లను వారి వ్యర్థ విషయాలలోనే ఆడుకోనివ్వు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu nīvu okavēḷa ājñāpistē, antā vadali tappaka bayaludēra galamani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“తమరు ఆజ్ఞాపించగానే బయలుదేరటానికి సిద్ధంగా ఉన్నాము” అని (కపటులు) అల్లాహ్‌పై గట్టిగా ప్రమాణం చేసి మరీ చెబుతారు. “ప్రమాణాలు చేయకండి. మీ విధేయత (లోని చిత్తశుద్ధి) ఏ పాటిదో విదితమే. మీ కార్యకలాపాల గురించి అల్లాహ్‌కు బాగా తెలుసు” అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

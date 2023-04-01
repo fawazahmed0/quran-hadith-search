@@ -2676,6 +2676,12 @@ kāvuna (allāh mārganlō) pāṭupaḍē vāḍu niścayaṅgā, tana (mēlu) 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సాధన చేసే ప్రతి ఒక్కడూ తన (స్వయం) కోసమే సాధన చేస్తున్నాడు. నిశ్చయంగా అల్లాహ్‌ లోకవాసుల అక్కర లేనివాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāvuna vāri sirisampadalu gānī, vāri santānaṁ gānī, ninnu āścaryanl�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి సిరిసంపదలు, సంతానం నిన్ను ఆశ్చర్యానికి లోనుచేయకూడదు. వాటి ద్వారా ప్రాపంచిక జీవితంలోనే వారిని శిక్షించాలనీ, సత్యాన్ని తిరస్కరించిన స్థితిలోనే వారి ప్రాణాలు పోవాలని అల్లాహ్‌ కోరుతున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ o visvasulara! (Mi prabhuvu sannidhilo) vangandi (ruku'u ceyandi), sastangam (sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! రుకూ, సజ్దాలు చేస్తూ ఉండండి. మీ ప్రభువును ఆరాధిస్తూ ఉండండి. మంచి పనులు చేస్తూ ఉండండి- తద్వారా మీరు సఫలీకృతులవుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

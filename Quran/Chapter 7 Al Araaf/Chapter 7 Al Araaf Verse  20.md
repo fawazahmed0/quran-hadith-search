@@ -2676,6 +2676,12 @@ a pidapa saitan variddari cupulaku maruguga unna variddari marmangalanu variki b
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత షైతాను, పరస్పరం వారిరువురికి కనబడకుండా ఉన్న వారి మర్మ స్థానాలను వారి ముందు బహిర్గతం చేసే ఉద్దేశంతో వారిద్దరి ఆంతర్యాలలో దుష్ప్రేరణను రేకెత్తించాడు. “మీరు దైవదూతలై పోతారేమో, ఎల్లకాలం సజీవులుగా ఉండే వారిలో కలిసిపోతారేమోనని మీ ప్రభువు మీ ఇద్దరినీ ఈ వృక్షం వద్దకు పోకుండా వారించాడు సుమా!” అని షైతాను వారితో అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu okavēḷa vāriruvuru - nīvu eragani dānini - nāku (allāh ku) bhāga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ నీకు తెలియని వారినెవరినైనా నాకు భాగస్వాములుగా నిలబెట్టమని వారిద్దరూ నీపై ఒత్తిడి తీసుకువస్తే మటుకు నువ్వు వారి మాట వినకు. ప్రపంచంలో మాత్రం వారి యెడల ఉత్తమరీతిలో మసలుకో. అయితే (మార్గానుసరణ విషయంలో మాత్రం) నా వైపు మరలి ఉన్న వానినే ఆదర్శంగా తీసుకో. ఆ తరువాత మీరంతా నా వైపుకే మరలి రావలసి ఉంటుంది. అప్పుడు నేను మీకు, మీరు చేస్తూ ఉండిన కర్మలన్నింటినీ తెలియపరుస్తాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

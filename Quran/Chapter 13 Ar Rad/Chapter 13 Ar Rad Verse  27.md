@@ -2676,6 +2676,12 @@ Mariyu satyatiraskārulu: "Atani (muham'mad) pai, atani prabhuvu taraphu nuṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అతనిపై (ముహమ్మద్‌పై) అతని ప్రభువు తరఫు నుంచి ఏదైనా మహిమ ఎందుకు అవతరించదు?” అని అవిశ్వాసులు అంటున్నారు. “అల్లాహ్‌ తాను కోరిన వారిని మార్గభ్రష్టులుగా చేస్తాడు, తన వైపుకు మరలేవారికి ఆయన సన్మార్గం చూపుతాడు” అని వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

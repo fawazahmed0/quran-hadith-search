@@ -2676,6 +2676,12 @@ kāvuna mēmu ataniki ī vidhaṅgā divyajñānaṁ (vahī) pampāmu: "Mā pary
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు మేమతనికి ఈ సందేశం పంపాము: “మా కళ్ల ఎదుటే, మేము పంపే సందేశాన్ని (వహీని) అనుసరించి ఒక ఓడను నిర్మించు. మా ఆజ్ఞ వచ్చి, నేలలో నీటి ఊటలు పెల్లుబికినపుడు అన్ని రకాలకు చెందిన ఒక్కొక్క జతను (ఒక ఆడ, ఒక మగ చొప్పున) అందులోకి ఎక్కించుకో. నీ ఇంటి వారిని కూడా తీసుకో. అయితే వారిలో ఎవరి గురించి ముందుగానే మా మాట ఖరారయిందో వారిని వెంట బెట్టుకోకు. జాగ్రత్త! అన్యాయానికి ఒడిగట్టినవారి గురించి నాతో మాట్లాడవద్దు. వారంతా ముంపుకు గురయ్యేవారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāvuna nīvu nī mukhānni, ēkāgracittantō, satyadharmaṁ (islāṁ) diśal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక నీవు ఏకాగ్రతతో నీ ముఖాన్ని (అల్లాహ్‌) ధర్మంపై నిలుపు. అల్లాహ్‌ మానవులను ఏ స్వభావంపై పుట్టించాడో ఆ స్వభావంపైన్నే (ఉండండి). అల్లాహ్‌ సృష్టిని మార్చకూడదు సుమా! ఇదే సరైన ధర్మం. కాని చాలామంది తెలుసుకోరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

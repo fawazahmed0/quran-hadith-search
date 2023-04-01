@@ -2676,6 +2676,12 @@ Mariyu okavēḷa vāstavāniki mēmu vārini: "Mī prāṇāla bali ivvaṇḍi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మేము “మిమ్మల్ని మీరు చంపుకోండి” లేదా “మీ ఇళ్ల నుంచి వెళ్ళిపోండి” అనే ఆదేశాన్ని వారిపై విధించి ఉంటే, వారిలో బహుకొద్దిమంది మాత్రమే దాన్ని పాటించేవారు. అలా కాకుండా వారు తమకు ఉపదేశించబడుతున్న విధంగా చేసి వుంటే నిశ్చయంగా అది వారి కొరకు శ్రేయస్కరం అయ్యేది, ఎక్కువ స్థయిర్యాన్నీ ఒనగూర్చేది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

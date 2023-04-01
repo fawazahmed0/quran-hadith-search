@@ -2676,6 +2676,12 @@ mariyu nīvu andhulanu mārgabhraṣṭatvaṁ nuṇḍi tolagin̄ci, vāriki m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+గుడ్డివారిని కూడా నువ్వు వారి అపమార్గం నుంచి మళ్ళించి, సన్మార్గానికి తేలేవు. మా ఆయతులను విశ్వసించి, విధేయత చూపేవారికి మాత్రమే నువ్వు (నీ వాణిని) వినిపించగలవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

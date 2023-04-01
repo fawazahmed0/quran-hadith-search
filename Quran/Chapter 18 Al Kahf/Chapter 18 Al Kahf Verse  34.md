@@ -2676,6 +2676,12 @@ mariyu ataḍiki puṣkalamaina phalālu paṇḍēvi (lābhālu vaccēvi). Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మొత్తానికి అతని పంట పండింది. ఒకనాడతను మాటల సందర్భంగా తన స్నేహితునితో, “నేను నీకన్నా ఎక్కువ ధనవంతుణ్ణి. మందీమార్బలం రీత్యా కూడా నీకంటే ఎక్కువ బలవంతుణ్ణే” అని అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

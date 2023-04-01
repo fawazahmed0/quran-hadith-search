@@ -2676,6 +2676,12 @@ eṉ iṟaivā! Niccayamāka nāṉ eṉ ātmāvukkē aniyāyam ceytu viṭṭē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత అతను “నా ప్రభూ! నాకు నేనే అన్యాయం చేసుకున్నాను. నన్ను క్షమించు” అని మొరపెట్టుకున్నాడు. అప్పుడు అల్లాహ్‌ అతన్ని క్షమించాడు. నిశ్చయంగా ఆయన క్షమాశీలుడు, దయామయుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

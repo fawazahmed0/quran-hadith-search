@@ -2676,6 +2676,12 @@ allāh, āyanē ākāśālanu, bhūmini mariyu vāṭi madhya unnadantā āru di
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే ఆకాశాలనూ, భూమినీ, వాటి మధ్యనున్న సమస్తాన్నీ ఆరు రోజులలో సృష్టించాడు. ఆ తరువాత సింహాసనాన్ని (అర్ష్‌ను) అధిష్టించాడు. ఆయన తప్ప మీకు ఏ సహాయకుడూ, మరే సిఫారసు చేసేవాడూ లేడు. అయినా మీరు హితబోధను గ్రహించరేమిటీ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

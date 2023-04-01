@@ -2676,6 +2676,12 @@ mariyu vāri prārthana kēvalaṁ: "Ō mā prabhū! Mā pāpālanu, mā vyavah�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిది ఒక్కటే పలుకు : ”మా ప్రభూ! మా పాపాలను క్షమించు. మా పనుల్లో మా వల్ల జరిగిన ‘అతి’ని మన్నించు. మా పాదాలకు నిలకడను ప్రసాదించు. అవిశ్వాస జనులకు వ్యతిరేకంగా మాకు తోడ్పాటునందించు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

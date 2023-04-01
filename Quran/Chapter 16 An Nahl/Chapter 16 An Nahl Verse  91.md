@@ -2676,6 +2676,12 @@ Mariyu mīru allāh pērutō vāgdānaṁ cēstē mī vāgdānālanu tappaka ner
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు పరస్పరం ఒప్పందం కుదుర్చుకున్నప్పుడు అల్లాహ్‌కు ఇచ్చిన మాటను నిలుపుకోండి. ప్రమాణాలను ఖరారు చేసుకున్న మీదట భంగపరచకండి. (ఎందుకంటే) మీరు అల్లాహ్‌ను మీ సాక్షిగా చేసుకున్నారు. నిశ్చయంగా మీరు చేసేదంతా ఆయనకు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

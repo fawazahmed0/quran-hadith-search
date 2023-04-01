@@ -2676,6 +2676,12 @@ mīru (tabūk daṇḍayātra nuṇḍi) marali vāri vaddaku vaccina taruvāta 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు వారి వద్దకు తిరిగి వెళ్ళినప్పుడు, వారు మీ దగ్గరకు వచ్చి సాకులు చెబుతారు. (ఓ ప్రవక్తా!) వారితో ఇలా అను : “సాకులు చెప్పకండి. మీరు చెప్పే ఏ మాటనూ మేము నమ్మబోము. మీ సమాచారమంతా అల్లాహ్‌ మాకు తెలియజేశాడు. ఇక మీదట కూడా అల్లాహ్‌, ఆయన ప్రవక్త మీ కార్యకలాపాలను గమనిస్తూనే ఉంటారు. తరువాత మీరంతా గోచరాగోచర విషయాలన్నీ తెలిసిన వాని వైపుకు మరలింపబడతారు. మరి మీరు ఏమేమి చేస్తూ ఉండేవారో ఆయన మీకు తెలుపుతాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

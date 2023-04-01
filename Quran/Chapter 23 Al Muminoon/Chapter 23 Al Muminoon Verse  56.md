@@ -2676,6 +2676,12 @@ mēmu vāriki mēlu cēyaṭanlō tondarapaḍutunnāmani, vāru bhāvistunnār�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమకు మేళ్లు చేయటంలో మేము వేగిరపడ్తున్నామని వారు తలపోస్తున్నారా?! (లేదు లేదు) వారసలు (యదార్థాన్ని) గ్రహించటం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

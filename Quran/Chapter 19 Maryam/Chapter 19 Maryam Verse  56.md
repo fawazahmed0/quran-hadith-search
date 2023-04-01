@@ -2676,6 +2676,12 @@ mariyu ī granthaṁ (khur'ān)lō vaccina idrīs gāthanu prastāvin̄cu. Niśc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా ఈ గ్రంథంలో ఇద్రీసు గురించిన ప్రస్తావన కూడా చెయ్యి. అతను కూడా నిజాయితిపరుడైన ప్రవక్తే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

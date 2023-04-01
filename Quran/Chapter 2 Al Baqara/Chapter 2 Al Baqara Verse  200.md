@@ -2676,6 +2676,12 @@ ika mī (hajj) vidhulanu pūrti cēsina taruvāta, mīru mī taṇḍritātalanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+హజ్‌ క్రియలన్నింటినీ నిర్వర్తించిన తరువాత అల్లాహ్‌ను ధ్యానించండి. మీ తాతముత్తాతలను జ్ఞాపకం చేసుకున్నట్లే, ఇంకా అంతకంటే అధికంగానే అల్లాహ్‌ను జ్ఞాపకం చేయండి. “ఓ ప్రభూ! మాకు ప్రపంచంలోనే ప్రసాదించు” అని ప్రార్థించేవారు కూడా ప్రజల్లో కొందరున్నారు. అటువంటి వారికి పరలోకంలో ఏ భాగమూ లభించదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

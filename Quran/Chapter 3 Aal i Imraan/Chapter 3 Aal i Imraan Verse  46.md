@@ -2676,6 +2676,12 @@ mariyu atanu prajalatō uyyālalō uṇḍagānē māṭlāḍutāḍu mariyu pe
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”అతడు ఉయ్యాలలో ఉన్నప్పుడూ, పెద్దవాడైనప్పుడూను ప్రజలతో మాట్లాడతాడు. ఇంకా అతడు సద్వర్తనులలోని వాడై ఉంటాడు” అని అన్నప్పుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

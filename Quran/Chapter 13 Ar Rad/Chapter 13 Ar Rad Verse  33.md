@@ -2676,6 +2676,12 @@ emi? Ayana (allah), prati vyakti arjince danini kanipettukoni undevadu (mariyu l
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, ఒక్కొక్క ప్రాణి చేసే కర్మలను పర్యవేక్షిస్తున్నటువంటి అల్లాహ్‌కా వీళ్లు సహవర్తుల్ని కల్పించేది? వారిని అడుగు: “కాస్త వారి పేర్లయినా చెప్పండి! ఏమిటీ, భూమిలో అల్లాహ్‌కే తెలియని విషయాలు మీరు ఆయనకు తెలియపరుస్తున్నారా? లేక పై పై మాటలు చెబుతున్నారా? అసలు విషయం ఏమిటంటే తిరస్కార వైఖరిపై మొండికేసిన వారికి, వారి కుతంత్రాలు అందంగా (కానవచ్చేలా) చేయబడ్డాయి. వారు సన్మార్గం నుంచి ఆపివేయబడ్డారు. అల్లాహ్‌ అపమార్గానికి లోనుచేసినవారిని ఎవరూ సన్మార్గానికి తేలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

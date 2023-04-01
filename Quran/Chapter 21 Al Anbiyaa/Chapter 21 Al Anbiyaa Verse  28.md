@@ -2676,6 +2676,12 @@ ayanaku, variki pratyaksanga (mundu) unnadi, anta telusu. Varu, ayana sam'matinc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి ముందున్నవాటి గురించి, వెనుక ఉన్న వాటి గురించి కూడా ఆయనకు తెలుసు. సిఫారసు వినటానికి అల్లాహ్‌ ఇష్టపడిన వారి విషయంలో తప్ప వారు ఎవరి గురించి కూడా సిఫారసు చేయజాలరు. వారు స్వయంగా అల్లాహ్‌ రౌద్రానికి భీతిల్లుతూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

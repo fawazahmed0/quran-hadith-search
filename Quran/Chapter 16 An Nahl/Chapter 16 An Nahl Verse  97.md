@@ -2676,6 +2676,12 @@ E purusudu gani, leka stri gani visvasulai, satkaryalu ceste, alanti varini memu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సత్కార్యాలు చేసేవారు పురుషులైనా, స్త్రీలయినా-విశ్వాసులై ఉంటే మేము వారికి అత్యంత పవిత్రమైన జీవితాన్ని ప్రసాదిస్తాము. వారి సత్కర్మలకు బదులుగా సత్ఫలితాన్ని కూడా మేము వారికి తప్పకుండా ఇస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

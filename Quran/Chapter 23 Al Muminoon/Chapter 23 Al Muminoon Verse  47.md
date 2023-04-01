@@ -2676,6 +2676,12 @@ apuḍu vārannāru: "Ēmī? Mēmu mā vaṇṭi ī iddaru mānavulanu viśvasin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ, మనలాంటి ఇద్దరు మానవ మాత్రులను మనం విశ్వసించాలా? చూడబోతే వీళ్ల జాతి వారు స్వయంగా మనకు బానిసలుగా ఉన్నారు” అని వారన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

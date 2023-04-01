@@ -2676,6 +2676,12 @@ Vāru annāru: "Mēmu nīku cēsina vāgdānānni māku mēmai bhaṅgaparacalē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు, “మేము నీకు ఇచ్చిన మాటను మా అంతట మేముగా జవదాటలేదు. మాపై వేయబడిన (ఫిరౌను) జనుల నగల భారాన్ని మేము తీసి (అగ్నిలో) పడవేశాము. అలాగే సామిరీ కూడా పడవేశాడు” (అని చెప్పారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

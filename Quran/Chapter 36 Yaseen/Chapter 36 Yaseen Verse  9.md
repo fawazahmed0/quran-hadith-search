@@ -2676,6 +2676,12 @@ mariyu mēmu vāri mundu oka aḍḍu (teranu) mariyu vāri venuka oka aḍḍu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారి ముందు ఒక అడ్డును, వారి వెనుక మరో అడ్డును పెట్టాము. ఆ విధంగా మేము వారిని కప్పివేశాము. తత్కారణంగా వారు చూడలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

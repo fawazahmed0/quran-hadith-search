@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, āme atanini āśin̄cindi. Mariyu atanu kūḍā āme kō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆమె అతన్ని (యూసుఫ్‌ను) ఆశించింది. ఒకవేళ అతను గనక తన ప్రభువు నిదర్శనాన్ని చూసి ఉండకపోతే అతను కూడా ఆమెను ఆశించి ఉండేవాడే. (కాని అలా జరగలేదు). ఎందుకంటే మేము అతన్నుంచి చెడును, నీతి బాహ్యతను దూరంచేశాము. నిశ్చయంగా అతను మాప్రత్యేక దాసులలో ఒకడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

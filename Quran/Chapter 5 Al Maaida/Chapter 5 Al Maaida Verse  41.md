@@ -2676,6 +2676,12 @@ o pravakta! Satyatiraskaranloki parugulu tise vari valla nivu duhkhapadaku. Alan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! అవిశ్వాసంలో ముందుకు దూసుకుపోయే వారిని చూసి నువ్వు దుఃఖించకు. తాము ముస్లిములమేనని వారు నోటితో పలికినాసరే – వాస్తవానికి వారి హృదయాలు విశ్వాస పూరితం కావు (వాటిలో కాపట్యం ఉంది). కాగా; యూదుల్లోని కొందరు తప్పుడు మాటలను ఆసక్తితో చెవియొగ్గి వింటారు. ఇంకా ఇంతవరకూ నీ వద్దకు రాని వారి కోసం గూఢచారులుగా వ్యవహరిస్తున్నారు. వారు పదాల అసలు సందర్భాన్ని విడిచిపెట్టి, వాటిని తారుమారు చేస్తారు. “మీకు ఈ ఆదేశమే గనక ఇవ్వబడితే దాన్ని స్వీకరించండి. ఈ ఆదేశం గనక లభించకపోతే దూరంగా ఉండండి” అని (ప్రజలకు) చెబుతారు. అల్లాహ్‌ ఎవరినయినా వినాశాని (ఫిత్నా)కి లోను చేయదలిస్తే అల్లాహ్‌కు ప్రతిగా నీకు వారిపై ఏ అధికారం ఉండదు. అల్లాహ్‌ పరిశుద్ధ పరచదలచుకోలేనిది ఇటువంటి వారి హృదయాలనే. వారికి ఇహలోకంలోనూ పరాభవం ఉంటుంది, పరలోకంలో కూడా వారికి ఘోర శిక్ష తప్పదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

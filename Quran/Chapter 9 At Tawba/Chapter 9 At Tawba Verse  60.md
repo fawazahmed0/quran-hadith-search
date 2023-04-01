@@ -2676,6 +2676,12 @@ Niścayaṅgā dānālu (sadakhālu) kēvalaṁ yācin̄cu nirupēdalaku mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానాలను కేవలం నిరుపేదల కొరకూ, అభాగ్య జీవుల కొరకు, వాటి వసూళ్ల కోసం నియమితులైన వారికొరకు, హృదయాలను ఆకట్టుకోవలసి ఉన్నవారి కొరకు, మెడలను విడిపించటానికీ, రుణగ్రస్తుల కొరకూ, దైవమార్గం కొరకూ, బాటసారుల కొరకూ వెచ్చించాలి. ఇది అల్లాహ్‌ తరఫున నిర్ణయించబడిన ఒక విధి. అల్లాహ్‌ మహాజ్ఞాని, మహావివేకి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

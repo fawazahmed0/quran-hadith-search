@@ -2676,6 +2676,12 @@ mariyu evaraitē āyananu vadali itarulanu tama sanrakṣakulugā cēsukuṇṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన్ని వదలి ఇతరులను సంరక్షకులుగా చేసుకున్న వారిని అల్లాహ్‌ కనిపెట్టుకునే ఉన్నాడు. వాళ్ల (వ్యవహారాల)కు నువ్వు బాధ్యుడవు కావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

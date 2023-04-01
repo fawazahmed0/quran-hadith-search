@@ -2676,6 +2676,12 @@ niccayamāka nāṉ uṅkaḷukku eccarikkai ceyvatellām vahī mūlam eṉakku 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) “నేను మిమ్మల్ని కేవలం దైవసందేశం (వహీ) ఆధారంగా హెచ్చరిస్తున్నాను” అని వారికి చెప్పు. అయితే తమను హెచ్చరించినప్పుడు, చెవిటివారు ఆ పిలుపును వినరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

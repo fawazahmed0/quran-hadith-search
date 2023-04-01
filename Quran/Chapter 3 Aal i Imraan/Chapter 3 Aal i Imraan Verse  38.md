@@ -2676,6 +2676,12 @@ Appuḍu jakariyyā tana prabhuvunu prārthin̄cāḍu. Atanu ilā vinnavin̄cuk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అక్కడే జకరియ్యా (అలైహిస్సలాం) తన ప్రభువును వేడుకున్నాడు. ”ఓ నా ప్రభూ! నీ వద్ద నుండి నాకు మంచి సంతానాన్ని ప్రసాదించు. నిస్సందేహంగా నీవు మొరను ఆలకించేవాడవు” అని అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

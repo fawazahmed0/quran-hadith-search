@@ -2676,6 +2676,12 @@ vāritō anu: "Dīnini (ī khur'ān nu) nī prabhuvu vadda nuṇḍi satyantō, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు : “విశ్వసించిన వారికి నిలకడను వొసగటానికి, ముస్లింలకు సన్మార్గం చూపటానికీ, వారికి శుభవార్తను వినిపించటానికీ నీ ప్రభువు వద్ద నుంచి పరిశుద్ధాత్మ (జిబ్రయీల్‌) దీన్ని సత్యసమేతంగా అవతరింపజేశాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

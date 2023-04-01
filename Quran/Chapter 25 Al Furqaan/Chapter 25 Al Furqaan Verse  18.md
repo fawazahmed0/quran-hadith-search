@@ -2676,6 +2676,12 @@ vāraṇṭāru: "Ō mā prabhū! Nīvu sarvalōpālaku atītuḍavu! Mēmu ninn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఇలా విన్నవించుకుంటారు: “(ఓ అల్లాహ్‌) నీవు పవిత్రుడవు. నిన్ను కాదని, వేరొకరిని మా రక్షకుడిగా చేసుకోవటం మాకు సయితం తగదు. కాని (అసలు విషయం ఏమిటంటే) నీవు వీళ్ళకీ, వీరి తాతముత్తాతలకీ సాధనసంపత్తులను పుష్కలంగా ప్రసాదించావు. తుదకు వీరు హితబోధను విస్మరించారు. ఆ విధంగా వీరు వినాశం పొందేవారయ్యారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

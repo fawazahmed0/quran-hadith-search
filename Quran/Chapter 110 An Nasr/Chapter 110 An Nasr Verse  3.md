@@ -2676,6 +2676,12 @@ appuḍu nīvu nī prabhuvu stōtrantō pāṭu āyana pavitratanu koniyāḍu m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీవు నీ ప్రభువు స్తోత్రంతో సహా ఆయన పవిత్రతను కొనియాడుతూ ఉండు, మన్నింపుకై ఆయన్ని ప్రార్ధించు. నిస్సందేహంగా ఆయన మహా గొప్పగా పశ్చాత్తాపాన్ని ఆమోదించే వాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ eṅkaḷ iṟaivaṉē! Nī eṅkaḷukku nēr vaḻiyaik kāṭṭiyapiṉ e�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(వారు ఇలా వేడుకుంటూ ఉంటారు:) ”మా ప్రభూ! సన్మార్గ భాగ్యం ప్రసాదించిన తరువాత మా హృదయాలలో వక్రతను రానీయకు. నీ వద్ద నుంచి మాకు కారుణ్యాన్ని ప్రసాదించు. నిశ్చయంగా నీవే గొప్ప దాతవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

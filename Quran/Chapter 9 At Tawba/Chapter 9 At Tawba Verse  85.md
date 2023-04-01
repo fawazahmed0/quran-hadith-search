@@ -2676,6 +2676,12 @@ Mariyu vāri sirisampadalu mariyu vāri santānaṁ ninnu āścaryāniki guri c�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ఆస్తి పాస్తులను, సంతానాన్ని చూసి నువ్వు ఆశ్చర్యపోకూడదు. వారిని ఈ వస్తువుల ద్వారా ఇహలోకంలోనే శిక్షించాలనీ, ప్రాణాలు పోయే దాకా వారు అవిశ్వాసులుగానే ఉండాలనీ అల్లాహ్‌ కోరుతున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

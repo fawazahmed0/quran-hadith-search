@@ -2676,6 +2676,12 @@ Niścayaṅgā, evaraitē viśvasin̄ci, satkāryālu cēstārō, vāri koraku p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా ఎవరు విశ్వసించి, (ప్రవక్త సంప్రదాయం ప్రకారం) సత్కార్యాలు కూడా చేశారో వారి కోసం అనుగ్రహ భరితమైన స్వర్గవనాలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

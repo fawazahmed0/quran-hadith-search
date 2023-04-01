@@ -2676,6 +2676,12 @@ lēka ākāśālalō unnavāḍu, mīpaiki rāḷḷu kuripin̄cē gālivāna pa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేక నింగినున్నవాడు మీపై రాళ్ల వాన కురిపిస్తాడన్న భయం మీకు బొత్తిగా లేదా? మరైతే నా హెచ్చరిక ఎటువంటిదో మీకు త్వరలోనే తెలిసిపోతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

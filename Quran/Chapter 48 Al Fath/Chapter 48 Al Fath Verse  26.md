@@ -2676,6 +2676,12 @@ satyānni tiraskarin̄cinavāru, tama hr̥dayālalōni mūḍha abhimānaṁ val
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సత్య తిరస్కారులు తమ హృదయాలలో అహంభావాన్ని, అందునా అజ్ఞానకాలపు అహంభావాన్ని పెంచుకున్న ఆ (క్లిష్ట) తరుణంలో అల్లాహ్ తన ప్రవక్తపై, విశ్వాసులపై తన తరఫున ప్రశాంత స్థితిని అవతరింపజేశాడు. ఇంకా అల్లాహ్ ముస్లింలను భక్తి (తఖ్వా) వాక్కుకు కట్టుబడి ఉండేలా చేశాడు. వారు దానికి తగినవారు, హక్కుదారులు కూడా. అల్లాహ్ ప్రతిదీ బాగా తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

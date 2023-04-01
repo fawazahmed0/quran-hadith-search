@@ -2676,6 +2676,12 @@ vārilā annāru: "Mā dēvatala nuṇḍi mam'malni dūraṁ cēyaṭānikā n�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు, “ఏమిటి, మమ్మల్ని మా దేవుళ్ళ (పూజ) నుంచి మళ్ళించడానికేనా నువ్వు వచ్చింది?! ఒకవేళ నువ్వు సత్యవంతుడవే అయితే, ఏదీ నువ్వు మాతో వాగ్దానం చేసే ఆ ఆపదను మాపైకి తీసుకురా!” అని ఎద్దేవా చేశారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

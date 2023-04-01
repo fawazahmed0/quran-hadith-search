@@ -2676,6 +2676,12 @@ o visvasulara! Miru e sain'yannaina edurkonetappudu, sthairyanto undandi. Mariyu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు ఏ ప్రత్యర్థి సైన్యాన్ని అయినా ఎదుర్కోవలసి వచ్చినప్పుడు నిలకడ చూపండి. అత్యధికంగా అల్లాహ్‌ను స్మరించండి. తద్వారా మీకు విజయం ప్రాప్తించవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

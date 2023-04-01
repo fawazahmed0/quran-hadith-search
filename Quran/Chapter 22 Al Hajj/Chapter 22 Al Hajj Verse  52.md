@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Nīku pūrvaṁ mēmu pampina ē sandēśaharuḍu gānī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) మేము నీకు పూర్వం ఏ ప్రవక్తను, లేదా ఏ సందేశహరుణ్ణి పంపినా – అతను తన మనసులో ఏదైనా సంకల్పం చేసుకున్నప్పుడల్లా షైతాను అతని సంకల్పంలో ఏదో ఒకటి కలుషితం చేసేవాడు. మరయితే అల్లాహ్‌ షైతాన్‌ కల్తీని పారద్రోలి, తన వచనాలను స్థిరపరుస్తాడు. అల్లాహ్‌ సర్వం తెలిసినవాడు, వివేక సంపన్నుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

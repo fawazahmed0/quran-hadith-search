@@ -2676,6 +2676,12 @@ mariyu allāh mārganlō pōrāḍavalasina vidhaṅgā dharmapōrāṭaṁ cēy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ (ప్రసన్నత) కోసం పాటుపడవలసిన విధంగా పాటుపడండి. ఆయన మిమ్మల్ని ఎన్నుకున్నాడు. ధర్మం విషయంలో ఆయన మీపై ఎలాంటి ఇబ్బందినీ ఉంచలేదు. మీ పితామహుడైన ఇబ్రాహీము (అలైహిస్సలాం) ధర్మానికి కట్టుబడి ఉండండి. ఈ ఖుర్‌ఆన్‌కు పూర్వం కూడా ఆయన (అల్లాహ్‌) మిమ్మల్ని ‘ముస్లింలు’ గానే నామకరణం చేశాడు. మరి ఇందులో కూడా (మీ పేరు అదే). దైవప్రవక్త మీపై సాక్షిగా, మీరు మానవాళిపై సాక్షులుగా ఉండటానికి(ఈ విధంగా చేయబడింది). కనుక మీరు నమాజును నెలకొల్పండి, జకాతును చెల్లించండి, అల్లాహ్‌ను స్థిరంగా ఆశ్రయించండి. ఆయనే మీ సంరక్షకుడు! (ఆయన) ఎంత చక్కని సంరక్షకుడు! మరెంత చక్కని సహాయకుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

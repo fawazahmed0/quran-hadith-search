@@ -2676,6 +2676,12 @@ mariyu ajñānulu: "Allāh mātō enduku māṭlāḍaḍu? Lēka mā vaddaku ē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జ్ఞానం లేనివాళ్లు, “అల్లాహ్‌ స్వయంగా మాతో ఎందుకు మాట్లాడడు? లేక మా వద్దకు ఏదైనా సూచన ఎందుకురాదు?” అని అంటారు. వారి పూర్వీకులు కూడా ఇలాంటి పలుకులే పలికారు. వారందరి హృదయాలు ఒకే విధమైనవి. వాస్తవానికి నమ్మేవారి కోసం మేము మా సూచనలను స్పష్టం చేసే ఉంచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

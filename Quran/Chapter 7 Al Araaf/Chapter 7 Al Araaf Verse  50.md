@@ -2676,6 +2676,12 @@ mariyu narakavāsulu svargavāsulatō: "Koddi nīḷḷō lēka allāh mīku pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నరకవాసులు స్వర్గవాసులను పిలుస్తూ, “మాపైన కొద్దిగా నీళ్ళయినా పోయండి లేదా అల్లాహ్‌ మీకు ప్రసాదించిన దాంట్లోంచి ఏ కాస్తయినా ఇటు పడేయండి” అని ప్రాధేయ పడతారు. దానికి సమాధానంగా వారు, “ఈ రెండింటినీ అల్లాహ్‌ అవిశ్వాసుల కొరకు నిషేధించాడు” అని అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

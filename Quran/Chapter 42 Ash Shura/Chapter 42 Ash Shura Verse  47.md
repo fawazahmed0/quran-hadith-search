@@ -2676,6 +2676,12 @@ Allāhvai viṭṭum tappittuc cella pōkkillāta (kiyāma) nāḷ varuvataṟku
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ప్రజలారా!) తప్పించనలవికాని ఆ రోజు అల్లాహ్‌ తరఫున రాకమునుపే, మీ ప్రభువు ఆజ్ఞను శిరసావహించండి. ఆ రోజు మీకు ఏ ఆశ్రయమూ లభించదు, దాక్కొని ఆగంతకుల్లా వ్యవహరించేందుకు తగినచోటు కూడా దొరకదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

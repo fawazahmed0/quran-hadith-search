@@ -2676,6 +2676,12 @@ i nerastulu vari vari mukha cihnalatone gurtimpabadataru. Appudu varu, vari mung
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అపరాధులు తమ వాలకాన్ని (నలుపు ఆవరించిన తమ ముఖాలను) బట్టే పసిగట్టబడతారు. మరి వారు తమ నుదుటి జుట్టు ద్వారా, పాదాల ద్వారా పట్టుకోబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

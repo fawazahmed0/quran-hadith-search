@@ -2676,6 +2676,12 @@ kānī vāri cētulu dāni vaipu pōka pōvaṭaṁ cūsi vārini gurin̄ci anum
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే వారి చేతులు దాని వైపుకు చేరకపోవటం చూసి అతను వారిని శంకించాడు. లోలోపలే భయపడసాగాడు. అప్పుడువారు, “భయపడకు. మేము లూత్‌ జాతి వైపుకు పంపబడ్డాము” అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

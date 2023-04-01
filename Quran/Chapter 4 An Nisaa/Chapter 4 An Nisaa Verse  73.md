@@ -2676,6 +2676,12 @@ mariyu okavēḷa mīku allāh taraphu nuṇḍi anugrahamē labhistē! Mīkū a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ దైవానుగ్రహం ఏదన్నా మీకు లభిస్తే, మీ మధ్య- అతని మధ్య స్నేహబంధమే లేనట్లుగా మాట్లాడుతూ – “అరెరే! నేనూ వారి వెంట ఉండి ఉంటే ఘనవిజయాన్ని పొంది ఉండేవాడినే!” అని చెబుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

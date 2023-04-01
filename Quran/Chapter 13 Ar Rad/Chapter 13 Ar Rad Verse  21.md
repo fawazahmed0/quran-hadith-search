@@ -2676,6 +2676,12 @@ mariyu evaraitē allāh kalupamani ājñāpin̄cina vāṭini kaluputārō! Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వేటినయితే కలిపి ఉంచమని అల్లాహ్‌ ఆదేశించాడో వాటిని కలిపి ఉంచుతారు. వారు తమ ప్రభువుకు భయపడుతూ ఉంటారు. తమ నుండి కఠినంగా లెక్క తీసుకోబడుతుందేమోనని జడుస్తూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

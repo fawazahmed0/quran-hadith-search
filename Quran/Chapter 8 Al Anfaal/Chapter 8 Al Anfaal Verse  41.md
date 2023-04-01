@@ -2676,6 +2676,12 @@ mariyu mī vijayadhananlō niścayaṅgā, ayidava bhāgaṁ, allāh mariyu āya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అల్లాహ్‌ను, సత్యాసత్యాలను వేరుపరిచే రోజున, అనగా రెండు సైన్యాలు మార్కొనిన రోజున మేము మా దాసునిపై అవతరింపజేసిన దానిని విశ్వసించినట్లయితే – మీకు లభించిన ఎలాంటి యుద్ధప్రాప్తి అయినాసరే, అందులోని ఐదోవంతు అల్లాహ్‌కు, ఆయన ప్రవక్తకు, బంధువులకు, అనాథలకు, నిరుపేదలకు, బాటసారులకు చెందుతుందని తెలుసుకోండి. అల్లాహ్‌కు ప్రతి దానిపై అధికారం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

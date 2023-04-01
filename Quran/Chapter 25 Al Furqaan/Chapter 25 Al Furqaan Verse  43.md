@@ -2676,6 +2676,12 @@ taṉ (iḻivāṉa) iccaiyaiyē taṉ teyvamāka eṭuttuk koṇṭavaṉai (na
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) తన మనోవాంఛలను తన ఆరాధ్య దైవంగా చేసుకున్న వానిని నువ్వు చూశావా? నువ్వు అలాంటి వ్యక్తి(ని రుజుమార్గానికి తెచ్చే) బాధ్యత తీసుకోగలవా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

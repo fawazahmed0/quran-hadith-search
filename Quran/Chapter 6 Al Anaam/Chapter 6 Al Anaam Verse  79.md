@@ -2676,6 +2676,12 @@ Vāṉaṅkaḷaiyum pūmiyaiyum paṭaittavaṉ pakkamē nāṉ uṟutiyāka e�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నేను ఆకాశాలను, భూమిని సృష్టించినవాని వైపుకు ఏకాగ్రతతో నా ముఖాన్ని త్రిప్పుకుంటున్నాను. నేను షిర్క్‌ చేసేవారిలోని వాణ్ణి కాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

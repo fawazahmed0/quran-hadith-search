@@ -2676,6 +2676,12 @@ mariyu nī prabhuvu tānu kōrina dānini sr̥ṣṭistāḍu mariyu ennukuṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు తాను కోరిన దాన్ని సృష్టిస్తాడు, తాను కోరిన వారిని ఎంపిక చేసుకుంటాడు. వారిలో ఎవరికీ ఎటువంటి అధికారం లేదు. అల్లాహ్‌ పరమ పవిత్రుడు. వారు కల్పించే భాగస్వామ్యాలన్నింటికీ ఆయన అతీతుడు, ఉన్నతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mā spaṣṭamaina sūcanalu vāriki vinipin̄cabaḍinappuḍu, satyati
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ముందు స్పష్టమైన మా ఆయతులను చదివి వినిపించినప్పుడు అవిశ్వాసుల ముఖాలపై తిరస్కార (అసహన) భావం తొంగిచూడటాన్ని నువ్వు గ్రహిస్తావు. మా ఆయతులను చదివి వినిపించే వారిపై విరుచుకుపడతారేమో అన్నట్లు వారు కనిపిస్తారు.(ఓ ప్రవక్తా!) వారికి చెప్పు: “దీనికన్నా దారుణమైన సమాచారాన్ని నేను మీకు తెలుపనా?! అదే నరకాగ్ని. దాని గురించి అల్లాహ్‌ అవిశ్వాసులకు వాగ్దానం చేసి ఉన్నాడు. అది బహుచెడ్డ గమ్యస్థానం.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

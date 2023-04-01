@@ -2676,6 +2676,12 @@ mariyu agōcara viṣayāla tāḷapu cevulu āyana (allāh) vaddanē unnāyi. V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అగోచరాల తాళం చెవులు, (ఖజానాలు) అల్లాహ్‌ వద్దనే ఉన్నాయి. అల్లాహ్‌కు తప్ప ఇతరులెవరికీ వాటి గురించి తెలీదు. భూమిలోనూ, సముద్రాలలోనూ ఉన్న వస్తువులన్నింటి గురించి ఆయనకు తెలుసు. రాలే ఆకు కూడా ఆయనకు తెలీకుండా ఉండదు. నేలలోని చీకటి పొరలలో పడే ఏ గింజ అయినా – పచ్చిది, ఎండినది ఏది పడినా – స్పష్టమైన గ్రంథంలో నమోదై ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

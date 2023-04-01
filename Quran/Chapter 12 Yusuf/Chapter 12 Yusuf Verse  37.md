@@ -2676,6 +2676,12 @@ Ataṟku avar kūṟiṉār; "uṅkaḷiruvarukkum aḷikkakkūṭiya uṇavu u�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు యూసుఫ్‌ ఇలా అన్నాడు : “ఇక్కడ మీకు ఇవ్వబడే భోజనం మీ వద్దకు రాకముందే నేను మీకు వాటి భావార్థాన్ని వివరిస్తాను. ఇదంతా నా ప్రభువు నాకు నేర్పిన విద్యయే.(అసలు విషయం ఏమిటంటే) అల్లాహ్‌ను నమ్మనివారి, పరలోకాన్ని తిరస్కరించే వారి మతాన్ని నేను వదలిపెట్టాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

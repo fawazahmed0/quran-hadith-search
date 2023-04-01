@@ -2676,6 +2676,12 @@ adē vāri pratiphalaṁ. Endukaṇṭē vāstavāniki vāru mā sūcanalanu tir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు మా ఆయతులను తిరస్కరించి, “మేము ఎముకలై, తుత్తునియలు అయిపోయిన తరువాత కూడా మళ్లీ సరికొత్తగా పుట్టించబడతామా?!” అని చెప్పినందుకుగాను వారికి (లభించే) ప్రతిఫలం ఇది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ A (tirpu) dinamuna kondari mukhalu (santosanto) prakasistu untayi. Marikondari m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆనాడు కొన్ని ముఖాలు వెలిగిపోతూ ఉంటాయి. మరికొన్ని ముఖాలు నల్లబడి ఉంటాయి. నలుపు ఆవరించి ఉన్న మొహాలు కలిగిన వారినుద్దేశించి, ”మీరు విశ్వసించిన మీదట తిరస్కార వైఖరికి ఒడిగట్టారా? సరే, మీరు తిరస్కరించిన దాని ఫలితంగా శిక్షను చవిచూడండి” (అని అనబడుతుంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

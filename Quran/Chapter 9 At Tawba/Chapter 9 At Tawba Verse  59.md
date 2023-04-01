@@ -2676,6 +2676,12 @@ mariyu okavēḷa allāh mariyu āyana pravakta vāriki iccina dānitō vāru tr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మరియు ఆయన ప్రవక్త ఇచ్చిన దానితో తృప్తి చెంది, “మాకు అల్లాహ్‌ చాలు. అల్లాహ్‌ తన కృపతో మాకు మరింత అనుగ్రహిస్తాడు. ఆయన ప్రవక్త కూడా మాకు వొసగుతాడు. మేము మాత్రం అల్లాహ్‌పైనే ఆశలు పెట్టుకున్నాము” అని వారు చెప్పి ఉంటే (ఎంత బావుండేది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

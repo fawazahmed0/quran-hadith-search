@@ -2676,6 +2676,12 @@ mariyu samūd vāri viṣayaṁ: Mēmu vāriki mārgadarśakatvaṁ cēśāmu. K
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇకపోతే సమూద్‌ (జాతి) వారు; మేము వారికి కూడా సన్మార్గం చూపించాము. అయినప్పటికీ వారు మార్గదర్శనంపై అంధత్వానికే ప్రాధాన్యత ఇచ్చారు. మరి వారి దురాగతాలకు బదులుగా వారిని (నిలువెల్లా) అవమానకరమైన శిక్ష యొక్క గర్జన కబళించింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

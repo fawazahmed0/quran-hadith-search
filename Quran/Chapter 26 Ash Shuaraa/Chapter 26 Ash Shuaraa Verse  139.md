@@ -2676,6 +2676,12 @@ i vidhanga, varu atanini asatyavadudani tiraskarincaru. Kavuna memu varini nasim
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆద్‌ (జాతి) వారు అతనిని (హూదును) ధిక్కరించిన కారణంగా మేము వారిని అంతమొందించాము. నిశ్చయంగా ఇందులో సూచన ఉంది. కాని వారిలో అనేకులు విశ్వాసులు కాలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

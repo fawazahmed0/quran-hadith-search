@@ -2676,6 +2676,12 @@ Mariyu (ō pravaktā!) Nīvu ē kāryanlō unnā mariyu khur'ān nuṇḍi nīvu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నువ్వు ఏ స్థితిలో వున్నా – ఖుర్‌ఆనులోని ఏ భాగాలను పారాయణం చేసినా, (ప్రజలారా!) మీరు ఏ పనిచేసినా, మీరు మీ కార్యక్రమాలలో తలమునకలై ఉన్నప్పుడు మేము మిమ్మల్ని గమనిస్తూనే ఉంటాము. భూమిలో, ఆకాశాలలో ఉన్నరవంత వస్తువు కూడా నీ ప్రభువు నుండి గోప్యంగా లేదు – దానికంటే చిన్నదయినా సరే, పెద్దదయినా సరే – స్పష్టమైన గ్రంథంలో నమోదు కాకుండా లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

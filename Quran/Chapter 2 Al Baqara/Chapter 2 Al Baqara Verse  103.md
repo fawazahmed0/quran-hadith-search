@@ -2676,6 +2676,12 @@ mariyu vāru viśvasin̄ci, daivabhīti kaligi uṇḍinaṭlayitē! Niścayaṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారే గనక విశ్వసించి, అల్లాహ్‌ పట్ల భీతిపరులుగా వ్యవహరించి ఉంటే అల్లాహ్‌ తరఫున వారికి అత్యుత్తమ పుణ్యఫలం లభించి ఉండేది. ఆ సంగతిని వారు తెలుసుకోగలిగితే ఎంత బావుండేది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mēmu vārini konta kālaṁ sukhālanu anubhavin̄canistāmu. Ā taruvāta mēm
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారికి (ఇక్కడ) కొన్ని ప్రయోజనాలను ఇచ్చినప్పటికీ, (తుదకు) వారిని కడు నిస్సహాయ స్థితిలో కఠినమైన శిక్ష వైపుకు తరుముకుంటూ పోతాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

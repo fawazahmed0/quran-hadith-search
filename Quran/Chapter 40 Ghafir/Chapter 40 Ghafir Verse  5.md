@@ -2676,6 +2676,12 @@ vāriki pūrvaṁ gaḍicina nūh jāti vārū mariyu vāri pidapa vaccina itara
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీరికి పూర్వం నూహ్‌ జాతి వారు, వారి తరువాత వచ్చిన వర్గాల వారు కూడా ధిక్కార వైఖరికి ఒడిగట్టారు. ప్రతి సముదాయం వారూ తమ ప్రవక్తను పట్టుకో జూశారు. అసత్యంతో సత్యాన్ని దెబ్బతీసేందుకు పిడివాదనలు చేశారు. అందుకే నేను వాళ్ళను పట్టుకున్నాను. మరి నా తరఫున ఎలా దెబ్బపడిందో (చూడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

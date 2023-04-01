@@ -2676,6 +2676,12 @@ Mīru ekkaḍunnā sarē! Mīku cāvu vacci tīrutundi mariyu mīru goppa kōṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరెక్కడ ఉన్నాసరే, మృత్యువు మిమ్మల్ని కబళిస్తుంది. ఆఖరికి మీరు పటిష్టమైన కోటలలో ఉన్నాసరే (అది మిమ్మల్ని వదలదు). వారికేదైనా మంచి జరిగితే, “ఇది అల్లాహ్‌ తరఫున లభించింది” అని అంటారు. అదే వారికేదైనా కీడు కలిగితే, “ఇదంతా నీ మూలంగానే జరిగింది” అని నిందిస్తారు. “ఇవన్నీ వాస్తవానికి అల్లాహ్‌ తరఫుననే సంభవించాయి” అని (ఓ ప్రవక్తా!) వారికి తెలియజేయి. అసలు వీరికేమైపోయిందీ? ఏ విషయాన్ని కూడా వీరు బొత్తిగా అర్థం చేసుకోరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

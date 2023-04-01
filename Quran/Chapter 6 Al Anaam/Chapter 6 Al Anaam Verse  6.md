@@ -2676,6 +2676,12 @@ Emi? Varu cudaleda (variki teliyada?) Variki purvam enno taralanu memu nasanam c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, మేము వీళ్ళకు పూర్వం ఎన్ని సముదాయాలను నాశనం చేశామో వీరు చూడలేదా? ప్రపంచంలో మీకు ప్రసాదించని బలిమిని మేము ఆ సముదాయాల వారికి ప్రసాదించాము. వారి కోసం మేము ధారాపాతంగా వర్షాన్ని కురిపించాము. వారి కోసం క్రింది నుంచి కాలువల్ని ప్రవహింపజేశాము. కాని వారి పాపాల మూలంగా మేము వారిని తుద ముట్టించాము. వారి తరువాత ఇతర సముదాయాలను ప్రభవింపజేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu bhūmi tana prabhuvu tējas'sutō veligi pōtundi mariyu karmapatraṁ v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమి తన ప్రభువు జ్యోతితో ధగధగా మెరిసిపోతుంది. కర్మల పత్రాలు హాజరు పరచబడతాయి. ప్రవక్తలు, సాక్షులు రప్పించబడతారు. వారి మధ్య న్యాయసమ్మతంగా తీర్పు చేయబడుతుంది. వారికి అన్యాయం అనేది జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

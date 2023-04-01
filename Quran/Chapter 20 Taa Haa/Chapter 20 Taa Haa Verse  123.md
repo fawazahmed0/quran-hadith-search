@@ -2676,6 +2676,12 @@ Itiliruntu nīṅkaḷ iruvarum cēkaramāka iṅkiruntu veḷiyēṟi viṭuṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అల్లాహ్‌) ఇలా సెలవిచ్చాడు : “మీరిద్దరూ ఇక్కణ్ణుంచి దిగిపోండి. మీరు ఒండొకరికి శత్రువులు. ఇకమీదట మీ వద్దకు నా నుండి మార్గదర్శకత్వం గనక వస్తే, నా మార్గాన్ని అవలంబించే వాడు దారి తప్పటంగానీ, ప్రయాసకు లోనవటంగానీ జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

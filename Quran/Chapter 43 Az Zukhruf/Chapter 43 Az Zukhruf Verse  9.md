@@ -2676,6 +2676,12 @@ okavēḷa, nīvu vāritō: "Bhūmyākāśālanu evaru sr̥ṣṭin̄cāru?" Ani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“భూమ్యాకాశాలను సృష్టించినదెవరు?” అని నువ్వు గనక వారిని ప్రశ్నిస్తే, “సర్వశక్తుడు, సర్వజ్ఞాని అయినవాడే (అల్లాహ్‌యే) సృష్టించాడ”ని వారు తప్పకుండా సమాధానమిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

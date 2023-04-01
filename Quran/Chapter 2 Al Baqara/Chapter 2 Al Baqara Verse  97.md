@@ -2676,6 +2676,12 @@ yār jiprīlukku virōtiyāka irukkiṉṟāṉō (avaṉ allāhvukkum virōti y
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “జిబ్రీల్‌కు శత్రువు అయిన ప్రతివాడూ (అల్లాహ్‌తో శత్రుత్వాన్ని కొనితెచ్చుకున్నాడన్న) యదార్థాన్ని గ్రహించాలి. ఎందుకంటే అల్లాహ్‌ సూచనపైనే ఆయన నీ హృదయంపై ఈ సందేశాన్ని అవతరింపజేశాడు. ఇది (ఈ ఖుర్‌ఆన్‌) తనకు పూర్వం వచ్చిన గ్రంథాలను ధృవీకరిస్తుంది. విశ్వసించేవారికి మార్గదర్శకత్వం వహిస్తూ, వారికి శుభవార్త ఇస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

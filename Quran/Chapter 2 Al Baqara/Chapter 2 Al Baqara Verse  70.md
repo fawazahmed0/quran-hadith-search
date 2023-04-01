@@ -2676,6 +2676,12 @@ vāru ilā annāru: "Asalu ē vidhamaina āvu kāvālō nīvu nī prabhuvunu a�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు వారు, “అది ఎలాంటిదై ఉండాలో మాకు (ఇంకా బాగా) వివరించమని నీ ప్రభువును ప్రార్థించు. మాకు ఆవు సంగతి ఇంకా ప్రస్ఫుటం కాలేదు. అల్లాహ్‌ గనక తలిస్తే మేము మార్గదర్శకత్వం పొందుతాము” అని అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

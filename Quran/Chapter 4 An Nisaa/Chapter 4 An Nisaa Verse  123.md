@@ -2676,6 +2676,12 @@ mī kōrikala prakāraṅgā gānī, lēdā grantha prajala kōrikala prakāra�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిజస్థితి (సాఫల్యం) మీ ఆకాంక్షల కనుగుణంగా గానీ, గ్రంథవహుల ఆశలు, అభిలాషలపై ఆధారపడిగానీ లేదు. చెడుకు పాల్పడినవాడు ఎవడైనా దాని ఫలితాన్ని అనుభవిస్తాడు. దైవసమక్షంలో తనను సమర్థించే, తనను ఆదుకునే వారెవరినీ అతడు పొందలేడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

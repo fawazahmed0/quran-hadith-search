@@ -2676,6 +2676,12 @@ Ba Alloh taolo va pajomʙaraş imon ʙijovared va ʙo amvol va çonhojaton dar r
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అల్లాహ్ ను, ఆయన ప్రవక్తను విశ్వసించండి. అల్లాహ్ మార్గంలో మీ ధన ప్రాణాలొడ్డి పోరాడండి. మీరు గనక తెలుసుకోగలిగితే ఇది మీకు ఎంతో మేలైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

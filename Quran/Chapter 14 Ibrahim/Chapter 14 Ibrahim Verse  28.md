@@ -2676,6 +2676,12 @@ emi? Nivu cudaleda (erugava)? Allah anugrahalanu satyatiraskaranga marcina varin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ప్రసాదించిన అనుగ్రహానికి బదులుగా కృతఘ్నతకు పాల్పడి, తమ జాతిని వినాశకర కుహరంలోనికి దించిన వారి వైపు నీవు దృష్టిని సారించలేదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

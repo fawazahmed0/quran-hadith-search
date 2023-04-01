@@ -2676,6 +2676,12 @@ Ba'ze az ahli kitoʙ xohand guft: «Se tan ʙudand va cahorumaşon sagaşon ʙud
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“వాళ్లు ముగ్గురు, నాల్గోది వారి కుక్క” అని కొందరంటారు. “వారు అయిదుగురు. ఆరోది వారి కుక్క” అని మరి కొంద రంటారు. వారు తమకు తెలియని విషయంలో ఊహాగానాలు చేస్తున్నారు. “వారు ఏడుగురు, ఎనిమిదోది వారి కుక్క” అని ఇంకా కొంతమంది అంటారు. “వారి సంఖ్య గురించి నా ప్రభువు బాగా ఎరుగు. వారి సంఖ్య గురించి బహుకొద్ది మందికి మాత్రమే తెలుసు” అని వారికి చెప్పు. కాబట్టి నువ్వు వారి విషయంలో స్థూలంగా మాత్రమే వాదించు. ఇంకా (గుహ) వారిని గురించి వీళ్ళలో ఎవరినీ అడగకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

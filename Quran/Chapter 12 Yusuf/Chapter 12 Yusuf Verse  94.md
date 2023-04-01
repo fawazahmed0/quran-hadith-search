@@ -2676,6 +2676,12 @@ a bidaram (ijiptu nundi) bayalu deragane vari tandri annadu: "Miru nannu bud'dhi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఇక్కడ ఈజిప్టు నుంచి) ఈ బిడారు సెలవు తీసుకోగానే, (అక్కడ కన్‌ఆన్‌లో) “నాకు మతి భ్రమించిందని మీరు అనుకోనంటే (ఒక విషయం చెబుతాను) – నాకు యూసుఫ్‌ సువాసన వస్తోంది” అని తండ్రి చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

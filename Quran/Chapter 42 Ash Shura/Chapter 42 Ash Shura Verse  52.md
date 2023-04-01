@@ -2676,6 +2676,12 @@ mariyu idē vidhaṅgā (ō muham'mad!) Mēmu mā ājñatō nī vaddaku divyajñ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అలాగే (ఓ ముహమ్మద్‌ – సఅసం!) మేము మా ఆజ్ఞతో నీ వద్దకు ఒక ‘రూహ్‌’ (ఆత్మ)ను పంపాము. అంతకుముందు నీకు గ్రంథమంటే ఏమిటో, విశ్వాసమంటే ఏమిటో తెలీదాయె. కాని మేము దాన్ని జ్యోతిగా చేశాము. దాని ద్వారా మా దాసులలో మేము కోరిన వారికి సన్మార్గం చూపుతున్నాము. నిస్సందేహంగా (ఓ ముహమ్మద్‌-స!) నువ్వు (ప్రజలకు) రుజుమార్గం వైపుకు దర్శకత్వం వహిస్తున్నావు…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

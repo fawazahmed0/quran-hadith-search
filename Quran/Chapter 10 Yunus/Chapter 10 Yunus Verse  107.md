@@ -2676,6 +2676,12 @@ okavēḷa allāh nīku ēdainā āpada kaligin̄cadalistē āyana tappa marevva
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ అల్లాహ్‌ నిన్ను ఏదైనా బాధకు గురిచేస్తే ఆయన తప్ప మరొకరెవరూ దానిని దూరం చేయలేడు. ఒకవేళ ఆయన నీకు ఏదైనా మేలు చెయ్యగోరితే ఆయన కృపను అడ్డుకునేవాడు కూడా ఎవడూ లేడు. ఆయన తన కృపను తన దాసులలో తాను కోరిన వారిపై కురిపిస్తాడు. ఆయన అమితంగా క్షమించేవాడు, అపారంగా కనికరించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

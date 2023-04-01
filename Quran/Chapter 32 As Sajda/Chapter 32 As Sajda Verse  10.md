@@ -2676,6 +2676,12 @@ mariyu vāru (aviśāsulu) aṇṭunnāru: "Ēmī? Mēmu naśin̄ci, maṭṭil�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ, మేము మట్టిలో కలసి, మాయమయిపోయిన తరువాత కూడా మళ్లీ సరికొత్తగా సృష్టించబడతామా?” అని అంటారు. అసలు విషయం ఏమిటంటే వారు తమ ప్రభువును కలుసుకోవటాన్ని త్రోసిపుచ్చుతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

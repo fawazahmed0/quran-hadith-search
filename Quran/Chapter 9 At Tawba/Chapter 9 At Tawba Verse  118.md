@@ -2676,6 +2676,12 @@ mariyu venuka uṇḍi pōyina ā muggurini kūḍā (āyana kṣamin̄cāḍu).
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ ‘ముగ్గురి’ వ్యవహారం వాయిదా వేయబడిందో వారివైపుకు కూడా (అల్లాహ్‌ దయతో మరలాడు). భూమి విశాలంగా ఉండి కూడా వారికి ఇరుకైపోయింది. వారి ప్రాణాలు కూడా వారికి భారమై పోయాయి. అల్లాహ్‌ పట్టునుంచి తమను కాపాడుకోవటానికి ఆయన వైపుకు మరలటం తప్ప మార్గాంతరం లేదని వారు గ్రహించారు. ఇక మీదట కూడా వారు ఈ విధంగా మరలివచ్చేటందుకుగాను అల్లాహ్‌ వారివైపుకు మరలాడు. నిశ్చయంగా అల్లాహ్‌ అమితంగా పశ్చాత్తాపాన్ని స్వీకరించేవాడు, అపారంగా కరుణించేవాడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

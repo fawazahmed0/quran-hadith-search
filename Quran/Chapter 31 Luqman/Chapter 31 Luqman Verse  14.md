@@ -2676,6 +2676,12 @@ mariyu (allāh ilā ādēśistunnāḍu): "Mēmu mānavunaku tana tallidaṇḍr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మేము మానవునికి అతని తల్లిదండ్రుల విషయంలో గట్టిగా తాకీదు చేశాము- అతని తల్లి అతన్ని ప్రయాసపై ప్రయాసకు ఓర్చుకుంటూ తన గర్భంలో మోసింది. మరి అతని పాలను విడిపించటానికి రెండు సంవత్సరాలు పట్టింది. (కనుక ఓ మానవుడా!) నువ్వు నాకూ, నీ తల్లిదండ్రులకూ కృతజ్ఞుడవై ఉండు. (ఎట్టకేలకు మీరంతా) మరలి రావలసింది నా వద్దకే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

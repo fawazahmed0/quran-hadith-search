@@ -2676,6 +2676,12 @@ evaraitē viśvāsulanu vadali satyatiraskārulanu tama snēhitulugā cēsukuṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఎలాంటివారంటే, విశ్వాసులను వదలి అవిశ్వాసులను తమ మిత్రులుగా చేసుకుంటున్నారు. ఏమిటీ? వారు గౌరవ ప్రతిష్ఠల కోసం వారి వద్దకు వెళుతున్నారా? యదార్థానికి గౌరవమంతా అల్లాహ్‌ అధీనంలో ఉంది (అని వారు తెలుసుకోవాలి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

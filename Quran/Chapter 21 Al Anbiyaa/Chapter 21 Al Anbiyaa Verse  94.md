@@ -2676,6 +2676,12 @@ satkāryālu cēsēvāḍu viśvasin̄cēvāḍai uṇṭē, atani śrama nirād
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరయితే సత్కార్యాలు చేస్తూ ఉంటాడో అతను విశ్వాసి (కూడా) అయి వుంటే, అతని కృషికి గుర్తింపు లభించకపోవటం అంటూ జరగదు. మేము దాన్ని వ్రాసి ఉంచుతాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

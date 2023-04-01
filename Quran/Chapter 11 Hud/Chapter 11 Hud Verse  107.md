@@ -2676,6 +2676,12 @@ vārandulō śāśvataṅgā, bhūmyākāśālu unnanta varaku uṇṭāru. Nī 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు వేరొకటి తలిస్తే తప్ప భూమ్యాకాశాలున్నంత వరకూ వారు అందులోనే శాశ్వతంగా ఉంటారు. నిశ్చయంగా నీ ప్రభువు తాను కోరిందల్లా చేసి తీరుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

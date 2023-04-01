@@ -2676,6 +2676,12 @@ mariyu satyavāgdānaṁ neravērē samayaṁ daggara paḍinappuḍu satyatiras
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి సత్యమైన వాగ్దానం సంభవించే సమయం ఆసన్నమవుతుంది. ఆ సమయంలో అవిశ్వాసుల కనుగుడ్లు విచ్చుకున్నవి విచ్చుకున్నట్లుగానే ఉండిపోతాయి. “అయ్యో! మా పాడు గాను! మేము ఈ పరిస్థితి పట్ల పరధ్యానానికి గురయ్యాము. అసలు మేమే దుర్మార్గులం” (అని వారు ఒప్పుకుంటారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

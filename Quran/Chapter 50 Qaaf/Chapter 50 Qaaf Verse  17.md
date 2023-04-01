@@ -2676,6 +2676,12 @@ valatu puṟattil oruvarum, iṭatu puṟattil oruvarumāka iruvar (avaṉ ceyyu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తీసుకోవలసిన ఇద్దరు (దూతలు) తీసుకోవటానికి వెళ్ళినప్పుడు (వారిలో) ఒకతను కుడి ప్రక్కన, మరొకతను ఎడమ ప్రక్కన కూర్చొని ఉంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

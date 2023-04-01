@@ -2676,6 +2676,12 @@ mariyu nī prabhuvu nagarālanu ē mātramū nāśanaṁ cēsēvāḍu kādu, en
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జనవాసాల ముఖ్య పట్టణంలో తన ఆయతులను చదివి వినిపించే ప్రవక్తను పంపనంతవరకూ నీ ప్రభువు ఏ జనవాసాన్నీ (ఊరకే) నాశనం చేయడు. జనవాసాలలోని వారు దౌర్జన్య కాండకు ఒడిగట్టినప్పుడు మాత్రమే మేము వాటిని అంత మొందిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

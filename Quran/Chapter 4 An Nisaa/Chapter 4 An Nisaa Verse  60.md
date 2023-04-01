@@ -2676,6 +2676,12 @@ Ojo ta'aççuʙ namekunī, az kasone, ki da'vo mekunand ʙa on ci ʙar Pajomʙar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నీపై అవతరించినదాన్నీ, నీకు పూర్వం వారిపై అవతరించిన దాన్నీ విశ్వసించాము అని అంటూనే తమ వ్యవహారాలను తీర్పు కోసం దైవేతరుల (తాగూత్‌) వద్దకు తీసుకు పోగోరే వారిని నీవు చూడలేదా? మరి నిజానికి షైతాన్‌ను (తాగూత్‌ను) తిరస్కరించమని వారికి (స్పష్టంగా) ఆదేశించటం జరిగింది. షైతానైతే వారిని మార్గం తప్పించి చాలా దూరంలో పడవేయాలని కోరుతున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

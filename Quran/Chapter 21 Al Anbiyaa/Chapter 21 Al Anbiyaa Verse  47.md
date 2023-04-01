@@ -2676,6 +2676,12 @@ mariyu punarut'thāna dinamuna mēmu sariggā tūcē trāsulanu ērpāṭu cēst
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ప్రళయదినాన న్యాయంగా తూచే త్రాసులను నెలకొల్పుతాము. మరి ఏ ప్రాణికీ రవంత అన్యాయం కూడా జరగదు. ఒకవేళ ఆవగింజంత ఆచరణ ఉన్నా మేము దానిని హాజరు పరుస్తాము. లెక్క తీసుకోవటానికి మేము చాలు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

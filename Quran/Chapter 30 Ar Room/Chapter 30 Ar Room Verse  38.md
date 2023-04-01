@@ -2676,6 +2676,12 @@ kāvuna nīvu nī bandhuvuku atani hakku ivvu mariyu yācin̄cani pēdavāniki m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక సమీప బంధువుకు అతని హక్కును ఇవ్వు. అగత్యపరునికి, బాటసారికి కూడా (వారి హక్కులను ఇవ్వాలి). అల్లాహ్‌ సమ్ముఖ దర్శన భాగ్యం పొందగోరేవారికి ఈ పద్ధతి ఉత్తమమైనది. సాఫల్యం పొందేవారంటే వీరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

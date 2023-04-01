@@ -2676,6 +2676,12 @@ ika mūsā annāḍu: "Nā prabhuvu taraphu nuṇḍi evaḍu mārgadarśakatva�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా ఇలా చెప్పాడు: “తన వద్ద నుంచి మార్గదర్శకత్వాన్ని తెచ్చే వ్యక్తి గురించి, పరలోక పరిణామం రీత్యా కృతార్థులయ్యే వారి గురించి నా ప్రభువుకు బాగా తెలుసు. దుర్మార్గులు ఎన్నటికీ సాఫల్యం పొందరు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

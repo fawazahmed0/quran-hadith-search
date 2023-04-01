@@ -2676,6 +2676,12 @@ a taruvata ma dutalu lut vaddaku raga atanu vari nimittam cala cintincadu. Mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మా దూతలు లూత్‌ (అలైహిస్సలాం) వద్దకు చేరుకున్నప్పుడు, అతను వారిని చూసి ఆందోళన చెందాడు. లోలోపలే కుమిలిపోయాడు. అప్పుడు వారిలా అన్నారు : “నువ్వు భయపడకు. కలత చెందకు. మేము నీ భార్యను తప్ప – నిన్నూ, నీ పరివారాన్నీ కాపాడుతాము. ఎందుకంటే ఆమె (శిక్షను అనుభవించటానికి) వెనుక ఉండిపోయే వారితో చేరుతుంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

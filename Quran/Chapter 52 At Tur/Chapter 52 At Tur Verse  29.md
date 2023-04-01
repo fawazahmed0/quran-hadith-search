@@ -2676,6 +2676,12 @@ kāvuna (ō pravaktā!) Nīvu hitōpadēśaṁ cēstū vuṇḍu. Nī prabhuvu a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ప్రవక్తా!) నువ్వు వారికి బోధపరుస్తూ ఉండు. ఎందుకంటే నీ ప్రభువు అనుగ్రహం వల్ల నీవు (విషయాన్ని జిన్నాతుల నుండి గ్రహించే) జ్యోతిష్యుడవూ కావు, పిచ్చివాడవూ కావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāvuna mīriddarū atani vaddaku pōyi ilā anaṇḍi: "Niścayaṅgā, mēmid
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు అతని దగ్గరకు వెళ్ళి ఇలా అనండి: ‘మేము నీ ప్రభువు తరఫున పంపబడిన సందేశహరులము. నువ్వు ఇస్రాయీలు సంతతి వారిని మా వెంట పంపించు. వారిని పీడించకు. మేము నీ ప్రభువు తరఫున నీవద్దకు సూచనను తెచ్చాము. సన్మార్గాన్ని అనుసరించిన వానికి మాత్రమే శాంతి ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

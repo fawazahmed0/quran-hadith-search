@@ -2676,6 +2676,12 @@ mariyu: "Allāh yandu bhayabhaktulu kaligi uṇḍu." Ani atanitō annappuḍu, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌కు భయపడు” అని వాడితో అన్నప్పుడు, వాడి గర్వం, దురభిమానం వాడ్ని పాపం వైపుకే పురికొల్పుతుంది. ఇలాంటి వారికి నరకమే గతి. అది అతి చెడ్డ నివాస స్థలం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

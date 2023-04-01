@@ -2676,6 +2676,12 @@ mariyu ī (ka'abah) gr̥hānni mēmu mānavulanu taracugā sandarśin̄cē kēnd
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(జ్ఞాపకం చేసుకోండి) మేము ఈ గృహాన్ని (కాబా గృహాన్ని) మానవులందరి పుణ్యక్షేత్రంగానూ, శాంతి నిలయంగానూ చేశాము. మీరు ఇబ్రాహీము నిలబడిన ప్రదేశాన్ని నమాజు స్థలంగా చేసుకోండి. “నా గృహాన్ని (సందర్శించి) ప్రదక్షిణ చేసేవారి కోసం, అక్కడ ఏతెకాఫ్‌ పాటించేవారి కోసం, రుకూ సజ్దాలు చేసేవారి కోసం మీరు దానిని పరిశుభ్రంగా, పరిశుద్ధంగా ఉంచాలి అని ఇబ్రాహీము, ఇస్మాయీలు నుంచి మేము వాగ్దానం తీసుకున్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

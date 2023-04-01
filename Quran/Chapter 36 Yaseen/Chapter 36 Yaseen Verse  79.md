@@ -2676,6 +2676,12 @@ ilā anu: "Modaṭa vāṭini puṭṭin̄cina āyanē, maḷḷī vāṭini bra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(వారికి) సమాధానం ఇవ్వు : “వాటిని తొలిసారి సృష్టించిన వాడే (మలిసారి కూడా) బ్రతికిస్తాడు. ఆయన అన్ని రకాల సృష్టి ప్రక్రియను గురించి క్షుణ్ణంగా తెలిసినవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

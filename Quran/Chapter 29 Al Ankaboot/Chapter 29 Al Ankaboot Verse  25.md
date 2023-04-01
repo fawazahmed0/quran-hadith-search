@@ -2676,6 +2676,12 @@ mariyu (ibrāhīm) ilā annāḍu: "Niścayaṅgā, mīru prāpan̄cika jīvitan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఇబ్రాహీము వారితో) ఇలా అన్నాడు: “మీరు అల్లాహ్‌ను వదలి విగ్రహాలను ఆశ్రయించారు. మీ పరస్పర ప్రాపంచిక స్నేహసంబంధాల ప్రాతిపదికపైన్నే మీరు (ఇదంతా) కల్పించుకున్నారు. కాని ప్రళయదినాన మీరంతా ఒండొకరిని తిరస్కరిస్తారు. ఒకరినొకరు శపించుకుంటారు. నరకాగ్ని మీ నివాసమవుతుంది. (అక్కడ) మిమ్మల్ని ఆదుకునే వాడెవడూ ఉండడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ niścayaṅgā, mēmu āḍa oṇṭenu, vārini parīkṣin̄caṭaṁ kōsaṁ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీళ్ళను పరీక్షించటానికి మేము ఒక ఆడ ఒంటెను పంపిస్తున్నాము. కాబట్టి (ఓ సాలెహ్!) నువ్వు వీళ్ళ (పరిణామం) కోసం ఎదురు చూస్తూ ఉండు. కాస్త ఓపిక పట్టు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

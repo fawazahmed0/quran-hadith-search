@@ -2676,6 +2676,12 @@ vāstavāniki evaḍaitē allāh ku vidhēyuḍai (islāṁ svīkarin̄ci) tana 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఔను మరి! ఎవడైతే ఆచరణలో అత్యుత్తమ రీతిని అవలంబించి తనను తాను అల్లాహ్‌ సన్నిధిలో సమర్పించుకుంటాడో, అతనికి తన ప్రభువు వద్ద ప్రతిఫలం ఉంది. అలాంటి వారికి ఎలాంటి భయంగానీ, దుఃఖంగానీ ఉండవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

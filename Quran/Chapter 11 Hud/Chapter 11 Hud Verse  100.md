@@ -2676,6 +2676,12 @@ ivi konni (prācīna) paṭṭaṇāla gāthalu vīṭini mēmu nīku vinipistun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇవి (తుదముట్టించబడిన) బస్తీలకు సంబంధించిన కొన్ని సమాచారాలు. వీటిని మేము నీకు వివరిస్తున్నాము. వాటిలో కొన్ని నిలిచి ఉన్నాయి. మరికొన్ని సమూలంగా తుడిచి పెట్టబడ్డాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

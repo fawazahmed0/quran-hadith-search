@@ -2676,6 +2676,12 @@ o manavulara! Mim'malni mariyu miku purvam varini srstincina mi prabhuvu (allah)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలారా! మిమ్మల్నీ, మీకు పూర్వం వారినీ పుట్టించిన మీ ప్రభువునే ఆరాధించండి- తద్వారానే మీరు (పాపాల నుండి) సురక్షితంగా ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

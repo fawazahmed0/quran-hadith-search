@@ -2676,6 +2676,12 @@ ivvitamē, (avarkaḷukku vētam iṟakkiyatu pōṉṟē napiyē!) Umakkum ivv�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఇదే విధంగా మేము నీ వైపునకు మా గ్రంథాన్ని అవతరింపజేశాము. అందువల్ల (పూర్వం) మేము గ్రంథం వొసగబడిన వారు దీనిని విశ్వసిస్తారు. వీరిలో (మక్కా ముష్రిక్కులలో) కూడా కొందరు దీనిని విశ్వసిస్తారు. అవిశ్వాసులు మాత్రమే మా ఆయతులను త్రోసి పుచ్చుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

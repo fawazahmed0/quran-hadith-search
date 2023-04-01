@@ -2676,6 +2676,12 @@ mīrē (viśvāsulē) mānavajāti (hitaṁ) koraku nilabeṭṭabaḍina uttama
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మానవుల కోసం ఉనికిలోనికి తీసుకురాబడిన శ్రేష్ఠ సమాజం మీరు. మీరు మంచి విషయాలకై ఆజ్ఞాపిస్తారు, చెడు నుంచి ఆపుతారు, ఇంకా మీరు అల్లాహ్‌ను విశ్వసిస్తారు. గ్రంథవహులు కూడా విశ్వసించి ఉంటే, అది వారి కోసం శ్రేయస్కరం అయ్యేది. వారిలో కొందరు విశ్వాసులు కూడా ఉన్నారు. కాని అత్యధికులు అవిధేయులే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

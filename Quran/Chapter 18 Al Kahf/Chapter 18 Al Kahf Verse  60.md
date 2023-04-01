@@ -2676,6 +2676,12 @@ Mariyu (jñāpakaṁ cēsukōṇḍi) mūsā tana sēvakunitō ilā annadi: "Re�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏళ్ళ తరబడి నడవవలసి వచ్చినా సరే, రెండు సముద్రాలు కలిసే సాగర సంగమానికి చేరుకోనంతవరకూ నేను నడుస్తూనే ఉంటాను” అని మూసా తన వెంటనున్న యువకునితో చెప్పినప్పుడు (జరిగిన సంఘటనను కాస్త జ్ఞప్తికి తెచ్చుకోండి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

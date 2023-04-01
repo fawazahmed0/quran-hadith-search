@@ -2676,6 +2676,12 @@ ataṟku avarkaḷ ‘‘nīṅkaḷ (itil) poyyarkaḷāka iruntāl ataṟkuriy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అలాగా. మరి మీ మాట అబద్ధమని తేలితే (దొంగిలించిన) అతనికి ఏ శిక్ష విధించాలి?” అని వారు (రాజభటులు) ప్రశ్నించారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

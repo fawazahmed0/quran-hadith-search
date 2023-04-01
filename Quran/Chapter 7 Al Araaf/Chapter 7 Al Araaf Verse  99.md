@@ -2676,6 +2676,12 @@ emi? Varu allah yukti (siksa) nundi nirbhayanga unnara? Nasanam kaboye varu tapp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వాళ్ళు దేవుని ఈ వ్యూహం గురించి నిశ్చింతగా ఉన్నారా? నష్టపోయే వారు తప్ప మరొకరెవరూ దేవుని వ్యూహం గురించి నిర్లక్ష్యంగా ఉండరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

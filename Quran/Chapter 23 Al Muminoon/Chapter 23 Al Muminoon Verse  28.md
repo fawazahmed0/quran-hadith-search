@@ -2676,6 +2676,12 @@ A taruvata nivu mariyu nito unnavaru navaloki ekkina pidapa ila prarthincandi: '
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి నువ్వూ, నీ వెంటవచ్చిన వారూ ఓడలో పయన మయ్యాక, “దుర్మార్గుల బారి నుంచి మమ్మల్ని రక్షించిన అల్లాహ్‌కు కృతజ్ఞతలు” అని పలుకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

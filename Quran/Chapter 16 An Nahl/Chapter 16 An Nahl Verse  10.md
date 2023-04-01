@@ -2676,6 +2676,12 @@ ayane, akasam nundi mi koraku nillanu kuripistadu. Dani nundi miku tragataniki n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే మీ కోసం ఆకాశం నుంచి నీళ్ళను కురిపిస్తున్నాడు. దాన్ని మీరూ త్రాగుతారు. దానివల్ల మొలకెత్తిన పచ్చికను (వృక్షాలను) మీ పశువులకు కూడా మేపుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu durmārganlō munigivunna ennō nagarālaku nēnu vyavadhiniccānu! Taruv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎన్నో పట్టణాలకు, అవి దారుణంగా చెలరేగిపోయినప్పటికీ నేను ఒకింత విడుపు ఇచ్చాను. తర్వాత వారిని పట్టుకున్నాను. వారు తిరిగి రావలసింది నా దగ్గరకే కదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

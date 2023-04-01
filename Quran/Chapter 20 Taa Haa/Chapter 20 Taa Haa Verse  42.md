@@ -2676,6 +2676,12 @@ nīvu mariyu nī sōdaruḍu nā sūcanalatō veḷḷaṇḍi. Nannu smarin̄ca
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇప్పుడు నువ్వూ, నీ సోదరుడూ నా సూచనలను తీసుకుని వెళ్లండి. (జాగ్రత్త!) నా ధ్యానం పట్ల బద్దకం చూపకూడదు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

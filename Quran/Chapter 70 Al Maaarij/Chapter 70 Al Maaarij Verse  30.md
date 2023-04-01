@@ -2676,6 +2676,12 @@ tama bhāryalu (ajvāj), lēdā dharmasam'mataṅgā tama ādhīnanlō unna (bā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే తమ భార్యల విషయంలో, (ధర్మబద్ధంగా) తమ స్వాధీనంలో ఉన్న బానిస స్త్రీల విషయంలో మాత్రం వారు నిందార్హులు కారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

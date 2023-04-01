@@ -2676,6 +2676,12 @@ prajalalōni kondaru mūḍhajanulu ilā aṇṭāru: "Vīrini (muslinlanu) inta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“వీరు ఏ ఖిబ్లా వైపుకు అభిముఖులయ్యేవారో దాన్నుంచి మరలటానికి కారణం ఏమిటీ?” అని మూర్ఖజనులు అంటారు. (ఓ ప్రవక్తా!) వారికి చెప్పు: తూర్పు పడమరలు (అన్నీ) అల్లాహ్‌వే. తాను తలచిన వారికి ఆయన రుజుమార్గం చూపుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu strīlaku vāri strī śulkaṁ (mahar) sahr̥dayantō ivvaṇḍi. Kāni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+స్త్రీలకు వారి మహర్‌ సొమ్మును మనస్ఫూర్తిగా ఇవ్వండి. ఒకవేళ వారు గనక తమంతట తాముగా – ఇష్టపూర్వకంగా – మహర్‌లో కొంత మొత్తాన్ని వదలిపెట్టినట్లయితే సంతోషంగా (నిస్సంకోచంగా) దాన్ని అనుభవించండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Niku teliyada (cudatam leda)? Niscayanga, allah ye meghalanu mellamellaga n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మేఘాలను నడిపించటాన్నీ, మరి వాటిని పరస్పరం కలపటాన్ని, ఆ తరువాత వాటిని ఒకదానిపై ఒకటి పొరలు పొరలుగా పేర్చటాన్ని నువ్వు గమనించటం లేదా? మరి వాటి మధ్య నుంచి వర్షం కురవటాన్ని నువ్వు చూస్తావు. మరి ఆయనే ఆకాశంలోని వడగండ్ల పర్వతాల నుంచి వడగండ్లను కురిపిస్తాడు. తాను కోరినవారిపై వాటిని కురిపిస్తాడు, తాను కోరిన వారినుంచి వాటిని తొలగిస్తాడు. మరి ఆ మేఘాల నుంచి వెలువడే మెరుపు తీగ కంటి చూపును పోగొట్టినట్లే ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu tana mukhānni (tananu tānu) allāh ku samarpin̄cukoni (musliṁ ayi), 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒక వ్యక్తి అల్లాహ్‌ ముందు తలవంచి, సదాచార సంపన్నుడై ఉండి, ఏకాగ్రచిత్తుడైన ఇబ్రాహీము ధర్మాన్ని అనుసరిస్తే – ధర్మం రీత్యా అతని కంటే ఉత్తముడు మరెవడు కాగలడు? ఇబ్రాహీమ్‌ (అలైహిస్సలాం)ను అల్లాహ్‌ తన మిత్రునిగా చేసుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

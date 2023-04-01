@@ -2676,6 +2676,12 @@ mariyu ī granthaṁ (khur'ān) lō vaccina mūsā gāthanu prastāvin̄cu. Niś
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ ఖుర్‌ఆను గ్రంథంలో మూసా విషయాన్ని కూడా ప్రస్తావించు. అతను ఎన్నుకోబడినవాడు, సందేశ వాహకుడైన ప్రవక్త
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ jīvitānni iccēvāḍu mariyu maraṇimpajēsēvāḍu āyanē! Āyana ēdain�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జీవితాన్ని ప్రసాదించేవాడు, మరణాన్ని వొసగేవాడు ఆయనే. మరి ఆయన ఏ పనైనా చేయాలని నిర్ణయించుకున్నప్పుడు, దాన్నుద్దేశించి ‘అయిపో’ అని మాత్రమే అంటాడు. అంతే, అది అయిపోతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

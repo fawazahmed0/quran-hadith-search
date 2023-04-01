@@ -2676,6 +2676,12 @@ allāh sr̥ṣṭini ē vidhaṅgā prārambhistunnāḍō taruvāta dānini ē 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఏ విధంగా సృష్టిని మొదలెడుతున్నాడో వారు చూడటం లేదా? మరి ఆయనే దాన్ని పునరావృతం చేస్తాడు. ఇలా చేయటం అల్లాహ్‌కు చాలా తేలిక
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

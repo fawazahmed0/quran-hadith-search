@@ -2676,6 +2676,12 @@ mariyu mūsā jāti vāru, atanu pōyina pidapa tama ābharaṇālatō oka āvu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా జాతివారు అతను వెళ్ళిన తర్వాత తమ నగలతో ఆవుదూడ విగ్రహాన్ని తయారుచేసి, దానిని తమ ఆరాధ్య దైవంగా కొలవసాగారు. అందులో నుంచి ఒకలాంటి శబ్దం వచ్చేది. అది తమతో మాట్లాడలేదనీ, తమకు ఏ దారీ చూపదనీ వారు ఆలోచించలేదా? అయినప్పటికీ వారు దాన్ని ఆరాధ్య దైవంగా ఖరారు చేసుకున్నారు. చాలా పెద్ద అన్యాయానికి పాల్పడ్డారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

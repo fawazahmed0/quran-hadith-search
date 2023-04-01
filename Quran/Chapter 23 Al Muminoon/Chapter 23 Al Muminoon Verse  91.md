@@ -2676,6 +2676,12 @@ allāh evvarinī kūḍā tanaku santānaṅgā cēsukōlēdu mariyu āyanatō p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఎవరినీ కొడుకుగా చేసుకోలేదు. ఆయనతోపాటు ఇంకొక ఆరాధ్య దేవుడు కూడా (భాగస్వామిగా) లేడు. ఒకవేళ అలాంటిదేదైనా ఉంటే ప్రతి దేవుడూ తాను సృష్టించిన సృష్టితాలను వేరుగా తీసుకుని వేరయిపోయేవాడు. ఒకడు ఇంకొకనిపై దండయాత్ర చేసేవాడు. వారు అల్లాహ్‌కు ఏ లక్షణాలను ఆపాదిస్తున్నారో వాటికి ఆయన అతీతుడు, పవిత్రుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

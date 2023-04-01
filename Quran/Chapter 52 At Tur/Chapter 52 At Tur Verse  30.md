@@ -2676,6 +2676,12 @@ Lēdā? Vāru: "Itanu oka kavi, itani vināśakālaṁ kōsaṁ mēmu eduru cūs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇతడొక కవిపుంగవుడు, మేమితనిపై కాలచక్రపు విపత్తులు వచ్చిపడతాయని ఎదురు చూస్తున్నాము” అని వారంటున్నారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

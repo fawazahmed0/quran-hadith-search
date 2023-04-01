@@ -2676,6 +2676,12 @@ o visvasulara! Niscayanga, cala mandi yuda matacarulu (ah bar) mariyu kraistava 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వసించిన వారలారా! పండితుల (అహ్‌బార్‌)లలో, సన్యాసుల (రుహ్‌బాన్‌)లలో చాలా మంది అక్రమంగా ప్రజల సొమ్ములను స్వాహా చేస్తున్నారు. వారిని అల్లాహ్‌ మార్గం నుంచి ఆపుతున్నారు. ఎవరు వెండీ, బంగారాలను పోగుచేస్తూ వాటిని దైవమార్గంలో ఖర్చు పెట్టడంలేదో వారికి బాధాకరమైన శిక్ష ఉందన్న శుభవార్తను వినిపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

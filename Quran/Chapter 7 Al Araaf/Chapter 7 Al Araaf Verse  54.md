@@ -2676,6 +2676,12 @@ niścayaṅgā, mī prabhuvaina allāh yē ākāśālanu mariyu bhūmini āru di
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిస్సందేహంగా అల్లాహ్‌యే మీ ప్రభువు. ఆయన ఆకాశాలను, భూమిని ఆరు రోజులలో సృష్టించాడు. ఆ తరువాత సింహాసనంపై (అర్ష్‌పై) ఆసీనుడయ్యాడు. ఆయన రాత్రిని పగటిపై కప్పివేస్తాడు. అది దాన్ని వేగంగా వెంబడిస్తూ వస్తుంది. ఇంకా ఆయన సూర్యచంద్రులను, నక్షత్రాలను తన ఆజ్ఞకు కట్టుబడి ఉండే విధంగా సృష్టించాడు. వినండి! సృష్టి ప్రక్రియ ఆయన స్వంతం. ఆజ్ఞాపన ఆయన సొత్తు. సకల లోకాల ప్రభువైన అల్లాహ్‌ అపారమైన శుభాలు కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

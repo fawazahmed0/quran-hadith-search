@@ -2676,6 +2676,12 @@ A roju! Allah variki, (vari karmalaku) purti pratiphalamistadu. Mariyu niscayang
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు అల్లాహ్‌ వారికి న్యాయబద్ధంగా పూర్తి ప్రతిఫలాన్ని (శిక్షను) ఇస్తాడు. అప్పుడు అల్లాహ్‌యే సత్యమనీ, (ఆయనే సత్యాన్ని) స్పష్టపరచేవాడనీ వారు తెలుసుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vārini aḍugu: "Mīru allāh ku sāṭigā kalpin̄cukunna vārilō sr̥ṣṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ, మీరు భాగస్వాములుగా నిలబెట్టిన వారిలో తొలిసారి సృష్టించి, మలిసారి కూడా దాన్ని పునరావృతం చేసే వాడెవడైనా ఉన్నాడా?” అని వారిని అడుగు. “అల్లాహ్‌యే తొలిసారి సృష్టిస్తాడు. మలిసారి కూడా ఆయనే సృష్టిస్తాడు. మరలాంటప్పుడు మీరు (సత్యం నుండి) ఎటుకొట్టుకు పోతున్నారు?” అని వారిని అడుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāstavāniki mēmu vārini dr̥ḍhaṅgā sthiraparaci unnāmu; ā vidh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము వారికి (ఆదు జాతి వారికి), మీకు సయితం ఇవ్వని ఎన్నో శక్తియుక్తులను ఇచ్చాము. మేము వారికి చెవులను, కళ్లను, హృదయాలను కూడా ప్రసాదించాము. కాని వారు అల్లాహ్‌ వాక్యాలను త్రోసిపుచ్చినప్పుడు వారి చెవులుగానీ, కళ్లుగానీ, వారి హృదయాలుగానీ వారికే విధంగానూ ఉపకరించలేదు. వారు దేన్ని గురించి ఎగతాళి చేసేవారో చివరకు అదే వారిని చుట్టుముట్టింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

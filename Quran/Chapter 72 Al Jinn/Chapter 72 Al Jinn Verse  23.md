@@ -2676,6 +2676,12 @@ allāhviṭamiruntu (varuvatai) eṭuttuc colvatum, avaṉuṭaiya tūtuvattuvat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అయితే నా బాధ్యతల్లా అల్లాహ్ వాణిని, ఆయన సందేశాలను (ప్రజలకు) అందజేయటమే. ఇక ఇప్పుడు ఎవరైనా అల్లాహ్ మాటను, అతని ప్రవక్త మాటను వినకపోతే వారికొరకు నరకాగ్ని ఉంది. అందులో వారు కలకాలం ఉంటారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

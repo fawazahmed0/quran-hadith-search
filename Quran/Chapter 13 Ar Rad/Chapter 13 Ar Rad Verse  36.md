@@ -2676,6 +2676,12 @@ Mariyu (ō pravaktā!) Evarikaitē mēmu (mundu) granthānni iccāmō! Vāru nī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఎవరికైతే మేము గ్రంథం ఇచ్చి ఉన్నామో వారు, నీపై అవతరింపజేయబడే దాని పట్ల సంతోషిస్తూ ఉంటారు. ఇతర వర్గాలవారు ఇందులోని కొన్ని భాగాలను తిరస్కరిస్తున్నారు. “నేను అల్లాహ్‌ను ఆరాధించాలనీ, ఆయనకు భాగస్వామ్యం కల్పించరాదని మాత్రమే నాకు ఆజ్ఞాపించబడింది. కాబట్టి ఆయన వైపుకే నేను పిలుపు ఇస్తున్నాను. ఆయన వైపే నేను మరలుతున్నాను” అని నువ్వు వారికి చెప్పేయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

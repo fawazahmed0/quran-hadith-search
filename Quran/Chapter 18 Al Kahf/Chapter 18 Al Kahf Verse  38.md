@@ -2676,6 +2676,12 @@ kāni niścayaṅgā, nā maṭṭuku mātraṁ āyana! Allāh yē nā prabhuvu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా మట్టుకు నేను ఆ అల్లాహ్‌యే నా ప్రభువు అని నమ్ముతున్నాను. నేను నా ప్రభువుకు సహవర్తునిగా ఎవరినీ కల్పించను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

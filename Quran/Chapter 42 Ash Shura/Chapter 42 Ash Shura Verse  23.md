@@ -2676,6 +2676,12 @@ A (svargapu) subhavartane, allah visvasinci satkaryalu cese tana dasulaku teliya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించి, (‘సున్నత్‌’ ప్రకారం) సత్కార్యాలు చేసిన తన దాసులకు అల్లాహ్‌ ఇచ్చే శుభవార్త ఇదే! (ఓ ప్రవక్తా!) వారికి చెప్పు: “దీనికిగాను నేను మీ నుండి ఎలాంటి ప్రతిఫలాన్నీ అడగటంలేదు. కాని బంధుత్వ ప్రేమను మాత్రం కోరుతున్నాను.” ఎవడయినా మంచి చేస్తే మేమతని మంచిలో మరింత వృద్ధినిస్తాము. నిశ్చయంగా అల్లాహ్‌ అపారంగా మన్నించేవాడు, (సేవలకు తగ్గ) గుర్తింపునిచ్చేవాడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

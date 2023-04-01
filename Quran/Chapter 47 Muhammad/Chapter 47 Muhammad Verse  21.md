@@ -2676,6 +2676,12 @@ ajnapalana ceyatam mariyu manci matalu palukatam. Okavela (jihad koraku) drdhama
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(వారు గనక) విధేయత (చూపి ఉంటే), మంచిమాట (పలికి ఉంటే), మరి కార్యాచరణ నిర్ణయించబడినపుడు వారు అల్లాహ్‌ పక్షాన సత్యవంతులుగా నిలబడి ఉంటే అది వారి కొరకు శ్రేయోదాయకమై ఉండేది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

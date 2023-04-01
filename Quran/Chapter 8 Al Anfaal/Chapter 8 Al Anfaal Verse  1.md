@@ -2676,6 +2676,12 @@ Pōril kiṭaitta veṟṟipporuḷ(aṉḥpāl)kaḷaip paṟṟi um'miṭam av
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు నిన్ను యుద్ధప్రాప్తి (అన్‌ఫాల్‌) గురించి అడుగుతున్నారు. (ఓ ప్రవక్తా!) వారికి చెప్పు : “ఈ యుద్ధప్రాప్తి (అన్‌ఫాల్‌) అల్లాహ్‌కు, ప్రవక్తకు చెందినవి. కాబట్టి మీరు అల్లాహ్‌కు భయపడండి. మీ పరస్పర సంబంధాలను చక్కదిద్దుకోండి. మీరు విశ్వసించినవారే అయితే అల్లాహ్‌కూ, ఆయన ప్రవక్తకూ విధేయత చూపండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ appuḍu mēmu atanini (ā tappunu) kṣamin̄cāmu. Mariyu niścayaṅgā, mā 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము కూడా అతని (ఆ తప్పు)ని మన్నించాము. నిశ్చయంగా అతను మా వద్ద సామీప్యం పొందినవాడు, మంచి స్థానం పొందినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

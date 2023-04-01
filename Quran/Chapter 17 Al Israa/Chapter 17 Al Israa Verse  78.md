@@ -2676,6 +2676,12 @@ madhyāhnaṁ sūryuḍu vālinappaṭi nuṇḍi, rātri ayi cīkaṭi paḍē 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నమాజును నెలకొల్పు – సూర్యుడు నెత్తి నుండి వాలినప్పటి నుంచి రాత్రి చీకటి అలుముకునే వరకు. తెల్లవారు జామున ఖుర్‌ఆను పారాయణం చెయ్యి. నిశ్చయంగా తెల్లవారు జామున చేసే ఖుర్‌ఆన్‌ పారాయణానికి సాక్ష్యం ఇవ్వబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

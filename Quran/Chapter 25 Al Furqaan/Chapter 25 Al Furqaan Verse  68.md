@@ -2676,6 +2676,12 @@ mariyu evaraitē, allāh tō pāṭu itara daivālanu ārādhin̄carō! Mariyu a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు అల్లాహ్‌తోపాటు మరో దైవాన్ని మొరపెట్టుకోరు. న్యాయబద్ధంగా తప్ప – అల్లాహ్‌ ఏ ప్రాణిని హత్య చేయటాన్ని నిషేధించాడో దానిని హతమార్చరు. వారు వ్యభిచారానికి పాల్పడరు. ఈ చేష్టలకు ఒడిగట్టినవాడు పాపఫలాన్ని పొంది తీరుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

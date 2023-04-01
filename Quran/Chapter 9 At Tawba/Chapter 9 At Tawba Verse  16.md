@@ -2676,6 +2676,12 @@ emi? Allah milo nundi (tana marganlo) poradevarevaro mariyu - allah, ayana prava
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, మీరు ఇట్టే వదలివేయబడతారని భావిస్తున్నారా? వాస్తవానికి మీలో యోధులు ఎవరో, అల్లాహ్‌ను, ఆయన ప్రవక్తను, విశ్వాసులను తప్ప వేరొకరెవరినీ ఆప్తమిత్రులుగా చేసుకోనివారు ఎవరో అల్లాహ్‌ ఇంతవరకు (వేరుపరచి) చూడనే లేదు. మీరు చేసేదంతా అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

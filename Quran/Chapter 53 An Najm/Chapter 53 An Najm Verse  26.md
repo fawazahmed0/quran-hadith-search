@@ -2676,6 +2676,12 @@ mariyu ākāśālalō endarō dēvadūtalu unnāru. Kāni vāri siphārasu ē m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలో ఎంతో మంది దైవదూతలు ఉన్నారు. కాని వాళ్ళ సిఫారసు ఏ మాత్రం పనికిరాదు. కాకపోతే అల్లాహ్ తన ఇష్టంతో, తాను కోరిన వారి విషయంలో (సిఫారసు వినడానికి) సమ్మతిస్తే అది వేరే విషయం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

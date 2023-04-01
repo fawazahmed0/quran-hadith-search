@@ -2676,6 +2676,12 @@ mariyu mā sūcana (āyāt) lanu gurin̄ci vāru vr̥thā māṭalu (dūṣaṇa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) మా ఆయతులలో లోపాలు వెతికేవారిని నీవు చూసినప్పుడు, వారు (దీనిని వదలి) ఇతర విషయాలపై మాట్లాడనంత వరకూ వారి మధ్య ఉండకు. ఒకవేళ షైతాను నిన్ను మరుపుకు గురిచేస్తే, జ్ఞాపకం వచ్చిన మీదట ఆ దుర్మార్గుల మధ్యన కూర్చోకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Ataṟku (mūsā), "nīṅkaḷ (mutalil) eṟiyuṅkaḷ" eṉṟu kūṟiṉā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరే పడవెయ్యండి” అని మూసా బదులిచ్చాడు. అప్పుడు ఆ మాంత్రికులు (తమ త్రాళ్ళను) పడవేసి ప్రజలకు కనికట్టు చేశారు. వారందరినీ భీతావహస్థితికి లోనుచేసి ఓ పెద్ద మాయాజాలాన్ని ప్రదర్శించారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

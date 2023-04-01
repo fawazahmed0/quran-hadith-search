@@ -2676,6 +2676,12 @@ Mīru viśvāsulē ayitē, ika mīdaṭa ennaṭikī iṭuvaṇṭi cēṣṭalu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు నిజమైన విశ్వాసులే అయితే ఇక మీదట ఎన్నడూ ఇలాంటి చేష్టకు పాల్పడరాదని అల్లాహ్‌ మీకు బోధపరుస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

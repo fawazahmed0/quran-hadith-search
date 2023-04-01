@@ -2676,6 +2676,12 @@ vāra (vāritō ilā aṇṭāru): "Vāstavāniki mēmu allāh prasannata korak�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(పైగా వారిలా అంటారు) : “మేము కేవలం అల్లాహ్ ప్రసన్నత కోసమే మీకు తినిపిస్తున్నాము. అంతేగాని మీ నుండి మేము ఎలాంటి ప్రతిఫలాన్ని గానీ, ధన్యవాదాలను గానీ ఆశించటం లేదు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

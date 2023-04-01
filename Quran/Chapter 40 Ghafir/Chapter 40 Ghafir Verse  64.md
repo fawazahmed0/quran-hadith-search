@@ -2676,6 +2676,12 @@ allāh yē! Mī koraku bhūmini nivāsa sthalaṅgā mariyu ākāśānni kappug�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే మీ కోసం భూమిని నివాసస్థలంగా చేశాడు. ఆకాశాన్ని పందిరిగా నిర్మించాడు. మీ రూపురేఖలను తీర్చి దిద్దాడు. మీకు చాలా అందమైన రూపాన్నిచ్చాడు. తినటానికి పరిశుద్ధమైన ఆహార పదార్థాలను ప్రసాదించాడు. ఈ అల్లాహ్‌యే మీ ప్రభువు. మరి సకల లోకాలకు ప్రభువైన అల్లాహ్‌ శుభాలు కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

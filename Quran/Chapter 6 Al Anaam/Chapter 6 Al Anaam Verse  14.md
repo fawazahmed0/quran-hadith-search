@@ -2676,6 +2676,12 @@ vāṉaṅkaḷaiyum pūmiyaiyum paṭaitta allāhvaiyaṉṟi vēṟu evaraiyum
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఆకాశాలను, భూమినీ సృష్టించినవాడు, అందరికీ తినిపించేవాడూ, ఎవరి నుండి కూడా ఆహారం పుచ్చుకోనివాడూ అయిన అల్లాహ్‌ను వదలి నేను వేరొకరిని ఆరాధ్యునిగా చేసుకోవాలా?” అని ఓ ప్రవక్తా! వారిని అడుగు. ”అందరికంటే ముందు నేను ఇస్లాం స్వీకరించాలని నాకు ఆదేశించబడింది” అని నీవు వారికి తెలియజెయ్యి. “ఎట్టి పరిస్థితుల్లోనూ నీవు బహుదైవారాధకులలో చేరిపోకూడదు” (అని కూడా నాకు ఆదేశించబడిందని చెప్పు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

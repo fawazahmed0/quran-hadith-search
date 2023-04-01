@@ -2676,6 +2676,12 @@ mariyu viśvāsulu (parasparaṁ ilā anukuṇṭāru): "Ēmī? Vāstavāniki m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులు (వారి ఈ పరిస్థితిని చూసి), “మేము మీతోనే ఉన్నామని అదేపనిగా అల్లాహ్‌ పేర కఠోర ప్రమాణాలు చేసి చెప్పింది వీళ్ళేనా?!” అని అంటారు. వీళ్ళ సత్కార్యాలన్నీ వృథా అయ్యాయి. ఆ విధంగా వీరు (ఘోరంగా) నష్టపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

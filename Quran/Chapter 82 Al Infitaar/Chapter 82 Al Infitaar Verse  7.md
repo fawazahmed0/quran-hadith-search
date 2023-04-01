@@ -2676,6 +2676,12 @@ ayane ninnu srstincadu, taruvata elanti lopam lekunda ninnu tircididdadu mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(యదార్థానికి) ఆయనే నిన్ను పుట్టించాడు, నిన్ను చక్కగా తీర్చిదిద్దాడు, ఆపైన నిన్ను తగు రీతిలో పొందికగా మలిచాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

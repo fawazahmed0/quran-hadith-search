@@ -2676,6 +2676,12 @@ niścayaṅgā, evaḍaitē hitabōdhanu anusaristū, agōcaruḍaina karuṇām
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+హితబోధను అనుసరిస్తూ, చూడకపోయినా కరుణామయునికి (అల్లాహ్‌కు) భయపడే వ్యక్తిని మాత్రమే నువ్వు హెచ్చరించగలవు. కాబట్టి అలాంటి వ్యక్తికి నువ్వు క్షమాభిక్ష, గౌరవప్రదమైన ప్రతిఫలం గురించిన శుభవార్తను వినిపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

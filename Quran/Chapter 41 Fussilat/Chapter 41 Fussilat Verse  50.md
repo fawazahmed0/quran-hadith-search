@@ -2676,6 +2676,12 @@ mariyu okavēḷa mēmu ataniki āpada kālaṁ dāṭi pōyina tarvāta mā kā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కష్టాలు వచ్చిన తర్వాత మేమతనికి మా కారుణ్యం రుచిని చూపినట్లయితే “అదెలాగూ నాకు దక్కవలసిందే (ఆ యోగ్యత నాలో ఉంది గనక). ప్రళయ ఘడియ నెలకొంటుందని నేనైతే అనుకోను. ఒకవేళ నేను నా ప్రభువు వద్దకు మరలించబడినా, నిశ్చయంగా ఆయన దగ్గర నాకు మంచి (స్థానమే) లభిస్తుంది” అని బీరాలు పలుకుతాడు. ఇలాంటి తిరస్కారులకు మేము తప్పకుండా వారు ఏమేమి చేశారో తెలియపరుస్తాము. వారికి దుర్భరమైన యాతనను చవిచూపిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

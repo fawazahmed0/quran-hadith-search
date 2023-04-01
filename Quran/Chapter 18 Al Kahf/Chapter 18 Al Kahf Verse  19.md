@@ -2676,6 +2676,12 @@ mariyu ī vidhaṅgā (unna taruvāta), vāru okarinokaru praśnin̄cukōvaṭā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదే విధంగా – వారు పరస్పరం ప్రశ్నించుకోవటానికి మేము వారిని లేపి కూర్చోబెట్టాము. వారిలో ఒకతను “మీరు ఎంతసేపు ఇక్కడ విశ్రమించి ఉంటారు?” అని అడగ్గా, “ఒక రోజో లేక ఒక రోజుకన్నా తక్కువ సమయమో ఉండి ఉంటాం” అని వారు సమాధాన మిచ్చారు. మళ్లీ ఇలా చెప్పారు : “మీరు ఎంతసేపు ఉన్నారన్న విషయం మీ ప్రభువుకే బాగా తెలుసు. సరే, ఇప్పుడు ఈ వెండి (నాణెము)ని ఇచ్చి, మీలో ఒకరిని పట్టణానికి పంపండి – అతను వెళ్ళి అత్యంత పరిశుద్ధమైన భోజనం ఏదో కనుక్కుని, అందులో నుంచి మీ కోసం తినటానికి తీసుకు వస్తాడు. అయితే అతను మృదువుగా, జాగ్రత్తగా వ్యవహరించాలి. మీ జాడ ఎవరికీ తెలియనివ్వకూడదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

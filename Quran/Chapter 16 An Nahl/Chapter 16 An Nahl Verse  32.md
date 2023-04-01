@@ -2676,6 +2676,12 @@ evaraitē, pariśud'dhulugā uṇḍagā daivadūtalu vāri prāṇālu tīstār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు పవిత్రులుగా ఉన్న స్థితిలో దైవదూతలు వారి ప్రాణాలు స్వాధీనం చేసుకుంటూ, “మీకు శాంతి కల్గుగాక! మీరు చేసుకున్న సత్కర్మల ఫలితంగా స్వర్గంలో ప్రవేశించండి” అని అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

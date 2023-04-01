@@ -2676,6 +2676,12 @@ niścayaṅgā, mēmu mā pravaktalaku mariyu viśvasin̄cina vāriki ihalōka j
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము మా ప్రవక్తలకు, విశ్వాసులకు ప్రాపంచిక జీవితంలోనూ సహాయపడతాము, సాక్ష్యాలిచ్చేవారు నిలబడే రోజున కూడా (సహాయం చేస్తాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

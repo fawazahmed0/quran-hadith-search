@@ -2676,6 +2676,12 @@ evaraitē allāh sūcana (āyāt) lanu gurin̄ci tama daggara ē ādhāranlēnid
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(ఎందుకంటే) వారు తమ వద్దకు వచ్చిన ఏ ప్రమాణమూ లేకుండానే, అల్లాహ్‌ నిదర్శనాల విషయంలో (మొండిగా) వాదిస్తారు. ఈ పోకడ అల్లాహ్‌ వద్ద, విశ్వాసుల వద్ద కూడా ఎంతో అయిష్టకరమైనది. ఈ విధంగా గర్విష్టి, క్రూరుడైన ప్రతి వ్యక్తి హృదయంపై అల్లాహ్‌ ముద్ర వేసేస్తాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

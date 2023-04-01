@@ -2676,6 +2676,12 @@ atanu (jakariyyā) ilā annāḍu: "Ō nā prabhū! Nāku kumāruḍu elā kalug
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి జకరియ్యా ఇలా విన్నవించుకున్నాడు : ”ప్రభూ! నేనేమో పండు ముసలివాణ్ణి. నా భార్య ఏమో గొడ్రాలు. అలాంటప్పుడు నాకు కొడుకు ఎలా పుడతాడు?” దానికి, ”అలాగే జరుగుతుంది. అల్లాహ్‌ తాను కోరినది చేస్తాడు” అని (దైవదూత) సమాధానం ఇచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

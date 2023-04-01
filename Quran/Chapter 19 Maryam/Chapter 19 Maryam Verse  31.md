@@ -2676,6 +2676,12 @@ mariyu nēnekkaḍunnā sarē āyana nannu śubhavantunigā cēśāḍu; nēnu b
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేనెక్కడున్నాసరే ఆయన నన్ను శుభవంతునిగా చేశాడు. నేను జీవించి ఉన్నంతకాలం నమాజు, జకాతులకు కట్టుబడి ఉండమని ఆయన నాకు ఆదేశించాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

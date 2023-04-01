@@ -2676,6 +2676,12 @@ mariyu mīru prajalaku - ribā (vaḍḍī mīda ḍabbu/kānukalu) icci dāni d
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజల సొమ్ములలో చేరి వృద్ధి చెందుతుందన్న ఉద్దేశంతో మీరు ఇచ్చే వడ్డీ అల్లాహ్‌ దృష్టిలో ఎంతమాత్రం వృద్ధి చెందదు. అయితే అల్లాహ్‌ ముఖాన్ని చూచేందుకు (ప్రసన్నతను చూరగొనేందుకు) మీరు జకాతు దానం ఇచ్చినట్లయితే – అలాంటి వారే (తమ సంపదలను) ఎన్నోరెట్లు వృద్ధిపరచుకున్న వారవుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

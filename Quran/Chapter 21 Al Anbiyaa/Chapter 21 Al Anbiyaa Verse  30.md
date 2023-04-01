@@ -2676,6 +2676,12 @@ Emi? I satyatiraskarulaku teliyada (cudaleda)? Vastavaniki bhumyakasalu (oke okk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలు కలిసి వుండగా, మేము వాటిని విడదీసినవైనాన్ని తిరస్కారులు చూడలేదా? ఇంకా, ప్రాణమున్న ప్రతి దానినీ మేము నీటితోనే చేశాము. అయినప్పటికీ వీళ్లు విశ్వసించరా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu bhūmi mīda aṇaci vēyabaḍina vārini kanikarin̄cālani mariyu vār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భువిలో మరీ బలహీనుల్ని చేసి అణచివేయబడిన ఆ జనులను అనుగ్రహించాలనీ, వారికి సారథ్య బాధ్యతలు అప్పగించాలనీ, వారిని (భూమికి) వారసులుగా చేయాలనీ మేము కోరుకున్నాం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

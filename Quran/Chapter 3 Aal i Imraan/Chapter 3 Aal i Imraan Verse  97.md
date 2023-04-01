@@ -2676,6 +2676,12 @@ andulō spaṣṭamaina saṅkētālu unnāyi. Ibrāhīm nilicina sthalaṁ undi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అందులో స్పష్టమయిన సూచనలున్నాయి. మఖామె ఇబ్రాహీం (ఇబ్రాహీం నిలబడిన స్థలం) ఉన్నది. అందులోకి ప్రవేశించినవాడు రక్షణ పొందుతాడు. అక్కడికి వెళ్ళే స్థోమత గలవారికి, ఆ గృహ (యాత్ర) హజ్‌ చేయటాన్ని అల్లాహ్‌ విధిగా చేశాడు. మరెవరయినా (ఈ ఆజ్ఞను శిరసావహించటానికి) నిరాకరిస్తే అల్లాహ్‌కు సమస్త లోకవాసుల అవసరం ఎంతమాత్రం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

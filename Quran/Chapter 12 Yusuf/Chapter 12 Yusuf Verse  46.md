@@ -2676,6 +2676,12 @@ Ej Jusuf, ej mardi ʙisjor rostgūj dar guftor va rostkor dar kirdor, ʙaroi mo 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“సత్యవంతుడవైన ఓ యూసుఫ్‌! ఈ కలకు భావం ఏమిటో కాస్త మాకు చెప్పండి – బలిసిన ఏడు ఆవులను బక్కచిక్కిన ఏడు ఆవులు భక్షిస్తున్నాయి. పచ్చగా కళకళలాడే ఏడు ధాన్యపు వెన్నులుండగా, మరో ఏడు వెన్నులు ఎండిపోయి ఉన్నాయి. (మీరు గనక దీని గూఢార్థం చెబితే) నేను తిరిగి వెళ్ళి, వారికి దీని గురించి చెబుతాను. వారు విషయం తెలుసుకుంటారు” (అని ఆ వ్యక్తి అభ్యర్థించాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

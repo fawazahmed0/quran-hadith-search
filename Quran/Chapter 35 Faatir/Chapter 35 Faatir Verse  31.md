@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Mēmu nīpai avatarimpajēsina granthamē nijamainadi, d�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) మేము ‘వహీ’ రూపంలో నీ వద్దకు పంపిన ఈ గ్రంథం సత్యమైంది, తనకు పూర్వం వచ్చిన గ్రంథాలను ధృవపరిచేది. నిస్సందేహంగా అల్లాహ్‌ తన దాసుల స్థితిగతులన్నీ తెలిసినవాడు, అన్నీ చూసేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

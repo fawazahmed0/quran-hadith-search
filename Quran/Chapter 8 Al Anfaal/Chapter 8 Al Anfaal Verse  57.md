@@ -2676,6 +2676,12 @@ okavēḷa nīvu yud'dharaṅganlō vāripai prābalyaṁ ponditē - vāri venuk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి యుద్ధంలో నువ్వు ఎప్పుడైనా వారిపై ఆధిక్యం పొందితే వారి వెనుక ఉన్నవారు సయితం బెంబేలెత్తి పారిపోయేలా వారిని గట్టిగా వాయించు. ఆ విధంగానయినా వారికి బుద్ధిరావచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

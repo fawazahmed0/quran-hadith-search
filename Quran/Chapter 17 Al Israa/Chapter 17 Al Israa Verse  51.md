@@ -2676,6 +2676,12 @@ Lēdā! Tirigi sr̥ṣṭimpabaḍaṭāniki asādhyamainadani mī hr̥dayālu b
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“…లేక మీ మనసులకు ఎంతో కఠినమైనదిగా తోచే మరేదైనా సృష్టిగా మారినా సరే(మీ పునరుత్థానం తథ్యం).” “మమ్మల్ని తిరిగి లేపేవాడెవడు?” అని వారు మళ్లీ అడుగుతారు. “తొలిసారి మిమ్మల్ని సృష్టించినవాడే (మలిసారి కూడా సృష్టిస్తాడు)” అని ఓ ప్రవక్తా! వారికి చెప్పు. దానిపై వారు తమ తలలను ఆడిస్తూ “ఇంతకీ అది ఎప్పుడు సంభవిస్తుందీ?” అని అడుగుతారు. వారికి సమాధానమివ్వు – “అది త్వరలోనే సంభవించవచ్చు”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

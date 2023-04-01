@@ -2676,6 +2676,12 @@ a taruvata varu, allah anumatito varini (satyatiraskarulanu) odincaru. Mariyu da
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కడకు అల్లాహ్‌ అనుజ్ఞతో వారు (జాలూత్‌ సైన్యాన్ని) ఓడించారు. దావూద్‌ జాలూత్‌ను సంహరించాడు. మరి అల్లాహ్‌ దావూద్‌కు రాజ్యాధికారాన్నీ, వివేచననూ ఒసగాడు. ఇంకా, తాను కోరినంత జ్ఞానాన్ని కూడా ఆయనకు ప్రసాదించాడు. అల్లాహ్‌ గనక కొందరిని మరికొందరి ద్వారా ఈ విధంగా తొలగించకపోతే భువిలో కల్లోలం రేకెత్తి ఉండేది. కాని అల్లాహ్‌ లోకవాసులపై ఎంతో దయానుగ్రహం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

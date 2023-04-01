@@ -2676,6 +2676,12 @@ mīku pūrvaṁ gatin̄cina tarāla vārilō, bhūmilō kallōlaṁ rēkettin̄c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీకు పూర్వం గతించిన కాలాల వారిలో భూమిలో కల్లోలాన్ని వ్యాపింపజేయకుండా అడ్డుకునే మంచివారు ఎందుకు లేరు? ఉన్నా బహు కొద్దిమంది మాత్రమే ఉండేవారు. వారిని మేము రక్షించాము. కాగా; దుర్మార్గులైన వారు తమకు ప్రసాదించబడిన సుఖసౌఖ్యాల వెంటపడ్డారు. వారు అపరాధులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

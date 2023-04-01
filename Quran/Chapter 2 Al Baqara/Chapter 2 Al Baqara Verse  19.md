@@ -2676,6 +2676,12 @@ Lēka (maroka upamānaṁ): Ākāśaṁ nuṇḍi ghōraṅgā varṣaṁ kurust
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేదా (వారి ఉపమానం) ఆకాశం నుంచి కురిసే భారీ వర్షం మాదిరిగా ఉంది – అందులోనూ చిమ్మచీకట్లు, ఉరుములు, మెరుపులు! ఉరుముల గర్జన విని, మృత్యు భయంతో వారు తమ వ్రేళ్ళను తమ చెవులలో దూర్చుకుంటారు. అల్లాహ్‌ ఈ అవిశ్వాసులను అన్ని వైపుల నుంచీ ముట్టడిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

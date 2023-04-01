@@ -2676,6 +2676,12 @@ a roju prati praniki tanu sampadincina dani pratiphalam ivvabadutundi. A roju ev
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ రోజు ప్రతి ప్రాణికీ అది సంపాదించిన దాని ప్రతిఫలం ఇవ్వబడుతుంది. ఈ రోజు (ఎవరికీ, ఎలాంటి) అన్యాయం జరగదు. నిశ్చయంగా అల్లాహ్‌ బహు శీఘ్రంగా లెక్కతేల్చేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mā taraphu nuṇḍi anugrahaṅgā. Ī vidhaṅgā mēmu kr̥tajñulaku pratip
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మా అనుగ్రహంతో! కృతజ్ఞతా భావం కలిగి ఉండే వారందరికీ మేమిలాగే (మంచి) ప్రతిఫలం ఇస్తూ ఉంటాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

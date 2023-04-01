@@ -2676,6 +2676,12 @@ mariyu vārilō kondaru pravaktanu tama māṭalatō bādha kaligin̄cē vārunn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రవక్తను బాధించేవారు కూడా వారిలో కొందరున్నారు. “ఈయన చెప్పుడు మాటలు వినేవాడు” అని వారంటున్నారు. వారికి చెప్పు: “ఆ వినేవాడు మీ మేలును కోరేవాడే. అతడు అల్లాహ్‌ను విశ్వసిస్తాడు. ముస్లింల మాటల్ని నమ్ముతాడు. మీలో విశ్వసించిన వారి యెడల అతడు కారుణ్యమూర్తి. దైవప్రవక్త (సఅసం)ను బాధించే వారికి బాధాకరమైన శిక్ష ఖాయం.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

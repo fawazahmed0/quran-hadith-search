@@ -2676,6 +2676,12 @@ Mariyu vāriki mā spaṣṭamaina sūcanalu (āyāt) vinipin̄cabaḍinappuḍu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+స్పష్టమైన మా వాక్యాలను వారికి చదివి వినిపించినప్పుడు, తమ వద్దకు వచ్చేసిన సత్యానుద్దేశించి ఈ తిరస్కారులు, “ఇదొక పచ్చి ఇంద్రజాలం” అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

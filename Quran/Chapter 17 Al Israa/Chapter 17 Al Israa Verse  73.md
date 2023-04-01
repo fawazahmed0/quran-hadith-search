@@ -2676,6 +2676,12 @@ mariyu okavēḷa mēmu ninnu sthiraṅgā un̄cakapōtē nīvu vāri vaipuku ko
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వాళ్లు, మేము నీ వద్దకు పంపిన వహీ గురించి నిన్ను తడబాటుకు లోనుచేసే ఉద్దేశంతో, దీనికి బదులు మరి దేన్నయినా మా పేరున కల్పించి తీసుకురావాలని కోరుతున్నారు. నువ్వే గనక వారి కోరికను మన్నించి ఉంటే వాళ్లు నిన్ను స్నేహితునిగా చేసుకుని ఉండేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

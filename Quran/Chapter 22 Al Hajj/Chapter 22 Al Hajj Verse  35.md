@@ -2676,6 +2676,12 @@ avarkaḷ ettakaiyōr eṉṟāl allāh(viṉ tiru nāmam) kūṟappeṟṟāl, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(వారిలోని సుగుణం ఏమిటంటే) అల్లాహ్‌ నామం స్మరించినప్పుడు వారి హృదయాలు వణుకుతాయి. తమపై ఏ ఆపద వచ్చిపడినా వారు ఓర్పు వహిస్తారు, నమాజులను నెలకొల్పుతారు. మేము వారికి ప్రసాదించిన దానిలో నుంచి (మా మార్గంలో) ఖర్చు చేస్తూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

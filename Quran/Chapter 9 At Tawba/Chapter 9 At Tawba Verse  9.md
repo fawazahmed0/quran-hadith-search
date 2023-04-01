@@ -2676,6 +2676,12 @@ vāru allāh sūktulanu (āyāt lanu) alpadharaku vikrayin̄ci, prajalanu āyana
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు అల్లాహ్‌ వాక్కులను అతి స్వల్పమైన ధరకు అమ్మేశారు. ఆయన మార్గం నుంచి ప్రజలను ఆపారు. వారి చేష్టలు బహుచెడ్డవి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

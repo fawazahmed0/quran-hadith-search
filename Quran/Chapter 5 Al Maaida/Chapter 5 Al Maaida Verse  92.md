@@ -2676,6 +2676,12 @@ mariyu mīru allāh ku vidhēyulai uṇḍaṇḍi mariyu pravaktanu anusarin̄c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌కు విధేయత చూపండి. ఆయన ప్రవక్తకు విధేయత చూపండి. (చెడుల పట్ల) కడు జాగ్రత్తగా ఉండండి. ఒకవేళ మీరు గనక విముఖత చూపితే, మా ప్రవక్తపై ఉన్న బాధ్యతల్లా స్పష్టంగా విషయాన్ని అందజేయటం వరకేనని తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

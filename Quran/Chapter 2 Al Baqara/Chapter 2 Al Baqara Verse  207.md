@@ -2676,6 +2676,12 @@ mariyu mānavulalōnē, allāh santōṣaṁ pondaṭāniki tana pūrti jīvitā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజల్లోని మరి కొంతమంది ఎలాంటివారంటే, దైవ ప్రసన్నతను చూరగొనే ప్రయత్నంలో వారు తమ ప్రాణాలను సయితం పణంగా పెడుతున్నారు. అటువంటి (త్యాగధనులైన) తన దాసుల పట్ల అల్లాహ్‌ అమితమైన వాత్సల్యం కలిగి ఉంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

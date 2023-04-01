@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā, mēmu bhūmiki daggaragā unna ākāśānni dīpālatō a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము (భూమికి) సమీపంలో ఉన్న ఆకాశాన్ని దీపాలతో (నక్షత్రాలతో)ముస్తాబు చేశాము. ఇంకా వాటిని (ఆ దీపాలను) షైతానులను తరిమికొట్టే సాధనాలుగా చేశాము. షైతానుల కొరకైతే మేము నరకాగ్నిని కూడా సిద్ధపరచి ఉంచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

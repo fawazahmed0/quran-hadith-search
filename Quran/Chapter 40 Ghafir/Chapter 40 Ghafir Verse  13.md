@@ -2676,6 +2676,12 @@ ayane miku tana adbhuta sucanalanu cupincevadu mariyu akasam nundi mi koraku jiv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే తన సూచనలను మీకు చూపిస్తున్నాడు. మీ కోసం ఆకాశం నుంచి ఉపాధిని కురిపిస్తున్నాడు. (అల్లాహ్‌ వైపునకు) మరలేవారు మాత్రమే దీన్నుండి హితబోధను గ్రహిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

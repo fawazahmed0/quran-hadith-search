@@ -2676,6 +2676,12 @@ mariyu vāraṇṭāru: "Māku cēsina vāgdānānni nijaṁ cēsi cūpina allā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌కే కృతజ్ఞతలు. ఆయన మాకు చేసిన వాగ్దానాన్ని నెరవేర్చాడు. మమ్మల్ని ఈ భూమికి వారసులుగా చేశాడు. ఇక స్వర్గంలో మేము కోరిన చోటల్లా ఉంటాము. మొత్తానికి (మంచి) కర్మలు చేసేవారికి లభించే ప్రతిఫలం ఎంత గొప్పది!” అని వారు అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ nī cētikarranu paḍavēyi!" Atanu dānini (paḍavēsi) cūśāḍu. Adi pām
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నీ చేతి కర్రను పడవెయ్యి.” ఆ తరువాత అదొక పాము మాదిరిగా ప్రాకుతూ ఉండటం చూచి మూసా వెన్ను చూపి పారిపోయాడు. వెనక్కి తిరిగి చూడనయినా లేదు. “ఓ మూసా! భయపడకు. నా ముందర ప్రవక్తలు భీతి చెందరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

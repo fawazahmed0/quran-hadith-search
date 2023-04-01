@@ -2676,6 +2676,12 @@ alā cēstē āyana mī pāpālanu kṣamistāḍu. Mariyu oka niyamita kālaṁ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(అప్పుడు) అల్లాహ్ మీ పాపాలను క్షమిస్తాడు. ఒక నిర్ణీత గడువు వరకు మీకు అవకాశం ఇస్తాడు. నిశ్చయంగా అల్లాహ్ నిర్ణయించిన గడువు వచ్చేసిందంటే ఇక అది వాయిదా పడటమంటూ ఉండదు. ఈ సంగతిని మీరు తెలుసుకోగలిగితే ఎంత బావుండు?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

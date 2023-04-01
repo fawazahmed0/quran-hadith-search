@@ -2676,6 +2676,12 @@ kāni evaraitē paścāttāpa paḍatārō mariyu tama naḍavaḍikanu sanskari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే పశ్చాత్తాపం చెంది, తమ ప్రవర్తనను సంస్కరించుకుని, సత్యాన్ని బహిర్గతం చేసిన వారి పశ్చాత్తాపాన్ని నేను స్వీకరిస్తాను (వారి తప్పును మన్నిస్తాను). నేను పశ్చాత్తాపాన్ని స్వీకరించేవాణ్ణి, అపారంగా కనికరించేవాణ్ణి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāritō ilā anabaḍutundi: "Naraka dvārālalōniki pravēśin̄caṇḍi, ik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇక నరక ద్వారాలలో ప్రవేశించండి. మీరు శాశ్వతంగా ఉండాల్సింది అక్కడే. తలబిరుసుల నివాస స్థలం చాలా చెడ్డది” అని అనబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

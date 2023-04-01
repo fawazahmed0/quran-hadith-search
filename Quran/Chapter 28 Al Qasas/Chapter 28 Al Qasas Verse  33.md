@@ -2676,6 +2676,12 @@ ataṟkavar ‘‘eṉ iṟaivaṉē! Meyyākavē nāṉ avarkaḷil oruvaraik k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా ఇలా విన్నవించుకున్నాడు: “ప్రభూ! నేను వాళ్ల మనిషినొకతన్ని చంపి ఉన్నాను. కాబట్టి వాళ్ళిప్పుడు నన్ను హతమారుస్తారేమోనని నాకు భయంగా ఉంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

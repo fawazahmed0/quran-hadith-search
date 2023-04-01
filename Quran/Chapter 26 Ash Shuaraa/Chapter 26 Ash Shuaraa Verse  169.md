@@ -2676,6 +2676,12 @@ avvāṟē, nām avaraiyum, avar kuṭumpattāraiyum yāvaraiyum kāttuk koṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(తరువాత అతను ఇలా ప్రార్థించాడు): “ప్రభూ! వీళ్లు చేసే నీతిమాలిన పని (దుష్ఫలితం) నుంచి నన్నూ, నా ఇంటివారినీ కాపాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ O visvasulara! Miru pravaktato ekantanlo matladadaliste, matladaboye mundu, edai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన ఓ ప్రజలారా! మీరు దైవప్రవక్త సల్లల్లాహు అలైహివ సల్లం తో రహస్య సమాలోచన చేయదలిస్తే, మీరు రహస్య సమాలోచనకు ముందు ఎంతో కొంత దానం చేయండి. ఇది మీ కొరకు ఎంతో ఉత్తమమైనది, పవిత్రమైనది. ఒకవేళ మీకు ఆ స్థోమత లేకపోతే అల్లాహ్ క్షమించేవాడు, కనికరించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

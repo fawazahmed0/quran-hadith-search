@@ -2676,6 +2676,12 @@ Vārandarū okē rakamaina vāru kāru. Grantha prajalalō kondaru saraina mārg
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారంతా ఒకలాంటివారు కారు. ఈ గ్రంథవహులలోని ఒక వర్గం వారు (సత్యంపై) నిలకడగా ఉన్నారు. వారు రాత్రి సమయాల్లో కూడా దైవవాక్యాలను పారాయణం చేస్తారు, సాష్టాంగపడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

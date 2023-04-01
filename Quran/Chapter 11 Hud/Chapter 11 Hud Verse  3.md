@@ -2676,6 +2676,12 @@ mariyu mīru mī prabhuvunu kṣamābhikṣa vēḍukuṇṭē, taruvāta āyana
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మీరు మీతప్పుల మన్నింపుకోసం మీప్రభువును వేడుకోండి. తర్వాత (పశ్చాత్తాపంతో) ఆయన వైపుకే మరలండి. ఒక నిర్థారిత కాలం వరకూ ఆయన మీకు మంచి (జీవన) సామగ్రిని సమకూరుస్తాడు. ఎక్కువగా ఆచరణచేసే ప్రతిఒక్కరికీ ఎక్కువ పుణ్యఫలం ప్రసాదిస్తాడు. ఒకవేళ మీరు గనక విముఖత ప్రదర్శించిన పక్షంలో ఒకానొక మహాదినాన మిమ్మల్ని చుట్టుముట్టే శిక్ష గురించి నేను భయపడుతున్నాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

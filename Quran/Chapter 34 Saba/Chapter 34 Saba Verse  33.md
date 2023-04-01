@@ -2676,6 +2676,12 @@ mariyu balahīnulaina vāru durahaṅkārulaina nāyakulatō ilā aṇṭāru: "
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి (దానికి బదులుగా) ఈ బలహీన ప్రజలు పెద్దలతో ఇలా అంటారు: “(లేదు లేదు) రేయింబవళ్ళు మీరు పన్నిన కుట్ర ఇది! అల్లాహ్‌ను తిరస్కరించమనీ, ఆయనకు సహవర్తులుగా ఇతరులను కల్పించమని మీరు జారీ చేసే ఆజ్ఞలే మా అవిశ్వాసానికి కారణభూతం అయ్యాయి.” శిక్షను చూడగానే లోలోపలే వారంతా పశ్చాత్తాపపడతారు. మేము అవిశ్వాసుల మెడలలో ఇనుప పట్టాలు వేస్తాము. వారు చేసుకున్న కర్మల ఫలితమే వారికి ఇవ్వబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

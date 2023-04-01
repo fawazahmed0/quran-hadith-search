@@ -2676,6 +2676,12 @@ niścayaṅgā, nēnē allāh nu! Nēnu tappa maroka ārādhyuḍu lēḍu, kāv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నిశ్చయంగా నేనే అల్లాహ్‌ను. నేను తప్ప మరో ఆరాధ్యుడు లేడు. కాబట్టి నువ్వు నన్నే ఆరాధించు. నన్ను జ్ఞాపకం చేయటానికి నమాజును నెలకొల్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

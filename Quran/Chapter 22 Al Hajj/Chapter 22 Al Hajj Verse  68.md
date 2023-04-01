@@ -2676,6 +2676,12 @@ okavēḷa vāru nītō vādulāṭaku digitē, vāritō anu: "Mīru cēsēdant�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ అప్పటికీ వాళ్లు నీతో వాదులాటకు దిగితే వారికి ఇలా చెప్పెయ్యి: “మీ కర్మల సంగతి అల్లాహ్‌కు బాగా తెలుసు లెండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

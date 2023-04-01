@@ -2676,6 +2676,12 @@ Mariyu okavēḷa mī (viśvāsula) bhāryalalō okāme, mim'malni viḍici saty
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీ భార్యలలో ఎవరైనా మీ అదుపాజ్ఞలను ఉల్లంఘించి అవిశ్వాసుల వద్దకు చేరితే, ఆ తరువాత బదులు తీర్చుకునే వంతు మీకు వస్తే, ఎవరి స్త్రీలు వెళ్ళిపోయారో వారికి, వారు ఖర్చుచేసినంత సొమ్మును చెల్లించండి. మీరు విశ్వసించినటువంటి అల్లాహ్ కు భయపడుతూ ఉండండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

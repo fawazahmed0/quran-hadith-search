@@ -2676,6 +2676,12 @@ Mariyu allāh mariyu āyana pravakta taraphu nuṇḍi pedda hajj rōjuna sarvam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ తరఫు నుంచీ, ఆయన ప్రవక్త తరఫు నుంచీ పెద్ద హజ్‌ దినాన ప్రజలకు తెలియజేయునది ఏమనగా, అల్లాహ్‌ ముష్రిక్కులకు ఏ విధంగానూ బాధ్యుడు కాడు – ఆయన ప్రవక్త కూడా. కాబట్టి ఇప్పటికయినా మీరు పశ్చాత్తాపం చెందితే అది మీకే శ్రేయస్కరం. ఒకవేళ మీరు విముఖులైతే, మీరు ఎట్టి పరిస్థితిలోనూ అల్లాహ్‌ను ఓడించలేరన్న సంగతిని తెలుసుకోండి. (ఓ ప్రవక్తా!) అవిశ్వాసులకు వ్యధాభరితమైన శిక్ష ఉంటుందన్న శుభవార్తను వినిపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Mēmu nīku pūrvaṁ pampina sandēśaharulu andarū ni�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌ -సఅసం!) మేము నీకు పూర్వం పంపిన ప్రవక్తలందరూ కూడా అన్నంతినేవారు, బజారులలో సంచరించే వారే. మేము మీలో కొందరిని మరికొందరి కోసం పరీక్షా సాధనంగా చేశాము. మరి మీరు ఓపికపట్టగలరా? నీ ప్రభువు సర్వాన్నీ చూస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

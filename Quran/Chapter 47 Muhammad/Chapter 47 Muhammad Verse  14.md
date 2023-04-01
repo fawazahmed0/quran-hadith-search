@@ -2676,6 +2676,12 @@ emi? Tana prabhuvu taraphu nundi vaccina spastamaina margam mida unnavadu, tama 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, తన ప్రభువు తరఫున స్పష్టమైన పద్ధతిపై ఉన్న వ్యక్తి, తన దుష్కార్యాలు అందమైనవిగా అనిపించేలా చేయబడి, తన మనోవాంఛల వెనుక పరుగెత్తే వాని మాదిరిగా కాగలడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

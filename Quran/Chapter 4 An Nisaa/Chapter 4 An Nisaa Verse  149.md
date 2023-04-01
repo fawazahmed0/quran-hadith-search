@@ -2676,6 +2676,12 @@ mīru mēlunu bahiraṅgaṅgā ceppinā lēka dānini dācinā! Lēka ceḍunu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు ఏదన్నా మంచి పనిని బహిర్గతంగా చేసినా, గుట్టుగా చేసినా లేక ఏదైనా చెడుగును మన్నించి వదలి పెట్టినా అల్లాహ్‌ అమితంగా మన్నించేవాడు, సర్వశక్తుడూ (అని తెలుసుకోండి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

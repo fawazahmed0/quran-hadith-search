@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh muggurilō mūḍavavāḍu!" Ani anēvāru vāstavāniki
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ ముగ్గురిలో మూడవవాడు” అని అన్నవారు కూడా ముమ్మాటికీ తిరస్కారానికి (కుఫ్ర్‌కు) పాల్పడినట్లే. వాస్తవానికి ఒక్కడైన అల్లాహ్‌ తప్ప మరో ఆరాధ్య దైవం లేనేలేడు. ఒకవేళ వారు గనక తమ ఈ మాటలను మానుకోకపోతే, వారిలో తిరస్కారవైఖరిపై ఉండే వారికి బాధాకరమైన శిక్ష తప్పకుండా అంటుకుంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

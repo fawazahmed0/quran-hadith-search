@@ -2676,6 +2676,12 @@ mariyu vāru cēsi vunna duṣṭakāryālannī spaṣṭaṅgā vāri munduku v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు చేసుకున్న దురాగతాల దుష్ఫలితాలన్నీ వారికి ఎదురవుతాయి. దేని గురించి వారు వేళాకోళం చేసేవారో అదే వారిని చుట్టుముట్టుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

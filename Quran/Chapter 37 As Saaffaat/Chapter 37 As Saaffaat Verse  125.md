@@ -2676,6 +2676,12 @@ emi? Miru ba'al (ane vigrahanni) aradhistu sarvottamudaina srstikartanu vadali p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు బాల్‌ (అనే విగ్రహము)ను ప్రార్థిస్తూ, సర్వోత్తమ సృష్టికర్త (అయిన అల్లాహ్‌)ను వదలిపెడుతున్నారేమిటి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

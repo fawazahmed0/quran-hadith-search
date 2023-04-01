@@ -2676,6 +2676,12 @@ emi? Niku teliyada? Niscayanga, allah bhumilo unna samastanni miku vasaparacadu.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, అల్లాహ్‌ భూమండలంలో ఉన్న సమస్తాన్నీ, ఆయన ఆదేశానుసారమే సముద్రంలో నడిచే ఓడలను మీకు వశ పరచటాన్ని మీరు చూడటం లేదా? తన అనుజ్ఞ కానంతవరకూ భూమిపై విరుచుకుపడకుండా ఉండేలా ఆయనే ఆకాశాన్ని నిలిపి ఉంచాడు. నిశ్చయంగా అల్లాహ్‌ మనుషులపై దయార్ద్రత కలవాడు, జాలి చూపేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Appuḍu mēmu atani prārthananu aṅgīkarin̄ci atani koraku atani bhāryanu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము అతని ప్రార్థనను స్వీకరించి, అతనికి యహ్యాను ప్రసాదించాము. అతని భార్యను అతని కోసం బాగు చేశాము. ఈ సద్వర్తనులు సత్కార్యాల కోసం త్వరపడేవారు. ఆశతోనూ, భయంతోనూ మమ్మల్ని వేడుకునేవారు. మా ముందు అశక్తతను, అణకువను కనబరచేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

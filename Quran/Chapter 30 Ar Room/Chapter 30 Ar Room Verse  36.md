@@ -2676,6 +2676,12 @@ mariyu mēmu mānavulaku kāraṇyapu ruci cūpin̄cinappuḍu vāru dānitō c�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మేము ప్రజలకు కారుణ్యం రుచిని చూపించినపుడు వారు ఆనందంతో ఉబ్బిపోతారు. మరి ఒకవేళ తమ చేజేతులా చేసుకున్న చేష్టల మూలంగా వారికి ఏదైనా కీడు కలిగితే మాత్రం పూర్తిగా నిరాశచెందుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

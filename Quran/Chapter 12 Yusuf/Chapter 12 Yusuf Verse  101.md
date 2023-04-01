@@ -2676,6 +2676,12 @@ o na prabhu! Nivu naku vastavanga rajyadhikaranni prasadincavu mariyu naku svapn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా ప్రభూ! నీవు నాకు రాజ్యాన్ని ప్రసాదించావు. ఇంకా, నీవు నాకు కలల భావార్థాన్ని వివరించే విద్యను నేర్పావు. ఓ భూమ్యాకాశాల సృష్టికర్తా! ఇహంలోనూ, పరంలోనూ నువ్వే నా సంరక్షకుడవు. ముస్లింగా ఉన్న స్థితిలోనే నాకు మరణం వొసగు. నన్ను సజ్జనులలో చేర్చు” అని వేడుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

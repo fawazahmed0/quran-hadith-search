@@ -2676,6 +2676,12 @@ Ataṟku avaṉ, "mūsāvē! Niccayamāka nāṉ um'mai eṉ tūtuvattaik koṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ మూసా! నిన్ను ప్రవక్తగా ఎన్నుకుని, నీతో సంభాషించి జనులపై నీకు ప్రాధాన్యతనిచ్చాను. కాబట్టి నేను ఇచ్చిన దానిని పుచ్చుకో. కృతజ్ఞుడవై ఉండు” అని అల్లాహ్‌ సెలవిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

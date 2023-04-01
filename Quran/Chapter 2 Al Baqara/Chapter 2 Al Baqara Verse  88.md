@@ -2676,6 +2676,12 @@ Mariyu vāru: "Mā hr̥dayālu mūyabaḍi unnāyi."Ani aṇṭāru. Alā kādu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా హృదయాలు గలేబుల్లో చుట్టబడి ఉన్నాయ”ని వారంటున్నారు. కాదు, వారి తిరస్కారవైఖరి మూలంగా అల్లాహ్‌ వారిని ధూత్కరించాడు. కనుక వారు విశ్వసించేది బహుస్వల్పం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

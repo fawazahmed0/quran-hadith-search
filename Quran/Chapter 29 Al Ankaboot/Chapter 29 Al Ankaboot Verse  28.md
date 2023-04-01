@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi) lūt tana jāti prajalatō ilā annappuḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లూత్‌ (అలైహిస్సలాం)ను కూడా జ్ఞప్తికి తెచ్చుకోండి. అతను తన జాతి వారినుద్దేశించి ఇలా అన్నాడు : “మీకు పూర్వం లోకవాసులెవరూ చేయని నీతిమాలిన పనికి మీరు పాల్పడుతున్నారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

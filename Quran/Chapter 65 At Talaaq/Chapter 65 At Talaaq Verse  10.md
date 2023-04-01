@@ -2676,6 +2676,12 @@ allāh vāri koraku kaṭhinamaina śikṣanu sid'dhaparaci un̄cāḍu. Kāvuna
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి కోసం అల్లాహ్ కటినమైన శిక్షను సిద్ధపరచి ఉంచాడు. కనుక విశ్వసించిన ఓ విజ్ఞులారా! అల్లాహ్ కు భయపడండి. నిశ్చయంగా అల్లాహ్ మీ వైపు హితబోధను పంపాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

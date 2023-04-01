@@ -2676,6 +2676,12 @@ mariyu vīru karuṇāmayuniki dāsulaina dēvadūtalanu strīlugā parigaṇist
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కరుణామయుని (అల్లాహ్‌) దాసులైన దైవదూతలను వీళ్లు ఆడవారుగా ఖరారు చేశారు. ఏమిటి, వారి పుట్టుక సందర్భంగా వీళ్ళుగాని అక్కడ ఉన్నారా? వీళ్ల ఈ సాక్ష్యం వ్రాసుకోబడుతుంది. (దీని గురించి) వీళ్లు తప్పకుండా నిలదీసి అడగబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

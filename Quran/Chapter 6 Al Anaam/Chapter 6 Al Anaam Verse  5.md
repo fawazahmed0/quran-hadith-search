@@ -2676,6 +2676,12 @@ vāstavāniki, ippuḍu vāru tama vaddaku vaccina satyānni (ī divya granthān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ వద్దకు వచ్చిన ఈ సత్య గ్రంథాన్ని కూడా వారు అసత్యమని త్రోసిపుచ్చారు. కాబట్టి దేనిపట్ల వారు పరిహాసమాడేవారో దానికి సంబంధించిన వార్తలు వారికి త్వరలోనే అందుతాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

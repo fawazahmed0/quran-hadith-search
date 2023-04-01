@@ -2676,6 +2676,12 @@ emi? Akasalalo mariyu bhumilo unna sakala vastuvulanu vastavaniki allah miku upa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ భూమ్యాకాశాల్లో ఉన్న వస్తువులన్నింటినీ మీ పనిలో తగిలించి, తన గోచర అగోచర వరాలను పుష్కలంగా మీకు ప్రసాదించిన విషయాన్ని మీరు చూడటం లేదా? కొంతమంది జ్ఞానం లేకుండా, మార్గదర్శకత్వం లేకుండా, ప్రకాశవంతమైన గ్రంథం లేకుండానే అల్లాహ్‌ గురించి వాదులాడుతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

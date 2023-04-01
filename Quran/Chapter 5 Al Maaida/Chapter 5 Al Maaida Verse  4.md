@@ -2676,6 +2676,12 @@ vāru (prajalu) tama koraku ēdi dharma sam'mataṁ (halāl) ani ninnu aḍugu t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) తమ కొరకు ‘హలాల్‌’ (అనగా ధర్మసమ్మతం) చేయబడిన వస్తువులేవి? అని ప్రజలు నిన్ను అడుగుతున్నారు. వారికి ఇలా చెప్పు: “పరిశుద్ధమైన వస్తువులన్నీ మీ కోసం హలాల్‌ చేయబడ్డాయి. అలాగే మీరు శిక్షణ ఇచ్చిన వేట జంతువులు మీ కోసం ఏదైనా వేటాడితే (ఆ వేట మాంసాన్ని మీరు తినండి). కాని, మీరు వాటిని అల్లాహ్‌ మీకు బోధించిన పద్ధతిలో తర్ఫీదు చేసి ఉండాలి సుమా! దానిపై అల్లాహ్‌ నామాన్ని స్మరించండి. అల్లాహ్‌కు భయపడుతూ ఉండండి. నిస్సందేహంగా అల్లాహ్‌ తొందరగా లెక్క తీసుకునేవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

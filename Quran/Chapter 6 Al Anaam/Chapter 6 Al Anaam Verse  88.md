@@ -2676,6 +2676,12 @@ idē allāh mārgadarśakatvaṁ. Dīni dvārā āyana tana dāsulalō tānu kō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదీ అల్లాహ్‌ మార్గదర్శకత్వం. ఆయన తన దాసులలో తాను కోరిన వారిని ఈ మార్గంపై నడిపింపజేస్తాడు. ఒకవేళ వీరు సైతం, దైవత్వంలో భాగస్వామ్యానికి (షిర్కుకు) ఒడిగట్టి ఉంటే, వారు చేసుకున్న కర్మలన్నీ కూడా వృధా అయిపోయేవి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

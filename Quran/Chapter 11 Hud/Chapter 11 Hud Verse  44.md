@@ -2676,6 +2676,12 @@ a taruvata ajna vaccindi: "O bhumi! Ni nillanu mringiveyi. O akasama! (Kuravatam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ భూమీ! నీ నీళ్ళంతటినీ మ్రింగెయ్యి. ఓ ఆకాశమా! ఇక ఆగిపో (కురిసింది చాలు)!” అని సెలవీయబడింది. అప్పటికప్పుడే నీరంతా ఇంకిపోయింది. కావలసిన పని పూర్తయింది. ఓడ ‘జూదీ’ పర్వతంపై నిలిచింది. “దుర్మార్గులు (దేవుని) అభిశాపానికి గురవుదురుగాక!” అని సెలవీయబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

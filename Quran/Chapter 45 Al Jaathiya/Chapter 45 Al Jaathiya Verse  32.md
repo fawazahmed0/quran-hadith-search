@@ -2676,6 +2676,12 @@ mariyu: "Niścayaṅgā, allāh vāgdānaṁ satyaṁ mariyu antima ghaḍiyanu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ వాగ్దానం తప్పకుండా నెరవేరుతుందనీ, ప్రళయం సంభవించటంలో సందేహమే లేదని చెప్పబడినప్పుడల్లా, ‘ప్రళయం అంటే ఏమిటో మాకు తెలీదు. కాకపోతే దానికి సంబంధించి ఏదో ఊహా మాత్రంగా ఆలోచన వస్తూ ఉంటుంది. అంతేగాని మేము దాన్ని నమ్మబోము’ అని మీరు అనేవారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

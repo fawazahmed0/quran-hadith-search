@@ -2676,6 +2676,12 @@ mariyu (parasparaṁ ilā ceppukuṇṭāru): "Mī dharmānni anusarin̄cē vār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”మీరు మీ ధర్మాన్ని అనుసరించేవారిని తప్ప వేరెవరినీ నమ్మవద్దు” (అని అంటారు). (ఓ ప్రవక్తా!) వారికి చెప్పు : ”నిశ్చయంగా అల్లాహ్‌ చూపే మార్గమే సన్మార్గం.” (గ్రంథవహులు తమ వారికి ఇంకా ఈ విధంగా కూడా నూరి పోస్తారు:) ”మీకు ఇవ్వబడినదే వేరెవరికయినా ఇవ్వబడి ఉండ వచ్చనీ, లేక వారు మీ ప్రభువు సమక్షంలో మీకు వ్యతిరేకంగా వాదిస్తారని (మీరు ఎంతమాత్రం అనుకోకండి).” ఓ ప్రవక్తా! వారితో అను: ”అనుగ్రహాలన్నీ అల్లాహ్‌ చేతిలో ఉన్నాయి. ఆయన తాను కోరిన వారికి వాటిని ఇస్తాడు. అల్లాహ్‌ గొప్ప విస్తృతి కలవాడు, అన్నీ తెలిసినవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

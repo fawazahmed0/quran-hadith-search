@@ -2676,6 +2676,12 @@ mariyu rātri vēḷalō kūḍā āyana pavitratanu koniyāḍu mariyu sāṣ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+రాత్రిపూట కూడా (ఏ సమయంలోనయినా) ఆయన పవిత్రతను కొనియాడు, మరి నమాజు తరువాత కూడా (ఆయన్నుస్తుతించు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

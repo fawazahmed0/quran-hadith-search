@@ -2676,6 +2676,12 @@ ika dānini (vīlunāmānu) vinnavāru, taruvāta okavēḷa dānini mārcitē, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీలునామా (వసీయతు గురించి) విన్న తరువాత కూడా ఏ వ్యక్తయినా దాన్ని మార్చివేస్తే ఆ పాపమంతా ఆ మార్చిన వానిపైనే పడుతుంది. వాస్తవానికి అల్లాహ్‌ వినేవాడు, తెలిసినవాడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

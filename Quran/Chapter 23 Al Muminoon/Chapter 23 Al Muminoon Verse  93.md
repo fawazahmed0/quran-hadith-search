@@ -2676,6 +2676,12 @@ Bigū: «Parvardigoro, agar on [azoʙe]-ro, ki ʙa onon va'da doda meşavad, ʙa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ముహమ్మద్‌- (స) !) ఈ విధంగా ప్రార్థించు : “నా ప్రభూ! అవిశ్వాసులకు చేయబడుతున్న వాగ్దానాన్ని (శిక్షను) గనక నీవు నాకు చూపదలిస్తే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

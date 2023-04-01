@@ -2676,6 +2676,12 @@ Su'aib nu abad'dhamadutunnadani tiraskarincinavaru akkada ennadu nivasinci undan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+షుఐబును ధిక్కరించినవారి పరిస్థితి ఆ ఇండ్లలో వారెప్పుడూ నివసించనే లేదన్నట్టుగా మారిపోయింది. షుఐబును ధిక్కరించినవారే నష్టపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

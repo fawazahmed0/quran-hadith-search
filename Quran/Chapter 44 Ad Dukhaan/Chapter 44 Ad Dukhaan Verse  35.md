@@ -2676,6 +2676,12 @@ vāstavāniki, māku ī modaṭi maraṇaṁ mātramē undi, ā taruvāta mēmu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇక్కడ (ఈ ప్రపంచంలో) మాకు వచ్చే మొదటి మరణమే తప్ప మరొకటిలేదు. మళ్లీ మేము తిరిగి లేపబడటమనేది ఉండదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

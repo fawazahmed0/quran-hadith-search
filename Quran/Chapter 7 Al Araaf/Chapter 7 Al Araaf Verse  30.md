@@ -2676,6 +2676,12 @@ mīlō kondariki āyana sanmārgaṁ cūpin̄cāḍu. Marikondaru mārgabhraṣ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఒక వర్గానికి సన్మార్గం చూపించాడు. మరో వర్గంపై అపమార్గం రూఢీ అయింది. వారు అల్లాహ్‌ను వదలి షైతానులను తమ స్నేహితులుగా చేసుకున్నారు. పైపెచ్చు – తాము సన్మార్గాన ఉన్నామని వారు అనుకుంటున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

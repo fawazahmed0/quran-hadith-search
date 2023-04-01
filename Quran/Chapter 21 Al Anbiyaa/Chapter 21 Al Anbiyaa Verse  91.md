@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi), tana śīlānni kāpāḍukunna ā mahi�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇక తన శీలాన్ని కాపాడుకున్న ఆ శీలవతి గురించి; ఆమె(చొక్కా చేతి)యందు మేము మా ఆత్మ (జిబ్రీల్‌) ద్వారా ఊదాము. స్వయంగా ఆమెనూ, ఆమె కుమారుణ్ణీ లోకవాసుల కోసం నిదర్శనంగా చేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

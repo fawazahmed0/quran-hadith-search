@@ -2676,6 +2676,12 @@ mariyu vārilā aṇṭāru: "Itanu eṭuvaṇṭi sandēśaharuḍu, (sādhāra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసులు ఇలా అనసాగారు : “ఏం ప్రవక్తయ్యా ఇతను?! (చూడబోతే అందరిలాగే) ఇతను కూడా అన్నం తింటున్నాడు, బజార్లలో తిరుగుతున్నాడు. ఇతనికి తోడుగా ఉంటూ (ప్రజలను) హెచ్చరించే నిమిత్తం ఒక దైవదూత (అయినా) ఇతని వద్దకు ఎందుకు పంపబడలేదట
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Emi? Milo evarikaina kharjurapu mariyu draksa vanalundi, vati krindi nundi selay
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీలో ఎవరికయినా ఖర్జూరం, ద్రాక్ష పండ్ల తోట ఉండి, అందులో పిల్ల కాలువలు ప్రవహిస్తూ, అందులో అతనికి అన్ని రకాల ఫలాలు కూడా లభిస్తూ ఉండి, అతను ముసలివాడైపోగా, మరోవైపు అతని పిల్లలు బలహీనులుగా ఉండగా – అకస్మాత్తుగా ఆ తోటపై నిప్పులు చెరిగే వడగాలి వచ్చి ఆ తోట కాలిపోవటాన్ని మీలో ఎవరయినాసరే ఇష్టపడతారా? మీరు ఆలోచించేటందుకుగాను అల్లాహ్‌ ఈ విధంగా తన ఆయతులను మీకు స్పష్టపరుస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

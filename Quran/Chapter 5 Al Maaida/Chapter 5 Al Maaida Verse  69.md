@@ -2676,6 +2676,12 @@ niścayaṅgā, ī (granthānni) viśvasin̄cina vāru (muslinlu) mariyu yūdulu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ముస్లిములైనా, యూదులైనా, సాబియీలైనా, నసారా (క్రైస్తవులు) అయినా- ఎవరయినా సరే- వారు గనక అల్లాహ్‌ను, అంతిమ దినాన్ని విశ్వసించి, సదాచరణ చేసినట్లయితే వారికెలాంటి భయంగానీ, చింతగానీ ఉండబోదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ appuḍu tana viśvāsānni guptaṅgā un̄cina phir'aun kuṭumbapu oka vyakti
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అప్పటివరకూ) తన విశ్వాసాన్ని గోప్యంగా ఉంచిన, ఫిరౌన్‌ వంశానికి చెందిన విశ్వాసి అయిన ఒక పురుషుడు ఇలా అన్నాడు: “ఏమిటీ, ‘అల్లాహ్‌ నా ప్రభువు’ అని అన్నంత మాత్రానికే ఒక వ్యక్తిని మీరు చంపేస్తారా? నిజానికి అతడు మీ ప్రభువు తరఫు నుంచి స్పష్టమైన నిదర్శనాలను తీసుకువచ్చాడు. ఒకవేళ అతను చెప్పేది అబద్ధమైతే అతని అబద్ధం (పాపఫలం) అతని మీదే పడుతుంది. మరి అతను గనక తన వాదనలో సత్యవంతుడైతే, అతను మీకు చేసే వాగ్దానం (శిక్ష)లో ఎంతో కొంత మీపై కూడా వచ్చి పడుతుంది. బరితెగించి పోయేవాడికి, అబద్ధాల కోరుకి అల్లాహ్‌ సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ a taruvata miro okarinokaru campukune varu. Mariyu miru miloni oka vargam varini
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని మీరు పరస్పరం చంపుకున్నారు. మీలోని ఒక వర్గం వారిని ఇండ్ల నుంచి బహిష్కరించటం కూడా చేశారు. పాపానికి, దౌర్జన్యానికి పాల్పడుతూ మీరు వారికి వ్యతిరేకంగా-ఇతరులను సమర్థించారు. మరి వారు బందీలుగా పట్టుబడి మీ వద్దకు వచ్చినప్పుడు మీరు వారికోసం నష్టపరిహారం ఇచ్చిన మాట వాస్తవమే. కాని మీరు వారిని వెళ్ళగొట్టడమే అధర్మం (అప్పుడు మీరు దాన్ని అస్సలు లెక్కచేయలేదు). ఏమిటీ? మీరు కొన్ని ఆజ్ఞలను విశ్వసించి, మరికొన్నింటిని తిరస్కరిస్తున్నారా? మీలో ఇలా చేసేవారికి ప్రపంచ జీవితంలో అవమానం తప్ప ఇంకేం ప్రతిఫలం ఉంటుంది? ఇక ప్రళయ దినాన వారు మరింత కఠినమైన శిక్ష వైపు మరలించబడతారు. అల్లాహ్‌కు మీ చేష్టలు తెలియకుండా లేవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu maryam kumāruḍu īsā (tana jāti vāritō) ilā annadi (jñāpakaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మర్యమ్ కుమారుడైన ఈసా, “ఓ ఇస్రాయీలు సంతతివారలారా! నేను మీ వైపు అల్లాహ్ తరఫున పంపబడిన ప్రవక్తను. నాకు పూర్వం వచ్చిన తౌరాతు గ్రంథాన్ని ధృవపరుస్తున్నాను. నా తరువాత రాబోయే ప్రవక్తను గురించి శుభవార్తను ఇస్తున్నాను. అతని పేరు అహ్మద్” అని చెప్పినప్పటి సంగతి (కూడా స్మరించదగినదే). తీరా అతను స్పష్టమైన నిదర్శనాలను తీసుకువచ్చినప్పుడు, “ఇది పచ్చి ఇంద్రజాలం” అని వారు అన్నారు (తేలిగ్గా కొట్టి పారేశారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

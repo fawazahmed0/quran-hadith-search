@@ -2676,6 +2676,12 @@ evar īmāṉ koṇṭa piṉ nirākarittu mēlum (anta) kuḥprai atikamākkik 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరు విశ్వసించిన మీదట అవిశ్వాస వైఖరికి ఒడిగడతారో, ఆ తరువాత అవిశ్వాసంలో మరింత పెచ్చరిల్లుతారో వారి పశ్చాత్తాపం సుతరామూ స్వీకరించబడదు. అపమార్గం పాలైన వారంటే వీరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ atanu (jakariyyā) ilā manavi cēsukunnāḍu: "Ō nā prabhū! Nā koraku ēda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”నా ప్రభూ! దీనికి సంబంధించిన నిదర్శనం ఏదన్నా నా కొరకు నిర్ణయించు” అని అతను మనవి చేసుకోగా, ”నీ కొరకు నిదర్శనం ఏమిటంటే, మూడు రోజుల వరకూ నువ్వు సైగలు చేయటం తప్ప జనులతో మాట్లాడలేవు. నువ్వు నీ ప్రభువును అత్యధికంగా స్మరిస్తూ ఉండు. ఉదయం, సాయంత్రం ఆయన పవిత్రతను కొనియాడుతూ ఉండు” అని చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mīku teliyakuṇḍānē akasmāttugā, mīpaiki śikṣa rākamundē m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీకు తెలియకుండానే మీపై అకస్మాత్తుగా ఆపద వచ్చి పడకముందే, మీ ప్రభువు తరఫు నుండి మీకు పంపబడిన ఉత్తమ విషయాన్ని అనుసరించండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

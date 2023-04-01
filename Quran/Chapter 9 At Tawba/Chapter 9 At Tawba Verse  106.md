@@ -2676,6 +2676,12 @@ marikondaru allāh ājña (tīrpu) koraku vēci unnāru. Āyana vārini śikṣi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా కొందరున్నారు – వాళ్ల వ్యవహారం దైవాదేశం వచ్చేవరకూ వాయిదా వేయబడింది. అల్లాహ్‌ వారిని శిక్షించనూవచ్చు లేదా క్షమించనూవచ్చు. అల్లాహ్‌ అన్నీతెలిసినవాడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

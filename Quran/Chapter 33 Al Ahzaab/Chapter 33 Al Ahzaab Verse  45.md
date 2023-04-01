@@ -2676,6 +2676,12 @@ o pravakta! Niscayanga memu, ninnu saksiga, subhavarta andajesevaniga mariyu hec
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! నిశ్చయంగా మేమే నిన్ను (ప్రవక్తగా ఎన్నుకుని) సాక్ష్యమిచ్చేవానిగా, శుభవార్తలు వినిపించేవానిగా, హెచ్చరించే వానిగా చేసి పంపాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

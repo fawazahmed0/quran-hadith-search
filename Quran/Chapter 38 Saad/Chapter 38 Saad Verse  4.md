@@ -2676,6 +2676,12 @@ mariyu vārini heccarin̄cēvāḍu, tamalō nun̄cē rāvaṭaṁ cūsi vāru �
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ వద్దకు హెచ్చరించేవాడొకడు స్వయంగా తమలో నుంచే వచ్చాడే! అని వారు ఆశ్చర్యపోయారు. “ఇతడొక మాంత్రికుడు, అబద్ధాలకోరు” అని అవిశ్వాసులు అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

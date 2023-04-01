@@ -2676,6 +2676,12 @@ mariyu mēmu vāriki cūpina prati adbhuta sūcana (āyāt), dāniki mundu cūpi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారికి చూపిస్తూపోయిన ఒక్కో సూచన దానికి ముందు వచ్చిన దానికి మించినదిగా ఉండేది. మరి మేము వాళ్ళను శిక్షగా పట్టుకున్నాము – అలాగైనా దారికి వస్తారేమోనని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

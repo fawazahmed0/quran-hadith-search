@@ -2676,6 +2676,12 @@ mariyu vāstavāniki mēmu vāriki granthānni prasādin̄ci, dānini jñānapū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఈ జనుల వద్దకు, మా సంపూర్ణ జ్ఞానంతో బహుస్పష్టంగా విశదీకరించిన గ్రంథాన్ని చేరవేశాము. విశ్వసించినవారికి అది మార్గదర్శక సాధనం మరియు కారుణ్యం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

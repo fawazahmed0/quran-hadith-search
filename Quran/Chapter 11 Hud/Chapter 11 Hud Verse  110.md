@@ -2676,6 +2676,12 @@ Mariyu vāstavaṅgā, mēmu mūsāku granthānni prasādin̄cāmu. Pidapa andul
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము మూసా (అలైహిస్సలాం)కు గ్రంథాన్ని ఇచ్చాము. మరి అందులో విభేదించుకోవటం జరిగింది. ఒకవేళ ముందుగానే నీ ప్రభువు తరఫున మాట ఖరారు కాకుండా ఉన్నట్లయితే, వారి మధ్య తీర్పు జరిగి ఉండేది. ఈ విషయంలో వారికి తీవ్రమయిన సందేహం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu allāh tānu sr̥ṣṭin̄cina vastuvulalō konniṇṭini nīḍa korak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి అల్లాహ్‌యే మీ కోసం తాను సృష్టించిన వస్తువులతో నీడను ఏర్పాటు చేశాడు. మరి ఆయనే మీకోసం కొండలలో గుహలను చేశాడు. ఇంకా ఆయనే మీకోసం, మిమ్మల్ని వేడిమి నుంచి కాపాడే చొక్కాలను, యుద్ధ సమయాలలో మీకు రక్షా కవచంగా ఉపయోగపడే చొక్కాలను కూడా చేశాడు. ఈ విధంగా ఆయన – మీరు ఆజ్ఞల్ని శిరసావహించే వారౌతారని – తన అనుగ్రహాలను పరిపూర్తి చేస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

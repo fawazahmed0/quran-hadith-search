@@ -2676,6 +2676,12 @@ mariyu atanu tana kuṭumbaṁ vārini namāj mariyu vidhidānaṁ (jakāt) lanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను తన కుటుంబీకులకు నమాజు గురించి, జకాత్‌ గురించి ఆదేశిస్తూ ఉండేవాడు. అతను తన ప్రభువు సన్నిధిలో ప్రియతముడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

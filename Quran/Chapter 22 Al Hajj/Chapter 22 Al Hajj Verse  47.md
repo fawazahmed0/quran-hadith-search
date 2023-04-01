@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Vāru ninnu śikṣa koraku tondara peḍutunnāru. Kāni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(దైవ) శిక్షకోసం వారు నిన్ను తొందరపెడుతున్నారు. అల్లాహ్‌ ఎట్టిపరిస్థితిలోనూ తన వాగ్దానానికి విరుద్ధంగా చేయడు. కాకపోతే నీ ప్రభువు దగ్గర ఒకరోజు (అంటే) మీరు లెక్కించే వెయ్యేండ్లకు సమానం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

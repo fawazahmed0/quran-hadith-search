@@ -2676,6 +2676,12 @@ alāṇṭi vāru tama iṇḍlalō kūrconi uṇḍi (campabaḍina) tama sōda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ ఇండ్లల్లోనే కూర్చున్నదిగాక, తమ సోదరుల గురించి మాట్లాడుకుంటూ, వారు కూడా తమ మాట విని ఉన్నట్లయితే ఈ విధంగా చంపబడి ఉండేవారు కాదు అని అంటారు. ”మీరు సత్యవంతులే అయితే మీ ప్రాణాలను మృత్యు వాతన పడకుండా కాపాడుకోండి” అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

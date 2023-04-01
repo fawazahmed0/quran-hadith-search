@@ -2676,6 +2676,12 @@ allāh yē satyantō granthānni mariyu (n'yāyāniki) trāsunu avatarimpajēś�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే గ్రంథాన్ని సత్యబద్ధంగా అవతరింపజేశాడు. త్రాసును కూడా (అవతరింపజేశాడు). నీకేం తెలుసు? బహుశా ప్రళయం దగ్గరపడిందేమో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

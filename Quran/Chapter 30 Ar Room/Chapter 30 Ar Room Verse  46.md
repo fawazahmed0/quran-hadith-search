@@ -2676,6 +2676,12 @@ ika āyana sūcanalalō āyana gālulanu śubhavārtaliccēvigā pampi mīku tan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+శుభవార్తలను అందజేసే గాలులను పంపటం కూడా ఆయన శక్తి సూచనలలోనిదే. ఎందుకంటే మీకు తన కనికారపు రుచి చూపించటానికి, తన ఆజ్ఞతో నావలు నడవటానికీ, తన కృపను (ఉపాధిని) మీరు అన్వేషించటానికి, మీరు కృతజ్ఞతా పూర్వకంగా మసలుకోవటానికిగాను (ఆయన ఇదంతా చేస్తున్నాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

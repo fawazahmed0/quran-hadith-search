@@ -2676,6 +2676,12 @@ mariyu mēmu mad yan vāsula vaddaku vāri sahōdaruḍu ṣu'aib nu pampāmu. A
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మద్‌యన్‌ వైపునకు మేము వారి సోదరుడైన షుఐబు (అలైహిస్సలాం)ను పంపాము. అతనిలా అన్నాడు: “ఓ నా జాతి ప్రజలారా! అల్లాహ్‌ను ఆరాధించండి. అంతిమ దినాన్ని ఆశించండి. భువిలో అలజడిని సృష్టిస్తూ తిరగకండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

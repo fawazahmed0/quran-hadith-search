@@ -2676,6 +2676,12 @@ i vidhanga, allah variki ihaloka jivitanlo kuda avamananni ruci cupadu. Mariyu v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ప్రాపంచిక జీవితంలోనే వారికి అవమానం రుచి చూపించాడు. పరలోక యాతనైతే ఇంతకన్నా ఎంతో పెద్దది. ఈ సంగతిని వారు గ్రహిస్తే ఎంత బావుండు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

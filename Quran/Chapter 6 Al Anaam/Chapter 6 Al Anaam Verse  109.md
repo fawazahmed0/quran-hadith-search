@@ -2676,6 +2676,12 @@ mariyu vāru: "Okavēḷa mā vaddaku adbhuta sūcana (mahima) vastē, mēmu tap
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీళ్లు అల్లాహ్‌పై అతి గట్టిగా ప్రమాణం చేస్తూ, తమ వద్దకు ఏదైనా సూచన గనక వస్తే తప్పకుండా విశ్వసిస్తామని అన్నారు. (ఓ ప్రవక్తా!) “సూచనలన్నీ అల్లాహ్‌ అధీనంలో ఉన్నాయి” అని వారికి చెప్పు. నీకేం తెలుసు? ఒకవేళ ఆ సూచనలు వచ్చినప్పటికీ వీళ్లు మాత్రం విశ్వసించేవారు కారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

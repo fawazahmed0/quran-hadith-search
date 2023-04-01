@@ -2676,6 +2676,12 @@ mariyu āyana sūcanalalō, āyana ājñatō bhūmyākāśālu nilakaḍa kaligi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన సూచనలలో (వేరొకటి) ఇది కూడా ఉంది : భూమ్యాకాశాలు ఆయన ఆదేశంతోనే నెలకొని ఉన్నాయి. మరి ఆయన మిమ్మల్ని పిలువగానే, ఒక్క పిలుపుపైనే మీరంతా భూమిలో నుంచి బయటికి వస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

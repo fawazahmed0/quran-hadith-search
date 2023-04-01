@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi!) Mēmu (tūr) parvatānni paiketti vāripa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము పర్వతాన్ని పైకెత్తి కప్పు మాదిరిగా వారిపై నిలిపిన సంఘటన కూడా గుర్తుచేసుకోదగినదే. అది తమపైన పడటం ఖాయం అని వారంతా అనుకున్నారు. (ఆ సమయంలో మేము వారితో), “మేము మీకు వొసగిన దానిని (గ్రంథాన్ని) గట్టిగా పట్టుకోండి. ఇందలి ఆదేశాలను జ్ఞాపకముంచుకోండి. తద్వారా మీరు దైవ భీతిపరులు (ముత్తఖీన్‌) అవుతారు” (అని చెప్పాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

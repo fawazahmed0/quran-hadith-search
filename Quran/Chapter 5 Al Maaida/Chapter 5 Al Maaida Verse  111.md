@@ -2676,6 +2676,12 @@ mariyu nēnu, (īsā) śiṣyula (havāriyyūn la) manas'sulalō ilā māṭa v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు నన్నూ, నా ప్రవక్తనూ విశ్వసించండి” అని నేను హవారీలకు ఆజ్ఞాపించినప్పుడు, “మేము విశ్వసించాము, మేము పూర్తిగా విధేయులమయ్యాము అన్నదానికి నువ్వు సాక్షిగా ఉండు” అని వారన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

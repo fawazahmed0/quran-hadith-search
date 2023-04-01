@@ -2676,6 +2676,12 @@ mariyu vāṭi valla mīku itara lābhālu kūḍā unnāyi, vāṭi dvārā mī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాటిలో మీ కొరకు మరెన్నో ప్రయోజనాలున్నాయి. మీరు వాటిపై ఎక్కి, మీ ఆంతర్యాల్లో ఉన్న అక్కరలను సాధించటానికి (అవి ఉపయోగపడుతున్నాయి) – మీరు వాటిపైన, ఓడలపైన తరలించబడుతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

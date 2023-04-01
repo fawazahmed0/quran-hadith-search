@@ -2676,6 +2676,12 @@ vāritō anu: "Ākāśālalōnu mariyu bhūmilōnu unna agōcara viṣayajñāna
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌కు తప్ప ఆకాశాలలోనూ, భూమిలోనూ ఉన్న వారెవరికీ అగోచర జ్ఞానం లేదు. తాము ఎప్పుడు తిరిగి లేపబడతామో కూడా వారికి తెలియదు” అని ఓ ప్రవక్తా (స) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

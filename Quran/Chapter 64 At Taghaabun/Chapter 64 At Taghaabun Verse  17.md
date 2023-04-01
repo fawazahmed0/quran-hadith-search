@@ -2676,6 +2676,12 @@ okavēḷa mīru allāh ku appugā man̄ci appu istē, āyana dānini ennō re�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు గనక అల్లాహ్ కు మంచి రుణం ఇస్తే (అంటే అల్లాహ్ మార్గంలో ఖర్చు పెడితే) దాన్ని ఆయన మీ కొరకు పెంచుతూపోతాడు. మీ పాపాలను కూడా క్షమిస్తాడు. అల్లాహ్ (తన దాసుల సేవలను) గుర్తించేవాడు, సహనశీలుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

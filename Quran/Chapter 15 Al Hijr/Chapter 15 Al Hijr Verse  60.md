@@ -2676,6 +2676,12 @@ atani bhārya tappa! (Āmenu gurin̄ci allāh annāḍu): "Niścayaṅgā āme v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఒక్క అతని (లూత్‌) భార్యను తప్ప! ఆమె (కూడా) వెనుక ఉండిపోయేవారిలో చేరిపోతుందని మేము నిర్థారించాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

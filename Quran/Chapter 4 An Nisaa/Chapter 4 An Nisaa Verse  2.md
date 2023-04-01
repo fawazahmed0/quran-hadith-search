@@ -2676,6 +2676,12 @@ mariyu anāthula āstipāstulanu vāriki tirigi ivvaṇḍi. Mariyu (mī) ceḍ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తండ్రి లేని బిడ్డలకు వారి ఆస్తిని వారికివ్వండి. పరిశుద్ధమైన, ధర్మసమ్మతమైన వస్తువులకు బదులు అపవిత్రమైన, అధర్మమైన వస్తువులను తీసుకోకండి. మీ సొమ్ములతోపాటు వారి సొమ్మును కూడా కలగాపులగం చేసి స్వాహా చేయకండి. ముమ్మాటికీ ఇది మహా పాతకమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

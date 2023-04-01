@@ -2676,6 +2676,12 @@ kāvuna nīvu konta rātri migili uṇḍagānē, nī iṇṭi vārini tīsukoni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నువ్వు నీ కుటుంబ సమేతంగా ఈ రాత్రికి రాత్రే ఇక్కణ్ణుంచి వెళ్ళిపో. నువ్వు మాత్రం వీళ్ళ వెనుక ఉండాలి. (జాగ్రత్త!) మీలో ఎవరూ వెనుతిరిగి కూడా చూడకూడదు. మీకు ఆదేశించబడిన వైపుకు వెళ్ళిపోండి” అని వారు చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

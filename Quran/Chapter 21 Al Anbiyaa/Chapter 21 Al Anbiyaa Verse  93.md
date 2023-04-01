@@ -2676,6 +2676,12 @@ kāni vāru (prajalu) tama dharma viṣayanlō tegalu tegalugā cīlipōyāru. V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని ప్రజలు పరస్పరం (విభేదించుకుని) తమ ధర్మంలో ముఠాలు సృష్టించుకున్నారు. అయితే అందరూ మా వద్దకు మరలి రావలసిన వారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

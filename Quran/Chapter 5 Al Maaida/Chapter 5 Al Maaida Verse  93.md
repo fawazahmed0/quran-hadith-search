@@ -2676,6 +2676,12 @@ viśvasin̄ci satkāryālu cēsē vāripai, (intaku mundu) vāru tinna (trāgina
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించి, సత్కార్యాలు చేసేవారు (ఇంతకు మునుపు) తిన్నదానికి, తాగినదానికి వారిపై ఎటువంటి పాపం ఉండదు. కాకపోతే వారు ఇక మీదట భయభక్తులతో మెలగాలి, విశ్వసించి మంచిపనులు చెయ్యాలి. మళ్లీ భయభక్తుల వైఖరిని అవలంబించాలి, విశ్వసించాలి. మళ్ళీ అల్లాహ్‌కు భయపడుతూ సద్వర్తనులుగా మసలుకోవాలి. ఇటువంటి సద్వర్తనులనే అల్లాహ్‌ ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

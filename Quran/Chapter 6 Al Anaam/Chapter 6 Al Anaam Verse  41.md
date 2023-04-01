@@ -2676,6 +2676,12 @@ alā kānēradu! Mīru āyana (allāh) nē pilustāru. Āyana kōritē ā āpada
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“లేదు. (ఆ క్షణంలో) మీరు కేవలం ఆయన్నే వేడుకుంటారు. దేనికోసం మీరు వేడుకున్నారో ఆ ఆపదను ఆయన మీ నుండి తొలగించదలచుకుంటే తొలగిస్తాడు. అలాంటి సమయాలలో మీరు మాత్రం (అల్లాహ్‌కు) సహవర్తులుగా నిలబెట్టిన వారందరినీ మరచిపోతారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ dāni dvārā allāh! Tana prītini pondagōrē vāriki śānti pathālanu cūpu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దాని ద్వారా అల్లాహ్‌ తన ప్రసన్నతను అనుసరించేవారికి శాంతి మార్గాలను చూపుతాడు. తన అనుమతి మేరకు వారిని చీకట్లలో నుంచి వెలికితీసి, కాంతి వైపుకు తీసుకువస్తాడు. రుజుమార్గం వైపుకు వారికి దర్శకత్వం వహిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

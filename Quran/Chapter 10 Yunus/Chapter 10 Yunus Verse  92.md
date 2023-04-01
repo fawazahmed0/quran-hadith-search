@@ -2676,6 +2676,12 @@ ika nī taruvāta vaccēvāriki oka sūcanagā uṇḍaṭāniki īnāḍu nī �
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి ఈ రోజు, నీవు నీ తర్వాతి తరాలకు గుణపాఠం అయ్యే నిమిత్తం నీ శవాన్ని మాత్రమే రక్షిస్తాము. యదార్థమేమిటంటే జనులలో చాలామంది మా సూచనలను నిర్లక్ష్యం చేస్తారు (అని సమాధానం ఇవ్వబడింది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

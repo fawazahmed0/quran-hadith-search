@@ -2676,6 +2676,12 @@ vāru, (pravaktalu) tama prabhuvu yokka sandēśālanu yathātathaṅgā andajē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ ప్రభువు సందేశాన్ని అందజేశారని తెలియటానికి (ఈ ఏర్పాటు జరిగింది). ఆయన వారి పరిసరాలన్నింటినీ పరివేష్టించి, ఒక్కో వస్తువును లెక్కపెట్టి ఉంచాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

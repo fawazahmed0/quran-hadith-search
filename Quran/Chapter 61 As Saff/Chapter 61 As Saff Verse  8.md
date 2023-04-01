@@ -2676,6 +2676,12 @@ vāru allāh jyōtini (islānnu) tama nōṭitō ūdi, ārpi vēyālanukuṇṭu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు అల్లాహ్ జ్యోతిని తమ నోళ్ళతో ఊది ఆర్పివేయదలుస్తున్నారు. అయితే అల్లాహ్ మాత్రం తన జ్యోతిని పరిపూర్ణం గావిస్తాడు – అవిశ్వాసులకు అది ఎంతగా సహించరానిదైనాసరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu aṭu vaipunaku oka bāṭasārula br̥ndaṁ vaccindi. Vāru tama nīru 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒక ప్రయాణీకుల బృందం అటువైపు వచ్చింది. వారు నీళ్ళు తెచ్చే తమ మనిషిని నీళ్ళ కొరకు పంపగా, అతడు తన బొక్కెను బావిలో వేశాడు – (యూసుఫ్‌ను చూడగానే) “శుభం శుభం, ఇదిగో ఇక్కడ ఒక బాలుడున్నాడ” ని అన్నాడు. వారు అతన్ని వర్తక సామగ్రిగా పరిగణించి దాచి పెట్టారు. అయితే వారు చేస్తున్నదంతా అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ayanaku, variki pratyaksanga unnadi mariyu variki paroksanga unnadi anta telusu.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి ముందున్నదీ, వారికి వెనుక ఉన్నదీ – అంతా ఆయనకు తెలుసు. సమస్త వ్యవహారాలు అల్లాహ్‌ వైపుకే మరలించబడతాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

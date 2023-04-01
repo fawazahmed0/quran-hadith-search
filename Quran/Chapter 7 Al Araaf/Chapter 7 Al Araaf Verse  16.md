@@ -2676,6 +2676,12 @@ Guft; «Holo ki maro noumed soxtaī, man ham onhoro az rohi rosti Tu munharif (k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నీవు నన్ను భ్రష్టుణ్ణి చేసిన కారణంగా నేను వీళ్ళ కోసం (అంటే మానవుల కోసం) నీ రుజుమార్గంలో (మాటువేసి) కూర్చుంటాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mānavulaku āpada vaccinapuḍu, vāru tama prabhuvu vaipunaku paścātt
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజల (పరిస్థితి ఎలాంటిదంటే; వారి) పై ఎప్పుడైనా, ఏదైనా ఆపద వచ్చిపడితే తమ ప్రభువు వైపునకు (పూర్తిగా) మరలి ప్రార్థనలు చేస్తారు. మరి ఆయన తన తరఫు నుంచి కారుణ్య రుచిని చూపించగానే, వారిలోని ఒక వర్గం తమ ప్రభువుకు సహవర్తుల్ని కల్పించసాగుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

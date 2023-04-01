@@ -2676,6 +2676,12 @@ niścayaṅgā, satyānni tiraskaristū prajalanu allāh mārgaṁ nuṇḍi nir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా -ఎవరయితే తిరస్కార వైఖరిని అవలంబించారో, అల్లాహ్‌ మార్గం నుంచి ఇతరులను అడ్డుకున్నారో, ఆపై అవిశ్వాస స్థితిలోనే మరణించారో వారిని అల్లాహ్‌ ఎంతమాత్రం క్షమించడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

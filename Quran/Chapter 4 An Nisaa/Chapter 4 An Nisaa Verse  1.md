@@ -2676,6 +2676,12 @@ o manavulara! Mi prabhuvu patla bhayabhaktulu kaligi undandi. Ayana mim'malni ok
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మానవులారా! మిమ్మల్ని ఒకే ప్రాణి నుంచి పుట్టించి, దాన్నుంచే దాని జతను కూడా సృష్టించి, ఆ ఇద్దరి ద్వారా ఎంతో మంది పురుషులను, స్త్రీలను వ్యాపింపజేసిన మీ ప్రభువుకు భయపడండి. ఎవరిపేరుతో మీరు పరస్పరం మీకు కావలసిన వాటిని అడుగుతారో ఆ అల్లాహ్‌కు భయపడండి. బంధుత్వ సంబంధాల తెగత్రెంపులకు దూరంగా ఉండండి. నిశ్చయంగా అల్లాహ్‌ మీపై నిఘావేసి ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Vāru abad'dhānni vinēvāru mariyu niṣid'dhamaina dānini tinēvāru. Kāvun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీరు చెవియొగ్గి అబద్ధాలు వినేవారు, నిషిద్ధమైన సొమ్ము (హరాం) చాలా ఎక్కువగా తినేవారు. ఒకవేళ వారు (తమ గొడవలను) నీ వద్దకు తీసుకువస్తే, నీకిష్టముంటే వారి మధ్య తీర్పు చెప్పు, లేదంటే విముఖతను తెలుపు. ఒకవేళ నువ్వు వారినుంచి ముఖం త్రిప్పుకున్నా వారు నీకెలాంటి హానీ కలిగించలేరు. ఒకవేళ నువ్వు (వారి వ్యవహారాలపై), తీర్పు చెబితే వారిమధ్య న్యాయసమ్మతంగా తీర్పు చెప్పు. నిస్సందేహంగా అల్లాహ్‌ న్యాయశీలురను ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

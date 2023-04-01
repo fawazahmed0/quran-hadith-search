@@ -2676,6 +2676,12 @@ emi? Varu: "Itane, dinini (i sandesanni) kalpincukunnadu" ani antunnara? Ala kad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇతను దీనిని (ఈ ఖుర్ఆన్ ను) స్వయంగా కల్పించుకున్నాడ”ని వారంటున్నారా? అసలు విషయం ఏమిటంటే వీళ్ళు విశ్వసించటం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

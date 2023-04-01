@@ -2676,6 +2676,12 @@ a taruvata allah atanini varu pannina cedu kutra nundi kapadadu. Mariyu phira'au
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎట్టకేలకు అల్లాహ్‌ అతన్ని, వారు పన్నిన దుష్టపన్నాగాల కీడు నుంచి రక్షించాడు. కాగా; ఫిరౌనీయులపై బహు చెడ్డ విపత్తు విరుచుకుపడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

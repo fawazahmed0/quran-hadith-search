@@ -2676,6 +2676,12 @@ mariyu vāru tama taṇḍri ājña prakāraṁ (ā nagaranlō vērvēru dvārā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ తండ్రి ఆజ్ఞాపించిన మార్గాల ద్వారానే వారు (నగరంలోకి) ప్రవేశించారు. అల్లాహ్‌ నిర్థారించిన దాని నుండి యాఖూబ్‌ సుతారమూ వారిని తప్పించలేడు. కాకపోతే మనసులో జనించిన ఒక విషయాన్ని వెలిబుచ్చాడంతే. నిస్సందేహంగా అతను మేము నేర్పిన విద్య వల్ల జ్ఞాని అయిన వాడు. కాని చాలా మందికి తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

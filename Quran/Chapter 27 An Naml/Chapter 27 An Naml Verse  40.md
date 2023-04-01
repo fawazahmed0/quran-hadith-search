@@ -2676,6 +2676,12 @@ granthajñānaṁ gala okatanu ilā annāḍu: "Nēnu kanureppapāṭu kālanlō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అప్పుడు వారిలో) గ్రంథజ్ఞానం గల ఒకతను, “మీరు కళ్లుమూసి తెరిచే లోగానే నేను దాన్ని మీ ముందు తెచ్చిపెట్టగలను” అన్నాడు. తన కళ్ళముందర ఆ సింహాసనం ఉండటం చూసి సులైమాను, “ఇది నా ప్రభువు అనుగ్రహం. నేను కృతజ్ఞుణ్ణి అవుతానో లేక (ప్రభువు) చేసిన మేలును మరచిపోతానో పరీక్షించటానికే (ఆయన ఇదంతా చేశాడు). ఎవడైనా కృతజ్ఞతా పూర్వకంగా వ్యవహరిస్తే అతని కృతజ్ఞతాభావం అతనికే ప్రయోజనకరం అవుతుంది. మరెవరయినా మేలును మరచి ప్రవర్తిస్తే నా ప్రభువు లక్ష్యపెట్టనివాడు, గొప్ప ఉదాత్తుడు” అని పలికాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

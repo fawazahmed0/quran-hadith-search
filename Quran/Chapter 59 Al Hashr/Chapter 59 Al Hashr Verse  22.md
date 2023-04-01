@@ -2676,6 +2676,12 @@ ayane, allah! Ayana tappa maroka aradhyudu ledu! Ayanaku agocara mariyu gocara v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే అల్లాహ్. ఆయన తప్ప మరో ఆరాధ్య దేవుడు లేడు – గోప్యంగా ఉన్నవాటిని, బహిర్గతమై ఉన్నవాటిని ఎరిగినవాడు. ఆయన కరుణామయుడు, కృపాశీలుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

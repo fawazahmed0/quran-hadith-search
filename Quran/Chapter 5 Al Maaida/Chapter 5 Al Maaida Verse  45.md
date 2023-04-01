@@ -2676,6 +2676,12 @@ mariyu ā granthaṁ (taurāt) lō vāriki mēmu: "Prāṇāniki badulu prāṇa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము తౌరాతు గ్రంథంలో యూదుల కోసం ఒక శాసనాన్ని లిఖించాము: (దీని ప్రకారం) ప్రాణానికి బదులు ప్రాణం, కన్నుకు బదులు కన్ను, ముక్కుకు బదులు ముక్కు, చెవికి బదులు చెవి, పంటికి బదులు పన్ను. అలాగే కొన్ని ప్రత్యేక గాయాల కోసం కూడా (సరిసమానంగా) ప్రతీకారం ఉంది. కాని ఎవరయినా క్షమాభిక్ష పెడితే అది అతని పాలిట పరిహారం (కప్ఫారా) అవుతుంది. అల్లాహ్‌ అవతరింపజేసిన దానికనుగుణంగా తీర్పు ఇవ్వనివారే దుర్మార్గులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

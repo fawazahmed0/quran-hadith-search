@@ -2676,6 +2676,12 @@ mariyu mā spaṣṭamaina āyatulanu vāriki cadivi vinipin̄cinappuḍu - mam'
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ముందు స్పష్టమైన మా వాక్యాలను చదివి వినిపించినప్పుడు, మమ్మల్ని కలిసే నమ్మకం లేనివారు “ఇది తప్ప వేరొక ఖుర్‌ఆన్‌ను తీసుకురా లేదా ఇందులో కొంత సవరణ చెయ్యి” అంటారు. (ఓ ప్రవక్తా!) వారికి చెప్పు: “నా తరఫున ఇందులో సవరణ చేసే అధికారం నాకే మాత్రం లేదు. నా వద్దకు ‘వహీ’ ద్వారా పంపబడే దానిని నేను (యధాతథంగా) అనుసరించేవాణ్ణి మాత్రమే. ఒకవేళ నేను గనక నా ప్రభువు పట్ల అవిధేయతకు పాల్పడినట్లయితే ఒక మహాదినమున విధించబడే శిక్షకు భయపడుతున్నాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

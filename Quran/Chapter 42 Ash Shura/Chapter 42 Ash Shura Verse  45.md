@@ -2676,6 +2676,12 @@ mariyu vārini, dāni (narakaṁ) munduku tīsukoni vaccinappuḍu, vāru avamā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా నువ్వే చూస్తావు – వాళ్లు (నరకం) ఎదుట తేబడినప్పుడు, అవమానభారంతో కృంగిపోతుంటారు. దొంగ చూపులు చూస్తుంటారు. అప్పుడు విశ్వాసులు ఇలా అంటారు: “ఈ ప్రళయదినాన తమ స్వయాన్ని, తమ ఇంటివారలను నష్టానికి గురిచేసినవారే వాస్తవానికి నష్టం పొందినవారు.” నిశ్చయంగా దుర్మార్గులు శాశ్విత యాతనలో పడి ఉన్నారని తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

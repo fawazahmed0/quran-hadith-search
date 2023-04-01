@@ -2676,6 +2676,12 @@ Mariyu (mīru duṣkāryālu cēsēṭappuḍu) mī cevula nuṇḍi mī kaṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు రహస్యంగా (చెడుపనులకు) పాల్పడుతున్నప్పుడు మీ చెవులు, మీ కళ్లు, మీ చర్మాలు మీకు వ్యతిరేకంగా సాక్ష్యమిస్తాయన్న ఆలోచన మీకు ఉండేది కాదు. పైగా మీరు చేసే చాలా పనులు అల్లాహ్‌కు కూడా తెలియవని అనుకునేవారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

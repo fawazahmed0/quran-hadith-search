@@ -2676,6 +2676,12 @@ yūsuḥpai' koṉṟuviṭuṅkaḷ, allatu avarai (tolaivāṉa) oru nāṭṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(అందుకే) యూసుఫ్‌ను చంపేయండి లేదా అతన్నిఏదైనా (తెలియని) చోటపారేయండి. అప్పుడైనా మీ తండ్రి శ్రద్ధాసక్తులు మీవైపుకు మళ్ళవచ్చు. ఆ తరువాత మీరు మంచి వారుగా మారాలి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu ā ubhaya vargāla madhya oka aḍḍutera uṇṭundi. Dāni ettaina pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిరువురి మధ్య ఒక గోడ అడ్డుగా ఉంటుంది. ‘ఆరాఫ్‌’ పైన చాలామంది ఉంటారు. వారు ప్రతి ఒక్కరినీ వారి చిహ్నాలను బట్టి గుర్తుపడతారు. వారు స్వర్గవాసులను పిలిచి, “అస్సలాము అలైకుమ్‌ (మీకు శాంతి కలుగుగాక)!” అని అంటారు. ఈ ఆరాఫ్‌ వారు అప్పటికింకా స్వర్గంలో ప్రవేశించి ఉండరు. అయితే తమకూ స్వర్గం లభిస్తుందన్న ఆశతో ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

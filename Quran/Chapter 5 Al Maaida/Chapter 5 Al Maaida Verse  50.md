@@ -2676,6 +2676,12 @@ emi? Varu ajnana kalapu tirpunu korutunnara? Kani ayana (allah) pai nam'makam ga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారు మళ్ళీ అజ్ఞాన (కాల)పు తీర్పు కోరుతున్నారా? నమ్మకం గల వారి కోసం అల్లాహ్‌ కన్నా ఉత్తమ తీర్పు ఇవ్వగల వాడెవడుంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

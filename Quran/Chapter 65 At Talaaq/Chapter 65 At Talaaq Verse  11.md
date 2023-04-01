@@ -2676,6 +2676,12 @@ oka pravaktanu kūḍā! Atanu mīku spaṣṭamaina allāh sūcanalanu (āyāt 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అనగా) అల్లాహ్ యెక్క స్పష్టమైన వాక్యాలను (ఆదేశాలను) చదివి వినిపించి, విశ్వసించి సత్కార్యాలు చేసినవారిని ఆయన కారు చీకట్లలో నుండి వెలుగులోనికి తీసుకువచ్చేందుకు ఒక ప్రవక్తను పంపాడు. మరెవరైతే అల్లాహ్ ను విశ్వసించి సదాచరణ చేస్తారో వారిని అల్లాహ్ క్రింద కాలువలు ప్రవహించే (స్వర్గ) వనాలలో ప్రవేశింపజేస్తాడు. వాటిలో వారు కలకాలం ఉంటారు. నిశ్చయంగా అల్లాహ్ అతనికి అత్యుత్తమమైన ఉపాధిని వొసగాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vārandarū kalisi kūḍā, dr̥ḍhamaina kōṭalu gala nagarālalōnō, lēd
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారంతా ఏకమైనా మీతో (మైదానాలలో) పోరాడలేరు. అయితే కోటలు గల పురములలో ఉండిగానీ, గోడల చాటున మాటేసిగానీ పోరాడగలరు. అసలు వాళ్ళ మధ్యనే తీవ్రమైన మనస్పర్ధలు ఉన్నాయి. వాళ్ళు కలసికట్టుగా ఉన్నారని నువ్వు అనుకుంటున్నావు. కాని వారి మనసులు పరస్పరం వేరుపడి ఉన్నాయి. వాళ్ళ ఈ (దు)స్థితికి కారణం వాళ్ళ తెలివి మాలినతనమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

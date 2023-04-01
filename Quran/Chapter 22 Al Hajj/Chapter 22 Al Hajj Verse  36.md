@@ -2676,6 +2676,12 @@ Khurbānī paśuvulanu, mēmu mī koraku allāh cihnālugā cēśāmu; mīku vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఖుర్బానీ ఒంటెలను(కూడా) మేము మీకోసం అల్లాహ్‌ చిహ్నాలుగా నిర్థారించాము. వాటిలో మీకు మేలున్నది. కాబట్టి వాటిని వరుసగా నిలబెట్టి, వాటిపై అల్లాహ్‌ పేరును ఉచ్చరించండి. మరి వాటి ప్రక్కలు నేలకొరిగిన తరువాత, వాటిని (మీరూ) తినండి, అడగని అభాగ్యులకు, అడిగే అగత్యపరులకు కూడా తినిపించండి. ఈ విధంగా మీరు కృతజ్ఞతాపూర్వకంగా మసలుకునేందుకుగాను మేము ఈ పశువులను మీకు స్వాధీన పరిచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

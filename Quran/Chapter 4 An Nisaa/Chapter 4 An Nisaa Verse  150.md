@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh nu mariyu āyana pravaktalanu tiraskarin̄cē vārū mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే అల్లాహ్‌ను, ఆయన ప్రవక్తలను తిరస్కరిస్తారో, అల్లాహ్‌ మరియు ఆయన ప్రవక్తల మధ్య భేదభావం పాటించదలుస్తున్నారో, ఇంకా “మేము కొంతమంది ప్రవక్తలను విశ్వసిస్తాం, మరి కొంతమందిని విశ్వసించం” అని చెబుతూ, రెంటికీ మధ్య ఓ (సరికొత్త) మార్గాన్ని తీయదలుస్తున్నారో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

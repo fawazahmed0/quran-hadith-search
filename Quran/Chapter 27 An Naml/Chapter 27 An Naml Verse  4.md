@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē paralōka jīvitānni viśvasin̄carō, vāriki mēmu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే పరలోకాన్ని విశ్వసించరో వారికి మేము, వారి పనులు ఎంతో అందమైనవిగా అనిపించేటట్లు చేశాము. అందుచేత వారు దారితప్పి తిరుగుతుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

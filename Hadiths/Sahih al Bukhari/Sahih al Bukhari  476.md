@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Urve İbn Zübeyr (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe validemiz şöyle dedi: Aklım yetti yeteli anne ve babam müslümandır. Her Allah'ın günü Allah Resulü Sallallahu Aleyhi ve Sellem sabah akşam bize gelirdi. Derken Ebu Bekir'in aklına bir fikir geldi ve evinin avlusuna bir mescid İnşa etti. Orada namaz kılıp Kur'an okuyordu. Müşriklerin kadın ve çocukları başına toplanıp, hayran hayran ona bakıyorlardı. Çünkü Ebu Bekir hisli bir insandı. Kur'an okuduğu zaman göz yaşlarına hakim olamazdı. Onun bu hali, Kureyşli müşrikleri endişelendirmişti. Tekrar: 2
+Urve İbn Zübeyr (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe validemiz şöyle dedi: Aklım yetti yeteli anne ve babam müslümandır. Her Allah'ın günü Allah Resulü Sallallahu Aleyhi ve Sellem sabah akşam bize gelirdi. Derken Ebu Bekir'in aklına bir fikir geldi ve evinin avlusuna bir mescid İnşa etti. Orada namaz kılıp Kur'an okuyordu. Müşriklerin kadın ve çocukları başına toplanıp, hayran hayran ona bakıyorlardı. Çünkü Ebu Bekir hisli bir insandı. Kur'an okuduğu zaman göz yaşlarına hakim olamazdı. Onun bu hali, Kureyşli müşrikleri endişelendirmişti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>476</td></tr><tr><td>Arabic No</td><td>476</td></tr><tr><td>Reference</td><td>Book 8 Hadith 124</td></tr></tbody></table></div>
 

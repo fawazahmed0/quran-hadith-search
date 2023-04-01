@@ -2676,6 +2676,12 @@ Mariyu vāru, āyana (allāh) sr̥ṣṭin̄cina jinnātulanu, allāh kē sāṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలు జిన్నాతులను అల్లాహ్‌కు భాగస్వాములుగా ఖరారు చేసుకున్నారు. మరి చూడబోతే వాళ్లను సృష్టించింది కూడా ఆయనే. అంతేకాదు, వీళ్లు ఎటువంటి జ్ఞానం లేకుండానే ఆయనకు కుమారులను, కుమార్తెలను కూడా కల్పించారు. వాస్తవానికి వీళ్లు చెప్పే ఈ మాటలకు ఆయన పవిత్రుడు, ఉన్నతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

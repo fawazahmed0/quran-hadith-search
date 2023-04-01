@@ -2676,6 +2676,12 @@ mariyu mēmu ī khur'ān dvārā viśvāsulaku svasthatanu mariyu kāruṇyānni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము అవతరింపజేసే ఈ ఖుర్‌ఆన్‌ విశ్వాసుల కొరకు ఆసాంతం స్వస్థత, కారుణ్య ప్రదాయిని. అయితే దుర్మార్గులకు (దీని వల్ల) నష్టం కలగటం తప్ప మరే వృద్ధీ జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

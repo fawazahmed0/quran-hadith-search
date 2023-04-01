@@ -2676,6 +2676,12 @@ sasvatanga unde udyavanalalo varu mariyu varito patu sadvartanulaina vari tandri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+శాశ్వతంగా ఉండే స్వర్గవనాలలోకి వారు ప్రవేశిస్తారు. వారి పూర్వీకులలో, వారి భార్యాబిడ్డలలో సజ్జనులైనవారు కూడా (వారితోపాటే స్వర్గానికి వెళతారు). దైవదూతలు అన్ని ద్వారాల నుండి వారివద్దకు వస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

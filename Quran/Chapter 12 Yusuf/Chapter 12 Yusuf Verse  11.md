@@ -2676,6 +2676,12 @@ vāru annāru: "Nānnā! Nīvu yūsuph viṣayanlō mam'malni enduku nam'mavu? V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారంతా అన్నారు: “నాన్నగారూ! తమరు యూసుఫ్‌ విషయంలో మమ్మల్ని బొత్తిగా నమ్మరేమిటీ? మేము అతని బాగోగులను కోరేవారమేకదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

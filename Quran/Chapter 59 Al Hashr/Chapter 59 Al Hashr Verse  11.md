@@ -2676,6 +2676,12 @@ Ojo munofiqonro nadidī, ki pajvasta ʙa ʙarodaroni ahli kitoʙaşon, ki kufr v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్ సల్లల్లాహు అలైహివ సల్లం!) నీవు కపటులను చూడలేదా? వారు గ్రంథవహుల్లోని తమ అవిశ్వాస సోదరులతో, “మీరు గనక దేశం నుండి బహిష్కరించబడితే మేము కూడా తప్పకుండా మీ వెంట బయలుదేరతాము. మీ విషయంలో మేమెన్నటికీ ఎవరి మాటా వినము. ఒకవేళ మీతో గనక యుద్ధం జరిగితే మేము మీకు తప్పకుండా సాయం చేస్తాము” అని అంటారు. కాని వాళ్ళు వట్టి అబద్ధాలరాయుళ్ళని అల్లాహ్ సాక్ష్యమిస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

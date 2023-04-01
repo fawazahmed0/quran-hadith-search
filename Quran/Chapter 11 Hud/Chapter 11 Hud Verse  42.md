@@ -2676,6 +2676,12 @@ mariyu adi vārini parvatāla valē ettaina alalalōniki tīsukoni pōsāgindi. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ ఓడ వారిని పర్వతాల్లాంటి అలల్లో నుంచి తీసుకుపోసాగింది. నూహ్‌ (అలైహిస్సలాం) ఒడ్డున ఉన్న తన కుమారుణ్ణి ఉద్దేశించి, “ఒరేయ్‌ నాయనా! మాతో పాటే వచ్చి కూర్చోరా. అవిశ్వాసులతో వెళ్ళకురా” అని బిగ్గరగా పిలిచాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

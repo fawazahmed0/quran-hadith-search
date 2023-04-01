@@ -2676,6 +2676,12 @@ mariyu yūsuph (jōseph) sōdarulu vacci atani mundu pravēśin̄cāru. Atanu v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+యూసుఫ్‌ సోదరులు వచ్చి, అతని సమక్షంలో హాజరయ్యారు. అతను వాళ్ళను గుర్తుపట్టాడు గాని వాళ్ళు మాత్రం అతన్ని గుర్తుపట్టలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

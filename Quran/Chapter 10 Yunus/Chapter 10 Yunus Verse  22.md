@@ -2676,6 +2676,12 @@ Ayana (allah) ye! Mim'malni bhumilonu mariyu samudranlonu prayanimpa jeyagalavad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే మిమ్మల్ని భూమిలోనూ, సముద్రంలోనూ నడుపుతున్నాడు. ఆ విధంగా మీరు ఓడలలో పయనమవుతున్నప్పుడు, అవి ప్రజలను సానుకూలమైన గాలుల ద్వారా తీసుకుపోతుంటాయి. ఆ అనుకూల పవనాలకు ప్రజలు ఆనందడోలికల్లో తేలియాడుతుండగా (అకస్మాత్తుగా) వారిపై ఉధృతమైన గాలి వీస్తుంది. అన్ని వైపుల నుంచీ వారిపై అలలు వచ్చిపడతాయి. తాము (ఆపదలో దారుణంగా) చిక్కుకు పోయామన్న సంగతిని వారు గ్రహిస్తారు. (ఆక్షణంలో) తమ విశ్వాసాన్ని అల్లాహ్‌కే ప్రత్యేకించుకుని, “(అల్లాహ్‌!) నువ్వు గనక మమ్మల్ని ఈ ఆపదనుంచి గట్టెక్కిస్తే మేము తప్పకుండా నీకు కృతజ్ఞులమై ఉంటామ” ని మొరపెట్టుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

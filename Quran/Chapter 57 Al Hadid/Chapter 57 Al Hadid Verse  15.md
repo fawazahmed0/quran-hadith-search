@@ -2676,6 +2676,12 @@ kāvuna ī rōju mī nuṇḍi ē vidhamaina parihāraṁ tīsukōbaḍadu. Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమైనా ఈ రోజు మీనుండి గానీ, అవిశ్వాసుల నుండి గానీ పరిహారం తీసుకోబడదు. మీ అందరి నివాస స్థలం నరకాగ్నే. అదే మీ నేస్తం. అది మహా చెడ్డ గమ్యస్థానం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

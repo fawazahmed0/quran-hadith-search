@@ -2676,6 +2676,12 @@ mariyu dāvūd mariyu sulaimān iddaru oka cēnu gurin̄ci tīrpu cēsina viṣa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దావూదు, సులైమానులను కూడా (జ్ఞప్తికి తెచ్చుకోండి). కొందరి మేకలు రాత్రి పూట పొలంలో పడి మేయగా, ఆ పొలం విషయంలో వారిద్దరూ తీర్పు చేస్తున్నప్పుడు, ఆ తీర్పునంతటినీ మేము గమనిస్తూనే ఉన్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

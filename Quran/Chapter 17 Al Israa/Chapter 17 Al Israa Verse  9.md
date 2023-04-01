@@ -2676,6 +2676,12 @@ niścayaṅgā, ī khur'ān pūrtigā, saraina (savyamaina) mārgaṁ vaipuku m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా ఈ ఖుర్‌ఆన్‌ అన్నిటికంటే సవ్యమైన మార్గాన్ని చూపిస్తుంది. మంచి పనులు చేసే విశ్వాసులకు గొప్ప పుణ్యఫల ముందన్న శుభవార్తను అది వినిపిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

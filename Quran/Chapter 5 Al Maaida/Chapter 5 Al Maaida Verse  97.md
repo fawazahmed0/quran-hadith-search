@@ -2676,6 +2676,12 @@ allāh pavitra gr̥haṁ ayina ka'abah nu mānavajāti koraku, surakṣitamaina 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+గౌరవప్రద గృహమైన ‘కాబా’ను అల్లాహ్‌ మానవ మనుగడ సాధనంగా చేశాడు. ఇంకా నిషిద్ధ మాసాన్నీ, హదీ పశువును (హరమ్‌ క్షేత్రంలో ఖుర్బానీ ఇవ్వబడే జంతువులను), మెడలలో పట్టాలు వేసిన జంతువులను కూడా. ఆకాశాలలో, భూమిలో ఉన్న సమస్త వస్తువుల గురించి అల్లాహ్‌కు తెలుసనీ, ఆయన ప్రతిదీ క్షుణ్ణంగా ఎరిగినవాడన్న సంగతి మీకు తెలియడానికిగాను ఆయన ఇలా చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

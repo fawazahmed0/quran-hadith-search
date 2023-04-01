@@ -2676,6 +2676,12 @@ emi? Niku teliyada? Akasanlo mariyu bhumilo unnadanta allah ku baga telusani! Ni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలలో ఉన్న ప్రతి వస్తువు గురించీ అల్లాహ్‌కు తెలుసన్న సంగతి నీకు తెలియదా? అంతా ఒక గ్రంథంలో వ్రాయబడి ఉంది. నిస్సందేహంగా ఈ విషయం అల్లాహ్‌కు చాలా సులువైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Emi? E vyakti hrdayannaite allah vidheyata (islam) koraku terustado, atadu tana 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ వ్యక్తి హృదయాన్ని అల్లాహ్‌ ఇస్లాం కోసం విప్పాడో, (అతను గుణపాఠం నేర్చుకోని వ్యక్తిలాంటివాడు కాగలడా?) అతడు తన ప్రభువు తరఫు నుంచి వచ్చిన కాంతిపై ఉన్నాడు. అల్లాహ్‌ స్మరణ పట్ల ఎవరి హృదయాలు (మెత్తబడకుండా) కరకుగా మారాయో వారికి వినాశం తప్పదు. వారు స్పష్టమైన మార్గభ్రష్టతకు గురై ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

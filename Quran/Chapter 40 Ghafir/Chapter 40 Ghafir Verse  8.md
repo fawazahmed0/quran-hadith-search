@@ -2676,6 +2676,12 @@ o ma prabhu! Inka varini, nivu vagdanam cesina, kalakalamunde svargavanalalo pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభూ! నువ్వు వారికి వాగ్దానం చేసివున్న శాశ్వితమైన స్వర్గవనాలలో వారికి ప్రవేశం కల్పించు. మరి వారి పితామహులలోని, సతీమణులలోని, సంతానంలోని సజ్జనులకు కూడా (స్వర్గంలో స్థానం కల్పించు). నిశ్చయంగా నీవు సర్వసత్తాధికారివి, వివేక సంపన్నుడివి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

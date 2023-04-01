@@ -2676,6 +2676,12 @@ duṣkāryālu cēsina vāniki, vāṭiki saripōyē pratīkāraṁ mātramē la
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఎవడయినా పాపానికి పాల్పడితే దానికి సరిసమానమైన (పాప) ఫలమే అతనికి లభిస్తుంది. మరెవడయినా పుణ్యకార్యం చేస్తే – అతడు పురుషుడైనా, స్త్రీ అయినా-అతడు గనక విశ్వాసి అయివుంటే – అలాంటి వారంతా స్వర్గంలో ప్రవేశిస్తారు. వారక్కడ లెక్క లేనంత ఉపాధిని పొందుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

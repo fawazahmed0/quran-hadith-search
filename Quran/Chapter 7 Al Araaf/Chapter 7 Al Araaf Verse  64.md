@@ -2676,6 +2676,12 @@ ayinā, vāru atanini asatyavāduḍani tiraskarin̄cāru. Kāvuna mēmu atanini
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయినప్పటికీ వాళ్లు ఆయన (మాట)ను అసత్యమని ధిక్కరించారు. మేము నూహును, నావలో అతని వెంట ఉన్న అతని సహచరులను రక్షించి, మా ఆయతులను ధిక్కరించిన వారందరినీ ముంచి వేశాము. నిశ్చయంగా వారు మరీ గ్రుడ్డి జనులుగా వ్యవహరించారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

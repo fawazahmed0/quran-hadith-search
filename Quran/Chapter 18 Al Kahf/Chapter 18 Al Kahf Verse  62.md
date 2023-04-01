@@ -2676,6 +2676,12 @@ a pidapa varu marikonta munduku poyina taruvata, atanu (musa) tana sevakunito il
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారుభయులూ ముందుకు సాగిపోయిన తరువాత మూసా తన (వెంటనున్న) యువకుణ్ణి ఉద్దేశించి, “మా ఉదయ భోజనం తీసుకురా. నిజంగానే ఈ ప్రయాణంలో చాలా ప్రయాస పడాల్సి వచ్చింది” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

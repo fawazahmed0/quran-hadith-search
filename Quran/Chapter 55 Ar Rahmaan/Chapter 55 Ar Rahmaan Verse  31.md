@@ -2676,6 +2676,12 @@ bhārālanu mōsē mīriddaru! Tvaralōnē mēmu mī viṣayaṁ nirṇayin̄cag
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(జిన్ను జాతికి, మనుజ జాతికి చెందిన) ఓ ఇరువర్గాల వారలారా! అతి త్వరలోనే మేము తీరికతో మీ సంగతి చూస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

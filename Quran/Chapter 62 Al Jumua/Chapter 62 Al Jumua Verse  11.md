@@ -2676,6 +2676,12 @@ Mariyu (ō muham'mad!) Vāru vyāpārānni gānī lēdā vinōda krīḍanu gān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(జనుల పరిస్థితి ఎలా ఉందంటే) ఎప్పుడు ఏ వ్యాపార వస్తువు అమ్మబడుతున్నట్లు చూసినా, ఏ వినోద వస్తువు కానవచ్చినా వారు దాని వైపుకు పరుగెడుతున్నారు. నిన్ను నిలబడి ఉన్న స్థితిలోనే విడిచిపోతున్నారు. వారికి చెప్పు : “అల్లాహ్ దగ్గర ఏదైతే ఉందో అది వినోదం కన్నా, వర్తకం కన్నా ఎంతో మేలైనది. అల్లాహ్ ఉపాధి ప్రదాతలలోకెల్లా ఉత్తముడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

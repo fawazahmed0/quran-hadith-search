@@ -2676,6 +2676,12 @@ mariyu ākāśālalōnū mariyu bhūmilōnū unna agōcara viṣayāla jñāna�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలోనూ, భూమిలోనూ ఉన్న నిగూఢ విషయాలు అల్లాహ్‌కు మాత్రమే తెలుసు. ప్రళయ వ్యవహారం రెప్పపాటు కాలంలో, లేదా అంతకన్నా తక్కువ సమయంలోనే జరిగిపోతుంది. నిశ్చయంగా అల్లాహ్‌ అన్నింటిపై అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

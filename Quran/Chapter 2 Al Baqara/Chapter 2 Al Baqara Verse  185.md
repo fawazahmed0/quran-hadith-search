@@ -2676,6 +2676,12 @@ Ramadān nela! Andulō divya khur'ān mānavulaku mārgadarśakatvaṅgā, avata
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+రమజాను నెల – ఖుర్‌ఆన్‌ అవతరింపజేయబడిన నెల. అది మానవులందరికీ మార్గదర్శకం. అందులో సన్మార్గంతోపాటు, సత్యాసత్యాలను వేరుపరచే స్పష్టమైన నిదర్శనాలు ఉన్నాయి. కనుక మీలో ఎవరు ఈ నెలను చూస్తారో వారు ఉపవాసాలుండాలి. అయితే రోగగ్రస్తుని గానో, ప్రయాణీకుని గానో ఉన్న వారు ఇతర దినాలలో ఈ లెక్కను పూర్తిచేయాలి. అల్లాహ్‌ మీకు సౌలభ్యాన్ని సమకూర్చదలుస్తున్నాడేగాని మిమ్మల్ని కష్టపెట్టదలచటం లేదు. మీరు (ఉపవాసాల) నిర్ణీత సంఖ్యను పూర్తిచేసుకోవాలన్నదీ, తాను అనుగ్రహించిన సన్మార్గ భాగ్యానికి ప్రతిగా ఆయన గొప్పతనాన్ని కీర్తించి, తగురీతిలో మీరు ఆయనకు కృతజ్ఞతలు తెలుపుకోవాలన్నది అల్లాహ్‌ అభిలాష
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

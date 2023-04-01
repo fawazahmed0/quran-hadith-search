@@ -2676,6 +2676,12 @@ nīṅkaḷ colliyataiyellām tiṭaṉāka ivarkaḷ poyyākkiviṭṭaṉar ā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(చూశారా!) మీరు చెప్పే మాటలన్నింటినీ వారు కాదన్నారు. కనుక శిక్షలను తొలగించుకునే శక్తిగానీ, సహాయాన్ని పొందే స్థోమతగానీ ఇప్పుడు మీకు లేదు. మీలో దుర్మార్గానికి పాల్పడిన ఒక్కొక్కడికీ మేము పెద్ద శిక్షను చవి చూపిస్తాము” (అని అల్లాహ్‌ అంటాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

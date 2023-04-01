@@ -2676,6 +2676,12 @@ vāṭilō (bhūmyākāśālalō) allāh tappa itara ārādhya daivālu uṇṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ భూమ్యాకాశాలలో అల్లాహ్‌ గాక ఇతర దేవుళ్ళు కూడా ఉండి ఉంటే ఈ రెండింటిలో అరాచకం ఏర్పడేది. కాబట్టి సింహాసనానికి (అర్ష్‌కు) అధిపతి అయిన అల్లాహ్‌ వారు కల్పించే భాగస్వామ్య (షిర్క్‌) విషయాలన్నింటికీ అతీతుడు, పవిత్రుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

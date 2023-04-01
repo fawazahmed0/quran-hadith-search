@@ -2676,6 +2676,12 @@ o visvasulara! Hatya visayanlo mi koraku n'yayapratikaram (khisas) nirnayincabad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! హతుల విషయంలో ప్రతీకార న్యాయం (ఖిసాస్‌) మీ కొరకు విధిగా నిర్ణయించబడింది. స్వతంత్రునికి బదులుగా స్వతంత్రుణ్ణి, బానిసకు బదులుగా బానిసను, స్త్రీకి బదులుగా స్త్రీని (మాత్రమే) హతమార్చాలి. ఒకవేళ హతుని సోదరుడు హంతకుణ్ణి కనికరించదలిస్తే అతను రక్తశుల్కాన్ని న్యాయసమ్మతంగా అడగాలి. హంతకుడు కూడా రక్తధనాన్ని ఉత్తమ రీతిలో అతనికి చెల్లించాలి. ఇది మీ ప్రభువు తరఫున ఇవ్వబడిన వెసులుబాటు, కారుణ్యం. ఆ తరువాత కూడా ఎవరయినా హద్దులు అతిక్రమిస్తే అతనికి వ్యధాభరితమైన శిక్ష ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

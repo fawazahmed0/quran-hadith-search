@@ -2676,6 +2676,12 @@ I ubhaya paksala varini, oka gruddi mariyu ceviti, maroka cudagala mariyu vinaga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ రెండు వర్గాల ఉదాహరణ ఇలా ఉంది: వారిలో ఒకడు గుడ్డివాడు, చెవిటివాడు. మరొకడు చూడగలిగే, వినగలిగేవాడు – వీరిద్దరూ పోలికలో సమానులవుతారా? అయినా మీరు గుణపాఠం గ్రహించరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

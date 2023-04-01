@@ -2676,6 +2676,12 @@ okavēḷa āyana kōritē gālini āpagalaḍu. Appuḍavi dāni (samudrapu) v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన గనక తలచుకుంటే గాలిని స్థంభింపజేయగలడు. అప్పుడు ఆ ఓడలు సముద్రంపైనే నిలిచిపోతాయి. నిశ్చయంగా ఇందులో సహనం వహించే, కృతజ్ఞులై ఉండే ప్రతి ఒక్కరి కొరకు సూచనలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

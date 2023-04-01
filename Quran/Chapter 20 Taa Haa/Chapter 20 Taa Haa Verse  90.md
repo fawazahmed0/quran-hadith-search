@@ -2676,6 +2676,12 @@ mariyu vāstavāniki hārūn intaku mundu vāritō ceppi unnāḍu: "Ō nā jāt
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అంతకు ముందే హారూను (అలైహిస్సలాం) వారితో, “నా జాతి జనులారా! ఈ ఆవు దూడ ద్వారా మీరు సంకటస్థితిలో పడ్డారు. యదార్థానికి మీ నిజ ప్రభువు మాత్రం కరుణామయుడైన అల్లాహ్‌యే. కాబట్టి మీరందరూ నన్ను అనుసరించండి. నేను చెప్పినట్లు నమ్మి నడవండి” అని ప్రబోధించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

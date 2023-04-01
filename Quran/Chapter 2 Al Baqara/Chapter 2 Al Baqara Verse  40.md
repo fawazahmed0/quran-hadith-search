@@ -2676,6 +2676,12 @@ o israyil santativaralara! Nenu miku cesina upakaranni jnapakam cesukondi mariyu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ఇస్రాయీలు వంశస్థులారా! నేను మీకు అనుగ్రహించిన భాగ్యాన్ని గురించి కాస్త జ్ఞాపకం చేసుకోండి. మీరు నాతో చేసిన వాగ్దానాన్ని నిలబెట్టుకోండి, నేను మీతో చేసిన వాగ్దానాన్ని నెరవేరుస్తాను. మీరు నాకు మాత్రమే భయపడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

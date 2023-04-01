@@ -2676,6 +2676,12 @@ maryam kumāruḍu masīh (krīstu) kēvalaṁ oka pravakta mātramē. Ataniki p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మర్యమ్‌ కుమారుడైన మసీహ్‌ ఒక ప్రవక్త తప్ప మరేమీ కాడు. ఆయనకు మునుపు కూడా ఎంతోమంది ప్రవక్తలు గతించారు. ఆయన తల్లి సద్వర్తనురాలు. ఆ తల్లీ కొడుకులిరువురూ అన్నం తినేవారే. చూడు, మేము వారి ముందు ఏ విధంగా నిదర్శనాలను విశదీకరిస్తున్నామో! అయినా వారు ఎలా తిరిగి పోతున్నారో చూడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

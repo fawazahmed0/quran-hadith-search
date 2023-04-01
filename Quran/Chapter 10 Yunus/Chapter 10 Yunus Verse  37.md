@@ -2676,6 +2676,12 @@ mariyu allāh tappa marokari dvārā ī khur'ān kalpin̄cabaḍaṭaṁ sambhav
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ ఖుర్‌ఆన్‌ అల్లాహ్‌ (పంపిన వహీ ద్వారా) కాకుండా (ఇతరుల ప్రమేయంతో) చేయబడిన కల్పన కాదు. పైగా ఇది తనకు పూర్వం ఉన్న వాటిని (అవతరించిన గ్రంథాలను) ధృవీకరించేది, ఇంకా గ్రంథం (లోని మౌలిక ఆదేశాలను) విపులీకరించేది. ఇది సర్వలోకాల ప్రభువు తరఫు నుంచి వచ్చిందన్న విషయంలో సందేహానికి ఆస్కారమే లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

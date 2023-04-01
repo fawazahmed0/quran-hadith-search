@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Atıyye r.anha şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) (vefat eden) kızının yıkanması sırasında kadınlara şöyle buyurdu: "Sağ tarafından ve abdest azalarından başlayın. Tekrar: 1253, 1254, 1255, 1
+Ümmü Atıyye r.anha şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) (vefat eden) kızının yıkanması sırasında kadınlara şöyle buyurdu: "Sağ tarafından ve abdest azalarından başlayın. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
 

@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi!) Nī prabhuvu ādam santati vāri vīpuna 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు ఆదం సంతతి వీపుల నుండి వారి సంతానాన్ని తీసి, స్వయంగా వారినే వారికి సాక్షులుగా పెట్టి, “నేను మీ ప్రభువును కానా?” అని అడిగినప్పుడు “ఎందుకు కావు? (నువ్వే మా ప్రభువువి). ఈ విషయానికి మేమంతా సాక్షులుగా ఉన్నాం” అని వారు చెప్పారు. ‘దీని గురించి మాకేమీ తెలియదు’ అని ప్రళయ దినాన మీరు అనకుండా ఉండటానికీ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

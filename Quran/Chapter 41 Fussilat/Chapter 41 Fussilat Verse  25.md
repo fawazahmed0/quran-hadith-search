@@ -2676,6 +2676,12 @@ mariyu mēmu vīriki snēhitulugā (ṣaitānulanu) niyamin̄cāmu. Vāru vīri 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారి వెంట కొందరు సహవాసులను నియమించాము. వారేమో వీరికి ముందూ వెనుకా ఉన్న వీరి కర్మలను అందమైనవిగా కనిపించేలా చేశారు. వీరికి పూర్వం గతించిన జిన్నాతుల, మానవ జాతుల విషయంలో ఖరారైన అల్లాహ్‌ వాక్కే వీరి విషయంలో కూడా జరిగింది. నిశ్చయంగా వీరు నష్టపోయిన వారయ్యారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

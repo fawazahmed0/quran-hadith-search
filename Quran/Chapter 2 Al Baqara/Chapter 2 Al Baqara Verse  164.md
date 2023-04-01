@@ -2676,6 +2676,12 @@ Niścayaṅgā, bhūmyākāśāla sr̥ṣṭilōnū, rēyimbavaḷḷa mārpulō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాల సృష్టిలో, రేయింబవళ్ళ (నిరంతర) మార్పిడిలో, ప్రజలకు లాభం చేకూర్చే వస్తువులను మోసుకుంటూ సముద్రాలలో నడిచే ఓడలలో, ఆకాశం నుంచి అల్లాహ్‌ వర్షపు నీటిని కురిపించి మృతభూమిని బ్రతికించటంలో, ఇంకా అందులో అన్ని రకాల ప్రాణులను వ్యాపింపజేయటంలో, వీచే పవనాల దిశలు మార్చటంలో, భూమ్యాకాశాల మధ్య (దేవుని) నియమ నిబంధనలకు కట్టుబడి మసలుకుంటున్న మేఘాలలో బుద్ధిమంతులకు (దేవుని శక్తి సామర్థ్యాలకు సంబంధించిన) ఎన్నో సూచనలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

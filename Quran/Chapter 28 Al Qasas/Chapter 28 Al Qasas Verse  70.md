@@ -2676,6 +2676,12 @@ mariyu āyanē, allāh! Āyana tappa maroka ārādhya daivaṁ lēḍu! Modaṭa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే అల్లాహ్‌. ఆయన తప్ప వేరొకరెవరూ ఆరాధనకు అర్హులు కారు. ఆదిలోనూ, అంతంలోనూ ఆయనే స్తుతింపదగిన వాడు. శాసించే అధికారం కూడా ఆయనకే చెల్లుతుంది. (ఎట్టకేలకు) మీరంతా ఆయన వైపుకే మరలించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

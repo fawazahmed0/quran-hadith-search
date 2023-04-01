@@ -2676,6 +2676,12 @@ appuḍatani bhārya arustū vāri munduku vacci, tana cētini nuduṭi mīda ko
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అంతలోనే అతని భార్య లబోదిబోమంటూ ముందుకు వచ్చింది. నెత్తి నోరు బాదుకుంటూ, “హవ్వ! నేనా ముసలిదాన్ని. దానికి తోడు గొడ్రాలిని కూడా” (నాకు సంతానమేమిటి?) అని అన్నది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

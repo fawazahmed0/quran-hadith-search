@@ -2676,6 +2676,12 @@ ayane tana ajnato, devadutala dvara, divyajnananni (ruh nu) tanu korina, tana da
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను తప్ప వేరే ఆరాధ్య దైవం లేడు. కనుక మీరు నాకు భయపడండి” అని ప్రజలను హెచ్చరించటానికి, ఆయనే దూతలకు తన ‘వహీ’ని ఇచ్చి, తన ఆదేశానుసారం దాన్ని తన దాసులలో తాను కోరిన వారిపై అవతరింపజేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

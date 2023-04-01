@@ -2676,6 +2676,12 @@ a taruvata memu ma sandesaharulanu okari taruvata okarini pamputu vaccamu. Prati
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత మేము మా ప్రవక్తలను ఎడతెగకుండా పంపాము. ఎప్పుడు ఏ జాతి వద్దకు వారి ప్రవక్త వచ్చినా ఆ జాతి అతనిని ధిక్కరిస్తూనే వచ్చింది. అందువల్ల మేము ఒకరి తరువాత ఒకరిని తుదముట్టించి, వారిని జరిగిన కథలుగా చేసేశాము. విశ్వసించని జాతులు దూరమవుదురు గాక
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mēmu (allāh) ilā annāmu: "Mīrantā ikkaḍi nuṇḍi digi pōṇḍi." Ika
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారితో అన్నాము: “మీరంతా ఇక్కడి నుంచి దిగిపోండి. నా ఉపదేశం ఎప్పుడు మీ వద్దకు వచ్చినా, దాన్ని అనుసరించే వారికి ఎలాంటి భయంగానీ, దుఃఖంగానీ ఉండదు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

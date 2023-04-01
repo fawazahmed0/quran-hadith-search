@@ -2676,6 +2676,12 @@ allāh vārandarinī marala bratikin̄ci lēpina rōju, vāru mītō pramāṇā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారందరినీ అల్లాహ్ తిరిగి లేపిన రోజున, వారు మీ ముందు ప్రమాణాలు చేసినట్లే ఆయన ముందు కూడా ప్రమాణాలు చేస్తారు. తమకూ ఏదో ఒక ఆధారం ఉందని తలపోస్తారు. బాగా తెలుసుకోండి! వారు పచ్చి అబద్ధాల కోరులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

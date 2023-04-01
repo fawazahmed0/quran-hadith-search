@@ -2676,6 +2676,12 @@ dāntō vārini parīkṣin̄caṭāniki! Mariyu evaḍaitē tana prabhuvu dhān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తద్వారా వారిని ఈ విషయంలో పరీక్షించటానికి! మరెవడు తన ప్రభువు ధ్యానం నుండి ముఖం త్రిప్పుకుంటాడో అతణ్ణి అల్లాహ్ కఠినమైన శిక్షకు లోను చేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

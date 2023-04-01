@@ -2676,6 +2676,12 @@ Bigū: «Dar on ci [az ahkomi ilohī, ki] ʙa man vahj şudaast, [ƣizoi] harome
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! వారికి చెప్పు : (వహీ ద్వారా) నా వద్దకు వచ్చిన ఆజ్ఞలలో చచ్చిన జంతువు, ప్రవహించే రక్తం, పందిమాంసం – అది పరమ అశుద్ధం గనక! – ఇంకా దైవేతరుల పేర కోయబడిన జంతువు తప్ప మరేదీ తినేవాడి కోసం నిషేధించబడినట్లు నాకు కనిపించదు. అయితే గత్యంతరం లేని పరిస్థితిలో- రుచికోసం కాకుండా, హద్దు మీరకుండా ఉంటే (వాటిని తింటే అట్టి స్థితిలో) నీ ప్రభువు క్షమించేవాడూ, కరుణించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

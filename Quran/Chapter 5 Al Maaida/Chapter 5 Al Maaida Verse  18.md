@@ -2676,6 +2676,12 @@ mariyu yūdulu mariyu kraistavulu ilā aṇṭāru: "Mēmu allāh santānaṁ ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేము అల్లాహ్‌ పుత్రులం, ఆయనకు ప్రియమైన వారం” అని యూదులు, క్రైస్తవులు (నస్రానీలు) అంటారు. (ఓ ప్రవక్తా!) వారిని ఇలా అడుగు : “మరయితే మీ పాపాలకుగాను ఆయన మిమ్మల్ని ఎందుకు శిక్షిస్తున్నాడు? కాదు, మీరు కూడా ఆయన సృష్టించిన మానవ వర్గానికి చెందినవారే. ఆయన తాను కోరిన వారిని క్షమిస్తాడు, తాను కోరిన వారిని శిక్షిస్తాడు. భూమ్యా కాశాలలోనూ, వాటి మధ్యనూ ఉన్నవాటన్నింటిపై అధికారం అల్లాహ్‌దే. ఆయన వైపుకే మరలిపోవలసి ఉంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

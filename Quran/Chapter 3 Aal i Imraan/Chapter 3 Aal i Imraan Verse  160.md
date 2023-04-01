@@ -2676,6 +2676,12 @@ okavēḷa mīku allāh sahāyamē uṇṭē, marevvarū mīpai ādhikyānni pon
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే గనక మీకు తోడ్పాటునందిస్తే ఇక మిమ్మల్ని ఎవరూ జయించలేరు. ఒకవేళ ఆయనే గనక మిమ్మల్ని విడిచి పెట్టేస్తే, తరువాత మీకు సహాయపడ గలవాడెవడు? కాబట్టి విశ్వసించినవారు సదా అల్లాహ్‌నే నమ్ముకోవాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

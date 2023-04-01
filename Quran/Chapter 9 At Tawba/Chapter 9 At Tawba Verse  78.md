@@ -2676,6 +2676,12 @@ emi? Vari gupta rahasyalu mariyu vari rahasya samalocanalu, allah ku telusani va
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, తమలోగుట్టు గురించి, తమ గుసగుసల గురించి అల్లాహ్‌కు అంతా తెలుసుననీ, అల్లాహ్‌ అగోచర విషయాలన్నింటినీ ఎరిగినవాడనీ వారికి తెలియదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

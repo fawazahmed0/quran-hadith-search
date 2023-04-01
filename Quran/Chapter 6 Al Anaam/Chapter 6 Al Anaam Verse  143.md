@@ -2676,6 +2676,12 @@ Haşt [ra'si] naru moda [ʙaroi istifodai şumo ofarid] az meş jak çuft va az 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఇవి ఆయన సృష్టించిన) ఎనిమిది ఆడమగలు. అంటే గొఱ్ఱెలలో రెండు రకాలు, మేకలలో రెండు రకాలు. “అల్లాహ్‌ నిషేధించినది ఆ రెండు మగ పశువులనా లేక రెండు ఆడ పశువులనా లేక ఆ రెండు ఆడపశువుల గర్భాలలో ఉన్న వాటినా? మీరు సత్యవంతులే అయితే ప్రమాణబద్ధంగా నాకు తెలియజేయండి” అని (ఓ ప్రవక్తా!) వారిని అడుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

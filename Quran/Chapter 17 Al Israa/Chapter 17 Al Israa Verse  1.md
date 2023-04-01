@@ -2676,6 +2676,12 @@ tana dāsuṇṇi (muham'mad nu), masjid al harām (makkā mukarramā) nuṇḍi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తన దాసుణ్ణి రాత్రికి రాత్రే మస్జిదె హరామ్‌ నుండి మస్జిదె అక్సా వరకు తీసుకుపోయిన అల్లాహ్‌ పరిశుద్ధుడు. దాని పరిసరాలను మేము శుభవంతం చేశాము. ఎందుకంటే; మేమతనికి మా (శక్తిసామర్థ్యాలకు సంబంధించిన) కొన్ని సూచనలను చూపదలిచాము. నిశ్చయంగా అల్లాహ్‌ మాత్రమే బాగా వినేవాడు, చూసేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

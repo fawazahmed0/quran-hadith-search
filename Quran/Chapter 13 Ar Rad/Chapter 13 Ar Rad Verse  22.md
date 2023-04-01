@@ -2676,6 +2676,12 @@ mariyu evaraitē tama prabhuvu prīti koraku sahanaṁ vahin̄ci mariyu namāj s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ ప్రభువు ప్రసన్నతను చూరగొనే ఉద్దేశంతో సహనం పాటిస్తారు. నమాజులను నెలకొల్పుతారు. మేము వారికి ప్రసాదించిన దానిలో నుంచి గోప్యంగానూ, బహిరంగంగానూ ఖర్చుపెడతారు. చెడును సయితం మంచితనంతో పారద్రోలుతారు. అంతిమ నిలయం ఉన్నది ఇలాంటి వారి కొరకే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

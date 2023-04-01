@@ -2676,6 +2676,12 @@ ataḍu nāku mariyu ya'akhūb santati vāriki vārasuḍavutāḍu mariyu ō n�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నాకు వారసుడుగా ఉండటంతోపాటు, యాఖూబు సంతతికి కూడా వారసుడు అయ్యే ఒక వారసుణ్ణి నువ్వు నీ వద్ద నుంచి ప్రత్యేకంగా నాకు అనుగ్రహించు. ప్రభూ! నువ్వతన్ని ప్రియతమునిగా చేయి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

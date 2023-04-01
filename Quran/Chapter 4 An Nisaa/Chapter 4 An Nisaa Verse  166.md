@@ -2676,6 +2676,12 @@ kāni (ō pravaktā!) Allāh nīpai avatarimpajēsina dāniki (khur'ān ku) sāk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నీపై అవతరింపజేసిన దానిని గురించి, దాన్ని తన జ్ఞానంతో అవతరింపజేశానని అల్లాహ్‌ స్వయంగా సాక్ష్యమిస్తున్నాడు. దూతలు సయితం దాని గురించి సాక్ష్యమిస్తున్నారు. అసలు సాక్షిగా అల్లాహ్‌యే చాలు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

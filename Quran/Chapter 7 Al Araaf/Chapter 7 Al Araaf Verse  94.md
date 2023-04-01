@@ -2676,6 +2676,12 @@ mariyu mēmu ē nagarāniki pravaktanu pampinā! Dāni prajalanu āpadalaku mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఏ ప్రవక్తను ఏ బస్తీలో పంపినా అక్కడి జనులు అణకువతో మెలగాలన్న ఉద్దేశంతో వారిని అభాగ్యానికి, అనారోగ్య స్థితికీ లోను చేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

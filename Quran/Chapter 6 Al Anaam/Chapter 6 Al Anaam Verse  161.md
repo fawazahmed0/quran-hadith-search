@@ -2676,6 +2676,12 @@ Vāritō ilā anu: "Niścayaṅgā, nā prabhuvu nāku r̥jumārgaṁ vaipunaku 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఈ విధంగా చెప్పు: “నా ప్రభువు నాకు రుజుమార్గం చూపించాడు. అదొక స్థిరమైన ధర్మం. ఎలాంటి వక్రతా లేనిది, అల్లాహ్‌ వైపు ఏకాగ్రతతో మరలిన ఇబ్రాహీమ్‌ విధానం అది. ఆయన ముష్రిక్కులలోని వాడు కాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

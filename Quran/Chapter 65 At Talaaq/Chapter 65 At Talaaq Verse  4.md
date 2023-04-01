@@ -2676,6 +2676,12 @@ mariyu mī strīlu r̥tusrāvapu vayas'su gaḍici pōyinavāraitē lēka mīku 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ స్త్రీలలో ముట్టుపై ఆశ వదులుకున్న వారి విషయంలో మీకేదైనా సందేహముంటే, వారి గడువు మూడు నెలలు. రజస్వల (రుతుస్రావం మొదలు) కాని వారి గడువు కూడా అంతే. గర్భవతుల గడువు వారి ప్రసవం అయ్యేవరకు ఉంటుంది. ఎవడు అల్లాహ్ కు భయపడతాడో అతనికి అల్లాహ్ అతని వ్యవహారంలో అన్ని విధాలా సౌలభ్యం కల్పిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ niścayaṅgā, āyana tappa maroka ārādhyanīyuḍu lēḍani, allāh, dēvad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ తప్ప మరో ఆరాధ్యదైవం లేడని స్వయంగా అల్లాహ్‌, ఆయన దూతలు, జ్ఞానసంపన్నులూ సాక్ష్యమిస్తున్నారు. ఆయన సమత్వం, సమతూకంతో ఈ విశ్వాన్ని నిలిపి ఉంచాడు. సర్వాధిక్యుడు, వివేచనాశీలి అయిన ఆయన తప్ప మరొకరెవరూ ఆరాధనకు అర్హులు కారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Varu tamalo tamu (ennadu) alocincaleda? Akasalanu, bhumini mariyu vati madh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారు తమ (పుట్టుక) గురించి (లోతుగా) ఆలోచించటం లేదా? అల్లాహ్‌ భూమ్యాకాశాలనూ, వాటి మధ్యనున్న సమస్తాన్నీ అత్యుత్తమ రీతిలో, నిర్ణీత కాలం కొరకు మాత్రమే సృష్టించాడు. అయితే చాలా మంది తమ ప్రభువును కలుసుకోవలసి ఉందనే విషయాన్ని తిరస్కరిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu allāh ākāśaṁ nuṇḍi nīṭini kuripin̄ci, dāni dvārā nirjīv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఆకాశం నుంచి నీళ్ళను కురిపించి, దాని ద్వారా – భూమి చచ్చిపోయిన తరువాత దానిని తిరిగి బ్రతికిస్తున్నాడు. వినేవారి కోసం నిశ్చయంగా ఇందులో నిదర్శనం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

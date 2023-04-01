@@ -2676,6 +2676,12 @@ itanini (ī bāluṇṇi) oka peṭṭelō peṭṭi dānini (ā peṭṭenu) na
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘నువ్వు అతన్ని (మూసాను) పెట్టెలో పెట్టి నదిలో వదిలిపెట్టు. ఆ తరువాత నది ఆ పెట్టెను ఒడ్డుకు చేరుస్తుంది. నాకూ, ఇతనికీ శత్రువు అయినవాడు దాన్ని తీసుకుంటాడు.’ “అప్పుడు నేను నా తరఫున ఓ ప్రత్యేకమైన ప్రేమానురాగాన్ని నీపై వేశాను. నువ్వు నా కనుసన్నలలో పోషించబడేందుకే ఈ ఏర్పాటు చేశాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

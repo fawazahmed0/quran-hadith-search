@@ -2676,6 +2676,12 @@ Allāh mārganlō tama dhanānni kharcu cēsēvāri upamānaṁ: Ā vittanaṁ v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మార్గంలో తమ ధనాన్ని ఖర్చుచేసేవారి ఉపమానం ఇలా ఉంటుంది: ఒక విత్తనాన్ని నాటగా, అది మొలకెత్తి అందులో నుంచి ఏడు వెన్నులు పుట్టుకువస్తాయి. ప్రతి వెన్నులోనూ నూరేసి గింజలు ఉంటాయి. ఇదే విధంగా అల్లాహ్‌ తాను కోరినవారికి సమృద్ధి వొసగుతాడు. అల్లాహ్‌ పుష్కలంగా ప్రసాదించేవాడు, ప్రతిదీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

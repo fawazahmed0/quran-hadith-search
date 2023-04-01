@@ -2676,6 +2676,12 @@ mūsā ilā prārthin̄cāḍu: "Ō mā prabhū! Niścayaṅgā, nīvu phir'aun 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా ఇలా విన్నవించుకున్నాడు : “మా ప్రభూ! నీవు ఫిరౌనుకు, అతని సర్దారులకు ప్రపంచ జీవితంలో అందమైన సాధన సంపత్తులను, ఐశ్వర్యాన్నీ ఇచ్చావు. వారు ప్రజలను నీమార్గం నుంచి తప్పించటానికే ఇదంతా ఇచ్చావా ప్రభూ!? మాప్రభూ! వారి సిరిసంపదలను సర్వనాశనం చెయ్యి! బాధాకరమైన శిక్షను చూసేవరకూ వారు విశ్వసించకుండా ఉండేలా వారిగుండెలను కఠినమైనవి గానేఉంచు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

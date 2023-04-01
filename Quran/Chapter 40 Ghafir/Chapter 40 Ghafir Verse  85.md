@@ -2676,6 +2676,12 @@ kāni mā śikṣanu cūsina tarvāta, vāri viśvāsaṁ vāriki ē mātraṁ l
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని మా శిక్షను చూసిన తరువాత, వారి ‘విశ్వాసం’ వారికే విధంగానూ లాభదాయకం కాలేకపోయింది. ఇది అల్లాహ్‌ సంప్రదాయం! ఇది (తరతరాలుగా) ఆయన దాసుల్లో నెరవేరుతూ వస్తోంది. (దాన్ననుసరించే) అక్కడ అవిశ్వాసులు ఘోరంగా నష్టపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

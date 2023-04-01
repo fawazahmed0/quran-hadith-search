@@ -2676,6 +2676,12 @@ mariyu vāriddaru (okari venuka okaru) talupu vaipuku parugettāru. Āme atani a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిద్దరూ తలుపు వైపు పరుగెత్తారు. ఆ స్త్రీ యూసుఫ్‌ చొక్కాను వెనుకవైపు నుంచి లాగిచింపేసింది. తలుపు వద్దనే ఆమె భర్తవారిద్దరికీ ఎదురుపడ్డాడు. “నీ ఇల్లాలిపట్ల దురుద్దేశం కలవాడికి కారాగారశిక్ష విధించటమూ లేక మరేదైనా కఠినశిక్ష విధించటమూ తప్ప వేరేశిక్ష ఏముంటుంది?” అని ఆమె (భర్తను) ప్రశ్నించింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

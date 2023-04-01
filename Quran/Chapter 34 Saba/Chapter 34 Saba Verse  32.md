@@ -2676,6 +2676,12 @@ durahaṅkārulaina nāyakulu balahīnulaina vāritō ilā aṇṭāru: "Ēmī? 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ, మీ వద్దకు మార్గదర్శకత్వం వచ్చిన తరువాత దాన్ని అవలంబించకుండా మేము మిమ్మల్ని ఆపామా? (లేదు కదా!) పైగా మీరంతట మీరే అపరాధానికి ఒడిగట్టారు” అని పెద్దలు బలహీన జనులకు సమాధానమిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

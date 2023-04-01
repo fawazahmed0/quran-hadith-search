@@ -2676,6 +2676,12 @@ ivi allāh (vidhin̄cina) haddulu. Evaraitē allāh ku mariyu āyana pravaktaku 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇవి అల్లాహ్‌ నిర్ధారించిన హద్దులు. అల్లాహ్‌ మరియు ఆయన ప్రవక్త (సఅసం)కు విధేయత చూపేవారికి అల్లాహ్‌, క్రింద కాలువలు ప్రవహించే (స్వర్గ) వనాలలో ప్రవేశం కల్పిస్తాడు. వాటిలో వారు కలకాలం ఉంటారు. గొప్ప విజయం అంటే ఇదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

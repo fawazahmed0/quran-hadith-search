@@ -2676,6 +2676,12 @@ Vāstavaṅgā! Mēmu suspaṣṭamaina sūcanalanu (āyāt lanu) avatarimpajē�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిస్సందేహంగా మేము స్పష్టంగా విడమరచి చెప్పే సూచనలను అవతరింపజేశాము. అల్లాహ్‌ తాను కోరిన వారికి రుజు మార్గం చూపుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ intaku pūrvaṁ, satyānni tiraskarin̄ci, tama karmala duṣphalitānni cavi c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, ఇంతకుమునుపు తిరస్కార వైఖరికి పాల్పడిన వారి సమాచారం మీకు చేరలేదా? వారు తమ ఆగడాల దుష్పరిణామాన్ని చవిచూశారు. వారి కొరకు బాధాకరమైన శిక్ష ఉన్నది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

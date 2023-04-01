@@ -2676,6 +2676,12 @@ akave, (napiye!) Kuruviraka! Pukal anaittum allahvukkuriyanave. Tan atiyarkalil 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఇలా చెప్పు : “ప్రశంసలన్నీ అల్లాహ్‌కే శోభిస్తాయి. ఆయన ఎన్నుకున్న దాసులపై శాంతి కురియుగాక! ఏమిటీ, అల్లాహ్‌ మేలా? లేక వారు భాగస్వాములుగా కల్పించుకున్న బూటకపు దేముళ్ళు మేలా?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ lēdā nī koraku svarṇagr̥haṁ ērpaḍananta varaku; lēdā nīvu ākāśa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“లేదా నీ కోసం స్వర్ణ గృహం ఏదన్నా సిద్ధం కావాలి లేదా నువ్వు ఆకాశానికి ఎక్కిపోవాలి. (ఒకవేళ నువ్వు అలా ఎక్కి పోయినా) మేము స్వయంగా చదవగలిగే గ్రంథమేదైనా మాపై అవతరింపజేయనంతవరకూ నీ అధిరోహణను కూడా మేము నమ్మేది లేదు. “(ఓ ప్రవక్తా!) వారికి చెప్పు : “నా ప్రభువు పరమ పవిత్రుడు. నేను ప్రవక్తగా పంపబడిన ఒక మానవ మాత్రుణ్ణి మాత్రమే.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

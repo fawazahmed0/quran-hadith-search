@@ -2676,6 +2676,12 @@ kāni, evaḍainā (ē ṣaitānainā), dēninainā eguravēsukoni pōtunnaṭla
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ వారిలో ఎవడయినా ఏదైనా ఒకటీ అరా మాటను ఎగరేసుకుపోయినట్లయితే తక్షణమే మండే ఒక అగ్నిజ్వాల అతన్ని వెంబడిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

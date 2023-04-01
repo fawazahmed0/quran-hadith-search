@@ -2676,6 +2676,12 @@ mariyu bahudaivārādhakulalō (muṣrikīn lalō) evaḍainā nī śaraṇu kō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ ముష్రిక్కులలోని ఏ వ్యక్తి అయినా నీ శరణు కోరితే, అతను దైవవాణి వినేంతవరకు అతనికి నువ్వు ఆశ్రయమివ్వు. ఆ తరువాత అతన్ని అతని సురక్షిత స్థానానికి చేర్చు. వారు తెలియని వారవటంచేత వారి పట్ల ఈ విధంగా వ్యవహరించాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

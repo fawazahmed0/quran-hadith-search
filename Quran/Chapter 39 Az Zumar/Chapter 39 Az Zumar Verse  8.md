@@ -2676,6 +2676,12 @@ Mānavuniki ēdainā kaṣṭaṁ kaliginappuḍu ataḍu paścāttāpanlō tana
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మనిషికి ఎప్పుడైనా, ఏదైనా ఆపద వచ్చిపడితే తన ప్రభువు వైపుకు మరలి ఆయన్ని(అదేపనిగా) మొరపెట్టుకుంటాడు. మరి అల్లాహ్‌ అతనికి తన వద్ద నుంచి అనుగ్రహాన్ని ప్రసాదిస్తే అంతకు మునుపు అతను దేనికోసం (కడుదీనంగా) మొరపెట్టుకున్నాడో దాన్ని మరచిపోతాడు. అల్లాహ్‌ మార్గం నుంచి (ఇతరుల్ని కూడా) పెడత్రోవ పట్టించడానికి అల్లాహ్‌కు భాగస్వాముల్ని కల్పించటం మొదలెడతాడు. (ఓ ప్రవక్తా!) ఇలా చెప్పు : “నీ తిరస్కార వైఖరి లాభాలను కొన్నాళ్ళపాటు అనుభవించు. తుదకు నువ్వు నరక వాసులలో చేరేవాడివే.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

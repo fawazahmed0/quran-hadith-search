@@ -2676,6 +2676,12 @@ mariyu vāriddari (bhāryābhartala) madhya sambandhālu tegi pōtāyanē bhaya�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ ఆలుమగల మధ్య విముఖత విరోధంగా మారే భయం మీకుంటే భర్త తరఫు నుంచి ఒక మధ్యవర్తినీ, భార్య వైపు నుంచి ఒక మధ్యవర్తినీ నియమించుకోండి. వారిద్దరూ గనక సర్దుబాటుకు ప్రయత్నం చేయదలిస్తే అల్లాహ్‌ ఆ దంపతుల మధ్య రాజీ కుదుర్చుతాడు. నిస్సందేహంగా అల్లాహ్‌ అన్నీ తెలిసినవాడు, సర్వం ఎరిగినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu evarikaitē jñānaṁ ivvabaḍindō! Vāru, idi nī prabhuvu taraphu nu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌-స!) నీ ప్రభువు తరఫున నీపై అవతరించినది (ఆసాంతం) సత్యమని, అది సర్వాధిపతి, స్తోత్రనీయుడైన అల్లాహ్‌ మార్గం వైపుకు దర్శకత్వం వహిస్తుందన్న సంగతిని జ్ఞానం వొసగబడిన వారు చూస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

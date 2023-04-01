@@ -2676,6 +2676,12 @@ mariyu āyanē mim'malni okē vyakti (prāṇi) nuṇḍi puṭṭin̄ci, taruv�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా, మిమ్మల్ని ఒకే ప్రాణి నుండి పుట్టించినవాడు ఆయనే. మరి ఒక స్థలం ఎక్కువ కాలం ఉండేదీ, ఇంకొక స్థలం తక్కువ కాలం ఉండేదిగా నిర్థారించబడింది. అర్థం చేసుకోగలిగే వారి కోసం మేము మా సూచనలను స్పష్టంగా వివరించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

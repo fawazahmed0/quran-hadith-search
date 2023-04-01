@@ -2676,6 +2676,12 @@ vāri dr̥ṣṭāntaṁ mānavuṇṇi prērēpistū, ilā anē ā ṣaitān va
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీళ్ళ సంగతి షైతాను మాదిరిగా ఉన్నది. వాడు మానవునితో, “తిరస్కార వైఖరిని అవలంబించు” అని అంటాడు. తీరా అతను తిరస్కార వైఖరికి పాల్పడినప్పుడు “నీతో నాకెలాంటి సంబంధం లేదు, పో. నేను సకల లోకాల ప్రభువైన అల్లాహ్ కు భయపడుతున్నాను” అని అంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

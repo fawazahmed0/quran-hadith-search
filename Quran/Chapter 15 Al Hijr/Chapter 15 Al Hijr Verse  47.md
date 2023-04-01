@@ -2676,6 +2676,12 @@ vāri hr̥dayālalō migili vunna kāpaṭyānni (mālin'yānni) mēmu tolagist�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి హృదయాలలో ఏ కాస్త కోపం, ద్వేషం మిగిలివున్నా దాన్ని మేము తొలగిస్తాము. వారంతా అన్నదమ్ములై ఎదురెదురుగా ఆసనాలపై కూర్చుని ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

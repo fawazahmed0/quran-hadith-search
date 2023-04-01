@@ -2676,6 +2676,12 @@ kāvuna (ō muham'mad!) Telusukō! Niścayaṅgā, allāh tappa maroka ārādhya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ప్రవక్తా!) అల్లాహ్‌ తప్ప మరో ఆరాధ్యుడు లేడని నువ్వు బాగా తెలుసుకో. నీ పొరపాట్లకుగాను క్షమాపణ వేడుకుంటూ ఉండు. విశ్వాసులైన పురుషుల, విశ్వాసులైన స్త్రీలందరి (మన్నింపు) కోసం కూడా వేడుకుంటూ ఉండు. మీ రాకపోకలను గురించి, మీ విశ్రాంతి స్థలాల గురించి అల్లాహ్‌కు బాగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

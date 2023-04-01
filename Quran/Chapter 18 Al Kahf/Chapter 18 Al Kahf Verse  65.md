@@ -2676,6 +2676,12 @@ appuḍu vāru mā dāsulalō oka dāsuṇṇi (accaṭa) cūśāru. Mēmu atani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అక్కడ వారు మా దాసులలోని ఒక దాసుణ్ణి కనుగొన్నారు. మేము అతనికి మా వద్ద నుంచి ఓ ప్రత్యేక కారుణ్యాన్ని ప్రసాదించి ఉన్నాము. ఇంకా మా వద్ద నుంచి అతనికి ఓ ప్రత్యేక విద్యను నేర్పి ఉన్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

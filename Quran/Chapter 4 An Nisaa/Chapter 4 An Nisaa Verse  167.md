@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē satya tiraskārulai, itarulanu allāh mārgaṁ vaipuk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే అవిశ్వాసానికి ఒడిగట్టి, అల్లాహ్‌ మార్గంలోకి రాకుండా ఇతరులను కూడా అడ్డుకున్నారో వారు నిస్సందేహంగా అపమార్గంలో చాలా దూరం వెళ్ళిపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

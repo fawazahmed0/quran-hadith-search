@@ -2676,6 +2676,12 @@ vāriki ihalōka jīvitanlō śikṣa vundi. Mariyu vāri palōka jīvita śik�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అలాంటి వారికి ప్రాపంచిక జీవితంలోనూ శిక్ష ఉంది. ఇక పరలోక శిక్ష అయితే ఇంతకంటే ఎంతో కఠినమైనది. అల్లాహ్‌ ఆగ్రహం నుంచి వాళ్ళను కాపాడే వాడెవడూ ఉండడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

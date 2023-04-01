@@ -2676,6 +2676,12 @@ mariyu viśvāsulandarū (pōrāṭāniki) bayalu dēraṭaṁ sarikādu. Kāvun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులందరూ (పోరాటానికి) బయలుదేరవలసిన అవసరంలేదు. కాబట్టి వారి ప్రతి పెద్ద సమూహంలో నుంచి ఒక చిన్న సమూహం బయలుదేరి (తేచాలు. మిగిలినవారు) ధర్మావగాహనను పెంపొందించుకుని, వారు తమ వద్దకు తిరిగి వచ్చినప్పుడు, వారు భయభక్తులను అలవరచుకునేందుకుగాను వారికి భయబోధ చేయాల్సింది. కాని ఇలా ఎందుకు జరగలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

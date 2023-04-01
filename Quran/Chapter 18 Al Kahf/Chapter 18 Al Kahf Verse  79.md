@@ -2676,6 +2676,12 @@ Ika ā nāva viṣayaṁ: Adi samudranlō pani cēsukunē kondaru pēdavāridi. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఆ పడవ సంగతి – అది సముద్రంలో పనిచేసుకునే కొందరు నిరుపేదలది. నేను కావాలనే ఆ పడవలో కొంత లోపం ఏర్పర చాలనుకున్నాను. ఎందుకంటే, ఇంకాస్త ముందుకుపోతే కనిపించిన ప్రతి (మంచి) పడవనూ బలవంతంగా వశపరచుకునే రాజు ఒకడున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

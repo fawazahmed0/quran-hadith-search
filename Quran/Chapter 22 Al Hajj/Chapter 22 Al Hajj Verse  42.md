@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Vāru (satyatiraskārulu) okavēḷa ninnu asatyavāduḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఒకవేళ వీళ్లు నిన్ను ధిక్కరిస్తే (ఆశ్చర్యపోనవసరం లేదు), వీరికి పూర్వం నూహ్‌, ఆద్‌, సమూద్‌ జాతుల వారు ధిక్కరించి ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ In kitoʙro ʙa haq ʙar tu nozil kardem, pas, Allohro ʙo xulusi e'tiqod parast
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌ – సఅసం!) మేమీ గ్రంథాన్ని సత్యబద్ధంగా నీ వైపుకు పంపాము. కాబట్టి నువ్వు అల్లాహ్‌ను మాత్రమే ఆరాధించు – ధర్మాన్ని ఆయనకు మాత్రమే ప్రత్యేకిస్తూ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

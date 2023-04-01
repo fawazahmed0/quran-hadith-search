@@ -2676,6 +2676,12 @@ mariyu tanaku sanmārgaṁ spaṣṭaṅgā telisina pidapa kūḍā, evaḍu pr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని ఎవరయినా సన్మార్గం ప్రస్ఫుటమైన మీదట కూడా ప్రవక్త (సఅసం)కు వ్యతిరేకంగా పోతే, విశ్వాసులందరి మార్గాన్ని వీడి, ఇతర మార్గాన్ని అనుసరిస్తే, మేమతన్ని అతను మరలదలచుకున్న వైపుకే మరల్చుతాము. కడకు అతన్ని నరకంలో పడవేస్తాము. అది అత్యంత చెడ్డ గమ్యస్థానం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

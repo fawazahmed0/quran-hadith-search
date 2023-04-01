@@ -2676,6 +2676,12 @@ vāstavāniki, mēmu mā sandēśaharulanu spaṣṭamaina sūcalanicci pampāmu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము మా ప్రవక్తలకు స్పష్టమైన నిదర్శనాలను ఇచ్చి పంపాము. వారితో పాటు గ్రంథాన్ని, ధర్మకాటాను కూడా అవతరింపజేశాము – ప్రజలు న్యాయంపై నిలిచి ఉండటానికి! ఇంకా మేము ఇనుమును కూడా అవతరింపజేశాము. అందులో చాలా బలం ఉంది, జనుల కొరకు (ఇతరత్రా) ప్రయోజనాలు కూడా ఉన్నాయి. ఇంకా – చూడకుండానే తనకు, తన ప్రవక్తలకు తోడ్పడే వారెవరో అల్లాహ్ తెలుసుకోదలిచాడు. నిస్సందేహంగా అల్లాహ్ మహాబలుడు, తిరుగులేనివాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

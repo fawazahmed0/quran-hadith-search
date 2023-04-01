@@ -2676,6 +2676,12 @@ Nī prabhuvu daivadūtalaku iccina divyajñānānni (jñāpakaṁ cēsukōṇḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఆ సందర్భాన్ని కూడా ఓ సారి జ్ఞాపకం చేసుకోండి) నీ ప్రభువు దూతలను ఈ విధంగా ఆదేశించాడు : “నేను మీ వెంటే ఉన్నాను. కాబట్టి మీరు విశ్వాసులకు ధైర్యాన్ని కలిగించండి. నేను ఇప్పుడే అవిశ్వాసుల గుండెల్లో దడ పుట్టిస్తాను. మీరు వారి మెడలపై కొట్టండి. వారి వ్రేళ్ల కణుపులపై కొట్టండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

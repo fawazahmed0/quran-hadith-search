@@ -2676,6 +2676,12 @@ taruvāta ādam, tana prabhuvu nuṇḍi konni māṭalu grahin̄ci, (paścātt�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు ఆదం (అలైహిస్సలాం) తన ప్రభువు నుంచి కొన్ని మాటలు నేర్చుకుని (పశ్చాత్తాపం చెందారు.) అల్లాహ్‌ ఆయన పశ్చాత్తాపాన్ని ఆమోదించాడు. నిశ్చయంగా ఆయన పశ్చాత్తాపాన్ని స్వీకరించేవాడు, కరుణించేవాడు కూడాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

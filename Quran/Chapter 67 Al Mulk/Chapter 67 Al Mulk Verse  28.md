@@ -2676,6 +2676,12 @@ kūṟuvīrāka: Allāh, eṉṉaiyum eṉṉuṭaṉ iruppavarkaḷaiyum (nī�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిని అడుగు : “చూడండి! ఒకవేళ నన్నూ, నా వెంటనున్న వారిని అల్లాహ్ అంతమొందించినా లేక మాపై దయదలిచినా (ఏది ఏమైనా) అవిశ్వాసులను వ్యధాభరితమైన యాతన నుండి కాపాడేవాడెవడో చెప్పండి?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

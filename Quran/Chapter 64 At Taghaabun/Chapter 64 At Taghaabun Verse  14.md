@@ -2676,6 +2676,12 @@ o visvasulara! Niscayanga, mi sahavasulu (ajvaj) mariyu mi santananlo mi satruvu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీ భార్యలలో, మీ బిడ్డలలో కొందరు మీకు శత్రువులు. కాబట్టి వారి పట్ల అప్రమత్తంగా ఉండండి. ఒకవేళ మీరు గనక ఉపేక్షించి, క్షమించి, సడలింపుల వైఖరిని అవలంబించినట్లయితే అల్లాహ్ క్షమించేవాడు, దయదలిచేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

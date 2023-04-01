@@ -2676,6 +2676,12 @@ mariyu nēnu nā taṇḍri tātalaina ibrāhīm, is hākh mariyu ya'akhūb la y
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను నా తాతతండ్రులైన ఇబ్రాహీం, ఇస్‌హాఖ్‌, యాఖూబ్‌ల ధర్మానికి కట్టుబడి ఉన్నాను. అల్లాహ్‌కు భాగస్వామిగా వేరితరులను కల్పించటం మాకు ఎంత మాత్రం తగదు. మాపైన, సమస్త జనులపైన గల దేవుని అనుగ్రహం ఇది. కాని ప్రజల్లో చాలామంది కృతజ్ఞతా పూర్వకంగా మెలగరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

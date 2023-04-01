@@ -2676,6 +2676,12 @@ kāvuna evari hr̥dayālalō rōgaṁ (kāpaṭyaṁ) undō vāru, vāri sāṅg
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి హృదయాలలో (కాపట్య) రోగం ఉన్నవారు పదేపదే వారి వైపుకు పరుగెత్తటం నీవు చూస్తావు. అంతేకాదు, “మాపై ఏ ఆపద వచ్చిపడుతుందోనని మేము భయపడుతున్నాము” అని వారంటారు. అయితే త్వరలోనే అల్లాహ్‌ విజయాన్ని చేకూర్చవచ్చు లేక తనవద్ద నుంచి దేన్నయినా అనుగ్రహించవచ్చు. అప్పుడు వారు తమ ఆంతర్యాల్లో దాచిపెట్టిన విషయాలపై పశ్చాత్తాపపడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

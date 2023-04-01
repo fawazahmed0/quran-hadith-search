@@ -2676,6 +2676,12 @@ mariyu vāru ēḍustū, tama mukhāla mīda paḍi pōtāru. Mariyu vāri vinam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు విలపిస్తూ, ముఖాల ఆధారంగా (సాష్టాంగ) పడిపోతారు. ఈ ఖుర్‌ఆన్‌ వారి అణకువను (వినమ్రతను) మరింత పెంచుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

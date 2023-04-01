@@ -2676,6 +2676,12 @@ mūḍhatvaṁ mariyu ajñānaṁ valla tama santānānni hatya cēsē vārunū 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూర్ఖత్వం కొద్దీ, ఏ ఆధారమూ లేకుండానే తమ సంతానాన్ని హత్యచేసిన వారూ, అల్లాహ్‌ ఉపాధిగా ప్రసాదించిన వస్తువులను అల్లాహ్‌కు అబద్ధాలను అంటగడుతూ నిషేధించుకున్నవారూ ముమ్మాటికీ నష్టానికి గురయ్యారు. నిశ్చయంగా వారు మార్గ విహీనతకు లోనయ్యారు. వారు సన్మార్గాన లేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

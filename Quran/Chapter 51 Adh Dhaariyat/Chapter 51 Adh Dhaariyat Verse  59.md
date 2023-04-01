@@ -2676,6 +2676,12 @@ kāvuna niścayaṅgā, durmārgāniki pālpaḍinavāri pāpālu vāri (pūrva)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి ఈ దుర్మార్గుల్లాంటివారికి ఏ వంతు లభించిందో అలాంటి వంతే వీరికి కూడా లభిస్తుంది. కాబట్టి వారు దాని కోసం నన్ను తొందరపెట్టరాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu allāh, mim'malni mī tallula garbhāla nuṇḍi, bayaṭiki tīśāḍu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మిమ్మల్ని మీ మాతృ గర్భాల నుండి – మీకేమీ తెలీని స్థితిలో బయటికి తీశాడు. మీ కొరకు చెవులను, కళ్లను, హృదయాలను తయారుచేసినది ఆయనే – మీరు కృతజ్ఞులుగా వ్యవహరిస్తారని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

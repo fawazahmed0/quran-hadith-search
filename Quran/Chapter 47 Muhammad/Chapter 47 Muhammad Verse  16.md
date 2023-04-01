@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Vārilō (kapaṭa viśvāsulalō) nī māṭalanu cevi y
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలో కొందరు (ఉన్నారు. వారు) నీ వైపు చెవియొగ్గి వింటారు. కాని వారు నీ దగ్గరి నుంచి నిష్క్రమించాక, జ్ఞానసంపన్నులతో, “ఇందాక ఈయనగారు చెప్పినదేమిటి?!” అని అడుగుతారు. అల్లాహ్ సీలు వేసినది ఇలాంటి వారి హృదయాలకే. వారు (ఎంతసేపటికీ) తమ మనోవాంఛలను అనుసరిస్తూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

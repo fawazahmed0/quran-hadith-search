@@ -2676,6 +2676,12 @@ o visvasulara! Miru satyatiraskarula madiriga pravartincakandi; varu tama sodaru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వసించిన వారలారా! మీరు ఆ అవిశ్వాసుల్లాగా ప్రవర్తించకండి. వారు, తమ సోదరులు ప్రయాణంలోనో, యుద్ధంలోనో ఉన్నప్పుడు, ”ఒకవేళ వారు మా వద్దనే ఉండి ఉంటే చనిపోయేవారూ కాదు, చంపబడేవారూ కాదు” అని అంటారు. ఈ విధమైన తమ ఆలోచనలను అల్లాహ్‌ తమ హృదయశోకానికి కారణాలుగా చేయాలనే వారిలాంటి మాటలు మాట్లాడుతుంటారు. వాస్తవానికి ప్రాణభిక్ష పెట్టేవాడు, ప్రాణం తీసేవాడు అల్లాహ్‌ మాత్రమే. మీరు చేసే పనులన్నిటినీ అల్లాహ్‌ కనిపెడుతూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

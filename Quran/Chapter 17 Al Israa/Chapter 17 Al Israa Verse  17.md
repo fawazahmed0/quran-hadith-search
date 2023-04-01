@@ -2676,6 +2676,12 @@ mariyu mēmu nūh tarvāta ennō tarāla vārini ī vidhaṅgā nāśanaṁ cē�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము నూహు తరువాత కూడా ఎన్నో జాతులను తుద ముట్టించాము. తన దాసుల పాపాలను తెలుసుకోవటానికి, చూడటానికి నీ ప్రభువు (ఒక్కడే) చాలు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

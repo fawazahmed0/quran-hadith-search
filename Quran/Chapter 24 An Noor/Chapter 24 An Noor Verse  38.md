@@ -2676,6 +2676,12 @@ vāru ilā cēyaṭaṁ, allāh vāriki vāri man̄cipanula koraku pratiphalamiv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ సత్కార్యాలకు అల్లాహ్‌ ఉత్తమ ప్రతిఫలం ఇవ్వటానికి, అల్లాహ్‌ తన కృపతో మరింత అధికంగా వొసగటానికి (వారు ఈ విధంగా మసలుకుంటారు). అల్లాహ్‌ తాను తలచిన వారికి లెక్క లేనంత ఉపాధిని ప్రసాదిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

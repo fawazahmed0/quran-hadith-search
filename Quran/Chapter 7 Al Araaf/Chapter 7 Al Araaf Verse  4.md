@@ -2676,6 +2676,12 @@ mariyu mēmu ennō nagarālanu (vāṭi nērālaku gānu) nāśanaṁ cēśāmu.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎన్నో జనవాసాలను మేము రూపుమాపాము. వాటిపై మా శిక్ష రాత్రి వేళనో లేక మధ్యాహ్నం వారు విశ్రమిస్తున్న సమయంలోనో వచ్చి పడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu āyana (allāh) puṭṭin̄cina paṇṭala nuṇḍi mariyu paśuvula n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ సృష్టించిన పంట పొలాలలో నుంచి, పశువులలో నుంచి వీళ్లు కొంత భాగాన్ని అల్లాహ్‌ కోసం నిర్థారించారు. పైపెచ్చు “ఇది అల్లాహ్‌ భాగం, ఇది మేము నిలబెట్టిన సహవర్తుల భాగం” అని స్వయంగా తామే తీర్మానించుకొని చెబుతారు. సహవర్తుల కోసం నిర్థారించిన భాగం అల్లాహ్‌కు ఎలాగూ చేరదు. కాని అల్లాహ్‌ కోసం నిర్థారించినది మాత్రం వారు నిలబెట్టిన సహవర్తులకు ఇట్టే చేరిపోతుంది. వారి ఈ తీర్పు ఎంత ఘోరమైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

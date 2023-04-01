@@ -2676,6 +2676,12 @@ okavēḷa mīru vārini: "Ākāśālanū mariyu bhūminī sr̥ṣṭin̄cindi e
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలను, భూమిని సృష్టించిన వారెవరు? అని నువ్వు వారిని అడిగితే “అల్లాహ్‌” అని వారు తప్పకుండా చెబుతారు. “సమస్త స్తోత్రాలు అల్లాహ్‌కే శోభిస్తాయి” అని నువ్వు వారికి చెప్పు, కాని వారిలో చాలామంది (సత్యాన్ని) తెలుసుకోరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

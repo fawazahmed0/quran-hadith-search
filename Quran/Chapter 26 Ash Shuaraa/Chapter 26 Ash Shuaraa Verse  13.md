@@ -2676,6 +2676,12 @@ nā hr̥dayaṁ kun̄cin̄cuku pōtōndi mariyu nā nāluka taḍabaḍutōndi, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా గుండె కుంచించుకుపోతోంది. నా నోరు సరిగ్గా (స్వేచ్ఛగా) పెగలటం లేదు. అందుకే హారూను వైపుకు కూడా సందేశం (వహీ) పంపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

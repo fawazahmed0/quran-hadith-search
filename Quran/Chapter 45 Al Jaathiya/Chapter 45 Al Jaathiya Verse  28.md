@@ -2676,6 +2676,12 @@ mariyu prati samājaṁ vārini nīvu mōkarilli uṇḍaṭānni cūstāvu. Pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రతి మానవ సముదాయం మోకాళ్ళపై పడి ఉండటాన్ని, ప్రతి వర్గం తన కర్మల పత్రం వైపునకు పిలువబడటాన్ని నువ్వు చూస్తావు. “ఈ రోజు మీరు చేసుకున్న కర్మల ప్రతిఫలం మీకు లభిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

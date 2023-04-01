@@ -2676,6 +2676,12 @@ vārannāru: "Mēmu ninnū mariyu nī anucarulanu apaśakunapu sūcanalugā pari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు, “నీ మూలంగా, నీ వెంటవున్న వారి మూలంగానే మాకు ఈ దరిద్రం పట్టుకుందని మేము భావిస్తున్నాము” అన్నారు. “మీ దరిద్రం ఏదో అల్లాహ్‌ వద్దనే ఉంది. నిజానికి మీరు పరీక్షించబడుతున్నారు” అని సాలెహ్‌ చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

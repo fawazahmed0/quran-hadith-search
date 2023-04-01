@@ -2676,6 +2676,12 @@ mariyu vāritō ilā anabaḍutundi: "Ī rōju mēmu mim'malni maraci pōtāmu, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారితో ఇలా అనబడింది : “మీరు ఈనాటి మీ సమావేశాన్ని ఎలా మరచిపోయారో అలాగే మేము కూడా మిమ్మల్ని మరచిపోతాము. మీ నివాసం ఇక నరకమే. ఇక్కడ మిమ్మల్ని ఆదుకునే వాడెవడూ లేడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mēmu prati pravaktanu atani jātivāri bhāṣatōnē pampāmu; atanu v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఏ ప్రవక్తను పంపినా, అతడు విషయాన్ని స్పష్టంగా విడమరచి చెప్పడానికి వీలుగా తన జాతి వారి భాషలో మాట్లాడే వానిగా చేసి పంపాము. ఆపైన అల్లాహ్‌ తాను కోరినవారిని అపమార్గం పట్టిస్తాడు, తాను కోరిన వారికి సన్మార్గం చూపిస్తాడు. ఆయన సర్వాధిక్యుడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

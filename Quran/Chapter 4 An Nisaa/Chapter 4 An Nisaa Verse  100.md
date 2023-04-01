@@ -2676,6 +2676,12 @@ mariyu allāh mārganlō valasa pōyēvāḍu bhūmilō kāvalasinanta sthalānn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మార్గంలో తన స్వస్థలాన్ని వదలి వలసపోయిన వాడు భూమండలంలో ఎన్నో ఆశ్రయాలను, విస్తృతిని పొందుతాడు. అల్లాహ్‌ మరియు ఆయన ప్రవక్త (సఅసం) వైపుకు వలస వెళ్ళటానికి తన గృహం నుంచి బయలుదేరి దారిలో మృత్యువాతన పడిన వానికి పుణ్యఫలం ప్రసాదించే బాధ్యత అల్లాహ్‌ది. అల్లాహ్‌ అపారంగా క్షమించేవాడు, అమితంగా కరుణించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

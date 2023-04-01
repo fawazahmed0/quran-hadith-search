@@ -2676,6 +2676,12 @@ vāstavāṅgā! Mīku - allāh nu mariyu antima dinānni apēkṣin̄cēvāriki
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా వారి (జీవన విధానం)లో మీకు అత్యుత్తమమైన ఆదర్శం ఉంది – ముఖ్యంగా అల్లాహ్(తో సమావేశము)ను, అంతిమదినాన్ని ఆశించే ప్రతి ఒక్కరికీ! ఒకవేళ ఎవరైనా విముఖత చూపితే (నష్టపోయేది వారే), అల్లాహ్ మాత్రం లక్ష్యపెట్టేవాడు కాడు. ఆయన సకలస్తోత్రాలకు అర్హుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

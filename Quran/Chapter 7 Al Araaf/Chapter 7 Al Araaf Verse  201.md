@@ -2676,6 +2676,12 @@ vāstavāniki, daivabhīti galavāru tamaku ṣaitān nuṇḍi kalata galigitē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా అల్లాహ్‌ భీతిపరులు (ముత్తఖీన్‌) తమకు ఎప్పుడైనా షైతాన్‌ తరఫు నుంచి చెడు ఆలోచన తట్టినప్పుడు వారు (తమ ప్రభువు యొక్క ఔన్నత్య) స్మరణలో నిమగ్నులై పోతారు. దాంతో వెంటనే వారికి కనువిప్పు కలుగుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

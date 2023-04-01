@@ -2676,6 +2676,12 @@ kāvuna allāh sanmārgaṁ cūpadalacina vyakti hr̥dayānni islāṁ koraku te
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక అల్లాహ్‌, తాను సన్మార్గ భాగ్యం ప్రసాదించదలచిన వ్యక్తి హృదయాన్ని ఇస్లాం కొరకు విప్పుతాడు. అలాగే తాను అపమార్గాన వదిలేయదలచిన వ్యక్తి హృదయాన్ని ఆకాశానికెక్కే వానిలాగా కుంచింపజేస్తాడు. ఈ విధంగా అల్లాహ్‌ విశ్వసించని వారికి మాలిన్యాన్ని అంటగడతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

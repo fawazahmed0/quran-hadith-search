@@ -2676,6 +2676,12 @@ mariyu atanu (ibrāhīm) ī vacanānnē tana tarvāta tana santānaṁ koraku vi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఇబ్రాహీము ఈ మాటే – తన తదనంతరం – తన సంతానంలో మిగిలి ఉండేట్లుగా చేసి వెళ్ళాడు – ప్రజలు (షిర్క్‌ నుంచి) మరలిరావటానికి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

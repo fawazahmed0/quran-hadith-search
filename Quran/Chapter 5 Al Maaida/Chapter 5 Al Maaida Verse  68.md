@@ -2676,6 +2676,12 @@ Ilā anu: "Ō grantha prajalārā! Mīru taurāt nu, in̄jīl nu mariyu mī prab
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “ఓ గ్రంథవహులారా! మీరు తౌరాతునూ, ఇంజీలునూ, మీ ప్రభువు తరఫున మీ వద్దకు పంపబడిన దానినీ (మీ జీవితాలలో) నెలకొల్పనంతవరకూ మీరు ఏ ధర్మంపైనా లేనట్లే.” నీ ప్రభువు తరఫున నీపై అవతరింపజేయబడినది వారిలోని అనేకుల తలబిరుసుతనాన్ని, తిరస్కార వైఖరిని మరింత అధికం చేస్తుంది. కనుక నీవు ఈ తిరస్కారులపై దిగులు చెందకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

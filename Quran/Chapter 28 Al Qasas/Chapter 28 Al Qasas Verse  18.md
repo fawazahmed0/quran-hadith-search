@@ -2676,6 +2676,12 @@ marusaṭi rōju udayaṁ atanu (mūsā) bhayapaḍutū atani jāgrattagā (iṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(మరునాడు) తెల్లవారుతుండగా మూసా భయపడుతూనే- నలువైపులా పరికిస్తూ – నగరంలోకి వెళ్ళాడు. అంతలోనే నిన్న సహాయం కోసం తనను అభ్యర్థించిన వ్యక్తే మళ్లీ తనకు ఫిర్యాదు చేశాడు. అప్పుడు మూసా అతన్నుద్దేశించి, “నువ్వు పూర్తిగా మార్గం తప్పినవాడిలా ఉన్నావు” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

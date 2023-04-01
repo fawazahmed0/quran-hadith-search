@@ -2676,6 +2676,12 @@ Niścayaṅgā, 'saphā mariyu marvālu allāh cūpina cihnālu. Kāvuna evaḍu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిస్సందేహంగా సఫా మర్వాలు అల్లాహ్‌ చిహ్నాలలోనివి. కనుక కాబా గృహాన్ని (సందర్శించి) హజ్‌ ఉమ్రహ్‌లు చేసేవారు వాటి మధ్య ప్రదక్షిణ చేస్తే అందులో ఏ మాత్రం తప్పులేదు. స్వచ్ఛందంగా ఎవరైనా ఏదైనా సత్కార్యం చేస్తే అల్లాహ్‌ ఆదరించేవాడు, తెలుసుకునేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

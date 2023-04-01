@@ -2676,6 +2676,12 @@ O manavulara! Vastavanga mi prabhuvu taraphu nundi, satyanni tisukoni mi vaddaku
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలారా! మీ వద్దకు మీ ప్రభువు తరఫు నుంచి ప్రవక్త సత్యం తీసుకువచ్చాడు. కాబట్టి మీరు విశ్వసించండి. అది మీకే మేలు. ఒకవేళ మీరు గనక తిరస్కరిస్తే ఆకాశాలలో, భూమిలో ఉన్నదంతా అల్లాహ్‌దే (అని తెలుసుకోండి). అల్లాహ్‌ అన్నీ తెలిసినవాడు, వివేకవంతుడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

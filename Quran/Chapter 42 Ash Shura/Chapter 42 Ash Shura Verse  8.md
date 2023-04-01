@@ -2676,6 +2676,12 @@ mariyu okavēḷa allāh kōritē vārandarinī okē samājaṅgā cēsi uṇḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే గనక తలచుకుంటే వారందరినీ ఒకే సముదాయంగా చేసి ఉండేవాడు. అయితే ఆయన తాను తలచిన వారిని తన కారుణ్యంలోకి తీసుకుంటాడు. దుర్మార్గులను కాపాడే వాడు, సహాయపడేవాడెవడూ ఉండడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

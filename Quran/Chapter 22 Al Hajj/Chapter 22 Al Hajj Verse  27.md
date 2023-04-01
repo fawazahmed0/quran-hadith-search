@@ -2676,6 +2676,12 @@ mariyu prajalaku hajj yātranu gurin̄ci prakaṭin̄cu: "Vāru pādācārulagā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+హజ్‌ (యాత్ర)కై ప్రజలలో ప్రకటన గావించు. ప్రజలు నీ వద్దకు అన్ని సుదూర మార్గాల నుంచి కాలినడకన కూడా వస్తారు, బక్కచిక్కిన ఒంటెలపై కూడా స్వారీ అయి వస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu vāritō: "Mīru, mī mundunna dānikī (ihalōka śikṣakū) mariyu mī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు ముందు ఎదుర్కోబోతున్న పరిణామానికి, మీరు మీ వెనుక వదలిపోయే వాటికి (పాపకార్యాలకు) భయపడండి, – మీరు కరుణించబడతారు” అని వారికి ఎప్పుడు నచ్చచెప్పినా (వారు లక్ష్యపెట్టరు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu nī prabhuvu tēneṭīgaku ī vidhaṅgā ādēśamiccāḍu: "Nīvu ko�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు తేనెటీగకు ఈ సంకేతమిచ్చాడు: “కొండల్లో, చెట్లలో, ప్రజలు కట్టుకున్నఎత్తయిన పందిళ్ళలో నీ ఇండ్లను (తెట్టెలను) నిర్మించుకో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

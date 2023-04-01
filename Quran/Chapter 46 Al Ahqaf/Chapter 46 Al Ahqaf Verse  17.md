@@ -2676,6 +2676,12 @@ Mariyu evaḍainā tana tallidaṇḍrulatō ilā aṇṭē: "Chī poṇḍi (up
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరయితే తన తల్లిదండ్రులతో, “ఛీ, (నేను మీతో విసిగివేసారి పోయాను). నేను చచ్చాక మళ్ళి లేపబడతాననే మీరు (పద్దాకా) చెబుతూ ఉంటారా ఏమిటి?! నాకు పూర్వం కూడా ఎన్నో తరాలు గతించాయి తెలుసా?!” అని అంటాడో, అతనికి సమాధానంగా వారిద్దరూ (తల్లిదండ్రులు) అల్లాహ్ సహాయం వేడుకుంటూ, “నీ పాడుగాను! ఒరేయ్ నువ్వు విశ్వసించరా! అల్లాహ్ వాగ్దానం తప్పకుండా నిజమవుతుందిరా” అని అంటారు. దానికతను “ఇవన్నీ పూర్వీకుల పసలేని గాధలు” అంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mīru vārini sanmārgāniki pilicinā vāru vinalēru. Mariyu vāru nīv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఒకవేళ మీరు వారికేదయినా చెప్పటానికి పిలిచినా వారు మీ మాటను వినలేరు. వారు నిన్ను చూస్తున్నట్లుగానే నీకు కనిపిస్తుంది. కాని వాస్తవానికి వారసలు ఏమీ చూడలేరు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

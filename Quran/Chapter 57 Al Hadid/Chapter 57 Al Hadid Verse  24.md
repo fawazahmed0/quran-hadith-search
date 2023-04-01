@@ -2676,6 +2676,12 @@ evaraitē svayaṅgā lōbhatvaṁ cūputū itarulanu kūḍā lōbhatvāniki pu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారెలాంటి వారంటే తాము (స్వయంగా) పిసినారితనం చూపటమే గాక ఇతరులను (కూడా) పిసినారితనానికి పురికొల్పుతారు. ఎవడు (అల్లాహ్ మార్గం నుండి) ముఖం త్రిప్పుకుని పోయినా అల్లాహ్ అక్కరలేనివాడు, స్తోత్రనీయుడన్న సంగతిని అతను గుర్తుంచుకోవాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

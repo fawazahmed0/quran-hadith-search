@@ -2676,6 +2676,12 @@ okavēḷa mīru ataniki (pravaktaku) sahāyaṁ cēyakapōtē ēṁ pharvālēd
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు గనక అతనికి (ప్రవక్తకు) తోడ్పడకపోతే (పోనివ్వండి), అవిశ్వాసులు దేశం నుంచి అతనిని వెళ్ళగొట్టినప్పుడు- అతను ఇద్దరిలో రెండవవాడు. వారిద్దరూ గుహలో ఉన్నప్పుడు, అతను తన సహచరునితో, “బాధపడకు. నిశ్చయంగా అల్లాహ్‌ మనకు తోడుగా ఉన్నాడు” అని ఓదార్చినప్పుడు అల్లాహ్‌యే వారికి తోడ్పడ్డాడు. (ఆ ఘడియలో) అల్లాహ్‌ తన తరఫునుంచి అతనిపై ప్రశాంతతను అవతరింపజేశాడు. మీకు కానరాని సైన్యాలతో అతన్ని ఆదుకున్నాడు. ఆయన అవిశ్వాసుల మాటను అట్టడుగు స్థితికి దిగజార్చాడు. అల్లాహ్‌ వాక్కు మాత్రమే సర్వోన్నతమైనది, సదా పైన ఉండేది. అల్లాహ్‌ సర్వాధిక్యుడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Alloh ʙaroi Mūso va Horun guft: Matarsed. Alʙatta, Man ʙo şumo hastam. Meş
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు ఏ మాత్రం భయపడకండి. నేను మీతోనే ఉన్నాను. అంతా వింటూ, చూస్తూ ఉంటాను” అని సమాధానమిచ్చాడు ఆయన
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

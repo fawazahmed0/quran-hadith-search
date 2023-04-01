@@ -2676,6 +2676,12 @@ mariyu okavēḷa strī tana bharta, anādaraṇatō pravartistāḍēmōnani, l
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భర్త తనను ఈసడించుకుంటాడనో లేక తనను పట్టించుకోడనో స్త్రీకి భయమున్నప్పుడు వారిద్దరూ పరస్పరం సర్దుబాటు చేసుకుంటే అందులో వారిరువురిపై ఏమాత్రం దోషం లేదు. సర్దుబాటు అన్నింటికన్నా మేలైనది. ‘పేరాశ’ అనేది ప్రతి ప్రాణిలోనూ పొందుపరచబడి ఉంది. ఒకవేళ మీరు ఔదార్యాన్ని చూపి, భయభక్తుల వైఖరిని అవలంబించినట్లయితే మీ వ్యవహార శైలి అల్లాహ్‌కు తెలుస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

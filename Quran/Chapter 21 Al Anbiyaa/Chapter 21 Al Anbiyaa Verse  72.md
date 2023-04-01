@@ -2676,6 +2676,12 @@ mariyu ataniki (ibrāhīm) ku is hākh mariyu ya'akhūb lanu adanapu kānukagā 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మేము అతనికి (ఇబ్రాహీమునకు) ఇస్‌హాఖును ప్రసాదించాము. ఆపైన అదనంగా (మనవడిగా) యాఖూబును కూడా అనుగ్రహించాము. వారందరినీ సద్వర్తనులుగా చేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

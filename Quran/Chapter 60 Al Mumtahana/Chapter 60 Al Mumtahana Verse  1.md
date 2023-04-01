@@ -2676,6 +2676,12 @@ O visvasulara! Naku satruvulaina varini mariyu miku kuda satruvulaina varini - v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన ఓ ప్రజలారా! నా శత్రువుల్ని, మీ శత్రువుల్ని మీ స్నేహితులుగా చేసుకోకండి. మీరేమో స్నేహపూర్వకంగా వారివైపు సందేశం పంపుతున్నారు. వారేమో మీ వద్దకు వచ్చిన సత్యాన్ని త్రోసిపుచ్చారు. మీ ప్రభువైన అల్లాహ్ ను మీరు విశ్వసించినందుకు వారు ప్రవక్తను, స్వయంగా మిమ్మల్ని కూడా దేశం నుండి బహిష్కరించారు. మీరు గనక నా మార్గంలో పోరాడటానికి, నా ప్రసన్నతను చూరగొనటానికి బయలుదేరిన వారైతే (మీరు వాళ్లతో స్నేహం చేయకండి). మీరు వారి వద్దకు స్నేహ సందేశాన్ని రహస్యంగా పంపిస్తారా! మీరు దాచేదీ, బహిర్గతం చేసేదీ – అంతా నాకు తెలుసు. మీలో ఎవడు ఈ కార్యకలాపాలకు పాల్పడినా అతను తిన్నని మార్గం నుండి తప్పిపోయినట్లే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

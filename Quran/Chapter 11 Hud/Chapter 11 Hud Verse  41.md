@@ -2676,6 +2676,12 @@ mariyu (nūh) annāḍu: "Indulōki ekkaṇḍi, allāh pērutō dīni payanaṁ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు ఈ ఓడలో కూర్చోండి, అల్లాహ్‌ పేరుతోనే, దీని గమనం, దీనిఆగటం. నిశ్చయంగా నాప్రభువు అపారంగా క్షమించేవాడు, అమితంగా కరుణించేవాడు” అని (నూహు) అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

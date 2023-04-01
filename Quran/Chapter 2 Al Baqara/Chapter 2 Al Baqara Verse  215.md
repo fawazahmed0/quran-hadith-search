@@ -2676,6 +2676,12 @@ Avarkaḷ um'miṭam kēṭkiṟārkaḷ; "etai, (yārukkuc) celavu ceyyavēṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తాము ఏం ఖర్చు చెయ్యాలి? అని వారు నిన్ను ప్రశ్నిస్తున్నారు. మీరేం ఖర్చు చేసినా అది మీ తల్లిదండ్రుల కొరకూ, బంధువుల కొరకూ, అనాధల కొరకూ, నిరుపేదలు, బాటసారుల కొరకూ ఖర్చు చేయాలి. మీరు ఏ మేలు చేసినా అల్లాహ్‌కు దాని గురించి తెలుసు అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

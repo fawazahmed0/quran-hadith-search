@@ -2676,6 +2676,12 @@ mariyu allāh aviśvāsulanu vāri krōdhāvēśantōnē - vārikelāṇṭi mē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ అవిశ్వాసులను వారి కోపం (రగులుతున్న) స్థితిలోనే వెనక్కి తరిమాడు. (అక్కడ) వారు ఏ లాభాన్నీ పొందలేదు. విశ్వాసుల పక్షాన యుద్ధం చేయటానికి అల్లాహ్‌యే సరిపోయాడు. అల్లాహ్‌ మహాబలుడు, ప్రాబల్యం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

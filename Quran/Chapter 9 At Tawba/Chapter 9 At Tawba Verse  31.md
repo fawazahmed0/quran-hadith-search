@@ -2676,6 +2676,12 @@ vāru (yūdulu mariyu kraistavulu) allāh nu vadali tama yūda matācārulu (ah 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు అల్లాహ్‌ను వదలి తమ పండితుల (అహ్‌బార్‌)ను, సన్యాసుల (రుహ్‌బాన్‌)ను తమ ప్రభువులుగా చేసుకున్నారు- మర్యమ్‌ కుమారుడైన మసీహ్‌ను కూడా. నిజానికి వారికి, ఒక్కడైన అల్లాహ్‌ను మాత్రమే ఆరాధించవలసిందిగా ఆజ్ఞాపించబడింది. ఆయన తప్ప మరో ఆరాధ్యదైవం లేడు. వారు నిర్థారించుకుంటున్న భాగస్వామ్యాలకు ఆయన అతీతుడు, పవిత్రుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu okavēḷa samudranlō mīku āpada vastē āyana (allāh) tappa, mīru p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సముద్రాలలో మీకు ఆపద ఎదురైనప్పుడు – మీరు మొరపెట్టుకునే వారంతా మటుమాయమైపోతారు – ఒక్క అల్లాహ్‌ మాత్రమే మిగిలి ఉంటాడు. మరి ఆయన మిమ్మల్ని కాపాడి ఒడ్డుకు చేర్చగానే మీరు ఆయన నుండి ముఖం త్రిప్పేసుకుంటారు. మానవుడు నిజంగానే చేసిన మేలును మరిచేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

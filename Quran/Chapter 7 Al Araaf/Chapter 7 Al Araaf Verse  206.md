@@ -2676,6 +2676,12 @@ niścayaṅgā, nī prabhuvuku daggaragā unnavāru (daivadūtalu) tama prabhuvu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువుకు చేరువలో ఉన్నవారు ఆయన ఆరాధన పట్ల గర్వాతిశయంతో మెలగరు. పైగా వారు (అణకువతో) ఆయన పవిత్రతను కొనియాడుతూ, ఆయన ముందు సాష్టాంగపడుతూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

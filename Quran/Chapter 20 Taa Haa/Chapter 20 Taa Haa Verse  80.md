@@ -2676,6 +2676,12 @@ o israyil santati varalara! Vastavaniki memu, mim'malni mi satruvu nundi vimukti
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ఇస్రాయీలు వంశీయులారా! చూడండి! మేము మిమ్మల్ని మీ శత్రువు చెరనుండి విడిపించాము. తూరు పర్వతం కుడివైపు గురించి మీకు వాగ్దానం చేశాము.మీపై ‘మన్న్‌’ మరియు ‘సల్వా’ లను అవతరింపజేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

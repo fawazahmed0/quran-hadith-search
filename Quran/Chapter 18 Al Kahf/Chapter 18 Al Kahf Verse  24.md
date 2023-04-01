@@ -2676,6 +2676,12 @@ allāh kōritē tappa (inṣā allāh)!" Ani ananidē! Mariyu nī prabhuvunu sma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే “అల్లాహ్‌ తలిస్తే చేస్తాను (ఇన్‌షాఅల్లాహ్‌)” అని అనాలి. మరచిపోయినప్పుడల్లా నీ ప్రభువును స్మరించు. “నా ప్రభువు దీనికన్నా సన్మార్గానికి దగ్గరగా ఉండే విషయం వైపుకు నాకు దారి చూపిస్తాడన్న ఆశ వుంది” అని చెబుతూ ఉండు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

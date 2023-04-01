@@ -2676,6 +2676,12 @@ mariyu allāh mīku iṅkā cālā vijayadhanāla vāgdānaṁ cēśāḍu. Mīr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్ మీకు ఎన్నో విజయధనాలను గురించి వాగ్దానం చేసి ఉన్నాడు. వాటిని మీరు కైవసం చేసుకుంటారు. దీన్ని మాత్రం ఆయన మీకు తొందరగానే ప్రసాదించాడు. ప్రజల చేతులను మీనుండి కట్టిపడేశాడు – విశ్వాసులకు ఇదొక సూచనగా ఉండటానికి! ఇంకా ఆయన మిమ్మల్ని రుజుమార్గాన నడపటానికి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

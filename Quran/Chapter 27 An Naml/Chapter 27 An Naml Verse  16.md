@@ -2676,6 +2676,12 @@ mariyu sulaimān, dāvūd ku vārasuḍayyāḍu. Mariyu atanu (sulaimān) annā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సులైమాను దావూదుకు వారసుడయ్యాడు. అతను ఇలా అన్నాడు : “ఓ ప్రజలారా! మాకు పక్షుల భాష నేర్పబడింది. ఇంకా మాకు ప్రతిదీ ప్రసాదించబడింది. ముమ్మాటికీ ఇది స్పష్టమైన దైవానుగ్రహమే.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ O manavulara! Niscayanga memu mim'malni oka purusudu mariyu oka stri nundi putti
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ మానవులారా! మేము మిమ్మల్ని ఒకే పురుషుడు, ఒకే స్త్రీ ద్వారా సృష్టించాము. మరి మీ (పరస్పర) పరిచయం కోసం మిమ్మల్ని వివిధ వర్గాలుగా, తెగలుగా చేశాము. యదార్థానికి మీలో అందరికన్నా ఎక్కువగా భయభక్తులు గలవాడే అల్లాహ్ సమక్షంలో ఎక్కువగా ఆదరణీయుడు. నిశ్చయంగా అల్లాహ్ అన్నీ తెలిసినవాడు, అప్రమత్తుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vīrīkī, allāh tana kāruṇyānni ē mātraṁ prasādin̄caḍu.' Ani mīru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘అల్లాహ్‌ వీళ్లపై దయచూపడు’ అని మీరు ప్రమాణాలు చేసి చెప్పేవారు వీరేనా?” అని అడుగుతారు. అప్పుడు “స్వర్గంలో ప్రవేశించండి. ఇక మీకు భయంగానీ, దుఃఖంగానీ ఉండదు” అని వారితో అనబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu āyananu viśvasin̄cina vārini, allāh mārgaṁ nuṇḍi nirōdhin̄c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ను విశ్వసించేవారిని బెదిరించే ఉద్దేశంతో, అల్లాహ్‌ మార్గం నుంచి అడ్డుకునే ఆలోచనతో, అందులో వక్రతలను వెతుకుతూ రహదారుల్లో కూర్చోకండి. మీరు అల్ప సంఖ్యలో ఉండగా అల్లాహ్‌ మీ జనసంఖ్యను అధికం చేసిన సంగతిని కాస్త గుర్తుచేసుకోండి. కల్లోలాన్ని రేకెత్తించే వారి కథ ఎలా ముగిసిందో కూడా చూడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

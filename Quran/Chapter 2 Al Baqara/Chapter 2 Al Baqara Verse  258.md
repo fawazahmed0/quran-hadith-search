@@ -2676,6 +2676,12 @@ emi? Allah (tana anugrahanto) samrajyam iccina taruvata, ibrahim to atani prabhu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ తనకు రాజ్యాధికారం ఇచ్చాడని (గర్వం కొద్దీ) ఇబ్రాహీంతో అతని ప్రభువు (ఎవరన్న) విషయంపై గొడవపడిన వానిని నీవు చూడలేదా? “జీవన్మరణాలను ఇచ్చేవాడు నా ప్రభువు” అని ఇబ్రాహీం అన్నప్పుడు, “నేనూ బ్రతికిస్తాను, చంపుతాను” అని అతనన్నాడు. అప్పుడు ఇబ్రాహీం (అలైహిస్సలాం), “సరే! అల్లాహ్‌ సూర్యుణ్ణి తూర్పు వైపు నుంచి ఉదయింపజేస్తున్నాడు కదా! మరి నువ్వు దాన్ని కాస్త పడమటి వైపు నుంచి ఉదయింపజెయ్యి” అని కోరినప్పుడు ఆ దైవతిరస్కారి బిత్తరపోయాడు. యదార్థమేమిటంటే అల్లాహ్‌ దుర్మార్గులకు సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

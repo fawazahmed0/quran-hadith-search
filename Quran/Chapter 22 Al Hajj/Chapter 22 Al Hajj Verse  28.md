@@ -2676,6 +2676,12 @@ vāru, tama koraku ikkaḍa unna prayōjanālanu anubhavin̄caṭāniki mariyu �
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ ప్రయోజనాలు పొందటానికి రావాలి. అల్లాహ్‌ తమకు ప్రసాదించిన తమ పెంపుడు పశువుల మీద ఆ నిర్ణీత దినాలలో అల్లాహ్‌ నామాన్ని స్మరించాలి (ఉచ్చరించాలి). ఆ తరువాత వాటిని మీరూ తినండి, దుర్భర స్థితిలో ఉన్న అగత్య పరులకు కూడా తినిపించండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

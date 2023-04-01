@@ -2676,6 +2676,12 @@ agōcaruḍaina ā karuṇāmayuniki bhayapaḍēvāniki mariyu mā vaipunaku pa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“కరుణామయుణ్ణి చూడకుండానే అతనికి భయపడుతూ, (అల్లాహ్ వైపు) మరలే హృదయాన్ని తీసుకువచ్చిన వారికి ఇది ప్రత్యేకించబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

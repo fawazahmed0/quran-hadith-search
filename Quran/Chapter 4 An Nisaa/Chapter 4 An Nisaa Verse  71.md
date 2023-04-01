@@ -2676,6 +2676,12 @@ o visvasulara! Miru (anni vidhaluga yud'dhaniki sid'dhamai) tagina jagrattalu va
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులారా! మీరు మీ ఆత్మరక్షణా సామగ్రిని సమకూర్చుకోండి. ఆపైన వేర్వేరు దళాలుగా ఏర్పడి బయలుదేరండి లేదా అందరూ కలసికట్టుగా కదలండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

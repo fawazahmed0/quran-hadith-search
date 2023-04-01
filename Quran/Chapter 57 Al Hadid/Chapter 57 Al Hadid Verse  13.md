@@ -2676,6 +2676,12 @@ a roju kapata visvasulaina purusulu mariyu kapata visvasulaina strilu visvasulat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు కపటులైన పురుషులు, కపటులైన స్త్రీలు విశ్వాసులనుద్దేశించి, “కాస్త మాకోసం ఆగండి! మేము కూడా మీ కాంతి నుండి కాస్త లబ్దిపొందుతాం” అని అంటారు. “మీరు వెనక్కి మరలండి. వెలుతురును అక్కడే వెతుక్కోండి” అని వారికి సమాధానం ఇవ్వబడుతుంది. మరి వారి మధ్య ఒక అడ్డుగోడ ఏర్పరచబడుతుంది. అందులో ఒక ద్వారం కూడా ఉంటుంది. దాని లోపలి వైపు కారుణ్యం ఉంటుంది. బయటి వైపు మాత్రం యాతన ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

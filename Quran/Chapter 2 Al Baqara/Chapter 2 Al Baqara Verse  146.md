@@ -2676,6 +2676,12 @@ mēmu granthānni prasādin̄cina vāru tama kumārulanu ē vidhaṅgā gurtist�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఎవరికి గ్రంథం వొసగామో వారు తమ కన్న కొడుకులను గుర్తుపట్టినట్లే అతన్ని (అనగా ముహమ్మద్‌-సఅసం-ను) గుర్తుపడతారు. వారిలోని ఒక సమూహం సత్యాన్ని గుర్తించి కూడా దాన్ని కప్పిపుచ్చుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

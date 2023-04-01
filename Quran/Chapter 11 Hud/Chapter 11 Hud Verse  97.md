@@ -2676,6 +2676,12 @@ phir'aun mariyu atani nāyakula vaddaku! Kānī vāru phir'aun ājñalanē anusa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఫిరౌను వద్దకు, అతని సర్దారుల వద్దకు పంపాము. అయినప్పటికీ వారు ఫిరౌను ఆదేశాలనే అనుసరించారు. మరి (చూడబోతే) ఫిరౌను ఆదేశాలలో ఏ ఒక్కటీ సరియైనది కాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

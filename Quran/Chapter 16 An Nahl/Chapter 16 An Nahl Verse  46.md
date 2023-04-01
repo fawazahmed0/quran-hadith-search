@@ -2676,6 +2676,12 @@ lēdā vāru tirugāḍutunnapuḍu, akasmāttugā āyana vārini paṭṭukuṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేదా తాము విహరిస్తుండగా తమను పట్టుకుంటాడని గానీ – అలా అయితే వారు ఎట్టి పరిస్థితిలోనూ (అల్లాహ్‌ను) నిస్సహాయుణ్ణి చేయలేరు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

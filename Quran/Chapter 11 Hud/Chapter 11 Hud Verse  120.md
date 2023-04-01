@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Nī hr̥dayānni sthiraparacaṭāniki, mēmu pravaktala 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ప్రవక్తల ఈ సమాచారాలన్నింటినీ మేము నీ మనోనిబ్బరం కోసం నీకు తెలియపరుస్తున్నాము. ఈ సూరాలో కూడా నీకు సత్యం లభించింది. విశ్వాసులకు ఇది హితోపదేశం మరియు జ్ఞాపిక
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

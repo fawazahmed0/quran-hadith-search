@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā mēmu mūsāku granthānni (taurāt nu) prasādin̄cāmu m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మూసాకు గ్రంథం వొసగాము. అతని తరువాత కూడా ప్రవక్తలను పంపించాము. ఇంకా మేము మర్యమ్‌ కుమారుడైన ఈసాకు స్పష్టమైన నిదర్శనాలు ఇచ్చాము. రూహుల్‌ ఖుదుస్‌ ద్వారా అతనికి సహాయం చేశాము. అయితే ఏ ప్రవక్త అయినా మీ మనసులకు నచ్చని విషయాలు మీ వద్దకు తెచ్చినప్పుడల్లా మీరు అహంకారం ప్రదర్శించారు. వారిలో కొందరిని ధిక్కరించారు, మరి కొందరిని హతమార్చటం కూడా చేశారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

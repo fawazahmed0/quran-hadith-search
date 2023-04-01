@@ -2676,6 +2676,12 @@ vārini ilā aḍugu: "Mīku ākāśāla nuṇḍi mariyu bhūmi nuṇḍi jīva
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఆకాశాల నుంచి, భూమి నుంచీ మీకు ఉపాధిని సమకూర్చే వాడెవడు?” అని వారిని అడుగు. ‘అల్లాహ్‌యే’ అని వారికి చెప్పు. “మరయితే (వినండి) మేమో లేక మీరో నిశ్చయంగా సన్మార్గంలోనయినా ఉన్నాము లేదా స్పష్టమైన మార్గభ్రష్టతకైనా లోనై ఉన్నాము” (అని చెప్పండి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

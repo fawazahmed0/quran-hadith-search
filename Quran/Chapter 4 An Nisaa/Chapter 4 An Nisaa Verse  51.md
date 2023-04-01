@@ -2676,6 +2676,12 @@ emi? Granthajnananlo kontabhagam ivvabadina varini gurinci niku teliyada? Varu j
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+గ్రంథంలో కొంతభాగం ఇవ్వబడిన వారిని నీవు చూడలేదా? వారు విగ్రహాల (జిబ్త్‌)పై, మిథ్యాదైవాల (తాగూత్‌)పై విశ్వాసం కలిగి ఉన్నారు. అవిశ్వాసుల గురించి అభిప్రాయపడుతూ, “విశ్వాసుల కంటే వీరే చాలా వరకు సన్మార్గాన ఉన్నారు” అని అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

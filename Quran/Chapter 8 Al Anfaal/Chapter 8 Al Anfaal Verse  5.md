@@ -2676,6 +2676,12 @@ Cunon ki şumo dar ƣanimatho kaşmakaş karded, Alloh onhoro az şumo ʙargirif
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఈ అన్‌ఫాల్‌ వ్యవహారంలో కూడా ఇదివరకు ఉత్పన్నమైన పరిస్థితి వంటిదే ఉత్పన్నమవుతోంది. అప్పుడు) నీ ప్రభువు నిన్ను సత్యంతో నీ గృహం నుంచి బయటకు తీసుకువచ్చాడు. విశ్వసించిన వారిలోని ఒక వర్గం వారికి ఇది ఇష్టంలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

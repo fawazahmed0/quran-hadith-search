@@ -2676,6 +2676,12 @@ Mariyu vāṭini, vāriki svādhīnaparicāmu. Kāvuna vāṭilō konniṭipai v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మేము ఆ పశువులను వారికి లోబడి ఉండేటట్లు చేశాము. వాటిలో కొన్నేమో వారి వాహనాలుగా ఉన్నాయి. మరికొన్నింటి మాంసాన్ని వారు భుజిస్తున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

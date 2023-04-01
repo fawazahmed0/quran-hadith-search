@@ -2676,6 +2676,12 @@ mariyu nī prabhuvu kṣamāśīluḍu, kāruṇyamūrti. Āyana vāri duṣkarm
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు క్షమాగుణం కలవాడు, దయాశీలి. వారి చేష్టలకు శిక్షగా ఆయన గనక వారిని పట్టుకున్నట్లయితే, వారిని తొందరగానే శిక్షించి ఉండేవాడు. అసలు విషయం ఏమిటంటే వారి కోసం ఒక వాగ్దాన సమయం నిర్ధారితమై ఉంది. దాన్నుంచి తప్పించుకునిపోయే చోటేదీ వారికి దొరకదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

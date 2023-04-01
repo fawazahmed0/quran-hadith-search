@@ -2676,6 +2676,12 @@ mariyu alāṇṭi vāru tama prabhuvu ājñāpālana cēstāru mariyu namāj nu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా, వారు తమ ప్రభువు ఆజ్ఞను శిరసావహిస్తారు. నమాజును నెలకొల్పుతారు. వారి (ప్రతి) పని పరస్పర సలహా సంప్రతింపుల ద్వారా జరుగుతుంది. మేము వారికి ప్రసాదించిన దానిలో నుంచి (మా పేరున) ఖర్చుపెడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

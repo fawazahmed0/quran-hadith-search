@@ -2676,6 +2676,12 @@ appuḍu krindi nuṇḍi oka dhvani vinipin̄cindi: "Nīvu duḥkhin̄caku! Vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అంతలో (దైవదూత) క్రింది నుంచే ఆమెను పిలిచి ఇలా అన్నాడు: “బాధ పడకు. నీ ప్రభువు నీ క్రింద ఒక నీటి ఊటను ప్రవహింపజేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

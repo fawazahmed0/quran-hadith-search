@@ -2676,6 +2676,12 @@ ayane mim'malni mattito srstinci, a taruvata miku oka gaduvu niyamincadu. Ayana 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే మిమ్మల్ని మట్టితో చేశాడు. ఆపైన ఒక గడువును నిర్థారించాడు. మరో నిర్ణీత గడువు మాత్రం అల్లాహ్‌ వద్దనే ఉంది. అయినా మీరు సంశయానికి లోనై ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

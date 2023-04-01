@@ -2676,6 +2676,12 @@ mariyu vāru viśvāsula paṭla kasi pen̄cukōvaḍāniki kāraṇaṁ - vāru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంతకీ ఆ విశ్వాసులు చేసిన తప్పు – వారు సర్వశక్తుడు, స్తోత్రనీయుడైన అల్లాహ్ ను విశ్వసించటం తప్ప మరొకటి కాదు. దానికే వారు ప్రతీకారం తీర్చుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

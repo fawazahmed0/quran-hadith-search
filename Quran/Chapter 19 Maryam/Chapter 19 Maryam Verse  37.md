@@ -2676,6 +2676,12 @@ taruvāta vibhinna (kraistava) vargāla vāru (īsānu gurin̄ci) paraspara abhi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఈ ముఠాలు పరస్పరం విభేదించుకున్నాయి. కాబట్టి సత్యతిరస్కారులు ఒక మహా (కఠినమైన) దినాన హాజరైనపుడు, వారికి మూడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

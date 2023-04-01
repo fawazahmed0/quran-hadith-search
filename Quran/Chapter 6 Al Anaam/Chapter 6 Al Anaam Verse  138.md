@@ -2676,6 +2676,12 @@ Mariyu vāru:"Ī paśuvulu mariyu ī paṇṭalu niṣid'dhaṁ cēyabaḍḍāy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఈ కొన్ని పశువులు, పంట పొలాలు అందరికీ సమ్మతం కావు. మేము కోరినవారు తప్ప ఇతరులెవరూ వాటిని తినటం సమ్మతం కాదు” అని వారు తమంతట తాముగా – కల్పించుకొని – చెబుతారు. కొన్ని పశువులపై స్వారీ చేయటం, వాటి ద్వారా బరువు లాగించటం నిషేధించబడింది (అని అంటారు). మరి కొన్ని పశువులపై (జిబహ్‌ చేసే సమయంలో) వారు అల్లాహ్‌ పేరు ఉచ్చరించరు, అల్లాహ్‌కు అబద్ధాన్ని అంటగట్టటానికిగాను (వారు ఇలా చేస్తారు). వారు కల్పించే ఈ అబద్ధాలకుగాను త్వరలోనే అల్లాహ్‌ వారికి దాని ప్రతిఫలం ఇస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

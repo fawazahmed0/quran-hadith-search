@@ -2676,6 +2676,12 @@ mariyu mīru mī śakti mēraku balasāmagrini, yud'dhapu gurrālanu sid'dhapara
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు వాళ్లను ఎదుర్కోవటానికి శాయశక్తులా బలాన్ని కూడగట్టుకోవటం ద్వారా, కట్టివుంచిన గుఱ్ఱాల ద్వారా సన్నద్ధులై ఉండండి. ఈ సన్నాహాల ద్వారా మీరు అల్లాహ్‌ విరోధులను, మీ విరోధులను, మీకు తెలియకుండా ఉన్న – కాని అల్లాహ్‌కు మాత్రం బాగా తెలిసిన – ఇతర శత్రువులను కూడా భయకంపితుల్ని చేయవచ్చు. అల్లాహ్‌ మార్గంలో మీరు వెచ్చించేదంతా మీకు పూర్తిగా తిరిగి ఇవ్వబడుతుంది. మీకెలాంటి అన్యాయమూ జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

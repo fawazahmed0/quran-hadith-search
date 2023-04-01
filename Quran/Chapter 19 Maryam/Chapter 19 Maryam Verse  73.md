@@ -2676,6 +2676,12 @@ mariyu spaṣṭamaina mā sūcanalanu vāriki cadivi vinipin̄cinapuḍu, satya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+స్పష్టమైన మా ఆయతులను వారి ముందు చదివి వినిపించినపుడు అవిశ్వాసులు “ఇంతకీ మన ఇరు వర్గాలలో ఎవరు మంచి స్థితిలోఉన్నారో, ఎవరి సభలు ఉత్తమంగా ఉన్నాయో చెప్పండి?” అని ముస్లిములతో అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

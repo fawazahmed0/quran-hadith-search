@@ -2676,6 +2676,12 @@ vāstavāniki mēmu jabūr lō- mā hitabōdha taruvāta - niścayaṅgā, ī bh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సజ్జనులైన నా దాసులే భూమికి వారసులవుతారని మేము జబూర్‌ (గ్రంథం)లో హితబోధ అనంతరం వ్రాసిపెట్టాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

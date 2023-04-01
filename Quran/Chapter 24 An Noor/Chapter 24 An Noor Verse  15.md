@@ -2676,6 +2676,12 @@ appuḍu mīru dānini (ā apanindanu) mī nālukalatō vyāpimpajēstū pōyār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఎందుకంటే) అప్పుడు మీరు ఆ విషయాన్ని ఆ నోటా ఈ నోటా అందుకుని (వ్యాపింపజేశారు.) మీకు ఏమాత్రం తెలియని విషయాన్ని మీ నోటితో పేలటం మొదలెట్టారు. మీరు దాన్ని చిన్న విషయంగా భావించారు. కాని అల్లాహ్‌ దృష్టిలో మాత్రం అది చాలా పెద్ద విషయం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

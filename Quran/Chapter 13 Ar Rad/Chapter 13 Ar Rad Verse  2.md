@@ -2676,6 +2676,12 @@ mīru cūstunnāru kadā! Ākāśālanu sthambhālu lēkuṇḍā nilipina āyan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+స్తంభాలు లేకుండా (నే) ఆకాశాలను అంతేసి ఎత్తుకు లేపిన వాడే అల్లాహ్‌. దీన్ని మీరు చూస్తూనే ఉన్నారు. మరి ఆయన అర్ష్‌ (సింహాసనం) పై ఆసీనుడయ్యాడు. సూర్యచంద్రులను నియంత్రణలో ఉంచినది కూడా ఆయనే – ప్రతి ఒక్కటీ నిర్థారిత సమయంలో తిరుగుతోంది. కార్యక్రమాల నిర్వహణకర్త కూడా ఆయనే. మీరు మీ ప్రభువును కలుసుకునే విషయాన్ని నమ్మగలందులకు ఆయన తన నిదర్శనాలను స్పష్టంగా వివరిస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

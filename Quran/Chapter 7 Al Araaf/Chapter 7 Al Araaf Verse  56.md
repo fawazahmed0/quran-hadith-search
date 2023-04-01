@@ -2676,6 +2676,12 @@ mariyu bhūmilō sanskaraṇa jarigina pidapa dānilō kallōlānni rēkettin̄c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సంస్కరణ జరిగిన తరువాత భూమిపై కల్లోలాన్ని సృష్టించకండి. భయపడుతూ, ఆశపడుతూ అల్లాహ్‌ను ఆరాధించండి. నిస్సందేహంగా అల్లాహ్‌ కారుణ్యం సజ్జనులకు చాలా దగ్గరే ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

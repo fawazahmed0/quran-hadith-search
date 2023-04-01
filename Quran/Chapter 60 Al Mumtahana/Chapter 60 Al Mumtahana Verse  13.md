@@ -2676,6 +2676,12 @@ o visvasulara! Allah agrahaniki guri ayina jati varini snehituluga cesukokandi. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు అల్లాహ్ ఆగ్రహానికి గురైన వారితో స్నేహం చేయకండి. చచ్చి సమాధుల్లో పడిఉన్న వారిపట్ల అవిశ్వాసులు ఎలా ఆశలు వదులుకున్నారో అలాగే వారు కూడా పరలోకం పట్ల ఆశ వదులుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

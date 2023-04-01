@@ -2676,6 +2676,12 @@ iplīsē! Nāṉ eṉṉuṭaiya kaikaḷāl paṭaittavarukku sujūtu ceyvatai 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ ఇబ్లీస్‌! నేను నా స్వహస్తాలతో సృష్టించిన వానిముందు సాష్టాంగపడకుండా ఏ విషయం నిన్ను ఆపింది? నువ్వు గర్వపడుతున్నావా? లేక నువ్వు ఉన్నత శ్రేణికి చెందినవాడివా?” అని (అల్లాహ్‌) అడిగితే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

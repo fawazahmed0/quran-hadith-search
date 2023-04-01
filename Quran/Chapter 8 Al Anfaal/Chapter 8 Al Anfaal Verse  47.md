@@ -2676,6 +2676,12 @@ mariyu tama gr̥hāla nuṇḍi, prajalaku cūpaṭāniki durābhimānantō baya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అహంకారాన్ని ప్రదర్శిస్తూ, ప్రజల ముందు తమ బడాయిని చాటుకుంటూ తమ ఇండ్ల నుంచి బయలుదేరిన వారి మాదిరిగా, అల్లాహ్‌ మార్గం నుండి ప్రజలను ఆపే వారిలాగా మీరు తయారవకండి. వారి ఆగడాలపై అల్లాహ్‌ పట్టు బిగించనున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

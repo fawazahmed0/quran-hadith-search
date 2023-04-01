@@ -2676,6 +2676,12 @@ mariyu mīkēmayindi? Mīru (vāstavāniki) viśvāsulē ayitē? Mīrenduku all�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అల్లాహ్ ను ఎందుకు విశ్వసించరు? అసలు మీకేమైపోయింది? చూడబోతే దైవప్రవక్త స్వయంగా మీ ప్రభువును విశ్వసించమని మీకు పిలుపు ఇస్తున్నాడు. మీరు నిజంగా విశ్వసించిన వారైతే ఆయన మీ నుండి గట్టి వాగ్దానం కూడా తీసుకున్నాడు (అన్న విషయాన్ని గుర్తుంచుకోవాలి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

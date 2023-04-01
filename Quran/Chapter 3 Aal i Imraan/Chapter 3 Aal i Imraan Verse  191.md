@@ -2676,6 +2676,12 @@ evaraitē nilucunnā, kūrcunnā, paruṇḍinā, anni vēḷalā allāh nu smar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు నిల్చుని, కూర్చుని, తమ పడకలపై ఒత్తిగిలి అల్లాహ్‌ను స్మరిస్తూ ఉంటారు. భూమ్యాకాశాల సృష్టి గురించి యోచన చేస్తూ ఉంటారు. వారిలా అంటారు : ”మా ప్రభూ! నువ్వు ఈ సృష్టిని నిరర్థకంగా చేయలేదు. నువ్వు పవిత్రుడవు. మమ్మల్ని నరకాగ్ని శిక్ష నుంచి కాపాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

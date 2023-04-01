@@ -2676,6 +2676,12 @@ Allāh! Āyanē, mī koraku viśrānti tīsukōvaṭāniki rātrini mariyu (cū�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మీ కొరకు రాత్రిని చేశాడు – అందులో మీరు విశ్రాంతి పొందటానికి! మరి ఆయనే పగటిని (మీరు) చూడ గలిగేదిగా చేశాడు. నిశ్చయంగా అల్లాహ్‌ ప్రజల పట్ల దయా దాక్షిణ్యాలు గలవాడు. కాని ప్రజలలో చాలామంది కృతజ్ఞత తెలుపరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

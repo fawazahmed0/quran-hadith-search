@@ -2676,6 +2676,12 @@ lēdā vāru: "Atanē (pravaktayē) dīnini (ī khur'ān nu) kalpin̄cāḍu." A
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, అతనే (ప్రవక్తే) ఈ ఖురానును కల్పించుకున్నాడని వాళ్ళంటున్నారా? “మరైతే మీరు కూడా ఇలాంటి పది సూరాలు కల్పించి తీసుకురండి. మీరు సత్యవంతులే అయితే, అల్లాహ్‌ను తప్ప మీరు పిలువగలిగితే దీని సహాయం కోసం ఎవరినైనా పిలుచుకోండి” అని (ఓప్రవక్తా!) వారికిచెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

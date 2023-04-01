@@ -2676,6 +2676,12 @@ mariyu vāri nāyakulu ilā anasāgāru: "Padaṇḍi! Mīru mī daivāla (ārā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి నాయకమన్యులు ఈ విధంగా చెబుతూ వెళ్ళిపోయారు: “పదండ్రా. మీరు మీ దేముళ్ళ (పూజాపునస్కారాల) పైనే గట్టిగా నిలబడండి. నిశ్చయంగా ఈ మాటలో (మీకు వ్యతిరేకంగా) ఏదో మర్మం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

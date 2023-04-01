@@ -2676,6 +2676,12 @@ o ma prabhu! Mam'malni satyatiraskarula koraku pariksa sadhananga ceyaku mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభూ! అవిశ్వాసుల కొరకు మమ్మల్ని పరీక్షా సాధనంగా చేయకు. ప్రభూ! మా తప్పులను క్షమించు. నిశ్చయంగా నీవు మాత్రమే సర్వాధికుడవు, వివేకవంతుడవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

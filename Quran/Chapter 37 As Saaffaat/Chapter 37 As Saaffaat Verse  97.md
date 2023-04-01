@@ -2676,6 +2676,12 @@ vāru (parasparaṁ ilā ceppukunnāru): "Itani koraku oka (agni) guṇḍaṁ n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలా అన్నారు : “ఇతని కోసం ఓ కట్టడం (భారీ కొలిమి) నిర్మించండి. ఆ తరువాత ఇతన్ని మండే అగ్ని (గుండం)లో పడవేయండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

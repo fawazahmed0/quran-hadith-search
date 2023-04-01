@@ -2676,6 +2676,12 @@ mariyu aṇṭāru: "Mā dēvuḷḷu man̄civā lēka ataḍā (īsānā)?" Vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇంతకీ మా దేవుళ్ళు మంచివాళ్ళా లేక అతనా?” అని వారు (తరచి తరచి) అడగటం మొదలెట్టారు. వారు నిన్ను అలా అడగటం వెనుక వారి ఉద్దేశం జగడం తప్ప మరేమీ కాదు. అసలా జనులే జగడాలమారులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

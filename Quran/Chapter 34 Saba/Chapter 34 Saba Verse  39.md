@@ -2676,6 +2676,12 @@ vāritō anu: "Niścayaṅgā, nā prabhuvu tana dāsulalō tānu kōrina vārik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు : “నా ప్రభువు తన దాసులలో తాను తలచిన వారి ఉపాధిని విస్తృతపరుస్తాడు. మరి తాను తలచిన వారికి కుదిస్తాడు. (అల్లాహ్‌ మార్గంలో) మీరు ఏది ఖర్చు చేసినా ఆయన దానికి (సంపూర్ణ) ప్రతిఫలం ఇస్తాడు. ఆయన అందరి కన్నా ఉత్తమ ఉపాధి ప్రదాత
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

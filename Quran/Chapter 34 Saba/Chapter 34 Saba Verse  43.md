@@ -2676,6 +2676,12 @@ Mariyu vāriki mā spaṣṭamaina sūcana (āyāt) lanu vinipimpa jēsinappuḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ముందు స్పష్టమైన మా ఆయతులు పఠించబడినప్పుడు, “ఈ వ్యక్తి మిమ్మల్ని మీ తాతముత్తాతల ఆరాధ్య దైవాల నుంచి ఆపదలుస్తున్నాడు (అంతకుమించి మరేమీ లేదు)” అని అంటారు. “ఇదొక కల్పిత అబద్ధం” అని కూడా అంటారు. వాస్తవానికి సత్యం వారివద్దకు వచ్చేసినప్పటికీ “ఇది స్పష్టమైన ఇంద్రజాలం తప్ప మరేమీ కాదు” అని అవిశ్వాసులు అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

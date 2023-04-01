@@ -2676,6 +2676,12 @@ O visvasulara! Mi banisalu mariyu yuktavayas'suku cerani mi pillalu, mudu samaya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీ అధీనంలో వున్న మీ బానిసలుగానీ, ఇంకా ప్రాజ్ఞవయస్సుకు చేరని మీ పిల్లలుగానీ మూడు వేళల్లో మాత్రం మీ అనుమతి పొందిన మీదటే మీ వద్దకు రావాలి – 1.ఫజ్ర్‌ నమాజుకు పూర్వం, 2.మధ్యాహ్నం (జుహ్ర్‌) వేళ మీరు మీ బట్టలు విడిచి ఉన్నప్పుడు, 3.ఇషా నమాజు తరువాత. ఈ మూడు వేళలు మీరు ఏకాంతం (పరదా)లో ఉండే వేళలు. ఈ మూడు వేళల్ని మినహాయిస్తే (రాకపోకలు సాగించటంలో) మీపై గానీ, వారిపైగానీ ఎలాంటి దోషం లేదు. (ఎందుకంటే) మీరు తరచూ ఒండొకరి దగ్గరకు వస్తూపోతూ ఉండవలసిన వారే. ఈ విధంగా అల్లాహ్‌ తన ఆజ్ఞలను మీకు స్పష్టంగా విడమరచి చెబుతున్నాడు. అల్లాహ్‌ సంపూర్ణ జ్ఞాని, పరిపూర్ణ వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāri mugimpu phir'aunu jāti mariyu vāriki mundunna vāri valē uṇṭundi. V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఫిరౌను జనులకు, వారికి పూర్వం గతించిన వారికి పట్టిన గతే వీరికీ పడుతుంది. (ఎందుకంటే) వారు మా వచనాలను ధిక్కరించారు. మరి అల్లాహ్‌ కూడా వారిని వారి పాపాలకుగాను పట్టుకున్నాడు. అల్లాహ్‌ తీవ్రంగా దండించేవాడు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

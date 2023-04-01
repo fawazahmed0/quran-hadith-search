@@ -2676,6 +2676,12 @@ an'yāyāniki guri ayina vāḍu tappa! Ceḍunu bahiraṅgaṅgā palukaṭānn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అన్యాయానికి గురైనవాడు తప్ప, ఏ మనిషి అయినా చెడు మాటలు బిగ్గరగా పలకటాన్ని అల్లాహ్‌ ఇష్టపడడు. అల్లాహ్‌ అంతా వినేవాడూ, అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

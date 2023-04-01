@@ -2676,6 +2676,12 @@ o ma prabhu! Virilo nundi ni sandesalanu cadivi vinipincutakunu, ni granthanni n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభూ! నీ వాక్యాలను వారికి చదివి వినిపించే, గ్రంథజ్ఞానాన్ని నేర్పించే, విజ్ఞతా వివేచనలను విడమరచి చెప్పే, వారిని పరిశుద్ధపరచే ఒక ప్రవక్తను స్వయంగా వారి జాతి నుండే వారిలో ప్రభవింపజెయ్యి. నిస్సందేహంగా నీవు సర్వాధికుడవు, వివేకవంతుడవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

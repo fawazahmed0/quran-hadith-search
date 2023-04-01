@@ -2676,6 +2676,12 @@ Mariyu niścayaṅgā, mēmu ī mārgadarśakatvānni (khur'ān nu) vinnappuḍu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మేము మాత్రం సన్మార్గ బోధను వినగానే దానిని విశ్వసించాం. ఇక ఎవడు తన ప్రభువును విశ్వసించినా అతనికి ఎలాంటి నష్టంగానీ, అన్యాయంగానీ జరుగుతుందన్న భయం ఉండదు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

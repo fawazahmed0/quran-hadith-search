@@ -2676,6 +2676,12 @@ a pidapa varu atanini tisukoni poyi oka lotu bavilo pada veddamani nirnayincukun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ విధంగా వాళ్ళు అతన్ని తీసుకుపోయి, లోతైన బావిలో పడవేయాలని నిశ్చయించుకున్నారు. అప్పుడు మేము యూసుఫ్‌కు ‘వహీ’ పంపుతూ, “నువ్వు(ఒకానొకరోజు) తప్పకుండా వారికి ఈ వ్యవహారాన్ని తెలియజేస్తావు. కాని అప్పుడు వారు (నిన్ను) గుర్తుపట్టే స్థితిలో ఉండరు” అని తెలిపాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu (kapaṭa viśvāsulalō) kondaru (viśvāsulaku) hāni kaligin̄caṭān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(కపటులలో) మరి కొంతమంది కూడా ఉన్నారు – కీడు కలిగించే, అవిశ్వాసంతో కూడిన మాటలు చెప్పుకునే ఉద్దేశంతో, విశ్వాసుల మధ్య చీలికను తెచ్చే లక్ష్యంతో, అంతకు మునుపు అల్లాహ్‌ను, ఆయన ప్రవక్తను వ్యతిరేకించిన వ్యక్తికి ఆసరా ఇచ్చే ఆలోచనతో వారు ఒక మస్జిదును నిర్మించారు. (ఈ కట్టడాన్నినిర్మించటంలో) తమ ఉద్దేశం మేలుచేయటం తప్ప మరొకటి కాదని వారు ప్రమాణాలు చేస్తారు. వారు అబద్ధాలకోరులన్న విషయానికి అల్లాహ్‌యే సాక్షి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

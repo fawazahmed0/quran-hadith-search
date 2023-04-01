@@ -2676,6 +2676,12 @@ kāvuna evaru allāh nu viśvasin̄ci, āyananē dr̥ḍhaṅgā nam'mukuṇṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి, ఎవరు అల్లాహ్‌ను విశ్వసించి, ఆయనతో తమ సంబంధాన్ని పటిష్ఠం చేసుకుంటారో వారిని ఆయన తన కారుణ్యంలోకి, అనుగ్రహంలోకి తీసేసుకుంటాడు. వారికి తన వైపుకు తెచ్చే రుజుమార్గం చూపుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

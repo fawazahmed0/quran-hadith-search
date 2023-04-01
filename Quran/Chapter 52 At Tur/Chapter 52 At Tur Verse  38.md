@@ -2676,6 +2676,12 @@ vāri daggara niccena ēdainā undā? Dānitō paikekki vāru (dēvadūtala mā�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పోనీ, వారి దగ్గర నిచ్చెన ఏదైనా ఉందా? దానిపైకెక్కి వారు (ఊర్థ్వ లోకాల రహస్యాలు) వినివస్తున్నారా? ఒకవేళ అలాంటిదేదైనా ఉంటే ఆ వినివచ్చేవాడు ఆ మేరకు ఏదైనా స్పష్టమైన ప్రమాణాన్ని సమర్పించాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vīrē ād jātivāru! Vāru tama prabhuvu sūcanalanu (āyāt lanu) tira
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదీ ఆద్‌ జాతి (వృత్తాంతం). వీరు తమ ప్రభువు ఆయతులను త్రోసి పుచ్చారు. ఆయన ప్రవక్తల పట్ల అవిధేయతకు పాల్పడ్డారు. ఇంకా అహంకారి, అవిధేయీ అయిన ప్రతివ్యక్తినీ వారు అనుసరించారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ o pravakta! Allah niku dharmasam'matam cesina danini nivu enduku nisedhincukuntu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! అల్లాహ్ నీ కోసం ధర్మ సమ్మతం చేసిన దానిని నువ్వెందుకు (నీ కొరకు) నిషేధించుకుంటున్నావు? (ఏమిటి?) నువ్వు నీ భార్యల ప్రసన్నతను పొందగోరుతున్నావా? అల్లాహ్ క్షమాశీలుడు, దయామయుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

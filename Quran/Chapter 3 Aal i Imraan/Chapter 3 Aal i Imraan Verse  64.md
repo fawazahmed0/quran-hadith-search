@@ -2676,6 +2676,12 @@ ilā anu: " Ō grantha prajalārā! Mākū mariyu mīkū madhya um'maḍigā unn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి స్పష్టంగా చెప్పు: ”ఓ గ్రంథవహులారా! మాలోనూ, మీ లోనూ సమానంగా ఉన్న ఒక విషయం వైపుకు రండి. అదేమంటే మనం అల్లాహ్‌ను తప్ప వేరెవరినీ ఆరాధించకూడదు, ఆయనకు భాగస్వాములుగా ఎవరినీ కల్పించరాదు. అల్లాహ్‌ను వదలి మనలో ఎవరూ ఇంకొకరిని ప్రభువులుగా చేసుకోరాదు.” ఈ ప్రతిపాదన పట్ల గనక వారు విముఖత చూపితే, ”మేము మాత్రం ముస్లిం (విధేయు)లము అన్న విషయానికి మీరు సాక్షులుగా ఉండండి” అని వారికి చెప్పేయండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāraṇṭāru: "Ayyō! Mā daurbhāgyaṁ! Mam'malni mā paḍakala nuṇḍi 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అయ్యో మా దౌర్భాగ్యం! మమ్మల్ని మా శయనాగారాల నుంచి లేపినదెవరు?” అని వారు వాపోతారు. “కరుణామయుడు (అయిన అల్లాహ్‌) చేసిన వాగ్దానమిదే. ప్రవక్తలు చెప్పింది నిజం” (అని వారితో అనబడుతుంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Ilā aḍugu: "Bhūmyākāśālaku prabhuvu evaru?" Nīvē ilā javābivvu: "All
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“భూమ్యాకాశాలకు ప్రభువు ఎవరు?” అని వారిని అడుగు. “అల్లాహ్‌యే” అని వారికి చెప్పు. “అయినప్పటికీ మీరు ఆయన్ని కాదని, తమ స్వయానికి సయితం లాభంగానీ, నష్టంగానీ చేకూర్చలేని వారిని మీ రక్షకులుగా చేసుకుంటున్నారా?” అని వారిని అడుగు. “గుడ్డివాడూ – చూడగలిగేవాడు సమానులు కాగలరా? అంధకారాలూ – వెలుగూ ఒకటి కాగలవా? పోనీ, వారి దృష్టిలో ‘సృష్టి’ అనేది సందేహాస్పదం కావటానికి, వారు అల్లాహ్‌కు భాగస్వాములుగా చేర్చినవారుగాని అల్లాహ్‌ మాదిరిగా దేన్నయినా సృష్టించారా?” అని కూడా వారిని అడుగు. “అల్లాహ్‌యే అన్నింటినీ సృష్టించినవాడు. ఆయన ఒక్కడే. ఆయన సర్వాధిక్యుడు” అని వారికి స్పష్టంగా చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

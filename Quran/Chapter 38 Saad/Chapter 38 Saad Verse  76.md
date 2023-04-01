@@ -2676,6 +2676,12 @@ nāṉē avaraiviṭa mēlāṉavaṉ; (ēṉeṉil) eṉṉai nī neruppilirunt
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను అతనికంటే ఘనుడను. (ఎందుకంటే) నీవు నన్ను అగ్నితో సృష్టించావు. అతన్నేమో మట్టితో సృష్టించావు” అని వాడు సమాధానమిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

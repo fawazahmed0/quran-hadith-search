@@ -2676,6 +2676,12 @@ ilāṇṭi vāri pratiphalaṁ, vāri prabhuvu nuṇḍi kṣamābhikṣa mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ ప్రభువు తరఫు నుంచి క్షమాభిక్ష, క్రింద కాలువలు ప్రవహించే స్వర్గవనాలు ప్రతిఫలంగా లభించేది ఇటువంటి వారికే. వాటిలో వారు ఎల్లకాలం ఉంటారు. ఈ సత్కార్యాలు చేసేవారికి లభించే పుణ్యఫలం ఎంత చక్కనిది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

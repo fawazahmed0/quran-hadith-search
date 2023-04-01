@@ -2676,6 +2676,12 @@ mariyu mārgadarśakatvaṁ pondina vāriki āyana (allāh) iṅkā ekkuvagā sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరయితే సన్మార్గాన్ని పొందారో, వారి సన్మార్గభాగ్యంలో ఆయన (అల్లాహ్) మరింత వృద్ధిని ప్రసాదించాడు. వారికి వారి ధర్మ నిష్టను (తఖ్వా’ను) కూడా అనుగ్రహించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

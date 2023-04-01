@@ -2676,6 +2676,12 @@ niścayaṅgā, vidhi dānaṁ (jakāt) cēsē puruṣulu mariyu vidhidānaṁ c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా దానధర్మాలు చేసే పురుషులు, దానధర్మాలు చేసే స్త్రీలు, అల్లాహ్ కు (చిత్తశుద్ధితో) మంచి ఋణం ఇచ్చేవారు – వారు ఇచ్చినది వారి కొరకు పెంచబడుతుంది. మరి వారి కొరకు గౌరవప్రదమైన ప్రతిఫలం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Itiliruntu nī iṟaṅkiviṭu, nī perumai koḷvataṟku iṅku iṭamillai, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అలాగయితే నువ్వు ఆకాశం నుంచి దిగిపో. ఆకాశంలో ఉండి అహంకారం ప్రదర్శించే హక్కు నీకెంతమాత్రం లేదు. కాబట్టి ఇక్కణ్ణుంచి వెళ్ళిపో. నిశ్చయంగా నువ్వు తుచ్ఛుల కోవకు చెందినవాడవు” అని అల్లాహ్‌ అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

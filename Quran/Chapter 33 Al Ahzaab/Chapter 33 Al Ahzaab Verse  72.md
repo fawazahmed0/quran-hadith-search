@@ -2676,6 +2676,12 @@ niścayaṅgā, mēmu bādhyatanu ākāśālaku, bhūmiki mariyu parvatālaku sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మా అప్పగింత(అమానతు)ను ఆకాశాల ముందూ, భూమి ముందూ, పర్వతాల ముందూ ఉంచాము. కాని అవన్నీ దాన్ని మోయటానికి నిరాకరించాయి. దానికి భయపడిపోయాయి. (అయితే) మానవుడు మాత్రం దాన్ని ఎత్తుకున్నాడు. అవును, వాడు అక్రమానికి ఒడిగట్టేవాడు, మూర్ఖుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ idi intaku pūrvaṁ gaḍicina vāri viṣayanlō jarugutunna allāh sampradāy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీరి పూర్వీకుల విషయంలో కూడా అల్లాహ్‌ యొక్క ఈ సంప్రదాయమే ఉండేది. అల్లాహ్‌ సంప్రదాయంలో నువ్వు ఎలాంటి మార్పునూ కానలేవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ iṅkā vāru ilā aṇṭāru: "Ī paśuvula garbhālalō unnadi kēvalaṁ mā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఈ పశువుల గర్భాలలో ఉన్నది కేవలం మా పురుషుల కోసమే. మా స్త్రీల కోసం అది నిషిద్ధం. ఒకవేళ అది చచ్చినదైతే అందరికీ అందులో భాగం ఉంటుంది” అని కూడా వారంటారు. వారి ఈ తప్పుడు మాటలకుగాను అల్లాహ్‌ త్వరలోనే వారిని దండిస్తాడు. నిశ్చయంగా ఆయన మహావివేకి, మహాజ్ఞాని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

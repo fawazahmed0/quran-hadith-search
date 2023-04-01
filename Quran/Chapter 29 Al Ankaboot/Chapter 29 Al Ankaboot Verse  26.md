@@ -2676,6 +2676,12 @@ appuḍu lūt atanini viśvasin̄cāḍu. (Ibrāhīm) ilā annāḍu: "Nēnu nā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు లూతు (అలైహిస్సలాం) మటుకు అతన్ని విశ్వసించాడు. అతనిలా అన్నాడు: “నేను నా స్వస్థలం నుంచి నా ప్రభువు వైపునకు ప్రస్థానం చేస్తాను. ఆయన గొప్ప శక్తిమంతుడు, వివేకవంతుడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

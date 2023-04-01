@@ -2676,6 +2676,12 @@ mariyu allāh mim'malni maṭṭitō sr̥ṣṭin̄cāḍu. Taruvāta indriya bi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ప్రజలారా!) అల్లాహ్‌ మిమ్మల్ని మట్టితో, ఆ తరువాత వీర్య బిందువుతో సృష్టించాడు. ఆ పైన మిమ్మల్ని జతలు (స్త్రీలు, పురుషులు)గా చేశాడు. ఆయనకు తెలియకుండా ఏ స్త్రీ కూడా గర్భవతి కావటంగానీ, బిడ్డను కనటంగానీ జరగదు. దీర్ఘాయుషు పొందినవాని ఆయుష్షు పెరగటమైనా, మరొకతని ఆయుష్షు తరగటమైనా – అంతా గ్రంథంలో లిఖితమై ఉంది. ఇదంతా అల్లాహ్‌కు చాలా తేలిక
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

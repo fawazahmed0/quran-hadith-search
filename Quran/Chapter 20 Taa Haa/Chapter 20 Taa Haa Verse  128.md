@@ -2676,6 +2676,12 @@ Vīriki pūrvaṁ gaḍicina ennō tarālanu mēmu nāśanaṁ cēsi unnāmu. V�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీరికి పూర్వం ఎన్నో సమూహాలను మేము తుదముట్టించాము. వారి నివాస స్థలాలలో (ప్రస్తుతం) వీళ్లు తిరుగుతున్నారు. ఈ విషయం కూడా వారికి సన్మార్గం చూపటం లేదా? నిశ్చయంగా ఇందులో వివేచన గల వారి కొరకు ఎన్నో సూచనలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

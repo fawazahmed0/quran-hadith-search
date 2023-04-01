@@ -2676,6 +2676,12 @@ allāh tōḍu, (ō pravaktā!) Vāstavāniki, nīku pūrvamunna samājāla vār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ సాక్షి! (ఓ ప్రవక్తా!) మేము నీకు పూర్వం గతించిన సమాజాల వద్దకు కూడా మా ప్రవక్తలను పంపి ఉన్నాము. కాని షైతాన్‌ వారి దుష్కర్మలను వారికి అందమైనవిగా చేసి చూపాడు. నేటికీ ఆ షైతాను వారి నేస్తంగా ఉన్నాడు. వారి కోసం వ్యధాభరితమైన శిక్ష ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

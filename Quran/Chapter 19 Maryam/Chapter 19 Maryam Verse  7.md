@@ -2676,6 +2676,12 @@ jakariyyāvē! Yahyā eṉṟa peyar koṇṭa oru putalvaṉai(t taruvatu) pa�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ జకరియ్యా! మేము నీకు ఒక కుమారుని శుభవార్తను వినిపిస్తున్నాము – అతని పేరు యహ్యా. మేము ఇంతకు ముందు ఈ పేరుగల వానిని చేయలేదు” (అని సెలవీయబడింది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

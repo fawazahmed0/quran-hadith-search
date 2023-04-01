@@ -2676,6 +2676,12 @@ mariyu vāru mārgaṁ tappārani telusukunnappuḍu paścāttāpantō mottuku�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమకు పశ్చాత్తాపం కలిగి, తాము నిజంగానే మార్గభ్రష్టతకు లోనయ్యామన్న సంగతి అర్థమయ్యాక వారు, సిగ్గుపడ్డారు. ”మా ప్రభువే గనక మాపై దయజూపకపోతే, మా తప్పును మన్నించకపోతే మేము ఘోరంగా నష్టపోతాము” అని అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

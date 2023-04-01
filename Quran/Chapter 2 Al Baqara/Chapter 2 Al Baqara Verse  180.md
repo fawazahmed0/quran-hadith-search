@@ -2676,6 +2676,12 @@ mīlō evarikainā maraṇakālaṁ samīpin̄cinappuḍu ataḍu āstipāstulu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీలో ఎవరికయినా మరణ ఘడియలు సమీపించి, వారి వద్ద ఆస్తిపాస్తులున్నట్లయితే, వారు తమ తల్లిదండ్రుల, సమీప బంధువుల పేర ఉత్తమరీతిలో వీలునామా వ్రాసిపోవటం విధిగా చేయబడింది. భయభక్తులు కలవారికి ఈ విధ్యుక్త ధర్మం మరింతగా వర్తిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

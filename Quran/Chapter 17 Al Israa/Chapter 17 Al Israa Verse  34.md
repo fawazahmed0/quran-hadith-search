@@ -2676,6 +2676,12 @@ mariyu ataḍu yuktavayas'suku cērananta varaku - sakramamaina pad'dhatilō tap
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అత్యుత్తమమైన పద్ధతిలో తప్ప అనాధ ఆస్తి దరిదాపులకు కూడా వెళ్ళకండి – అతను యుక్త వయస్సుకు చేరేవరకు. వాగ్దానాన్ని (చేసుకున్న ప్రతి ఒప్పందాన్ని) నెరవేర్చండి. ఎందుకంటే వాగ్దానం (ఒప్పందం) గురించి ప్రశ్నించబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

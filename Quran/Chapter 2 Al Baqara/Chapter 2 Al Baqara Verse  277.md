@@ -2676,6 +2676,12 @@ niścayaṅgā, viśvasin̄ci satkāryālu cēsē vārikī mariyu namāj sthāpi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించి (సున్నత్‌ ప్రకారం) సత్కార్యాలు చేసేవారికి, నమాజులను నెలకొల్పేవారికి, జకాత్‌ను చెల్లించేవారికి తమ ప్రభువు వద్ద పుణ్యఫలం ఉంది. వారికెలాంటి భయంగానీ, చీకూ చింతగానీ ఉండవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

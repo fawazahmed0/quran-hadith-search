@@ -2676,6 +2676,12 @@ emi? Memu visvasinci, satkaryalu cesevarini bhumilo kallolam rekettince varito s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి? మేము విశ్వసించి, సత్కార్యాలు చేసిన వారిని భూమిలో (నిత్యం) కల్లోలం రేకెత్తించే వారితో సమానులుగా చేసేస్తామా? లేక భయభక్తులు గలవారిని పాపాత్ములతో సమానంగా చేస్తామా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

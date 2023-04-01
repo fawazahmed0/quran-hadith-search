@@ -2676,6 +2676,12 @@ mariyu ī vidhaṅgā, mēmu vārilōni kondarini marikondari dvārā parīkṣa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా అందరిలోకీ అల్లాహ్‌ అనుగ్రహించినది వీళ్లనేనా!” అని వారు పలికేందుకుగాను మేము వారిలో కొందరిని మరి కొందరి ద్వారా పరీక్షించాము. కృతజ్ఞతా భావంతో మెలిగే వారిని అల్లాహ్‌ ఎరుగడా ఏమిటీ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

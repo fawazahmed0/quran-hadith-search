@@ -2676,6 +2676,12 @@ mariyu mī prabhuvu ilā annāḍu: "Nannu prārthin̄caṇḍi, nēnu mī prār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మీ ప్రభువు ఏమంటున్నాడంటే, “మీరు నన్నే ప్రార్థించండి. నేను మీ ప్రార్థనలను ఆమోదిస్తాను. నా దాస్యం పట్ల గర్వాహంకారం ప్రదర్శించేవారు త్వరలోనే అవమానితులై నరకంలో ప్రవేశించటం తథ్యం.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

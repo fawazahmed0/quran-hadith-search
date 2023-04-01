@@ -2676,6 +2676,12 @@ emi? Itanu (i pravakta) daivalandarini, oke aradhyadaivanga cesada? Niscayanga i
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(వారింకా ఇలా అన్నారు) “ఏమిటి? ఇతగాడు ఇంతమంది దేముళ్ళను ఒకే ఆరాధ్య దైవంగా చేసేశాడా? నిజంగా ఇది వింతగా ఉందే!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

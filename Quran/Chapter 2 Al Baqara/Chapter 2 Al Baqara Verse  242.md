@@ -2676,6 +2676,12 @@ i vidhanga allah tana ajnalanu (ayat lanu) miku spastanga teluputunnadu. Bahusa 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అర్థం చేసుకుని బుద్ధిగా మసలుకునేందుకుగాను అల్లాహ్‌ ఈ విధంగా తన ఆయతులను (ఆజ్ఞలను) మీకు విశద పరుస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

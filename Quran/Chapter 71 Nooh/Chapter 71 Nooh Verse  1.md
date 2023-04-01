@@ -2676,6 +2676,12 @@ niścayaṅgā, mēmu nūh nu atani jāti vāri vaddaku: "Vāripai bādhākarama
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము నూహ్ అలైహిస్సలాం ను అతని జాతివైపు పంపించి, “నీ జాతి వారిపై బాధాకరమైన శిక్ష వచ్చిపడక ముందే నీవు వారిని భయపెట్టు” (అప్రమత్తుల్ని చేయి అని చెప్పాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

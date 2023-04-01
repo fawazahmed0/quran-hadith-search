@@ -2676,6 +2676,12 @@ mariyu nā dāsulatō, vāru māṭlāḍēṭappuḍu man̄ci māṭalanē pala
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నా దాసులతో, వారు తమ నోట అత్యంత మంచి మాటలనే పలకాలని చెప్పు. ఎందుకంటే షైతాన్‌ వారి మధ్య కలతలు రేపుతాడు. నిశ్చయంగా షైతాన్‌ మానవుని పాలిట బహిరంగ శత్రువు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

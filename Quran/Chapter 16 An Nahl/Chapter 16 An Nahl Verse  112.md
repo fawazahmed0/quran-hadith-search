@@ -2676,6 +2676,12 @@ Mariyu allāh oka nagarapu upamānaṁ istunnāḍu: Modaṭa adi (ā nagaraṁ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఒక పట్నం ఉదాహరణను ఇస్తున్నాడు. ఆ పట్నం ఎంతో ప్రశాంతంగా, తృప్తిగా ఉండేది. దానికి అన్ని వైపుల నుంచీ పుష్కలంగా జీవనోపాధి లభించేది. మరి ఆ పట్నవాసులు అల్లాహ్‌ అనుగ్రహాలపై కృతఘ్నత చూపగా, అల్లాహ్‌ వారి స్వయంకృతాలకు బదులుగా వారికి ఆకలి, భయాందోళనల రుచి చూపించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

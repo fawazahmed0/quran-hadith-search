@@ -2676,6 +2676,12 @@ mariyu vāru (yūdulu) aṇṭāru: "Māku narakāgni śikṣa paḍinā, adi ko
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పైగా, “మేము నరకాగ్నిలో కొన్ని రోజులు మాత్రమే ఉంటాము” అని వారంటున్నారు. వారిని అడుగు: మీరు ఆ మేరకు అల్లాహ్‌ నుండి పొందిన వాగ్దానం ఏదన్నా మీ వద్ద ఉందా? ఒకవేళ ఉంటే అల్లాహ్‌ ముమ్మాటికీ తన వాగ్దానానికి విరుద్ధంగా వ్యవహరించడు. (అసలు అలా జరగనే లేదు) అసలు మీరు మీకు తెలియని విషయాలను అల్లాహ్‌కు ఆపాదిస్తున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

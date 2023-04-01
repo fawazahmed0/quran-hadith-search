@@ -2676,6 +2676,12 @@ o visvasulara! Miru mim'malni mariyu mi kutumbam varini, manavulu mariyu rallu i
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు మిమ్మల్ని, మీ కుటుంబీకుల్ని అగ్ని బారి నుండి కాపాడుకోండి. (ఆ అగ్ని ఎటువంటిదంటే) మనుషులు, రాళ్లు దాని ఇంధనం కానున్నారు. దానిపై కర్కశులు, బలిష్టులు అయిన దూతలు నియమితులై ఉన్నారు. అల్లాహ్ ఆజ్ఞలను పాలించటంలో వారు ఏమాత్రం అలక్ష్యం చేయరు. పైగా వారికి జారీ చేయబడిన ఆజ్ఞలను వారు ఖచ్చితంగా పాలిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

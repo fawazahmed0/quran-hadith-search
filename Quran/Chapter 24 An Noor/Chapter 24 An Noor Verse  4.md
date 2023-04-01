@@ -2676,6 +2676,12 @@ mariyu evarainā śīlavatulaina strīlapai apaninda mōpina taruvāta naluguru 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+శీలవతులైన స్త్రీలపై అపనిందను మోపి, దానికి సంబంధించిన నలుగురు సాక్షుల్ని తీసుకురాలేని వారికి ఎనభై కొరడా దెబ్బలు కొట్టండి. ఇక మీదట ఎన్నడూ వారి సాక్ష్యాన్ని ఆమోదించకండి. వారు అవిధేయులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

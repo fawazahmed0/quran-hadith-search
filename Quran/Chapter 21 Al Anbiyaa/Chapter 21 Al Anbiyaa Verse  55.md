@@ -2676,6 +2676,12 @@ vārannāru: "Ēmī? Nīvu mā vaddaku ēdainā satyānni teccāvā? Lēdā nīv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ? నువ్వు మా వద్దకు నిజంగానే సత్యం తీసుకుని వచ్చావా? లేక ఇట్టే ఆటపట్టిస్తున్నావా?” అని అడిగారు వారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

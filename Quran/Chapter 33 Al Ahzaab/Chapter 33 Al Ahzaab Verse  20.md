@@ -2676,6 +2676,12 @@ dāḍi cēsina vargālu iṅkā veḷḷi pōlēdu anē vāru bhāvistunnāru. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(దండెత్తి వచ్చిన) సైన్యాలు ఇంతవరకూ తిరిగి వెళ్ళలేదనే వారు భావిస్తున్నారు. ఒకవేళ సైన్యాలు(మళ్లీ) వచ్చిపడినట్లయితే, తాము ఎడారుల్లో పల్లెవాసులతోనే ఉండి, మీ సమాచారాలు తెలుసుకుంటూ ఉంటే బావుండేదే’ అని కోరుకుంటారు. ఒకవేళ వారు మీ మధ్యలో వున్నా (ఒరిగేదేమీ లేదు. వారు) అంతంత మాత్రంగానే పోరాడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Adiy İbn Hatim r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e soru sordum o da bana şöyle cevap verdi: (Av için) eğitilmiş köpeğini ava gönderirsen ve köpek avı öldürürse o avı ye. Şayet köpek o avdan yerse sen yeme, çünkü (bu durumda) köpek, avı kendisi için tutmuştur". Ben şöyle dedim: "Ben köpeğimi gönderdiğimde yanında başka bir köpek daha bulursam (ne yapayım)?" Nebi (Sallallahu aleyhi ve Sellem): O avı yeme. Çünkü sen yalnızca kendi köpeğin için (onu gönderirken) besmele çektin, başka bir köpek için besmele çekmedin. Tekrar: 2054, 5475, 5
+Adiy İbn Hatim r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e soru sordum o da bana şöyle cevap verdi: (Av için) eğitilmiş köpeğini ava gönderirsen ve köpek avı öldürürse o avı ye. Şayet köpek o avdan yerse sen yeme, çünkü (bu durumda) köpek, avı kendisi için tutmuştur". Ben şöyle dedim: "Ben köpeğimi gönderdiğimde yanında başka bir köpek daha bulursam (ne yapayım)?" Nebi (Sallallahu aleyhi ve Sellem): O avı yeme. Çünkü sen yalnızca kendi köpeğin için (onu gönderirken) besmele çektin, başka bir köpek için besmele çekmedin. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>175</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 4 Hadith 41</td></tr></tbody></table></div>
 

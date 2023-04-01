@@ -2676,6 +2676,12 @@ reṇḍu samudrālu sarisamānaṁ kājālavu. Vāṭilōni okadāni (nīru) ru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+రెండు జలధులూ సమానం కావు – వాటిలో (ఒకటి)ఇదేమో తియ్యనిది, దాహం తీర్చేది, త్రాగటానికి హాయిగా ఉండేది. మరి (రెండవది) అదేమో ఉప్పగా, చేదుగా ఉంది. అయితే మీరు ఆ రెండింటిలో నుంచీ తాజామాంసాన్ని తింటున్నారు. మీరు ధరించే నగలను వెలికి తీస్తున్నారు. జల ప్రవాహాలను చీల్చుకుంటూ పోయే పెద్దపెద్ద ఓడలను నువ్వు చూస్తున్నావు – మీరు ఆయన కృపను అన్వేషించడానికి, మీరు ఆయనకు కృతజ్ఞులై ఉండటానికిగాను (ఈ వ్యవస్థ ఏర్పరచబడింది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

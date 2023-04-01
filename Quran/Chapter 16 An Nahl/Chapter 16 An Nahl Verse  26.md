@@ -2676,6 +2676,12 @@ Vāstavāniki, vāri kaṇṭē pūrvaṁ gatin̄cina vāru kūḍā (allāh san
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీరి పూర్వీకులు కూడా కుట్రలు పన్నారు. (చివరికి) అల్లాహ్‌ వారి (కుట్రల) కట్టడాలను కూకటి వ్రేళ్లతో పెకలించివేశాడు. వారి (కట్టడాల) కప్పులు వారి (నెత్తి) మీదే పడ్డాయి. వారు ఊహించనైనాలేని చోటునుంచి వారిపై శిక్ష వచ్చి పడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

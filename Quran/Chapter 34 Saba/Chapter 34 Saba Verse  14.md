@@ -2676,6 +2676,12 @@ Mēmu atani (sulaimān)pai mr̥tyuvunu vidhin̄cinappuḍu, atani cētikarranu t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మేము అతనిపై మరణ శాసనాన్ని అమలు పరచినప్పుడు, అతని చేతికర్రను తింటూవున్న చీడ పురుగు తప్ప వేరెవరూ అతని చావు కబురును వారికి (జిన్నులకు) తెలియ పరచలేదు. మరి అతను (సులైమాను) పడిపోయినప్పుడు, తమకే గనక రహస్య విషయాల జ్ఞానం ఉండి ఉంటే ఇంతటి అవమానకరమైన యాతనకు లోనయ్యేవారం కాము అని జిన్నులు తెలుసుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

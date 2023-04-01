@@ -2676,6 +2676,12 @@ ayana (allah) ye nipai (o muham'mad!) I granthanni (khur'an nu) avatarimpajesadu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీపై గ్రంథాన్ని అవతరింపజేసినవాడు ఆయనే. అందులో సుస్పష్టమైన (ముహ్కమాత్‌) వచనాలున్నాయి. అవి గ్రంథానికి మూలం. మరికొన్ని బహువిధ భావంతో కూడిన (ముతషాబిహాత్‌) వచనాలున్నాయి. హృదయాలలో వక్రత ఉన్న వారు అందులోని బహువిధ భావ వచనాల (ముతషాబిహాత్‌) వెంట పడి (ప్రజలను) భ్రష్టుపట్టించటానికి ప్రయత్నిస్తారు. తమ ఉద్దేశాలకనుగుణంగా తాత్పర్యాలు తీస్తారు. నిజానికి వాటి వాస్తవికత అల్లాహ్‌కు తప్ప వేరెవరికీ తెలీదు. అయితే జ్ఞానంలో పరిపక్వత పొందినవారు మాత్రం, ”మేము వీటిని విశ్వసించాము. ఇవన్నీ మా ప్రభువు తరఫు నుంచి వచ్చినవే” అని అంటారు. వాస్తవానికి బుద్ధీ జ్ఞానాలు కలవారు మాత్రమే హితబోధను గ్రహిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

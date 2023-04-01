@@ -2676,6 +2676,12 @@ oru piṭi pul (kaṟṟaiyai) um kaiyil eṭuttu, ataik koṇṭu (um maṉaivi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“గడ్డిపరకల కట్టను చేత్తో పట్టుకుని కొట్టు. ప్రమాణ భంగానికి పాల్పడకు” (అని మేమతనికి సెలవిచ్చాము). వాస్తవానికి మేమతన్ని సహనశీలునిగా పొందాము. నిశ్చయంగా అతను మంచి దాసుడు, (ప్రభువు వైపు) అమితంగా మరలేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

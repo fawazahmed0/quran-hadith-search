@@ -2676,6 +2676,12 @@ Niścayaṅgā, allāh tanaku bhāgasvāmini (sāṭini) kalpin̄caṭānni ē m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తనకు భాగస్వామిగా మరొకరిని కల్పించటాన్ని (షిర్కును) అల్లాహ్‌ సుతరామూ క్షమించడు. ఇది తప్ప ఆయన తాను కోరిన వారి ఇతర పాపాలను క్షమిస్తాడు. అల్లాహ్‌కు భాగస్వామ్యం కల్పించినవాడు ఘోర పాపంతో కూడిన కల్పన చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

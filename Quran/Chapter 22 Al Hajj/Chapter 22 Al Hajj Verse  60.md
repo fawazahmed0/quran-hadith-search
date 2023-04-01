@@ -2676,6 +2676,12 @@ idē (vāri pariṇāmaṁ!) Ika evaḍaitē tanaku kaligina bādhaku samānaṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదీ (వారికి లభించే పుణ్యఫలం). తనకు బాధపెట్టబడిన మేరకే ప్రతీకారం తీర్చుకున్న వ్యక్తిపై తిరిగి దౌర్జన్యం జరిపితే,అప్పుడు అల్లాహ్‌ స్వయంగా అతనికి తోడ్పడతాడు. నిశ్చయంగా అల్లాహ్‌ మన్నించి వదలిపెట్టేవాడు, క్షమాభిక్షపెట్టేవాడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

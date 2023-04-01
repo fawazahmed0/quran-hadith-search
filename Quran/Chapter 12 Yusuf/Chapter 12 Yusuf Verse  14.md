@@ -2676,6 +2676,12 @@ vārannāru: "Mēmu inta pedda balagaṁ unnappaṭikī atanini tōḍēlu tiniv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు, “(నాన్నా!) మాలాంటి (బలిష్టమైన) జట్టు ఉండగా తోడేలు వచ్చి ఇతన్ని తినేస్తే మేము ఏ మాత్రం చేతకాని చవటలం అవుతాము” అని చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

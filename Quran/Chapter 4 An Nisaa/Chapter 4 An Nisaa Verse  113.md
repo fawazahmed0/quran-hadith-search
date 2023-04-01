@@ -2676,6 +2676,12 @@ Mariyu (ō pravaktā!) Allāh anugrahaṁ mariyu āyana kāruṇyamē nīpai lē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) దైవానుగ్రహం, ఆయన కారుణ్యం నీపై లేకుండా ఉంటే వారిలోని ఒక సమూహం నిన్ను తప్పు దారి పట్టించాలనే అనుకుంది. కాని నిజానికి వారు తమను తామే అపమార్గానికి లోనుచేసుకుంటున్నారు. వారు నీకెలాంటి హానీ కలిగించలేరు. అల్లాహ్‌ నీపై గ్రంథాన్ని, వివేకాన్నీ అవతరింపజేశాడు. నీకు తెలియని విషయాలను నీకు నేర్పాడు. నీపై అల్లాహ్‌ యొక్క గొప్ప అనుగ్రహం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

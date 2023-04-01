@@ -2676,6 +2676,12 @@ emi? Akasalanu mariyu bhumini srstincagalavadu, vati lanti vatini marala srstinc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలనే పుట్టించినవాడు వీరిలాంటివారిని (తిరిగి) పుట్టించలేడా? ఎందుకు పుట్టించలేడు? ఆయనే అన్నీ తెలిసిన సృష్టికర్త
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu vāriki ā iddaru manuṣyula udāharaṇa telupu: Vāriddarilō okaḍik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి ఆ ఇద్దరు వ్యక్తుల ఉదాహరణను కూడా వినిపించు – వారిలో ఒకతనికి మేము రెండు ద్రాక్ష తోటలను ఇచ్చాము. వాటి చుట్టూ ఖర్జూరపు చెట్ల కంచెను నిర్మించాము. ఆ రెంటికీ మధ్య పచ్చని పంట పొలాలను కూడా వొసగాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

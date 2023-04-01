@@ -2676,6 +2676,12 @@ o jinnatula mariyu manavula vansiyulara! Emi? Na sucanalanu miku vinipinci, miru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ జిన్నాతు మరియు మానవ వర్గీయులారా! ఏమిటీ, నా ఆదేశాలను మీకు విడమరచి చెప్పే, ఈనాటి ఈ దినం గురించి మిమ్మల్ని హెచ్చరించే ప్రవక్తలు స్వయంగా మీనుండే మీ వద్దకు రాలేదా? (అని అల్లాహ్‌ తరఫున ప్రశ్నించబడినప్పుడు), “అవును వచ్చారు. మాకు వ్యతిరేకంగా స్వయంగా మేమే సాక్ష్యమిస్తున్నాం” అని అంటారు. ప్రాపంచిక జీవితం వారిని మోసానికి గురి చేసింది. తాము తిరస్కారులయ్యామన్న సంగతిని గురించి వారు స్వయంగా సాక్ష్యమిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

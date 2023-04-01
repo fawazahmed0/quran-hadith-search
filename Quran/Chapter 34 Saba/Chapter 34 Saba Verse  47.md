@@ -2676,6 +2676,12 @@ ilā anu: "Nēnu mim'malni ēdainā pratiphalaṁ aḍigi unnaṭlaitē, dānini
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఇంకా ఈ విధంగా) చెప్పు: “ఒకవేళ నేను మీ నుండి ఏదన్నా ప్రతిఫలాన్ని ఆపేక్షించి ఉంటే, దాన్ని మీరే ఉంచుకోండి. నాకు ప్రతిఫలం ఇచ్చే బాధ్యత అల్లాహ్‌ది. ఆయన ప్రతిదానికీ సాక్షిగా ఉన్నాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

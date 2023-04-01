@@ -2676,6 +2676,12 @@ In azoʙ ʙa on saʙaʙ ast, ki cun Xudoro ʙa jaktoī mexondand, şumo inkor me
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(సమాధానంగా ఇలా అనబడుతుంది) “మీకు ఈ దుర్గతి ఎందుకు పట్టిందంటే, ఒక్కడైన అల్లాహ్‌ను గురించి ప్రస్తావించబడినపుడు మీరు త్రోసిపుచ్చేవారు. మరి అదే ఆయనకు ఎవరినయినా సహవర్తుల్ని కల్పించినపుడు (సంతోషంగా) అంగీకరించేవారు. కాబట్టి ఇప్పుడు (అంతిమ) నిర్ణయాధికారం సర్వోన్నతుడు, గొప్పవాడు అయిన అల్లాహ్‌దే.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

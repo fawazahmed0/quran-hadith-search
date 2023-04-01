@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Intaku pūrvaṁ nīvu ē granthānni kūḍā caduva gal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఇంతకు ముందు నువ్వు ఏ గ్రంథాన్నీ చదివిన వాడవు కావు, ఏ గ్రంథాన్నీ నీ కుడిచేత్తో వ్రాసిన వాడవూ కావు. ఒకవేళ అదేగనక జరిగివుంటే ఈ మిథ్యావాదులు (నీ విషయంలో) సందేహానికి లోనయ్యేవారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

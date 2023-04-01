@@ -2676,6 +2676,12 @@ Mariyu mā prabhuvu taraphu nuṇḍi mā vaddaku vaccina sūcanalanu, mēmu vi�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభువు సూచనలు మా వద్దకు వచ్చినప్పుడు, వాటిని విశ్వసించటం తప్ప మాలో నీకు కనిపించిన దోషం ఏమిటీ? ఓ ప్రభూ! మాపై సహనాన్ని కురిపించు. నీకు విధేయులు (ముస్లింలు)గా ఉన్న స్థితిలోనే మరణాన్ని వొసగు!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

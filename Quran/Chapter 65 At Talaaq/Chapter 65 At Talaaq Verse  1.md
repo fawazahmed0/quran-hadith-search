@@ -2676,6 +2676,12 @@ o pravakta! Miru strilaku vidakulu (talakh) iccetappudu variki, vari nirnita gad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! (నీ అనుచర సమాజానికి చెప్పు) మీరు మీ స్త్రీలకు విడాకులు ఇస్తున్నప్పుడు వారి గడువు (ఇద్దత్) ప్రకారం విడాకులివ్వండి. ‘గడువు’ (రుతువు)ను లెక్కిస్తూ ఉండండి. మీ ప్రభువైన అల్లాహ్ కు భయపడుతూ ఉండండి. మీరు వారిని వారి ఇండ్ల నుండి గెంటివేయకండి, వారు సయితం వెళ్లిపోకూడదు. ఒకవేళ వారు బాహాటంగా ఏదైనా నీతిబాహ్యమైన చేష్టకు ఒడిగడితే (అప్పుడు వెళ్ళగొట్టవచ్చు). ఇవి అల్లాహ్ నిర్ధారించిన హద్దులు. ఎవరైతే అల్లాహ్ విధించిన హద్దులను అతిక్రమిస్తాడో అతడు తన స్వయానికే అన్యాయం చేసుకున్నవాడవుతాడు. నీకు తెలీదు – బహుశా అల్లాహ్ దీని తరువాత ఏదైనా కొత్త పరిస్థితిని కల్పిస్తాడేమో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

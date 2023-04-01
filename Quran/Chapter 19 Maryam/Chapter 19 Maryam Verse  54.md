@@ -2676,6 +2676,12 @@ Mariyu ī granthaṁ (khur'ān) lō vaccina ismāyīl gāthanu prastāvin̄cu. N
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ గ్రంథంలో ఇస్మాయీలు వృత్తాంతాన్ని గురించి కూడా ప్రస్తావించు. అతను వాగ్దాన పాలనలో సత్యవంతుడు. మా తరఫున పంపబడిన సందేశహరుడు, ప్రవక్త కూడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Niku teliyada? Niscayanga, allah akasam nundi nitini kuripinci, taruvata da
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, నువ్వు చూడలేదా? – అల్లాహ్‌ ఆకాశం నుంచి వర్షాన్ని కురిపించి, దాన్ని భూగర్భంలోని ఊటలలోనికి చేరుస్తున్నాడు. మరి దాని ద్వారా రకరకాల పంటల్ని ఉత్పన్నం చేస్తున్నాడు. మరి అవి ఎండిపోతాయి. అప్పుడు నువ్వు వాటిని పసుపు రంగులో చూస్తావు. తరువాత వాటిని పొట్టుపొట్టుగా చేసేస్తాడు. విజ్ఞుల కోసం ఇందులో మహోపదేశం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Ataṟku tāvūt, ‘‘uṉ āṭṭai, avar taṉ āṭukaḷuṭaṉ cērttu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను (దావూదు) ఇలా అన్నాడు: “ఇతను తన గొర్రెలతో పాటు నీ గొర్రెనొక్క దానిని కూడా కలుపుకుంటానని అడిగి నీపై అన్యాయానికి ఒడిగడుతున్నాడు. భాగస్వాములలో చాలామంది (ఇలాంటి వారే అయి ఉంటారు. వారు) ఒండొకరిపై అన్యాయానికి పాల్పడుతూ ఉంటారు. అయితే విశ్వసించి, సత్కార్యాలు చేసేవారు మాత్రం అలా చేయరు. కాని అలాంటి వారు చాలా కొద్దిమంది మాత్రమే ఉంటారు.” (అంతే!) మేము అతన్ని పరీక్షిస్తున్నామన్న సంగతిని దావూదు గ్రహించాడు. మరి తన ప్రభువును క్షమాభిక్ష కోరసాగాడు. కడుదీనంగా మోకరిల్లాడు. (ఏకాగ్రతతో తన ప్రభువు వైపునకు) మరలాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

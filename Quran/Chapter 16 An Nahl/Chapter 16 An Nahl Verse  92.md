@@ -2676,6 +2676,12 @@ mariyu mīru ā strīvalē kākaṇḍi, ē strī ayitē svayaṅgā kaṣṭapa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తన నూలును గట్టిగా వడికిన తరువాత, తనే స్వయంగా ముక్కలుముక్కలుగా త్రెంచివేసిన స్త్రీ మాదిరిగా అయిపోకండి. ఒక వర్గం మరో వర్గం కంటే మించిపోవాలన్న ఉద్దేశంతో మీరు మీ ప్రమాణాలను పరస్పరం మోసగించుకునే సాధనాలుగా చేసుకుంటున్నారు. అసలు విషయం ఏమిటంటే ఈ ప్రమాణం ద్వారా అల్లాహ్‌ మిమ్మల్ని పరీక్షిస్తున్నాడు. నిశ్చయంగా అల్లాహ్‌ ప్రళయదినాన మీరు విభేదించుకునే విషయాలన్నింటినీ మీకు విడమరచి చెబుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

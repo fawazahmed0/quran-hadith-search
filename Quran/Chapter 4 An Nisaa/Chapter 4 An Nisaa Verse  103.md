@@ -2676,6 +2676,12 @@ ika namāj nu pūrti cēsina taruvāta nilucunnā, kūrcunnā, paruṇḍinā al
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మీరు నమాజును నెరవేర్చిన తరువాత నిలుచున్నా, కూర్చున్నా, పరుండినా అల్లాహ్‌ను స్మరిస్తూ ఉండండి. అయితే పరిస్థితులు కుదుటపడిన తరువాత మాత్రం నమాజును నెలకొల్పండి. నిస్సందేహంగా నమాజును నిర్ధారిత వేళల్లో చేయటం విశ్వాసులకు విధిగా చేయబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Inho ojoti Alloh ast, ki -ej Pajomʙar- ʙa sidq va ʙovarj ʙar tu mexonem. Va 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఇవి అల్లాహ్‌ వచనాలు. వాటిని మేము నీకు ఉన్నదున్నట్లుగా చదివి వినిపిస్తున్నాము. లోకవాసులకు అన్యాయం చేయాలన్న తలంపు అల్లాహ్‌కు ఎంతమాత్రం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

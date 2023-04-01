@@ -2676,6 +2676,12 @@ vārannāru: "Ō sardār (ajīj) vāstavāniki, itani taṇḍri cālā musaliv�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు వారు, “ఓ అజీజ్‌!(ఓ ఈజిప్టు అధినేతా!) ఇతని తండ్రి మరీ ముసలివాడు. మీరు ఇతనికి బదులుగా మాలో ఎవరినయినా సరే తీసేసుకోండి (ఇతన్ని మాత్రం విడిచిపెట్టండి). మీరు మాకు పుణ్యాత్మునిలా కనబడుతున్నారు” అని విన్నవించుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

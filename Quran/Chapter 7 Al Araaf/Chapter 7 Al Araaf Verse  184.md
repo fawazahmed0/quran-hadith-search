@@ -2676,6 +2676,12 @@ emi? Tana sahacarudu picci pattina vadu kadani varu gamanincaleda? Atanu kevalam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, తమ సహవాసిపై ఏ మాత్రం ఉన్మాద ప్రభావం లేదన్న విషయాన్ని గురించి వారు ఆలోచించలేదా? అతను స్పష్టంగా హెచ్చరించేవాడు మాత్రమే (అతను ఎంతమాత్రం ఉన్మాది కాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

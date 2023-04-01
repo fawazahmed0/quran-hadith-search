@@ -2676,6 +2676,12 @@ Mariyu ā samayānni jñāpakaṁ cēsukōṇḍi: Appuḍu mīru alpasaṅkhyal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకప్పటి మీ పరిస్థితిని కాస్త జ్ఞప్తికి తెచ్చుకోండి – అప్పట్లో మీరు అవనిలో అల్ప సంఖ్యలో ఉండేవారు. మరీ బలహీనులుగా పరిగణించబడేవారు. ప్రజలు మిమ్మల్ని మట్టుబెడతారేమోనని మీరు భయంతో బిక్కుబిక్కుమంటూ ఉండేవారు. అలాంటి పరిస్థితిలో అల్లాహ్‌ మీకు ఆశ్రయమిచ్చి, తన సహాయంతో మీకు బలిమిని ఇచ్చాడు. మీకు పరిశుభ్రమైన, పరిశుద్ధమైన ఆహార వస్తువులను ప్రసాదించాడు – మీరు కృతజ్ఞులై ఉండేందుకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

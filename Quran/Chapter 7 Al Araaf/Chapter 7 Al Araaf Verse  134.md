@@ -2676,6 +2676,12 @@ mariyu vāripaiki āpada vaccinapuḍu vāranēvāru: "Ō mūsā! Nī prabhuvu n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిపై ఏదన్నా ఆపద వచ్చిపడినప్పుడు, “ఓ మూసా! నీకు నీ ప్రభువు చేసిన వాగ్దానం గురించి మా కోసం నీ ప్రభువును ప్రార్థించు. ఈ ఆపదను గనక నువ్వు మానుంచి దూరం చేస్తే మేము నిన్ను తప్పకుండా విశ్వసిస్తాము. ఇస్రాయీలు సంతతి వారిని కూడా (విడుదల చేసి) నీతో పంపిస్తాము” అని అనేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

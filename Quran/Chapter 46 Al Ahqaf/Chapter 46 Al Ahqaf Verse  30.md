@@ -2676,6 +2676,12 @@ vāru (jinnātulu) ilā annāru: "Ō mā jātivāralārā! Vāstavaṅgā mēmu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలా అన్నారు : “ఓ మా జాతివారలారా! మూసా తరువాత అవతరింపజేయబడిన గ్రంథాన్ని మేము విన్నాము. అది తనకు పూర్వం ఉన్న దైవగ్రంథాలన్నింటినీ ధృవీకరిస్తోంది. ఇంకా – అది సత్యధర్మం వైపునకు, తిన్నని దారి వైపునకూ దర్శకత్వం వహిస్తోంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāriki ihalōka jīvitānni ī upamānaṁ dvārā bōdhin̄cu: Mēmu ā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ప్రాపంచిక జీవితపు ఉదాహరణను కూడా వారికి తెలుపు. అది మేము ఆకాశం నుంచి కురిపించే వర్షపు నీరు వంటిది. దానివల్ల నేలలో దట్టమైన పచ్చిక మొలిచింది. ఆఖరికి అది పొట్టు పొట్టుగా మారిపోగా, గాలులు దాన్ని లేపుకుపోతాయి. అల్లాహ్‌ అన్నింటిపై అధికారం కలిగి ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

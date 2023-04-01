@@ -2676,6 +2676,12 @@ mariyu nēnu mim'malni - mariyu allāh ku badulugā mīru prārthistunna vāṭi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను మిమ్మల్నీ, అల్లాహ్‌ను విడిచి మీరు మొరపెట్టుకునే వారందరినీ వదలి పోతున్నాను. కేవలం నా ప్రభువును మాత్రమే వేడుకుంటాను. నా ప్రభువుని వేడుకుని విఫలుణ్ణి కానన్న నమ్మకం నాకుంది” అని (ఇబ్రాహీం) చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

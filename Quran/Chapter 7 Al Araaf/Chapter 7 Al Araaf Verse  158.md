@@ -2676,6 +2676,12 @@ Bigū: «Ej mardum, man firistodai Alloh taolo ʙa sūji hamai şumo hastam.Hamo
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) వారికి చెప్పు : “ఓ ప్రజలారా! నేను భూమ్యాకాశాల సామ్రాజ్యానికి అధిపతి అయిన అల్లాహ్‌ తరఫున మీ అందరి వద్దకు పంపబడిన ప్రవక్తను. ఆయన తప్ప మరో ఆరాధ్యుడు లేడు. ఆయనే బ్రతికించేవాడు, ఆయనే మరణాన్ని ఇచ్చేవాడు. కనుక అల్లాహ్‌ను విశ్వసించండి. సందేశహరుడు, నిరక్షరాసి అయిన ఆయన ప్రవక్తను కూడా విశ్వసించండి – ఆ ప్రవక్త అల్లాహ్‌ను మరియు ఆయన ఆదేశాలను విశ్వసిస్తాడు. అతన్ని అనుసరించండి. తద్వారా మీరు సన్మార్గం పొందుతారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

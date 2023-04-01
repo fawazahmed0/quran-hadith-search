@@ -2676,6 +2676,12 @@ appuḍu (ā rōju) vāru (ā sāṭigā kalpin̄cabaḍina vāru) tamanu anusar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ సమయంలో, వీళ్ళచేత అనుసరించబడిన నాయకులు తమ అనుచరులతో తమకు ఏ మాత్రం సంబంధం లేనట్లుగా ప్రవర్తిస్తారు. ఇంకా వారు శిక్షను కళ్ళారా చూసుకుంటారు. వారి మధ్య ఉండే సంబంధ బాంధవ్యాలన్నీ తెగిపోతాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

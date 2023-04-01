@@ -2676,6 +2676,12 @@ kāni evaraitē, paścāttāpa paḍi, tamanu tāmu sanskarin̄cukoni, allāh nu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే పశ్చాత్తాపం చెంది, తమ ప్రవర్తనను చక్కదిద్దుకుని, అల్లాహ్‌ను గట్టిగా నమ్మి, తమ ధర్మాన్ని అల్లాహ్‌ కొరకే ప్రత్యేకించుకున్నట్లయితే అప్పుడు వీరు విశ్వాసులతోపాటు ఉంటారు. త్వరలోనే అల్లాహ్‌ విశ్వాసులకు గొప్ప ప్రతిఫలాన్ని ప్రసాదిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

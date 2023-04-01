@@ -2676,6 +2676,12 @@ taruvāta vārandarū yūsuph vaddaku veḷḷinappuḍu, atanu tana tallidaṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత ఈ కుటుంబీకులంతా యూసుఫ్‌ వద్దకు చేరుకున్నప్పుడు, యూసుఫ్‌ తన తల్లిదండ్రులకు తన దగ్గర స్థానం ఇచ్చాడు. “అల్లాహ్‌కు సమ్మతమైనట్లయితే మీరంతా సురక్షితంగా ఈజిప్టులోకి వచ్చేయండి” అని అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

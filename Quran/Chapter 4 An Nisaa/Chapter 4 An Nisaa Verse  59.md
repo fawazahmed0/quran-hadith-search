@@ -2676,6 +2676,12 @@ o visvasulara! Miru allah ku vidheyulai undandi; mariyu ayana sandesaharuniki vi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! అల్లాహ్‌కు విధేయత చూపండి. ప్రవక్త (సల్లల్లాహు అలైహి వ సల్లం)కు విధేయత చూపండి. మరియు మీలోని అధికారులకు కూడా. ఆపైన ఏ విషయంలోనైనా మీ మధ్య వివాదం తలెత్తితే దాన్ని అల్లాహ్‌ మరియు ప్రవక్త వైపుకు మరల్చండి – మీకు నిజంగా అల్లాహ్‌పై, అంతిమ దినంపై నమ్మకం ఉన్నట్లయితే (మీరిలా చేయటం అవశ్యం)! ఇదే మేలైన పద్ధతి. పరిణామం రీత్యా కూడా ఇదే అన్నింటికంటే ఉత్తమమైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

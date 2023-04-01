@@ -2676,6 +2676,12 @@ akasalalonu mariyu bhumilonu unna samastam allah pavitratanu koniyadutuntayi. Ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలోనూ, భూమిలోనూ ఉన్న వస్తువులన్నీ అల్లాహ్ పవిత్రతను కొనియాడుతున్నాయి. ఆయన గొప్ప శక్తిశాలి, వివేచనాశీలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

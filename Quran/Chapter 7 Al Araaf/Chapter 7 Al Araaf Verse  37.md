@@ -2676,6 +2676,12 @@ Ika allāh pai asatyālu kalpin̄cē vāni kaṇṭē; lēdā āyana sūcanalanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌కు అబద్ధాలను అంటగట్టేవాని కంటే లేదా ఆయన ఆయతులను అసత్యాలని కొట్టిపారేసేవాని కంటే పరమ దుర్మార్గుడెవడుంటాడు? అటువంటి వారికోసం రాసిపెట్టి ఉన్న భాగం వారికి లభించి తీరుతుంది. ఆఖరికి మా దూతలు వారి ప్రాణాలు స్వాధీనం చేసుకోవటానికి వారివద్దకు వచ్చినప్పుడు “అల్లాహ్‌ను వదలి మీరు ఆరాధిస్తూ ఉన్నవారు ఇప్పుడెక్కడున్నారు?” అని అడుగుతారు. “వారంతా మా వద్ద నుంచి మటుమాయమై పోయారు” అని వాళ్ళు చెబుతారు. తాము అవిశ్వాసులుగా ఉండేవారన్న విషయాన్ని గురించి వారు స్వయంగా సాక్ష్యమిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

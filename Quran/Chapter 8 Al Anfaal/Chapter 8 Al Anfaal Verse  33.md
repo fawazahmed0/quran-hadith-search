@@ -2676,6 +2676,12 @@ Kāni (ō muham'mad!) Nīvu vāri madhya unnanta varaku allāh vārini ē mātra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారి మధ్య నువ్వు ఉన్నంతకాలం అల్లాహ్‌ వారిపైకి శిక్షను తీసుకురాడు. వారు క్షమాపణకై వేడుకుంటూ ఉండగా కూడా అల్లాహ్‌ వారిని శిక్షించడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mī prabhuvu paṭla mīru bhāvin̄cina ī bhāvanē mim'malni nāśana�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీ ప్రభువు గురించి మీరు చేసిన ఈ దురాలోచనే మిమ్మల్ని సర్వనాశనం చేసింది. చివరకు మీరు ఘోర నష్టానికి గురయ్యారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

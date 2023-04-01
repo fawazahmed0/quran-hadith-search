@@ -2676,6 +2676,12 @@ mēmē vīrini sr̥ṣṭin̄cinavāramu mariyu vīri śarīrānni dr̥ḍha par
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(మరి చూడబోతే) వీరిని పుట్టించింది , వీళ్ళ కీళ్ళను దృఢపరచినది మేమే. మరి మేము తలచుకున్నప్పుడల్లా వీరికి బదులుగా వీరిలాంటి వారిని తీసుకురాగలము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

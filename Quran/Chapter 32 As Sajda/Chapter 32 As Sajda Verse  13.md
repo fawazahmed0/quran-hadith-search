@@ -2676,6 +2676,12 @@ mariyu mēmu kōrinaṭlayitē, prati vyaktiki (ātmaku) dāni mārgadarśakatva
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము గనక తలచుకుంటే, ప్రతి ఒక్కరికీ సన్మార్గం ప్రసాదించి ఉండేవాళ్ళం. అయితే, “నేను నరకాన్ని జిన్నులతోనూ, మనుషులతోనూ తప్పకుండా నింపుతాను” అన్న నా మాట నిజమయింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

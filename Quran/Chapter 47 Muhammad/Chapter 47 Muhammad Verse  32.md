@@ -2676,6 +2676,12 @@ niścayaṅgā, mārgadarśakatvaṁ spaṣṭaṅgā telisina tarvāta kūḍā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమకు సన్మార్గం స్పష్టమైన తరువాత కూడా తిరస్కార వైఖరిని అవలంబించి, అల్లాహ్‌ మార్గం నుంచి జనులను ఆపుతూ, దైవప్రవక్తకు విరోధులైన వారు ఎట్టి పరిస్థితిలోనూ అల్లాహ్‌కు నష్టం కలిగించలేరు. త్వరలోనే అల్లాహ్‌ వారి ఆచరణలను వృధా చేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

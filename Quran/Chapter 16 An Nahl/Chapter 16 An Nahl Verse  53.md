@@ -2676,6 +2676,12 @@ mariyu mīku labhin̄cina anugrahālannī kēvalaṁ allāh nuṇḍi vaccinavē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ దగ్గరున్న భాగ్యాలన్నీ అల్లాహ్‌ ప్రసాదించినవే. ఇప్పటికీ మీకేదైనా కష్టంవస్తే మీరు ఆయనకే మొరపెట్టుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

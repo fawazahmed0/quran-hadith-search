@@ -2676,6 +2676,12 @@ mariyu ī vidhaṅgā mēmu arabbī bhāṣalō mā śāsanānni avatarimpa jē�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదే విధంగా మేము ఈ ఖుర్‌ఆన్‌ను అరబీ భాషలో(ఉన్న) ఉత్తర్వుగా పంపాము. జ్ఞానం వచ్చేసిన తరువాత కూడా నువ్వు గనక వారి కోరికలను అనుసరించావంటే అల్లాహ్‌ (శిక్ష) నుండి నీకు సహాయపడేవాడు గాని, నిన్ను రక్షించేవాడు గాని ఎవడూ ఉండడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

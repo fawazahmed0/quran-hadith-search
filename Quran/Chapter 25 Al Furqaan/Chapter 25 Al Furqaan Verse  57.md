@@ -2676,6 +2676,12 @@ kāvuna nīvu vāritō anu: "Dīnikai (ī pracārānikai) mītō elāṇṭi pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఈ ఖుర్‌ఆన్‌ సందేశాన్ని అందజేసి నేను మీ నుంచి ఎలాంటి ప్రతిఫలాన్నీ అడగటం లేదు. కాని ఎవరయినా తన ప్రభువు వైపు వెళ్ళే మార్గాన్ని (రుజుమార్గాన్ని) అవలంబిస్తే చాలు” అని వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

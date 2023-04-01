@@ -2676,6 +2676,12 @@ A roju varandaru bayatiki vastaru. Vari e visayam kuda allah nundi rahasyanga un
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజున అందరూ బయల్పడతారు. అప్పుడు వారి (లోగుట్టు) విషయమేదీ అల్లాహ్‌ నుండి దాగి ఉండదు. ఈ రోజు విశ్వసార్వభౌమత్వం ఎవరిది? ఒక్కడైన, తిరుగులేనివాడైన అల్లాహ్‌ది మాత్రమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

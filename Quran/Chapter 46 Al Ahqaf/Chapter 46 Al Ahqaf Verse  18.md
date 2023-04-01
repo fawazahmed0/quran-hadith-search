@@ -2676,6 +2676,12 @@ vīriki pūrvaṁ gatin̄cina jinnātula mariyu mānava samājālalō, ilāṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీళ్లపైనే (అల్లాహ్‌ శిక్ష అవతరిస్తుందనే) వాక్కు రూఢీ అయింది. వీరికి పూర్వం గతించిన జిన్నాతుల, మానవుల వర్గాల లోనే వీరు కూడా చేరిపోతారు. నిస్సందేహంగా వీళ్లంతా నష్ట పోయేవారే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

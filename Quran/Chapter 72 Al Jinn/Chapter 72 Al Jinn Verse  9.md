@@ -2676,6 +2676,12 @@ mariyu vāstavāniki pūrvaṁ akkaḍi māṭalu vinaṭāniki mēmu rahasyaṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“లోగడ మనం విషయాలు వినటానికి ఆకాశంలో పలుచోట్ల (మాటేసి) కూర్చునే వాళ్ళం. ఇప్పుడు ఎవరైనా చెవి యోగ్గి వినదలిస్తే, తన కోసం కాచుకుని ఉన్న అగ్నిజ్వాలను అతను పొందుతున్నాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

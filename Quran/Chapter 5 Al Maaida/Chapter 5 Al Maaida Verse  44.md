@@ -2676,6 +2676,12 @@ niścayaṅgā, mēmu taurāt nu (mūsāpai) avatarimpajēśāmu. Andulō mārga
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము తౌరాతు గ్రంథాన్ని అవతరింపజేశాము. అందులో మార్గదర్శకత్వము, జ్యోతీ ఉండేవి. ఈ తౌరాతు ఆధారంగానే ముస్లిములైన ప్రవక్తలు, రబ్బానీలు, ధర్మవేత్తలు యూదుల సమస్యలను పరిష్కరించేవారు. ఎందుకంటే దేవుని ఈ గ్రంథాన్ని రక్షించవలసిందిగా వారికి ఆజ్ఞాపించటం జరిగింది. దీనికి వారు సాక్షులుగా ఉండేవారు. కాబట్టి మీరు మనుషులకు భయపడకండి. నాకు మాత్రమే భయపడండి. నా వాక్యాలను కొద్దిపాటి వెలకు అమ్ముకోకండి. ఎవరు అల్లాహ్‌ అవతరింపజేసిన వహీ ప్రకారం తీర్పు చెయ్యరో వారే (కరడుగట్టిన) అవిశ్వాసులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

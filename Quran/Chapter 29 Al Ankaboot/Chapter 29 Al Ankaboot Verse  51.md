@@ -2676,6 +2676,12 @@ Emi? Vastavaniki memu nipai avatarimpa jesina i grantham (khur'an) variki vinipi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము నీపై గ్రంథాన్ని అవతరింపజేశాము. అది వారికి చదివి వినిపించబడుతోంది. విశ్వసించేవారి కొరకు ఇందులో కారుణ్యమూ ఉంది, హితబోధ కూడా ఉంది. ఏమిటి? ఇది వారికి సరిపోదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

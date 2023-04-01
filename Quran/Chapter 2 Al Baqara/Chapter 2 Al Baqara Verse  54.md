@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi)! Mūsā tana jātivāritō ilā anna viṣ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(గుర్తు చేయి) మూసా తన జాతి ప్రజలతో ఇలా అన్నాడు: “ఓ నా జాతివారలారా! ఆవుదూడను ఆరాధ్య దైవంగా చేసుకుని మీరు మీ స్వయానికి అన్యాయం చేసుకున్నారు. కనుక ఇప్పుడు మీరు పశ్చాత్తాప భావంతో మీ సృష్టికర్త వైపుకు మరలండి. (ఈ ఘోర కృత్యానికి పాల్పడిన) మీలోని వారిని చంపండి. మీ సృష్టికర్త వద్ద ఇదే మీ కొరకు మేలైనది.” మరి ఆయన మీ పశ్చాత్తాపాన్ని స్వీకరించాడు. నిస్సందేహంగా ఆయన పశ్చాత్తాపాన్ని స్వీకరించేవాడు, కనికరించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

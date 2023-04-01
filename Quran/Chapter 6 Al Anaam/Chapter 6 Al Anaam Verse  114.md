@@ -2676,6 +2676,12 @@ Bigū, (ej Rasul ʙaroi muşrikon): Ojo dovari digare çuz ma'ʙudi xudam va ma'
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, నేను అల్లాహ్‌ను కాకుండా ఇంకొక న్యాయనిర్ణేతను వెతకాలా? యదార్థానికి ఆయన ఒక సంపూర్ణ గ్రంథాన్ని మీ వద్దకు పంపి ఉన్నాడు. అందలి విషయాలు స్పష్టంగా విపులీకరించబడ్డాయి. మేము ఎవరికి గ్రంథం వొసగామో వారికి, ఈ గ్రంథం నీ ప్రభువు తరఫు నుంచి సత్యసమేతంగా వచ్చిందన్న విషయం బాగా తెలుసు. కాబట్టి (ఓ ప్రవక్తా!) నువ్వు శంకించేవారిలో చేరిపోకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

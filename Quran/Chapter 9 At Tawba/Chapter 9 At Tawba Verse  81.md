@@ -2676,6 +2676,12 @@ Vomondagon [az ƣazvai Taʙuk] pas az [muxolifat ʙo] Rasululloh az xonanişinii
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వెనుక ఉండి పోయినవారు, దైవప్రవక్త (సఅసం) వెళ్ళిన తరువాత, తాము ఆ విధంగా (ఇంట్లో) ఉండిపోయినందుకు సంబరపడ్డారు. దైవమార్గంలో తమ ధన ప్రాణాలొడ్డి పోరాడటం వారికి బొత్తిగా ఇష్టంలేదు. పై పెచ్చు ”ఇంత తీవ్రమైన ఎండ వేడిలో బయలుదేరకండి” అని అన్నారు. (ఓ ప్రవక్తా!) “నరకాగ్ని ఇంతకన్నా ఎక్కువ వేడిగా ఉంటుంది” అని వారికి చెప్పు. ఆ సంగతిని వారు గ్రహిస్తే ఎంత బావుండు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

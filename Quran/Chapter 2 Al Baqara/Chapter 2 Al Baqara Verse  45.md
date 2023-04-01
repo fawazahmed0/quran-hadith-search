@@ -2676,6 +2676,12 @@ mariyu sahanaṁ mariyu namāj dvārā (allāh) sahāyānni ardhin̄caṇḍi. N
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు ఓర్పు ద్వారా, నమాజు ద్వారా సహాయం అర్థించండి. నిశ్చయంగా ఇది కష్టమయిన పనే. కాని (అల్లాహ్‌కు) భయపడేవారికి (ఇది సులువైనపని)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

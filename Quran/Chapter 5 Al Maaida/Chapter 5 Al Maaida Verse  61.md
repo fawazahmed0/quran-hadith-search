@@ -2676,6 +2676,12 @@ mariyu vāru (kapaṭa viśvāsulu) nī vaddaku vaccinappuḍu: "Mēmu viśvasin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు మీ వద్దకు వచ్చినప్పుడు, “మేము విశ్వసించాము” అని అంటారు. నిజానికి వారు అవిశ్వాసంతోనే వచ్చారు. మరి ఆ అవిశ్వాసంతోనే తిరిగి వెళ్ళిపోయారు. వారు దాచిపెట్టే దాన్ని అల్లాహ్‌ బాగా ఎరుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

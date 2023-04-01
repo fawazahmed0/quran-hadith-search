@@ -2676,6 +2676,12 @@ o adam santanama prati masjidulo (namaj lo) mi vastralankarana patla srad'dha va
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ఆదం సంతతివారలారా! మీరు మస్జిదుకు హాజరైన ప్రతిసారీ వస్త్రాలంకరణ పట్ల శ్రద్ధ వహించండి. తినండి, త్రాగండి. కాని మితిమీరకండి. మితిమీరిపోయే వారిని ఆయన (అల్లాహ్‌) ఇష్టపడడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

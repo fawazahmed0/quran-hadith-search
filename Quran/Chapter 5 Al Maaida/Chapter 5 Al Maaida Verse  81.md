@@ -2676,6 +2676,12 @@ okavēḷa vāru allāh nū, pravaktanū mariyu atanipai avatarimpajēyabaḍina
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి అల్లాహ్‌ పట్ల, ప్రవక్త పట్ల, ప్రవక్తపై అవతరింపజేయబడిన దానిపట్ల విశ్వాసమే గనక ఉంటే వారు అవిశ్వాసులను స్నేహితులుగా చేసుకునేవారే కాదు. కాని వారిలో చాలా మంది దైవవిధేయతకు దూరమైపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

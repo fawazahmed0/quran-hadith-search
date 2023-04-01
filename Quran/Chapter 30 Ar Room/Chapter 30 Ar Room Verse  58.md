@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, mēmu ī khur'ān lō prajalaku, prati okka viṣayapu upa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము ఈ ఖుర్‌ఆన్‌లో జనుల కోసం అన్నిరకాల దృష్టాంతాలనూ వివరించాము. నువ్వు వారి దగ్గరకు ఏ సూచనను తెచ్చినా, “మీరంతా మిథ్యావాదులే” అని ఈ అవిశ్వాసులు చెబుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

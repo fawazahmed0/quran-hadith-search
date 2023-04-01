@@ -2676,6 +2676,12 @@ mīru allāh paṭla tiraskāra vaikharini elā avalambin̄cagalaru? Mariyu vās
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అల్లాహ్‌ యెడల తిరస్కార వైఖరికి ఎలా ఒడిగట్టగలరు? చూడబోతే నిర్జీవులుగా ఉన్న మీకు ఆయనే ప్రాణం పోశాడు. మరి మీ ప్రాణం తీసేవాడూ, తిరిగి మిమ్మల్ని బ్రతికించేవాడు కూడా ఆయనే. ఆ తరువాత మీరు ఆయన వైపుకే మరలించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāru (aviśvāsulu), ēdainā aślīlamaina pani cēsinapuḍu ilā aṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు సిగ్గుమాలిన పని చేసినప్పుడల్లా, “మేము మా తాత ముత్తాతలను కూడా ఇలా చేస్తుండగా చూశాము. అల్లాహ్‌ కూడా మాకు ఇలాగే చేయమని ఆజ్ఞాపించాడు” అని చెబుతారు. “సిగ్గుమాలిన పనులు చెయ్యమని అల్లాహ్‌ ఎన్నటికీ ఆజ్ఞాపించడు. మీకు ఏ విషయాలైతే తెలియవో అల్లాహ్‌కు అటువంటి వాటిని ఆపాదిస్తారేమిటీ?” అని (ఓ ప్రవక్తా!) వారిని అడుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

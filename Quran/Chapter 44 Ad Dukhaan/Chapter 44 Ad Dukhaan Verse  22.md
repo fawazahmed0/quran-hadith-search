@@ -2676,6 +2676,12 @@ civaraku atanu tana prabhuvuna ilā prārthin̄cāḍu: "Niścayaṅgā, ī janu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(కాని ఎంత నచ్చజెప్పినా వారు వినకపోవటంతో) అతను, “(ఓ ప్రభూ!) ఈ జనులు పాపాత్ములు” అంటూ తన ప్రభువును ప్రార్థించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

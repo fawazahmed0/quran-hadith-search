@@ -2676,6 +2676,12 @@ Mariyu niścayaṅgā, nēnu vārini mārgabhraṣṭulugā cēstānu; mariyu v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“వారిని దారి నుంచి తప్పిస్తూ ఉంటాను. వారికి ఉత్తుత్తి ఆశలు చూపిస్తూ ఉంటాను. పశువుల చెవులు చీల్చమని వారికి పురమాయిస్తాను. అల్లాహ్‌ సృష్టిని మార్చమని వారిని ఆదేశిస్తాను.” వినండి! అల్లాహ్‌ను వదలి షైతానును తన స్నేహితునిగా చేసుకున్నవాడు స్పష్టంగా నష్టపోయినట్లే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

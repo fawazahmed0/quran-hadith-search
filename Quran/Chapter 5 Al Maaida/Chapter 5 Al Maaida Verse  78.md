@@ -2676,6 +2676,12 @@ Isrāyīl santati vārilō aviśvāsa mārgaṁ avalambin̄cina vāru, dāvūd m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇస్రాయీలు సంతతిలోని అవిశ్వాసులు దావూదు నోట, మర్యమ్‌ పుత్రుడైన ఈసా నోట శపించబడ్డారు. ఎందుకంటే వారు అవిధేయతకు పాల్పడేవారు. హద్దుమీరి ప్రవర్తించేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

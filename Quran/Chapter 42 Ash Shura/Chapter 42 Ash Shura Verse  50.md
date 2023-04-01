@@ -2676,6 +2676,12 @@ lēdā! Vāriki kumārulanu mariyu kumārtelanu kalipi prasādistāḍu. Mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేదా వారికి మగపిల్లలను, ఆడపిల్లలను కలిపి ఇస్తాడు. మరి తాను కోరిన వారిని సంతాన హీనులుగా చేసేస్తాడు. ఆయన మహాజ్ఞాని, సంపూర్ణ అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

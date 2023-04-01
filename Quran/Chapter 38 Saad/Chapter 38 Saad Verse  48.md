@@ -2676,6 +2676,12 @@ mariyu ismāyīl, al yasa mariyu jul kipl nu kūḍā jñāpakaṁ cēsukō. Mar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇస్మాయీల్‌, యసా, జుల్‌ కిఫ్ల్‌ (అలైహిముస్సలాం) లను కూడా జ్ఞాపకం చేసుకో. వారంతా ఉత్తముల సమూహానికి చెందినవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

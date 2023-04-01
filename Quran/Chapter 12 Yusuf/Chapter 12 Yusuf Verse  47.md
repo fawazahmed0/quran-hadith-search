@@ -2676,6 +2676,12 @@ nīṅkaḷ toṭarntu ēḻu āṇṭukaḷukku (nallapaṭiyāka) vivacāyam c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(యూసుఫ్‌) ఇలా వివరించాడు: “మీరు ఏడు సంవత్సరాల పాటు నిరాఘాటంగా – ఆనవాయితీ ప్రకారం – సేద్యం చేయాలి. కోతలు కోసిన తరువాత మీరు తినటానికి కొంత భాగాన్ని తీసుకుని మిగిలిన ధాన్యాన్ని కంకుల సమేతంగా ఉంచేయండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

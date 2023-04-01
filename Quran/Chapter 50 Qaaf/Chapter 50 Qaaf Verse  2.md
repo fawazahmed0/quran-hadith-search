@@ -2676,6 +2676,12 @@ Alā kādu! Heccarika cēsēvāḍu, vāri vaddaku vārilō nun̄cē vaccāḍan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ వద్దకు స్వయంగా తమలో నుండే హెచ్చరించేవాడొకడు రావటం వారిని ఆశ్చర్యపరిచింది. అందుకే అవిశ్వాసులు ఇలా అన్నారు : “ఇది మరీ విచిత్రంగా ఉందే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

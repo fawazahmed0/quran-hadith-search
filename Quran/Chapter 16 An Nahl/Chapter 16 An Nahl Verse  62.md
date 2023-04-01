@@ -2676,6 +2676,12 @@ mariyu vāru tamaku iṣṭaṁ lēni dānini allāh koraku niyamistāru. "Niśc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ కోసం ఇష్టపడని దానిని అల్లాహ్‌కు కేటాయిస్తున్నారు. తమకు మంచే జరుగుతుందని వారి నోళ్లు అబద్ధాలు ప్రేలుతున్నాయి. అసంభవం. వారి కోసం ఉన్నది నరకాగ్ని మాత్రమే. అందరికన్నా ముందు అందులోకి పోయేది వాళ్ళే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ o manavulara! Ayana korite, mim'malni antam cesi itarulanu tegaladu. Mariyu vast
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే గనక తలిస్తే ఓ ప్రజలారా! మిమ్మల్ని తొలగించి, మీ స్థానంలో ఇతరుల్ని తేగలడు. ఈ పని చేయగల పూర్తి శక్తి అల్లాహ్‌కు ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

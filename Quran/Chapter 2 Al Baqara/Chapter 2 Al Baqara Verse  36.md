@@ -2676,6 +2676,12 @@ A pidapa saitan variddarini dani (svargam) nundi tappinci, variddarini varunna s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని షైతాన్‌ వారిని పెడత్రోవ పట్టించి, అక్కడి నుంచి బయటికి తీసివేయించాడు. మేము వారిని ఇలా ఆదేశించాము: “దిగిపోండి. మీరు ఒండొకరికి శత్రువులు. ఒక నిర్ణీత కాలం వరకు భూమిపైనే ఉండి మీరు లబ్ది పొందవలసి ఉంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

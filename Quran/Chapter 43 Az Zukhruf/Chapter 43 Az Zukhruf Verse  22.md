@@ -2676,6 +2676,12 @@ alā kādu! Vārilā aṇṭāru: "Vāstavāniki mēmu, mā taṇḍritātalanu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అది కాదు, “మా తాతముత్తాతలు ఒకానొక పద్ధతిపై ఉండటం మేము చూశాము. మేము వాళ్ల అడుగుజాడలలోనే నడుచుకుని సన్మార్గం పొందాము” అని వారు బుకాయిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

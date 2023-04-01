@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Resulullah Sallallahu Aleyhi ve Sellem, Ka'b İbn Ucre'ye: "Herhalde bitler sana eziyet veriyor" dedi. Ka'b: Evet Ey Allah'ın Resulü! diye cevap verdi. Resulullah Sallallahu Aleyhi ve Sellem: "Saçlarını kazıt. Üç gün oruç tut veya altı fakiri doyur yahut bir koyun kes" buyurdu. Tekrar: 1815. 1816, 1817, 1
+Resulullah Sallallahu Aleyhi ve Sellem, Ka'b İbn Ucre'ye: "Herhalde bitler sana eziyet veriyor" dedi. Ka'b: Evet Ey Allah'ın Resulü! diye cevap verdi. Resulullah Sallallahu Aleyhi ve Sellem: "Saçlarını kazıt. Üç gün oruç tut veya altı fakiri doyur yahut bir koyun kes" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1814</td></tr><tr><td>Arabic No</td><td>1814</td></tr><tr><td>Reference</td><td>Book 27 Hadith 9</td></tr></tbody></table></div>
 

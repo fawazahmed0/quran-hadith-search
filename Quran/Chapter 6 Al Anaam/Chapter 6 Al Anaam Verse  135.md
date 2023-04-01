@@ -2676,6 +2676,12 @@ ilā anu: "Ō nā jāti (viśvasin̄cani) prajalārā! Mīru (sari anukunnadi) m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! వారికి ఇలా చెప్పు : “ఓ నా జాతి ప్రజలారా! మీ పని మీరు చేయండి. నా కర్తవ్యాన్ని నేను నెరవేరుస్తూ ఉంటాను. ఈ లోకంలో మేలైన పరిణామం ఎవరికి చెందుతుందో త్వరలోనే మీకు తెలిసిపోతుంది. అన్యాయానికి పాల్పడే వారు నిశ్చయంగా ఎన్నటికీ సాఫల్యం పొందలేరు.’
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

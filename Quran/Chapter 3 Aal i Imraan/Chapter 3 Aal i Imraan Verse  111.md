@@ -2676,6 +2676,12 @@ vāru mim'malni konta varaku bādhin̄caṭaṁ tappa, mīku ē vidhamaina hāni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు మీకు ఏమాత్రం హాని కలిగించలేరు – మహా అయితే కొంచెం బాధించటం తప్ప. ఒకవేళ మీతో తలపడవలసిన పరిస్థితే ఏర్పడినట్లయితే వారు మీకు వెన్ను చూపి పారిపోతారు. ఆ తరువాత వారికెలాంటి సహాయమూ లభించదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

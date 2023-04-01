@@ -2676,6 +2676,12 @@ mariyu mī pramāṇālanu parasparaṁ mōsagin̄cukōvaṭāniki upayōgin̄cu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు మీ ప్రమాణాలను పరస్పరం మోసగించుకోవటానికి సాధనాలుగా చేసుకోకండి. (మీ ధోరణి గనక ఇలాగే ఉంటే) నిలదొక్కుకున్న మీదట (మీ) అడుగులు తడబడతాయి. మీరు కఠినమైన శిక్షను చవిచూడవలసి ఉంటుంది. ఎందుకంటే మీరు అల్లాహ్‌ మార్గాన అడ్డు తగిలారు. మీకు పెద్ద శిక్షపడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

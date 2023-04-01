@@ -2676,6 +2676,12 @@ mariyu prajalalō okaḍuṇṭāḍu, jñānaṁ lēnidē, allāh nu gurin̄ci 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జ్ఞానం లేకపోయినా అల్లాహ్‌ విషయంలో వాదించేవారు కూడా జనులలో కొందరున్నారు. వారు తలబిరుసు అయిన ప్రతి షైతానును అనుసరిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

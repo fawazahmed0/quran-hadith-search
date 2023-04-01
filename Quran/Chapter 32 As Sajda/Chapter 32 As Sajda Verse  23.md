@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā, mēmu mūsāku granthānni iccāmu. Kāvuna, (ō pravakt�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము మూసాకు గ్రంథం వొసగి ఉన్నాము. కాబట్టి అతన్ని కలుసుకునే విషయంలో నువ్వు ఏమాత్రం సంశయంలో పడకూడదు. మేము దానిని ఇస్రాయీల్‌ సంతతి వారికోసం మార్గదర్శక సాధనంగా చేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu (dāniki pratigā) mārgadarśakatvaṁ pondina vāriki, allāh mārgadar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా, సన్మార్గం పొందినవారి సన్మార్గంలో అల్లాహ్‌ వృద్ధిని వొసగుతాడు. మిగిలి ఉండే సత్కార్యాలు పుణ్యఫలం రీత్యానూ, పరిణామం రీత్యానూ నీ ప్రభువు సన్నిధిలో ఎంతో మేలైనవి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

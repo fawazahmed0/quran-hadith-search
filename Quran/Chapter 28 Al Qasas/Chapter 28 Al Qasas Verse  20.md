@@ -2676,6 +2676,12 @@ Mariyu oka vyakti nagarapu oka vaipu nuṇḍi parigettukuṇṭū vacci ilā an
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నగరం అటు చివరి నుంచి ఒక వ్యక్తి పరుగెత్తుకుంటూ వచ్చి, “మూసా! ఇక్కడి పెద్దలు నిన్ను తుదముట్టించేందుకు సంప్రతింపులు జరుపుతున్నారు. అందుకే నువ్వు తక్షణం ఇక్కడి నుంచి వెళ్ళిపో (నా మాట నమ్ము). నీ మంచిని కోరే వారిలో నేనూ ఒకణ్ణి” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

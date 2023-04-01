@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē allāh yokka sandēśaharuni sannidhilō tama kaṇṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరైతే దైవప్రవక్త సమక్షంలో అణకువతో (తగ్గు స్వరాలలో) మాట్లాడుతారో వారి హృదయాలను అల్లాహ్ ధర్మ నిష్ఠ (తఖ్వా) కోసం పరికించాడు. వారికి మన్నింపుతో పాటు గొప్ప ప్రతిఫలం కూడా ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

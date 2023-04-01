@@ -2676,6 +2676,12 @@ iṅkā ilā anu: "Ō grantha prajalārā! Mīru dāniki (satyamārgāniki) sāk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”గ్రంథవహులారా! అల్లాహ్‌ మార్గం నుంచి మీరు విశ్వసించినవారిని ఎందుకు అడ్డుకుంటున్నారు? (ఇదే సన్మార్గం అన్న దానికి) మీరు సాక్షులై ఉండి కూడా అందులో లోపాలు వెతికే ప్రయత్నం ఎందుకు చేస్తున్నారు? అల్లాహ్‌ మీ చేష్టల పట్ల పరధ్యానానికి లోనైలేడు” అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

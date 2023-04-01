@@ -2676,6 +2676,12 @@ Emi? Viru bhumipai prayanam ceyaleda? Viri purvikula gati emayindo cudataniki? V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారు భువిలో సంచరించి, తమ పూర్వీకులకు పట్టిన గతేమిటో చూడలేదా? వారు బలపరాక్రమాలలో వీళ్ళ కన్నా మరింత గట్టివారే. వారు (కూడా) భూమిని బాగా దున్నారు. వీళ్ళకన్నా బాగా సేద్యం చేశారు (వసింపజేశారు). వారి వద్దకు వారి ప్రవక్తలు స్పష్టమైన నిదర్శనాలను తీసుకువచ్చారు. అల్లాహ్‌ వారికి అన్యాయం చేయలేదు. కాని (యదార్థానికి) వారు తమకు తామే అన్యాయం చేసుకునేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

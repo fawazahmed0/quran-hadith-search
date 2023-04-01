@@ -2676,6 +2676,12 @@ mariyu dēvadūtalu: "Ō maryam! Niścayaṅgā, allāh ninnu ennukunnāḍu. Ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఆ సందర్భాన్ని కూడా జ్ఞాపకం చేయి. మర్యమ్‌ను ఉద్దేశించి) దైవదూతలు ఇలా అన్నారు: ”ఓ మర్యమ్‌! అల్లాహ్‌ (తన సేవ కొరకు) నిన్ను ఎన్నుకున్నాడు. నిన్ను పరిశుద్ధురాలిగా చేశాడు. ప్రపంచంలోని మహిళలందరిపై నీకు ప్రాధాన్యతను ఇస్తూ నీ ఎంపిక చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

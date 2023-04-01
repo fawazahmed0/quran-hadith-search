@@ -2676,6 +2676,12 @@ appuḍu (jarigindantā) vāriki pūrti jñānantō vivaristāmu. Endukaṇṭē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మాకు ప్రతిదీ తెలుసు గనక తర్వాత వారి ముందు ఉన్నదున్నట్టు విప్పి చెబుతాము – మాకు ఏదీ తెలియకుండా లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

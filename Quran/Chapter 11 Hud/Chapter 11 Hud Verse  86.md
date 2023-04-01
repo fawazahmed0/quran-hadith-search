@@ -2676,6 +2676,12 @@ mīru viśvāsulē ayitē, (prajalaku vāri hakku iccina taruvāta) allāh mī k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు విశ్వాసులే అయితే, అల్లాహ్‌ ధర్మ సమ్మతం గావించిన మిగులు మాత్రమే మీ కొరకు శ్రేయస్కరమైనది. నేను మీపై కావలివాణ్ణి మాత్రంకాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

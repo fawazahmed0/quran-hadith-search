@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulu ilā aṇṭāru: "Idi (ī khur'ān) kēvalaṁ oka bū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇది, ఇతను స్వయంగా కల్పించుకున్న అబద్ధం తప్ప మరేమీ కాదు. ఈ విషయంలో ఇతరులు కూడా ఇతనికి సాయపడ్డారు” అని అవిశ్వాసులు చెప్పసాగారు. నిజానికి వారు చాలా అన్యాయానికి, ఆసాంతం అబద్ధానికి ఒడిగట్టారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

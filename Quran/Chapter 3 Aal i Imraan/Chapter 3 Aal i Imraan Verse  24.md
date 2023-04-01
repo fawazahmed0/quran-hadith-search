@@ -2676,6 +2676,12 @@ vāru alā cēyaṭāniki kāraṇaṁ vāru: "Narakāgni konni dinālu mātram�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి (ఈ వైముఖ్య) ధోరణికి కారణం; ”నరకాగ్ని మమ్మల్ని లెక్కించదగిన కొన్ని రోజులు మాత్రమే కాల్చుతుంది” అని వారు చెప్పటమే. వారి ఈ మనోకల్పిత విషయాలే ధర్మం విషయంలో వారిని మోసంలో పడవేశాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

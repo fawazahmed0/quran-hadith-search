@@ -2676,6 +2676,12 @@ ika nīvu nāku cēsina ā upakārāniki nannu etti poḍistē! Nīvu mātraṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇక నువ్వు నాకు ఉపకారం చేశావని ఎత్తిపొడుస్తున్న విషయమంటావా? వాస్తవానికి నువ్వు ఇస్రాయీలు సంతతిని బానిసలుగా చేసి పెట్టుకున్నావు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

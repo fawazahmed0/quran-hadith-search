@@ -2676,6 +2676,12 @@ Mariyu mīru bhūmilō prayāṇaṁ cēsēṭapuḍu namājulanu saṅkṣipta�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు ప్రయాణంలో ఉన్నప్పుడు, అవిశ్వాసులు మిమ్మల్ని వేధిస్తారనే భయం గనక మీకుంటే, మీరు నమాజులను కుదించుకోవటంలో తప్పులేదు. నిశ్చయంగా అవిశ్వాసులు మీ బహిరంగ శత్రువులే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

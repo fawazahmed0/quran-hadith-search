@@ -2676,6 +2676,12 @@ vāru mā sūcanalanu anniṭinī abad'dhālani tiraskarin̄cāru, kāvuna mēmu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని వారు మా సూచనలన్నింటినీ ధిక్కరించారు. అందుచేత మేము వారిని మహాశక్తిమంతుడు, సర్వాధికారి పట్టుకున్నట్లే పట్టుకున్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

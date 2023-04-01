@@ -2676,6 +2676,12 @@ eḻutappaṭṭa ēṭukaḷaic caruṭṭuvataip pōl vāṉattai nām curuṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజున మేము వ్రాతప్రతులను చుట్టిపెట్టినట్లుగా ఆకాశాన్ని చుట్టివేస్తాము. ఏ విధంగా మేము మొదటిసారి సృష్టించామో అదేవిధంగా మలిసారి కూడా చేస్తాము. ఈ వాగ్దానాన్ని నెరవేర్చే బాధ్యత మాపైన ఉంది. దాన్ని మేము తప్పకుండా నెరవేరుస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

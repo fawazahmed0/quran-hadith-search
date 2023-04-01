@@ -2676,6 +2676,12 @@ vāri koraku, āyana taraphu nuṇḍi unnata sthānālu, kṣamābhikṣa mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన తరఫున వారి కొరకు ఉన్నత స్థానాలూ ఉన్నాయి. మన్నింపు మరియు కారుణ్యం కూడా ఉంది. అల్లాహ్‌ క్షమించేవాడు, కరుణించేవాడు కూడాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

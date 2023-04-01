@@ -2676,6 +2676,12 @@ emi? Ayane kada? Akasalanu mariyu bhumini srstincinavadu mariyu mi koraku akasam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాస్త చెప్పండి, ఆకాశాలనూ, భూమిని సృష్టించిన వారెవరు? ఆకాశం నుంచి మీ కొరకు వర్షాన్ని కురిపించిందెవరు? మరి దాని ద్వారా అందాలు జాలువారే తోటలను ఉత్పత్తి చేసింది ఎవరు? ఆ తోటల చెట్లను మొలకెత్తించటం అనేది మీ వల్ల కాని పని. మరి అల్లాహ్‌తో పాటు మరో ఆరాధ్య దేవుడు కూడా ఉన్నాడా? (లేనే లేడు) కాని ఈ జనులు సమతౌల్యం నుంచి తొలగిపోతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

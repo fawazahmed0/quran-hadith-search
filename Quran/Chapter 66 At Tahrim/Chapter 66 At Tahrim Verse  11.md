@@ -2676,6 +2676,12 @@ mariyu allāh, viśvasin̄cinavārilō phir'aun bhāryanu udāharaṇagā pērko
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి అల్లాహ్ విశ్వాసుల కొరకు ఫిరౌను భార్య ఉదాహరణను ఇస్తున్నాడు. అప్పుడామె ఇలా వేడుకున్నది: “నా ప్రభూ! నా కోసం నీ దగ్గర – స్వర్గంలో – ఒక గృహాన్ని నిర్మించు. నన్ను ఫిరౌను నుండి, అతని (దుష్ట) పోకడ నుండి రక్షించు. దుర్మార్గ జనుల నుండి నాకు విముక్తిని ప్రసాదించు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

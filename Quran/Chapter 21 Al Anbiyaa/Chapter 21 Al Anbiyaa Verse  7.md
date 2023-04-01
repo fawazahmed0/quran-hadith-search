@@ -2676,6 +2676,12 @@ mariyu nīku pūrvaṁ kūḍā (ō muham'mad!) Mēmu puruṣulanu mātramē pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌-సఅసం!) నీకు పూర్వం మేము ప్రవక్తలుగా పంపిన వారంతా పురుషులే. వారివద్దకు మేము మా సందేశాన్ని (వహీని) పంపేవాళ్ళం. ఈ సంగతి మీకు తెలియకపోతే జ్ఞానులను (గ్రంథవహులను) అడిగి తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

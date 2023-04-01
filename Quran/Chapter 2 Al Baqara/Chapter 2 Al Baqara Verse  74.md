@@ -2676,6 +2676,12 @@ kānī dīni taruvāta kūḍā mī hr̥dayālu kaṭhinamaipōyāyi, avi rāḷ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని ఆ తరువాత మీ హృదయాలు కఠినమైపోయాయి. రాళ్ళ మాదిరిగా, కాదు – వాటికంటే కూడా కఠినం అయిపోయాయి. కొన్ని రాళ్ళల్లోనుంచైతే సెలయేళ్ళు ప్రవహిస్తాయి. మరి కొన్ని రాళ్ళు పగలగా వాటి నుంచి నీరు చిమ్ముతుంది. మరికొన్ని అల్లాహ్‌ భయంతో (కంపించి) క్రిందపడి పోతాయి. మీ కార్యకలాపాల పట్ల అల్లాహ్‌ పరధ్యానంలో ఉన్నాడని అనుకోకండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

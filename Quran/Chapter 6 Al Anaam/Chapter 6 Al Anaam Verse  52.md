@@ -2676,6 +2676,12 @@ Mariyu evaraitē tama prabhuvunu udayaṁ mariyu sāyantraṁ prārthistū, āya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఉదయం, సాయంత్రం తమ ప్రభువును ప్రార్థిస్తూ, కేవలం ఆయన ప్రసన్నతను పొందాలనుకునేవారిని నీ దగ్గరి నుండి తొలగి పొమ్మనకు. (నువ్వు వారిని తొలగి పొమ్మనటానికి) నీపై వారి లెక్క ఏ మాత్రం లేదు. అలాగే నీ లెక్క కూడా వారిపై ఎంతమాత్రం లేదు. అయినప్పటికీ ఒకవేళ నువ్వు వాళ్లను తొలగిపొమ్మన్నావంటే దౌర్జన్యపరులలో చేరిపోతావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

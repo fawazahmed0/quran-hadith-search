@@ -2676,6 +2676,12 @@ mariyu okavēḷa mēmu vāri śikṣanu oka nirṇīta kālaṁ varaku āpi un�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మేము వారికి పడే శిక్షను కొంత వ్యవధి వరకు వాయిదా వేస్తే, “ఆ శిక్ష పడకుండా అడ్డుకుంటున్న వస్తువు ఏది?” అంటారు. వినండి! అది వచ్చిపడిన రోజువారి నుంచి అది తొలగిపోవటం అనేది జరగదు. దేని గురించి వారు పరిహసించేవారో అదే వారిని చుట్టుముడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

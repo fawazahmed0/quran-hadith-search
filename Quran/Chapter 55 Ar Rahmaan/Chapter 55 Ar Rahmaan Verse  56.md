@@ -2676,6 +2676,12 @@ andulō tama dr̥ṣṭi ellappuḍū krindiki van̄ci un̄cē nirmala kan'yalu�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాటి మధ్య (బిడియంతో) చూపులు క్రిందికి వాలి ఉండే స్వర్గ కన్యలుంటారు. వీరికి పూర్వం ఆ స్వర్గ కన్యలను ఏ మానవుడుగానీ, ఏ జిన్నుగానీ ముట్టుకొని ఉండడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

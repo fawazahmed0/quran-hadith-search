@@ -2676,6 +2676,12 @@ mā daivālalō nuṇḍi kondaru nīku kīḍu kaligin̄cāru (ninnu picciki gu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పైగా మా ఆరాధ్య దైవాలలో ఎవరో నిన్ను ఏదైనా వ్యాధికి గురిచేసి ఉంటారని మేము అనుకుంటున్నాము” అని పలికారు. అప్పుడు హూద్‌ ఇలా సమాధానమిచ్చాడు: “అల్లాహ్‌ తప్ప మీరు భాగస్వాములుగా నిలబెట్టే వారందరితో నేను విసుగెత్తి పోయాను. (వారితో నాకెలాంటి సంబంధం లేదు). నేను ఈ విషయానికి అల్లాహ్‌ను సాక్షిగా పెడుతున్నాను, మీరు కూడా దీనికి సాక్షులుగా ఉండండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

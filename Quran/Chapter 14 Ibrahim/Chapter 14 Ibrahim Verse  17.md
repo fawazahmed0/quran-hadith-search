@@ -2676,6 +2676,12 @@ Dānini ataḍu guṭakalu guṭakalugā balavantaṅgā gontulōki dimpaṭāni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతడు అతి కష్టమ్మీద ఒక్కొక్క గుక్కెడూ త్రాగుతాడు. కాని గొంతులోకి దించలేకపోతాడు. అన్నిచోట్ల నుంచీ మృత్యువు వచ్చి కబళించబోతున్నట్లు అతనికి అనిపిస్తుంది. కాని అతడు చావడు. మరి అతడి వెనుక కూడా మరో దుర్భరమైన శిక్ష ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

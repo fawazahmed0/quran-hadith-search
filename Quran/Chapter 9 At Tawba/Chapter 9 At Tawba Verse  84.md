@@ -2676,6 +2676,12 @@ mariyu vārilō (kapaṭa viśvāsulalō) evarainā maraṇistē, ataḍi namāj
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలో ఎవడైనా చస్తే నువ్వు వాడి అంత్యక్రియల నమాజు కూడా ఎన్నటికీ చేయకు. వాడి సమాధి వద్ద కూడా నిలబడకు. వారు అల్లాహ్‌ను, ఆయన ప్రవక్తను తిరస్కరించిన వారు. వారు చచ్చేవరకూ దుష్టులుగా, అవిధేయులుగానే ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

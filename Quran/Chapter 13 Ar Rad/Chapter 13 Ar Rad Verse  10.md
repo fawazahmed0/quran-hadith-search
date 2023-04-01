@@ -2676,6 +2676,12 @@ mīlō okaḍu tana māṭanu rahasyaṅgā ceppinā, lēka dānini bahiraṅga�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీలో ఎవరయినాసరే తమ మాటను మెల్లిగా చెప్పినా, బిగ్గరగా చెప్పినా, ఎవరయినా రాత్రిపూట దాక్కున్నా, పగటిపూట సంచరిస్తున్నా – అల్లాహ్‌కు మాత్రం వారంతా సమానమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

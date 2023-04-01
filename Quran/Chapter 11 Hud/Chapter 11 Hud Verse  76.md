@@ -2676,6 +2676,12 @@ Ipṟāhīmē! (Am'makkaḷ mītu koṇṭa irakkattāl itaip paṟṟi vātiṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ ఇబ్రాహీం! ఈ ఆలోచనను వదలిపెట్టు. నీ ప్రభువు ఉత్తర్వు వచ్చేసింది. ఎవరూ తప్పించలేని శిక్ష వారిపై వచ్చి పడటం తథ్యం” (అని దైవదూతలు పలికారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

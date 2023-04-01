@@ -2676,6 +2676,12 @@ Vāritō ilā anu: "Dīnini (ī khur'ān nu) bhūmyākāśāla rahasyālu telisi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “భూమ్యాకాశాలలో వున్న రహస్యాలన్నింటినీ ఎరిగినవాడు దీనిని (ఈ ఖుర్‌ఆనును) అవతరింపజేశాడు. ఆయన అమితంగా క్షమించేవాడు, అపారంగా కనికరించేవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

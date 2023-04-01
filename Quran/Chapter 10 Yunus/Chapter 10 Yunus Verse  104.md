@@ -2676,6 +2676,12 @@ Maṉitarkaḷē! Nīṅkaḷ eṉ mārkkattil cantēkam koṇṭiruntāl, allā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ప్రవక్తా!) వారికి చెప్పు: “ప్రజలారా! నాధర్మం పట్ల మీకు సందేహం ఉంటే (వినండి), అల్లాహ్‌ను వదలిపెట్టి మీరు పూజించే వారిని నేను పూజించను. అయితే మీప్రాణాలను స్వాధీనం చేసుకునే అల్లాహ్‌ను నేను ఆరాధిస్తున్నాను. విశ్వసించేవారిలో ఉండాలని నాకు ఆదేశించబడింది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

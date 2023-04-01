@@ -2676,6 +2676,12 @@ vāru (rakṣakulu) aṇṭāru: "Ēmī? Mī vaddaku spaṣṭamaina sūcanalu t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు, “ఎందుకు, మీ ప్రవక్తలు స్పష్టమైన నిదర్శనాలు తీసుకుని మీ వద్దకు రాలేదా?!” అని అడుగుతారు. “ఎందుకు రాలేదు? (వచ్చిన సంగతి నిజమే)” అని నరకవాసులు అంటారు. “మరైతే మీరే విజ్ఞప్తి చేసుకోండి” అని నరకపాలకులు చెబుతారు. (కాని) అవిశ్వాసుల విజ్ఞాపనలు నిరర్థకం తప్ప మరేమీ కావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

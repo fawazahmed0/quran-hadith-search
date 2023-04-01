@@ -2676,6 +2676,12 @@ mariyu prati samājāniki oka gaḍuvu niyamimpabaḍi undi. Kāvuna ā gaḍuvu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రతి సమాజానికీ ఒక గడువు నిర్థారించబడి ఉంది. వారి నిర్ణీత సమయం వచ్చేసినప్పుడు ఒక్క క్షణం కూడా వారు వెనకా ముందూ కాలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

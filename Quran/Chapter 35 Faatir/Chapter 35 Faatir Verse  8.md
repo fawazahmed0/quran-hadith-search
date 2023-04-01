@@ -2676,6 +2676,12 @@ emi? Tana duskaryalu tanaku akarsaniyanga kanabadetatlu ceyabadi nanduku, evadai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఏ వ్యక్తికయినా అతని దుష్కర్మలు అందమైనవిగా చేయబడగా, అతను వాటిని మంచి పనులుగా భావిస్తున్నట్లయితే (అతను సన్మార్గం పొందిన వానితో సరితూగుతాడా?)! అల్లాహ్‌ తాను తలచిన వారిని మార్గవిహీనతకు లోనుచేస్తున్నాడు, తాను తలచిన వారికి సన్మార్గం చూపుతున్నాడు. కనుక (ఓ ప్రవక్తా!) నువ్వు వాళ్ల గురించి అదేపనిగా బెంగ పెట్టుకుని నీ ప్రాణానికి ముప్పు తెచ్చి పెట్టుకోకూడదు. వారు చేసేదంతా అల్లాహ్‌కు పూర్తిగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

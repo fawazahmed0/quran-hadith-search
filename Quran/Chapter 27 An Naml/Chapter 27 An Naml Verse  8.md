@@ -2676,6 +2676,12 @@ kāni ataḍu akkaḍiki cērinappuḍu oka dhvani ilā vinipin̄cindi: "Ī agni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తీరా అతను అక్కడకు చేరుకోగానే పిలుపు (విన)వచ్చింది: “ఈ అగ్నిలో ఉన్నవాడు, శుభవంతుడు, దాని చుట్టు ప్రక్కల ఉన్న వారికి శుభము వొసగబడింది. సర్వలోకాల పోషకుడైన అల్లాహ్‌ పవిత్రుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

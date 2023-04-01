@@ -2676,6 +2676,12 @@ mariyu vāru: "Ō allāh! Idi (ī khur'ān) nijaṅgā nī tarapu nuṇḍi vacc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అంతేకాదు),”ఓ అల్లాహ్‌! ఈ ఖుర్‌ఆన్‌ నిజంగా నీ తరఫు నుండే వచ్చి ఉంటే, మాపై ఆకాశం నుంచి రాళ్ళ వాన కురిపించు లేదా మాపై ఏదైనా వ్యధాభరితమైన శిక్షను తీసుకురా” అని కూడా అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

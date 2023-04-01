@@ -2676,6 +2676,12 @@ niścayaṅgā mī pōṣakuḍū, prabhuvū ayina allāh, ākāśālanu mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మీ ప్రభువు అల్లాహ్‌యే. ఆయన ఆకాశాలను, భూమినీ ఆరు రోజులలో సృష్టించాడు. తర్వాత సింహాసనాన్ని (అర్ష్‌ను) అధీష్టించాడు. ఆయన సమస్త వ్యవహారాలను నిర్వహిస్తున్నాడు. ఆయన అనుమతి లేకుండా (ఆయన సమక్షంలో) సిఫారసు చేయగల వాడెవడూలేడు. అటువంటి అల్లాహ్‌యే మీ ప్రభువు. కాబట్టి మీరు ఆయన్నే ఆరాధించండి. అయినా (ఇంత చెప్పినా) మీరు గుణపాఠం గ్రహించరా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

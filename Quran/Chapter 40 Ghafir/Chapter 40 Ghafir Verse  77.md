@@ -2676,6 +2676,12 @@ Kāvuna (ō pravaktā!) Nīvu sahanaṁ vahin̄cu! Niścayaṅgā, allāh vāgd�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ముహమ్మద్‌ -స!) నువ్వు సహనం వహించు. అల్లాహ్‌ వాగ్దానం ముమ్మాటికీ సత్యమైనది. మేము వారికి చేసివున్న వాగ్దానాలలో (హెచ్చరికలలో) కొన్నింటిని మేము నీకు చూపించినా లేక (అంతకుముందే) మేము నీకు మరణం వొసగినా (ఎట్టకేలకు) వారంతా మరలిరావలసింది మా వద్దకే కదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

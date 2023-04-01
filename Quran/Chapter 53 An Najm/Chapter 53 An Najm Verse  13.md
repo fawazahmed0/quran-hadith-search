@@ -2676,6 +2676,12 @@ mariyu vāstavāniki atanu (pravakta) atanini (jibrīl nu) marokasāri (pratyak�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను (ముహమ్మద్ సల్లల్లాహు అలైహివ సల్లం) అతణ్ణి (జిబ్రయీల్ ను) మరో సందర్భంలో కూడా చూసి ఉన్నాడు –
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

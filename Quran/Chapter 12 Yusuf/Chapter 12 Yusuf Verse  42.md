@@ -2676,6 +2676,12 @@ mariyu vāriddarilō viḍudala pondutāḍani bhāvin̄cani vāḍitō (yūsuph
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిద్దరిలో విడుదల చేయబడతాడని భావించిన వానితో యూసుఫ్‌, “నీ చక్రవర్తి ముందు నా గురించి కాస్త ప్రస్తావించు” అన్నాడు. కాని చక్రవర్తి ముందు ప్రస్తావన తీసుకురాకుండా షైతాన్‌ అతన్నిమరుపుకు లోనుచేశాడు. సంవత్సరాల తరబడి యూసుఫ్‌ కారాగారంలోనే ఉండిపోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

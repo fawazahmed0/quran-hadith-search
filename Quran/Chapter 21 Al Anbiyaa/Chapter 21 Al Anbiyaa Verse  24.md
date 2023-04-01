@@ -2676,6 +2676,12 @@ emi? Varu ayananu vadali itara aradhya daivalanu niyamincukunnara? Varito anu: "
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారు అల్లాహ్‌ను కాకుండా ఇతర దేవుళ్ళను కూడా కల్పించుకున్నారా? ఒకవేళ వారలాచేస్తే, “మీరు మీ ప్రమాణాన్ని సమర్పించండి. ఇది నా సహచరుల గ్రంథం. నా పూర్వీకుల నిదర్శనం” అని (ఓ ప్రవక్తా!) వారికి చెప్పు. అసలు విషయం ఏమిటంటే వారిలో చాలామందికి యదార్థం తెలియదు. అందుకే వారు విముఖులై ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

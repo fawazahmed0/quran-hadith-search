@@ -2676,6 +2676,12 @@ avarkaḷukku muṉṉiruppataiyum, avarkaḷukkup piṉṉāl iruppataiyum ava�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి ముందూ వెనుకా ఉన్న స్థితిని గురించి అల్లాహ్‌కు మాత్రమే తెలుసు. అయితే వారికి మాత్రం ఆయన్ని గురించి పూర్తిగా తెలీదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

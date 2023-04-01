@@ -2676,6 +2676,12 @@ oka nirṇīta kālaṁ varaku mīku vāṭilō (ī paśuvulalō) lābhālunnāy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒక నిర్థారిత గడువు వరకు వాటిలో (ఖుర్బానీ పశువులలో) మీ కోసం కొన్ని లాభాలు ఉన్నాయి. ఆ తరువాత అవి జిబహ్‌ చేయబడే చోటు ప్రాచీన గృహం (వద్దనే ఉంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

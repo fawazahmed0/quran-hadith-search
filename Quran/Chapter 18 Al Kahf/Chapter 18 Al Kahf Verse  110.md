@@ -2676,6 +2676,12 @@ Bigū ej Pajomʙar: «Man faqat insone hastam monandi şumo. Ba man vahj meşava
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి ఇలా చెప్పు: “నేనూ మీలాంటి మానవ మాత్రుణ్ణే.(కాకపోతే) ‘మీ అందరి ఆరాధ్యదైవం ఒకే ఆరాధ్య దైవం’ అన్న సందేశం (వహీ) నా వద్దకు పంపబడుతుంది. కనుక తన ప్రభువును కలుసుకోవాలన్న ఆకాంక్ష ఉన్నవాడు సత్కార్యాలు చేయాలి. తన ప్రభువు ఆరాధనలో వేరొకరికి భాగస్వామ్యం కల్పించకూడదు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

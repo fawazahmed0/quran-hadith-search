@@ -2676,6 +2676,12 @@ mariyu āyanē mim'malni bhūmi mīda uttarādhikārulugā niyamin̄ci - mīkicc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే మిమ్మల్ని భూమండలంలో ఖలీఫాలుగా చేశాడు. మీకు ప్రసాదించిన వాటిలో మిమ్మల్ని పరీక్షించే నిమిత్తం కొందరికి మరికొందరిపై ఉన్నత స్థానాలను ప్రసాదించాడు. నిశ్చయంగా నీ ప్రభువు శిక్షించటంలో వేగవంతుడు. అలాగే ఆయన అపారంగా క్షమించేవాడు, కరుణించేవాడు కూడాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

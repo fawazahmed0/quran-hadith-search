@@ -2676,6 +2676,12 @@ vāritō iṅkā ilā anu: "Āyanē ananta karuṇāmayuḍu, mēmu āyananē vi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా! వారికి) చెప్పు: “ఆయనే కరుణామయుడు (అయిన అల్లాహ్). మేము ఆయన్ని విశ్వసించాము. ఆయనపైనే భారం మోపాము. ఇకపోతే, స్పష్టమైన మార్గభ్రష్టత్వానికి గురై ఉన్నదెవరో మీకు త్వరలోనే తెలిసిపోతుంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Niccayamāka evarkaḷ um'miṭam pai'attu(vākkuṟuti) ceykiṟārkaḷō, ava
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే (నీ చేతిలో చెయ్యేసి) విధేయతా ప్రమాణం చేస్తున్నారో వారు యదార్థానికి అల్లాహ్ తో ప్రమాణం చేస్తున్నారు. వారి చేతులపై అల్లాహ్ చెయ్యి ఉంది. ఎవడయినా ప్రమాణ భంగానికి పాల్పడినట్లయితే, ఆ ప్రమాణ భంగపు నష్టం తన అత్మకే చేకూర్చుకుంటాడు. మరేవరయినా అల్లాహ్ తో చేసిన వాగ్దానాన్నినెరవేరిస్తే అల్లాహ్ అతనికి త్వరలోనే గొప్ప ప్రతిఫలాన్ని ప్రసాదిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

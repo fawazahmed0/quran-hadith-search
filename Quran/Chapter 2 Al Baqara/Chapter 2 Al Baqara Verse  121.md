@@ -2676,6 +2676,12 @@ mēmu divya granthānni prasādin̄cina vāru (yūdulu mariyu kraistavulu), dān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఎవరికి గ్రంథం వొసగామో వారు దానిని పారాయణం చేయవలసిన రీతిలో పారాయణం చేస్తారు. (అంతేకాదు,) వారు ఈ గ్రంథాన్ని విశ్వసిస్తారు. ఇక, దీనిపట్ల తిరస్కార వైఖరిని అవలంబించినవారే నష్టపోయేది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

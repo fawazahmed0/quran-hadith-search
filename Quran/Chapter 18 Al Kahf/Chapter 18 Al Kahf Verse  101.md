@@ -2676,6 +2676,12 @@ alāṇṭi vāriki, evari kannulaitē, mā hitōpadēśaṁ paṭla kappabaḍi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నా స్మరణ పట్ల వారి కళ్లు పొరలు క్రమ్ముకుని ఉండేవి. అప్పుడు వారు (సత్య వాక్కును) వినే స్థితిలో కూడా లేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

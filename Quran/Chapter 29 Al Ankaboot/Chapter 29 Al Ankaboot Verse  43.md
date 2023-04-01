@@ -2676,6 +2676,12 @@ mariyu ī udāharaṇalanu mēmu prajalaku (arthaṁ cēsukōvālani) istunnāmu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలకు బోధపరచడానికి మేము ఈ ఉపమానాలను ఇస్తున్నాము. అయితే జ్ఞానం కలవారు మాత్రమే వీటిని అర్థం చేసుకోగలుగుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

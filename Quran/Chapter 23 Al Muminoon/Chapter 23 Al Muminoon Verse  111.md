@@ -2676,6 +2676,12 @@ niścayaṅgā, ī rōju nēnu vāriki, vāri sahanāniki tagina pratiphalānni 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నేను ఈ రోజు వారికి వారి సహనానికి తగిన ప్రతిఫలం ఇచ్చాను. వాస్తవానికి వారు (ఆశించిన మేరకు) సఫలీకృతులయ్యారు (అని అల్లాహ్‌ సెలవిస్తాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

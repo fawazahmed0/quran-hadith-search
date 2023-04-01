@@ -2676,6 +2676,12 @@ mariyu yūdulu ujair allāh kumāruḍani aṇṭāru. Mariyu kraistavulu masīh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఉజైర్‌ అల్లాహ్‌ కుమారుడు” అని యూదులంటున్నారు. “మసీహ్‌ (ఏసు క్రీస్తు) అల్లాహ్‌ కుమారుడు” అని నసారా (క్రైస్తవులు) అంటున్నారు. ఇవి వారి నోటి మాటలు మాత్రమే. తమ పూర్వీకుల్లోని అవిశ్వాసులు చెప్పిన మాటలనే వీళ్ళూ అనుకరిస్తున్నారు. అల్లాహ్‌ వారిని నాశనం చేయుగాక! (సత్యం నుండి) వారెలా తిరిగిపోతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

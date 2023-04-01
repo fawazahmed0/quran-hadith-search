@@ -2676,6 +2676,12 @@ vāriki vāgdānaṁ cēyabaḍina ā dinānni vāru darśin̄cē varaku, vārin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి నువ్వు వాళ్ళను వాళ్ళ వాగుడులోనే, ఆటపాటల్లోనే పడి ఉండనివ్వు. తుదకు వాళ్లకు వాగ్దానం చేయబడుతున్న రోజు వారికి ఎదురవుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

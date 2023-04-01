@@ -2676,6 +2676,12 @@ vāri upamānaṁ ilā undi: Oka agnini veligin̄cagā, adi parisarālanu prakā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ఉపమానం నిప్పు రాజేసిన వ్యక్తి లాంటిది. నిప్పు రాజేసినంతనే పరిసరాల్లోని వస్తువులన్నీ వెలుగులోనికి వచ్చాయి. అంతలోనే అల్లాహ్‌ వారి వెలుగును హరించి, వారిని కారు చీకట్లలో, ఏమీ కానరాని స్థితిలో వదిలేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

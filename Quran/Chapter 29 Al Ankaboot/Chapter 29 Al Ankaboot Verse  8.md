@@ -2676,6 +2676,12 @@ mariyu mēmu mānavuniki tana tallidaṇḍrulatō man̄cigā vyavaharin̄camani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తన తల్లిదండ్రుల యెడల ఉత్తమంగా మెలగాలని మేము మానవునికి తాకీదు చేశాము. అయితే వారు గనక నీకు తెలియని వాటిని, నాకు సాటిగా కల్పించమని నీపై ఒత్తిడి తీసుకువస్తే మటుకు, వారి మాట వినకు. మీరంతా నా వద్దకే మరలి రావలసి ఉంది. అప్పుడు నేను మీరు చేసే పనుల (వాస్తవికత)ను మీకు తెలియజేస్తాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

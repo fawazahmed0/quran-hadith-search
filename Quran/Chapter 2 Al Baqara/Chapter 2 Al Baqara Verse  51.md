@@ -2676,6 +2676,12 @@ Iṅkā (jñāpakaṁ cēsukōṇḍi), mēmu mūsānu nalabhai rātrula vāgdā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(జ్ఞాపకం చేసుకోండి) మేము మూసా (అలైహిస్సలాం)కు నలభై రాత్రుల వాగ్దానం చేసి (అతన్ని పిలిచి) నప్పుడు, అతను వెళ్ళిన తరువాత మీరు ఆవు దూడను పూజించటం మొదలెట్టారు. ఆ విధంగా మీరు దుర్మార్గానికి పాల్పడ్డారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

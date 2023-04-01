@@ -2676,6 +2676,12 @@ mariyu allāh nu mariyu āyana pravaktanu viśvasin̄cani satyatiraskārula kora
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవడైతే అల్లాహ్ నూ, ఆయన ప్రవక్తనూ విశ్వసించాడో అలాంటి అవిశ్వాసుల కోసం మేము మండే అగ్నిని సిద్ధం చేసి ఉంచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu ī durmārgula cēṣṭala nuṇḍi allāh nirlakṣyaṅgā unnāḍan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దుర్మార్గుల కార్యకలాపాల పట్ల అల్లాహ్‌ అశ్రద్ధ వహిస్తున్నాడని అనుకోకు. ఆయన వారికి ఒకానొక రోజు వరకు గడువు ఇస్తున్నాడు – ఆ రోజు వారు కన్నులు తేలవేస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

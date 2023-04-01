@@ -2676,6 +2676,12 @@ mariyu bahuśā idi (ī ālasyaṁ) mīku parīkṣa kāvaccu, lēdā mīku kont
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+బహుశా ఇది మీకొక పరీక్ష కాబోలు! ఒక నిర్ణీత గడువు వరకు లబ్ది (చేకూర్చటం) దీని ఉద్దేశం కాబోలు! ఇది కూడా నాకు తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

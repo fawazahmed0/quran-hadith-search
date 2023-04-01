@@ -2676,6 +2676,12 @@ appuḍu atanu vāriddari paśuvulaku nīru trāpāḍu. Taruvāta nīḍalōki 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అందువల్ల అతను (స్వయంగా ముందుకు వచ్చి) వారి పశువులకు నీరు త్రాగించాడు. ఆ తరువాత నీడ వున్న చోటికి తిరిగి వచ్చి, “ప్రభూ! నువ్వు నా వద్దకు ఏ మేలును పంపినా నాకు దాని అవసరం ఎంతైనా వుంది” అని చెప్పుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

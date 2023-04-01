@@ -2676,6 +2676,12 @@ mariyu okavēḷa mīku dānilō (ā iṇṭilō) evvarū kanabaḍakapōyinā, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మీకు అక్కడ ఎవరూ కనిపించకపోతే (అప్పటికీ) అనుమతి లేకుండా లోనికి ప్రవేశించకండి. తిరిగి వెళ్ళిపొమ్మని ఒకవేళ మీతో అనబడితే, మీరు (సంస్కారవంతుల్లా) తిరిగి వెళ్ళిపోండి. అదే మీ కొరకు ఎంతో పవిత్రమైనది. మీరు చేసేదంతా అల్లాహ్‌కు తెలుసు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

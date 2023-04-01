@@ -2676,6 +2676,12 @@ mariyu evaraitē, tama bhāryala mīda apaninda mōpi, dāniki tāmu svayamē ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయినా తమ భార్యలపై (అక్రమ సంబంధపు) నిందమోపి, దానికి స్వయంగా తాము తప్ప మరెవరూ సాక్షులు లేని పక్షంలో వారిలో ప్రతి ఒక్కరూ నాలుగుసార్లు అల్లాహ్‌పై ప్రమాణం చేసి, తాను చెప్పేది నిజం అని పలకాలి (అదే వారి సాక్ష్యం)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

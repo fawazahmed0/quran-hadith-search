@@ -2676,6 +2676,12 @@ Mānavulu tama cējētulā sampādin̄cukunna dāni phalitaṅgā bhūmilō mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలు చేజేతులా చేసుకున్న (పాప) కార్యాల మూలంగానే భూమిలోనూ, సముద్రంలోనూ కల్లోలం వ్యాపించింది. వారు చేసుకున్న కొన్ని చేష్టల ప్రతిఫలం అల్లాహ్‌ వారికి చవి చూపించటానికి (ఇలా జరిగింది). బహుశా వారు (దీనివల్ల) దారికి తిరిగి రావచ్చేమోనని (కూడా ఈ విధంగా జరిగింది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu mēmu mī nuṇḍi tīsukunna maroka vāgdānānni (jñāpakaṁ cēsuk�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పరస్పరం రక్తం చిందించరాదనీ (చంపుకోరాదని), తోటి వారిని వారి నివాసస్థలాల నుంచి బహిష్కరించరాదనీ మీనుండి వాగ్దానం తీసుకున్నప్పుడు, దానికి మీరు అంగీకరించారు. ఆ విషయానికి స్వయంగా మీరే సాక్షులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

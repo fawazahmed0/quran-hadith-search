@@ -2676,6 +2676,12 @@ Appuḍu samādhānaṅgā vāri prabhuvu, vāritō ilā aṇṭāḍu: "Mīlō 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ప్రభువు వారి మొరను ఆలకించి ఆమోదించాడు: ”మీలో పని చేసేవారి పనిని – వారు పురుషులైనా సరే, స్త్రీలయినాసరే – నేను వృధా చేయను. మీరు పరస్పరం ఒకే కోవకు చెందినవారు. కాబట్టి తమ స్వస్థలం వదలి వలస వెళ్ళినవారు (హిజ్రత్‌ చేసినవారు), తమ ఇళ్ళనుంచి వెళ్లగొట్ట బడినవారు, నా మార్గంలో వేధింపులకు గురైనవారు, నా మార్గంలో పోరాడి చంపబడినవారు – అటువంటి వారి చెడుగులను వారి నుంచి దూరం చేస్తాను. క్రింద కాలువలు ప్రవహించే (స్వర్గ) వనాలలో వారిని ప్రవేశింపజేస్తాను. ఇదీ అల్లాహ్‌ తరఫున వారికి లభించే పుణ్యఫలం. అల్లాహ్‌ వద్దనే అత్యుత్తమమయిన పుణ్యఫలం ఉంది” అని సెలవిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

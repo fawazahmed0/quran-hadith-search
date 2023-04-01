@@ -2676,6 +2676,12 @@ Mariyu viśvasin̄cina strīlatō kūḍā vāri cūpulanu krindiki peṭṭukō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ముస్లిం స్త్రీలు తమ చూపులను క్రిందికి ఉంచాలనీ, తమ మర్మస్థానాలను రక్షించుకోవాలనీ, బహిర్గతమై ఉండేది తప్ప – తమ అలంకరణను బహిర్గతం చేయరాదనీ, తమ వక్షస్థలాలపై ఓణీలు వేసుకోవాలనీ, తమ భర్త లేక తమ తండ్రి లేక తమ మామగారు లేక తమ కొడుకులు లేక తమ భర్త కొడుకులు లేక తమ సోదరులు లేక తమ సోదరుల కుమారులు లేక తమ అక్కాచెల్లెళ్ల కొడుకులు లేక తమతో కలిసిమెలిసి ఉండే స్త్రీలు, లేక తమ బానిసలు లేక ఇతరత్రా ఉద్దేశాలు లేకుండా తమకు లోబడి ఉన్న పురుష సేవకులు లేక స్త్రీల గుప్త విషయాల గురించి ఇంకా తెలియని బాలురు – వీళ్ల ఎదుట తప్ప ఇతరుల ఎదుట తమ అలంకరణలను (అంద చందాలను) కనబడనివ్వకూడదనీ, దాగివున్న తమ అలంకరణ ఇతరులకు తెలిసిపోయేలా తమ కాళ్ళను నేలపై కొడుతూ నడవరాదని వారితో చెప్పు. ముస్లింలారా! మీరంతా కలసి అల్లాహ్‌ సన్నిధిలో పశ్చాత్తాపం చెందండి. తద్వారా మీరు సాఫల్యం పొందవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

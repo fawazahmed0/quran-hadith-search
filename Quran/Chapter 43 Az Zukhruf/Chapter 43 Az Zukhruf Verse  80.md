@@ -2676,6 +2676,12 @@ lēdā! Mēmu vāri rahasya viṣayālanu mariyu vāri gusagusalanu vinaṭaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, వాళ్ల రహస్య విషయాలను, వారి గుసగుసలను మేము వినలేమని వారనుకుంటున్నారా? (తప్పకుండా వింటాము) మేము పంపిన దూతలు వాళ్ల దగ్గరే వ్రాస్తున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

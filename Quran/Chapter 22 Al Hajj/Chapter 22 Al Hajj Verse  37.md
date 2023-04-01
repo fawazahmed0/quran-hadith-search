@@ -2676,6 +2676,12 @@ vāṭi mānsaṁ gānī, vāṭi raktaṁ gānī allāh ku cēravu! Kānī mī 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాటి మాంసంగానీ, రక్తంగానీ అల్లాహ్‌కు చేరవు. అయితే మీలోని భక్తి పరాయణత (తఖ్‌వా) మాత్రం ఆయనకు చేరుతుంది. ఈ విధంగా అల్లాహ్‌ ఈ పశువులను మీకు లోబరిచాడు- ఆయన మార్గదర్శకత్వానికి కృతజ్ఞతగా మీరు ఆయన గొప్పదనాన్ని కొనియాడటానికి! (ఓ ముహమ్మద్‌!) సదాచార సంపన్నులకు సంతోషవార్త వినిపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

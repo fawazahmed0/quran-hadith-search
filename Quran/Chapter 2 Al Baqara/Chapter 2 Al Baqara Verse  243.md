@@ -2676,6 +2676,12 @@ emi? Mrtyubhayanto, vela sankhyalo prajalu tama indlanu vadali poyindi niku teli
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వేల సంఖ్యలో ఉండి కూడా మరణ భీతితో ఇల్లూ వాకిలీ వదలిపోవడానికి సిద్ధమైన వారిని నీవు చూడలేదా? అల్లాహ్‌ వారితో “చావండి” అని అన్నాడు. మరి వారిని తిరిగి బ్రతికించాడు. నిస్సందేహంగా అల్లాహ్‌ జనుల పట్ల దయగలవాడు. కాని వారిలో అత్యధికులు కృతజ్ఞత చూపరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

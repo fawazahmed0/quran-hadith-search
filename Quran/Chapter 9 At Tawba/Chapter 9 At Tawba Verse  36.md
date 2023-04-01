@@ -2676,6 +2676,12 @@ niścayaṅgā, nelala saṅkhya allāh daggara panneṇḍu nelalu mātramē. I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా నెలల సంఖ్య అల్లాహ్‌ దగ్గర – అల్లాహ్‌ గ్రంథంలో పన్నెండు మాత్రమే. ఆయన ఆకాశాలను, భూమిని సృష్టించిన రోజునుంచీ (ఈ లెక్క ఇలాగే సాగుతున్నది). వాటిలో నాలుగు మాసాలు నిషిద్ధమైనవి (గౌరవప్రదమైనవి.) ఇదే సరైన ధర్మం. కాబట్టి ఈ మాసాలలో మీకు మీరు అన్యాయం చేసుకోకండి. ముష్రిక్కులు మీ అందరితో పోరాడుతున్నట్లే మీరు కూడా వారందరితో పోరాడండి. అల్లాహ్‌ భయభక్తులుగల వారికి తోడుగా ఉంటాడన్న సంగతిని తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

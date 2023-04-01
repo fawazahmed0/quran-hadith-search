@@ -2676,6 +2676,12 @@ mariyu mēmu mad yan jāti vāri vaddaku vāri sahōdaruḍu ṣu'aib nu (pampā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మేము మద్‌యన్‌ (వైపుకు) వారి సోదరుడైన షుఐబ్‌ (అలైహిస్సలాం)ను పంపాము. అతను (తన జాతివారినుద్దేశించి), “నా జాతి వారలారా! మీరు అల్లాహ్‌ను మాత్రమే ఆరాధించండి. ఆయన తప్ప మీరు ఆరాధించదగిన వేరొక దైవం లేడు. మీ వద్దకు మీ ప్రభువు తరఫు నుంచి స్పష్టమయిన నిదర్శనం వచ్చేసింది. కాబట్టి మీరు కొలతలు, తూనికలలో ఖచ్చితంగా (పూర్తిగా) వ్యవహరించండి. ప్రజలకు వారి వస్తువులను తగ్గించి ఇవ్వకండి. సంస్కరణ జరిగిన తరువాత భూమిలో అల్లకల్లోలాన్ని సృష్టించకండి. మీరు గనక నమ్మేవారే అయితే మీ మేలు ఇందులోనే ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

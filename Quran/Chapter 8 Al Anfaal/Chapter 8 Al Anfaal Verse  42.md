@@ -2676,6 +2676,12 @@ Nīṅkaḷ (‘patru' pōrkkaḷattil matīṉāvukkuc) camīpamāka uḷḷa p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ సమయంలో మీరు దగ్గరలో ఉన్న అంచున ఉన్నారు. వారు దూరాన ఉన్న అంచున ఉన్నారు. బిడారు మాత్రం మీకు దిగువన ఉంది. ఒకవేళ మీరు గనక పరస్పరం తీర్మానం చేసుకుని ఉంటే నిర్థారిత సమయానికి అక్కడ చేరుకునే విషయంలో మీరు విభేదించుకునేవారు. కాని అల్లాహ్‌, ముందే నిర్ణయించబడిన ఒక పనిని చేసి తీరటానికి – నాశనమయ్యేవాడు స్పష్టమైన ఆధారంపై నాశనమవడానికీ, బ్రతికివున్నవాడు కూడా స్పష్టమైన ప్రమాణంపై బ్రతికి ఉండడానికి గాను (ఈ విధంగా వ్యూహ రచన చేశాడు). నిశ్చయంగా అల్లాహ్‌ అంతా వినేవాడు, అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

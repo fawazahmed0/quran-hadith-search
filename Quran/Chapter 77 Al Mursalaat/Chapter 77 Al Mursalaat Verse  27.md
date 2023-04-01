@@ -2676,6 +2676,12 @@ mariyu dānilō ettaina parvatālanu sthiraṅgā nilupalēdā? Mariyu mīku tr�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మేమందులో ఎత్తైన, బ్రహ్మాండమైన పర్వతాలను ప్రతిష్టించాము. మీ దాహాన్ని తీర్చే మంచి నీరును మీకు త్రాపాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

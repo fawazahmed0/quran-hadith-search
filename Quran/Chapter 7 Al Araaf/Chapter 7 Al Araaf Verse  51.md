@@ -2676,6 +2676,12 @@ vīrē, vāru; evaraitē tama dharmānni oka āṭagā mariyu kālakṣēpaṅg�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఇహలోకంలో మతధర్మాన్ని ఆటగా, తమాషాగా తీసుకున్నారు. ఇహలోక జీవితం వారిని మోసానికి గురిచేసింది. కాబట్టి వారు ఈనాటి సమావేశాన్ని విస్మరించినట్లే, మా ఆయతులను త్రోసిపుచ్చినట్లే ఈ రోజు మేము (కూడా) వీళ్లను విస్మరిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

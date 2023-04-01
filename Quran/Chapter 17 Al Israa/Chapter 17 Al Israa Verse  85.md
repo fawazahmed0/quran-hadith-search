@@ -2676,6 +2676,12 @@ Mariyu vāru ninnu ātma (rūh) nu gurin̄ci praśnistunnāru. Vāritō ilā anu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఆత్మను గురించి నిన్ను ప్రశ్నిస్తున్నారు. “ఆత్మ నా ప్రభువు ఆజ్ఞతో (ముడిపడి) ఉంది. మీకు ఒసగబడిన జ్ఞానం బహుస్వల్పం” అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

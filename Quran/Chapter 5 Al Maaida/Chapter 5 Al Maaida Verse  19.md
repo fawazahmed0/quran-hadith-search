@@ -2676,6 +2676,12 @@ o grantha prajalara! Pravaktalu ravatam, agi poyina konta kalam taruvata, miku a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+గ్రంథవహులారా! ప్రవక్తల ఆగమన క్రమంలో విరామం తర్వాత మా ప్రవక్త మీ వద్దకు వచ్చేశాడు. అతను మీకు స్పష్టంగా విడమరచి చెబుతున్నాడు. మా వద్దకు శుభవార్త అందించేవాడు, భయపెట్టేవాడు ఎవరూ రాలేదన్న మాట మీరు అనకుండా ఉండేందుకుగాను (ఈ ఏర్పాటు జరిగింది). అందుకే ఇప్పుడు నిజంగా శుభవార్త వినిపించేవాడు, భయపెట్టేవాడు మీ వద్దకు వచ్చేశాడు. అల్లాహ్‌ అన్నింటిపై అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

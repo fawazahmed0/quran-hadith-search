@@ -2676,6 +2676,12 @@ mariyu vāru ilā aṇṭāru: "Okavēḷa ā karuṇāmayuḍu talacukuṇṭē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“కరుణామయుడు (అయిన అల్లాహ్‌) తలచి ఉంటే మేము వాళ్ళను పూజించేవారం కాము” అని (వీళ్లు కబుర్లు) చెబుతున్నారు. దీనికి సంబంధించి వీరికసలు ఏమీ తెలీదు. అవి కేవలం వీళ్ల ఊహాగానాలు మాత్రమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

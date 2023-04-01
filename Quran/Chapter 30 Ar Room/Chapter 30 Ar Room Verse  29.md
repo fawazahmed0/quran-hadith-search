@@ -2676,6 +2676,12 @@ kāni durmārgulainaṭuvaṇṭi vāru, telivi lēnidē, tama kōrikalanu anusa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అసలు విషయం ఏమిటంటే ఈ దుర్మార్గులు జ్ఞానంతో నిమిత్తం లేకుండానే తమ కోర్కెలను అనుసరిస్తున్నారు. అల్లాహ్‌ అపమార్గం పట్టించినవాణ్ణి ఎవడు సన్మార్గానికి తేగలడనీ? అలాంటి వారికి తోడ్పడేవాడు ఎవడూ లేడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

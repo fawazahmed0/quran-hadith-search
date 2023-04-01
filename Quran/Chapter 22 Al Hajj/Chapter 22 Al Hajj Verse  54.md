@@ -2676,6 +2676,12 @@ mariyu jñānamosaṅga baḍinavāru idi (ī khur'ān) nī prabhuvu taraphu nu�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జ్ఞాన మొసగబడినవారు, ఇది నీ ప్రభువు తరఫునుంచి వచ్చిన సత్యం అని తెలుసుకుని, దాన్ని విశ్వసించటానికి, ఇంకా వారి హృదయాలు ఆయన వైపుకు మొగ్గటానికి (కూడా ఈ విధంగా చేయబడింది). నిశ్చయంగా అల్లాహ్‌ విశ్వసించిన వారికి రుజుమార్గం వైపునకు దర్శకత్వం వహిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

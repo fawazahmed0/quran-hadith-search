@@ -2676,6 +2676,12 @@ Bingar, ki ci guna ʙarojat misolho zadaand, pas, gumroh şudand va dar natiça 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+చూడు, వారు నీ గురించి ఎలాంటి ఉదాహరణలు ఇస్తున్నారో! వారు దారి తప్పుతున్నారు. ఇక వారు దారికి రావట మనేది వారి వల్ల కాని పని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

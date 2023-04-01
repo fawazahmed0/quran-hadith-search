@@ -2676,6 +2676,12 @@ satyānni tiraskarin̄cina vāru (canipōyina taruvāta) marala sajīvulugā lē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తాము మరణించిన పిదప తిరిగి బ్రతికించబడటం అనేది ఎట్టి పరిస్థితిలోనూ జరగని పని అని అవిశ్వాసులు తలపోస్తున్నారు. (ఓ ప్రవక్తా!) వారికి చెప్పు : “ఎందుకు జరగదు? నా ప్రభువు తోడు! మీరు తప్పకుండా మళ్ళి లేపబడతారు. మీరు చేసినదంతా మీకు తెలియపరచబడుతుంది. ఇలా చేయటం అల్లాహ్ కు చాలా తేలిక.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

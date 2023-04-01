@@ -2676,6 +2676,12 @@ mariyu appuḍu mīru atanitō (mūsātō) anna māṭalu (jñaptiki teccukōṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు మూసాతో అన్న మాటలను గుర్తుకు తెచ్చుకోండి : “ఓ మూసా! మేము అల్లాహ్‌ను కళ్ళారా చూడనంతవరకూ నిన్ను విశ్వసించము.” (మీ ఈ పెడసరి ధోరణికి శిక్షగా) మీరు చూస్తుండగానే (మీపై) పిడుగు పడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

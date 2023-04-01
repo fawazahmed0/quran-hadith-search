@@ -2676,6 +2676,12 @@ vāri cūpulu krindiki vālipōyi uṇṭāyi, avamānaṁ vārini āvarin̄ci u
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి చూపులు క్రిందికి వంగి ఉంటాయి. అవమానం వారిని క్రమ్ముకుంటూ ఉంటుంది. వారు మంచి స్థితిలో (క్షేమంగా) ఉన్నప్పుడు కూడా సాష్టాంగ ప్రణామాల కోసం పిలువబడేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

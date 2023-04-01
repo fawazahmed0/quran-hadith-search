@@ -2676,6 +2676,12 @@ kāni (vāstavāniki) vāru (yūdulu) veḍalagoṭṭabaḍitē, vīru (ī kapa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ వారు వెళ్ళగొట్టబడితే, వీరు వారితో పాటు వెళ్ళే రకం కాదు. ఒకవేళ వారితో యుద్ధం చేయబడితే వీళ్ళు వారికి సాయం కూడా చేయరు. ఒకవేళ సాయంగా వచ్చినా వెన్నుచూపి పారిపోతారు. మరి వారికి ఎలాంటి తోడ్పాటు కూడా లభించదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

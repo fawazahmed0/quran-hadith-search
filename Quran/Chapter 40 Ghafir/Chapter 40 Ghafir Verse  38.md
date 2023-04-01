@@ -2676,6 +2676,12 @@ mariyu viśvasin̄cina ā vyakti iṅkā ilā annāḍu: "Nā jāti prajalārā!
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన ఆ వ్యక్తే ఇంకా ఇలా అన్నాడు : “ఓ నా జాతి (ప్రజలారా)! మీరు (అందరూ) నన్ను అనుసరించండి. నేను మిమ్మల్ని మంచి మార్గం వైపుకు దర్శకత్వం వహిస్తాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

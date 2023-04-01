@@ -2676,6 +2676,12 @@ emi? Evadaite allah yandu gala bhayabhaktulu mariyu ayana priti, punadula mida t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తన కట్టడాన్ని దైవభీతి, దైవప్రసన్నతల పునాదిపై కట్టిన వాడు ఉత్తముడా? లేక కూలిపోవటానికి సిద్ధంగా ఉన్న ఏదైనా లోయ యొక్క డొల్ల అంచున తన కట్టడాన్నికట్టిన వాడు ఉత్తముడా? అటు పిమ్మట అది అతనితో పాటే నరకాగ్నిలో పడిపోయింది. ఇలాంటి దుర్మార్గులకు అల్లాహ్‌ సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

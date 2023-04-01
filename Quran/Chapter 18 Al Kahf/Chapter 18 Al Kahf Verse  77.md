@@ -2676,6 +2676,12 @@ a pidapa variddaru munduku sagipoyi oka nagaram cerukoni a nagaravasulanu bhojan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిద్దరూ అక్కణ్ణుంచి బయలుదేరి ఒక పట్టణానికి చేరుకున్నారు. తమ కోసం భోజన ఏర్పాటు చేయమని అక్కడి ప్రజలను అభ్యర్థించగా వారికి ఆతిథ్యమివ్వటానికి స్థానికులు నిరాకరించారు. అంతలో ఆ ఊరిలో కూలిపోవటానికి సిద్ధంగా ఉన్న ఒక గోడపై వారి దృష్టి పడింది. ఆయన ఆ గోడను (యధాతథంగా) నిలబెట్టాడు. “మీరు గనక తలచుకుంటే ఈ పనికి వేతనం తీసుకోవచ్చు కదా!” అని మూసా అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

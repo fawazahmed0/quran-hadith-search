@@ -2676,6 +2676,12 @@ andulō, vāru ettaina pīṭhāla mīda diṇḍlaku ānukoni kūrconi uṇṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారక్కడ దిండ్లకు ఆనుకొని పీఠాలపై కూర్చుని ఉంటారు. అక్కడ వారు సూర్య తాపాన్ని గానీ, చలి తీవ్రతను గానీ చూడరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

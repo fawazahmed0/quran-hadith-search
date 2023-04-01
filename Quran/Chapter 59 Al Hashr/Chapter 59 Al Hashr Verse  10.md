@@ -2676,6 +2676,12 @@ mariyu evaraitē vāri taruvāta vaccārō! Vāriki andulō hakku undi. Vāru il
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి తరువాత వచ్చినవారు (వారికీ ఈ సొమ్ము వర్తిస్తుంది), వారిలా వేడుకుంటారు : “మా ప్రభూ! మమ్మల్ని క్షమించు. మాకన్నా ముందు విశ్వసించిన మా సోదరులను కూడా క్షమించు. విశ్వాసుల యెడల మా హృదయాలలో ఎలాంటి ద్వేషభావాన్ని కలిగించకు. మా ప్రభూ! నిశ్చయంగా నీవు మృదు స్వభావం కలిగినవాడవు, కనికరించేవాడవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāri taruvāta ā bhūmi mīda mim'malni nivasimpajēstāmu. Idi nā sā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“వారి తరువాత మేము మిమ్మల్ని ఈ ధరణిపై నివసింపజేస్తాము. నా సమక్షంలో నిలబడే విషయమై భయపడేవారికి, నా హెచ్చరికపై భీతిల్లేవారికి లభించే బహుమానం ఇది” (అని అభయమిచ్చాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

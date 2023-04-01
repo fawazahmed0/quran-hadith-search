@@ -2676,6 +2676,12 @@ avarkaḷ maṟaivāṉavaṟṟai (uṇṭeṉṟu) nampikkai koḷvārkaḷ. T
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు గోప్యమైన విషయాలను విశ్వసిస్తారు, నమాజును నెలకొల్పుతారు. ఇంకా మేము ప్రసాదించిన దానిలో (సంపదలో) నుంచి ఖర్చుపెడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

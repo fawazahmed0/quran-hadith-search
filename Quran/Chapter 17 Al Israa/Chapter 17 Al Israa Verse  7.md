@@ -2676,6 +2676,12 @@ Nīṅkaḷ naṉmai ceytāl uṅkaḷukkē naṉmai ceytu koḷkiṟīrkaḷ. N
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీరు మంచి చేస్తే ఆ మంచి మీ స్వయం కోసమే. ఒకవేళ మీరు చెడుకు ఒడిగడితే అది మీ పాలిటే హానికరంగా పరిణమిస్తుంది. మరి రెండవ వాగ్దాన సమయం వచ్చినప్పుడు- మీ ముఖాలను వికృతం చేయటానికి మొదటిసారి లాగానే మళ్లీ అదే మస్జిదులోనికి జొరబడటానికి, తమకు దొరికిన దానినల్లా ధ్వంసం చేయటానికి (మేము ఇతరులను మీపైకి పంపాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Hangome ki munofiqon nazdi tu ojand, [savgand mexūrand va] megūjand: «Mo guvo
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్!) కపటులు నీ దగ్గరికి వచ్చినప్పుడు, “తమరు నిశ్చయంగా దైవప్రవక్తేనని మేము సాక్ష్యమిస్తున్నాం” అనంటారు. నీవు ముమ్మాటికీ ఆయన ప్రవక్తేనన్న సంగతి అల్లాహ్ కు తెలుసు. ఈ కపటులు పచ్చి అబద్ధాలకోరులని కూడా అల్లాహ్ సాక్ష్యమిస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

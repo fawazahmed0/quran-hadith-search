@@ -2676,6 +2676,12 @@ o visvasulara! Miru sampadincina dani nundi mariyu memu mi koraku bhumi nundi ut
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వసించినవారలారా! ధర్మ సమ్మతమైన మీ సంపాదనలో నుంచి, మేము మీ కోసం నేల నుంచి ఉత్పత్తిచేసిన వస్తువులలో నుంచి ఖర్చు చేయండి. వాటిలోని చెడు (నాసిరకం) వస్తువులను ఖర్చుపెట్టే సంకల్పం చేసుకోకండి- మీరు స్వయంగా వాటిని తీసుకోరు. ఒకవేళ కళ్లు మూసుకొని ఉంటే అది వేరే విషయం. అల్లాహ్‌ అక్కరలేనివాడు, సర్వస్తోత్రములకు అర్హుడని తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

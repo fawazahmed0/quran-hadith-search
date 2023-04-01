@@ -2676,6 +2676,12 @@ allāh atyunnatuḍu, sārvabhaumuḍu, parama satyuḍu (ō muham'mad!) Nīku k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక నిజ సామ్రాట్టు అయిన అల్లాహ్‌యే సర్వోన్నతుడు. నీ వద్దకు పంపబడే ‘వహీ'(దైవవాణి) పూర్తి కానంత వరకూ నువ్వు ఖుర్‌ఆన్‌ పఠించటంలో తొందరపడకు. అయితే “ప్రభూ! నా జ్ఞానాన్ని పెంచు” అని మాత్రం వేడుకో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ nīvu nī pāpantō sahā, nā pāpānni kūḍā bharin̄ci narakavāsulalō ok
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నువ్వు నీ పాపంతో పాటు, నా పాపం కూడా నీ నెత్తిన పెట్టుకుని నరక వాసుల్లో చేరిపోవాలని కోరుకుంటాను (గాని నేను మాత్రం ఆ పాపానికి ఒడిగట్టలేను). దుర్మార్గులకు ప్రతిఫలం ఇదే” అని అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

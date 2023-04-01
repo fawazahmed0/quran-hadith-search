@@ -2676,6 +2676,12 @@ a taruvata memu miku varipai marala prabalyam vahince avakasam kaligincamu. Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆ తరువాత మేము మీకు వారిపై ఆధిక్యతను వొసగి, మీ రోజులు మార్చాము. సంపద ద్వారా, సంతానం ద్వారా మీకు సహాయపడ్డాము. ఇంకా మిమ్మల్ని భారీ సంఖ్యాబలం గలవారు చేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

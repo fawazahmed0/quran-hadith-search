@@ -2676,6 +2676,12 @@ mariyu okavēḷa mēmu mānavuṇṇi anugrahistē, ataḍu mukhaṁ trippukoni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మానవుణ్ణి అనుగ్రహించినప్పుడు అతడు వైముఖ్య ధోరణిని ప్రదర్శిస్తూ, ఓప్రక్కకు తిరిగిపోతాడు. బాధ కలిగినప్పుడు మాత్రం నిరాశకు గురవుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kanuka ā rōju durmārgulaku, vāri sākulu ē mātraṁ prayōjanakaraṁ kāv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి ఆ రోజు దుర్మార్గులకు, వారు చెప్పుకునే క్షమాపణలు (సంజాయిషీలు) వారికి ఎలాంటి లాభాన్నీ చేకూర్చవు. “క్షమాపణలు కోరుకోండి” అని వారితో అనటం కూడా జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

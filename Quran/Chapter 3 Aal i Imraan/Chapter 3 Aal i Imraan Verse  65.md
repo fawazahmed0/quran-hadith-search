@@ -2676,6 +2676,12 @@ o grantha prajalara! Ibrahim (dharmanni) gurinci miru enduku vaduladutunnaru? Ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ గ్రంథవహులారా! మీరు ఇబ్రాహీం విషయంలో ఎందుకు గొడవపడుతున్నారు. తౌరాతు, ఇన్జీలు గ్రంథాలైతే ఆయన తరువాతనే అవతరించాయి కదా! అయినా మీరు అర్థం చేసుకోరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

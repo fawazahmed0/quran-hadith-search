@@ -2676,6 +2676,12 @@ allāh vāriki elā sanmārgaṁ cūpagalaḍu? Ē jātivāraitē, viśvāsaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(తొలుత) విశ్వసించి, ఈయన ప్రవక్త అనే విషయం సత్యమేనని సాక్ష్యం (కూడా) యిచ్చి, తీరా తమ వద్దకు స్పష్టమైన సూచనలు వచ్చేసిన మీదట అవిశ్వాసులైపోయిన వారికి అల్లాహ్‌ సన్మార్గం ఎలా చూపుతాడు? అల్లాహ్‌ ఇటువంటి దుర్మార్గులకు దారి చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

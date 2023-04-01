@@ -2676,6 +2676,12 @@ a iddaru bandilalo nundi vidudala pondina vyaktiki cala kalam taruvata ippuda vi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ ఇద్దరు ఖైదీలలో విడుదల అయిన వ్యక్తికి చాలా కాలం తరువాత (యూసుఫ్‌ సంగతి) జ్ఞాపకం వచ్చింది. “దీని భావం నేను వివరిస్తాను. బయటికెళ్ళేందుకు నాకు అనుమతి ఇవ్వండి” అని కోరాడతను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu niścayaṅgā, vāru tama baruvulanu mōstāru mariyu tama baruvulatō p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాకపోతే, వారు తమ (పాపాల) బరువును మాత్రం మోస్తారు. తమ బరువులతో పాటు మరిన్ని బరువులు కూడా మోస్తారు. ఇంకా – వారు కల్పించే అభూత కల్పనలను గురించి ప్రళయ దినాన వారిని తప్పకుండా ప్రశ్నించటం జరుగుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

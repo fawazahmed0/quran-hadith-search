@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi) ā reṇḍu pakṣālalō, oka pakṣaṁ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రెండు బృందాలలో ఏదో ఒక బృందం మీ చేతికి చిక్కుతుందని అల్లాహ్‌ మీకు వాగ్దానం చేసిన సమయాన్ని ఓసారి జ్ఞాపకం చేసుకోండి! అప్పుడు మీరు నిరాయుధులైన బృందం చేజిక్కాలని ఉబలాటపడ్డారు. అదే సమయంలో అల్లాహ్‌ తన ఆదేశాల ద్వారా సత్యాన్ని సత్యంగా తేటతెల్లం చేసి, అవిశ్వాసులను కూకటి వేళ్లతో పెకలించాలని సంకల్పించుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ayane okadanipai okati edu akasalanu srstincadu. A ananta karuna mayuni srstilo 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన ఒకదానిపై ఒకటిగా సప్తాకాశాలను నిర్మించాడు. (ఓ చూచేవాడా!) నీవు కరుణామయుని సృష్టి ప్రక్రియలో ఎలాంటి అస్తవ్యస్తతను కానలేవు. కావాలంటే మరోసారి (దృష్టిని సారించి)చూడు. నీకేమైనా లోపం (బీటలు వారినట్టు) కనిపిస్తోందా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

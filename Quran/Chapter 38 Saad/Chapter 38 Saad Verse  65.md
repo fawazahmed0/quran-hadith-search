@@ -2676,6 +2676,12 @@ Bigū ej Rasul, ʙa qavmi xud: «Çuz in nest, ki man ʙimdihandae hastam, ki ş
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికిలా చెప్పు : “నేనైతే హెచ్చరించేవాణ్ణి మాత్రమే. ఒక్కడు, తిరుగులేనివాడు అయిన అల్లాహ్‌ తప్ప మరో ఆరాధ్యుడు లేడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

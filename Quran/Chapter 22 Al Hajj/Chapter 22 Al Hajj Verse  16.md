@@ -2676,6 +2676,12 @@ mariyu ī vidhaṅgā mēmu dīnini (ī khur'ān nu) spaṣṭamaina sandēśāl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ విధంగా మేము ఈ ఖుర్‌ఆన్‌ను సుస్పష్టమైన సూచనలతో అవతరింపజేశాము. అల్లాహ్‌ తాను కోరిన వారికి (మాత్రమే) సన్మార్గ భాగ్యం ప్రసాదిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

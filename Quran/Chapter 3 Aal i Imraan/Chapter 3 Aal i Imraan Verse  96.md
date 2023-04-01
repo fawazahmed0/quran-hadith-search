@@ -2676,6 +2676,12 @@ niścayaṅgā, mānavajāti koraku moṭṭamodaṭa niyamin̄cabaḍina (ārā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మానవుల కొరకు ప్రప్రథమంగా ఖరారు చేయబడిన (దైవ) గృహం బక్కాలో (మక్కాలో) ఉన్నదే. అది శుభప్రదమైనది, సమస్త లోకవాసులకు మార్గదర్శకం కూడాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

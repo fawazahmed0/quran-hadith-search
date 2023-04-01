@@ -2676,6 +2676,12 @@ mariyu ō nājāti prajalārā! Okavēḷa nēnu vārini (viśvāsulanu) geṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నాజాతి జనులారా! ఒకవేళ నేను వారిని నావద్ద నుంచి గెంటి వేసినట్లయితే, అల్లాహ్‌కు వ్యతిరేకంగా నాకు సహాయపడే వాడెవడుంటాడు? మీరు బొత్తిగా హితబోధను గ్రహించరా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

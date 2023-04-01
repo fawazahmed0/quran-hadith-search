@@ -2676,6 +2676,12 @@ mariyu vāstavāniki mēmu mim'malni sr̥ṣṭin̄cāmu. Pidapa mī rūpānni t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మిమ్మల్ని సృష్టించాము. మరి మేమే మీ రూపురేఖలను తీర్చిదిద్దాము. ఆ తరువాత దూతలను, “ఆదం ముందు సాష్టాంగపడండి” అని ఆదేశించాము. ఒక్క ఇబ్లీసు తప్ప అందరూ సాష్టాంగపడ్డారు. వాడు మాత్రం సాష్టాంగ పడేవారిలో చేరలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

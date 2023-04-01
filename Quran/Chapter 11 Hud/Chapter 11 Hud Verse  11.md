@@ -2676,6 +2676,12 @@ kāni evaraitē sahanaṁ vahin̄ci, satkāryālu cēstū uṇṭārō, alāṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే సహనం వహించి, మంచిపనులు చేసేవారు మాత్రం అటువంటి వారు కారు. ఇలాంటి వారికోసమే మన్నింపూ, గొప్పపుణ్యఫలమూ ఉన్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

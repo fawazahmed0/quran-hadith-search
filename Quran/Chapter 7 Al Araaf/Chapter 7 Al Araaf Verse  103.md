@@ -2676,6 +2676,12 @@ a taruvata memu musanu ma sucanalato phir'aun mariyu atani nayakula vaddaku pamp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి తర్వాత మేము మూసా (అలైహిస్సలాం)కు మా సూచనలిచ్చి ఫిరౌను వద్దకు, అతని అధికారుల వద్దకు పంపాము. కాని వారు మా సూచనల పట్ల చాలా ఘోరంగా ప్రవర్తించారు. అయితే చూడు! ఆ కల్లోల జనకులకు ఏ గతి పట్టిందో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

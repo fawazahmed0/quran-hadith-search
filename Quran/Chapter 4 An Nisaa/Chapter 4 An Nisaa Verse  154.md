@@ -2676,6 +2676,12 @@ mariyu mēmu vāripai tūr parvatānni etti pramāṇaṁ tīsukunnāmu. Mēmu v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి నుంచి ప్రమాణం తీసుకోవటానికి మేము వారిపైకి తూరు పర్వతాన్ని ఎత్తాము. సజ్‌దా చేస్తూ (నగర) ద్వారంలోనికి ప్రవేశించమని వారిని ఆజ్ఞాపించాము. శనివారం నాడు హద్దు మీరి ప్రవర్తించవద్దని కూడా వారికి ఉపదేశించాము. ఈ విధంగా మేము వారినుంచి చాలా గట్టి వాగ్దానం తీసుకున్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

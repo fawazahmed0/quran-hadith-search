@@ -2676,6 +2676,12 @@ apuḍu vārilōni oka pakṣaṁ vāru: "Ō yas rib (madīnā munavvarā) praja
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు వారిలోని ఒక వర్గం ఈ విధంగా గగ్గోలు చెందింది: “ఓ యస్రిబ్‌ (మదీనా) వాసులారా! ఇక మీరిక్కడ ఉండటానికి అవకాశమే లేదు. తిరుగు ముఖం పట్టండి.” మరి వారిలోని ఒక బృందం, “మా ఇండ్లు సురక్షితంగా లేవు” అని చెప్పి దైవప్రవక్త (స) నుంచి అనుమతి కోరసాగింది. మరి (చూడబోతే) అవి అభద్రంగా ఏమీలేవు. (అసలు) వారి ఉద్దేశం పలాయనం చిత్తగించాలన్నదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

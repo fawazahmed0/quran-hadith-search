@@ -2676,6 +2676,12 @@ alā kādu! Vārannāru: "Ivi (ī sandēśālu) kēvalaṁ pīḍakalalu mātram
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అంతేకాదు, “ఈ ఖుర్‌ఆన్‌ పీడకలల పుట్ట. పైగా ఇతను స్వయంగా దీన్ని కల్పించాడు. అదికాదు, అసలితను ఒక కవి. అదే కాకపోతే వెనుకటి ప్రవక్తలు ఇచ్చిపంపబడినట్లుగా ఇతగాడు కూడా మా వద్దకు ఏదైనా సూచనను ఎందుకు తీసుకురాడు?!” అని వారంటున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

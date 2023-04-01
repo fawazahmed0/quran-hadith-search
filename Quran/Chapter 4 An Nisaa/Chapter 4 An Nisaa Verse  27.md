@@ -2676,6 +2676,12 @@ mariyu allāh mī paścāttāpānni aṅgīkarin̄ca gōrutunnāḍu. Kāni tama
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మీ పశ్చాత్తాపాన్ని అంగీకరించాలని కోరుతున్నాడు. కాని, తమ మనోవాంఛలను అనుసరిస్తున్నవారు మాత్రం మీరు (దైవమార్గం నుంచి) పెడదారి తీసి చాలా దూరం వెళ్ళిపోవాలని కోరుకుంటున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

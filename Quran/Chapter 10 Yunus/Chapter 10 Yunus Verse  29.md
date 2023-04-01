@@ -2676,6 +2676,12 @@ ika mīkū mariyu mākū madhya allāh sākṣyaṁ cālu. Niścayaṅgā, mīru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఈ వ్యవహారంలో మీకూ – మాకూ మధ్య సాక్షిగా అల్లాహ్‌ చాలు. మీరు మిమ్మల్ని పూజించిన సంగతి కూడా మాకు తెలీదాయె” (అని అంటారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

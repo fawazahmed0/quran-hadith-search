@@ -2676,6 +2676,12 @@ vāriki pūrvaṁ gatin̄cina ennō tarālanu mēmu nāśanaṁ cēśāmu. Appu�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారికి మునుపు కూడా ఎన్నో సముదాయాలను సర్వనాశనం చేశాము. మరి వారు (ఆఖరి క్షణాలలో) కేకలు పెట్టారు. కాని అది వారు తప్పించుకునే సమయం కాదు కదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

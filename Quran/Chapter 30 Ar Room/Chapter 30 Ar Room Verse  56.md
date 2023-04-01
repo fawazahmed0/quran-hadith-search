@@ -2676,6 +2676,12 @@ Mariyu jñānaṁ mariyu viśvāsaṁ anugrahimpa baḍinavāru ilā aṇṭāru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే జ్ఞానమూ, విశ్వాసమూ వొసగబడినవారు ఇలా సమాధానమిస్తారు: “మీరు దైవగ్రంథంలో (లిఖించబడి) ఉన్నట్లే ప్రళయదినం వరకూ ఆగి ఉన్నారు. నేటి ఈ దినం ప్రళయదినమే. కాని మీరు మాత్రం నమ్మేవారే కాదు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Niścayaṅgā, evaraitē viśvasin̄cina taruvāta tiraskarin̄ci, maḷḷī v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరు విశ్వసించి మళ్ళీ తిరస్కారులయ్యారో, మళ్లీ విశ్వసించి మళ్లీ తిరస్కార వైఖరికి ఒడిగట్టారో, ఆపైన తమ తిరస్కార వైఖరిలో పెచ్చరిల్లిపోయారో అలాంటి వారిని అల్లాహ్‌ ససేమిరా క్షమించడు. అటువంటి వారికి సన్మార్గం కూడా చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ nī kuḍicētilō unnadānini visuru! Adi vāru kalpin̄cina vāṭini mriṅgi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నీ కుడి చేతిలో ఉన్న దానిని పడవేయి. అది వాళ్ల మాయా జాలాన్ని ఇట్టే మింగేస్తుంది. వాళ్లు కల్పించిందంతా మాంత్రికుల జిమ్మిక్కు మాత్రమే. మాంత్రికుడు ఏ విధంగా (ఎంత అట్టహాసంగా) వచ్చినా సఫలీకృతుడు కాలేడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

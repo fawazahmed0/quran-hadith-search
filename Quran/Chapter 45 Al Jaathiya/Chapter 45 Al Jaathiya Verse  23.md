@@ -2676,6 +2676,12 @@ tana manōvān̄chalanu tana daivaṅgā cēsukunna vānini nīvu cūśāvā? Ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తన మనోవాంఛను ఆరాధ్యదైవంగా చేసుకున్న వాడ్ని నువ్వు చూశావా? అంతా తెలిసినప్పటికీ – అల్లాహ్‌ అతన్ని అపమార్గానికి లోను చేశాడు. అతని చెవులకూ, అతని హృదయానికి సీలు వేశాడు. అతని కళ్లపై కూడా తెరను వేసేశాడు. ఇప్పుడలాంటి వ్యక్తిని – అల్లాహ్‌ తర్వాత – సన్మార్గానికి తెచ్చే వాడెవడుంటాడు? ఏమిటి, ఇప్పటికీ మీరు విషయాన్ని గ్రహించరా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

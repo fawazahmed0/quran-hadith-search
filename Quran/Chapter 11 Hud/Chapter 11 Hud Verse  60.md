@@ -2676,6 +2676,12 @@ Mariyu ihalōkanlō (allāh) śāpaṁ (bahiṣkāraṁ) vārini vembaḍimpa j�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రపంచంలోనూ వారికి శాపం అంటగట్టబడింది. ప్రళయదినాన కూడా అది (వారిని) వెన్నంటి ఉంటుంది. చూడండి! ఆద్‌ జాతి వారు తమ ప్రభువును తిరస్కరించారు. హూద్‌ జాతి వారైన ఆదు జనులు (దైవ కారుణ్యానికి) దూరం చెయ్యబడ్డారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

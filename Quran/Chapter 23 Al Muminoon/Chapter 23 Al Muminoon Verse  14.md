@@ -2676,6 +2676,12 @@ a taruvata a indriya binduvunu raktapu muddaga (jalagaga) marcamu. A paina a rak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆ వీర్య బిందువును ఘనీభవించిన రక్తంగా చేశాము. మరి ఆ రక్తపు ముద్దను మాంసపు పిండంగా మార్చాము. దరిమిలా ఆ పిండాన్ని ఎముకలుగా చేశాము. పిదప ఆ ఎముకలకు మాంసం తొడిగించాము. అటుపిమ్మట దాన్ని భిన్నమైన సృష్టిగా ప్రభవింపజేశాము. అందరికన్నా ఉత్తమ సృష్టికర్త అయిన అల్లాహ్‌ శుభకరుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

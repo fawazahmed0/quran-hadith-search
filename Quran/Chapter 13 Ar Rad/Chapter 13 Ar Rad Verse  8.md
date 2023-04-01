@@ -2676,6 +2676,12 @@ allāh ku, prati strī tana garbhanlō dālcēdi mariyu garbhakālapu heccu-tagg
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రతి స్త్రీ తన గర్భంలో మోసే దానిని గురించి, గర్భం తరగటం, పెరగటం గురించి అల్లాహ్‌కు బాగా తెలుసు. ప్రతి వస్తువుకూ ఆయన వద్ద ఒక పరిమాణం నిర్ధారితమై ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

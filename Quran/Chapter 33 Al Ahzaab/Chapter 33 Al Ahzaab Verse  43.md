@@ -2676,6 +2676,12 @@ ayana mipai asirvadalu (salat) pamputu untadu mariyu ayana dutalu mim'malni andh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీపై తన కరుణానుగ్రహాలను పంపేవాడు ఆయనే. ఇంకా ఆయన దూతలు కూడా (మీపై కారుణ్యం కురవాలని ప్రార్థిస్తారు)- ఆయన మిమ్మల్ని చీకట్ల నుంచి వెలికితీసి వెలుగు వైపుకు తీసుకు వచ్చేటందుకు! అల్లాహ్‌ విశ్వాసుల పాలిట అపార కరుణామయుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

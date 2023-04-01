@@ -2676,6 +2676,12 @@ vāru pravēśin̄cē śāśvata svargavanālalō krinda selayēḷḷu pravahis
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కలకాలం ఉండే స్వర్గ వనాలలో వారు ప్రవేశిస్తారు. వాటి క్రింద సెలయేళ్లు ప్రవహిస్తూ ఉంటాయి. అక్కడ వారు కోరినదల్లా వారి కోసం ఉంటుంది. భయభక్తులు కలవారికి అల్లాహ్‌ ఇలాంటి ప్రతిఫలాన్నే ప్రసాదిస్తాడు మరి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

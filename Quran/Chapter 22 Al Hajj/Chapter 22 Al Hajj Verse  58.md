@@ -2676,6 +2676,12 @@ Evaru allāh mārganlō tama iṇḍlanu vadali (valasa) pōyi, ā taruvāta cam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే అల్లాహ్‌ మార్గంలో (స్వస్థలాన్ని వదలి) వలసపోయారో, తరువాత చంపబడ్డారో లేదా చనిపోయారో, వారికి అల్లాహ్‌ అత్యుత్తమమైన ఉపాధిని ప్రసాదిస్తాడు. నిస్సందేహంగా అల్లాహ్‌ మాత్రమే ఉపాధి ప్రదాతలలోకెల్లా శ్రేష్ఠుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

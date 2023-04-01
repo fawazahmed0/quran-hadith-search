@@ -2676,6 +2676,12 @@ Akasanlo naksatrarasulanu (burujulanu) nirminci andulo oka (prakasince) suryunni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశంలో బురుజులను నిర్మించి, అందులో ప్రజ్వలమైన దీపాన్ని, కాంతిమంతమైన చంద్రుణ్ణి ఆవిష్కరించినవాడు శుభకరుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

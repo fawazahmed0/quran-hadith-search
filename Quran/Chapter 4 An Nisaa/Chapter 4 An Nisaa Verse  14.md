@@ -2676,6 +2676,12 @@ mariyu evaḍaitē, allāh ku mariyu āyana pravaktaku avidhēyuḍai, āyana ni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవడు అల్లాహ్‌ మరియు ఆయన ప్రవక్త (సఅసం) యెడల అవిధేయుడై, ఆయన నిర్ధారించిన హద్దులను మీరిపోతాడో వాడ్ని ఆయన నరకాగ్నిలో పడవేస్తాడు. వాడందులో ఎల్లకాలం పడి ఉంటాడు. అవమానకరమైన శిక్ష అలాంటి వారికోసమే ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

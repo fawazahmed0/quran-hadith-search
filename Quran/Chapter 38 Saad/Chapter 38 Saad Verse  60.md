@@ -2676,6 +2676,12 @@ ataṟku avarkaḷ; "appaṭiyalla, nīṅkaḷum tāṉ! Uṅkaḷukkum caṅka
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు (తమను పెడత్రోవ పట్టించిన నాయకులను ఉద్దేశించి) ఇలా అంటారు: “కాదు. అసలు స్వాగతానికి నోచుకోనిది మీరే. దీనిని మా ముందు తెచ్చి పెట్టింది కూడా మీరే కదా! కాబట్టి ఉండటానికి బహుచెడ్డ స్థలమే ఉంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

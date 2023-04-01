@@ -2676,6 +2676,12 @@ o ma prabhu! Niscayanga, avi aneka manavulanu margabhrastuluga cesayi. Ika na vi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా ప్రభూ! అవి ఎంతో మందిని పెడదారి పట్టించాయి. కనుక నన్ను అనుసరించినవాడే నా వాడు. కాని ఎవడైనా నాకు అవిధేయత చూపితే నువ్వు అమితంగా క్షమించేవాడవు, కనికరించేవాడవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

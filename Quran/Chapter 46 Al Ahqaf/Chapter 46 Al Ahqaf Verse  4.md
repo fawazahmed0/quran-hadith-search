@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Allāh nu vadali mīru prārthistunna vāṭini gurin̄ci ā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “చూడండి! మీరు అల్లాహ్ ను వదలి ఎవరెవరిని పూజిస్తున్నారో వారు భూమండలంలో ఏ భాగాన్ని సృష్టించారో కాస్త నాకు చూపుతారా? పోనీ, ఆకాశాలలో అయినా వారికేదన్న వాటా ఉన్నదా?! మీరు సత్యవంతులే అయితే (ఆ మేరకు) దీనికి మునుపు వచ్చిన ఏదైనా గ్రంథం గానీ, లేక ఉల్లేఖించబడే ఏదైనా జ్ఞానాన్ని గాని నా వద్దకు తీసుకురండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

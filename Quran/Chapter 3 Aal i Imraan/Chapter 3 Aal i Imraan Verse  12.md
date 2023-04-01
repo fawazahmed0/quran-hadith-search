@@ -2676,6 +2676,12 @@ nirākarippōriṭam (napiyē!) Nīr kūṟuvīrāka: "Veku viraivil nīṅkaḷ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) అవిశ్వాసులతో చెప్పు: ”త్వరలోనే మీరు ఓటమి పాలవుతారు. నరకం వైపుకు సమీకరించబడతారు. అది అత్యంత చెడ్డ నివాస స్థలం.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

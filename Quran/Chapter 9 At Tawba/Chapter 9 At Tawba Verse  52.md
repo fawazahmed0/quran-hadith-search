@@ -2676,6 +2676,12 @@ ilā anu: "Mīru mā viṣayanlō nirīkṣistunnadi reṇḍu mēlaina vāṭil
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “మీరు మా విషయంలో దేనికోసం ఎదురుచూస్తున్నారో అది రెండు మేళ్ళలో ఒకటి తప్ప మరొకటేముంది? కాగా; మీ విషయంలో మేమూ నిరీక్షిస్తున్నాము- అల్లాహ్‌ తాను స్వయంగానయినా మిమ్మల్ని శిక్షిస్తాడు లేదా మా చేతుల మీదుగానయినా (శిక్ష విధిస్తాడు) కాబట్టి మీరూ ఎదురు చూస్తూ ఉండండి. మరోవైపు మేమూ మీతోపాటే ఎదురు చూస్తూ ఉంటాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

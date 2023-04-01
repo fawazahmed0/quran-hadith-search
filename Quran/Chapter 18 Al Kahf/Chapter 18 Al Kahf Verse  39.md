@@ -2676,6 +2676,12 @@ mariyu okavēḷa nīvu, nannu sampadalō mariyu santānanlō nī kaṇṭē tak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(మిత్రమా!) నువ్వు నీ తోటలోకి పోతున్నప్పుడు ‘అల్లాహ్‌ తలచినదే అవుతుంది. అల్లాహ్‌ ద్వారా లభించే శక్తి తప్ప వేరే శక్తి ఏదీ లేదు’ అని ఎందుకు పలకలేదు? ఒకవేళ నువ్వు నన్ను సంపదలో, సంతానంలో నీకన్నా అల్పునిగా చూస్తున్నట్లయితే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu (jñāpakamun̄cukōṇḍi!) Appuḍu (punarut'thāna dinamuna), allāh:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఆ తరువాత) “మర్యమ్‌ పుత్రుడవైన ఓ ఈసా! అల్లాహ్‌ను వదలి నన్నూ, నా తల్లిని ఆరాధ్య దైవాలుగా చేసుకోండి అని గాని నీవు ప్రజలకు చెప్పావా?” అని అల్లాహ్‌ (నిలదీసి) అడిగే సందర్భం కూడా స్మరించుకోదగినదే. అప్పుడు ఈసా ఇలా విన్నవించుకుంటారు: “(ఓ అల్లాహ్‌!) నిన్ను పరమ పవిత్రునిగా భావిస్తున్నాను. ఏ మాటను అనే హక్కు నాకు లేదో అలాంటి మాటను అనటం నాకేమాత్రం తగదు. ఒకవేళ నేను గనక అలాంటిదేదైనా అని ఉంటే అది నీకు తెలిసి ఉండేది. నా మనసులో ఏముందో కూడా నీకు తెలుసు. కాని నీలో ఏముందో నాకు తెలీదు. నిశ్చయంగా నీవు సమస్త గుప్త విషయాలను ఎరిగినవాడవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

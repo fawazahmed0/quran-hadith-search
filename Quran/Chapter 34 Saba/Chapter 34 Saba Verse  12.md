@@ -2676,6 +2676,12 @@ mariyu mēmu gālini sulaimān ku (vaśaparacāmu); dāni udayapu gamanaṁ oka 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా – మేము సులైమాను కోసం గాలిని అదుపులో ఉంచాము. దాని ప్రొద్దుటి (ప్రయాణ) గమ్యం ఒక మాసానికి, సాయంత్రపు గమ్యం కూడా ఒక మాసానికి సమానంగా ఉండేది. ఇంకా మేము అతని కోసం కరిగిన రాగి ఊటను ప్రవహింపజేశాము. ఇంకా – అతని ప్రభువు ఆజ్ఞపై జిన్నులు అతని చెప్పుచేతల్లో ఉండి, అతని ముందర పనిచేసేవి. వారిలో ఎవరు మా ఆజ్ఞలను ఉల్లంఘించినా మేము వాడికి జ్వలించే అగ్ని శిక్షను చవి చూపిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu atanu tana niṇḍu yavvanāniki cērukunnapuḍu, mēmu ataniki vivēk�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి అతను (యూసుఫ్‌) నిండు యౌవనదశకు చేరుకున్నప్పుడు మేమతనికి నిర్ణయం గైకునే శక్తినీ, జ్ఞానాన్నీ ప్రసాదించాము. సదాచార సంపన్నులకు మేము ఈ విధంగానే ప్రతిఫలాన్నిఅనుగ్రహిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

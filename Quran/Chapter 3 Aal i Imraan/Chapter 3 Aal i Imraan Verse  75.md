@@ -2676,6 +2676,12 @@ Mariyu grantha prajalalō elāṇṭi vāḍunnāḍaṇṭē: Nīvu ataniki dha
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+గ్రంథవహులలో కొందరు ఎలాంటివారంటే, నీవు వారి వద్ద ఒక పెద్ద ధనరాశిని అమానతుగా పెట్టినాసరే, వారు దాన్ని నీకు తిరిగి ఇచ్చేస్తారు. వారిలో మరి కొందరు కూడా ఉన్నారు. వారెలాంటి వారంటే నువ్వు వారికి ఒక్క దీనారును అప్పగించినా వారు తిరిగి ఇవ్వరు – నువ్వు వారి నెత్తిమీద నిల్చుంటే తప్ప! ఎందుకంటే ”నిరక్షర కుక్షుల (యూదేతరుల) హక్కు విషయంలో మమ్మల్ని నిలదీయటం జరగదు” అని వారు చెప్పి ఉన్నారు. వీరు తెలిసి కూడా అల్లాహ్‌కు అబద్ధాన్ని ఆపాదిస్తున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

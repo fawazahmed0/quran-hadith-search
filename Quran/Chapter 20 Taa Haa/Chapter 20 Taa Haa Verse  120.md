@@ -2676,6 +2676,12 @@ appuḍu ṣaitān atani manas'sulō kalatalu rēkettistū annāḍu: "Ō ādam!
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి షైతాను అతన్ని కవ్వించాడు. “ఓ ఆదమ్‌! నేను నీకు శాశ్వత జీవితాన్ని ప్రసాదించే వృక్షాన్ని, ఎన్నటికీ పాతబడని సామ్రాజ్యాన్ని చూపించనా?!” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

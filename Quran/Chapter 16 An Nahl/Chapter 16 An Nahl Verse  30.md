@@ -2676,6 +2676,12 @@ mariyu daivabhīti galavāritō: "Mī prabhuvu ēmi avatarimpajēśāḍu?" Ani 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీ ప్రభువు ఏం అవతరింపజేశాడు?” అని దైవభీతిపరులను అడిగినప్పుడు “మేలైనదాన్నే (అవతరింపజేశాడు)” అని వారు చెబుతారు. మేలు చేసిన వారికి ఈ ప్రపంచంలో మేలు చేకూరుతుంది. ఇక పరలోక నిలయమైతే మరింత మేలైనది. దైవభీతిపరులకు లభించే ఈ నిలయం ఎంత చక్కనిది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

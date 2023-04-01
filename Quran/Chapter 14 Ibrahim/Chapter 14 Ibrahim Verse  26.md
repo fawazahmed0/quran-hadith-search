@@ -2676,6 +2676,12 @@ mariyu ceḍḍamāṭanu, bhūmi nuṇḍi pellagimpabaḍina, sthiratvaṁ lē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(దీనికి భిన్నంగా) అశుద్ధ వచనం ఉపమానం అశుద్ధ వృక్షం వంటిది. అది నేల ఉపరితలంపై నుంచే పెకలించి వేయబడింది. దానికి స్థిరత్వం అనేదే లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

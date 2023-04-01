@@ -2676,6 +2676,12 @@ Niścayaṅgā, maryam kumāruḍu masīh (krīstu) yē allāh!" Ani palikē vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ (అంటే) మర్యమ్‌ కుమారుడగు మసీహ్‌యే” అని చెప్పినవారు నిస్సందేహంగా అవిశ్వాసానికి పాల్పడినట్లే. యదార్థానికి మసీహ్‌ ఖుద్దుగా వారితో ఇలా పలికాడు : “ఓ ఇస్రాయీలు వంశస్థులారా! నాకూ, మీకూ ప్రభువైన అల్లాహ్‌ను మాత్రమే పూజించండి.” ఎవడు అల్లాహ్‌కు సహవర్తులుగా ఇతరులను కల్పించాడో అలాంటి వానికోసం అల్లాహ్‌ స్వర్గాన్ని నిషేధించాడని తెలుసుకోండి. అతని నివాసం నరకాగ్ని. దుర్మార్గులకు సహాయపడే వాడెవడూ ఉండడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

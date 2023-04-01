@@ -2676,6 +2676,12 @@ eṉṉuṭaiya camūkattārē! Uṅkaḷ nilaimaikkut takkavāṟu nīṅkaḷ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలా చెప్పు : “నా జాతి ప్రజలారా! మీరున్న స్థితిలో మీరు ఆచరిస్తూ ఉండండి. నేను కూడా ఆచరిస్తున్నాను. త్వరలోనే మీరు తెలుసుకుంటారు –
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

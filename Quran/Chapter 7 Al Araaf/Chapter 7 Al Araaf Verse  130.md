@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, mēmu phir'aun jāti vārini - bahuśā vāriki telivi vas
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఫిరౌను జనులను – గుణపాఠం గ్రహిస్తారన్న ఉద్దేశంతో – దుర్భిక్షానికీ, పండ్లు ఫలాల ఉత్పత్తుల కొరతకూ గురిచేసి పరీక్షించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

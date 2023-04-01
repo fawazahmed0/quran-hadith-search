@@ -2676,6 +2676,12 @@ Mariyu okavēḷa nīku ē jāti vāri vallanainā nam'makadrōhaṁ jarugutunda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ ఏ జాతి వారైనా నమ్మక ద్రోహానికి పాల్పడవచ్చన్న భయం నీకు కలిగితే – సరిసమానంగా – వారి ఒప్పందాన్ని వారి ముందు విసిరివెయ్యి. నమ్మక ద్రోహం చేసేవారిని అల్లాహ్‌ ఎంతమాత్రం ఇష్టపడడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

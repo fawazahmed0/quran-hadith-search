@@ -2676,6 +2676,12 @@ Mariyu mī cuṭṭuprakkala uṇḍē eḍārivāsulalō (baddūlalō) kondaru 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇకపోతే; మీ చుట్టుప్రక్కల ఉండే పల్లెవాసులలోనూ, మదీనాలో నివసించేవారిలోనూ కొందరు వంచకులు (మునాఫిక్‌లు) ఉన్నారు. వారు వంచనలో మహామొండివారు. (ఓ ప్రవక్తా!) నువ్వు వారిని ఎరుగవు. వారెవరో మాకు తెలుసు. మేము వారికి రెట్టింపు శిక్షను విధిస్తాము. అనంతరం వారు ఘోరమైన శిక్ష వైపుకు తరలించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

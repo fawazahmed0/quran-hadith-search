@@ -2676,6 +2676,12 @@ mariyu vāriki dharma viṣayanlō spaṣṭamaina nidarśanālu icci unnāmu. V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ధర్మానికి సంబంధించిన స్పష్టమైన నిదర్శనాలను కూడా వారికి ఇచ్చాము. కాని తీరా జ్ఞానం వచ్చేసిన పిమ్మట వారు తమ మధ్య గల ద్వేషం, శత్రుత్వం కారణంగా విభేదించుకున్నారు. వారు ఏ ఏ విషయాలలో విభేదించుకుంటున్నారో, దానికి సంబంధించిన తీర్పును – వారి మధ్య – ప్రళయదినాన నీ ప్రభువు చెబుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

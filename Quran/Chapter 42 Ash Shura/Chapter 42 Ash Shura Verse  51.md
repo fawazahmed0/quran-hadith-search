@@ -2676,6 +2676,12 @@ mariyu allāh tō māṭlāḍagaligē śakti ē mānavunikī lēdu; kēvalaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ మానవమాత్రునితోనూ, అల్లాహ్‌ (నేరుగా) సంభాషించటం అనేది జరగదు. అయితే వహీ ద్వారా లేదా తెర వెనుక నుంచీ లేదా ఒక దూతను పంపటం ద్వారా (ఇది సంభవమే). మరి ఆ దూత అల్లాహ్‌ ఆజ్ఞననుసరించి అల్లాహ్‌ కోరిన సందేశాన్ని (వహీ రూపంలో) అందజేస్తాడు. నిశ్చయంగా ఆయన మహోన్నతుడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

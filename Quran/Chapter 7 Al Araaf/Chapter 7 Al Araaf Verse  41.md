@@ -2676,6 +2676,12 @@ narakamē vāri pānpu mariyu vāri duppaṭi avutundi. Mariyu ī vidhaṅgā m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి క్రింద నరకాగ్నితో చేయబడిన పాన్పుఉంటుంది. పైన దుప్పటి కూడా (దానితోనే తయారైనదయి ఉంటుంది). దుర్మార్గులకు మేము విధించే శిక్ష ఇలాగే ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

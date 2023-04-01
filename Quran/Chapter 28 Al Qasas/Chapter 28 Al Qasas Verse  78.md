@@ -2676,6 +2676,12 @@ ataḍu (khārūn) annāḍu: "Niścayaṅgā, idi (ī dhanaṁ) nāku nā jñā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇదంతా నాకున్న ప్రజ్ఞాపాటవాల మూలంగానే నాకు వొసగబడింద”ని వాడు (ఖారూన్‌) చెప్పాడు. ఏమిటి, ఇతనికి మునుపు ఇతనికన్నా ఎక్కువ బలవంతులను, మూలధనాన్ని ప్రోగు చేసిన వారినెంతో మందిని అల్లాహ్‌ అంతమొందించాడన్న సంగతి ఇతనికి తెలియదా? అట్టి పరిస్థితిలో పాపాత్ములను వారి పాపాల గురించి అడగటం జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

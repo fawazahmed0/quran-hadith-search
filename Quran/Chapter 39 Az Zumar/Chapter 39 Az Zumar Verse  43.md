@@ -2676,6 +2676,12 @@ emi? Varu allah nu vadali itarulanu sipharasudaruluga cesukunnara? Varini ila ad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, వారు అల్లాహ్‌ను వదలి (వేరితరులను) సిఫార్సు చేసేవారుగా చేసుకుంటున్నారా? “వారికి ఏ అధికారం లేకున్నా, తెలివి లేకపోయినా (మీరు వారిని సిఫార్సు కోసం నిలబెడతారా?)?” అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

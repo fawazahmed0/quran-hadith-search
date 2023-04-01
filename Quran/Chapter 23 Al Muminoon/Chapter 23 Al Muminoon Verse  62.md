@@ -2676,6 +2676,12 @@ mariyu mēmu ē prāṇi pai kūḍā dāni śaktiki min̄cina bhāraṁ vēyamu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఏ ప్రాణిపైనా దాని శక్తికి మించిన భారం వేయము. మా వద్ద సత్యం పలికే గ్రంథం ఉంది. వారికెలాంటి అన్యాయం జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

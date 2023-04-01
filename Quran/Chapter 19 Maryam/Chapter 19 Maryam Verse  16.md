@@ -2676,6 +2676,12 @@ mariyu ī granthaṁ (khur'ān lō) unna maryam (gāthanu) prastāvin̄cu. Āme 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌ – స!) ఈ గ్రంథంలో మర్యమ్‌ విషయాన్ని కూడా ప్రస్తావించు. అప్పుడామె తన వాళ్ళనుంచి వేరై, తూర్పు వైపుకు వచ్చింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

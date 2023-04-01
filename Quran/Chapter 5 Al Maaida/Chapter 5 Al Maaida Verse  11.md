@@ -2676,6 +2676,12 @@ o visvasulara! Oka jati varu (miku hani ceya sankalpinci) tama cetulanu mi vaipu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులారా! అల్లాహ్‌ మీకు చేసిన ఉపకారాన్ని కాస్త జ్ఞప్తికి తెచ్చుకోండి – అప్పుడు ఒక జాతివారు మీపై చేయి చేసుకోవాలని అనుకున్నారు. అయితే అల్లాహ్‌ వారి చేతులు మీపై లేవకుండా ఆపాడు. అల్లాహ్‌కు భయపడుతూ ఉండండి. విశ్వాసులు నమ్ముకోవలసింది కూడా అల్లాహ్‌నే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

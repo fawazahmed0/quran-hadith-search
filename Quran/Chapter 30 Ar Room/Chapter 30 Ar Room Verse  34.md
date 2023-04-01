@@ -2676,6 +2676,12 @@ Mēmu vāriki prasādin̄cina dāniki (anugrahālaku) kr̥taghnata cūpaṭānik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము వారికి అనుగ్రహించిన దానిపై కృతఘ్నత చూపటానికి?! సరే. లబ్ది పొందండి! అతి త్వరలోనే (పరిణామం) మీకు తెలిసిపోతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

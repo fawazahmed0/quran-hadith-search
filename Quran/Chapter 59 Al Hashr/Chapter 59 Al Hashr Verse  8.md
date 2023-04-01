@@ -2676,6 +2676,12 @@ Evarkaḷ tam vīṭukaḷaiyum, tam cottukaḷaiyum viṭṭu, allāhviṉ aru�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ముఖ్యంగా ఈ ‘పై’ సొమ్ము) తమ ఇల్లూ వాకిలి నుండి, తమ ఆస్తి పాస్తుల నుండి గెంటివేయబడిన నిరుపేద ముహాజిర్లకు వర్తిస్తుంది. (ఎందుకంటే) వారు దైవానుగ్రహాన్ని, దైవప్రసన్నతను ఆశిస్తూ, దైవానికీ, ఆయన ప్రవక్తకు తోడ్పడుతున్నారు. వారే అసలు సిసలు సత్య సంధులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

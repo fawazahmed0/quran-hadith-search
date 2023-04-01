@@ -2676,6 +2676,12 @@ allāh mārgaṁ! Bhūmyākāśālalō nunna pratidī āyanakē cendutundi. Vās
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+….భూమ్యాకాశాల్లోని సమస్తానికీ యజమాని అయిన అల్లాహ్‌ మార్గం వైపుకు (నడిపిస్తున్నావు). తుదకు సమస్త వ్యవహారాలూ అల్లాహ్‌ వద్దకే చేరతాయి సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

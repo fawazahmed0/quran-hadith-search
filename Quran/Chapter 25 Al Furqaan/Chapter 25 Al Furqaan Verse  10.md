@@ -2676,6 +2676,12 @@ a subhadayakudu korite niku vati kante uttamamaina vatini prasadincagaladu - sva
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ శుభకరుడు. ఆయన గనక తలచుకుంటే వాళ్ళు ఉదాహరించిన తోటకన్నా మేలైన ఎన్నో తోటల్ని – క్రింద కాలువలు ప్రవహించే తోటల్ని – నీ కోసం సమకూర్చగలడు. ఇంకా నీ కోసం ఎన్నో (బ్రహ్మాండమైన) మేడల్ని కూడా చేయగలడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

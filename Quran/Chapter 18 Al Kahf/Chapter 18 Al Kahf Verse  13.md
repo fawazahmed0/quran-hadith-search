@@ -2676,6 +2676,12 @@ mēmu vāri yathārtha gātha nīku vinipistunnāmu. Niścayaṅgā, vāru tama 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి యదార్ధ గాథను మేము నీకు వివరిస్తున్నాము – తమ ప్రభువును విశ్వసించిన కొంతమంది యువకులు వారు. మేము వారి సన్మార్గంలో వృద్ధినొసగాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

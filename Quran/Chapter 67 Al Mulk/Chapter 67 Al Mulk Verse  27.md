@@ -2676,6 +2676,12 @@ taruvāta vāru dānini samīpanlō uṇḍaṭaṁ cūsinappuḍu, satyatirask�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఆ వాగ్దానాన్ని అతి దగ్గరలో చూసుకున్నప్పుడు అవిశ్వాసుల ముఖాలు వికృతంగా మారిపోతాయి. “మీరు (పదే పదే) అడుగుతుండేది ఇదే” అని వారితో అనబడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi) lukhmān tana kumāruniki hitabōdha cēst
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లుఖ్మాన్‌ తన కుమారునికి హితబోధ చేస్తూ ఇలా అన్నాడు: “ఓ నా ముద్దుల పుత్రుడా! అల్లాహ్‌కు భాగస్వాములను కల్పించకు. నిస్సందేహంగా అల్లాహ్‌కు భాగస్వాముల్ని కల్పించటం (షిర్క్‌ చేయటం) ఘోరమైన అన్యాయం.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

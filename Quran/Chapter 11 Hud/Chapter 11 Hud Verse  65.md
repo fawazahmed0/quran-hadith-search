@@ -2676,6 +2676,12 @@ Ayinā vāru dānini, venuka kāli mōkāli naraṁ kōsi campāru. Appuḍu ata
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయినా సరే వారు ఆ ఒంటె కాళ్ళను నరికేశారు. అప్పుడు సాలిహ్‌ “మీరు మీ ఇళ్ళల్లో మూడు రోజుల పాటు ఉండి జీవితాన్ని అనుభవించండి. ఈ వాగ్దానం (నిర్థారిత గడువు) అబద్ధం కానేరదు” అని చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāni okavēḷa mēmu ataniki āpada taruvāta, anugrahānni ruci cūpistē: "N
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతనికి కలిగిన కష్టాల తరువాత మేము గనక అతనికే దైనాఅనుగ్రహం రుచిచూపితే, “(హమ్మయ్య!) నా దురవస్థలన్నీ దూరమైపోయాయి” అని అంటాడు. నిశ్చయంగా అతడు మిడిసి పడతాడు. గొప్పలు చెప్పుకుంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

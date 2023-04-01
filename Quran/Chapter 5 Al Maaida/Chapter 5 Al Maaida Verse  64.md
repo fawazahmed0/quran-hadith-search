@@ -2676,6 +2676,12 @@ Mariyu yūdulu: "Allāh cētulaku saṅkeḷḷu paḍi unnāyi." Ani aṇṭār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ చేతులు కట్టివేయబడి ఉన్నాయి” అని యూదులు అన్నారు. నిజానికి వారి చేతులే కట్టివేయబడ్డాయి. వారు అన్న ఈ మాట మూలంగా వారిని శపించటం జరిగింది. నిజానికి అల్లాహ్‌ చేతులు రెండూ విశాలంగా ఉన్నాయి. తాను తలచుకున్న విధంగా ఆయన ఖర్చుపెడుతున్నాడు. నీపైన నీ ప్రభువు తరఫు నుంచి అవతరించిన సందేశం వారిలోని చాలా మందిలో తలబిరుసుతనాన్ని, తిరస్కారభావాన్నే వృద్ధి చేస్తుంది. ఇంకా, మేము వారి మధ్య ప్రళయదినం వరకూ విరోధం, విద్వేషం ఉండేలా చేశాము. వారు యుద్ధాగ్నిని రాజేసినప్పుడల్లా, అల్లాహ్‌ దాన్ని ఆర్పివేస్తాడు. వారు భూమిలో కల్లోలాన్ని రేకెత్తిస్తూ తిరుగుతుంటారు. కాగా; అల్లాహ్‌ కల్లోల జనకులను ఎంతమాత్రం ప్రేమించడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

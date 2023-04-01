@@ -2676,6 +2676,12 @@ Mariyu vāru (ā guhalōni) oka viśālamaina bhāganlō (nidristū) unnappuḍu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సూర్యుడు ఉదయిస్తున్నప్పుడు వారి గుహకు కుడిప్రక్కకు ఒరిగిపోవటాన్ని, అస్తమించే సమయంలో వారికి ఎడమ ప్రక్కకు జరిగిపోవటాన్ని నువ్వు చూస్తావు. వారేమో ఆ గుహలోని విశాలమైన స్థలంలో ఉన్నారు. ఇది అల్లాహ్‌ సూచనల్లోనిది. అల్లాహ్‌ సన్మార్గం చూపినవాడు మాత్రమే సన్మార్గాన ఉంటాడు. మరి ఆయన పెడత్రోవ పట్టించిన వానిని ఆదుకుని మార్గదర్శకత్వం వహించే వాడెవడినీ నీవు పొందలేవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

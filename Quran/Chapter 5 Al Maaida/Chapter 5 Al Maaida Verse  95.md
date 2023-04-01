@@ -2676,6 +2676,12 @@ O visvasulara! Miru ihram sthitilo unnappudu vetadakandi. Milo evaraina bud'dhip
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు ఇహ్రాము స్థితిలో ఉన్నప్పుడు వేట జంతువులను చంపకండి. మీలో ఎవరైనా ఉద్దేశ్యపూర్వకంగా దానిని చంపినట్లయితే అతడు తాను చంపిన జంతువుకు సమానమైన జంతువును పరిహారంగా చెల్లించటం అవశ్యం. దానిని మీలోని ఇరువురు న్యాయశీలురు నిర్ణయించాలి. పరిహారంగా యివ్వబడే జంతువును ఖుర్బానీ నిమిత్తం కాబా వద్దకు చేర్చాలి. లేదా ఆ పాపానికి పరిహారంగా కొంతమంది పేదలకు అన్నం పెట్టాలి. లేదా దానికి సమానంగా ఉపవాసం పాటించాలి. తాను పాల్పడిన చేష్టకు ఫలితాన్ని చవిచూసేందుకు (ఈ విధంగా నిర్థారించబడింది). గతంలో జరిగిన దాన్ని అల్లాహ్‌ మన్నించాడు. ఇకమీదట కూడా ఎవరయినా అలా చేస్తే అల్లాహ్‌ ప్రతీకారం చేస్తాడు. అల్లాహ్‌ సర్వాధిక్యుడు, ప్రతీకారం చేసేవాడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

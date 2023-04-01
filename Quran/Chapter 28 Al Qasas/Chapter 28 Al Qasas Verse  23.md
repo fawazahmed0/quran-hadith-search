@@ -2676,6 +2676,12 @@ ita atanu mad yan lōni oka bāvi vaddaku cērukunnappuḍu; akkaḍa cālā man
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను మద్‌యన్‌ నీటి (బావి) వద్దకు చేరుకున్నప్పుడు, అక్కడ ఓ ప్రజా సమూహం (తమ పశువులకు) నీరు త్రాగిస్తున్నట్లు చూశాడు. మరో వైపు ఇద్దరు స్త్రీలు వేరుగా నిలబడి తమ (పశువుల)ను ఆపుతూ ఉండటం కనిపించింది. “ఇంతకీ మీ సమస్య ఏమిటీ?” అని మూసా దర్యాప్తు చేయగా, “ఈ పశువుల కాపరులు తిరిగిపోనంతవరకూ మేము (మా పశువులకు) నీరు త్రాగించలేము. మా నాన్నగారేమో మరీ ముసలివారు” అని ఆ పడతులు చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

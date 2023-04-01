@@ -2676,6 +2676,12 @@ Okavēḷa vāru mītō kalisi veḷḷinā mīlō kalatalu tappa marēmī adhik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ వారు మీతో కలసి బయలుదేరి ఉండినట్లయితే మీకు కీడు చేయటం తప్ప మరి దేనినీ పెంచి ఉండేవారు కారు. పైగా మీ మధ్య అదే పనిగా గుర్రాలను పరుగెత్తించేవారు. మీలో చీలికను తెచ్చే ప్రయత్నాల్లో ఉండేవారు. వారి మాటలను వినేవారు స్వయంగా మీలోనే ఉన్నారు. ఆ దుర్మార్గుల సంగతి అంతా అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

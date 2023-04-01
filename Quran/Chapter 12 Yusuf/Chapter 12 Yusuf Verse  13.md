@@ -2676,6 +2676,12 @@ Ja'quʙ guft: «Agar ūro ʙiʙared, ƣamgin meşavam va metarsam, ki az ū ƣof
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(యాఖూబు – అలైహిస్సలాం) ఇలా సమాధానమిచ్చారు: “మీరతన్ని తీసుకువెళ్లటం నన్ను వ్యాకుల పరుస్తోంది. మీరు పరధ్యానంలో ఉండగా ఎక్కడ తోడేలు వచ్చి అతన్ని తినేస్తుందోనన్న భయంకూడా నన్ను వెంటాడుతోంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Jinnātulalō baliṣṭhuḍaina okaḍu ilā annāḍu: "Nīvu nī sthānaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జిన్నులలో బలిష్టుడైన ఒకతను, “మీరు మీ స్థానం నుంచి లేచే లోపలే నేను దానిని మీ ముందు సమర్పిస్తాను. అంతటి శక్తి నాకుంది. నేను విశ్వసనీయుణ్ణి కూడాను” అని చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

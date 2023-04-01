@@ -2676,6 +2676,12 @@ mīru vārini campalēdu, kānī allāh vārini campāḍu. (Pravaktā!) Nīvu (
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాళ్ళను మీరు చంపలేదు. కాని అల్లాహ్‌ వాళ్ళను చంపాడు.(గుప్పెడు మన్నును) నువ్వు విసిరినప్పుడు, దాన్ని విసిరింది నువ్వు కాదు. అల్లాహ్‌ దాన్ని విసిరాడు. విశ్వాసుల శ్రమకు తన తరఫున మంచి ప్రతిఫలం ఇచ్చేందుకు అల్లాహ్‌ ఇలా చేశాడు. నిశ్చయంగా అల్లాహ్‌ అంతా వినేవాడు, అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

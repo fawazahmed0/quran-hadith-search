@@ -2676,6 +2676,12 @@ mariyu ātmadrōhaṁ cēsukunē vāri pakṣamuna nīvu vādin̄caku. Niścaya�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆత్మ ద్రోహం చేసుకునే వారి పక్షాన నిలిచి వాదించకు. దగాకోరును, పాపిష్టివాడిని అల్లాహ్‌ సుతరామూ ఇష్టపడడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ okavēḷa vāru mī mīda prābalyaṁ vahistē, vāru mīku virōdhulavutāru.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీరు గనక వారి చేతికి చిక్కినట్లయితే, వారు మీ పట్ల బద్ధ శత్రువులుగా వ్యవహరిస్తారు. చెడు రీతిలో మీపై చేయి చేసుకుంటారు, నోరు కూడా పారేసుకుంటారు. మీరు (కూడా వారిలాగే) అవిశ్వాసానికి పాల్పడాలని కోరుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

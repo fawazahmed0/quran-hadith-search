@@ -2676,6 +2676,12 @@ a taruvata a balikanu, ame prabhuvu adaranto svikarinci, amenu oka manci striga 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అంతే! ఆమె ప్రభువు ఆ పసిపాపను ఉత్తమరీతిలో స్వీకరించి, అత్యుత్తమ రీతిలో ఆమెను పోషించాడు. ఆమె బాగోగులు చూసే బాధ్యతను జకరియ్యాకు అప్పగించాడు. జకరియ్యా ఆమె కుటీరానికి వెళ్ళినప్పుడల్లా, ఆమె వద్ద ఆహార పదార్థాలు కనిపించేవి. ”మర్యమ్‌! ఇవి నీ వద్దకు ఎక్కడి నుంచి వచ్చాయి?” అని ఆయన అడిగితే, ”అల్లాహ్‌ వద్ద నుంచి” అని ఆమె చెప్పేది. నిశ్చయంగా అల్లాహ్‌ తాను కోరిన వారికి లెక్క లేనంతగా ఉపాధిని ప్రసాదిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

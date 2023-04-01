@@ -2676,6 +2676,12 @@ lēka śikṣanu cūsi ilā anavaccu: "Okavēḷa nāku marala (ihalōkāniki) p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“లేదా శిక్షను చూసిన తరువాత, ‘ఎలాగయినాసరే నేను తిరిగి (ప్రపంచానికి) పంపబడితే నేను సజ్జనులలో చేరుతాను’ అని పలుకుతుందేమో! (మీకు ఆ దురవస్థ రాకూడదనే ఈ విషయాలన్నీ విడమరచి చెప్పబడ్డాయి).”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ o na jati prajalara! Inadu rajyadhikaram mide; desanlo miru prabalyam vahinci un
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ నా జాతి ప్రజలారా! ఈ రోజు మీరు అధికారంలో ఉన్నారు. భూమిపై మీ ఆధిక్యత కొనసాగుతోంది. కాని అల్లాహ్‌ తరఫున మనపై ఏదైనా విపత్తు వచ్చిపడితే, మనల్ని ఆదుకునే వాడెవడు?” దానికి ఫిరౌన్‌ ఇలా సమాధానమిచ్చాడు: “నేను చూసేదే మీకు చెబుతున్నాను. సక్రమమైన మార్గం వైపుకే మీకు దర్శకత్వం వహిస్తున్నాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ataḍu nannu ilā aḍigēvāḍu: Ēmī? Nīvu kūḍā (punarut'thānaṁ) ni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అతను నాతో, ‘ఏమిటీ? (ప్రళయ దినం వస్తుందని) ధృవీకరించే వారిలో నువ్వూ చేరిపోయావా?’ అని అనేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

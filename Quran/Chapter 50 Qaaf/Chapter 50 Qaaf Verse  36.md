@@ -2676,6 +2676,12 @@ mariyu mēmu, vīriki pūrvaṁ ennō tarāla vārini nāśanaṁ cēśāmu. Vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీరికి పూర్వం ఎన్నో సముదాయాలను మేము తుదముట్టించి ఉన్నాము. వారు బలపరాక్రమాల రీత్యా వీళ్ళకన్నా ఘటికులే. వారు (నిలువ నీడ కోసం) పట్టణాలలో గాలించసాగారు. కాని పారిపోయి ఆశ్రయం పొందేస్థలం ఏదైనా వారికి లభించిందా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

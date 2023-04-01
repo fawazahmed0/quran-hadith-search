@@ -2676,6 +2676,12 @@ ataṟku mūsā ‘‘umakkum namakkumiṭaiyē ituvē (uṭaṉpaṭikkaiyākum
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీకూ – నాకూ మధ్య ఇది (ఈ ఒప్పందం) కుదిరినట్లే. నేను ఈ రెండు గడువులలో ఏ ఒక్కటి పూర్తిచేసినా- ఆ తరువాత నాపై ఎలాంటి ఒత్తిడీ రాకూడదు. మనం చెప్పుకునే మాటలకు అల్లాహ్‌ సాక్షిగా ఉన్నాడు” అని మూసా పలికాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

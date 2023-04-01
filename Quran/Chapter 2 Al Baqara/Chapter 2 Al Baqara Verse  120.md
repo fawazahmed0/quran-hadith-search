@@ -2676,6 +2676,12 @@ mariyu yūdulainā, kraistavulainā nīvu vāri matamunu anusarin̄cē varakū, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) నువ్వు వారి విధానాన్ని అనుసరించనంత వరకూ యూదులు, క్రైస్తవులు నిన్ను ఇష్టపడరు. అల్లాహ్‌ చూపిన మార్గమే సరైన మార్గం అని నువ్వు వారికి చెప్పేయి. ఒకవేళ నువ్వు నీ వద్దకు జ్ఞానం వచ్చిన మీదట కూడా వారి కోరికలను అనుసరిస్తే, అల్లాహ్‌ (పట్టు) నుండి నిన్ను రక్షించేవాడు, సహాయకుడూ ఎవడూ ఉండడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

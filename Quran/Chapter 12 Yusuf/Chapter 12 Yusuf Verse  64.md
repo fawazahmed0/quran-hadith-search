@@ -2676,6 +2676,12 @@ ataṟku (yaḥkūp; "itaṟku) muṉṉar ivaruṭaiya cakōtarar viṣayattil 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“లోగడ ఇతని సోదరుని విషయంలో నేను మిమ్మల్ని నమ్మినట్లుగానే ఇతని విషయంలో కూడా నమ్మమంటున్నారు కదూ! అల్లాహ్‌యే అత్యుత్తమ రక్షకుడు. ఆయనే కరుణించే వారందరిలోకీ గొప్పకరుణాకరుడు” అని (యాఖూబ్‌) పలికాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

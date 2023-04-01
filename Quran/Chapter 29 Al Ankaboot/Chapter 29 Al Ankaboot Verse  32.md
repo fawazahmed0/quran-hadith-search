@@ -2676,6 +2676,12 @@ niccayamāka avvūril lūttum irukkiṟārē" eṉṟu (ipṟāhīm) kūṟiṉ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“కాని అక్కడ లూత్‌ ఉన్నాడు కదా!” అని (ఇబ్రాహీము) సందేహపడ్డాడు. “అక్కడ ఉన్న వారెవరో మాకు బాగా తెలుసు. మేము అతని భార్యను తప్ప- అతన్ని, అతని ఇంటివారిని కాపాడుతాము. ఆ స్త్రీ మాత్రం వెనుక ఉండిపోయే వారితో చేరుతుంది” అని దైవదూతలు చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

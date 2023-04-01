@@ -2676,6 +2676,12 @@ ipṟāhīm tam takappaṉār ājariṭam, "vikkirakaṅkaḷaiyā nīr teyvaṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇబ్రాహీము తన తండ్రి ఆజరుతో, “ఏమిటీ, నీవు విగ్రహాలను ఆరాధ్య దైవాలుగా చేసుకుంటున్నావా? నువ్వూ, నీ జాతి వారూ నిస్సందేహంగా స్పష్టమైన అపమార్గానికి గురై ఉన్నారని నాకనిపిస్తోంది” అని పలికిన సందర్భం కూడా స్మరించుకోదగినదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

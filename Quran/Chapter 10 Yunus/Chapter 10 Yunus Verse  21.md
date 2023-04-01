@@ -2676,6 +2676,12 @@ mariyu mānavulaku āpada kaligina pidapa, mēmu vāriki kāruṇyaṁ ruci cūp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలపై ఆపద వచ్చిపడిన తరువాత మేము వారికి (మా) కారుణ్యం రుచి చూపితే, వెంటనే వారు మా ఆయతులకు వ్యతిరేకంగా ఎత్తులు వేయటం మొదలెడతారు. “ఎత్తులు వేయటంలో అల్లాహ్‌ మీకంటే చాలా వేగం” అని (ఓ ప్రవక్తా!) వారికి చెప్పు. నిశ్చయంగా మా దూతలు మీఎత్తులను వ్రాస్తున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

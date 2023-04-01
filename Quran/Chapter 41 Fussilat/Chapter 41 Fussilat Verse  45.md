@@ -2676,6 +2676,12 @@ Vāstavāniki mēmu mūsāku granthānni prasādin̄cāmu, kāni dāni viṣayan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మూసాకు (కూడా) గ్రంథాన్ని ఇచ్చి ఉన్నాము. మరైతే అందులో కూడా విభేదించుకోవటం జరిగింది. నీ ప్రభువు తరఫున ముందుగానే (ఆ) విషయం నిర్ధారించబడకుండా ఉంటే, వీళ్ళ మధ్య వ్యవహారం ఎప్పుడో తేల్చేయబడి ఉండేది. వీళ్లు ఆ విషయంలో తీవ్రంగా వ్యాకులపరిచే సందేహానికి లోనై ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

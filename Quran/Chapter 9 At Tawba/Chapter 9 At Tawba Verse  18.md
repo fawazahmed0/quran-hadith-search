@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh nu antimadinānni viśvasin̄cēvāru, namāj nu sthāpin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ను, అంతిమ దినాన్నీ విశ్వసిస్తూ, నమాజులను నెలకొల్పుతూ, జకాత్‌ను విధిగా చెల్లిస్తూ, అల్లాహ్‌కు తప్ప వేరొకరికి భయపడనివారు మాత్రమే అల్లాహ్‌ మస్జిదుల నిర్వహణకు తగినవారు. సన్మార్గ భాగ్యం పొందినవారు వీరేనని ఆశించవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

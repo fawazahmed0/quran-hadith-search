@@ -2676,6 +2676,12 @@ vāritō anu: "Mīru bhūmilō san̄cāraṁ cēsi cūḍaṇḍi. Āyana sr̥�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు : “భువిలో సంచరించండి. అల్లాహ్‌ ఏ విధంగా సృష్టిని మొదలెట్టాడో కాస్త చూడండి! మరి అల్లాహ్‌యే మలిసారి పునరుజ్జీవనం కూడా ప్రసాదిస్తాడు. నిశ్చయంగా అల్లాహ్‌ అన్నింటిపై అధికారం గలవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

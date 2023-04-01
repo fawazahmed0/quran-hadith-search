@@ -2676,6 +2676,12 @@ sasvatamaina svargavanalu! Vati krinda selayellu parutu untayi. Varandulo sasvat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+శాశ్వతమైన స్వర్గవనాలున్నాయి. వాటి క్రింద సెలయేళ్లు ప్రవహిస్తుంటాయి. వాటిలో వారు కలకాలం ఉంటారు. పరిశుద్ధుడైన ప్రతి వ్యక్తికీ లభించే ప్రతిఫలం ఇదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

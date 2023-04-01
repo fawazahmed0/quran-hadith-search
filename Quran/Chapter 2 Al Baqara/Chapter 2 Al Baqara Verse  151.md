@@ -2676,6 +2676,12 @@ i vidhanga memu mi varilo nundiye ma sucanalanu mi eduta vinipincataniki mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అదే విధంగా మేము మీ వద్దకు స్వయంగా మీలో నుండే ఒక ప్రవక్తను (నియుక్తం చేసి) పంపాము. అతడు మీకు మా వాక్యాలను చదివి వినిపిస్తున్నాడు, మిమ్మల్ని పరిశుద్ధుల్ని చేస్తున్నాడు, మీకు గ్రంథజ్ఞానాన్నీ, వివేకవంతమైన విషయాలను బోధిస్తున్నాడు, ఇంకా మీకు తెలియని విషయాలను నేర్పుతున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

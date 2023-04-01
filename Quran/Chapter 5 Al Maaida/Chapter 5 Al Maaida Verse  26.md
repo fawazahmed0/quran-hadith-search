@@ -2676,6 +2676,12 @@ Xudo guft: «Vurud ʙa on sarzamin ʙa muddati cihil sol ʙarojaşon harom şud 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు అల్లాహ్‌ ఇలా అన్నాడు: “ఇక ఈ భూమి వారి కోసం నలభై సంవత్సరాల దాకా నిషేధించబడింది. వారు ఎక్కడా నిలువ నీడ లేకుండా నేలపై తచ్చాడుతూ తిరుగుతుంటారు. కనుక నువ్వు ఈ అవిధేయ జనుల విషయంలో దుఃఖించకు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

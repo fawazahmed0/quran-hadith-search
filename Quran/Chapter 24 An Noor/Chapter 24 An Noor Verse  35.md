@@ -2676,6 +2676,12 @@ allāh ākāśālakū mariyu bhūmikī jyōti. Āyana jyōtini, gūṭilōni dī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఆకాశాలకూ, భూమికి కాంతి. ఆయన కాంతి ఒక గూటిని పోలి వున్నది. ఆ గూటిలో ఒక దీపం ఉంది. ఆ దీపం ఒక గాజు చిమ్నీలో ఉంది. ఆ గాజు చిమ్నీ మెరిసే నక్షత్రం మాదిరిగా ఉంది. ఆ దీపం శుభప్రదమైన ఒక జైతూను వృక్షం (నుండి తీసిన) నూనెతో వెలిగించబడుతోంది. ఆ వృక్షం తూర్పుకూ చెందదు, పడమరకూ చెందదు; దాని నూనె – అగ్ని తగలకపోయినా-దానంతట అదే జ్వలిస్తున్నట్లు ఉంది. కాంతిపై కాంతి వుంది. అల్లాహ్‌ తాను కోరిన వారికి తన కాంతి వైపు మార్గదర్శకత్వం వహిస్తాడు. ప్రజలకు (విషయం అర్థం అవటానికి) ఈ ఉపమానాలను అల్లాహ్‌ విశదపరుస్తున్నాడు. అల్లాహ్‌కు అన్ని విషయాలు క్షుణ్ణంగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

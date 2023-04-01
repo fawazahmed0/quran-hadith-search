@@ -2676,6 +2676,12 @@ o manavuda! Niscayanga, nivu ni prabhuvu vaipunaku, ni (manci-cedu) karmalanu ti
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ మానవుడా! నువ్వు నీ ప్రభువును చేరుకునేవరకు ఈ సాధనలో, (ఈ కఠోర పరిశ్రమలోనే) నిమగ్నుడవై ఉండి, తుదకు ఆయన్ని చేరుకుంటావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

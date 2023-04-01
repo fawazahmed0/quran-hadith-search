@@ -2676,6 +2676,12 @@ Mariyu atanini isrāyīl santati vāri vaipuku sandēśaharunigā pamputāḍu. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా అతను ఇస్రాయీలు వంశీయుల వైపుకు ప్రవక్తగా పంపబడతాడు. (వారినుద్దేశించి ఆయన ఇలా అంటాడు:) ”నేను మీ వద్దకు మీ ప్రభువు దగ్గరి నుంచి సూచనను తీసుకువచ్చాను. నేను మీ కోసం పక్షి ఆకారం ఉన్న ఒక మట్టి బొమ్మను తయారు చేసి అందులో ఊదుతాను. అల్లాహ్‌ ఆజ్ఞతో అది పక్షి అవుతుంది. ఇంకా అల్లాహ్‌ ఆజ్ఞతో నేను పుట్టుగ్రుడ్డిని, కుష్ఠు రోగిని బాగుచేస్తాను. మృతులను బ్రతికిస్తాను. మీరు తినే వాటినీ, మీరు మీ ఇండ్లలో నిలువచేసి ఉంచిన వాటిని గురించి (కూడా) చెబుతాను. మీరే గనక విశ్వసించేవారైతే ఇందులో మీ కొరకు గొప్ప సూచన ఉంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

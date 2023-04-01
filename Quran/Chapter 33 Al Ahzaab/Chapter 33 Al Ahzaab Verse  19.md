@@ -2676,6 +2676,12 @@ Ej mū'minon, ʙa saʙaʙi duşmaniju ʙadʙiniaşon ʙar şumo ʙuxl mevarzand 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు మీకు తోడ్పడే విషయంలో (పరమ) పీనాసులు. మరి భయాందోళనల పరిస్థితి ఎదురైనప్పుడు, చచ్చిపోయేవాడు కను గుడ్లు తేలవేసినట్లు, వారు నీ వైపు అదేపనిగా చూడటాన్ని నువ్వు గమనిస్తావు. ఆ తరువాత భయోత్పాతం వీడిపోతున్నప్పుడు, తమ పదునైన నాలుకలతో కోతలు కోస్తూ, నీ దగ్గరకు వస్తారు. విపరీతమైన ధనవ్యామోహం ఉన్నవారు. వారసలు విశ్వసించనే లేదు. అల్లాహ్‌ వారి కర్మలన్నింటినీ వృధా గావించాడు. అలా చేయటం అల్లాహ్‌కు చాలా తేలిక
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

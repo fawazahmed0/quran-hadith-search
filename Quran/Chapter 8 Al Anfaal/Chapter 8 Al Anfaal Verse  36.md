@@ -2676,6 +2676,12 @@ niścayaṅgā, satyatiraskārulu, prajalanu allāh mārgaṁ vaipunaku rākuṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా ఈ సత్య తిరస్కారులు ప్రజలను అల్లాహ్‌ మార్గంలోకి రాకుండా అడ్డుకోవటానికి తమ సంపదలను ఖర్చు పెడుతున్నారు. వారు తమ సొమ్ములను ఇలా ఖర్చుపెడుతూనే ఉంటారు. అయితే ఆ సొమ్ములే వారి పాలిట దుఃఖదాయకంగా పరిణమిస్తాయి. ఆ తరువాత వారు ఓడిపోతారు. సత్యతిరస్కారులు నరకం వైపుకు ప్రోగు చేయబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

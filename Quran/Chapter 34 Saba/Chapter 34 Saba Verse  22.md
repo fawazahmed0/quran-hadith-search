@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Allāh nu vadali mīru evarinaitē, (ārādhyadaivālugā) b
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు : అల్లాహ్‌ను వదలి మీరు ఎవరెవరినయితే ఊహించుకుంటున్నారో వారందరినీ పిలిచి చూడండి. భూమ్యాకాశాలలో వారికి రవంత అధికారంగానీ, వాటిలో వారికి ఎలాంటి వాటాగానీ లేదు. వారిలో ఏ ఒక్కడూ అల్లాహ్‌కు సహాయకుడు కూడా కాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ika eppuḍaitē, nēnu atani sr̥ṣṭini pūrti cēsi atanilō nā (taraphu n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేనతన్ని (సంపూర్ణంగా) తీర్చిదిద్ది, అతనిలో నా ఆత్మను ఊదినప్పుడు, మీరంతా అతనికి సాష్టాంగ ప్రణామం చేయాలి” (అన్నాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

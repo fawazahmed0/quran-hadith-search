@@ -2676,6 +2676,12 @@ mariyu evaraitē allāh nu mariyu āyana pravaktalanu viśvasistārō, alāṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరైతే అల్లాహ్ ను, ఆయన ప్రవక్తను విశ్వసిస్తారో వారే తమ ప్రభువు దగ్గర సత్యవంతులు, సాక్షులు. వారికొరకు వారి పుణ్యఫలం కూడా ఉంటుంది. వారి జ్యోతి కూడా ఉంటుంది. మరెవరైతే అవిశ్వాసులై మా సూచనలను ధిక్కరించారో వారే నరకవాసులవుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Ayane ratrini pagatiloki pravesimpa jestunnadu mariyu pagatini ratriloki pravesi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన రాత్రిని పగటిలోనికి జొప్పిస్తున్నాడు, పగటిని రాత్రి లోనికి జొప్పిస్తున్నాడు. మరి ఆయన సూర్యచంద్రులను (తన శాసన) నిబద్ధుల్ని చేశాడు – ప్రతిదీ ఒక నిర్ధారిత కాలం ప్రకారం నడుస్తోంది. ఈ అల్లాహ్‌యే మీ ప్రభువు. విశ్వసామ్రాజ్యాధికారం ఆయనదే. ఆయన్ని వదలి మీరు ఎవరెవరిని పిలుస్తున్నారో వారు ఖర్జూరపు టెంకపై ఉండే పొరకు కూడా యజమానులు కారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

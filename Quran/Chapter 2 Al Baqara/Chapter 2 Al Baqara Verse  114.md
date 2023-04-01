@@ -2676,6 +2676,12 @@ mariyu allāh masjid lalō āyana nāmasmaraṇaṁ niṣēdhin̄ci vāṭini n�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మస్జిదులలో, ఆయన నామస్మరణను అడ్డుకుని, వాటిని పాడుచేయడానికి ప్రయత్నించేవానికంటే పరమ దుర్మార్గుడు ఎవడుంటాడు? అటువంటివారు వాటిలో ప్రవేశించినా భయపడుతూనే ప్రవేశించాలి సుమా! వారికి ప్రపంచంలోనూ పరాభవం తప్పదు, పరలోకంలో కూడా మహా ఘోర శిక్ష తప్పదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

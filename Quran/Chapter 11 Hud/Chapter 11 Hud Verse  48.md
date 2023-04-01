@@ -2676,6 +2676,12 @@ ilā ājña ivvabaḍindi: "Ō nūh! Nīvu mariyu nītō unna nī jātivāru ś�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు ఈ విధంగా సెలవీయబడింది: “ఓ నూహు! మా తరఫు నుండి ప్రశాంతంగా దిగు. నీపైన, నీతోటి వారిపైన శుభాలు కలుగుతాయి. ఇంకా అనేక సమూహాలకు కూడా మేము తప్పకుండా లాభం చేకూర్చుతాము. కాని తర్వాత వారికి మా తరఫున బాధాకరమైన శిక్ష కూడా పడుతుంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

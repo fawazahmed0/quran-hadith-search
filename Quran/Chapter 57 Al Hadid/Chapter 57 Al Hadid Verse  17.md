@@ -2676,6 +2676,12 @@ bāgā telusukōṇḍi! Niścayaṅgā allāh, bhūmi canipōyina taruvāta, d�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+బాగా తెలుసుకోండి! భూమి మృతి చెందిన మీదట, అల్లాహ్ యే దానిని తిరిగి బ్రతికిస్తున్నాడు. మీరు అర్ధం చేసుకునేటందుకు మేము మా సూచనలను బాగా విడమరచి చెప్పాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

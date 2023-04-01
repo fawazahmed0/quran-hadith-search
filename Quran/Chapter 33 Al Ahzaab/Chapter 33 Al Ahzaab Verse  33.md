@@ -2676,6 +2676,12 @@ mariyu mīru mī iṇḍlalōnē uṇḍiṇḍi mariyu pūrvapu ajñānakālanl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు మీ ఇండ్లల్లోనే ఆగి ఉండండి. పూర్వపు అజ్ఞాన కాలంలో మాదిరిగా మీ సింగారాన్ని చూపిస్తూ తిరగకండి. నమాజు చేస్తూ ఉండండి. జకాతు ఇస్తూ ఉండండి. అల్లాహ్‌కు, ఆయన ప్రవక్తకు విధేయత చూపుతూ ఉండండి. ఓ ప్రవక్త ఇంటివారలారా! మీ నుండి (అన్ని రకాల) మాలిన్యాన్ని దూరం చేయాలన్నది, మిమ్మల్ని పూర్తిగా పరిశుద్ధపరచాలన్నది అల్లాహ్‌ అభిలాష
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

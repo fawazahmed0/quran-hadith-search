@@ -2676,6 +2676,12 @@ mariyu āyana dānilō (bhūmilō) dāni painuṇḍi sthiramaina parvatālanu n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆయనే భూమిలో, దానిపై నుంచి పర్వతాలను పాతిపెట్టాడు. అందులో శుభాన్ని పొందుపరిచాడు. అందులో (నివసించే వారికొరకు) ఆహార పదార్థాలను కూడా తగు మోతాదులో సమకూర్చాడు. ఇదంతా (కేవలం) నాలుగు రోజుల్లో అయిపోయింది. ఇది అడిగేవారికి తగిన విధంగా ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ allāh nu gurin̄ci satyaṁ tappa marē viṣayānni palakani bādhyata galavā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ పేరుతో సత్యాన్ని తప్ప మరేమాట అయినా చెప్పటం నాకేమాత్రం శోభించదు, నేను మీ దగ్గరకు మీ ప్రభువు వద్దనుంచి స్పష్టమైన సూచనను కూడా తీసుకువచ్చాను. కాబట్టి ఇస్రాయీలు వంశీయులను నాతో పంపు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

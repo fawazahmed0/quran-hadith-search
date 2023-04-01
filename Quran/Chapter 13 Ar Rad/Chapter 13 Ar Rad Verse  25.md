@@ -2676,6 +2676,12 @@ mariyu allāh tō oḍambaḍika cēsukunna taruvāta tama vāgdānānni bhaṅg
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరయితే అల్లాహ్‌తో చేసుకున్న ఒడంబడికను దృఢపరచిన తరువాత భంగపరుస్తారో, ఇంకా అల్లాహ్‌ కలపమని ఆజ్ఞాపించిన వాటిని త్రెంచేస్తారో, భూమిలో అలజడిని సృష్టిస్తారో వారే శాపానికి అర్హులు. వారికోసం బహుచెడ్డ నిలయం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

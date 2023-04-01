@@ -2676,6 +2676,12 @@ mariyu ī vidhaṅgā mēmu aparādhula nuṇḍi prati pravaktakū śatruvulanu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ విధంగా మేము ప్రతి ప్రవక్తకూ కొందరు పాపాత్ములను శత్రువులుగా చేశాము. మార్గదర్శకత్వం వహించడానికి, సహాయం చేయడానికి నీ ప్రభువు (ఒక్కడే) సరిపోతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

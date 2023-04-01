@@ -2676,6 +2676,12 @@ kāvuna nīvu nī prabhuvu yokka ājñapai sthiraṅgā uṇḍu mariyu vīrilō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి (ఓ ముహమ్మద్ సల్లల్లాహు అలైహివ సల్లం!) నువ్వు నీ ప్రభువు ఆదేశం పై స్థిరంగా ఉండు. వారిలోని ఏ పాపాత్ముని , మరే కృతఘ్నుని మాట వినకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

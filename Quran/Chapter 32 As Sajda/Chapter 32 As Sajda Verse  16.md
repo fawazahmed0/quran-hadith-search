@@ -2676,6 +2676,12 @@ Vāru (rātrulalō) tama prakkalanu tama parupula nuṇḍi dūraṁ cēsi, tama
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ప్రక్కలు వారి పడకల నుంచి వేరుగా ఉంటాయి. వారు తమ ప్రభువును భయంతోనూ, ఆశతోనూ ప్రార్థిస్తారు. మేము వారికి ప్రసాదించిన దానినుండి ఖర్చుపెడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

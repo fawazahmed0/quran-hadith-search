@@ -2676,6 +2676,12 @@ mariyu - allāh uttaruvulu unna taurāt granthaṁ vāri vadda unnappaṭikī - 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దైవాదేశాలు పొందుపరచబడి వున్న తౌరాతు గ్రంథం తమ వద్ద ఉన్నప్పటికీ వారు నిన్ను ఎట్లా న్యాయనిర్ణేతగా చేసుకుంటున్నారు? (ఇది ఆశ్చర్యకరం కదూ?!) ఆ తరువాత మళ్ళీ తిరిగిపోతున్నారు. యదార్థమేమిటంటే వారసలు విశ్వాసులే కారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

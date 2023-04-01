@@ -2676,6 +2676,12 @@ ataṟku"akkaṟpāṟaiyil nām taṅkiya camayattil nīṅkaḷ pārttīrkaḷ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికతను, “చూశారా (ఎంత పనయిందో)! మనం రాతి బండకు ఆనుకుని విశ్రాంతి తీసుకుంటున్నప్పుడు నేను చేప సంగతి మరచేపోయాను. అసలేం జరిగిందో మీకు చెప్పకుండా షైతానే నన్ను మరుపుకు లోను చేశాడు. ఆ చేప చాలా విచిత్రంగా సముద్రంలోకి దారి చేసుకుని వెళ్ళిపోయింది” అని వివరించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

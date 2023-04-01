@@ -2676,6 +2676,12 @@ allāh nu mariyu antimadinānni viśvasin̄cani; allāh mariyu āyana pravakta n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌నూ, అంతిమదినాన్నీ విశ్వసించని, అల్లాహ్‌ మరియు ఆయన ప్రవక్త నిషేధించిన వస్తువులను నిషిద్ధంగా భావించని, సత్యధర్మాన్ని అవలంబించని గ్రంథవహులతో – వారు పరాభవం పాలై తమ స్వహస్తాలతో జిజ్‌యా చెల్లించనంత వరకూ యుద్ధం చేయండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

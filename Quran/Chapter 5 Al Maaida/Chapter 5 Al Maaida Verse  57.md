@@ -2676,6 +2676,12 @@ o visvasulara! Mi dharmanni egataliga navvulataga pariganincevaru purvagrantha p
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీకు పూర్వం గ్రంథం వొసగబడిన వారిలో మీ ధర్మాన్ని నవ్వులాటగా, వినోదంగా చేసుకున్న వారినిగానీ, అవిశ్వాసులనుగానీ మీ స్నేహితులుగా చేసుకోకండి. మీరే గనక నిజమయిన విశ్వాసులైతే అల్లాహ్‌కు భయపడుతూ ఉండండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

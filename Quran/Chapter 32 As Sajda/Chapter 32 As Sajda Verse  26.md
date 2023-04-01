@@ -2676,6 +2676,12 @@ emi? Viriki purvam aneka taralanu nasanam cesina visayam viriki margadarsakatvam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, మేము వారికి పూర్వం ఎన్నో సమాజాలను తుద ముట్టించిన సంగతి కూడా వారికి సన్మార్గం చూపలేదా? మరి (చూడబోతే) వాళ్ళు నివసించిన స్థలాలలోకి వారు వస్తూ పోతూనే ఉన్నారు. నిశ్చయంగా ఇందులో (గొప్ప) సూచనలున్నాయి. అయినప్పటికీ వారు వినరా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

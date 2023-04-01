@@ -2676,6 +2676,12 @@ satyatiraskārulatō ilā anu: Okavēḷa vāru mānukuṇṭē gaḍicipōyindi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఈ అవిశ్వాసులకు చెప్పు : “వారు గనక మానుకుంటే గతంలో వారివల్ల జరిగిన పాపాలన్నీ క్షమించబడతాయి. ఒకవేళ వారు మళ్ళీ అదే వైఖరిని అవలంబిస్తే గత జాతులపై విధించబడిన ఉత్తర్వుల ఉపమానం ఉండనే ఉంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

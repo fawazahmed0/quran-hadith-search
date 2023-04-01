@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulu aṇṭunnāru: "Atanipai atani prabhuvu taraphu nuṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”అతనిపై అతని ప్రభువు తరఫున ఏదైనా సూచన (మహిమ)ఎందుకు అవతరించలేదు?”అని అవిశ్వాసులు అంటున్నారు. (ఓ ప్రవక్తా!) వాస్తవానికి నువ్వు వారిని హెచ్చరించేవాడివి మాత్రమే. ప్రతి జాతికీ మార్గదర్శకుడంటూ ఒకడున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

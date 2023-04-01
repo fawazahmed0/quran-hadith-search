@@ -2676,6 +2676,12 @@ mariyu eḍārivāsulalō (baddūlalō) kondaru allāh nu antimadinānni viśvas
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఈ పల్లె జనులలోనే అల్లాహ్‌ను, అంతిమదినాన్ని విశ్వసించేవారు కూడా ఉన్నారు. తాము ఖర్చుపెట్టే సొమ్మును దైవసామీప్యం పొందే, దైవప్రవక్త వేడుకోలుకు (దుఆకు) సాధనంగా ఉపయోగపడే వస్తువుగా వారు తలపోస్తారు. తెలుసుకోండి! వారు చేసే ఈ ఖర్చు నిశ్చయంగా వారి యెడల సామీప్య సాధనం అవుతుంది. అల్లాహ్‌ తప్పకుండా వారిని తన కారుణ్యంలో చేర్చుకుంటాడు. నిస్సందేహంగా అల్లాహ్‌ క్షమాశీలుడు, దయామయుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

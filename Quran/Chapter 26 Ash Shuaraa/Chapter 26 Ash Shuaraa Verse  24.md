@@ -2676,6 +2676,12 @@ Ataṟku (mūsā)"nīṅkaḷ uṟuti koṇṭavarkaḷāka iruppiṉ, vāṉa�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు నమ్మగలవారే అయితే (వినండి) ఆయన ఆకాశాలకూ, భూమికీ, వాటి మధ్యనున్న సమస్త వస్తువులకు ప్రభువు” అని మూసా జవాబిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

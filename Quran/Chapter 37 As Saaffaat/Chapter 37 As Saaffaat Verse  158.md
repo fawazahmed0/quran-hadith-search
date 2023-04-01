@@ -2676,6 +2676,12 @@ mariyu vāru, āyana (allāh) mariyu jinnātula madhya bandhutvaṁ kalpin̄cār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆఖరికి వారు అల్లాహ్‌కు – జిన్నాతులకు మధ్య కూడా బంధుత్వ సంబంధాన్ని కల్పించారు. వాస్తవానికి తాము (ఇలాంటి మిథ్యా విశ్వాసం గలవారు శిక్ష నిమిత్తం) హాజరు పరచబడతామన్న సంగతి స్వయంగా జిన్నాతులకు కూడా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

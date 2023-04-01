@@ -2676,6 +2676,12 @@ ataṟkavar; "avvāṟaṉṟu! Nīṅkaḷē (mutalil) eṟiyuṅkaḷ" eṉṟ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఫరవాలేదు, ముందు మీరే పడ వెయ్యండి” అని మూసా అన్నాడు. అప్పుడు వారి త్రాళ్లు, వారి కర్రలు వారి మంత్రశక్తిచే పరుగెత్తుతున్నట్లు అనిపించింది మూసాకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

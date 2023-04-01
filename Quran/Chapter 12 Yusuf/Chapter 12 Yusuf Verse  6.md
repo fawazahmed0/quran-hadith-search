@@ -2676,6 +2676,12 @@ mariyu ā vidhaṅgānē jarugutundi! Nī prabhuvu ninnu ennukuṇṭāḍu mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అలాగే (నువ్వు కలగన్నట్లుగానే) జరుగుతుంది. నీ ప్రభువు నిన్ను (తన కార్యం కొరకు) ఎన్నుకుంటాడు. నీకు విషయాలలోతును అందుకునే విద్యను (లేక స్వప్నాల సారాంశాన్ని గ్రహించే జ్ఞానాన్ని) కూడా నేర్పుతాడు. తన అనుగ్రహాన్ని నీపై పరిపూర్ణం గావిస్తాడు. యాఖూబు సంతానాన్నికూడా (అనుగ్రహిస్తాడు). ఆయన లోగడ నీ తాతముత్తాతలైన ఇబ్రాహీము, ఇస్‌హాఖులకు తన అనుగ్రహాన్ని సంపూర్ణంగా ప్రసాదించినట్లు. నిశ్చయంగా నీ ప్రభువు మహాజ్ఞాని, గొప్పవివేకవంతుడు” అని అతని తండ్రి (యాఖూబ్‌) ఉపదేశించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

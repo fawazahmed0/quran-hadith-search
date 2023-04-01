@@ -2676,6 +2676,12 @@ Ayane, suryunni (prakasince) dipanganu mariyu candrunni velugunu (pratibimbimpaj
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సూర్యుణ్ణి ప్రకాశమానంగానూ, చంద్రుణ్ణి కాంతిమంతంగానూ చేసినవాడు ఆయనే. మీరు సంవత్సరాల సంఖ్యను, లెక్కలను తెలుసుకోవటానికి చంద్రుని దశలను కూడా ఆయనే నిర్థారించాడు. అల్లాహ్‌ వీటిని సత్యబద్ధంగా తప్ప (నిరర్థకంగా) పుట్టించలేదు. తెలుసుకోగలవారికోసం ఆయన ఈ సూచనలను విడమరచి చెబుతున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

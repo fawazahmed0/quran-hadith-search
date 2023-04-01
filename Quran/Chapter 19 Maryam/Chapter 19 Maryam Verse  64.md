@@ -2676,6 +2676,12 @@ Va [ej Çaʙrail, ʙa Muhammad ʙigū] «Mo çuz ʙa farmoni Parvardigorat furud
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు ఆజ్ఞ లేకుండా (దైవదూతలమైన) మేము దిగి రాలేము. మాకు ముందూ, వెనుకా, వాటికి మధ్య ఉన్న వస్తువులన్నీ ఆయన సొత్తే. నీ ప్రభువు మరచిపోయేవాడు కాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

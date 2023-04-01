@@ -2676,6 +2676,12 @@ kāvuna mīru (dharmayud'dhanlō) dhairyānni vīḍakaṇḍi mariyu sandhi kor
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి మీరు ధైర్యం కోల్పోయి సంధి కోసం వారిని పిలవకండి. నిజానికి మీదే పైచేయి అవుతుంది. అల్లాహ్‌ మీకు అండగా ఉన్నాడు. ఆయన మీ కర్మలను వృధా చేయటమనేది జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

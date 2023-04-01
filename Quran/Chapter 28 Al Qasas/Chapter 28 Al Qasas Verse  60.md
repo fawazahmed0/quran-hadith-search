@@ -2676,6 +2676,12 @@ mariyu mīku ivvabaḍina vannī ī prāpan̄cika jīvitapu sukhasantōṣāla s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీకు ఏదైతే ఇవ్వబడిందో అది (అశాశ్వితమైన) ప్రాపంచిక జీవిత సామగ్రి, దాని పైపూత (అలంకరణ) మాత్రమే. అయితే అల్లాహ్‌ వద్ద ఉన్నది అత్యుత్తమమైనది, శాశ్వితమైనదీను. ఏమిటి, మీరు ఆ మాత్రం గ్రహించరా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

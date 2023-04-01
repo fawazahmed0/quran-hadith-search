@@ -2676,6 +2676,12 @@ Faroxonii pajomʙar [ʙaroi şirkat dar korhoi gurūhe]-ro ʙajni xud hamcun far
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు దైవప్రవక్త పిలుపును, మీలో ఒండొకరిని పిలుచుకునే మామూలు పిలుపులా అనుకోకండి. మీలో ఒకరి వెనుక ఒకరు దాక్కుంటూ మెల్లగా జారుకునే వారెవరో అల్లాహ్‌కు తెలుసు. వినండి! ఎవరు ప్రవక్త ఆజ్ఞను ఎదిరిస్తున్నారో వారు, తమపై ఏదయినా ఘోర విపత్తు వచ్చిపడుతుందేమోనని లేదా తమను ఏదయినా బాధాకరమైన శిక్ష చుట్టు ముడుతుందేమోనని భయపడాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu: "Itara janulu viśvasin̄cinaṭlu mīrū viśvasin̄caṇḍi." Ani, v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇతరులు (అంటే ప్రవక్త ప్రియ సహచరులు) విశ్వసించినట్లే మీరూ విశ్వసించండి” అని వారితో చెప్పినప్పుడు, “మూర్ఖ జనులు విశ్వసించినట్లుగా మేము విశ్వసించాలా?” అని వారు (ఎదురు) ప్రశ్న వేస్తారు. తస్మాత్‌! ముమ్మాటికీ వీరే మూర్ఖులు. కాని ఆ సంగతి వీరికి తెలియటం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

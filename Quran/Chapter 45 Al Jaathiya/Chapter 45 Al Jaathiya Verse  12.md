@@ -2676,6 +2676,12 @@ Allāh! Āyanē, samudrānni mīku upayuktaṅgā cēśāḍu; dānilō tana āj
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌యే మీ కోసం సముద్రాన్ని వశపరిచాడు – ఆయన ఆజ్ఞతో అందులో ఓడలు నడవటానికి, మరి మీరు ఆయన కృపను (ఉపాధిని) అన్వేషించటానికి, ఇంకా – మీరు ఆయనకు కృతజ్ఞతలు తెలుపుకోవటానికి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

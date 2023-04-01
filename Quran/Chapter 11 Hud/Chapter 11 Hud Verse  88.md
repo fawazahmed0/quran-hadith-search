@@ -2676,6 +2676,12 @@ Appuḍu atanu (ṣu'aib) annāḍu: "Ō nā jāti prajalārā! Ēmī? Mīru cū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి షుఐబు ఇలా సమాధానమిచ్చాడు : “ఓ నా జాతిసోదరులారా! చూడండి, నేను నా ప్రభువు వద్ద నుంచి ఒక స్పష్టమైన నిదర్శనాన్ని పొంది ఉన్నాను. ఆయన నాకు తన వద్ద నుండి అత్యుత్తమమైన ఉపాధిని ప్రసాదించాడు.(అలాంటప్పుడు నేను అక్రమార్జనకు పాల్పడగలనా?) ఏవిషయాలను మానుకోమని మిమ్మల్ని గట్టిగా చెబుతున్నానో వాటి వైపుకు నేను స్వయంగా మొగ్గిపోయే ఉద్దేశం నాకు లేనే లేదు. శాయశక్తులా దిద్దుబాటుచేయాలన్నదే నా ఉద్దేశం. నా ఈ సద్వర్తన అంతా దైవసహాయం పైనే ఆధారపడి ఉంది. నేను ఆయన్నే నమ్ముకున్నాను. ఆయన వైపుకే మరలుతున్నాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

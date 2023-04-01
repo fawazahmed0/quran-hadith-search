@@ -2676,6 +2676,12 @@ In qissaho az xaʙarhoi ƣajʙ ast, ki ʙa tu (ej Muhammad alajhissalotu vassalo
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇవి అగోచర విషయాలలోనివి. (ఓ ప్రవక్తా!) వాటిని నీకు వహీ ద్వారా తెలియజేస్తున్నాము. మర్యమ్‌కు పోషకులుగా ఎవరుండాలి? అన్న విషయమై వారు తమ కలములు విసరినప్పుడు నీవు అక్కడ లేవు. (ఈ వ్యవహారంపై) వారు గొడవ పడినప్పుడు కూడా నీవు అక్కడ లేవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

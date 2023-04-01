@@ -2676,6 +2676,12 @@ idi modaṭi nun̄cē vastū unna allāh sampradāyaṁ. Nīvu allāh sampradāy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇది అల్లాహ్ (సమ్మతించిన) సంప్రదాయం. ఇంతకు ముందు నుంచే ఇది ఆనవాయితీగా వస్తూ వుంది. నీవు అల్లాహ్ సంప్రదాయంలో ఎలాంటి మార్పునూ పొందజాలవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

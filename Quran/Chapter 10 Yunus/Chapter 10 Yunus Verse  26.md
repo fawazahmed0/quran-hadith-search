@@ -2676,6 +2676,12 @@ Man̄cipanulu cēsina vāriki, man̄ci phalitaṁ dorukutundi. Mariyu iṅkā ek
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సత్కార్యాలు చేసిన వారికొరకు మేలున్నది. మరింత బహుమానం కూడా ఉన్నది. వారి ముఖాలపై నలుపుగానీ, పరాభవంగానీ ఆవరించవు. వారు స్వర్గవాసులు. అందులో వారు కలకాలం ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

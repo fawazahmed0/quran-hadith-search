@@ -2676,6 +2676,12 @@ ataṟkavar, "eṉṉai mutumai vantaṭaintirukkumpōtā eṉakku naṉmārāya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ, వృద్ధాప్యం వచ్చేసిన తరువాత మీరు నాకు ఈ శుభవార్త వినిపిస్తున్నారా? ఈ శుభవార్తను అసలు మీరు ఎలా వినిపిస్తున్నారు?” అని అతను అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Vāru iṅkā ilā aṇṭāru: "Ō mā prabhū! Niścayaṅgā, mēmu mā nāya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా ఇలా అంటారు : “ప్రభూ! మేము మా సర్దారులు, పెద్దలు చెప్పినట్లు విన్నాము. వారు మమ్మల్ని పెడత్రోవ పట్టించారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

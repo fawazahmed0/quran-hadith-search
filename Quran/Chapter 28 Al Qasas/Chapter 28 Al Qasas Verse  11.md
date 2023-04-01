@@ -2676,6 +2676,12 @@ ame, atani (musa) sodarito annadi: "Atani venta vellu." Kavuna ame duram nundiye
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా తల్లి, అతని అక్కతో, “నువ్వు ఇతని వెనకాలే వెళ్ళు” అని చెప్పింది. అందువల్ల ఆమె దూరం నుంచే గమనిస్తూ పోయింది. కాని ఆ సంగతి వారికి (ఫిరౌనీయులకు) తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

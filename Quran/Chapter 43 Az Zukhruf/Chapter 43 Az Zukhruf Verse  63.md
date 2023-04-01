@@ -2676,6 +2676,12 @@ mariyu īsā spaṣṭamaina (mā) sūcanalu tīsukoni vaccinappuḍu ilā annā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+స్పష్టమైన నిదర్శనాలను తీసుకుని వచ్చినప్పుడు ఈసా (ఏసు – అలైహిస్సలాం) ఇలా అన్నాడు: “నేను మీ దగ్గరకు వివేకాన్ని తెచ్చాను. మీరు విభేదించుకుంటున్న కొన్ని విషయాల వాస్తవికతను విడమరచి చెప్పటానికే వచ్చాను. కనుక మీరు అల్లాహ్‌కు భయపడండి. నాకు విధేయత చూపండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

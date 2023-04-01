@@ -2676,6 +2676,12 @@ niścayaṅgā, mēmu mānavulandari koraku, ī granthānni, satyantō nīpai av
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌ – సఅసం!) జనుల కోసం మేము ఈ గ్రంథాన్ని సత్యబద్ధంగా నీ వద్దకు పంపాము. కాబట్టి ఎవడయినా దారికి వస్తే అతను తన స్వయానికే మేలు చేసుకున్నాడు. మరెవరయినా దారితప్పితే ఆ పెడదారి (పాపం) అతని మీదే పడుతుంది. నీవు వారికి బాధ్యుడవు కావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ evaraitē tama bhāryalatō (sambhōgin̄camu, ani) pramāṇaṁ cēstārō, v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే తమ భార్యలతో సంబంధం పెట్టుకోబోమని ఒట్టేసుకుంటారో వారి కొరకు నాలుగు మాసాల గడువు ఉంది. మరి వారు గనక (ఈలోగా) మరలివస్తే అల్లాహ్‌ కూడా క్షమించేవాడు, జాలి చూపేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

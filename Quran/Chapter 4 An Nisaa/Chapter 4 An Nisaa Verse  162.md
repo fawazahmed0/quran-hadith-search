@@ -2676,6 +2676,12 @@ kāni vārilō paripūrṇamaina jñānaṁ galavāru mariyu viśvāsulainavāru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే వారిలో పరిపూర్ణమైన, పరిపక్వతనొందిన జ్ఞానంగలవారూ, విశ్వసించినవారూ, నీపై అవతరింపజెయ్య బడినదానినీ, నీకు పూర్వం అవతరింపజెయ్యబడిన దానినీ విశ్వసించేవారూ, నమాజులను నెలకొల్పేవారూ, జకాతును చెల్లించేవారూ, అల్లాహ్‌ మరియు అంతిమ దినాన్ని విశ్వసించేవారూ – వీరందరికీ మేము గొప్ప పుణ్యఫలాన్ని ప్రసాదిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

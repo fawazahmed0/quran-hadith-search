@@ -2676,6 +2676,12 @@ o visvasulara! Mi indlu tappa, itarula indlaloniki vari anumati lekunda mariyu a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు మీ ఇళ్లల్లోకి తప్ప ఇతరుల ఇళ్లల్లోకి – వారి అనుమతి పొందనంతవరకూ, అక్కడున్న వారికి ‘సలామ్‌’ చేయనంతవరకూ – ప్రవేశించకండి. ఇదే మీ కొరకు మేలైన పద్ధతి. మీరు గుర్తుంచుకునేందుకుగాను (ఈ విధంగా బోధపరచ బడింది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

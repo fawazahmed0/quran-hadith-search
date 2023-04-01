@@ -2676,6 +2676,12 @@ prati pāṇi cāvunu cavi cūstundi. Mariyu niścayaṅgā, tīrpudinamuna mī 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రతి ప్రాణీ మృత్యువు రుచి చూడవలసిందే. ప్రళయదినాన మీరు అందరూ మీ కర్మల పూర్తి ఫలితాన్ని పొందుతారు. అప్పుడు ఎవడు నరకాగ్ని నుంచి కాపాడబడి, స్వర్గంలో ప్రవేశం కల్పించబడతాడో అతడు నిశ్చయంగా సఫలీకృతుడయ్యాడు. ప్రాపంచిక జీవితమైతే ఒక మాయావస్తువు తప్ప మరేమీ కాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

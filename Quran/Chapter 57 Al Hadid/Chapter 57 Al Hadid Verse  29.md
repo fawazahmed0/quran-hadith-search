@@ -2676,6 +2676,12 @@ allāh anugrahaṁ mīda tamaku elāṇṭi adhikāraṁ lēdani mariyu niścaya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దైవానుగ్రహంలోని ఏ భాగంపై కూడా తమకెలాంటి అధికారం లేదని, అనుగ్రహమంతా దేవుని చేతిలోనే ఉందని, ఆయన తను కోరిన వారికి దాన్ని ప్రసాదిస్తాడని గ్రంథ ప్రజలు తెలుసుకోవాలని (ఆయన ఈ విధంగా చేశాడు). అల్లాహ్ గొప్ప అనుగ్రహం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

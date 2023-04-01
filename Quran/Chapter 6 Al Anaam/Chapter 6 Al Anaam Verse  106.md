@@ -2676,6 +2676,12 @@ nīvu nī prabhuvu taraphu nuṇḍi avatarimpa jēyabaḍina divyajñānānni (
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! నీవు మాత్రం నీ ప్రభువు తరఫు నుంచి నీ వద్దకు వహీ ద్వారా పంపబడుతున్న విధానాన్ని అనుసరిస్తూ ఉండు. ఆయన తప్ప మరో ఆరాధ్య దైవం లేడు. ముష్రిక్కులను పట్టించుకోకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

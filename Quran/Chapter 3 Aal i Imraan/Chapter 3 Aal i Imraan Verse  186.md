@@ -2676,6 +2676,12 @@ niścayaṅgā mīru, mī dhana prāṇālatō parīkṣimpabaḍatāru; mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మీ ధనప్రాణాల ద్వారా మీరు పరీక్షించ బడతారు. అంతేకాదు, మీకు పూర్వం గ్రంథం వొసగబడిన వారి తరఫునుండీ, ముష్రిక్కుల తరఫునుండీ మీరు బాధాకరమైన మాటలెన్నో వినవలసి వస్తుంది. ఇలాంటి పరిస్థితుల్లో మీరు గనక సహనం పాటిస్తూ, భయభక్తులతో మసలుకుంటే ఇదెంతో సాహసోపేతమైన పనే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

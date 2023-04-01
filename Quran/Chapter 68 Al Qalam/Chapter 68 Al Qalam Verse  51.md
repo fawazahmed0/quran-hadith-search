@@ -2676,6 +2676,12 @@ Mariyu ā satyatiraskārulu, ī sandēśānni (khur'ān nu) vinnappuḍu, tama c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ అవిశ్వాసులు ఖుర్ఆన్ ను విన్నప్పుడల్లా తమ వాడి చూపులతో నిన్ను జారించి పడవేసినట్లే ఉంటారు. ఖచ్చితంగా ఇతడు పిచ్చివాడే” అని అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

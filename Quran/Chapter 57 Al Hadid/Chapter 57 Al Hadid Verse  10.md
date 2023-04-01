@@ -2676,6 +2676,12 @@ mariyu mīkēmayindi? Mīrenduku allāh mārganlō kharcupeṭṭaḍaṁ lēdu?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అల్లాహ్ మార్గంలో ఖర్చుపెట్టక పోవటానికి కారణం ఏమిటి? అసలు మీకేమయింది? వాస్తవానికి భూమ్యకాశాలలోని వారసత్వం అంతా అల్లాహ్ కే చెందుతుంది. మీలో (మక్కా) విజయానికి పూర్వం దైవమార్గంలో ఖర్చుచేసినవారు, పోరాడినవారూ – ఇతరులూ సమానులు కాలేరు. (మక్కా) విజయం తర్వాత ఖర్చుచేసి, పోరాడిన వారికంటే వీరు గొప్ప అంతస్థులు కలవారు. అయితే మేలు చేస్తానన్న అల్లాహ్ వాగ్దానం మాత్రం వీరందరికీ వర్తిస్తుంది. మీరు చేసేదంతా అల్లాహ్ కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

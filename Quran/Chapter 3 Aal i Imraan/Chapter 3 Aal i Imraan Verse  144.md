@@ -2676,6 +2676,12 @@ mariyu muham'mad kēvalaṁ oka sandēśaharuḍu mātramē! Vāstavāniki atani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ముహమ్మద్‌ (సల్లల్లాహు అలైహి వ సల్లం) ఒక ప్రవక్త మాత్రమే. ఈయనకు పూర్వం కూడా (చాలామంది) ప్రవక్తలు గతించారు. ఒకవేళ ఈయన చనిపోతే లేక చంపబడితే మీరు- ఇస్లాం నుంచి – వెనుతిరిగిపోతారా? వెనుతిరిగిపోయేవాడు అల్లాహ్‌కు ఏ మాత్రం హాని కలిగించలేడు. కృతజ్ఞతలు తెలిపే వారికి అల్లాహ్‌ త్వరలోనే మంచి ప్రతిఫలం వొసగుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ avarkaḷ islām mārkkattait taḻuviyatāl, umakku upakāram ceytu viṭṭat�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తాము ఇస్లాం స్వీకరించి నీకేదో ఉపకారం చేసినట్లుగానే వారు మాట్లాడుతున్నారు. (ఓ ప్రవక్తా!) వారికి చెప్పు : “మీ ఇస్లాం స్వీకరణకు సంబంధించిన ఉపకారం నాపై పెట్టకండి. వాస్తవానికి మీరు సత్యవంతులే అయితే (తెలుసుకోండి), అల్లాహ్ విశ్వాసమార్గం చూపి మీకు మహోపకారం చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

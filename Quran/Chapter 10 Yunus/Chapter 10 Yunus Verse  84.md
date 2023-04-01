@@ -2676,6 +2676,12 @@ mariyu mūsā annāḍu: "Nā jāti prajalārā! Mīku nijaṅgānē allāh mīd
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా (అలైహిస్సలామ్‌)తన వారినుద్దేశించి, “నా జాతిప్రజలారా! మీరు అల్లాహ్‌ను విశ్వసించేవారే అయితే, మీరు ముస్లిములే అయితే ఆయన్నే నమ్ముకోండి” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

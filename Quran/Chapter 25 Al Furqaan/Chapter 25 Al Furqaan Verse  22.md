@@ -2676,6 +2676,12 @@ a roju varu devadutalanu custaru; aroju aparadhulaku elanti subhavartalu undavu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఏ రోజున దైవదూతలను చూస్తారో ఆ రోజు ఆ అపరాధులకు ఎంత మాత్రం సంతోషం కలగదు. “(శుభవార్తలన్నీ) సంతోషదాయక వార్తలన్నీ మీకు పూర్తిగా నిషిద్ధం” అని (దైవదూతలు) అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

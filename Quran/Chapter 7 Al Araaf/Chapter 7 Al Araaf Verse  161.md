@@ -2676,6 +2676,12 @@ mariyu vāriki ilā ājña ivvabaḍina sandarbhānni (jñāpakaṁ cēsukōṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు ఈ పట్నంలోకి పోయి నివసించండి, అక్కడ మీరు కోరిన చోటినుంచి తీసుకుని తినండి. ‘హిత్తతున్‌’ అని పలుకుతూ, సాష్టాంగపడుతూ ద్వారం గుండా ప్రవేశించండి. మేము మీ తప్పులను క్షమిస్తాము. సత్కార్యాలు చేసేవారికి మరింతగా అనుగ్రహిస్తాము” అని వారికి ఆజ్ఞాపించబడినప్పుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mīru mī strīlaku (modaṭi sāri lēka reṇḍavasāri) viḍākulist
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు స్త్రీలకు విడాకులు ఇచ్చిన తరువాత, వారు తమ గడువు (ఇద్దత్‌)ను ముగించి, తమ (మాజీ) భర్తలను ధర్మబద్ధంగా పరస్పరం ఇష్టపడి వివాహమాడదలిస్తే మీరు వారికి అడ్డు తగలకండి. మీలో ఎవరయితే అల్లాహ్‌ను, అంతిమదినాన్నీ విశ్వసిస్తున్నారో వారికి ఈ ఉపదేశం చేయబడుతోంది. ఇందులోనే మీ పరిశుద్ధత, పరిశుభ్రత ఇమిడి ఉన్నాయి. అంతా అల్లాహ్‌కు తెలుసు, మీకు తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

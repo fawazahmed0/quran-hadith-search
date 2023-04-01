@@ -2676,6 +2676,12 @@ mariyu allāh ku mariyu āyana pravaktaku vidhēyulai uṇḍaṇḍi mariyu par
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా మీరందరూ అల్లాహ్‌కూ, ఆయన ప్రవక్తకూ విధేయులై ఉండండి. పరస్పరం గొడవ పడకండి. అలా చేస్తే (గొడవపడ్డారంటే) మీరు పిరికివారై పోతారు. మీ శక్తి సన్నగిల్లిపోతుంది. అందుకే సహన స్థయిర్యాలను పాటించండి. స్థయిర్యం కనబరచే వారికి అల్లాహ్‌ తోడుగా ఉంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

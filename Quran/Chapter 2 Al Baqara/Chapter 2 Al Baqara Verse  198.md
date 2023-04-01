@@ -2676,6 +2676,12 @@ Gunohe ʙar şumo nest, ki [dar ajjomi haç ʙo xaridu furūş] az fazli Parvard
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(హజ్‌ యాత్ర సందర్భంగా) మీరు గనక మీ ప్రభువు అనుగ్రహాన్ని అన్వేషిస్తే అందులో తప్పేమీ లేదు. మీరు అరఫాత్‌ నుండి తిరిగి వస్తున్నప్పుడు ‘మష్‌అరె హరామ్‌’ వద్ద దైవనామాన్ని స్మరించండి – ఆయన సూచించిన విధంగానే ఆయన నామస్మరణ చేయండి. ఇంతకు మునుపైతే మీరు దారి తప్పి ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

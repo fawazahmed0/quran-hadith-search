@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Cuhayfe radiyallahu anh şöyle demiştir: Resulullah (Sallallahu aleyhi ve Sellem) öğlenin sıcak zamanında yanımıza çıkıp geldi. Kendisine abdest alması için su getirildi, o da abdest aldı. İnsanlar abdestinden artan suyu alıp, vücutlarına sürmeye başladılar. Nebi (Sallallahu aleyhi ve Sellem) öğleni de, ikindiyi de iki rekat kıldırdı. Onun önünde de (sütre olarak) bir harbe duruyordu. Tekrar: 376, 49
+Ebu Cuhayfe radiyallahu anh şöyle demiştir: Resulullah (Sallallahu aleyhi ve Sellem) öğlenin sıcak zamanında yanımıza çıkıp geldi. Kendisine abdest alması için su getirildi, o da abdest aldı. İnsanlar abdestinden artan suyu alıp, vücutlarına sürmeye başladılar. Nebi (Sallallahu aleyhi ve Sellem) öğleni de, ikindiyi de iki rekat kıldırdı. Onun önünde de (sütre olarak) bir harbe duruyordu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>187</td></tr><tr><td>Reference</td><td>Book 4 Hadith 53</td></tr></tbody></table></div>
 

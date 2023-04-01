@@ -2676,6 +2676,12 @@ mariyu mīru mī māṭalanu rahasyaṅgā un̄cinā sarē! Lēka vāṭini vell
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు మీ మాటలను రహస్యంగా (మెల్లగా) పలికినా, బిగ్గరగా పలికినా (అల్లాహ్ కు తెలియకుండా ఉండవు). నిశ్చయంగా ఆయన గుండెల్లోని గుట్టును సయితం ఎరిగినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

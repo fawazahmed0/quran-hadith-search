@@ -2676,6 +2676,12 @@ mariyu bhūmyākāśāla sāmrājyādhipatyaṁ allāh dē! Āyana tānu kōrina
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాల సర్వసత్తాధికారం అల్లాహ్ దే. తను కోరినవారిని ఆయన క్షమిస్తాడు, తను కోరినవారిని శిక్షిస్తాడు. అల్లాహ్ అపారంగా క్షమించేవాడు, కరుణించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

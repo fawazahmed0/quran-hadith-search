@@ -2676,6 +2676,12 @@ ataḍi poruguvāḍu ataḍitō māṭlāḍutū annāḍu: "Ninnu maṭṭitō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు అతని స్నేహితుడు అతనితో మాట్లాడుతూ ఇలా అన్నాడు : “ఏమిటీ, నిన్ను మట్టితో చేసి, ఆ తరువాత వీర్యపు బిందువుతో సృష్టించి, ఆపైన నిన్ను నిండు మనిషిగా తీర్చిదిద్దిన ఆయననే (ఆ ఆరాధ్య దైవాన్నే) తిరస్కరిస్తున్నావా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

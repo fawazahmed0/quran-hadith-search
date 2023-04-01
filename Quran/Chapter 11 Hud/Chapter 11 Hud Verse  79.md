@@ -2676,6 +2676,12 @@ vārannāru: "Nī kūtuḷḷu māku avasaraṁ lēdani nīku bāgā telusu kad�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నీ కూతుళ్ళపై మాకెలాంటి హక్కులేదన్న సంగతి నీకు బాగా తెలుసు. మా కిష్టమైనది ఏదో కూడా నీకు తెలుసు కదా!” అని వారు సమాధానమిచ్చారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

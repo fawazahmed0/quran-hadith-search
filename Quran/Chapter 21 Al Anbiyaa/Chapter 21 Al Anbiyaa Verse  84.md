@@ -2676,6 +2676,12 @@ appuḍu mēmu atani (prārthanalu) aṅgīkarin̄ci, atani bādha nuṇḍi ata
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము అతని ప్రార్థనను ఆలకించి, ఆమోదించాము. అతని బాధను దూరం చేశాము. అతనికి అతని ఇంటివారలను ప్రసాదించాము. పైగా వారితోపాటు వారిని పోలిన మరి అంతే మందిని మా ప్రత్యేక కటాక్షంతో అతనికి వొసగాము – నికార్సయిన దాసుల కొరకు ఇదొక గుణపాఠం కావాలని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

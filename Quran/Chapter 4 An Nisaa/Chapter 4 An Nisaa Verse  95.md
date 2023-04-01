@@ -2676,6 +2676,12 @@ Elāṇṭi kāraṇaṁ lēkuṇḍā, iṇṭi vadda kūrcuṇḍipōyē viśv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ కారణమూ లేకుండా (ఇంటి పట్టున) కూర్చుండిపోయే విశ్వాసులు, దైవమార్గంలో తమ ధన ప్రాణాలతో పోరాడే విశ్వాసులూ సమానులు కాలేరు. తమ ధనప్రాణాలతో పోరాడేవారికి అల్లాహ్‌ ఇంట్లో కూర్చుని ఉండేవారిపై అంతస్థుల రీత్యా ఎంతో ఉన్నతిని ప్రసాదించాడు. ఆ మాటకొస్తే అల్లాహ్‌ ప్రతి ఒక్కరికీ ఉత్తమ ప్రతిఫలం ఇస్తానని వాగ్దానం చేసి ఉన్నాడు. అయితే ఆయన కూర్చుని ఉండే వారిపై ముజాహిద్‌ (యోధు)లకు గొప్ప ప్రతిఫలం ద్వారా శ్రేష్ఠతను ప్రసాదించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

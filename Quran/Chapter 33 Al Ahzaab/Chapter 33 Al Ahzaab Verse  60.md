@@ -2676,6 +2676,12 @@ okavēḷa ī kapaṭa viśvāsulu mariyu tama hr̥dayālalō rōgaṁ (kaluṣi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ కపటులు, హృదయాలలో రోగమున్నవారు, మదీనాలో తప్పుడు వదంతులను వ్యాపింపజేస్తున్నవారు (ఇప్పటికైనా తమ దుష్ట వైఖరిని) మానుకోకపోతే, (వారికి వ్యతిరేకంగా చర్య తీసుకోవటానికి) మేము నిన్ను వారిపై నియమిస్తాము. ఆ తరువాత వారు కొన్నాళ్ళు మాత్రమే నీతోపాటు ఇక్కడ (ఈ నగరంలో) ఉండగలుగుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

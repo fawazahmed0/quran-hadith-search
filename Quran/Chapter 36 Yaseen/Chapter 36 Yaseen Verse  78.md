@@ -2676,6 +2676,12 @@ mariyu ataḍu māku pōlikalu kalpistū tana sr̥ṣṭinē maralipōyāḍu. A
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాడు మమ్మల్ని (ఇతరులతో) పోల్చాడు. కాని (మరోవైపు) తన అసలు పుట్టుకనే మరచిపోయాడు. “కుళ్ళి కృశించిపోయిన ఎముకలను ఎవడు బ్రతికిస్తాడు?” అని వాడు సవాలు విసురుతున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

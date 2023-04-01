@@ -2676,6 +2676,12 @@ vāru nī māṭalanu viṇṭunnappuḍu, vāru ēmi viṇṭunnārō māku bā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు నీ వైపుకు చెవియొగ్గి వింటున్నప్పుడు ఏ ఉద్దేశ్యంతో వింటున్నారో మాకు బాగా తెలుసు. పరస్పరం చెవులు కొరుక్కుంటూ “చేతబడి ప్రభావానికి లోనైన వ్యక్తిని మీరు అనుసరిస్తున్నారు” అని ఆ దుర్మార్గులు పలికేది కూడా (మాకు తెలుసు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

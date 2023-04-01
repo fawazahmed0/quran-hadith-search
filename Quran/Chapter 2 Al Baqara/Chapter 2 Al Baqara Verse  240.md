@@ -2676,6 +2676,12 @@ mariyu mīlō maraṇin̄cina vāru bhāryalanu vadalipōtē, vāru tama bhārya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీలో ఎవరయినా చనిపోయి, వారు తమ భార్యలను వదలిపోతే, వారు ఒక ఏడాది కాలంపాటు ప్రయోజనం పొందేలా, వారిని ఎవరూ ఇండ్ల నుంచి గెంటివేయకుండా ఉండేలా వీలునామా వ్రాయాలి. ఒకవేళ వారు తమంతట తాముగా వెళ్ళిపోయి, తమ విషయంలో ధర్మసమ్మతంగా ఏమి చేసినా దానికి మీరు నిందార్హులు కారు. అల్లాహ్‌ సర్వాధికుడు, వివేచనాపరుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ alā kādu! Nīvu kēvalaṁ allāh nu mātramē ārādhin̄cu mariyu kr̥tajñu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాదు, నువ్వు మాత్రం (ఒక్కడైన) అల్లాహ్‌నే ఆరాధించు. కృతజ్ఞతలు తెలుపుకునే వారిలో చేరిపో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ phir'aun jāti vāri mariyu vāriki pūrvaṁ vāri mādirigā, vīru kūḍā a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(వీళ్ల ధోరణి) ఫిరౌను అనుయాయుల, వారి పూర్వీకుల ధోరణిని పోలి ఉన్నది. వారు అల్లాహ్‌ ఆయతులను తిరస్కరించగా, అల్లాహ్‌ వారి పాపాల కారణంగా వారిని పట్టుకున్నాడు. నిస్సందేహంగా అల్లాహ్‌ బలవంతుడు, కఠినంగా శిక్షించేవాడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Manavulanu heccarincataniki mariyu visvasincina variki niscayanga, tama pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, “ప్రజలను హెచ్చరించు, విశ్వసించినవారికి వారి ప్రభువు వద్ద పూర్తి ప్రతిఫలం, ఉన్నత స్థానం ఉందన్న శుభవార్తను వినిపించు” అంటూ వారిలోని ఒక మనిషి వద్దకు మేము వహీ (సందేశం) పంపటం ప్రజలను ఆశ్చర్యచకితుల్ని చేసిందా? (పైగా) తిరస్కారులు, “ఇతడు ముమ్మాటికీ పచ్చిమాంత్రికుడే” అని పలికారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

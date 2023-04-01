@@ -2676,6 +2676,12 @@ Satyatiraskārulaina granthaprajalaku gānī mariyu bahudaivārādhakulaku (mu�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీపై మీ ప్రభువు తరఫు నుంచి ఏదైనా మేలుతో కూడుకున్న విషయం అవతరించటం గ్రంథవహుల్లోని తిరస్కారులకుగానీ, ముష్రిక్కు (బహుదైవారాధకు)లకు గానీ ఏమాత్రం ఇష్టం లేదు. (వారెంతగా అసూయ చెందినా ఫరవాలేదు) అల్లాహ్‌ తన ప్రత్యేక కారుణ్యం నుంచి తాను కోరిన వారికి అనుగ్రహిస్తాడు, అల్లాహ్‌ గొప్ప అనుగ్రహం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

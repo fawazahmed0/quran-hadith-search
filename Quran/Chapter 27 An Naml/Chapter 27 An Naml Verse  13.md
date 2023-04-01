@@ -2676,6 +2676,12 @@ kāni vāri munduku mā pratyakṣa sūcanalu vaccinapuḍu vāru: "Idi spaṣ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి కళ్లు తెరిపించే మా సూచనలు వారి వద్దకు చేరిన తరువాత కూడా “ఇది స్పష్టమైన ఇంద్రజాలం” అని వారు తేలిగ్గా కొట్టేశారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

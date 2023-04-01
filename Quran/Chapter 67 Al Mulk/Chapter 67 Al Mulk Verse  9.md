@@ -2676,6 +2676,12 @@ Vāraṇṭāru: "Enduku rālēdu! Vāstavāniki mā vaddaku heccarika cēsēvā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఎందుకు రాలేదు? హెచ్చరించే వాడొకడు వచ్చాడు. కాని మేమే అతణ్ణి ధిక్కరించాము. ‘అల్లాహ్ దేనినీ అవతరింపజేయలేదు. మీరే పెద్ద అపమార్గానికి లోనై ఉన్నార’ని (సూటిగా) చెప్పేశాము” అని వారు ఒప్పుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

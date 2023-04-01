@@ -2676,6 +2676,12 @@ mariyu satyānni tiraskarin̄cēvāni, tiraskāraṁ ninnu duḥkhāniki guri c�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌-స!) అవిశ్వాసుల అవిశ్వాస వైఖరిపై నువ్వు కుమిలిపోకూడదు. చివరకు వారంతా మరలి రావలసింది మా వైపుకే. అప్పుడు మేము వారు చేసుకున్నదాన్ని వారికి తెలియపరుస్తాము. నిశ్చయంగా అల్లాహ్‌ గుండెల్లోని గుట్టును సయితం ఎరిగినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

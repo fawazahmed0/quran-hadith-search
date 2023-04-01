@@ -2676,6 +2676,12 @@ nēnu dāni koraku mī nuṇḍi elāṇṭi pratiphalānni aḍagaṭaṁ lēdu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఈ పనికిగాను నేను మీ నుండి ఎలాంటి ప్రతిఫలాన్నీ అడగటం లేదు. నాకు ప్రతిఫలం ఇచ్చే బాధ్యత సర్వలోక ప్రభువుపై ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

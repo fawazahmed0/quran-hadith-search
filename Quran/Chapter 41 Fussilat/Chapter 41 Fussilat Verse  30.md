@@ -2676,6 +2676,12 @@ Niścayaṅgā, evaraitē: "Allāh yē mā prabhuvu!" Ani palukutū taruvāta d�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభువు అల్లాహ్‌ మాత్రమే ” అని పలికి, దానిపై స్థిరంగా ఉన్న వారి వద్దకు దైవదూతలు దిగివచ్చి, (ఇలా అంటూ ఉంటారు): “మీరు భయపడకండి. దుఃఖించకండి. మీకు వాగ్దానం చేయబడిన స్వర్గలోకపు శుభవార్తను అందుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

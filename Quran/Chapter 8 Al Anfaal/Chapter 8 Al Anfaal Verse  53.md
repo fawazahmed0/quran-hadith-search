@@ -2676,6 +2676,12 @@ idi endukaṇṭē! Vāstavāniki, oka jāti vāru, tama naḍavaḍikanu tāmu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలా ఎందుకు జరుగుతుందంటే, అల్లాహ్‌ ఏ జాతివారికైనా అనుగ్రహాన్ని ప్రసాదించిన తర్వాత వారు స్వయంగా తమకు తామై తమ స్థితిని మార్చుకుంటేనే తప్ప అల్లాహ్‌ తాను ప్రసాదించిన అనుగ్రహాన్ని మార్చడు. నిశ్చయంగా అల్లాహ్‌ అంతా వినేవాడు, అన్నీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

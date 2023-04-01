@@ -2676,6 +2676,12 @@ mariyu niścayaṅgā, masjidulu allāh korakē pratyēkin̄cabaḍḍāyi. Kāv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా – మస్జిదులు కేవలం అల్లాహ్ కొరకే ప్రత్యేకించబడ్డాయి. కాబట్టి (వాటిలో) అల్లాహ్ తో పాటు ఇతరులెవరినీ పిలవకండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

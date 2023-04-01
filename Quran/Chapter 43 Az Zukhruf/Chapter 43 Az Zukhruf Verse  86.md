@@ -2676,6 +2676,12 @@ mariyu vāru āyananu vadali, evarinaitē prārthistunnārō, vāriki siphārasu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ను వదలి వీళ్లు ఎవరెవరిని మొరపెట్టుకుంటున్నారో వారికి, సిఫారసుకు సంబంధించిన ఏ అధికారమూ లేదు. కాని సత్యం గురించి సాక్ష్యమిచ్చి, దానికి సంబంధించిన జ్ఞానమున్న వారు మాత్రం (సిఫారసుకు యోగ్యులు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

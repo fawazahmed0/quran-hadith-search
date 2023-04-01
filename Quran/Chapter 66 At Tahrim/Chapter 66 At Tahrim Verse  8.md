@@ -2676,6 +2676,12 @@ o visvasulara! Miru allah vaipunaku manah purvakamaina pascattapanto, ksamapana 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! అల్లాహ్ వైపు పశ్చాత్తాపంతో మరలండి – నిష్కల్మషమైన పశ్చాత్తాపభావంతో! మీ ప్రభువు మీ పాపాలను మీనుండి దూరం చేయవచ్చు. క్రింద సెలయేళ్ళు ప్రవహించే (స్వర్గ) వనాలలో మీకు ప్రవేశం కల్పించవచ్చు. ఆ రోజు అల్లాహ్ ప్రవక్తనూ, అతని వెంటనున్న విశ్వాసులను అవమానపరచడు. వారి కాంతి వారి ముందూ, వారి కుడి వైపూ పరుగెడుతూ ఉంటుంది. అప్పుడు వారిలా వేడుకుంటూ ఉంటారు: “మా ప్రభూ! మా కాంతిని మా కొరకు పరిపూర్ణం గావించు. మమ్మల్ని క్షమించు. నిశ్చయంగా నీవు అన్నింటిపై అధికారం కలవాడవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu āyana! Allāh yē, ākāśālalōnū mariyu bhūmilōnū (ārādhyuḍu)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలోనూ, భూమిలోనూ నిజదైవం ఆయనే. మీరు దాచిపెట్టేదీ, పైకి వ్యక్తపరచేదీ – అంతా ఆయనకు తెలుసు. మీరు చేసే పనులన్నీ ఆయనకు ఎరుకే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

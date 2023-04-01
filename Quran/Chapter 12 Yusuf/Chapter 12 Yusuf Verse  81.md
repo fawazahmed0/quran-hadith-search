@@ -2676,6 +2676,12 @@ akave, "ninkal unkal tantaiyaritam tirumpic cenru, 'enkalutaiya tantaiye! Unkal 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరంతా నాన్నగారి దగ్గరకు తిరిగి వెళ్ళి ఇలా చెప్పండి: ‘నాన్నగారూ! మీ కుమారుడు దొంగతనం చేశాడు. మేము మాకు తెలిసిన దాని గురించి మాత్రమే సాక్ష్యం ఇచ్చాము. అగోచర విషయాలను మేము కాపాడేవారముకాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

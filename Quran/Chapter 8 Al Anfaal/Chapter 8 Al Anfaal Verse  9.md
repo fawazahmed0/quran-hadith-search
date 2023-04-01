@@ -2676,6 +2676,12 @@ Va ʙa jod ored on ne'matero, ki Alloh ʙar şumo arzonī kard dar çangi Badr, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సహాయం కోసం మీరు మీ ప్రభువును మొరపెట్టుకున్న ఆ సందర్భాన్ని కూడా జ్ఞప్తికి తెచ్చుకోండి-మరి అల్లాహ్‌ మీ మొరను ఆలకించి, “నేను వెయ్యిమంది దూతలతో మీకు సహాయం చేస్తాను. వారు ఎడతెగకుండా – ఒకరి వెనుక ఒకరు – వస్తుంటారు” అని చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

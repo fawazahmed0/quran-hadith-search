@@ -2676,6 +2676,12 @@ mariyu ibrāhīm mataṁ nuṇḍi vimukhuḍayyēvāḍevaḍu, tananu tānu av
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+శుద్ధ అవివేకి మాత్రమే ఇబ్రాహీం ధర్మం (విధానం) పట్ల విరక్తి చెందుతాడు. మేము అతన్ని ప్రపంచంలోనూ ఎన్నుకున్నాము, పరలోకంలో కూడా అతడు సజ్జనుల సరసన ఉంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

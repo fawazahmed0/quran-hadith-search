@@ -2676,6 +2676,12 @@ emi? Ayane kada? Badhitudu vedukunnappudu atadi moranu alakinci apadanu tolaginc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కలత చెందినవాడు మొరపెట్టుకున్నప్పుడు, అతని మొరను ఆలకించి, అతని వ్యాకులతను దూరం చేసేవాడెవడు? మిమ్మల్ని భూమికి ప్రతినిధులుగా చేసేవాడెవడు? ఏమిటీ, అల్లాహ్‌తో పాటు మరో ఆరాధ్య దేవుడు కూడా ఉన్నాడా? మీరు మాత్రం గుణపాఠం గ్రహించేది బహు తక్కువ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

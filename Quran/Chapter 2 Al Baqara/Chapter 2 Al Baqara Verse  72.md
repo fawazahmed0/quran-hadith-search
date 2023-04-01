@@ -2676,6 +2676,12 @@ Mariyu (jñāpakaṁ cēsukōṇḍi), mīru oka vyaktini campi ā nindanu okari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(జ్ఞాపకం చేసుకోండి.) మీరు ఒక వ్యక్తిని హత్య చేసి, ఆ విషయంలో పరస్పరం విభేదించుకోసాగారు. కాని మీ గుట్టును అల్లాహ్‌ రట్టు చేయాలనే నిర్ణయించుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

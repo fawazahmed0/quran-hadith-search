@@ -2676,6 +2676,12 @@ mariyu vāru tama cētulārā, cēsukoni pampina karmala phalitaṅgā vāripai 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ చేతులారా ముందుగా చేసి పంపుకున్న (చెడు) కర్మల కారణంగా వారిపై ఏదన్నా ఆపద వచ్చిపడిన పక్షంలో, “మా ప్రభూ! నువ్వు మా వద్దకు ఏ ప్రవక్తనయినా ఎందుకు పంపలేదు? (పంపి ఉంటే) మేము నీ ఆయతులను అనుసరించి, విశ్వాసులలో చేరి ఉండేవారము కదా!” అని అనేవారు. వారలా అనకుండా ఉండేపక్షంలో (మేము వారి వద్దకు ప్రవక్తను పంపి ఉండేవారమే కాదు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

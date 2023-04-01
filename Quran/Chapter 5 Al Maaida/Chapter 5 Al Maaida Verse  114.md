@@ -2676,6 +2676,12 @@ Dāniki maryam kumāruḍu īsā (ēsu): "Ō allāh! Mā prabhū! Ākāśaṁ nu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు మర్యమ్‌ కుమారుడగు ఈసా ఇలా వేడుకున్నాడు : “ఓ అల్లాహ్‌! మా ప్రభూ! ఆకాశం నుంచి మాపై ఆహారంతో నిండిన పళ్లాన్ని దించు. అది మా కొరకు, అనగా మాలోని తొలివారు, తుది వారందరికీ సంతోషకరమైన విషయం (పండుగ) కావాలి. ఇంకా నీ తరఫున అది ఒక సూచన కాగలగాలి. నీవు మాకు ఆహారం ప్రసాదించు. నీవు అందరికన్నా శ్రేష్ఠమైన ఆహార ప్రదాతవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

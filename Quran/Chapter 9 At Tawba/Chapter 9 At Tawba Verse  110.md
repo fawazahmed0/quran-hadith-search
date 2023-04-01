@@ -2676,6 +2676,12 @@ vāri hr̥dayālu mukkalaipōyi (vāru canipōyi) nanta varaku, vāru kaṭṭin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(తమ మనసుల్లోని) అనుమానం మూలంగా వారు కట్టిన ఆకట్టడం నిత్యం వారి హృదయాలను (ముల్లు మాదిరిగా) కెలుకుతూనే ఉంటుంది. వారి హృదయాలు పగిలి తునాతునకలై పోతే అది వేరే విషయం. అల్లాహ్‌ అన్నీ తెలిసినవాడు, వివేకసంపన్నుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

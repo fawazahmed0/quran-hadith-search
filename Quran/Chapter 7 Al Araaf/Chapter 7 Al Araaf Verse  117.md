@@ -2676,6 +2676,12 @@ mēmu mūsāku: "Nī cētikarranu visuru." Ani ādēśamiccāmu. Appuḍadi vār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు, “నీ చేతి కర్రను పడవెయ్యి” అని మేము మూసాను ఆదేశించాము. చేతిలోని కర్రను పడవెయ్యగానే అది వారి (కనికట్టు) క్రీడా విన్యాసాలను మింగేయసాగింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mēmu ākāśālanu, bhūmini mariyu vāṭi madhya unna samastānni, satyantō 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము భూమ్యాకాశాలను, వాటి మధ్యనున్న వస్తువులన్నింటినీ సత్య (ప్రణాళికా) బద్ధంగా ఒక నిర్ణీత గడువు కొరకు సృష్టించాము. కాని అవిశ్వాసులు తాము హెచ్చరించబడే విషయం నుండి ముఖం త్రిప్పుకుంటున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

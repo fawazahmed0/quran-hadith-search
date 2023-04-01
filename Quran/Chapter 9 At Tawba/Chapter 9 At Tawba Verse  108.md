@@ -2676,6 +2676,12 @@ nīvennaḍū dānilō (namāj ku) nilabaḍaku. Modaṭi rōju nuṇḍiyē dai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నువ్వు ఎన్నడూ అందులో నిలబడకు. అయితే తొలినాటి నుంచే భయభక్తుల పునాదిపై నిర్మించబడిన మస్జిదు నువ్వు నిలబడటానికి అన్ని విధాలా తగినది. బాగా పరిశుద్ధతను పొందటాన్ని ఇష్టపడే వారు అందులో ఉన్నారు. బాగా పరిశుద్ధతను పాటించేవారిని అల్లాహ్‌ ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

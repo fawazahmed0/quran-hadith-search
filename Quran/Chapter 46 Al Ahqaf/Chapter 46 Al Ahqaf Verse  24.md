@@ -2676,6 +2676,12 @@ a taruvata varu oka dattamaina meghanni vari loyala vaipunaku ravatam cusi ila a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వాళ్లు ఆ విపత్తును కారు మేఘం రూపంలో తమ లోయల వైపునకు రావటం చూసి, “ఇది మాపై వర్షాన్ని కురిపించే మబ్బు తునక” అని చెప్పుకోసాగారు. కాదు, నిజానికది మీరు తొందరపెట్టిన (విపత్కర) మేఘం. అదొక పెనుగాలి. అందులో వ్యధాభరితమైన శిక్ష ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

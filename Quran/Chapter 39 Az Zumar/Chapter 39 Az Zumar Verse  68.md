@@ -2676,6 +2676,12 @@ mariyu bākā (sūr) ūdabaḍinappuḍu ākāśālalō mariyu bhūmilō unna v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి శంఖం ఊదబడగానే ఆకాశాలలో, భూమిలో ఉన్న వారంతా స్పృహ తప్పి పడిపోతారు – కాని అల్లాహ్‌ కోరిన వారు మాత్రం (స్పృహ కోల్పోరు)! మళ్లీ శంఖం పూరించబడగానే వారంతా ఒక్కసారిగా లేచి చూస్తూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

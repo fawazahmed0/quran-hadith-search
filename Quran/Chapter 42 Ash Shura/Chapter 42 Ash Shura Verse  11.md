@@ -2676,6 +2676,12 @@ ayane akasalu mariyu bhumi yokka srstiki muladhari. Ayana milo nunde mi koraku j
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలను పుట్టించినవాడు ఆయనే. ఆయన మీకోసం మీ నుండే మీ జతలను చేశాడు. పశువుల జతలను కూడా చేశాడు. ఈ విధంగా (ఇలలో) మిమ్మల్ని వ్యాపింపజేస్తున్నాడు. ఆయన్ని పోలిన వస్తువేదీ లేదు. ఆయన వినేవాడు, చూచేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

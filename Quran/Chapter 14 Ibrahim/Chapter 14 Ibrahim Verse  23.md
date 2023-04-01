@@ -2676,6 +2676,12 @@ Mariyu viśvasin̄ci, satkāryālu cēsē vārini krinda kāluvalu pravahin̄cē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించి, సత్కార్యాలు చేసినవారు క్రింద సెలయేరులు ప్రవహించే స్వర్గ వనాలలో ప్రవేశింపజెయ్యబడతారు. తమ ప్రభువు అనుజ్ఞపై వారక్కడ కలకాలం ఉంటారు. ‘సలామ్‌’తో సహా అక్కడ వారికి స్వాగతం లభిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

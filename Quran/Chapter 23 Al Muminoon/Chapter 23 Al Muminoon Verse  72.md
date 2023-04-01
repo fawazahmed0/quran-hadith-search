@@ -2676,6 +2676,12 @@ lēka nīvu (ō muham'mad!) Vārini pratiphalaṁ ēmainā aḍugutunnāvā? Nī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పోనీ, నువ్వు వారినుంచి వేతనం ఏదన్నా అడుగుతున్నావా? నీ ప్రభువు ఇచ్చే ప్రతిఫలం చాలా మేలైనదని తెలుసుకో. ఆయన ఉపాధి ప్రదాతలలోకెల్లా శ్రేష్ఠుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

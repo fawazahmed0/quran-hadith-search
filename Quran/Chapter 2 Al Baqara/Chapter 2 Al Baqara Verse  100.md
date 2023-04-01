@@ -2676,6 +2676,12 @@ emi? Varu odambadika cesinapudalla, varilo oka vargam varu danini trosi puccutam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారెప్పుడు ఏ వాగ్దానం చేసినా, వారిలోని ఏదో ఒక వర్గం దాన్ని భంగపరుస్తుంది. పైగా వారిలో అనేకులు విశ్వాసులు కారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

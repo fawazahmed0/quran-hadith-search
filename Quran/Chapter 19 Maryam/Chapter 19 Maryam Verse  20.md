@@ -2676,6 +2676,12 @@ ame ila prasnincindi: "Naku kumarudu ela kalugutadu? Nannu e manavudunu muttukol
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నాకు పిల్లవాడు కలగటమేమిటీ? నన్ను ఏ మగాడూ కనీసం తాకనైనా లేదే! నేను దుర్నడత గల దాన్ని కూడా కానే!!” అని ఆమె అన్నది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

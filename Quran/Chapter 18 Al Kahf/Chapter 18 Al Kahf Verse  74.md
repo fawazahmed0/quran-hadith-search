@@ -2676,6 +2676,12 @@ a pidapa varu tama prayanam sagincaga variki oka baludu kalisadu. Atanu vanini (
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత వారుభయులూ ముందుకు సాగిపోయారు. వారికి ఒక అబ్బాయి తారసపడ్డాడు. అతనా అబ్బాయిని చంపేశాడు. “మీరు పవిత్రమైన ఒక ప్రాణాన్ని తీసేశారు. అతను ఏ ప్రాణినీ హతమార్చి ఉండలేదుకదా! నిశ్చయంగా మీరు అత్యంత ఘోరకృత్యానికి పాల్పడ్డారు” అని మూసా చెప్పాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

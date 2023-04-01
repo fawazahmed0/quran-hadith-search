@@ -2676,6 +2676,12 @@ vāstavaṅgā, adi vāripai akasmāttugā vaccipaḍi vārini kalavara peḍutu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అవును!) ఆ ఘడియ అకస్మాత్తుగా వారిపై వచ్చిపడుతుంది. అది వారిని ఉక్కిరిబిక్కిరి చేసేస్తుంది. మరి వారు దాన్ని దాట వేయనూ లేరు, కొద్దిపాటి గడువు కూడా వారికి ఇవ్వబడదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ i bhumi maroka bhumiga mariyu akasalu (vere akasaluga) mare roju; a advitiyudu, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ రోజున ఈ భూమి మరో భూమిగా మార్చివేయబడుతుందో, ఆకాశం సయితం (మారిపోతుందో), అప్పుడు అందరూ సర్వశక్తిమంతుడు, ఒకే ఒక్కడైన అల్లాహ్‌ ముందుకు వస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

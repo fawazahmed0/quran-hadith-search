@@ -2676,6 +2676,12 @@ mariyu satyatiraskārula upamānaṁ, vāṭi (ā paśuvula) valē undi; avi ata
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సత్య తిరస్కారుల ఉపమానం పశువుల కాపరి యొక్క కేకను, అరుపును మాత్రమే వినే పశువుల వంటిది (ఆలోచన అన్నమాటే ఉండదు). వారు చెవిటివారు, మూగవారు, గ్రుడ్డివారు. వారు అర్థం చేసుకోరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

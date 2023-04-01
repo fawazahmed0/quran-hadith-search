@@ -2676,6 +2676,12 @@ ilā anu: "Niścayaṅgā nēnu nā prabhuvu taraphu nuṇḍi labhin̄cina spa�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా ఇలా చెప్పు: “నా వద్ద నా ప్రభువు తరఫున ఒక ప్రమాణం ఉంది. మీరేమో దాన్ని అసత్యమని త్రోసిపుచ్చుతున్నారు. దేనికోసం మీరు తొందర పెడుతున్నారో అది నా దగ్గరలేదు. నిర్ణయాధికారం అల్లాహ్‌కు తప్ప మరెవరికీ లేదు. ఆయన సత్యాన్ని తెలియపరుస్తాడు. అందరికన్నా ఉత్తమమైన తీర్పరి ఆయనే.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mēmu mim'malni phir'aun jāti vāri nuṇḍi vimukti kaligin̄cina sand
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మిమ్మల్ని ఫిరౌనీయుల నుండి విముక్తి కల్పించిన సందర్భాన్ని కాస్త జ్ఞాపకం చేసుకోండి – వాళ్ళు మిమ్మల్ని విపరీతమైన యాతనలకు గురిచేసేవారు. మీ కుమారులను చంపేసి, మీ స్త్రీలను మాత్రం బ్రతకనిచ్చేవారు. అందులో మీకు మీ ప్రభువు తరఫున పెద్ద పరీక్ష ఉండింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

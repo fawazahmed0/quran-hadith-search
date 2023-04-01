@@ -2676,6 +2676,12 @@ nēnu cēyakuṇḍā vaccina satkāryālu cēyaṭāniki." Adi kāni pani. Niś
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను వదలి వచ్చిన లోకంలోకే వెళ్ళి సత్కార్యం చేస్తాను” అని అంటాడు. ముమ్మాటికీ అలా జరగదు. అది అతను అంటున్న ఒక మాట మాత్రమే. వారు మళ్లీ సజీవులై లేచే రోజు వరకూ వారి వెనుక ఒక అడ్డుతెర ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

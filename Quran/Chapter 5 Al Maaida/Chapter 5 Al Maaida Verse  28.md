@@ -2676,6 +2676,12 @@ okavēḷa nīvu nannu campaṭāniki nī cēyi nā vaipuku ettinā! Nēnu ninnu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నువ్వు నన్ను చంపటానికి చెయ్యి ఎత్తినా, నేను మాత్రం నిన్ను చంపే ఉద్దేశంతో చెయ్యి ఎత్తను. నేను సకల లోకాల ప్రభువైన అల్లాహ్‌కు భయపడుతున్నాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

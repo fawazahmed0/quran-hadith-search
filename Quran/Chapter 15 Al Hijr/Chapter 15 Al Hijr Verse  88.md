@@ -2676,6 +2676,12 @@ vārilō (aviśvāsulalō) kondariki mēmu osaṅgina aihika sampadalanu nīvu k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలోని పలు వర్గాల వారికి మేము ఇచ్చిన ప్రాపంచిక సంపద వైపుకు నువ్వు ఆబగా చూడకు. వారి స్థితిపై దిగులు చెందకు. విశ్వాసుల కోసం నీ (వాత్సల్య భరిత) రెక్కలను వంచిపెట్టు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

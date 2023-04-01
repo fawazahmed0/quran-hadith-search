@@ -2676,6 +2676,12 @@ ananta karuṇāmayuḍu, tana dāsulaku vāgdānaṁ cēsina agōcara jagattul�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అగోచరాలైన, శాశ్వత స్వర్గవనాలలోకి (వారు ప్రవేశిస్తారు.) వాటిని గురించి కరుణామయుడు (అయిన అల్లాహ్‌) తన దాసులకు వాగ్దానం చేశాడు. ఆయన వాగ్దానం నెరవేరటం తథ్యం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

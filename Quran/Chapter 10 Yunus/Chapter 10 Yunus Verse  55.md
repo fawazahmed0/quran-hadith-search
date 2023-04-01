@@ -2676,6 +2676,12 @@ vinaṇḍi! Niścayaṅgā, ākāśālalōnū mariyu bhūmilōnū unna samastam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వినండి! ఆకాశాలలో, భూమిలో ఉన్న సమస్తమూ అల్లాహ్‌ సొత్తే. గుర్తుంచుకోండి! అల్లాహ్‌ వాగ్దానం సత్యం. అయితే చాలామంది (ఈ సత్యాన్ని) తెలుసుకోరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

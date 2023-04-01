@@ -2676,6 +2676,12 @@ Mariyu evaraitē tama bhāryalanu jihār dvārā dūraṁ cēsi taruvāta tama m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరైనా తమ భార్యలపై ‘జిహార్’ను ప్రయోగించి, తమ నోటి ద్వారా జారిపోయిన (తప్పుడు) మాటను ఉపసంహరించదలచుకుంటే వారు ఒకరినొకరు తాకకముందే అతను ఒక బానిసకు స్వేచ్ఛను ప్రసాదించాలి. దీని ద్వారా మీకు గుణపాఠం నేర్పబడుతున్నది. మీరు చేసేదంతా అల్లాహ్ కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

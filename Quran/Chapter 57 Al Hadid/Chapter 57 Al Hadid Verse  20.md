@@ -2676,6 +2676,12 @@ bāgā telusukōṇḍi! Niścayaṅgā, ihalōka jīvitaṁ, oka āṭa mariyu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+బాగా తెలుసుకోండి! ఈ ప్రాపంచిక జీవితం ఒక ఆట, తమాషా, అలంకార ప్రాయం, పరస్పరం బడాయిని చాటుకోవటం, సిరిసంపదలు, సంతానం విషయంలో ఒండొకరిని మించిపోవడానికి ప్రయత్నించటం మాత్రమే. (దీని) ఉపమానం వర్షపు నీరు లాంటిది. దానివల్ల మొలచిన పైరు రైతులను అలరిస్తుంది. మరి ఆ పంట ఎండిపోగానే అది పసుపువన్నెగా మారిపోవటం నీవు చూస్తావు. ఆ తరువాత అది పొట్టు పొట్టుగా తయారవుతుంది. మరి పరలోకంలో మాత్రం తీవ్రమైన శిక్ష ఉంది, అల్లాహ్ తరఫున క్షమాపణ, ఆయన ప్రీతి కూడా ఉంది. మొత్తానికి ప్రాపంచిక జీవితం మభ్యపెట్టే వస్తువు తప్ప మరేమీ కాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ grandha prajalalōni paluvuru - vāri manas'sulalō unna asūya valla - satyaṁ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ గ్రంథవహుల్లోని అనేకులు, సత్యమేదో స్పష్టంగా తెలిసి పోయినప్పటికీ – కేవలం తమ మనసులలో ఉన్న అసూయ మూలంగా మిమ్మల్ని కూడా విశ్వాస మార్గం నుంచి అవిశ్వాసం వైపు మళ్ళించాలని చూస్తున్నారు. కాబట్టి అల్లాహ్‌ తన ఆదేశాన్ని తీసుకువచ్చే వరకూ మీరు కూడా మన్నింపుల వైఖరిని అవలంబిస్తూ ఉండండి, వారిని పట్టించుకోకండి. నిశ్చయంగా అల్లాహ్‌ అన్నింటిపై అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

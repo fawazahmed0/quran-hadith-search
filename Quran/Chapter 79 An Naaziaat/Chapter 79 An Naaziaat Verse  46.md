@@ -2676,6 +2676,12 @@ vāru dānini cūsina rōju (tāmu prapan̄canlō) kēvalaṁ oka sāyantramō l
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు దానిని ప్రత్యక్షంగా చూసిన నాడు, తాము (ప్రపంచంలో) కేవలం ఒక దినములో అంత్య భాగమో లేక దాని ఆరంభ భాగమో ఉండి ఉంటామని వారికి అనిపిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

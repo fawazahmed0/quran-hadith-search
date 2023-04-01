@@ -2676,6 +2676,12 @@ tana dāsunipai (muham'mad pai) ī granthānni (khur'ān nu) avatarimpajēsina a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రశంసలన్నీ అల్లాహ్‌కు మాత్రమే శోభిస్తాయి. ఆయన తన దాసునిపై ఈ (ఖుర్‌ఆన్‌) గ్రంథాన్ని అవతరింపజేశాడు. ఇందులో ఎలాంటి వక్రతనూ ఉంచలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

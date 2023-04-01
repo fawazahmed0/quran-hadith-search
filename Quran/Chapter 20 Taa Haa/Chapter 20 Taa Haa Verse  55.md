@@ -2676,6 +2676,12 @@ dāni (ā maṭṭi) nun̄cē mim'malni sr̥ṣṭin̄cāmu, marala mim'malni d�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దీని (ఈ నేల)లో నుంచే మేము మిమ్మల్ని సృష్టించాము. మళ్లీ ఇందులోనికే మిమ్మల్ని చేరుస్తాము. మరి ఇందులో నుంచే మరోసారి మీ అందరినీ వెలికి తీస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

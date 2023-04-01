@@ -2676,6 +2676,12 @@ Mariyu vāru satyatiraskārulainaṭlē mīru kūḍā satyatiraskārulai, vāri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తాము అవిశ్వాసులుగా ఉన్నట్లే మీరు కూడా అవిశ్వాస వైఖరిని అవలంబించి, ఆపైన అందరూ ఒకేలాగా అయిపోవాలన్నది వారి ఆకాంక్ష! కనుక వారు దైవమార్గంలో తమ స్వస్థలాన్ని వదలి బయలుదేరనంతవరకూ, వారిలో ఎవరినీ మీ స్నేహితులుగా చేసుకోకండి. ఒకవేళ వారు విముఖులైపోతే వారిని పట్టుకోండి. ఎక్కడ దొరికితే అక్కడ వారిని చంపండి. జాగ్రత్త! వారిలో ఎవరినీ మీ మిత్రునిగా, సహాయకునిగా భావించకండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

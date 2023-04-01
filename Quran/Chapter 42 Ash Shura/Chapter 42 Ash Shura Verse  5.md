@@ -2676,6 +2676,12 @@ akasalu, pai nundi dadapu preli ponunnayi. Mariyu devadutalu tama prabhuvu pavit
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశం వారిపై నుంచి పగిలి పడిపోవటానికి సిద్ధంగా ఉన్నట్లే ఉంది. మరి దైవదూతలంతా స్తోత్రసమేతంగా తమ ప్రభువు పవిత్రతను కొనియాడుతున్నారు. భూవాసుల మన్నింపు కోసం వారు వేడుకుంటున్నారు. విన్నావా! నిస్సందేహంగా అల్లాహ్‌యే క్షమించేవాడు, కృపాకరుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

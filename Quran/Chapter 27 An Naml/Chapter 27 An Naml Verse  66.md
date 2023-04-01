@@ -2676,6 +2676,12 @@ vāstavāniki, paralōka jīvitaṁ gurin̄ci vāri jñānaṁ śūn'yamē. Alā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అసలు పరలోకానికి సంబంధించి వారి జ్ఞానం స్థంభించిపోయింది. పైగా దాని గురించి వారు సంశయంలో పడి ఉన్నారు. కాదు, దానిపట్ల వారు అంధులైపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

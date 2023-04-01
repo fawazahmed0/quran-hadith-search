@@ -2676,6 +2676,12 @@ Bigū (ej Pajomʙar ʙa on muşrikon:) «Ba şumo namegūjam, ki xazinahoi Alloh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! వారికి చెప్పేయి: “నా వద్ద అల్లాహ్‌ ఖజానాలున్నాయని నేను మీతో అనటం లేదు. నా వద్ద అగోచర జ్ఞానం కూడా లేదు. నేను దైవదూతనని కూడా మీతో అనటం లేదు. నాపై అవతరింపజేయబడే ‘వహీ’ని మాత్రమే నేను అనుసరిస్తున్నాను.” (ఓ ప్రవక్తా!) వారిని అడుగు: ”గ్రుడ్డివాడు, కళ్ళున్నవాడూ – ఇద్దరూ సమానులేనా? మీరు ఈ మాత్రం ఆలోచించరా?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

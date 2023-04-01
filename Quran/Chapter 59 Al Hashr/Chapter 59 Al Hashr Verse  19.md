@@ -2676,6 +2676,12 @@ mariyu allāh nu maraci pōyina vāri mādirigā mīrū ayi pōkaṇḍi. Anduva
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు అల్లాహ్ ను మరచిపోయిన వారి మాదిరిగా అయిపోకండి. (వారి ఈ విస్మరణ కారణంగా) అల్లాహ్ కూడా వారిని తమ అత్మలనే మరచిపోయిన వారిగా చేసేశాడు. ఇలాంటి వారే పరమ అవిధేయులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

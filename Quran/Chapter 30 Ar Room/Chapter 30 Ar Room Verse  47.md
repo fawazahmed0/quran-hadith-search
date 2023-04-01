@@ -2676,6 +2676,12 @@ mariyu vāstavāniki mēmu nīku pūrvaṁ kūḍā, sandēśaharulanu tama tama
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము నీకు పూర్వం కూడా ప్రవక్తలను వారి జనుల వద్దకు పంపాము. వారు వారి వద్దకు నిదర్శనాలను తీసుకుని వెళ్ళారు. ఆ తరువాత మేము అపరాధులకు ప్రతీకారం చేశాము. (ఎందుకంటే) విశ్వాసులకు సహాయపడటం మా బాధ్యత
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

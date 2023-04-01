@@ -2676,6 +2676,12 @@ A tarvata ma taraphu nundi vari vaddaku satyam vaccinapudu, varila annaru: "Musa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారి వద్దకు మా తరఫు నుంచి సత్యం వచ్చినప్పుడు, “మూసాకు ఇవ్వబడినదే ఈయనకు ఎందుకు ఇవ్వబడలేదు?” అని అనసాగారు. మరైతే ఇంతకు మునుపు మూసాకు ఇవ్వబడిన దానిపట్ల జనులు తిరస్కార వైఖరిని అవలంబించలేదా ఏమిటి? “వీరిద్దరూ (ఆరితేరిన) మాంత్రికులే. ఒండొకరికి చేదోడు వాదోడుగా ఉన్నారు” అని తేల్చి చెప్పేశారు. “మేము వీళ్ళందరినీ త్రోసి పుచ్చుతున్నాము” అని కూడా అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

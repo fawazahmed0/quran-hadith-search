@@ -2676,6 +2676,12 @@ O visvasulara! Allah miku cesina anugrahanni jnapakam cesukondi. Mi paiki sain'y
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! అల్లాహ్‌ మీపై కురిపించిన దయానుగ్రహాన్ని కాస్త జ్ఞప్తికి తెచ్చుకోండి. మీపై సైనిక దళాలు దండెత్తి వచ్చినప్పుడు మేము వాటిపై ప్రచండమైన పెనుగాలిని, మీకు కానరాని సైన్యాలను పంపాము. మీరు చేస్తున్నదంతా అల్లాహ్‌ చూస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

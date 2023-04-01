@@ -2676,6 +2676,12 @@ okavēḷa allāh kōritē mim'malni andarinī okē samājaṅgā cēsi uṇḍ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ గనక తలచుకుంటే మీ అందరినీ ఒకే సమాజంగా చేసి ఉండేవాడు. కాని ఆయన తాను తలచిన వారిని అపమార్గానికి లోనుచేస్తాడు, తాను తలచిన వారికి సన్మార్గం చూపుతాడు. మీరు చేస్తున్న పనులన్నింటి గురించి మీరు తప్పకుండా ప్రశ్నించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

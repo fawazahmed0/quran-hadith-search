@@ -2676,6 +2676,12 @@ Ej Pajomʙar, Mo caşm dūxtan va nigoh kardani turo ʙa tamomi çihathoi osmon 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నువ్వు నీ ముఖాన్ని మాటిమాటికీ ఆకాశం వైపుకు ఎత్తటం మేము గమనిస్తూనే ఉన్నాము. కాబట్టి ఇప్పుడు మేము, నువ్వు ఇష్టపడే ఆ దిశ వైపుకే నిన్ను త్రిప్పుతున్నాము. కనుక నువ్వు నీ ముఖాన్ని మస్జిదె హరామ్‌ వైపుకు త్రిప్పుకో. మీరెక్కడున్నాసరే ఇక మీదట మీ ముఖాలను దాని వైపుకే త్రిప్పాలి. (ఖిబ్లా మార్పుకు సంబంధించిన) ఈ విషయం, తమ ప్రభువు తరఫు నుండి వచ్చిన సత్యమేనని గ్రంథం ఇవ్వబడిన వారికి బాగా తెలుసు. అల్లాహ్‌ వారి కార్యకలాపాల పట్ల అజాగ్రత్తగా లేడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

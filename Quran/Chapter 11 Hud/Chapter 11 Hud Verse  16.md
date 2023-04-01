@@ -2676,6 +2676,12 @@ alāṇṭi vāriki paralōkanlō narakāgni tappa marēmī uṇḍadu. Vāru in
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే అలాంటి వారికి పరలోకంలో అగ్ని తప్ప మరేమీ లభించదు. ప్రపంచంలో వారు చేసుకున్నదంతా వృథా అయిపోతుంది. వారు చేసే పనులన్నీ మిథ్యగా మారిపోతాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

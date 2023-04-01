@@ -2676,6 +2676,12 @@ mariyu phir'aun ilā annāḍu: "Mūsānu campē pani nāku vadali peṭṭaṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఫిరౌన్‌ ఇలా అన్నాడు: “నన్ను వదలండి. నేను మూసాను చంపేస్తాను. అతడు తన ప్రభువును పిలుచుకోనివ్వండి. ఇతడు మీ మతాన్ని ఎక్కడ మార్చివేస్తాడో లేక రాజ్యంలో (చాలా పెద్ద) అరాచకాన్ని ఎక్కడ సృష్టిస్తాడోనని నేను భయపడుతున్నాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

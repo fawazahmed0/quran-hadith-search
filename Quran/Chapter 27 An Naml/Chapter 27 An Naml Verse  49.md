@@ -2676,6 +2676,12 @@ vāru parasparaṁ ilā anukunnāru: "Allāh pai pramāṇaṁ cēsi ilā pratij
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలా కూడబలుక్కున్నారు : “రాత్రికి రాత్రే సాలెహ్‌పై, అతని ఇంటివారిపై దాడి జరుపుదాం. అతని ఇంటివారు హతమార్చబడినప్పుడు మేమక్కడ లేమని, మేము చెప్పేది సత్యమని అతని వారసులతో చెబుదాము. ఈ మేరకు అల్లాహ్‌పై ప్రమాణం చేసి మరీ శపథం చేయండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

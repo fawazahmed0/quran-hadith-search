@@ -2676,6 +2676,12 @@ niścayaṅgā, nī prabhuvu prajalanu parivēṣṭin̄ci unnāḍu." Ani mēmu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు ఈ జనులను చుట్టుముట్టి ఉన్నాడని మేము నీకు చెప్పిన సంగతిని (ఓ ప్రవక్తా!) జ్ఞాపకం చేసుకో. మేము నీకు చూపిన దృశ్యం ప్రజల పాలిట ఓ పరీక్ష. అదేవిధంగా ఖుర్‌ఆనులో శపించబడిన వృక్షం కూడా (ఓ పరీక్షే). మేము వారిని భయ పెడుతూనే ఉన్నాము. కాని మా భయబోధ వారిలోని పెద్ద తలబిరుసుతనాన్ని మరింతగా పెంచుతూ పోతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

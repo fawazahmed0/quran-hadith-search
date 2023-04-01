@@ -2676,6 +2676,12 @@ vāritō (iṅkā) ilā anu: "Sarvastōtrālaku ar'huḍu allāh mātramē! Tvar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా ఈ విధంగా చెప్పు : “సర్వస్తోత్రములు అల్లాహ్‌కే శోభిస్తాయి. ఆయన త్వరలోనే తన సూచనలను మీకు చూపిస్తాడు. వాటిని మీరు స్వయంగా తెలుసుకుంటారు. మీరు చేసే పనుల విషయంలో అల్లాహ్‌ ఏమాత్రం అజాగ్రత్తగా లేడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

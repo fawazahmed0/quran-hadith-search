@@ -2676,6 +2676,12 @@ Ej Pajomʙar ʙigu: Agar dūstdori Alloh ʙoşed, pas pajravii man kuned va ʙo 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు : ”మీకు నిజంగానే అల్లాహ్‌ పట్ల ప్రేమ ఉంటే మీరు నన్ను అనుసరించండి. (తత్ఫలితంగా) అల్లాహ్‌ మిమ్మల్ని ప్రేమిస్తాడు. మీ పాపాలను మన్నిస్తాడు. ఆయన అమితంగా క్షమించేవాడు, అపారంగా కనికరించేవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ a pidapa variki ceyabadina bodhananu varu maracipoga, memu vari koraku sakala (b
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత వారికి బోధించిన విషయాలను వారు విస్మరించినప్పుడు, మేము వారి కోసం అన్ని వస్తువుల ద్వారాలూ తెరిచాము. తమకు ప్రాప్తించిన వస్తువులపై వారు మిడిసిపడుతుండగా, అకస్మాత్తుగా మేము వారిని పట్టుకున్నాము. అప్పుడు, వారు పూర్తిగా నిరాశ చెందారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

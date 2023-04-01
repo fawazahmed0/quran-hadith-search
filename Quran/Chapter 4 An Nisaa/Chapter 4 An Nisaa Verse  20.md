@@ -2676,6 +2676,12 @@ Mariyu okavēḷa mīru oka bhāryanu viḍanāḍi vērokāmenu peṇḍli cēs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు ఒక భార్య స్థానంలో మరో భార్యను చేసుకోదలిస్తే, వారిలో ఎవరికయినా మీరు పెద్ద ధనరాశిని ఇచ్చివున్నా సరే, దానిలోనుంచి ఏ కొంచెం కూడా తిరిగి తీసుకోకండి. ఏమిటీ, అది అన్యాయం, స్పష్టమైన పాపం అయినప్పటికీ మీరు దాన్ని తీసుకుంటారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

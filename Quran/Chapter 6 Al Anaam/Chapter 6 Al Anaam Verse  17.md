@@ -2676,6 +2676,12 @@ mariyu allāh nīku ēdainā hāni kaligistē! Āyana tappa marevvarū dānini t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ అల్లాహ్‌ నిన్ను ఏదన్నా బాధకు గురిచేస్తే, ఆయన తప్ప మరెవరూ దాన్ని దూరం చేయలేరు. ఒకవేళ ఆయన నీకు ఏదన్నా మేలు చేస్తే, ఆయన అన్నింటిపై అధికారం కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

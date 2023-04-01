@@ -2676,6 +2676,12 @@ Vāritō ilā anu: "Okavēḷa mīru maraṇaṁ nuṇḍi gānī, lēdā hatya 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “మీరు చావు నుండి లేదా వధ బారి నుండి భయపడి పారిపోతే ఈ పారిపోవటం మీకేమాత్రం ప్రయోజనం కలిగించదు. అట్టి పరిస్థితిలో మీరు కొద్దిపాటి ప్రయోజనాన్ని మాత్రమే పొందుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

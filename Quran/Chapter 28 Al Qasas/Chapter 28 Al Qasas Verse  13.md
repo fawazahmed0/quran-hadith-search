@@ -2676,6 +2676,12 @@ i vidhanga memu atanini (musanu) - atani talli kallu callabadataniki, ame duhkhi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ విధంగా మేము అతన్ని తిరిగి అతని తల్లి దగ్గరకు చేర్చాము – తద్వారా ఆమె కన్నులు చల్లబడాలనీ, ఆమె దుఃఖితురాలు కాకుండా ఉండాలనీ, అల్లాహ్‌ వాగ్దానం సత్యమని ఆమె తెలుసుకోవాలని (మేమిలా చేశాము). కాని చాలా మందికి (ఇందలి పరమార్థం) తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

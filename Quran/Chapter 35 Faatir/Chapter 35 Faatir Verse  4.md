@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Okavēḷa vāru ninnu asatyavāduḍavani tiraskarin̄ci
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఒకవేళ వీళ్ళు నిన్ను ధిక్కరించినట్లయితే నీకు పూర్వం గతించిన ప్రవక్తలంతా ధిక్కరించబడినవారే. సమస్త వ్యవహారాలు (ఎట్టకేలకు) అల్లాహ్‌ వైపునకే మరలించబడతాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

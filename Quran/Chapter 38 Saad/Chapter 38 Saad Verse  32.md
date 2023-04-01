@@ -2676,6 +2676,12 @@ atanu annāḍu: "Ayyō! Vāstavaṅgā nēnu nā prabhuvu smaraṇaku badulugā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతనిలా అన్నాడు : “నేను నా ప్రభువు ధ్యానంపై ఈ (మేలు జాతి అశ్వ) సంపద పట్లగల మోజుకు ప్రాధాన్యతనిచ్చాను. ఈలోగా (సూర్యుడు) తెరచాటుకు వెళ్ళి పోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

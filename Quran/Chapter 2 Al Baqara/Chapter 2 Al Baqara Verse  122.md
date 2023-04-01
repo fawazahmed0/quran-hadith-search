@@ -2676,6 +2676,12 @@ o israyil santati varalara! Nenu miku prasadincina anugrahanni jnapakam cesukond
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ (యాఖూబు) ఇస్రాయీలు సంతతివారలారా! నేను మీపై కురిపించిన వరాలను జ్ఞప్తికి తెచ్చుకోండి. నేను మీకు సమస్త లోకాలపై (అలనాటి అన్ని జాతులపై, సమాజాలపై) శ్రేష్ఠతను వొసగాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

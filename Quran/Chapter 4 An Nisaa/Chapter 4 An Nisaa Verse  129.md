@@ -2676,6 +2676,12 @@ mariyu mīru enta kōrinā, mī bhāryala madhya pūrti n'yāyaṁ cēyaṭaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు ఎంతగా ఆశించినప్పటికీ, శాయశక్తులా ప్రయత్నించినప్పటికీ మీ భార్యలందరి మధ్య మీరు అన్నివిధాలా న్యాయం చెయ్యటమన్నది మీ వల్ల కాని పని. కాబట్టి మీరు పూర్తిగా ఒకామె వైపుకు మొగ్గిపోయి, రెండో ఆవిడను అనిశ్చిత స్థితిలో పడవెయ్యకండి. ఒకవేళ మీరు మీ ధోరణిని సరిదిద్దుకుని, భయభక్తుల (తఖ్వా)తో మసలుకుంటే నిశ్చయంగా అల్లాహ్‌ క్షమించేవాడు, కనికరించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

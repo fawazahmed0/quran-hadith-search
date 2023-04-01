@@ -2676,6 +2676,12 @@ jālūt (gōliyat) mariyu atani sain'yānni edurkonaṭāniki bayalu dēri, vār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+జాలూత్‌తో, అతని సైన్యంతో ముఖాముఖీ అయినప్పుడు వారు ఇలా ప్రార్థించారు: “ప్రభూ! మాకు సహన స్థయిర్యాలు ప్రసాదించు. మా కాళ్లకు నిలకడను ఇవ్వు. అవిశ్వాస జనులపై (జరిగే పోరాటంలో) మాకు తోడ్పడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

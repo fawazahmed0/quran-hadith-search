@@ -2676,6 +2676,12 @@ evarinainā kumārunigā cēsukōvaṭaṁ allāh ku taginapani kādu. Āyana sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌కు సంతానం ఉండటం అనేది ఎంత మాత్రం తగదు. ఆయన పరమ పవిత్రుడు. ఆయన ఏ పనినైనా చేయాలని సంకల్పించుకున్నప్పుడు ‘అయిపో’ అని ఆజ్ఞాపిస్తాడు. వెంటనే అది అయిపోతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

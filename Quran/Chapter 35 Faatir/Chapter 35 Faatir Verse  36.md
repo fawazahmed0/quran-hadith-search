@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulaina vāri koraku narakāgni uṇṭundi. Andulō vāru c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి తిరస్కార వైఖరికి పాల్పడిన వారికోసం నరకాగ్ని ఉన్నది. వారు చావటానికి తీర్మానించటంగానీ, వారి నరక శిక్షను తగ్గించటంగాని జరగదు. మేలును మరచిన వారందరికీ మేము ఇలాంటి ప్రతిఫలమే ఇస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

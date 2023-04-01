@@ -2676,6 +2676,12 @@ mariyu mā dūtalu lūt vaddaku vaccinapuḍu, vāri rākaku atanu, (vārini kā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము పంపిన దూతలు లూత్‌ వద్దకు చేరుకున్నప్పుడు వారి రాకపై అతను దుఃఖవదనుడయ్యాడు. లోలోపలే కుంచించుకుపోతూ, “ఇది చాలా గడ్డురోజు” అని అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

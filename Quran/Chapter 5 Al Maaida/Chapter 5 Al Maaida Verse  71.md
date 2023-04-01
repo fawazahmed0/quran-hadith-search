@@ -2676,6 +2676,12 @@ mariyu tamakelāṇṭi śikṣa (phitnā) paḍadani talaci, vāru gruḍḍi v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమకు ఏ ఉపద్రవమూ సంభవించదని వారు తలపోశారు. ఈ కారణంగా వారు గుడ్డివారుగా, చెవిటివారుగా ప్రవర్తించారు. అయితే ఆ తరువాత అల్లాహ్‌ వారి పశ్చాత్తాపాన్ని అంగీకరించాడు. కాని ఆ తరువాత కూడా వారిలో చాలామంది అంధులు, బధిరులు అయిపోయారు. అల్లాహ్‌ వారి చేష్టలన్నింటినీ చూస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

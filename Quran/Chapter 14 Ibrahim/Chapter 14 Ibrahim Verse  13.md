@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulu tama pravaktalatō annāru: "Mīru mā matanlōki tirig
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తిరస్కారులు తమ ప్రవక్తల నుద్దేశించి, “మేము మిమ్మల్ని దేశం నుంచి వెళ్ళగొడ్తాము. లేదంటారా, మీరు మా మతంలోకి తిరిగి వచ్చేయండి” అని బెదిరించారు. అప్పుడు వారి ప్రభువు వారి వద్దకు ‘వహీ’ (సందేశం) పంపిస్తూ, “మేము ఈ దుర్మార్గులను నాశనం చేస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

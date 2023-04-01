@@ -2676,6 +2676,12 @@ mariyu allāh, n'yāyaṅgā tīrpu cēstāḍu. Mariyu vāru āyananu (allāh n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఖచ్చితంగా న్యాయంగా తీర్పు చేస్తాడు. మరి అల్లాహ్‌ను వదలి వారు ఎవరెవరిని మొరపెట్టుకునేవారో వారు ఏ విషయంలోనూ తీర్పు చేయలేరు. నిశ్చయంగా అల్లాహ్‌ అంతా వినేవాడు, అంతా చూసేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

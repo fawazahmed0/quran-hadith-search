@@ -2676,6 +2676,12 @@ mariyu ī vidhaṅgā mēmu mānavula nuṇḍi mariyu jinnātula nuṇḍi, ṣ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదే విధంగా మేము ప్రతి ప్రవక్తకూ జిన్నులలోని షైతానులను, మనుషులలోని షైతానులను శత్రువులుగా చేశాము. వారిలోని కొందరు మరి కొందరిని మోసపుచ్చటానికి ముచ్చట గొలిపే మాటలతో ప్రేరేపిస్తుంటారు. నీ ప్రభువే గనక తలచుకుంటే వారెన్నటికీ అలా చేయలేరు. కాబట్టి వాళ్ళను, వారి కల్పనలను వదలివెయ్యి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

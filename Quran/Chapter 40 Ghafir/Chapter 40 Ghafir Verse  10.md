@@ -2676,6 +2676,12 @@ niścayaṅgā, (ā rōju) satyatiraskārulanu pilici vāritō: "Īrōju mīku, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తిరస్కార వైఖరిని అవలంబించిన వారిని పిలిచి ఇలా అనబడుతుంది : “మీపై మీకు ఎంత కోపం వస్తుందో, అంతకంటే ఎక్కువగానే అల్లాహ్‌కు మీపై కోపం వచ్చేది – మిమ్మల్ని విశ్వాసం వైపునకు పిలిచినపుడు, మీరేమో అవిశ్వాసానికి ఒడిగట్టేవారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

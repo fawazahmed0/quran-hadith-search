@@ -2676,6 +2676,12 @@ ivi allāh sūcanalu (āyāt), mēmu vīṭini nīku yathātathaṅgā vinipistu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇవి అల్లాహ్‌ వాక్యాలు. వీటిని మేము నీకు ఉన్నదున్నట్టుగా వినిపిస్తున్నాము. ఇక వారు అల్లాహ్‌ మరియు ఆయన సూచనల (ను కాదన్న) తరువాత ఇక ఏ విషయాన్ని విశ్వసిస్తారు(ట)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

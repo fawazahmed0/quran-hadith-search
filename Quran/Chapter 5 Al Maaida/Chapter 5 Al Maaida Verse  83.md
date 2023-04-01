@@ -2676,6 +2676,12 @@ mariyu vāru (kondaru kraistavulu) pravaktapai avatarimpajēyabaḍina dānini (
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రవక్తపై అవతరించిన దానిని వారు విన్నప్పుడు, సత్యాన్ని గ్రహించిన కారణంగా వారి కళ్ళ నుంచి కన్నీరు ప్రవహించటం నీవు గమనిస్తావు. వారిలా అంటారు: “మా ప్రభూ! మేము విశ్వసించాము. కాబట్టి మా పేర్లను కూడా ధృవీకరించేవారితో పాటు వ్రాసుకో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

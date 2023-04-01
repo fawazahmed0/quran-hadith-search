@@ -2676,6 +2676,12 @@ mariyu idē vidhaṅgā, nīku mundu (ō muham'mad!) Mēmu heccarin̄cē vāḍi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలాగే నీకు మునుపు మేము ఏ బస్తీలో హెచ్చరించేవాణ్ణి పంపినా అక్కడి శ్రీమంతులు కూడా, “మేము మా తాత ముత్తాతలను ఒక పద్ధతిపై ఉండటం చూశాము. మేము కూడా వారి పాదచిహ్నాలలోనే నడుస్తాము” అని చెప్పేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

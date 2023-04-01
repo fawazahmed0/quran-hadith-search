@@ -2676,6 +2676,12 @@ mariyu: "Ō ādam! Nīvu mariyu nī bhārya ī svarganlō uṇḍaṇḍi. Mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ ఆదమ్‌! నువ్వూ, నీ భార్య-ఇద్దరూ స్వర్గంలో ఉండండి. మరి మీరు కోరిన చోటునుంచి (మీకు నచ్చిన దాన్ని తీసుకుని) తినండి. కాని ఈ వృక్షం వద్దకు మాత్రం పోకండి. పోయారా, మీరిద్దరూ దుర్మార్గుల్లో చేరిపోతారు” (అని మేము చెప్పాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

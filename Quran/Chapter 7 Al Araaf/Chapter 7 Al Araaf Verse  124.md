@@ -2676,6 +2676,12 @@ nēnu tappaka mī oka prakka cētulanu maroka prakka kāḷḷanu narikistānu. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను ఒక ప్రక్క నుంచి మీ చేతిని, మరో ప్రక్కనుంచి మీ కాలినీ నరుకుతాను. ఆ తరువాత మిమ్మల్నందరినీ ఉరి తీస్తాను” అని అన్నాడు ఫిరౌన్‌
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

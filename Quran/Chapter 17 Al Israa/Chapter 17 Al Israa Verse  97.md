@@ -2676,6 +2676,12 @@ mariyu evaḍiki allāh mārgadarśakatvaṁ cēstāḍō ataḍē sanmārgaṁ 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఎవరికి సన్మార్గం చూపుతాడో అతనే సన్మార్గం పొందుతాడు. ఆయన మార్గవిహీనతకు లోనుచేసిన వారికి, ఆయన (శిక్ష)కు విరుద్ధంగా ఇతరులెవరినీ నువ్వు సహాయ కులుగా పొందజాలవు. అలాంటి వారిని మేము ప్రళయ దినాన ముఖాల ఆధారంగా సమీకరిస్తాము. మరి చూడబోతే వారు గుడ్డివారు, మూగవారు, చెవిటివారై ఉంటారు. నరకం వారి నివాసమవుతుంది. అది మందగించినప్పుడల్లా వారి కోసం దాన్ని రాజేస్తూ ఉంటాం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

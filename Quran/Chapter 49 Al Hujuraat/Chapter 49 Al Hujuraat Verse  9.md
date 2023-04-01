@@ -2676,6 +2676,12 @@ Mariyu okavēḷa viśvāsulalōni reṇḍu vargāla vāru parasparaṁ kalahin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ ముస్లింలలోని రెండు పక్షాల వారు పరస్పరం గొడవపడితే వారి మధ్య సయోధ్య చేయండి. మరి వారిలో ఒక పక్షంవారు రెండవ పక్షం వారిపై దౌర్జన్యం చేస్తే, దౌర్జన్యం చేసే వర్గం దైవాజ్ఞ వైపు మరలివచ్చే వరకూ మీరు వారితో పోరాడండి. వారు గనక మరలివస్తే వారి మధ్య న్యాయసమ్మతంగా సయోధ్య కుదర్చండి. సమభావంతో వ్యవహరించండి. నిశ్చయంగా సమభావంతో వ్యవహరించేవారిని అల్లాహ్ ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

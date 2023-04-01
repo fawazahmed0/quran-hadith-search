@@ -2676,6 +2676,12 @@ ataṟku avarkaḷ, "mūsāvē! Meyyākavē, a(nta iṭat)til mikavum palacālik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు ఇలా బదులిచ్చారు : “మూసా! అక్కడ మహాబలవంతులు ఉన్నారు. వారక్కణ్ణుంచి వెళ్ళిపోనంత వరకూ మేము అందులో ప్రవేశించేది లేదు. ఒకవేళ వారు వెళ్ళిపోతే మాత్రం, మేము తప్పకుండా అందులోకి ప్రవేశిస్తాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

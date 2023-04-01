@@ -2676,6 +2676,12 @@ mariyu niścayaṅgā, mēmu allāh nuṇḍi bhūlōkanlō tappin̄cukōlēmu, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మనం భూమిలో అల్లాహ్ ను అశక్తుణ్ణి చేయటం గానీ, పారిపోయి (ఊర్థ్వలోకాల్లో) ఆయన్ని ఓడించటంగాని మనవల్ల కాని పని అని మాకర్ధమైపోయింది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

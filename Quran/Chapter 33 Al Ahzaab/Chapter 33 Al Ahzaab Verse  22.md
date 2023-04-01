@@ -2676,6 +2676,12 @@ mariyu viśvāsulu, dāḍi cēsina vargāla vārini cūsinapuḍu ilā palikār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులు (అవిశ్వాసుల) సేనలను చూడగానే (అప్రయత్నంగా) ఇలా అన్నారు: “అల్లాహ్‌, ఆయన ప్రవక్త మనకు వాగ్దానం చేసిన విషయం ఇదే. అల్లాహ్‌, ఆయన ప్రవక్త చెప్పింది నిజమే.” ఆ సంఘటన వారి విశ్వాసాన్ని, ఆత్మ సమర్పణాభావాన్ని మరింత అధికం చేసింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

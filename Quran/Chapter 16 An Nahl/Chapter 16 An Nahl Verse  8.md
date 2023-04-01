@@ -2676,6 +2676,12 @@ mariyu āyana gurrālanu, kan̄cara gāḍidalanu mariyu gāḍidalanu, mīru sv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు స్వారీ చేయటానికీ, మీకు శోభాయమానంగా ఉండటానికి ఆయన గుర్రాలనూ, కంచర గాడిదలనూ, గాడిదలనూ సృష్టించాడు. మీకు తెలియని ఇంకా ఎన్నో వస్తువులను ఆయన సృష్టిస్తూ ఉంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

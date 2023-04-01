@@ -2676,6 +2676,12 @@ Eḍārivāsulu (baddūlu) satyatiraskāra mariyu kapaṭa viśvāsa viṣayāla
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పల్లెటూరి బైతులు అవిశ్వాసం, కాపట్యంలో మరింత కరడు గట్టినవారు. అల్లాహ్‌ తన ప్రవక్తపై అవతరింపజేసిన ఆదేశాల గురించి వారికి తెలియకుండా ఉండే అవకాశాలు ఎక్కువ. అల్లాహ్‌ మహాజ్ఞాని, గొప్ప వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu yūdulu: "Kraistavula vadda (satyadharmamanēdi) ēdī lēdu." Ani aṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+క్రైస్తవులు సత్యంపై లేరని యూదులు అంటున్నారు. యూదులు సత్యంపై లేరని క్రైస్తవులంటున్నారు. మరి చూడబోతే వారంతా గ్రంథాన్ని చదువుతున్నారు. జ్ఞానం లేనివాళ్ళు కూడా ఇలాంటి మాటే అంటున్నారు. కనుక అల్లాహ్‌ ప్రళయ దినాన వీళ్ళ భేదాభిప్రాయం గురించి వీళ్ళ మధ్య తీర్పు చేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

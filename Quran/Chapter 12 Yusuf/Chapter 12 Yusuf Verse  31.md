@@ -2676,6 +2676,12 @@ ame vari nindaropanalu vini, variki ahvanam pampindi. Variki oka manci vindu erp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి మోసపు మాటల గురించి విని ఆమె వాళ్ళను పిలిపించింది. వారికోసం ఒక సదనాన్ని ఏర్పాటుచేసింది. వారిలో ఒక్కొక్కరికి ఒక్కో కత్తి ఇచ్చి, (వారంతా ఆసీనులైన తరువాత) “వీళ్లముందుకురా!” అని (యూసుఫ్‌ను) ఆదేశించింది. ఆ స్త్రీలు అతన్ని చూడగానే దిగ్భ్రమతో (మైమరచి) తమ చేతులనే కోసుకున్నారు. “హాషాలిల్లాహ్‌! (దైవమహిమ!) ఇతను మానవమాత్రుడు కాడు. నిశ్చయంగా ఇతను (దివి నుంచి భువికి దిగివచ్చిన) గొప్పదైవదూతే!” అన్నమాటలు వారినోట (అప్రయత్నంగా) వెలువడ్డాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ a pidapa variki mancikalam vaccinapudu varu: "Memu dinike ar'hulam!" Ani anevaru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(వారి గుణం ఎటువంటిదంటే) మేలు కలిగినపుడు ‘ఇది మాకు తగినదే’ అని అనేవారు. కీడు కలిగినప్పుడు దానిని, “మూసా మరియు అతని సహవాసుల మూలంగా కలిగిన దరిద్రం”గా చెప్పుకునేవారు. వినండి! వారి దరిద్రం అల్లాహ్‌ వద్ద ఉంది. కాని వారిలోని అధికులకు ఆ సంగతి తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

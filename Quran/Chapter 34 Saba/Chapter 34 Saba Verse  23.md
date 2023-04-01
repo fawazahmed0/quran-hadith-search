@@ -2676,6 +2676,12 @@ mariyu āyana daggara ē vidhamaina siphārasu palikirādu, āyana anumatin̄cin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన వద్ద – ఆయన అనుమతించిన వారి కొరకు తప్ప- (ఒకరి) సిఫారసు (ఇంకొకరికి) ఏమాత్రం ఉపకరించదు. తుదకు వారి హృదయాలలోని ఆందోళన తొలగించబడిన తరువాత, “ఇంతకీ మీ ప్రభువు సెలవిచ్చినదేమిటి?” అని అడుగుతారు. “సత్యమే పలికాడు. ఆయన మహోన్నతుడు, ఘనాఘనుడు” అని వారు చెబుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

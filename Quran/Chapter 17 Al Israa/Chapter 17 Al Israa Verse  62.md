@@ -2676,6 +2676,12 @@ iṅkā ilā annāḍu: "Ēmī? Nēnu cūḍaṭaṁ lēdā? Nīvu itaniki vāpa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా ఇలా అన్నాడు: “సరే! చూసుకో, నువ్వు ఇతనికి నాపై శ్రేష్ఠతనైతే వొసగావు. కాని నాకు కూడా ప్రళయదినం వరకూ విడుపు ఇస్తే నేను ఇతని సంతతిలో – కొద్ది మందిని తప్ప – అందరినీ లొంగదీసుకుంటాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

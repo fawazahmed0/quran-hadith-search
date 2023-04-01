@@ -2676,6 +2676,12 @@ Hidojat joftani onho (ja'ne kofiron) ʙar ūhdai tu ej Muhammad lozim nest, ʙal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారిని సన్మార్గంపై తెచ్చి నిలబెట్టే బాధ్యత నీపై లేదు. వాస్తవానికి సన్మార్గ భాగ్యాన్ని అల్లాహ్‌ తాను కోరిన వారికి అనుగ్రహిస్తాడు. మీరు దైవ మార్గంలో ఏ మంచి వస్తువును వ్యయపరచినా, దాని లాభాన్ని స్వయంగా మీరే పొందుతారు. కాకపోతే మీరు కేవలం అల్లాహ్‌ ప్రసన్నత కోసమే ఖర్చు చేయాలి. మీరు ఎంత ఖర్చుచేసినా దాని పూర్తి ప్రతిఫలం మీకు ఇవ్వబడుతుంది. మీకు ఎంతమాత్రం అన్యాయం జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

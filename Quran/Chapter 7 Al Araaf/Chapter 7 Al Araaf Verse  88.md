@@ -2676,6 +2676,12 @@ durahaṅkārulaina atani jāti nāyakulannāru: "Ō ṣu'aib! Mēmu ninnū mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దురహంకారులైన అతని జాతి సర్దారులు (అతన్నుద్దేశించి), “ఓ షుఐబ్‌! మీరంతా మా మతంలోకి తిరిగి వచ్చేస్తే సరి! లేకపోతే నిన్నూ, నీతోపాటు విశ్వసించినవారిని మా పురము నుంచి వెళ్ళగొడతాం” అని హెచ్చరించారు. దీనికి సమాధానంగా షుఐబ్‌ ఇలా అన్నారు: “ఏమిటీ, ఆ మతం మాకే మాత్రం ఇష్టం లేకపోయినా మేమందులో కలసి పోవలసిందేనా?!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

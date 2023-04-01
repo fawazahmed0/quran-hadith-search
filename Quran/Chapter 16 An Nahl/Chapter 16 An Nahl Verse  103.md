@@ -2676,6 +2676,12 @@ mariyu: "Niścayaṅgā, itaniki oka maniṣi nērputunnāḍu." Ani, vāru anē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అతనికి ఒక మనిషి నేర్పుతున్నాడ”ని ఈ అవిశ్వాసులు పలకటం మాకు బాగా తెలుసు. వాస్తవానికి వారు ఎవరిని దృష్టిలో పెట్టుకుని అలా అంటున్నారో అతని భాష అరబ్బేతర (అజమీ) భాష. కాగా; ఈ ఖుర్‌ఆన్‌ స్వచ్ఛమైన, స్పష్టమైన అరబీ భాషలో ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu ākāśālanu mariyu bhūmini nijāniki sr̥ṣṭin̄cindi āyanē! Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే ఆకాశాలనూ, భూమినీ సత్యబద్ధంగా సృష్టించాడు. ఏ రోజున ఆయన “అయిపో” అని ఆజ్ఞాపిస్తాడో అప్పుడు అది అయిపోతుంది. ఆయన మాట సత్యమైనది, ప్రభావపూరితమైనది. శంఖం ఊదబడే రోజున, అధికారమంతా ఆయనదే అవుతుంది. ఆయన నిగూఢమైన విషయాలను, బహిర్గతమై వున్న విషయాలనూ ఎరిగినవాడు. ఆయనే వివేక సంపన్నుడు, సర్వమూ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

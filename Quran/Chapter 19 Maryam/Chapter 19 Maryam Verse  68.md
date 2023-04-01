@@ -2676,6 +2676,12 @@ kāvuna nī prabhuvu sākṣigā! Niścayaṅgā, mēmu vārandarinī mariyu (v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు సాక్షి! నిశ్చయంగా మేము వాళ్ళను, (వాళ్ళతో పాటు) షైతానులను కూడా పోగు చేసి, నరకం చుట్టూ వారిని మోకాళ్ళ మీద పడి ఉన్న స్థితిలో హాజరు పరుస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

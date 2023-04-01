@@ -2676,6 +2676,12 @@ Niścayaṅgā, nelalanu venuka mundu cēyaṭaṁ (nasī'u) satyatiraskāranlō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నెలలను ముందుకు, వెనక్కి మార్చటం ఓ అదనపు అవిశ్వాస చేష్ట. ఈ చేష్ట ద్వారా అవిశ్వాసులు మార్గభ్రష్టతలో పడవేయబడుతున్నారు. ఒక ఏడాది వారు దాన్ని ధర్మసమ్మతం చేసుకుని, మరో ఏడాది దాన్నే నిషిద్ధంగా ఖరారు చేసుకుంటారు. అల్లాహ్‌ నిషిద్ధ పరచిన మాసాల గణనలో సారూప్యం సాధించడానికి, అల్లాహ్‌ నిషేధించిన దానిని ధర్మసమ్మతం చేసుకోవటానికి (వారు ఇలా చేస్తారు). వారి దుష్టచేష్టలు వారికి అందమైనవిగా చూపబడ్డాయి. అవిశ్వాస జనులకు అల్లాహ్‌ సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vinaṇḍi! Vāstavāniki vāru āyana nuṇḍi dākkōvaṭāniki tama vakṣ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ (గోప్య) విషయాలను (అల్లాహ్‌ నుండి) రహస్యంగా పెట్టడానికి తమ రొమ్ములను ముడుచుకుంటున్నారు. వినండి! వారు బట్టలతో తమను తాము కప్పుకున్నప్పుడు కూడా వారు దాచేదీ, బయల్పరచేదీ, అంతా ఆయన తెలుసుకుంటాడు. నిశ్చయంగా ఆయన గుండెల్లోని గుట్టును సయితం ఎరిగినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

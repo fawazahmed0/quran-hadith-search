@@ -2676,6 +2676,12 @@ idi endukaṇṭē, vāru allāh mariyu āyana pravaktanu vyatirēkin̄cāru. Ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ విధంగా ఎందుకు జరిగిందంటే వారు అల్లాహ్ పై, ఆయన ప్రవక్తపై కయ్యానికి కాలు దువ్వారు. ఎవడు అల్లాహ్ పై కయ్యానికి కాలు దువ్వినా అల్లాహ్ వాడ్ని చాలా కఠీనంగా శిక్షిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

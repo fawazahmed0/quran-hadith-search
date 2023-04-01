@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulu dīnini (ī khur'ān nu) gurin̄ci - akasmāttugā anti
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమపై అకస్మాత్తుగా ప్రళయ ఘడియ వచ్చిపడేవరకూ లేదా తమ వద్దకు అశుభ దినపు శిక్ష వచ్చేవరకూ అవిశ్వాసులు దైవ సందేశం (వహీ) గురించి సంశయంలోనే పడి ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

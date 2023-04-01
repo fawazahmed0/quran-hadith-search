@@ -2676,6 +2676,12 @@ vāru ē viśvāsi viṣayanlō kūḍā bandhutvānni gānī, oḍambaḍikanu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ ముస్లిం విషయంలోనూ వారు బంధుత్వ సంబంధాలను, ఒప్పంద మర్యాదలనూ ఏమాత్రం ఖాతరు చేయరు. హద్దులు మీరేవారు వీరే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

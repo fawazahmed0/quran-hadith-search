@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, mēmu prati samājaṁ vāri vaddaku oka pravaktanu pampā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ప్రతి సముదాయంలోనూ ప్రవక్తను ప్రభవింపజేశాము. అతని ద్వారా (ప్రజలారా!) “అల్లాహ్‌ను మాత్రమే ఆరాధించండి. ఆయన తప్ప ఇతరత్రా మిథ్యా దైవాలకు దూరంగా ఉండండి” అని బోధపరచాము. ఆ తరువాత అల్లాహ్‌ కొందరికి సన్మార్గం చూపాడు. మరికొందరిపై అపమార్గం రూఢీ అయిపోయింది. ధిక్కరించినవారికి పట్టిన గతేమిటో మీరు స్వయంగా భువిలో తిరిగి చూడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

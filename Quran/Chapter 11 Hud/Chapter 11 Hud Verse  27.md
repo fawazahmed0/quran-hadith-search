@@ -2676,6 +2676,12 @@ appuḍu atani jātivārilō satyatiraskārulaina nāyakulu: "Nīvu kūḍā mā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు అతని జాతికి చెందిన అవిశ్వాసుల సర్దారులు ఇలా సమాధానమిచ్చారు: “మా దృష్టిలో నువ్వు మాలాంటి ఒక మానవ మాత్రుడివే తప్ప మరేమీ కావు. ఇంకా మేము గమనిస్తున్నాము, మాలోని అల్పులైనవారే ఆలోచించకుండా, అర్థంచేసుకోకుండా నిన్ను అనుసరిస్తున్నారు. కనుక మాపై మీకెలాంటి ప్రాధాన్యతగాని ఉన్నట్లు కానరావటంలేదు. పైగా మేము మిమ్మల్ని అబద్ధాలకోరులుగా భావిస్తున్నాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

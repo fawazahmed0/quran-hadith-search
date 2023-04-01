@@ -2676,6 +2676,12 @@ kāni allāh kōritē tappa! Vīru dīni nuṇḍi hitabōdha grahin̄calēru. �
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే అల్లాహ్ తలచినప్పుడు మాత్రమే వారు హితబోధను ఆస్వాదించగలరు. వారు భయపడవలసింది ఆయనకు మాత్రమే. క్షమాభిక్ష పెట్టడం కూడా ఆయనకే చెల్లు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

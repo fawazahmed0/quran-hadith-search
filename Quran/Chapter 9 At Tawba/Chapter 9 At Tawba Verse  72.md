@@ -2676,6 +2676,12 @@ mariyu allāh viśvāsulaina puruṣulaku mariyu viśvāsulaina strīlaku krinda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన ఇలాంటి స్త్రీ పురుషులకు, క్రింద కాలువలు ప్రవహించే స్వర్గవనాలను ప్రసాదిస్తానని అల్లాహ్‌ వాగ్దానం చేశాడు. అక్కడ వారు కలకాలం ఉంటారు. శాశ్వతంగా ఉండే స్వర్గవనాలలో పరిశుభ్రమైన మేడలు వారి కొరకు ఉంటాయి. వీటన్నింటికన్నా గొప్పదైన అల్లాహ్‌ ప్రసన్నత వారికి లభిస్తుంది. గొప్ప సాఫల్యం అంటే ఇదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

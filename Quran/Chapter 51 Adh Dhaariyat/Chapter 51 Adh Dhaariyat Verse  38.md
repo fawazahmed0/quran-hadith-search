@@ -2676,6 +2676,12 @@ Ika mūsā (gāthalō) kūḍā (oka sūcana vundi) mēmu atanini phir'aun vadda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మూసా (వృత్తాంతం)లో కూడా (మా తరఫున సూచన ఉంది). మేమతనికి స్పష్టమైన ప్రమాణాన్ని ఇచ్చి ఫిరౌను వద్దకు పంపించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

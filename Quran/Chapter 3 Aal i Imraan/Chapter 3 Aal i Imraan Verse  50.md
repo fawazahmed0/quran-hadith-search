@@ -2676,6 +2676,12 @@ mariyu nēnu, prastutaṁ taurāt lō (migili unna satyānni) dhr̥va paracaṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”ఇంకా నేను నాకు పూర్వం అవతరించిన తౌరాతు (గ్రంథము)ను ధృవపరుస్తున్నాను. మీ కొరకు నిషేధించబడిన కొన్ని వస్తువులను ధర్మసమ్మతం గావించటానికి కూడా నేను వచ్చాను. ఇంకా నేను మీ వద్దకు మీ ప్రభువు సూచనను తీసుకు వచ్చాను. కనుక మీరు అల్లాహ్‌కు భయపడండి. నాకు విధేయత చూపండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Bigū: «Agar iʙodat va duojaton naʙoşad, Parvardigori man e'tinoe ʙar şumo
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఒకవేళ మీరు మొరపెట్టుకోకపోతే, నా ప్రభువు మిమ్మల్ని ఏ మాత్రం లక్ష్యపెట్టేవాడే కాదు. మీరెలాగూ ధిక్కరించారు. ఇప్పుడు శీఘ్రంగానే తప్పించనలవికాని శిక్ష మిమ్మల్ని అంటుకుంటుంది” అని (ఓ ప్రవక్తా! తిరస్కార జనులకు) చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

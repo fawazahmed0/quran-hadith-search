@@ -2676,6 +2676,12 @@ mariyu mēmu mā dāsuni (muham'mad) pai avatarimpajēsina dānini (ī khur'ān 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మా దాసునిపై అవతరింపజేసిన దాని విషయంలో ఒకవేళ మీకేదన్నా అనుమానముంటే, అటువంటిదే ఒక్క సూరానైనా (రచించి) తీసుకురండి. మీరు సత్యవంతులే అయితే (ఈ పని కోసం) అల్లాహ్‌ను తప్ప మీ సహాయకులందరినీ పిలుచుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

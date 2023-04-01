@@ -2676,6 +2676,12 @@ ayinā! Mēmu vāriki mariyu vāri taṇḍritātalaku cālā kālaṁ varaku su
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పైగా మేము వారికీ, వారి తాత ముత్తాతలకూ జీవన సామగ్రిని ఇచ్చాము. చివరికి (దాన్ని అనుభవిస్తూనే) వారి ఆయుషు గడచిపోయింది. మేము భూమిని దాని అంచుల నుంచి కుదించుకుంటూ రావటాన్నివారు చూడటం లేదా? ఏమిటి, ఇప్పటికీ వీళ్ళే ప్రాబల్యం వహిస్తారటనా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

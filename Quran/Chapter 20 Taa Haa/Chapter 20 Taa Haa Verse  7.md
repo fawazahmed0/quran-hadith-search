@@ -2676,6 +2676,12 @@ Mariyu nīvu biggaragā māṭlāḍitē (āyana vinanē viṇṭāḍu); vāsta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నువ్వు మాటను బిగ్గరగా పలికినా (ఫరవాలేదు). ఆయనైతే మెల్లగా (పలికినా), అతి గోప్యంగా విన్నవించుకున్నా ప్రతిదీ తెలుసుకుంటాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

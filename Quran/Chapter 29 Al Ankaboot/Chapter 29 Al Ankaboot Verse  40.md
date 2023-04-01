@@ -2676,6 +2676,12 @@ kāvuna prati okkarini mēmu atani pāpāniki badulugā paṭṭukunnāmu. Vāri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి వారిలో ప్రతి ఒక్కడినీ మేము అతని పాపాలకుగాను పట్టుకున్నాము. వారిలో కొందరిపై మేము రాళ్ళ వాన కురిపించాము. వారిలో మరి కొందరిని భయంకరమైన శబ్దం ద్వారా మట్టు పెట్టాము. వారిలో ఇంకా కొందరిని మేము భూమిలో కూర్చివేశాము. వారిలో కొందరిని మేము ముంపుకు గురిచేశాము. (అకారణంగా) అల్లాహ్‌ వారికి అన్యాయం చేసేవాడు కాడు. (నిజానికి) వాళ్ళే తమకు తాము అన్యాయం చేసుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

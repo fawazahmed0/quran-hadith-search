@@ -2676,6 +2676,12 @@ Mariyu vārini gurin̄cina (śikṣa) vāgdānaṁ pūrtikānunnappuḍu, mēmu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిని శిక్షించే మాట ఖరారు అయినప్పుడు, మేము వారి కోసం భూమి నుండి ఒక జంతువును వెలికి తీస్తాము. అది వారితో మాట్లాడుతుంది: ఎందుకంటే ప్రజలు మా ఆయతులను నమ్మేవారుకారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

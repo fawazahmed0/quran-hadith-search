@@ -2676,6 +2676,12 @@ Mī bhāryalu mīku paṇṭapolāla vaṇṭi vāru, kāvuna mī polālaku mīr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ స్త్రీలు మీ పంటపొలాలు. కాబట్టి మీ పొలాల్లోకి మీరు కోరిన విధంగా రండి. మీ స్వయం కోసం (సత్కర్మలను) ముందుకు పంపండి. అల్లాహ్‌కు భయపడుతూ ఉండండి. మీరు ఆయన్ని కలుసుకోవలసి ఉందన్న విషయాన్ని గ్రహించండి. (ఓ ప్రవక్తా!) విశ్వాసులకు శుభవార్తను వినిపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

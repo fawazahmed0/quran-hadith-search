@@ -2676,6 +2676,12 @@ mariyu āyana (allāh) yē mī koraku rātrini vastraṅgānū (teragānū), nid
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆయనే మీకోసం రాత్రిని తెర (ఆసరా)గానూ, నిద్రను విశ్రాంతిగానూ చేశాడు. ఇంకా పగటిని లేచి తిరిగే సమయంగా చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

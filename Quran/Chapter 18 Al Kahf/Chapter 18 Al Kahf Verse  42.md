@@ -2676,6 +2676,12 @@ mariyu ataḍi paṇṭanu (vināśaṁ) cuṭṭumuṭṭindi, ataḍu tānu kh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతని పండ్లన్నీ ముట్టడించబడ్డాయి. దాని కోసం పెట్టిన పెట్టుబడిపై అతను చేతులు నలుపుకుంటూ ఉండి పోయాడు. ఆ తోట తలక్రిందులై (తడికెలపై) పడి ఉంది. “అయ్యో! నేను నా ప్రభువుకు సహవర్తులుగా ఎవరినీ నిలబెట్టకుండా ఉంటే ఎంత బావుండేది!” అని (ఆ వ్యక్తి) అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

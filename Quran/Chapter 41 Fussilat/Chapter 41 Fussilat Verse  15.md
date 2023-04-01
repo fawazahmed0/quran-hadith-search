@@ -2676,6 +2676,12 @@ Ika ād vāri viṣayaṁ: Vāru durahaṅkārantō bhūmilō an'yāyaṅgā pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆద్‌ (జాతి వారి) విషయానికి వస్తే, వారు ఏ హక్కూ లేకుండానే భువిలో చెలరేగిపోయారు. “బలపరాక్రమాలలో మాకన్నా మొనగాడెవడున్నాడు?’ అని (బీరాలు) పలికారు. ఏమిటి, తమను పుట్టించిన అల్లాహ్‌ తమకన్నా ఎంతో బలవంతుడన్న సంగతి వారికి స్ఫురించలేదా? (కడ దాకా) వారు మా ఆయతులను తిరస్కరిస్తూనే ఉండేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

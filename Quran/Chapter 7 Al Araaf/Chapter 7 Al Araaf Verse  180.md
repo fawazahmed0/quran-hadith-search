@@ -2676,6 +2676,12 @@ mariyu allāh pērlu! Annī atyuttamamainavē; kāvuna mīru vāṭitō āyananu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌కు మంచి మంచి పేర్లున్నాయి. కాబట్టి మీరు ఆ పేర్లతో ఆయన్నే పిలవండి. ఆయన పేర్ల విషయంలో వక్రంగా వాదించే వారిని వదలిపెట్టండి. వారు చేస్తూ ఉండినదానికి వారు తప్పకుండా శిక్షించబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

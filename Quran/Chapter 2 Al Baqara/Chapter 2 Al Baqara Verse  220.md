@@ -2676,6 +2676,12 @@ Ihalōkanlōnū mariyu paralōkanlōnū - mariyu anāthalanu gurin̄ci vāru nin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇహలోక జీవితంలో, పరలోకంలో కూడా. ఇంకా వీరు అనాధలను గురించి కూడా నిన్ను ప్రశ్నిస్తున్నారు కదూ! వారికి బోధపరచు: వారి బాగోగులను అభిలషించటం ఉత్తమం. (బాగు పరచే ఉద్దేశంతో) ఒకవేళ మీరు వారి సొమ్మును మీ సొమ్ములో కలుపుకుంటే వారూ మీ సహోదరులే. చెడగొట్టేవారెవరో, బాగు పరచేవారెవరో అల్లాహ్‌కు బాగా తెలుసు. అల్లాహ్‌యే గనక తలిస్తే మిమ్మల్ని కష్టాల్లో పడవేసేవాడే. నిశ్చయంగా అల్లాహ్‌ శక్తిమంతుడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

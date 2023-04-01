@@ -2676,6 +2676,12 @@ mariyu nīvu grantha prajalatō - durmārgānni avalambin̄cina vāritō tappa -
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఉత్తమ పద్ధతిలో తప్ప గ్రంథవహులతో వాదించకండి. అయితే వారిలోని దుర్మార్గులతో (వాదులాడటం సమంజసమే). “మేము మా వద్దకు పంపబడిన గ్రంథాన్నీ, మీ వద్దకు పంపబడిన గ్రంథాన్ని కూడా విశ్వసిస్తున్నాం. మా ఆరాధ్య దేవుడూ, మీ ఆరాధ్య దేవుడూ ఒక్కడే. మేము ఆయన ఆజ్ఞలకే కట్టుబడి ఉన్నాము” అని స్పష్టంగా చెప్పేయండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

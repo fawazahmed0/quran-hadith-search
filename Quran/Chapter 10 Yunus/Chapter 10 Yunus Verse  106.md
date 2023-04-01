@@ -2676,6 +2676,12 @@ mariyu allāh nu vadali nīku lābhaṅgānī mariyu naṣṭaṁ gānī kaligin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ను వదలిపెట్టి నీకు ఎలాంటి లాభాన్ని గానీ, కీడును గానీ కలిగించలేని దానిని నువ్వు ఆరాధించకు. ఒకవేళ అలాంటి పని చేశావంటే నువ్వు కూడా దుర్మార్గుల్లో ఒకడివవుతావు” (అని హెచ్చరించబడింది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

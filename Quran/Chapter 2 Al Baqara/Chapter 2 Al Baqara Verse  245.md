@@ -2676,6 +2676,12 @@ allāh ku man̄ci ruṇaṁ iccēvāḍu, mīlō evaḍu? Endukaṇṭē āyana 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌కు మంచి రుణం ఇచ్చేవారు మీలో ఎవరైనా ఉన్నారా? దాన్ని ఆయన ఎన్నోరెట్లు పెంచి తిరిగి ఇస్తాడు. (ఉపాధిని) తగ్గించేవాడు, పెంచేవాడు అల్లాహ్‌యే. కడకు మీరంతా మరలి పోవలసింది ఆయన వైపుకే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

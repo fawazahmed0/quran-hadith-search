@@ -2676,6 +2676,12 @@ Kāvuna nīvu (ō pravaktā!) Sahanaṁ vahin̄cu! Dr̥ḍha saṅkalpaṁ gala 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ప్రవక్తా!) సాహసమూర్తులైన ప్రవక్తలు ఓపిక పట్టినట్లే నువ్వు కూడా ఓపిక పట్టు. వారి విషయంలో (శిక్ష కోసం) తొందరపెట్టకు. వారికి వాగ్దానం చేయబడుతున్న దానిని (శిక్షను) వారు కళ్ళారా చూసుకున్నప్పుడు, తాము (మహా అంటే) ఒక దినములోని ఒక గడియ మాత్రమే (ప్రపంచంలో) ఉండి ఉంటామని వారికి అనిపిస్తుంది. ఇదీ (నీవు అందజేయవలసిన) సందేశం! ఇక అవిధేయులు మాత్రమే సర్వనాశనం చేయబడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ lēdā, nīvu mam'malni bhayapeṭṭinaṭlu, ākāśaṁ mukkalai māpai paḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“లేదా నువ్వు చెబుతున్నట్లుగా ఆకాశాన్ని ముక్కలు ముక్కలుగా చేసి మాపై పడవెయ్యి లేదా నువ్వు ఖుద్దుగా అల్లాహ్‌ను, దూతలను తెచ్చి మా ఎదుట నిలబెట్టు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

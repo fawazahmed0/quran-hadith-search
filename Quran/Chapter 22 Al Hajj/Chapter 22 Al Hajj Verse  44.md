@@ -2676,6 +2676,12 @@ mariyu mad yan vāsulu kūḍānu! Antēkādu mūsā kūḍā asatyavāduḍavan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మద్‌యన్‌ వారు కూడా (తమ తమ ప్రవక్తలను ధిక్కరించారు). మూసా కూడా ధిక్కరించబడ్డాడు. నేను అవిశ్వాసులకు కాస్త విడుపు ఇచ్చాను. ఆ తరువాత వారిని పట్టుకున్నాను. మరి నా శిక్ష (వారిపై) ఎలా పడిందో! (చూశావుగా)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

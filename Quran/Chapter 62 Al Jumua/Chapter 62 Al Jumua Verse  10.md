@@ -2676,6 +2676,12 @@ ika namāj pūrti ayina taruvāta bhūmilō vyāpin̄caṇḍi mariyu allāh anu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి నమాజు ముగిసిన తరువాత భూమిలో విస్తరించి, దైవానుగ్రహాన్ని అన్వేషించండి. ఎక్కువగా అల్లాహ్ ను స్మరిస్తూ ఉండండి. తద్వారా మీరు సాఫల్యం పొందవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

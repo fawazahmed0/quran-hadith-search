@@ -2676,6 +2676,12 @@ o visvasulara! Maryam kumarudu isa tana sisyulaku (havariyyun laku) upadesincina
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మర్యం కుమారుడైన ఈసా తన హవారీలతో, “అల్లాహ్ మార్గంలో నాకు సహాయపడగల వారెవరు?” అని అన్నప్పుడు, “అల్లాహ్ మార్గంలో మేము సహాయపడతాము” అని హవారీలు సమాధాన మిచ్చినట్లు మీరు కూడా అల్లాహ్ కు సహాయకులు అవండి. తరువాత ఇస్రాయీలు సంతతివారిలో ఒక వర్గం వారు విశ్వసించగా, మరొక వర్గం వారు తిరస్కరించారు. అప్పుడు మేము విశ్వసించిన వారికి వారి శత్రువులకు వ్యతిరేకంగా తోడ్పడ్డాము. తత్ఫలితంగా వారు గెలుపొందారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kapaṭa viśvāsulaina puruṣulu mariyu kapaṭa viśvāsulaina strīlu andar�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కపటులైన పురుషులూ, స్త్రీలూ- వారంతా ఒక్కటే. వారు చెడు విషయాల గురించి ఆజ్ఞాపించి, మంచి విషయాల నుంచి ఆపుతారు. తమ గుప్పెళ్ళను మూసి ఉంచుతారు. వారు అల్లాహ్‌ను విస్మరించారు. అందుకే అల్లాహ్‌ కూడా వారిని విస్మరించాడు. నిశ్చయంగా కపటులే పాపాత్ములు (అవిధేయులు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ataṟku mūsā ‘‘nām tēṭivanta iṭam atu tāṉ'' eṉṟu kūṟi avv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(అరె!) మనం వెతుక్కుంటూ వచ్చింది ఆ స్థలం కోసమే కదా!” అని మూసా అన్నాడు. ఆ తరువాత వారిద్దరూ తమ పాదచిహ్నాల ఆధారంగా వెనక్కి తిరిగి వచ్చారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

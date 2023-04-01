@@ -2676,6 +2676,12 @@ ayane, visvasula hrdayalalo santini avatarimpajesadu, vari visvasanlo marinta vi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసుల హృదయాలలో నెమ్మదిని (ప్రశాంతతను, నిబ్బరాన్ని) వేసినవాడు ఆయనే, వారి విశ్వాసంతోపాటు మరింత విశ్వాసం పెంపొందటానికి, భూమ్యాకాశాలలోని సైనిక దళాలన్నీ అల్లాహ్ వే. అల్లాహ్ జ్ఞాన సంపన్నుడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāritō anu: "Ēmī? Mīru ālōcin̄cārā (cūśārā)! Okavēḷa āyana śi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఇలా అను: “చెప్పండి, దైవశిక్ష మీపై రాత్రిపూట విరుచుకుపడినా, పగటిపూట వచ్చిపడినా ఆ విషయంలో నేరస్థులకు అంత ఆత్రం ఎందుకట?!”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

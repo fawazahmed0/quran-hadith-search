@@ -2676,6 +2676,12 @@ Bigū: «Ej mardum, haq az çoniʙi Parvardigoraton ʙarojaton omadaast, pas, ha
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు: “ప్రజలారా! మీ వద్దకు మీప్రభువు తరఫు నుంచి సత్యం వచ్చేసింది. కాబట్టి ఇప్పుడు ఎవడైనా సన్మార్గానికి వస్తే అతడు తన (మంచి) కోసమే సన్మార్గానికి వస్తాడు. మరెవడైనా అపమార్గానికి లోనైతే ఆ అపమార్గం అతనికే హానికరం అవుతుంది. నేను మీపై నియమించబడిన కావలివాణ్ణి మాత్రం కాను.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

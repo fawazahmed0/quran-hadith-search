@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Mēmu vāriki cēsina vāgdānālalō konniṇṭini nīk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చేసివున్న వాగ్దానాలలో దేన్నయినా మేము నీకు చూపించినా లేక (అంతకు ముందే) మేము నీ ప్రాణాన్ని స్వాధీనం చేసుకున్నా (ఏది ఏమైనాసరే…) సందేశాన్ని చేరవేయటమే నీ పని. లెక్క తీసుకునే బాధ్యత మాది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

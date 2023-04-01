@@ -2676,6 +2676,12 @@ emi? Purvam (yudulace) musa prasnincabadinatlu, miru kuda mi pravakta (muham'mad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లోగడ మూసా (అలైహిస్సలాం)కు వేయబడినటువంటి ప్రశ్నలే మీరు మీ ప్రవక్త (ముహమ్మద్‌-స)కు వేయదలుస్తున్నారా? (అయితే వినండి) విశ్వాసాన్ని అవిశ్వాస వైఖరి ద్వారా మార్చేవాడు రుజుమార్గం నుంచి తప్పిపోతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

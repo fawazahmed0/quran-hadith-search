@@ -2676,6 +2676,12 @@ ayane turpu padamarala svami, ayana tappa maroka aradhya daivam ledu, kavuna niv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన తూర్పు – పడమరలకు ప్రభువు. ఆయన తప్ప వేరొక ఆరాధ్య దైవం లేడు. కాబట్టి నీవు ఆయన్నే నీ కార్యసాధకునిగా చేసుకో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

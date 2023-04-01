@@ -2676,6 +2676,12 @@ Kāvuna ihalōka jīvitānni paralōka jīvita (sukhāniki) badulugā am'mina v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబట్టి ఇహలోక జీవితాన్ని పరలోకానికి బదులుగా అమ్మి వేసినవారు దైవమార్గంలో పోరాడాలి. దైవమార్గంలో పోరాడుతూ చంపబడినవానికి లేదా విజయం పొందినవానికి మేము గొప్ప పుణ్యఫలాన్ని వొసగుతాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

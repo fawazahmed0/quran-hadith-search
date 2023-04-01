@@ -2676,6 +2676,12 @@ mariyu okavēḷa ā nagaravāsulu viśvasin̄ci, daivabhīti kaligi uṇṭē -
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ బస్తీలో నివసించే వాళ్ళేగనక విశ్వసించి, భయభక్తులతో మెలగి ఉన్నట్లయితే మేము వాళ్ల కోసం భూమ్యాకాశాల శుభాల(ద్వారాల)ను తెరచేవాళ్ళం. కాని వాళ్ళు ధిక్కారానికి పాల్పడ్డారు. అందువల్ల వారి (చెడు) సంపాదనకు కారణంగా మేము వాళ్ళను పట్టుకున్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

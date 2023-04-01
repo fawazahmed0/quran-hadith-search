@@ -2676,6 +2676,12 @@ mariyu vāri munduku mārgadarśakatvaṁ vaccinappuḍu, dānini viśvasin̄cak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజల వద్దకు మార్గదర్శకత్వం వచ్చేసిన తరువాత కూడా వారు విశ్వసించకుండా, క్షమాభిక్షకై తమ ప్రభువును వేడుకోకుండా వారిని ఆపిన విషయం ఒక్కటే – అదేమిటంటే, గత కాలంలోని ప్రజలకు ఎదురైన వ్యవహారమే తమకూ ఎదురవ్వాలనీ లేదా ప్రత్యక్షంగా తమ ముందుకు శిక్ష రావాలని వారు నిరీక్షించటం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

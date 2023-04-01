@@ -2676,6 +2676,12 @@ Bigū (ej Pajomʙar ʙa on muşrikon): «Ojo ƣajri Alloh ʙuthoero iʙodat kune
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారిని అడుగు : ఏమిటీ, మేము అల్లాహ్‌ను వదలి మాకు లాభంగానీ, నష్టంగానీ చేకూర్చలేని వారిని మొరపెట్టుకోవాలా? అల్లాహ్‌ మాకు సన్మార్గం చూపిన తరువాత షైతానులు ఒక వ్యక్తిని అడవిలో మార్గవిహీనుణ్ణి చేయగా, అతని సహవాసులు కొందరు ఉండి, “మా వద్దకు రా!” అని అతన్ని సన్మార్గం వైపుకు పిలుస్తున్నప్పటికీ, దిక్కులు చూస్తూ ఉండిపోయేవాని మాదిరిగా – మేము సన్మార్గం నుండి వెనుతిరిగి పోవాలా? వారితో ఇలా అను: “యదార్థానికి అల్లాహ్‌ చూపిన మార్గమే సన్మార్గం. మేము సర్వలోక ప్రభువుకు పూర్తిగా విధేయులు కావాలని మాకు ఆజ్ఞాపించబడింది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

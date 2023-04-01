@@ -2676,6 +2676,12 @@ ayana, svayanga mike cendina oka upamananni miku teluputunnadu. Emi? Memu miku j
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మీ కోసం స్వయంగా మీకు సంబంధించిన ఉదాహరణనే ఇస్తున్నాడు – మేము మీకు ప్రసాదించిన సంపదలో మీతో సమంగా పంచుకునే మీ బానిసలు ఎవరయినా ఉన్నారా? మీరు మీ తోటి వారికి భయపడినట్లు వారికి భయపడుతున్నారా? బుద్ధీ వివేచనలున్న వారి కోసం మేము ఈ విధంగా సూచనలను విడమరచి చెబుతుంటాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

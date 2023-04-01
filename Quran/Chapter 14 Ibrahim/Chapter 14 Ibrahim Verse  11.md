@@ -2676,6 +2676,12 @@ vāri pravaktalu vāritō (iṅkā) ilā annāru: "Niścayaṅgā, mēmu mī va�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ప్రవక్తలు వారితో ఇలా అన్నారు: “అవును, మేమూ మీలాంటి మనుషులమే. అయితే అల్లాహ్‌ తన దాసులలో తాను కోరిన వారిపై ప్రత్యేకంగా దయదలుస్తాడు. అల్లాహ్‌ అనుజ్ఞ లేకుండా మేము ఏ ప్రమాణాన్ని కూడా మీ వద్దకు తేలేము. విశ్వాసులైనవారు కేవలం అల్లాహ్‌నే నమ్ముకోవాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

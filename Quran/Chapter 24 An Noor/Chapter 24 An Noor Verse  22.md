@@ -2676,6 +2676,12 @@ mariyu mīlō (allāh) anugrahaṁ mariyu samr̥d'dhigā (sampadalu) galavāru, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీలోని ఐశ్వర్యవంతులు, స్థితిమంతులు తమ బంధువులకు, నిరుపేదలకు, అల్లాహ్‌ మార్గంలో స్వస్థలం వదలి వచ్చిన వారికి ‘ఇవ్వబోము’ అని ఒట్టేసుకోరాదు. పైగా వారిని క్షమించాలి. (వారి పట్ల) మన్నింపుల వైఖరిని అవలంబించాలి. ఏమిటీ, అల్లాహ్‌ మిమ్మల్ని క్షమించాలని మీరు అభిలషించరా ? అల్లాహ్‌ మాత్రం (తప్పులను) క్షమించేవాడు, కరుణామయుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

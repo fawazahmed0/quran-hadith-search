@@ -2676,6 +2676,12 @@ appuḍu (paralōkanlō) vāraṇṭāru: "Mēmu (ippuḍu) dānini (satyānni) 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు వారు, “మేము దీనిని (ఖుర్‌ఆన్‌ను) విశ్వసించాము” అనంటారు. కాని అంత దూరస్థలం నుంచి వారు (ఆశించిన వస్తువును) ఎలా అందుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

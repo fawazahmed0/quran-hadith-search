@@ -2676,6 +2676,12 @@ alā kādu! Okavēḷa ataḍu mānukōkapōtē, mēmu ataḍini, nuduṭi juṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కానేకాదు. ఒకవేళ వాడు గనక (తన వ్యతిరేక ధోరణిని) మానుకోకపోతే మేము వాడి నుదుటి జుత్తును పట్టి ఈడుస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ allāh viśvāsulanu, mīru (satyatiraskārulu) ippuḍu unna sthitilō, ē māt
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అపవిత్రులను పవిత్రుల నుంచి వేరుపరచే వరకూ అల్లాహ్‌ విశ్వాసులను ఇప్పుడున్న స్థితిలోనే వదలిపెట్టడు. అలా అని అల్లాహ్‌ మీకు అగోచర విషయాలనూ తెలుపడు. పైగా అల్లాహ్‌ తన ప్రవక్తలలో తాను కోరిన వారిని (ఇందుకోసం) ఎన్నుకుంటాడు. అందుచేత మీరు అల్లాహ్‌ను, ఆయన ప్రవక్తలను విశ్వసించండి. మీరే గనక విశ్వసించి, దైవభీతిపరులుగా మసలుకున్నట్లయితే మీకు గొప్ప పుణ్యఫలం లభిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

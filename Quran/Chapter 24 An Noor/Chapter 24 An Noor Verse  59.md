@@ -2676,6 +2676,12 @@ mariyu mī pillalu yuktavayas'suku cērukunnappuḍu; vāri kaṇṭē peddavār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మీ పిల్లలు (కూడా) ప్రాజ్ఞ వయస్సుకు చేరుకున్న తరువాత, తమ పూర్వీకులు అనుమతి పొందినట్లే వారు కూడా అనుమతి పొంది మరీ రావాలి. అల్లాహ్‌ ఈ విధంగా తన ఆదేశాలను మీకు విశదపరుస్తున్నాడు. అల్లాహ్‌యే సర్వజ్ఞాని, వివేకసంపన్నుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

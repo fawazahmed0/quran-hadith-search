@@ -2676,6 +2676,12 @@ O manavulara! Allah miku cesina anugrahalanu jnapakam cesukondi! Emi? Bhumyakasa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రజలారా! మీపైవున్న అల్లాహ్‌ అనుగ్రహాన్ని కాస్త జ్ఞాపకం చేసుకోండి. ఏమిటి, అల్లాహ్‌ గాకుండా ఆకాశం నుంచి, భూమి నుంచి మీకు ఉపాధిని సమకూర్చే వేరే సృష్టికర్త కూడా ఎవడైనా ఉన్నాడా? ఆయన తప్ప మరో ఆరాధ్యుడెవడూలేడు. మరి మీరు (ఆయన వైపు నుండి) ఎటు తిరిగిపోతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

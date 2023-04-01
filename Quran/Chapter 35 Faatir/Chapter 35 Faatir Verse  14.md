@@ -2676,6 +2676,12 @@ mīru vārini vēḍukonnappaṭikī, vāru mī prārthanalanu vinalēru, okavē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీరు వారిని మొర పెట్టుకున్నా, వారు మీ మొరను ఆలకించరు. ఒకవేళ ఆలకించినా, మీ అక్కరను తీర్చలేరు. పైపెచ్చు ప్రళయదినాన మీరు కల్పించే భాగస్వామ్యాన్ని (షిర్క్‌ను) వారు (సూటిగా) త్రోసిపుచ్చుతారు. అన్నీ తెలిసిన దేవుని మాదిరిగా (సావధానపరిచే సమాచారాన్ని) నీకు తెలిపే వాడెవడూ ఉండడు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

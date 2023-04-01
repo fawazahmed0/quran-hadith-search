@@ -2676,6 +2676,12 @@ vāru, venuka uṇḍipōyē vāritō uṇḍaṭāniki iṣṭapaḍḍāru. V�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఇండ్లల్లో ఉండే ఆడవారి వెంట ఉండటానికే ఇష్టపడ్డారు. వారి హృదయాలపై ముద్ర వేయబడింది. కాబట్టి ఇప్పుడు ఏ విషయమూ వారికి అర్థం కాదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

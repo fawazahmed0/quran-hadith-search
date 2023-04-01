@@ -2676,6 +2676,12 @@ mariyu nā sōdaruḍu hārūn māṭlāḍaṭanlō nā kaṇṭē man̄ci vāg
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా సోదరుడైన హారూను నా కంటే మంచి వాక్పటిమ కలవాడు. అందువల్ల నన్ను ధృవీకరించే నిమిత్తం అతన్ని నా సహాయకునిగా చేసి పంపు. వాళ్ళు నన్ను ధిక్కరిస్తారేమోనని నాకు భయంగా ఉంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

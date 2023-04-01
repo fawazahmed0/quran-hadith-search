@@ -2676,6 +2676,12 @@ ayana (allah): "O adam! Viti (i vastuvula) perlanu viriki telupu." Ani annadu. E
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు అల్లాహ్‌, “ఓ ఆదం! వీటి పేర్లేమిటో నువ్వు తెలుపు” అన్నాడు. ఆయన వాటి పేర్లన్నీ చెప్పేయగానే అల్లాహ్‌ ఇలా ప్రకటించాడు: “భూమ్యాకాశాలలో గోప్యంగా వున్నవన్నీ నాకు తెలుసనీ, మీరు బహిర్గతం చేసేవీ, దాచి పెట్టేవీ అన్నీ నాకు తెలుసని (ముందే) నేను మీకు చెప్పలేదా?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

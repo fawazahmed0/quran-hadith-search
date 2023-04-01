@@ -2676,6 +2676,12 @@ Mariyu vārandaru nī prabhuvu sannidhilō varusalalō pravēśapeṭṭabaḍat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారంతా నీ ప్రభువు సమక్షంలో వరుసగా నిలబెట్టబడతారు. “నిశ్చయంగా – మేము మిమ్మల్ని మొదటిసారి పుట్టించినట్లుగానే మీరు మా వద్దకు వచ్చేశారు. కాని మీరు మాత్రం, మేమెన్నటికీ మీ కోసం వాగ్దాన సమయం నిర్ధారించము అనే తలపోసేవారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

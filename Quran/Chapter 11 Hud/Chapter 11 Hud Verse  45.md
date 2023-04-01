@@ -2676,6 +2676,12 @@ mariyu nūh tana prabhuvunu vēḍukuṇṭū annāḍu: "Ō nā prabhū! Niśca
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నూహ్‌ (అలైహిస్సలాం) తన ప్రభువును పిలుస్తూ, “నా ప్రభూ! నా కుమారుడు కూడా నా కుటుంబీకుడే కదా! నిశ్చయంగా నీవాగ్దానం సత్యమైనది. నీవు పాలకుల్లోకెల్లా గొప్ప పాలకుడవు” అని విన్నవించుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

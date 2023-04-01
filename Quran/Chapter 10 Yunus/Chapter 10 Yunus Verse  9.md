@@ -2676,6 +2676,12 @@ niścayaṅgā, viśvasin̄ci satkāryālu cēsina vārini vāri viśvāsaphalit
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా – విశ్వసించి, సత్కార్యాలు చేసిన వారికి వారి ప్రభువు వారి విశ్వాసం కారణంగా వారిని గమ్యస్థానానికి చేరుస్తాడు – క్రింద కాలువలు ప్రవహించే అనుగ్రహభరితమైన స్వర్గవనాలలోకి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

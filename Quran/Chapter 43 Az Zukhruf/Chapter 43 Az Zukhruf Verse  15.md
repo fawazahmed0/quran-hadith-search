@@ -2676,6 +2676,12 @@ mariyu vāru āyana dāsulalō kondarini āyanalō bhāgaṅgā (bhāgasvāmulug
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా వీళ్లు అల్లాహ్‌ దాసులలో కొందరిని ఆయన భాగంగా చేశారు. నిజంగా మానవుడు చాలా స్పష్టంగా కృతఘ్నతకు పాల్పడతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

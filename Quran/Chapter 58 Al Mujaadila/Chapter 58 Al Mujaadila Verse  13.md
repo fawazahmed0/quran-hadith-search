@@ -2676,6 +2676,12 @@ emi? Miru (pravaktato) ekanta samalocanalaku mundu danalu ceyavalasi unnadani bh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, మీ రహస్య సమాలోచనకు ముందు మీరు దానం చేయాలి అనేసరికి భయపడిపోయారా? మీరు ఈ దానధర్మము చేయలేకపోయినప్పుడు అల్లాహ్ కూడా మిమ్మల్ని మన్నించాడు. అందుకే ఇప్పుడు నమాజులను (సజావుగా) నెలకొల్పండి. జకాత్ ను (విధిగా) ఇస్తూ ఉండండి. అల్లాహ్ కు, ఆయన ప్రవక్తకు విధేయత చూపుతూ ఉండండి. మీరు చేసేదంతా అల్లాహ్ కు పూర్తిగా ఎరుకే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

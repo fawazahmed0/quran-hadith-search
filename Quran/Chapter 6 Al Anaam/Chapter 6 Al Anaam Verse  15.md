@@ -2676,6 +2676,12 @@ nāṉ eṉ iṟaivaṉukku māṟu ceytāl, makattāṉa nāḷil (ēṟpaṭum
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేనే గనక నా ప్రభువు ఆజ్ఞను శిరసావహించకపోతే ఒకానొక మహాదినాన నాకు శిక్ష పడుతుందని నేను భయపడుతున్నాను” అని (కూడా) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

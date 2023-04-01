@@ -2676,6 +2676,12 @@ okavēḷa vāru mim'malni gurtu paḍitē, vāru tappaka mim'malni rāḷḷu r
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“వారు గనక మిమ్మల్ని పట్టుకున్నారంటే మీపై రాళ్ళయినా రువ్వుతారు లేదా మిమ్మల్ని తమ మతంలోకైనా తిరిగి రప్పించు కుంటారు. (అదే గనక జరిగితే) మీరెన్నటికీ సాఫల్యం పొంద లేరు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

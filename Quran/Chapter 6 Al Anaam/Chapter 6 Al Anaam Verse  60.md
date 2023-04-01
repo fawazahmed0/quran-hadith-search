@@ -2676,6 +2676,12 @@ mariyu āyanē rātrivēḷa (mīru nidrapōyinapuḍu) mī ātmalanu tīsukuṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే రాత్రిపూట (ఒకింత) మీ ఆత్మలను స్వాధీనం చేసుకుంటాడు. పగటిపూట మీరు చేసేదంతా ఆయనకు తెలుసు. మళ్లీ ఆయన నిర్థారిత సమయాన్ని పూర్తిచేయడానికి మిమ్మల్ని అందులో మేల్కొలుపుతున్నాడు. ఆ తర్వాత మీరంతా ఆయన వైపుకే మరలిపోవలసి ఉన్నది. ఆ తరువాత మీరు చేస్తూ ఉండిన కర్మలన్నింటినీ ఆయన మీకు తెలుపుతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

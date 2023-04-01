@@ -2676,6 +2676,12 @@ mariyu (jñāpakamun̄cukōṇḍi!) Ā dinamuna āyana (allāh) vāritō: "Mīr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నాకు భాగస్వాములని మీరు భావించిన (వారెక్కడ?) వారిని పిలవండి” అని ఆయన చెప్పిన రోజున వారు (తమ మిధ్యా దైవాలను) పిలుస్తారు. కాని వారిలో ఏ ఒక్కరూ సమాధానం ఇవ్వరు. మేము వారి మధ్యన వినాశాన్ని ఏర్పరుస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

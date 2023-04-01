@@ -2676,6 +2676,12 @@ mariyu idi nī prabhuvu yokka r̥jumārgaṁ. Vāstavāniki yōcin̄cēvāriki, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదే నీ ప్రభువు యొక్క రుజుమార్గం. ఉపదేశాన్ని స్వీకరించే వారి కోసం మేము ఈ ఆయతులను స్పష్టంగా విడమరచి చెప్పాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

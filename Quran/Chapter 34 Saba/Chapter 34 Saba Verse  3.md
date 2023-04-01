@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulu ilā aṇṭāru: "Antima ghaḍiya (punarut'thānaṁ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మాపై ప్రళయం వచ్చిపడదు” అని అవిశ్వాసులు అంటున్నారు. “ఎందుకు రాదు? అగోచరాల జ్ఞాని అయిన నా ప్రభువు సాక్షిగా! అది మీపై తప్పకుండా వస్తుంది. రవ్వంత వస్తువు కూడా – అది ఆకాశాలలో ఉన్నా, భూమిలో ఉన్నా – ఆయన నుండి గోప్యంగా లేదు. దాని కన్నా చిన్న వస్తువైనా, పెద్ద వస్తువైనా, ప్రతిదీ ఒక స్పష్టమైన గ్రంథంలో (లిఖిత పూర్వకంగా) ఉంది” అని వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

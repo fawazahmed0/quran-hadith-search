@@ -2676,6 +2676,12 @@ prajalalō kondarini - vāri vyāpāraṁ gānī mariyu krayavikrayālu gānī -
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(కొందరు) పురుషులు. వర్తకంగానీ, క్రయవిక్రయాలుగానీ అల్లాహ్‌ నామస్మరణ, నమాజు స్థాపన, జకాత్‌ చెల్లింపు విషయంలో వారిని పరధ్యానానికి లోను చేయలేవు. ఏ రోజున హృదయాలు తలక్రిందులై, కనుగుడ్లు తేలిపోతాయో దానికి వారు భయపడుతూ ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

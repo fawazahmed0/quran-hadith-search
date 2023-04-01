@@ -2676,6 +2676,12 @@ mariyu nēnu nīku nī prabhuvu vaipunaku mārgadarśakatvaṁ cēstānu, mari n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నువ్వు భయభక్తులతో మసలుకునేందుకుగాను, నేను నీకు నీ ప్రభువు మార్గం చూపించనా!?” (అని చెప్పమని అల్లాహ్ మూసాకు ఉపదేశించాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

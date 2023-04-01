@@ -2676,6 +2676,12 @@ ayana variki oka manci biddanu prasadincina pidapa varu, ayana prasadincina dani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి అల్లాహ్‌ వారికి (ఏ లోపమూ లేని) బిడ్డను ప్రసాదించగానే, ఆ ‘ప్రసాదితం’లో వారిద్దరూ ఆయనకు భాగస్వాముల్ని కల్పించటం మొదలెట్టారు. వారు చేసే ఈ భాగస్వామ్య చేష్టలకు అల్లాహ్‌ అతీతుడు, ఉన్నతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

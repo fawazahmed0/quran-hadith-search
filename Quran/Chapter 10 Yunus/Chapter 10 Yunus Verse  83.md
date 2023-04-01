@@ -2676,6 +2676,12 @@ kāni phir'aun mariyu atani nāyakulu tamanu hinsistārēmō anē bhayantō! Ata
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా (అలైహిస్సలాం)ను అతని జాతికి చెందిన కొద్దిమంది మాత్రమే విశ్వసించారు. ఆ కొద్దిమంది కూడా, ఫిరౌనుకు, అతని సర్దారులకు – వారు తమను ఎక్కడ వేధిస్తారోనని భయపడుతూ ఉండేవారు. అవును మరి! ఆరాజ్యంలో ఫిరౌన్‌ ప్రాబల్యం కలిగి ఉండేవాడు, దానికి తోడు హద్దు మీరిపోయేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ allāh anumati lēnidē, ē prāṇi kūḍā maraṇin̄cajāladu, dāniki oka 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దైవాజ్ఞ కానంతవరకూ ఏ ప్రాణీ చావదు. నిర్థారిత సమయం రాయబడి ఉంది. ప్రాపంచిక ఫలితాన్ని కోరుకున్న వారికి మేము ఎంతో కొంత ఇచ్చేస్తాము. పరలోక ప్రతిఫలాన్ని కోరుకున్న వారికి మేము దాన్ని కూడా అనుగ్రహిస్తాము. కృతజ్ఞులై ఉండేవారికి మేము త్వరలోనే మంచి ప్రతిఫలాన్ని వొసగుతాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

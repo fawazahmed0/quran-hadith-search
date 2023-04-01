@@ -2676,6 +2676,12 @@ kāni evaraitē tama prabhuvu nandu bhayabhaktulu kaligi uṇṭārō, vāriki k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాని తమ ప్రభువుకు భయపడుతూ మసలుకునేవారి కోసం క్రింద కాలువలు ప్రవహించే (స్వర్గ) వనాలున్నాయి. వాటిలో వారు కలకాలం ఉంటారు. ఇదీ అల్లాహ్‌ వద్ద నుంచి వారికి లభించే ఆతిథ్యం. సద్వర్తనుల కోసం అల్లాహ్‌ వద్ద ఉన్నది అన్నింటికంటే శ్రేష్ఠమైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

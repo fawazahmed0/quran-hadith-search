@@ -2676,6 +2676,12 @@ taruvāta atanu mā vadda nuṇḍi satyānni vāri munduku tīsukoni rāgā vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి అతను (మూసా) వారివద్దకు మా తరఫు నుంచి సత్యాన్ని తీసుకుని వచ్చినప్పుడు, “అతని పంచనచేరి విశ్వసించిన వారి కొడుకులను చంపేయండి, వారి ఆడవాళ్ళను మాత్రం బ్రతకనివ్వండి” అని వారు పలికారు. కాని అవిశ్వాసుల ఎత్తుగడలన్నీ భ్రష్టమైనవి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

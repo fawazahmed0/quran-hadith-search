@@ -2676,6 +2676,12 @@ mariyu mēmu ākāśālanū, bhūminī mariyu vāṭi madhyanunna sarvānni kēv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఆకాశాలనూ, భూమినీ, వాటి మధ్యనున్న సమస్త వస్తువులనూ సత్యబద్ధంగానే సృష్టించాము. ప్రళయ ఘడియ రావటం తథ్యం. కనుక (ఓ ప్రవక్తా!) నువ్వు హుందాగా (వారిని) మన్నిస్తూ ఉండు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

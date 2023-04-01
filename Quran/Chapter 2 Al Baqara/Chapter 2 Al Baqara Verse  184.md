@@ -2676,6 +2676,12 @@ idi (ī upavāsaṁ) nirṇayin̄cabaḍina rōjulaku mātramē. Kānī, mīlō 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అదీ లెక్కించదగిన కొన్ని రోజులు మాత్రమే. అయితే మీలో వ్యాధిగ్రస్తులుగానో, ప్రయాణీకులుగానో ఉన్నవారు ఆ ఉపవాసాల లెక్క ఇతర దినాలలో పూర్తి చేసుకోవాలి. స్థోమత ఉన్న వారు (ఉపవాసం పాటించకపోయినందుకు) పరిహారంగా ఒక నిరుపేదకు అన్నం పెట్టాలి. కాని ఎవరైనా స్వచ్ఛందంగా ఇంకా ఎక్కువ పుణ్యం చేస్తే, అది వారికే మేలు. మీరు గ్రహించ గలిగితే ఉపవాసం ఉండటమే మీ కొరకు శ్రేయస్కరం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

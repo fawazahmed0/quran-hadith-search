@@ -2676,6 +2676,12 @@ mariyu vāri hr̥dayālu vāṭini aṅgīkarin̄cinā vāru an'yāyaṅgā, aha
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిజానికి వారి మనసులు (సత్యాన్ని) నమ్మినప్పటికీ అన్యాయం, అహంకారంతో వారు దాన్ని త్రోసిపుచ్చారు. కాబట్టి ఆ కల్లోల జనకులకు ఏ గతి పట్టిందో చూడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

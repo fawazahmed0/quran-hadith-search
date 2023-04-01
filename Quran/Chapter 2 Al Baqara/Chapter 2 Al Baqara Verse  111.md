@@ -2676,6 +2676,12 @@ Mariyu vāru: "Yūduḍu lēdā kraistavuḍu tappa, marevvaḍū svarganlō pra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“యూదులు, క్రైస్తవులు తప్ప వేరెవరూ స్వర్గంలో ప్రవేశించలేర”ని వారంటున్నారు. ఇవి వారి ఆశలు, ఆకాంక్షలు మాత్రమే. “మీరు మీ వాదనలో సత్యవంతులే అయితే ఆ మేరకు ఏదన్నా నిదర్శనం సమర్పించండి” అని వారిని అడుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

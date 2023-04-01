@@ -2676,6 +2676,12 @@ civaraku vāru cīmala lōyaku (kanumaku) cērukunnappuḍu oka cīma ilā annad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+చివరకు వారంతా ఒక చీమల లోయకు చేరుకున్నప్పుడు ఒక చీమ ఇలా ప్రకటించింది: “ఓ చీమల్లారా! సులైమాను, అతని సైన్యాలు తెలీకుండా మిమ్మల్ని నలిపివేసే స్థితి ఏర్పడకుండా ఉండేందుకు, మీరు మీ మీ పుట్టలలోనికి దూరిపోండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ a taruvata udayince candrunni cusi: "Idi na prabhuvu!" Ani annadu. Kani adi asta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి అతను ప్రకాశిస్తున్న చంద్రుణ్ణి చూసి, “ఇతను నా ప్రభువు” అన్నాడు. కాని అది కూడా అస్తమించటంతో “ఒకవేళ నా ప్రభువు గనక నాకు మార్గదర్శకత్వం వహించకపోతే నేను మార్గవిహీన జనుల్లో చేరిపోతాను” అని పలికాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

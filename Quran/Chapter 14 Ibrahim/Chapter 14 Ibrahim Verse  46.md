@@ -2676,6 +2676,12 @@ mariyu vāstavāniki vāru tama kuṭra pannāru mariyu vāri kuṭra allāh ku 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాళ్ళు తమ ఎత్తుల్ని తాము వేసి చూసుకున్నారు. వారి ఎత్తుగడలన్నీ అల్లాహ్‌ దృష్టిలో ఉన్నాయి. వారి ఎత్తుగడలు పర్వతాలను కదిలించేటంతటి భీకరమైనవేమీ కావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

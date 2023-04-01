@@ -2676,6 +2676,12 @@ mariyu mīpai allāh anugrahaṁ mariyu āyana karuṇayē lēkuṇṭē! (Āyan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ అనుగ్రహము, ఆయన దయాదాక్షిణ్యాలే గనక మీపైన లేకుండా పోతే (మీరు కష్టాల పాలయ్యేవారు). అల్లాహ్‌ పశ్చాత్తాపాన్ని ఆమోదించేవాడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

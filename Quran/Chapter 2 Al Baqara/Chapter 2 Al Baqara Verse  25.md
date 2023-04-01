@@ -2676,6 +2676,12 @@ Mariyu viśvasin̄ci, satkāryālu cēsēvāri koraku niścayaṅgā krinda kāl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించి, సత్కార్యాలు చేసే వారికి క్రింద కాలువలు ప్రవహించే (స్వర్గ)వనాల శుభవార్తలను అందజెయ్యి. తినడానికి అక్కడి పండ్లు వారికి ఇవ్వబడినప్పుడల్లా, “ఇలాంటి పండ్లే ఇంతకు మునుపు మాకు ఇవ్వబడినవి” అని వారంటారు. నిజానికి పరస్పరం పోలి వుండే ఫలాలు వారికి ప్రసాదించబడతాయి. వారి కొరకు పరిశుద్ధులైన భార్యలుంటారు. వారు ఈ స్వర్గవనాలలో కలకాలం ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

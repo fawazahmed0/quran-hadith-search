@@ -2676,6 +2676,12 @@ a (antima) ghadiya jnanam kevalam ayanake cendinadi. Mariyu ayanaku teliyakunda 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రళయ ఘడియకు సంబంధించిన జ్ఞానం అల్లాహ్‌కే ఉందని అనటం సమంజసం. ఆయనకు తెలియకుండా ఏ ఫలము కూడా తన గుబురు గలీబు నుంచి బయటకు రావటంగానీ, ఏ ఆడదీ గర్భందాల్చటంగానీ, ప్రసవించటంగానీ జరగదు. “నా భాగస్వాములు ఎక్కడున్నారు?” అని అల్లాహ్‌ (ముష్రిక్కులను) పిలిచి వాకబు చేసిననాడు, “మాలో ఎవడూ దానికి (సంబంధించి) సాక్ష్యమిచ్చేవాడు లేడని నీతో విన్నవించుకున్నాము” అని వారంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

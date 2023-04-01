@@ -2676,6 +2676,12 @@ akave (napiye!) Nir cevitanai ketkumaru ceyya mutiyuma? Allatu kurutanaiyum, pak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) మరి నువ్వు చెవిటివారికి వినిపించగలవా? అంధులకుగాని, స్పష్టమైన మార్గభ్రష్టతకు లోనై ఉన్నవారికిగాని సన్మార్గం చూపగలవా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

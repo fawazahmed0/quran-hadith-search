@@ -2676,6 +2676,12 @@ Kāni, atanni parīkṣin̄caṭāniki, atani upādhini taggin̄cinappuḍu: "N�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆయన అతణ్ణి (మరో విధంగా) పరీక్షించదలచి, అతని ఉపాధిని కుదించినప్పుడు, “అయ్యో! నా ప్రభువే నన్ను పరాభవానికి గురిచేశాడు!” అని వాపోతాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

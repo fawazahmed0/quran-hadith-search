@@ -2676,6 +2676,12 @@ kāvuna mīru nannē smarin̄caṇḍi, nēnu kūḍā mim'malni jñāpakaṁ un
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అందుకే మీరు నన్ను స్మరించండి, నేను మిమ్మల్ని జ్ఞాపక ముంచుకుంటాను. నాకు కృతజ్ఞులై ఉండండి. కృతఘ్నతకు పాల్పడకండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

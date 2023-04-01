@@ -2676,6 +2676,12 @@ ayana (allah) akasam nundi niru kuripincaga (endipoyina) selayellu tama tama par
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే ఆకాశం నుంచి వర్షాన్ని కురిపించాడు. ప్రతి నదీ, ప్రతి కాలువా తన వైశాల్యాన్నిబట్టి ఆ నీటిని గ్రహించి బయలుదేరింది. వరద వచ్చినప్పుడు నీళ్ళ ఉపరితలంపైకి నురుగు కూడా వచ్చింది. నగల తయారీ కోసం, సామానుల కోసం అగ్నిలో కాల్చే వాటిపై (లోహాలపై) కూడా (ఈ విధమైన) నురుగే వస్తుంది. ఈ విధంగా అల్లాహ్‌ సత్యాసత్యాల ఉదాహరణను స్పష్టపరుస్తున్నాడు. కడకు నురుగంతా పనికి రాకుండా (ఎగిరి) పోతుంది. ప్రజలకు ఉపయోగపడే వస్తువు మాత్రం భూమిలో మిగిలి ఉంటుంది. ఈ విధంగా అల్లాహ్‌ ఉదాహరణల ద్వారా (విషయాన్ని) వివరిస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

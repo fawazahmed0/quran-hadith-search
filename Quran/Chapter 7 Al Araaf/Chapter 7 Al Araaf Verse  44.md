@@ -2676,6 +2676,12 @@ mariyu svargavāsulu, narakavāsulanu uddēśin̄ci ilā aṇṭāru: "Mā prabh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+స్వర్గవాసులు నరకవాసులను కేకవేసి పిలుస్తూ, “మా ప్రభువు మాకు చేసిన వాగ్దానాన్ని మేము నిజమైనదిగా పొందాము. మరి మీరు కూడా మీ ప్రభువు చేసిన వాగ్దానాన్ని నిజమైనదిగా పొందారా?” అని ప్రశ్నిస్తారు. “అవును” అని వారు సమాధానమిస్తారు. అప్పుడు ప్రకటించేవాడొకడు వారి మధ్య, “ఈ దుర్మార్గులపై అల్లాహ్‌ శాపం పడుగాక!” అని ప్రకటిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ O adam santanama! Saitan mi tallidandrula nundi (svarga) vastralanu tolaginci, v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ఆదం సంతతి వారలారా! షైతాను మీ తల్లిదండ్రులను స్వర్గం నుంచి బయటికి తీయించి, వారి మర్మస్థానాలు వారికి కనిపించేలా చేయటానికి వారి దుస్తుల్ని ఎలా తొలగింపజేశాడో అలాగే వాడు మిమ్మల్ని కూడా చెరపకూడదు సుమా! వాడూ, వాడి సైన్యం, మీరు వారిని చూడలేని చోటు నుంచి మిమ్మల్ని చూస్తున్నారు. మేము అవిశ్వాసులకు షైతానులను స్నేహితులుగా చేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

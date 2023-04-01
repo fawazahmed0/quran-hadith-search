@@ -2676,6 +2676,12 @@ viḍākulu reṇḍu sārlē! Ā tarvāta (bhāryanu) sahr̥dayantō tama vadda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ విడాకులు రెండుసార్లే. ఆ తరువాత సక్రమంగా (ఆమెను) ఆపుకోవాలి. లేదంటే ఉత్తమ రీతిలో వదలి పెట్టాలి. మీరు వారికి ఇంతకు ముందు ఇచ్చి ఉన్న వాటిలో నుంచి దేన్నయినా తిరిగి తీసుకోవటం ధర్మసమ్మతం కాదు. ఆఁ ఒకవేళ అల్లాహ్‌ విధించిన హద్దులకు కట్టుబడి ఉండలేమన్న భయం వారిరువురికీ ఉంటే అది వేరే విషయం. అందువల్ల దంపతులిద్దరూ అల్లాహ్‌ ఏర్పరచిన హద్దులకు కట్టుబడి ఉండలేరన్న భయం మీకు కలిగి, అదే సమయంలో స్త్రీ తన భర్తకు కొంత నష్టపరిహారం ఇచ్చి వేర్పడదలిస్తే – అట్టి పరిస్థితిలో ఇరువురిపై ఎలాంటి దోషంలేదు. ఇవి అల్లాహ్‌ నిర్ధారించిన హద్దులు. (జాగ్రత్త!) వాటిని దాటకూడదు. ఎవరు అల్లాహ్‌ నిర్థారించిన హద్దులను మీరిపోతారో వారే దుర్మార్గులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Allah anumatincani dharmanni vari koraku vidhincagala, ayana bhagasvamulu e
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, అల్లాహ్‌ అనుమతితో నిమిత్తం లేకుండానే తమ కోసం ఏవైనా ధర్మాదేశాలను నిర్ధారించే (అల్లాహ్‌) భాగస్థులను గాని వారు కలిగి ఉన్నారా? ‘తీర్పు’కు సంబంధించిన మాటే గనక ఖరారై ఉండకపోయినట్లయితే వీళ్ల మధ్య (ఇప్పుడే) వ్యవహారం తేల్చివేయబడేది. నిజానికి (ఇలాంటి) దుర్మార్గుల కోసమే వ్యధాభరితమైన శిక్ష ఉన్నది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

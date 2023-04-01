@@ -2676,6 +2676,12 @@ mariyu mēmu mūsā koraku (sināyi koṇḍapai) muppai rātrula (gaḍuvu) nir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మూసా (అలైహిస్సలాం)కు ముఫ్ఫై రాత్రుల వాగ్దానం చేశాము. అదనంగా మరో పది రాత్రులతో వాటిని సంపూర్ణం చేశాము. ఆ విధంగా ప్రభువు నిర్థారించిన పూర్తి గడువు నలభై రాత్రులు అయింది. అప్పుడు మూసా (అలైహిస్సలాం) తన సోదరుడైన హారూనునుద్దేశించి, “నేను వెళ్ళాక నా జాతి ప్రజలలో నీవు నాకు ప్రాతినిధ్యం వహించు. వీళ్ళను తీర్చిదిద్దుతూ ఉండు. విచ్ఛిన్నకారుల అభిప్రాయాలను అనుసరించకు” అని చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

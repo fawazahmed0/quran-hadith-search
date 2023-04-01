@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Süleyman Mücahid'den şöyle işittiğini nakletmektedir: "İbn Ömer'e gelip 'İşte Allah'ın Nebi'i Ka'be'ye girdi (ve tavaf namazını orada kıldı) dediler. O da şöyle karşılık verdi: 'Ben vardığım zaman, Allah Resulü Sallallahu Aleyhi ve Sellem Ka'be'den çıkmıştı. Kapı aralığında Bilal ile karşılaştım. Ona 'Nebi Sallallahu Aleyhi ve Sellem Ka'be'de namaz kıldı mı?' diye sordum. O da şöyle cevap verdi: Evet, içeri girerken sol tarafında bulunan iki sütunun arasında iki rek'at namaz kıldı. Sonra dışarı çıkıp Ka'be'ye yönelerek iki rekat namaz kıldı. Tekrar: 468, 504,
+İbn Süleyman Mücahid'den şöyle işittiğini nakletmektedir: "İbn Ömer'e gelip 'İşte Allah'ın Nebi'i Ka'be'ye girdi (ve tavaf namazını orada kıldı) dediler. O da şöyle karşılık verdi: 'Ben vardığım zaman, Allah Resulü Sallallahu Aleyhi ve Sellem Ka'be'den çıkmıştı. Kapı aralığında Bilal ile karşılaştım. Ona 'Nebi Sallallahu Aleyhi ve Sellem Ka'be'de namaz kıldı mı?' diye sordum. O da şöyle cevap verdi: Evet, içeri girerken sol tarafında bulunan iki sütunun arasında iki rek'at namaz kıldı. Sonra dışarı çıkıp Ka'be'ye yönelerek iki rekat namaz kıldı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>397</td></tr><tr><td>Arabic No</td><td>397</td></tr><tr><td>Reference</td><td>Book 8 Hadith 48</td></tr></tbody></table></div>
 

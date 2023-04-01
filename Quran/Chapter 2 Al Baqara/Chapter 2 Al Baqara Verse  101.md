@@ -2676,6 +2676,12 @@ mariyu vāri daggara pūrvaṁ nun̄cē unna dānini (divyagranthānni) dhr̥vap
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి వద్దకు, వారి గ్రంథాన్ని నిజమని ధృవీకరించే ప్రవక్త అల్లాహ్‌ తరఫు నుంచి ఎప్పుడు వచ్చినా ఆ గ్రంథ వహులలోని ఒక వర్గంవారు, దైవగ్రంథాన్ని, అసలు దాని గురించి ఏమీ తెలియనివారుగా వెనుక పడవేశారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

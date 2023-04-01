@@ -2676,6 +2676,12 @@ a baludu ataniki toduga srama ceyagala vayas'suku cerukunnappudu, atanu (ibrahim
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆ కుర్రాడు అతని వెంట పరుగెత్తే ఈడుకు చేరుకున్నప్పుడు, “ఒరేయ్‌ చంటీ! నేను నిన్ను ‘జిబహ్‌’ చేస్తున్నట్లు కల చూస్తున్నాను! మరి నీ అభిప్రాయమేమిటో చెప్పు” అని అతను (ఇబ్రాహీం) అన్నాడు. “నాన్నగారూ! మీకు ఆజ్ఞాపించబడిన దానిని (నిస్సంకోచంగా) నెరవేర్చండి. అల్లాహ్‌ తలిస్తే మీరు నన్ను సహనశీలిగా పొందుతారు” అని ఆ బాలుడు అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

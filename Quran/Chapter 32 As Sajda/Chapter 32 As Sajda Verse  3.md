@@ -2676,6 +2676,12 @@ emi? Varu (avisvasulu): "Itane (muham'made) dinini kalpincadu." Ani antunnara? A
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, ఇతను (ప్రవక్త) స్వయంగా దీనిని కల్పించుకున్నాడని వారంటున్నారా? (ముమ్మాటికీ కాదు) వాస్తవానికి ఇది నీ ప్రభువు తరఫు నుండి వచ్చిన సత్యం – నీకు పూర్వం హెచ్చరించే వాడెవడూ రాని వారిని నువ్వు హెచ్చరించటానికి, తద్వారా వారు సన్మార్గానికి రావటానికిగాను (ఇది పంపబడినది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

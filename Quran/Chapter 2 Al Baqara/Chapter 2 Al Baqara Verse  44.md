@@ -2676,6 +2676,12 @@ emi? Miru itarulanaite nitiparulavamani ajnapistunnaru, kani, svayanga mire dani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలకైతే మీరు మంచిని గురించి ఆదేశిస్తారు, కాని మీ స్వయాన్ని మరచిపోతారే?! చూడబోతే మీరు గ్రంథపారాయణం చేస్తారాయె. మరి ఆ మాత్రం ఇంగిత జ్ఞానం కూడా మీకు లేదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

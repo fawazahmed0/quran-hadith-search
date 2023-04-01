@@ -2676,6 +2676,12 @@ e hakku lekunda bhumipai durahankaranto vyavaharince varini nenu na sucanala (ay
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ హక్కూ లేకుండా భూమిపై గర్వాన్ని ప్రదర్శించేవారిని నా ఆదేశాల నుంచి మరలిస్తాను. ఒకవేళ సూచనలన్నింటినీ తిలకించినా కూడా వారు వాటిని విశ్వసించరు. సరైన మార్గం వారికి కానవస్తే వారు దానిని తమ మార్గంగా చేసుకోరు. పెడదారి కనిపిస్తే మాత్రం దాన్ని తమ మార్గంగా చేసుకుంటారు. మా ఆయతులను ధిక్కరించి, వాటిపట్ల నిర్లక్ష్య వైఖరిని కనబరచటం వల్ల వారికీ దురవస్థ పట్టింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mī vaddanunna vāṭini (taurāt/ in̄jīl lanu) dhr̥vīkaristū nēnu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ వద్దనున్న గ్రంథాలకు ధృవీకరణగా నేను అవతరింపజేసిన ఈ గ్రంథాన్ని (ఖుర్‌ఆన్‌ను) విశ్వసించండి. దీని పట్ల అందరికంటే ముందు మీరే తిరస్కారులు కాకండి. ఇంకా నా ఆయతులను కొద్దిపాటి ధరకు అమ్ముకోకండి. నాకు మాత్రమే భయపడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mexohad hamai şumoro az sarzaminaton (az Misr) ʙerun kunad. (Fir'avn guft): Ej
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మిమ్మల్ని మీ భూమి (దేశం) నుంచి వెళ్ళగొట్టాలని ఇతను కోరుతున్నాడు. ఇప్పుడేం చేయాలనుకుంటున్నారో మీరే చెప్పండి” (అని సంప్రతింపులు చేసుకున్నారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

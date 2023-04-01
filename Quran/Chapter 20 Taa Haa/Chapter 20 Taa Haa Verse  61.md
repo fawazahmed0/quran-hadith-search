@@ -2676,6 +2676,12 @@ mūsā vāritō annāḍu: "Mīru nāśanamavugāka! Allāh pai abad'dhālu kalp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా వాళ్లను ఉద్దేశించి, “మీకు మూడింది! అల్లాహ్‌కు అబద్ధాలను అంటగట్టకండి. ఆయన మిమ్మల్ని శిక్ష ద్వారా సర్వ నాశనం చేసేస్తాడు. అబద్ధాన్ని కల్పించేవాడు ఎన్నటికీ సాఫల్యం పొందలేడని తెలుసుకోండి” అని అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

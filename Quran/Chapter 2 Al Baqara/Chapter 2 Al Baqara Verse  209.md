@@ -2676,6 +2676,12 @@ mī vaddaku spaṣṭamaina hitōpadēśālu vaccina pidapa kūḍā, mīru tapp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ వద్దకు స్పష్టమయిన నిదర్శనాలు వచ్చిన తరువాత కూడా మీరు ఒకవేళ తప్పటడుగు వేస్తే అల్లాహ్‌ సర్వశక్తి మంతుడు, వివేక సంపన్నుడన్న సంగతిని బాగా గుర్తుంచుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

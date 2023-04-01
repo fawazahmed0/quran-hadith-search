@@ -2676,6 +2676,12 @@ niścayaṅgā, satya tiraskārulaina vāru tīrpudināna gala śikṣa nuṇḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తిరస్కార వైఖరిని అవలంబించిన వారివద్ద భూమిలో ఉన్న సంపద మొత్తం, ఇంకా అంతే సంపద దానితోపాటు ఉండి, ఆ మొత్తం సంపదను వారు ప్రళయ దినపు శిక్షనుంచి తప్పించుకోవటానికి పరిహారంగా ఇవ్వదలచినా – అది వారి నుండి స్వీకరింపజాలదు. వారికి బాధాకరమైన శిక్ష ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

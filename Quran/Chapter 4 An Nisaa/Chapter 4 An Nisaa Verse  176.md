@@ -2676,6 +2676,12 @@ vāru ninnu, (kalālanu) gurin̄ci dhārmika śāsanaṁ (phatvā) aḍugutunnā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వీరు నిన్ను (‘కలాలా’ గురించి) ధర్మాదేశం అడుగుతున్నారు. అల్లాహ్‌ (స్వయంగా) ‘కలాలా’ గురించి మీకు ఆదేశం ఇస్తున్నాడని నువ్వు వారికి చెప్పు. ఏ వ్యక్తయినా సంతానం లేకుండా చనిపోతే, అతనికి ఒక సోదరి మాత్రమే ఉంటే, అతను వదలి వెళ్ళిన ఆస్తిలో సగభాగం ఆమెకు లభిస్తుంది. ఒకవేళ సోదరి-సంతానం లేకుండా మరణిస్తే ఆమె సోదరుడు ఆమె ఆస్తికి వారసుడౌతాడు. ఒకవేళ (మరణించిన వ్యక్తికి) ఇద్దరు సోదరీమణులుంటే, అతని మొత్తం ఆస్తిలో మూడింట రెండొంతుల భాగం వారిద్దరికీ దక్కుతుంది. ఒకవేళ సోదరీసోదరులు అనేకమంది వారసులుగా ఉన్నప్పుడు, ఒక పురుషుని భాగం ఇద్దరు స్త్రీలకు ఇచ్చే భాగాలకు సమానంగా ఉంటుంది. మీరు పెడదారి పట్టకుండా ఉండేందుకుగాను అల్లాహ్‌ మీకు స్పష్టంగా విడమరచి చెబుతున్నాడు. అల్లాహ్‌ ప్రతిదీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

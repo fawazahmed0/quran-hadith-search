@@ -2676,6 +2676,12 @@ mariyu vāritō: "Allāh avatarimpa jēsina dāni (sandēśaṁ) vaipunaku mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ అవతరింపజేసిన ఆదేశాల వైపుకు, ప్రవక్త వైపుకు రండి” అని వారితో అన్నప్పుడు, “మా తాత ముత్తాతలు అవలంబిస్తూ ఉండగా మేము చూసిన విధానమే మాకు చాలు” అని వారంటారు. ఏమిటీ? వారి తాత ముత్తాతలకు ఏమీ తెలీకపోయినప్పటికీ, వారు సన్మార్గంలో నడవనప్పటికీ వీరు వాళ్లనే అనుసరిస్తారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

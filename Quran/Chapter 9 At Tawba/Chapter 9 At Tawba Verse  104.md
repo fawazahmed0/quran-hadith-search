@@ -2676,6 +2676,12 @@ emi? Vastavaniki allah tana dasula pascattapanni (taubah nu) angikaristadani mar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, అల్లాహ్‌యే తన దాసుల పశ్చాత్తాపాన్ని స్వీకరిస్తాడనీ, దానధర్మాలను ఆమోదిస్తాడనీ, పశ్చాత్తాపాన్ని అంగీకరించటంలోనూ, దయజూపటంలోనూ అల్లాహ్‌యే మేటి అనీ వారికి తెలియదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāru allāh ku bhāgasvāmulugā kalpin̄cina vārevvarū vāri siphāra
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు కల్పించే భాగస్వాములలో ఏ ఒక్కరూ వారికోసం సిఫారసు చేయరు. మరి (వీళ్లు సైతం) తమ భాగస్వాములను త్రోసిపుచ్చుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

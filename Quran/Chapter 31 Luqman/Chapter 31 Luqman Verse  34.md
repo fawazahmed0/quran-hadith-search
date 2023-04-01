@@ -2676,6 +2676,12 @@ Niścayaṅgā, ā (antima) ghaḍiya jñānaṁ, kēvalaṁ allāh ku mātramē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిస్సందేహంగా ప్రళయానికి సంబంధించిన జ్ఞానం అల్లాహ్‌ వద్ద మాత్రమే ఉంది. ఆయనే వర్షాన్ని కురిపిస్తున్నాడు. మాతృ గర్భాలలో ఏముందో ఆయనకు తెలుసు. తాను రేపు ఏం చేయనున్నదో ఏ ప్రాణీ ఎరుగదు. తాను ఏ గడ్డపై మరణిస్తాడో కూడా ఎవరికీ తెలీదు. అల్లాహ్‌యే సర్వజ్ఞాని, అన్నీ తెలిసినవాడు (అని తెలుసుకోండి)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

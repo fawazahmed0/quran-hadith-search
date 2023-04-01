@@ -2676,6 +2676,12 @@ mariyu bhūmilōni adhika saṅkhyākulanu nīvu anusaristē vāru ninnu allāh 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) భూమిపై నివసించే అధిక సంఖ్యాకులు చెప్పినట్లుగా నీవు మసలుకున్నావంటే వారు నిన్ను అల్లాహ్‌ మార్గం నుంచి అపమార్గం పట్టిస్తారు. వారు వట్టి ఊహలను అనుసరిస్తారు. కేవలం అంచనాలతో మాట్లాడతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

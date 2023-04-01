@@ -2676,6 +2676,12 @@ Tēlikagānainā sarē, baruvugā nainā sarē bayaludēraṇḍi. Mariyu mī sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తేలిక అనిపించినాసరే, బరువు అనిపించినాసరే – బయలుదేరండి. దైవ మార్గంలో మీ ధన ప్రాణాలొడ్డి పోరాడండి. మీరు గనక తెలుసుకోగలిగితే ఇదే మీ కొరకు మేలైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

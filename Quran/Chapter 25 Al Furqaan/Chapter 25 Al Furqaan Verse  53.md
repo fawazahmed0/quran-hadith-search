@@ -2676,6 +2676,12 @@ Mariyu reṇḍu samudrālanu kalipi un̄cina vāḍu āyanē! Okaṭēmō rucik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+రెండు సముద్రాలను – పరస్పరం – కలిపి ఉంచినవాడు ఆయనే. వాటిలో ఒకటి తియ్యనిది, రుచికరమైనది. మరొకటి ఉప్పగా, చేదుగా ఉంది. ఆ రెండింటి మధ్య ఒక తెర (అడ్డు గోడగా) ఉంది. అది వాటిని వేరుగా ఉంచుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

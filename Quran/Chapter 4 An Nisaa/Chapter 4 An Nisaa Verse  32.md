@@ -2676,6 +2676,12 @@ mariyu allāh mīlō kondariki marikondaripai iccina ghanatanu mīru āśin̄cak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ మీలో కొందరికి మరికొందరిపై దేని మూలంగా విశిష్ఠతను ప్రసాదించాడో దానికోసం ఆశపడకండి. పురుషులు సంపాదించిన దానినిబట్టి వారి భాగం వారికుంటుంది. అలాగే స్త్రీలు సంపాదించిన దానినిబట్టి వారి భాగం వారికుంటుంది. కాకపోతే మీరు అల్లాహ్‌ నుండి ఆయన అనుగ్రహాన్ని అర్థిస్తూ ఉండండి. నిశ్చయంగా అల్లాహ్‌ ప్రతిదీ తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

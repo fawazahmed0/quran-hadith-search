@@ -2676,6 +2676,12 @@ durmārgula vaipunaku mīru moggakaṇḍi. Narakāgnilō cikkukuṇṭāru. Ā 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+చూడండి! ఎట్టి పరిస్థితిలోనూ దుర్మార్గుల పక్షాన మొగ్గకండి. మొగ్గారో మీక్కూడా నిప్పు (నరకాగ్ని) అంటుకుంటుంది. మరి అల్లాహ్‌ తప్ప మిమ్మల్ని ఆదుకునే వాడెవడూ ఉండడు. మీకు సహాయమూ అందదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

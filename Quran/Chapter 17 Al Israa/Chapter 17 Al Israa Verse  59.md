@@ -2676,6 +2676,12 @@ mariyu nidarśanālanu (āyāt lanu) pampakuṇḍā mam'malni ēdī āpalēdu. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పూర్వీకులు సూచనలను (మహిమలను) తిరస్కరించినందు వల్లనే మేము సూచనలను పంపటం ఆపేశాము. మేము సమూదు వారికి స్పష్టమైన సూచనగా ఆడ ఒంటెను ఇచ్చాము. కాని వారు దానిపై అఘాయిత్యానికి ఒడిగట్టారు. మేము (యదార్థానికి) ప్రజలను భయపెట్టడానికి మాత్రమే సూచనలను పంపిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

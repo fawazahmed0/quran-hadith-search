@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Āyanē mim'malni sr̥jin̄cāḍu. Mariyu āyanē mīku vin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు: “మిమ్మల్ని పుట్టించిన వాడు ఆయనే (అల్లాహ్ యే). మీ చెవులను, కళ్ళను, హృదయాలను చేసిన వాడూ ఆయనే. మీరు కృతఙ్ఞతలు తెలిపేది మాత్రం చాలా తక్కువ.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

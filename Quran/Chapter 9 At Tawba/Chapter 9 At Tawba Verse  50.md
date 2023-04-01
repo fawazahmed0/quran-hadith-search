@@ -2676,6 +2676,12 @@ umakku ētāvatu oru naṉmai ēṟpaṭṭāl, atu avarkaḷukkut tukkattait ta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీకు ఏదైనా మేలు కలిగితే వారికి అది బాధ కలిగిస్తుంది. ఒకవేళ మీపై ఏదైనా ఆపద వస్తే “(అలాంటిదేదో జరుగుతుందనే) మేము ముందుగానే జాగ్రత్త పడ్డామ”ని చెబుతూ, సంబరపడుతూ వెళ్ళిపోతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

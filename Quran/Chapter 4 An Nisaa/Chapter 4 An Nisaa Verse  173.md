@@ -2676,6 +2676,12 @@ kānī, evaraitē viśvasin̄ci satkāryālu cēstārō, vāriki āyana vāri pr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఎవరు విశ్వసించి, సత్కార్యాలు ఆచరించారో, వారికి వారి పూర్తి పుణ్య ఫలాన్ని వొసగటమేగాక, తన అనుగ్రహంతో మరింతగా ప్రసాదిస్తాడు. కాగా; (అల్లాహ్‌ దాస్యాన్ని) చిన్నతనంగా తలపోసి తలబిరుసులుగా ప్రవర్తించిన వారికి ఆయన బాధాకరమైన శిక్షను విధిస్తాడు. అల్లాహ్‌ తప్ప తమను ఆదుకునే రక్షకుణ్ణిగానీ, సహాయకుణ్ణిగానీ వారు పొందలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh mariyu āyana pravaktanu vyatirēkin̄cēvāru, tamaku p�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్ ఆయన ప్రవక్తకు వ్యతిరేకంగా వ్యవహరించేవారు వారి పూర్వీకులు పరాభవం పాలైనట్లే పరాభవం పాలవుతారు. నిశ్చయంగా మేము స్పష్టమైన నిదర్శనాలను అవతరింపజేసి ఉన్నాము. అవిశ్వాసులకు అవమానకరమయిన శిక్ష తథ్యం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

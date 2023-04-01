@@ -2676,6 +2676,12 @@ akasalalo mariyu bhumilo unnadanta allah de! Miru mi manas'sulalo unnadi, velubu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలో, భూమిలో ఉన్న ప్రతి వస్తువూ అల్లాహ్‌దే. మీ మనసులలో ఉన్న దాన్ని మీరు వెల్లడించినా లేక దాచిపెట్టినా అల్లాహ్‌ మీ నుండి దాని లెక్క తీసుకుంటాడు. ఆ తరువాత ఆయన తాను కోరిన వారిని క్షమిస్తాడు, తాను కోరిన వారిని శిక్షిస్తాడు. అల్లాహ్‌కు అన్నింటిపై అధికారం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

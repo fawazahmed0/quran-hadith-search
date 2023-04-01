@@ -2676,6 +2676,12 @@ mariyu mīru kolici iccēṭappuḍu kolata pātra niṇḍugā kolici ivvaṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు కొలచి ఇస్తున్నప్పుడు నిండుగా కొలిచి ఇవ్వండి. సరైన త్రాసుతో తూయండి. ఇదే ఉత్తమమైనది. పర్యవసానం రీత్యా కూడా ఇదే మేలైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

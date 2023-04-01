@@ -2676,6 +2676,12 @@ vāru (tama duṣkarmalanu) mānavula nuṇḍi dācagalaru, kāni allāh nuṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ప్రజల నుంచి దాక్కోగలరు. కాని అల్లాహ్‌ నుంచి దాక్కోలేరు. వారు రాత్రివేళల్లో అల్లాహ్‌ ఇష్టపడని విషయాలపై రహస్య మంతనాలు సాగిస్తున్నప్పుడు ఆయన వారితో పాటు ఉంటాడు. వారి కర్మలన్నింటినీ ఆయన చుట్టుముట్టి ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

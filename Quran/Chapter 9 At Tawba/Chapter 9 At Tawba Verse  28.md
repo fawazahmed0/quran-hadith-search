@@ -2676,6 +2676,12 @@ O visvasulara! Niscayanga, bahudaivaradhakulu (musrikin) aparisud'dhulu (najs). 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! ముష్రిక్కులు అశుద్ధులు. కాబట్టి ఈ ఏడాది తరువాత వారు మస్జిదె హరామ్‌ దరిదాపులకు కూడా రాకూడదు. ఒకవేళ మీకు దారిద్య్ర భయం ఉంటే అల్లాహ్‌ గనక తలిస్తే తన కృపతో మిమ్మల్ని సంపన్నులుగా చేస్తాడు. అల్లాహ్‌ అన్నీ తెలిసినవాడు, వివేకవంతుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāstavāniki, nēnu vārini, nī kṣamābhikṣa vaipunaku pilicinappu�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నీ క్షమాబిక్షకై నేను వారిని పిలిచినప్పుడల్లా వారు తమ వ్రేళ్ళను తమ చెవులలో పెట్టుకున్నారు. తమ వస్త్రాలను తమపైన కప్పుకున్నారు. మరీ మొండి ఘటాలుగా మారిపోయారు. మహా గర్విష్టుల్లా ప్రవర్తించారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

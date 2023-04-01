@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulu ilā aṇṭāru: "Mīru (cacci) dum'mugā māri, cell�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసులు ఇలా అనసాగారు: “మీరు పగిలి తునాతునకలై పోయిన తరువాత, మీరు మళ్లీ సరికొత్త సృష్టిలోనికి వస్తారని మీకు సమాచారం అందజేసే వ్యక్తిని మీకు చూపమంటారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāru ilā aṇṭāru: "Itani prabhuvu taraphu nuṇḍi itani mīda adb
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇతని ప్రభువు తరఫున ఇతనిపై కొన్ని నిదర్శనాలు (మహిమలు) ఎందుకు అవతరింపజేయబడలేదు?” అని వారు అన్నారు. “నిదర్శనాలన్నీ అల్లాహ్‌ వద్ద ఉన్నాయి. నేను స్పష్టంగా హెచ్చరించే వాణ్ణి మాత్రమే” అని వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

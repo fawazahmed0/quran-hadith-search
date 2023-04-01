@@ -2676,6 +2676,12 @@ civaraku sūryuḍu udayin̄cu (naṭlu kanabaḍē) sthalāniki cērāḍu. Akk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతను సూర్యుడు ఉదయించే ప్రదేశానికి చేరుకున్నప్పుడు, అక్కడ సూర్యుడు ఒక జాతి వారిపై ఉదయించటం చూశాడు. మేము వారికీ – సూర్యునికీ మధ్య ఎలాంటి అడ్డునూ ఉంచలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

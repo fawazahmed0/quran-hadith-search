@@ -2676,6 +2676,12 @@ mariyu allāh mariyu āyana sandēśaharuḍu, oka viṣayanlō nirṇayaṁ tī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(చూడండి) అల్లాహ్‌ మరియు ఆయన ప్రవక్త ఏ వ్యవహారం లోనయినా ఒక నిర్ణయం చేసిన తరువాత విశ్వాసులైన ఏ పురుషునికి గానీ, స్త్రీకి గానీ తమకు వర్తించే ఆ వ్యవహారంలో ఎలాంటి స్వయం నిర్ణయాధికారం మిగిలి ఉండదు. ఒకవేళ ఎవరైనా అల్లాహ్‌కు, ఆయన ప్రవక్తకు అవిధేయత చూపితే అతను స్పష్టమైన అపమార్గానికి లోనైనట్లే (జాగ్రత్త)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

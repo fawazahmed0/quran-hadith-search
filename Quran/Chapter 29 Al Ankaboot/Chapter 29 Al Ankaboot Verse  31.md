@@ -2676,6 +2676,12 @@ Mariyu mā dūtalu ibrāhīm vaddaku śubhavārta tīsikoni vaccinapuḍu vāran
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము పంపిన దూతలు శుభవార్తను తీసుకుని ఇబ్రాహీము (అలైహిస్సలాం) వద్దకు చేరుకున్నప్పుడు, “ఈ పట్టణ వాసులను మేము నాశనం చేయనున్నాము. నిశ్చయంగా ఇక్కడి వాళ్ళు పరమ దుర్మార్గులుగా తయారయ్యారు” అని చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

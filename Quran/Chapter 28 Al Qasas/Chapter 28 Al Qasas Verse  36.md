@@ -2676,6 +2676,12 @@ a taruvata musa ma spastamaina sucanalanu tisukoni vari vaddaku poga varannaru: 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత మూసా, మేము ప్రసాదించిన స్పష్టమైన మహిమలను తీసుకుని వారి వద్దకు వచ్చినప్పుడు, “ఇది కాల్పనిక మాంత్రిక విద్యలా ఉంది. మేము మా పూర్వీకులైన మా తాత ముత్తాతల కాలంలో కూడా దీన్ని గురించి ఎన్నడూ వినలేదు” అని వారన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

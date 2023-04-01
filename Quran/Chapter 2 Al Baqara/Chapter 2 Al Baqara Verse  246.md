@@ -2676,6 +2676,12 @@ Emi? Musa (niryanam) taruvata israyilu santati nayakulu, tama oka pravaktato: "N
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా తరువాత ఇస్రాయీలు సంతతి పెద్దల (రెండు నాల్కల ధోరణి)ని గురించి నువ్వు ఆలోచించావా? “మేము దైవమార్గంలో పోరాడేందుకుగాను మాకోసం ఎవరినయినా రాజుగా నియమించండి” అని వారు తమ ప్రవక్తను కోరారు. దానికి ఆ ప్రవక్త, “తీరా యుద్ధం విధించబడ్డాక మీరు వెనుకంజ వేస్తారేమో!” అని అన్నాడు. దానికి వారు, “మేము ఇప్పటికే ఇళ్లనుంచి తరిమివేయబడ్డాము. మా పిల్లలకు దూరం చేయబడ్డాము. అలాంటప్పుడు మేము దైవమార్గంలో పోరాడకుండా ఉండటం అనేది ఎలా సాధ్యం?” అని (కడు గంభీరంగా) పలికారు. తీరా యుద్ధం విధిగా చేయబడినప్పుడు, వారిలో కొద్ది మంది మినహా మిగిలిన వారంతా వెన్నుచూపారు. అల్లాహ్‌ దుర్మార్గులను బాగా ఎరుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

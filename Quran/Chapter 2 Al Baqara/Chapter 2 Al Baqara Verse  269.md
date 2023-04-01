@@ -2676,6 +2676,12 @@ ayana tanu korina variki vivekanni prasadistadu. Mariyu vivekam pondina vadu, va
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన తాను కోరిన వారికి విజ్ఞతా వివేచనలను ప్రసాదిస్తాడు. ఎవరికి విజ్ఞతా వివేచనలు వొసగబడ్డాయో అతనికి ఎన్నో మేళ్లు వొసగబడినట్లే. హితబోధను బుద్ధిమంతులు తప్ప మరొకరు గ్రహించరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

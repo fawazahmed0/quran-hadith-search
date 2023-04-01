@@ -2676,6 +2676,12 @@ mariyu mēmu tūr koṇḍa kuḍivaipu nuṇḍi atanini (mūsānu) pilici, ata
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేమతన్ని తూరు పర్వతం కుడివైపు నుంచి పిలిచాము. రహస్య సంభాషణ నిమిత్తం అతన్ని దగ్గరకు చేర్చాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

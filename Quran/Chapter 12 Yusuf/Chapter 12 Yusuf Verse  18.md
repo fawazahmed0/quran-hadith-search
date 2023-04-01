@@ -2676,6 +2676,12 @@ vāru atani aṅgiki būṭakapu raktānni pūsi teccāru. (Vāri taṇḍri) an
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతని (యూసుఫ్‌) చొక్కాను బూటకపు (నకిలీ) రక్తంతో రంగరించి తెచ్చారు. “(ఇది నిజం కాదు). ఇది మీ మనోకల్పితమైన మాట మాత్రమే. సరే. ఇక ఓర్పు వహించటమే ఉత్తమం. మీరు కల్పించే మాటలపై నేను అల్లాహ్‌ సహాయాన్నేఅర్థిస్తున్నాను” అని ఆయన (యాఖూబు) పలికారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

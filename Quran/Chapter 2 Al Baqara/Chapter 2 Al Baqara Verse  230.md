@@ -2676,6 +2676,12 @@ Okavēḷa ataḍu (mūḍavasāri) viḍākulistē, ā tarvāta ā strī atanik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఆమెకు (మూడవసారి) గనక విడాకులిస్తే, ఆ స్త్రీ ఇతనిని తప్ప వేరొక వ్యక్తిని వివాహం చేసుకోనంతవరకూ ఇతని కోసం ఆమె ధర్మసమ్మతం కాజాలదు. ఆ తరువాత అతను (రెండవ భర్త) కూడా ఆమెకు విడాకులిస్తే, మళ్ళీ వీరిద్దరూ అల్లాహ్‌ (విధించిన) హద్దులకు కట్టుబడి ఉండగలమన్న నమ్మకం ఉండి వివాహ బంధంలోకి రాదలిస్తే అందులో తప్పులేదు. ఇవి అల్లాహ్‌ విధించిన హద్దులు. తెలుసుకోగలవారికి ఆయన వీటిని స్పష్టపరుస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

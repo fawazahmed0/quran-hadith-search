@@ -2676,6 +2676,12 @@ Mariyu vāritō: "Allāh avatarimpajēsina vāṭi (ādēśāla) vaipunaku mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్‌ అవతరింపజేసిన దాని వైపుకు, ప్రవక్త (సఅసం) వైపుకు రండి” అని వారితో అన్నప్పుడల్లా, ఈ కపటులు నీ నుండి అయిష్టంగా ముఖం త్రిప్పుకుని పోవటాన్ని నీవు గమనిస్తావు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ niścayaṅgā, ī khur'ān isrāyīl santati vāru vibhēdistū vunna pekku vi�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా ఈ ఖుర్‌ఆన్‌ ఇస్రాయీలు వంశీయులకు వారు విభేదించుకునే ఎన్నో విషయాల (లోని వాస్తవికత)ను విడమరచి చెబుతున్నది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ika daivapravaktalu vāri vaddaku vāri mundu nuṇḍi mariyu vāri venuka nu�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రవక్తలు వారి దగ్గరకు వారి ముందు వైపు నుంచీ, వెనుక వైపునుంచీ వచ్చి “మీరు అల్లాహ్‌ను తప్ప మరొకరిని ఆరాధించకండి” అని చెప్పినపుడు, “మా ప్రభువు గనక కోరితే, ఆయన (తన) దూతలనే పంపి ఉండేవాడు. అందుకే మీకు ఇచ్చి పంపబడిన దానిని మేము త్రోసిపుచ్చుతున్నాం” అని చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

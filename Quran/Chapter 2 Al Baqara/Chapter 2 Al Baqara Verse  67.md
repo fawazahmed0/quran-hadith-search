@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi) mūsā tana jāti vāritō: "Allāh mim'ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మూసా తన జాతివారితో, “అల్లాహ్‌ మిమ్మల్ని ఒక ఆవును ‘జిబహ్‌’ చేయవలసిందిగా ఆజ్ఞాపిస్తున్నాడు” అని అన్నప్పుడు, “ఏమిటీ, మాతో వేళాకోళం చేస్తున్నావా?” అని వారు ప్రశ్నించారు. దానికి అతను, “నేనలాంటి మూర్ఖుల్లో ఒకణ్ణి కాకుండా ఉండేందుకు అల్లాహ్‌ శరణు వేడుతున్నాను” అని జవాబిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

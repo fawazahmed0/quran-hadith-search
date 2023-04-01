@@ -2676,6 +2676,12 @@ O pravakta! Niscayanga, memu niku: Nivu mahr cellincina ni bharyalanu mariyu all
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! నువ్వు మహర్‌ సొమ్మును చెల్లించిన నీ భార్యలను నీ కోసం ధర్మ సమ్మతం చేశాము. ఇంకా – విజయ ప్రాప్తిగా అల్లాహ్‌ నీకు ప్రసాదించిన బానిస స్త్రీలను, నీతోపాటు వలస వచ్చిన నీ పినతండ్రి, పెత్తండ్రి కుమార్తెలను, నీ మేనత్తల పుత్రికలను, నీ మేనమామ కూతుళ్ళను, నీ పిన్నమ్మ, పెద్దమ్మల కుమార్తెలను కూడా నీకు ధర్మసమ్మతం చేశాము. మరి విశ్వసించిన ఒక స్త్రీ తనను తాను దైవప్రవక్తకు అర్పించుకోదలిస్తే- అట్టి పరిస్థితిలో దైవప్రవక్త కూడా ఆమెను పెండ్లాడదలిస్తే- పెండ్లాడవచ్చు. (ఓ ప్రవక్తా!) ఈ మినహాయింపు విశ్వాసులందరికీ కాకుండా నీకొక్కనికే ప్రత్యేకం. సాధారణ ముస్లింలకు వారి భార్యల, వారి బానిస స్త్రీల విషయంలో ఏ ఏ ఆదేశాలను నిర్థారించి ఉన్నామో మాకు బాగా తెలుసు. నీకెలాంటి ఇబ్బందీ కలుగకుండా ఉండేటందుకే (మేము నీకు ప్రత్యేక రాయితీలు ప్రకటించాము). అల్లాహ్‌ ఎంతగానో క్షమించేవాడు, మరెంతగానో కరుణించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

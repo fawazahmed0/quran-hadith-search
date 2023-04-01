@@ -2676,6 +2676,12 @@ niṣid'dha māsāniki badulu niṣid'dha māsamē mariyu niṣid'dha sthalālal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిషిద్ధమాసం నిషిద్ధమాసానికి బదులుగా ఉన్నది. నిషేధాజ్ఞలు సరిసమానంగా వర్తిస్తాయి. మీపై ఎవరయినా దౌర్జన్యానికి ఒడిగడితే మీరు కూడా వారిపై ఆ మేరకు ప్రతీకారం తీర్చుకోండి. అల్లాహ్‌కు భయపడుతూ ఉండండి. అల్లాహ్‌ భక్తిగలవారికి తోడుగా ఉన్నాడన్న విషయాన్ని తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

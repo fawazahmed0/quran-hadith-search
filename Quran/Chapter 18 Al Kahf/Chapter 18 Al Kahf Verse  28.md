@@ -2676,6 +2676,12 @@ mariyu (ō pravaktā!) Evaru āyana mukha darśanaṁ (prasannatanu) kōrutū, u
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ ప్రభువును ఉదయం, సాయంత్రం వేడుకుంటూ, ఆయన ప్రసన్నతను చూరగొనే ప్రయత్నంలో ఉన్నవారి సహచర్యం పట్ల నీ మనసును సంతృప్త పరచుకో. జాగ్రత్త! వారి నుంచి నీ దృష్టిని మరల్చుకోకు. ప్రాపంచిక జీవితపు అందాలను నీవు కోరుకుంటావేమో! చూడు! ఎవరి హృదయాన్ని మేము మా ధ్యానం పట్ల నిర్లక్ష్యానికి లోనుచేశామో, ఎవడు తన మనోవాంఛల వెనుక పరుగులు తీస్తున్నాడో, ఎవడి పనితీరు మితిమీరిపోయిందో అతనికి విధేయత చూపకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

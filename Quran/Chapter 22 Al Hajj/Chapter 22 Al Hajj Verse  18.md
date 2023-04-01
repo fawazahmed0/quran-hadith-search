@@ -2676,6 +2676,12 @@ Emi? Niku teliyada? Niscayanga, akasalalo unnavanni mariyu bhumilo unnavanni mar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆకాశాలలో ఉన్నవారూ, భూలోకవాసులు, సూర్యచంద్రులూ, నక్షత్రాలు, పర్వతాలు, వృక్షాలు, జంతువులు, చాలా మంది మనుషులుకూడా అల్లాహ్‌ ముందు మోకరిల్లడాన్ని నువ్వు గమనించటం లేదా? (దైవ) శిక్షకు అర్హులైన వారు కూడా చాలా మంది ఉన్నారు. అల్లాహ్‌ పరాభవం పాల్జేసిన వానిని ఎవరూ ఆదరించరు. అల్లాహ్‌ తాను కోరినదాన్ని చేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

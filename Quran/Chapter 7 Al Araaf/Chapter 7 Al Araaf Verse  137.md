@@ -2676,6 +2676,12 @@ mariyu vāri sthānanlō balahīnulugā en̄cabaḍēvārini mēmu śubhālatō 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అత్యంత బలహీన వర్గంగా పరిగణించబడే జనులను మేము ఆ భూభాగంలోని తూర్పుపడమరలకు వారసులుగా చేశాము. అందులో శుభాలు నింపాము. ఈ విధంగా ఇస్రాయీలు సంతతివారు పాటించిన సహనం మూలంగా, నీ ప్రభువు వారి విషయంలో చేసిన మంచి వాగ్దానం నెరవేరింది. ఇంకా ఫిరౌనూ, అతని జాతివారూ చేసిన నిర్మాణాలనూ, లేపిన భవనాలనూ మేము నేలమట్టం చేసేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

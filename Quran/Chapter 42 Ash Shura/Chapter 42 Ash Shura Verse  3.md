@@ -2676,6 +2676,12 @@ Allohi şikastnopaziri hakim ʙar tu va pajomʙaroni peş az tu cunin vahj mefir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇదే విధంగా అపార శక్తిమంతుడూ, వివేచనాపరుడైన అల్లాహ్‌ నీకూ, నీకు పూర్వం గతించిన వారికీ వహీ (సందేశము)ని పంపిస్తూ వచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

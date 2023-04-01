@@ -2676,6 +2676,12 @@ allāh, ē prāṇi painanū dāni śaktiki min̄cina bhāraṁ vēyaḍu. Tānu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఏ ప్రాణిపైనా దాని శక్తికి మించిన భారం వేయడు. అది ఏ పుణ్యాన్ని సంపాదించినా దానికే లభిస్తుంది. మరి అది ఏ పాపాన్ని మూటగట్టుకున్నా దాని ఫలితాన్ని అది చవి చూస్తుంది. (ఇలా ప్రార్థిస్తూ ఉండండి): “ఓ మా ప్రభూ! మేము మరచిపోయినా, లేక మేము పొరబడినా మమ్మల్ని నిలదీయకు. మా ప్రభూ! మాకు పూర్వం గతించిన వారిపై వేసినటువంటి భారాన్ని మాపై వేయకు. మా ప్రభూ! మేము మోయలేనటువంటి బరువును మాపై మోపకు. మమ్మల్ని మన్నించి వదలిపెట్టు. మాకు క్షమాభిక్ష పెట్టు. మాపై దయజూపు. నీవే మా సంరక్షకుడవు. అందుచేత అవిశ్వాసులకు వ్యతిరేకంగా మాకు సహాయపడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāstavaṅgā allāh nu kalusukōvaṭānni abad'dhaṅgā parigaṇin̄cē vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ను కలుసుకోవలసి ఉందనే విషయాన్ని ధిక్కరించినవారు నిశ్చయంగా నష్టానికి గురయ్యారు. ఆఖరికి ఆ నిర్థారిత సమయం అకస్మాత్తుగా వచ్చిపడినప్పుడు, “అయ్యో! ఈ విషయాన్ని మేము ఎంత నిర్లక్ష్యం చేశాం!” అని బాధపడతారు. వాళ్ల పరిస్థితి ఎలా ఉంటుందంటే, వారు తమ బరువులను తమ వీపులపై మోస్తూ ఉంటారు. తెలుసుకోండి! వారు మోసే బరువు చాలా చెడ్డది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

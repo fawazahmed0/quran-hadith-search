@@ -2676,6 +2676,12 @@ Appuḍu allāh ilā selaviccāḍu: "Ī rōju satyavantulaku vāri satyaṁ lā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ ఈ విధంగా సెలవిస్తాడు: “ఈ రోజు సత్యవంతులకు వారి సత్యం ప్రయోజనకరమవుతుంది. క్రింద కాలువలు ప్రవహించే (స్వర్గ) వనాలు వారికి ప్రాప్తిస్తాయి. అందులో వారు కలకాలం ఉంటారు. అల్లాహ్‌ వారి పట్ల ప్రసన్నుడయ్యాడు. వారు అల్లాహ్‌ పట్ల సంతుష్టులయ్యారు. వాస్తవానికి గొప్ప సాఫల్యమంటే ఇదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

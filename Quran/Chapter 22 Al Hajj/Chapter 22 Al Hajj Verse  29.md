@@ -2676,6 +2676,12 @@ taruvāta vāru hajj ācārālu (taphas) mariyu mokkubaḍulu (nujur) pūrti cē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత వారు తమ మురికిని దూరం చేసుకోవాలి, తమ మొక్కుబడులను చెల్లించాలి.(అనంతరం దేవుని) ఆ ప్రాచీన గృహానికి ప్రదక్షిణ చేయాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

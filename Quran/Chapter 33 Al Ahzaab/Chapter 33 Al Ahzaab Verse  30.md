@@ -2676,6 +2676,12 @@ o pravakta strilara! Milo evaraina spastanga anucitamaina paniki palpadite ameku
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్త సతీమణులారా! మీలో ఎవరయినాసరే స్పష్టంగా అసభ్యకరమైన చేష్టకి పాల్పడినట్లయితే ఆమెకు రెండింతల శిక్ష విధించబడుతుంది. ఇది అల్లాహ్‌కు చాలా తేలిక
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

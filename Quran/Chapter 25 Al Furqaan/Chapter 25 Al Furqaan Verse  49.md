@@ -2676,6 +2676,12 @@ dāni dvārā oka mr̥ta pradēśāniki prāṇaṁ pōyaṭāniki mariyu dānin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తద్వారా మృత ప్రదేశాన్ని బ్రతికించటానికి, మా సృష్టితాల లోని అనేక జంతువులకు, మనుషులకు (నీరు) త్రాగించటానికి (మేము ఈ ఏర్పాటును చేస్తున్నాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

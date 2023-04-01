@@ -2676,6 +2676,12 @@ vyabhicāriṇi mariyu vyabhicāruḍu, ī iddarilō prati okkariki nūrēsi kor
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వ్యభిచారం చేసే స్త్రీ, వ్యభిచారం చేసే పురుషుడు – వారిద్దరిలో ఒక్కొక్కరికి నూరేసి కొరడా దెబ్బలు కొట్టండి. మీరు అల్లాహ్‌పై, అంతిమదినంపై విశ్వాసం గలవారే అయితే వారిపై దైవాజ్ఞను (షరీయతు ప్రకారం శిక్షను) విధించేటప్పుడు మీకు ఎంతమాత్రం జాలి కలగకూడదు. పైగా వారిని శిక్షించే సమయంలో ముస్లింలలో కొంతమంది అక్కడ ఉండాలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

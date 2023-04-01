@@ -2676,6 +2676,12 @@ i durmargulu (punarut'thana dinana) tamu cesina karmala phalitanni cusi bhayapad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ దుర్మార్గులు తాము చేసుకున్న దానిపై భయపడటం నువ్వు చూస్తావు. అది (ఆ పాపం) వారిపై పడి తీరుతుంది. మరెవరయితే విశ్వసించి, సత్కార్యాలు చేశారో వారు స్వర్గవనాలలో ఉంటారు. వారు కోరినదల్లా వారికి వారి ప్రభువు వద్ద లభిస్తుంది. అదే అసలు గొప్ప అనుగ్రహం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

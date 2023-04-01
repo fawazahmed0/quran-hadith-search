@@ -2676,6 +2676,12 @@ nī prabhuvu yokka bahumānālu vīriki mariyu vārikī andarikī svēcchagā pr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికీ, వీరికీ – ప్రతి ఒక్కరికీ – మేము (ప్రపంచంలో) నీ ప్రభువు అనుగ్రహాల నుంచి వొసగుతూపోతున్నాము. నీ ప్రభువు ప్రసాదాలు (ఎవరి విషయంలో కూడా) ఆగిపోలేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

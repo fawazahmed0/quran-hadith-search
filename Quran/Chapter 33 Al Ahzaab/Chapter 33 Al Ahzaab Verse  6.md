@@ -2676,6 +2676,12 @@ viśvāsulaku (muslinlaku), daivapravakta svayaṅgā tama kaṇṭē kūḍā m
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దైవ ప్రవక్తకు విశ్వాసులపై స్వయంగా వారి ఆత్మల కన్నా ఎక్కువ హక్కు ఉంది. అతని భార్యలు విశ్వాసుల కొరకు తల్లులు. మరి దైవగ్రంథం ప్రకారం రక్తసంబంధీకులు ఇతర విశ్వాసుల, ముహాజిర్ల కన్నా పరస్పరం ఎక్కువ హక్కుదారులు. ఒకవేళ మీరు మీ స్నేహితుల యెడల సద్వ్యవహారం (ఏదన్నా) చేయదలిస్తే అది వేరే విషయం. ఈ ఉత్తర్వు (దైవ) గ్రంథంలో లిఖితమై ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu vāṭilō vāriki ennō prayōjanālu mariyu pānīyālu (pālu) unnāyi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా వాటి ద్వారా వారికి మరెన్నో ప్రయోజనాలు చేకూరుతున్నాయి. త్రాగే (పాల) పదార్థాలు లభ్యమవుతున్నాయి. అయినా వారు కృతజ్ఞులుగా మసలుకోరా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

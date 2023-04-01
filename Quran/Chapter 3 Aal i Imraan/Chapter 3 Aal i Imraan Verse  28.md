@@ -2676,6 +2676,12 @@ viśvāsulu - tama tōṭi viśvāsulanu viḍici - satyatiraskārulanu snēhitu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులు తమ తోటి విశ్వాసులను వదలి అవిశ్వాసులను స్నేహితులుగా చేసుకోరాదు. అలా చేసేవాడు ఏ విషయంలోనూ అల్లాహ్‌తో సంబంధం లేనివాడు. అయితే ఏ విధంగా నయినా వారి కీడు నుంచి రక్షణ పొందే ఉద్దేశ్యంతో మీరు మైత్రికోసం ప్రయత్నిస్తే అది వేరే విషయం. అల్లాహ్‌ తనకు మాత్రమే భయపడవలసిందిగా మిమ్మల్ని హెచ్చరిస్తున్నాడు. కడకు (మీరు) మరలిపోవలసింది అల్లాహ్‌ వద్దకే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

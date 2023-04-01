@@ -2676,6 +2676,12 @@ ilā anu: "Mīru mī (sampadanu) iṣṭapūrvakaṅgā kharcu cēsinā, lēdā 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారికి చెప్పు: “మీరు ఇష్టపూర్వకంగా ఖర్చుపెట్టినా, ఇష్టం లేకుండా ఖర్చుపెట్టినా అది ఎట్టి పరిస్థితిలోనూ స్వీకారయోగ్యమవదు. నిశ్చయంగా మీరు అవిధేయులే.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

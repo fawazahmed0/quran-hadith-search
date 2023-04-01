@@ -2676,6 +2676,12 @@ nām uṅkaḷukku aḷittuḷḷa tūymaiyāṉavaṟṟiliruntu uṇṇuṅka�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ప్రసాదించిన పవిత్రమైన ఆహార పదార్థాలను తినండి. అందులో మితి మీరకండి. మితిమీరితే మీపై నా ఆగ్రహం విరుచుకుపడుతుంది. నా ఆగ్రహం ఎవరిపై విరుచుకుపడినా వాడు పతనమైనట్టే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

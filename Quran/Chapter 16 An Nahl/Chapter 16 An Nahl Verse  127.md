@@ -2676,6 +2676,12 @@ akave, (napiye!) Cakittukkolviraka. Eninum, allahvin utaviyinri cakittuk kolla u
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌- స!) నువ్వు సహనం వహించు. (అయితే) అల్లాహ్‌ తోడ్పాటు లేకుండా నువ్వు సహనం వహించలేవు. వారి పరిస్థితిపై బాధపడకు. వారు పన్నే కుట్రలు, కుయుక్తులకు లోలోపలే దుఃఖించకు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

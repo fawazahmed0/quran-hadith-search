@@ -2676,6 +2676,12 @@ Emi? Ya'akhub ku maranam samipincinappudu, miru akkada unnara?" Appudatanu tana 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, యాఖూబ్‌ మరణ ఘడియల్లో ఉన్నప్పుడు మీరక్కడ ఉన్నారా? ఆ సమయంలో ఆయన తన సంతానాన్నుద్దేశించి, “నా తదనంతరం మీరు దేనిని ఆరాధిస్తారు?” అని అడిగాడు. దానికి వారంతా, “మీ ఆరాధ్య దైవాన్ని, మీ పితామహులగు ఇబ్రాహీం, ఇస్మాయీలు, ఇస్‌హాఖ్‌ల ఆరాధ్యదైవం అయిన ఏకైక ఆరాధ్యుణ్ణి మాత్రమే ఆరాధిస్తాము, ఆయనకే విధేయులమై ఉంటాము” అని జవాబు ఇచ్చారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

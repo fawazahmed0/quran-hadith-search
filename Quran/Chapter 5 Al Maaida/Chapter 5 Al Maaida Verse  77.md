@@ -2676,6 +2676,12 @@ vētamuṭaiyavarkaḷē! Nīṅkaḷ uṅkaḷ mārkkattil uṇmaiyillātatai k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలా చెప్పేయి : “ఓ గ్రంథవహులారా! మీరు మీ ధర్మంలో అన్యాయంగా హద్దులు మీరకండి. పూర్వం తాము మార్గం నుంచి తప్పడమేగాక, ఎంతో మందిని మార్గం నుంచి తప్పించి రుజుమార్గ భ్రష్టులైనవారి మనోవాంఛలను అనుసరించకండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

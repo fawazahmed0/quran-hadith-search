@@ -2676,6 +2676,12 @@ vāru (māntrikulu) annāru: "Mā vaddaku vaccina spaṣṭamaina sūcanalanu ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు (మాంత్రికులు) ఈ విధంగా సమాధానమిచ్చారు: “మా వద్దకు వచ్చేసిన స్పష్టమైన నిదర్శనాలపై, మమ్మల్ని సృష్టించిన వానిపైనీకు ప్రాధాన్యతనివ్వటమా?!అసంభవం. ఇప్పుడు నువ్వేం చేస్తావో చేసుకో. నువ్వేం నిర్ణయం చేసినా అది ప్రాపంచిక జీవితం వరకే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ tananu islām vaipunaku pilicinappuḍu, allāh mīda apanindalu mōpē vāni ka
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇస్లాం వైపు తనను ఆహ్వానించబడుతున్నప్పటికీ అల్లాహ్ పై అబద్ధపు నిందలను కల్పించేవాడికంటే పరమ దుర్మార్గుడెవడుంటాడు, ఇలాంటి దుర్మార్గులకు అల్లాహ్ సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

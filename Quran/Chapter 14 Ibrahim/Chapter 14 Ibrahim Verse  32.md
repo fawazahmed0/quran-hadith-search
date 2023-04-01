@@ -2676,6 +2676,12 @@ Allāh! Āyanē, bhūmyākāśālanu sr̥ṣṭin̄cāḍu. Mariyu ākāśaṁ n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలను సృష్టించి, ఆకాశాల నుండి వర్షాన్ని కురిపించి, తద్వారా మీ ఆహారం కోసం పండ్లు ఫలాలను ఉత్పన్నం చేసినవాడే అల్లాహ్‌. ఆయనే తన ఆజ్ఞతో సముద్రంలో నౌకలు నడవటానికి వాటిని మీకు లోబరచాడు. ఆయనే నదీ నదాలను మీ అధీనంలో ఉంచాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

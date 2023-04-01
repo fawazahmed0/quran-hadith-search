@@ -2676,6 +2676,12 @@ prati okkarikī vāri vāri karmalaku tagina sthānāluṇṭāyi. Mariyu idi v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రతి ఒక్కరికీ వారి వారి కర్మలను బట్టి తరగతులు లభిస్తాయి. వారి ఆచరణలకుగాను సంపూర్ణ ప్రతిఫలం లభించటానికి (ఈ తరగతులు నిర్ధారించబడ్డాయి). వారికి ఏ విధమైన అన్యాయం కూడా జరగదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

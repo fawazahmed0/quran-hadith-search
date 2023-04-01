@@ -2676,6 +2676,12 @@ alāṇṭi vāniki, mā sūcanalu (āyāt) vinipimpa jēsinappuḍu, atani re�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాడి ముందు మా వాక్యాలను చదివి వినిపించినప్పుడు వాడు అహంకారంతో, తాను వాటిని అసలు విననే లేదన్నట్లుగా, తన రెండు చెవులలోనూ చెవుడు ఉన్నట్లుగా ముఖం త్రిప్పుకుని పోతాడు. కాబట్టి నువ్వు వాడికి వ్యధాభరితమైన శిక్ష యొక్క శుభవార్తను వినిపించు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

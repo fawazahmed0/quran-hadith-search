@@ -2676,6 +2676,12 @@ evaraitē, allāh mārganlō tama dhanānni vyayaṁ cēsi, ā taruvāta tāmu c
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయితే దైవమార్గంలో తమ ధనాన్ని ఖర్చు చేసిన తరువాత తమ దాతృత్వాన్ని మాటిమాటికీ చాటుతూ ఉండకుండా, (గ్రహీతల మనస్సును) నొప్పించకుండా జాగ్రత్త పడతారో, వారి ప్రతిఫలం వారి ప్రభువు వద్ద ఉంటుంది. వారికెలాంటి భీతిగానీ, దుఃఖంగానీ ఉండదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

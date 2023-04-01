@@ -2676,6 +2676,12 @@ vāriki, evaraitē allāh sandēśālanu andajēstārō mariyu kēvalaṁ āyana
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారంతా (దైవప్రవక్తలంతా) అల్లాహ్‌ సందేశాలను అందజేసేవారు. అల్లాహ్‌కు మాత్రమే భయపడేవారు. అల్లాహ్‌కు తప్ప వేరొకరికి భయపడేవారు కారు. లెక్క తేల్చటానికి అల్లాహ్‌ ఒక్కడే చాలు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

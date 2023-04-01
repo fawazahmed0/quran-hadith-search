@@ -2676,6 +2676,12 @@ mariyu āyanē, vāru nirāśakulōnai unnappuḍu varṣānni kuripistāḍu ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ప్రజలు ఆశలన్నీ వదులుకున్న మీదట (ఆకాశం నుంచి) వర్షాన్ని కురిపించేవాడు ఆయనే. ఆయనే తన కారుణ్యాన్ని వ్యాపింపజేస్తున్నాడు. ఆయనే కార్యసాధకుడు, ప్రశంసనీయుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

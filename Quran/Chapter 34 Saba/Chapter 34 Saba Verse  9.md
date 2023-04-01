@@ -2676,6 +2676,12 @@ Emiti? Varu tamaku mundunna mariyu tamaku venukanunna akasanni mariyu bhumini cu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారు తమకు ముందూ, వెనుకా ఉన్న ఆకాశాన్ని, భూమిని చూడటం లేదా? మేము గనక తలచుకుంటే వారిని భూమిలో కూరుకుపోయేలా చేయగలము లేదా వారిపై ఆకాశపు తునకను పడవేయగలము. (మనస్ఫూర్తిగా) మరలే ప్రతి దాసునికి ఇందులో సూచన ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

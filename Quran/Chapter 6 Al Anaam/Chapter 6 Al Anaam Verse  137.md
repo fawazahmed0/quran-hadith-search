@@ -2676,6 +2676,12 @@ mariyu idē vidhaṅgā cālā mandi bahudaivārādhakulaku (muṣrikīn laku) t
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఇలాగే చాలామంది ముష్రిక్కుల దృష్టిలో వారి సహవర్తులు, వారిని నాశనం చేయడానికీ, వారి మత ధర్మాన్ని వారికి సందేహాస్పదంగా చేయటానికి వారి సంతాన హత్యను వారికి మంచిదిగా తోచినట్లు చేశారు. అల్లాహ్‌ తలచుకుని ఉంటే వారలా చేసి ఉండేవారు కాదు. కనుక నీవు వారినీ, వారు కల్పించే కల్పనలనూ వదిలెయ్యి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ nāṉ uṅkaḷaip pōṉṟa oru maṉitaṉtāṉ - āṉāl eṉakku vahī a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికీ విధంగా చెప్పు: “నేనూ మీలాంటి మానవమాత్రుణ్ణే. ‘మీరందరి ఆరాధ్య దైవం అల్లాహ్‌ ఒక్కడే’ అనే వహీ (వాణి) నా వద్దకు వస్తుంది. కనుక మీరంతా ఆయన వైపునే (నిజాయితీగా) నిలబడండి. మన్నింపు కోసం ఆయన్ని అర్థించండి.” ఈ ముష్రిక్కులకు వినాశం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ o visvasulara! (Kevalam) parulaku cupataniki, tana dhanam kharcu cestu allah nu,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! తన ధనాన్ని పరుల మెప్పుకోసం ఖర్చుచేస్తూ, అల్లాహ్‌ను గానీ, అంతిమదినాన్ని గానీ విశ్వసించని వ్యక్తి మాదిరిగా మీరు మీ ఉపకారాన్ని చాటుకుని, (గ్రహీతల) మనస్సులను నొప్పించి మీ దానధర్మాలను వృధా చేసుకోకండి. అతని ఉపమానం కొద్దిగా మట్టి పేరుకుని ఉన్న నున్నని రాతి బండ వంటిది. దానిపై భారీవర్షం కురిసి, ఆ మట్టి కాస్తా కొట్టుకు పోయి, కటికరాయి మాత్రమే మిగులుతుంది. ఈ ప్రదర్శనా కారులకు తాము చేసుకున్న దానిలో నుంచి ఏమీ ప్రాప్తించదు. అల్లాహ్‌ సత్యతిరస్కారులకు సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

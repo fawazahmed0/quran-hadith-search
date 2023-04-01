@@ -2676,6 +2676,12 @@ Agar ʙo tu ej Rasul, axli kitoʙ dar ʙorai tavhid ʙa munoqişa ʙarxezand, ʙ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ అప్పటికీ వారు నీతో గొడవపడితే, ”నేనూ, నా అనుచరులు దైవ విధేయతకు తలఒగ్గాము” అని (ఓ ప్రవక్తా!) వారికి చెప్పేయి. ”మరి మీరు కూడా దైవాజ్ఞకు తలఒగ్గుతున్నారా?” అని గ్రంథవహులను, నిరక్షరాస్యులను అడుగు. ఒకవేళ వారేగనక ఒప్పుకున్నట్లయితే సన్మార్గ భాగ్యం పొందినట్లే. ఒకవేళ వారు విముఖతను ప్రదర్శిస్తే, సందేశాన్ని అందజేయటం వరకే నీ బాధ్యత. అల్లాహ్‌ తన దాసులను చూస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

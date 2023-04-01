@@ -2676,6 +2676,12 @@ appuḍu ā māntrikulu sāṣṭāṅgaṁ (sajdā)lō paḍutū annāru: "Mēm
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎట్టకేలకు మాంత్రికులంతా సాష్టాంగపడి, “మేము హారూన్‌, మూసాల ప్రభువును విశ్వసించాము” అని ఎలుగెత్తి చాటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

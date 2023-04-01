@@ -2676,6 +2676,12 @@ mariyu vāstavāniki nā taruvāta nā bandhuvulu (ēmi cēstārō ani) nēnu bh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా తదనంతరం నా ఆప్తుల గురించి నాకు భయం పట్టుకుంది. మరేమో నా భార్య గొడ్రాలు. కాబట్టి (ఓ అల్లాహ్‌!) నాకు వారసుడు ఇవ్వు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

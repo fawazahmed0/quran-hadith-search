@@ -2676,6 +2676,12 @@ okavēḷa mānavuniki āpada vastē ataḍu mam'malni vēḍukuṇṭāḍu. Ā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మనిషికి ఏదన్నా ఆపద వచ్చిపడినప్పుడు అతడు మమ్మల్ని (సహాయం కోసం) మొరపెట్టుకోసాగుతాడు. మరి మేమతనికి మా తరఫునుండి ఏదైనా అనుగ్రహాన్ని ప్రసాదిస్తే “ఇది నా ప్రజ్ఞా పాటవాల మూలంగా నాకు ఇవ్వబడింద”ని అంటాడు. కాదు, వాస్తవానికి అదొక పరీక్ష. కాని వారిలో చాలా మంది ఈ విషయాన్ని గ్రహించరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

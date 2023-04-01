@@ -2676,6 +2676,12 @@ niścayaṅgā, (ō muham'mad!) Mēmu ninnu sākṣigā, śubhavārtalu andajēs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నిశ్చయంగా మేము నిన్ను సాక్ష్యమిచ్చేవానిగా, శుభవార్తను వినిపించేవానిగా, హెచ్చరించేవానిగా చేసి పంపాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

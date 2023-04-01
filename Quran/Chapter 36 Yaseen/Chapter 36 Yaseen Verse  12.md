@@ -2676,6 +2676,12 @@ niścayaṅgā, mēmu mr̥tulanu sajīvulugā cēstāmu. Mariyu mēmu vāru cēs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా మేము మృతులను బ్రతికిస్తాము. జనులు ముందుగా చేసి పంపుకున్న దానినీ, వారు వెనుక వదలివెళ్ళిన కర్మలను కూడా మేము వ్రాస్తూ పోతున్నాము. ఇంకా మేము ప్రతి విషయాన్నీ స్పష్టమైన ఒక గ్రంథంలో నమోదు చేసి పెట్టాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

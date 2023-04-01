@@ -2676,6 +2676,12 @@ o visvasulara! Miru nijangane kevalam ayana (allah) ne aradhincevaru ayite; memu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వసించిన వారలారా! మీరు కేవలం అల్లాహ్‌ను ఆరాధించేవారే అయితే మేము మీకు ప్రసాదించిన పవిత్రమైన వస్తువులను తినండి, త్రాగండి, అల్లాహ్‌కు కృతజ్ఞతలు తెలుపండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

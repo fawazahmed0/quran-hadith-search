@@ -2676,6 +2676,12 @@ niścayaṅgā allāh, ādam nu nūh nu, ibrāhīm santati vārini mariyu imrān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా అల్లాహ్‌ ఆదమ్‌నూ, నూహ్‌నూ, ఇబ్రాహీం పరివారాన్నీ, ఇమ్రాన్‌ సంతతినీ సమస్త లోకవాసులపై (వారికి ప్రాధాన్యత ఇచ్చి తన సందేశం కోసం) ఎన్నుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

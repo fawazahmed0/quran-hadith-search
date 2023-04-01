@@ -2676,6 +2676,12 @@ mariyu vāri vaddaku ēdainā sūcana vaccinappuḍu vāru: "Allāh yokka sandē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి వద్దకు ఏదైనా సూచన వచ్చినప్పుడు, “దైవప్రవక్తలకు ఇవ్వబడినదే మాకూ ఇవ్వబడనంతవరకూ మేము విశ్వసించేది లేదు” అని వారు అంటారు. తన దౌత్యాన్ని ఎవరికి అందజేయాలో అల్లాహ్‌కే బాగా తెలుసు. అతి త్వరలోనే అపరాధులు అల్లాహ్‌ వద్దకు చేరుకుని పరాభవాన్నీ, తమ దుష్టపన్నాగాలకు గాను కఠినాతి కఠినమైన శిక్షను అనుభవిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

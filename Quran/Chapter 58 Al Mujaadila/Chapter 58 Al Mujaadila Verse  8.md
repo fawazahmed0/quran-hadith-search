@@ -2676,6 +2676,12 @@ Emi? Niku teliyada (cudatam leda)? Rahasya samalocanalni nisedhincatam jariginap
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+రహస్య మంతనాలు జరపరాదని వారించబడినవారిని నీవు చూడలేదా? అయినాసరే వారు వారింపబడిన దానికే మళ్ళి పాల్పడుతున్నారు. వారు పాపం, అత్యాచారం, ప్రవక్త పట్ల అవిధేయతలకు సంబంధించిన రహస్య మంతనాలను సాగిస్తున్నారు. వారు నీ దగ్గరకు వచ్చినపుడు, అల్లాహ్ నీకు ఏ పదజాలంతో సలాం చెయ్యలేదో ఆ పదజాలంతో నీకు సలాం చేస్తారు. పైపెచ్చు, “మనం పలికే ఈ మాటలపై అల్లాహ్ మనల్ని ఎందుకు శిక్షించటం లేదు?!” అని లోలోపలే చెప్పుకుంటారు. వారికి నరకం (యాతన) సరిపోతుంది. వారు అందులోకి ప్రవేశిస్తారు. అది అత్యంత చెడ్డ గమ్యస్థానం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

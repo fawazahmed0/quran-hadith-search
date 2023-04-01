@@ -2676,6 +2676,12 @@ Keṇṭaik kālai viṭṭu (tirai) akaṟṟappaṭum nāḷil sujūtu ceyyum�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏ రోజున పిక్క విప్పబడుతుందో, అప్పుడు వారు సాష్టాంగ ప్రణామం (సజ్దా) కొరకు పిలవబడతారు. కాని వారు సాష్టాంగ పడలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

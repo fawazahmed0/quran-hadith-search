@@ -2676,6 +2676,12 @@ mariyu vāstavaṅgā, mēmu isrāyīl santati vāriki granthānni (taurāt nu),
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మేము ఇస్రాయీలు సంతతి వారికి గ్రంథాన్నీ, రాజ్యాధికారాన్ని, ప్రవక్తా పదవిని ప్రసాదించాము. ఇంకా మేము వారికి పవిత్రమైన ఆహారాన్ని (మంచి మంచి వస్తువులను) వొసగాము. అంతేకాదు, లోకవాసులపై వారికి ఆధిక్యతను కూడా అనుగ్రహించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

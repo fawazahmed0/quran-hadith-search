@@ -2676,6 +2676,12 @@ ayana mim'malni oke prani (adam) nundi srstincadu. Taruvata atani nundi atani ja
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన మిమ్మల్నందరినీ ఒకే ప్రాణి నుండి పుట్టించాడు. మరి దాంతోనే దాని జతను కూడా చేశాడు. ఇంకా మీ కోసం పశువులలో ఎనిమిది (రకాల) పెంటి – పోతులను అవతరింపజేశాడు. ఆయన మిమ్మల్ని, మీ మాతృగర్భాలలో – మూడేసి చీకట్లలో – ఒకదాని తరువాత ఒకటిగా రూపకల్పన చేస్తున్నాడు. ఈ అల్లాహ్‌యే మీ ప్రభువు. రాజ్యాధికారం ఆయనదే. ఆయన తప్ప మరో ఆరాధ్య దేవుడు లేడు. మరలాంటప్పుడు మీరు ఎటు తిరిగిపోతున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

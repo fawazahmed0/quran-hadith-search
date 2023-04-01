@@ -2676,6 +2676,12 @@ mariyu mīru strīlaku viḍākuliccinappuḍu, vāri koraku nirṇayin̄cabaḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరు స్త్రీలకు విడాకులు ఇచ్చినప్పుడు, వారి గడువు (ఇద్దత్‌) ముగియనుండగా వారిని సహృదయంతో మీ వద్ద ఆపి ఉంచుకోండి. లేదంటే ఉత్తమ రీతిలో సాగనంపండి. వారిపై దౌర్జన్యానికి ఒడిగట్టే ఉద్దేశంతో వారిని ఆపి ఉంచుకొని వేధించకండి. ఈ వైఖరిని అనుసరించినవాడు నిజానికి తనకు తానే అన్యాయం చేసుకున్నాడు. దైవాదేశాలతో పరిహాసమాడకండి. అల్లాహ్‌ మీకు చేసిన ఉపకారాన్ని జ్ఞప్తికి తెచ్చుకోండి. మీపై గ్రంథాన్ని, హిక్మత్‌ను (ప్రవక్త సంప్రదాయాన్ని, ధర్మశాస్త్రాన్ని) అవతరింపజేసి, మీకు చేసిన ఉపదేశాన్ని కూడా (అవలోకనం చేసుకోండి). అల్లాహ్‌ యెడల భయభక్తులు కలిగి ఉండండి. అల్లాహ్‌కు ప్రతిదీ తెలుసు అన్న విషయాన్ని మీరు తెలుసుకోండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mēmu, mā sūcanalu (āyāt) prasādin̄cina ā vyakti gātha vāriki vi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) మేము మా ఆయతులను ప్రసాదించగా, వాటినుండి తిరిగిపోయిన వాని వృత్తాంతాన్ని వారికి చదివి వినిపించు. చివరకు షైతాను అతని వెంటపడగా, అతడు మార్గభ్రష్టులలో చేరిపోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

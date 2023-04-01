@@ -2676,6 +2676,12 @@ ika khārūn, phir'aun mariyu hāmānulanu (kūḍā mēmu idē vidhaṅgā nā�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఖారూన్‌, ఫిరౌన్‌, హామానులను కూడా (మేము నాశనం చేశాము). వారి వద్దకు మూసా స్పష్టమైన సూచనలను తీసుకువచ్చాడు. అయినాసరే వారు భువిలో అహంకారంతో విర్రవీగారు. కాని (ఎంత విర్రవీగినా) మమ్మల్ని మించిపోలేకపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

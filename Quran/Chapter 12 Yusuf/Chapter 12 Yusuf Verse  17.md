@@ -2676,6 +2676,12 @@ vārannāru: "Ō nānnā! Mēmu parugu pandālalō munigi pōyāmu. Mariyu yūsu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ నాన్నా! మేము యూసుఫ్‌ను సామాను వద్ద వదలి పెట్టి పరుగుపందెంలో మునిగిపోయాము. అంతలోనే తోడేలువచ్చి అతన్నితినేసింది. మేము నిజం చెప్పినా మీరు మా మాటను నమ్మరు” అన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

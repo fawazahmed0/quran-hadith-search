@@ -2676,6 +2676,12 @@ Mariyu vāstavāniki mēmu, mūsā mariyu hārūn laku oka gīṭurāyini mariyu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మూసా, హారూనులకు తీర్పులు చేసే గీటురాయిని, జ్యోతినీ, భయభక్తులు గలవారికి హితోపదేశంతో కూడిన గ్రంథాన్నీ ఇచ్చాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

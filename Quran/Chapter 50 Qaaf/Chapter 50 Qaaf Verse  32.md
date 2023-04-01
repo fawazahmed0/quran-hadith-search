@@ -2676,6 +2676,12 @@ itu tāṉ uṅkaḷukku vākkaḷikkappaṭṭatā(ṉa cuvarkkamā)kum; eppo�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇదీ మీకు వాగ్దానం చేయబడినది. (అల్లాహ్ వైపు) మరలి, నిష్టగా ఉండే ప్రతి ఒక్కరికీ ఉద్దేశించినది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

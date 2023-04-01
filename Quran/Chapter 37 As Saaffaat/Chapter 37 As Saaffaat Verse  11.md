@@ -2676,6 +2676,12 @@ ayitē vārini aḍagiṇḍi: "Ēmī? Vāru (mānavulu) dr̥ḍhamaina sr̥ṣ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాస్త వారిని అడిగి చూడు: వారిని సృష్టించటం కష్టతరమా? లేక (వారు గాకుండా) మేము చేసిన ఇతర సృష్టి కష్టతరమా? మేము వారిని (మనుషులను) బంకమన్నుతో సృష్టించాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

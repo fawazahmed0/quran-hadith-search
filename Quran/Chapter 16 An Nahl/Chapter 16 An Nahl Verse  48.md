@@ -2676,6 +2676,12 @@ Emi? Varu allah srstincina prati vastuvunu gamanincatam (cudatam) leda? Vati nid
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వారు అల్లాహ్‌ సృష్టించిన వాటిలో ఏ వస్తువును కూడా (నిశిత దృష్టితో) చూడలేదా? వాటి నీడలు కుడివైపు, ఎడమ వైపు వాలుతూ, అల్లాహ్‌ సన్నిధిలో సాష్టాంగపడుతుంటాయి. తమ వినమ్రతను చాటుకుంటూ ఉంటాయి. (దీన్ని వారు గమనించటం లేదా)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

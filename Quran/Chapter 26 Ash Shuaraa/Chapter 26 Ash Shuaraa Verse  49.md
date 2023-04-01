@@ -2676,6 +2676,12 @@ Ataṟku (ḥpir'avṉ), ‘‘nāṉ uṅkaḷukku aṉumati aḷippataṟku mu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటీ? నేను అనుమతి ఇవ్వక ముందే మీరతన్ని విశ్వసించారా? నిశ్చయంగా ఇతడు మీకందరికీ మంత్ర విద్యను నేర్పిన పెద్ద (గురువు)లా ఉన్నాడు. సరే, ఇప్పుడే మీకు తెలుస్తుంది…. నేనిప్పుడే మీ కాళ్లు చేతుల్ని వ్యతిరేక దిశలో నరికి, మీ అందరికీ శిలువవేస్తాను” అని ఫిరౌన్‌ గర్జించాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

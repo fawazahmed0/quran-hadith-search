@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē satyatiraskārulai, ā satyatiraskāra sthitilōnē mr
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరు అవిశ్వాసానికి ఒడిగట్టి, అవిశ్వాసులుగానే మరణించారో వారిలో ఎవరయినాసరే భూమి నిండా బంగారం సమర్పించినా, తమ పాపానికి పరిహారంగా ఇచ్చినాసరే అది స్వీకారయోగ్యం అవదు. వ్యధాభరితమైన శిక్షకు పాత్రులయ్యే వారంటే వీరే. వీరిని ఆదుకునే వాడెవడూ ఉండడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

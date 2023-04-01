@@ -2676,6 +2676,12 @@ Vāritō ilā anu: "Ēmī? Mīru, bhūmini reṇḍu rōjulalō sr̥ṣṭin̄ci
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా! వారికి) నువ్వు ఇలా చెప్పు: ఏమిటి, రెండు రోజులలో భూమిని సృష్టించిన వానినే (అల్లాహ్‌ను) మీరు తిరస్కరిస్తారా? ఇతరులను ఆయనకు భాగస్వాములుగా నిలబెడతారా? ఆయనే (వాస్తవానికి) సకల లోకాలకు ప్రభువు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

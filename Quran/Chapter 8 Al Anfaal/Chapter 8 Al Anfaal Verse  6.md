@@ -2676,6 +2676,12 @@ Satyaṁ bahirgatamaina taruvāta kūḍā, vāru dānini gurin̄ci nītō vādu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఈ సత్యం గురించి – అది సత్యమని స్పష్టం అయిన తరువాత కూడా – తాము మృత్యువు వైపుకు తరుమబడుతున్నట్లు, దాన్ని తాము కళ్ళారా చూస్తున్నట్లుగానే (భీతిల్లి) నీతో వాదులాటకు దిగారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

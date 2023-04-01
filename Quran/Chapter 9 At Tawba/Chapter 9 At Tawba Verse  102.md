@@ -2676,6 +2676,12 @@ mariyu itarulu, tama pāpālanu oppukunna vārunnāru. Vāru tama satkāryānni 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తమ తప్పులను ఒప్పుకున్నవారు మరికొందరున్నారు. వారు మిశ్రమమైన కర్మలు చేశారు – కొన్ని సత్కార్యాలు, కొన్ని దుష్కార్యాలు! అల్లాహ్‌ వారి పశ్చాత్తాపాన్ని స్వీకరిస్తాడన్న ఆశ ఉంది. నిశ్చయంగా అల్లాహ్‌ అపారంగా క్షమించేవాడు, అమితంగా కరుణించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

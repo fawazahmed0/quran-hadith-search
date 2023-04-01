@@ -2676,6 +2676,12 @@ vāru (ā daivālu), tamakelāṇṭi sahāya cēyalēru. Ayinā! Vīru (satyati
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(యదార్థానికి) వారిని ఆదుకునే శక్తీస్థోమత వారికి ఎంత మాత్రం లేదు. అయినప్పటికీ వారు (ముష్రిక్కులు) వారిని అంటిపెట్టుకుని ఉండే సైనికులుగా ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

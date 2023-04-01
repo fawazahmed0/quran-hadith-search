@@ -2676,6 +2676,12 @@ Pas, [ej pajomʙar] agar turo takziʙ kardand, ʙigū: «Parvardigoraton rahmati
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత కూడా వాళ్ళు నిన్ను ధిక్కరిస్తే, “మీ ప్రభువు విస్తృతమైన కారుణ్యం కలవాడు. అయితే ఆయన శిక్ష అపరాధ జనులపై నుంచి తొలగిపోదు” అని వారికి చెప్పెయ్యి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

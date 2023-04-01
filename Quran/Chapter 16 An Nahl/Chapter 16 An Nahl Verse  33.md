@@ -2676,6 +2676,12 @@ Emi? Varu (satyatiraskarulu) tama vaddaku devadutala raka kosam eduru custunnara
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, తమ వద్దకు దైవదూతలు రావాలనో లేక నీ ప్రభువు ఉత్తర్వు రావాలనో వీళ్ళు ఎదురు చూస్తున్నారా? వీరి పూర్వీకులు కూడా అలాగే చేశారు. అల్లాహ్‌ వారికి ఎలాంటి అన్యాయమూ చేయలేదు. వారంతట వారే తమ స్వయానికి అన్యాయం చేసుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

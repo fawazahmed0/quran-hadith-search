@@ -2676,6 +2676,12 @@ o grantha prajalara! Mi vadda unna granthanni dhrvaparustu, memu avatarimpajesin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ గ్రంథవహులారా! మేము అవతరింపజేసిన దానిని విశ్వసించండి. అది మీ వద్ద ఉన్నదానిని ధృవీకరిస్తుంది. మేము ముఖాలను వికృతం చేసి, వీపు వైపుకు తిప్పకముందే లేక శనివారం వాళ్లను శపించినట్లుగా మేము వారినీ శపించక ముందే దీనిని (ఈ గ్రంథాన్ని) విశ్వసించండి. అల్లాహ్‌ తలచుకున్న పని ఇక అయిపోయినట్లే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

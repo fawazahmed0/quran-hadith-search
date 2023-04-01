@@ -2676,6 +2676,12 @@ Ciguna [pajmoni muşrikon arziş dorad] ʙo inki agar ʙar şumo dast joʙand, d
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి వాగ్దానాలు ఏ మేరకు నమ్మశక్యం? మీపై వారికి ఏకాస్త ఆధిక్యత లభించినా వారు మీ విషయంలో ఏ బంధుత్వాన్నీ, ఏ ఒడంబడికనూ ఖాతరుచేయరు. వారు తమ నోటి మాటలతో మిమ్మల్ని సముదాయించే ప్రయత్నం చేస్తున్నారు. కాని వారి హృదయాలు మాత్రం ఎంతకీ అంగీకరించటం లేదు. వారిలో అత్యధికులు అవిధేయులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

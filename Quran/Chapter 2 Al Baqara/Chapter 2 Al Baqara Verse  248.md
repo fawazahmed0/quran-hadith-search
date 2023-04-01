@@ -2676,6 +2676,12 @@ mariyu vāritō vāri pravakta (sāmyūl) ilā annāḍu: "Niścayaṅgā, atani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ప్రవక్త వారికి మళ్ళీ ఈ విధంగా నచ్చజెప్పాడు: అతని రాజరికానికి సంబంధించిన బహిరంగ నిదర్శనం ఏమిటంటే (అతని ఏలుబడిలో) మీ వద్దకు ఆ (శుభసూచకాల) పెట్టె తిరిగి వస్తుంది. అందులో మీ ప్రభువు తరఫున మీకు గుండె నిబ్బరం ఉంది. మూసా, హారూన్‌ కుటుంబీకులు వదలి వెళ్ళిన అవశేషాలు కూడా అందులో ఉన్నాయి. దాన్ని దూతలు మోసుకువస్తారు. మీరే గనక విశ్వసించిన వారైతే ఇందులో మీ కొరకు స్పష్టమయిన సూచన ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

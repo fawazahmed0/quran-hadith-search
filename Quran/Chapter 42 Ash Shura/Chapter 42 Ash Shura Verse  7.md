@@ -2676,6 +2676,12 @@ Mariyu ī vidhaṅgā mēmu nīpai ī khur'ān nu, arabbī bhāṣalō, divyajñ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అలాగే నీవు ఉమ్ముల్‌ ఖురా (మక్కా) వారినీ, దాని పరిసరాల వారిని హెచ్చరించటానికి, సందేహానికి ఆస్కారమేలేని, అందరూ సమావేశమయ్యే రోజు గురించి అప్రమత్తం చేయటానికి మేము నీ వద్దకు అరబీ ఖుర్‌ఆన్‌ను వహీ చేశాము. (తీర్పు అనంతరం) ఒక వర్గం స్వర్గంలో ఉండగా, మరో వర్గం నరకాగ్నిలో ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

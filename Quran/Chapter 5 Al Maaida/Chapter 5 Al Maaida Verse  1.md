@@ -2676,6 +2676,12 @@ o visvasulara! Oppandalanu patincandi. Mi koraku paccina mese catuspada pasuvula
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! ప్రమాణాలను, ఒప్పందాలను నెరవేర్చండి. మీకు చదివి వినిపించబడేవి తప్ప మిగిలిన చతుష్పాద పశువులన్నీ మీ కోసం ధర్మసమ్మతం (హలాల్‌) గావించబడ్డాయి. అయితే మీరు ‘ఇహ్రామ్‌’ స్థితిలో ఉన్నప్పుడు వేటను ధర్మసమ్మతంగా పరిగణించకండి. నిశ్చయంగా అల్లాహ్‌ తాను కోరినది ఆజ్ఞాపిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

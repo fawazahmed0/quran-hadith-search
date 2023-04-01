@@ -2676,6 +2676,12 @@ mīku cēyabaḍina vāgdānaṁ tappaka pūrtayi tīrutundi. Mīru dāni (śik�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీకు వాగ్దానం చెయ్యబడుతున్నది ముమ్మాటికీ వచ్చి తీర్తుంది. మీరు (అల్లాహ్‌ను) అశక్తుణ్ణి చేయలేరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

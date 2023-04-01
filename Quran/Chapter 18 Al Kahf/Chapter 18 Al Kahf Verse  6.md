@@ -2676,6 +2676,12 @@ i sandesanni visvasincani vari vaikhari valla duhkhapadi bahusa nivu ni prananne
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌!) ఒకవేళ ఈ జనులు ఈ మాటను విశ్వసించకపోతే నువ్వు వారి వెనుక దుఃఖంతో కుమిలిపోతూ నీ ప్రాణాలు పోగొట్టుకుంటావా ఏమి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

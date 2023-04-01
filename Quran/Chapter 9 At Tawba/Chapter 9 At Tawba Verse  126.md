@@ -2676,6 +2676,12 @@ emi? Varu prati sanvatsaram okasari leka rendusarlu (badhalato) pariksimpa badat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, ప్రతి ఏటా ఒకటి లేక రెండుసార్లు తాము ఏదో ఒక ఆపదలో చిక్కుకుపోవటాన్ని వారు గమనించటంలేదా? అయినా సరే వారు పశ్చాత్తాపం చెందటంగానీ, గుణపాఠం నేర్చుకోవటంగానీ జరగటం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Idi nīku āścaryakaraṅgā uṇṭē, vāri ī māṭa antakaṇṭē āścar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) ఒకవేళ నువ్వు ఆశ్చర్యపడవలసి ఉంటే; “ఏమిటీ, మేము (మరణించి) మట్టి అయిపోయిన తరువాత మళ్లీ క్రొత్తగా పుట్టించబడతామా?!” అన్న వారి మాటలపై ఆశ్చర్యపోవాలి. తమ ప్రభువు పట్ల తిరస్కార వైఖరిని అవలంబించిన వారు వీరే. పట్టాలు వేయబడేది వీరి మెడలలోనే. నరకవాసులు కూడా వారే. అందులో వారు కలకాలం ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

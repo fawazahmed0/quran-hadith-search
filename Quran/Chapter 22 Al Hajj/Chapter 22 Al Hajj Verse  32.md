@@ -2676,6 +2676,12 @@ idē! Mariyu evaḍaitē, allāh niyamin̄cina cihnālanu gauravistāḍō, adi 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇది (తెలుసుకున్నారు కదా! ఇది కూడా తెలుసుకోండి!). అల్లాహ్‌ చిహ్నాలను ఎవరయినా గౌరవిస్తున్నారంటే అది వారి హృదయాలలోని భక్తిభావన వల్లనే సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

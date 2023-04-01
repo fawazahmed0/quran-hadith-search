@@ -2676,6 +2676,12 @@ Bigū: (ej Pajomʙar) «Ci ciz ʙuzurgtaru ʙartar ast dar ʙoʙi şahodat?» Bi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అందరికన్నా గొప్ప సాక్ష్యం ఎవరిది?” అని వారిని అడుగు. “నాకూ- మీకూ మధ్య సాక్షిగా అల్లాహ్‌ ఉన్నాడు. ఈ ఖుర్‌ఆను ద్వారా నేను మిమ్మల్నీ, ఇది ఎవరెవరి వరకు చేరుతుందో వారందరినీ హెచ్చరించటానికి గాను ఈ ఖుర్‌ఆన్‌ నా వద్దకు వహీ ద్వారా పంపబడింది” అని (ఓ ప్రవక్తా!) వారికి తెలియపరచు. అల్లాహ్‌తోపాటు మరి కొంతమంది దేవుళ్లు కూడా ఉన్నారని మీరు నిజంగా సాక్ష్యం ఇవ్వగలరా? “నేను మాత్రం అలాంటి సాక్ష్యం (ఇవ్వనుగాక) ఇవ్వను” అని (ఓ ప్రవక్తా!) వారికి చెప్పు. “ఆయనే ఒకే ఒక్కడైన ఆరాధ్య దేవుడు. మీరు దైవానికి కల్పించే షిర్క్‌ (భాగస్వామ్యం)తో నాకెలాంటి సంబంధం లేదు” అని (ఓ ప్రవక్తా!) వారికి చెప్పెయ్యి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

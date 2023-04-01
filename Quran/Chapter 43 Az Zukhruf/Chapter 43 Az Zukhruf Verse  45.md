@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Nīku pūrvaṁ mēmu pampina mā pravaktalanu aḍugu: "
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి నీకు పూర్వం మేము పంపిన మా ప్రవక్తలను “కరుణామయుడు (అయిన అల్లాహ్‌)ను వదలి వేరితర పూజించబడుతున్న దైవాలను మేము నిర్ధారించామేమో” అడిగిచూడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

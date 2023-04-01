@@ -2676,6 +2676,12 @@ emi? Varu cudatam leda? Niscayanga, memu oka banjaru bhumi vaipunaku nillanu (va
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వీళ్లు గమనించటం లేదా? – మేము నీళ్ళను బంజరు భూమి వైపుకు ప్రవహింపజేస్తూ తీసుకుపోతున్నాము, మరి దాని ద్వారా పంటలను వెలికి తీస్తున్నాము. వాటిని వారి పశువులూ తింటున్నాయి. స్వయంగా వారు కూడా (తింటున్నారు). అయినా వాళ్ళు దృష్టిని సారించరా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

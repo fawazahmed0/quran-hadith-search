@@ -2676,6 +2676,12 @@ mariyu vāru itarulanu atani (pravakta) nuṇḍi āputāru. Mariyu svayaṅgā 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాళ్లు దాన్నుంచి ఇతరులను ఆపటమే గాకుండా, స్వయంగా వాళ్లు కూడా దానికి దూరంగా ఉంటున్నారు. వాస్తవానికి వారు తమను మాత్రమే నాశనం చేసుకుంటున్నారు. కాని వారికి ఆ స్పృహే లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

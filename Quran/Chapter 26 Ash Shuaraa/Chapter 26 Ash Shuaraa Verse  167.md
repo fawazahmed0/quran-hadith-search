@@ -2676,6 +2676,12 @@ avar kūṟiṉār; "niccayamāka nāṉ uṅkaḷ ceyalkaḷaik kaṭumaiyāka 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు “ఓ లూత్‌! నువ్వు (నీ ధోరణిని) మానుకోకపోతే, ఇక్కణ్ణుంచి వెళ్ళగొట్టబడతావు (జాగ్రత్త!)” అని చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

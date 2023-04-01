@@ -2676,6 +2676,12 @@ Mariyu mānavuniki kaṣṭakālaṁ vaccinappuḍu: Ataḍu paruṇḍinā, kū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మనిషికి ఏదైనా కష్టం కలిగినప్పుడు పడుకొని, కూర్చొని, నిలబడీ మమ్మల్ని మొరపెట్టుకుంటాడు. మరి మేము అతని కష్టాన్ని అతన్నుంచి తొలగించినప్పుడు,తనకు కలిగిన ఏ కష్టానికీ, ఎప్పుడూ, మమ్మల్నిప్రార్థించనే లేదన్నట్లుగా వ్యవహరిస్తాడు. ఈ విధంగా హద్దుమీరిపోయే వారి పనులు వారికి ఎంతో రమణీయంగా చెయ్యబడ్డాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

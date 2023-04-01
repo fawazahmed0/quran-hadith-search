@@ -2676,6 +2676,12 @@ niścayaṅgā, nī prabhuvu tānu kōrina vāriki jīvanōpādhini puṣkalaṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా నీ ప్రభువు తాను కోరిన వారి కోసం ఉపాధిని విస్తృతపరుస్తాడు. తాను కోరిన వారికి పరిమితం చేస్తాడు. నిస్సందేహంగా ఆయన తన దాసుల గురించి అన్నీ తెలిసినవాడు, అంతా చూస్తున్నవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

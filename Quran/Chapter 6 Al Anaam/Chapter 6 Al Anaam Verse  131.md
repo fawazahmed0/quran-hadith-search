@@ -2676,6 +2676,12 @@ idantā endukaṇṭē! Nī prabhuvu nagarālanu - vāṭilōni prajalu satyānn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎందుకంటే, నీ ప్రభువు ఏ సీమను కూడా అక్కడి ప్రజలు (సత్యాసత్యాలు) తెలుసుకోకుండా ఉన్న స్థితిలో-వారి తిరస్కార వైఖరి మూలంగా నాశనం చేయడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

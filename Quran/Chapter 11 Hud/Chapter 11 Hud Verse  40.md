@@ -2676,6 +2676,12 @@ civaraku mā ājña vaccindi mariyu poyyi poṅgindi (jala pravāhālu bhūmini 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తుదకు మాఆదేశం వచ్చి, పొయ్యి పొంగినప్పుడు, “ఈ ఓడలోకి ప్రతి (జీవ)రాసి నుంచి రెండేసి (ఒకటి ఆడ, ఇంకొకటి మగ జంతువు) చొప్పున ఎక్కించుకో. నీ ఇంటి వారలను కూడా తీసుకో. ఎవరి విషయంలోనయితే ముందుగానే మాట ఖరారయిందో వారిని వదిలేయి. ఇంకా విశ్వాసులందరిని కూడా ఎక్కించుకో” అని మేము (అతనికి) చెప్పాము. అయితే అతనితో బాటు విశ్వసించిన వారు బహుకొద్ది మంది మాత్రమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

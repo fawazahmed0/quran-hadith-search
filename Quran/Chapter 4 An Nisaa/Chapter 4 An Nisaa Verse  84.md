@@ -2676,6 +2676,12 @@ kāvuna nīvu allāh mārganlō yud'dhaṁ ceyyi. Nīvu nī maṭṭukē bādhyu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక నీవు అల్లాహ్‌ మార్గంలో యుద్ధం చెయ్యి. నీవు నీ స్వయానికి మాత్రమే బాధ్యుడవు. అయితే విశ్వసించిన వారిని (యుద్ధం చేయమని) ప్రేరేపిస్తూ ఉండు. త్వరలో అల్లాహ్‌ అవిశ్వాసుల యుద్ధాన్ని ఆపినా ఆపి వేయవచ్చు! అల్లాహ్‌ అందరికంటే గొప్ప శక్తిగలవాడు, శిక్షించటంలో కూడా చాలా కఠినుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

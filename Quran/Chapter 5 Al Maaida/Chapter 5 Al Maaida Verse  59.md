@@ -2676,6 +2676,12 @@ vāritō ilā anu: "Ō grantha prajalārā! Ēmī? Mēmu allāh nu mariyu āyana
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు : “ఓ గ్రంథవహులారా!(అంటే ఓ యూదులారా, క్రైస్తవులారా!) మేము అల్లాహ్‌ను, మావైపుకు అవతరింపజేయబడిన దానినీ, దానికి పూర్వం అవతరింపజేయబడిన దానిని విశ్వసిస్తున్నామన్న కారణంతో, ఇంకా మీలో అత్యధికులు అపమార్గాన ఉన్న కారణంతోనే కదా మీరు మాతో వైరవైఖరిని అవలంబిస్తున్నది?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

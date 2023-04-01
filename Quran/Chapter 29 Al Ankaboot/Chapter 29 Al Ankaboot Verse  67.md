@@ -2676,6 +2676,12 @@ Emi? Variki teliyada? Niscayanga memu haram nu (makkanu) oka santi nilayanga nel
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, మేము హరమ్‌ను (మక్కా పుణ్యక్షేత్రాన్ని) సురక్షితమైన క్షేత్రంగా చేయటాన్ని వారు చూడటం లేదా? మరి (చూడబోతే) వారి చుట్టుప్రక్కల ఉన్న ప్రజలు ఎగరేసుకుపోబడుతున్నారు. ఏమిటీ, (ఇప్పటికీ) వారు అసత్యాన్నే నమ్మి, దైవానుగ్రహాల పట్ల తిరస్కార వైఖరిని అవలంబిస్తారా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ appuḍē āyana kēvalaṁ pogagā unna ākāśaṁ vaipunaku tana dhyānānni 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత ఆయన పొగ(మాదిరి)గా ఉన్న ఆకాశం వైపు దృష్టిని మరల్చాడు. మరి దానినీ, భూమినీ ఉద్దేశించి, “మీకు ఇష్టం ఉన్నాసరే, ఇష్టం లేకున్నాసరే (ఉనికిలోకి) వచ్చేయండి” అన్నాడు. “మేము ఇష్టపూర్వకంగా వచ్చేశాము” అని అవి పలికాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

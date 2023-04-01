@@ -2676,6 +2676,12 @@ O visvasulara! Miru allah koraku n'yayanga saksyamivvataniki sthiranga nilabadan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! మీరు అల్లాహ్‌ కొరకు సత్యంపై నిలకడగా ఉండండి. న్యాయానికి సాక్షులుగా ఉండండి. ఏదైనా ఒక వర్గంతో ఉన్న విరోధం మిమ్మల్ని న్యాయవిరుద్ధతకు పాల్పడనీయకూడదు. న్యాయం చెయ్యండి. ఇది దైవభీతికి అత్యంత చేరువైనది. అల్లాహ్‌కు భయపడుతూ ఉండండి. మీరు చేసే పనులన్నీ అల్లాహ్‌కు తెలుస్తూనే ఉంటాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

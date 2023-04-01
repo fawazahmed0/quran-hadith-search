@@ -2676,6 +2676,12 @@ mariyu mēmu (ādam tō) annāmu: "Ō ādam! Nīvū mariyu nī bhāryā, ī svar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(తరువాత) మేము, “ఓ ఆదం! నువ్వూ, నీ భార్య – ఇద్దరూ- స్వర్గంలో ఉండండి, మీరు ఇష్టపడిన చోటు నుంచి స్వేచ్ఛగా తినండి, త్రాగండి. కాని ఈ వృక్షం దరిదాపులకు కూడా పోవద్దు. లేదంటే దుర్మార్గులలో చేరిపోతారు” అని చెప్పాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

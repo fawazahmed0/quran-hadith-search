@@ -2676,6 +2676,12 @@ kāvuna nīvu nī mukhānni saraina dharmaṁ (islāṁ) vaipunakē sthiraṅgā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ప్రవక్తా!) ఏ రోజు అల్లాహ్‌ తరఫునుంచి తొలగిపోయే అవకాశం ఎంతమాత్రం లేదో ఆ రోజు రాకముందే నీ ముఖాన్ని సత్యమైన, స్థిరమైన ధర్మం వైపు మరల్చుకో. ఆ రోజు అందరూ (రెండు వర్గాలుగా) వేర్వేరు అయిపోతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

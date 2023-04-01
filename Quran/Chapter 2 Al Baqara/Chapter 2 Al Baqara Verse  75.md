@@ -2676,6 +2676,12 @@ Ej musalmonon, ojo raftori ʙani Isroilro faromūş karded va umedvor hasted, ki
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ముస్లిములారా!) వారు మీ మాటను నమ్ముతారనే (ఇప్పటికీ) మీరు ఆశపడ్తున్నారా? వాస్తవానికి వారిలో, అల్లాహ్‌ వాక్కును విని, అర్థం చేసుకుని కూడా ఉద్దేశపూర్వకంగా దాన్ని మార్చి వేసేవారు ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

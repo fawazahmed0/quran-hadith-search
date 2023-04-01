@@ -2676,6 +2676,12 @@ lēka: "Vāstavāniki intaku pūrvaṁ mā tātamuttātalu allāh ku sāṭi (bh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేదా “మొదట్లో మా పూర్వీకులు షిర్కుకు పాల్పడ్డారు. మేము వారి తరువాతివారి సంతతిలో పుట్టినవారము. ఆ దుర్జనులు చేసిన పాపానికి నువ్వు మమ్మల్ని వినాశానికి గురిచేస్తావా?!” అని మీరు అనకుండా ఉండటానికిగాను (మేము ముందే మీ నుండి ఈ విధంగా ఖరారు చేయించాము)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

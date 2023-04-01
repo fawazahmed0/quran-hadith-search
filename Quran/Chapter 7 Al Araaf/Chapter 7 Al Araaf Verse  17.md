@@ -2676,6 +2676,12 @@ taruvāta nēnu vāri mundu nuṇḍi, vāri venuka nuṇḍi, vāri kuḍivaipu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆపైన “ముందు నుంచీ, వెనుక నుంచీ, కుడి వైపు నుంచీ, ఎడమ వైపు నుంచీ వాళ్ళపై దాడి చేస్తాను. వారిలో చాలా మందిని నీవు కృతజ్ఞులుగా పొందవు” అని ఇబ్లీసు సవాలు చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

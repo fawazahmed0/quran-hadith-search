@@ -2676,6 +2676,12 @@ o visvasulara! (Miru ihram sthitilo unnappudu) - mi indriyalaku agocaramaina all
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులారా! మీ చేతులకూ, మీ ఈటెలకూ అందుబాటులో ఉన్న కొన్ని వేట జంతువుల ద్వారా అల్లాహ్‌ మిమ్మల్ని పరీక్షిస్తాడు, తనను చూడకుండానే తనకు భయపడేవారెవరో తెలుసుకోవాలని. దీని తరువాత కూడా హద్దు మీరి ప్రవర్తించే వారికి వ్యధాభరితమైన శిక్ష ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

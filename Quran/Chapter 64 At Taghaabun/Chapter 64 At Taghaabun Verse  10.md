@@ -2676,6 +2676,12 @@ mariyu evaraitē satyānni tiraskaristārō mariyu mā sūcana (āyāt) lanu aba
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరెవరైతే తిరస్కారానికి పాల్పడ్డారో, మా ఆయతులను ధిక్కరించారో వారే నరకవాసులు. వారు నరకంలో కలకాలం ఉంటారు. అది చాలా చెడ్డ గమ్యస్థానం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

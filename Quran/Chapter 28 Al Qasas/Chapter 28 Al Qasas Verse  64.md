@@ -2676,6 +2676,12 @@ mariyu vāritō ilā anabaḍutundi: "Mīru sāṭi kalpin̄cina mī bhāgasvām
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మీరు మీ ‘భాగస్వాములను’ పిలుచుకోండి” అని వారితో అనబడుతుంది. వారు వారిని (తమ భాగస్వాములను) పిలుస్తారు. కాని వారు కనీసం వారికి సమాధానం కూడా ఇవ్వరు. మరి వారంతా శిక్షను చూస్తారు. వారు సన్మార్గం పొంది ఉంటే ఎంత బావుండేది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

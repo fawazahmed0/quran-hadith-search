@@ -2676,6 +2676,12 @@ balahīnulu mariyu vyādhigrastulu mariyu prayāṇapu kharculu lēnivāru, okav
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+బలహీనులపై, రోగపీడితులపై, ఖర్చు పెట్టడానికి తమ వద్ద ఏమీలేని వారిపై – ఏ దోషమూ లేదు. అయితే వారు అల్లాహ్‌ పట్ల, ఆయన ప్రవక్త పట్ల శ్రేయోభిలాషులై ఉండాలి. అలాంటి సజ్జనులపై ఆరోపణలకు ఏ ఆస్కారమూ లేదు. అల్లాహ్‌ అపారంగా క్షమించేవాడు, కరుణించేవాడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

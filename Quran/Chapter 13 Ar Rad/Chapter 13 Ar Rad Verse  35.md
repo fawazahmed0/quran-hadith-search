@@ -2676,6 +2676,12 @@ daivabhīti galavāriki vāgdānaṁ cēyabaḍina svargapu udāharaṇa idē! D
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అల్లాహ్‌ పట్ల) భయభక్తులు కలిగివుండే వారికి వాగ్దానం చేయబడిన స్వర్గం ఇలా ఉంటుంది : దాని క్రింద కాలువలు ప్రవహిస్తూ ఉంటాయి. దాని పండ్లు ఫలాలు ఎన్నటికీ తరగనివి. దాని నీడ కూడా శాశ్వితమైనది. భయభక్తులు కలవారి అంతిమ పరిణామం ఇది. కాగా; తిరస్కారుల అంతిమ పరిణామం నరకం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

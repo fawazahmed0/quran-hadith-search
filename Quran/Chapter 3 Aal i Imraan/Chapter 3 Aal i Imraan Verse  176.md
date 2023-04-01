@@ -2676,6 +2676,12 @@ mariyu satyatiraskāraṁ koraku pōṭī cēsēvāru ninnu khēdāniki guri cē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) అవిశ్వాసంలో ముందుకు దూసుకుపోతున్న వారిని చూసి నువ్వు దిగులు చెందకు. వారు అల్లాహ్‌కు ఏమాత్రం కీడు కలిగించలేరు. వారికి పరలోకంలో ఎలాంటి భాగమూ ఇవ్వరాదన్నది అల్లాహ్‌ ఉద్దేశం. వారి కొరకు ఘోర శిక్ష కలదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

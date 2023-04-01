@@ -2676,6 +2676,12 @@ ame annadi: "Itane a manisi! Itanini gurince miru napai nindalu mopindi. Vastava
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు ఆమె (అజీజ్‌ భార్య) ఇలా అన్నది: “ఎవరి విషయంలో మీరంతా నన్నునిందిస్తున్నారో ఆ వ్యక్తి ఇతనే. నేను ఇతన్ని వల్లో వేసుకోవాలని ప్రయత్నించాను. కాని ఇతను తప్పించుకున్నాడు. నేను ఆజ్ఞాపించిన పనిని ఇతను చేయకపోతే చెరసాలపాలై, తీవ్రమైన అవమానానికి గురవుతాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu bhūmilō vērvēru rakāla (nēlalu) okadāni kokaṭi prakkaprakkana un
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమిలో అనేక (రకాల) నేలలు ఒక దానికొకటి ఆనుకుని ఉన్నాయి. (అందులో) ద్రాక్ష తోటలూ ఉన్నాయి, పంటపొలాలూ ఉన్నాయి. ఖర్జూరపు చెట్లూ ఉన్నాయి. వాటిలో కొన్ని శాఖలుగా చీలి ఉండగా, మరికొన్ని వేరే రకంగా ఉన్నాయి. వాటన్నింటికీ ఒకే నీరు సరఫరా అవుతోంది. అయినప్పటికీ మేము ఆ పండ్లలో ఒకదానికి మరోదానిపై శ్రేష్ఠతను ప్రసాదిస్తున్నాము. నిశ్చయంగా విజ్ఞులకు ఇందులో ఎన్నో సూచనలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

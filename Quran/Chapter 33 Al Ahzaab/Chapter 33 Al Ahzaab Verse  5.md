@@ -2676,6 +2676,12 @@ vārini (mī datta pillalanu), vāri (vāstava) taṇḍrula pērlatōnē kalipi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దత్తపుత్రులను వారి (కన్న) తండ్రుల సంబంధంతోనే పిలవండి. అల్లాహ్‌ దృష్టిలో ఇదే న్యాయం. ఒకవేళ వారి (కన్న) తండ్రులెవరో మీకు తెలీకపోతే, అట్టి పరిస్థితిలో వారు మీ ధార్మిక సోదరులు, స్నేహితులు అవుతారు. మరుపు వల్ల మీచేత ఏదన్నా (తప్పు) జరిగిపోతే దాని పాపం మీపై ఉండదు. అయితే హృదయపూర్వకంగా చేసిన పక్షంలో అది పాపమే. అల్లాహ్‌ అపారంగా క్షమించేవాడు, అమితంగా కనికరించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

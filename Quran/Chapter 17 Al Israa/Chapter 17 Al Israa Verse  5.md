@@ -2676,6 +2676,12 @@ ika ā reṇṭilō modaṭi vāgdānaṁ rāgā mēmu mīpai ghōra yud'dhanipu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రెండింటిలో మొదటి వాగ్దానం వచ్చేసినప్పుడు, మీకు వ్యతిరేకంగా తీవ్రంగా పోరాడే మా దాసులను పంపించాము. వారు మీ ఇళ్ళల్లోనికి చొచ్చుకుని వచ్చారు. ఎందుకంటే ఆ వాగ్దానం నెరవేరటం తథ్యం గనక
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

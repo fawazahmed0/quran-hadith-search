@@ -2676,6 +2676,12 @@ mariyu anāthuḍu tana yukta vayas'suku cērananta varaku atani āstini, bāgup
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“తండ్రిలేని బిడ్డ, యుక్తవయస్సుకు చేరుకునే వరకూ- ఉత్తమ రీతిలో తప్ప – అతని ఆస్తి దరిదాపులకు కూడా వెళ్ళకండి. కొలతలు తూనికలలో పూర్తిగా, న్యాయంగా వ్యవహరించండి. మేము ఏ ప్రాణిపైన కూడా శక్తికి మించిన భారం మోపము. పలికితే న్యాయమే పలకండి. న్యాయసమ్మతంగా మాట్లాడండి- వ్యవహారం మీ బంధువుకు సంబంధించినదైనా సరే! అల్లాహ్‌తో చేసిన బాసను నెరవేర్చండి. మీరు సదా జ్ఞాపక ముంచుకునేందుకు గాను అల్లాహ్‌ మీకిలా తాకీదు చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

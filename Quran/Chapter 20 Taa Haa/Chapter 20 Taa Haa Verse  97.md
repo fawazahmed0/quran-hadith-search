@@ -2676,6 +2676,12 @@ nī iṅkiruntu pōy viṭu niccayamāka inta vāḻkkaiyil (evaraik kaṇṭāl
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు మూసా,”సరే! ఇక్కణ్ణుంచి వెళ్ళిపో. నీకు శిక్ష ఏమిటంటే, నీవు జీవితాంతం ‘అమ్మో నన్ను ముట్టుకోకండి’ అని అంటూ ఉంటావు. నీ నుంచి ఎట్టి పరిస్థితిలోనూ తప్పిపోని వాగ్దానం మరొకటి కూడా నీ కోసం ఉంది. ఇన్నాళ్ళూ నువ్వు అంటిపెట్టుకుని ఉన్న నీ ఆరాధ్య దేవునికి పట్టే గతేమిటో కూడా చూసుకో. మేము దాన్ని కాల్చి, భస్మం చేసి సముద్రంలో విసిరేస్తాము” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ika (ō muham'mad!) Nīvu vārini sanmārgāniki tēvālani enta kōrukunnā! Ni
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నువ్వు వారిని సన్మార్గానికి తీసుకురావాలని తీవ్రంగా కోరుకున్నప్పటికీ, అల్లాహ్‌ తాను అపమార్గాన వదిలేసిన వారికి సన్మార్గం చూపడు. వారిని ఆదుకునేవారు కూడా ఎవరూ ఉండరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Nīvu vārini aḍigitē vāru tappaka: "Mēmu kēvalaṁ kālakṣēpāniki mar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(మీరు చెప్పుకుంటూ ఉన్న విషయం ఏమిటి? అని) నువ్వు వారిని అడిగితే, “అబ్బే ఏమీలేదు. ఏదో సరదాగా, నవ్వులాటకు ఇలా చెప్పుకుంటున్నాము” అని వారంటారు. “ఏమిటీ, మీరు అల్లాహ్‌తో, ఆయన ఆయతులతో, ఆయన ప్రవక్తలతో పరిహాసమాడుతున్నారా? అని అడుగు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

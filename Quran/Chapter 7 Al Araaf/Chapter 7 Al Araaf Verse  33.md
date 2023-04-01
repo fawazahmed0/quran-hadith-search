@@ -2676,6 +2676,12 @@ ilā anu: "Nā prabhuvu bahiraṅgaṅgā gānī, lēdā rahasyaṅgā gānī, a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా ప్రభువు నిషేధించినవి ఇవి మాత్రమే : బాహాటంగానూ, గోప్యంగానూ చేసే సిగ్గుమాలిన పనులు, పాపంతో కూడుకున్న ప్రతి విషయమూ, అన్యాయంగా ఒకరిమీద దుర్మార్గానికి ఒడిగట్టటం, అల్లాహ్‌ ఏ ప్రమాణమూ అవతరింపజేయకపోయినప్పటికీ మీరు అల్లాహ్‌కు భాగస్వామ్యం కల్పించటం, (నిజంగా అల్లాహ్‌ అన్నాడని) మీకు తెలియని విషయాన్ని మీరు అల్లాహ్‌ పేరుతో చెప్పటం (వీటిని అల్లాహ్‌ నిషేధించాడు)” అని ఓ ప్రవక్తా! వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

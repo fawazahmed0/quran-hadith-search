@@ -2676,6 +2676,12 @@ mariyu ē vyakti ayinā sarē allāh anumati lēnidē viśvasin̄ca jālaḍu. J
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాస్తవానికి దైవాజ్ఞ కానంత వరకూ ఎవడూ విశ్వసించడు. బుద్ధిహీనులపై అల్లాహ్‌ అశుద్ధతను వేసేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

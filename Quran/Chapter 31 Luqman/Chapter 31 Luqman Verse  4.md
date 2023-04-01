@@ -2676,6 +2676,12 @@ avarkaḷ (ettakaiyōreṉṟāl) toḻukaiyai nilai nāṭṭuvārkaḷ; jakāt
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు (ఆ సద్వర్తనులు) నమాజులను నెలకొల్పుతారు. జకాతు ఇస్తూ ఉంటారు. పరలోకంపై (పూర్తి) విశ్వాసం కలిగి ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

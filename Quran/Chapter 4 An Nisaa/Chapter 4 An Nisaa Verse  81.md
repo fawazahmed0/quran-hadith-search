@@ -2676,6 +2676,12 @@ mariyu vāru (nī samakṣanlō): "Mēmu vidhēyulamayyāmu." Ani palukutāru. K
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తాము విధేయత చూపుతున్నట్లు వారు నీ ముందర ప్రకటిస్తారు. కాని నీ దగ్గర నుంచి వెళ్ళిపోయిన తరువాత, వారిలోని ఒక వర్గం వారు రాత్రివేళల్లో సమావేశమై తాము చెప్పినదానికి వ్యతిరేకంగా మంతనాలు జరుపుతారు. రాత్రిపూట వారు జరిపే రహస్య మంతనాలను అల్లాహ్‌ నమోదు చేసుకుంటున్నాడు. కనుక (ఓ ముహమ్మద్‌!) వారిని పట్టించుకోకు. అల్లాహ్‌పైనే ఆధారపడి ఉండు. కార్యసాధనకై అల్లాహ్‌యే చాలు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

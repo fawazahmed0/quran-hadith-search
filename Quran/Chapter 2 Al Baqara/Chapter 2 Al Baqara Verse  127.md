@@ -2676,6 +2676,12 @@ Mariyu (jñāpakaṁ cēsukōṇḍi) ibrāhīm mariyu ismāyīl ī gr̥hapu (ka
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇబ్రాహీం (అలైహిస్సలాం), ఇస్మాయీల్‌ (అలైహిస్సలాం)- ఇద్దరూ (కాబా) గృహ పునాదులను, గోడలను లేపుతూ ఇలా ప్రార్థించేవారు: “మా ప్రభూ! మా సేవను స్వీకరించు. నీవు మాత్రమే సర్వం వినేవాడవు, సర్వం తెలిసినవాడవు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

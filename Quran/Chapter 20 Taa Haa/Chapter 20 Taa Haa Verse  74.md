@@ -2676,6 +2676,12 @@ niścayaṅgā, tana prabhuvu mundu pāpātmuḍigā hājarayyē vāḍiki tappa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అసలు విషయం ఏమిటంటే,అపరాధిగా అల్లాహ్‌ సన్నిధి లోకి వచ్చేవాడి కోసం నరకం ఉన్నది. అందులో అతను చావనూ లేడు బ్రతకనూ లేడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

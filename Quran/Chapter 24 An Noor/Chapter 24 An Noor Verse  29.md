@@ -2676,6 +2676,12 @@ evvarikī nivāsa sthalaṁ kākuṇḍā mīku prayōjanakaramaina vastuvulunna
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే ఎవరూ నివసించని ఇండ్లలో, మీకు చెందిన ప్రయోజనకరమైన వస్తు సామగ్రి ఏదన్నా ఉన్నప్పుడు మీరు వాటిలోకి ప్రవేశిస్తే అందులో తప్పులేదు. మీరు బహిర్గతం చేసేదీ, గోప్యంగా ఉంచేదీ – అంతా అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

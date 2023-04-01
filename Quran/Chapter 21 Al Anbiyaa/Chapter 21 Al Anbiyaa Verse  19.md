@@ -2676,6 +2676,12 @@ mariyu ākāśālalō mariyu bhūmilō unna samastamū āyanaku cendinadē. Mari
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+భూమ్యాకాశాలలో ఉన్న సమస్తమూ ఆయనదే. ఆయన వద్ద ఉన్నవారు ఆయన్ని ఆరాధించటం పట్ల గర్వం ప్రదర్శించరు. (ఆయన దాస్యం చేస్తూ) అలసిపోరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

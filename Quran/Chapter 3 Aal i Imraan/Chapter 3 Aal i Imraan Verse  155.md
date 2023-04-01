@@ -2676,6 +2676,12 @@ reṇḍu sain'yālu (uhud yud'dhāniki) talabaḍina dinamuna, vāstavāniki m�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇరు సమూహాలు ముఖాముఖీ అయిన రోజున మీలో కొందరు వెన్నుచూపారు. వారు చేసిన కొన్ని తప్పుల వల్ల షైతాన్‌ వారిని తడబాటుకు లోనుచేశాడు. అయినా అల్లాహ్‌ వారిని మన్నించాడు. అల్లాహ్‌ క్షమించేవాడు, సహనశీలుడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

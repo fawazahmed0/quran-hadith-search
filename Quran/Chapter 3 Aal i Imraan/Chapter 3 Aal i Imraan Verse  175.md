@@ -2676,6 +2676,12 @@ niścayaṅgā, ṣaitānē tana mitrula gurin̄ci mīlō bhayaṁ puṭṭistā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిజానికి (ఈ వార్త అందజేసిన) వాడు షైతాను. వాడు తన మిత్రుల గురించి మీకు భయపెట్టాడు. కనుక మీరు అవిశ్వాసులకు భయపడకండి, మీరు విశ్వాసులే అయితే నాకు భయపడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

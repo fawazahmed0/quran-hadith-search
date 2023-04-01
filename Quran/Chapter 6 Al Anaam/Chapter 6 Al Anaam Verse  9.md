@@ -2676,6 +2676,12 @@ mariyu okavēḷa mēmu daivadūtanu avatarimpajēsinā, atanini mēmu mānava r
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మేము దూతను పంపినా, అతన్ని మనిషిగానే చేసి ఉండేవారము. అప్పుడు మేము గైకొన్న ఈ చర్యవల్ల వారు ప్రస్తుతం ఏ సందేహానికి లోనై ఉన్నారో మళ్లీ అదే సందేహానికి లోనయ్యేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

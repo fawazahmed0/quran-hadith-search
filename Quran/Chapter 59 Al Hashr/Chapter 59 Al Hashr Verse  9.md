@@ -2676,6 +2676,12 @@ mariyu evaraitē - ī (valasa vaccinavāru) rākapūrvamē - viśvasin̄ci valas
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇకపోతే వీరికంటే ముందే ఈ ప్రదేశం (మదీనా)లోనూ, విశ్వాసంలోనూ స్థానికులై ఉన్నవారు (వారికి కూడా ఈ సొమ్ము వర్తిస్తుంది); వారు ఇల్లూ వాకిలిని వదలి తమ వైపుకు వలస వచ్చే ముహాజిర్లను ప్రేమిస్తారు. వారికి ఏమి ఇవ్వబడినా దానిపై తమ అంతర్యాలలో ఏ కాస్త అసూయను కూడా రానివ్వరు. తాము అమిత అవసరంలో ఉన్నప్పటికీ తమపైన వారికే ప్రాధాన్యతనిస్తారు. వాస్తవానికి తమ స్వార్థ ప్రియత్వం (పేరాశ) నుండి రక్షించబడినవారే కృతార్థులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu atani jātivāru atanitō vādulāṭaku digagā! Atanu vāritō annāḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతని జాతి వారు అతనితో పిడివాదానికి దిగినప్పుడు, అతనిలా అన్నాడు: “ఏమిటీ, మీరు అల్లాహ్‌ విషయంలో నాతో వాదులాడుతున్నారా? వాస్తవానికి ఆయన నాకు సన్మార్గం చూపించాడు. మీరు కల్పించే సహవర్తులకు నేను ఏమాత్రం భయపడను. అయితే నా ప్రభువు గనక తలిస్తే ఏమైనా జరగవచ్చు. నా ప్రభువు జ్ఞానం అన్నింటినీ ఆవరించి ఉంది. అయినా మీరు గ్రహించరా?”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

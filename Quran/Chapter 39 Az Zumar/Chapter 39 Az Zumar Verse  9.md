@@ -2676,6 +2676,12 @@ emi? Evadaite srad'dhato ratri ghadiyalalo sastangam (sajda) cestu mariyu nilici
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, ఏ వ్యక్తి అయితే రాత్రి వేళల్లో సాష్టాంగప్రణామం చేస్తూ, దైవారాధనలో నిలబడుతున్నాడో, పరలోకానికి భయపడుతూ, తన ప్రభువు కారుణ్యాన్ని ఆశిస్తున్నాడో అతను (మరియు దానికి విరుద్ధంగా ప్రవర్తించేవాడు – ఇద్దరూ సమానులు కాగలరా?). చెప్పండి – తెలిసినవారు, తెలియనివారు ఒక్కటేనా? బుద్ధిమంతులు మాత్రమే ఉపదేశాన్ని గ్రహిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

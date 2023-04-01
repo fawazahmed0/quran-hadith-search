@@ -2676,6 +2676,12 @@ o pravakta! Ni adhinanlo unna yud'dhakhaidilato ila anu: "Okavela allah mi hrday
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! మీ అధీనంలోవున్న ఖైదీలతో ఇలా చెప్పు: “అల్లాహ్‌ మీ హృదయాలలో ఏ కాస్త మంచి సంకల్పాన్ని చూసినా, మీ నుండి పుచ్చుకున్న దానికన్నా మేలైన దాన్నే మీకు ప్రసాదిస్తాడు. మీ తప్పుల్ని కూడా క్షమిస్తాడు. అల్లాహ్‌ క్షమించేవాడు, కరుణించేవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

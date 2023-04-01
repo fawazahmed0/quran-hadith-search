@@ -2676,6 +2676,12 @@ kāni evaraitē tama prabhuvu yeḍala bhayabhaktulu kaligi unnārō! Vāri kora
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే తమ ప్రభువుకు భయపడుతూ ఉండేవారికోసం (అంతస్తులుగా కట్టబడిన) మేడలున్నాయి. వాటిపై (మరిన్ని) అంతస్తులు నిర్మించబడి ఉన్నాయి. మరి వాటి క్రింద కాలువలు ప్రవహిస్తూ ఉన్నాయి. అల్లాహ్‌ వాగ్దానం ఇది. అల్లాహ్‌ తన వాగ్దానానికి విరుద్ధంగా చేయడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

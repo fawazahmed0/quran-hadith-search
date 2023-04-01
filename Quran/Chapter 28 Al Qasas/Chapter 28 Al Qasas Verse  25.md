@@ -2676,6 +2676,12 @@ taruvāta ā iddarilō okāme siggupaḍutū mellagā atani vaddaku vacci ilā a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అంతలోనే ఆ ఇద్దరు యువతులలో ఒకామె బిడియంతో అతని దగ్గరకు నడుచుకుంటూ వచ్చి, “మీరు మా (పశువుల)కు నీరు త్రాగించిన దానికి ప్రతిఫలం ఇవ్వటానికి, మా నాన్నగారు మిమ్మల్ని పిలుస్తున్నారు” అని చెప్పింది. మూసా ఆయన వద్దకు వచ్చినప్పుడు, తన వృత్తాంతమంతా వివరించాడు. “భయపడకు. నువ్వు దుర్మార్గ జనుల బారి నుంచి విముక్తి పొందావు” అని ఆయన ఓదార్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

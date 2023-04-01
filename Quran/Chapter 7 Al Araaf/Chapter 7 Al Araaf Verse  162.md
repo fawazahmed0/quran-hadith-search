@@ -2676,6 +2676,12 @@ kāni vārilō durmārgulaina vāru tamaku ceppabaḍina māṭanu mārci, marok
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారిలోని దుర్మార్గులు తమకు ఇవ్వబడిన వాక్కును మరొక మాటతో మార్చివేశారు. అందువల్ల మేము వారిపై ఆకాశం నుంచి ఆపదను పంపాము. ఎందుకంటే వారు చాలా అన్యాయంగా ప్రవర్తించేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

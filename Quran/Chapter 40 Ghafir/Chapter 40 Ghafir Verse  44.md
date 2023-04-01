@@ -2676,6 +2676,12 @@ Kāvuna nēnu mītō ceppē viṣayaṁ munmundu mīrē telusukōgalaru. Ika nā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మున్ముందు మీరు నేను చెప్పిన మాటల్ని జ్ఞాపకం చేసుకుంటారు. నేను మటుకు నా వ్యవహారాన్ని అల్లాహ్‌కు అప్పగిస్తున్నాను. నిశ్చయంగా అల్లాహ్‌ తన దాసులందరినీ చూస్తూనే ఉన్నాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

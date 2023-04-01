@@ -2676,6 +2676,12 @@ vāru: "Dāni raṅgu elā uṇḍālō māku telupamani nī prabhuvunu vēḍuk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అది ఏ రంగుదై ఉండాలో మాకు వివరించమని నీ ప్రభువును ప్రార్థించు” అని మళ్ళీ అడిగారు. “అది పసుపు వర్ణంగలదై, నిగనిగలాడుతూ, చూసేవారికి ఆకర్షణీయంగా కనిపించేలా ఉండాలన్నది అల్లాహ్‌ ఆజ్ఞ” అని మూసా సమాధానమిచ్చాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

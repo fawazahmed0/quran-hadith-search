@@ -2676,6 +2676,12 @@ mariyu mēmu atani koraku, phalakāla mīda prati vidhamaina upadēśānni prati
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి మేము మూసాకు పలకలపై అన్ని రకాల ఉపదేశాలనూ, అన్ని విషయాలకు సంబంధించిన వివరాలను వ్రాసి ఇచ్చాము. అతనికి ఇలా ఉపదేశించాము: “ఇక నువ్వు వీటిని చాలా గట్టిగా పట్టుకో. వీటిలోని ఉత్తమ ఆదేశాలను పాలించమని నీ జాతి వారికి ఆజ్ఞాపించు. అతి త్వరలోనే దుర్మార్గుల స్థానాన్ని మీకు చూపిస్తాను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

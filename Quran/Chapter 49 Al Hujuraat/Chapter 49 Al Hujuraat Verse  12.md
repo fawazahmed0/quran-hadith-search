@@ -2676,6 +2676,12 @@ o visvasulara! Atiga anumanincadam nundi duranga undandi, endukante konni anuman
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ విశ్వాసులారా! అతిగా అనుమానించటానికి దూరంగా ఉండండి. కొన్ని అనుమానాలు పాపాల క్రిందికి వస్తాయి సుమా! కూపీలు లాగకండి. మీలో ఎవరూ ఇంకొకరి గురించి వీపు వెనక చెడుగా (చాడీలు) చెప్పుకోకూడదు. ఏమిటి, మీలో ఎవరైనా చచ్చిపోయిన మీ సోదరుని మాంసం తినటానికి ఇష్టపడతారా? చూడండి, మీరు స్వయంగా దీన్ని ఏవగించుకుంటున్నారు. అల్లాహ్ కు భయపడుతూ ఉండండి. నిశ్చయంగా అల్లాహ్ పశ్చాత్తాపాన్ని స్వీకరించేవాడు, కరుణించేవాడూను
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

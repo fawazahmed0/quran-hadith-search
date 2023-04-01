@@ -2676,6 +2676,12 @@ Idi (ī khur'ān) mānavulaku antardr̥ṣṭi (parijñānaṁ) iccēdigānū ma
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇది (ఈ ఖుర్‌ఆన్‌) ప్రజలకు ముందు చూపును ఇచ్చే సూచనల సమాహారం. నమ్మి నడుచుకునే జనం కోసం మార్గదర్శిని, కారుణ్యప్రదాయిని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

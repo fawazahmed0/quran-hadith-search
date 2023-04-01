@@ -2676,6 +2676,12 @@ okavēḷa mēmu ī khur'ān nu ē parvataṁ painainā avatarimpajēsi uṇṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మేము ఈ ఖుర్ఆన్ ను ఏ పర్వతం మీదనో దింపి ఉంటే అది అల్లాహ్ భీతితో అణగారి, తునాతునకలై పోవటాన్ని నీవు చూసి ఉండేవాడివి. ప్రజలు యోచన చేయగలందులకు గాను మేము ఈ దృష్టాంతాలను వారికి వివరిస్తున్నాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ allāhvaiyaṉṟi" (nīṅkaḷ iṇaivaittuk koṇṭiruntavai eṅkē eṉṟ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అంటే) అల్లాహ్‌ను వదలి అన్న మాట. “వారు మా నుండి అదృశ్యమైపోయారు. కాదు, మేమింతకు ముందు అసలు దేనినీ మొరపెట్టుకోనేలేదు” అని వారు (తడబడుతూ) చెబుతారు. ఈ విధంగా అల్లాహ్‌ అవిశ్వాసులను దారి తప్పిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

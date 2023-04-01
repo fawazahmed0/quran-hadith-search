@@ -2676,6 +2676,12 @@ Niścayaṅgā, evaraitē satyānni tiraskaristū (prajalanu) allāh mārgaṁ n
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా ఎవరయితే అవిశ్వాసానికి ఒడిగట్టి, అల్లాహ్‌ మార్గం నుండి, మస్జిదె హరామ్‌ నుండి (జనులను) అడ్డుకుంటున్నారో, ఇంకా అక్కడ అన్యాయంగా అడ్డదారులు తొక్కాలని ప్రయత్నిస్తున్నారో వారికి మేము బాధాకరమైన శిక్ష రుచి చూపిస్తాం. వాస్తవానికి మేము దానిని సర్వమానవుల కోసం సమానంగా చేసి ఉన్నాము. స్థానికులకు, బయటి నుంచి వచ్చే వారికి కూడా (ఆ హక్కు సమానంగా వర్తిస్తుంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

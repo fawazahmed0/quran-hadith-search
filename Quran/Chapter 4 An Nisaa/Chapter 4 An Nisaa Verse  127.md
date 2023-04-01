@@ -2676,6 +2676,12 @@ mariyu vāru ninnu strīla vyavahāranlō gala dhārmika tīrpu (phatvā)nu guri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారు నిన్ను స్త్రీల విషయమై ధర్మాదేశం ఏమిటని అడుగుతున్నారు. వారికి చెప్పు: “అల్లాహ్‌ స్వయంగా వారి విషయంలో మిమ్మల్ని ఆదేశిస్తున్నాడు. ఇంకా తండ్రిలేని ఆడ పిల్లలకు మీరు, వారి కొరకు నిర్ధారించబడిన హక్కును వారికివ్వకుండా, వారిని వివాహమాడాలనే మీ కోరిక గురించీ, బలహీనులైన పిల్లల గురించీ మీకు వినిపించబడుతున్న ఖుర్‌ఆన్‌ ఆయతులు కూడా (మిమ్మల్ని ఆదేశిస్తున్నాయి). ఇంకా తండ్రిలేని బిడ్డల విషయంలో న్యాయంగా వ్యవహరించమని కూడా ఆయన మీకు ఆజ్ఞాపిస్తున్నాడు. మీరు ఏ మంచిపని చేసినా దాని గురించి అల్లాహ్‌కు పూర్తిగా తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

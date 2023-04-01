@@ -2676,6 +2676,12 @@ vāstavāniki, nēnu vāriki mariyu vāri taṇḍritātalaku prāpan̄cika sukh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పైగా నేను వారికీ, వారి పితామహులకు జీవన సామగ్రిని విరివిగా ప్రసాదించాను – చివరికి వారి వద్దకు సత్యం వచ్చేసింది. అన్నింటినీ విడమరచి చెప్పే ప్రవక్త కూడా వచ్చేశాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

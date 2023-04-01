@@ -2676,6 +2676,12 @@ kāni, vāru abad'dhīkuḍani tiraskarin̄cāru. Kāvuna mēmu atanini mariyu a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయినా వారు అతన్ని ధిక్కరిస్తూనే ఉన్నారు. అందుచేత మేము అతన్నీ, అతనితోపాటు ఓడలో ఉన్నవారినీ కాపాడాము. వారిని వారసులుగా చేశాము. మా ఆయతులను అసత్యాలని త్రోసిపుచ్చిన వారిని ముంచి వేశాము. చూడు! హెచ్చరించబడిన వారికి ఏ గతిపట్టిందో
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

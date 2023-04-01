@@ -2676,6 +2676,12 @@ mariyu paralōka jīvitānni viśvasin̄cani vāri hr̥dayālu ilāṇṭi (mōs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పరలోకాన్ని విశ్వసించని వారి మనసులు దానివైపుకు మొగ్గాలనీ, దానిని ఇష్టపడాలనీ, తాము ఒడిగట్టిన పాపాలకు వారు కూడా ఒడిగట్టాలని (వారీ మాయోపాయాలు చేస్తున్నారు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Niccayamāka, jiṉkaḷil cila (tiruk kur'āṉai) cevimaṭuttu(t tam iṉatt�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్ సల్లల్లాహు అలైహివ సల్లం!) వారికి చెప్పు: నాకు దివ్యవాణి (వహీ) ద్వారా ఇలా తెలియజేయబడింది – జిన్నుల సమూహం ఒకటి (ఖుర్ఆన్ ను ) విన్నది. వారు (తమ వాళ్లతో) ఇలా అన్నారు: “మేమొక అద్భుతమైన ఖుర్ఆన్ ను విన్నాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

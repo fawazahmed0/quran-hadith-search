@@ -2676,6 +2676,12 @@ viraintu ōṭātīrkaḷ, nīṅkaḷ aṉupavitta cuka pōkaṅkaḷukkum, u�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“పారిపోకండి. మీకు సుఖసౌఖ్యాలు ఇవ్వబడిన చోటికే, మీ విశ్రాంతి నిలయాల వైపే మరలిపోండి – బహుశా మీరు దానిని గురించి ప్రశ్నించబడతారేమో!” (అని వారితో అనబడింది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

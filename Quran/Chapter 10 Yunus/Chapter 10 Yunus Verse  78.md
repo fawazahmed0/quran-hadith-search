@@ -2676,6 +2676,12 @@ vārannāru: "Mā taṇḍritātalu naḍicina mārgaṁ nuṇḍi mam'malni ma�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి వారు, “మేము మా తాతముత్తాతలను ఏ పద్ధతిపై చూశామో ఆ పద్ధతి నుంచి మమ్మల్ని తప్పించటానికి నువ్వు మావద్దకు వచ్చావా?! ఇలా చేసి మీరిద్దరూ భూమిలో పెద్దరికం పొందాలనుకుంటున్నారా? మేమెన్నటికీ మీ ఇద్దరినీ విశ్వసించబోము” అని చెప్పారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mēmu mīpai mēghāla chāyanu kalpin̄cāmu mariyu man mariyu salvālan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మీపై మేఘాల ఛాయను కల్పించాము. మీపై మన్న్‌, సల్వాలను (ఆహారంగా) దించాము. “మేము మీకు ప్రసాదించిన పరిశుద్ధమైన వస్తువులను తినండి” (అని చెప్పాము. కాని, వారు ఆ అనుగ్రహాలు అనుభవించి కృతజ్ఞులయ్యే బదులు కృతఘ్నత చూపటం మొదలుపెట్టారు). వారు మాకెలాంటి అన్యాయం చేయలేదు, కాకపోతే వారు తమకు తామే అన్యాయం చేసుకుంటూ పోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

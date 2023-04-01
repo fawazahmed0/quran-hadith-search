@@ -2676,6 +2676,12 @@ evaraitē tāmu lōbhulai, itarulaku lōbhaṁ nērputārō vārinī mariyu all�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు పిసినారులుగా ప్రవర్తించటమే గాక, ఇతరులకు కూడా పిసినారితనాన్ని నేర్పుతారు. అల్లాహ్‌ తన అనుగ్రహం నుండి తమకు ప్రసాదించిన దాన్ని దాచిపెడతారు. ఇటువంటి తిరస్కారుల కొరకు మేము అవమానకరమైన శిక్షను సిద్ధం చేసి ఉంచాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ayananu prarthincatame vidyukta dharmam. Ayananu vadali varu prarthincevi (itara
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయన్ని (అల్లాహ్‌ను) వేడుకోవటమే సత్యం. ఆయన్ని వదలి వారు వేడుకుంటున్న వారంతా వారి ప్రార్థనలకు ఏ సమాధానమూ ఇవ్వలేరు. ఒక వ్యక్తి తన రెండు చేతులనూ నీళ్ళ వైపుకు చాచి, ఆ నీరు తన నోటిలోనికి వచ్చి పడాలని అనుకుంటే అది అతని నోటిలోనికి రాదు. (అల్లాహ్‌ను కాదని చిల్లర దేవుళ్లను పిలిచేవారి) ఈ పిలుపు కూడా అంతే. ఈ అవిశ్వాసుల ప్రార్థనలన్నీ అధర్మమైనవే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

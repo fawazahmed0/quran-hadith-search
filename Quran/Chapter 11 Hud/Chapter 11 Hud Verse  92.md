@@ -2676,6 +2676,12 @@ atanu annāḍu: "Ō nā jāti prajalārā! Ēmī? Nā kuṭumbaṁ mīku allāh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దానికి అతను ఇలా అన్నాడు: “ఓ నా జాతివారలారా! మీ దృష్టిలో నా వంశస్థులు అల్లాహ్‌ కన్నా ఎక్కువ గౌరవనీయులా?! తత్కారణంగానే మీరు ఆయన్ని వెనక్కి నెట్టేశారా? నిశ్చయంగా నా ప్రభువు మీ కార్యకలాపాలన్నింటినీ పరివేష్ఠించి ఉన్నాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

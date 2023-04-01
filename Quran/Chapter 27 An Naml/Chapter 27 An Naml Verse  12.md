@@ -2676,6 +2676,12 @@ ika nī cētini nī caṅkalō (jēbulō) peṭṭi (tīyi), adi elāṇṭi lō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నీ చేతిని నీ చొక్కా లోపల పెట్టుకో- అది ఎలాంటి లోపం లేకుండా ప్రకాశిస్తూ బయటికి వస్తుంది. నువ్వు తొమ్మిది నిదర్శనాలను తీసుకుని ఫిర్‌ఔన్‌ మరియు అతని జాతి వారి వద్దకు వెళ్ళు. నిశ్చయంగా వారు పరమ అవిధేయులు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

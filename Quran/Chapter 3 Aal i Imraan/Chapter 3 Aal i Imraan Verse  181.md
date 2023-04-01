@@ -2676,6 +2676,12 @@ niścayaṅgā, allāh pēdavāḍu mariyu mēmu dhanavantulamu." Ani ceppēvār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+”అల్లాహ్‌ పేదవాడు, మేము ధనికులం” అని అన్నవారి మాటను అల్లాహ్‌ విన్నాడు. వారి ఈ మాటను మేము వ్రాసుకుంటాము. వారు ప్రవక్తలను అన్యాయంగా హతమార్చటాన్ని కూడా మేము నమోదు చేసుకుంటాము. ”దహించే అగ్ని శిక్షను చవిచూడండి.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

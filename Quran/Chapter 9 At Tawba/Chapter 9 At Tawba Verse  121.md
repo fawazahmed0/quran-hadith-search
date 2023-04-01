@@ -2676,6 +2676,12 @@ Mariyu (allāh mārganlō) vāru kharcu cēsē dhanaṁ kon̄cemainā lēdā adh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అలాగే వారు (దైవ మార్గంలో) చిన్నమొత్తంలో ఖర్చు చేసినా, పెద్ద మొత్తంలో ఖర్చు చేసినా, ఏ లోయను దాటివెళ్ళినా – అల్లాహ్‌ వారి సత్కార్యాలకు అత్యుత్తమ ప్రతిఫలం ప్రసాదించే నిమిత్తం – అవన్నీ వారి పేర వ్రాయబడ్డాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

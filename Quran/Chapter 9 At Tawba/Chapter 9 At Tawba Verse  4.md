@@ -2676,6 +2676,12 @@ kāni ē bahudaivādhakulatōnaitē mīru oḍambaḍikalu cēsukoni unnārō, v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే మీరు ఒప్పందం కుదుర్చుకున్న తర్వాత మీకు ఎలాంటి నష్టం చేకూర్చడంగానీ, మీకు వ్యతిరేకంగా ఎవరికైనా సహాయం చేయటంగానీ చేయకుండా ఉన్న ముష్రిక్కులకు మాత్రం (ఈ ప్రకటన నుంచి) మినహాయింపు ఉంది. మీరు కూడా వారితోపాటు వారి ఒప్పంద గడువును పూర్తిచేయండి. నిశ్చయంగా అల్లాహ్‌ భయభక్తులుగల వారిని ప్రేమిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

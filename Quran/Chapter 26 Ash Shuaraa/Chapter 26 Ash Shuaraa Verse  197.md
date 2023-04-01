@@ -2676,6 +2676,12 @@ isrāyīl santati vārilōni vidvānsulu ī viṣayānni oppu kōvaṭaṁ vāri
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ సంగతి (ఖుర్‌ఆన్‌ వాస్తవికత) ఇస్రాయీలు సంతతికి చెందిన విద్వాంసులకు సయితం తెలిసి ఉండటం వారికొక నిదర్శనం కాదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

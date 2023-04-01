@@ -2676,6 +2676,12 @@ iṅkā ilā anu: "Niścayaṅgā, nannu allāh nuṇḍi evvaḍunū kāpāḍa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“అల్లాహ్ పట్టు నుండి నన్నెవరూ రక్షించలేరు. నేను ఆయన ఆశ్రయం తప్ప వేరొకరి ఆశ్రయాన్ని పొందలేను” అని (ఓ ప్రవక్తా! వారికి) చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

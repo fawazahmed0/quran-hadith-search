@@ -2676,6 +2676,12 @@ o pravakta! Ni bharyalato, ni kumartelato mariyu visvasinulaina strilatonu tama 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఓ ప్రవక్తా! తమపై నుంచి తమ దుప్పట్లను (క్రిందికి) వ్రేలాడేలా కప్పుకోమని నీ భార్యలకు, నీ కుమార్తెలకు, విశ్వాసులైన స్త్రీలకు చెప్పు. తద్వారా వారు చాలా తొందరగా (మర్యాదస్తులుగా) గుర్తించబడి, వేధింపుకు గురికాకుండా ఉంటారు. అల్లాహ్‌ క్షమించేవాడు, కనికరించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

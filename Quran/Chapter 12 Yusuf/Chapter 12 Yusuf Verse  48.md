@@ -2676,6 +2676,12 @@ a taruvata cala kathinamaina edu sanvatsaralu vastayi, vatilo miru munde niluva 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఆ తరువాత తీవ్రమైన (దుర్భిక్షంతో కూడుకున్న) ఏడు సంవత్సరాలు వస్తాయి. మీరు ముందుగా వాటి కోసం నిలువ చేసి ఉంచిన దానిని అవి హరిస్తాయి. ఒకవేళ కొద్దిగా ఏమైనా మిగిలితే అది మీరు దాచిపెట్టి ఉంచుకున్నదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

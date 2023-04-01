@@ -2676,6 +2676,12 @@ Mariyu vāru (aviśvāsulu) ninnu kalavarapeṭṭi, ninnu ī bhūmi nuṇḍi v
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ (నీ తరఫున) అదే గనక జరిగి ఉంటే మేము ఈ జీవితంలోనూ నీకు రెట్టింపు శిక్షను విధించేవాళ్లం. మరణం తర్వాత కూడా రెండింతల శిక్షను విధించి ఉండేవాళ్ళం. మరి మాకు వ్యతిరేకంగా, నువ్వు ఏ సహాయకుడినీ పొందలేక పోయేవాడివి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

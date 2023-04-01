@@ -2676,6 +2676,12 @@ mariyu ō nā jāti prajalārā! Mīru n'yāyaṅgā mariyu sariggā kolavaṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఓ నా జాతివారలారా! కొలతలు, తూనికలలో పూర్తిగా, న్యాయంగా వ్యవహరించండి (పూర్తిగా ఇవ్వండి). ప్రజలకు వారి వస్తువులను తగ్గించి ఇవ్వకండి. భూమిలో సంక్షోభాన్ని సృష్టించకండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

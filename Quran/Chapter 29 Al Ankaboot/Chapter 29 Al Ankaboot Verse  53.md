@@ -2676,6 +2676,12 @@ mariyu vāru (aviśvāsulu) śikṣanu tvaragā tīsuku ram'mani ninnu kōru tun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాళ్లు శిక్ష కోసం నిన్ను తొందరపెడుతున్నారు. (నా తరఫునే గనక) ఒక సమయం నిర్ధారించబడకుండా ఉన్నట్లయితే ఈ పాటికి శిక్ష వీళ్ళ వద్దకు వచ్చి ఉండేదే. వారికి తెలియని స్థితిలో అది వారిపై అమాంతం వచ్చిపడటం ఖాయం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

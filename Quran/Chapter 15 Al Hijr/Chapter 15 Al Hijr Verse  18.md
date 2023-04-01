@@ -2676,6 +2676,12 @@ kāni, evaḍainā (ē ṣaitānainā) doṅgacāṭugā vinaṭāniki prayatnis
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాకపోతే దొంగచాటుగా (ఎవడైనా అక్కడి రహస్య విషయాలను) వినటానికి ప్రయత్నించినప్పుడు స్పష్టమైన అగ్నిజ్వాల ఒకటి వాడ్ని వెంటాడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

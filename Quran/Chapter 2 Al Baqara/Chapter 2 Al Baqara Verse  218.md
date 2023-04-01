@@ -2676,6 +2676,12 @@ niścayaṅgā, viśvasin̄cina vāru mariyu (allāh mārganlō tama janmabhūmi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే విశ్వసించినవారు, హిజ్రత్‌ చేసిన (వలసపోయిన) వారు, దైవ మార్గంలో పోరాడేవారు మాత్రమే దైవ కారుణ్యానికి అభ్యర్థులు. అల్లాహ్‌ అమితంగా క్షమించేవాడు, అపారంగా కరుణించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

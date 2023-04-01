@@ -2676,6 +2676,12 @@ kāvuna (ō muham'mad!) Vāru palikē māṭalaku nīvu ōrpu vahin̄cu. Sūryu�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ముహమ్మద్‌!) వారు కల్పించే మాటలపై ఓర్పు వహించు. నీ ప్రభువు స్తోత్రంతో పాటు,ఆయన పవిత్రతను కొనియాడు. సూర్యోదయం కాకముందు, సూర్యాస్తమయానికి ముందు, రాత్రివేళల్లోనూ, పగటి అంచుల్లోనూ ప్రభువును ధ్యానిస్తూ ఉండు. తద్వారా నువ్వు సంతృప్తి చెందే అవకాశం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

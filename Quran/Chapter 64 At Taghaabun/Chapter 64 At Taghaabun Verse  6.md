@@ -2676,6 +2676,12 @@ dīniki kāraṇamēmiṭaṇṭē, vāstavāniki vāri vaddaku vāri pravaktalu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎందుకంటే, వారి దగ్గరకు వారి ప్రవక్తలు స్పష్టమైన నిదర్శనాలను తీసుకువచ్చినప్పుడు, “ఏమిటీ, మానవమాత్రులు మాకు మార్గదర్శకత్వం వహిస్తారా?” అని వారు (చులకనగా) మాట్లాడారు. ఆ విధంగా వారు (సత్యాన్ని) తిరస్కరించారు. ముఖాలు త్రిప్పుకున్నారు. మరి అల్లాహ్ కూడా వారిని పట్టించుకోలేదు. అల్లాహ్ నిరపేక్షాపరుడు. అన్ని విధాలా ప్రశంసనీయుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

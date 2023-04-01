@@ -2676,6 +2676,12 @@ mariyu (jñāpakamun̄cukō) vāstavāniki mēmu pravaktalandari nuṇḍi vāgd
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఆ సందర్భాన్ని జ్ఞాపకం చేసుకో) మేము ప్రవక్తలందరి నుండి వాగ్దానం తీసుకున్నాము- (ముఖ్యంగా) నీ నుండి, నూహ్‌ నుండి, ఇబ్రాహీం నుండి, మూసా నుండి, మర్యమ్‌ కుమారుడైన ఈసా నుండి. మేము వారందరి నుండి గట్టి వాగ్దానం తీసుకున్నాము –
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

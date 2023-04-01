@@ -2676,6 +2676,12 @@ mariyu ākāśālalōnu mariyu bhūmilōnu unna samasta prāṇulu mariyu dēvad
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిశ్చయంగా ఆకాశాలలోనూ, భూమిలోనూ ఉన్న సమస్త ప్రాణులు, దూతలు – అందరూ అల్లాహ్‌ సన్నిధిలో సాష్టాంగపడుతున్నారు – ఏమాత్రం అహంకారం చూపటం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

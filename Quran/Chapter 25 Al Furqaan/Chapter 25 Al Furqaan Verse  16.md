@@ -2676,6 +2676,12 @@ Andulō vāriki vāru kōrindi labhistundi. Vārandu śāśvataṅgā vuṇṭā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు (స్వర్గవాసులు) కోరుకున్నదల్లా అందులో వారికి లభిస్తుంది. వారందులో శాశ్వతంగా ఉంటారు. అర్థించదగిన ఈ వాగ్దానాన్ని నెరవేర్చవలసిన బాధ్యత నీ ప్రభువుపై ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

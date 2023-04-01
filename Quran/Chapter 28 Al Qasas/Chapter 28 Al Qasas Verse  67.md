@@ -2676,6 +2676,12 @@ kāni evaḍaitē paścāttāpa paḍi, viśvasin̄ci, satkāryālu cēstāḍō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయితే ఎవరు పశ్చాత్తాపం చెంది, విశ్వసించి, సదాచరణ చేస్తారో వారు సాఫల్యం పొందేవారిలో చేరే అవకాశం ఎంతైనా ఉందని ఆశించవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

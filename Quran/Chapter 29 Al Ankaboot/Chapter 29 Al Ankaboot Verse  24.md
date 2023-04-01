@@ -2676,6 +2676,12 @@ Ika atani (ibrāhīm) jātivāri javābu ī vidhaṅgā anaḍaṁ tappa maroka�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి అతని (ఇబ్రాహీము) జాతివారు, “ఇతన్ని చంపేయండి లేదా ఇతన్ని కాల్చేయండి” అని అన్నారు. అంతకుమించి వారి దగ్గర ఏ సమాధానమూ లేకపోయింది. ఎట్టకేలకు అల్లాహ్‌ అతన్ని అగ్ని నుంచి కాపాడాడు. విశ్వసించే జనుల కోసం ఇందులో ఎన్నో సూచనలున్నాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

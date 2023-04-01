@@ -2676,6 +2676,12 @@ mariyu (allāh) gr̥haṁ (ka'abah) vadda vāri prārthanalu, kēvalaṁ īlalu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కాబా గృహం వద్ద వారు చేసే నమాజ్‌ ఈలలు వేయటం, చప్పట్లు చరచటం తప్ప మరొకటి కాదు. కనుక మీరు ఒడిగట్టిన తిరస్కార వైఖరికి ప్రతిఫలంగా ఈ శిక్షను చవిచూడండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

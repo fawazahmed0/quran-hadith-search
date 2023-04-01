@@ -2676,6 +2676,12 @@ avarkaḷ um'miṭam iṟutit tīrppu nāḷ eppoḻutu varum eṉṟu viṉavuk
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇంతకీ ఆ ఘడియ ఎప్పుడొస్తుందీ?’ అని వారు నిన్ను ప్రళయం గురించి అడుగుతున్నారు కదూ! “ఆ జ్ఞానం మాత్రం నా ప్రభువు వద్దనే ఉంది. ఆ సమయం ఆసన్నమైనపుడు ఆయన మాత్రమే దాన్ని ప్రత్యక్షపరుస్తాడు. అది ఆకాశాలలోనూ, భూమిలోనూ మహా బరువైనది (విపత్కరమైన సంఘటన)గా ఉంటుంది. అది అకస్మాత్తుగానే మీపై వచ్చిపడుతుంది” అని (ఓ ప్రవక్తా!) వారికి చెప్పు. నీవు దాని గురించి పరిశోధన చేసి కనుగొన్నట్లే వారు నిన్ను అడుగుతున్నారు. “దాని జ్ఞానం కేవలం అల్లాహ్‌ వద్ద మాత్రమే ఉంది. కాని చాలా మంది ఈ విషయాన్ని తెలుసుకోరు” అని వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

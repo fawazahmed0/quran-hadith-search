@@ -2676,6 +2676,12 @@ On hangom, ki did, ki namexūrand, pas dar dilaş az onho tarse joft. Guftand (�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(అప్పటికీ వారు తినకపోయేసరికి) వారి గురించి లోలోపలే భయపడిపోయాడు. “భయపడకండి” అని వారు అభయమిచ్చారు. ఇంకా వారతనికి జ్ఞానసంపన్నుడైన అబ్బాయి పుడతాడని శుభవార్త వినిపించారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

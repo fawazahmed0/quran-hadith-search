@@ -2676,6 +2676,12 @@ idantā mīru pōyina dāniki nirāśa cendakūḍadani mariyu mīku iccina dān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పోయే దానిపై మీరు దుఖించకుండా, ప్రసాదించబడిన దానిపై మిడిసిపడకుండా ఉండాలని (మీకీ సంగతి తెలియజేయబడింది). అదిరిపడే ఏ అహంభావినీ అల్లాహ్ ఇష్టపడడు సుమా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

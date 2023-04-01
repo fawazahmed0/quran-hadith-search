@@ -2676,6 +2676,12 @@ alāṇṭi vāru! Vārē, nijamaina viśvāsulu. Vāri prabhuvu vadda vāriki u
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నిజమైన విశ్వాసులంటే వీరే. వీరి కొరకు వీరి ప్రభువు వద్ద ఉన్నత స్థానాలు ఉన్నాయి. మన్నింపు ఉంది. గౌరవప్రదమైన ఆహారం ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

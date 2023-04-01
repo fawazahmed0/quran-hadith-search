@@ -2676,6 +2676,12 @@ I karunam vallane memu israyil santati variki i uttaruvu iccamu: "Niscayanga - o
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఈ కారణంగానే మేము ఇస్రాయీలు సంతతిపై ఈ ఫర్మానా విధించాము: “ఎవరయినా ఒకరి హత్యకు ప్రతీకారంగా కాకుండా, భూమిలో కల్లోలాన్ని రేకెత్తించినందుకు కాకుండా, అకారణంగా ఎవరినయినా చంపినట్లయితే అతడు సమస్త మానవులను చంపినవాడవుతాడు. అలాగే ఎవరయినా ఒకరి ప్రాణాన్ని రక్షిస్తే అతడు సమస్త మానవుల ప్రాణాలను రక్షించిన వాడవుతాడు.” వారి వద్దకు మా ప్రవక్తలెందరో స్పష్టమయిన నిదర్శనాలను తీసుకువచ్చారు. కాని ఆ తరువాత కూడా వారిలో చాలా మంది అవనిలో దుర్మార్గం, దౌర్జన్యాలకు పాల్పడేవారు ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mariyu sāravantamaina nēla tana prabhuvu ādēśantō puṣkalaṅgā paṇṭ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మంచి నేల తన ప్రభువు ఆదేశానుసారం పుష్కలమైన పంటనిస్తుంది. (దీనికి భిన్నంగా) చెడ్డ నేల చాలా తక్కువ ఉత్పత్తిని మాత్రమే ఇస్తుంది. ఈ విధంగా మేము కృతజ్ఞులై ఉండేవారి కోసం నిదర్శనాలను పలు విధాలుగా విశ్లేషించి చెబుతాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

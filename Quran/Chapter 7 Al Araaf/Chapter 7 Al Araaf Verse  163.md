@@ -2676,6 +2676,12 @@ Mariyu samudra tīramu nandunna ā nagara (vāsulanu) gurin̄ci vārini aḍugu;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) సముద్ర తీరాన నివసించిన బస్తీ ప్రజల స్థితిగతులను గురించి వారిని (యూదులను) అడుగు. వారు శనివారం నాటి విషయంలో హద్దుమీరి ప్రవర్తించేవారు. మరి ఆ శనివారం నాడే చేపలు పైపైకి తేలియాడుతూ వారి ముందుకు వచ్చేవి. శనివారం కాని దినాలలో అవి వారి ముందుకు వచ్చేవి కావు. వారి అవిధేయత మూలంగా మేము వారిని ఈ విధంగా పరీక్షకు గురి చేసేవారము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

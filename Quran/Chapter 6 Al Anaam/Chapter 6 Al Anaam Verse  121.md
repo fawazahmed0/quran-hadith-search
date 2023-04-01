@@ -2676,6 +2676,12 @@ Mariyu allāh pēru smarin̄cabaḍani dānini tinakaṇḍi. Mariyu adi (tina�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ పేరు స్మరించబడని జంతువులను తినకండి. ఎందుకంటే ఇది ఆజ్ఞోల్లంఘన క్రిందికి వస్తుంది. మీతో వాదులాడటానికి షైతానులు తమ మిత్రులను ఉసిగొల్పుతుంటారు. ఒకవేళ మీరు గనక వారిని అనుసరించారంటే మీరు కూడా అల్లాహ్‌కు సహవర్తుల్ని కల్పించినవారు (ముష్రిక్కులు) అయిపోతారు (జాగ్రత్త)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

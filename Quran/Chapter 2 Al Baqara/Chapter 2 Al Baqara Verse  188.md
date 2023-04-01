@@ -2676,6 +2676,12 @@ mariyu mīru okari som'munu marokaru an'yāyaṅgā kabaḷin̄cakaṇḍi mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకరి సొమ్మును ఇంకొకరు అన్యాయంగా స్వాహా చేయకండి. బుద్ధిపూర్వకంగా, అక్రమమైన రీతిలో ఇతరుల ఆస్తిలో కొంతభాగం కాజేయటం కోసం అధికారులకు ముడుపులు చెల్లించకండి. అది (న్యాయం కాదన్న సంగతి) మీకూ తెలిసినదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

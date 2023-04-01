@@ -2676,6 +2676,12 @@ taruvāta mēmu nīku (ō muham'mad!) Ī sandēśānni pampāmu: "Nīvu ibrāhī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తరువాత మేము, ఏకాగ్రచిత్తుడైన ఇబ్రాహీం ధర్మాన్ని అనుసరించమని నీ వద్దకు వహీ పంపాము. అతడు బహుదైవోపాసకులలో చేరినవాడు కాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

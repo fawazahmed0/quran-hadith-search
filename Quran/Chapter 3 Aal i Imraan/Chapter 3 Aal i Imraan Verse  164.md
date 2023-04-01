@@ -2676,6 +2676,12 @@ Vāstavāniki allāh viśvāsulaku mahōpakāraṁ cēśāḍu; vāri nuṇḍiy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ విశ్వాసులకు చేసిన మహోపకారం ఏమిటంటే, ఆయన వారిలో నుండే ఒక ప్రవక్తను ఎన్నుకుని వారి వద్దకు పంపాడు. అతడు వారికి ఆయన వాక్యాలను చదివి వినిపిస్తాడు. వారిని పరిశుద్ధుల్ని చేస్తాడు. వారికి గ్రంథ జ్ఞానాన్నీ, వివేకాన్నీ బోధిస్తాడు. నిశ్చయంగా అంతకు ముందైతే వాళ్ళు స్పష్టమైన అపమార్గానికి లోనై ఉండేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

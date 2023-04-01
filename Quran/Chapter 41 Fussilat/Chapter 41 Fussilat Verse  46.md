@@ -2676,6 +2676,12 @@ evaḍaitē satkāryaṁ cēstāḍō ataḍu tana (mēlu) korakē cēstāḍu. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయినా సత్కార్యం చేస్తే తన మేలు కోసమే చేసుకుంటాడు. మరెవరయినా దుష్కార్యానికి ఒడిగడితే దాని దుష్ఫలితం అతని మీదే పడుతుంది. నీ ప్రభువు మాత్రం (తన) దాసులకు అన్యాయం చేసేవాడు కాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

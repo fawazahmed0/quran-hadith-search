@@ -2676,6 +2676,12 @@ dīniki hāni kaligin̄cakaṇḍi. Alā cēstē oka mahā dinapu śikṣa mim'm
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(జాగ్రత్త!) దీన్ని దురుద్దేశంతో తాకకండి. (ఒకవేళ మీరు అలా చేశారంటే) పర్యవసానంగా ఒక మహాదినపు విపత్తు మిమ్మల్ని చుట్టుముట్టుతుంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

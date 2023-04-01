@@ -2676,6 +2676,12 @@ vāstavāniki, mīru (kāmantō) puruṣula vaddaku pōtunnāru! Mariyu dāri ko
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఏమిటి? మీరు పురుషుల వద్దకు పోయి పాడుపని చేస్తారా? దారిని మూసేస్తారా? మీరు మీ సమావేశాల్లోనే (నిస్సిగ్గుగా) నీతిబాహ్యమైన పనులకు ఒడిగడతారా?” దీనికి సమాధానంగా అతని జాతి వారు, “సరే! నువ్వు సత్యవంతుడవే అయితే మాపైకి దైవశిక్షను తీసుకురా!” అని అనటం తప్ప మరేమీ చెప్పలేకపోయారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

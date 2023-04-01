@@ -2676,6 +2676,12 @@ a dinamuna, ayana mim'malni pilicinapudu! Miru ayana pilupuku samadhananga ayana
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు ఆయన మిమ్మల్ని పిలుస్తాడు. అప్పుడు మీరు ఆయన్ని స్తుతిస్తూ (ఆయన పిలుపుకు) హాజరు పలుకుతారు. అప్పుడు మీరు ‘మేము కొద్ది సమయం మాత్రమే (ప్రపంచంలో) ఉన్నామ’ని అనుకుంటారు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Lēka (satyatiraskārula paristhiti) cālā lōtugala samudranlōni cīkaṭlava
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+లేదా (వారికర్మల ఉపమానం) లోతైన సముద్రపు (అట్టడుగున ఉన్న) చీకట్ల వంటిది. దానిపై అల, ఆపైన మరో అల కమ్ముకొని ఉంది. వాటిపై మేఘాలు ఆవరించి వున్నాయి. ఆ విధంగా చీకట్లు ఒకదానిపై ఒకటి (దట్టంగా) అలుముకుని ఉన్నాయి. ఎవరయినా తమ చేతిని బయటికి తీస్తే కానరాని పరిస్థితి అది! (యదార్థ మేమిటంటే) అల్లాహ్‌ ఎవరికి కాంతిని వొసగడో అతనికి కాంతి అనేదే లభించదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

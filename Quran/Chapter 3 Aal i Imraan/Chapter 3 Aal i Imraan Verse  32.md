@@ -2676,6 +2676,12 @@ Ej Pajomʙar ʙigū: Ito'ati Alloh kuned ʙo pajravī kardani kitoʙaş va ito'a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇంకా వారికి చెప్పు : ”మీరు అల్లాహ్‌కూ, ప్రవక్తకూ విధేయులై ఉండండి.” ఒకవేళ వారు విముఖత చూపితే అల్లాహ్‌ తిరస్కారులను ఏ మాత్రం ఇష్టపడడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

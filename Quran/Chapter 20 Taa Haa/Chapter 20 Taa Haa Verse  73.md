@@ -2676,6 +2676,12 @@ niścayaṅgā, mēmu mā prabhuvunandē viśvāsamun̄cāmu, āyana (allāh) y�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభువు మా తప్పులను క్షమించేటందుకు,(ముఖ్యంగా) నువ్వు బలవంతంగా మాచేత చేయించిన మాయాజాలపు మహా పరాధాన్ని మన్నించేటందుకు మేము ఆయన్ని విశ్వసించాము. అల్లాహ్‌యే ఉత్తముడు, ఎప్పటికీ మిగిలి ఉండేవాడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

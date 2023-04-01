@@ -2676,6 +2676,12 @@ vāri madhya, baṅgāru paḷḷālu mariyu kappulu trippabaḍatāyi mariyu an
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి వద్దకు నలువైపుల నుంచి బంగారు పళ్లాలూ, బంగారు గ్లాసులూ తేబడతాయి. మనసు కోరేవీ, కళ్లు ఆస్వాదించేవీ- అన్నీ అక్కడ ఉంటాయి. అందులో మీరు కలకాలం (సుఖంగా) ఉంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

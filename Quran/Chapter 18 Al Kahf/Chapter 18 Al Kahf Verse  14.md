@@ -2676,6 +2676,12 @@ mariyu mēmu vāri hr̥dayālaku dr̥ḍhatvānni prasādin̄cāmu. Vāru lēci 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు లేచి నిలబడి ఈ ప్రకటన చేసినప్పుడు మేము వారి హృదయాలకు దృఢత్వాన్ని కలుగజేశాము; “భూమ్యాకాశాలకు ప్రభువైనవాడే మా ప్రభువు. మేము ఆయన్ని తప్ప వేరొక ఆరాధ్య దైవాన్ని పిలవటమన్నది జరగని పని. ఒకవేళ మేము గనక అలా చేస్తే ఎంతో దుర్మార్గపు మాటను పలికిన వారమవుతాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

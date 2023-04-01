@@ -2676,6 +2676,12 @@ Kāvuna mēmu vāripai jalapraḷayaṁ (tūphān), miḍutala daṇḍu, pēnul
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ తరువాత మేము వారిపై తుఫానును, మిడతల దండును పంపాము. ధాన్యపు పురుగులను, కప్పల రక్తాన్నీ వదిలాము. వాస్తవానికి ఇవన్నీ స్పష్టమయిన మహిమలు. అయినప్పటికీ వారు అహంకారాన్ని చూపారు. అసలు విషయం ఏమిటంటే వారు అపరాధజనులు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

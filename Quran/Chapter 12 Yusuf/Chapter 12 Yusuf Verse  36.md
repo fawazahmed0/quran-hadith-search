@@ -2676,6 +2676,12 @@ mariyu atanitō bāṭu iddaru yuvakulu kūḍā cerasālalō pravēśin̄cāru.
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అతనితో పాటు మరో ఇద్దరు యువకులు కూడా కారాగారానికి వచ్చారు. వారిలో ఒకడు, “నేను సారాయి పిండుతున్నట్లు కలగన్నాన” ని అన్నాడు. రెండో అతను, “నేను (కలలో) నా తలపై రొట్టెలు ఎత్తుకొని ఉన్నాను. వాటిని పక్షులు తింటున్నాయ” ని చెప్పాడు. “దీని మర్మం ఏమిటో కాస్త మాకు చెప్పండి. చూస్తుంటే,మీరు మాకు మంచివారుగా కనిపిస్తున్నారు” అని వారిద్దరూ విన్నవించుకున్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu mā sūcana (āyāt) laku sambandhin̄cina viṣayaṁ ataniki telisinapp
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మా వాక్యాలలోని ఏదైనా విషయం అతనికి తెలిసినప్పుడు, దాన్ని ఎగతాళి చేస్తాడు. అవమానకరమైన శిక్ష ఉన్నది ఇలాంటి వారికోసమే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

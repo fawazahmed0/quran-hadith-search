@@ -2676,6 +2676,12 @@ o visvasulara! Miru balavantanga strilaku varasulu kavatam miku dharmasam'matam 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వసించిన ఓ ప్రజలారా! మీరు బలవంతంగా స్త్రీలకు వారసులై కూర్చోవటం మీకు ధర్మసమ్మతం కానేరదు. మీరు వారికి ఇచ్చిన దానిలో (మహర్‌) నుంచి కొంత సొమ్ము కాజేసే ఉద్దేశ్యంతో వారిని ఆపి ఉంచుకోకండి. ఒకవేళ వారు గనక బాహాటంగా ఏదైనా నీతిమాలిన పనికి పాల్పడితే అది వేరే విషయం. వారితో ఉత్తమరీతిలో కాపురం చేయండి. ఒకవేళ వారు మీకు నచ్చకపోతే బహుశా ఏదో ఒక్క విషయం మూలంగా మీకు నచ్చకపోవచ్చు. కాని మీకు నచ్చని ఆ విషయంలోనే అల్లాహ్‌ అపారమైన శుభాన్ని పొందుపరచాడేమో! (మీకేం తెలుసు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē mam'malni kalusukōvaṭānni āśin̄caka, ihalōka j
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మిమ్మల్ని కలుసుకునే విషయంపై నమ్మకం లేని వారికీ, ప్రాపంచిక జీవితంతోనే సంతోషించిన వారికీ, దానితోనే సంతృప్తి చెందిన వారికీ, మా ఆయతుల పట్ల నిర్లక్ష్యభావం ప్రదర్శించిన వారికీ –
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Bo in Qur'on, ki ʙa tu - ej Rasul, vahj kardaem, ʙehtarin qissahoro hikojat me
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) మేము నీ వద్దకు ‘వహీ’ ద్వారా ఈ ఖుర్‌ఆన్‌ను పంపి, (దీని ద్వారా) అత్యుత్తమమైన గాధలను నీకు చెబుతున్నాము. నిశ్చయంగా ఇంతకు మునుపు నీకు దీని (ఈ గాధల) గురించి ఏమీ తెలియదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ emi? Vastavaniki memu bhumini anni vaipula nundi taggistu vastunnamanedi varu cu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము భూమిని దాని అంచుల (ఎల్లల)నుంచి ఎలా కుదించుకుంటూ వస్తున్నామో వారు గమనించటం లేదా? అల్లాహ్‌ ఆదేశాలు జారీ చేస్తాడు, ఆయన ఆదేశాలను పునఃపరిశీలించే వాడెవడూ లేడు. ఆయన చాలా వేగంగా లెక్క తీసుకునేవాడు కూడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

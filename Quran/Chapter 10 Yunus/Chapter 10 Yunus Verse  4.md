@@ -2676,6 +2676,12 @@ ayana vaipunake mirandaru marali povalasi undi. Allah vagdanam nijamainadi. Nisc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీరంతా ఆయన వద్దకే మరలిపోవలసి ఉంది. అల్లాహ్‌ వాగ్దానం సత్యమైనది. నిస్సందేహంగా ఆయనే తొలిసారి పుట్టిస్తాడు, మరి విశ్వసించి, మంచిపనులు చేసిన వారికి న్యాయసమ్మతంగా పుణ్యఫలం ప్రసాదించేందుకు మలిసారి పుట్టించేవాడు కూడా ఆయనే. సత్యాన్ని తిరస్కరించిన వారికి వారి తిరస్కారవైఖరి మూలంగా త్రాగటానికి సలసలాకాగే నీరు, బాధాకరమైన శిక్ష ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

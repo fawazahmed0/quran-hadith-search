@@ -2676,6 +2676,12 @@ Vāru, evarinaitē vīru prārthistū unnārō, vārē tama prabhuvu sānnidhyā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వీళ్లు ఎవరిని పిలుస్తున్నారో వారే స్వయంగా తమ ప్రభువు సామీప్యం కోసం మార్గాన్ని వెతుక్కుంటున్నారు. తమలో ఎవరు ఎక్కువ సామీప్యం పొందుతారోనని (పోటీపడుతున్నారు). వారు ఖుద్దుగా ఆయన కారుణ్యాన్ని ఆశిస్తున్నారు. ఆయన శిక్ష పట్ల భీతిల్లుతున్నారు. (అవును మరి) నీ ప్రభువు శిక్ష భయపడ దగినదే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

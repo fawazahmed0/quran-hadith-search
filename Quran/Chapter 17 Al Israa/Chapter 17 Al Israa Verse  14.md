@@ -2676,6 +2676,12 @@ nī uṉ puttakattaip paṭittup pār! Iṉṟu uṉakku etirāka uṉṉuṭaiy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“(ఇదిగో!) నువ్వు స్వయంగా నీ పుస్తకాన్ని చదువుకో. ఈ రోజు నీ లెక్క తీసుకోవటానికి నువ్వే చాలు” (అని అతనితో అనబడుతుంది)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

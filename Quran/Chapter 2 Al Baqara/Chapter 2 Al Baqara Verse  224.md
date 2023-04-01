@@ -2676,6 +2676,12 @@ mariyu mīru allāh (pērutō) cēsē pramāṇālu mim'malni sanmārgaṁ nuṇ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+సత్కార్యాన్నీ, భయభక్తులనూ, మానవుల మధ్య సంస్కరణను విడిచిపెట్టే పరిస్థితి ఏర్పడేలా – మీరు అల్లాహ్‌ను మీ ‘ప్రమాణా’లకు లక్ష్యంగా పెట్టకండి. అల్లాహ్‌ సర్వం వినేవాడు, సర్వం తెలిసినవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

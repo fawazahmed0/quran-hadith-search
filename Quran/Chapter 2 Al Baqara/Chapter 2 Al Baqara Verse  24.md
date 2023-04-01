@@ -2676,6 +2676,12 @@ kānī, okavēḷa mīru alā cēyalēka pōtē - niścayaṅgā, mīru alā cē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ మీరు గనక ఈ పని చెయ్యకపోతే- ఎన్నటికీ అది మీ వల్ల కాని పనే- (దీన్ని సత్యమని ఒప్పుకుని) మానవులు,రాళ్ళు ఇంధనం కాగల ఆ అగ్ని నుండి (మిమ్మల్ని మీరు) కాపాడుకోండి. అది సత్య తిరస్కారుల కోసం తయారు చేయబడింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

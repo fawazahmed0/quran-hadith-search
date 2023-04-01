@@ -2676,6 +2676,12 @@ Mariyu vārini narakaṁ mundu nilabeṭṭabaḍinapuḍu, nīvu cūḍagaligit
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నరకం దగ్గర వారు నిలబెట్టబడినప్పుడు నీవు వారిని చూస్తే (ఎంత బావుండు!) – “అయ్యో! మేము మళ్లీ తిరిగి పంపబడితే బావుండునే! అదే గనక జరిగితే మేము మా ప్రభువు సూచనలను తిరస్కరించము. ఇంకా మేము విశ్వాసులలో చేరిపోతాము!” అని (ఆ సమయంలో) వారు పలుకుతారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

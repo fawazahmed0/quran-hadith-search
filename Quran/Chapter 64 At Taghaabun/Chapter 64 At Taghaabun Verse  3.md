@@ -2676,6 +2676,12 @@ ayana akasalanu mariyu bhumini satyanto srstincadu mariyu mim'malni uttama rupan
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయన ఆకాశాలనూ, భూమినీ (న్యాయంతో), సమతూకం (సత్యం)తో సృష్టించాడు. మరి (అయన) మీ రూపు రేఖలను తీర్చిదిద్దాడు. మీకు చాల మంచి రూపమిచ్చాడు. కడకు చేరుకోవలసింది అయన వద్దకే
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ mariyu niścayaṅgā, mīku paśuvulalō oka guṇapāṭhaṁ di. Vāṭi ka�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీ కోసం పశువులలో కూడా ఒక గుణపాఠం ఉంది. వాటి కడుపులలో ఉన్న పేడకు – రక్తానికి మధ్యలో నుంచి స్వచ్ఛమైన పాలు మీకు త్రాగిస్తున్నాము. త్రాగేవారికి అది కమ్మగా ఉంటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ taurāt bādhyata (bhāraṁ) mōpabaḍina taruvāta dānipai amalu cēyalēka 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తౌరాతు గ్రంథం ప్రకారం ఆచరించాలని ఆదేశించబడినప్పటికీ, దానికి అనుగుణంగా ఆచరించనివారి ఉపమానం ఎన్నో గ్రంథాలు (వీపుపై) మోపబడిన గాడిదలాంటిది. అల్లాహ్ వాక్యాలను ధిక్కరించినవారి దృష్టాంతం చాలా చెడ్డది. దుర్మార్గ జనులకు అల్లాహ్ సన్మార్గం చూపడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

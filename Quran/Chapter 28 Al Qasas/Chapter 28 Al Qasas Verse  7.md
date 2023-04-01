@@ -2676,6 +2676,12 @@ Mēmu mūsā talli manas'sulō ilā sūcin̄cāmu: "Nīvu ataniki (mūsāku) pā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము మూసా (అలైహిస్సలాం) తల్లికి ఇలా సూచించాము: “నువ్వతనికి పాలిస్తూ ఉండు. అతని విషయంలో నువ్వు ఎప్పుడు ప్రమాదాన్ని పసిగట్టినా అతన్ని నదిలో విడిచిపెట్టు. భయపడకు. దుఃఖించకు. నిశ్చయంగా మేమతన్ని నీ వైపుకే మరలిస్తాము. ఇంకా, మేమతన్ని మా ప్రవక్తలలో ఒకడుగా చేసుకుంటాము.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Mīru pramāda sthitilō unnappuḍu naḍustū gānī, svārī cēstū gānī, 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+పరిస్థితులు భయానకంగా ఉన్నప్పుడు నడుస్తూనో లేక వాహనంపై పోతూనో (నమాజు చేయండి). శాంతిభద్రతలు నెలకొన్న తరువాత అల్లాహ్‌ మీకు బోధించిన విధంగా ఆయన్ని ధ్యానించండి. దాని గురించి అంతకుముందు మీకు తెలీదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

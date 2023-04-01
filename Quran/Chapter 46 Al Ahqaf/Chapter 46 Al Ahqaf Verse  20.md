@@ -2676,6 +2676,12 @@ mariyu ā rōju satyānni tiraskarin̄cina vārini narakāgni munduku tecci, vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసులు నరకాగ్ని ముందుకు తీసుకురాబడిన రోజున (వారితో ఇలా అనబడుతుంది:) మీరు మీ మంచి మంచి వస్తువులను ప్రాపంచిక జీవితంలోనే పొందారు. వాటిని అక్కడే అనుభవించారు. ఈ రోజు మీకు అవమానకరమైన శిక్ష విధించబడుతుంది. ఎందుకంటే మీరు భువిలో అకారణంగా అహంకారం ప్రదర్శించేవారు, ఆజ్ఞోల్లంఘనకు పాల్పడేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

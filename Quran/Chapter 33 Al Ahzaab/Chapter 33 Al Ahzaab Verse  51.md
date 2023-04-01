@@ -2676,6 +2676,12 @@ nīvu vārilō (nī bhāryalalō) nuṇḍi, nīvu kōrina āmenu nī nuṇḍi 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ముహమ్మద్‌-స! వంతుల విషయంలో) వారిలో నువ్వు కోరినవారిని దూరంగా ఉంచవచ్చు. నువ్వు కోరినవారిని నీ దగ్గర ఉంచుకోవచ్చు. ఒకవేళ నువ్వు దూరంగా ఉంచిన వారిలో కూడా ఎవరినయినా నువ్వు నీ దగ్గరకు పిలుచుకుంటే నీపై ఏ దోషమూ లేదు. దీనిద్వారా వారి కళ్లు చల్లబడతాయనీ, వారు ఆవేదన చెందకుండా ఉంటారనీ, నువ్వు వారికి ఏది ఇచ్చినా దానిపై వారంతా సంతృప్తి చెందుతారని ఎక్కువగా ఆశించవచ్చు. మీ హృదయాలలో ఏముందో అల్లాహ్‌కు (బాగా) తెలుసు. అల్లాహ్‌ అన్నీ తెలిసినవాడు, సహనశీలుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

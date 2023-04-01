@@ -2676,6 +2676,12 @@ okavēḷa nagarapu cuṭṭuprakkala nuṇḍi śatruvulu lōpaliki dūri, vār
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఒకవేళ (మదీనా) నగరం నలువైపుల నుంచీ (శత్రువులు) చొచ్చుకు వచ్చి, అరాచకం సృష్టించమని వారిని కోరితే దానికి వారు తప్పకుండా అలా చేస్తారు. చాలా కొద్దిగా తప్ప ఆలస్యం చేయరు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

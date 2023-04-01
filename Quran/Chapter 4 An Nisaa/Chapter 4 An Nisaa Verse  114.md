@@ -2676,6 +2676,12 @@ vāru cēsē rahasya samāvēśālalō cālā maṭṭuku ē mēlu lēdu. Kāni 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు జరిపే అత్యధిక రహస్య మంతనాలలో ఏ మేలూ ఉండదు. అయితే దానధర్మాల గురించి లేక మంచి పనుల గురించి లేక ప్రజల మధ్య సంబంధాలను మెరుగుపరచటం గురించి ఆజ్ఞాపించేవాని రహస్య మంతనాల్లో మేలుంటుంది. ఎవరయినా కేవలం దైవప్రసన్నత కోసం ఈ పనులు చేస్తే నిశ్చయంగా మేమతనికి గొప్ప ప్రతిఫలం ప్రసాదిస్తాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

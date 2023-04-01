@@ -2676,6 +2676,12 @@ dēvadūtalu ilā annadi (jñāpakaṁ cēsukōṇḍi): "Ō maryam! Niścayaṅ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దైవదూతలు, ”ఓ మర్యమ్‌! అల్లాహ్‌ నీకు తన వాక్కుకు సంబంధించిన శుభవార్తను వినిపిస్తున్నాడు. అతని పేరు మసీహ్‌ ఈసా బిన్‌ మర్‌యమ్‌. అతడు ఇహపరాలలో గౌరవనీయుడవుతాడు. అతను (అల్లాహ్‌) సామీప్యం పొందిన వారిలో ఒకడు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

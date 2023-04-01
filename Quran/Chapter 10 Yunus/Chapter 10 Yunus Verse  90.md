@@ -2676,6 +2676,12 @@ mariyu mēmu isrāyīl santati vārini samudraṁ dāṭin̄cāmu. Ā pidapa phi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము ఇస్రాయీలు వంశీయులను సముద్రం దాటించాము. వారి వెనుకే ఫిరౌను తన సైన్యాన్ని తీసుకుని దౌర్జన్యానికి, అతిక్రమణకు పాల్పడే ఉద్దేశంతో వెంబడించాడు. తీరా (సముద్రంలో) మునిగిపోతున్నప్పుడు; ”బనీఇస్రాయీల్‌ విశ్వసించిన దేవుణ్ణి నేనూ విశ్వసిస్తున్నాను. ఆ దేవుడు తప్ప మరో ఆరాధ్యుడు లేడు. నేనూ ముస్లింలలోని వాడనే” అని ఫిరౌను పలికాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

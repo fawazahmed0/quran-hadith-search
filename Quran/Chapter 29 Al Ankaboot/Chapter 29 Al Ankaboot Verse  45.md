@@ -2676,6 +2676,12 @@ Ej Pajomʙar! Har ciro az in kitoʙi Qur'on ʙar tu vahj şudaast, tilovat kun. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నీ వైపుకు పంపబడిన (వహీ చేయబడిన) గ్రంథాన్ని పారాయణం చేస్తూ ఉండు. నమాజును నెలకొల్పు. నిశ్చయంగా నమాజ్‌ సిగ్గుమాలినతనం నుంచి, చెడు విషయాల నుంచి ఆపుతుంది. నిశ్చయంగా అల్లాహ్‌ స్మరణ చాలా గొప్ప విషయం (అన్న సంగతిని మరువరాదు). మీరు చేసేదంతా అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

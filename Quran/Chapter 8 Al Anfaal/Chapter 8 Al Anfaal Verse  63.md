@@ -2676,6 +2676,12 @@ mariyu āyanē vāri (viśvāsula) hr̥dayālanu kalipāḍu. Okavēḷa nīvu b
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి హృదయాలలో పరస్పరం ప్రేమానురాగాలను పొందుపరచినది కూడా ఆయనే. భూమిలో వున్న సమస్తాన్నీ ఖర్చుపెట్టినా నువ్వు పరస్పరం వారి హృదయాలను కలపలేక పోయేవాడవు. అల్లాహ్‌యే వారి మనసులను కలిపాడు. నిశ్చయంగా ఆయన సర్వాధిక్యుడు, వివేచనాశీలి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

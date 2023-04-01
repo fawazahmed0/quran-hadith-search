@@ -2676,6 +2676,12 @@ mariyu vāstavāniki vāru taurāt nu, in̄jīl nu mariyu vāri prabhuvu taraphu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు గనక తౌరాతుకూ, ఇంజీలుకూ, తమ ప్రభువు తరఫున తమ వద్దకు పంపబడిన దానికి కట్టుబడి ఉంటే వారు తమపై నుంచీ, క్రింది నుంచీ పుష్కలంగా ఉపాధిని పొందుతూ, హాయిగా తినేవారు. వారిలో ఒక వర్గం మాత్రం మధ్యేమార్గం అవలంబిస్తుంది. కాని వారిలోని అత్యధికులు చేసే పనులు చాలా చెడ్డవి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ vāru āyananu vadili dēnini prārthistunnārō, allāh ku bāgā telusu. Mariy
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు ఆయన్ని కాదని ఎవరెవరిని పిలుస్తున్నారో వాటిని గురించి అల్లాహ్‌కు బాగా తెలుసు. ఆయన అపార శక్తిమంతుడు, వివేచనాపరుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

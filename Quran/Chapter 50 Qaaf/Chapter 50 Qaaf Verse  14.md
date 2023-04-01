@@ -2676,6 +2676,12 @@ mariyu ay kah (vana) vāsulu mariyu tubba'a jāti vāru kūḍānu. Prati okkar�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అయికా వారు, తుబ్బా జాతి వారు కూడా. వారంతా ప్రవక్తలను ధిక్కరించారు. దాంతో నా శిక్షా వాగ్దానం వారి విషయంలో నిజమని తేలింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

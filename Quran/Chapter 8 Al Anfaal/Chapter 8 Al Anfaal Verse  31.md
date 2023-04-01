@@ -2676,6 +2676,12 @@ mariyu mā sūcanalu (āyāt) vāriki vinipin̄cabaḍi nappuḍu vāru: "Vāsta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారి ముందు మా ఆయతులను చదివి వినిపించినపుడు, “మేం విన్నాంలే. మేము గనక తలచుకుంటే ఇలాంటి మాటల్ని మేమూ చెప్పగలం. ఇవి పూర్వీకుల నుంచి వస్తున్న కట్టుకథలు తప్ప మరేమీ కావు” అంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

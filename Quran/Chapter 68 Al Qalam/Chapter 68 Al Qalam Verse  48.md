@@ -2676,6 +2676,12 @@ kāvuna nīvu nī prabhuvu ājña koraku vēci uṇḍu. Mariyu nīvu, cēpavān
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ప్రవక్తా!) నీవు నీ ప్రభువు నిర్ణయం జరిగేవరకూ ఓపికపట్టు. చేపవాని మాదిరిగా అయిపోకు. అప్పుడతను దుఖితుడై మమ్మల్ని మొర పెట్టుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

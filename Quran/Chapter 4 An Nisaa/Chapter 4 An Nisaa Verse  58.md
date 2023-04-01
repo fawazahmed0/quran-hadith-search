@@ -2676,6 +2676,12 @@ pūcīlanu (amānāt lanu) tappaka vāṭiki ar'hulaina vāriki appagin̄caṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఎవరి అమానతులను వారికి అప్పగించండి. ప్రజల మధ్య తీర్పులు చేసేటప్పుడు న్యాయంగా తీర్పు చేయండి” అని అల్లాహ్‌ మిమ్మల్ని గట్టిగా ఆదేశిస్తున్నాడు. నిశ్చయంగా అల్లాహ్‌ మీకు చేసే ఉపదేశం ఎంతో చక్కనిది. నిస్సందేహంగా అల్లాహ్‌ అన్నీ వింటున్నాడు, చూస్తున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

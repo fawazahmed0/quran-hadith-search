@@ -2676,6 +2676,12 @@ mariyu satyatiraskārulu (parasparaṁ) ilā ceppukuṇṭāru: "Ī khur'ān nu 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అవిశ్వాసులు ఇలా అన్నారు: “ఈ ఖుర్‌ఆన్‌ను అస్సలు వినకండి. (అది పఠించబడినప్పుడు) గోల (గలాటా) చేయండి. బహుశా (అలాగైనా) మీది పైచేయి కావచ్చు.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ Vāritō ilā anu: "Prati okkaḍu (tana antima phalitaṁ koraku vēci unnāḍ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) వారికి చెప్పు : “ప్రతి ఒక్కడూ (ఫలితం కోసం) నిరీక్షిస్తున్నాడు. కాబట్టి మీరు కూడా నిరీక్షించండి. సన్మార్గాన ఉన్నదెవరో, మార్గదర్శకత్వం ఎవరు పొందారో త్వరలోనే మీరు తెలుసుకుంటారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

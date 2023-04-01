@@ -2676,6 +2676,12 @@ man̄ci viṣayaṁ koraku siphārasu cēsēvāniki andulō bhāgaṁ labhistund
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరయినా ఒక మంచి పని కోసం సిఫారసు చేస్తే, అతనికి అందులో కొంత భాగం లభిస్తుంది. మరెవరయినా ఒక చెడు పని కోసం సిఫారసు చేస్తే, ఆ పాపంలో అతనికీ వాటా ఉంటుంది. అల్లాహ్‌ అన్నింటిపై అదుపు అజమాయిషీ కలవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

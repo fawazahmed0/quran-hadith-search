@@ -2676,6 +2676,12 @@ niścayaṅgā, (ī khur'ān nu) viśvasin̄cina vāri mariyu yūdulu, sābīyul
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విశ్వాసులు, యూదులు, సాబియీలు, క్రైస్తవులు, మజూసీలు, బహుదైవారాధకులు – వీరందరి మధ్యా అల్లాహ్‌ ప్రళయదినాన తప్పకుండా తీర్పుచేస్తాడు. నిశ్చయంగా అల్లాహ్‌ అన్నింటికీ సాక్షిగా ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

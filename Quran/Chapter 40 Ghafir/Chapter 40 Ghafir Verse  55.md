@@ -2676,6 +2676,12 @@ kāvuna nīvu sahanaṁ vahin̄cu! Niścayaṅgā, allāh vāgdānaṁ satyaṁ;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+కనుక (ఓ ప్రవక్తా!) సహనం వహించు. నిస్సందేహంగా అల్లాహ్‌ వాగ్దానం నిజమైనది. నువ్వు నీ పొరపాట్ల క్షమాపణకై వేడుకుంటూ ఉండు. సాయం సమయంలోనూ, ప్రభాత సమయంలోనూ నీ ప్రభువు పవిత్రతను కొనియాడుతూ, స్తోత్రం చేస్తూ ఉండు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

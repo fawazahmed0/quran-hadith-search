@@ -2676,6 +2676,12 @@ niścayaṅgā, mī ārādhyadaivaṁ allāh mātramē. Āyana tappa maroka ār�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+యదార్థమేమిటంటే మీ అందరి ఆరాధ్యదైవం అల్లాహ్‌ మాత్రమే. ఆయన తప్ప వేరొక ఆరాధ్య దైవం లేనే లేడు. ఆయన జ్ఞానం అన్నింటినీ ఆవరించి ఉంది” (అని చెప్పాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

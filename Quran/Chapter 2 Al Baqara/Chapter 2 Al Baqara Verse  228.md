@@ -2676,6 +2676,12 @@ Mariyu viḍākulivvabaḍina strīlu mūḍu r̥tuvula varaku (marokatanitō pe
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+విడాకులు పొందిన స్త్రీలు తమను తాము మూడు రుతువుల దాకా ఆపి ఉంచుకోవాలి. వారు అల్లాహ్‌ను, అంతిమదినాన్నీ విశ్వసించేవారే అయితే అల్లాహ్‌ వారి గర్భాలలో సృష్టించిన దానిని దాచి ఉంచటం వారికి ధర్మ సమ్మతంకాదు. ఒకవేళ ఈ గడువు లోపల వారిని తిరిగి రప్పించుకోవాలన్న సదుద్దేశం భర్తలకు ఉంటే ధర్మం ప్రకారం అలా రప్పించుకునే హక్కు వారికి ఉంది. భర్తలకు స్త్రీలపై హక్కులున్నట్లే స్త్రీలకు కూడా వారిపై హక్కులున్నాయి – కాని ఉత్తమ రీతిలో! కాకపోతే పురుషులకు స్త్రీలపై ఒకింత ప్రాధాన్యత ఉంది. అల్లాహ్‌ సర్వాధికుడు, వివేచనాపరుడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

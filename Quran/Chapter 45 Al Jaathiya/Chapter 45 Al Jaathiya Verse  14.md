@@ -2676,6 +2676,12 @@ iman kontavarkalukku (napiye!) Nir kurivitum; allahvutaiya (tantanaikkana) natka
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) అల్లాహ్‌ ఒక వర్గం వారికి, వారు చేసుకున్న దానికి తగిన ప్రతిఫలం ఇవ్వాలి కదా; అందుకే అల్లాహ్‌ తరఫున గడ్డు దినాలు రావని నిక్షేపంగా ఉన్నవారిని క్షమించి వదలి పెట్టమని నువ్వు విశ్వాసులకు చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

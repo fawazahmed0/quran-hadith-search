@@ -2676,6 +2676,12 @@ mariyu allāh ku abad'dhaṁ aṇṭagaṭṭē vāḍi kaṇṭē ekkuva durmā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌కు అబద్ధాన్ని అంటగట్టే వాడికన్నా పరమ దుర్మార్గుడు ఎవడుంటాడు? ఇలాంటి వారంతా తమ ప్రభువు సమక్షంలో హాజరు పరచబడతారు. “తమ ప్రభువుపై అసత్యాలను కల్పించిన వారు వీళ్ళే” అని సాక్షులు సాక్ష్యమిస్తారు. వినండి! (అలాంటి) దుర్మార్గుల పై దేవుని శాపం పడుతుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

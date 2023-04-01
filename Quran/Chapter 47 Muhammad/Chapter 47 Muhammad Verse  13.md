@@ -2676,6 +2676,12 @@ mariyu (ō muham'mad!) Ninnu bahiṣkarin̄cina nagaraṁ kaṇṭē balamaina e
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నిన్ను తీసివేసిన నీ నగరంకన్నా బలోపేతమైన నగరాలెన్నో ఉండేవి. (ఆ నగరవాసుల దురాగతాల మూలంగా) మేము వాటిని అంతం చేసేశాము. మరి వారిని ఆదుకునేవాడెవడూ లేకపోయాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

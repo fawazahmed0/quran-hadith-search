@@ -2676,6 +2676,12 @@ mariyu āyana (allāh) ādam ku sakala vastuvula pērlanu nērpāḍu, ā pidapa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(తరువాత) అల్లాహ్‌ ఆదంకు అన్ని (వస్తువుల) పేర్లనూ నేర్పి, వాటిని దూతల ముందుంచాడు. “ఒకవేళ మీరు చెప్పేదే నిజమయితే, కాస్త వీటి పేర్లు చెప్పండి?” అన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

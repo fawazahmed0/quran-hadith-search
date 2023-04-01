@@ -2676,6 +2676,12 @@ vāstavāniki mīlō evaru itarulanu (yud'dhaṁ nuṇḍi) āṭaṅka parustū
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీలో ఇతరులను అడ్డుకునేవారెవరో, తమ సోదరులనుద్దేశించి, “మా దగ్గరకు వచ్చేయండి” అని చెప్పేవారెవరో అల్లాహ్‌కు (బాగా) తెలుసు. వారు ఎప్పుడో గాని యుద్ధానికి రారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

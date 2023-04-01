@@ -2676,6 +2676,12 @@ mariyu baṅgārantō kūḍā! Mariyu ivannī prāpan̄cika jīvita sukhasantō
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+బంగారు వస్తువులుగా కూడా చేసి ఉండేవారం. ఇదంతా ఐహిక జీవితపు లాభం మాత్రమే. పరలోకం మాత్రం నీ ప్రభువు దగ్గర కేవలం భయభక్తులు గలవారికే లభిస్తుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

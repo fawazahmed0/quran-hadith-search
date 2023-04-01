@@ -2676,6 +2676,12 @@ ika ā bāluni viṣayaṁ: Atani tallidaṇḍrulu viśvāsulu. Ataḍu tana sa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“ఇకపోతే ఆ అబ్బాయి సంగతి; అతని తల్లిదండ్రులు విశ్వాసులు. అతను తన తలబిరుసుతనంతో, తిరస్కారవైఖరితో వారిని వేధిస్తాడని మాకు భయమేసింది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

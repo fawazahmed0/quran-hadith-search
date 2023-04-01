@@ -2676,6 +2676,12 @@ nā prabhuvu sandēśālanu mīku andajēstunnānu mariyu (dharma) bōdhana cēs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నా ప్రభువు సందేశాన్ని మీకు అందజేస్తున్నాను. నేను మీ మేలుకోరేవాడిని. మీకు తెలియని విషయాలు అల్లాహ్‌ తరఫు నుంచి నాకు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

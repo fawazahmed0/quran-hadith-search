@@ -2676,6 +2676,12 @@ emi? Varu tama egire paksulu rekkalanu ela caputu muducukuntu, egurutunnayo cuda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, వీరు తమపై రెక్కల్ని చాచుతూ, (ఒక్కోసారి) ముడుచుకుంటూ ఎగిరే పక్షుల్ని చూడటం లేదా? కరుణామయుడు (అయిన అల్లాహ్) తప్ప వాటిని ఆ స్థితిలో ఎవరూ నిలిపి ఉంచటం లేదు. నిశ్చయంగా ప్రతి వస్తువు ఆయన దృష్టిలో ఉంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

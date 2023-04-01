@@ -2676,6 +2676,12 @@ mariyu (jñāpakaṁ cēsukōṇḍi!) Ilāgē ibrāhīm kūḍā tana jāti vā
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి ఇబ్రాహీం (అలైహిస్సలాం) కూడా తన జాతి వారినుద్దేశించి ఇలా అన్నాడు : “అల్లాహ్‌ను ఆరాధించండి. ఆయనకు భయపడుతూ ఉండండి. మీరు గనక గ్రహించగలిగితే ఇదే మీ కొరకు మేలైనది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

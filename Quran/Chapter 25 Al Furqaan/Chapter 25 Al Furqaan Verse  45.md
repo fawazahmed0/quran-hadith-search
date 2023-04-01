@@ -2676,6 +2676,12 @@ emi? Nivu cudatam leda? Ni prabhuvu! E vidhanga chayanu podigistado? Okavela aya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి, నీ ప్రభువు నీడను ఎలా వ్యాపింపజేశాడో నువ్వు చూడలేదా? ఆయన గనక తలచుకుంటే దాన్ని నిలిచి ఉండేదిగానే చేసేవాడు. మరి మేము సూర్యుణ్ణి దానికి నిదర్శనంగా చేశాము
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

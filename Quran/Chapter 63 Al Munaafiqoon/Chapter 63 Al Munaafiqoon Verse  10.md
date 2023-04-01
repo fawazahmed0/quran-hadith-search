@@ -2676,6 +2676,12 @@ mariyu mīlō evarikainā maraṇa samayaṁ samīpin̄ci: "Ō nā prabhū! Nīv
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీలో ఎవరికైనా చావు వచ్చి, “నా ప్రభూ! నాకు మరికొంత గడువు ఎందుకు ఇవ్వలేదు? (ఇస్తే) నేను కూడా దానధర్మాలు చేసి సజ్జనులలో చేరేవాణ్ణి కదా!” అని (కడుదీనంగా) పలికే దుస్థితి దాపురించకముందే మేము మీకు ప్రసాదించిన దాని నుండి (మా మార్గంలో) ఖర్చు చేయండి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ duṣṭapannāgālu cēstunnavāru - allāh tamanu bhūmilōniki digi pōyina�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటి నీచాతి నీచమైన కుట్రలు పన్నేవారు, అల్లాహ్‌ తమను నేలలో కూరుకుపోయేలా చేస్తాడనిగానీ లేక తాము ఊహించనైనా లేని చోటు నుంచి తమ వైపుకు శిక్ష వచ్చిపడుతుందని గానీ భయపడటం లేదా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

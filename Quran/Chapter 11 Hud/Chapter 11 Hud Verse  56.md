@@ -2676,6 +2676,12 @@ niścayaṅgā nākū mariyu mīkū prabhuvaina allāh nē nēnu nam'mukunnānu!
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను కేవలం అల్లాహ్‌నే నమ్ముకున్నాను. ఆయన నాకూ ప్రభువే. మీ అందరికీ ప్రభువే. ప్రతి ప్రాణి యొక్క జుట్టు ఆయన చేతిలోనే ఉంది. నిశ్చయంగా నా ప్రభువు సన్మార్గాన ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ nēnu dānini kaṭhinaṅgā śikṣistānu. Lēdā dānini kōsivēstānu, adi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నేను దానిని కఠినంగా శిక్షిస్తాను లేదా దాన్ని కోసివేస్తాను లేదా అది నాకు సరైన సంజాయిషీ అన్నా ఇవ్వాలి” (అని చెప్పాడు)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ kāni jñānasampannulu annāru: "Mī daurbhāgyaṁ! Allāh iccē pratiphalamē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు (ధర్మ) జ్ఞానం వొసగబడిన వారు వారిని బోధపరుస్తూ ఇలా అన్నారు: (మీ పరిస్థితి) కడు శోచనీయం! పుణ్యం రూపంలో అల్లాహ్‌ ఇచ్చేదే విశ్వసించి, సదాచరణ చేసే వారి కొరకు మేలైనది సుమా! అయితే ఈ విషయం (భాగ్యం) సహనశీలురైన వారికే ప్రాప్తిస్తుంది.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

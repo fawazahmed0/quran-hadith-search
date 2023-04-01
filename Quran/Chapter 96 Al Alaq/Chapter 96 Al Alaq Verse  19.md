@@ -2676,6 +2676,12 @@ alā kādu! Nīvu atani māṭa vinaku mariyu āyanē (allāh kē) sāṣṭā�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+తస్మాత్ జాగ్రత్త! నువ్వు వాడి మాట వినకు. (నీ ప్రభువు సన్నిధిలో) సాష్టాంగ పడి, సామీప్యం పొందు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

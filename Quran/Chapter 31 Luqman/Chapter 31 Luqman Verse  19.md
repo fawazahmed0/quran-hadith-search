@@ -2676,6 +2676,12 @@ mariyu nī naḍakalalō namrata pāṭin̄cu. Mariyu nī svarānni taggin̄cu. 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“నీ నడకలో మధ్యేమార్గం అవలంబించు. నీ కంఠ స్వరాన్ని కాస్త తగ్గించు. నిశ్చయంగా స్వరాలన్నింటిలోకీ అత్యంత కఠోరమైనది గాడిదల స్వరం.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

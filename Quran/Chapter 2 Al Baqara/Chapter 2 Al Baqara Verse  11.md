@@ -2676,6 +2676,12 @@ mariyu: "Bhuvilō kallōlaṁ rēkettin̄cakaṇḍi." Ani vāritō annappuḍu;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“భూమిలో కల్లోలాన్ని రేకెత్తించకండి” అని వారితో అన్నప్పుడల్లా, “మేము దిద్దుబాటుకు ప్రయత్నించేవారం మాత్రమే” అని వారు సమాధానమిస్తారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

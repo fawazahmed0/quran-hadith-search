@@ -2676,6 +2676,12 @@ mariyu mēmu ākāśaṁ nuṇḍi oka parimāṇantō varṣānni (nīṭini) k
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము తగు మోతాదులో ఆకాశం నుంచి వర్షపు నీరును కురిపిస్తున్నాము. మరి దానిని భూమిలో నిలువచేస్తున్నాము. మేము దాన్ని తిరిగి తీసేసుకోగలము కూడా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

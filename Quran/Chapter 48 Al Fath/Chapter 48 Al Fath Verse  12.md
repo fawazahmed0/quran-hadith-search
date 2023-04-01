@@ -2676,6 +2676,12 @@ alā kādu! Pravakta mariyu viśvāsulu ennaṭikī - tama ālubiḍḍala vadda
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అంతేకాదు, “దైవప్రవక్త గానీ, ముస్లింలు గానీ తమ ఇంటి వారి వైపుకు తిరిగిరావటం అసంభవం అని మీరు తలపోశారు. ఈ ఆలోచన మీ అంతర్యాలను అలరించింది. మొత్తానికి మీ అనుమానాలు బహుచెడ్డవి. అసలు మీరు ముందునుంచే వినాశం పొందే జనుల్లా ఉన్నారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

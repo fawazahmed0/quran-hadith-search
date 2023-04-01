@@ -2676,6 +2676,12 @@ Mariyu vāritō: "Allāh avatarimpajēsina dānini anusarin̄caṇḍi!" Ani ann
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అల్లాహ్‌ అవతరింపజేసిన దానిని (వహీని) అనుసరించండి అని వారితో అన్నప్పుడు, “లేదు. మా తాత ముత్తాతలు అవలంబిస్తూ ఉండగా చూసిన విధానాన్నే మేము అనుసరిస్తాము” అని వారంటారు. ఒకవేళ షైతాను వారి పెద్దలను నరకయాతన వైపుకు పిలుస్తూ ఉన్నప్పటికీ (వారు దాన్నే అనుసరిస్తారా)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

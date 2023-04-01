@@ -2676,6 +2676,12 @@ mariyu vāriki pūrvaṁ gaḍicina vāri vidhaṅgānē, vāri madhya mariyu v�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మరి (ఇప్పుడు) వారికీ – వారి ఆకాంక్షలకు మధ్య అడ్డు తెరవేయబడింది. లోగడ వీళ్ళలాంటి వీరి పూర్వీకుల పట్ల కూడా ఈ వ్యవహారమే జరిగింది. వారు కూడా (వీళ్ళ మాదిరిగానే) వ్యాకులపరిచే సంశయంలో పడి ఉండేవారు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

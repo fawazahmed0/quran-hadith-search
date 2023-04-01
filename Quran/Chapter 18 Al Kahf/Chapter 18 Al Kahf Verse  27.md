@@ -2676,6 +2676,12 @@ Mariyu (ō pravaktā!) Nī prabhuvu granthaṁ nuṇḍi nīpai avatarimpajēyab
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ వద్దకు వహీ ద్వారా పంపబడిన నీ ప్రభువు గ్రంథాన్ని పఠిస్తూ ఉండు. ఆయన వచనాలను మార్చగలవాడెవడూ లేడు. నువ్వు ఎట్టి పరిస్థితిలోనూ ఆయన ఆశ్రయం తప్ప వేరే ఆశ్రయాన్ని పొందజాలవు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

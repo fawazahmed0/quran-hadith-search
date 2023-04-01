@@ -2676,6 +2676,12 @@ mariyu nī prabhuvu kōritē, bhūmilō unna vārandarū viśvasin̄cēvāru. Ē
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+నీ ప్రభువు గనక తలచుకుంటే భూమండలంలోని జనులంతా విశ్వసించి ఉండేవారే. అలాంటప్పుడు (ఓముహమ్మద్‌- స!) జనులు విశ్వసించాల్సిందేనని నువ్వు వారిపై బలవంతంచేస్తావా
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

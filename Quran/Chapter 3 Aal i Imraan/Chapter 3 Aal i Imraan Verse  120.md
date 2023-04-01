@@ -2676,6 +2676,12 @@ mīkēdainā mēlu kaligitē vārikadi duḥkhaṁ kaligistundi mariyu mīkēdai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మీకేదైనా మేలు కలిగితే వారు బాధపడతారు. అదే మీకేదైనా హాని జరిగితే మాత్రం ఆనందిస్తారు. మీరే గనక సహనంతో, భయభక్తులతో వ్యవహరించినట్లయితే వారి కుట్ర మీకెలాంటి నష్టమూ చేకూర్చదు. ఎందుకంటే వారి కార్యకలాపాలన్నింటినీ అల్లాహ్‌ ముట్టడించి ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

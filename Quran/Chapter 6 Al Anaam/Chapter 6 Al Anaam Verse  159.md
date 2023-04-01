@@ -2676,6 +2676,12 @@ niścayaṅgā, evaraitē tama dharmanlō vibhēdālu kalpin̄cukoni, vērvēru 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఎవరు తమ ధర్మాన్ని ముక్క చెక్కలుగా చేసి, వర్గాలుగా ముఠాలుగా విడిపోయారో వాళ్ళతో నీకే సంబంధమూ లేదు. వాళ్ళ వ్యవహారం దైవాధీనమై ఉంది. తర్వాత వాళ్లు చేసిందేమిటో ఆయన వారికి తెలియజేస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

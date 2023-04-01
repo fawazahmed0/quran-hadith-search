@@ -2676,6 +2676,12 @@ Mariyu khur'ān pārāyaṇaṁ jarigēṭappuḍu dānini śrad'dhagā vinaṇ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+దివ్య ఖుర్‌ఆన్‌ పారాయణం జరుగుతున్నప్పుడు దానిని శ్రద్ధగా వినండి, నిశ్శబ్దంగా ఉండండి. తద్వారా మీరు కరుణించబడవచ్చు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

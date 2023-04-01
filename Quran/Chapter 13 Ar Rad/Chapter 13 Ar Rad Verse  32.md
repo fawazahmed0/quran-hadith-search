@@ -2676,6 +2676,12 @@ Mariyu (ō muham'mad!) Vāstavāniki nīku pūrvaṁ kūḍā cālā mandi prava
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా!) నీకు పూర్వం ఎంతో మంది ప్రవక్తలు పరిహసించబడ్డారు. మరి నేను కూడా అవిశ్వాసులకు (కొంత) విడుపు ఇచ్చాను. ఆ తరువాత (అకస్మాత్తుగా) పట్టుకున్నాను. అప్పుడు నా శిక్ష ఎంత భయంకరంగా ఉందో(చూశారా)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

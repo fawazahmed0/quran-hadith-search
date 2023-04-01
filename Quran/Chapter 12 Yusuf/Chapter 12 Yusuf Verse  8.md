@@ -2676,6 +2676,12 @@ appuḍu vāru (yūsuph sōdarulu) parasparaṁ ilā anukunnāru: "Manadi oka ba
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+అప్పుడు వారిలా చెప్పుకున్నారు: “మనం ఒక (బలమైన) జట్టుగా ఉన్నప్పటికీ మన తండ్రి మనకన్నా యూసుఫును, అతని సోదరుణ్ణే ఎక్కువగా ఇష్టపడుతున్నారు. ఈ విషయంలో మా తండ్రి స్పష్టమైన తప్పుచేస్తున్నారు అనేది మాత్రం ముమ్మాటికీ నిజం
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

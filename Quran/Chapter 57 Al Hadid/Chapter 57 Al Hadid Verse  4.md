@@ -2676,6 +2676,12 @@ ayane akasalanu mariyu bhumini aru dinamulalo (ayyam lalo) srstincina vadu, taru
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆయనే భూమ్యాకాశాలను ఆరు రోజులలో సృష్టించాడు. ఆ తరువాత సింహాసనాన్ని అధిష్టించాడు. భూమి లోపలికి పోయేదీ, అందులో నుంచి బయల్పడేదీ, ఆకాశం నుంచి క్రిందికి దిగేదీ, మరందులోకి ఎక్కిపోయేదీ – అంతా ఆయనకు (బాగా)తెలుసు. మీరెక్కడ ఉన్నా ఆయన మీతోనే ఉంటాడు. మరి మీరు చేసే పనులన్నింటినీ అల్లాహ్ చూస్తూనే ఉన్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ ilā anu: "Svayaṅgā mīku (mī ātmalaku) mīrē an'yāyaṁ cēsukunna nā d
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ఓ ప్రవక్తా! నా తరఫున వారికి ఇలా) చెప్పు: “తమ ఆత్మలపై అన్యాయానికి ఒడిగట్టిన ఓ నా దాసులారా! మీరు అల్లాహ్‌ కారుణ్యం పట్ల నిరాశ చెందకండి. నిశ్చయంగా అల్లాహ్‌ పాపాలన్నింటినీ క్షమిస్తాడు. నిజంగా ఆయన అమితంగా క్షమించేవాడు, అపారంగా కరుణించేవాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

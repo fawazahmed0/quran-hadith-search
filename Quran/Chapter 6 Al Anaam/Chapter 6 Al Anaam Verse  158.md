@@ -2676,6 +2676,12 @@ emi? Varu tama vaddaku devadutalu ravalani gani, leka ni prabhuvu ravalani gani,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఏమిటీ, తమ వద్దకు దైవదూతలు రావాలనీ, లేక నీ ప్రభువే స్వయంగా ప్రత్యక్షమవ్వాలనీ లేక నీ ప్రభువు వద్ద నుంచి ఏదైనా (గొప్ప) నిదర్శనం రావాలని వీళ్లు వేచి ఉన్నారా? నీ ప్రభువు వద్ద నుంచి ఏదయినా గొప్ప సూచన వచ్చేసిన రోజున, ముందు నుంచీ విశ్వసించకుండా ఆ రోజునే విశ్వసించినవాని విశ్వాసం, లేక విశ్వసించి కూడా ఏ సత్కార్యమూ చేయని వాని విశ్వాసం అతనికి ఏ విధంగానూ ఉపయోగపడదు. కనుక “మీరూ నిరీక్షించండి, మేము కూడా నిరీక్షిస్తూ ఉంటాము” అని (ఓ ప్రవక్తా!) వారికి చెప్పు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

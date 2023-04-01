@@ -2676,6 +2676,12 @@ Guftand (ʙarodaronaş): «Mumkin ast agar ū duzdī kunad, cunki ʙarodaraş (j
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వాళ్ళు ఇలా అన్నారు: “ఇతను దొంగతనం చేశాడంటే (ఆశ్చర్యం చెందనవసరంలేదు), ఇంతకు ముందు ఇతని అన్న కూడా దొంగతనం చేసి ఉన్నాడు.” వారి ఈ మాటను యూసుఫ్‌ లోలోపలే దిగమ్రింగాడు. తన మనోభావాన్ని వారి ముందు ఏ మాత్రం బయట పెట్టకుండానే, “మీరు ఇంతటి నీచ స్థితికి దిగజారారు! మీరు కల్పించి చెప్పే విషయాలు అల్లాహ్‌కు బాగా తెలుసు” అని (లోలోన) అనుకున్నాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

@@ -2676,6 +2676,12 @@ idi endukaṇṭē vāstavāniki vāru, allāh avatarimpajēsina dānini asahyin
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఇలా ఎందుకు జరిగిందంటే, వారు అల్లాహ్‌ అవతరింపజేసిన వాణిని ద్వేషించే వారితో, “మేము కూడా కొన్ని విషయాలలో మీరు చెప్పినట్లు వింటాము” అని అన్నారు. వారి లోపాయికారి వ్యవహారాలన్నీ అల్లాహ్‌కు తెలుసు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

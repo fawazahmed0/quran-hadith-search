@@ -2676,6 +2676,12 @@ Mariyu mēmu sr̥ṣṭin̄cina vārilō oka vargaṁ vāru satyaṁ prakāraṁ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేము సృష్టించిన వారిలో సత్యానికనుగుణంగా మార్గదర్శకత్వం వహించే, సత్యాన్ననుసరించి న్యాయంచేసే మానవ సముదాయం కూడా ఒకటుంది
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

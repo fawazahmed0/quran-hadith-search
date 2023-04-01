@@ -2676,6 +2676,12 @@ mariyu ā rōju (andarū) vinamrulai tamanu tāmu allāh ku appagin̄cukuṇṭ�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ఆ రోజు వారంతా అల్లాహ్‌ సమక్షంలో పూర్తిగా లొంగి పోవటానికి సిద్ధమవుతారు. వారు చేస్తూ ఉండిన కల్పనలన్నీ వారి నుంచి మటుమాయమౌతాయి
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

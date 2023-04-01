@@ -2676,6 +2676,12 @@ mariyu mīkēmayindi, mīrenduku allāh mārganlō mariyu nis'sahāyulai aṇaci
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+“మా ప్రభూ! దుర్మార్గుల ఈ పురము నుండి మాకు విముక్తి నొసగు. మా కొరకు నీ వద్దనుంచి ఒక రక్షకుణ్ణి నియమించు, మాకు (అండగా) నీ వద్ద నుంచి ఒక సహాయకుణ్ణి పంపించు” అని వేడుకుంటున్న బలహీన పురుషుల, స్త్రీల, పసివాళ్ళ విమోచనకై మీరు దైవమార్గంలో ఎందుకు పోరాడటం లేదు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

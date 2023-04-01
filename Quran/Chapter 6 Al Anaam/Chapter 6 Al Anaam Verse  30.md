@@ -2676,6 +2676,12 @@ mariyu okavēḷa vārini, tama prabhuvu mundu nilabeṭṭabaḍinappuḍu, nī
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+వారు తమ ప్రభువు ఎదుట నిలబెట్టబడిన దృశ్యాన్ని నీవు చూస్తే (బావుండేది). “ఇది నిజం కాదా?!” అని అల్లాహ్‌ అడుగుతాడు. దానికి వారు “ఎందుకు నిజం కాదు? మా ప్రభువు సాక్షిగా (ఇది నిజమే)!” అని అంటారు. “మరయితే మీ తిరస్కారానికి బదులుగా శిక్షను చవిచూడండి” అని అల్లాహ్‌ సెలవిస్తాడు
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 

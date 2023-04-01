@@ -2676,6 +2676,12 @@ mariyu mēmu (vr̥kṣakōṭini) phalavantaṁ cēyaṭāniki gālulanu pamput�
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+
+<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+మేమే బరువైన గాలులను పంపిస్తున్నాము. మరి ఆకాశం నుంచి వర్షాన్ని కురిపించి, దాన్ని మీకు త్రాపిస్తున్నాము. ఈ (జల) నిధిని సమకూర్చుకోవటం అన్నది మీ వల్ల కాని పని
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
 ## Thai
 
 
