@@ -3224,6 +3224,12 @@ aur hum ne ek aad un ke saamne kar di aur ek aad un ke peeche kardi, jis se hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اُن کے آگے سے (بھی) ایک دیوار اور اُن کے پیچھے سے (بھی) ایک دیوار بنا دی ہے، پھر ہم نے اُن (کی آنکھوں) پر پردہ ڈال دیا ہے سو وہ کچھ نہیں دیکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ایک آڑ ان کے آگے کھڑی کردی ہے، اور ایک آڑ ان کے پیچھے کھڑی کردی ہے، اور اس طرح انہیں ہر طرف سے ڈھانک لیا ہے جس کے نتیجے میں انہیں کچھ سجھائی نہیں دیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

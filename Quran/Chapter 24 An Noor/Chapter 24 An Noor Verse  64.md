@@ -3224,6 +3224,12 @@ agaah ho jaao ke asmaan wa zameen mein jo kuch hai sab Allah ta’ala hee ka hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+خبردار! جو کچھ آسمانوں اور زمین میں ہے (سب) اللہ ہی کا ہے، وہ یقیناً جانتا ہے جس حال پر تم ہو (ایمان پر ہو یا منافقت پر)، اور جس دن لوگ اس کی طرف لوٹائے جائیں گے تو وہ انہیں بتا دے گا جو کچھ وہ کیا کرتے تھے اور اللہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد رکھو کہ آسمانوں اور زمین میں جو کچھ ہے اللہ ہی کا ہے۔ تم جس حالت پر بھی ہو، اللہ اسے خوب جانتا ہے، اور جس دن سب کو اس کے پاس لوٹایا جائے گا، اس دن وہ ان کو بتادے گا کہ انہوں نے کیا عمل کیا تھا، اور اللہ کو ہر بات کا پورا پورا علم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

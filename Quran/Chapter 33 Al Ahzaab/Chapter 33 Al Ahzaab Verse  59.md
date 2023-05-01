@@ -3224,6 +3224,12 @@ aye Nabi!(sallallahu alaihi wasallam) apni biwiyo se aur apni saaheb zaadiyo se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبی! اپنی بیویوں اور اپنی صاحبزادیوں اور مسلمانوں کی عورتوں سے فرما دیں کہ (باہر نکلتے وقت) اپنی چادریں اپنے اوپر اوڑھ لیا کریں، یہ اس بات کے قریب تر ہے کہ وہ پہچان لی جائیں (کہ یہ پاک دامن آزاد عورتیں ہیں) پھر انہیں (آوارہ باندیاں سمجھ کر غلطی سے) ایذاء نہ دی جائے، اور اللہ بڑا بخشنے والا بڑا رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! تم اپنی بیویوں، اپنی بیٹیوں اور مسلمانوں کی عورتوں سے کہہ دو کہ وہ اپنی چادریں اپنے (منہ کے) اوپر جھکا لیا کریں۔ اس طریقے میں اس بات کی زیادہ توقع ہے کہ وہ پہچان لی جائیں گی، تو ان کو ستایا نہیں جائے گا۔ اور اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

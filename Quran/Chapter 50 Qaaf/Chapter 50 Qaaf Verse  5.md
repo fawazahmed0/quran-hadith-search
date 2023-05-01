@@ -3224,6 +3224,12 @@ balke unhone sacchi baath ko jhoot kaha hai, jab ke wo un ke paas pahonch chuki,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ (عجیب اور فہم و ادراک سے بعید بات تو یہ ہے کہ) انہوں نے حق (یعنی رسول صلی اللہ علیہ وآلہ وسلم اور قرآن) کو جھٹلا دیا جب وہ اُن کے پاس آچکا سو وہ خود (ہی) الجھن اور اضطراب کی بات میں (پڑے) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دراصل انہوں نے سچ کو اسی وقت جھٹلا دیا تھا جب وہ ان کے پاس آیا تھا، چنانچہ وہ متضاد باتوں میں پڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

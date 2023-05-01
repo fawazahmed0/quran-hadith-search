@@ -3224,6 +3224,12 @@ agar ye log saaheb imaan muttaqi ban jaate to Allah ta’ala ki taraf se behetre
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر وہ ایمان لے آتے اور پرہیزگاری اختیار کرتے تو اللہ کی بارگاہ سے (تھوڑا سا) ثواب (بھی ان سب چیزوں سے) کہیں بہتر ہوتا، کاش! وہ (اس راز سے) آگاہ ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس کے برعکس) اگر وہ ایمان اور تقوی اختیار کرتے تو اللہ کے پاس سے ملنے والا ثواب یقینا کہیں زیادہ بہتر ہوتا۔ کاش کہ ان کو (اس بات کا بھی حقیقی) علم ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

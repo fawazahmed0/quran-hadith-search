@@ -3224,6 +3224,12 @@ us ki khaum ke kaafir sardaaro ne saaf keh diya ke ye to tum jaisa hee insaan ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو ان کی قوم کے سردار (اور وڈیرے) جو کفر کر رہے تھے کہنے لگے: یہ شخص محض تمہارے ہی جیسا ایک بشر ہے (اس کے سوا کچھ نہیں)، یہ تم پر (اپنی) فضیلت و برتری قائم کرنا چاہتا ہے، اور اگر اللہ (ہدایت کے لئے کسی پیغمبر کو بھیجنا) چاہتا تو فرشتوں کو اتار دیتا، ہم نے تو یہ بات (کہ ہمارے جیسا ہی ایک شخص ہمارا رسول بنا دیا جائے) اپنے اگلے آباء و اجداد میں (کبھی) نہیں سنی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر ان کی قوم کے کافر سرداروں نے (ایک دوسرے سے) کہا : اس شخص کی اس کے سوا کوئی حقیقت نہیں کہ یہ تمہی جیسا ایک انسان ہے جو تم پر اپنی برتری جمانا چاہتا ہے، اور اگر اللہ چاہتا تو فرشتے نازل کردیتا۔ یہ بات تو ہم نے اپنے پچھلے باپ دادوں میں کبھی نہیں سنی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

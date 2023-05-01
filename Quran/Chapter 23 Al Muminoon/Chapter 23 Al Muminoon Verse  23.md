@@ -3224,6 +3224,12 @@ yaqinan hum ne Nuh(alaihissalaam) ko us ki khaum ki taraf rasool bana kar bheja,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے نوح (علیہ السلام) کو ان کی قوم کی طرف بھیجا تو انہوں نے فرمایا: اے لوگو! تم اللہ کی عبادت کیا کرو اس کے سوا تمہارا کوئی معبود نہیں ہے، تو کیا تم نہیں ڈرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے نوح کو ان کی قوم کے پاس بھیجا تھا، چنانچہ انہوں نے (قوم سے) کہا کہ : میری قوم کے لوگو ! اللہ کی عبادت کرو، اس کے سوا تمہارا کوئی معبود نہیں ہے، بھلا کیا تم ڈرتے نہیں ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

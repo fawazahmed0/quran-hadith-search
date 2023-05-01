@@ -3224,6 +3224,12 @@ aur Allah tala salamati ke ghar ki taraf tum ko bulata hai aur jis ko chahta hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ سلامتی کے گھر (جنت) کی طرف بلاتا ہے، اور جسے چاہتا ہے سیدھی راہ کی طرف ہدایت فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ لوگوں کو سلامتی کے گھر کی طرف دعوت دیتا ہے، اور جس کو چاہتا ہے سیدھے راستے تک پہنچا دیتا ہے ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ke tumhaare saathi ne, na raah gom ki hai, na wo tedi raah par hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہیں (اپنی) صحبت سے نوازنے والے (رسول صلی اللہ علیہ وآلہ وسلم جنہوں نے تمہیں اپنا صحابی بنایا) نہ (کبھی) راہ بھولے اور نہ (کبھی) راہ سے بھٹکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے مکہ کے باشندو) یہ تمہارے ساتھ رہنے والے صاحب نہ راستہ بھولے ہیں، نہ بھٹکے ہیں،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

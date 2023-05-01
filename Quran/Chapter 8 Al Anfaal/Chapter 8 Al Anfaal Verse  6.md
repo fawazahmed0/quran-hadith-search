@@ -3224,6 +3224,12 @@ wo us haq ke bare mein us ke badh ke us ka zahor ho gaya tha,aap se is tarah jha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ آپ سے اَمرِ حق میں (اس بشارت کے) ظاہر ہوجانے کے بعد بھی جھگڑنے لگے (کہ اللہ کی نصرت آئے گی اور لشکرِ محمدی صلی اللہ علیہ وآلہ وسلم کو فتح نصیب ہوگی) گویا وہ موت کی طرف ہانکے جا رہے ہیں اور وہ (موت کو آنکھوں سے) دیکھ رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ تم سے حق کے معاملے میں اس کے واضح ہوجانے کے باوجود اس طرح بحث کر رہے تھے جیسے ان کو موت کی طرف ہنکا کرلے جایا جارہا ہو اور وہ (اسے) آنکھوں سے دیکھ رہے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

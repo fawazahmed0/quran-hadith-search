@@ -3224,6 +3224,12 @@ aur ahle kitaab ki ek jamaath ne kaha ke jo kuch imaan waalo par utaara gaya hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اہلِ کتاب کا ایک گروہ (لوگوں سے) کہتا ہے کہ تم اس کتاب (قرآن) پر جو مسلمانوں پر نازل کی گئی ہے دن چڑھے (یعنی صبح) ایمان لایا کرو اور شام کو انکار کر دیا کرو تاکہ (تمہیں دیکھ کر) وہ بھی برگشتہ ہو جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اہل کتاب کے ایک گروہ نے (ایک دوسرے سے) کہا ہے کہ : جو کلام مسلمانوں پر نازل کیا گیا ہے اس پر دن کے شروع میں تو ایمان لے آؤ، اور ان کے آخری حصے میں اس سے انکار کردینا، شاید اس طرح مسلمان (بھی اپنے دین سے) پھرجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

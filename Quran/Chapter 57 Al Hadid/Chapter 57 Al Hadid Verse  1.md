@@ -3224,6 +3224,12 @@ asmaano aur zameen mein jo hai (sab) Allah ki tasbih kar rahe hai, wo zabardasth
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہی کی تسبیح کرتے ہیں جو بھی آسمانوں اور زمین میں ہیں، اور وہی بڑی عزت والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین میں جو چیز بھی ہے، وہ اللہ کی تسبیح کرتی ہے۔ اور وہی ہے جو اقتدار کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

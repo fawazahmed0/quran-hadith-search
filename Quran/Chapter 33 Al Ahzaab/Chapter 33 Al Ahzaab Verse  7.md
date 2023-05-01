@@ -3224,6 +3224,12 @@ jab ke hum ne tamaam nabiyo se ehadh liya aur (bil qusoos) aap (sallallahu alaih
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب! یاد کیجئے) جب ہم نے انبیاء سے اُن (کی تبلیغِ رسالت) کا عہد لیا اور (خصوصاً) آپ سے اور نوح سے اور ابراہیم سے اور موسیٰ سے اور عیسٰی ابن مریم (علیھم السلام) سے اور ہم نے اُن سے نہایت پختہ عہد لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) وہ وقت یاد رکھو جب ہم نے تمام نبیوں سے عہد لیا تھا اور تم سے بھی، اور نوح اور ابراہیم اور موسیٰ اور عیسیٰ ابن مریم سے بھی۔ اور ہم نے ان سے نہایت پختہ عہد لیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne un ke aur un bastiyo ke darmiyaan jin mein hum ne barkath de rakhi th
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان باشندوں کے اور ان بستیوں کے درمیان جن میں ہم نے برکت دے رکھی تھی، (یمن سے شام تک) نمایاں (اور) متصل بستیاں آباد کر دی تھیں، اور ہم نے ان میں آمد و رفت (کے دوران آرام کرنے) کی منزلیں مقرر کر رکھی تھیں کہ تم لوگ ان میں راتوں کو (بھی) اور دنوں کو (بھی) بے خوف ہو کر چلتے پھرتے رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان کے اور ان بستیوں کے درمیان جن پر ہم نے برکتیں نازل کی ہیں، ایسی بستیاں بسا رکھی تھیں جو دور سے نظر آتی تھیں، اور ان میں سفر کو نپے تلے مرحلوں میں بانٹ دیا تھا (اور کہا تھا کہ) ان (بستیوں) کے درمیان راتیں ہوں یا دن، امن وامان کے ساتھ سفر کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

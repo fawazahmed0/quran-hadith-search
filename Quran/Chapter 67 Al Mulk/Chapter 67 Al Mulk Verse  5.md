@@ -3224,6 +3224,12 @@ beshak hum ne asmaan dunya ko chiraagho (sitaaro) se araasta kiya aur unhe shait
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بے شک ہم نے سب سے قریبی آسمانی کائنات کو (ستاروں، سیاروں، دیگر خلائی کرّوں اور ذرّوں کی شکل میں) چراغوں سے مزیّن فرما دیا ہے، اور ہم نے ان (ہی میں سے بعض) کو شیطانوں (یعنی سرکش قوتوں) کو مار بھگانے (یعنی ان کے منفی اَثرات ختم کرنے) کا ذریعہ (بھی) بنایا ہے، اور ہم نے ان (شیطانوں) کے لئے دہکتی آگ کا عذاب تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے قریب والے آسمان کو روشن چراغوں سے سجا رکھا ہے، اور ان کو شیطانوں پر پتھر برسانے کا ذریعہ بھی بنایا ہے، اور ان کے لیے دہکتی آگ کا عذاب تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur suraj ke liye jo muqarrara raah hai wo osi par chalta rehta hai, ye hai muqa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور سورج ہمیشہ اپنی مقررہ منزل کے لئے (بغیر رکے) چلتا رہتا، ہے یہ بڑے غالب بہت علم والے (رب) کی تقدیر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور سورج اپنے ٹھکانے کی طرف چلا جارہا ہے۔ یہ سب اس ذات کا مقرر کیا ہوا نظام ہے جس کا اقتدار بھی کامل ہے، جس کا علم بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

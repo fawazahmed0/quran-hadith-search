@@ -3224,6 +3224,12 @@ ta ke agar jaadugar ghaalib aa jaaye to hum unhee ki pairvi kare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ ہم جادوگروں (کے دین) کی پیروی کر سکیں اگر وہ (موسٰی اور ہارون پر) غالب آگئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شاید اگر یہ جادو گر ہی غالب آگئے تو ہم انہی کے راستے پر چلیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

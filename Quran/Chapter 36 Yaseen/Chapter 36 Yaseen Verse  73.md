@@ -3224,6 +3224,12 @@ unhe un se aur bhi bahuth se fayde hai aur pine ki cheeze, kya phir (bhi) ye shu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان میں ان کے لئے اور بھی فوائد ہیں اور مشروب ہیں، تو پھر وہ شکر ادا کیوں نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نیز ان کو ان مویشیوں سے اور بھی فوائد حاصل ہوتے ہیں، اور پینے کی چیزیں ملتی ہیں۔ کیا پھر بھی یہ شکر نہیں بجا لائیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap se aurto ke baare mein hukm daryaafth karte hai,aap keh dijiye! ke khud Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے پیغمبر!) لوگ آپ سے (یتیم) عورتوں کے بارے میں فتویٰ پوچھتے ہیں۔ آپ فرما دیں کہ اللہ تمہیں ان کے بارے میں حکم دیتا ہے اور جو حکم تم کو (پہلے سے) کتابِ مجید میں سنایا جا رہا ہے (وہ بھی) ان یتیم عورتوں ہی کے بارے میں ہے جنہیں تم وہ (حقوق) نہیں دیتے جو ان کے لئے مقرر کئے گئے ہیں اور چاہتے ہو کہ (ان کا مال قبضے میں لینے کی خاطر) ان کے ساتھ خود نکاح کر لو اور نیز بے بس بچوں کے بارے میں (بھی حکم) ہے کہ یتیموں کے معاملے میں انصاف پر قائم رہا کرو، اور تم جو بھلائی بھی کروگے تو بیشک اللہ اسے خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) لوگ تم سے عورتوں کے بارے میں شریعت کا حکم پوچھتے ہیں۔ کہہ دو کہ اللہ تم کو ان کے بارے میں حکم بتاتا ہے، اور اس کتاب (یعنی قرآن) کی جو آیتیں جو تم کو پڑھ کر سنائی جاتی ہیں وہ بھی ان یتیم عورتوں کے بارے میں (شرعی حکم بتاتی ہیں) جن کو تم ان کا مقرر شدہ حق نہیں دیتے، اور ان سے نکاح کرنا بھی چاہتے ہو نیز کمزور بچوں کے بارے میں بھی (حکم بتاتی ہیں) اور یہ تاکید کرتی ہیں کہ تم یتیموں کی خاطر انصاف قائم کرو۔ اور تم جو بھلائی کا کام کرو گے، اللہ کو اس کا پورا پورا علم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

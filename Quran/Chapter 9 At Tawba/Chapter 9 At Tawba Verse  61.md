@@ -3224,6 +3224,12 @@ un mein se wo bhi hai jo paighambar ko eza dete hai aur kehte hai kan ka kaccha 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان (منافقوں) میں سے وہ لوگ بھی ہیں جو نبی (مکرّم صلی اللہ علیہ وآلہ وسلم) کو ایذا پہنچاتے ہیں اور کہتے ہیں: وہ تو کان (کے کچے) ہیں۔ فرما دیجئے: تمہارے لئے بھلائی کے کان ہیں۔ وہ اللہ پر ایمان رکھتے ہیں اور اہلِ ایمان (کی باتوں) پر یقین کرتے ہیں اور تم میں سے جو ایمان لے آئے ہیں ان کے لئے رحمت ہیں، اور جو لوگ رسول اللہ (صلی اللہ علیہ وآلہ وسلم) کو (اپنی بدعقیدگی، بدگمانی اور بدزبانی کے ذریعے) اذیت پہنچاتے ہیں ان کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہی (منافقین) میں وہ لوگ بھی ہیں جو نبی کو دکھ پہنچاتے ہیں اور (ان کے بارے میں) یہ کہتے ہیں کہ : وہ تو سراپا کان ہیں۔ کہہ دو کہ : وہ کان ہیں اس چیز کے لیے جو تمہارے لیے بھلائی ہے۔ وہ اللہ پر ایمان رکھتے ہیں اور مومنوں کی بات کا یقین کرتے ہیں، اور تم میں سے جو (ظاہری طور پر) ایمان لے آئے ہیں، ان کے لیے وہ رحمت (کا معاملہ کرنے والے) ہیں۔ اور جو لوگ اللہ کے رسول کو دکھ پہنچاتے ہیں ان کے لیے دکھ دینے والا عذاب تیار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

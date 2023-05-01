@@ -3224,6 +3224,12 @@ aye imaan waalo! mard dosre mardo ka mazaaq na udaaye, mumkin hai ke ye un se be
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! کوئی قوم کسی قوم کا مذاق نہ اڑائے ممکن ہے وہ لوگ اُن (تمسخر کرنے والوں) سے بہتر ہوں اور نہ عورتیں ہی دوسری عورتوں کا (مذاق اڑائیں) ممکن ہے وہی عورتیں اُن (مذاق اڑانے والی عورتوں) سے بہتر ہوں، اور نہ آپس میں طعنہ زنی اور الزام تراشی کیا کرو اور نہ ایک دوسرے کے برے نام رکھا کرو، کسی کے ایمان (لانے) کے بعد اسے فاسق و بدکردار کہنا بہت ہی برا نام ہے، اور جس نے توبہ نہیں کی سو وہی لوگ ظالم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! نہ تو مرد دوسرے مردوں کا مذاق اڑائیں، ہوسکتا ہے کہ وہ (جن کا مذاق اڑا رہے ہیں) خود ان سے بہتر ہوں، اور نہ دوسری عورتیں دوسری عورتوں کا مذاق اڑائیں، ہوسکتا ہے کہ وہ (جن کا مذاق اڑا رہی ہیں) خود ان سے بہتر ہوں۔ اور تم ایک دوسرے کو طعنہ نہ دیا کرو، اور نہ ایک دوسرے کو برے القاب سے پکارو۔ ایمان لانے کے بعد گناہ کا نام لگنا بہت بری بات ہے۔ اور جو لوگ ان باتوں سے باز نہ آئیں تو وہ ظالم لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

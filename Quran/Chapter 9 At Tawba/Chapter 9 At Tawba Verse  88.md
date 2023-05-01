@@ -3224,6 +3224,12 @@ lekin khud rasol(saws) aur us ke sath ke iman wale apne malo aur jano se jihad k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لیکن رسول (صلی اللہ علیہ وآلہ وسلم) اور جو لوگ ان کے ساتھ ایمان لائے اپنے مالوں اور اپنی جانوں کے ساتھ جہاد کرتے ہیں اور انہی لوگوں کے لئے سب بھلائیاں ہیں اور وہی لوگ مراد پانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن رسول اور جو لوگ ان کے ساتھ ایمان لائے ہیں، اور یہی لوگ ہیں جو فلاح پانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

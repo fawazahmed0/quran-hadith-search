@@ -3224,6 +3224,12 @@ aye ahle kitaab! jo kuch hum ne naazil faramaaya hai jo us ki bhi tasdeeq karne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اہلِ کتاب! اس (کتاب) پر ایمان لاؤ جو ہم نے (اب اپنے حبیب محمد صلی اللہ علیہ وآلہ وسلم پر) اتاری ہے جو اس کتاب کی (اصلاً) تصدیق کرتی ہے جو تمہارے پاس ہے، اس سے قبل کہ ہم (بعض) چہروں (کے نقوش) کو مٹا دیں اور انہیں ان کی پشت کی حالت پر پھیر دیں یا ان پر اسی طرح لعنت کریں جیسے ہم نے ہفتہ کے دن (نافرمانی کرنے) والوں پر لعنت کی تھی اور اللہ کا حکم پورا ہو کر ہی رہتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے اہل کتاب ! جو (قرآن) ہم نے اب نازل کیا ہے، جو تمہارے پاس پہلے سے موجود کتاب کی تصدیق بھی کرتا ہے، اس پر ایمان لے آؤ، قبل اس کے کہ ہم کچھ چہروں کو مٹا کر انہیں گدی جیسا بنادیں، یا ان پر ایسی پھٹکار ڈال دیں جیسی پھٹکار ہم نے سبت والوں پر ڈالی تھی۔ اور اللہ کا حکم ہمیشہ پورا ہو کر رہتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

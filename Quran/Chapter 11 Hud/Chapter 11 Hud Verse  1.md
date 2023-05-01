@@ -3224,6 +3224,12 @@ Alif laam ra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+الف، لام، را (حقیقی معنی اللہ اور رسول صلی اللہ علیہ وآلہ وسلم ہی بہتر جانتے ہیں، یہ وہ) کتاب ہے جس کی آیتیں مستحکم بنا دی گئی ہیں، پھر حکمت والے باخبر (رب) کی جانب سے وہ مفصل بیان کر دی گئی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الر یہ وہ کتاب ہے جس کی آیتوں کو (دلائل سے) مضبوط کیا گیا ہے، پھر ایک ایسی ذات کی طرف سے ان کو تفصیل کے ساتھ بیان کیا گیا ہے جو حکمت کی مالک اور ہر بات سے باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

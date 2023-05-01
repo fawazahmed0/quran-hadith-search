@@ -3224,6 +3224,12 @@ aur asmaan phat jayega aur us din bilkul bodha ho jayega
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (سب) آسمانی کرّے پھٹ جائیں گے اور یہ کائنات (ایک نظام میں مربوط اور حرکت میں رکھنے والی قوت کے ذریعے سیاہ) شگافوں٭ پر مشتمل ہو جائے گیo٭ واھیۃ .... الوَھی: وَھِی، یَھِی، وَھیًا کا معنیٰ ہے: شق فی الادیم والثوب ونحوھما، یقال: وَھِیَ الثوب أی انشَقّ وَ تَخَرّقَ (چمڑے، کپڑے یا اس قسم کی دوسری چیزوں کا پھٹ جانا اور ان میں شگاف ہو جانا۔ اِسی لئے کہا جاتا ہے: کپڑا پھٹ گیا اور اس میں شگاف ہوگیا) .... (المفردات، لسان العرب، قاموس المحیط، المنجد وغیرہ)۔ اسے جدید سائنس نے black holes سے تعبیر کیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمان پھٹ پھڑے گا اور وہ اس دن بالکل بودا پڑجائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

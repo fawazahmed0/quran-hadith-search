@@ -3224,6 +3224,12 @@ tum kisi cheez ko zaaher karo ya maqfi rakho, Allah to har har cheez ka ba qoobi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+خواہ تم کسی چیز کو ظاہر کرو یا اسے چھپاؤ بیشک اللہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چاہے تم کوئی بات ظاہر کرو، یا اسے چھپاؤ، اللہ ہر چیز کا پورا پورا علم رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

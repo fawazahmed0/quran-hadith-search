@@ -3224,6 +3224,12 @@ aur sardaraane khaum ne jawaab diya, jo kufr karte thein aur aaqirath ki mualaqa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کی قوم کے (بھی وہی) سردار (اور وڈیرے) بول اٹھے جو کفر کر رہے تھے اور آخرت کی ملاقات کو جھٹلاتے تھے اور ہم نے انہیں دنیوی زندگی میں (مال و دولت کی کثرت کے باعث) آسودگی (بھی) دے رکھی تھی (لوگوں سے کہنے لگے) کہ یہ شخص تو محض تمہارے ہی جیسا ایک بشر ہے، وہی چیزیں کھاتا ہے جو تم کھاتے ہو اور وہی کچھ پیتا ہے جو تم پیتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی قوم کے وہ سردار جنہوں نے کفر اپنا رکھا تھا، اور جنہوں نے آخرت کا سامنا کرنے کو جھٹلایا تھا، اور جن کو ہم نے دنیوی زندگی میں خوب عیش دے رکھا تھا، انہوں نے (ایک دوسرے سے) کہا : اس شخص کی حقیقت اس کے سوا کچھ نہیں ہے کہ یہ تمہی جیسا ایک انسان ہے۔ جو چیز تم کھاتے ہو، یہ بھی کھاتا ہے، اور جو تم پیتے ہو، یہ بھی پیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

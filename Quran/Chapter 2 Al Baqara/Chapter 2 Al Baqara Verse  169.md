@@ -3224,6 +3224,12 @@ wo tumhe sirf boraayi aur behayaai ka aur Allah ta’ala par un baatho ke kehne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ تمہیں بدی اور بے حیائی کا ہی حکم دیتا ہے اور یہ (بھی) کہ تم اللہ کی نسبت وہ کچھ کہو جس کا تمہیں (خود) علم نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ تو تم کو یہی حکم دے گا کہ تم بدی اور بےحیائی کے کام کرو اور اللہ کے ذمے وہ باتیں لگاؤ جن کا تمہیں علم نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

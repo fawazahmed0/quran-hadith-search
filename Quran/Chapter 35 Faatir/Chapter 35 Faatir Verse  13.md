@@ -3224,6 +3224,12 @@ wo raath ko din mein aur din ko raath mein daakhil karta hai aur aftaab wa mahta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ رات کو دن میں داخل فرماتا ہے اور دن کو رات میں داخل فرماتا ہے اور اس نے سورج اور چاند کو (ایک نظام کے تحت) مسخرّ فرما رکھا ہے، ہر کوئی ایک مقرر میعاد کے مطابق حرکت پذیر ہے۔ یہی اللہ تمہارا رب ہے اسی کی ساری بادشاہت ہے، اور اس کے سوا تم جن بتوں کو پوجتے ہو وہ کھجور کی گٹھلی کے باریک چھلکے کے (بھی) مالک نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ رات کو دن میں داخل کردیتا ہے اور دن کو رات میں داخل کردیتا ہے اور اس نے سورج اور چاند کو کام پر لگا دیا ہے۔ (ان میں سے) ہر ایک کسی مقررہ میعاد تک کے لیے رواں دواں ہے۔ یہ ہے اللہ جو تمہارا پروردگار ہے، ساری بادشاہی اسی کی ہے۔ اور اسے چھوڑ کر جن (جھوٹے خداؤں) کو تم پکارتے ہو، وہ کھجور کی گٹھلی کے چھلکے کے برابر بھی کوئی اختیار نہیں رکھتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

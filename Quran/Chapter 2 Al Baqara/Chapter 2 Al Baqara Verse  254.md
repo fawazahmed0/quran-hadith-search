@@ -3224,6 +3224,12 @@ aye imaan waalo! jo hum ne tumhe de rakha hai us mein se qarch karte raho is se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جو کچھ ہم نے تمہیں عطا کیا ہے اس میں سے (اللہ کی راہ میں) خرچ کرو قبل اس کے کہ وہ دن آجائے جس میں نہ کوئی خرید و فروخت ہوگی اور (کافروں کے لئے) نہ کوئی دوستی (کار آمد) ہوگی اور نہ (کوئی) سفارش، اور یہ کفار ہی ظالم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو۔ جو رزق ہم نے تمہیں دیا ہے اس میں سے وہ دن آنے سے پہلے پہلے (اللہ کے راستے میں) خرچ کرلو جس دن نہ کوئی سودا ہوگا نہ کوئی دوستی (کام آئے گی) اور نہ کوئی سفارش ہوسکے گی۔ اور ظالم وہ لوگ ہیں جو کفر اختیار کیے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

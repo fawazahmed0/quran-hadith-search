@@ -3224,6 +3224,12 @@ aye ahle kitaab! apne deen ke baare mein hadh se na guzar jaao aur Allah par baj
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اہلِ کتاب! تم اپنے دین میں حد سے زائد نہ بڑھو اور اللہ کی شان میں سچ کے سوا کچھ نہ کہو، حقیقت صرف یہ ہے کہ مسیح عیسٰی ابن مریم (علیہما السلام) اللہ کا رسول اور اس کا کلمہ ہے جسے اس نے مریم کی طرف پہنچا دیا اور اس (کی طرف) سے ایک روح ہے۔ پس تم اللہ اور اس کے رسولوں پر ایمان لاؤ اور مت کہو کہ (معبود) تین ہیں، (اس عقیدہ سے) باز آجاؤ، (یہ) تمہارے لئے بہتر ہے۔ بیشک اللہ ہی یکتا معبود ہے، وہ اس سے پاک ہے کہ اس کے لئے کوئی اولاد ہو، (سب کچھ) اسی کا ہے جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، اور اللہ کا کارساز ہونا کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے اہل کتاب اپنے دین میں حد سے نہ بڑھو، اور اللہ کے بارے میں حق کے سوا کوئی بات نہ کہو۔ مسیح عیسیٰ ابن مریم تو محض اللہ کے رسول تھے اور اللہ کا ایک کلمہ تھا جو اس نے مریم تک پہنچایا، اور ایک روح تھی جو اسی کی طرف سے (پیدا ہوئی) تھی۔ لہذا اللہ اور اس کے رسولوں پر ایمان لاؤ اور یہ مت کہو کہ (خدا) تین ہیں۔ اس بات سے باز آجاؤ، کہ اسی میں تمہاری بہتری ہے، اللہ تو ایک ہی معبود ہے وہ اس بات سے بالکل پاک ہے کہ اس کا کوئی بیٹا ہو۔ آسمانوں اور زمین میں جو کچھ ہے اسی کا ہے، اور سب کی دیکھ بھال کے لیے اللہ کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

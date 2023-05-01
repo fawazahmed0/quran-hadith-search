@@ -3224,6 +3224,12 @@ kya un ka ye qayaal hai ke hum ne un ki poshida baatho ko aur un ki sar goshiyo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ گمان کرتے ہیں کہ ہم ان کی پوشیدہ باتیں اور اُن کی سرگوشیاں نہیں سنتے؟ کیوں نہیں (ضرور سنتے ہیں)! اور ہمارے بھیجے ہوئے فرشتے بھی اُن کے پاس لکھ رہے ہوتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا انہوں نے یہ سمجھ رکھا ہے کہ ہم ان کی خفیہ باتیں اور ان کی سرگوشیاں نہیں سنتے ؟ کیسے نہیں سنتے ؟ نیز ہمارے فرشتے ان کے پاس ہیں، وہ سب کچھ لکھتے رہتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

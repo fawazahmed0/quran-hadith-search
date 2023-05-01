@@ -3224,6 +3224,12 @@ kya pas wo Allah ki is pakad se be-fikr ho gaye, so Allah ki pakad se ba-juz un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا یہ لوگ اللہ کی دی ہوئی ڈھیل (کے انجام) سے بےفکر ہوچکے ہیں ؟ (اگر ایسا ہے) تو (یہ یاد رکھیں کہ) اللہ کی دی ہوئی ڈھیل سے وہی لوگ بےفکر ہو بیٹھتے ہیں جو آخر کار نقصان اٹھانے والے ہوتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

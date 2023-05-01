@@ -3224,6 +3224,12 @@ aur roye zameen ke sab logo ko dena chahega, ta ke ye ise najaath dila de
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جتنے لوگ بھی زمین میں ہیں، سب کے سب (اپنی ذات کے لئے بدلہ کر دے)، پھر یہ (فدیہ) اُسے (اللہ کے عذاب سے) بچا لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین کے سارے کے سارے باشندے۔ پھر (ان سب کو فدیہ میں دے کر) اپنے آپ کو بچا لے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

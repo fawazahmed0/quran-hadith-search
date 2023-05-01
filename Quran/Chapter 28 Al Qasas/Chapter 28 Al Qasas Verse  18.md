@@ -3224,6 +3224,12 @@ subah hee subah darte, andeshe ki haalath mein qabre lene ko shahar mein gaye, k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس موسٰی (علیہ السلام) نے اس شہر میں ڈرتے ہوئے صبح کی اس انتظار میں (کہ اب کیا ہوگا؟) تو دفعتًہ وہی شخص جس نے آپ سے گزشتہ روز مدد طلب کی تھی آپ کو (دوبارہ) امداد کے لئے پکار رہا ہے تو موسٰی (علیہ السلام) نے اس سے کہا: بیشک تو صریح گمراہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر صبح کے وقت وہ شہر میں ڈرتے ڈرتے حالات کا جائزہ لے رہے تھے، اتنے میں دیکھا کہ جس شخص نے کل ان سے مدد مانگی تھی وہ پھر انہیں فریاد کے لیے پکار رہا ہے۔ موسیٰ نے اس سے کہا کہ : معلوم ہوا کہ تم تو کھلم کھلا شریر آدمی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

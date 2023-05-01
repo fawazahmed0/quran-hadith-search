@@ -3224,6 +3224,12 @@ wahi hai jis ne qaas makkah mein kaafiro ke haatho ko tum se aur tumhaare haatho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے سرحدِ مکّہ پر (حدیبیہ کے قریب) ان (کافروں) کے ہاتھ تم سے اور تمہارے ہاتھ ان سے روک دیئے اس کے بعد کہ اس نے تمہیں ان (کے گروہ) پر غلبہ بخش دیا تھا۔ اور اللہ ان کاموں کو جو تم کرتے ہو خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی اللہ ہے جس نے مکہ کی وادی میں ان کے ہاتھوں کو تم تک پہنچنے سے اور تمہارے ہاتھوں کو ان تک پہنچنے سے روک دیا، جبکہ وہ تمہیں ان پر قابو دے چکا تھا، اور جو کچھ تم کر رہے تھے اللہ اسے دیکھ رہا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

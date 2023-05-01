@@ -3224,6 +3224,12 @@ un se aglo mein bhi Allah ka yahi dastoor jaari raha aur tu Allah ke dastoor mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ کی (یہی) سنّت اُن لوگوں میں (بھی جاری رہی) ہے جو پہلے گزر چکے ہیں، اور آپ اللہ کے دستور میں ہرگز کوئی تبدیلی نہ پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اللہ کا وہ معمول ہے جس پر ان لوگوں کے معاملے میں بھی عمل ہوتا رہا ہے جو پہلے گزر چکے ہیں۔ اور تم اللہ کے معمول میں کوئی تبدیلی ہرگز نہیں پاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

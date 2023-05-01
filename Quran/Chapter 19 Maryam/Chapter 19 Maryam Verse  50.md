@@ -3224,6 +3224,12 @@ aur un sab ko hum ne apni bahut si rehmate ataa farmaayi, aur hum ne un ke zikre
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان (سب) کو اپنی (خاص) رحمت بخشی اور ہم نے ان کے لئے (ہر آسمانی مذہب کے ماننے والوں میں) تعریف و ستائش کی زبان بلند کردی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کو اپنی رحمت سے نوازا، اور انہیں اونچے درجے کی نیک نامی عطا کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

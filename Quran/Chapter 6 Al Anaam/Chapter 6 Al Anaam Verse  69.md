@@ -3224,6 +3224,12 @@ aur jo log parhezgaar hai un par un ki baaz purs ka koyi asar na pahonchega aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں پر جو پرہیزگاری اختیار کئے ہوئے ہیں ان (کافروں) کے حساب سے کچھ بھی (لازم) نہیں ہے مگر (انہیں) نصیحت (کرنا چاہیے) تاکہ وہ (کفر سے اور قرآن کی مذمت سے) بچ جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے کھاتے میں جو اعمال ہیں ان کی کوئی ذمہ داری پرہیزگاروں پر عائد نہیں ہوتی۔ البتہ نصیحت کردینا ان کا کام ہے، شاید وہ بھی (ایسی باتوں سے) پرہیز کرنے لگیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

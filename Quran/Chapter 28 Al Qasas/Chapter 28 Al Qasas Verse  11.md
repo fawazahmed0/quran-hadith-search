@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ki waleda ne us ki behen se kaha ke tu us ke piche piche ja,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (موسٰی علیہ السلام کی والدہ نے) ان کی بہن سے کہا کہ (ان کا حال معلوم کرنے کے لئے) ان کے پیچھے جاؤ سو وہ انہیں دور سے دیکھتے رہے اور وہ لوگ (بالکل) بے خبر تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے موسیٰ کی بہن سے کہا کہ : اس بچے کا کچھ سراغ لگاؤ۔ چنانچہ اس نے بچے کو دور سے اس طرح دیکھا کہ ان لوگوں کو پتہ نہیں چلا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap kehde Allah hee ko un ke tehre rehne ki muddath ka ba-qoobi ilm hai, asmaano
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اللہ ہی بہتر جانتا ہے کہ وہ کتنی مدت (وہاں) ٹھہرے رہے، آسمانوں اور زمین کی (سب) پوشیدہ باتیں اسی کے علم میں ہیں، کیا خوب دیکھنے والا اور کیاخوب سننے والا ہے، اس کے سوا ان کا نہ کوئی کارساز ہے اور نہ وہ اپنے حکم میں کسی کو شریک فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اگر کوئی اس میں بحث کرے تو) کہہ دو کہ اللہ ہی بہتر جانتا ہے کہ وہ کتنی مدت (سوتے) رہے۔ آسمانوں اور زمین کے سارے بھید اسی کے علم میں ہیں۔ وہ کتنا دیکھنے والا، اور کتنا سننے والا ہے۔ اس کے سوا ان کا کوئی رکھوالا نہیں ہے، اور وہ اپنی حکومت میں کسی کو شریک نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

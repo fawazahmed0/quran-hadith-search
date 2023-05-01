@@ -3224,6 +3224,12 @@ ye bhi (bade bade) lashkaro mein se shikisth paaya hoa (chota sa) lashkar hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(کفّار کے) لشکروں میں سے یہ ایک حقیر سا لشکر ہے جو اسی جگہ شکست خوردہ ہونے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان کی حقیقت تو یہ ہے کہ) یہ مخالف گروہوں کا ایک لشکر سا ہے جو یہیں پر شکست کھاجائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

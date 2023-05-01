@@ -3224,6 +3224,12 @@ main ne to un se aur kuch nahi kaha magar sirf wahi jo tu ne mujh se kehne ko fa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+میں نے انہیں سوائے اس (بات) کے کچھ نہیں کہا تھا جس کا تو نے مجھے حکم دیا تھا کہ تم (صرف) اللہ کی عبادت کیا کرو جو میرا (بھی) رب ہے اور تمہارا (بھی) رب ہے، اور میں ان (کے عقائد و اعمال) پر (اس وقت تک) خبردار رہا جب تک میں ان لوگوں میں موجود رہا، پھر جب تو نے مجھے اٹھا لیا تو تو ہی ان (کے حالات) پر نگہبان تھا، اور تو ہر چیز پر گواہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں نے ان لوگوں سے اس کے س وا کوئی بات نہیں کہی جس کا آپ نے مجھے حکم دیا تھا، اور وہ یہ کہ : اللہ کی عبادت کرو جو میرا بھی پروردگار ہے اور تمہارا بھی پروردگار۔ اور جب تک میں ان کے درمیان موجود رہا، میں ان کے حالات سے واقف رہا۔ پھر جب آپ نے مجھے اٹھا لیا تو آپ خود ان کے نگران تھے، اور آپ ہر چیز کے گواہ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

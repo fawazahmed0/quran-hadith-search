@@ -3224,6 +3224,12 @@ suno! jab hamara azaab un ke maidaan mein utar aayega, us waqt un ki jin ko muta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ (عذاب) ان کے سامنے اترے گا تو اِن کی صبح کیا ہی بُری ہوگی جنہیں ڈرایا گیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سو جب وہ ان کے صحن میں آ اترے گا تو جن لوگوں کو خبردار کیا جاچکا تھا، ان کی وہ صبح بہت بری صبح ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

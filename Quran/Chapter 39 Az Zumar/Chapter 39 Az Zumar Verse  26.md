@@ -3224,6 +3224,12 @@ aur Allah ta’ala ne unhe zindagani dunya mein ruswaayi ka maza chakaya aur abi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اللہ نے انہیں دنیا کی زندگی میں (ہی) ذِلّت و رسوائی کا مزہ چکھا دیا اور یقیناً آخرت کا عذاب کہیں بڑا ہے، کاش وہ جانتے ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ اللہ نے ان کو اسی دنیوی زندگی میں رسوائی کا مزہ چکھایا، اور آخرت کا عذاب تو اور بھی بڑا ہے، کاش یہ لوگ جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

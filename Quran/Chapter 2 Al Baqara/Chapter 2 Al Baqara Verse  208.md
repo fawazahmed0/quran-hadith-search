@@ -3224,6 +3224,12 @@ imaan walo! Islaam mein pure pure daakhil ho jao aur shaitaan ke qadmo ki tabeda
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اسلام میں پورے پورے داخل ہو جاؤ، اور شیطان کے راستوں پر نہ چلو، بیشک وہ تمہارا کھلا دشمن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اسلام میں پورے کے پورے داخل ہوجاؤ، اور شیطان کے نقش قدم پر نہ چلو، یقین جانو وہ تمہارا کھلا دشمن ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

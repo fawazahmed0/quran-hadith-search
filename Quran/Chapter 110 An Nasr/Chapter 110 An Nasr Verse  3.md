@@ -3224,6 +3224,12 @@ tu apne rab ki tasbih karne lag, hamd ke saath aur us se maghfirath ki dua maang
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو آپ (تشکراً) اپنے رب کی حمد کے ساتھ تسبیح فرمائیں اور (تواضعاً) اس سے استغفار کریں، بیشک وہ بڑا ہی توبہ قبول فرمانے والا (اور مزید رحمت کے ساتھ رجوع فرمانے والا) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو اپنے پروردگار کی حمد کے ساتھ اس کی تسبیح کرو، اور اس سے مغفرت مانگو۔ یقین جانو وہ بہت معاف کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

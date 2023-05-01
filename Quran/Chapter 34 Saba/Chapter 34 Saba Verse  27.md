@@ -3224,6 +3224,12 @@ keh dijiye ke accha! mujhe bhi to unhe dikha do jinhe tum Allah ka shareek tehra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: مجھے وہ شریک دکھاؤ جنہیں تم نے اللہ کے ساتھ ملا رکھا ہے، ہرگز (کوئی شریک) نہیں ہے! بلکہ وہی اللہ بڑی عزت والا، بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : ذرا مجھے دکھاؤ وہ کون ہیں جنہیں تم نے شریک بنا کر اللہ سے جوڑ رکھا ہے۔ ہرگز نہیں ! (اس کا کوئی شریک نہیں ہے) بلکہ وہ اللہ ہے جس کا اقتدار بھی کامل ہے، جس کی حکمت بھی کامل
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

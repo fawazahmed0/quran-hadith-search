@@ -3224,6 +3224,12 @@ asmaano aur zameen aur un ke darmiyaan ki tamaam chizo aur mashriqo ka rab wahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جو) آسمانوں اور زمین کا اور جو (مخلوق) اِن دونوں کے درمیان ہے اس کا رب ہے، اور طلوعِ آفتاب کے تمام مقامات کا رب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو تمام آسمانوں اور زمین کا اور ان کے درمیان کی ہر چیز کا مالک ہے، اور ان تمام مقامات کا مالک جہاں سے ستارے طلوع ہوتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

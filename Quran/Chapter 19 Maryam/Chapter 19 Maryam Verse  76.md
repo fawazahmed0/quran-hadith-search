@@ -3224,6 +3224,12 @@ aur hidaayath yaafta logo ko Allah ta’ala hidaayath me badaata hai, aur baaqi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ہدایت یافتہ لوگوں کی ہدایت میں مزید اضافہ فرماتا ہے، اور باقی رہنے والے نیک اعمال آپ کے رب کے نزدیک اجر و ثواب میں (بھی) بہتر ہیں اور انجام میں (بھی) خوب تر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے سیدھا راستہ اختیار کرلیا ہے، اللہ ان کو ہدایت میں اور ترقی دیتا ہے۔ اور جو نیک عمل باقی رہنے والے ہیں، ان کا بدلہ بھی تمہارے پروردگار کے یہاں بہتر ملے گا، اور ان کا (مجموعی) انجام بھی بہتر ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

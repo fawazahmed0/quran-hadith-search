@@ -3224,6 +3224,12 @@ aur Allah ke ahad ko pura karo jab ke tum aapas mein qaul wa qaraar karo aur qas
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اللہ کا عہد پورا کر دیا کرو جب تم عہد کرو اور قسموں کو پختہ کر لینے کے بعد انہیں مت توڑا کرو حالانکہ تم اللہ کو اپنے آپ پر ضامن بنا چکے ہو، بیشک اللہ خوب جانتا ہے جو کچھ تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم نے کوئی معاہدہ کیا ہو تو اللہ سے کیے ہوئے عہد کو پورا کرو، اور قسموں کو پختہ کرنے کے بعد انہیں نہ توڑو، جبکہ تم اپنے اوپر اللہ کو گواہ بنا چکے ہو۔ تم جو کچھ کرتے ہو، یقینا اللہ اسے جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

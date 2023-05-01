@@ -3224,6 +3224,12 @@ us ki ek nishaani ye bhi hai ke asmaan wa zameen osi ke hukm se qaayam hai, phir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس کی نشانیوں میں سے یہ بھی ہے کہ آسمان و زمین اس کے (نظامِ) اَمر کے ساتھ قائم ہیں پھر جب وہ تم کو زمین سے (نکلنے کے لئے) ایک بار پکارے گا تو تم اچانک (باہر) نکل آؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کی ایک نشانی یہ ہے کہ آسمان اور زمین اس کے حکم سے قائم ہیں۔ پھر جب وہ ایک پکار دے کر تمہیں زمین سے بلائے گا تو تم فورا نکل پڑو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

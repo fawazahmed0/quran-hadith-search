@@ -3224,6 +3224,12 @@ pas us par tere rab ki jaanib se ek bala, chaaro taraf ghoom gayi aur ye so hee 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ کے رب کی جانب سے ایک پھرنے والا (عذاب رات ہی رات میں) اس (باغ) پر پھر گیا اور وہ سوتے ہی رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ جس وقت وہ سو رہے تھے، اس وقت تمہارے پروردگار کی طرف سے ایک بلا اس باغ پر پھیرا لگا گئی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

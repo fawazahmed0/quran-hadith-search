@@ -3224,6 +3224,12 @@ ab zakarya (alaihissalaam) apne hujre se nikal kar apni khaum ke paas aa kar unh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (زکریا علیہ السلام) حجرۂ عبادت سے نکل کر اپنے لوگوں کے پاس آئے تو ان کی طرف اشارہ کیا (اور سمجھایا) کہ تم صبح و شام (اللہ کی) تسبیح کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ وہ عبادت گاہ سے نکل کر اپنی قوم کے سامنے آئے، اور ان کو اشارے سے ہدایت دی کہ تم لوگ صبح و شام اللہ کی تسبیح کیا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

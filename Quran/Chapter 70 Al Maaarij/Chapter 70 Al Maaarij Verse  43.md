@@ -3224,6 +3224,12 @@ jis din ye qabro se daudte hoye niklenge, goya ke wo kisi jageh ki taraf tez tez
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن وہ قبروں سے دوڑتے ہوئے یوں نکلیں گے گویا وہ بتوں کے اَستھانوں کی طرف دوڑے جا رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن یہ جلدی جلدی قبروں سے اس طرح نکلیں گے جیسے اپنے بتوں کی طرف دوڑے جارہے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

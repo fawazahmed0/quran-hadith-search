@@ -3224,6 +3224,12 @@ aye Muhammad(sallallahu alaihi wasallam) aap kehde ke mujhe wahi ki gayi hai ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں: میری طرف وحی کی گئی ہے کہ جنات کی ایک جماعت نے (میری تلاوت کو) غور سے سنا، تو (جا کر اپنی قوم سے) کہنے لگے: بیشک ہم نے ایک عجیب قرآن سنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کہہ دو : میرے پاس وحی آئی ہے کہ جنات کی ایک جماعت نے (قرآن) غور سے سنا، اور (اپنی قوم سے جاکر) کہا کہ : ہم نے ایک عجیب قرآن سنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

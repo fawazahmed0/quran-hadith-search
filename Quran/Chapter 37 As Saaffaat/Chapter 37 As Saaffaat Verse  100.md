@@ -3224,6 +3224,12 @@ aye mere rub! mujhe nek baqth aulaad ataa farma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(پھر اَرضِ مقدّس میں پہنچ کر دعا کی:) اے میرے رب! صالحین میں سے مجھے ایک (فرزند) عطا فرما
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرے پروردگار ! مجھے ایک ایسا بیٹا دیدے جو نیک لوگوں میں سے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah hee hai jis ne tumhaare liye zameen ko teherne ki jageh aur asmaan ko chat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہی ہے جس نے تمہارے لئے زمین کو قرار گاہ بنایا اور آسمان کو چھت بنایا اور تمہیں شکل و صورت بخشی پھر تمہاری صورتوں کو اچھا کیا اور تمہیں پاکیزہ چیزوں سے روزی بخشی، یہی اللہ تمہارا رب ہے۔ پس اللہ بڑی برکت والا ہے جو سب جہانوں کا رب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ہی تو ہے جس نے تمہارے لیے زمین کو قرار کی جگہ بنایا، اور آسمان کو ایک گنبد، اور تمہاری صورت گری کی، اور تمہاری صورتوں کو اچھا بنایا، اور پاکیزہ چیزوں میں سے تمہیں رزق عطا کیا۔ وہ ہے اللہ جو تمہارا پروردگار ہے۔ غرض بڑی برکت والا ہے اللہ، سارے جہانوں کا پروردگار
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

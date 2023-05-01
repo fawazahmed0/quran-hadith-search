@@ -3224,6 +3224,12 @@ pas aap yek-so ho kar apna mu deen ki taraf mutawajjeh karde, Allah ta’ala ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ اپنا رخ اللہ کی اطاعت کے لئے کامل یک سُوئی کے ساتھ قائم رکھیں۔ اللہ کی (بنائی ہوئی) فطرت (اسلام) ہے جس پر اس نے لوگوں کو پیدا فرمایا ہے (اسے اختیار کر لو)، اللہ کی پیدا کردہ (سرِشت) میں تبدیلی نہیں ہوگی، یہ دین مستقیم ہے لیکن اکثر لوگ (ان حقیقتوں کو) نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا تم یک سو ہو کر اپنا رخ اس دین کی طرف قائم رکھو۔ اللہ کی بنائی ہوئی اس فطرت پر چلو جس پر اس نے تمام لوگوں کو پیدا کیا ہے۔ اللہ کی تخلیق میں کوئی تبدیلی نہیں لائی جاسکتی۔ یہی بالکل سیدھا راستہ ہے، لیکن اکثر لوگ نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

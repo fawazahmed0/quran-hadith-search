@@ -3224,6 +3224,12 @@ jab hum ne un ke paas do ko bheja, so un logo ne (awwal) duno ko jhutlaaya, phir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جبکہ ہم نے اُن کی طرف (پہلے) دو (پیغمبر) بھیجے تو انہوں نے ان دونوں کو جھٹلا دیا پھر ہم نے (ان کو) تیسرے (پیغمبر) کے ذریعے قوت دی، پھر اُن تینوں نے کہا: بیشک ہم تمہاری طرف بھیجے گئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب ہم نے ان کے پاس (شروع میں) دو رسول بھیجے، تو انہوں نے دونوں کو جھٹلا دیا، پھر ہم نے ایک تیسرے کے ذریعے ان کی تائید کی، اور ان سب نے کہا کہ : یقین جانو ہمیں تمہارے پاس رسول بنا کر بھیجا گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

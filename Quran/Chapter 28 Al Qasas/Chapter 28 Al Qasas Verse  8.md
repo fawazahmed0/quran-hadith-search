@@ -3224,6 +3224,12 @@ aaqir feraun ke logo ne us bacche ko utha liya, ke aaqir kaar yahi baccha un ka 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر فرعون کے گھر والوں نے انہیں (دریا سے) اٹھا لیا تاکہ وہ (مشیّتِ الٰہی سے) ان کے لئے دشمن اور (باعثِ) غم ثابت ہوں، بیشک فرعون اور ہامان اور ان دونوں کی فوجیں سب خطاکار تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح فرعون کے لوگوں نے اس بچے (یعنی حضرت موسیٰ (علیہ السلام)) کو اٹھا لیا تاکہ آخر کار وہ ان کے لیے دشمن اور غم کا ذریعہ بنے۔ بیشک فرعون، ہامان اور ان کے لشکر بڑے خطار کار تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

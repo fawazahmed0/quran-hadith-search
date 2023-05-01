@@ -3224,6 +3224,12 @@ aur tum Allah ta’ala ki ita’ath karte raho aur rasool ki ita’ath karte rah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اللہ کی اطاعت کرو اور رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرو اور (خدا اور رسول صلی اللہ علیہ وآلہ وسلم کی مخالفت سے) بچتے رہو، پھر اگر تم نے رُوگردانی کی تو جان لو کہ ہمارے رسول (صلی اللہ علیہ وآلہ وسلم) پر صرف (احکام کا) واضح طور پر پہنچا دینا ہی ہے (اور وہ یہ فریضہ ادا فرما چکے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کی اطاعت کرو، اور رسول کی اطاعت کرو، اور (نافرمانی سے) بچتے رہو۔ اور اگر تم (اس حکم سے) منہ موڑو گے تو جان رکھو کہ ہمارے رسول پر صرف یہ ذمہ داری ہے کہ وہ صاف صاف طریقے سے (اللہ کے حکم کی) تبلیغ کردیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

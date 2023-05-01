@@ -3224,6 +3224,12 @@ zara dekho to inhone kis tarah jhoot bola apni jaano par, aur jin chizo ko wo jh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+دیکھئے انہوں نے خود اپنے اوپر کیسا جھوٹ بولا اور جو بہتان وہ (دنیا میں) تراشا کرتے تھے وہ ان سے غائب ہوگیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دیکھو یہ اپنے معاملے میں کس طرح جھوٹ بول جائیں گے، اور جو (معبود) انہوں نے جھوٹ موٹ تراش رکھے تھے، ان کا انہیں کوئی سراغ نہیں مل سکے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

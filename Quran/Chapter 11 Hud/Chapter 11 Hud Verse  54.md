@@ -3224,6 +3224,12 @@ balke hum to yahi kehte hai ke tu hamare kisi mabood ke bore jhapte mein aa gaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم اس کے سوا (کچھ) نہیں کہہ سکتے کہ ہمارے معبودوں میں سے کسی نے تمہیں (دماغی خلل کی) بیماری میں مبتلا کر دیا ہے۔ ہود (علیہ السلام) نے کہا: بیشک میں اللہ کو گواہ بناتا ہوں اور تم بھی گواہ رہو کہ میں ان سے لاتعلق ہوں جنہیں تم شریک گردانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم تو اس کے سوا کچھ اور نہیں کہہ سکتے کہ ہمارے خداؤں میں سے کسی نے تمہیں بری طرح جھپیٹے میں لے لیا ہے، ہود نے کہا : میں اللہ کو گواہ بناتا ہوں، اور تم بھی گواہ رہو کہ تم اللہ کے سوا جس جس کو اس کی خدائی میں شریک مانتے ہو، میں اس سے بری ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

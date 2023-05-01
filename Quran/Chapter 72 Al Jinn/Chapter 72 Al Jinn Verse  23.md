@@ -3224,6 +3224,12 @@ albatta (mera kaam) Allah ki baath aur us ke paighamaath (logo ko) pahoncha dena
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر اللہ کی جانب سے اَحکامات اور اُس کے پیغامات کا پہنچانا (میری ذِمّہ داری ہے)، اور جو کوئی اللہ اور اُس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی نافرمانی کرے تو بیشک اُس کے لئے دوزخ کی آگ ہے جس میں وہ ہمیشہ رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ (جس چیز پر مجھے اختیار دیا گیا ہے، وہ) اللہ کی طرف سے بات پہنچا دینا، اور اس کے پیغامات ہیں۔ اور جو کوئی اللہ اور اس کے رسول کی نافرمانی کرے گا تو اس کے لیے جہنم کی آگ ہے جس میں ایسے لوگ ہمیشہ ہمیشہ رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

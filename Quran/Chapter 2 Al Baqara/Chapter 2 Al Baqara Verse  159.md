@@ -3224,6 +3224,12 @@ jo log hamaari utari hoyi dalilo aur hidaayath ko chipaate hai, ba-wajoodh ye ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ہماری نازل کردہ کھلی نشانیوں اور ہدایت کو چھپاتے ہیں اس کے بعد کہ ہم نے اسے لوگوں کے لئے (اپنی) کتاب میں واضح کردیا ہے تو انہی لوگوں پر اللہ لعنت بھیجتا ہے (یعنی انہیں اپنی رحمت سے دور کرتا ہے) اور لعنت بھیجنے والے بھی ان پر لعنت بھیجتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک وہ لوگ جو ہماری نازل کی ہوئی روشن دلیلوں اور ہدایت کو چھپاتے ہیں باوجودیکہ ہم انہیں کتاب میں کھول کھول کر لوگوں کے لیے بیان کرچکے ہیں تو ایسے لوگوں پر اللہ بھی لعنت بھیجتا ہے اور دوسرے لعنت کرنے والے بھی لعنت بھیجتے ہیں،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

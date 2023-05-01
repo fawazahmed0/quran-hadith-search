@@ -3224,6 +3224,12 @@ aap kahiye ke wo kaun hai jo tum ko qushki aur darya ke zulmaath se najaath deta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان سے دریافت) فرمائیں کہ بیابان اور دریا کی تاریکیوں سے تمہیں کون نجات دیتا ہے؟ (اس وقت تو) تم گڑگڑا کر (بھی) اور چپکے چپکے (بھی) اسی کو پکارتے ہو کہ اگر وہ ہمیں اس (مصیبت) سے نجات دے دے تو ہم ضرور شکر گزاروں میں سے ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو : خشکی اور سمندر کی تاریکیوں سے اس وقت کون تمہیں نجات دیتا ہے جب تم اسے گڑ گڑا کر اور چپکے چپکے پکارتے ہو، (اور یہ کہتے ہو کہ) اگر اس نے ہمیں اس مصیبت سے بچا لیا تو ہم ضرور بالضرور شکر گزار بندوں میں شامل ہوجائیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

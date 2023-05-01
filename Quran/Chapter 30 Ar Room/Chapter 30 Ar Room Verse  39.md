@@ -3224,6 +3224,12 @@ tum jo soodh par dete ho, ke logo ke maal mein badta rahe, wo Allah ta’ala ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو مال تم سود پر دیتے ہو تاکہ (تمہارا اثاثہ) لوگوں کے مال میں مل کر بڑھتا رہے تو وہ اللہ کے نزدیک نہیں بڑھے گا اور جو مال تم زکوٰۃ (و خیرات) میں دیتے ہو (فقط) اللہ کی رضا چاہتے ہوئے تو وہی لوگ (اپنا مال عند اللہ) کثرت سے بڑھانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ جو تم سود دیتے ہو تاکہ وہ لوگوں کے مال میں شامل ہو کر بڑھ جائے تو وہ اللہ کے نزدیک بڑھتا نہیں ہے۔ اور جو زکوٰۃ تم اللہ کی خوشنودی حاصل کرنے ارادے سے دیتے ہو، تو جو لوگ بھی ایسا کرتے ہیں وہ ہیں جو (اپنے مال کو) کئی گنا بڑھا لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

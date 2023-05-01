@@ -3224,6 +3224,12 @@ kya aap ne us baath par nazar nahi ki ke Allah ta’ala ne asmaan se paani utaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے نہیں دیکھا کہ اللہ نے آسمان سے پانی اتارا، پھر ہم نے اس سے پھل نکالے جن کے رنگ جداگانہ ہیں، اور (اسی طرح) پہاڑوں میں بھی سفید اور سرخ گھاٹیاں ہیں ان کے رنگ (بھی) مختلف ہیں اور بہت گہری سیاہ (گھاٹیاں) بھی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ اللہ نے آسمان سے پانی اتارا، پھر ہم نے اس کے ذریعے رنگ برنگ کے پھل اگائے ؟ اور پہاڑوں میں بھی ایسے ٹکڑے ہیں جو رنگ برنگ کے سفید اور سرخ ہیں، اور کالے سیاہ بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

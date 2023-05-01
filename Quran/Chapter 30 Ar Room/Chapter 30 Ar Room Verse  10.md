@@ -3224,6 +3224,12 @@ phir aaqirash bura karne waalo ka bahuth hee bura anjaam hoa, is liye ke wo Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان لوگوں کا انجام بہت برا ہوا جنہوں نے برائی کی اس لئے کہ وہ اللہ کی آیتوں کو جھٹلاتے اور ان کا مذاق اڑایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جن لوگوں نے برائی کی تھی ان کا انجام بھی برا ہی ہوا، کیونکہ انہوں نے اللہ کی آیتوں کو جھٹلایا تھا، اور وہ ان کا مذاق اڑایا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

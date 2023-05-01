@@ -3224,6 +3224,12 @@ tum mein se jo buzrugi aur kushaadgi waale hai, unhe apne qaraabat-daaro aur mis
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم میں سے (دینی) بزرگی والے اور (دنیوی) کشائش والے (اب) اس بات کی قَسم نہ کھائیں کہ وہ (اس بہتان کے جرم میں شریک) رشتہ داروں اور محتاجوں اور اللہ کی راہ میں ہجرت کرنے والوں کو (مالی امداد نہ) دیں گے انہیں چاہئے کہ (ان کا قصور) معاف کر دیں اور (ان کی غلطی سے) درگزر کریں، کیا تم اس بات کو پسند نہیں کرتے کہ اللہ تمہیں بخش دے، اور اللہ بڑا بخشنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم میں سے جو لوگ اہل خیر ہیں اور مالی وسعت رکھتے ہیں، وہ ایسی قسم نہ کھائیں کہ وہ رشتہ داروں، مسکینوں اور اللہ کے راستے میں ہجرت کرنے والوں کو کچھ نہیں دیں گے، اور انہیں چاہیے کہ معافی اور درگزر سے کام لیں۔ کیا تمہیں یہ پسند نہیں ہے کہ اللہ تمہاری خطائیں بخش دے ؟ اور اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ beshak zaalimo ke liye is ke alaawa aur azaab bhi hai, lekin un logo mein se aks
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک جو لوگ ظلم کر رہے ہیں اُن کے لئے اس عذاب کے علاوہ بھی عذاب ہے، لیکن اُن میں سے اکثر لوگ جانتے نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس سے پہلے بھی ان ظالموں کے لیے ایک عذاب ہے۔ لیکن ان میں سے اکثر لوگوں کو پتہ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

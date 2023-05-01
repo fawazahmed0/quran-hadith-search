@@ -3224,6 +3224,12 @@ aye imaan waalo tum par maqtulo ka qisaas lena farz kiya gaya hai, azaad, azaad 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم پر ان کے خون کا بدلہ (قصاص) فرض کیا گیا ہے جو ناحق قتل کئے جائیں، آزاد کے بدلے آزاد اور غلام کے بدلے غلام اور عورت کے بدلے عورت، پھر اگر اس کو (یعنی قاتل کو) اس کے بھائی (یعنی مقتول کے وارث) کی طرف سے کچھ (یعنی قصاص) معاف کر دیا جائے تو چاہئے کہ بھلے دستور کے موافق پیروی کی جائے اور (خون بہا کو) اچھے طریقے سے اس (مقتول کے وارث) تک پہنچا دیا جائے، یہ تمہارے رب کی طرف سے رعایت اور مہربانی ہے، پس جو کوئی اس کے بعد زیادتی کرے تو اس کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جو لوگ (جان بوجھ کر ناحق) قتل کر دئیے جائیں ان کے بارے میں تم پر قصاص (کا حکم) فرض کردیا گیا ہے، آزاد کے بدلے آزاد، غلام کے بدلے غلام اور عورت کے بدلے عورت (ہی کو قتل کیا جائے) ، پھر اگر قاتل کو اس کے بھائی) یعنی مقتول کے وارث) کی طرف سے کچھ معافی دے دی جائے تو معروف طریقے کے مطابق (خوں بہا کا) مطالبہ کرنا (وارث کا) حق ہے، اور اسے خوش اسلوبی سے ادا کرنا (قاتل کا) فرض ہے۔ یہ تمہارے پروردگار کی طرف سے ایک آسانی پیدا کی گئی ہے اور ایک رحمت ہے، اس کے بعد بھی کوئی زیادتی کرے تو وہ دردناک عذاب کا مستحق ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

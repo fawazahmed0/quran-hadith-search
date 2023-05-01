@@ -3224,6 +3224,12 @@ unhone to us (Ibraheem(alaihissalaam) ke saath makar karna chaaha, lekin hum ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+غرض انہوں نے ابراہیم (علیہ السلام) کے ساتھ ایک چال چلنا چاہی سو ہم نے اُن ہی کو نیچا دکھا دیا (نتیجۃً آگ گلزار بن گئی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح انہوں نے ابراہیم کے خلاف ایک برا منصوبہ بنانا چاہا، لیکن ہم نے انہیں نیچا دکھا دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

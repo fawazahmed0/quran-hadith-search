@@ -3224,6 +3224,12 @@ aap dekhenge ke ye zaalim apne amaal se dar rahe honge, jin ke wabaal un par waa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ ظالموں کو اُن (اعمال) سے ڈرنے والا دیکھیں گے جو انہوں نے کما رکھے ہیں اور وہ (عذاب) اُن پر واقع ہو کر رہے گا، اور جو لوگ ایمان لائے اور نیک اعمال کرتے رہے وہ بہشت کے چَمنوں میں ہوں گے، اُن کے لئے اُن کے رب کے پاس وہ (تمام نعمتیں) ہوں گی جن کی وہ خواہش کریں گے، یہی تو بہت بڑا فضل ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس وقت) تم ان ظالموں کو دیکھو گے کہ انہوں نے جو کمائی کی ہے، اس (کے وبال) سے سہمے ہوئے ہوں گے، اور وہ ان پر پڑ کر رہے گا، اور جو لوگ ایمان لائے ہیں، اور انہوں نے نیک عمل کیے ہیں وہ جنتوں کی کیا ریوں میں ہوں گے۔ انہیں اپنے پروردگار کے پاس وہ سب کچھ ملے گا جو وہ چاہیں گے۔ یہی بڑا فضل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

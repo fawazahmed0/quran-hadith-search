@@ -3224,6 +3224,12 @@ tum mein se jo do afraad aisa kaam karle unhe eza do,agar wo tauba aur islaah ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم میں سے جو بھی کوئی بدکاری کا ارتکاب کریں تو ان دونوں کو ایذا پہنچاؤ، پھر اگر وہ توبہ کر لیں اور (اپنی) اصلاح کر لیں تو انہیں سزا دینے سے گریز کرو، بیشک اللہ بڑا توبہ قبول فرمانے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم میں سے جو دو مرد بدکاری کا ارتکاب کریں، ان کو اذیت دو ۔ پھر اگر وہ توبہ کر کے اپنی اصلاح کرلیں تو ان سے درگزر کرو۔ بیشک اللہ بہت توبہ قبول کرنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

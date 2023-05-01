@@ -3224,6 +3224,12 @@ aur wo waqt bhi qaabil zikr hai jab ke Allah ta’ala farmaayega aye Isa bin Mar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اللہ فرمائے گا: اے عیسٰی ابن مریم! کیا تم نے لوگوں سے کہا تھا کہ تم مجھ کو اور میری ماں کو اللہ کے سوا دو معبود بنا لو، وہ عرض کریں گے: تو پاک ہے، میرے لئے یہ (روا) نہیں کہ میں ایسی بات کہوں جس کا مجھے کوئی حق نہیں۔ اگر میں نے یہ بات کہی ہوتی تو یقیناً تو اسے جانتا، تو ہر اس (بات) کو جانتا ہے جو میرے دل میں ہے اور میں ان (باتوں) کو نہیں جانتا جو تیرے علم میں ہیں۔ بیشک تو ہی غیب کی سب باتوں کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس وقت کا بھی ذکر سنو) جب اللہ کہے گا کہ : اے عیسیٰ ابن مریم ! کیا تم نے لوگوں سے کہا تھا کہ مجھے اور میری ماں کو اللہ کے علاوہ دو معبود بناؤ ؟ وہ کہیں گے : ہم تو آپ کی ذات کو (شرک سے) پاک سمجھتے ہیں۔ میری مجال نہیں تھی کہ میں ایسی بات کہوں جس کا مجھے کوئی حق نہیں۔ اگر میں نے ایسا کہا ہوتا تو آپ کو یقینا معلوم ہوجاتا۔ آپ وہ باتیں جانتے ہیں جو میرے دل میں پوشیدہ ہی اور میں اور آپ کی پوشیدہ باتوں کو نہیں جانتا۔ یقینا آپ کو تمام چھپی ہوئی باتوں کا پورا پورا علم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

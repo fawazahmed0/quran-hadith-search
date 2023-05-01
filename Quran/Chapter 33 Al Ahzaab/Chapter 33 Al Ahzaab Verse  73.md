@@ -3224,6 +3224,12 @@ Is baar-e-amanat ko uthane ka laazmi nateeja yeh hai ke Allah munafiq mardon aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) اس لئے کہ اللہ منافق مَردوں اورمنافق عورتوں اور مشرِک مَردوں اور مشرِک عورتوں کو عذاب دے اور اللہ مومِن مَردوں اور مومِن عورتوں کی توبہ قبول فرمائے، اور اللہ بڑا بخشنے والا بڑا رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نتیجہ یہ ہے کہ اللہ منافق مردوں اور منافق عورتوں کو، نیز مشرک مردوں اور مشرک عورتوں کو عذاب دے گا، اور مومن مردوں اور مومن عورتوں پر رحمت کے ساتھ توجہ فرمائے گا۔ اور اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

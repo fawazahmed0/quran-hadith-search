@@ -3224,6 +3224,12 @@ us se Mosa(alaihissalaam) ne kaha ke main aap ki taabedaari karo? ke aap mujhe u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس سے موسٰی (علیہ السلام) نے کہا: کیا میں آپ کے ساتھ اس (شرط) پر رہ سکتا ہوں کہ آپ مجھے (بھی) اس علم میں سے کچھ سکھائیں گے جو آپ کو بغرضِ ارشاد سکھایا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے ان سے کہا : کیا میں آپ کے ساتھ اس غرض سے رہ سکتا ہوں کہ آپ کو بھلائی کا جو علم عطا ہوا ہے، اس کا کچھ حصہ مجھے بھی سکھا دیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

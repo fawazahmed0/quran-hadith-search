@@ -3224,6 +3224,12 @@ mushrik logo ne kaha ke agar Allah ta’ala chaahta to hum aur hamaare baap daad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور مشرک لوگ کہتے ہیں: اگر اللہ چاہتا تو ہم اس کے سوا کسی بھی چیز کی پرستش نہ کرتے، نہ ہی ہم اور نہ ہمارے باپ دادا، اور نہ ہم اس کے (حکم کے) بغیر کسی چیز کو حرام قرار دیتے، یہی کچھ ان لوگوں نے (بھی) کیا تھا جو اِن سے پہلے تھے، تو کیا رسولوں کے ذمہ (اللہ کے پیغام اور احکام) واضح طور پر پہنچا دینے کے علاوہ بھی کچھ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے شرک اختیار کیا ہے، وہ کہتے ہیں کہ اگر اللہ چاہتا تو ہم اس کے سوا کسی اور چیز کی عبادت نہ کرتے، نہ ہم، نہ ہمارے باپ دادا، اور نہ ہم اس کے (حکم کے) بغیر کوئی چیز حرام قرار دیتے۔ جو امتیں ان سے پہلے گزری ہیں انہوں نے بھی ایسا ہی کیا تھا۔ لیکن پیغمبروں کی ذمہ داری اس کے سوا کچھ نہیں کہ وہ صاف صاف طریقے پر پیغام پہنچا دیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

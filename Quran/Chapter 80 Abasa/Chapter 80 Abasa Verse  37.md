@@ -3224,6 +3224,12 @@ un mein se har ek ko us din aisi fikr daaman geer hogi, jo us ke liye kaafi hogi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس دن ہر شخص کو ایسی (پریشان کن) حالت لاحق ہوگی جو اسے (ہر دوسرے سے) بے پروا کر دے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (کیونکہ) ان میں سے ہر ایک کو اس دن اپنی ایسی فکر پڑی ہوگی کہ اسے دوسروں کا ہوش نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kaafiro ke kufr se aap ranjida na ho, aaqir un sab ka lautna to hamaari jaanib h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کفر کرتا ہے (اے حبیبِ مکرّم!) اس کا کفر آپ کو غمگین نہ کر دے، انہیں (بھی) ہماری ہی طرف پلٹ کر آنا ہے، ہم انہیں ان اعمال سے آگاہ کر دیں گے جو وہ کرتے رہے ہیں، بیشک اللہ سینوں کی (مخفی) باتوں کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جس کسی نے کفر اپنا لیا ہے، تمہیں اس کا کفر صدمے میں نہ ڈالے۔ آخر انہیں ہمارے پاس ہی تو لوٹنا ہے، پھر ہم انہیں بتائیں گے کہ انہوں نے کیا کیا ہے ؟ یقینا اللہ سینوں میں چھپی ہوئی باتوں کو بھی خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

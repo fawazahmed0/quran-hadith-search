@@ -3224,6 +3224,12 @@ bhala un ka kya nuqsaan tha agar ye Allah ta’ala par aur qayaamath ke din par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کا کیا نقصان تھا اگر وہ اللہ پر اور یومِ آخرت پر ایمان لے آتے اور جو کچھ اللہ نے انہیں دیا تھا اس میں سے (اس کی راہ میں) خرچ کرتے، اور اللہ ان (کے حال) سے خوب واقف ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا ان کا کیا بگڑ جاتا اگر یہ اللہ اور یوم آخرت پر ایمان لے آتے اور اللہ نے ان کو جو رزق عطا فرمایا ہے اس میں سے کچھ (نیک کاموں میں) خرچ کردیتے ؟ اور اللہ کو ان کا حال خوب معلوم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur kahenge ke Allah ka laakh laakh shukr hai jis ne hum se gham door kiya, besh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کہیں گے: اللہ کا شکر و حمد ہے جس نے ہم سے کُل غم دور فرما دیا، بیشک ہمارا رب بڑا بخشنے والا، بڑا شکر قبول فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ کہیں گے کہ : تمام تر تعریف اللہ کی ہے جس نے ہم سے ہر غم دور کردیا۔ بیشک ہمارا پروردگار بہت بخشنے والا، بڑا قدردان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

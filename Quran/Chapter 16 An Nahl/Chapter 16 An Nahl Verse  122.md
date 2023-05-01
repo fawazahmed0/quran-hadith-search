@@ -3224,6 +3224,12 @@ hum ne ose dunya mein bhi behetri di thi aur beshak aqirath mein bhi nekokaro me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اسے دنیا میں (بھی) بھلائی عطا فرمائی، اور بیشک وہ آخرت میں (بھی) صالحین میں سے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان کو دنیا میں بھی بھلائی دی تھی، اور آخرت میں تو یقینا ان کا شمار صالحین میں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

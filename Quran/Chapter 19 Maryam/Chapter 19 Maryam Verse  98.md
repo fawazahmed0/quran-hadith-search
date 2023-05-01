@@ -3224,6 +3224,12 @@ hum ne un se pehle bahuth si jamaate tabaah kar di hain, kya un mein se ek ki bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان سے پہلے کتنی ہی قوموں کو ہلاک کر دیا ہے، کیا آپ ان میں سے کسی کا وجود بھی دیکھتے ہیں یا کسی کی کوئی آہٹ بھی سنتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے پہلے ہم کتنی ہی قوموں کو ہلاک کرچکے ہیں۔ کیا تمہیں ٹٹولنے سے بھی ان میں سے کسی کا پتہ ملتا ہے، یا ان میں سے کسی کی بھنک بھی تمہیں سنائی دیتی ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

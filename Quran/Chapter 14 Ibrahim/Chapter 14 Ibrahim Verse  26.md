@@ -3224,6 +3224,12 @@ aur na paak baat ki misaal gandhe daraqt jaisi hai jo zameen ke kuch hee upar se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ناپاک بات کی مثال اس ناپاک درخت کی سی ہے جسے زمین کے اوپر ہی سے اکھاڑ لیا جائے، اسے ذرا بھی قرار (و بقا) نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ناپاک کلمے کی مثال ایک خراب درخت کی طرح ہے جسے زمین کے اوپر ہی اوپر سے اکھاڑ لیا جائے، اس میں ذرا بھی جماؤ نہ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

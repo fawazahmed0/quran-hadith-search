@@ -3224,6 +3224,12 @@ magar wo log jo tauba karle aur islaah karle aur bayaan karde, to main un ki tau
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر جو لوگ توبہ کر لیں اور (اپنی) اصلاح کر لیں اور (حق کو) ظاہر کر دیں تو میں (بھی) انہیں معاف فرما دوں گا، اور میں بڑا ہی توبہ قبول کرنے والا مہربان ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں وہ لوگ جنہوں نے توبہ کرلی ہو اور اپنی اصلاح کرلی ہو (اور چھپائی ہوئی باتوں کو) کھول کھول کر بیان کردیا ہو تو میں ایسے لوگوں کی توبہ قبول کرلیتا ہوں، اور میں توبہ قبول کرنے کا خوگر ہوں بڑا رحمت والا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

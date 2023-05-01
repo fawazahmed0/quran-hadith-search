@@ -3224,6 +3224,12 @@ aur hum ne yaqinan Dawood(alaihissalaams) aur Sulaimaan(alaihissalaam) ko ilm de
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے داؤد اور سلیمان (علیہما السلام) کو (غیر معمولی) علم عطا کیا، اور دونوں نے کہا کہ ساری تعریفیں اللہ ہی کے لئے ہیں جس نے ہمیں اپنے بہت سے مومن بندوں پر فضیلت بخشی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم داؤد اور سلیمان کو علم عطا کیا۔ اور انہوں نے کہا : تمام تعریفیں اللہ کی ہیں جس نے ہمیں اپنے بہت سے مومن بندوں پر فضیلت عطا فرمائی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

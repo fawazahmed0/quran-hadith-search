@@ -3224,6 +3224,12 @@ aye Nabi! (sallallahu alaihi wasallam) jis cheez ko Allah ne aap ke liye halaal 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبیِ (مکرّم!) آپ خود کو اس سے کیوں منع فرماتے ہیں جسے اللہ نے آپ کے لیے حلال فرما رکھا ہے؟ آپ ‏اپنی اَزواج کی (کس قدر) دلجوئی فرماتے ہیں! اور اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! جو چیز اللہ نے تمہارے لیے حلال کی ہے، تم اپنی بیویوں کی خوشنودی حاصل کرنے کے لیے اسے کیوں حرام کرتے ہو ؟ اور اللہ بہت بخشنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

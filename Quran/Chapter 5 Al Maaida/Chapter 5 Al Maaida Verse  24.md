@@ -3224,6 +3224,12 @@ khaom ne jawab diya ke ae Mosa(alaihissalaam) jab tak wo waha hai, tabh tak hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: اے موسیٰ! جب تک وہ لوگ اس (سرزمین) میں ہیں ہم ہرگز کبھی وہاں داخل نہیں ہوں گے، پس تم اور تمہارا رب (ایک ساتھ) جاؤ اور جنگ کرو، ہم تو یہیں بیٹھے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہنے لگے : اے موسیٰ ! جب تک وہ لوگ اس (ملک) میں موجود ہیں، ہم ہرگز ہرگز اس میں قدم نہیں رکھیں گے (اگر ان سے لڑنا ہے تو) تو بس تم اور تمہارا رب چلے جاؤ، اور ان سے لڑو، ہم تو یہیں بیٹھے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

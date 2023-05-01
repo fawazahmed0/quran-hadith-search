@@ -3224,6 +3224,12 @@ aur hum ne yahodiyo ke zimme taurath mein ye bath muqarrar kar di thi ke jan ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اس (تورات) میں ان پر فرض کردیا تھا کہ جان کے بدلے جان اور آنکھ کے عوض آنکھ اور ناک کے بدلے ناک اور کان کے عوض کان اور دانت کے بدلے دانت اور زخموں میں (بھی) بدلہ ہے، تو جو شخص اس (قصاص) کو صدقہ (یعنی معاف) کر دے تو یہ اس (کے گناہوں) کے لئے کفارہ ہوگا، اور جو شخص اللہ کے نازل کردہ حکم کے مطابق فیصلہ (و حکومت) نہ کرے سو وہی لوگ ظالم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اس (تورات میں) ان کے لیے یہ حکم لکھ دیا تھا کہ جان کے بدلے جان، آنکھ کے بدلے آنکھ، ناک کے بدلے ناک، کان کے بدلے کان، دانت کے بدلے دانت۔ اور زخموں کا بھی (اسی طرح) بدلہ لیا جائے۔ ہاں جو شخص اس (بدلے) کو معاف کردے تو یہ اس کے لیے گناہوں کا کفارہ ہوجائے گا۔ اور جو لوگ اللہ کے نازل کیے ہوئے حکم کے مطابق فیصلہ نہ کریں، وہ لوگ ظالم ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

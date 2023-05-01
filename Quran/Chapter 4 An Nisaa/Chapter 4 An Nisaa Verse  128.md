@@ -3224,6 +3224,12 @@ agar kisi aurath ko apne shuhar ki baadh-dimaaghi aur be-parvaahi ka khauf ho to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر کوئی عورت اپنے شوہر کی جانب سے زیادتی یا بے رغبتی کا خوف رکھتی ہو تو دونوں (میاں بیوی) پر کوئی حرج نہیں کہ وہ آپس میں کسی مناسب بات پر صلح کر لیں، اور صلح (حقیقت میں) اچھی چیز ہے اور طبیعتوں میں (تھوڑا بہت) بخل (ضرور) رکھ دیا گیا ہے، اور اگر تم احسان کرو اور پرہیزگاری اختیار کرو تو بیشک اللہ ان کاموں سے جو تم کر رہے ہو (اچھی طرح) خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر کسی عورت کو اپنے شوہر کی طرف سے زیادتی یا بیزوری کا اندیشہ ہو تو ان میاں بیوی کے لیے اس میں کوئی مضائقہ نہیں ہے کہ وہ آپس کے اتفاق سے کسی قسم کی صلح کرلیں۔ اور صلح کرلینا بہتر ہے اور انسانوں کے دل میں (کچھ نہ کچھ) لالچ کا مادہ تو رکھ ہی دیا گیا ہے۔ اور اگر احسان اور تقوی سے کام لو تو جو کچھ تم کرو گے اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

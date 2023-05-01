@@ -3224,6 +3224,12 @@ kahaa, aye meri qaum! dekho to agar main apne rub ki taraf se roushan daleel liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+شعیب (علیہ السلام) نے کہا: اے میری قوم! ذرا بتاؤ کہ اگر میں اپنے رب کی طرف سے روشن دلیل پر ہوں اور اس نے مجھے اپنی بارگاہ سے عمدہ رزق (بھی) عطا فرمایا (تو پھر حق کی تبلیغ کیوں نہ کروں؟)، اور میں یہ (بھی) نہیں چاہتا کہ تمہارے پیچھے لگ کر (حق کے خلاف) خود وہی کچھ کرنے لگوں جس سے میں تمہیں منع کر رہا ہوں، میں تو جہاں تک مجھ سے ہو سکتا ہے (تمہاری) اصلاح ہی چاہتا ہوں، اور میری توفیق اللہ ہی (کی مدد) سے ہے، میں نے اسی پر بھروسہ کیا ہے اور اسی کی طرف رجوع کرتا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شعیب نے کہا : اے میری قوم کے لوگو ! ذرا مجھے یہ بتاؤ کہ اگر میں اپنے پروردگار کی طرف سے ایک روشن دلیل پر قائم ہوں، اور اس نے خاص اپنے پاس سے مجھے اچھا رزق عطا فرمایا ہے، (تو پھر میں تمہارے غلط طریقے پر کیوں چلوں ؟) اور میرا ایسا کوئی ارادہ نہیں ہے کہ میں جس بات سے تمہیں منع کر رہا ہوں، تمہارے پیچھے جاکر وہی کام خود کرنے لگوں۔ میرا مقصد اپنی استطاعت کی حد تک اصلاح کے سوا کچھ نہیں ہے، اور مجھے جو کچھ توفیق ہوتی ہے صرف اللہ کی مدد سے ہوتی ہے، اسی پر میں نے بھروسہ کر رکھا ہے اور اسی کی طرف میں (ہر معاملے میں) رجوع کرتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ qayaamath ke din hum darmiyaan mein la rakhenge, theek theek tolne waali taraazu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم قیامت کے دن عدل و انصاف کے ترازو رکھ دیں گے سو کسی جان پر کوئی ظلم نہ کیا جائے گا، اور اگر (کسی کا عمل) رائی کے دانہ کے برابر بھی ہوگا (تو) ہم اسے (بھی) حاضر کر دیں گے، اور ہم حساب کرنے کو کافی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم قیامت کے دن ایسی ترازویں لا رکھیں گے جو سراپا انصاف ہوں گی، چنانچہ کسی پر کوئی ظلم نہیں ہوگا۔ اور اگر کوئی عمل رائی کے دانے کے برابر بھی ہوگا، تو ہم اسے سامنے لے آئیں گے، اور حساب لینے کے لیے ہم کافی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

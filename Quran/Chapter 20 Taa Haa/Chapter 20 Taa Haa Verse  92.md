@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) kehne lage, aye Haroon!(alaihissalaam) unhe gumraah hota hoa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) فرمایا: اے ہارون! تم کو کس چیز نے روکے رکھا جب تم نے دیکھا کہ یہ گمراہ ہو رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے (واپس آکر) کہا : ہارون ! جب تم نے دیکھ لیا تھا کہ یہ لوگ گمراہ ہوگئے ہیں تو تمہیں کس چیز نے روکا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

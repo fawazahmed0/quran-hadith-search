@@ -3224,6 +3224,12 @@ agar tum zaqmi hoye ho, to tumhaare muqaalif log bhi to aise hee zaqmi ho chuke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تمہیں (اب) کوئی زخم لگا ہے تو (یاد رکھو کہ) ان لوگوں کو بھی اسی طرح کا زخم لگ چکا ہے، اور یہ دن ہیں جنہیں ہم لوگوں کے درمیان پھیرتے رہتے ہیں، اور یہ (گردشِ ا یّام) اس لئے ہے کہ اللہ اہلِ ایمان کی پہچان کرا دے اور تم میں سے بعض کو شہادت کا رتبہ عطا کرے، اور اللہ ظالموں کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تمہیں ایک زخم لگا ہے تو ان لوگوں کو بھی اسی جیسا زخم پہلے لگ چکا ہے۔ یہ تو آتے جاتے دن ہیں جنہیں ہم لوگوں کے درمیان باری باری بدلتے رہتے ہیں، اور مقصد یہ تھا کہ اللہ ایمان والوں کو جانچ لے، اور تم میں سے کچھ لوگوں کو شہید قرار دے، اور اللہ ظالموں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

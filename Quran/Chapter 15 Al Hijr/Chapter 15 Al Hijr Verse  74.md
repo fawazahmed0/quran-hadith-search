@@ -3224,6 +3224,12 @@ bil aaqir hum ne us shahar ko upar ta-le kar diya aur un logo par kankar waale p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو ہم نے ان کی بستی کو زِیر و زَبر کر دیا اور ہم نے ان پر پتھر کی طرح سخت مٹی کے کنکر برسائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے اس زمین کو تہ وبالا کر کے رکھ دیا، اور ان پر پکی مٹی کے پتھروں کی بارش برسا دی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

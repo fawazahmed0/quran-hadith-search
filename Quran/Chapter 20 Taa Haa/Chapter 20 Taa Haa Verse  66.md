@@ -3224,6 +3224,12 @@ jawaab diya ke nahi, tum hee pehle daalo, ab to Mosa(as) ko ye qayaal guzarne la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) فرمایا: بلکہ تم ہی ڈال دو، پھر کیا تھا اچانک ان کی رسیاں اور ان کی لاٹھیاں ان کے جادو کے اثر سے موسٰی (علیہ السلام) کے خیال میں یوں محسوس ہونے لگیں جیسے وہ (میدان میں) دوڑ رہی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : نہیں، تم ہی ڈالو۔ بس پھر اچانک ان کی (ڈالی ہوئی) رسیاں اور لاٹھیاں ان کے جادو کے نتیجے میں موسیٰ کو ایسی محسوس ہونے لگیں جیسے دوڑ رہی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

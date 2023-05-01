@@ -3224,6 +3224,12 @@ tere rab ki taraf se haq yahi hai, qabardaar shak karne waalo mein na hona
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(امت کی تنبیہ کے لئے فرمایا:) یہ تمہارے رب کی طرف سے حق ہے پس شک کرنے والوں میں سے نہ ہو جانا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حق وہی ہے جو تمہارے رب کی طرف سے آیا ہے، لہذا شک کرنے والوں میں شامل نہ ہوجانا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

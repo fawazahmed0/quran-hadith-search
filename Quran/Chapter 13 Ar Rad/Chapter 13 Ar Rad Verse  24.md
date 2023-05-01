@@ -3224,6 +3224,12 @@ kahenge ke tum par salaamti ho sabr ke badle, kya hee accha (badla) hai is daar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(انہیں خوش آمدید کہتے اور مبارک باد دیتے ہوئے کہیں گے:) تم پر سلامتی ہو تمہارے صبر کرنے کے صلہ میں، پس (اب دیکھو) آخرت کا گھر کیا خوب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ تم نے (دنیا میں) جو صبر سے کام لیا تھا، اس کی بدولت اب تم پر سلامتی ہی سلامتی نازل ہوگی، اور (تمہارے) اصلی وطن میں یہ تمہارا بہترین انجام ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

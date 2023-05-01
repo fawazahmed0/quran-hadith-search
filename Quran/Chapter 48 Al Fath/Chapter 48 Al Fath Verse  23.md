@@ -3224,6 +3224,12 @@ Allah ke is qayede ke mutaabiq jo pehle se chala ayaa hai, tu kabi bhi Allah ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) اللہ کی سنت ہے جو پہلے سے چلی آرہی ہے، اور آپ اللہ کے دستور میں ہرگز کوئی تبدیلی نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جیسا کہ اللہ کا یہی دستور ہے جو پہلے سے چلا آتا ہے اور تم اللہ کے دستور میں ہرگز تبدیلی نہیں پاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur qaum samood ki taraf un ke bhai saaleh ko bheja, us ne kaha aye meri qaum tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ہم نے قومِ) ثمود کی طرف ان کے بھائی صالح (علیہ السلام) کو (بھیجا)۔ انہوں نے کہا: اے میری قوم! اللہ کی عبادت کرو تمہارے لئے اس کے سوا کوئی معبود نہیں، اسی نے تمہیں زمین سے پیدا فرمایا اور اس میں تمہیں آباد فرمایا سو تم اس سے معافی مانگو پھر اس کے حضور توبہ کرو۔ بیشک میرا رب قریب ہے دعائیں قبول فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور قوم ثمود کے پسا ہم نے ان کے بھائی صالح کو پیغمبر بنا کر بھیجا۔ انہوں نے کہا : اے میری قوم ! اللہ کی عبادت کرو، اس کے سوا تمہارا کوئی معبود نہیں ہے۔ اسی نے تم کو زمین سے پیدا کیا، اور اس میں تمہیں آباد کیا۔ لہذا اس سے اپنے گناہوں کی معافی مانگو، پھر اس کی طرف رجوع کرو۔ یقین رکھو کہ میرا رب (تم سے) قریب بھی ہے، دعائیں قبول کرنے والا بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap kahiye ke tumhare shurka mein koi aisa hai ke haq ka rasta batata ho?aap keh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان سے دریافت) فرمائیے: کیا تمہارے (بنائے ہوئے) شریکوں میں سے کوئی ایسا ہے جو حق کی طرف رہنمائی کرسکے، آپ فرما دیجئے کہ اللہ ہی (دینِ) حق کی ہدایت فرماتا ہے، تو کیا جو کوئی حق کی طرف ہدایت کرے وہ زیادہ حق دار ہے کہ اس کی فرمانبرداری کی جائے یا وہ جو خود ہی راستہ نہیں پاتا مگر یہ کہ اسے راستہ دکھایا جائے (یعنی اسے اٹھا کر ایک جگہ سے دوسری جگہ پہنچایا جائے جیسے کفار اپنے بتوں کو حسبِ ضرورت اٹھا کر لے جاتے)، سو تمہیں کیا ہو گیا ہے، تم کیسے فیصلے کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ :“ جن کو تم اللہ کے ساتھ شریک مانتے ہو، کیا ان میں کوئی ایسا ہے جو تمہیں حق کا راستہ دکھائے ؟” کہو کہ :“ اللہ حق کا راستہ دکھاتا ہے، اب بتاؤ کہ جو حق کا راستہ دکھاتا ہو کیا وہ اس بات کا زیادہ حق دار ہے کہ اس کی بات مانی جائے، یا وہ (زیادہ حق دار ہے) جس کو خود اس وقت تک راستہ نہ سوجھے جب تک کوئی دوسرا اس کی رہنمائی نہ کرے ؟ بھلا تمہیں ہو کیا گیا ہے ؟ تم کس طرح کی باتیں طے کرلیتے ہو ؟”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

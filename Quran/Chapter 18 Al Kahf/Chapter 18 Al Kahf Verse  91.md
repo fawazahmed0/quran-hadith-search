@@ -3224,6 +3224,12 @@ waaqea aisa hee hai aur hum ne us ke paas ki kul qabro ka ahaata kar rakha hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+واقعہ اسی طرح ہے، اور جو کچھ اس کے پاس تھا ہم نے اپنے علم سے اس کا احاطہ کر لیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 واقعہ اسی طرح ہوا، اور ذوالقرنین کے پاس جو کچھ (سازوسامان) تھا، ہمیں اس کی پوری پوری خبر تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

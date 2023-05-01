@@ -3224,6 +3224,12 @@ agar hum chaahe to ose reza reza kar daale aur tum hayrath ke saath baatein bana
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر ہم چاہیں تو اسے ریزہ ریزہ کر دیں پھر تم تعجب اور ندامت ہی کرتے رہ جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر ہم چاہیں تو اسے چورا چورا کر ڈالیں، جس پر تم بھونچکے رہ جاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

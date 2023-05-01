@@ -3224,6 +3224,12 @@ safa aur marwa Allah ta’ala ki nishaniyo mein se hai, is liye baitullah ka haj
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک صفا اور مروہ اللہ کی نشانیوں میں سے ہیں، چنانچہ جو شخص بیت اللہ کا حج یا عمرہ کرے تو اس پر کوئی گناہ نہیں کہ ان دونوں کے (درمیان) چکر لگائے، اور جو شخص اپنی خوشی سے کوئی نیکی کرے تو یقیناً اللہ (بڑا) قدر شناس (بڑا) خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک صفا اور مروہ اللہ کی نشانیوں میں سے ہیں، لہذا جو شخص بھی بیت اللہ کا حج کرے یا عمرہ کرے تو اس کے لیے اس بات میں کوئی گناہ نہیں ہے کہ وہ ان کے درمیان چکر لگائے اور جو شخص خوشی سے کوئی بھلائی کا کام کرے تو اللہ یقینا قدر دان (اور) جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

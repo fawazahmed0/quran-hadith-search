@@ -3224,6 +3224,12 @@ ghudo ko, khaccharo ko, gadhu ko us ne paida kiya ke tum un ki sawaari lo aur wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اُسی نے) گھوڑوں اور خچروں اور گدھوں کو (پیدا کیا) تاکہ تم ان پر سواری کر سکو اور وہ (تمہارے لئے) باعثِ زینت بھی ہوں، اور وہ (مزید ایسی بازینت سواریوں کو بھی) پیدا فرمائے گا جنہیں تم (آج) نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور گھوڑے، خچر اور گدھے اسی نے پیدا کیے ہیں تاکہ تم ان پر سواری کرو، اور وہ زینت کا سامان بنیں۔ اور وہ بہت سی ایسی چیزیں پیدا کرتا ہے جن کا تمہیں علم بھی نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

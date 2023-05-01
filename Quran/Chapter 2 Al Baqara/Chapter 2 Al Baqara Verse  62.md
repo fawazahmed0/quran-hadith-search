@@ -3224,6 +3224,12 @@ musalmaan ho, yahodi ho, nasaara ho, ya saabi ho, jo koyi bhi Allah ta’ala par
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ایمان لائے اور جو یہودی ہوئے اور (جو) نصاریٰ اور صابی (تھے ان میں سے) جو (بھی) اللہ پر اور آخرت کے دن پر ایمان لایا اور اس نے اچھے عمل کئے، تو ان کے لئے ان کے رب کے ہاں ان کا اجر ہے، ان پر نہ کوئی خوف ہوگا اور نہ وہ رنجیدہ ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حق تو یہ ہے کہ جو لوگ بھی خواہ وہ مسلمان ہوں یا یہودی یا نصرانی یا صابی، اللہ اور آخرت کے دن پر ایمان لے آئیں گے اور نیک عمل کریں گے وہ اللہ کے پاس اپنے اجر کے مستحق ہوں گے اور ان کو نہ کوئی خوف ہوگا نہ وہ کسی غم میں مبتلا ہوں گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye tuh is se pehle bhi fitne ki talash karte rahe hai aur tere liye kamo ko ulat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+درحقیقت وہ پہلے بھی فتنہ پردازی میں کوشاں رہے ہیں اور آپ کے کام الٹ پلٹ کرنے کی تدبیریں کرتے رہے ہیں یہاں تک کہ حق آپہنچا اور اللہ کا حکم غالب ہو گیا اور وہ (اسے) ناپسند ہی کرتے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان لوگوں نے اس سے پہلے بھی فتنہ پیدا کرنے کی کوشش کی ہے، اور یہ تمہیں نقصان پہنچانے کے لیے معاملات کی الٹ پھیر کرتے رہے ہیں، یہاں تک کہ حق آیا، اللہ کا حکم غالب ہوا، اور یہ کڑھتے رہ گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

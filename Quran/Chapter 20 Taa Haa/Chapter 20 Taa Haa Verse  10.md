@@ -3224,6 +3224,12 @@ jab ke us ne aag dekh kar apne ghar waalo se kaha ke tum zara si der teher jaao,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب موسٰی (علیہ السلام) نے (مدین سے واپس مصر آتے ہوئے) ایک آگ دیکھی تو انہوں نے اپنے گھر والوں سے کہا: تم یہاں ٹھہرے رہو میں نے ایک آگ دیکھی ہے (یا میں نے ایک آگ میں انس و محبت کا شعلہ پایا ہے) شاید میں اس میں سے کوئی چنگاری تمہارے لئے (بھی) لے آؤں یا میں اس آگ پر (سے وہ) رہنمائی پا لوں (جس کی تلاش میں سرگرداں ہوں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس وقت کی بات ہے جب ان کو ایک آگ نظر آئی تو انہوں نے اپنے گھر والوں سے کہا : تم یہیں ٹھہرو، میں نے ایک آگ دیکھی ہے۔ شاید میں اس میں سے کوئی شعلہ تمہارے پاس لے آؤں، یا اس آگ کے پاس مجھے راستے کا پتہ مل جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

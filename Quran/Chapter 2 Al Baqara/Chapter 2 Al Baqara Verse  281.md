@@ -3224,6 +3224,12 @@ aur us din se daro jis mein tum sub Allah ta’ala ki taraf lautaaye jaoge aur h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس دن سے ڈرو جس میں تم اللہ کی طرف لوٹائے جاؤ گے، پھر ہر شخص کو جو کچھ عمل اس نے کیا ہے اس کی پوری پوری جزا دی جائے گی اور ان پر ظلم نہیں ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ڈرو اس دن سے جب تم سب اللہ کے پاس لوٹ کر جاؤ گے، پھر ہر ہر شخص کو جو کچھ اس نے کمایا ہے پورا پورا دیا جائے گا، اور ان پر کوئی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

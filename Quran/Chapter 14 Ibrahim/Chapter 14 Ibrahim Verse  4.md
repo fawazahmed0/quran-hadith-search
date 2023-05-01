@@ -3224,6 +3224,12 @@ hum ne har har nabi ko us ki khaumi zabaan mein hee bheja hai ta ke un ke saamne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے کسی رسول کو نہیں بھیجا مگر اپنی قوم کی زبان کے ساتھ تاکہ وہ ان کے لئے (پیغامِ حق) خوب واضح کر سکے، پھر اللہ جسے چاہتا ہے گمراہ ٹھہرا دیتا ہے اور جسے چاہتا ہے ہدایت بخشتا ہے، اور وہ غالب حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے جب بھی کوئی رسول بھیجا، خود اس کی قوم کی زبان میں بھیجا تاکہ وہ ان کے سامنے حق کو اچھی طرح واضح کرسکے۔ پھر اللہ جس کو چاہتا ہے گمراہ کردیتا ہے، اور جس کو چاہتا ہے، ہدایت دے دیتا ہے۔ اور وہی ہے جس کا اقتدار بھی کامل ہے، جس کی حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

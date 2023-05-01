@@ -3224,6 +3224,12 @@ tu unhe chohd de, yahaa tak ke unhe us din se saabeqa pade, jis mein ye be hoosh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ اُن کو (اُن کے حال پر) چھوڑ دیجئے یہاں تک کہ وہ اپنے اس دن سے آملیں جس میں وہ ہلاک کر دیئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) تم انہیں (ان کے حال پر) چھوڑ دو ، یہاں تک کہ یہ اپنے اس دن سے جا ملیں جس میں ان کے ہوش جاتے رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jis din asmaan phat jayega, Allah ta’ala ka ye waada ho kar hee rehne waala ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جس دن کی) شدت کے باعث آسمان پھٹ جائے گا، اُس کا وعدہ پورا ہو کر رہے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور) جس سے آسمان پھٹ پڑے گا۔ اللہ کے وعدے کو تو پورا ہو کر رہنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

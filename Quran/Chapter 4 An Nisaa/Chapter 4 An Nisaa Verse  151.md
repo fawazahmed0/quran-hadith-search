@@ -3224,6 +3224,12 @@ yaqeen maaqno ke ye sab log asli kaafir hai aur kaafiro ke liye hum ne ihaanath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایسے ہی لوگ درحقیقت کافر ہیں، اور ہم نے کافروں کے لئے رُسوا کن عذاب تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے لوگ صحیح معنی میں کافر ہیں اور کافروں کے لیے ہم نے ذلت آمیز عذاب تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

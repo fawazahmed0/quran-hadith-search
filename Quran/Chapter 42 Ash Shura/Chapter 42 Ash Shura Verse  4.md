@@ -3224,6 +3224,12 @@ asmaano ki(tamaam) cheeze aur jo kuch zameen mein hai sab osi ka hai, wo bartar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے اسی کا ہے، اور وہ بلند مرتبت، بڑا باعظمت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، سب اسی کا ہے، اور وہی ہے جو برتری اور عظمت کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

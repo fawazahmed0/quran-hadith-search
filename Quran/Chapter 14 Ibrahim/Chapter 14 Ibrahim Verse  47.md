@@ -3224,6 +3224,12 @@ aap hargiz ye qayaal na kare ke Allah apne nabiyo se waada qilaafi karega, Allah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو اللہ کو ہرگز اپنے رسولوں سے وعدہ خلافی کرنے والا نہ سمجھنا! بیشک اللہ غالب، بدلہ لینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اللہ کے بارے میں ہرگز یہ خیال بھی دل میں نہ لانا کہ اس نے اپنے پیغمبروں سے جو وعدہ کر رکھا ہے، اس کی خلاف ورزی کرے گا۔ یقین رکھو کہ اللہ اپنے اقتدار میں سب پر غالب ہے، (اور) انتقام لینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

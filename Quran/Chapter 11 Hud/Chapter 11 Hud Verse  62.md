@@ -3224,6 +3224,12 @@ unhone kaha aye saaleh! is se pehle to hum tujh se bahuth kuch ummide lagaye hoy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: اے صالح! اس سے قبل ہماری قوم میں تم ہی امیدوں کا مرکز تھے، کیا تم ہمیں ان (بتوں) کی پرستش کرنے سے روک رہے ہو جن کی ہمارے باپ دادا پرستش کرتے رہے ہیں؟ اور جس (توحید) کی طرف تم ہمیں بلا رہے ہو یقینًا ہم اس کے بارے میں بڑے اضطراب انگیز شک میں مبتلا ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہنے لگے : اے صالح ! اس سے پہلے تو تم ہمارے درمیان اس طرح رہے ہو کہ تم سے بڑی امیدیں وابستہ تھیَ جن (بتوں) کی عبادت ہمارے باپ دادا کرتے آئے ہیں کیا تم ہمیں ان کی عبادت کرنے سے منع کرتے ہو ؟ جس بات کی تم دعوت دے رہے ہو، اس کے بارے میں تو ہمیں ایسا شک ہے جس نے ہمیں اضطراب میں ڈال دیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

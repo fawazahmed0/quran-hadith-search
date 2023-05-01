@@ -3224,6 +3224,12 @@ yaqinan jin logo ke haq mein aap ke rub ki baath sabith ho chuki hai,wo imaan na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) بیشک جن لوگوں پر آپ کے رب کا فرمان صادق آچکا ہے وہ ایمان نہیں لائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک جن لوگوں کے بارے میں تمہارے رب کی بات طے ہوچکی ہے وہ ایمان نہیں لائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

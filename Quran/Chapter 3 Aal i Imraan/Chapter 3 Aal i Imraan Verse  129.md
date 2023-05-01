@@ -3224,6 +3224,12 @@ asmaano aur zameen mein jo kuch hai sab Allah hee ka hai, wo jise chaahe baqshe,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ہی کے لئے ہے جو کچھ آسمانوں میں اور زمین میں ہے۔ وہ جسے چاہے بخش دے جسے چاہے عذاب دے، اور اللہ نہایت بخشنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین میں جو کچھ ہے اللہ ہی کا ہے۔ وہ جس کو چاہتا ہے معاف کردیتا ہے اور جس کو چاہتا ہے عذاب دیتا ہے، اور اللہ بہت بخشنے والا بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

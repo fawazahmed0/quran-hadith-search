@@ -3224,6 +3224,12 @@ us din koyi dosth kisi dosth ke kuch bhi kaam na ayega aur na un ki imdaad ki ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن کوئی دوست کسی دوست کے کچھ کام نہ آئے گا اور نہ ہی اُن کی مدد کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن کوئی حمایتی کسی حمایتی کے ذرا بھی کام نہیں آئے گا اور ان میں سے کسی کی کوئی مدد نہیں کی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

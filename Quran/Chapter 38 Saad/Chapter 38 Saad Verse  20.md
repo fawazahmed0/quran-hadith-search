@@ -3224,6 +3224,12 @@ aur hum ne us ki saltanath ko mazbooth kar diya tha aur ose hikmath di thi aur b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اُن کے ملک و سلطنت کو مضبوط کر دیا تھا اور ہم نے انہیں حکمت و دانائی اور فیصلہ کن اندازِ خطاب عطا کیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان کی سلطنت کو استحکام بخشا تھا، اور انہیں دانائی اور فیصلہ کن گفتگو کا سلیقہ عطا کیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

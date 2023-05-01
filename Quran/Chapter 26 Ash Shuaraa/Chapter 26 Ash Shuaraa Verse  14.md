@@ -3224,6 +3224,12 @@ aur un ka mujh par mere ek qusoor ka (daawa) bhi hai, mujhe dar hai ke kahi wo m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کا میرے اوپر (قبطی کو مار ڈالنے کا) ایک الزام بھی ہے سو میں ڈرتا ہوں کہ وہ مجھے قتل کر ڈالیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میرے خلاف ان لوگوں نے ایک جرم بھی عائد کر رکھا ہے۔ جس کی وجہ سے مجھے ڈر ہے کہ وہ مجھے قتل نہ کر ڈالیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

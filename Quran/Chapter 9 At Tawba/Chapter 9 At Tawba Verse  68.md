@@ -3224,6 +3224,12 @@ Allah tala un munafiq mardo,aurto aur kafiro se jahannum ki aag ka wada kar chuk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے منافق مردوں اور منافق عورتوں اور کافروں سے آتشِ دوزخ کا وعدہ فرما رکھا ہے (وہ) اس میں ہمیشہ رہیں گے، وہ (آگ) انہیں کافی ہے، اور اللہ نے ان پر لعنت کی ہے اور ان کے لئے ہمیشہ برقرار رہنے والا عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے منافق مردوں، منافق عورتوں اور تمام کافروں سے دوزخ کی آگ کا عہد کر رکھا ہے، جس میں وہ ہمیشہ رہیں گے۔ وہی ان کو راس آئے گی۔ اللہ نے ان پر پھٹکار ڈال دی ہے، اور ان کے لیے اٹل عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum ne aasmaano aur zameen ko aur un ke darmiyaan ki sab cheezo ko haq ke saath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آسمانوں اور زمین کو اور جو کچھ ان دونوں کے درمیان ہے عبث پیدا نہیں کیا، اور یقیناً قیامت کی گھڑی آنے والی ہے، سو (اے اخلاقِ مجسّم!) آپ بڑے حسن و خوبی کے ساتھ درگزر کرتے رہئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے آسمانوں اور زمین کو اور ان کے درمیان جو کچھ ہے اس کو کسی برحق مقصد کے بغیر پیدا نہیں کیا، اور قیامت کی گھڑی آکر رہے گی۔ لہذا (اے پیغمبر ! ان کافروں کے طرز عمل پر) خوبصورتی کے ساتھ درگزر سے کام لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

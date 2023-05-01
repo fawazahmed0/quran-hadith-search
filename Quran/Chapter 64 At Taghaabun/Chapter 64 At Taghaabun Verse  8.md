@@ -3224,6 +3224,12 @@ so tum Allah par aur us ke rasool par aur us noor par jise hum ne naazil farmaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تم اللہ اور اُس کے رسول (صلی اللہ علیہ وآلہ وسلم) پر اور اُس نور پر ایمان لاؤ جسے ہم نے نازل فرمایا ہے، اور اللہ اُن کاموں سے خوب آگاہ ہے جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اللہ پر اور اس کے رسول پر اور اس روشنی پر ایمان لاؤ جو ہم نے نازل کی ہے، اور تم جو کچھ کرتے ہو، اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tum log us ki itteba karo jo tumhaare rab ki taraf se aayi hai aur Allah ta’al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لوگو) جو کتاب تم پر تمہارے پروردگار کی طرف سے اتاری گئی ہے، اس کے پیچھے چلو، اور اپنے پروردگار کو چھوڑ کر دوسرے (من گھڑت (سرپرستوں کے پیچھے نہ چلو۔ (مگر) تم لوگ نصیحت کم ہی مانتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

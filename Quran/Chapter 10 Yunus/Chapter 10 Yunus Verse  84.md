@@ -3224,6 +3224,12 @@ aur moosa(alaihissalaam)ne faramaya ke ae meri khaom agar tum Allah par imaan ra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور موسٰی (علیہ السلام) نے کہا: اے میری قوم! اگر تم اللہ پر ایمان لائے ہو تو اسی پر توکل کرو، اگر تم (واقعی) مسلمان ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور موسیٰ نے کہا : اے میری قوم اگر تم واقعی اللہ پر ایمان لے آئے ہو تو پھر اسی پر بھروسہ رکھو، اگر تم فرمانبردار ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ta’ala ke saath kisi aur maboodh ko na pukaarna, bajuz Allah ta’ala ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اللہ کے ساتھ کسی دوسرے (خود ساختہ) معبود کو نہ پوجا کرو، اس کے سوا کوئی عبادت کے لائق نہیں، اس کی ذات کے سوا ہر چیز فانی ہے، حکم اسی کا ہے اور تم (سب) اسی کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کے ساتھ کسی اور کو معبود نہ پکارو، اس کے سوا کوئی معبود نہیں ہے۔ ہر چیز فنا ہونے والی ہے، سوائے اس ذات کے، حکومت اسی کی ہے اور اسی کی طرف تمہیں لوٹایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

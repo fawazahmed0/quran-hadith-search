@@ -3224,6 +3224,12 @@ pas qurbe ilaahi haasil karne ke liye unhone Allah ke siva jin jin ko apna maboo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان (بتوں) نے ان کی مدد کیوں نہ کی جن کو انہوں نے تقرّبِ (الٰہی) کے لئے اللہ کے سوا معبود بنا رکھا تھا، بلکہ وہ (معبودانِ باطلہ) ان سے گم ہو گئے، اور یہ (بتوں کو معبود بنانا) ان کا جھوٹ تھا اور یہی وہ بہتان (تھا) جو وہ باندھا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر انہوں نے اللہ کا تقرب حاصل کرنے کے لیے جن چیزوں کو اللہ کے سوا معبود بنا رکھا تھا، انہوں نے ان کی کیوں مدد نہ کرلی ؟ اس کے بجائے وہ سب ان کے لیے بےنشان ہوگئے۔ یہ تو ان کا سراسر جھوٹ تھا، اور بہتان تھا جو انہوں نے تراش رکھا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

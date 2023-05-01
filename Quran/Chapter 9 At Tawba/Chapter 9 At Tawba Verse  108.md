@@ -3224,6 +3224,12 @@ aap us mein kabhi khade na ho,albatta jis masjid ki bunyad awwal din se taqwa pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) آپ اس (مسجد کے نام پر بنائی گئی عمارت) میں کبھی بھی کھڑے نہ ہوں۔ البتہ وہ مسجد، جس کی بنیاد پہلے ہی دن سے تقوٰی پر رکھی گئی ہے، حق دار ہے کہ آپ اس میں قیام فرما ہوں۔ اس میں ایسے لوگ ہیں جو (ظاہراً و باطناً) پاک رہنے کو پسند کرتے ہیں، اور اللہ طہارت شعار لوگوں سے محبت فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) تم اس (نام نہاد مسجد) میں کبھی (نماز کے لیے) کھڑے مت ہونا۔ البتہ وہ مسجد جس کی بنیاد پہلے دن سے تقوی پر رکھی گئی ہے وہ اس بات کی زیادہ حق دار ہے کہ تم اس میں کھڑے ہو۔ اس میں ایسے لوگ ہیں جو پاک صاف ہونے کو پسند کرتے ہیں، اور اللہ پاک صاف لوگوں کو پسند کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

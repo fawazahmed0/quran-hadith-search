@@ -3224,6 +3224,12 @@ kya wo ek shaqs jo ye ilm rakhta ho ke aap ki taraf aap ke rub ki jaanib se jo u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا وہ شخص جو یہ جانتا ہے کہ جو کچھ آپ کی طرف آپ کے رب کی جانب سے نازل کیا گیا ہے حق ہے، اس شخص کے مانند ہو سکتا ہے جو اندھا ہے، بات یہی ہے کہ نصیحت عقل مند ہی قبول کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص یہ یقین رکھتا ہو کہ تم پر تمہارے پروردگار کی طرف سے جو کچھ نازل ہوا ہے، برحق ہے، بھلا وہ اس جیسا کیسے ہوسکتا ہے جو بالکل اندھا ہو ؟ حقیقت یہ ہے کہ نصیحت تو وہی لوگ قبول کرتے ہیں جو عقل و ہوش رکھتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

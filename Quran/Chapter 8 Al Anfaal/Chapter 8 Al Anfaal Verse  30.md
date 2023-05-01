@@ -3224,6 +3224,12 @@ aur us waqae ka bhi zikr ki jiye! jab ke kafir log aap ki nisbath tadbir sonch r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب کافر لوگ آپ کے خلاف خفیہ سازشیں کر رہے تھے کہ وہ آپ کو قید کر دیں یا آپ کو قتل کر ڈالیں یا آپ کو (وطن سے) نکال دیں، اور (اِدھر) وہ سازشی منصوبے بنا رہے تھے اور (اُدھر) اللہ (ان کے مکر کے ردّ کے لئے اپنی) تدبیر فرما رہا تھا، اور اللہ سب سے بہتر مخفی تدبیر فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) وہ وقت یاد کرو جب کافر لوگ تمہارے خلاف منصوبے بنا رہے تھے کہ تمہیں گرفتار کرلیں، یا تمہیں قتل کردیں، یا تمہیں (وطن سے) نکال دیں، وہ اپنے منصوبے بنا رہے تھے اور اللہ اپنا منصوبہ بنا رہا تھا اور اللہ سب سے بہتر منصوبہ بنانے والا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wahi jis ne tumhaare liye sabz daraqt se aag paida kardi, jis se tum yeka yek aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے تمہارے لئے سرسبز درخت سے آگ پیدا کی پھر اب تم اسی سے آگ سلگاتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے تمہارے لیے سرسبز درخت سے آگ پیدا کردی ہے۔ پھر تم ذرا سی دیر میں اس سے سلگانے کا کام لیتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

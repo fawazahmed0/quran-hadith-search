@@ -3224,6 +3224,12 @@ kal aap ose zaroor hamare saath bhej di jiye ke qoob khaye piye aur khele, us ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ اسے کل ہمارے ساتھ بھیج دیجئے وہ خوب کھائے اور کھیلے اور بیشک ہم اس کے محافظ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کل آپ اسے ہمارے ساتھ (تفریح کے لیے) بھیج دیجیے، تاکہ وہ کھائے پیے، اور کچھ کھیل کود لے۔ اور یقین رکھیے کہ ہم اس کی پوری حفاظت کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

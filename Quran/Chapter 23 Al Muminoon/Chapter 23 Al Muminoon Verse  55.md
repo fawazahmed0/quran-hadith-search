@@ -3224,6 +3224,12 @@ kya ye (yo) samajh baithe hai? ke hum jo bhi un ke maal wa aulaad bada rahe hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ لوگ یہ گمان کرتے ہیں کہ ہم جو (دنیا میں) مال و اولاد کے ذریعہ ان کی مدد کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا یہ لوگ اس خیال میں ہیں کہ ہم ان کو جو دولت اور اولاد دیے جارہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

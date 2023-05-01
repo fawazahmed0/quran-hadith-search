@@ -3224,6 +3224,12 @@ un mein se tu jise bhi apni awaaz se behka sake behkale, aur un par apne sawaar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس پر بھی تیرا بس چل سکتا ہے تو (اسے) اپنی آواز سے ڈگمگا لے اور ان پر اپنی (فوج کے) سوار اور پیادہ دستوں کو چڑھا دے اور ان کے مال و اولاد میں ان کا شریک بن جا اور ان سے (جھوٹے) وعدے کر، اور ان سے شیطان دھوکہ و فریب کے سوا (کوئی) وعدہ نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان میں سے جس جس پر تیرا بس چلے۔ انہیں اپنی آواز سے بہکا لے۔ اور ان پر اپنے سواروں اور پیادوں کی فوج چڑھا لا اور ان کے مال اور اولاد میں اپنا حصہ لگالے، اور ان سے خوب وعدے کرلے۔ اور (حقیقت یہ ہے کہ) شیطان ان سے جو وعدہ بھی کرتا ہے وہ دھوکے کے سوا کچھ نہیں ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

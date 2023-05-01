@@ -3224,6 +3224,12 @@ chu ke aadiyo ne hazrath Hood ko jhutlaya, is liye hum ne unhe tabaah kar diya, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو انہوں نے اس کو (یعنی ھود علیہ السلام کو) جھٹلا دیا پس ہم نے انہیں ہلاک کر ڈالا، بیشک اس (قصہ) میں (قدرتِ الٰہیہ کی) بڑی نشانی ہے، اور ان میں سے اکثر لوگ مومن نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض ان لوگوں نے ہود کو جھٹلایا، جس کے نتیجے میں ہم نے ان کو ہلاک کردیا۔ یقینا اس سارے واقعے میں عبرت کا بڑا سامان ہے، پھر بھی ان میں سے اکثر لوگ ایمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

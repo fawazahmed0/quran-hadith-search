@@ -3224,6 +3224,12 @@ phir us ne logo ke liye ek bachda nikaal khada kiya, yaani bachde ka buth, jis k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اس (سامری) نے ان کے لئے (ان گلے ہوئے زیورات سے) ایک بچھڑے کا قالب (تیار کرکے) نکال لیا اس میں (سے) گائے کی سی آواز (نکلتی) تھی تو انہوں نے کہا: یہ تمہارا معبود ہے اور موسٰی (علیہ السلام) کا (بھی یہی) معبود ہے بس وہ (سامری یہاں پر) بھول گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں کے سامنے ایک بچھڑا بنا کر نکال لایا، ایک جسم تھا جس میں سے آواز نکلتی تھی۔ لوگ کہنے لگے کہ : یہ تمہارا معبود ہے اور موسیٰ کا بھی معبود ہے، مگر موسیٰ بھول گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

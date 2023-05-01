@@ -3224,6 +3224,12 @@ to hum bhi us ki tangi aur mushkil ke samaan mayassar kar denge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو ہم عنقریب اسے سختی (یعنی عذاب کی طرف بڑھنے) کے لئے سہولت فراہم کر دیں گے (تاکہ وہ تیزی سے مستحقِ عذاب ٹھہرے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو ہم اس کو تکلیف کی منزل تک پہنچنے کی تیاری کرا دیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya us ne tujhe yateem pa kar jageh nahi di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) کیا اس نے آپ کو یتیم نہیں پایا پھر اس نے (آپ کو معزّز و مکرّم) ٹھکانا دیا۔ یا- کیا اس نے آپ کو (مہربان) نہیں پایا پھر اس نے (آپ کے ذریعے) یتیموں کو ٹھکانا دیا۔٭
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا اس نے تمہیں یتیم نہیں پایا تھا، پھر (تمہیں) ٹھکانا دیا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

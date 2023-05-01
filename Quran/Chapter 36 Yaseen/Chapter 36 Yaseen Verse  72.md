@@ -3224,6 +3224,12 @@ aur un maweshiyo ko hum ne un ka taabe farmaan bana diya hai, jin mein se baaz t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اُن (چوپایوں) کو ان کے تابع کر دیا سو ان میں سے کچھ تو اُن کی سواریاں ہیں اور ان میں سے بعض کو وہ کھاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان مویشیوں کو ان کے قابو میں دے دیا ہے، چنانچہ ان میں سے کچھ وہ ہیں جو ان کی سواری بنے ہوئے ہیں، اور کچھ وہ ہیں جنہیں یہ کھاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

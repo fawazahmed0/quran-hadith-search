@@ -3224,6 +3224,12 @@ logo ko jab kabhi koyi musibath pahonchti hai to apne rab ki taraf(puri tarah) r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب لوگوں کو کوئی تکلیف پہنچتی ہے تو وہ اپنے رب کو اس کی طرف رجوع کرتے ہوئے پکارتے ہیں، پھر جب وہ ان کو اپنی جانب سے رحمت سے لطف اندوز فرماتا ہے تو پھر فوراً ان میں سے کچھ لوگ اپنے رب کے ساتھ شرک کرنے لگتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب لوگوں کو کوئی تکلیف چھو جاتی ہے تو وہ اپنے پروردگار سے لو لگا کر اسی کو پکارتے ہیں، پھر جب وہ اپنی طرف سے انہیں کسی رحمت کا ذائقہ چکھا دیتا ہے تو ان میں سے کچھ لوگ یکایک اپنے پروردگار کے ساتھ شرک کرنے لگتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

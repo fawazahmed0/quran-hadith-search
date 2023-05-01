@@ -3224,6 +3224,12 @@ aap se zulqarnain ka waaqea ye log daryaath kar rahe hain, aap keh di jiye ke ma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیبِ معظّم!) یہ آپ سے ذوالقرنین کے بارے میں سوال کرتے ہیں، فرما دیجئے: میں ابھی تمہیں اس کے حال کا تذکرہ پڑھ کر سناتا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ تم سے ذوالقرنین کے بارے میں پوچھتے ہیں۔ کہہ دو کہ : میں ان کا کچھ حال تمہیں پڑھ کر سناتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

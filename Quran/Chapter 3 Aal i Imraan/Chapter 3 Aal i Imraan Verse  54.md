@@ -3224,6 +3224,12 @@ aur kaafiro ne makar kiya aur Allah ta’ala ne bhi (makr) qufiya tadbeer ki aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (یہودی) کافروں نے (عیسٰی علیہ السلام کے قتل کے لئے) خفیہ سازش کی اور اللہ نے (عیسٰی علیہ السلام کو بچانے کے لئے) مخفی تدبیر فرمائی، اور اللہ سب سے بہتر مخفی تدبیر فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کافروں نے (عیسیٰ (علیہ السلام) کے خلاف) خفیہ تدبیر کی، اور اللہ نے بھی خفیہ تدبیر کی۔ اور اللہ سب سے بہتر تدبیر کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

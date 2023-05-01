@@ -3224,6 +3224,12 @@ agar ye log asmaan ke kisi tukde ko girta hoa dekh le, tabh bhi kehde ke ye tay 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر وہ آسمان سے کوئی ٹکڑا (اپنے اوپر) گرتا ہوا دیکھ لیں تو (تب بھی یہ) کہیں گے کہ تہ بہ تہ (گہرا) بادل ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر یہ آسمان کا کوئی ٹکڑا گرتے ہوئے بھی دیکھ لیں تو یہ کہیں گے کہ یہ کوئی گہرا بادل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

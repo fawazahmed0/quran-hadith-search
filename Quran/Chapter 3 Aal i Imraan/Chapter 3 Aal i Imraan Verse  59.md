@@ -3224,6 +3224,12 @@ Allah ta’ala ke nazdeek Isa(alaihissalaam) ki misaal ho ba ho Aadam(alaihissal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک عیسٰی (علیہ السلام) کی مثال اللہ کے نزدیک آدم (علیہ السلام) کی سی ہے، جسے اس نے مٹی سے بنایا پھر (اسے) فرمایا ’ہو جا‘ وہ ہو گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کے نزدیک عیسیٰ کی مثال آدم جیسی ہے، اللہ نے انہیں مٹی سے پیدا کیا، پھر ان سے کہا : ہوجاؤ۔ بس وہ ہوگئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

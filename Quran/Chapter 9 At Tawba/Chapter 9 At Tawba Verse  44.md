@@ -3224,6 +3224,12 @@ Allah par aur qayamath ke din par iman wa yaqin rakhne wale tuh mali aur jani ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ لوگ جو اللہ پر اور یومِ آخرت پر ایمان رکھتے ہیں آپ سے (اس بات کی) رخصت طلب نہیں کریں گے کہ وہ اپنے مال و جان سے جہاد (نہ) کریں، اور اللہ پرہیزگاروں کو خوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اللہ اور یوم آخرت پر ایمان رکھتے ہیں، وہ اپنے مال و جان سے جہاد نہ کرنے کے لیے تم سے اجازت نہیں مانگتے، اور اللہ متقی لوگوں کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un paighambaro ne un se kaha ke ye to sach hai ke hum tum jaise hee insaan hai l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے رسولوں نے ان سے کہا: اگرچہ ہم (نفسِ بشریت میں) تمہاری طرح انسان ہی ہیں لیکن (اس فرق پر بھی غور کرو کہ) اللہ اپنے بندوں میں سے جس پر چاہتا ہے احسان فرماتا ہے (پھر برابری کیسی؟)، اور (رہ گئی روشن دلیل کی بات) یہ ہمارا کام نہیں کہ ہم اللہ کے حکم کے بغیر تمہارے پاس کوئی دلیل لے آئیں، اور اللہ ہی پر مومنوں کو بھروسہ کرنا چاہئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے ان کے پیغمبروں نے کہا : ہم واقعی تمہارے ہی جیسے انسان ہیں، لیکن اللہ اپنے بندوں میں سے جس پر چاہتا ہے خصوصی احسان فرما دیتا ہے۔ اور یہ بات ہمارے اختیار میں نہیں ہے کہ ہم اللہ کے حکم کے بغیر تمہیں کوئی معجزہ لا دکھائیں، اور مومنوں کو صرف اللہ پر بھروسہ رکھنا چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

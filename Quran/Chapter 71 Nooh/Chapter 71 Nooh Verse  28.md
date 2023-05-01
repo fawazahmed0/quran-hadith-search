@@ -3224,6 +3224,12 @@ aye mere parvardigaar! tu mujhe aur mere maa baap aur jo imaan ki haalath mein m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے رب! مجھے بخش دے اور میرے والدین کو اور ہر اس شخص کو جو مومن ہو کر میرے گھر میں داخل ہوا اور (جملہ) مومن مردوں کو اور مومن عورتوں کو، اور ظالموں کے لئے سوائے ہلاکت کے کچھ (بھی) زیادہ نہ فرما
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرے پروردگار ! میری بھی بخشش فرما دیجیے، میرے والدین کی بھی، ہر اس شخص کی بھی جو میرے گھر میں ایمان کی حالت میں داخل ہوا ہے۔ اور تمام مومن مردوں اور مومن عورتوں کی بھی۔ اور جو لوگ ظالم ہیں ان کو تباہی کے سوا کوئی اور چیز عطا نہ فرمایے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye is liye ke Allah hee haq hai aur wahi murdo ko jilaata hai aur wo har har che
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (سب کچھ) اس لئے (ہوتا رہتا) ہے کہ اللہ ہی سچا (خالق اور رب) ہے اور بیشک وہی مُردوں (بے جان) کو زندہ (جان دار) کرتا ہے, اور یقینًا وہی ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ اس وجہ سے ہے کہ اللہ ہی کا وجود برحق ہے، اور وہی بےجانوں میں جان ڈالتا ہے، اور وہ ہر چیز پر مکمل قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

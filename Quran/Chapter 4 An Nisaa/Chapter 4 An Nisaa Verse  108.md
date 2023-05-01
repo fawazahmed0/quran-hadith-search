@@ -3224,6 +3224,12 @@ wo logo se to chup jaate hai (lekin)Allah ta’ala se nahi chup sakte,wo raatho 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ لوگوں سے (شرماتے ہوئے اپنی دغابازی کو) چھپاتے ہیں اور اللہ سے نہیں شرماتے درآنحالیکہ وہ ان کے ساتھ ہوتا ہے جب وہ رات کو (کسی) ایسی بات سے متعلق (چھپ کر) مشورہ کرتے ہیں جسے اللہ ناپسند فرماتا ہے، اور اللہ جو کچھ وہ کرتے ہیں (اسے) احاطہ کئے ہوئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگوں سے تو شرماتے ہیں، اور اللہ سے نہیں شرماتے، حالانکہ وہ اس وقت بھی ان کے پاس ہوتا ہے جب وہ راتوں کو ایسی باتیں کرتے ہیں جو اللہ کو پسند نہیں۔ اور جو کچھ یہ کر رہے ہیں اللہ نے اس سب کا احاطہ کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

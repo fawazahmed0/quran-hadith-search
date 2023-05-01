@@ -3224,6 +3224,12 @@ aur tum log us waqt ko yad karo! jab ke Allah tum se un do jamato mein se ek ka 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کرو) جب اللہ نے تم سے (کفارِ مکہ کے) دو گروہوں میں سے ایک پر غلبہ و فتح کا وعدہ فرمایا تھا کہ وہ یقیناً تمہارے لئے ہے اور تم یہ چاہتے تھے کہ غیر مسلح (کمزور گروہ) تمہارے ہاتھ آجائے اور اللہ یہ چاہتا تھا کہ اپنے کلام سے حق کو حق ثابت فرما دے اور (دشمنوں کے بڑے مسلح لشکر پر مسلمانوں کی فتح یابی کی صورت میں) کافروں کی (قوت اور شان و شوکت کے) جڑ کاٹ دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب اللہ تم سے یہ وعدہ کر رہا تھا کہ دو گروہوں میں سے کوئی ایک تمہارا ہوگا، اور تمہاری خواہش تھی کہ جس گروہ میں (خطرے کا) کوئی کانٹا نہیں تھا، وہ تمہیں ملے اور اللہ یہ چاہتا تھا کہ اپنے احکام سے حق کو حق کر دکھائے، اور کافروں کی جڑ کاٹ ڈالے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

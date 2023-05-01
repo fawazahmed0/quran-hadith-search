@@ -3224,6 +3224,12 @@ aye aulaade aadam! kya main ne tum se khaul qaraar nahi liya tha, ke tum shaytaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے بنی آدم! کیا میں نے تم سے اس بات کا عہد نہیں لیا تھا کہ تم شیطان کی پرستش نہ کرنا، بے شک وہ تمہارا کھلا دشمن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے آدم کے بیٹو ! کیا میں نے تمہیں یہ تاکید نہیں کردی تھی کہ تم شیطان کی عبادت نہ کرنا، وہ تمہارا کھلا دشمن ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

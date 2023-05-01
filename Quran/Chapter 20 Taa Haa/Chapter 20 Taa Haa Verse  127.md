@@ -3224,6 +3224,12 @@ hum aisa hee badhla har us shaqs ko diya karte hai, jo hadh se guzar jaaye aur a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم اس شخص کو بدلہ دیتے ہیں جو (گناہوں میں) حد سے نکل جائے اور اپنے رب کی آیتوں پر ایمان نہ لائے، اور بیشک آخرت کا عذاب بڑا ہی سخت اور ہمیشہ رہنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص حد سے گزر جاتا ہے، اور اپنے پروردگار کی نشانیوں پر ایمان نہیں لاتا، اسے ہم اسی طرح سزا دیتے ہیں، اور آخرت کا عذاب واقعی زیادہ سخت اور زیادہ دیر رہنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

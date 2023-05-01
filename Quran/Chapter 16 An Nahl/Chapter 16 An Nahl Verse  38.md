@@ -3224,6 +3224,12 @@ wo log badi saqt saqt qasme kha kha kar kehte hai ke murdo ko Allah ta’ala zin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ لوگ بڑی شدّ و مد سے اللہ کی قَسمیں کھاتے ہیں کہ جو مَر جائے اللہ اسے (دوبارہ) نہیں اٹھائے گا، کیوں نہیں اس کے ذمۂ کرم پر سچا وعدہ ہے لیکن اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں نے بڑا زور لگا لگا کر اللہ کی قسمیں کھائی ہیں کہ جو لوگ مرجاتے ہیں، اللہ ان کو دوبارہ زندہ نہیں کرے گا۔ بھلا کیوں نہیں کرے گا ؟ یہ تو ایک وعدہ ہے جسے سچا کرنے کی ذمہ داری اللہ نے لے رکھی ہے، لیکن اکثر لوگ جانتے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

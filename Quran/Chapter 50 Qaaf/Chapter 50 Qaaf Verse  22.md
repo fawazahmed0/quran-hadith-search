@@ -3224,6 +3224,12 @@ yaqinan to us se ghaflath mein tha lekin hum ne tere saamne se parda hata diya, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حقیقت میں تُو اِس (دن) سے غفلت میں پڑا رہا سو ہم نے تیرا پردۂ (غفلت) ہٹا دیا پس آج تیری نگاہ تیز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ تو اس واقعے کی طرف سے غفلت میں پڑا ہوا تھا، اب ہم نے تجھ سے وہ پردہ ہٹا دیا ہے جو تجھ پر پڑا ہوا تھا۔ چنانچہ آج تیری نگاہ خوب تیز ہوگئی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

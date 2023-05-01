@@ -3224,6 +3224,12 @@ ta ke hum us mein unhe azmaale aur jo shaqs apne parvardigaar ke zikr se mu pher
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ ہم اس (نعمت) میں ان کی آزمائش کریں، اور جو شخص اپنے رب کے ذِکر سے منہ پھیر لے گا تو وہ اسے نہایت سخت عذاب میں داخل کر دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ اس کے ذریعے ان کو آزمائیں۔ اور جو کوئی اپنے پروردگار کی یاد سے منہ موڑے گا۔ اللہ اسے چڑھتے ہوئے عذاب میں پرو دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

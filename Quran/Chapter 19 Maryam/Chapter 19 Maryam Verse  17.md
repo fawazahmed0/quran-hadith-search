@@ -3224,6 +3224,12 @@ aur un logo ki taraf se pardah kar liya, phir hum ne us ke paas apni ruh (Jibrae
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس انہوں نے ان (گھر والوں اور لوگوں) کی طرف سے حجاب اختیار کر لیا (تاکہ حسنِ مطلق اپنا حجاب اٹھا دے)، تو ہم نے ان کی طرف اپنی روح (یعنی فرشتہ جبرائیل) کو بھیجا سو (جبرائیل) ان کے سامنے مکمل بشری صورت میں ظاہر ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر انہوں نے ان لوگوں کے اور اپنے درمیان ایک پردہ ڈال لیا۔ اس موقع پر ہم نے ان کے پاس اپنی روح (یعنی ایک فرشتے) کو بھیجا جو ان کے سامنے ایک مکمل انسان کی شکل میں ظاہر ہوا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

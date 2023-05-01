@@ -3224,6 +3224,12 @@ yaqeen maano! mera aur tumhaara rab Allah hee hai, tum sab osi ki ibaadath karo,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ میرا رب ہے اور تمہارا بھی (وہی) رب ہے پس اسی کی عبادت کرو، یہی سیدھا راستہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک اللہ میرا بھی پروردگار ہے اور تمہارا بھی پروردگار۔ یہی سیدھا راستہ ہے (کہ صرف اسی کی عبادت کرو)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ go tu mere qatl ke liye dast darazi kare,lekin main tere qatl ki taraf hargiz ap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تو اپنا ہاتھ مجھے قتل کرنے کے لئے میری طرف بڑھائے گا (تو پھر بھی) میں اپنا ہاتھ تجھے قتل کرنے کے لئے تیری طرف نہیں بڑھاؤں گا کیونکہ میں اللہ سے ڈرتا ہوں جو تمام جہانوں کا پروردگار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم نے مجھے قتل کرنے کو اپنا ہاتھ بڑھایا تب بھی میں تمہیں قتل کرنے کو اپنا ہاتھ نہیں بڑھاؤں گا۔ میں تو اللہ رب العالمین سے ڈرتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

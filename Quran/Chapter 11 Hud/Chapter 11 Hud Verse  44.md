@@ -3224,6 +3224,12 @@ farma diya ke aye zamin apne paani ko nigal ja aur aye aasman bus kar, tham ja, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (جب سفینۂ نوح کے سوا سب ڈوب کر ہلاک ہو چکے تو) حکم دیا گیا: اے زمین! اپنا پانی نگل جا اور اے آسمان! تو تھم جا، اور پانی خشک کر دیا گیا اور کام تمام کر دیا گیا اور کشتی جودی پہاڑ پر جا ٹھہری، اور فرما دیا گیا کہ ظالموں کے لئے (رحمت سے) دوری ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حکم ہوا کہ : اے زمین ! اپنا پانی نگل لے، اور اے آسمان ! تھم جا۔ چنانچہ پانی اتر گیا اور سارا قصہ چکا دیا گیا۔ کشتی جودی پہاڑ پر آٹھہری اور کہہ دیا گیا کہ : بربادی ہے اس قوم کی جو ظالم ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

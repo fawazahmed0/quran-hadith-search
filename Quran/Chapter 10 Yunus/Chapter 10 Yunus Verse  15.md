@@ -3224,6 +3224,12 @@ aur jab un ke samne hamari ayate padi jati hai jo bilkul saaaf saaf hai tuh ye l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان پر ہماری روشن آیتیں تلاوت کی جاتی ہیں تو وہ لوگ جو ہم سے ملاقات کی توقع نہیں رکھتے، کہتے ہیں کہ اس (قرآن) کے سوا کوئی اور قرآن لے آئیے یا اسے بدل دیجئے، (اے نبیِ مکرّم!) فرما دیں: مجھے حق نہیں کہ میں اسے اپنی طرف سے بدل دوں، میں تو فقط جو میری طرف وحی کی جاتی ہے (اس کی) پیروی کرتا ہوں، اگر میں اپنے رب کی نافرمانی کروں تو بیشک میں بڑے دن کے عذاب سے ڈرتا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ لوگ جو (آخرت میں) ہم سے آملنے کی توقع نہیں رکھتے جب ان کے سامنے ہماری آیتیں پڑھی جاتی ہیں، جبکہ وہ بالکل واضح ہوتی ہیں، تو وہ یہ کہتے ہیں کہ :“ یہ نہیں، کوئی اور قرآن لے کر آؤ، یا اس میں تبدیلی کرو ”۔ (اے پیغمبر) ان سے کہہ دو کہ :“ مجھے یہ حق نہیں پہنچتا کہ میں اس میں اپنی طرف سے کوئی تبدیلی کروں۔ میں تو کسی اور چیز کی نہیں، صرف اس وحی کی پیروی کرتا ہوں جو مجھ پر نازل کی جاتی ہے۔ اگر کبھی میں اپنے رب کی نافرمانی کر بیٹھوں تو مجھے ایک زبردست دن کے عذاب کا خوف ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

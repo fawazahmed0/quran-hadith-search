@@ -3224,6 +3224,12 @@ aap kahiye ke ye bath-laao agar Allah ta’ala tumhaari samaath aur basaarath bi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان سے) فرما دیجئے کہ تم یہ تو بتاؤ اگر اللہ تمہاری سماعت اور تمہاری آنکھیں لے لے اور تمہارے دلوں پر مُہر لگا دے (تو) اللہ کے سوا کون معبود ایسا ہے جو یہ (نعمتیں دوبارہ) تمہارے پاس لے آئے؟ دیکھئے ہم کس طرح گونا گوں آیتیں بیان کرتے ہیں پھر(بھی) وہ روگردانی کئے جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہو : ذرا مجھے بتاؤ کہ اگر اللہ تمہاری سننے کی طاقت اور تمہاری آنکھیں تم سے چھین لے اور تمہارے دلوں پر مہر لگا دے، تو اللہ کے سوا کونسا معبود ہے جو یہ چیزیں تمہیں لاکر دیدے ؟ دیکھو ہم کیسے کیسے مختلف طریقوں سے دلائل بیان کرتے ہیں، پھر بھی یہ لوگ منہ پھیر لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

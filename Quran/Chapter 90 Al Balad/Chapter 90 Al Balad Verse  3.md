@@ -3224,6 +3224,12 @@ aur (qasam hai) insaani baap aur aulaad ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم! آپ کے) والد (آدم یا ابراہیم علیہما السلام) کی قَسم اور (ان کی) قَسم جن کی ولادت ہوئی٭o٭ یعنی آدم علیہ السلام کی ذریّتِ صالحہ یا آپ ہی کی ذات گرامی جن کے باعث یہ شہرِ مکہ بھی لائقِ قَسم ٹھہرا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (قسم کھاتا ہوں) باپ کی اور اس کی اولاد کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

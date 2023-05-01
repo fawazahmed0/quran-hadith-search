@@ -3224,6 +3224,12 @@ hum ne kaha tum sub yaha se chale jao, jab kabhi tumhaare paas meri hidaayath pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم نے فرمایا: تم سب جنت سے اتر جاؤ، پھر اگر تمہارے پاس میری طرف سے کوئی ہدایت پہنچے تو جو بھی میری ہدایت کی پیروی کرے گا، نہ ان پر کوئی خوف (طاری) ہوگا اور نہ وہ غمگین ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے کہا اب تم سب یہاں سے اتر جاؤ پھر اگر میری طرف سے کوئی ہدایت تمہیں پہنچے تو جو لوگ میری ہدایت کی پیروی کریں گے ان کو نہ کوئی خوف ہوگا اور نہ وہ کسی غم میں مبتلا ہوں گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya unhe ye maloom nahi ke Allah ta’ala jis ke liye chaahe, rozi kushaada kar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا وہ نہیں جانتے کہ اللہ جس کے لئے چاہتا ہے رزق کشادہ فرما دیتا ہے اور (جس کے لئے چاہتا ہے) تنگ کر دیتا ہے، بے شک اس میں ایمان رکھنے والوں کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا انہیں یہ معلوم نہیں ہے کہ اللہ جس کے لیے چاہتا ہے، رزق میں وسعت کردیتا ہے، اور وہی تنگی بھی کردیتا ہے ؟ یقینا اس میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو ایمان لاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

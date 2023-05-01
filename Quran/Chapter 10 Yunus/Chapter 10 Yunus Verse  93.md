@@ -3224,6 +3224,12 @@ aur hum ne bani israel ko bahuth accha thikana rehne ko diya aur hum ne unhe pak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فی الواقع ہم نے بنی اسرائیل کو رہنے کے لئے عمدہ جگہ بخشی اور ہم نے انہیں پاکیزہ رزق عطا کیا تو انہوں نے کوئی اختلاف نہ کیا یہاں تک کہ ان کے پاس علم و دانش آپہنچی۔ بیشک آپ کا رب ان کے درمیان قیامت کے دن ان امور کا فیصلہ فرما دے گا جن میں وہ اختلاف کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے بنو اسرائیل کو ایسی جگہ بسایا جو صحیح معنی میں بسنے کے لائق جگہ تھی، اور ان کو پاکیزہ چیزوں کا رزق بخشا۔ پھر انہوں نے (دین حق کے بارے میں) اس وقت تک اختلاف نہیں کیا جب تک ان کے پاس علم نہیں آگیا۔ یقین رکھو کہ جن باتوں میں وہ اختلاف کیا کرتے تھے، ان کا فیصلہ تمہارا پروردگار قیامت کے دن کرے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

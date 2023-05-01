@@ -3224,6 +3224,12 @@ aur har tarah ke mewe kha aur apne rub ki asaan raaho mein chalti phirti reh, un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تو ہر قسم کے پھلوں سے رس چوسا کر پھر اپنے رب کے (سمجھائے ہوئے) راستوں پر (جو ان پھلوں اور پھولوں تک جاتے ہیں جن سے تو نے رس چوسنا ہے، دوسری مکھیوں کے لئے بھی) آسانی فراہم کرتے ہوئے چلا کر، ان کے شکموں سے ایک پینے کی چیز نکلتی ہے (وہ شہد ہے) جس کے رنگ جداگانہ ہوتے ہیں، اس میں لوگوں کے لئے شفا ہے، بیشک اس میں غور و فکر کرنے والوں کے لئے نشانی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہر قسم کے پھلوں سے اپنی خوراک حاصل کر، پھر ان راستوں پر چل جو تیرے رب نے تیرے لیے آسان بنا دیے ہیں۔ (اسی طرح) اس مکھی کے پیٹ سے وہ مختلف رنگوں والا مشروب نکلتا ہے جس میں لوگوں کے لیے شفا ہے۔ یقینا ان سب باتوں میں ان لوگوں کے لیے نشانی ہے جو سوچتے سمجھتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

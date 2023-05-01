@@ -3224,6 +3224,12 @@ aur ye log Allah ke siva aisi chizo ki ibadath karte hai jo na un ko zarar pahoc
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (مشرکین) اللہ کے سوا ان (بتوں) کو پوجتے ہیں جو نہ انہیں نقصان پہنچا سکتے ہیں اور نہ انہیں نفع پہنچا سکتے ہیں اور (اپنی باطل پوجا کے جواز میں) کہتے ہیں کہ یہ (بت) اللہ کے حضور ہمارے سفارشی ہیں، فرما دیجئے: کیا تم اللہ کو اس (شفاعتِ اَصنام کے من گھڑت) مفروضہ سے آگاہ کر رہے ہو جس (کے وجود) کو وہ نہ آسمانوں میں جانتا ہے اور نہ زمین میں (یعنی اس کی بارگاہ میں کسی بت کا سفارش کرنا اس کے علم میں نہیں ہے)۔ اس کی ذات پاک ہے اور وہ ان سب چیزوں سے بلند و بالا ہے جنہیں یہ (اس کا) شریک گردانتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ اللہ کو چھوڑ کر ان (من گھڑت خداؤں) کی عبادت کرتے ہیں جو نہ ان کو کوئی نقصان پہنچا سکتے ہیں، نہ ان کو کوئی فائدہ دے سکتے ہیں، اور کہتے ہیں کہ یہ اللہ کے پاس ہماری سفارش کرنے والے ہیں۔ (اے پیغمبر ! ان سے) کہو کہ :“ کیا تم اللہ کو اس چیز کی خبر دے رہے ہو جس کا کوئی وجود اللہ کے علم میں نہیں ہے، نہ آسمانوں میں نہ زمین میں ؟” (حقیقت یہ ہے کہ) اللہ ان کی مشرکانہ باتوں سے بالکل پاک اور کہیں بالا و برتر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

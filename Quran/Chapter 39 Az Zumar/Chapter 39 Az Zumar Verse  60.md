@@ -3224,6 +3224,12 @@ aur jin logo ne Allah par jhoot baandha hai, to aap dekhenge ke qayaamath ke din
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ قیامت کے دن اُن لوگوں کو جنہوں نے اللہ پر جھوٹ بولا ہے دیکھیں گے کہ اُن کے چہرے سیاہ ہوں گے، کیا تکّبر کرنے والوں کا ٹھکانا دوزخ میں نہیں ہے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور قیامت کے دن تم دیکھو گے کہ جن لوگوں نے اللہ پر جھوٹ باندھا ہے، ان کے چہرے سیاہ پڑے ہوئے ہیں۔ کیا جہنم میں ایسے متکبروں کا ٹھکانا نہیں ہوگا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

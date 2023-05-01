@@ -3224,6 +3224,12 @@ wo jawaab denge ke beshak ayaa tha, lekin hum ne ose jhutlaaya aur hum ne kaha k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہیں گے: کیوں نہیں! بے شک ہمارے پاس ڈر سنانے والا آیا تھا تو ہم نے جھٹلا دیا اور ہم نے کہا کہ اللہ نے کوئی چیز نازل نہیں کی، تم تو محض بڑی گمراہی میں (پڑے ہوئے) ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہیں گے کہ ہاں بیشک ہمارے پاس خبردار کرنے والا آیا تھا، مگر ہم نے (اسے) جھٹلا دیا، اور کہا کہ : اللہ نے کچھ نازل نہیں کیا، تمہاری حقیقت اس کے سوا کچھ نہیں کہ تم بڑی بھاری گمراہی میں پڑے ہوئے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

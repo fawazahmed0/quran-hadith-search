@@ -3224,6 +3224,12 @@ aur na main qayaamat ko qaayam hone waali qayaal karta hoon aur agar (bil-farz) 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ ہی یہ گمان کرتا ہوں کہ قیامت قائم ہوگی اور اگر (بالفرض) میں اپنے رب کی طرف لوٹایا بھی گیا تو بھی یقیناً میں ان باغات سے بہتر پلٹنے کی جگہ پاؤں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میرا خیال یہ ہے کہ قیامت کبھی نہیں آئے گی، اور اگر کبھی مجھے اپنے رب کے پاس واپس بھیجا بھی گیا، تب بھی مجھے یقین ہے کہ مجھے اس سے بھی اچھی جگہ ملے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap keh dijiye ke us ka ilm to Allah hee ko hai, main to sirf khule taur par aga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے کہ (اُس کے وقت کا) علم تو اللہ ہی کے پاس ہے، اور میں تو صرف واضح ڈر سنانے والا ہوں (اگر وقت بتا دیا جائے تو ڈر ختم ہو جائے گا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اس کا علم تو صرف اللہ کے پاس ہے، اور میں تو بس صاف صاف طریقے پر خبردار کرنے والا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ mera bharosa sirf Allah tala hee par hai jo mera aur tum sub ka parvardigaar hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک میں نے اللہ پر توکل کر لیا ہے جو میرا (بھی) رب ہے اور تمہارا (بھی) رب ہے، کوئی چلنے والا (جاندار) ایسا نہیں مگر وہ اسے اس کی چوٹی سے پکڑے ہوئے ہے (یعنی مکمل طور پر اس کے قبضۂ قدرت میں ہے)۔ بیشک میرا رب (حق و عدل میں) سیدھی راہ پر (چلنے سے ملتا) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں نے تو اللہ پر بھروسہ کر رکھا ہے جو میرا بھی پروردگار ہے اور تمہارا بھی پروردگار۔ زمین پر چلنے والا کوئی جاندار ایسا نہیں جس کی چوٹی اس کے قبضے میں نہ ہو، یقینا میرا پروردگار سیدھے راستے پر ہے۔ ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

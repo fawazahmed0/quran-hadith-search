@@ -3224,6 +3224,12 @@ aur hum ne aap se pehle bhi apne rasulo ko un ki khaum ki taraf bheja, wo un ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور درحقیقت ہم نے آپ سے پہلے رسولوں کو ان کی قوموں کی طرف بھیجا اور وہ ان کے پاس واضح نشانیاں لے کر آئے پھر ہم نے (تکذیب کرنے والے) مجرموں سے بدلہ لے لیا، اور مومنوں کی مدد کرنا ہمارے ذمۂ کرم پر تھا (اور ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ہم نے تم سے پہلے بھی بہت سے پیغمبر ان کی قوموں کے پاس بھیجے، چنانچہ وہ ان کے پاس کھلے کھلے دلائل لے کر آئے۔ پھر جنہوں نے جرائم کا ارتکاب کیا تھا، ہم نے ان سے انتقام لیا، اور ہم نے یہ ذمہ داری لی تھی کہ ایمان والوں کی مدد کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

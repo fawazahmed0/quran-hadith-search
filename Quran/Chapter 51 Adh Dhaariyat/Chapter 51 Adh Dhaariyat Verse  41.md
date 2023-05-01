@@ -3224,6 +3224,12 @@ isi tarah aadiyo me bhi (hamaari taraf se tambi hai) jab ke hum ne un par khair 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (قومِ) عاد (کی ہلاکت) میں بھی (نشانی) ہے جبکہ ہم نے اُن پر بے خیر و برکت ہوا بھیجی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نیز قوم عاد میں (بھی ہم نے ایسی ہی نشانی چھوڑی تھی) جب ہم نے ان پر ایک ایسی آندھی بھیجی جو ہر بہتری سے بانجھ دی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

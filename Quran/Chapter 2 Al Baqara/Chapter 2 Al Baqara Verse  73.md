@@ -3224,6 +3224,12 @@ hum ne kaha ke us gaaye ka ek tukda maqtool ke jism par laga do (wo ji uthega) i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے حکم دیا کہ اس (مُردہ) پر اس (گائے) کا ایک ٹکڑا مارو، اسی طرح اللہ مُردوں کو زندہ فرماتا ہے (یا قیامت کے دن مُردوں کو زندہ کرے گا) اور تمہیں اپنی نشانیاں دکھاتا ہے تاکہ تم عقل و شعور سے کام لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہم نے کہا کہ اس (مقتول) کو اس (گائے) کے ایک حصے سے مارو۔ اسی طرح اللہ مردوں کو زندہ کرتا ہے، اور تمہیں (اپنی قدرت کی) نشانیاں دکھاتا ہے تاکہ تم سمجھ سکو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

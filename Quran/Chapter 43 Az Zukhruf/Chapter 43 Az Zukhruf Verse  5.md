@@ -3224,6 +3224,12 @@ kya hum is nasihath ko tum se is bina par hata le ke tum hadh se guzar jaane waa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا ہم اس نصیحت کو تم سے اِس بنا پر روک دیں کہ تم حد سے گزر جانے والی قوم ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ہم منہ موڑ کر اس نصیحت نامے کو تم سے اس بنا پر ہٹالیں کہ تم حد سے گزرے ہوئے لوگ ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

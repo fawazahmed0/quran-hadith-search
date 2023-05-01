@@ -3224,6 +3224,12 @@ roye zameen par jo kuch hai hum ne ose zameen ki raunaq ka baayes banaya hai, ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے اُن تمام چیزوں کو جو زمین پر ہیں اس کے لئے باعثِ زینت (و آرائش) بنایا تاکہ ہم ان لوگوں کو (جو زمین کے باسی ہیں) آزمائیں کہ ان میں سے بہ اِعتبارِ عمل کون بہتر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ روئے زمین پر جتنی چیزیں ہیں ہم نے انہیں زمین کی سجاوٹ کا ذریعہ اس لیے بنایا ہے تاکہ لوگوں کو آزمائیں کہ ان میں کون زیادہ اچھا عمل کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

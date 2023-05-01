@@ -3224,6 +3224,12 @@ tumhaara rub tum se ba-nisbat tumhaare bahuth zyaada jaanne wala hai, wo agar ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہارا رب تمہارے حال سے بہتر واقف ہے، اگر چاہے تم پر رحم فرما دے یا اگر چاہے تم پر عذاب کرے، اور ہم نے آپ کو ان پر (ان کے امور کا) ذمہ دار بنا کر نہیں بھیجا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہارا پروردگار تمہیں خوب جانتا ہے۔ اگر وہ چاہے تو تم پر رحم فرما دے، اور چاہے تو تمہیں عذاب دیدے، اور (اے پیغمبر) ہم نے تمہیں ان کی باتوں کا ذمہ دار بنا کر نہیں بھیجا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur ek dosre ka maal na haq na khaaya karo, na haakimo ko rishwath pahocha kar k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم ایک دوسرے کے مال آپس میں ناحق نہ کھایا کرو اور نہ مال کو (بطورِ رشوت) حاکموں تک پہنچایا کرو کہ یوں لوگوں کے مال کا کچھ حصہ تم (بھی) ناجائز طریقے سے کھا سکو حالانکہ تمہارے علم میں ہو (کہ یہ گناہ ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آپس میں ایک دوسرے کا مال ناحق طریقوں سے نہ کھاؤ، اور نہ ان کا مقدمہ حاکموں کے پاس اس سے غرض سے لے جاؤ کہ لوگوں کے مال کا کوئی حصہ جانتے بوجھتے ہڑپ کرنے کا گناہ کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

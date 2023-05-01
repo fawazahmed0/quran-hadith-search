@@ -3224,6 +3224,12 @@ jis din ye farishto ko dekh lenge, us din un gunehgaro ko koyi khushi na hogi au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن وہ فرشتوں کو دیکھیں گے (تو) اس دن مجرموں کے لئے چنداں خوشی کی بات نہ ہوگی بلکہ وہ (انہیں دیکھ کر ڈرتے ہوئے) کہیں گے: کوئی روک والی آڑ ہوتی (جو ہمیں ان سے بچا لیتی یا فرشتے انہیں دیکھ کر کہیں گے کہ تم پر داخلۂ جنت قطعاً ممنوع ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن ان کو فرشتے نظر آگئے، اس دن ان مجرموں کے لیے کوئی خوشی کا موقع نہیں ہوگا، بلکہ یہ کہتے پھریں گے کہ خدایا ! ہمیں ایسی پناہ دے کہ یہ ہم سے دور ہوجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

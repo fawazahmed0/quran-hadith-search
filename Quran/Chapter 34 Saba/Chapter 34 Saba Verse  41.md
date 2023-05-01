@@ -3224,6 +3224,12 @@ wo kahenge teri zaath paak hai aur hamaara wali to, tu hai , na ke ye, balke ye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ عرض کریں گے: تو پاک ہے تو ہی ہمارا دوست ہے نہ کہ یہ لوگ، بلکہ یہ لوگ جنات کی پوجا کیا کرتے تھے، ان میں سے اکثر اُنہی پر ایمان رکھنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہیں گے کہ : ہم تو آپ کی ذات کی پاکی بیان کرتے ہیں، ہمارا تعلق آپ سے ہے، ان لوگوں سے نہیں۔ دراصل یہ تو جنات کی عبادت کیا کرتے تھے۔ ان میں سے اکثر لوگ انہی کے معتقد تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

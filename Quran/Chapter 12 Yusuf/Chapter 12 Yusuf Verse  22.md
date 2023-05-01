@@ -3224,6 +3224,12 @@ aur jab (yousuf) poqtagi ki umr ko pahonch gaye, hum ne ose quwwate faisla aur i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ اپنے کمالِ شباب کو پہنچ گیا (تو) ہم نے اسے حکمِ (نبوت) اور علمِ (تعبیر) عطا فرمایا، اور اسی طرح ہم نیکوکاروں کو صلہ بخشا کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یوسف اپنی بھرپور جوانی کو پہنچے تو ہم نے انہیں حکمت اور علم عطا کیا، اور جو لوگ نیک کام کرتے ہیں ان کو ہم اسی طرح بدلہ دیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

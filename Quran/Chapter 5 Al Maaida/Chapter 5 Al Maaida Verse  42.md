@@ -3224,6 +3224,12 @@ ye kaan laga laga kar jhut ke sunne wale aur ji bhar bhar kar haraam ke khane wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ لوگ) جھوٹی باتیں بنانے کے لئے جاسوسی کرنے والے ہیں (مزید یہ کہ) حرام مال خوب کھانے والے ہیں۔ سو اگر (یہ لوگ) آپ کے پاس (کوئی نزاعی معاملہ لے کر) آئیں تو آپ (کو اختیار ہے کہ) ان کے درمیان فیصلہ فرمادیں یا ان سے گریز فرما لیں، اور اگر آپ ان سے گریز (بھی) فرمالیں تو (تب بھی) یہ آپ کو ہرگز کوئی ضرر نہیں پہنچا سکتے، اور اگر آپ فیصلہ فرمائیں تو ان کے درمیان (بھی) عدل سے (ہی) فیصلہ فرمائیں (یعنی ان کی دشمنی عادلانہ فیصلے میں رکاوٹ نہ بنے)، بیشک اللہ عدل کرنے والوں کو پسند فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ کان لگا لگا کر جھوٹی باتیں سننے والے، جی بھر بھر کر حرام کھانے والے ہیں۔ چنانچہ اگر یہ تمہارے پاس آئیں تو چاہے ان کے درمیان فیصلہ کردو، اور چاہے ان سے منہ موڑ لو اگر تم ان سے منہ موڑ لو گے تو یہ تمہیں کوئی نقصان نہیں پہنچا سکیں گے، اور اگر فیصلہ کرنا ہو تو انصاف سے فیصلہ کرو۔ یقینا اللہ انصاف کرنے والوں سے محبت کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

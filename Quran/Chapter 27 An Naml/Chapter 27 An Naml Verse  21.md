@@ -3224,6 +3224,12 @@ yaqinan main ose saqt saza dunga ya ose zubaah kar daalonga, ya mere saamne koyi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+میں اسے (بغیر اجازت غائب ہونے پر) ضرور سخت سزا دوں گا یا اسے ضرور ذبح کر ڈالوں گا یا وہ میرے پاس (اپنے بے قصور ہونے کی) واضح دلیل لائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں اسے سخت سزا دوں گا، یا اسے ذبح کر ڈالوں گا، الا یہ کہ وہ میرے سامنے کوئی واضح وجہ پیش کرے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

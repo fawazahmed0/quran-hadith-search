@@ -3224,6 +3224,12 @@ agar tum ek biwi ki jagah dosri karna hee chaaho, aur un mein se kisi ko tum ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم ایک بیوی کے بدلے دوسری بیوی بدلنا چاہو اور تم اسے ڈھیروں مال دے چکے ہو تب بھی اس میں سے کچھ واپس مت لو، کیا تم ناحق الزام اور صریح گناہ کے ذریعے وہ مال (واپس) لینا چاہتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم ایک بیوی کے بدلے دوسری بیوی سے نکاح کرنا چاہتے ہو اور ان میں سے ایک کو ڈھیر سارا مہر دے چکے ہو، تو اس میں سے کچھ واپس نہ لو۔ کیا تم بہتان لگا کر اور کھلا گناہ کر کے (مہر) والس لو گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

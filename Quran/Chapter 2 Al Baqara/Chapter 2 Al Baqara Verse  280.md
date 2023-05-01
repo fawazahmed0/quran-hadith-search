@@ -3224,6 +3224,12 @@ aur agar koyi tangi waala ho to ose asaani tak muhullath deni chaahiye aur sadqa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر قرض دار تنگدست ہو تو خوشحالی تک مہلت دی جانی چاہئے، اور تمہارا (قرض کو) معاف کر دینا تمہارے لئے بہتر ہے اگر تمہیں معلوم ہو (کہ غریب کی دل جوئی اللہ کی نگاہ میں کیا مقام رکھتی ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر کوئی تنگدست (قرض دار) ہو تو اس کا ہاتھ کھلنے تک مہلت دینی ہے، اور صدقہ ہی کردو تو یہ تمہارے حق میں کہیں زیادہ بہتر ہے، بشرطیکہ تم کو سمجھ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

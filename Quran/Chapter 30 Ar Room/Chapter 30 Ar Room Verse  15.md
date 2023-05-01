@@ -3224,6 +3224,12 @@ jo imaan la kar nek amaal karte rahe wo to jannath mein khush wa khurram kar diy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جو لوگ ایمان لائے اور نیک اعمال کرتے رہے تو وہ باغاتِ جنت میں خوش حال و مسرور کر دیئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جو لوگ ایمان لائے تھے، اور انہوں نے نیک عمل کیے تھے، ان کو تو جنت میں ایسی خوشیاں دی جائیں گی جو ان کے چہروں سے پھوٹی پڑ رہی ہوں گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

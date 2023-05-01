@@ -3224,6 +3224,12 @@ aur tumhaare bacche bhi jab bulughath ko pahonch jaaye to, jis tarah un ke agle 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تم میں سے بچے حدِ بلوغ کو پہنچ جائیں تو وہ (تمہارے پاس آنے کے لئے) اجازت لیا کریں جیسا کہ ان سے پہلے (دیگر بالغ افراد) اجازت لیتے رہتے ہیں، اس طرح اللہ تمہارے لئے اپنے احکام خُوب واضح فرماتا ہے، اور اللہ خوب علم والا اور حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تمہارے بچے بلوغ کو پہنچ جائیں، تو وہ بھی اسی طرح اجازت لیا کریں جیسے ان سے پہلے بالغ ہونے والے اجازت لیتے رہے ہیں۔ اللہ اسی طرح اپنی آیتیں کھول کھول کر تمہارے سامنے بیان کرتا ہے، اور اللہ علم کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

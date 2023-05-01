@@ -3224,6 +3224,12 @@ agar jald wasol hone wala mal wa asbab hota aur halka sa safar hota tuh ye zaror
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر مالِ (غنیمت) قریب الحصول ہوتا اور (جہاد کا) سفر متوسط و آسان تو وہ (منافقین) یقیناً آپ کے پیچھے چل پڑتے لیکن (وہ) پُرمشقّت مسافت انہیں بہت دور دکھائی دی، اور (اب) وہ عنقریب اللہ کی قَسمیں کھائیں گے کہ اگر ہم میں استطاعت ہوتی تو ضرور تمہارے ساتھ نکل کھڑے ہوتے، وہ (ان جھوٹی باتوں سے) اپنے آپ کو (مزید) ہلاکت میں ڈال رہے ہیں، اور اللہ جانتا ہے کہ وہ واقعی جھوٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر دنیا کا سامان کہیں قریب ملنے والا ہوتا، اور سفر درمیانہ قسم کا ہوتا، تو یہ (منافق لوگ) ضرور تمہارے پیچھے ہو لیتے، لیکن یہ کٹھن فاصلہ ان کے لیے بہت دور پڑگیا۔ اور اب یہ اللہ کی قسمیں کھائیں گے کہ اگر ہم میں استطاعت ہوتی تو ہم ضرور آپ کے ساتھ نکل جاتے۔ یہ لوگ اپنی جانوں کو ہلاک کر رہے ہیں اور اللہ خوب جانتا ہے کہ یہ جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

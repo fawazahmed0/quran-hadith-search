@@ -3224,6 +3224,12 @@ yahi hai jinhone apna nuqsaan aap kar liya aur wo sub kuch un se kho gaya jo unh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی لوگ ہیں جنہوں نے اپنی جانوں کو نقصان پہنچایا اور جو بہتان وہ باندھتے تھے وہ (سب) ان سے جاتے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جنہوں نے اپنی جانوں کے لیے گھاٹے کا سودا کرلیا تھا، اور جو معبود انہوں نے گھڑ رکھے تھے، انہیں ان کا کوئی سراغ نہیں ملے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

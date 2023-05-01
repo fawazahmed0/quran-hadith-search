@@ -3224,6 +3224,12 @@ andha aur bina baraabar nahi, na wo log jo imaan laaye aur bhale kaam kiye badhk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اندھا اور بینا برابر نہیں ہو سکتے سو (اسی طرح) جو لوگ ایمان لائے اور نیک اعمال کئے (وہ) اور بدکار بھی (برابر) نہیں ہیں۔ تم بہت ہی کم نصیحت قبول کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اندھا اور بینائی رکھنے والا دونوں برابر نہیں ہوتے، اور نہ وہ لوگ جو ایمان لائے اور انہوں نے نیک عمل کیے، وہ اور بدکار برابر ہیں، (لیکن) تم لوگ بہت کم دھیان دیتے ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

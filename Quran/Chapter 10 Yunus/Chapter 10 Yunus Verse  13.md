@@ -3224,6 +3224,12 @@ aur hum ne tum se pehle bahuth se gruho ko halaak kar diya jab ke unhone zulm ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے تم سے پہلے (بھی بہت سی) قوموں کو ہلاک کر دیا جب انہوں نے ظلم کیا، اور ان کے رسول ان کے پاس واضح نشانیاں لے کر آئے مگر وہ ایمان لاتے ہی نہ تھے، اسی طرح ہم مجرم قوم کو (ان کے عمل کی) سزا دیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے تم سے پہلے (کئی) قوموں کو اس موقع پر ہلاک کیا جب انہوں نے ظلم کا ارتکاب کیا تھا، اور ان کے پیغمبر ان کے پاس روشن دلائل لے کر آئے تھے، اور وہ ایسے نہ تھے کہ ایمان لاتے، ایسے مجرم لوگوں کو ہم ایسا ہی بدلہ دیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ dunya mein apne ko bada samajhne ki wajeh se aur un ki buri tadhbiro ki wajeh au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(انہوں نے) زمین میں اپنے آپ کو سب سے بڑا سمجھنا اور بری چالیں چلنا (اختیار کیا)، اور برُی چالیں اُسی چال چلنے والے کو ہی گھیر لیتی ہیں، سو یہ اگلے لوگوں کی رَوِشِ (عذاب) کے سوا (کسی اور چیز کے) منتظر نہیں ہیں۔ سو آپ اللہ کی سُنّت میں ہرگز کوئی تبدیلی نہیں پائیں گے اور نہ ہی اللہ کی سنت میں ہرگز کوئی پھرنا پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس لیے کہ انہیں زمین میں اپنی بڑائی کا گھمنڈ تھا، اور انہوں نے (حق کی مخالفت میں) بری بری چالیں چلنی شروع کردیں۔ حالانکہ بری چالیں کسی اور کو نہیں خود اپنے چلنے والوں ہی کو گھیرے میں لے لیتی ہیں۔ اب یہ لوگ اس دستور کے سوا کس بات کے منتظر ہیں جس پر پچھلے لوگوں کے ساتھ عمل ہوتا آیا ہے ؟ (اگر یہ بات ہے) تو تم اللہ کے طے شدہ دستور میں کبھی کوئی تبدیلی نہیں پاؤ گے، اور نہ تم اللہ کے طے شدہ دستور کو کبھی ٹلتا ہوا پاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

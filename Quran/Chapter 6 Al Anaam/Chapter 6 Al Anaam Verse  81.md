@@ -3224,6 +3224,12 @@ aur main un chizo se kaise daro jin ko tum ne shareek banaaya hai, halaan ke tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں ان (معبودانِ باطلہ) سے کیونکر خوفزدہ ہوسکتا ہوں جنہیں تم (اللہ کا) شریک ٹھہراتے ہو درآنحالیکہ تم اس بات سے نہیں ڈرتے کہ تم نے اللہ کے ساتھ (بتوں کو) شریک بنا رکھا ہے (جبکہ) اس نے تم پر اس (شرک) کی کوئی دلیل نہیں اتاری (اب تم ہی جواب دو!) سو ہر دو فریق میں سے (عذاب سے) بے خوف رہنے کا زیادہ حق دار کون ہے؟ اگر تم جانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن چیزوں کو تم نے اللہ کا شریک بنا رکھا ہے، میں ان سے کیسے ڈر سکتا ہوں جبکہ تم ان چیزوں کو اللہ کا شریک ماننے سے نہیں ڈرتے جن کے بارے میں اس نے تم پر کوئی دلیل نازل نہیں کی ہے ؟ اب اگر تمہارے پاس کوئی علم ہے تو بتاؤ کہ ہم دو فریقوں میں سے کون بےخوف رہنے کا زیادہ مستحق ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

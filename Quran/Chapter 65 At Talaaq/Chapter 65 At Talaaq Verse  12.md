@@ -3224,6 +3224,12 @@ Allah wo hai jis ne saath asmaan banaaye aur osi ke misl zamine bhi, us ka hukm 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ (ہی) ہے جس نے سات آسمان پیدا فرمائے اور زمین (کی تشکیل) میں بھی انہی کی مِثل (تہ بہ تہ سات طبقات بنائے)، ان کے درمیان (نظامِ قدرت کی تدبیر کا) امر اترتا رہتا ہے تاکہ تم جان لو کہ اللہ ہر چیز پر بڑا قادر ہے، اور یہ کہ اللہ نے ہر چیز کا اپنے علم سے احاطہ فرما رکھا ہے (یعنی آنے والے زمانوں میں جب سائنسی اکتشافات کامل ہوں گے تو تمہیں اللہ کی قدرت اور علمِ محیط کی عظمت کا اندازہ ہو جائے گا کہ کس طرح اُس نے صدیوں قبل ان حقائق کو تمہارے لئے بیان فرما رکھا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے سات آسمان پیدا کیے، اور زمین بھی انہی کی طرح اللہ کا حکم ان کے درمیان اترتا رہتا ہے، تاکہ تمہیں معلوم ہوجائے کہ اللہ ہر چیز پر پوری قدرت رکھتا ہے اور یہ کہ اللہ کے علم نے ہر چیز کا احاطہ کیا ہوا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

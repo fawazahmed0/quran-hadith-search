@@ -3224,6 +3224,12 @@ aaqirath ka ye bhala ghar hum unhi ke liye muqarrar kar dete hai jo zameen mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) وہ آخرت کا گھر ہے جسے ہم نے ایسے لوگوں کے لئے بنایا ہے جو نہ (تو) زمین میں سرکشی و تکبر چاہتے ہیں اور نہ فساد انگیزی، اور نیک انجام پرہیزگاروں کے لئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ آخرت والا گھر تو ہم ان لوگوں کے لیے مخصوص کردیں گے جو زمین میں نہ تو بڑائی چاہتے ہیں، اور نہ فساد، اور آخرت انجام پرہیزگاروں کے حق میں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

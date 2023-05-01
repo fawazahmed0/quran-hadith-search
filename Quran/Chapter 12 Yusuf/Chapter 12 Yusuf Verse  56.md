@@ -3224,6 +3224,12 @@ isi tarah hum ne yousuf (alaihissalaam)ko mulk ka qabza de diya ke wo jahaa kahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس طرح ہم نے یوسف (علیہ السلام) کو ملک (مصر) میں اقتدار بخشا (تاکہ) اس میں جہاں چاہیں رہیں۔ ہم جسے چاہتے ہیں اپنی رحمت سے سرفراز فرماتے ہیں اور نیکوکاروں کا اجر ضائع نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس طرح ہم نے یوسف کو ملک میں ایسا اقتدار عطا کیا کہ وہ اس میں جہاں چاہیں اپنا ٹھکانا بنائیں۔ ہم اپنی رحمت جس کو چاہتے ہیں پہنچاتے ہیں اور نیک لوگوں کے اجر کو ضائع نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

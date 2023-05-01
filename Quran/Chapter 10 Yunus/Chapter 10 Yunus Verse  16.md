@@ -3224,6 +3224,12 @@ aap yo keh dijiye ke agar Allah ko manzor hota tuh na tuh main tum ko wo pad kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اگر اللہ چاہتا تو نہ ہی میں اس (قرآن) کو تمہارے اوپر تلاوت کرتا اور نہ وہ (خود) تمہیں اس سے باخبر فرماتا، بیشک میں اس (قرآن کے اترنے) سے قبل (بھی) تمہارے اندر عمر (کا ایک حصہ) بسر کرچکا ہوں، سو کیا تم عقل نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ :“ اگر اللہ چاہتا تو میں اس قرآن کو تمہارے سامنے نہ پڑھتا، اور نہ اللہ تمہیں اس سے واقف کراتا ۔ آخر اس سے پہلے بھی تو میں ایک عمر تمہارے درمیان بسر کرچکا ہوں۔ کیا پھر بھی تم عقل سے کام نہیں لیتے ؟ ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

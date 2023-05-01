@@ -3224,6 +3224,12 @@ is bina par ke hum sab se pehle imaan waale bane hai, hamein ummid padti hai ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم قوی امید رکھتے ہیں کہ ہمارا رب ہماری خطائیں معاف فرما دے گا، اس وجہ سے کہ (اب) ہم ہی سب سے پہلے ایمان لانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم تو شوق سے امیدلگائے ہوئے ہیں کہ ہمارا پروردگار اس وجہ سے ہماری خطائیں بخش دے گا کہ ہم سب سے پہلے ایمان لائے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

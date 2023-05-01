@@ -3224,6 +3224,12 @@ aur ye ke ye deen mera raasta hai jo mustaqeem hai, so us raah par chalo aur dos
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ یہی (شریعت) میرا سیدھا راستہ ہے سو تم اس کی پیروی کرو، اور (دوسرے) راستوں پر نہ چلو پھر وہ (راستے) تمہیں اللہ کی راہ سے جدا کر دیں گے، یہی وہ بات ہے جس کا اس نے تمہیں تاکیدی حکم دیا ہے تاکہ تم پرہیزگار بن جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر ! ان سے) یہ بھی کہو کہ : یہ میرا سیدھا سیدھا راستہ ہے، لہذا اس کے پیچھے چلو، اور دوسرے راستوں کے پیچھے نہ پڑو، ورنہ وہ تمہیں اللہ کے راستے سے الگ کردیں گے۔ لوگو ! یہ باتیں ہیں جن کی اللہ نے تاکید کی ہے تاکہ تم متقی بنو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

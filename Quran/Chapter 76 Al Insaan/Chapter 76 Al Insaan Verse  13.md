@@ -3224,6 +3224,12 @@ ye wahaan taqto par takye lagaaye hoye baithenge, na wahaa aftaab ki garmi dekhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ لوگ اس میں تختوں پر تکیے لگائے بیٹھے ہوں گے، نہ وہاں دھوپ کی تپش پائیں گے اور نہ سردی کی شدّت
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ان باغوں میں آرام دہ اونچی نشستوں پر تکیہ لگائے بیٹھے ہوں گے، جہاں نہ دھوپ کی تپش دیکھیں گے اور نہ کڑا کے کی سردی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

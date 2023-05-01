@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ne kaha, yahi tha jis ki talaash mein hum thein, chuna che w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+موسٰی (علیہ السلام) نے کہا: یہی وہ (مقام) ہے ہم جسے تلاش کر رہے تھے، پس دونوں اپنے قدموں کے نشانات پر (وہی راستہ) تلاش کرتے ہوئے (اسی مقام پر) واپس پلٹ آئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : اسی بات کی تو ہمیں تلاش تھی۔ چنانچہ دونوں اپنے قدموں کے نشان دیکھتے ہوئے واپس لوٹے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

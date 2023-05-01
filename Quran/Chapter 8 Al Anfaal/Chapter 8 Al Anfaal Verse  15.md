@@ -3224,6 +3224,12 @@ ae iman walo! jab tum kafiro se do ba do muqabil ho jao tuh un se pusht3 math ph
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جب تم (میدانِ جنگ میں) کافروں سے مقابلہ کرو (خواہ وہ) لشکرِ گراں ہو پھر بھی انہیں پیٹھ مت دکھانا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جب کافروں سے تمہارا آمنا سامنا ہوجائے، جبکہ وہ چڑھائی کر کے آرہے ہوں، تو ان کو پیٹھ مت دکھاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

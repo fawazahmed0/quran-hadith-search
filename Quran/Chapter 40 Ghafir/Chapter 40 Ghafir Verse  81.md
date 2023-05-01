@@ -3224,6 +3224,12 @@ Allah tumhe apni nishaaniya dikhaata ja raha hai, pas tum Allah ki kin kin nisha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ تمہیں اپنی (بہت سے) نشانیاں دکھاتا ہے، سو تم اللہ کی کن کن نشانیوں کا انکار کرو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ تمہیں اپنی نشانیاں دکھا رہا ہے پھر تم اللہ کی کن کن نشانیوں کا انکار کرو گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

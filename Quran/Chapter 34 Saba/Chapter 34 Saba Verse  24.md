@@ -3224,6 +3224,12 @@ puchiye ke tumhe asmaano aur zameen se rozi kaun pahonchaata hai? (khud) jawaab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرمائیے: تمہیں آسمانوں اور زمین سے روزی کون دیتا ہے، آپ (خود ہی) فرما دیجئے کہ اللہ (دیتا ہے)، اور بیشک ہم یا تم ضرور ہدایت پر ہیں یا کھلی گمراہی میں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ کون ہے جو تمہیں آسمانوں سے اور زمین سے رزق دیتا ہے ؟ کہو : وہ اللہ ہے ! اور ہم ہوں یا تم، یا تو ہدایت پر ہیں یا کھلی گمراہی میں مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

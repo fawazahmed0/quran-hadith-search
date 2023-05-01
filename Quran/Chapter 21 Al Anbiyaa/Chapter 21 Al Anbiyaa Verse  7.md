@@ -3224,6 +3224,12 @@ tujh se pehle bhi jitne paighambar hum ne bheje, sabhi mard thein, jin ki taraf 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیبِ مکرّم!) ہم نے آپ سے پہلے (بھی) مَردوں کو ہی (رسول بنا کر) بھیجا تھا ہم ان کی طرف وحی بھیجا کرتے تھے (لوگو!) تم اہلِ ذکر سے پوچھ لیا کرو اگر تم (خود) نہ جانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ہم نے تم سے پہلے کسی اور کو نہیں، آدمیوں ہی کو رسول بنا کر بھیجا تھا جن پر ہم وحی نازل کرتے تھے۔ لہذا (کافروں سے کہو کہ) اگر تمہیں خود علم نہیں ہے تو نصیحت کا علم رکھنے والوں سے پوچھ لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

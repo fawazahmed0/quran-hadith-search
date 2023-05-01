@@ -3224,6 +3224,12 @@ aap farma dijiye ke ye to batlao ke agar tum par Allah ka azaab rath ko aa pade 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیجئے: (اے کافرو!) ذرا غور تو کرو اگر تم پر اس کا عذاب (ناگہاں) راتوں رات یا دن دہاڑے آپہنچے (تو تم کیا کرلوگے؟) وہ کیا چیز ہے کہ مجرم لوگ اس سے جلدی چاہتے ہیں؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے کہو کہ : ذرا مجھے یہ بتاؤ کہ اگر اللہ کا عذاب تم پر رات کے وقت آئے یا دن کے وقت تو اس میں کون سی ایسی (اشتیاق کے قابل) چیز ہے جس کے جلد آنے کا یہ مجرم لوگ مطالبہ کر رہے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

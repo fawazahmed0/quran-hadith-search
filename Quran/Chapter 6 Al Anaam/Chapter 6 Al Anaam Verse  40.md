@@ -3224,6 +3224,12 @@ aap kahiye ke apna haal to bath-laao ke agar tum par Allah ka koyi azaab aa pade
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان کافروں سے) فرمائیے: ذرا یہ تو بتاؤ اگر تم پر اللہ کا عذاب آجائے یا تم پر قیامت آپہنچے تو کیا (اس وقت عذاب سے بچنے کے لیے) اللہ کے سوا کسی اور کو پکارو گے؟ (بتاؤ) اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان کافروں) سے کہو : اگر تم سچے ہو تو ذرا یہ بتاؤ کہ اگر تم پر اللہ کا عذاب آجائے، یا تم پر قیامت ٹوٹ پڑے تو کیا اللہ کے سوا کسی اور کو پکارو گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

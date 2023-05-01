@@ -3224,6 +3224,12 @@ dehati log kufr aur nifaaq mein bahuth hee saqt hai aur un ko aisa hona hee chah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) دیہاتی لوگ سخت کافر اور سخت منافق ہیں اور (اپنے کفر و نفاق کی شدت کے باعث) اسی قابل ہیں کہ وہ ان حدود و احکام سے جاہل رہیں جو اللہ نے اپنے رسول (صلی اللہ علیہ وآلہ وسلم) پر نازل فرمائے ہیں، اور اللہ خوب جاننے والا، بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو دیہاتی (منافق) ہیں، وہ کفر اور منافقت میں زیادہ سخت ہیں، اور دوسروں سے زیادہ اسی لائق ہیں کہ اس دین کے احکام سے ناواقف رہیں جو اللہ نے اپنے رسول پر اتارا ہے۔ اور اللہ علم کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

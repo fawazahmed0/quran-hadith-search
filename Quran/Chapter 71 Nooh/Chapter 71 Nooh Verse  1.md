@@ -3224,6 +3224,12 @@ yaqinan hum ne Nuh(alaihissalaam) ko un ki khaum ki taraf bheja ke apni khaum ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک ہم نے نوح (علیہ السلام) کو ان کی قوم کی طرف بھیجا کہ آپ اپنی قوم کو ڈرائیں قبل اس کے کہ اُنہیں دردناک عذاب آپہنچے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے نوح کو ان کی قوم کے پاس بھیجا کہ اپنی قوم کو خبردار کرو، قبل اس کے کہ ان پر کوئی دردناک عذاب آکھڑا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

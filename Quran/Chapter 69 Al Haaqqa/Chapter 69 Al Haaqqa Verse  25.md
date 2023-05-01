@@ -3224,6 +3224,12 @@ lekin jise us (ke amaal) ki kitaab us ke baaye haath mein di jayegi, wo to kaheg
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ شخص جس کا نامۂ اَعمال اس کے بائیں ہاتھ میں دیا جائے گا تو وہ کہے گا: ہائے کاش! مجھے میرا نامۂ اَعمال نہ دیا گیا ہوتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رہا وہ شخص جس کا اعمال نامہ اس کے بائیں ہاتھ میں دیا جائے گا تو وہ کہے گا کہ : اے کاش ! مجھے میرا اعمال دیا ہی نہ جاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

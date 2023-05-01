@@ -3224,6 +3224,12 @@ aap ka rab sab logo ko jama karega yaqinan wo badi hikmato wala bade ilm wala ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک آپ کا رب ہی تو انہیں (روزِ قیامت) جمع فرمائے گا۔ بیشک وہ بڑی حکمت والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یقین رکھو کہ تمہارا پروردگار ہی ہے جو ان سب کو حشر میں اکٹھا کرے گا، بیشک اس کی حکمت بھی بڑی ہے، اس کا علم بھی بڑا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jab imaan waalo se milte hai to kehte hai ke hum bhi imaan waale hai aur jab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ (منافق) اہل ایمان سے ملتے ہیں تو کہتے ہیں: ہم (بھی) ایمان لے آئے ہیں، اور جب اپنے شیطانوں سے تنہائی میں ملتے ہیں تو کہتے ہیں: ہم یقیناً تمہارے ساتھ ہیں، ہم (مسلمانوں کا تو) محض مذاق اڑاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یہ ان لوگوں سے ملتے ہیں جو ایمان لاچکے ہیں تو کہتے ہیں کہ ہم ایمان لے آئے اور جب یہ اپنے شیطانوں کے پاس تنہائی میں جاتے ہیں تو کہتے ہیں کہ ہم تمہارے ساتھ ہیں ہم تو مذاق کررہے تھے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

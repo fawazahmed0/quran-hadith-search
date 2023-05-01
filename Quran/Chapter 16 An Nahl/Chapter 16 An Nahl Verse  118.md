@@ -3224,6 +3224,12 @@ aur yahodiyo par hum ne jo kuch haraam kiya tha ose hum pehle hee se aap ko suna
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہود پر ہم نے وہی چیزیں حرام کی تھیں جو ہم پہلے آپ سے بیان کر چکے ہیں اور ہم نے ان پر ظلم نہیں کیا تھا لیکن وہ خود اپنی جانوں پر ظلم کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہودیوں کے لیے ہم نے وہ چیزیں حرام کی تھیں جن کا تذکرہ ہم تم سے پہلے ہی کرچکے ہیں۔ اور ہم نے ان پر کوئی ظلم نہیں کیا بلکہ وہ خود اپنی جانوں پر ظلم ڈھاتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye ahle kitaab! tum Ibraheem ki baabath kyo jhagadte ho, halaan ke tauraath aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اہلِ کتاب! تم ابراہیم (علیہ السلام) کے بارے میں کیوں جھگڑتے ہو (یعنی انہیں یہودی یا نصرانی کیوں ٹھہراتے ہو) حالانکہ تورات اور انجیل (جن پر تمہارے دونوں مذہبوں کی بنیاد ہے) تو نازل ہی ان کے بعد کی گئی تھیں، کیا تم (اتنی بھی) عقل نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے اہل کتاب ! تم ابراہیم کے بارے میں کیوں بحث کرتے ہو حالانکہ تورات اور انجیل ان کے بعد ہی تو نازل ہوئی تھیں، کیا تمہیں اتنی بھی سمجھ نہیں ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

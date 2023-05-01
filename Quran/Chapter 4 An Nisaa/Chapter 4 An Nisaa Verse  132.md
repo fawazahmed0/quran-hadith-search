@@ -3224,6 +3224,12 @@ Allah ke eqtiyaar mein hai asmaano ki sab chize aur zameen ki bhi aur Allah kaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اوراللہ ہی کا ہے جو آسمانوں میں ہے اور جو زمین میں ہے، اور اللہ کا کارساز ہونا کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین میں جو کچھ ہے اللہ ہی کا ہے، اور کام بنانے کے لیے اللہ ہی کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

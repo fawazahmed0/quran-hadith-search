@@ -3224,6 +3224,12 @@ jis ka iraada aaqirath ki kheti ka ho, hum ose us ki kheti mein taraqqi denge au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص آخرت کی کھیتی چاہتا ہے ہم اُس کے لئے اُس کی کھیتی میں مزید اضافہ فرما دیتے ہیں اور جو شخص دنیا کی کھیتی کا طالب ہوتا ہے (تو) ہم اُس کو اس میں سے کچھ عطا کر دیتے ہیں، پھر اُس کے لئے آخرت میں کچھ حصہ نہیں رہتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص آخرت کی کھیتی چاہتا ہو، ہم اس کی کھیتی میں اضافہ کریں گے، اور جو شخص (صرف) دنیا کی کھیتی چاہتا ہو، ہم اسے اسی میں سے دے دیں گے، اور آخرت میں اس کا کوئی حصہ نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

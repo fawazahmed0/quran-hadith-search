@@ -3224,6 +3224,12 @@ aur tum zaaheri gunaah ko bhi chohd do aur baatini gunaah ko bhi chohd do, bila 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم ظاہری اور باطنی (یعنی آشکار و پنہاں دونوں قسم کے) گناہ چھوڑ دو۔ بیشک جو لوگ گناہ کما رہے ہیں انہیں عنقریب سزا دی جائے گی ان (اَعمالِ بد) کے باعث جن کا وہ ارتکاب کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم ظاہری اور باطنی دونوں قسم کے گناہ چھوڑ دو ۔ یہ یقینی بات ہے کہ جو لوگ گناہ کماتے ہیں، انہیں ان تمام جرائم کی جلد ہی سزا ملے گی جن کا وہ ارتکاب کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ feraun aur us ke sardaro ki taraf, phir bhi un logo ne feraun ke ehkaam ki pairv
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرعون اور اس کے سرداروں کے پاس، تو (قوم کے) سرداروں نے فرعون کے حکم کی پیروی کی حالانکہ فرعون کا حکم درست نہ تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرعون اور اس کے سرداروں کے پاس بھیجا، تو انہوں نے فرعون ہی کی بات مانی۔ حالانکہ فرعون کی بات کوئی ٹھکانے کی بات نہیں تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

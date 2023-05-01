@@ -3224,6 +3224,12 @@ jab tum safar mein ja rahe ho to tum par namaazo ke qasar karne mein koyi gunaah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تم زمین میں سفر کرو تو تم پر کوئی گناہ نہیں کہ تم نماز میں قصر کرو (یعنی چار رکعت فرض کی جگہ دو پڑھو) اگر تمہیں اندیشہ ہے کہ کافر تمہیں تکلیف میں مبتلا کر دیں گے۔ بیشک کفار تمہارے کھلے دشمن ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم زمین میں سفر کرو اور تمہیں اس بات کا خوف ہو کہ کافر لوگ تمہیں پریشان کریں گے، تو تم پر اس بات میں کوئی گناہ نہیں ہے کہ تم نماز میں قصر کرلو۔ یقینا کفر لوگ تمہارے کھلے دشمن ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

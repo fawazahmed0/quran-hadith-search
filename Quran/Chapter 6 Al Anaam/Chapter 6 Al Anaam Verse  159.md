@@ -3224,6 +3224,12 @@ beshak jin logo ne apne deen ko juda juda kar diya aur gruh gruh ban gaye aap ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جن لوگوں نے (جدا جدا راہیں نکال کر) اپنے دین کو پارہ پارہ کر دیا اور وہ (مختلف) فرقوں میں بٹ گئے، آپ کسی چیز میں ان کے (تعلق دار اور ذمہ دار) نہیں ہیں، بس ان کا معاملہ اللہ ہی کے حوالے ہے پھر وہ انہیں ان کاموں سے آگاہ فرما دے گا جو وہ کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یقین جانو کہ جن لوگوں نے اپنے دین میں تفرقہ پیدا کیا ہے، اور گروہوں میں بٹ گئے ہیں، ان سے تمہارا کوئی تعلق نہیں ہے۔ ان کا معاملہ تو اللہ کے حوالے ہے۔ پھر وہ انہیں جتلائے گا کہ کیا کچھ کرتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

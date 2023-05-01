@@ -3224,6 +3224,12 @@ jo nafees chize un ke liye halaal ki gayi thi wo hum ne un par haraam kardi un k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر یہودیوں کے ظلم ہی کی وجہ سے ہم نے ان پر (کئی) پاکیزہ چیزیں حرام کر دیں جو (پہلے) ان کے لئے حلال کی جاچکی تھیں، اور اس وجہ سے (بھی) کہ وہ (لوگوں کو) اللہ کی راہ سے بکثرت روکتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض یہودیوں کی سنگین زیادتی کی وجہ سے ہم نے ان پر وہ پاکیزہ چیزیں حرام کردیں جو پہلے ان کے لیے حلال کی گئی تھیں۔ اور اس لیے کہ وہ بکثرت لوگوں کو اللہ کے راستے سے روکتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

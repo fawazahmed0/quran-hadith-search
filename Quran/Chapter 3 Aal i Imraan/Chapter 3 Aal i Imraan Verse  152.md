@@ -3224,6 +3224,12 @@ Allah ta’ala ne tum se apna waada saccha kar dikhaaya, jab ke tum us ke hukm s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک اللہ نے تمہیں اپنا وعدہ سچ کر دکھایا جب تم اس کے حکم سے انہیں قتل کر رہے تھے، یہاں تک کہ تم نے بزدلی کی اور (رسول صلی اللہ علیہ وآلہ وسلم کے) حکم کے بارے میں جھگڑنے لگے اور تم نے اس کے بعد (ان کی) نافرمانی کی جب کہ اللہ نے تمہیں وہ (فتح) دکھا دی تھی جو تم چاہتے تھے، تم میں سے کوئی دنیا کا خواہش مند تھا اور تم میں سے کوئی آخرت کا طلب گار تھا، پھر اس نے تمہیں ان سے (مغلوب کر کے) پھیر دیا تاکہ وہ تمہیں آزمائے، (بعد ازاں) اس نے تمہیں معاف کر دیا، اور اللہ اہلِ ایمان پر بڑے فضل والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے یقینا اس وقت اپنا وعدہ پورا کردیا تھا جب تم دشمنوں کو اسی کے حکم سے قتل کر رہے تھے، یہاں تک کہ جب تم نے کمزوری دکھائی اور حکم کے بارے میں باہم اختلاف کیا اور جب اللہ نے تمہاری پسندیدہ چیز تمہیں دکھائی تو تم نے (اپنے امیر کا) کہنا نہیں مانا تم میں سے کچھ لوگ وہ تھے جو دنیا چاہتے تھے، اور کچھ وہ تھے جو آخرت چاہتے تھے۔ پھر اللہ نے ان سے تمہارا رخ پھیر دیا تاکہ تمہیں آزمائے۔ البتہ اب وہ تمہیں معاف کرچکا ہے، اور اللہ مومنوں پر بڑا فضل کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

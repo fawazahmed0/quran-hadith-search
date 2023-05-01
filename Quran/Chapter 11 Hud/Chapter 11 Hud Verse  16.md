@@ -3224,6 +3224,12 @@ haan yahi wo log hai jin ke liye aqirath mein sivae aag ke aur kuch nahi aur jo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں جن کے لئے آخرت میں کچھ (حصہ) نہیں سوائے آتشِ (دوزخ) کے، اور وہ سب (اَعمال اپنے اُخروی اَجر کے حساب سے) اکارت ہوگئے جو انہوں نے دنیا میں انجام دیئے تھے اور وہ (سب کچھ) باطل و بے کار ہوگیا جو وہ کرتے رہے تھے (کیونکہ ان کا حساب پورے اجر کے ساتھ دنیا میں ہی چکا دیا گیا ہے اور آخرت کے لئے کچھ نہیں بچا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جن کے لیے آخرت میں دوزخ کے سوا کچھ نہیں ہے، اور جو کچھ کارگزاری انہوں نے کی تھی، وہ آخرت میں بیکار ہوجائے گی، اور جو عمل وہ کر رہے ہیں، (آخرت کے لحاظ سے) کالعدم ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

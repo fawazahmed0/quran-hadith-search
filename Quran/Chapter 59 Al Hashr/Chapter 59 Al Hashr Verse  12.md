@@ -3224,6 +3224,12 @@ agar wo jila watan kiye gaye, to ye un ke saath na jayenge aur agar un se jang k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر وہ (شر پسند یہود مدینے سے) نکال دیے گئے تو یہ (منافقین) اُن کے ساتھ (کبھی) نہیں نکلیں گے، اور اگر اُن سے جنگ کی گئی تو یہ اُن کی مدد نہیں کریں گے، اور اگر انہوں نے اُن کی مدد کی (بھی) تو ضرور پیٹھ پھیر کر بھاگ جائیں گے، پھر اُن کی مدد (کہیں سے) نہ ہوسکے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ پکی بات ہے کہ اگر ان (اہل کتاب) کو نکالا گیا تو یہ ان کے ساتھ نہیں نکلیں گے۔ اور اگر ان سے جنگ کی گئی تو یہ ان کی مدد نہیں کریں گے، اور اگر بالفرض ان کی مدد کی بھی تو پیٹھ پھیر کر بھاگیں گے، پھر ان کی کوئی مدد نہیں کرے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur kaafiro ne kaha is Qur’aan ko suno hee math (us ke padhe jaane ke waqth) a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ کہتے ہیں: تم اِس قرآن کو مت سنا کرو اور اِس (کی قرات کے اوقات) میں شور و غل مچایا کرو تاکہ تم (اِن کے قرآن پڑھنے پر) غالب رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کافر (ایک دوسرے سے) کہتے ہیں کہ : اس قرآن کو سنو ہی نہیں، اور اس کے بیچ میں غل مچا دیا کرو تاکہ تم ہی غالب رہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

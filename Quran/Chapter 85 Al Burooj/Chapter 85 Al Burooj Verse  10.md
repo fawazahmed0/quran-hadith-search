@@ -3224,6 +3224,12 @@ beshak jin logo ne musalmaan mardo aur aurto ko sataaya aur phir tauba (bhi) na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جن لوگوں نے مومن مردوں اور مومن عورتوں کو اذیت دی پھر توبہ (بھی) نہ کی تو ان کے لئے عذابِ جہنم ہے اور ان کے لئے (بالخصوص) آگ میں جلنے کا عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ جن لوگوں نے مومن مردوں عورتوں کو ظلم کا نشانہ بنایا ہے، پھر توبہ نہیں کی ہے، ان کے لیے جہنم کا عذاب ہے اور ان کو آگ میں جلنے کی سزا دی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

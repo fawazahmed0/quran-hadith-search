@@ -3224,6 +3224,12 @@ us ki is baath se hazrath Sulaiman(alaihissalaam) muskura kar has diye aur dua k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو وہ (یعنی سلیمان علیہ السلام) اس (چیونٹی) کی بات سے ہنسی کے ساتھ مسکرائے اور عرض کیا: اے پروردگار! مجھے اپنی توفیق سے اس بات پر قائم رکھ کہ میں تیری اس نعمت کا شکر بجا لاتا رہوں جو تو نے مجھ پر اور میرے والدین پر انعام فرمائی ہے اور میں ایسے نیک عمل کرتا رہوں جن سے تو راضی ہوتا ہے اور مجھے اپنی رحمت سے اپنے خاص قرب والے نیکوکار بندوں میں داخل فرما لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کی بات پر سلیمان مسکرا کر ہنسے، اور کہنے لگے : میرے پر ورگار ! مجھے اس بات کا پابند بنا دیجیے کہ میں ان نعمتوں کا شکر ادا کروں جو آپ نے مجھے اور میرے والدین کو عطا فرمائی ہیں، اور وہ نیک عمل کروں جو آپ کو پسند ہو، اور اپنی رحمت سے مجھے اپنے نیک بندوں میں شامل فرمالیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jis din sab log zaaher ho jayenge, un ki koyi cheez Allah se poshida na rahegi, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن وہ سب (قبروں سے) نکل پڑیں گے اور ان (کے اعمال) سے کچھ بھی اللہ پر پوشیدہ نہ رہے گا، (ارشاد ہوگا:) آج کس کی بادشاہی ہے؟ (پھر ارشاد ہوگا:) اللہ ہی کی جو یکتا ہے سب پر غالب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن وہ سب کھل کر سامنے آجائیں گے، اللہ سے ان کی کوئی چیز پوشیدہ نہیں ہوگی۔ (کہا جائے گا :) کس کی بادشاہی ہے آج ؟ (جواب ایک ہی ہوگا کہ :) صرف اللہ کی جو واحد وقہار ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

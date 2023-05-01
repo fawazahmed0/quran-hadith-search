@@ -3224,6 +3224,12 @@ aur tum hamaare paas tanha tanha aa gaye jis tarah hum ne awwal baar tum ko paid
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک تم (روزِ قیامت) ہمارے پاس اسی طرح تنہا آؤ گے جیسے ہم نے تمہیں پہلی مرتبہ (تنہا) پیدا کیا تھا اور (اموال و اولاد میں سے) جو کچھ ہم نے تمہیں دے رکھا تھا وہ سب اپنی پیٹھ پیچھے چھوڑ آؤ گے، اور ہم تمہارے ساتھ تمہارے ان سفارشیوں کو نہیں دیکھیں گے جن کی نسبت تم (یہ) گمان کرتے تھے کہ وہ تمہارے (معاملات) میں ہمارے شریک ہیں۔ بیشک (آج) تمہارا باہمی تعلق (و اعتماد) منقطع ہوگیا اور وہ (سب) دعوے جو تم کیا کرتے تھے تم سے جاتے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (پھر قیامت کے دن اللہ تعالیٰ ان سے کہے گا کہ) تم ہمارے پاس اسی طرح تن تنہا آگئے ہو جیسے ہم نے تمہیں پہلی بار پیدا کیا تھا، اور جو کچھ ہم نے تمہیں بخشا تھا وہ سب اپنے پیچھے چھوڑ آئے ہو، اور ہمیں تو تمہارے وہ سفارشی کہیں نظر نہیں آرہے جن کے بارے میں تمہارا دعوی تھا کہ وہ تمہارے معاملات طے کرنے میں (ہمارے ساتھ) شریک ہیں۔ حقیقت یہ ہے کہ ان کے ساتھ تمہارے سارے تعلقات ٹوٹ چکے ہیں اور جن (دیوتاؤں) کے بارے میں تمہیں بڑا زعم تھا وہ سب تم سے گم ہو کر رہ گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

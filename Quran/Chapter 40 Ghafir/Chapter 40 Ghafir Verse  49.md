@@ -3224,6 +3224,12 @@ aur (tamaam) jahannami mil kar jahannam ke darogha se kahenge ke tum hee apne pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آگ میں پڑے ہوئے لوگ دوزخ کے داروغوں سے کہیں گے: اپنے رب سے دعا کرو کہ وہ کسی دن تو ہم سے عذاب ہلکا کر دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ سب جو آگ میں پڑے ہوں گے، دوزخ کے نگرانوں سے کہیں گے کہ : اپنے پروردگار سے دعا کرو کہ وہ کسی دن ہم سے عذاب کو ہلکا کردے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

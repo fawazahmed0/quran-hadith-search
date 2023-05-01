@@ -3224,6 +3224,12 @@ pas jab tu faarigh ho, to ibaadath mein mehnath kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جب آپ (تعلیمِ امت، تبلیغ و جہاد اور ادائیگیِ فرائض سے) فارغ ہوں تو (ذکر و عبادت میں) محنت فرمایا کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا جب تم فارغ ہوجاؤ تو (عبادت میں) اپنے آپ کو تھکاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

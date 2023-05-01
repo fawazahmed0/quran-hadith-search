@@ -3224,6 +3224,12 @@ log aap se sharaab aur joye ka masla pochte hai, aap kehdi jiye ke in duno mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ سے شراب اور جوئے کی نسبت سوال کرتے ہیں، فرما دیں: ان دونوں میں بڑا گناہ ہے اور لوگوں کے لئے کچھ (دنیوی) فائدے بھی ہیں مگر ان دونوں کا گناہ ان کے نفع سے بڑھ کر ہے، اور آپ سے یہ بھی پوچھتے ہیں کہ کیا کچھ خرچ کریں؟ فرما دیں: جو ضرورت سے زائد ہے (خرچ کر دو)، اسی طرح اللہ تمہارے لئے (اپنے) احکام کھول کر بیان فرماتا ہے تاکہ تم غور و فکر کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگ آپ سے شراب اور جوے کے بارے میں پوچھتے ہیں۔ آپ کہہ دیجیے کہ ان دونوں میں بڑا گناہ بھی ہے، اور لوگوں کے لیے کچھ فائدے بھی ہیں، اور ان دونوں کا گناہ ان کے فائدے سے زیادہ بڑھا ہوا ہے۔ اور لوگ آپ سے پوچھتے ہیں کہ وہ (اللہ کی خوشنودی کے لیے) کیا خرچ کریں ؟ آپ کہہ دیجیے کہ “ جو تمہاری ضرورت سے زائد ہو ” اللہ اسی طرح اپنے احکام تمہارے لیے صاف صاف بیان کرتا ہے تاکہ تم غورو فکر سے کام لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

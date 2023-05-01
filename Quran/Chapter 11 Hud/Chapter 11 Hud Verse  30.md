@@ -3224,6 +3224,12 @@ meri qaum ke logo! agar main un momino ko apne paas se nikaal do to Allah ke muq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اے میری قوم! اگر میں ان کو دھتکار دوں تو اللہ (کے غضب) سے (بچانے میں) میری مدد کون کر سکتا ہے، کیا تم غور نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے میری قوم ! اگر میں ان لوگوں کو دھتکاردوں تو کون مجھے اللہ (کی پکڑ) سے بچائے گا ؟ کیا تم پھر بھی دھیان نہیں دو گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

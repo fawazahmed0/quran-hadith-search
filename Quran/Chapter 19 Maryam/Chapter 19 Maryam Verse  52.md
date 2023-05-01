@@ -3224,6 +3224,12 @@ hum ne ose toor ki daayi jaanib se nida ki aur raaz goyi karte hoye ose qareeb k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے انہیں (کوہِ) طور کی داہنی جانب سے ندا دی اور راز و نیاز کی باتیں کرنے کے لئے ہم نے انہیں قربتِ (خاص) سے نوازا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے انہیں کوہ طور کی دائیں جانب سے پکارا اور انہیں اپنا راز دار بنا کر اپنا قرب عطا کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jab ke tum ose apni zabaano se naql dar naql karne lage aur apne mu se wo baath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب تم اس (بات) کو (ایک دوسرے سے سن کر) اپنی زبانوں پر لاتے رہے اور اپنے منہ سے وہ کچھ کہتے رہے جس کا (خود) تمہیں کوئی علم ہی نہ تھا اور اس (چرچے) کو معمولی بات خیال کر رہے تھے، حالانکہ وہ اللہ کے حضور بہت بڑی (جسارت ہو رہی) تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب تم اپنی زبانوں سے اس بات کو ایک دوسرے سے نقل کر رہے تھے اور اپنے منہ سے وہ بات کہہ رہے تھے جس کا تمہیں کوئی علم نہیں تھا، اور تم اس بات کو معمولی سمجھ رہے تھے، حالانکہ اللہ کے نزدیک وہ بڑی سنگین بات تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

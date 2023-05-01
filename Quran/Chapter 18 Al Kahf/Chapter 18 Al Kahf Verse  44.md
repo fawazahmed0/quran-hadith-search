@@ -3224,6 +3224,12 @@ yahi se (saabith hai) ke eqtiyaraath Allah bar-haq ke liye hai, wo sawaab dene a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں (پتہ چلتا ہے) کہ سب اختیار اللہ ہی کا ہے (جو) حق ہے، وہی بہتر ہے انعام دینے میں اور وہی بہتر ہے انجام کرنے میں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے موقع پر (آدمی کو پتہ چلتا ہے کہ) مدد کا سارا اختیار سچے اللہ کو حاصل ہے۔ وہی ہے جو بہتر ثواب دیتا اور بہتر انجام دکھاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

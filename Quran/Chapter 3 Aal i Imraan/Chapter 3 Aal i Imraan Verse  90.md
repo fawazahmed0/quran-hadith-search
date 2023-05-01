@@ -3224,6 +3224,12 @@ be-shak jo log apne imaan laane ke baadh kufr kare, phir kufr mein bad jaaye, un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جن لوگوں نے اپنے ایمان کے بعد کفر کیا پھر وہ کفر میں بڑھتے گئے ان کی توبہ ہرگز قبول نہیں کی جائے گے، اور وہی لوگ گمراہ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس کے برخلاف) جن لوگوں نے ایمان لانے کے بعد کفر اختیار کیا، پھر کفر میں بڑھتے ہی چلے گئے، ان کی توبہ ہرگز قبول نہ ہوگی۔ ایسے لوگ راستے سے بالکل ہی بھٹک چکے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

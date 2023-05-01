@@ -3224,6 +3224,12 @@ mahez tumhe khush karne ke liye tumhare samne Allah ki qasme kha jate hai,halan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مسلمانو! (یہ منافقین) تمہارے سامنے اللہ کی قَسمیں کھاتے ہیں تاکہ تمہیں راضی رکھیں حالانکہ اللہ اور اس کا رسول (صلی اللہ علیہ وآلہ وسلم) زیادہ حقدار ہے کہ وہ اسے راضی کریں اگر یہ لوگ ایمان والے ہوتے (تو یہ حقیقت جان لیتے اور رسول صلی اللہ علیہ وآلہ وسلم کو راضی کرتے، رسول صلی اللہ علیہ وآلہ وسلم کے راضی ہونے سے ہی اللہ راضی ہو جاتا ہے کیونکہ دونوں کی رضا ایک ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) یہ لوگ تمہارے سامنے اللہ کی قسمیں اس لیے کھاتے ہیں تاکہ تمہیں راضی کریں، حالانکہ اگر یہ واقعی مومن ہوں تو اللہ اور اس کے رسول اس بات کے زیادہ مستحق ہیں کہ یہ ان کو راضی کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

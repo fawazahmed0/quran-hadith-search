@@ -3224,6 +3224,12 @@ un logo ko jo bade gunaaho se bachte hai aur be hayaayi se bhi, sivaaye kisi cho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ چھوٹے گناہوں (اور لغزشوں) کے سوا بڑے گناہوں اور بے حیائی کے کاموں سے پرہیز کرتے ہیں، بیشک آپ کا رب بخشش کی بڑی گنجائش رکھنے والا ہے، وہ تمہیں خوب جانتا ہے جب اس نے تمہاری زندگی کی ابتداء اور نشو و نما زمین (یعنی مٹی) سے کی تھی اور جبکہ تم اپنی ماؤں کے پیٹ میں جَنیِن (یعنی حمل) کی صورت میں تھے، پس تم اپنے آپ کو بڑا پاک و صاف مَت جتایا کرو، وہ خوب جانتا ہے کہ (اصل) پرہیزگار کون ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان لوگوں کو جو بڑے بڑے گناہوں اور بےحیائی کے کاموں سے بچتے ہیں، البتہ کبھی کبھار پھسل جانے کی بات اور ہے۔ یقین رکھو تمہارا پروردگار بہت وسیع مغفرت والا ہے، وہ تمہیں خوب جانتا ہے جب اس نے تمہیں زمین سے پیدا کیا، اور جب تم اپنی ماؤں کے پیٹ میں بچے تھے، لہذا تم اپنے آپ کو پاکیزہ نہ ٹھہراؤ، وہ خوب جانتا ہے کہ کون متقی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

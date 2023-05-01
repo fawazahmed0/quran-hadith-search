@@ -3224,6 +3224,12 @@ kya un ke paao hai jin se wo chalte ho, ya un ke haath hai jin se wo kisi cheez 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان کے پاس پاؤں ہیں جن سے وہ چلیں ؟ یا ان کے پاس ہاتھ ہیں جن سے وہ پکڑیں ؟ یا ان کے پاس آنکھیں ہیں جن سے وہ دیکھیں ؟ یا ان کے پاس کان ہیں جن سے وہ سنیں ؟ (ان سے کہہ دو کہ) تم ان سب دیوتاؤں کو بلا لاؤ جنہیں تم نے اللہ کا شریک بنا رکھا ہے، پھر میرے خلاف کوئی سازش کرو، اور مجھے ذرا بھی مہلت نہ دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

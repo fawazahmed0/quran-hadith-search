@@ -3224,6 +3224,12 @@ aur isi tarah bahuth se mushrikeen ke qayaal mein un ke mabudo ne un ki aulaad k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح بہت سے مشرکوں کے لئے ان کے شریکوں نے اپنی اولاد کو مار ڈالنا (ان کی نگاہ میں) خوش نما کر دکھایا ہے تاکہ وہ انہیں برباد کر ڈالیں اور ان کے (بچے کھچے) دین کو (بھی) ان پر مشتبہ کر دیں، اور اگر اللہ (انہیں جبراً روکنا) چاہتا تو وہ ایسا نہ کر پاتے پس آپ انہیں اور جو افترا پردازی وہ کر رہے ہیں (اسے نظرانداز کرتے ہوئے) چھوڑ دیجئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی طرح بہت سے مشرکین کو ان کے شریکوں نے سجھا رکھا ہے کہ اپنی اولاد کو قتل کرنا بڑا چھا کام ہے، تاکہ وہ ان (مشرکین) کو بالکل تباہ کر ڈالیں، اور ان کے لیے ان کے دین کے معاملے میں مغالطے پیدا کردیں۔ اور اگر اللہ چاہتا تو وہ ایسا نہ کرسکتے۔ لہذا ان کو اپنی افترا پردازیوں میں پڑا رہنے دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

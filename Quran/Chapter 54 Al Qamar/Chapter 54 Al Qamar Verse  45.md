@@ -3224,6 +3224,12 @@ an-qareeb ye jamaath shikisth di jayegi aur peet de kar bhaagegi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عنقریب یہ جتّھہ (میدانِ بدر میں) شکست کھائے گا اور یہ لوگ پیٹھ پھیر کر بھاگ جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (حقیقت تو یہ ہے کہ) اس جمیعت کو عنقریب شکست ہوجائے گی، اور یہ سب پیٹھ پھیر کر بھاگیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

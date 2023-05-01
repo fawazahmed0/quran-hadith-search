@@ -3224,6 +3224,12 @@ Mosa (alaihisslaam)kehne lahe il ahi! mujhe tuh bajuz apne aur mere bhai ke kisi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) عرض کیا: اے میرے رب! میں اپنی ذات اور اپنے بھائی (ہارون علیہ السلام) کے سوا (کسی پر) اختیار نہیں رکھتا پس تو ہمارے اور (اس) نافرمان قوم کے درمیان (اپنے حکم سے) جدائی فرما دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : اے میرے پروردگار سوائے میری اپنی جان کے اور میرے بھائی کے کوئی میرے قابو میں نہیں ہے۔ اب آپ ہمارے اور ان نافرمان لوگوں کے درمیان الگ الگ فیصلہ کردیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

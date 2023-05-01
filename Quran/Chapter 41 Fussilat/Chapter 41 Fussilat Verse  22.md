@@ -3224,6 +3224,12 @@ aur tum (apni badh amaaliya) is wajeh se poshida rakhte hee na thein ke tum par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم تو (گناہ کرتے وقت) اس (خوف) سے بھی پردہ نہیں کرتے تھے کہ تمہارے کان تمہارے خلاف گواہی دے دیں گے اور نہ (یہ کہ) تمہاری آنکھیں اور نہ (یہ کہ) تمہاری کھالیں (ہی گواہی دے دیں گی) لیکن تم گمان کرتے تھے کہ اللہ تمہارے بہت سے کاموں کو جو تم کرتے ہو جانتا ہی نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم (گناہ کرتے وقت) اس بات سے تو چھپ ہی نہیں سکتے تھے کہ تمہارے کان، تمہاری آنکھیں اور تمہاری کھالیں تمہارے خلاف گواہی دیں لیکن تمہارا گمان یہ تھا کہ اللہ کو تمہارے بہت سے اعمال کا علم نہیں ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

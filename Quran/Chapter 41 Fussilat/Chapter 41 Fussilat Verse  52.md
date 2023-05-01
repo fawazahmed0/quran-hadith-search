@@ -3224,6 +3224,12 @@ aap keh dijiye ke bhala ye to bataao ke agar ye Qur’aan Allah ki taraf se ayaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: بھلا تم بتاؤ اگر یہ (قرآن) اللہ ہی کی طرف سے (اُترا) ہو پھر تم اِس کا انکار کرتے رہو تو اُس شخص سے بڑھ کر گمراہ کون ہوگا جو پرلے درجہ کی مخالفت میں (پڑا) ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ان کافروں سے) کہو کہ : ذرا مجھے بتاؤ کہ اگر یہ (قرآن) اللہ کی طرف سے آیا ہے، پھر بھی تم نے اس کا انکار کیا تو اس شخص سے زیادہ گمراہ کون ہوگا جو (اس کی) مخالفت میں بہت دور نکل گیا ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

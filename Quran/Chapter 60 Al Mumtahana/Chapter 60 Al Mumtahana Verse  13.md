@@ -3224,6 +3224,12 @@ aye musalmaano! tum us khaum se dosti na rakho jin par Allah ka ghazab naazil ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! ایسے لوگوں سے دوستی مت رکھو جن پر اللہ غضبناک ہوا ہے بیشک وہ آخرت سے (اس طرح) مایوس ہو چکے ہیں جیسے کفار اہلِ قبور سے مایوس ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! ان لوگوں کو دوست نہ بناؤ جن پر اللہ نے غضب فرمایا ہے۔ وہ آخرت سے اسی طرح مایوس ہوچکے ہیں جیسے کافر لوگ قبروں میں مدفون لوگوں سے مایوس ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

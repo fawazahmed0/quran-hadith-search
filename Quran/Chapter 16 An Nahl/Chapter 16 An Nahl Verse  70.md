@@ -3224,6 +3224,12 @@ Allah ta’ala ne hee tum sub ko paida kiya hai, wahi phir tumhe fauth karega, t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے تمہیں پیدا فرمایا ہے پھر وہ تمہیں وفات دیتا (یعنی تمہاری روح قبض کرتا) ہے۔ اور تم میں سے کسی کو ناقص ترین عمر (بڑھاپا) کی طرف پھیر دیا جاتا ہے تاکہ (زندگی میں بہت کچھ) جان لینے کے بعد اب کچھ بھی نہ جانے (یعنی انسان مرنے سے پہلے اپنی بے بسی و کم مائیگی کا منظر بھی دیکھ لے)، بیشک اللہ خوب جاننے والا بڑی قدرت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے تمہیں پیدا کیا ہے پھر وہ تمہاری روح قبض کرتا ہے، اور تم میں سے کوئی ایسا ہوتا ہے جو عمر کے سب سے ناکارہ حصے تک پہنچا دیا جاتا ہے، جس میں پہنچ کر وہ سب کچھ جاننے کے بعد بھی کچھ نہیں جانتا۔ بیشک اللہ بڑے علم والا، بڑی قدرت والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

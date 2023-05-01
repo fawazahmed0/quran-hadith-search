@@ -3224,6 +3224,12 @@ aur unhone kaha ke hamaare maboodh ache hai ya wo? tujh se un ka ye kehna mahaz 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کہتے ہیں: آیا ہمارے معبود بہتر ہیں یا وہ (عیسٰی علیہ السلام)، وہ آپ سے یہ بات محض جھگڑنے کے لئے کرتے ہیں، بلکہ وہ لوگ بڑے جھگڑالو ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہنے لگے کہ : ہمارے معبودبہتر ہیں یا وہ ؟ انہوں نے تمہارے سامنے یہ مثال محض کٹ حجتی کے لیے دی ہے، بلکہ یہ لوگ ہیں ہی جھگڑالو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

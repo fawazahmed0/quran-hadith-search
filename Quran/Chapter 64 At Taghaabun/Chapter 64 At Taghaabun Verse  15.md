@@ -3224,6 +3224,12 @@ tumhaare maal aur aulaad to saraa-sar tumhaari azmaayesh hai aur bahuth bada ajr
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہارے مال اور تمہاری اولاد محض آزمائش ہی ہیں، اور اللہ کی بارگاہ میں بہت بڑا اجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہارے مال اور تمہاری اولاد تو تمہارے لیے ایک آزمائش ہیں۔ اور وہ اللہ ہی ہے جس کے پاس بڑا اجر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas, ab us ke yaqeen se tujhe koyi aisa shaqs rok na de, jo us par imaan na rakh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تمہیں وہ شخص اس (کے دھیان) سے روکے نہ رکھے جو (خود) اس پر ایمان نہیں رکھتا اور اپنی خواہشِ (نفس) کا پیرو ہے ورنہ تم (بھی) ہلاک ہوجاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا کوئی شخص تمہیں اس سے ہرگز غافل نہ کرنے پائے جو اس پر ایمان نہ رکھتا ہو، اور اپنی خواہشات کے پیچھے چلتا ہو، ورنہ تم ہلاکت میں پڑجاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

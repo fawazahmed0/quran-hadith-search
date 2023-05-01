@@ -3224,6 +3224,12 @@ lekin apni kartuto ko dekhte hoye kabi bhi mauth nahi mangenge, Allah ta’ala z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ ہرگز کبھی بھی اس کی آرزو نہیں کریں گے ان گناہوں (اور مَظالِم) کے باعث جو ان کے ہاتھ آگے بھیج چکے ہیں (یا پہلے کر چکے ہیں) اور اللہ ظالموں کو خوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ہم بتائے دیتے ہیں کہ) انہوں نے اپنے جو کرتوت آگے بھیج رکھے ہیں، ان کی وجہ سے یہ کبھی ایسی تمنا نہیں کریں گے۔ اللہ ظالموں کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

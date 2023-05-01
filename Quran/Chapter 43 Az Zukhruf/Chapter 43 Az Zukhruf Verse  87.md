@@ -3224,6 +3224,12 @@ agar aap un se daryaaft kare ke unhe kis ne paida kiya hai? to yaqinan ye jawaab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ اِن سے دریافت فرمائیں کہ انہیں کس نے پیدا کیا ہے تو ضرور کہیں گے: اللہ نے، پھر وہ کہاں بھٹکتے پھرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم ان لوگوں سے پوچھو کہ ان کو کس نے پیدا کیا ہے تو وہ ضرور یہی کہیں گے کہ اللہ نے۔ اس کے باوجود کوئی انہیں کہاں سے اوندھا چلا دیتا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

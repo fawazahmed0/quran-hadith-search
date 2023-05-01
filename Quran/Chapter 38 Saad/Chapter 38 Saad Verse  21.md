@@ -3224,6 +3224,12 @@ aur kya tujhe jhagda karne waalo ki (bhi) qabar mili? jab ke wo diwaar phaandh2 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا آپ کے پاس جھگڑنے والوں کی خبر پہنچی؟ جب وہ دیوار پھاند کر (داؤد علیہ السلام کی) عبادت گاہ میں داخل ہو گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا تمہیں ان مقدمہ والوں کی خبر پہنچی ہے جب وہ دیوار پر چڑھ کر عبادت گاہ میں گھس آئے تھے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

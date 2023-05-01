@@ -3224,6 +3224,12 @@ aur us cheez ki aarzo na karo jis ke baayes Allah ta’ala ne tum mein se baaz k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اس چیز کی تمنا نہ کیا کرو جس میں اللہ نے تم میں سے بعض کو بعض پر فضیلت دی ہے، مردوں کے لئے اس میں سے حصہ ہے جو انہوں نے کمایا، اور عورتوں کے لئے اس میں سے حصہ ہے جو انہوں نے کمایا، اور اللہ سے اس کا فضل مانگا کرو، بیشک اللہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن چیزوں میں ہم نے تم کو ایک دوسرے پر فوقیت دی ہے، ان کی تمنا نہ کرو، مرد جو کچھ کمائی کریں گے ان کو اس میں سے حصہ ملے گا، اور عورتیں جو کچھ کمائی کریں گی ان ان کو اس میں سے حصہ ملے گا۔ اور اللہ سے اس کا فضل مانگا کرو، بیشک اللہ ہر چیز کو خوب جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

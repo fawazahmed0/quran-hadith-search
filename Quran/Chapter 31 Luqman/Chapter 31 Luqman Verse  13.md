@@ -3224,6 +3224,12 @@ aur jab ke luqmaan ne waaz kehte hoye apne ladke se farmaya ke mere pyaare bacch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کیجئے) جب لقمان نے اپنے بیٹے سے کہا اور وہ اسے نصیحت کر رہا تھا: اے میرے فرزند! اللہ کے ساتھ شرک نہ کرنا، بیشک شِرک بہت بڑا ظلم ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب لقمان نے اپنے بیٹے کو نصیحت کرتے ہوئے کہا تھا کہ : میرے بیٹے ! اللہ کے ساتھ شرک نہ کرنا، یقین جانو شرک بڑا بھاری ظلم ہے،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

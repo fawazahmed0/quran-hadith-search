@@ -3224,6 +3224,12 @@ jo log ghayb par imaan laate hai aur namaaz ko qayem rakhte hai aur hamaare diye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو غیب پر ایمان لاتے اور نماز کو (تمام حقوق کے ساتھ) قائم کرتے ہیں اور جو کچھ ہم نے انہیں عطا کیا ہے اس میں سے (ہماری راہ) میں خرچ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو بےدیکھی چیزوں پر ایمان لاتے ہیں اور نماز قائم کرتے ہیں اور جو کچھ ہم نے انہیں دیا اس میں سے (اللہ کی خوشنودی کے کاموں میں) خرچ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

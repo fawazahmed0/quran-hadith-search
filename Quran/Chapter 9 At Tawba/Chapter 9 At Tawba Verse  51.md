@@ -3224,6 +3224,12 @@ keh dijiye hamein koi gazand8 pounch nahi sakti magar jo Allah ne hamari qismath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) آپ فرما دیجئے کہ ہمیں ہرگز (کچھ) نہیں پہنچے گا مگر وہی کچھ جو اللہ نے ہمارے لئے لکھ دیا ہے، وہی ہمارا کارساز ہے اور اللہ ہی پر ایمان والوں کو بھروسہ کرنا چاہیے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اللہ نے ہمارے مقدر میں جو تکلیف لکھ دی ہے ہمیں اس کے سوا کوئی اور تکلیف ہرگز نہیں پہنچ سکتی۔ وہ ہمارا رکھوالا ہے، اور اللہ ہی پر مومنوں کو بھروسہ رکھنا چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne un par ek qaas qism ka meh barsaaya, pas bahuth hee bura meh tha, jo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان پر (پتھروں کی) بارش برسائی سو ڈرائے ہوئے لوگوں کی بارش کتنی تباہ کن تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان پر ایک زبردست بارش برسا دی۔ غرض بہت بری بارش تھی جو ان پر برسی جنہیں پہلے سے ڈرا دیا گیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

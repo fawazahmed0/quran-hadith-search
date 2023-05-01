@@ -3224,6 +3224,12 @@ tum mein se har ek wahaan zaroor waarid hone waala hain, ye tere parvardigaar ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم میں سے کوئی شخص نہیں ہے مگر اس کا اس (دوزخ) پر سے گزر ہونے والا ہے، یہ (وعدہ) قطعی طور پر آپ کے رب کے ذمہ ہے جو ضرور پورا ہوکر رہے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم میں سے کوئی نہیں ہے جس کا اس (دوزخ) پر گزر نہ ہو۔ اس بات کا تمہارے پروردگار نے حتمی طور پر ذمہ لے رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

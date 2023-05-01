@@ -3224,6 +3224,12 @@ aye mere paalne waale! mujhe namaaz ka paaband rakh aur meri aulaad se bhi, aye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے رب! مجھے اور میری اولاد کو نماز قائم رکھنے والا بنا دے، اے ہمارے رب! اور تو میری دعا قبول فرما لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا رب ! مجھے بھی نماز قائم کرنے والا بنا دیجیے اور میری اولاد میں سے بھی (ایسے لوگ پیدا فرمایے جو نماز قائم کریں) اے ہمارے پروردگار ! اور میری دعا قبول فرمالیجیے ،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya aap ne nahi dekha ke shaayar ek ek biya baan3 mein sar takraate phirte hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تو نے نہیں دیکھا کہ وہ (شعراء) ہر وادئ (خیال) میں (یونہی) سرگرداں پھرتے رہتے ہیں (انہیں حق میں سچی دلچسپی اور سنجیدگی نہیں ہوتی بلکہ فقط لفظی و فکری جولانیوں میں مست اور خوش رہتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ وہ ہر وادی میں بھٹکتے پھرتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ unhone kaha ke aye Nuh(alaihissalaam) agar tu baaz na aya, to yaqinan tujhe sang
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: اے نوح! اگر تم (ان باتوں سے) باز نہ آئے تو تمہیں یقیناً سنگ سار کر دیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہنے لگے : اے نوح اگر تم باز نہ آئے تو تمہیں پتھر مار مار کر ہلاک کردیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

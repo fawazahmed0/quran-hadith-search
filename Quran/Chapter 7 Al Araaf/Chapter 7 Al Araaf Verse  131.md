@@ -3224,6 +3224,12 @@ so jab un par khush haali aa jaati to kehte ke ye to hamaare liye hona hee chaah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مگر) نتیجہ یہ ہوا کہ اگر ان پر خوش حالی آتی تو وہ کہتے : یہ تو ہمارا حق تھا، اور اگر ان پر کوئی مصیبت پڑجاتی تو اس کو موسیٰ اور ان کے ساتھیوں کی نحوست قرار دیتے۔ ارے (یہ تو) خود ان کی نحوست (تھی جو) اللہ کے علم میں تھی، لیکن ان میں سے اکثر لوگ جانتے نہیں تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

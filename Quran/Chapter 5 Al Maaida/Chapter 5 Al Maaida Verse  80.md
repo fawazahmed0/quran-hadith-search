@@ -3224,6 +3224,12 @@ un mein se bahuth se logo ko aap dekhenge ke wo kaafiro se dostiya karte hai, jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ ان میں سے اکثر لوگوں کو دیکھیں گے کہ وہ کافروں سے دوستی رکھتے ہیں۔ کیا ہی بری چیز ہے جو انہوں نے اپنے (حسابِ آخرت) کے لئے آگے بھیج رکھی ہے (اور وہ) یہ کہ اللہ ان پر (سخت) ناراض ہوگیا، اور وہ لوگ ہمیشہ عذاب ہی میں (گرفتار) رہنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم ان میں سے بہت سوں کو دیکھتے ہو کہ انہوں نے (بت پرست) کافروں کو اپنا دوست بنایا ہوا ہے یقینا جو کچھ انہوں نے اپنے حق میں اپنے آگے بھیج رکھا ہے وہ بہت برا ہے، کیونکہ (ان کی وجہ سے) اللہ ان سے ناراض ہوگیا ہے، اور وہ ہمیشہ عذاب میں رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

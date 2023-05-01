@@ -3224,6 +3224,12 @@ aur apne taqt par apne maa baap ko ooncha bhitaya aur sub us ke saamne sajde mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یوسف (علیہ السلام) نے اپنے والدین کو اوپر تخت پر بٹھا لیا اور وہ (سب) یوسف (علیہ السلام) کے لئے سجدہ میں گر پڑے، اور یوسف (علیہ السلام) نے کہا: اے ابا جان! یہ میرے (اس) خواب کی تعبیر ہے جو (بہت) پہلے آیا تھا (اکثر مفسرین کے نزدیک اسے چالیس سال کا عرصہ گزر گیا تھا) اور بیشک میرے رب نے اسے سچ کر دکھایا ہے، اور بیشک اس نے مجھ پر (بڑا) احسان فرمایا جب مجھے جیل سے نکالا اور آپ سب کو صحرا سے (یہاں) لے آیا اس کے بعد کہ شیطان نے میرے اور میرے بھائیوں کے درمیان فساد پیدا کر دیا تھا، اور بیشک میرا رب جس چیز کو چاہے (اپنی) تدبیر سے آسان فرما دے، بیشک وہی خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے اپنے والدین کو تخت پر بٹھایا، اور وہ سب ان کے سامنے سجدے میں گرپڑے، اور یوسف نے کہا : ابا جان ! یہ میرے پرانے خواب کی تعبیر ہے جسے میرے پروردگار نے سچ کر دکھایا، اور اس نے مجھ پر بڑا احسان فرمایا کہ مجھے قید خانے سے نکال دیا، اور آپ لوگوں کو دیہات سے یہاں لے آیا۔ حالانکہ اس سے پہلے شیطان نے میرے اور میرے بھائیوں کے درمیان فساد ڈال دیا تھا، حقیقت یہ ہے کہ میرا پروردگار جو کچھ چاہتا ہے، اس کے لیے بڑی لطیف تدبیریں کرتا ہے۔ بیشک وہی ہے جس کا علم بھی کامل ہے، حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

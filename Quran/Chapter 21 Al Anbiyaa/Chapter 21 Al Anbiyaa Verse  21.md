@@ -3224,6 +3224,12 @@ kya un logo ne zameen (ki maqluqaath mein) se jinhe maboodh bana rakha hai, wo z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ان (کافروں) نے زمین (کی چیزوں) میں سے ایسے معبود بنا لئے ہیں جو (مُردوں کو) زندہ کر کے اٹھا سکتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان لوگوں نے زمین میں سے ایسے خدا بنا رکھے ہیں جو نئی زندگی دیتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ keh dijiye! ke jis mauth se tum bhaagte phirte ho, wo to tumhe pahonch kar raheg
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: جس موت سے تم بھاگتے ہو وہ ضرور تمہیں ملنے والی ہے پھر تم ہر پوشیدہ و ظاہر چیز کو جاننے والے (رب) کی طرف لوٹائے جاؤ گے، سو وہ تمہیں آگاہ کر دے گا جو کچھ تم کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : جس موت سے تم بھاگتے ہو وہ تم سے آملنے والی ہے، پھر تمہیں اس (اللہ) کی طرف لوٹایا جائے گا جسے تمام پوشیدہ اور کھلی ہوئی باتوں کا پورا علم ہے، پھر وہ تمہیں بتائے گا کہ تم کیا کچھ کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

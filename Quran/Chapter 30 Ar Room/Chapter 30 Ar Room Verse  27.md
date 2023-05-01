@@ -3224,6 +3224,12 @@ wahi hai jo awwal baar maqlooq ko paida karta hai, phir se dubara paida karega a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جو پہلی بار تخلیق کرتا ہے پھر اس کا اِعادہ فرمائے گا اور یہ (دوبارہ پیدا کرنا) اُس پر بہت آسان ہے۔ اور آسمانوں اور زمین میں سب سے اونچی شان اسی کی ہے، اور وہ غالب ہے حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جو مخلوق کی ابتدا کرتا ہے، پھر اسے دوبارہ پیدا کرے گا، اور یہ کام اس کے لیے بہت آسان ہے۔ اور اسی کی سب سے اونچی شان ہے، آسمانوں میں بھی اور زمین میں بھی، اور وہی ہے جو اقتدار والا بھی ہے، حکمت والا بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

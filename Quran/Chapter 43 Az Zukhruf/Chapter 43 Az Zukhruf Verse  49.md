@@ -3224,6 +3224,12 @@ aur unhone kaha aye jaadugar! hamaare liye apne rab se us ki dua kar, jis ka us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کہنے لگے: اے جادوگر! تو اپنے رب سے ہمارے لئے اُس عہد کے مطابق دعا کر جو اُس نے تجھ سے کر رکھا ہے (تو) بیشک ہم ہدایت یافتہ ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ یہ کہنے لگے کہ : اے جادوگر ! تم سے تمہارے پروردگار نے جو عہد کر رکھا ہے اس کا واسطہ دے کر اس سے ہمارے لیے دعا کرو، ہم یقینا راہ راست پر آجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya aap ne ose bhi dekha jo apni qaahish nafs ko apna maboodh banaaye hoye hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے اس شخص کو دیکھا ہے جس نے اپنی خواہشِ نفس کو اپنا معبود بنا لیا ہے؟ تو کیا آپ اس پر نگہبان بنیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا بتاؤ جس شخص نے اپنا خدا اپنی نفسانی خواہش کو بنا لیا ہو، تو (اے پیغمبر) کیا تم اس کی ذمہ داری لے سکتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

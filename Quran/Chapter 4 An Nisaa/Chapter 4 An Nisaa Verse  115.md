@@ -3224,6 +3224,12 @@ jo shaqs ba-wajoodh raah hidaayath ke waazeh ho jaane ke bhi rasool (sallallahua
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص رسول (صلی اللہ علیہ وآلہ وسلم) کی مخالفت کرے اس کے بعد کہ اس پر ہدایت کی راہ واضح ہو چکی اور مسلمانوں کی راہ سے جدا راہ کی پیروی کرے تو ہم اسے اسی (گمراہی) کی طرف پھیرے رکھیں گے جدھر وہ (خود) پھر گیا ہے اور (بالآخر) اسے دوزخ میں ڈالیں گے، اور وہ بہت ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص اپنے سامنے ہدایت واضح ہونے کے بعد بھی رسول کی مخالفت کرے، اور مومنوں کے راستے کے سوا کسی اور راستے کی پیروی کرے، اس کو ہم اسی راہ کے حوالے کردیں گے جو اس نے خود اپنائی ہے، اور اسے دوزخ میں جھونکیں گے، اور وہ بہت برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

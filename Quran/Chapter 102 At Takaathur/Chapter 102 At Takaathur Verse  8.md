@@ -3224,6 +3224,12 @@ phir us din tum se zaroor biz-zaroor nemato ka sawaal hoga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اس دن تم سے (اللہ کی) نعمتوں کے بارے میں ضرور پوچھا جائے گا (کہ تم نے انہیں کہاں کہاں اور کیسے کیسے خرچ کیا تھا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر تم سے اس دن نعمتوں کے بارے میں پوچھا جائے گا (کہ ان کا کیا حق ادا کیا)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

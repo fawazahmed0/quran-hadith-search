@@ -3224,6 +3224,12 @@ ahle kitaab ki ek jamaath chahti hai ke tumhe gumraah karde, dar asl wo khud apn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) اہلِ کتاب میں سے ایک گروہ تو (شدید) خواہش رکھتا ہے کہ کاش وہ تمہیں گمراہ کر سکیں، مگر وہ فقط اپنے آپ ہی کو گمراہی میں مبتلا کئے ہوئے ہیں اور انہیں (اس بات کا) شعور نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) اہل کتاب کا ایک گروہ یہ چاہتا ہے کہ تم لوگوں کو گمراہ کردے، حالانکہ وہ اپنے سوا کسی اور کو گمراہ نہیں کر رہے، اگرچہ انہیں اس کا احساس نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ keh di jiye ke agar Allah ke saath aur maboodh bhi hote jaise ke ye log kehte ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اگر اس کے ساتھ کچھ اور بھی معبود ہوتے جیسا کہ وہ (کفار و مشرکین) کہتے ہیں تو وہ (مل کر) مالکِ عرش تک پہنچنے (یعنی اس کے نظامِ اقتدار میں دخل اندازی کرنے) کا کوئی راستہ ضرور تلاش کرلیتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اگر اللہ کے ساتھ اور بھی خدا ہوتے جیسے کہ یہ لوگ کہتے ہیں تو وہ عرش والے (حقیقی خدا) پر چڑھائی کرنے کے لیے کوئی راستہ پیدا کرلیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas ose Allah ta’ala ne tamaam badhiyo se mehfooz rakh liya, jo unhone soonch 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اللہ نے اُسے اُن لوگوں کی برائیوں سے بچا لیا جن کی وہ تدبیر کر رہے تھے اور آلِ فرعون کو بُرے عذاب نے گھیر لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نتیجہ یہ ہوا کہ ان لوگوں نے جو برے برے منصوبے بنا رکھے تھے، اللہ نے اس (مرد مومن) کو ان سب سے محفوظ رکھا اور فرعون کے لوگوں کو بد ترین عذاب نے آگھیرا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

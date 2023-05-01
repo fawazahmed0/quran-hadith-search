@@ -3224,6 +3224,12 @@ logo! apne parvardigaar se daro! bila shuba qayaamath ka zal-zala bahuth hee bad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! اپنے رب سے ڈرتے رہو۔ بیشک قیامت کا زلزلہ بڑی سخت چیز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! اپنے پروردگار (کے غضب) سے ڈرو۔ یقین جانو کہ قیامت کا بھونچال بڑی زبردست چیز ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

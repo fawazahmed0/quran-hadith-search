@@ -3224,6 +3224,12 @@ beshak (aye Nabi(sallallahu alaihi wasallam) hum ne aap ko ek khullam khulla fat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرم!) بیشک ہم نے آپ کے لئے (اسلام کی) روشن فتح (اور غلبہ) کا فیصلہ فرما دیا (اس لئے کہ آپ کی عظیم جدّ و جہد کامیابی کے ساتھ مکمل ہوجائے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے پیغمبر ! یقین جانو ہم نے تمہیں کھلی ہوئی فتح عطا کردی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

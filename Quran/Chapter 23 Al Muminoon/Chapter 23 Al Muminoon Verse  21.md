@@ -3224,6 +3224,12 @@ tumhaare liye chau paayo mein bhi badi bhaari ibrath hai, un ke peto mein se hum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک تمہارے لئے چوپایوں میں (بھی) غور طلب پہلو ہیں، جو کچھ ان کے شکموں میں ہوتا ہے ہم تمہیں اس میں سے (بعض اجزاء کو دودھ بنا کر) پلاتے ہیں اور تمہارے لئے ان میں (اور بھی) بہت سے فوائد ہیں اور تم ان میں سے (بعض کو) کھاتے (بھی) ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ تمہارے لیے مویشیوں میں بڑی نصیحت کا سامان ہے جو (دودھ) ان کے پیٹ میں ہے، اس سے ہم تمہیں سیراب کرتے ہیں، اور ان میں تمہارے لیے بہت سے فوائد ہیں، اور انہی سے تم غذا بھی حاصل کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

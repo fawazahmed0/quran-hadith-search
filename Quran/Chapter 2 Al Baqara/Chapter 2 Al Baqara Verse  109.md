@@ -3224,6 +3224,12 @@ in ahale kitab ke aksar log ba-wajoodh haq waazeh ho jaane ke mahez hasad wa bag
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بہت سے اہلِ کتاب کی یہ خواہش ہے تمہارے ایمان لے آنے کے بعد پھر تمہیں کفر کی طرف لوٹا دیں، اس حسد کے باعث جو ان کے دلوں میں ہے اس کے باوجود کہ ان پر حق خوب ظاہر ہو چکا ہے، سو تم درگزر کرتے رہو اور نظرانداز کرتے رہو یہاں تک کہ اللہ اپنا حکم بھیج دے، بیشک اللہ ہر چیز پر کامل قدرت رکھتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) بہت سے اہل کتاب اپنے دلوں کے حسد کی بنا پر یہ چاہتے ہیں کہ تمہارے ایمان لانے کے بعد تمہیں پلٹا کر پھر کافر بنادیں، باوجودیکہ حق ان پر واضح ہوچکا ہے۔ چنانچہ تم معاف کرو اور درگزر سے کام لو یہاں تک کہ اللہ خود اپنا فیصلہ بھیج دے۔ بیشک اللہ ہر چیز پر قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

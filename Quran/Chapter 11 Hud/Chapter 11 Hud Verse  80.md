@@ -3224,6 +3224,12 @@ looth alaihissalaam ne kaha, kaash ke mujh mein tum se muqaabla karne ki quwwath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لوط (علیہ السلام) نے کہا: کاش! مجھ میں تمہارے مقابلہ کی ہمت ہوتی یا میں (آج) کسی مضبوط قلعہ میں پناہ لے سکتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لو ط نے کہا : کاش کہ میرے پاس تمہارے مقابلے میں کوئی طاقت ہوتی، یا میں کسی مضبوط سہارے کی پناہ لے سکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

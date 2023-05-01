@@ -3224,6 +3224,12 @@ main to tumhe bhi aur jin jin ko tum Allah ta’ala ke siva pukaarte ho, unhe bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں تم (سب) سے اور ان (بتوں) سے جنہیں تم اللہ کے سوا پوجتے ہو کنارہ کش ہوتا ہوں اور اپنے رب کی عبادت میں (یک سُو ہو کر) مصروف ہوتا ہوں، امید ہے میں اپنے رب کی عبادت کے باعث محرومِ (کرم) نہ رہوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں آپ لوگوں سے بھی الگ ہوتا ہوں، اور اللہ کو چھوڑ کر آپ لوگ جن جن کی عبادت کرتے ہیں، ان سے بھی، اور میں اپنے پروردگار کو پکارتا رہوں گا۔ مجھے پوری امید ہے کہ اپنے رب کو پکار کر میں نامراد نہیں رہوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

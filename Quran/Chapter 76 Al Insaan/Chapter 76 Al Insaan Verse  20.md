@@ -3224,6 +3224,12 @@ tu wahaa jahaan kahi bhi nazar daalega saraasar nemate aur azeemo shaan saltanat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب آپ (بہشت پر) نظر ڈالیں گے تو وہاں (کثرت سے) نعمتیں اور (ہر طرف) بڑی سلطنت دیکھیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (حقیقت تو یہ ہے کہ) جب تم وہ جگہ دیکھو گے تو تمہیں نعمتوں کا ایک جہان اور ایک بڑی سلطنت نظر آئے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

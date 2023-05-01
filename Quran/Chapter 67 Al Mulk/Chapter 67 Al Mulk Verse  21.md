@@ -3224,6 +3224,12 @@ agar Allah ta’ala apni rozi rok le to bataao kaun hai jo phir tumhe rozi dega?
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا کوئی ایسا ہے جو تمہیں رِزق دے سکے اگر (اللہ تم سے) اپنا رِزق روک لے؟ بلکہ وہ سرکشی اور (حق سے) نفرت میں مضبوطی سے اَڑے ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر وہ اپنا رزق بند کردے تو بھلا وہ کون ہے جو تمہیں رزق عطا کرسکے ؟ اس کے باوجود وہ سرکشی اور بیزاری پر جمے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

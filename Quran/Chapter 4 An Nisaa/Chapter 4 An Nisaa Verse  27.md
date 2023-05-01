@@ -3224,6 +3224,12 @@ aur Allah chaahta hai ke tumhaari tauba qubool kare aur jo log qaahishaath ke pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ تم پر مہربانی فرمانا چاہتا ہے، اور جو لوگ خواہشاتِ (نفسانی) کی پیروی کر رہے ہیں وہ چاہتے ہیں کہ تم راہِ راست سے بھٹک کر بہت دور جا پڑو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ تو چاہتا ہے کہ تمہاری طرف توجہ کرے، اور جو لوگ نفسانی خواہشات کے پیچھے لگے ہوئے ہیں وہ چاہتے ہیں کہ تم راہ راست سے ہٹ کر بہت دور جا پڑو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

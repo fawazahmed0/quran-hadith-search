@@ -3224,6 +3224,12 @@ unhone jawaab diya ke tu baqoobi jaanta hai ke hamein teri betiyo par koi haq na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: تم خوب جانتے ہو کہ ہمیں تمہاری (قوم کی) بیٹیوں سے کوئی غرض نہیں، اور تم یقینًا جانتے ہو جو کچھ ہم چاہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگے : تمہیں معلوم ہے کہ تمہاری بیٹیوں سے ہمیں کچھ مطلب نہیں، اور تم خوب جانتے ہو کہ ہم کیا چاہتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

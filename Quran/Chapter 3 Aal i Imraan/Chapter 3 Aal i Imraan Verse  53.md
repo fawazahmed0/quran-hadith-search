@@ -3224,6 +3224,12 @@ aye hamaare paalne waale maboodh! hum teri utaari hoyi wahi par imaan laaye aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! ہم اس کتاب پر ایمان لائے جو تو نے نازل فرمائی اور ہم نے اس رسول کی اتباع کی سو ہمیں (حق کی) گواہی دینے والوں کے ساتھ لکھ لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ہمارے رب ! آپ نے جو کچھ نازل کیا ہے ہم اس پر ایمان لائے ہیں اور ہم نے رسول کی اتباع کی ہے، لہذا ہمیں ان لوگوں میں لکھ لیجیے جو (حق کی) گواہی دینے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir agar rugardani kare tuh aap keh dijiye ke mere liye Allah kafi hai,us ke si
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر (ان بے پناہ کرم نوازیوں کے باوجود) پھر (بھی) وہ روگردانی کریں تو فرما دیجئے: مجھے اللہ کافی ہے اس کے سوا کوئی معبود نہیں، میں اسی پر بھروسہ کئے ہوئے ہوں اور وہ عرشِ عظیم کا مالک ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر یہ لوگ منہ موڑیں تو (اے رسول ! ان سے) کہہ دو کہ : میرے لیے اللہ کافی ہے، اس کے سوا کوئی معبود نہیں، اسی پر میں نے بھروسہ کیا ہے، اور وہی عرش عظیم کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

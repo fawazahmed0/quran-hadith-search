@@ -3224,6 +3224,12 @@ bahuth mumkin hai ke Allah ta’ala un se dar-guzar kare, Allah ta’ala dar-guz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو یہ وہ لوگ ہیں کہ یقیناً اللہ ان سے درگزر فرمائے گا، اور اللہ بڑا معاف فرمانے والا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ پوری امید ہے کہ اللہ ان کو معاف فرمادے۔ اللہ بڑا معاف کرنے والا بہت بخشنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

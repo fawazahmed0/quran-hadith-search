@@ -3224,6 +3224,12 @@ aur jis din hum har ummath mein unhee mein se un ke muqaable par gawah khada kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ) وہ دن ہوگا (جب) ہم ہر امت میں انہی میں سے خود ان پر ایک گواہ اٹھائیں گے اور (اے حبیبِ مکرّم!) ہم آپ کو ان سب (امتوں اور پیغمبروں) پر گواہ بنا کر لائیں گے، اور ہم نے آپ پر وہ عظیم کتاب نازل فرمائی ہے جو ہر چیز کا بڑا واضح بیان ہے اور مسلمانوں کے لئے ہدایت اور رحمت اور بشارت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ دن بھی یاد رکھو جب ہر امت میں ایک گواہ انہی میں سے کھڑا کریں گے اور (اے پیغمبر) ہم تمہیں ان لوگوں کے خلاف گواہی دینے کے لیے لائیں گے۔ اور ہم نے تم پر یہ کتاب اتار دی ہے تاکہ وہ ہر بات کھول کھول کر بیان کردے، اور مسلمانوں کے لیے ہدایت، رحمت اور خوشخبری کا سامان ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

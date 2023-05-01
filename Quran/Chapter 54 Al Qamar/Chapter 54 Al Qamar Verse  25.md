@@ -3224,6 +3224,12 @@ kya hamaare sab ke darmiyaan sirf isi par wahi utaari gayi? nahi balke wo jhuta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ہم سب میں سے اسی پر نصیحت (یعنی وحی) اتاری گئی ہے؟ بلکہ وہ بڑا جھوٹا، خود پسند (اور متکبّر) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ہم سارے لوگوں کے درمیان یہی ایک شخص رہ گیا تھا جس پر نصیحت نازل کی گئی ؟ نہیں، بلکہ دراصل یہ پرلے درجے کا جھوٹا شیخی باز ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

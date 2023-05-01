@@ -3224,6 +3224,12 @@ so us shaqs se zyada kaun zalim hoga jo Allah par jhot baandhe,ya us ki ayato ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اس شخص سے بڑھ کر ظالم کون ہوگا جو اللہ پر جھوٹا بہتان باندھے یا اس کی آیتوں کو جھٹلا دے۔ بیشک مجرم لوگ فلاح نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اس شخص سے بڑا ظالم کون ہوگا جو اللہ پر جھوٹ بہتان باندھے، یا اس کی آیتوں کو جھٹلائے ؟ یقین رکھو کہ مجرم لوگ فلاح نہیں پاتے۔”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar aap un se poche tuh saaf keh denge ke hum tuh yu hee apas mein has bol rahe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ ان سے دریافت کریں تو وہ ضرور یہی کہیں گے کہ ہم تو صرف (سفر کاٹنے کے لئے) بات چیت اور دل لگی کرتے تھے۔ فرما دیجئے: کیا تم اللہ اور اس کی آیتوں اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کے ساتھ مذاق کر رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم ان سے پوچھو تو یہ یقینا یوں کہیں گے کہ : ہم تو ہنسی مذاق اور دل لگی کر رہے تھے۔ کہو کہ : کیا تم اللہ اور اس کی آیتوں اور اس کے رسول کے ساتھ دل لگی کر رہے تھے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

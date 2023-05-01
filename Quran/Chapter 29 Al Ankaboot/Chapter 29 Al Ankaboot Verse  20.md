@@ -3224,6 +3224,12 @@ keh dijiye! ke zameen mein chal phir kar dekho to sahih ke kis tarah Allah ta’
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تم زمین میں (کائناتی زندگی کے مطالعہ کے لئے) چلو پھرو، پھر دیکھو (یعنی غور و تحقیق کرو) کہ اس نے مخلوق کی (زندگی کی) ابتداء کیسے فرمائی پھر وہ دوسری زندگی کو کس طرح اٹھا کر (ارتقاء کے مراحل سے گزارتا ہوا) نشو و نما دیتا ہے۔ بیشک اللہ ہر شے پر بڑی قدرت رکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : ذرا زمین میں چل پھر کر دیکھو کہ اللہ نے کس طرح مخلوق کو شروع میں پیدا کیا، پھر اللہ ہی آخرت والی مخلوق کو بھی اٹھا کھڑا کرے گا۔ یقینا اللہ ہر چیز پر قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

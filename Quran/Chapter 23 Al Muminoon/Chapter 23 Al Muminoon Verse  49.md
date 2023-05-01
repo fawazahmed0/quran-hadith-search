@@ -3224,6 +3224,12 @@ hum ne to mMsa(alaihissalaam) ko kitaab (bhi) di, ke log raahe raasth par aa jaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے موسٰی (علیہ السلام) کو کتاب عطا فرمائی تاکہ وہ لوگ ہدایت پاجائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور موسیٰ کو ہم نے کتاب عطا فرمائی، تاکہ ان کے لوگ رہنمائی حاصل کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur us ki nishaaniyo mein se asmaano aur zameen ki paydayish hai aur un mein jaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُس کی نشانیوں میں سے آسمانوں اور زمین کی پیدائش ہے اور اُن چلنے والے (جانداروں) کا (پیدا کرنا) بھی جو اُس نے اِن میں پھیلا دیئے ہیں، اور وہ اِن (سب) کے جمع کرنے پر بھی جب چاہے گا بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کی نشانیوں میں سے ہے آسمانوں اور زمین کی پیدائش اور وہ جاندار جو اس نے ان دونوں میں پھیلا رکھے ہیں، اور وہ جب چاہے ان کو جمع کرنے پر پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ta’ala wo hai jis ne tumhe kamzori ki haalath mein paida kiya, phir us k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہی ہے جس نے تمہیں کمزور چیز (یعنی نطفہ) سے پیدا فرمایا پھر اس نے کمزوری کے بعد قوتِ (شباب) پیدا کیا، پھر اس نے قوت کے بعد کمزوری اور بڑھاپا پیدا کر دیا، وہ جو چاہتا ہے پیدا فرماتا ہے اور وہ خوب جاننے والا، بڑی قدرت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے تمہاری تخلیق کی ابتدا کمزوری سے کی، پھر کمزوری کے بعد طاقت عطا فرمائی، پھر طاقت کے بعد (دوبارہ) کمزوری اور بڑھاپا طاری کردیا۔ وہ جو چاہتا ہے پیدا کرتا ہے، اور وہی ہے جس کا علم بھی کامل ہے، قدرت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

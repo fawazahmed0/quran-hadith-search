@@ -3224,6 +3224,12 @@ aur jis din Allah ta’ala unhe aur sivaaye Allah ke jinhe ye pujte rahe, unhe j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس دن اللہ انہیں اور ان کو، جن کی وہ اللہ کے سوا پرستش کرتے تھے، جمع کرے گا، پھر فرمائے گا: کیا تم نے ہی میرے ان بندوں کو گمراہ کر دیا تھا یا وہ (خود) ہی راہ سے بھٹک گئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ دن (انہیں یاد دلاؤ) جب اللہ ان (کافروں) کو بھی حشر میں جمع کرے گا اور ان (معبودوں) کو بھی جن کی یہ خدا کو چھوڑ کر عبادت کرتے تھے، اور (ان کے معبودوں سے) کہے گا کہ : کیا تم نے میرے ان بندوں کو بہکایا تھا، یا یہ راستے سے خود بھٹکے تھے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

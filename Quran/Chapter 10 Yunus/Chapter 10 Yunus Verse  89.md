@@ -3224,6 +3224,12 @@ haq tala ne farmaya ke tum duno ki dua qubol karli gai,so tum sabith khadam raho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ارشاد ہوا: بیشک تم دونوں کی دعا قبول کرلی گئی، سو تم دونوں ثابت قدم رہنا اور ایسے لوگوں کے راستہ کی پیروی نہ کرنا جو علم نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے فرمایا : تمہاری دعا قبول کرلی گئی ہے۔ اب تم دونوں ثابت قدم رہو، وار ان لوگوں کے پیچھے ہرگز نہ چلنا جو حقیقت سے ناواقف ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

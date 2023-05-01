@@ -3224,6 +3224,12 @@ isi tarah hum ne aap ko is ummat mein bheja hai jis se pehle bahuth si ummate gu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) اسی طرح ہم نے آپ کو ایسی امت میں (رسول بنا کر) بھیجا ہے کہ جس سے پہلے حقیقت میں (ساری) امتیں گزر چکی ہیں (اب یہ سب سے آخری امت ہے) تاکہ آپ ان پر وہ (کتاب) پڑھ کر سنا دیں جو ہم نے آپ کی طرف وحی کی ہے اور وہ رحمان کا انکار کر رہے ہیں، آپ فرما دیجئے: وہ میرا رب ہے اس کے سوا کوئی معبود نہیں، اس پر میں نے بھروسہ کیا ہے اور اسی کی طرف میرا رجوع ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! جس طرح دوسرے رسول بھیجے گئے تھے) اسی طرح ہم نے تمہیں ایک ایسی امت میں رسول بنا کر بھیجا ہے جس سے پہلی بہت سی امتیں گزر چکی ہیں، تاکہ تم ان کے سامنے وہ کتاب پڑھ کر سنا دو جو ہم نے وحی کے ذریعے تم پر نازل کی ہے، اور یہ لوگ اس ذات کی ناشکری کر رہے ہیں جو سب پر مہربان ہے، کہہ دو کہ : وہ میرا پالنے والا ہے، اس کے سوا کوئی عبادت کے لائق نہیں ہے۔ اسی پر میں نے بھروسہ کر رکھا ہے، اور اسی کی طرف مجھے لوٹ کر جانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

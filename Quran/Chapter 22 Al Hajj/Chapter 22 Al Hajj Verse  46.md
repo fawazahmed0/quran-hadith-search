@@ -3224,6 +3224,12 @@ kya unhone zameen mein sair wa siyaahath nahi ki, jo un ke dil un baatho ke sama
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو کیا انہوں نے زمین میں سیر و سیاحت نہیں کی کہ (شاید ان کھنڈرات کو دیکھ کر) ان کے دل (ایسے) ہو جاتے جن سے وہ سمجھ سکتے یا کان (ایسے) ہو جاتے جن سے وہ (حق کی بات) سن سکتے، تو حقیقت یہ ہے کہ (ایسوں کی) آنکھیں اندھی نہیں ہوتیں لیکن دل اندھے ہو جاتے ہیں جو سینوں میں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو کیا یہ لوگ زمین میں چلے پھرے نہیں ہیں جس سے انہیں وہ دل حاصل ہوتے جو انہیں سمجھ دے سکتے، یا ایسے کان حاصل ہوتے جن سے وہ سن سکتے ؟ حقیقت یہ ہے کہ آنکھیں اندھی نہیں ہوتیں، بلکہ وہ دل اندھے ہوجاتے ہیں جو سینوں کے اندر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

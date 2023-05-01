@@ -3224,6 +3224,12 @@ is liye un ko Allah ta’ala, un ke us qaul ki wajeh se aise baagh dega jin ke n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو اللہ نے ان کی اس (مومنانہ) بات کے عوض انہیں ثواب میں جنتیں عطا فرما دیں جن کے نیچے نہریں بہہ رہی ہیں۔ (وہ) ان میں ہمیشہ رہنے والے ہیں، اور یہی نیکوکاروں کی جزا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ان کے اس قول کی وجہ سے اللہ ان کو وہ باغات دے گا جن کے نیچے نہریں بہتی ہوں گی، جن میں وہ ہمیشہ رہیں گے۔ یہی نیکی کرنے والوں کا صلہ ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

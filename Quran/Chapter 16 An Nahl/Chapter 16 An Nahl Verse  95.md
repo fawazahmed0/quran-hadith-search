@@ -3224,6 +3224,12 @@ tum Allah ke ahad ko thode mol ke badhle na bech diya karo, yaad rakho Allah ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کے عہد حقیر سی قیمت (یعنی دنیوی مال و دولت) کے عوض مت بیچ ڈالا کرو، بیشک جو (اجر) اللہ کے پاس ہے وہ تمہارے لئے بہتر ہے اگر تم (اس راز کو) جانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کے عہد کو تھوڑ سی قیمت میں نہ بیچ ڈالو۔ اگر تم حقیقت سمجھو تو جو (اجر) اللہ کے پاس ہے وہ تمہارے لیے کہیں زیادہ بہتر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wo asmaan se le kar zameen tak (har) kaam ki tadhbeer karta hai, phir (wo kaam) 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ آسمان سے زمین تک نظام اقتدار کی تدبیر فرماتا ہے پھر وہ امر اس کی طرف ایک دن میں چڑھتا ہے (اور چڑھے گا) جس کی مقدار ایک ہزار سال ہے اس (حساب) سے جو تم شمار کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ آسمان سے لے کر زمین تک ہر کام کا انتظام خود کرتا ہے، پھر وہ کام ایک ایسے دن میں اس کے پاس اوپر پہنچ جاتا ہے جس کی مقدار گنتی کے حساب سے ایک ہزار سال ہوتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

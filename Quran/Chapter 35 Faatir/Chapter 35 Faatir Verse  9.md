@@ -3224,6 +3224,12 @@ aur Allah hee hawaaye chalaata hai, jo baadhlo ko uthaati hai, phir hum baadhlo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ہی ہے جو ہوائیں بھیجتا ہے تو وہ بادل کو ابھار کر اکٹھا کرتی ہیں پھر ہم اس (بادل) کو خشک اور بنجر بستی کی طرف سیرابی کے لئے لے جاتے ہیں، پھر ہم اس کے ذریعے اس زمین کو اس کی مُردنی کے بعد زندگی عطا کرتے ہیں، اسی طرح (مُردوں کا) جی اٹھنا ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ ہی ہے جو ہوائیں بھیجتا ہے پھر وہ بادلوں کو اٹھاتی ہیں، پھر ہم انہیں ہنکا کر ایک ایسے شہر کی طرف لے جاتے ہیں جو (قحط سے) مردہ ہوچکا ہوتا ہے، پھر ہم اس (بارش) کے ذریعے مردہ زمین کو نئی زندگی عطا کرتے ہیں۔ بس اسی طرح انسانوں کی دوسری زندگی ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

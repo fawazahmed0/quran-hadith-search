@@ -3224,6 +3224,12 @@ ta ke haq ka haq hona aur batil ka batil hona sabith karde,go ye mujrim log napa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ (معرکۂ بدر اس عظیم کامیابی کے ذریعے) حق کو حق ثابت کر دے اور باطل کو باطل کر دے اگرچہ مجرم لوگ (معرکۂ حق و باطل کی اس نتیجہ خیزی کو) ناپسند ہی کرتے رہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ حق کا حق ہونا اور باطل کا باطل ہونا ثابت کردے، چاہے مجرم لوگوں کو یہ بات کتنی ناگوار ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

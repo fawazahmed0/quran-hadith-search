@@ -3224,6 +3224,12 @@ ye to chahta hai ke apne jaadu ke zoor se, tumhe tumhaari sar zameen se hee nika
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ چاہتا ہے کہ تمہیں اپنے جادو (کے زور) سے تمہارے ملک سے باہر نکال دے پس تم (اب اس کے بارے میں) کیا رائے دیتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ چاہتا ہے کہ اپنے جادو کے ذریعے تمہیں تمہاری سرزمین سے نکال باہر کرے۔ اب بتاؤ کیا رائے ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

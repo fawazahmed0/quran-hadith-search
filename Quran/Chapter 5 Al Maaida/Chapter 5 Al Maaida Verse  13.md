@@ -3224,6 +3224,12 @@ phir un ke ahad shikni ki wajeh se hum ne un par apni lanath nazil farma di aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان کی اپنی عہد شکنی کی وجہ سے ہم نے ان پر لعنت کی (یعنی وہ ہماری رحمت سے محروم ہوگئے)، اور ہم نے ان کے دلوں کو سخت کر دیا (یعنی وہ ہدایت اور اثر پذیری سے محروم ہوگئے، چنانچہ) وہ لوگ (کتابِ الٰہی کے) کلمات کو ان کے (صحیح) مقامات سے بدل دیتے ہیں اور اس (رہنمائی) کا ایک (بڑا) حصہ بھول گئے ہیں جس کی انہیں نصیحت کی گئی تھی، اور آپ ہمیشہ ان کی کسی نہ کسی خیانت پر مطلع ہوتے رہیں گے سوائے ان میں سے چند ایک کے (جو ایمان لا چکے ہیں) سو آپ انہیں معاف فرما دیجئے اور درگزر فرمائیے، بیشک اللہ احسان کرنے والوں کو پسند فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر یہ ان کی عہد شکنی ہی تو تھی جس کی وجہ سے ہم نے ان کو اپنی رحمت سے دور کیا، اور ان کے دلوں کو سخت بنادیا۔ وہ باتوں کو اپنے موقع محل سے ہٹا دیتے ہیں۔ اور جس بات کی ان کو نصیحت کی گئی تھی اس کا ایک بڑا حصہ بھلا چکے ہیں اور ان میں سے کچھ لوگوں کو چھوڑ کر تمہیں آئے دن ان کی کسی نہ کسی خیانت کا پتہ چلتا رہتا ہے۔ لہذا (فی الحال) انہیں معاف کردو اور درگزر سے کام لو بیشک اللہ احسان کرنے والوں کو پسند کرتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

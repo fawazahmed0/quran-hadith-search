@@ -3224,6 +3224,12 @@ ye kehte to hai ke ita’ath hai, phir jab aap ke paas se ut kar baaher nikalte 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ان منافقوں کا یہ حال ہے کہ آپ کے سامنے) کہتے ہیں کہ (ہم نے آپ کا حکم) مان لیا، پھر وہ آپ کے پاس سے (اٹھ کر) باہر جاتے ہیں تو ان میں سے ایک گروہ آپ کی کہی ہوئی بات کے برعکس رات کو رائے زنی (اور سازشی مشورے) کرتا ہے، اور اللہ (وہ سب کچھ) لکھ رہا ہے جو وہ رات بھر منصوبے بناتے ہیں۔ پس (اے محبوب!) آپ ان سے رُخِ انور پھیر لیجئے اوراللہ پر بھروسہ رکھئیے، اور اللہ کافی کارساز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (منافق لوگ سامنے تو) اطاعت کا نام لیتے ہیں، مگر یہ تمہارے پاس سے باہر جاتے ہیں تو ان میں سے ایک گروہ رات کے وقت تمہاری باتوں کے خلاف مشورے کرتا ہے، اور یہ رات کے وقت جو مشورے کرتے ہیں، اللہ وہ سب لکھ رہا ہے۔ لہذا تم ان کی پرواہ مت کرو، اور اللہ پر بھروسہ رکھو۔ اور اللہ تمہاری حمایت کے لیے بالکل کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

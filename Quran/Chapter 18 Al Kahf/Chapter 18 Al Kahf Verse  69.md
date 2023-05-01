@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ne jawaab diya ke Insha’Allah aap mujhe sabr karne waala p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+موسٰی (علیہ السلام) نے کہا: آپ اِن شاء اللہ مجھے ضرور صابر پائیں گے اور میں آپ کی کسی بات کی خلاف ورزی نہیں کروں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : انشاء اللہ آپ مجھے صابر پائیں گے، اور میں آپ کے کسی حکم کی خلاف ورزی نہیں کروں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

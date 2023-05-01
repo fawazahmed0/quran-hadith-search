@@ -3224,6 +3224,12 @@ haan jo shaqs tauba karle imaan le aaye aur nek kaam kare, yaqeen hai ke wo naja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لیکن جس نے توبہ کر لی اور ایمان لے آیا اور نیک عمل کیا تو یقیناً وہ فلاح پانے والوں میں سے ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ جن لوگوں نے توبہ کرلی، اور ایمان لے آئے، اور نیک عمل کیے، تو پوری امید ہے کہ وہ ان لوگوں میں شامل ہوں گے جنہیں فلاح حاصل ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

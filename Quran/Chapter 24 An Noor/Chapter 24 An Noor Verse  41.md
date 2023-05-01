@@ -3224,6 +3224,12 @@ kya aap ne nahi dekha ke asmaano aur zameen ki kul maqlooq aur par phailaaye udn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم نے نہیں دیکھا کہ جو کوئی بھی آسمانوں اور زمین میں ہے وہ (سب) اللہ ہی کی تسبیح کرتے ہیں اور پرندے (بھی فضاؤں میں) پر پھیلائے ہوئے (اسی کی تسبیح کرتے ہیں)، ہر ایک (اللہ کے حضور) اپنی نماز اور اپنی تسبیح کو جانتا ہے، اور اللہ ان کاموں سے خوب آگاہ ہے جو وہ انجام دیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے دیکھا نہیں کہ آسمانوں اور زمین میں جو بھی ہیں اللہ ہی کی تسبیح کرتے ہیں، اور وہ پرندے بھی جو پر پھیلائے ہوئے اڑتے ہیں۔ ہر ایک کو اپنی نماز اور اپنی تسبیح کا طریقہ معلوم ہے۔ اور اللہ ان کے سارے کاموں سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

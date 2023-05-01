@@ -3224,6 +3224,12 @@ imaan aur nek amaal waalo ko Allah ta’ala lehre leti hoyi nehro waali jannato 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ ان لوگوں کو جو ایمان لائے اور نیک عمل کرتے رہے جنتوں میں داخل فرمائے گا جن کے نیچے سے نہریں رواں ہیں، یقیناً اللہ جو ارادہ فرماتا ہے کر دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ایمان لائے ہیں، اور انہوں نے نیک عمل کیے ہیں، اللہ یقینا ان کو ایسے باغات میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی، یقینا اللہ ہر وہ کام کرتا ہے جس کا ارادہ کرلیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tum un logo ki tarah na ho jaana jinhone apne paas roushan dalile aa jaane ke ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان لوگوں کی طرح نہ ہو جانا جو فرقوں میں بٹ گئے تھے اور جب ان کے پاس واضح نشانیاں آچکیں اس کے بعد بھی اختلاف کرنے لگے، اور انہی لوگوں کے لئے سخت عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں کی طرح نہ ہوجانا جن کے پاس کھلے کھلے دلائل آچکے تھے، اس کے بعد بھی انہوں نے آپس میں پھوٹ ڈال لی اور اختلاف میں پڑگئے، ایسے لوگوں کو سخت سزا ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

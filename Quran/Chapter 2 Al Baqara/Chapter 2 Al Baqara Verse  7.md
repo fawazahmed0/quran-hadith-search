@@ -3224,6 +3224,12 @@ Allah ne un ke dilo par aur un ke kaano par muhar kardi hai aur un ki aankho par
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے (ان کے اپنے اِنتخاب کے نتیجے میں) ان کے دلوں اور کانوں پر مُہر لگا دی ہے اور ان کی آنکھوں پر پردہ (پڑ گیا) ہے اور ان کے لئے سخت عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے ان کے دلوں پر اور ان کے کانوں پر مہر لگادی ہے اور ان کی آنکھوں پر پردہ پڑا ہوا ہے اور ان کے لئے زبردست عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

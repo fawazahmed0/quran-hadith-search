@@ -3224,6 +3224,12 @@ ye kehte hai ke agar hum ab laut kar madina jayenge ke to izzath waala wahaa se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہتے ہیں: اگر (اب) ہم مدینہ واپس ہوئے تو (ہم) عزّت والے لوگ وہاں سے ذلیل لوگوں (یعنی مسلمانوں) کو باہر نکال دیں گے، حالانکہ عزّت تو صرف اللہ کے لئے اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کے لئے اور مومنوں کے لئے ہے مگر منافقین (اس حقیقت کو) جانتے نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہتے ہیں کہ : اگر ہم مدینہ کو لوٹ کر جائیں گے تو جو عزت والا ہے، وہ وہاں سے ذلت والے کو نکال باہر کرے گا، حالانکہ عزت تو اللہ ہی کو حاصل ہے اور اس کے رسول کو، اور ایمان والوں کو، لیکن منافق لوگ نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

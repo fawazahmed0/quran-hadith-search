@@ -3224,6 +3224,12 @@ yousuf ne jawaab diya ke tum saath saal tak pay dar pay lagataar hasbe aadath gh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یوسف (علیہ السلام) نے کہا: تم لوگ دائمی عادت کے مطابق مسلسل سات برس تک کاشت کرو گے سو جو کھیتی تم کاٹا کرو گے اسے اس کے خوشوں (ہی) میں (ذخیرہ کے طور پر) رکھتے رہنا مگر تھوڑا سا (نکال لینا) جسے تم (ہر سال) کھا لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یوسف نے کہا : تم سات سال تک مسلسل غلہ زمین میں اگاؤ گے، اس دوران جو فصل کاٹو، اس کو اس کی بالیوں ہی میں رہنے دینا، البتہ تھوڑا سا غلہ جو تمہارے کھانے کے کام آئے، (وہ نکال لیا کرو) ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

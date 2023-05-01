@@ -3224,6 +3224,12 @@ hum ne Mosa(alaihissalaam) ki maa ko wahi ki ke ise doodh pilaati reh, aur jab t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے موسٰی (علیہ السلام) کی والدہ کے دل میں یہ بات ڈالی کہ تم انہیں دودھ پلاتی رہو، پھر جب تمہیں ان پر (قتل کردیئے جانے کا) اندیشہ ہو جائے تو انہیں دریا میں ڈال دینا اور نہ تم (اس صورتِ حال سے) خوفزدہ ہونا اور نہ رنجیدہ ہونا، بیشک ہم انہیں تمہاری طرف واپس لوٹانے والے ہیں اور انہیں رسولوں میں(شامل) کرنے والے ہیں۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ کی والدہ کو الہام کیا کہ : تم اس (بچے) کو دودھ پلاؤ، پھر جب تمہیں اس کے بارے میں کوئی خطرہ ہو تو اسے دریا میں ڈال دینا، اور ڈرنا نہیں، اور نہ صدمہ کرنا، یقین رکھو ہم اسے واپس تمہارے پاس پہنچا کر رہیں گے، اور اس کو پیغمبروں میں سے ایک پیغمبر بنائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

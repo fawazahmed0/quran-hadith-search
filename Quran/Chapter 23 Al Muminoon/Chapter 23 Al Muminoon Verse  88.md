@@ -3224,6 +3224,12 @@ pochiye ke tamaam cheezo ka eqtiyaar kis ke haath mein hai? ao panaah deta hai a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان سے) فرمائیے کہ وہ کون ہے جس کے دستِ قدرت میں ہر چیز کی کامل ملکیت ہے اور جو پناہ دیتا ہے اور جس کے خلاف (کوئی) پناہ نہیں دی جا سکتی، اگر تم (کچھ) جانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : کون ہے جس کے ہاتھ میں ہر چیز کا مکمل اختیار ہے، اور جو پناہ دیتا ہے اور اس کے مقابلے میں کوئی کسی کو پناہ نہیں دے سکتا ؟ بتاؤ اگر جانتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

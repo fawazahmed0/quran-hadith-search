@@ -3224,6 +3224,12 @@ aisa bhi koyi hai jo Allah ta’ala ko accha qarz de, bas Allah ta’ala ose bah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کون ہے جو اللہ کو قرضِ حسنہ دے پھر وہ اس کے لئے اسے کئی گنا بڑھا دے گا، اور اللہ ہی (تمہارے رزق میں) تنگی اور کشادگی کرتا ہے، اور تم اسی کی طرف لوٹائے جاؤگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کون ہے جو اللہ کو اچھے طریقے پر قرض دے، تاکہ وہ اسے اس کے مفاد میں اتنا بڑھائے چڑھائے کہ وہ بدر جہاز یا دہ ہوجائے ؟ اور اللہ ہی تنگی پیدا کرتا ہے، اور وہی وسعت دیتا ہے، اور اسی کی طرف تم سب کو لوٹایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

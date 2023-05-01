@@ -3224,6 +3224,12 @@ ae Nabi! tujhe Allah kafi hai aur un momino ko jo teri pairvi kar rahe hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبئ (معّظم!) آپ کے لئے اللہ کافی ہے اور وہ مسلمان جنہوں نے آپ کی پیروی اختیار کرلی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! تمہارے لیے تو بس اللہ اور وہ مومن لوگ کافی ہیں جنہوں نے تمہاری پیروی کی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

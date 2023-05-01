@@ -3224,6 +3224,12 @@ hum to un se pehle bahuth si jamaato ko ghaarat kar chuke hain, jo saazo samaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان سے پہلے کتنی ہی قوموں کو ہلاک کر ڈالا جو ساز و سامانِ زندگی اور نمود و نمائش کے لحاظ سے (ان سے بھی) کہیں بہتر تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یہ نہیں دیکھتے کہ) ان سے پہلے ہم کتنی نسلیں ہلاک کرچکے ہیں، جو اپنے سازو سامان اور ظاہری آن بان میں ان سے کہیں بہتر تھیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

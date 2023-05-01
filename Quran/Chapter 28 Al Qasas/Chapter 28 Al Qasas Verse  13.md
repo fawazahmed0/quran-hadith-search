@@ -3224,6 +3224,12 @@ bas hum ne ose us ki maa ki taraf waapas pahonchaya, ta ke us ki aankhe thandi r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ہم نے موسٰی (علیہ السلام) کو (یوں) ان کی والدہ کے پاس لوٹا دیا تاکہ ان کی آنکھ ٹھنڈی رہے اور وہ رنجیدہ نہ ہوں اور تاکہ وہ (یقین سے) جان لیں کہ اللہ کا وعدہ سچا ہے لیکن اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح ہم نے موسیٰ کو ان کی ماں کے پاس لوٹا دیا، تاکہ ان کی آنکھ ٹھنڈی رہے، اور وہ غمگین نہ ہوں، اور تاکہ انہیں اچھی طرح معلوم ہوجائے کہ اللہ کا وعدہ سچا ہے، لیکن اکثر لوگ نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

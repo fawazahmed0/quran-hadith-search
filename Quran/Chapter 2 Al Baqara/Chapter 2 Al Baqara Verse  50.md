@@ -3224,6 +3224,12 @@ aur jab hum ne tumhazre liye darya cheer(phaad) diya aur tumhe us se paar kar di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم نے تمہیں (بچانے کے) لئے دریا کو پھاڑ دیا سو ہم نے تمہیں (اس طرح) نجات عطا کی اور (دوسری طرف) ہم نے تمہاری آنکھوں کے سامنے قومِ فرعون کو غرق کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یاد کرو) جب ہم نے تمہاری خاطر سمندر کو پھاڑ ڈالا تھا چنانچہ تم سب کو بچالیا تھا اور فرعون کے لوگوں کو (سمندر میں) غرق کرڈالا تھا اور تم یہ سارا نظام دیکھ رہے تھے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

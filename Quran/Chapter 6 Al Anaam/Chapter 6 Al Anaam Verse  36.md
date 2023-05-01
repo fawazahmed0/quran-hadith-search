@@ -3224,6 +3224,12 @@ wahi log qubool karte hai jo sunte hai, aur murdo ko Allah zinda kar ke uthayega
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بات یہ ہے کہ (دعوتِ حق) صرف وہی لوگ قبول کرتے ہیں جو (اسے سچے دل سے) سنتے ہیں، اور مُردوں (یعنی حق کے منکروں) کو اللہ (حالتِ کفر میں ہی قبروں سے) اٹھائے گا پھر وہ اسی (رب) کی طرف (جس کا انکار کرتے تھے) لوٹائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بات تو وہی لوگ مان سکتے ہیں جو (حق کے طالب بن کر) سنیں۔ جہاں تک ان مردوں کا تعلق ہے ان کو تو اللہ ہی قبروں سے اٹھائے گا، پھر یہ اسی کی طرف لوٹائے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum to tumhe sirf Allah ta’ala ki raza mandhi ke liye khilaate hai, na tum se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اور کہتے ہیں کہ) ہم تو محض اللہ کی رضا کے لئے تمہیں کھلا رہے ہیں، نہ تم سے کسی بدلہ کے خواست گار ہیں اور نہ شکرگزاری کے (خواہش مند) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور ان سے کہتے ہیں کہ) ہم تو تمہیں صرف اللہ تعالیٰ کی خوشنودی حاصل کرنے کے لیے کھلا رہے ہیں۔ ہم تم سے نہ کوئی بدلہ چاہتے ہیں اور نہ کوئی شکریہ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

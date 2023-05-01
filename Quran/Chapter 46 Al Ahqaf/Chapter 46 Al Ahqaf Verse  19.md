@@ -3224,6 +3224,12 @@ aur har ek ko apne apne amaal ke mutaabiq darje milenge ta ke unhe un ke amaal k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور سب کے لئے ان (نیک و بد) اعمال کی وجہ سے جو انہوں نے کئے (جنت و دوزخ میں الگ الگ) درجات مقرر ہیں تاکہ (اللہ) ان کو ان کے اعمال کا پورا پورا بدلہ دے اور ان پر کوئی ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہر ایک (گروہ) کے اپنے اعمال کی وجہ سے مختلف درجے ہیں، اور اس لیے ہیں تاکہ اللہ ان کو ان کے اعمال کا پورا پورا بدلہ دے۔ اور ان پر کوئی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

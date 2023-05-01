@@ -3224,6 +3224,12 @@ yaqinan hum ne aasmaan mein burj2 banaaye hai aur dekhne walo ke liye ose sajaa 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے آسمان میں (کہکشاؤں کی صورت میں ستاروں کی حفاظت کے لئے) قلعے بنائے اور ہم نے اس (خلائی کائنات) کو دیکھنے والوں کے لئے آراستہ کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے آسمان میں بہت سے برج بنائے ہیں۔ اور اس کو دیکھنے والوں کے لیے سجاوٹ عطا کی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

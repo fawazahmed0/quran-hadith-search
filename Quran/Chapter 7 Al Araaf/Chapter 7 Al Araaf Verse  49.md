@@ -3224,6 +3224,12 @@ kya ye wahi hai jin ki nisbath tum qasme kha kha kar kaha karte thein ke Allah t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (پھر جنتیوں کی طرف اشارہ کر کے کہیں گے کہ) کیا یہی وہ لوگ ہیں جن کے بارے میں تم نے قسمیں کھائی تھیں کہ اللہ ان کو اپنی رحمت کا کوئی حصہ نہیں دے گا ؟ (ان سے تو کہہ دیا گیا ہے کہ) جنت میں داخل ہوجاؤ، نہ تم کو کسی چیز کا ڈر ہوگا اور نہ تمہیں کبھی کوئی غم پیش آئے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

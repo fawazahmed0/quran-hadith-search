@@ -3224,6 +3224,12 @@ yaqinan hum ne tujhe (hauze) kausar (aur bahuth kuch) diya hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے آپ کو (ہر خیر و فضیلت میں) بے انتہا کثرت بخشی ہے٭oکوثر سے مراد حوض کوثر یا نہر جنت بھی ہے اور قرآن اور نبوت و حکمت بھی، فضائل و معجزات کی کثرت یا اصحاب و اتباع اور امت کی کثرت بھی مراد لی گئی ہے۔ رفعت ذکر اور خلق عظیم بھی مراد ہے اور دنیا و آخرت کی نعمتیں بھی، نصرت الٰہیہ اور کثرت فتوحات بھی مراد ہیں اور روز قیامت مقام محمود اور شفاعت عظمیٰ بھی مراد لی گئی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یقین جانو ہم نے تمہیں کوثر عطا کردی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

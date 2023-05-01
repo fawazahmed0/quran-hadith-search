@@ -3224,6 +3224,12 @@ wo log apne ghaar mein teen sau 300 saal tak rahe aur nau saal aur zyaada guzaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (اصحابِ کہف) اپنی غار میں تین سو برس ٹھہرے رہے اور انہوں نے (اس پر) نو (سال) اور بڑھا دیئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ (اصحاب کہف) اپنے غار میں تین سو سال اور مزید نو سال (سوتے) رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

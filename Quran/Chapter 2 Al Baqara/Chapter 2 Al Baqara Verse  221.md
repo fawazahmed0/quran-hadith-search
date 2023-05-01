@@ -3224,6 +3224,12 @@ aur shirk karne waali aurto se ta waqt ye ke51 wo imaan na laaye tum nikaah na k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم مشرک عورتوں کے ساتھ نکاح مت کرو جب تک وہ مسلمان نہ ہو جائیں، اور بیشک مسلمان لونڈی (آزاد) مشرک عورت سے بہتر ہے خواہ وہ تمہیں بھلی ہی لگے، اور (مسلمان عورتوں کا) مشرک مردوں سے بھی نکاح نہ کرو جب تک وہ مسلمان نہ ہو جائیں، اور یقیناً مشرک مرد سے مؤمن غلام بہتر ہے خواہ وہ تمہیں بھلا ہی لگے، وہ (کافر اور مشرک) دوزخ کی طرف بلاتے ہیں، اور اللہ اپنے حکم سے جنت اور مغفرت کی طرف بلاتا ہے، اور اپنی آیتیں لوگوں کے لئے کھول کر بیان فرماتا ہے تاکہ وہ نصیحت حاصل کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مشرک عورتوں سے اس وقت تک نکاح نہ کرو جب تک وہ ایمان نہ لے آئیں۔ یقینا ایک مومن باندی کسی بھی مشرک عورت سے بہتر ہے، خواہ وہ مشرک عورت تمہیں پسند آرہی ہو، اور اپنی عورتوں کا نکاح مشرک مردوں سے نہ کراؤ جب تک وہ ایمان نہ لے آئیں۔ اور یقینا ایک مومن غلام کسی بھی مشرک مرد سے بہتر ہے خواہ وہ مشرک مرد تمہیں پسند آرہا ہو۔ یہ سب دوزخ کی طرف بلاتے ہیں جبکہ اللہ اپنے حکم سے جنت اور مغفرت کی طرف بلاتا ہے، اور اپنے احکام لوگوں کے سامنے صاف صاف بیان کرتا ہے تاکہ وہ نصیحت حاصل کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

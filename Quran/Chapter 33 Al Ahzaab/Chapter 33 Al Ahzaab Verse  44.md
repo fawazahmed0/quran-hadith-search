@@ -3224,6 +3224,12 @@ jis din ye (Allah se) mulaqaath karenge, un ka tuhfa salaam hoga, un ke liye All
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن وہ (مومِن) اس سے ملاقات کریں گے تو ان (کی ملاقات) کا تحفہ سلام ہوگا، اور اس نے ان کے لئے بڑی عظمت والا اجر تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن مومن لوگ اللہ سے ملیں گے اس دن ان کا استقبال سلام سے ہوگا، اور اللہ نے ان کے لیے باعزت انعام تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye logo! tum Allah ke muhtaaj ho aur Allah be niyaaz qobiyo waala hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! تم سب اللہ کے محتاج ہو اور اللہ ہی بے نیاز، سزاوارِ حمد و ثنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! تم سب اللہ کے محتاج ہو، اور اللہ بےنیاز ہے، ہر تعریف کا بذات خود مستحق
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

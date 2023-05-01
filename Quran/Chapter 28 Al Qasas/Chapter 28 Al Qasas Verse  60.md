@@ -3224,6 +3224,12 @@ aur tumhe jo kuch diya gaya hai, wo sirf zindagi dunya ka samaan aur osi ki raun
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو چیز بھی تمہیں عطا کی گئی ہے سو (وہ) دنیوی زندگی کا سامان اور اس کی رونق و زینت ہے۔ مگر جو چیز (بھی) اللہ کے پاس ہے وہ (اس سے) زیادہ بہتر اور دائمی ہے۔ کیا تم (اس حقیقت کو) نہیں سمجھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم کو جو کچھ بھی دیا گیا ہے وہ دنیوی زندگی کی پونجی اور اس کی سجاوٹ ہے اور جو کچھ اللہ کے پاس ہے وہ کہیں زیادہ بہتر اور کہیں زیادہ پائیدار ہے۔ کیا پھر بھی تم عقل سے کام نہیں لیتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

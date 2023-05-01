@@ -3224,6 +3224,12 @@ Allah ka shukr hai jis ne mujhe is bhudaape mein ismail wa is’haaq (alaihima a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سب تعریفیں اللہ کے لئے ہیں جس نے مجھے بڑھاپے میں اسماعیل اور اسحاق (علیھما السلام دو فرزند) عطا فرمائے، بیشک میرا رب دعا خوب سننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے بڑھاپے میں اسماعیل اور اسحاق (جیسے بیٹے) عطا فرمائے۔ بیشک میرا رب بڑا دعائیں سننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

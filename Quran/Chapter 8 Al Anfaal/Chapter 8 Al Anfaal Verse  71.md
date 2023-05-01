@@ -3224,6 +3224,12 @@ aur agar wo tujh se qayanath ka qayal karenge tuh ye tuh us se pehle khud Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے محبوب!) اگر وہ آپ سے خیانت کرنا چاہیں تو یقیناً وہ اس سے قبل (بھی) اللہ سے خیانت کر چکے ہیں سو (اسی وجہ سے) اس نے ان میں سے بعض کو (آپ کی) قدرت میں دے دیا، اور اللہ خوب جاننے والا حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ان لوگوں نے (اے نبی) تم سے خیانت کرنے کا ارادہ کیا تو یہ اس سے پہلے اللہ کے ساتھ خیانت کرچکے ہیں، جس کے نتیجے میں اللہ نے انہیں تمہارے قابو میں دے دیا اور اللہ کا علم بھی کامل ہے حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

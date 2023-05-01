@@ -3224,6 +3224,12 @@ jinhe hum ne kitaab di hai wo to jo kuch aap par utara jata hai us se khush hote
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں کو ہم کتاب (تورات) دے چکے ہیں (اگر وہ صحیح مومن ہیں تو) وہ اس (قرآن) سے خوش ہوتے ہیں جو آپ کی طرف نازل کیا گیا ہے اور ان (ہی کے) فرقوں میں سے بعض ایسے بھی ہیں جو اس کے کچھ حصہ کا انکار کرتے ہیں، فرما دیجئے کہ بس مجھے تو یہی حکم دیا گیا ہے کہ میں اللہ کی عبادت کروں اور اس کے ساتھ (کسی کو) شریک نہ ٹھہراؤں، اسی کی طرف میں بلاتا ہوں اور اسی کی طرف مجھے لوٹ کر جانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جن لوگوں کو ہم نے کتاب دی ہے، وہ اس کلام سے خوش ہوتے ہیں جو تم پر نازل کیا گیا ہے، اور انہی گروہوں میں وہ بھی ہیں جو اس کی بعض باتوں کا ماننے سے انکار کرتے ہیں۔ کہہ دو کہ : مجھے تو یہ حکم دیا گیا ہے کہ میں اللہ کی عبادت کروں، اور اس کے ساتھ کسی کو خدائی میں شریک نہ مانوں، اسی بات کی میں دعوت دیتا ہوں، اور اسی (اللہ) کی طرف مجھے لوٹ کر جانا ہے، ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

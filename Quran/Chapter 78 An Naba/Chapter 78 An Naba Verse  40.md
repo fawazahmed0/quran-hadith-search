@@ -3224,6 +3224,12 @@ hum ne tumhe an-qareeb aane waale azaab se dara diya (aur chaukanna kar diya) ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلا شبہ ہم نے تمہیں عنقریب آنے والے عذاب سے ڈرا دیا ہے، اس دن ہر آدمی ان (اعمال) کو جو اس نے آگے بھیجے ہیں دیکھ لے گا، اور (ہر) کافر کہے گا: اے کاش! میں مٹی ہوتا (اور اس عذاب سے بچ جاتا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ ہم نے تمہیں ایک ایسے عذاب سے خبردار کردیا ہے جو قریب آنے والا ہے جس دن ہر شخص وہ اعمال آنکھوں سے دیکھ لے گا جو اس کے ہاتھوں نے آگے بھیج رکھے ہیں، اور کافر یہ کہے گا کہ کاش ! میں مٹی ہوجاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye musalmaano! tum sab kaho ke hum Allah par imaan laaye aur us cheez par bhi j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) تم کہہ دو: ہم اللہ پر ایمان لائے اور اس (کتاب) پر جو ہماری طرف اتاری گئی اور اس پر (بھی) جو ابراہیم اور اسماعیل اور اسحٰق اور یعقوب (علیھم السلام) اور ان کی اولاد کی طرف اتاری گئی اور ان (کتابوں) پر بھی جو موسیٰ اور عیسیٰ (علیھما السلام) کو عطا کی گئیں اور (اسی طرح) جو دوسرے انبیاء (علیھم السلام) کو ان کے رب کی طرف سے عطا کی گئیں، ہم ان میں سے کسی ایک (پر بھی ایمان) میں فرق نہیں کرتے، اور ہم اسی (معبودِ واحد) کے فرماں بردار ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) کہہ دو کہ : ہم اللہ پر ایمان لائے ہیں اور اس کلام پر بھی جو ہم پر اتارا گیا اور اس پر بھی جو ابراہیم، اسماعیل، اسحاق، یعقوب اور ان کی اولاد پر اتارا گیا، اور اس پر بھی جو موسیٰ اور عیسیٰ کو دیا گیا اور اس پر بھی جو دوسرے پیغمبروں کو ان کے پروردگار کی طرف سے عطا ہوا۔ ہم ان پیغمبروں کے درمیان کوئی تفریق نہیں کرتے، اور ہم اسی (ایک خدا) کے تابع فرمان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

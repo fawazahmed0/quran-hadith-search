@@ -3224,6 +3224,12 @@ aap un se us par koi ujrath talab nahi kar rahe hai, ye to tamaam dunya ke liye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ ان سے اس (دعوت و تبلیغ) پر کوئی صلہ تو نہیں مانگتے، یہ قرآن جملہ جہان والوں کے لئے نصیحت ہی تو ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حالانکہ تم ان سے اس (تبلیغ) پر کوئی اجرت نہیں مانگتے۔ یہ تو دنیا جہان کے سب لوگوں کے لیے بس ایک نصیحت کا پیغام ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

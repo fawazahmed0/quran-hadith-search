@@ -3224,6 +3224,12 @@ aur zameen apne parvardigaar ke noor se jagmaga uthegi, naame amaal haazir kiye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور زمینِ (محشر) اپنے رب کے نور سے چمک اٹھے گی اور (ہر ایک کے اعمال کی) کتاب رکھ دی جائے گی اور انبیاء کو اور گواہوں کو لایا جائے گا اور لوگوں کے درمیان حق و انصاف کے ساتھ فیصلہ کر دیا جائے گا اور اُن پر کوئی ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین اپنے پروردگار کے نور سے چمک اٹھے گی اور نامہ اعمال سامنے رکھ دیا جائے گا۔ اور انبیاء اور سب گواہوں کو حاضر کردیا جائے گا اور لوگوں کے درمیان بالکل برحق فیصلہ کیا جائے گا۔ اور ان پر کوئی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

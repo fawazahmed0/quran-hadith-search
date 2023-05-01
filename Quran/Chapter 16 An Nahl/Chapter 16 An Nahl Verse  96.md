@@ -3224,6 +3224,12 @@ tumhaare paas jo kuch hai sab faani hai aur Allah ta’ala ke paas jo kuch hai b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو (مال و زر) تمہارے پاس ہے فنا ہو جائے گا اور جو اللہ کے پاس ہے باقی رہنے والا ہے، اور ہم ان لوگوں کو جنہوں نے صبر کیا ضرور ان کا اجر عطا فرمائیں گے ان کے اچھے اعمال کے عوض جو وہ انجام دیتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کچھ تمہارے پاس ہے وہ سب ختم ہوجائے گا، اور جو کچھ اللہ کے پاس ہے وہ باقی رہنے والا ہے۔ اور جن لوگوں نے صبر سے کام لیا ہوگا ہم انہیں ان کے بہترین کاموں کے مطابق ان کا اجر ضرور عطا کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jin logo ne tum se deen ke baare mein ladaayi nahi ladi aur tumhe jila watan nah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ تمہیں اس بات سے منع نہیں فرماتا کہ جن لوگوں نے تم سے دین (کے بارے) میں جنگ نہیں کی اور نہ تمہیں تمہارے گھروں سے (یعنی وطن سے) نکالا ہے کہ تم ان سے بھلائی کا سلوک کرو اور اُن سے عدل و انصاف کا برتاؤ کرو، بیشک اللہ عدل و انصاف کرنے والوں کو پسند فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ تمہیں اس بات سے منع نہیں کرتا کہ جن لوگوں نے دین کے معاملے میں تم سے جنگ نہیں کی، اور تمہیں تمہارے گھروں سے نہیں نکالا، ان کے ساتھ تم کوئی نیکی کا یا انصاف کا معاملہ کرو، یقینا اللہ انصاف کرنے والوں کو پسند کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

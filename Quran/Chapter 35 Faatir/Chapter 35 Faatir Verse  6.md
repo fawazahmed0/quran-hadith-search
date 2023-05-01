@@ -3224,6 +3224,12 @@ yaad rakho! shaytaan tumhaara dushman hai, tum ose dushman jaano, wo to apne gru
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک شیطان تمہارا دشمن ہے سو تم بھی (اس کی مخالفت کی شکل میں) اسے دشمن ہی بنائے رکھو، وہ تو اپنے گروہ کو صرف اِس لئے بلاتا ہے کہ وہ دوزخیوں میں شامل ہو جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ شیطان تمہارا دشمن ہے، اس لیے اس کو دشمن ہی سمجھتے رہو۔ وہ تو اپنے ماننے والوں کو جو دعوت دیتا ہے وہ اس لیے دیتا ہے تاکہ وہ دوزخ کے باسی بن جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

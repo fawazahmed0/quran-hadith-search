@@ -3224,6 +3224,12 @@ aye imaan waalo! Allah ta’ala qadre shikaar16 se tumhaara imtehaan karega, jin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اللہ کسی قدر (ایسے) شکار سے تمہیں ضرور آزمائے گا جس تک تمہارے ہاتھ اور تمہارے نیزے پہنچ سکتے ہیں تاکہ اللہ اس شخص کی پہچان کروا دے جو اس سے غائبانہ ڈرتا ہے پھر جو شخص اس کے بعد (بھی) حد سے تجاوز کر جائے تو اس کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ تمہیں شکار کے کچھ جانوروں کے ذریعے ضرور آزمائے گا جو تمہارے ہاتھوں اور تمہارے نیزوں کی زد میں آجائیں گے، تاکہ وہ یہ جان لے کہ کون ہے جو اسے دیکھے بغیر بھی اس سے ڈرتا ہے۔ پھر جو شخص اس کے بعد بھی حد سے تجاوز کرے گا وہ دردناک سزا کا مستحق ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

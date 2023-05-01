@@ -3224,6 +3224,12 @@ jis Allah ne aap par Qur’aan naazil farmaya hai, wo aap ko dobaara pehli jageh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جس (رب) نے آپ پر قرآن (کی تبلیغ و اقامت کو) فرض کیا ہے یقیناً وہ آپ کو (آپ کی چاہت کے مطابق) لوٹنے کی جگہ (مکہ یا آخرت) کی طرف (فتح و کامیابی کے ساتھ) واپس لے جانے والا ہے۔ فرما دیجئے: میرا رب اسے خوب جانتا ہے جو ہدایت لے کر آیا اور اسے (بھی) جو صریح گمراہی میں ہے۔٭o٭ (یہ آیت مکہ سے مدینہ کی طرف ہجرت فرماتے ہوئے حجفہ کے مقام پر نازل ہوئی اور یہ وعدہ فتح مکہ کے دن پورا ہو گیا۔)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) جس ذات نے تم پر اس قرآن کی ذمہ داری ڈالی ہے، وہ تمہیں دوبارہ اس جگہ پر لاکر رہے گا جو (تمہارے لیے) انسیت کی جگہ ہے کہہ دو : میرا رب اس سے بھی خوب واقف ہے جو ہدایت لے کر آیا ہے، اور اس سے بھی جو کھلی گمراہی میں مبتلا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

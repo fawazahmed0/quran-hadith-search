@@ -3224,6 +3224,12 @@ qareeb hai ke is qaul ki wajeh se asmaan phat jaaye aur zameen shaq ho jaaye aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کچھ بعید نہیں کہ اس (بہتان) سے آسمان پھٹ پڑیں اور زمین شق ہو جائے اور پہاڑ ریزہ ریزہ ہو کر گر جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کچھ بعید نہیں کہ اس کی وجہ سے آسمان پھٹ پڑیں، زمین شق ہوجائے اور پہاڑ ٹوٹ کر گرپڑیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

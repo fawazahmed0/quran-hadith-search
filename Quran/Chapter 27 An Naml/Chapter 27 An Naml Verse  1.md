@@ -3224,6 +3224,12 @@ Taa seeen - ye aayate hai Qur’aan ki (yani waazeh) aur roushan kitaab ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+طا، سین (حقیقی معنی اللہ اور رسول صلی اللہ علیہ وآلہ وسلم ہی بہتر جانتے ہیں)، یہ قرآن اور روشن کتاب کی آیتیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 طس۔ یہ قرآن کی اور ایک ایسی کتاب کی آیتیں جو حقیقت کھول دینے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

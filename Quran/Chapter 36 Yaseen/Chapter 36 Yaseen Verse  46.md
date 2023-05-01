@@ -3224,6 +3224,12 @@ aur un ke paas to un ke rab ki nishaaniyo mein se koyi nishaani aisi nahi aati, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُن کے رب کی نشانیوں میں سے کوئی (بھی) نشانی اُن کے پاس نہیں آتی مگر وہ اس سے رُوگردانی کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے پروردگار کی نشانیوں میں سے کوئی نشانی ایسی نہیں آتی جس سے وہ منہ نہ موڑ لیتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

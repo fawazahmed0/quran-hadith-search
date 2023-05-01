@@ -3224,6 +3224,12 @@ kaha jayega ke ab jahannam ke darwaazo mein dakhil ho jaao, jahaan hamesha rahen
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُن سے کہا جائے گا: دوزخ کے دروازوں میں داخل ہو جاؤ، (تم) اس میں ہمیشہ رہنے والے ہو، سو غرور کرنے والوں کا ٹھکانا کتنا برا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہا جائے گا کہ جہنم کے دروازوں میں ہمیشہ ہمیشہ رہنے کے لیے داخل ہوجاؤ کیونکہ بہت برا ٹھکانا ہے ان کا جو تکبر سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

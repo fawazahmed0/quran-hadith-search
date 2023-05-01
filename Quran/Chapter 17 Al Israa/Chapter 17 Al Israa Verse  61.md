@@ -3224,6 +3224,12 @@ jab hum ne farishto ko hukm diya ke aadam ko sajda karo to iblees ke siva sab ne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کیجئے) جب ہم نے فرشتوں سے فرمایا کہ تم آدم (علیہ السلام) کو سجدہ کرو تو ابلیس کے سوا سب نے سجدہ کیا، اس نے کہا: کیا میں اسے سجدہ کروں جسے تو نے مٹی سے پیدا کیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب ہم نے فرشتوں سے کہا تھا کہ آدم کو سجدہ کرو۔ چنانچہ انہوں نے سجدہ کیا، لیکن ابلیس نے نہیں کیا۔ اس نے کہا کہ : کیا میں اس کو سجدہ کروں جسے تو نے مٹی سے پیدا کیا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kaafir log hamaari di hoyi muhullath ko apne haq mein behtar na samjhe, ye muhul
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر یہ گمان ہرگز نہ کریں کہ ہم جو انہیں مہلت دے رہے ہیں (یہ) ان کی جانوں کے لئے بہتر ہے، ہم تو (یہ) مہلت انہیں صرف اس لئے دے رہے ہیں کہ وہ گناہ میں اور بڑھ جائیں، اور ان کے لئے (بالآخر) ذلّت انگیز عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے وہ ہرگز یہ نہ سمجھیں کہ ہم انہیں جو ڈھیل دے رہے ہیں تاکہ وہ گناہ میں اور آگے بڑھ جائیں اور (آخر کار) ان کے لیے ایسا عذاب ہوگا جو انہیں ذلیل کر کے رکھ دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

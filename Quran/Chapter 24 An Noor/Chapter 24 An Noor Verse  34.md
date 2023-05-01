@@ -3224,6 +3224,12 @@ hum ne tumhaari taraf khuli aur roushan aayate utaar di hai aur un logo ki kahaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے تمہاری طرف واضح اور روشن آیتیں نازل فرمائی ہیں اور کچھ ان لوگوں کی مثالیں (یعنی قصۂ عائشہ کی طرح قصۂ مریم اور قصۂ یوسف) جو تم سے پہلے گزر چکے ہیں اور (یہ) پرہیزگاروں کے لئے نصیحت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے وہ آیتیں بھی اتار کر تم تک پہنچا دی ہیں جو ہر بات کو واضح کرنے والی ہیں اور ان لوگوں کی مثالیں بھی جو تم سے پہلے گزر چکے ہیں، اور وہ نصیحت بھی جو اللہ سے ڈرنے والوں کے لیے کارآمد ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

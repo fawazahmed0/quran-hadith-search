@@ -3224,6 +3224,12 @@ aye momino! jab tum momin aurto se nikaah karo, phir haath lagaane se pehle (hee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جب تم مومن عورتوں سے نکاح کرو پھر تم انہیں طلاق دے دو قبل اس کے کہ تم انہیں مَس کرو (یعنی خلوتِ صحیحہ کرو) تو تمہارے لئے ان پر کوئی عدّت (واجب) نہیں ہے کہ تم اسے شمار کرنے لگو، پس انہیں کچھ مال و متاع دو اور انہیں اچھی طرح حُسنِ سلوک کے ساتھ رخصت کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جب تم نے مومن عورتوں سے نکاح کیا ہو، پھر تم نے انہیں چھونے سے پہلے ہی طلاق دے دی ہو، تو ان کے ذمہ تمہاری کوئی عدت واجب نہیں ہے جس کی گنتی تمہیں شمار کرنی ہو۔ لہذا انہیں کچھ تحفہ دے دو ، اور انہیں خوبصورتی سے رخصت کردو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

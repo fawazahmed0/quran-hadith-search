@@ -3224,6 +3224,12 @@ unhone jawaab diya ke Mosa(alaihissalaam) ki waapsi tak to hum isi ke mujaawer b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولی: ہم تو اسی (کی پوجا) پر جمے رہیں گے تاوقتیکہ موسٰی (علیہ السلام) ہماری طرف پلٹ آئیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہنے لگے کہ : جب تک موسیٰ واپس نہ آجائیں، ہم تو اسی کی عبادت پر جمے رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

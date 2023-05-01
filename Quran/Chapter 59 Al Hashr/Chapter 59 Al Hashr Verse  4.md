@@ -3224,6 +3224,12 @@ ye is liye ke unhone Allah ta’ala ki aur us ke rasool ki muqaalifath ki aur jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس وجہ سے ہوا کہ انہوں نے اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) سے شدید عداوت کی (ان کا سرغنہ کعب بن اشرف بدنام زمانہ گستاخ رسول تھا)، اور جو شخص اللہ (اور رسول صلی اللہ علیہ وآلہ وسلم کی) مخالفت کرتا ہے تو بیشک اللہ سخت عذاب دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس لیے کہ انہوں نے اللہ اور اس کے رسول سے دشمنی ٹھانی، اور جو شخص اللہ سے دشمنی کرتا ہے، تو اللہ بڑا سخت عذاب دینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar tum se kaafir jung karte to yaqinan peet dikha kar bhaagte, phir na to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے مومنو!) اگر کافر لوگ (حدیبیہ میں) تم سے جنگ (شروع) کر دیتے تو وہ ضرور پیٹھ پھیر کر بھاگ جاتے، پھر وہ نہ کوئی دوست پاتے اور نہ مددگار (مگر اللہ کو معاہدۂ اَمن کے ذریعے تمہارے لیے کئی فتوحات کا دروازہ کھولنا مقصود تھا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کافر لوگ تم سے لڑتے تو یقینا پیٹھ پھیر کر بھاگ جاتے، پھر انہیں کوئی یار و مددگار بھی نہ ملتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

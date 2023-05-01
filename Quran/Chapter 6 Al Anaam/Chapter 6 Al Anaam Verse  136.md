@@ -3224,6 +3224,12 @@ aur Allah ta’ala ne jo kheti aur maweshi paida kiye hai, un logo ne un mein se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے اللہ کے لئے انہی (چیزوں) میں سے ایک حصہ مقرر کر لیا ہے جنہیں اس نے کھیتی اور مویشیوں میں سے پیدا فرمایا ہے پھر اپنے گمانِ (باطل) سے کہتے ہیں کہ یہ (حصہ) اللہ کے لئے ہے اور یہ ہمارے (خود ساختہ) شریکوں کے لئے ہے، پھر جو (حصہ) ان کے شریکوں کے لئے ہے سو وہ تو اللہ تک نہیں پہنچتا اور جو (حصہ) اللہ کے لئے ہے تو وہ ان کے شریکوں تک پہنچ جاتا ہے، (وہ) کیا ہی برا فیصلہ کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے جو کھیتیاں اور چوپائے پیدا کیے ہیں ان لوگوں نے ان میں سے اللہ کا بس ایک حصہ مقرر کیا ہے۔ چنانچہ بزعم خود یوں کہتے ہیں کہ یہ حصہ تو اللہ کا ہے، اور یہ ہمارے ان معبودوں کا ہے جن کو ہم خدائی میں اللہ کا شریک مانتے ہیں۔ پھر جو حصہ ان کے شریکوں کا ہوتا ہے، وہ تو (کبھی) اللہ کے پاس نہیں پہنچتا، اور جو حصہ اللہ کا ہوتا ہے، وہ ان کے گھڑے ہوئے معبودوں کو پہنچ جاتا ہے۔ ایسی بری بری باتیں ہیں جو انہوں نے طے کر رکھی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

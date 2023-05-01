@@ -3224,6 +3224,12 @@ Allah ta’ala ek aur misaal bayaan farmaata hai do shaqso ki jin mein se ek to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے دو (ایسے) آدمیوں کی مثال بیان فرمائی ہے جن میں سے ایک گونگا ہے وہ کسی چیز پر قدرت نہیں رکھتا اور وہ اپنے مالک پر بوجھ ہے وہ (مالک) اسے جدھر بھی بھیجتا ہے کوئی بھلائی لے کر نہیں آتا، کیا وہ (گونگا) اور (دوسرا) وہ شخص جو (اس منصب کا حامل ہے کہ) لوگوں کو عدل و انصاف کا حکم دیتا ہے اور وہ خود بھی سیدھی راہ پر گامزن ہے (دونوں) برابر ہو سکتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ ایک اور مثال دیتا ہے کہ دو آدمی ہیں ان میں سے ایک گونگا ہے جو کوئی کام نہیں کرسکتا، اور اپنے آقا پر بوجھ بنا ہوا ہے، وہ اسے جہاں کہیں بھیجتا ہے، وہ کوئی ڈھنگ کا کام کر کے نہیں لاتا، کیا ایسا شخص اس دوسرے آدمی کے برابر ہوسکتا ہے جو دوسروں کو بھی اعتدال کا حکم دیتا ہے اور خود بھی سیدھے راستے پر قائم ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

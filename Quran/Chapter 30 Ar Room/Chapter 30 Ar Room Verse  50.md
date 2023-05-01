@@ -3224,6 +3224,12 @@ pas aap rahmate ilaahi ke asaar dekhe ke zameen ki mauth ke baadh kis tarah Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ اللہ کی رحمت کے اثرات کی طرف دیکھئے کہ وہ کس طرح زمین کو اس کی مُردنی کے بعد زندہ فرما دیتا ہے، بیشک وہ مُردوں کو (بھی اسی طرح) ضرور زندہ کرنے والا ہے اور وہ ہر چیز پر خوب قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب ذرا اللہ کی رحمت کے اثرات دیکھو کہ وہ زمین کو اس کے مردہ ہونے کے بعد کس طرح زندگی بخشتا ہے ! حقیقت یہ ہے کہ وہ مردوں کو زندہ کرنے والا ہے، اور وہ ہر چیز پر پوری طرح قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur mera sina tang ho raha hai aur meri zabaan chal nahi rahi, pas tu Haroon(ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ایسے ناسازگار ماحول میں) میرا سینہ تنگ ہوجاتا ہے اور میری زبان (روانی سے) نہیں چلتی سو ہارون (علیہ السلام) کی طرف (بھی جبرائیل علیہ السلام کو وحی کے ساتھ) بھیج دے (تاکہ وہ میرا معاون بن جائے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میرا دل تنگ ہونے لگتا ہے، اور میری زبان نہیں چلتی۔ اس لیے آپ ہارون کو بھی (نبوت کا) پیغام بھیج دیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

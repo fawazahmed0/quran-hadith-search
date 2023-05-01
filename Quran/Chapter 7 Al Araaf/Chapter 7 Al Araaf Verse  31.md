@@ -3224,6 +3224,12 @@ aye aulaad aadam! tum masjid ki har haazri ke waqt apna libaas pehen liya karo, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے آدم کے بیٹو اور بیٹیو ! جب کبھی مسجد میں آؤ تو اپنی خوشنمائی کا سامان (یعنی لباس جسم پر) لے کر آؤ، اور کھاؤ اور پیو، اور فضول خرچی مت کرو۔ یاد رکھو کہ اللہ فضول خرچ لوگوں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

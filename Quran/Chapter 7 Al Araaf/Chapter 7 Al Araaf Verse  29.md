@@ -3224,6 +3224,12 @@ aap keh di jiye ke mere rab ne hukm diya hai insaaf ka aur ye ke tum, har sajda 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : میرے پروردگار نے تو انصاف کا حکم دیا ہے۔ اور (یہ حکم دیا ہے کہ) جب کہیں سجدہ کرو، اپنا رخ ٹھیک ٹھیک رکھو، اور اس یقین کے ساتھ اس کو پکارو کہ اطاعت خالص اسی کا حق ہے۔ جس طرح اس نے تمہیں ابتدا میں پیدا کیا تھا۔ اسی طرح تم دوبارہ پیدا ہوگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur un ko wo din yaad dilaiye jis mein Allah un ko (apne huzor)jama karega (to u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس دن وہ انہیں جمع کرے گا (وہ محسوس کریں گے) گویا وہ دن کی ایک گھڑی کے سوا دنیا میں ٹھہرے ہی نہ تھے، وہ ایک دوسرے کو پہچانیں گے۔ بیشک وہ لوگ خسارے میں رہے جنہوں نے اللہ سے ملاقات کو جھٹلایا تھا اور وہ ہدایت یافتہ نہ ہوئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس دن اللہ ان کو (میدان حشر میں) اکٹھا کرے گا، تو انہیں ایسا معلوم ہوگا جیسے وہ (دنیا میں یا قبر میں) دن کی ایک گھڑی سے زیادہ نہیں رہے، (اسی لیے) وہ آپس میں ایک دوسرے کو پہچانتے ہوں گے۔ حقیقت یہ ہے کہ ان لوگوں نے بڑے گھاٹے کا سودا کیا ہے جنہوں نے اللہ سے (آخرت میں) جاملنے کو جھٹلایا ہے اور جو راہ راست پر نہیں آئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

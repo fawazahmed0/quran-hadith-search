@@ -3224,6 +3224,12 @@ yaqinan hum apne rasulo ki aur imaan waalo ki madad zindagaani dunya mein bhi ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک ہم اپنے رسولوں کی اور ایمان لانے والوں کی دنیوی زندگی میں (بھی) مدد کرتے ہیں اور اس دن (بھی کریں گے) جب گواہ کھڑے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ ہم اپنے پیغمبروں اور ایمان لانے والوں کی دنیوی زندگی میں بھی مدد کرتے ہی، اور اس دن بھی کریں گے جب گواہی دینے والے کھڑے ہوں گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

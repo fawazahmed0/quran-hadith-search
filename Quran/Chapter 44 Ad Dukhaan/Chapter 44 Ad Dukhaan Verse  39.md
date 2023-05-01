@@ -3224,6 +3224,12 @@ balke hum ne unhe durusth tadhbeer ke saath hee payda kiya hai, lekin un mein se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم نے دونوں کو حق کے (مقصد و حکمت کے) ساتھ پیدا کیا ہے لیکن اُن کے اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے انہیں برحق مقصد ہی کے لیے پیدا کیا ہے، لیکن ان میں سے اکثر لوگ سمجھتے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

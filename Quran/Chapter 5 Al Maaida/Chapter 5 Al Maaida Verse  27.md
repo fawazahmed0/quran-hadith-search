@@ -3224,6 +3224,12 @@ aadam(alaihissalam)ke duno beto ka khara khara haal bhi unhe suna do,un duno ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے نبی مکرم!) آپ ان لوگوں کو آدم (علیہ السلام) کے دو بیٹوں (ہابیل و قابیل) کی خبر سنائیں جو بالکل سچی ہے۔ جب دونوں نے (اللہ کے حضور ایک ایک) قربانی پیش کی سو ان میں سے ایک (ہابیل) کی قبول کر لی گئی اور دوسرے (قابیل) سے قبول نہ کی گئی تو اس (قابیل) نے (ہابیل سے حسداً و انتقاماً) کہا: میں تجھے ضرور قتل کر دوں گا، اس (ہابیل) نے (جواباً) کہا: بیشک اللہ پرہیزگاروں سے ہی (نیاز) قبول فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ان کے سامنے آدم کے دو بیٹوں کا واقعہ ٹھیک ٹھیک پڑھ کر سناؤ۔ جب دونوں نے ایک ایک قربانی پیش کی تھی، اور ان میں سے ایک کی قربانی قبول ہوگئی، اور دوسرے کی قبول نہ ہوئی۔ اس (دوسرے نے پہلے سے) کہا کہ : میں تجھے قتل کر ڈالوں گا۔ پہلے نے کہا کہ اللہ تو ان لوگوں سے (قربانی) قبول کرتا ہے جو متقی ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Wahan woh ek dusre se jaam-e-sharaab lapak lapak kar le rahey hongey jis mein na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہاں یہ لوگ جھپٹ جھپٹ کر (شرابِ طہور کے) جام لیں گے، اس (شرابِ جنت) میں نہ کوئی بے ہودہ گوئی ہوگی اور نہ گناہ گاری ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہاں وہ ایسے جام شراب پر (دوستانہ) چھینا جھپٹی کر رہے ہوں گے جس میں نہ کوئی بےہودگی ہوگی، اور نہ کوئی گناہ ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

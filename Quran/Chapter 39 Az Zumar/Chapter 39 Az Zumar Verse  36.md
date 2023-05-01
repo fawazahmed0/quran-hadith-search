@@ -3224,6 +3224,12 @@ kya Allah ta’ala apne bandhe ke liye kaafi nahi? ye log aap ko Allah ke siva a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا اللہ اپنے بندۂ (مقرّب نبیِ مکرّم صلی اللہ علیہ وآلہ وسلم) کو کافی نہیں ہے؟ اور یہ (کفّار) آپ کو اللہ کے سوا اُن بتوں سے (جن کی یہ پوجا کرتے ہیں) ڈراتے ہیں، اور جسے اللہ (اس کے قبولِ حق سے اِنکار کے باعث) گمراہ ٹھہرا دے تو اسے کوئی ہدایت دینے والا نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر !) کیا اللہ اپنے بندے کے لیے کافی نہیں ہے ؟ اور یہ لوگ تمہیں اس کے سوا دوسروں سے ڈراتے ہیں، اور جسے اللہ راستے سے بھٹکا دے، اسے کوئی راستے پر لانے والا نہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

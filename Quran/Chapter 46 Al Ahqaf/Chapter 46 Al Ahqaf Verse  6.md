@@ -3224,6 +3224,12 @@ aur jab logo ko jama kiya jayega to ye un ke dushaman ho jayenge aur un ki paras
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب لوگ (قیامت کے دن) جمع کئے جائیں گے تو وہ (معبودانِ باطلہ) ان کے دشمن ہوں گے اور (اپنی برات کی خاطر) ان کی عبادت سے ہی منکر ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب لوگوں کو محشر میں جمع کیا جائے گا تو وہ ان کے دشمن بن جائیں گے اور ان کی عبادت ہی سے منکر ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

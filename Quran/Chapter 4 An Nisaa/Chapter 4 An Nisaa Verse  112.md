@@ -3224,6 +3224,12 @@ aur jo shaqs koyi gunaah ya qata kar ke kisi be-gunaah ke zimme thoop de, us ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شحص کسی خطا یا گناہ کا ارتکاب کرے پھر اس کی تہمت کسی بے گناہ پرلگا دے تو اس نے یقیناً ایک بہتان اور کھلے گناہ (کے بوجھ) کو اٹھا لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر کوئی شخص کسی غلطی یا گناہ کا مرتکب ہو، پھر اس کا الزام کسی بےگناہ کے ذمے لگا دے، تو وہ بڑا بھاری بہتان اور کھلا گناہ اپنے ا وپر لاد لیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

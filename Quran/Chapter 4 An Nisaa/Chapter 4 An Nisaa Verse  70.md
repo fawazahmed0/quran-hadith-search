@@ -3224,6 +3224,12 @@ ye fazal Allah ta’ala ki taraf se hai aur kaafi hai Allah ta’ala jaanne waal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ فضل (خاص) اللہ کی طرف سے ہے، اور اللہ جاننے والا کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ فضیلت اللہ کی طرف سے ملتی ہے، اور (لوگوں کے حالات سے) پوری طرح باخبر ہونے کے لیے اللہ کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

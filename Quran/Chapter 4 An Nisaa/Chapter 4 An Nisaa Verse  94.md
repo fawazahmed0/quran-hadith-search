@@ -3224,6 +3224,12 @@ aye imaan waalo! jab tum Allah ki raah mein ja rahe ho tu tehqeeq kar liya karo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جب تم اللہ کی راہ میں (جہاد کے لئے) سفر پر نکلو تو تحقیق کر لیا کرو اور اس کو جو تمہیں سلام کرے یہ نہ کہو کہ تو مسلمان نہیں ہے، تم (ایک مسلمان کو کافر کہہ کر مارنے کے بعد مالِ غنیمت کی صورت میں) دنیوی زندگی کا سامان تلاش کرتے ہو تو (یقین کرو) اللہ کے پاس بہت اَموالِ غنیمت ہیں۔ اس سے پیشتر تم (بھی) توایسے ہی تھے پھر اللہ نے تم پر احسان کیا (اور تم مسلمان ہوگئے) پس (دوسروں کے بارے میں بھی) تحقیق کر لیا کرو۔ بیشک اللہ تمہارے کاموں سے خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ٍاے ایمان والو ! جب تم اللہ کے راستے میں سفر کرو تو تحقیق سے کام لیا کرو، اور جو شخص تم کو سلام کرے تو دنیوی زندگی کا سامان حاصل کرنے کی خواہش میں اس کو یہ نہ کہو کہ : تم مومن نہیں ہو۔ کیونکہ اللہ کے پاس مال غنیمت کے بڑے ذخیرے ہیں۔ تم بھی تو پہلے ایسے ہی تھے۔ پھر اللہ نے تم پر فضل کیا۔ لہذا تحقیق سے کام لو، بیشک جو کچھ تم کرتے ہو اللہ اس سب سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

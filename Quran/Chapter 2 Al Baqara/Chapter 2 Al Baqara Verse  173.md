@@ -3224,6 +3224,12 @@ tum par murda aur (baha hoa) qoon aur suwwar ka gosht aur har wo cheez jis par A
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس نے تم پر صرف مُردار اور خون اور سؤر کا گوشت اور وہ جانور جس پر ذبح کے وقت غیر اللہ کا نام پکارا گیا ہو حرام کیا ہے، پھر جو شخص سخت مجبور ہو جائے نہ تو نافرمانی کرنے والا ہو اور نہ حد سے بڑھنے والا تو اس پر (زندگی بچانے کی حد تک کھا لینے میں) کوئی گناہ نہیں، بیشک اللہ نہایت بخشنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے تو تمہارے لئے بس مردار جانور، خون اور سور حرام کیا ہے، نیز وہ جانور جس پر اللہ کے سوا کسی اور کا نام پکارا گیا ہو ہاں اگر کوئی شخص انتہائی مجبوری کی حالت میں ہو (اور ان چیزوں میں سے کچھ کھالے) جبکہ اس کا مقصد نہ لذت حاصل کرنا ہو اور نہ وہ (ضرورت کی) حد سے آگے بڑھے تو اس پر کوئی گناہ نہیں۔ یقینا اللہ بہت بخشنے والا بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

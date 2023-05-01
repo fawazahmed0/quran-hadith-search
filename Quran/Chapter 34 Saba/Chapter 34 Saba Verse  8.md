@@ -3224,6 +3224,12 @@ Na maloom yeh shaks Allah ke naam se jhoot ghadta hai ya isey junoon (deewana pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یا تو) وہ اللہ پر جھوٹا بہتان باندھتا ہے یا اسے جنون ہے، (ایسا کچھ بھی نہیں) بلکہ جو لوگ آخرت پر ایمان نہیں رکھتے وہ عذاب اور پرلے درجہ کی گمراہی میں (مبتلا) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پتہ نہیں اس شخص نے اللہ پر جھوٹ باندھا ہے یا اسے کسی طرح کا جنون لاحق ہے ؟ نہیں بلکہ حقیقت یہ ہے کہ جو لوگ آخرت پر ایمان نہیں رکھتے وہ خود عذاب میں اور پرلے درجے کی گمراہی میں مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

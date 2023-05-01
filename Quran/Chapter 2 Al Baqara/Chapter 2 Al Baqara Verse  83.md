@@ -3224,6 +3224,12 @@ aur jab hum ne bani israel se waada liya ke tum Allah ta’ala ke siva dosre ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کرو) جب ہم نے اولادِ یعقوب سے پختہ وعدہ لیا کہ اللہ کے سوا (کسی اور کی) عبادت نہ کرنا، اور ماں باپ کے ساتھ اچھا سلوک کرنا اور قرابت داروں اور یتیموں اور محتاجوں کے ساتھ بھی (بھلائی کرنا) اور عام لوگوں سے (بھی نرمی اور خوش خُلقی کے ساتھ) نیکی کی بات کہنا اور نماز قائم رکھنا اور زکوٰۃ دیتے رہنا، پھر تم میں سے چند لوگوں کے سوا سارے (اس عہد سے) رُوگرداں ہو گئے اور تم (حق سے) گریز ہی کرنے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وہ وقت یاد کرو) جب ہم نے بنی اسرائیل سے پکا عہد لیا تھا کہ : تم اللہ کے سوا کسی کی عبادت نہیں کرو گے، اور والدین سے اچھا سلوک کرو گے، اور رشتہ داروں سے بھی اور یتیموں اور مسکینوں سے بھی۔ اور لوگوں سے بھلی بات کہنا، اور نماز قائم کرنا اور زکوٰۃ دینا۔ (مگر) پھر تم میں سے تھوڑے سے لوگوں کے سوا باقی سب (اس عہد سے) منہ موڑ کر پھرگئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

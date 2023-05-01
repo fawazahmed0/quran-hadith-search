@@ -3224,6 +3224,12 @@ aur kaafiro ne imaan daaro ki nisbath kaha ke agar ye (deen) behtar hota to ye l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافروں نے مومنوں سے کہا: اگر یہ (دینِ محمدی صلی اللہ علیہ وآلہ وسلم) بہتر ہوتا تو یہ لوگ اس کی طرف ہم سے پہلے نہ بڑھتے (ہم خود ہی سب سے پہلے اسے قبول کر لیتے)، اور جب ان (کفار) نے (خود) اس سے ہدایت نہ پائی تو اب کہتے ہیں کہ یہ تو پرانا جھوٹ (اور بہتان) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے، وہ ایمان لانے والوں کے بارے میں یوں کہتے ہیں کہ : اگر یہ (ایمان لانا) کوئی اچھی بات ہوتی تو یہ لوگ اس بارے میں ہم سے سبقت نہ لے جاسکتے۔ اور جب ان کافروں نے اس سے خود ہدایت حاصل نہیں کی تو وہ تو یہی کہیں گے کہ یہ وہی پرانے زمانے کا جھوٹ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

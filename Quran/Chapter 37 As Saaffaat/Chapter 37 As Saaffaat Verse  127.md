@@ -3224,6 +3224,12 @@ lekin khaum ne unhe jhutlaaya, pas wo zaroor (azaab mein) haazir rakhe jayenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو ان لوگوں نے (یعنی قومِ بعلبک نے) الیاس (علیہ السلام) کو جھٹلایا پس وہ (بھی عذابِ جہنم میں) حاضر کردیے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ انہوں نے الیاس کو جھٹلایا، اس لیے وہ ضرور (عذاب میں) دھر لیے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

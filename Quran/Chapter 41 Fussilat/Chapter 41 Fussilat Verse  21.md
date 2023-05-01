@@ -3224,6 +3224,12 @@ ye apni khaalo se kahenge ke tum ne hamaare qilaaf shahaadath kyo di, wo jawaab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر وہ لوگ اپنی کھالوں سے کہیں گے: تم نے ہمارے خلاف کیوں گواہی دی، وہ کہیں گی: ہمیں اُس اللہ نے گویائی عطا کی جو ہر چیز کو قوتِ گویائی دیتا ہے اور اسی نے تمہیں پہلی بار پیدا فرمایا ہے اور تم اسی کی طرف پلٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اپنی کھالوں سے کہیں گے کہ تم نے ہمارے خلاف کیوں گواہی دی۔ وہ کہیں گی کہ ہمیں اسی ذات نے بولنے کی طاقت دے دی ہے جس نے ہر چیز کو گویائی عطا فرمائی ہے۔ اور وہی ہے جس نے تمہیں پہلی بار پیدا کیا تھا، اور اسی کی طرف تمہیں واپس لے جایا جا رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

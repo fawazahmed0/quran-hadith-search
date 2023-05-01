@@ -3224,6 +3224,12 @@ tujhe jo bhalaayi milti hai wo Allah ta’ala ki taraf se hai aur jo boraayi pah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے انسان! اپنی تربیت یوں کر کہ) جب تجھے کوئی بھلائی پہنچے تو (سمجھ کہ) وہ اللہ کی طرف سے ہے (اسے اپنے حسنِ تدبیر کی طرف منسوب نہ کر)، اور جب تجھے کوئی برائی پہنچے تو (سمجھ کہ) وہ تیری اپنی طرف سے ہے (یعنی اسے اپنی خرابئ نفس کی طرف منسوب کر)، اور (اے محبوب!) ہم نے آپ کو تمام انسانوں کے لئے رسول بنا کر بھیجا ہے، اور (آپ کی رسالت پر) اللہ گواہی میں کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہیں جو کوئی اچھائی پہنچتی ہے تو وہ محض اللہ کی طرف سے ہوتی ہے اور جو کوئی برائی پہنچتی ہے، تو وہ تمہارے اپنے سبب سے ہوتی ہے، اور (اے پیغمبر) ہم نے تمہیں لوگوں کے پاس رسول بنا کر بھیجا ہے، اور اللہ (اس بات کی) گواہی دینے کے لیے کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

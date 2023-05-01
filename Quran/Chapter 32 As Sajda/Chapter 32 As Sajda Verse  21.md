@@ -3224,6 +3224,12 @@ bil yaqeen hum unhe qareeb ke chote se baaz azaab, is bade azaab ke siva chakaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم ان کو یقیناً (آخرت کے) بڑے عذاب سے پہلے قریب تر (دنیوی) عذاب (کا مزہ) چکھائیں گے تاکہ وہ (کفر سے) باز آجائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس بڑے عذاب سے پہلے بھی ہم انہیں کم درجے کے عذاب کا مزہ بھی ضرور چکھائیں گے۔ شاید یہ باز آجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

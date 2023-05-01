@@ -3224,6 +3224,12 @@ nigaahe nichi hongi aur un par zillath wa qaari cha rahi hogi, halaan ke ye sajd
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کی آنکھیں (ہیبت اور ندامت کے باعث) جھکی ہوئی ہوں گی (اور) ان پر ذِلت چھا رہی ہوگی، حالانکہ وہ (دنیا میں بھی) سجدہ کے لئے بلائے جاتے تھے جبکہ وہ تندرست تھے (مگر پھر بھی سجدہ کے اِنکاری تھے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی نگاہیں جھکی ہوئی ہوں گی، ان پر ذلت چھائی ہوئی ہوگی۔ اس وقت بھی انہیں سجدے کے لیے بلایا جاتا تھا جب یہ لوگ صحیح سالم تھے (اس وقت قدرت کے باوجود یہ انکار کرتے تھے)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo log Allah aur us ke rasool ko eza dete hai, un par dunya aur aaqirath mein Al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کو اذیت دیتے ہیں اللہ ان پر دنیا اور آخرت میں لعنت بھیجتا ہے اور اُس نے ان کے لئے ذِلّت انگیز عذاب تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اللہ اور اس کے رسول کو تکلیف پہنچاتے ہیں اللہ نے دنیا اور آخرت میں ان پر لعنت کی ہے اور ان کے لیے ایسا عذاب تیار کر رکھا ہے جو ذلیل کر کے رکھ دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

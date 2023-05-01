@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ne kaha main apne aur tumhaare rab ki panaah mein ataa hoon,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور موسٰی (علیہ السلام) نے کہا: میں اپنے رب اور تمہارے رب کی پناہ لے چکا ہوں، ہر متکبر شخص سے جو یومِ حساب پر ایمان نہیں رکھتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور موسیٰ نے کہا : میں نے تو ہر اس متکبر سے جو یوم حساب پر ایمان نہیں رکھتا، اس کی پناہ لے لی ہے جو میرا بھی پروردگار ہے اور تمہارا بھی پروردگار۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

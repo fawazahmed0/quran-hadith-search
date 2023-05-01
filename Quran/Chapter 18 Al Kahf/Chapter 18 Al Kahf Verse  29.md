@@ -3224,6 +3224,12 @@ aur elaan karde ke ye sara-sar barhaq Qur’an tumhaare rub ki taraf se hai, ab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرما دیجئے کہ (یہ) حق تمہارے رب کی طرف سے ہے، پس جو چاہے ایمان لے آئے اور جو چاہے انکار کردے، بیشک ہم نے ظالموں کے لئے (دوزخ کی) آگ تیار کر رکھی ہے جس کی دیواریں انہیں گھیر لیں گی، اور اگر وہ (پیاس اور تکلیف کے باعث) فریاد کریں گے تو ان کی فریاد رسی ایسے پانی سے کی جائے گی جو پگھلے ہوئے تانبے کی طرح ہوگا جو ان کے چہروں کو بھون دے گا، کتنا برا مشروب ہے، اور کتنی بری آرام گاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہہ دو کہ : حق تو تمہارے رب کی طرف سے آچکا ہے۔ اب جو چاہے ایمان لے آئے اور جو چاہے کفر اختیار کرے۔ ہم نے بیشک (ایسے) ظالموں کے لیے آگ تیار کر رکھی ہے جس کی قناتیں ان کو گھیرے میں لے لیں گی، اور اگر وہ فریاد کریں گے تو ان کی فریاد کا جواب ایسے پانی سے دیا جائے گا جو تیل کی تلچھٹ جیسا ہوگا، (اور) چہروں کو بھون کر رکھ دے گا۔ کیسا بدترین پانی، اور کیسی بری آرام گاہ !۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

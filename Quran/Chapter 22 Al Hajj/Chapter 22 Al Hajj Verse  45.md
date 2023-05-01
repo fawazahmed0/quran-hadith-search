@@ -3224,6 +3224,12 @@ bahuth si bastiyaan hai, jinhe hum ne teh-wa-baala3 kar diya, is liye ke wo zaal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر کتنی ہی (ایسی) بستیاں ہیں جنہیں ہم نے ہلاک کر ڈالا اس حال میں کہ وہ ظالم تھیں پس وہ اپنی چھتوں پر گری پڑی ہیں اور (ان کی ہلاکت سے) کتنے کنویں بے کار (ہوگئے) اور کتنے مضبوط محل اجڑے پڑے (ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض کتنی بستیاں تھیں جن کو ہم نے اس وقت ہلاک کیا جب وہ ظلم کر رہی تھیں، چنانچہ وہ اپنی چھتوں کے بل گری پڑی ہیں، اور کتنے ہی کنویں جو اب بیکار ہوئے پڑے ہیں، اور کتنے پکے بنے ہوئے محل (جو کھنڈر بن چکے ہیں) ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

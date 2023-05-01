@@ -3224,6 +3224,12 @@ jis din wo tumhe bulayega tum us ki taareef karte hoye taameel irshaad karoge au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن وہ تمہیں پکارے گا تو تم اس کی حمد کے ساتھ جواب دو گے اور خیال کرتے ہوگے کہ تم (دنیا میں) بہت تھوڑا عرصہ ٹھہرے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن وہ تمہیں بلائے گا تو تم اس کی حمد کرتے ہوئے اس کے حکم کی تعمیل کرو گے، اور یہ سمجھ رہے ہو گے کہ تم بس تھوڑی سی مدت (دنیا میں) رہے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

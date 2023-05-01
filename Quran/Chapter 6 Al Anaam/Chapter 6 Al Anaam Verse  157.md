@@ -3224,6 +3224,12 @@ ya yo na kaho ke agar hum par koyi kitaab naazil hoti to hum un se bhi zyaada ra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا یہ (نہ) کہو کہ اگر ہم پر کتاب اتاری جاتی تو ہم یقیناً ان سے زیادہ ہدایت یافتہ ہوتے، سو اب تمہارے رب کی طرف تمہارے پاس واضح دلیل اور ہدایت اور رحمت آچکی ہے، پھر اس سے بڑھ کر ظالم کون ہو سکتا ہے جو اللہ کی آیتوں کو جھٹلائے اور ان سے کترائے۔ ہم عنقریب ان لوگوں کو جو ہماری آیتوں سے گریز کرتے ہیں برے عذاب کی سزا دیں گے اس وجہ سے کہ وہ (آیاتِ ربّانی سے) اِعراض کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا یہ کہو کہ اگر ہم لوگوں پر کتاب نازل ہوجاتی تو ہم ان (یہودیوں اور عیسائیوں) سے یقینا زیادہ ہدایت پر ہوتے۔ لو ! پھر تمہارے پاس تمہارے پروردگار کی طرف سے ایک روشن دلیل اور ہدایت و رحمت کا سامان آگیا ہے۔ اب اس سے بڑھ کر ظالم کون ہوگا جو اللہ کی آیتوں کو جھٹلائے اور ان سے منہ موڑ لے ؟ جو لوگ ہماری آیتوں سے منہ موڑ رہے ہیں، ان کو ہم بہت برا عذاب دیں گے۔ کیونکہ وہ برابر منہ موڑے ہی رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

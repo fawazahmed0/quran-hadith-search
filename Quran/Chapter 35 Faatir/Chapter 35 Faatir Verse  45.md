@@ -3224,6 +3224,12 @@ aur agar Allah ta’ala logo par un ke amaal ke sabab daaro-geer5 farmaane lagta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ لوگوں کو اُن اعمالِ (بد) کے بدلے جو انہوں نے کما رکھے ہیں (عذاب کی) گرفت میں لینے لگے تو وہ اس زمین کی پشت پر کسی چلنے والے کو نہ چھوڑے لیکن وہ انہیں مقررہ مدّت تک مہلت دے رہا ہے۔ پھر جب ان کا مقررہ وقت آجائے گا تو بیشک اللہ اپنے بندوں کو خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ لوگوں کے ہر کرتوت پر ان کی پکڑ کرنے لگتا تو اس زمین کی پشت پر کسی چلنے والے کو نہ چھوڑتا، لیکن وہ ایک معین مدت تک کے لیے ان کو مہلت دے رہا ہے۔ پھر جب ان کا مقررہ وقت آجائے گا تو اللہ اپنے بندوں کو خود دیکھ لے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

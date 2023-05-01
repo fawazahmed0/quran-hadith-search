@@ -3224,6 +3224,12 @@ kya wo nahi jante ke Allah ko unke dil ka bhed aur un ki sargoshi sab malom hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہیں معلوم نہیں کہ اللہ ان کے بھید اور ان کی سرگوشیاں جانتا ہے اور یہ کہ اللہ سب غیب کی باتوں کو بہت خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا انہیں یہ پتہ نہیں تھا کہ اللہ ان کی تمام پوشیدہ باتوں اور سرگوشیوں کو جانتا ہے اور یہ کہ اس کو غیب کی ساری باتوں کا پورا پورا علم ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

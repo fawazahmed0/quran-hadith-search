@@ -3224,6 +3224,12 @@ aur kya tum is baath se taajjub karte ho ke tumhaare parvardigaar ki taraf se tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا تمہیں اس بات پر تعجب ہے کہ تمہارے رب کی نصیحت ایک ایسے آدمی کے ذریعے تم تک پہنچی ہے جو خود تم ہی میں سے ہے، تاکہ وہ تمہیں خبردار کرے ؟ اور وہ وقت یاد کرو جب اس نے نوح (علیہ السلام) کی قوم کے بعد تمہیں جانشین بنایا، اور جسم کی ڈیل ڈول میں تمہیں (دوسروں سے) بڑھا چڑھا کر رکھا۔ لہذا اللہ کی نعمتوں پر دھیان دو ، تاکہ تمہیں فلاح نصیب ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

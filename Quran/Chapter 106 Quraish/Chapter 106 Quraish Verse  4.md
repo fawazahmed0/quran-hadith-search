@@ -3224,6 +3224,12 @@ jis ne unhe bhook mein khaana diya aur dar (aur khauf) mein aman (wa amaan) diya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے انہیں بھوک (یعنی فقر و فاقہ کے حالات) میں کھانا دیا (یعنی رِزق فراہم کیا) اور (دشمنوں کے) خوف سے امن بخشا (یعنی محفوظ و مامون زندگی سے نوازا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس نے بھوک کی حالت میں انہیں کھانے کو دیا، اور بدامنی سے انہیں محفوظ رکھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

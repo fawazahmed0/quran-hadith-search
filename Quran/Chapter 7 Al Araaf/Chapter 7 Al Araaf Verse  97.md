@@ -3224,6 +3224,12 @@ kya phir bhi un bastiyo ke rehne waale is baath se be-fikr ho gaye hai ke un par
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب بتاؤ کہ کیا (دوسری) بستیوں کے لوگ اس بات سے بالکل بےخوف ہوگئے ہیں کہ کسی رات ہمارا عذاب ان پر ایسے وقت آپڑے جب وہ سوئے ہوئے ہوں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum ne har har rasool ko sirf isi liye bheja ke Allah ta’ala ke hukm se us ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے کوئی پیغمبر نہیں بھیجا مگر اس لئے کہ اللہ کے حکم سے اس کی اطاعت کی جائے، اور (اے حبیب!) اگر وہ لوگ جب اپنی جانوں پر ظلم کر بیٹھے تھے آپ کی خدمت میں حاضر ہو جاتے اوراللہ سے معافی مانگتے اور رسول(صلی اللہ علیہ وآلہ وسلم) بھی ان کے لئے مغفرت طلب کرتے تو وہ (اس وسیلہ اور شفاعت کی بنا پر) ضرور اللہ کو توبہ قبول فرمانے والا نہایت مہربان پاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے کوئی رسول اس کے سوا کسی اور مقصد کے لیے نہیں بھیجا کہ اللہ کے حکم سے اس کی اطاعت کی جائے۔ اور جب ان لوگوں نے اپنی جانوں پر ظلم کیا تھا، اگر یہ اس وقت تمہارے پاس آکر اللہ سے مغفرت مانگتے اور رسول بھی ان کے لیے مغفرت کی دعا کرتے تو یہ اللہ کو بہت معاف کرنے والا، بڑا مہربان پاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

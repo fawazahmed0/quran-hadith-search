@@ -3224,6 +3224,12 @@ aur baaz log wo bhi hai jo kehte hai aye hamaare rab! hamein dunya mein neki de 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہی میں سے ایسے بھی ہیں جو عرض کرتے ہیں: اے ہمارے پروردگار! ہمیں دنیا میں (بھی) بھلائی عطا فرما اور آخرت میں (بھی) بھلائی سے نواز اور ہمیں دوزخ کے عذاب سے محفوظ رکھ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہی میں سے وہ بھی ہیں جو یہ کہتے ہیں کہ :“ اے ہمارے پروردگار ! ہمیں دنیا میں بھی بھلائی عطا فرما اور آخرت میں بھی بھلائی، اور ہمیں دوزخ کے عذاب سے بچا لے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

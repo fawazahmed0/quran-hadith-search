@@ -3224,6 +3224,12 @@ wo zameen aur asmaano ka ibteda’an paida karne waala hai, wo jis kaam ko karna
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی آسمانوں اور زمین کو وجود میں لانے والا ہے، اور جب کسی چیز (کے ایجاد) کا فیصلہ فرما لیتا ہے تو پھر اس کو صرف یہی فرماتا ہے کہ ’تو ہوجا‘ پس وہ ہوجاتی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ آسمانوں اور زمین کا موجد ہے اور جب وہ کسی بات کا فیصلہ کرتا ہے تو اس کے بارے میں بس اتنا کہتا ہے کہ : ہوجا۔ چنانچہ وہ ہوجاتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

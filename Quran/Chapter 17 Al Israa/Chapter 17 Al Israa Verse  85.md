@@ -3224,6 +3224,12 @@ aur ye log aap se ruh ki baabath sawaal karte hai, aap jawaab de dijiye ke ruh m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (کفّار) آپ سے روح کے متعلق سوال کرتے ہیں، فرما دیجئے: روح میرے رب کے اَمر سے ہے اور تمہیں بہت ہی تھوڑا سا علم دیا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) یہ لوگ تم سے روح کے بارے میں پوچھتے ہیں۔ کہہ دو کہ : روح میرے پروردگار کے حکم سے (بنی) ہے۔ اور تمہیں جو علم دیا گیا ہے وہ بس تھوڑا ہی سا علم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

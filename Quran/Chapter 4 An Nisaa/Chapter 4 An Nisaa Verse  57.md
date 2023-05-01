@@ -3224,6 +3224,12 @@ aur jo log imaan laaye aur shaayesta amal kiye hum an-qareeb unhe un jannato mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے تو ہم انہیں بہشتوں میں داخل کریں گے جن کے نیچے نہریں رواں ہیں وہ ان میں ہمیشہ رہیں گے، ان کے لئے وہاں پاکیزہ بیویاں ہوں گی اور ہم ان کو بہت گھنے سائے میں داخل کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لائے ہیں اور انہوں نے نیک عمل کیے ہیں ان کو ہم ایسے باغات میں داخل کریں گے جن کے نیچے نہریں بہتی ہوں گی، جن میں وہ ہمیشہ ہمیشہ رہیں گے۔ وہاں ان کے لیے پاکیزہ بیویاں ہوں گی، اور ہم انہیں گھنی چھاؤں میں داخل کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

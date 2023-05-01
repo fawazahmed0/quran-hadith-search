@@ -3224,6 +3224,12 @@ Allah wo hai jis ke siva koyi maaboodh (bar-haq) nahi,wo tum sab ko yaqinan qaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہے (کہ) اس کے سوا کوئی لائقِ عبادت نہیں۔ وہ تمہیں ضرور قیامت کے دن جمع کرے گا جس میں کوئی شک نہیں، اور اللہ سے بات میں زیادہ سچا کون ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے کہ اس کے سوا کوئی خدا نہیں، وہ تمہیں ضرور بالضرور قیامت کے دن اکٹھا کرے گا جس کے آنے میں کوئی شک نہیں ہے، اور کون ہے جو اللہ سے زیادہ بات کا سچا ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur yaad karo! jab ke hum ne jino ki ek jamaath ko teri taraf mutawajje kiya ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب!) جب ہم نے جنّات کی ایک جماعت کو آپ کی طرف متوجہ کیا جو قرآن غور سے سنتے تھے۔ پھر جب وہ وہاں (یعنی بارگاہِ نبوت میں) حاضر ہوئے تو انہوں نے (آپس میں) کہا: خاموش رہو، پھر جب (پڑھنا) ختم ہو گیا تو وہ اپنی قوم کی طرف ڈر سنانے والے (یعنی داعی الی الحق) بن کر واپس گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) یاد کرو جب ہم نے جنات میں سے ایک گروہ کو تمہاری طرف متوجہ کیا کہ وہ قرآن سنیں۔ چنانچہ جب وہ وہاں پہنچے تو انہوں نے (ایک دوسرے سے) کہا کہ : خاموش ہوجاؤ، پھر جب وہ پڑھا جاچکا تو وہ اپنی قوم کے پاس انہیں خبردار کرتے ہوئے واپس پہنچے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

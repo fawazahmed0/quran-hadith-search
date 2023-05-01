@@ -3224,6 +3224,12 @@ aap keh dijiye ke agar tumhare baap aur tumhare ladke aur tumhare bhai aur tumha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے نبی مکرم!) آپ فرما دیں: اگر تمہارے باپ (دادا) اور تمہارے بیٹے (بیٹیاں) اور تمہارے بھائی (بہنیں) اور تمہاری بیویاں اور تمہارے (دیگر) رشتہ دار اور تمہارے اموال جو تم نے (محنت سے) کمائے اور تجارت و کاروبار جس کے نقصان سے تم ڈرتے رہتے ہو اور وہ مکانات جنہیں تم پسند کرتے ہو، تمہارے نزدیک اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) اور اس کی راہ میں جہاد سے زیادہ محبوب ہیں تو پھر انتظار کرو یہاں تک کہ اللہ اپنا حکمِ (عذاب) لے آئے، اور اللہ نافرمان لوگوں کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! مسلمانوں سے) کہہ دو کہ : اگر تمہارے باپ، تمہارے بیٹے، تمہارے بھائی، تمہاری بیویاں، اور تمہارا خاندان، اور وہ مال و دولت جو تم نے کمایا ہے اور وہ کاروبار جس کے مندا ہونے کا تمہیں اندیشہ ہے، اور وہ رہائشی مکان جو تمہیں پسند ہیں، تمہیں اللہ اور اس کے رسول سے، اور اس کے راستے میں جہاد کرنے سے زیادہ محبوب ہیں۔ تو انتظار کرو، یہاں تک کہ اللہ اپنا فیصلہ صادر فرما دے۔ اور اللہ نافرمان لوگوں کو منزل تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

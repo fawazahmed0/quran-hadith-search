@@ -3224,6 +3224,12 @@ ke apni chohdi hoyi dunya mein ja kar nek amaal karlo, har giz aisa nahi hoga, y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ میں اس (دنیا) میں کچھ نیک عمل کر لوں جسے میں چھوڑ آیا ہوں۔ ہر گز نہیں، یہ وہ بات ہے جسے وہ (بطورِ حسرت) کہہ رہا ہوگا اور ان کے آگے اس دن تک ایک پردہ (حائل) ہے (جس دن) وہ (قبروں سے) اٹھائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ جس دنیا کو میں چھوڑ کر آیا ہوں، اس میں جاکر نیک عمل کروں۔ ہرگز نہیں ! یہ تو ایک بات ہی بات ہے جو وہ زبان سے کہہ رہا ہے، اور ان (مرنے والوں) کے سامنے عالم برزخ کی آڑ ہے۔ جو اس وقت تک قائم رہے گی جب تک ان کو دوبارہ زندہ کر کے اٹھایا جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

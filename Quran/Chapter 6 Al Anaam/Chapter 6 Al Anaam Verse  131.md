@@ -3224,6 +3224,12 @@ ye us wajeh se hai ke aap ka rab kisi basti waalo ko kufr ke sabab aisi haalath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (رسولوں کا بھیجنا) اس لئے تھا کہ آپ کا رب بستیوں کو ظلم کے باعث ایسی حالت میں تباہ کرنے والا نہیں ہے کہ وہاں کے رہنے والے (حق کی تعلیمات سے بالکل) بے خبر ہوں (یعنی انہیں کسی نے حق سے آگاہ ہی نہ کیا ہو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ (پیغمبر بھیجنے کا) سارا سلسلہ اس لیے تھا کہ تمہارے پروردگار کو یہ گوارا نہیں تھا کہ وہ بستیوں کو کسی زیادتی کی وجہ سے اس حالت میں ہلاک کردے کہ اس کے لوگ بیخبر ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

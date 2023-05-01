@@ -3224,6 +3224,12 @@ pas do din mein saath asmaan bana diye aur har asmaan mein us ke munaasib ehkaam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر دو دِنوں (یعنی دو مرحلوں) میں سات آسمان بنا دیئے اور ہر سماوی کائنات میں اس کا نظام ودیعت کر دیا اور آسمانِ دنیا کو ہم نے چراغوں (یعنی ستاروں اور سیّاروں) سے آراستہ کر دیا اور محفوظ بھی (تاکہ ایک کا نظام دوسرے میں مداخلت نہ کر سکے)، یہ زبر دست غلبہ (و قوت) والے، بڑے علم والے (رب) کا مقرر کردہ نظام ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ اس نے دو دن میں اپنے فیصلے کے تحت ان کے سات آسمان بنا دئیے اور ہر آسمان میں اس کے مناسب حکم بھیج دیا اور ہم نے اس قریب والے آسمان کو چراغوں سے سجایا اور اسے خوب محفوط کردیا۔ یہ اس ذات کی نپی تلی منصوبہ بندی ہے جس کا اقتدار بھی کامل ہے، جس کا علم بھی مکمل
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

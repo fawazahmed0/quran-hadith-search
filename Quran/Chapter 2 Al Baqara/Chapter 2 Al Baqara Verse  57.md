@@ -3224,6 +3224,12 @@ aur hum ne tum par baadal ka saaya kiya aur tum par mann wa salwa9 utaara (aur k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کرو) جب ہم نے تم پر (وادئ تِیہ میں) بادل کا سایہ کئے رکھا اور ہم نے تم پر مَنّ و سلوٰی اتارا کہ تم ہماری عطا کی ہوئی پاکیزہ چیزوں میں سے کھاؤ، سو انہوں نے (نافرمانی اور ناشکری کر کے) ہمارا کچھ نہیں بگاڑا مگر اپنی ہی جانوں پر ظلم کرتے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے تم کو بادل کا سایہ عطا کیا اور تم پر من وسلویٰ نازل کیا (اور کہا کہ) جو پاکیزہ رزق ہم نے تمہیں بخشا ہے (شوق سے) کھاؤ اور یہ (نافرمانیاں کرکے) انہوں نے ہمارا کچھ نہیں بگاڑا بلکہ وہ خود اپنی جانوں پر ہی ظلم کرتے رہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

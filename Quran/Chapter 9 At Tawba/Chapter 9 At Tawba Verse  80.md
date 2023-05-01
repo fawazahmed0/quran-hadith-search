@@ -3224,6 +3224,12 @@ un ke liye tu (saws) isteghfar kar ya na kar,agar tu satter martaba bhi un ke li
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ خواہ ان (بدبخت، گستاخ اور آپ کی شان میں طعنہ زنی کرنے والے منافقوں) کے لئے بخشش طلب کریں یا ان کے لئے بخشش طلب نہ کریں، اگر آپ (اپنی طبعی شفقت اور عفو و درگزر کی عادتِ کریمانہ کے پیشِ نظر) ان کے لئے ستر مرتبہ بھی بخشش طلب کریں تو بھی اللہ انہیں ہرگز نہیں بخشے گا، یہ اس وجہ سے کہ انہوں نے اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کے ساتھ کفر کیا ہے، اور اللہ نافرمان قوم کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے نبی) تم ان کے لیے استغفار کرو یا نہ کرو، اگر تم ان کے لیے ستر مرتبہ استغفار کرو گے تب بھی اللہ انہیں معاف نہیں کرے گا۔ یہ اس لیے کہ انہوں نے اللہ اور اس کے رسول کے ساتھ کفر کا رویہ اپنایا ہے، اور اللہ نافرمان لوگوں کو ہدایت تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

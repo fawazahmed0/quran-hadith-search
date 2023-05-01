@@ -3224,6 +3224,12 @@ aur tum ye haalath yaad karo ke Allah ta’ala ne tum ko aadh ke baadh jaanashee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یا دکرو جب اللہ نے تمہیں قوم عاد کے بعد جانشین بنایا، اور تمہیں زمین پر اس طرح بسایا کہ تم اس کے ہموار علاقوں میں محل بناتے ہو، اور پہاڑوں کو تراش کر گھروں کی شکل دے دیتے ہو۔ لہذا للہ کی نعمتوں پر دھیان دو ، اور زمین میں فساد مچاتے نہ پھرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

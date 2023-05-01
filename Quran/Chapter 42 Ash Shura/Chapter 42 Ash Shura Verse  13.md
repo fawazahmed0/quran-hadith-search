@@ -3224,6 +3224,12 @@ Allah ta’ala ne tumhaare liye wahi deen muqarrar kar diya hai, jis ke qaayam k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُس نے تمہارے لئے دین کا وہی راستہ مقرّر فرمایا جس کا حکم اُس نے نُوح (علیہ السلام) کو دیا تھا اور جس کی وحی ہم نے آپ کی طرف بھیجی اور جس کا حکم ہم نے ابراھیم اور موسٰی و عیسٰی (علیھم السلام) کو دیا تھا (وہ یہی ہے) کہ تم (اِسی) دین پر قائم رہو اور اس میں تفرقہ نہ ڈالو، مشرکوں پر بہت ہی گراں ہے وہ (توحید کی بات) جس کی طرف آپ انہیں بلا رہے ہیں۔ اللہ جسے (خود) چاہتا ہے اپنے حضور میں (قربِ خاص کے لئے) منتخب فرما لیتا ہے، اور اپنی طرف (آنے کی) راہ دکھا دیتا ہے (ہر) اس شخص کو جو (اللہ کی طرف) قلبی رجوع کرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے تمہارے لیے دین کا وہی طریقہ طے کیا ہے جس کا حکم اس نے نوح کو دیا تھا، اور جو (اے پیغمبر) ہم نے تمہارے پاس وحی کے ذریعے بھیجا ہے اور جس کا حکم ہم نے ابراہیم، موسیٰ اور عیسیٰ کو دیا تھا کہ تم دین کو قائم کرو، اور اس میں تفرقہ نہ ڈالنا۔ (پھر بھی) مشرکین کو وہ بات بہت گراں گزرتی ہے جس کی طرف تم انہیں دعوت دے رہے ہو۔ اللہ جس کو چاہتا ہے چن کر اپنی طرف کھینچ لیتا ہے اور جو کوئی اس سے لو لگاتا ہے اسے اپنے پاس پہنچا دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

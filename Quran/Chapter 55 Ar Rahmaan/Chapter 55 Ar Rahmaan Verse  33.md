@@ -3224,6 +3224,12 @@ aye gruh jinnaath wa insaan! agar tum mein asmaano aur zameen ke kinaaro se baah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے گروہِ جن و اِنس! اگر تم اِس بات پر قدرت رکھتے ہو کہ آسمانوں اور زمین کے کناروں سے باہر نکل سکو (اور تسخیرِ کائنات کرو) تو تم نکل جاؤ، تم جس (کرّۂ سماوی کے) مقام پر بھی نکل کر جاؤ گے وہاں بھی اسی کی سلطنت ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے انسانوں اور جنات کے گروہ ! اگر تم میں یہ بل بوتا ہے کہ آسمانوں اور زمین کی حدود سے پار نکل سکو، تو پار نکل جاؤ، تم زبردست طاقت کے بغیر پار نہیں ہوسکو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

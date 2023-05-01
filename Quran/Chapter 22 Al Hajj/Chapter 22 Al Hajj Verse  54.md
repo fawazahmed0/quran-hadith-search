@@ -3224,6 +3224,12 @@ aur is liye bhi ke jinhe ilm ata farmaya gaya hai, wo yaqeen karle ke, ye aap ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تاکہ وہ لوگ جنہیں علم (صحیح) عطا کیا گیا ہے جان لیں کہ وہی (وحی جس کی پیغمبر نے تلاوت کی ہے) آپ کے رب کی طرف سے (مَبنی) برحق ہے سو وہ اسی پر ایمان لائیں (اور شیطانی وسوسوں کو ردّ کردیں) اور ان کے دل اس (رب) کے لئے عاجزی کریں، اور بیشک اللہ مومنوں کو ضرور سیدھی راہ کی طرف ہدایت فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس رکاوٹ کو اللہ تعالیٰ نے اس لیے دور کیا) تاکہ جن لوگوں کو علم عطا ہوا ہے، وہ جان لیں کہ یہی (کلام) برحق ہے جو تمہارے پروردگار کی طرف سے آیا ہے، پھر وہ اس پر ایمان لائیں، اور ان کے دل اس کے آگے جھک جائیں، اور یقین رکھو کہ اللہ ایمان والوں کو سیدھے راستے کی ہدایت دینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya tum mardo ke paas badh-feli ke liye aate ho aur raaste bandh karte ho aur ap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم (شہوت رانی کے لئے) مَردوں کے پاس جاتے ہو اور ڈاکہ زنی کرتے ہو اور اپنی (بھری) مجلس میں ناپسندیدہ کام کرتے ہو، تو ان کی قوم کا جواب (بھی) اس کے سوا کچھ نہ تھا کہ کہنے لگے: تم ہم پر اللہ کا عذاب لے آؤ اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم مردوں کے پاس جاتے ہو اور راستوں میں ڈاکے ڈالتے ہو، اور اپنی بھری مجلس میں بدی کا ارتکاب کرتے ہو ؟ پھر ان کی قوم کے لوگوں کے پاس اس کے سوا کوئی جواب نہیں تھا کہ انہوں نے کہا : لے آؤ ہم پر اللہ کا عذاب اگر تم سچے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ beshak jo log apne parvardigaar se ghayebaana taur par darte rehte hai un ke liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک جو لوگ بن دیکھے اپنے رب سے ڈرتے ہیں ان کے لئے بخشش اور بڑا اَجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس کے برخلاف) جو لوگ بن دیکھے اپنے پروردگار سے ڈرتے ہیں، ان کے لیے بیشک مغفرت اور بڑا اجر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

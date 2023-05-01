@@ -3224,6 +3224,12 @@ ae Nabi! imaan walo ko jihad ka shauq dilao,agar tum bees bhi sabr karne wale ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبی (مکرّم!) آپ ایمان والوں کو (ظلم اور جبر و بربریت جاری رکھنے والوں کے خلاف) جہاد کی ترغیب دیں، اگر تم میں سے (جنگ میں) بیس (20) ثابت قدم رہنے والے ہوں تو وہ دو سو (200 جنگ جُو کفار) پر غالب آئیں گے اور اگر تم میں سے (ایک) سو (ثابت قدم) ہوں گے تو (جارِح) کافروں میں سے (ایک) ہزار پر غالب آئیں گے اِس وجہ سے کہ وہ (اُلوہی رازوں کی) سمجھ نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! مومنوں کو جنگ پر ابھارو۔ اگر تمہارے بیس آدمی ایسے ہوں گے جو ثابت قدم رہنے والے ہوں تو وہ دو سو پر غالب آجائیں گے۔ اور اگر تمہارے سو آدمی ہوں گے تو وہ کافروں کے ایک ہزار پر غالب آجائیں گے، کیونکہ وہ ایسے لوگ ہیں جو سمجھ نہیں رکھتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

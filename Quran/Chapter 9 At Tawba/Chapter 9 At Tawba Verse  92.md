@@ -3224,6 +3224,12 @@ haan un par bhi koi harj nahi jo aap ke paas ate hai ke aap unhe savari muhiyya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ ایسے لوگوں پر (طعنہ و الزام کی راہ ہے) جبکہ وہ آپ کی خدمت میں (اس لئے) حاضر ہوئے کہ آپ انہیں (جہاد کے لئے) سوار کریں (کیونکہ ان کے پاس اپنی کوئی سواری نہ تھی تو) آپ نے فرمایا: میں (بھی) کوئی (زائد سواری) نہیں پاتا ہوں جس پر تمہیں سوار کر سکوں، (تو) وہ (آپ کے اذن سے) اس حالت میں لوٹے کہ ان کی آنکھیں (جہاد سے محرومی کے) غم میں اشکبار تھیں کہ (افسوس) وہ (اس قدر) زادِ راہ نہیں پاتے جسے وہ خرچ کر سکیں (اور شریک جہاد ہو سکیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نہ ان لوگوں پر (کوئی گناہ ہے) جن کا حال یہ ہے کہ جب وہ تمہارے پاس اس غرض سے آئے کہ تم انہیں کوئی سواری مہیا کردو، اور تم نے کہا کہ : میرے پاس تو کوئی ایسی چیز نہیں ہے جس پر میں تمہیں سوار کرسکوں۔ تو وہ اس حالت میں واپس گئے کہ ان کی آنکھیں اس غم میں آنسوؤں سے بہہ رہی تھیں کہ ان کے پاس خرچ کرنے کو کچھ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

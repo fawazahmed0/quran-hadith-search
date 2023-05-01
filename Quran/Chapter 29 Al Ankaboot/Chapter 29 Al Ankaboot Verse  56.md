@@ -3224,6 +3224,12 @@ aye mere imaan waale bandho! meri zameen bahuth kushada hai, so tum meri hee iba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے بندو! جو ایمان لے آئے ہو بیشک میری زمین کشادہ ہے سو تم میری ہی عبادت کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے میرے بندو جو ایمان لاچکے ہو ! یقین جانو میری زمین بہت وسیع ہے، لہذا خالص میری عبادت کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas shayad ke aap is wahi ke kisi hisse ko chohd dene wale hai jo aap ki taraf n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا کیا یہ ممکن ہے کہ آپ اس میں سے کچھ چھوڑ دیں جو آپ کی طرف وحی کیا گیا ہے اور اس سے آپ کا سینہء (اَطہر) تنگ ہونے لگے (اس خیال سے) کہ کفار یہ کہتے ہیں کہ اس (رسول صلی اللہ علیہ وآلہ وسلم) پر کوئی خزانہ کیوں نہ اتارا گیا یا اس کے ساتھ کوئی فرشتہ کیوں نہیں آیا، (ایسا ہرگز ممکن نہیں۔ اے رسولِ معظم!) آپ تو صرف ڈر سنانے والے ہیں (کسی کو دنیوی لالچ یا سزا دینے والے نہیں)، اور اللہ ہر چیز پر نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر (اے پیغمبر) جو وحی تم پر نازل کی جارہی ہے، کیا یہ ممکن ہے کہ تم اس کا کوئی حصہ چھوڑ بیٹھو ؟ اور اس سے تمہارا دل تنگ ہوجائے ؟ کیونکہ یہ لوگ کہتے ہیں کہ : ان (محمد (صلی اللہ علیہ وآلہ وسلم) پر کوئی خزانہ کیوں نازل نہیں ہوا، یا کوئی فرشتہ ان کے ساتھ کیوں نہیں آیا ؟ تم تو ایک آگاہ کرنے والے ہو، اور اللہ ہے جو ہر چیز کا مکمل اختیار رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

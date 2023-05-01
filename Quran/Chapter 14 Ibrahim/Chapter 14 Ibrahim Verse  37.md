@@ -3224,6 +3224,12 @@ aye hamare parvardiaar main! ne apni kuch aulaad is be kheti ki waadi mein tere 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! بیشک میں نے اپنی اولاد (اسماعیل علیہ السلام) کو (مکہ کی) بے آب و گیاہ وادی میں تیرے حرمت والے گھر کے پاس بسا دیا ہے، اے ہمارے رب! تاکہ وہ نماز قائم رکھیں پس تو لوگوں کے دلوں کو ایسا کر دے کہ وہ شوق و محبت کے ساتھ ان کی طرف مائل رہیں اور انہیں (ہر طرح کے) پھلوں کا رزق عطا فرما، تاکہ وہ شکر بجا لاتے رہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ہمارے پروردگار ! میں نے اپنی کچھ اولاد کو آپ کے حرمت والے گھر کے پاس ایک ایسی وادی میں لا بسایا ہے جس میں کوئی کھیتی نہیں ہوتی، ہمارے پروردگار ! (یہ میں نے اس لیے کیا) تاکہ یہ نماز قائم کریں۔ لہذا لوگوں کے دلوں میں ان کے لیے کشش پیدا کردیجیے، اور ان کو پھلوں کا رزق عطا فرمایے۔ تاکہ وہ شکر گزار بنیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

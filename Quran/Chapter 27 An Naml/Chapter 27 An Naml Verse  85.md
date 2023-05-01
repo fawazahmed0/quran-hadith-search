@@ -3224,6 +3224,12 @@ ba-sabab us ke, ke unhone zulm kiya tha, un par baath jam jayegi aur wo kuch bol
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان پر (ہمارا) وعدہ پورا ہوچکا اس وجہ سے کہ وہ ظلم کر تے رہے سو وہ (جواب میں) کچھ بول نہ سکیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے جو ظلم کیا تھا، اس کی وجہ سے ان پر عذاب کی بات پوری ہوجائے گی، چنانچہ وہ کچھ بول نہیں سکیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

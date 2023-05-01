@@ -3224,6 +3224,12 @@ Ab dekhlo ke unki chaal ka anjaam kya hua. Humne tabaah karke rakh diya unko aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو آپ دیکھئے کہ ان کی (مکارانہ) سازش کا انجام کیسا ہوا، بیشک ہم نے ان (سرداروں) کو اور ان کی ساری قوم کو تباہ و برباد کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب دیکھو کہ ان کی چال بازی کا انجام کیسا ہوا کہ ہم نے انہیں اور ان کی ساری قوم کو تباہ کر کے رکھ دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

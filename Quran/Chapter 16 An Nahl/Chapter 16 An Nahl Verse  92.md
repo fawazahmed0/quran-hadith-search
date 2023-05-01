@@ -3224,6 +3224,12 @@ aur us aurath ki tarah na ho jao jis ne apna sooth mazbooth kaathne ke baadh tuk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس عورت کی طرح نہ ہو جاؤ جس نے اپنا سوت مضبوط کات لینے کے بعد توڑ کر ٹکڑے ٹکڑے کر ڈالا، تم اپنی قَسموں کو اپنے درمیان فریب کاری کا ذریعہ بناتے ہو تاکہ (اس طرح) ایک گروہ دوسرے گروہ سے زیادہ فائدہ اٹھانے والا ہو جائے، بات یہ ہے کہ اللہ (بھی) تمہیں اسی کے ذریعہ آزماتا ہے، اور وہ تمہارے لئے قیامت کے دن ان باتوں کو ضرور واضح فرما دے گا جن میں تم اختلاف کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس عورت نے اپنے سوت کو مضبوطی سے کاتنے کے بعد اسے ادھیڑ کرتار تار کردیا تھا، اس جیسے نہ بن جانا کہ تم بھی اپنی قسموں کو (توڑ کر) آپس کے فساد کا ذریعہ بنانے لگو، صرف اس لیے کہ کچھ لوگ دوسروں سے زیادہ فائدے حاصل کرلیں۔ اللہ اس کے ذریعے تمہاری آزمائش کر رہا ہے۔ اور قیامت کے دن وہ تمہیں وہ باتیں ضرور کھول کر بتادے گا جن میں تم اختلاف کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

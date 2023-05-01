@@ -3224,6 +3224,12 @@ pas ye jo kuch kehte hai, aap us par sabr kare aur apne rab ki tasbih tareef ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ اُن باتوں پر جو وہ کہتے ہیں صبر کیجئے اور اپنے رب کی حمد کے ساتھ تسبیح کیجئے طلوعِ آفتاب سے پہلے اور غروبِ آفتاب سے پہلے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) جو کچھ یہ لوگ کہہ رہے ہیں تم اس پر صبر کرو، اور اپنے پروردگار کی حمد کے ساتھ تسبیح کرتے رہو، سورج نکلنے سے پہلے بھی، اور سورج ڈوبنے سے پہلے بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

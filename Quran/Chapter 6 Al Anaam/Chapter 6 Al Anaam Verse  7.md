@@ -3224,6 +3224,12 @@ aur agar hum kaaghaz par likha hoa koyi nawishta2 aap par naazil faramaate, phir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم اگر آپ پر کاغذ پہ لکھی ہوئی کتاب نازل فرما دیتے پھر یہ لوگ اسے اپنے ہاتھوں سے چھو بھی لیتے تب (بھی) کافر لوگ (یہی) کہتے کہ یہ صریح جادو کے سوا (کچھ) نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ان کافروں کا حال یہ ہے کہ) اگر ہم تم پر کوئی ایسی کتاب نازل کردیتے جو کاغذ پر لکھی ہوئی ہوتی، پھر یہ اسے اپنے ہاتھوں سے چھو کر بھی دیکھ لیتے تو جن لوگوں نے کفر اپنا لیا ہے وہ پھر بھی یہی کہتے کہ یہ کھلے ہوئے جادو کے سوا کچھ نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

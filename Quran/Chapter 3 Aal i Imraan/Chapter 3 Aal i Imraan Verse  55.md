@@ -3224,6 +3224,12 @@ jab Allah ta’ala ne farmaaya ke aye Isa! main tujhe pura lene waala hoon, aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب اللہ نے فرمایا: اے عیسٰی! بیشک میں تمہیں پوری عمر تک پہنچانے والا ہوں اور تمہیں اپنی طرف (آسمان پر) اٹھانے والا ہوں اور تمہیں کافروں سے نجات دلانے والا ہوں اور تمہارے پیروکاروں کو (ان) کافروں پر قیامت تک برتری دینے والا ہوں، پھر تمہیں میری ہی طرف لوٹ کر آنا ہے سو جن باتوں میں تم جھگڑتے تھے میں تمہارے درمیان ان کا فیصلہ کر دوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس کی تدبیر اس وقت سامنے آئی) جب اللہ نے کہا تھا کہ : اے عیسیٰ میں تمہیں صحیح سالم واپس لے لوں گا، اور تمہیں اپنی طرف اٹھالوں گا، اور جن لوگوں نے کفر اپنا لیا ہے ان (کی ایذا) سے تمہیں پاک کردوں گا۔ اور جن لوگوں نے تمہاری اتباع کی ہے، ان کو قیامت کے دن تک ان لوگوں پر غالب رکھوں گا جنہوں نے تمہارا انکار کیا ہے۔ پھر تم سب کو میرے پاس لوٹ کر آنا ہے، اس وقت میں تمہارے درمیان ان باتوں کا فیصلہ کروں گا جن میں تم اختلاف کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

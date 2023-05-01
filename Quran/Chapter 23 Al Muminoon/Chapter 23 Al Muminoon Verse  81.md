@@ -3224,6 +3224,12 @@ balke un logo ne bhi waisi hee baath kahi, jo agle kehte chale aaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ یہ لوگ (بھی) اسی طرح کی باتیں کرتے ہیں جس طرح کی اگلے (کافر) کرتے رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے بجائے یہ لوگ بھی ویسی ہی باتیں کرتے ہیں جیسی پچھلے لوگوں نے کی تھیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un imandar mardo aur aurto se Allah ne un jannto ka wada farmaya hai jin ke nich
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے مومن مردوں اور مومن عورتوں سے جنتوں کا وعدہ فرما لیا ہے جن کے نیچے سے نہریں بہہ رہی ہیں، وہ ان میں ہمیشہ رہنے والے ہیں اور ایسے پاکیزہ مکانات کا بھی (وعدہ فرمایا ہے) جوجنت کے خاص مقام پر سدا بہار باغات میں ہیں، اور (پھر) اللہ کی رضا اور خوشنودی (ان سب نعمتوں سے) بڑھ کر ہے (جو بڑے اجر کے طور پر نصیب ہوگی)، یہی زبردست کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے مومن مردوں اور مومن عورتوں سے وعدہ کیا ہے ان باغات کا جن کے نیچے نہریں بہتی ہوں گی، جن میں وہ ہمیشہ رہیں گے، اور ان پاکیزہ مکانات کا جو سدا بہار باغات میں ہوں گے۔ اور اللہ کی طرف سے خوشنودی تو سب سے بڑی چیز ہے۔ (جو جنت والوں کو نصیب ہوگی) یہی تو زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

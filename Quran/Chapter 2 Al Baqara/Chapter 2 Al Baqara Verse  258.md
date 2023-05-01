@@ -3224,6 +3224,12 @@ kya tu ne ose nahi dekha jo saltanath pa kar Ibraheem (alaihissalaam) se us ke r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) کیا آپ نے اس شخص کو نہیں دیکھا جو اس وجہ سے کہ اللہ نے اسے سلطنت دی تھی ابراہیم (علیہ السلام) سے (خود) اپنے رب (ہی) کے بارے میں جھگڑا کرنے لگا، جب ابراہیم (علیہ السلام) نے کہا: میرا رب وہ ہے جو زندہ (بھی) کرتا ہے اور مارتا (بھی) ہے، تو (جواباً) کہنے لگا: میں (بھی) زندہ کرتا ہوں اور مارتا ہوں، ابراہیم (علیہ السلام) نے کہا: بیشک اللہ سورج کو مشرق کی طرف سے نکالتا ہے تُو اسے مغرب کی طرف سے نکال لا! سو وہ کافر دہشت زدہ ہو گیا، اور اللہ ظالم قوم کو حق کی راہ نہیں دکھاتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے اس شخص (کے حال) پر غور کیا جس کو اللہ نے سلطنت کیا دے دی تھی کہ وہ اپنے پروردگار (کے وجود ہی) کے بارے میں ابراہیم سے بحث کرنے لگا ؟ جب ابراہیم نے کہا کہ : میرا پروردگار وہ ہے جو زندگی بھی دیتا ہے اور موت بھی، تو وہ کہنے لگا کہ : میں بھی زندگی دیتا ہوں اور موت دیتا ہوں۔ ابراہیم نے کہا : اچھا اللہ تو سورج کو مشرق سے نکالتا ہے، تم ذرا اسے مغرب سے تو نکال کر لاؤ، اس پر وہ کافر مبہوت ہو کر رہ گیا۔ اور اللہ ایسے ظالموں کو ہدایت نہیں دیا کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

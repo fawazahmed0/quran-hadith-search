@@ -3224,6 +3224,12 @@ hum ne un ke aise jism nahi banaaye thein ke wo khaana na khaaye aur na wo hames
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان (انبیاء) کو ایسے جسم والا نہیں بنایا تھا کہ وہ کھانا نہ کھاتے ہوں اور نہ ہی وہ (دنیا میں بہ حیاتِ ظاہری) ہمیشہ رہنے والے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان (رسولوں) کو ایسے جسم بنا کر پیدا نہیں کردیا تھا کہ وہ کھانا نہ کھاتے ہوں، اور نہ وہ ایسے تھے کہ ہمیشہ زندہ رہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

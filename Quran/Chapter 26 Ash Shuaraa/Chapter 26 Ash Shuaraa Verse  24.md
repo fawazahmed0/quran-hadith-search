@@ -3224,6 +3224,12 @@ Moosa ne jawab diya “Aasmano aur zameen ka Rubb, aur un sab cheezon ka Rubb jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) فرمایا: (وہ) جملہ آسمانوں کا اور زمین کا اور اُس (ساری کائنات) کا رب ہے جو ان دونوں کے درمیان ہے اگر تم یقین کرنے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : وہ سارے آسمانوں اور زمین کا، اور ان ساری چیزوں کا پروردگار ہے جو ان کے درمیان پائی جاتی ہیں، اگر تم کو واقعی یقین کرنا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

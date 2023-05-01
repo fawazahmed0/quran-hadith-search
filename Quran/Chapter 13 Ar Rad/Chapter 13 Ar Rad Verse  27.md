@@ -3224,6 +3224,12 @@ kaafir kehte hai ke us par koi nishani (maujiza) kyo nazil nahi kiya gaya? jawaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ یہ کہتے ہیں کہ اس (رسول) پر اس کے رب کی جانب سے کوئی نشانی کیوں نہیں اتری، فرما دیجئے: بیشک اللہ جسے چاہتا ہے (نشانیوں کے باوجود) گمراہ ٹھہرا دیتا ہے اور جو اس کی طرف رجوع کرتا ہے اسے اپنی جانب رہنمائی فرما دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے، وہ یہ کہتے ہیں کہ ان پر (یعنی محمد (صلی اللہ علیہ وآلہ وسلم) پر) ان کے پروردگار کی طرف سے کوئی نشانی کیوں نہیں اتاری گئی ؟ کہہ دو کہ : اللہ جس کو چاہتا ہے، گمراہ کردیتا ہے اور اپنے راستے پر انہی کو لاتا ہے جو اس کی طرف رجوع کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

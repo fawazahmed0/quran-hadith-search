@@ -3224,6 +3224,12 @@ yaqinan hum ne noah(alaihissalaam) ko us ki qaum ki taraf rasol bana kar bheja k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے نوح (علیہ السلام) کو ان کی قوم کی طرف بھیجا، (انہوں نے ان سے کہا:) میں تمہارے لئے کھلا ڈر سنانے والا (بن کر آیا) ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے نوح کو ان کی قوم کے پاس یہ پیغام دے کر بھیجا کہ : میں تمہیں اس بات سے صاف صاف آگاہ کرنے والا پیغمبر ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

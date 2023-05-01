@@ -3224,6 +3224,12 @@ aur unhone faisla talab kiya aur tamaam sarkash ziddi log na-muraad ho gaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (بالآخر) رسولوں نے (اللہ سے) فتح مانگی اور ہر سرکش ضدی نامراد ہوگیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کافروں نے خود فیصلہ مانگا، اور (نتیجہ یہ ہوا کہ) ہر ڈینگیں مارنے والا ہٹ دھرم نامراد ہو کر رہا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

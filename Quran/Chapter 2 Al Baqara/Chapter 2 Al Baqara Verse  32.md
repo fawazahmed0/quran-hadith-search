@@ -3224,6 +3224,12 @@ un sub ne kaha aye Allah! teri zaath paak hai, hamein to sirf utna hee ilm hai j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرشتوں نے عرض کیا: تیری ذات (ہر نقص سے) پاک ہے ہمیں کچھ علم نہیں مگر اسی قدر جو تو نے ہمیں سکھایا ہے، بیشک تو ہی (سب کچھ) جاننے والا حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ بول اٹھے آپ ہی کی ذات پاک ہے جو کچھ علم آپ نے ہمیں دیا ہے اس کے سوا ہم کچھ نہیں جانتے حقیقت میں علم و حکمت کے مالک تو صرف آپ ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur madyan ki taraf hum ne un ke bhai Shuaib (alaihissalam) ko bheja, unhone kah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور مَدیَن کی طرف ان کے (قومی) بھائی شعیب (علیہ السلام) کو (بھیجا)، سو انہوں نے کہا: اے میری قوم! اللہ کی عبادت کرو اور یومِ آخرت کی امید رکھو اور زمین میں فساد انگیزی نہ کرتے پھرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مدین کی طرف ہم نے ان کے بھائی شعیب کو بھیجا۔ چنانچہ انہوں نے کہا : میری قوم کے لوگو ! اللہ کی عبادت کرو، اور آخرت والے دن کی امید رکھو، اور زمین میں فساد پھیلاتے مت پھرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

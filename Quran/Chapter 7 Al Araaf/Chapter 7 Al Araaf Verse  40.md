@@ -3224,6 +3224,12 @@ jin logo ne hamaari aayatho ko jhutlaaya aur un se takabbur kiya un ke liye aasm
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لوگو) یقین رکھو کہ جن لوگوں نے ہماری آیتوں کو جھٹلایا ہے، اور تکبر کے ساتھ ان سے منہ موڑا ہے، ان کے لیے آسمان کے دروازے نہیں کھولے جائیں گے، اور وہ جنت میں اس وقت تک داخل نہیں ہوں گے جب تک کوئی اونٹ ایک سوئی کے ناکے میں داخل نہیں ہوجاتا اور اسی طرح ہم مجرموں کو ان کے کیے کا بدلہ دیا کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

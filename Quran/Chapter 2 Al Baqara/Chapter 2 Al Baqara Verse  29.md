@@ -3224,6 +3224,12 @@ wo Allah jis ne tumhaare liye zameen ki tamaam cheezo ko paida kiya phir asmaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے سب کچھ جو زمین میں ہے تمہارے لئے پیدا کیا، پھر وہ (کائنات کے) بالائی حصوں کی طرف متوجہ ہوا تو اس نے انہیں درست کر کے ان کے سات آسمانی طبقات بنا دیئے، اور وہ ہر چیز کا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے زمین میں جو کچھ ہے تمہارے لئے پیدا کیا پھر وہ آسمان کی طرف متوجہ ہوا، چنانچہ ان کو سات آسمانوں کی شکل میں ٹھیک ٹھیک بنادیا، اور وہ ہر چیز کا پورا علم رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

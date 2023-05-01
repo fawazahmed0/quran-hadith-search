@@ -3224,6 +3224,12 @@ kehne lage aye mere rab mere haan baccha kaise hoga? main bilkul bodah ho gaya h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(زکریاعلیہ السلام نے) عرض کیا: اے میرے رب! میرے ہاں لڑکا کیسے ہو گا؟ درآنحالیکہ مجھے بڑھاپا پہنچ چکا ہے اور میری بیوی (بھی) بانجھ ہے، فرمایا: اسی طرح اللہ جو چاہتا ہے کرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زکریا نے کہا : یا رب ! میرے یہاں لڑکا کس طرح پیدا ہوگا جبکہ مجھے بڑھاپا آپہنچا ہے اور میری بیوی بانجھ ہے ؟ اللہ نے کہا : اسی طرح اللہ جو چاہتا ہے کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

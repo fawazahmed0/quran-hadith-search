@@ -3224,6 +3224,12 @@ agar tum na shukri karo to, (yaad rakho ke) Allah ta’ala tum (sab se) be niyaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تم کفر کرو تو بے شک اللہ تم سے بے نیاز ہے اور وہ اپنے بندوں کے لئے کفر (و ناشکری) پسند نہیں کرتا، اور اگر تم شکرگزاری کرو (تو) اسے تمہارے لئے پسند فرماتا ہے، اور کوئی بوجھ اٹھانے والا کسی دوسرے کا بوجھ نہیں اٹھائے گا، پھر تمہیں اپنے رب کی طرف لوٹنا ہے پھر وہ تمہیں اُن کاموں سے خبردار کر دے گا جو تم کرتے رہے تھے، بے شک وہ سینوں کی (پوشیدہ) باتوں کو (بھی) خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم کفر اختیار کرو گے تو یقین رکھو کہ اللہ تم سے بےنیاز ہے، اور وہ اپنے بندوں کے لیے کفر پسند نہیں کرتا، اور اگر تم شکر کرو گے تو وہ اسے تمہارے لیے پسند کرے گا، اور کوئی بوجھ اٹھانے والا کسی دوسرے کا بوجھ نہیں اٹھائے گا، پھر تم سب کو اپنے پروردگار ہی کے پاس لوٹ کر جانا ہے، اس وقت وہ تمہیں بتائے گا کہ تم کیا کچھ کیا کرتے تھے۔ یقینا وہ دلوں کی باتیں بھی خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur bahuth si basti waalo ne apne rab ke hukm se aur us ke rasulo se sartaabi ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کتنی ہی بستیاں ایسی تھیں جن (کے رہنے والوں) نے اپنے رب کے حکم اور اُس کے رسولوں سے سرکشی و سرتابی کی تو ہم نے اُن کا سخت حساب کی صورت میں محاسبہ کیا اور انہیں ایسے سخت عذاب میں مبتلا کیا جو نہ دیکھا نہ سنا گیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کتنی ہی بستیاں ایسی ہیں جنہوں نے اپنے پروردگار اور اس کے رسولوں کے حکم سے سرکشی کی تو ہم نے ان کا سخت حساب لیا، اور انہیں سزا دی، ایسی بری سزا جو انہوں نے پہلے کبھی نہ دیکھی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

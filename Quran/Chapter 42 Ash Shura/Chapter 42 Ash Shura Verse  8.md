@@ -3224,6 +3224,12 @@ agar Allah ta’ala chahta to un sab ko ek hee ummath ka bana deta, lekin wo jis
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ چاہتا تو اُن سب کو ایک ہی امّت بنا دیتا لیکن وہ جسے چاہتا ہے اپنی رحمت میں داخل فرماتا ہے، اور ظالموں کے لئے نہ کوئی دوست ہوگا اور نہ کوئی مددگار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ چاہتا تو ان سب کو ایک ہی جماعت بنا دیتا، لیکن وہ جس کو چاہتا ہے، اپنی رحمت میں داخل کرتا ہے، اور جو ظالم لوگ ہیں ان کا نہ کوئی رکھوالا ہے، نہ کوئی مددگار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ sacche iman wale ye log hai,in ke liye bade darje hai un ke rub ke pas aur maghf
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(حقیقت میں) یہی لوگ سچے مومن ہیں، ان کے لئے ان کے رب کی بارگاہ میں (بڑے) درجات ہیں اور مغفرت اور بلند درجہ رزق ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہی لوگ ہیں جو حقیقت میں مومن ہیں۔ ان کے لیے ان کے رب کے پاس بڑے درجے ہیں، مغفرت ہے اور باعزت رزق ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

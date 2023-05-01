@@ -3224,6 +3224,12 @@ aur jis ne apne maa baap se kaha ke tum se main tang aa gaya, tum mujh se yahi k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس نے اپنے والدین سے کہا: تم سے بیزاری ہے، تم مجھے (یہ) وعدہ دیتے ہو کہ میں (قبر سے دوبارہ زندہ کر کے) نکالا جاؤں گا حالانکہ مجھ سے پہلے بہت سی امتیں گزر چکیں۔ اب وہ دونوں (ماں باپ) اللہ سے فریاد کرنے لگے (اور لڑکے سے کہا:) تو ہلاک ہوگا۔ (اے لڑکے!) ایمان لے آ، بیشک اللہ کا وعدہ حق ہے۔ تو وہ (جواب میں) کہتا ہے: یہ (باتیں) اگلے لوگوں کے جھوٹے افسانوں کے سوا (کچھ) نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ایک وہ شخص ہے جس نے اپنے والدین سے کہا ہے کہ : تف ہے تم پر۔ کیا تم مجھ سے یہ وعدہ کرتے ہو کہ مجھے زندہ کر کے قبر سے نکالا جائے گا، حالانکہ مجھ سے پہلے بہت سی نسلیں گزر چکی ہیں۔ اور والدین اللہ سے فریاد کرتے ہیں۔ (اور بیٹے سے کہتے ہیں کہ) افسوس ہے تجھ پر۔ ایمان لے آ۔ یقین جان کہ اللہ کا وعدہ سچا ہے۔ تو وہ کہتا ہے کہ : ان باتوں کی اس کے سوا کوئی حقیقت نہیں ہے کہ یہ محض افسانے ہیں جو پچھلے لوگوں سے نقل ہوتے چلے آرہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

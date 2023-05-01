@@ -3224,6 +3224,12 @@ yaqinan ye lauhe mehfooz mein hai aur hamaare nazdeek bulandh martaba hikmath wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک وہ ہمارے پاس سب کتابوں کی اصل (لوحِ محفوظ) میں ثَبت ہے یقیناً (یہ سب کتابوں پر) بلند مرتبہ بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ وہ ہمارے پاس لوح محفوظ میں بڑے اونچے درجے کی حکمت سے بھری ہوئی کتاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

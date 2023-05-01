@@ -3224,6 +3224,12 @@ ye dunya mein thoda sa aish hai phir hamare paas un ko ana hai,phir hum un ko un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+دنیا میں (چند روزہ) لطف اندوزی ہے پھر انہیں ہماری ہی طرف پلٹنا ہے پھر ہم انہیں سخت عذاب کا مزہ چکھائیں گے اس کے بدلے میں جو وہ کفر کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان کے لیے) بس دنیا میں تھوڑا سا مزہ ہے، پھر ہمارے پاس ہی انہیں لوٹ کر آنا ہے، پھر کفر کا جو رویہ انہوں نے اپنا رکھا تھا، اس کے بدلے ہم انہیں شدید عذاب کا مزہ چکھائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

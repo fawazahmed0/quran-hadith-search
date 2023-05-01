@@ -3224,6 +3224,12 @@ aur aap ka rab bil-kul ghani hai rehmath waala hai, agar wo chaahe to tum sab ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کا رب بے نیاز ہے، (بڑی) رحمت والا ہے، اگر چاہے تو تمہیں نابود کر دے اور تمہارے بعد جسے چاہے (تمہارا) جانشین بنا دے جیسا کہ اس نے دوسرے لوگوں کی اولاد سے تم کو پیدا فرمایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارا پروردگار ایسا بےنیاز ہے جو رحمت والا بھی ہے۔ اگر وہ چاہے تو تم سب کو (دنیا سے) اٹھالے، اور تمہارے بعد جس کو چاہے تمہاری جگہ لے آئے، جیسے اس نے تم کو کچھ اور لوگوں کی نسل سے پیدا کیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

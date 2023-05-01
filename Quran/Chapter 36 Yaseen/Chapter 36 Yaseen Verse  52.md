@@ -3224,6 +3224,12 @@ kahenge ke haay haay! hamein hamaari qaab gaaho se kis ne utha diya, yahi hai ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(روزِ محشر کی ہولناکیاں دیکھ کر) کہیں گے: ہائے ہماری کم بختی! ہمیں کس نے ہماری خواب گاہوں سے اٹھا دیا، (یہ زندہ ہونا) وہی تو ہے جس کا خدائے رحمان نے وعدہ کیا تھا اور رسولوں نے سچ فرمایا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہیں گے کہ : ہائے ہماری کم بختی ! ہمیں کس نے ہمارے مرقد سے اٹھا کھڑا کیا ہے ؟ (جواب ملے گا کہ) یہ وہی چیز ہے جس کا خدائے رحمن نے وعدہ کیا تھا، اور پیغمبروں نے سچی بات کہی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

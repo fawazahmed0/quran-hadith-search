@@ -3224,6 +3224,12 @@ agar tumhe khauf ho to paidal hee sahi ya sawaar hee sahi, haan jab aman ho jaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر تم حالتِ خوف میں ہو تو پیادہ یا سوار (جیسے بھی ہو نماز پڑھ لیا کرو)، پھر جب تم حالتِ امن میں آجاؤ تو انہی طریقوں پر اللہ کی یاد کرو جو اس نے تمہیں سکھائے ہیں جنہیں تم (پہلے) نہیں جانتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہیں (دشمن کا) خوف لاحق ہو تو کھڑے کھڑے یا سوار ہونے کی حالت ہی میں (نماز پڑھ لو) پھر جب تم امن کی حالت میں آجاؤ تو اللہ کا ذکر اس طریقے سے کرو جو اس نے تمہیں سکھایا ہے جس سے تم پہلے ناواقف تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

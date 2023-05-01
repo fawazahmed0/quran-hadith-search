@@ -3224,6 +3224,12 @@ aur us halath ko yad karo! jab ke tum zamin mein qalil thein,kamzor shumar kiye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کرو) جب تم (مکی زندگی میں عدداً) تھوڑے (یعنی اَقلیّت میں) تھے ملک میں دبے ہوئے تھے (یعنی معاشی طور پر کمزور اور استحصال زدہ تھے) تم اس بات سے (بھی) خوفزدہ رہتے تھے کہ (طاقتور) لوگ تمہیں اچک لیں گے (یعنی سماجی طور پر بھی تمہیں آزادی اور تحفظ حاصل نہ تھا) پس (ہجرتِ مدینہ کے بعد) اس (اللہ) نے تمہیں (آزاد اور محفوظ) ٹھکانا عطا فرما دیا اور (اسلامی حکومت و اقتدار کی صورت میں) تمہیں اپنی مدد سے قوت بخش دی اور (مواخات، اَموالِ غنیمت اور آزاد معیشت کے ذریعے) تمہیں پاکیزہ چیزوں سے روزی عطا فرما دی تاکہ تم اللہ کی بھرپور بندگی کے ذریعے اس کا) شکر بجا لا سکو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب تم تعداد میں تھوڑے تھے، تمہیں لوگوں نے (تمہاری) سرزمین میں دبا کر رکھا ہوا تھا، تم ڈرتے تھے کہ لوگ تمہیں اچک کرلے جائیں گے۔ پھر اللہ نے تمہیں ٹھکانا دیا، اور اپنی مدد سے تمہیں مضبوط بنادیا، اور تمہیں پاکیزہ چیزوں کا رزق عطا کیا، تاکہ تم شکرو کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

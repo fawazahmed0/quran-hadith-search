@@ -3224,6 +3224,12 @@ hum ne us ka sahih faisla Sulaimaan(alaihissalaam) ko samjha diya, haan har ek k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+چنانچہ ہم ہی نے سلیمان (علیہ السلام) کو وہ (فیصلہ کرنے کا طریقہ) سکھایا تھا اور ہم نے ان سب کو حکمت اور علم سے نوازا تھا اور ہم نے پہاڑوں اور پرندوں (تک) کو داؤد (علیہ السلام) کے (حکم کے) ساتھ پابند کر دیا تھا وہ (سب ان کے ساتھ مل کر) تسبیح پڑھتے تھے، اور ہم ہی (یہ سب کچھ) کرنے والے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ اس فیصلے کی سمجھ ہم نے سلیمان کو دے دی، اور (ویسے) ہم نے دونوں ہی کو حکمت اور علم عطا کیا تھا۔ اور ہم نے داؤد کے ساتھ پہاڑوں کو تابع دار بنادیا تھا کہ وہ پرندوں کو ساتھ لے کر تسبیح کریں۔ اور یہ سارے کام کرنے والے ہم تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

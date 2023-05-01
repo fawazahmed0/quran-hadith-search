@@ -3224,6 +3224,12 @@ hum ne aap se pehle jis rasool aur nabi ko bheja us ke saath ye hoa ke jab wo ap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آپ سے پہلے کوئی رسول نہیں بھیجا اور نہ کوئی نبی مگر (سب کے ساتھ یہ واقعہ گزرا کہ) جب اس (رسول یا نبی) نے (لوگوں پر کلامِ الٰہی) پڑھا (تو) شیطان نے (لوگوں کے ذہنوں میں) اس (نبی کے) پڑھے ہوئے (یعنی تلاوت شدہ) کلام میں (اپنی طرف سے باطل شبہات اور فاسد خیالات کو) ملا دیا، سو شیطان جو (وسوسے سننے والوں کے ذہنوں میں) ڈالتا ہے اللہ انہیں زائل فرما دیتا ہے پھر اللہ اپنی آیتوں کو (اہلِ ایمان کے دلوں میں) نہایت مضبوط کر دیتا ہے، اور اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم سے پہلے ہم نے جب بھی کوئی رسول یا نبی بھیجا تو اس کے ساتھ یہ واقعہ ضرور ہوا کہ جب اس نے (اللہ کا کلام) پڑھا تو شیطان نے اس کے پڑھنے کے ساتھ ہی (کفار کے دلوں میں) کوئی رکاوٹ ڈال دی، پھر جو رکاوٹ شیطان ڈالتا ہے، اللہ اسے دور کردیتا ہے، پھر اپنی آیتوں کو زیادہ مضبوط کردیتا ہے، اور اللہ بڑے علم کا، بڑی حکمت کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

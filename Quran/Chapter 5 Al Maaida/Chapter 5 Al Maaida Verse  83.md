@@ -3224,6 +3224,12 @@ aur jab wo rasool ki taraf naazil karda (kalaam) ko sunte hai, to aap un ki aank
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہی وجہ ہے کہ ان میں سے بعض سچے عیسائی جب اس (قرآن) کو سنتے ہیں جو رسول (صلی اللہ علیہ وآلہ وسلم) کی طرف اتارا گیا ہے تو آپ ان کی آنکھوں کو اشک ریز دیکھتے ہیں۔ (یہ آنسوؤں کا چھلکنا) اس حق کے باعث (ہے) جس کی انہیں معرفت (نصیب) ہوگئی ہے۔ (ساتھ یہ) عرض کرتے ہیں: اے ہمارے رب! ہم (تیرے بھیجے ہوئے حق پر) ایمان لے آئے ہیں سو تو ہمیں (بھی حق کی) گواہی دینے والوں کے ساتھ لکھ لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یہ لوگ وہ کلام سنتے ہیں جو رسول پر نازل ہوا ہے تو چونکہ انہوں نے حق کو پہچان لیا ہوتا ہے، اس لیے تم ان کی آنکھوں کو دیکھو گے کہ وہ آنسوؤں سے بہہ رہی ہیں۔ (اور) وہ کہہ رہے ہیں کہ اے ہمارے پروردگار ! ہم ایمان لے آئے ہیں، لہذا گواہی دینے والوں کے ساتھ ہمارا نام بھی لکھ لیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

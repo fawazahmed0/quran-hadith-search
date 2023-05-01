@@ -3224,6 +3224,12 @@ aur wo aisa hai ki apni baraan rehmath se pehle hawaao ko bhejta hai ke wo khush
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی (اللہ) ہے جو اپنی رحمت (یعنی بارش) کے آگے آگے ہوائیں بھیجتا ہے جو (بارش کی) خوشخبری دیتی ہیں، یہاں تک کہ جب وہ بوجھ بادلوں کو اٹھالیتی ہیں تو ہم انہیں کسی مردہ زمین کی طرف ہنکالے جاتے ہیں، پھر وہاں پانی برساتے ہیں، اور اس کے ذریعے ہر قسم کے پھل نکالتے ہیں۔ اسی طرح ہم مردوں کو بھی زندہ کر کے نکالیں گے۔ شاید (ان باتوں پر غور کر کے) تم سبق حاصل کرلو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

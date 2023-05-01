@@ -3224,6 +3224,12 @@ aap imaan waalo se keh de ke wo un logo se dar guzar kare jo Allah ke dino ki ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ ایمان والوں سے فرما دیجئے کہ وہ اُن لوگوں کو نظر انداز کر دیں جو اللہ کے دنوں کی (آمد کی) امید اور خوف نہیں رکھتے تاکہ وہ اُن لوگوں کو اُن (کے اعمال) کا پورا بدلہ دے دے جو وہ کمایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) جو لوگ ایمان لے آئے ہیں ان سے کہو کہ جو لوگ اللہ کے دنوں کا اندیشہ نہیں رکھتے، ان سے درگزر کریں تاکہ اللہ لوگوں کو ان کاموں کا بدلہ دے جو وہ کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

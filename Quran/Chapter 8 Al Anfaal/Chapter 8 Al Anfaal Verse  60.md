@@ -3224,6 +3224,12 @@ tum un ke muqable ke liye apni taqath bhar quwwath ki tayyari karo aur ghudo ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے مسلمانو!) ان کے (مقابلے کے) لیے تم سے جس قدر ہو سکے (ہتھیاروں اور آلاتِ جنگ کی) قوت مہیا رکھو اور بندھے ہوئے گھوڑوں کی (کھیپ بھی)، اس (دفاعی تیاری) سے تم اللہ کے دشمن اور اپنے دشمن کو (اپنے اوپر حملہ آور ہونے سے) ڈراتے رہو اور ان کے سوا دوسروں کو بھی جن (کی چھپی دشمنی) کو تم نہیں جانتے، اللہ انہیں جانتا ہے۔ اور تم جو کچھ (بھی اپنے دفاع کی خاطر) اللہ کی راہ میں خرچ کرو گے تمہیں اس کا پورا پورا بدلہ دیا جائے گا اور تم سے نا انصافی نہ کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (مسلمانو) جس قدر طاقت اور گھوڑوں کی جتنی چھاؤنیاں تم سے بن پڑیں ان سے مقابلے کے لیے تیار کرو جن کے ذریعے تم اللہ کے دشمن اور اپنے (موجودہ) دشمن پر بھی ہیبت طاری کرسکو، اور ان کے علاوہ دوسروں پر بھی نہیں ابھی تم نہیں جانتے، (مگر) اللہ انہیں جانتا ہے۔ اور اللہ کے راستے میں تم جو کچھ خرچ کرو گے، وہ تمہیں پورا پورا دے دیا جائے گا، اور تمہارے لیے کوئی کمی نہیں کی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

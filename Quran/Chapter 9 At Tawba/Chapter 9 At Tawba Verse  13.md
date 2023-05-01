@@ -3224,6 +3224,12 @@ tum un logo ki sarkoobi2 ke liye kyo tayyar nahi hote jinhone apni qasmo ko tud 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم ایسی (دغا باز) قوم سے جنگ نہیں کرو گے جنہوں نے اپنی قَسمیں توڑ ڈالیں (یعنی معاہدۂ اَمن توڑ کر حالتِ جنگ بحال کر دی) اور رسول (ﷺ) کو جلا وطن کرنے کا اِرادہ کیا اور انہوں نے تم سے (عہد شکنی اور جنگ کی) ابتداء پہلے کی، کیا تم ان سے ڈرتے ہو جب کہ اللہ زیادہ حقدار ہے کہ تم اس سے ڈرو بشرطیکہ تم (حقیقی) مومن ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم ان لوگوں سے جنگ نہیں کرو گے جنہوں نے اپنی قسموں کو توڑا، اور رسول کو (وطن سے) نکالنے کا ارادہ کیا، اور وہی ہیں جنہوں نے تمہارے خلاف (چھیڑ چھاڑ کرنے میں) پہل کی ؟ کیا تم ان سے ڈرتے ہو ؟ (اگر ایسا ہے) تو اللہ اس بات کا زیادہ حق رکھتا ہے کہ تم اس سے ڈرو، اگر تم مومن ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

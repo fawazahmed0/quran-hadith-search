@@ -3224,6 +3224,12 @@ aur hum ne un logo ke paas ek aisi kitaab pahonchaadi hai jis ko hum ne apne ilm
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ ہم ان کے پاس ایک ایسی کتاب لے آئے ہیں جس میں ہم نے اپنے علم کی بنیاد پر ہر چیز کی تفصیل بتادی ہے اور جو لوگ ایمان لائیں ان کے لیے وہ ہدایت اور رحمت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

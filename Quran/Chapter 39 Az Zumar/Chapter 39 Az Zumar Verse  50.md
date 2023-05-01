@@ -3224,6 +3224,12 @@ un se agle bhi yahi baath keh chuke hai, pas un ki karwaayi un ke kuch kaam na a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فی الواقع یہ (باتیں) وہ لوگ بھی کیا کرتے تھے جو اُن سے پہلے تھے، سو جو کچھ وہ کماتے رہے اُن کے کسی کام نہ آسکا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہی بات ان سے پہلے (کچھ) لوگوں نے بھی کہی تھی نتیجہ یہ ہوا کہ جو کچھ وہ کماتے تھے، وہ ان کے کام نہیں آیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

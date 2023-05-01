@@ -3224,6 +3224,12 @@ misl ferauniyo ke hal ke aur un se aglo ke,ke unhone Allah ki ayato se kufr kiya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان کافروں کا حال بھی) قومِ فرعون اور ان سے پہلے کے لوگوں کے حال کی مانند ہے۔ انہوں نے (بھی) اللہ کی آیات کا انکار کیا تھا، سو اللہ نے انہیں ان کے گناہوں کے باعث (عذاب میں) پکڑ لیا۔ بیشک اللہ قوت والا سخت عذاب دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان لوگوں کا حال ایسا ہی ہوا) جیسا فرعون کی قوم اور ان سے پہلے لوگوں کا حال ہوا تھا۔ انہوں نے اللہ کی نشانیوں کو ماننے سے انکار کیا، نتیجہ یہ ہوا کہ اللہ نے ان کے گناہوں کی وجہ سے انہیں اپنی گرفت میں لے لیا۔ یقینا اللہ کی طاقت بڑی ہے (اور) عذاب بڑا سخت۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

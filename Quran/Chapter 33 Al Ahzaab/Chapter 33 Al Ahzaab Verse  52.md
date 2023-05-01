@@ -3224,6 +3224,12 @@ us ke baadh aur aurte aap ke liye halaal nahi aur na ye (durusth hai) ke in ke b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس کے بعد (کہ انہوں نے دنیوی منفعتوں پر آپ کی رضا و خدمت کو ترجیح دے دی ہے) آپ کے لئے بھی اور عورتیں (نکاح میں لینا) حلال نہیں (تاکہ یہی اَزواج اپنے شرف میں ممتاز رہیں) اور یہ بھی جائز نہیں کہ (بعض کی طلاق کی صورت میں اس عدد کو ہمارا حکم سمجھ کر برقرار رکھنے کے لئے) آپ ان کے بدلے دیگر اَزواج (عقد میں) لے لیں اگرچہ آپ کو ان کا حُسنِ (سیرت و اخلاق اور اشاعتِ دین کا سلیقہ) کتنا ہی عمدہ لگے مگر جو کنیز (ہمارے حکم سے) آپ کی مِلک میں ہو (جائز ہے)، اور اللہ ہر چیز پر نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے بعد دوسری عورتیں تمہارے لیے حلال نہیں ہیں، اور نہ یہ جائز ہے کہ تم ان کے بدلے کوئی دوسری بیویاں لے آؤ، چاہے ان کی خوبی تمہیں پسند آئی ہو۔ البتہ جو کنیزیں تمہاری ملکیت میں ہوں (وہ تمہارے لیے حلال ہیں) اور اللہ ہر چیز کی پوری نگرانی کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

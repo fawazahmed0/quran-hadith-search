@@ -3224,6 +3224,12 @@ aur aap un ko nuh(alaihissalam) ka qissa pad kar sunaiyye,jab ke unhone apni kha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان پر نوح (علیہ السلام) کا قصہ بیان فرمائیے، جب انہوں نے اپنی قوم سے کہا: اے میری قوم (اولادِ قابیل!) اگر تم پر میرا قیام اور میرا اللہ کی آیتوں کے ساتھ نصیحت کرنا گراں گزر رہا ہے تو (جان لو کہ) میں نے تو صرف اللہ ہی پر توکل کرلیا ہے (اور تمہارا کوئی ڈر نہیں) سو تم اکٹھے ہوکر (میری مخالفت میں) اپنی تدبیر کو پختہ کرلو اور اپنے (گھڑے ہوئے) شریکوں کو بھی (ساتھ ملا لو اور اس قدر سوچ لو کہ) پھر تمہاری تدبیر (کا کوئی پہلو) تم پر مخفی نہ رہے، پھر میرے ساتھ (جو جی میں آئے) کر گزرو اور (مجھے) کوئی مہلت نہ دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ان کے سامنے نوح کا واقعہ پڑھ کر سناؤ، جب انہوں نے اپنی قوم سے کہا تھا کہ : میری قوم کے لوگو ! اگر تمہارے درمیان میرا رہنا، اور اللہ کی آیات کے ذریعے خبردار کرنا تمہیں بھاری معلوم ہورہا ہے تو میں نے تو اللہ ہی پر بھروسہ کر رکھا ہے، اب تم اپنے شریکوں کو ساتھ ملا کر (میرے خلاف) اپنی تدبیروں کو خوب پختہ کرلو، پھر جو تدبیر تم کرو وہ تمہارے دل میں کسی گھٹن کا باعث نہ بنے، بلکہ میرے خلاف جو فیصلہ تم نے کیا ہو، اسے (دل کھول کر) کر گزرو، اور مجھے ذرا مہلت نہ دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

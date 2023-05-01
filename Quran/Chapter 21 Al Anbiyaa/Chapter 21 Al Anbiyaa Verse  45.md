@@ -3224,6 +3224,12 @@ keh di jiye! ke main to tumhe Allah ki wahi ke zariye agaah kar raha hoon, magar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: میں تو تمہیں صرف وحی کے ذریعہ ہی ڈراتا ہوں، اور بہرے پکار کو نہیں سنا کرتے جب بھی انہیں ڈرایا جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : میں تو تمہیں وحی کے ذریعے ڈراتا ہوں، لیکن بہرے لوگ ایسے ہیں کہ جب انہیں ڈرایا جاتا ہے تو وہ کوئی پکار نہیں سنتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jis shaqs ne jo kuch kiya hai, bharpoor de diya jayega, jo kuch log kar rahe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہر شخص کو اُس کے اعمال کا پورا پورا بدلہ دیا جائے گا اور وہ خوب جانتا ہے جو کچھ وہ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہر شخص کو اس کے عمل کا پورا پورا بدلہ دیا جائے گا۔ اور جو کچھ لوگ کرتے ہیں۔ اللہ اسے خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

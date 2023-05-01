@@ -3224,6 +3224,12 @@ Rubb ne pucha “ aey Iblis , tujhey kya hua ke tu nay sajda karne walon ka saat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اللہ نے) ارشاد فرمایا: اے ابلیس! تجھے کیا ہو گیا ہے کہ تو سجدہ کرنے والوں کے ساتھ نہ ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کہا : ابلیس ! تجھے کیا ہوا کہ تو سجدہ کرنے والوں میں شامل نہیں ہوا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

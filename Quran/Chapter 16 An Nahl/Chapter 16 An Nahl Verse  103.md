@@ -3224,6 +3224,12 @@ hamein ba-qoobi ilm hai ke ye kaafir kehte hai ke ose to ek aadmi sikhaata hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم جانتے ہیں کہ وہ (کفار و مشرکین) کہتے ہیں کہ انہیں یہ (قرآن) محض کوئی آدمی ہی سکھاتا ہے، جس شخص کی طرف وہ بات کو حق سے ہٹاتے ہوئے منسوب کرتے ہیں اس کی زبان عجمی ہے اور یہ قرآن واضح و روشن عربی زبان (میں) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ہمیں معلوم ہے کہ یہ لوگ (تمہارے بارے میں) یہ کہتے ہیں کہ : ان کو تو ایک انسان سکھاتا پڑھاتا ہے۔ (حالانکہ) جس شخص کا یہ حوالہ دے رہے ہیں اس کی زبان عجمی ہے۔ اور یہ (قرآن کی زبان) صاف عربی زبان ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

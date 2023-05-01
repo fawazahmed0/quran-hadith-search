@@ -3224,6 +3224,12 @@ Allah ta’ala us basti ki misaal bayaan farmata hai jo pure aman wa itmenaan se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے ایک ایسی بستی کی مثال بیان فرمائی ہے جو (بڑے) امن اور اطمینان سے (آباد) تھی اس کا رزق اس کے (مکینوں کے) پاس ہر طرف سے بڑی وسعت و فراغت کے ساتھ آتا تھا پھر اس بستی (والوں) نے اللہ کی نعمتوں کی ناشکری کی تو اللہ نے اسے بھوک اور خوف کے عذاب کا لباس پہنا دیا ان اعمال کے سبب سے جو وہ کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ایک بستی کی مثال دیتا ہے جو بڑی پر امن اور مطمئن تھی اس کا رزق اس کو ہر جگہ سے بڑی فراوانی کے ساتھ پہنچ رہا تھا، پھر اس نے اللہ کی نعمتوں کی ناشکری شروع کردی، تو اللہ نے ان کے کرتوت کی وجہ سے ان کو یہ مزہ چکھایا کہ بھوک اور خوف ان کا پہننا اوڑھنا بن گیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

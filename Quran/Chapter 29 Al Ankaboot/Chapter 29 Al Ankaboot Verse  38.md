@@ -3224,6 +3224,12 @@ aur hum ne aadiyo aur samudiyo ko bhi ghaarath kiya, jin ke baaz makanaath tumha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور عاد اور ثمود کو (بھی ہم نے ہلاک کیا) اور بیشک ان کے کچھ (تباہ شدہ) مکانات تمہارے لیئے (بطورِ عبرت) ظاہر ہو چکے ہیں اور شیطان نے ان کے اَعمالِ بد، ان کے لئے خوش نما بنا دیئے تھے اورانہیں (حق کی) راہ سے پھیر دیا تھا حالانکہ وہ بینا و دانا تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے عاد اور ثمود کو بھی ہلاک کیا، اور ان کی تباہی تم پر ان کے گھروں سے واضح ہوچکی ہے۔ اور شیطان نے ان کے اعمال کو ان کی نگاہوں میں خوشنما بنا کر انہیں راہ راست سے روک دیا تھا، حالانکہ وہ سوجھ بوجھ کے لوگ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

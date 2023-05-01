@@ -3224,6 +3224,12 @@ qayaamath ka ilm Allah hee ki taraf lautaaya jaata hai aur jo jo phal apne shagu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی (اللہ) کی طرف ہی وقتِ قیامت کے علم کا حوالہ دیا جاتا ہے، اور نہ پھل اپنے غلافوں سے نکلتے ہیں اور نہ کوئی مادہ حاملہ ہوتی ہے اور نہ وہ بچہ جنتی ہے مگر (یہ سب کچھ) اُس کے علم میں ہوتا ہے۔ اور جس دن وہ انہیں ندا فرمائے گا کہ میرے شریک کہاں ہیں، (تو) وہ (مشرک) کہیں گے: ہم آپ سے عرض کئے دیتے ہیں کہ ہم میں سے کوئی بھی (کسی کے آپ کے ساتھ شریک ہونے پر) گواہ نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قیامت کے کا علم اسی کی طرف لوٹایا جاتا ہے۔ اور اللہ کے علم کے بغیر نہ پھلوں میں سے کوئی پھل اپنے شگوفوں سے نکلتا ہے اور نہ کسی مادہ کو حمل ٹھہرتا ہے، اور نہ اس کے کوئی بچہ پیدا ہوتا ہے، اور جس دن وہ ان (مشرکوں) کو پکارے گا، کہاں ہیں میرے وہ شریک ؟ تو وہ کہیں گے کہ : ہم تو آپ سے یہی عرض کرتے ہیں کہ ہم میں سے کوئی اب اس بات کا گواہ نہیں ہے (کہ آپ کا کوئی شریک ہے)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

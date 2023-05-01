@@ -3224,6 +3224,12 @@ bahuth buri hai wo cheez jis ke badhle unhone apne aap ko bech daala,wo unka kuf
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے اپنی جانوں کا کیا برا سودا کیا کہ اللہ کی نازل کردہ کتاب کا انکار کر رہے ہیں، محض اس حسد میں کہ اللہ اپنے فضل سے اپنے بندوں میں سے جس پر چاہتا ہے (وحی) نازل فرماتا ہے، پس وہ غضب در غضب کے سزاوار ہوئے، اور کافروں کے لئے ذلّت انگیز عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بری ہے وہ قیمت جس کے بدلے انہوں نے اپنی جانوں کو بیچ ڈالا ہے، کہ یہ اللہ کی نازل کی ہوئی کتاب کا صرف اس جلن کی بنا پر انکار کر رہے ہیں کہ اللہ اپنے فضل کا کوئی حصہ (یعنی وحی) اپنے بندوں میں سے جس پر چاہ رہا ہے (کیوں) اتار رہا ہے ؟ چنانچہ یہ (اپنی اس جلن کی وجہ سے) غضب بالائے غضب لے کر لوٹے ہیں۔ اور کافر لوگ ذلت آمیز سزا کے مستحق ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

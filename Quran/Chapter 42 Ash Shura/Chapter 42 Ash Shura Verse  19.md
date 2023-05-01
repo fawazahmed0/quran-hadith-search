@@ -3224,6 +3224,12 @@ Allah ta’ala apne bandho par bada hee lutf karne waala hai, jise chaahta hai k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ اپنے بندوں پر بڑا لطف و کرم فرمانے والا ہے، جسے چاہتا ہے رِزق و عطا سے نوازتا ہے اور وہ بڑی قوت والا بڑی عزّت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ اپنے بندوں پر بہت مہربان ہے، وہ جس کو چاہتا ہے رزق دیتا ہے، اور وہی ہے جو قوت کا بھی مالک ہے، اقتدار کا بھی مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

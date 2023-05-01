@@ -3224,6 +3224,12 @@ ginte ke chand hee din hai lekin tum mein se jo shaqs bimaar ho ya safar mein ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) گنتی کے چند دن (ہیں)، پس اگر تم میں سے کوئی بیمار ہو یا سفر پر ہو تو دوسرے دنوں (کے روزوں) سے گنتی پوری کر لے، اور جنہیں اس کی طاقت نہ ہو ان کے ذمے ایک مسکین کے کھانے کا بدلہ ہے، پھر جو کوئی اپنی خوشی سے (زیادہ) نیکی کرے تو وہ اس کے لئے بہتر ہے، اور تمہارا روزہ رکھ لینا تمہارے لئے بہتر ہے اگر تمہیں سمجھ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 گنتی کے چند دن روزے رکھنے ہیں، پھر بھی اگر تم میں سے کوئی شخص بیمار ہو یا سفر پر ہو تو وہ دوسرے دنوں میں اتنی ہی تعداد پوری کرلے۔ اور جو لوگ اس کی طاقت رکھتے ہوں وہ ایک مسکین کو کھانا کھلا کر (روزے کا) فدیہ ادا کردیں اس کے علاوہ اگر کوئی شخص اپنی خوشی سے کوئی نیکی کرے تو یہ اس کے حق میں بہتر ہے، اور اگر تم کو سمجھ ہو تو روزے رکھنے میں تمہارے لیے زیادہ بہتری ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ so us shaqs se zyaada zaalim kaun hoga jo Allah ta’ala par jhoot baandhe ya us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب بتاؤ کہ اس شخص سے بڑا ظالم کون ہوگا جو اللہ پر جھوٹ باندھے، یا اس کی آیتوں کو جھٹلائے ؟ ایسے لوگوں کے مقدر میں (رزق کا) جتنا حصہ لکھا ہوا ہے، وہ انہیں (دنیا کی زندگی میں) پہنچتا رہے گا۔ یہاں تک کہ جب ان کے پاس ہمارے بھیجے ہوئے فرشتے ان کی روح قبض کرنے کے لیے آپہنچیں گے تو وہ کہیں گے کہ : کہاں ہیں وہ (تمہارے معبود) جنہیں تم اللہ کے بجائے پکارا کرتے تھے ؟ یہ جواب دیں گے کہ : وہ سب ہم سے گم ہوچکے ہیں۔ اور وہ خود اپنے خلاف گواہی دیں گے کہ وہ کافر تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

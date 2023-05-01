@@ -3224,6 +3224,12 @@ Jin logon ne kaha ke Allah hamara Rubb hai aur phir woh ispar saabit qadam rahey
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک جن لوگوں نے کہا: ہمارا رب اللہ ہے، پھر وہ (اِس پر مضبوطی سے) قائم ہوگئے، تو اُن پر فرشتے اترتے ہیں (اور کہتے ہیں) کہ تم خوف نہ کرو اور نہ غم کرو اور تم جنت کی خوشیاں مناؤ جس کا تم سے وعدہ کیا جاتا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (دوسری طرف) جن لوگوں نے کہا ہے کہ ہمارا رب اللہ ہے، اور پھر وہ اس پر ثابت قدم رہے تو ان پر بیشک فرشتے (یہ کہتے ہوئے) اتریں گے کہ : نہ کوئی خوف دل میں لاؤ، نہ کسی بات کا غم کرو، اور اس جنت سے خوش ہوجاؤ جس کا تم سے وعدہ کیا جاتا تھا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

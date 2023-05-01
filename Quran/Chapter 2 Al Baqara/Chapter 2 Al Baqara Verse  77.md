@@ -3224,6 +3224,12 @@ kya nahi jaante ke Allah ta’ala un ki poshidgi14 aur zaaherdari sub ko jaanta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ نہیں جانتے کہ اللہ کو وہ سب کچھ معلوم ہے جو وہ چھپاتے ہیں اور جو ظاہر کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا یہ لوگ (جو ایسی باتیں کرتے ہیں) یہ نہیں جانتے کہ اللہ کو ان ساری باتوں کا خوب علم ہے جو وہ چھپاتے ہیں اور جو وہ ظاہر کرتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

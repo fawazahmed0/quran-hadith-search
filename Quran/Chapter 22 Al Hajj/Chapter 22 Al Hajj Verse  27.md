@@ -3224,6 +3224,12 @@ aur logo mein hajj ki munaadi karde, log tere paas pa-payaada bhi ayenge aur dob
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم لوگوں میں حج کا بلند آواز سے اعلان کرو وہ تمہارے پاس پیدل اور تمام دبلے اونٹوں پر (سوار) حاضر ہو جائیں گے جو دور دراز کے راستوں سے آتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں میں حج کا اعلان کردو، کہ وہ تمہارے پاس پیدل آئیں، اور دور دراز کے راستوں سے سفر کرنے والی ان اونٹنیوں پر سوار ہو کر آئیں جو (لمبے سفر سے) دبلی ہوگئی ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

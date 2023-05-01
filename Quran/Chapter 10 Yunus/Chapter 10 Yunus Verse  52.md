@@ -3224,6 +3224,12 @@ phir zalimo se kaha jaega ke hamesha ka azaab chako, tum ko to tumhare kiye ka h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (ان) ظالموں سے کہا جائے گا: تم دائمی عذاب کا مزہ چکھو، تمہیں (کچھ بھی اور) بدلہ نہیں دیا جائے گا، مگر انہی اعمال کا جو تم کماتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ظالموں سے کہا جائے گا کہ : اب ہمیشہ کے عذاب کا مزہ چکھو، تمہیں کسی اور چیز کا نہیں، صرف اس (بدی) کا بدلہ دیا جارہا ہے جو تم کماتے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un ki khaum ke mutakabbir sardaaro ne kaha ke aye Shoib! hum aap ko aur jo aap k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی قوم کے سردار جو بڑائی کے گھمنڈ میں تھے، کہنے لگے : اے شعیب ! ہم نے پکا ارادہ کرلیا ہے کہ ہم تمہیں اور تمہارے ساتھ تمام ایمان والوں کو اپنی بستی سے نکال باہر کریں گے، ورنہ تم سب کو ہمارے دین میں واپس آنا پڑے گا۔ شعیب نے کہا : اچھا ؟ اگر ہم (تمہارے دین سے) نفرت کرتے ہوں، تب بھی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

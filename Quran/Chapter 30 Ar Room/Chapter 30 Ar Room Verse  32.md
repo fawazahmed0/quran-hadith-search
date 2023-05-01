@@ -3224,6 +3224,12 @@ un logo mein se jinhone apne deen ko tukde tukde kar diya aur khud bhi giruh gir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان (یہود و نصارٰی) میں سے (بھی نہ ہونا) جنہوں نے اپنے دین کو ٹکڑے ٹکڑے کر ڈالا اور وہ گروہ در گروہ ہو گئے، ہر گروہ اسی (ٹکڑے) پر اِتراتا ہے جو اس کے پاس ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جنہوں نے اپنے دین کو ٹکڑے ٹکڑے کرلیا، اور مختلف فرقوں میں بٹ گئے۔ ہر گروہ اپنے اپنے طریقے پر مگن ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

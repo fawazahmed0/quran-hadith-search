@@ -3224,6 +3224,12 @@ aap kahiye ke ye bath-laao agar tum par Allah ta’ala ka azaab aa pade qaah ach
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان سے یہ بھی) فرما دیجئے کہ تم مجھے بتاؤ اگر تم پر اللہ کا عذاب اچانک یا کھلم کھلا آن پڑے تو کیا ظالم قوم کے سوا (کوئی اور) ہلاک کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو : ذرا یہ بتاؤ کہ اگر اللہ کا عذاب تمہارے پاس اچانک آئے یا اعلان کرکے، دونوں صورتوں میں کیا ظالموں کے سوا کسی اور کو ہلاک کیا جائے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

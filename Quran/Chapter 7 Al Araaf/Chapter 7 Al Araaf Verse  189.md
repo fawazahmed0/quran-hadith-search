@@ -3224,6 +3224,12 @@ wo Allah ta’ala aisa hai jis ne tum ko ek ta-ne waahed se paida kiya aur osi s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے تمہیں ایک جان سے پیدا کیا، اور اسی سے اس کی بیوی بنائی تاکہ وہ اس کے پاس آکر تسکین حاصل کرے۔ پھر جب مرد نے عورت کو ڈھانک لیا تو عورت نے حمل کا ایک ہلکا سا بوجھ اٹھا لیا، جسے لے کر وہ چلتی پھرتی رہی۔ پھر جب وہ بوجھل ہوگئی تو دونوں (میاں بیوی) نے اپنے پروردگار سے دعا کی کہ : اگر تو نے ہمیں تندرست اولاد دی تو ہم ضرور بالضرور تیرا شکر ادا کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum bhi un ke dilo ko aur un ki nigaaho ko pher denge jaisa ke ye log us par
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم ان کے دلوں کو اور ان کی آنکھوں کو (ان کی اپنی بدنیتی کے باعث قبولِ حق) سے (اسی طرح) پھیر دیں گے جس طرح وہ اس (نبی) پر پہلی بار ایمان نہیں لائے (سو وہ نشانی دیکھ کر بھی ایمان نہیں لائیں گے) اور ہم انہیں ان کی سرکشی میں (ہی) چھوڑ دیں گے کہ وہ بھٹکتے پھریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس طرح یہ لوگ پہلی بار (قرآن جیسے معجزے پر) ایمان نہیں لائے، ہم بھی (ان کی ضد کی پاداش میں) ان کے دلوں اور نگاہوں کا رخ پھیر دیتے ہیں، اور ان کو اس حالت میں چھوڑ دیتے ہیں کہ یہ اپنی سرکشی میں بھٹکتے پھریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

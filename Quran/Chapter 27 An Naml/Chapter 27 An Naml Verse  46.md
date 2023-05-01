@@ -3224,6 +3224,12 @@ aap ne farmaya aye meri khaum ke logo! tum neki se pehle buraayi ki jaldi kyo ma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(صالح علیہ السلام نے) فرمایا: اے میری قوم! تم لوگ بھلائی (یعنی رحمت) سے پہلے برائی (یعنی عذاب) میں کیوں جلدی چاہتے ہو؟ تم اللہ سے بخشش کیوں طلب نہیں کرتے تاکہ تم پر رحم کیا جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 صالح نے کہا : میری قوم کے لوگو ! اچھائی سے پہلے برائی کو کیوں جلدی مانگتے ہو۔ تم اللہ سے معافی کیوں نہیں مانگتے تاکہ تم پر رحم فرمایا جائے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

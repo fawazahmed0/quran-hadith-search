@@ -3224,6 +3224,12 @@ aur jo log Allah par jhot iftera baandhte hai,un ka qayamath ki nisabath kya gum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ایسے لوگوں کا روزِ قیامت کے بارے میں کیا خیال ہے جو اللہ پر جھوٹا بہتان باندھتے ہیں، بیشک اللہ لوگوں پر فضل فرمانے والا ہے لیکن ان میں سے اکثر (لوگ) شکر گزار نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اللہ پر بہتان باندھتے ہیں روز قیامت کے بارے میں ان کا کیا گمان ہے ؟ اس میں شک نہیں کہ اللہ انسانوں کے ساتھ فضل کا معاملہ کرنے والا ہے، لیکن ان میں سے اکثر لوگ شکر ادا نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

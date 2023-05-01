@@ -3224,6 +3224,12 @@ phir hum ne us badh-haali ki jagah khush haali badal di, yaha tak ke un ko qoob 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے کیفیت بدلی، بدحالی کی جگہ خوشحالی عطا فرمائی، یہاں تک کہ وہ خوب پھلے پھولے، اور کہنے لگے کہ دکھ سکھ تو ہمارے باپ دادوں کو بھی پہنچتے رہے ہیں۔ پھر ہم نے انہیں اچانک اس طرح پکڑ لیا کہ انہیں (پہلے سے) پتہ بھی نہیں چل سکا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

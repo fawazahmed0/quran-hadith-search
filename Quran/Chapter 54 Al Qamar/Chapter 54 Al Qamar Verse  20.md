@@ -3224,6 +3224,12 @@ jo logo ko utha utha kar de patakti thi, goya ke wo jad se kate hoye khajoor ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگوں کو (اس طرح) اکھاڑ پھینکتی تھی گویا وہ اکھڑے ہوئے کھجور کے درختوں کے تنے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگوں کو اس طرح اکھاڑ پھینک دیتی تھی جیسے وہ کھجور کے اکھڑے ہوئے درخت کے تنے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

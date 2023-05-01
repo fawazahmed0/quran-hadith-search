@@ -3224,6 +3224,12 @@ yaad rakho, wo log apne sino ko dohra kiye dete hai taake apni batein (Allah) se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جان لو! بیشک وہ (کفار) اپنے سینوں کو دُہرا کر لیتے ہیں تاکہ وہ اس (خدا) سے (اپنے دلوں کا حال) چھپا سکیں، خبردار! جس وقت وہ اپنے کپڑے (جسموں پر) اوڑھ لیتے ہیں (تو اس وقت بھی) وہ ان سب باتوں کو جانتا ہے جو وہ چھپاتے ہیں اور جو وہ آشکار کرتے ہیں، بیشک وہ سینوں کی (پوشیدہ) باتوں کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دیکھو یہ (کافر) لوگ اپنے سینوں کو اس سے چھپنے کے لیے دہرا کرلیتے ہیں۔ یاد رکھو جب یہ اپنے اوپر کپڑے لپیٹتے ہیں، اللہ ان کی وہ باتیں بھی جانتا ہے جو یہ چھپاتے ہیں، اور وہ بھی جو یہ علی الاعلان کرتے ہیں، یقینا اللہ سینوں میں چھپی ہوئی باتوں کا (بھی) پورا پورا علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

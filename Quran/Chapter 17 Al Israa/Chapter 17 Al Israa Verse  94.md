@@ -3224,6 +3224,12 @@ logo ke paas hidaayath pahonch chukne ke baadh imaan se rokne waali sirf yahi ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ان) لوگوں کو ایمان لانے سے اور کوئی چیز مانع نہ ہوئی جبکہ ان کے پاس ہدایت (بھی) آچکی تھی سوائے اس کے کہ وہ کہنے لگے: کیا اللہ نے (ایک) بشر کو رسول بنا کر بھیجا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان لوگوں کے پاس ہدایت کا پیغام آیا تو ان کو ایمان لانے سے اسی بات نے تو روکا کہ وہ کہتے تھے : کیا اللہ نے ایک بشر کو رسول بنا کر بھیجا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

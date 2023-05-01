@@ -3224,6 +3224,12 @@ un se pehle waalo ne bhi jhhutlaaya, phir un par wahaa se azaab aa pada, jahaa s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایسے لوگوں نے جو اِن سے پہلے تھے (رسولوں کو) جھٹلایا تھا سو اُن پر ایسی جگہ سے عذاب آپہنچا کہ انہیں کچھ شعور ہی نہ تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ان سے پہلے تھے، انہوں نے بھی (پیغمبروں کو) جھٹلایا تھا، جس کے نتیجے میں ان پر عذاب ایسی جگہ سے آیا جس کی طرف ان کا گمان بھی نہیں جاسکتا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

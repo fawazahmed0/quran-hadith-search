@@ -3224,6 +3224,12 @@ pas aaj kisi shaqs par kuch bhi zulm na kiya jayega aur tumhe nahi badhla diya j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر آج کے دن کسی جان پر کچھ ظلم نہ کیا جائے گا اور نہ تمہیں کوئی بدلہ دیا جائے گا سوائے اُن کاموں کے جو تم کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ اس دن کسی شخص پر کوئی ظلم نہیں ہوگا، اور تمہیں کسی اور چیز کا نہیں، بلکہ انہیں کاموں کا بدلہ ملے گا جو تم کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

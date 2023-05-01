@@ -3224,6 +3224,12 @@ aap ka rab un ke darmiyaan apne hukm se sab faisle kar dega, wo bada hee ghaalib
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک آپ کا رب ان (مومنوں اور کافروں) کے درمیان اپنے حکم (عدل) سے فیصلہ فرمائے گا، اور وہ غالب ہے بہت جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارا پروردگار یقینا ان کے درمیان اپنے حکم سے فیصلہ کرے گا، اور وہ بڑا اقتدار والا، بڑا علم والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

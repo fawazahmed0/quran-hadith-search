@@ -3224,6 +3224,12 @@ zameen mein chal phir kar dekho to sahih ke aglo ka anjaam kya hoa, jin mein aks
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیجئے کہ تم زمین میں سیر و سیاحت کیا کرو پھر دیکھو پہلے لوگوں کا کیسا (عبرت ناک) انجام ہوا، ان میں زیادہ تر مشرک تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہو کہ : زمین میں چل پھر کر دیکھو کہ جو لوگ پہلے گزرے ہیں، ان کا کیسا انجام ہوا۔ ان میں سے اکثر مشرک تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

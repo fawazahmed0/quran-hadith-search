@@ -3224,6 +3224,12 @@ aur ye to mahez tumhaare dil ki khushi aur itmenaan qalb ke liye hai,warna madad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے اس (مدد) کو محض تمہارے لئے خوشخبری بنایا اور اس لئے کہ اس سے تمہارے دل مطمئن ہو جائیں، اور مدد تو صرف اللہ ہی کی طرف سے ہوتی ہے جو بڑا غالب حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے یہ سب انتظام صرف اس لئے کیا تھا تاکہ تمہیں خوشخبری ملے، اور اس سے تمہارے دلوں کو اطمینان نصیب ہو، ورنہ فتح تو کسی اور کی طرف سے نہیں، صرف اللہ کے پاس سے آتی ہے جو مکمل اقتدار کا بھی مالک ہے، تمام تر حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

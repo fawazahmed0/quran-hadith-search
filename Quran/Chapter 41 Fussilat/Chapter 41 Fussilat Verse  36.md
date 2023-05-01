@@ -3224,6 +3224,12 @@ aur agar shaytaan ki taraf se koyi was wasa aaye to Allah ki panaah talab karo, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے بندۂ مومن!) اگر شیطان کی وسوسہ اندازی سے تمہیں کوئی وسوسہ آجائے تو اللہ کی پناہ مانگ لیا کر، بے شک وہ خوب سننے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہیں شیطان کی طرف سے کبھی کوئی کچوکا لگے تو شیطان مردود سے اللہ کی پناہ مانگ لیا کرو بیشک وہ ہر بات سننے والا، ہر بات جاننے والا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

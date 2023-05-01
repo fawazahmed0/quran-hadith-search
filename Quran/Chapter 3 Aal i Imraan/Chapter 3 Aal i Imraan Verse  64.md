@@ -3224,6 +3224,12 @@ aap keh dijiye ke aye ahle kitaab! aisi insaaf waali baath ki taraf aao, jo hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں: اے اہلِ کتاب! تم اس بات کی طرف آجاؤ جو ہمارے اور تمہارے درمیان یکساں ہے، (وہ یہ) کہ ہم اللہ کے سوا کسی کی عبادت نہیں کریں گے اور ہم اس کے ساتھ کسی کو شریک نہیں ٹھہرائیں گے اور ہم میں سے کوئی ایک دوسرے کو اللہ کے سوا رب نہیں بنائے گا، پھر اگر وہ روگردانی کریں تو کہہ دو کہ گواہ ہو جاؤ کہ ہم تو اللہ کے تابع فرمان (مسلمان) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو ! یہود و نصاری سے) کہہ دو کہ : اے اہل کتاب ! ایک ایسی بات کی طرف آجاؤ جو ہم تم میں مشترک ہو، (اور وہ یہ) کہ ہم اللہ کے سوا کسی کی عبادت نہ کریں، اور اس کے ساتھ کسی کو شریک نہ ٹھہرائیں، اور اللہ کو چھوڑ کر ہم ایک دوسرے کو رب نہ بنائیں۔ پھر بھی اگر وہ منہ موڑیں تو کہہ دو : گواہ رہنا کہ ہم مسلمان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yousuf ne kaha jaante bhi ho ke tum ne yousuf aur us ke bhai ke saath apni nadaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یوسف (علیہ السلام) نے فرمایا: کیا تمہیں معلوم ہے کہ تم نے یوسف اور اس کے بھائی کے ساتھ کیا (سلوک) کیا تھا کیا تم (اس وقت) نادان تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یوسف نے کہا : تمہیں کچھ پتہ ہے کہ تم جب جہالت میں مبتلا تھے تو تم نے یوسف اور اس کے بھائی کے ساتھ کیا کیا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye log hai jinhe un ke sabr ke badhle mein dohra ajr diya jayega, ye neki se bad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں جنہیں ان کا اجر دوبار دیا جائے گا اس وجہ سے کہ انہوں نے صبر کیا اور وہ برائی کو بھلائی کے ذریعے دفع کرتے ہیں اور اس عطا میں سے جو ہم نے انہیں بخشی خرچ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے لوگوں کو ان کا ثواب دہرا دیا جائے گا، کیونکہ انہوں نے صبر سے کام لیا اور وہ نیکی سے برائی کا دفعیہ کرتے ہیں، اور ہم نے جو کچھ ان کو دیا ہے، اس میں سے (اللہ کے راستے میں) خرچ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

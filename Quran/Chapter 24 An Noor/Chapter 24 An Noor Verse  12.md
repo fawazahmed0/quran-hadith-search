@@ -3224,6 +3224,12 @@ ose sunte hee momin mardo aur aurto ne apne haq mein nek gumaani kyo na ki aur k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایسا کیوں نہ ہوا کہ جب تم نے اس (بہتان) کو سنا تھا تو مومن مرد اور مومن عورتیں اپنوں کے بارے میں نیک گمان کر لیتے اور (یہ) کہہ دیتے کہ یہ کھلا (جھوٹ پر مبنی) بہتان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس وقت تم لوگوں نے یہ بات سنی تھی تو ایسا کیوں نہ ہوا کہ مومن مرد بھی اور مومن عورتیں بھی اپنے بارے میں نیک گمان رکھتے اور کہہ دیتے کہ یہ کھلم کھلا جھوٹ ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

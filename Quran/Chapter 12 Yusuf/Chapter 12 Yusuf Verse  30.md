@@ -3224,6 +3224,12 @@ aur shaher ki aurto mein charcha hone laga ke azeez ki biwi apne (jawaan) ghulaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور شہر میں (اُمراء کی) کچھ عورتوں نے کہنا (شروع) کر دیا کہ عزیز کی بیوی اپنے غلام کو اس سے مطلب براری کے لئے پھسلاتی ہے، اس (غلام) کی محبت اس کے دل میں گھر کر گئی ہے، بیشک ہم اسے کھلی گمراہی میں دیکھ رہی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور شہر میں کچھ عورتیں یہ باتیں کرنے لگیں کہ : عزیز کی بیوی اپنے نوجوان غلام کو ورغلا رہی ہے۔ اس نوجوان کی محبت نے اسے فریفتہ کرلیا ہے۔ ہمارے خیال میں تو یقینی طور پر وہ کھلی گمراہی میں مبتلا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

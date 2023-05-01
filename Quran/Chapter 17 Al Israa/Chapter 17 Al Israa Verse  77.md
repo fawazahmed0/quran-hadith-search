@@ -3224,6 +3224,12 @@ aisa hee dastoor un ka tha jo aap se pehle rasool hum ne bheje aur aap hamaare d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان سب رسولوں (کے لئے اللہ) کا دستور (یہی رہا ہے) جنہیں ہم نے آپ سے پہلے بھیجا تھا اور آپ ہمارے دستور میں کوئی تبدیلی نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ہمارا وہ طریق کار ہے جو ہم نے اپنے ان پیغمبروں کے ساتھ اختیار کیا تھا جو ہم نے تم سے پہلے بھیجے تھے، اور تم ہمارے طریقے میں کوئی تبدیلی نہیں پاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

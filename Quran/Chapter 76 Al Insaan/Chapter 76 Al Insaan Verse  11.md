@@ -3224,6 +3224,12 @@ pas unhe Allah ta’ala ne us din ki buraayi se bacha liya aur unhe taazgi aur k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اللہ انہیں (خوفِ اِلٰہی کے سبب سے) اس دن کی سختی سے بچا لے گا اور انہیں (چہروں پر) رونق و تازگی اور (دلوں میں) سرور و مسرّت بخشے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کا نتیجہ یہ ہے کہ اللہ ایسے لوگوں کو اس دن کے برے اثرات سے بچا لے گا، اور ان کو شادابی اور سرور سے نوازے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

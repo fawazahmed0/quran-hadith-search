@@ -3224,6 +3224,12 @@ us ki biwi jo khadi hoyi thi wo has padi, to hum ne ose is’haaq ki aur is’ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کی اہلیہ (سارہ پاس ہی) کھڑی تھیں تو وہ ہنس پڑیں، سو ہم نے ان (کی زوجہ) کو اسحاق (علیہ السلام) کی اور اسحاق (علیہ السلام) کے بعد یعقوب (علیہ السلام) کی بشارت دی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ابراہیم کی بیوی کھڑی ہوئی تھیں، وہ ہنس پڑیں، تو ہم نے انہیں (دوبارہ) اسحاق کی، اور اسحاق کے بعد یعقوب کی پیدائش کی خوشخبری دی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

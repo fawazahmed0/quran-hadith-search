@@ -3224,6 +3224,12 @@ jo jaante hai ke beshak wo apne rub se mulaaqath karne waale aur yaqinan wo osi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ وہ لوگ ہیں) جو یقین رکھتے ہیں کہ وہ اپنے رب سے ملاقات کرنے والے ہیں اور وہ اسی کی طرف لوٹ کر جانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اس بات کا خیال رکھتے ہیں کہ وہ اپنے پروردگار سے ملنے والے ہیں اور ان کو اسی کی طرف لوٹ کر جانا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

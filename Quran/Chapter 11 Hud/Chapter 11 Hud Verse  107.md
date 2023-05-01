@@ -3224,6 +3224,12 @@ wo wahi hamesha rehne wale hai jab tak aasmaan wa zameen barqaraar rahe, sivae u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اس میں ہمیشہ رہیں گے جب تک آسمان اور زمین (جو اس وقت ہوں گے) قائم رہیں مگر یہ کہ جو آپ کا رب چاہے۔ بیشک آپ کا رب جو ارادہ فرماتا ہے کر گزرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس میں ہمیشہ ہمیشہ رہیں گے جب تک آسمان اور زمین قائم ہیں۔ الا یہ کہ تمہارے رب ہی کو کچھ اور منظور ہو یقینا تمہارا رب جو ارادہ کرلے، اس پر اچھی طرح عمل کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un ke saamne dunya ki zindagi ki misaal (bhi) bayaan karo jaise paani, jise hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ انہیں دنیوی زندگی کی مثال (بھی) بیان کیجئے (جو) اس پانی جیسی ہے جسے ہم نے آسمان کی طرف سے اتارا تو اس کے باعث زمین کا سبزہ خوب گھنا ہوگیا پھر وہ سوکھی گھاس کا چورا بن گیا جسے ہوائیں اڑا لے جاتی ہیں، اور اللہ ہر چیز پر کامل قدرت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں سے دنیوی زندگی کی یہ مثال بھی بیان کردو کہ وہ ایسی ہے جیسے ہم نے آسمان سے پانی برسایا، تو اس سے زمین کا سبزہ خوب گھنا ہوگیا، پھر وہ ایسا ریزہ ریزہ ہوا کہ اسے ہوائیں اڑا لے جاتی ہیں۔ اور اللہ ہر چیز پر مکمل قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

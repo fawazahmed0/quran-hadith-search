@@ -3224,6 +3224,12 @@ beshak hum ne un par patthar barsaane waali hawa bheji, siwaaye Looth(alaihissal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے اُن پر کنکریاں برسانے والی آندھی بھیجی سوائے اولادِ لُوط (علیہ السلام) کے، ہم نے انہیں پچھلی رات (عذاب سے) بچا لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ان پر پتھروں کا مینہ برسایا، سوائے لوط کے گھر والوں کے جنہیں ہم نے سحری کے وقت بچا لیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

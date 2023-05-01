@@ -3224,6 +3224,12 @@ tujh se pehle bhi jo rasool hum ne bheja, us ki taraf yahi wahi nazil farmaayi k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آپ سے پہلے کوئی رسول نہیں بھیجا مگر ہم اس کی طرف یہی وحی کرتے رہے کہ میرے سوا کوئی معبود نہیں پس تم میری (ہی) عبادت کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم سے پہلے ہم نے کوئی ایسا رسول نہیں بھیجا جس پر ہم نے یہ وحی نازل نہ کی ہو کہ : میرے سوا کوئی خدا نہیں ہے، لہذا میری عبادت کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

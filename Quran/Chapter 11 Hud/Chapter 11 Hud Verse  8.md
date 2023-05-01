@@ -3224,6 +3224,12 @@ aur agar hum un se azaab ko gini chuni muddath tak ke liye piche daal de to ye z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم ان سے چند مقررہ دنوں تک عذاب کو مؤخر کردیں تو وہ یقینًا کہیں گے کہ اسے کس چیز نے روک رکھا ہے، خبردار! جس دن وہ (عذاب) ان پر آئے گا (تو) ان سے پھیرا نہ جائے گا اور وہ (عذاب) انہیں گھیر لے گا جس کا وہ مذاق اڑایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم ان لوگوں سے کچھ عرصے کے لیے عذاب کو موخر کردیں تو وہ یہی کہتے رہیں گے کہ : آخر کس چیز نے اس (عذاب) کو روک رکھا ہے ؟ ارے جس دن وہ عذاب آگیا تو وہ ان سے ٹلائے نہیں ٹلے گا، اور جس چیز کا یہ مذاق اڑا رہے ہیں، وہ ان کو چاروں طرف سے گھیر لے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

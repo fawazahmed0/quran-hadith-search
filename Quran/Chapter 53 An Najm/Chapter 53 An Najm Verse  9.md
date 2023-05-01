@@ -3224,6 +3224,12 @@ pas wo do kamaano ke ba-qadr faasla reh gaya balke us se bhi kam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (جلوۂ حق اور حبیبِ مکرّم صلی اللہ علیہ وآلہ وسلم میں صرف) دو کمانوں کی مقدار فاصلہ رہ گیا یا (انتہائے قرب میں) اس سے بھی کم (ہو گیا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ وہ دو کمانوں کے فاصلے کے برابر آگیا، بلکہ اس سے بھی زیادہ نزدیک
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

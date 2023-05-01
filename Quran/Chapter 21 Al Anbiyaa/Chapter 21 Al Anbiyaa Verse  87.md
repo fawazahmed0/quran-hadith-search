@@ -3224,6 +3224,12 @@ machli waale (Hazrath.Yonus(alaihissalaam) ko yaad karo, jab ke wo ghusse se cha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ذوالنون (مچھلی کے پیٹ والے نبی علیہ السلام کو بھی یاد فرمائیے) جب وہ (اپنی قوم پر) غضبناک ہو کر چل دیئے پس انہوں نے یہ خیال کر لیا کہ ہم ان پر (اس سفر میں) کوئی تنگی نہیں کریں گے پھر انہوں نے (دریا، رات اور مچھلی کے پیٹ کی تہہ در تہہ) تاریکیوں میں (پھنس کر) پکارا کہ تیرے سوا کوئی معبود نہیں تیری ذات پاک ہے، بیشک میں ہی (اپنی جان پر) زیادتی کرنے والوں میں سے تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مچھلی والے (پیغمبر یعنی یونس (علیہ السلام)) کو دیکھو ! جب وہ خفا ہو کر چل کھڑے ہوئے تھے اور یہ سمجھتے تھے کہ ہم ان کی کوئی پکڑ نہیں کریں گے۔ پھر انہوں نے اندھیریوں میں سے آواز لگائی کہ : (یا اللہ !) تیرے سوا کوئی معبود نہیں، تو ہر عیب سے پاک ہے، بیشک میں قصور وار ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

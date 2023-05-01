@@ -3224,6 +3224,12 @@ aur hum ne bahuth si wo bastiya tabaah kardi, jo apni aysh wa ishrath mein itraa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے کتنی ہی (ایسی) بستیوں کو برباد کر ڈالا جو اپنی خوشحال معیشت پر غرور و ناشکری کر رہی تھیں، تو یہ ان کے (تباہ شدہ) مکانات ہیں جو ان کے بعد کبھی آباد ہی نہیں ہوئے مگر بہت کم، اور (آخر کار) ہم ہی وارث و مالک ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کتنی ہی بستیاں وہ ہیں جو اپنی معیشت پر اتراتی تھیں ہم نے ان کو تباہ کر ڈالا، اب وہ ان کی رہائش گا ہیں تمہارے سامنے ہیں جو ان کے بعد تھوڑے عرصے کو چھوڑ کر کبھی آباد ہی نہ ہوسکیں، اور ہم ہی تھے جو ان کے وارث بنے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

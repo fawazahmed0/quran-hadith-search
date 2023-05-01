@@ -3224,6 +3224,12 @@ aur yatimo ko un ke maal de do aur paak aur halaal cheez ke badle na-paak aur ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یتیموں کو ان کے مال دے دو اور بُری چیز کو عمدہ چیز سے نہ بدلا کرو اور نہ ان کے مال اپنے مالوں میں ملا کر کھایا کرو، یقیناً یہ بہت بڑا گناہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یتیموں کو ان کے مال دے دو ، اور اچھے مال کو خراب مال سے تبدیل نہ کرو، اور ان (یتیموں) کا مال اپنے مال کے ساتھ ملا کر مت کھاؤ، بیشک یہ بڑا گناہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

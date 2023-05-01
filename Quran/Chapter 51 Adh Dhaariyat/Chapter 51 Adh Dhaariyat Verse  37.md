@@ -3224,6 +3224,12 @@ aur wahaa hum ne un ke liye jo dardnaak azaab ka dar rakhte hai ek (kaamil) alaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اُس (بستی) میں اُن لوگوں کے لئے (عبرت کی) ایک نشانی باقی رکھی جو دردناک عذاب سے ڈرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اس بستی میں ان لوگوں کے لیے (عبرت کی) ایک نشانی چھوڑ دی جو دردناک عذاب سے ڈرتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

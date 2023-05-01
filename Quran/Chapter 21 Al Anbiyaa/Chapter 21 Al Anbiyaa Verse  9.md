@@ -3224,6 +3224,12 @@ phir hum ne un se kiye hoye sab waade sacche kiye, unhe aur jin jin ko hum ne ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے انہیں اپنا وعدہ سچا کر دکھایا پھر ہم نے انہیں اور جسے ہم نے چاہا نجات بخشی اور ہم نے حد سے بڑھ جانے والوں کو ہلاک کر ڈالا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے ان سے جو وعدہ کیا تھا اسے سچا کر دکھایا کہ ان کو بھی بچا لیا، اور (ان کے علاوہ) جن کو ہم نے چاہا ان کو بھی، اور جو لوگ حد سے گزر چکے تھے، انہیں ہلاک کردیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

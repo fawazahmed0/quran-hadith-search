@@ -3224,6 +3224,12 @@ yaqinan aasmaan wa zameen ke kul jaandaar aur tamaam farishte Allah ta’ala ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے جملہ جاندار اور فرشتے، اللہ (ہی) کو سجدہ کرتے ہیں اور وہ (ذرا بھی) غرور و تکبر نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین میں جتنے جاندار ہیں وہ اور سارے فرشتے اللہ ہی کو سجدہ کرتے ہیں اور وہ ذرا تکبر نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

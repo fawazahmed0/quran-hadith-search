@@ -3224,6 +3224,12 @@ aur jab hum insaan par apna in’aan karte hai to wo mu pher leta hai aur kinaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم انسان پر انعام فرماتے ہیں تو وہ منہ پھیر لیتا ہے اور اپنا پہلو بچا کر ہم سے دور ہو جاتا ہے اور جب اسے تکلیف پہنچتی ہے تو لمبی چوڑی دعا کرنے والا ہو جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہم انسان پر کوئی انعام کرتے ہیں تو وہ منہ موڑ لیتا اور پہلو بدل کر دور چلا جاتا ہے، اور جب اسے کوئی برائی چھو جاتی ہے تو وہ لمبی چوڑی دعائیں کرنے لگتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

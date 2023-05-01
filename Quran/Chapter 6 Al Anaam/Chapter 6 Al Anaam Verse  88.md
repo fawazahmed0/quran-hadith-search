@@ -3224,6 +3224,12 @@ Allah ki hidaayath hee hai, jis ke zariye apne bandho mein se jis ko chaahe us k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اللہ کی ہدایت ہے وہ اپنے بندوں میں سے جسے چاہتا ہے اس کے ذریعے رہنمائی فرماتا ہے، اور اگر (بالفرض) یہ لوگ شرک کرتے تو ان سے وہ سارے اعمالِ (خیر) ضبط (یعنی نیست و نابود) ہو جاتے جو وہ انجام دیتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اللہ کی دی ہوئی ہدایت ہے جس کے ذریعے وہ اپنے بندوں میں سے جس کو چاہتا ہے راہ راست تک پہنچا دیتا ہے۔ اور اگر وہ شرک کرنے لگتے تو ان کے سارے (نیک) اعمال اکارت ہوجاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ae iman walo! apne bapo ko aur apne bhaiyyo ko dost na banao agar wo kufr ko ima
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اپنے باپ (دادا) اور بھائیوں کو بھی دوست نہ بناؤ اگر وہ ایمان پر کفر کو محبوب رکھتے ہوں، اور تم میں سے جو شخص بھی انہیں دوست رکھے گا سو وہی لوگ ظالم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اگر تمہارے باپ بھائی کفر کو ایمان کے مقابلے میں ترجیح دیں تو ان کو اپنا سرپرست نہ بناؤ ۔ اور جو لوگ ان کو سرپرست بنائیں گے وہ ظالم ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

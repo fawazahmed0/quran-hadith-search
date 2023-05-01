@@ -3224,6 +3224,12 @@ aur jis cheez ko aap ne apne ilm mein na liya ho us par sabr kar bhi kaise sakte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ اس (بات) پر کیسے صبر کر سکتے ہیں جسے آپ (پورے طور پر) اپنے احاطہء علم میں نہیں لائے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن باتوں کی آپ کو پوری پوری واقفیت نہیں ہے، ان پر آپ صبر کر بھی کیسے سکتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

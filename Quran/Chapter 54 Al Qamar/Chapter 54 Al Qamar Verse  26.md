@@ -3224,6 +3224,12 @@ ab sab jaan lenge kal ko, ke kaun jhuta aur sheqi qoor tha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہیں کل (قیامت کے دن) ہی معلوم ہو جائے گا کہ کون بڑا جھوٹا، خود پسند (اور متکبّر) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے پیغمبر صالح (علیہ السلام) سے کہا کہ) کل ہی انہیں پتہ چل جائے گا کہ پرلے درجے کا جھوٹا شیخی باز کون تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

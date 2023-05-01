@@ -3224,6 +3224,12 @@ agar tum ne konch na kiya tuh tumhe Allah tala dardnak saza dega aur tumhare siv
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تم (جہاد کے لئے) نہ نکلو گے تو وہ تمہیں دردناک عذاب میں مبتلا فرمائے گا اور تمہاری جگہ (کسی) اور قوم کو لے آئے گا اور تم اسے کچھ بھی نقصان نہیں پہنچا سکو گے، اور اللہ ہر چیز پر بڑی قدرت رکھتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم کوچ نہیں کرو گے تو اللہ تمہیں دردناک سزا دے گا، اور تمہاری جگہ کوئی اور قوم لے آئے گا، اور تم اسے کچھ بھی نقصان نہیں پہنچا سکو گے۔ اور اللہ ہر چیز پر پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

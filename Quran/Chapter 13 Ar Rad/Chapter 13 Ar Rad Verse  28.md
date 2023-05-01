@@ -3224,6 +3224,12 @@ jo log imaan laye un ke dil Allah ke zikr se itmenaan haasil karte hai, yaad rak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ ایمان لائے اور ان کے دل اللہ کے ذکر سے مطمئن ہوتے ہیں، جان لو کہ اللہ ہی کے ذکر سے دلوں کو اطمینان نصیب ہوتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جو ایمان لائے ہیں اور جن کے دل اللہ کے ذکر سے اطمینان حاصل کرتے ہیں۔ یا درکھو کہ صرف اللہ کا ذکر ہی وہ چیز ہے جس سے دلوں کو اطمینان نصیب ہوتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya un ke koyi shraeek hai? to chahiye ke apne apne shariko ko le aaye, agar ye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا ان کے کچھ اور شریک (بھی) ہیں؟ تو انہیں چاہئے کہ اپنے شریکوں کو لے آئیں اگر وہ سچے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا خدائی میں ان کے مانے ہوئے کچھ شریک ہیں (جو یہ ضمانت لیتے ہوں ؟) تو پھر لے آئیں اپنے ان شریکوں کو، اگر وہ سچے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

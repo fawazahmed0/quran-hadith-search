@@ -3224,6 +3224,12 @@ jo Allah ke siva thein, wo kahenge ke wo to hum se behek gaye, balke hum to us s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ کے سوا، وہ کہیں گے: وہ ہم سے گم ہو گئے بلکہ ہم تو پہلے کسی بھی چیز کی پرستش نہیں کرتے تھے، اسی طرح اللہ کافروں کو گمراہ ٹھہراتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کے سوا۔ یہ کہیں گے وہ سب تو ہم سے کھوئے گئے بلکہ ہم پہلے کسی چیز کو نہی پکارا کرتے تھے اس طرح اللہ کافروں کو بد حواس کردیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

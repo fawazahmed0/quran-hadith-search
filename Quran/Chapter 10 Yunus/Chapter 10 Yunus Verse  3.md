@@ -3224,6 +3224,12 @@ bila shuba tumhara rub Allah hee hai jis ne asmano aur zamin ko che roz mein pai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یقیناً تمہارا رب اللہ ہے جس نے آسمانوں اور زمین (کی بالائی و زیریں کائنات) کو چھ دنوں (یعنی چھ مدتوں یا مرحلوں) میں (تدریجاً) پیدا فرمایا پھر وہ عرش پر (اپنی شان کے مطابق اپنے اقتدار کے ساتھ) جلوہ افروز ہوا (یعنی تخلیقِ کائنات کے بعد اس کے تمام عوالم اور اَجرام میں اپنے قانون اور نظام کے اجراء کی صورت میں متمکن ہوا) وہی ہر کام کی تدبیر فرماتا ہے (یعنی ہر چیز کو ایک نظام کے تحت چلاتا ہے۔ اس کے حضور) اس کی اجازت کے بغیر کوئی سفارش کرنے والا نہیں، یہی (عظمت و قدرت والا) اللہ تمہارا رب ہے، سو تم اسی کی عبادت کرو، پس کیا تم (قبولِ نصیحت کے لئے) غور نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ تمہارا پروردگار اللہ ہے جس نے سارے آسمانوں اور زمین کو چھ دن میں پیدا کیا، پھر اس نے عرش پر اس طرح استواء فرمایا کہ وہ ہر چیز کا انتظام کرتا ہے۔ کوئی اس کی اجازت کے بغیر (اس کے سامنے) کسی کی سفارش کرنے والا نہیں، وہی اللہ ہے تمہارا پروردگار، لہذا اس کی عبادت کرو، کیا تم پھر بھی دھیان نہیں دیتے ؟۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

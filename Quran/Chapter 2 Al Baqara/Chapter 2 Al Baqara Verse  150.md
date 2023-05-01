@@ -3224,6 +3224,12 @@ aur jis jagah se aap nikle apna mu masjid haraam ki taraf pherle aur jaha kahi t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم جدھر سے بھی (سفر پر) نکلو اپنا چہرہ (نماز کے وقت) مسجدِ حرام کی طرف پھیر لو، اور (اے مسلمانو!) تم جہاں کہیں بھی ہو سو اپنے چہرے اسی کی سمت پھیر لیا کرو تاکہ لوگوں کے پاس تم پر اعتراض کرنے کی گنجائش نہ رہے سوائے ان لوگوں کے جو ان میں حد سے بڑھنے والے ہیں، پس تم ان سے مت ڈرو مجھ سے ڈرا کرو، اس لئے کہ میں تم پر اپنی نعمت پوری کردوں اور تاکہ تم کامل ہدایت پا جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جہاں سے بھی تم نکلو، اپنا منہ مسجد حرام کی طرف کرو، اور تم جہاں کہیں ہو اپنے چہرے اسی کی طرف رکھو تاکہ لوگوں کو تمہارے خلاف حجت بازی کا موقع نہ ملے البتہ ان میں جو لوگ ظلم کے خوگر ہیں (وہ کبھی خاموش نہ ہوں گے) سو ان کا کچھ خوف نہ رکھو، ہاں میرا خوف رکھو اور تاکہ میں تم پر اپنا انعام مکمل کردوں اور تاکہ تم ہدایت حاصل کرلو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

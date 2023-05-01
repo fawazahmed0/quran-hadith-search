@@ -3224,6 +3224,12 @@ aye imaan waalo! agar tum kaafiro ki baatein manoge to wo tumhe tumhaari ediyo k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اگر تم نے کافروں کا کہا مانا تو وہ تمہیں الٹے پاؤں (کفر کی جانب) پھیر دیں گے پھر تم نقصان اٹھاتے ہوئے پلٹو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جن لوگوں نے کفر اپنا لیا ہے اگر تم ان کی بات مانو گے تو وہ تمہیں الٹے پاؤں (کفر کی طرف) لوٹا دیں گے، اور تم پلٹ کر سخت نقصان اٹھاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

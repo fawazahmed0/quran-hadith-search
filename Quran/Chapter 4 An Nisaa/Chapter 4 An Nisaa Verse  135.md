@@ -3224,6 +3224,12 @@ aye imaan waalo adl wa insaaf par mazbooti se jam jaane waale aur khush-nudi mau
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم انصاف پر مضبوطی کے ساتھ قائم رہنے والے (محض) اللہ کے لئے گواہی دینے والے ہو جاؤ خواہ (گواہی) خود تمہارے اپنے یا (تمہارے) والدین یا (تمہارے) رشتہ داروں کے ہی خلاف ہو، اگرچہ (جس کے خلاف گواہی ہو) مال دار ہے یا محتاج، اللہ ان دونوں کا (تم سے) زیادہ خیر خواہ ہے۔ سو تم خواہشِ نفس کی پیروی نہ کیا کرو کہ عدل سے ہٹ جاؤ (گے)، اور اگر تم (گواہی میں) پیچ دار بات کرو گے یا (حق سے) پہلو تہی کرو گے تو بیشک اللہ ان سب کاموں سے جو تم کر رہے ہو خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! انصاف قائم کرنے والے بنو، اللہ کی خاطر گواہی دینے والے، چاہے وہ گواہی تمہارے اپنے خلاف پڑتی ہو، یا والدین اور قریبی رشتہ داروں کے خلاف۔ وہ شخص (جس کے خلاف گواہی دینے کا حکم دیا جا رہا ہے) چاہے امیر ہو یا غریب، اللہ دونوں قسم کے لوگوں کا (تم سے) زیادہ خیر خواہ ہے، لہذا ایسی نفسانی خواہش کے پیچھے نہ چلنا جو تمہیں انصاف کرنے سے روکتی ہو۔ اور اگر تم توڑ مروڑ کرو گے (یعنی غلط گواہی دو گے) یا (سچی گواہی دینے سے) پہلو بچاؤ گے تو (یاد رکھنا کہ) اللہ تمہارے کاموں سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

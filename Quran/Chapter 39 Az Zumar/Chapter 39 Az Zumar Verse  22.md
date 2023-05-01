@@ -3224,6 +3224,12 @@ kya wo shaqs jis ka seena Allah ta’ala ne Islaam ke liye khol diya hai, pas wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا اللہ نے جس شخص کا سینہ اسلام کے لئے کھول دیا ہو تو وہ اپنے رب کی طرف سے نور پر (فائز) ہوجاتا ہے، (اس کے برعکس) پس اُن لوگوں کے لئے ہلاکت ہے جن کے دل اللہ کے ذکر (کے فیض) سے (محروم ہو کر) سخت ہوگئے، یہی لوگ کھلی گمراہی میں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا وہ شخص جس کا سینہ اللہ نے اسلام کے لیے کھول دیا ہے، جس کے نتیجے میں وہ اپنے پروردگار کی عطا کی ہوئی روشنی میں آچکا ہے، (سنگ دلوں کے برابر ہوسکتا ہے ؟) ہاں، بربادی ان کی ہے جن کے دل اللہ کے ذکر سے سخت ہوچکے ہیں۔ یہ لوگ کھلی گمراہی میں پڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

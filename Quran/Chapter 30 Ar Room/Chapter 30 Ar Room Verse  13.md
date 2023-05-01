@@ -3224,6 +3224,12 @@ aur un ke tamaam tar shariko mein se ek bhi un ka sifaarishi na hoga aur (khud y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے (خود ساختہ) شریکوں میں سے ان کے لئے سفارشی نہیں ہوں گے اور وہ (بالآخر) اپنے شریکوں کے (ہی) مُنکِر ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے جن کو اللہ کا شریک مان رکھا تھا، ان میں سے کوئی ان کا سفارشی نہیں ہوگا، اور خود یہ لوگ اپنے مانے ہوئے شریکوں سے منکر ہوجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

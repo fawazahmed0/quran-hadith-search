@@ -3224,6 +3224,12 @@ yahaan tak ke suraj doobne ki jageh pahonch gaya, aur ose ek dal-dal ke chashme 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ وہ غروبِ آفتاب (کی سمت آبادی) کے آخری کنارے پر جا پہنچا وہاں اس نے سورج کے غروب کے منظر کو ایسے محسوس کیا جیسے وہ (کیچڑ کی طرح سیاہ رنگ) پانی کے گرم چشمہ میں ڈوب رہا ہو اور اس نے وہاں ایک قوم کو (آباد) پایا۔ ہم نے فرمایا: اے ذوالقرنین! (یہ تمہاری مرضی پر منحصر ہے) خواہ تم انہیں سزا دو یا ان کے ساتھ اچھا سلوک کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ جب وہ سورج کے ڈوبنے کی جگہ پہنچے تو انہیں دکھائی دیا کہ وہ ایک دلدل جیسے (سیاہ) چشمے میں ڈوب رہا ہے۔ اور وہاں انہیں ایک قوم ملی۔ ہم نے (ان سے) کہا : اے ذوالقرنین ! (تمہارے پاس دو راستے ہیں) یا تو ان لوگوں کو سزا دو ، یا پھر ان کے معاملے میں اچھا رویہ اختیار کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

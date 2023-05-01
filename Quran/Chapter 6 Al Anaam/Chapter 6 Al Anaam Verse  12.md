@@ -3224,6 +3224,12 @@ aap kahiye ke jo kuch asmaano aur zameen mein maujoodh hai ye sab kis ki milkiya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان سے سوال) فرمائیں کہ آسمانوں اور زمین میں جو کچھ ہے کس کا ہے؟ (پھر یہ بھی) فرما دیں کہ اللہ ہی کا ہے، اس نے اپنی ذات (کے ذمہ کرم) پر رحمت لازم فرمالی ہے، وہ تمہیں روزِ قیامت جس میں کوئی شک نہیں ضرور جمع فرمائے گا، جنہوں نے اپنی جانوں کو (دائمی) خسارے میں ڈال دیا ہے سو وہ ایمان نہیں لائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان سے) پوچھو کہ : آسمانوں اور زمین میں جو کچھ ہے وہ کس کی ملکیت ہے ؟ (پھر اگر وہ جواب نہ دیں تو خود ہی) کہہ دو کہ : اللہ ہی کی ملکیت ہے۔ اس نے رحمت کو اپنے اوپر لازم کر رکھا ہے۔ (اس لیے توبہ کرلو تو پچھلے سارے گناہ معاف کردے گا، ورنہ) وہ تم سب کو ضرور بالضرور قیامت کے دن جمع کرے گا جس کے آنے میں کوئی شک نہیں ہے، (لیکن) جن لوگوں نے اپنی جانوں کے لیے گھاٹے کا سودا کر رکھا ہے وہ (اس حقیقت پر) ایمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

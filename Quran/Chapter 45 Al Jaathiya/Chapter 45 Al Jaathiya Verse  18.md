@@ -3224,6 +3224,12 @@ phir hum ne aap ko deen ki (zaaher) raah par qaayam kar diya, so aap osi par lag
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے آپ کو دین کے کھلے راستے (شریعت) پر مامور فرما دیا، سو آپ اسی راہ پر چلتے جائیے اور اُن لوگوں کی خواہشوں کو قبول نہ فرمائیے جنہیں (آپ کی اور آپ کے دین کی عظمت و حقّانیت کا) علم ہی نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر (اے پیغمبر) ہم نے تمہیں دین کی ایک خاص شریعت پر رکھا ہے، لہذا تم اسی کی پیروی کرو، اور ان لوگوں کی خواہشات کے پیچھے نہ چلنا جو حقیقت کا علم نہیں رکھتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

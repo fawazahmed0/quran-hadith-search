@@ -3224,6 +3224,12 @@ aur ye jin (jin) ki parastish is se pehle karte thein, wo un ki nigaah se gum ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ سب (بت) اُن سے غائب ہو جائیں گے جن کی وہ پہلے پوجا کیا کرتے تھے وہ سمجھ لیں گے کہ اُن کے لئے بھاگنے کی کوئی راہ نہیں رہی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور پہلے یہ لوگ جن (جھوٹے خداؤں) کو پکارا کرتے تھے ان کو اب ان کا کوئی سراغ نہیں ملے گا، اور وہ سمجھ جائیں گے کہ ان کے لیے اب بچاؤ کا کوئی راستہ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

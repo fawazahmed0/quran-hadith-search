@@ -3224,6 +3224,12 @@ aur jo shaqs Allah tala se aur us ke rasol se aur musalmano se dosti kare,wo yaq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) اور ایمان والوں کو دوست بنائے گا تو (وہی اللہ کی جماعت ہے اور) اللہ کی جماعت (کے لوگ) ہی غالب ہونے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اللہ اور اس کے رسول کو اور ایمان والوں کو دوست بنائے تو (وہ اللہ کی جماعت میں شامل ہوجاتا ہے اور) اللہ کی جماعت ہی غلبہ پانے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

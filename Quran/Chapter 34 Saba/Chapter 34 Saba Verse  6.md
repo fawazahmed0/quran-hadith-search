@@ -3224,6 +3224,12 @@ aur jinhe ilm hai wo dekh lenge ke jo kuch aap ki jaanib aap ke rab ki taraf se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ایسے لوگ جنہیں علم دیا گیا ہے وہ جانتے ہیں کہ جو (کتاب) آپ کے رب کی طرف سے آپ کی جانب اتاری گئی ہے وہی حق ہے اور وہ (کتاب) عزت والے، سب خوبیوں والے (رب) کی راہ کی طرف ہدایت کرتی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جن لوگوں کو علم عطا ہوا ہے وہ خوب سمجھتے ہیں کہ تم پر تمہارے رب کی طرف سے جو کچھ نازل کیا گیا ہے وہ حق ہے اور اس (اللہ) کا راستہ دکھاتا ہے جو اقتدار کا مالک بھی ہے، ہر تعریف کا مستحق بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

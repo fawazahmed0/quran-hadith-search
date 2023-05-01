@@ -3224,6 +3224,12 @@ aur (aye Nabi(sallalahu alaihi wasallam) ye bhi keh do) ke agar log raahe raasth
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (وحی بھی میرے پاس آئی ہے) کہ اگر وہ طریقت (راہِ حق، طریقِ ذِکرِ اِلٰہی) پر قائم رہتے تو ہم انہیں بہت سے پانی کے ساتھ سیراب کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر ! اہل مکہ سے کہو کہ مجھ پر) یہ (وحی بھی آئی ہے) کہ : اگر یہ لوگ راستے پر آکر سیدھے ہوجائیں تو ہم انہیں وافر مقدار میں پانی سے سیراب کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

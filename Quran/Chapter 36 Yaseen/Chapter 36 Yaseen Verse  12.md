@@ -3224,6 +3224,12 @@ beshak hum murdo ko zinda karenge aur hum likhte jaate hai, wo amaal bhi jin ko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم ہی تو مُردوں کو زندہ کرتے ہیں اور ہم وہ سب کچھ لکھ رہے ہیں جو (اَعمال) وہ آگے بھیج چکے ہیں، اور اُن کے اثرات (جو پیچھے رہ گئے ہیں)، اور ہر چیز کو ہم نے روشن کتاب (لوحِ محفوظ) میں احاطہ کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا ہم ہی مردوں کو زندہ کریں گے، اور جو کچھ عمل انہوں نے آگے بھیجے ہیں ہم ان کو بھی لکھتے جاتے ہیں اور ان کے کاموں کے جو اثرات ہیں ان کو بھی۔ اور ہم نے ایک واضح کتاب میں ہر ہر چیز کا پورا احاطہ کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

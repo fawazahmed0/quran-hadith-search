@@ -3224,6 +3224,12 @@ ye ke tum mere saamne sarkashi na karo aur musalmaan ban kar mere paas aa jaao
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اس کامضمون یہ ہے) کہ تم لوگ مجھ پر سربلندی (کی کوشش) مت کرو اور فرمانبردار ہو کر میرے پاس آجاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس میں لکھا ہے) کہ : میرے مقابلے میں سرکشی نہ کرو، اور میرے پاس تابع دار بن کر چلے آؤ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

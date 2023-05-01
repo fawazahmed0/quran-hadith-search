@@ -3224,6 +3224,12 @@ aur agar ye ahle kitaab imaan laate aur taqwa eqtiyaar karte to hum un ki tamaam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اہلِ کتاب (حضرت محمد مصطفی صلی اللہ علیہ وآلہ وسلم پر) ایمان لے آتے اور تقوٰی اختیار کر لیتے تو ہم ان (کے دامن) سے ان کے سارے گناہ مٹا دیتے اور انہیں یقیناً نعمت والی جنتوں میں داخل کردیتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اہل کتاب ایمان لے آتے اور تقوی اختیار کرتے تو ہم ضرور ان کی برائیاں معاف کردیتے، اور انہیں ضرور آرام و راحت کے باغات میں داخل کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

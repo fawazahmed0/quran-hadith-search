@@ -3224,6 +3224,12 @@ jab ibraheem(alaihissalaam) un sab ko aur Allah ke siva un ke sab mabudo ko choh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ابراہیم (علیہ السلام) ان لوگوں سے اور ان (بتوں) سے جن کی وہ اللہ کے سوا پرستش کرتے تھے (میل ملاپ چھوڑ کر) بالکل جدا ہو گئے (تو) ہم نے انہیں (بیٹے) اسحاق اور (پوتے) یعقوب (علیھما السلام) سے نوازا، اور ہم نے ہر (دو) کو نبی بنایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب وہ ان سے اور ان (بتوں) سے الگ ہوگئے جنہیں وہ اللہ کے بجائے پکارا کرتے تھے، تو ہم نے انہیں اسحاق اور یعقوب (جیسی اولاد) بخشی، اور ان میں سے ہر ایک کو نبی بنایا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wallah! hum ne tujh se pehle ki ummato ki taraf bhi apne rasool bheje lekin shai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ کی قسم! یقیناً ہم نے آپ سے پہلے (بھی بہت سی) امتوں کی طرف رسول بھیجے تو شیطان نے ان (امتوں) کے لئے ان کے (برے) اعمال آراستہ و خوش نما کر دکھائے، سو وہی (شیطان) آج ان کا دوست ہے اور ان کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) اللہ کی قسم ! تم سے پہلے جو امتیں گزری ہیں، ہم نے ان کے پاس پیغمبر بھیجے تھے، تو شیطان نے ان کے اعمال کو خوب بنا سنوار کر ان کے سامنے پیش کیا۔ چنانچہ وہی (شیطان) آج ان کا سرپرست بنا ہوا ہے اور (اس کی وجہ سے) ان کے لیے دردناک عذاب تیار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

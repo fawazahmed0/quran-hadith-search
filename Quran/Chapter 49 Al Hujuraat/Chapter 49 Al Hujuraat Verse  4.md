@@ -3224,6 +3224,12 @@ jo log aap ko hujro ke piche se pukaarte hai, un mein se aksar (bilkul) be aqal 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ آپ کو حجروں کے باہر سے پکارتے ہیں ان میں سے اکثر (آپ کے بلند مقام و مرتبہ اور آدابِ تعظیم کی) سمجھ نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) جو لوگ تمہیں حجروں کے پیچھے سے آواز دیتے ہیں ان میں سے اکثر کو عقل نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

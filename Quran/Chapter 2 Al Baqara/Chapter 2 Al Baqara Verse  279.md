@@ -3224,6 +3224,12 @@ aur agar aisa nahi karte to Allah ta’ala se aur us ke rasool se ladne ke liye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر تم نے ایسا نہ کیا تو اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی طرف سے اعلان جنگ پر خبردار ہو جاؤ، اور اگر تم توبہ کر لو تو تمہارے لیے تمہارے اصل مال (جائز) ہیں، (اِس صورت میں) نہ تم خود ظلم کرو گے اور نہ تم پر ظلم کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر تم ایسا نہ کرو گے تو اللہ اور اس کے رسول کی طرف سے اعلان جنگ سن لو۔ اور اگر تم (سود سے) توبہ کرو تو تمہارا اصل سرمایہ تمہارا حق ہے، نہ تم کسی پر ظلم کرو نہ تم پر ظلم کیا جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

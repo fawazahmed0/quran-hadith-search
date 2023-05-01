@@ -3224,6 +3224,12 @@ aur jab ke hum ne Ibraheem(alaihissalaam) ko kaabe ke makaan ki jageh muqarrar k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کیجئے) جب ہم نے ابراہیم (علیہ السلام) کے لئے بیت اللہ (یعنی خانہ کعبہ کی تعمیر) کی جگہ کا تعین کر دیا (اور انہیں حکم فرمایا) کہ میرے ساتھ کسی چیز کو شریک نہ ٹھہرانا اور میرے گھر کو (تعمیر کرنے کے بعد) طواف کرنے والوں اور قیام کرنے والوں اور رکوع کر نے والوں اور سجود کرنے والوں کے لئے پاک و صاف رکھنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یاد کرو وہ وقت جب ہم نے ابراہیم کو اس گھر (یعنی خانہ کعبہ) کی جگہ بتادی تھی۔ (اور یہ ہدایت دی تھی کہ) میرے ساتھ کسی کو شریک نہ ٹھہرانا، اور میرے گھر کو ان لوگوں کے لیے پاک رکھنا جو (یہاں) طواف کریں، اور عبادت کے لیے کھڑے ہوں، اور رکوع سجدے بجا لائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

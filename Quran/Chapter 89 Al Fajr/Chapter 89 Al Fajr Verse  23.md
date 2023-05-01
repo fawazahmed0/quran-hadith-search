@@ -3224,6 +3224,12 @@ aur jis din jahannam bhi laayi jayegi, us din insaan ko samajh ayegi, magar aaj 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس دن دوزخ پیش کی جائے گی، اس دن انسان کو سمجھ آجائے گی مگر (اب) اسے نصیحت کہاں (فائدہ مند) ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس دن جہنم کو سامنے لایا جائے گا، تو اس دن انسان کو سمجھ آئے گی اور اس وقت سمجھ آنے کا موقع کہاں ہوگا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yeqinan wo log kafir ho gae jinhone kaha ke Allah hee masih ibn maryam hai,aap u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ان لوگوں نے کفر کیا جو کہتے ہیں کہ یقیناً اللہ مسیح ابن مریم ہی (تو) ہے، آپ فرما دیں: پھر کون (ایسا شخص) ہے جو اللہ (کی مشیت میں) سے کسی شے کا مالک ہو؟ اگر وہ اس بات کا ارادہ فرمالے کہ مسیح ابن مریم اور اس کی ماں اور سب زمین والوں کو ہلاک فرما دے گا (تو اس کے فیصلے کے خلاف انہیں کون بچا سکتا ہے؟) اور آسمانوں اور زمین اور جو (کائنات) ان دونوں کے درمیان ہے (سب) کی بادشاہی اللہ ہی کے لئے ہے، وہ جو چاہتا ہے پیدا فرماتا ہے، اور اللہ ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے یہ کہا ہے کہ اللہ ہی مسیح ابن مریم ہے وہ یقینا کافر ہوگئے ہیں۔ (اے نبی ! ان سے) کہہ دو کہ اگر اللہ مسیح ابن مریم کو اور ان کی ماں کو اور زمین میں جتنے لوگ ہیں ان سب کو ہلاک کرنا چاہے تو کون ہے جو اللہ کے مقابلے میں کچھ کرنے کی ذرا بھی طاقت رکھتا ہو ؟ تمام آسمانوں اور زمین پر اور ان کے درمیان جو کچھ موجود ہے اس پر تنہا ملکیت اللہ ہی کی ہے۔ وہ جو چیز چاہتا ہے پیدا کرتا ہے۔ اور اللہ ہر چیز پر پوری پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ mere abba jaan aap shaitaan ki parastish se baaz aa jaaye, shaitaan to rehem wa 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے ابّا! شیطان کی پرستش نہ کیا کرو، بیشک شیطان (خدائے) رحمان کا بڑا ہی نافرمان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابا جان ! شیطان کی عبادت نہ کیجیے یقین جانیے کہ شیطان خدائے رحمن کا نافرمان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo log iman lae,hijrath ki Allah ki rah mein apne maal aur apni jaan se jihad ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ ایمان لائے اور انہوں نے ہجرت کی اور اللہ کی راہ میں اپنے اموال اور اپنی جانوں سے جہاد کرتے رہے وہ اللہ کی بارگاہ میں درجہ کے لحاظ سے بہت بڑے ہیں، اور وہی لوگ ہی مراد کو پہنچے ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ایمان لے آئے ہیں اور انہوں نے اللہ کے راستے میں ہجرت کی ہے اور اپنے مال اور اپنی جانوں سے جہاد کیا ہے، وہ اللہ کے نزدیک درجے میں کہیں زیادہ ہیں، اور وہی لوگ ہیں جو کامیاب ہونے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

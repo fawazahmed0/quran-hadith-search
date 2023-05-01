@@ -3224,6 +3224,12 @@ is kitaab ko hum ne aap par is liye utaara hai ke aap un ke liye har us cheez ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آپ کی طرف کتاب نہیں اتاری مگر اس لئے کہ آپ ان پر وہ (اُمور) واضح کر دیں جن میں وہ اختلاف کرتے ہیں اور (اس لئے کہ یہ کتاب) ہدایت اور رحمت ہے اس قوم کے لئے جو ایمان لے آئی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے تم پر یہ کتاب اسی لیے اتاری ہے تاکہ تم ان کے سامنے وہ باتیں کھول کھول کر بیان کردو جن میں انہوں نے مختلف راستے اپنائے ہوئے ہیں، اور تاکہ یہ ایمان لانے والوں کے لیے ہدایت اور رحمت کا سامان ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye paighambar, aap ke eqtiyaar mein kuch nahi, Allah ta’ala chaahe to un ki t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب! اب) آپ کا اس معاملہ سے کوئی تعلق نہیں چاہے تو اللہ انہیں توبہ کی توفیق دے یا انہیں عذاب دے کیونکہ وہ ظالم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغبر) تمہیں اس فیصلے کا کوئی اختیار نہیں کہ اللہ ان کی توبہ قبول کرے یا ان کو عذاب دے کیونکہ یہ ظالم لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

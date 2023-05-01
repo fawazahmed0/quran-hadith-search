@@ -3224,6 +3224,12 @@ al-gharz us ke paas mewe thein, ek din us ne baatho hee baatho mein apne saathi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس شخص کے پاس (اس کے سوا بھی) بہت سے پھل (یعنی وسائل) تھے، تو اس نے اپنے ساتھی سے کہا اور وہ اس سے تبادلہ خیال کر رہا تھا کہ میں تجھ سے مال و دولت میں کہیں زیادہ ہوں اور قبیلہ و خاندان کے لحاظ سے (بھی) زیادہ باعزت ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس شخص کو خوب دولت حاصل ہوئی تو وہ اپنے ساتھی سے باتیں کرتے ہوئے کہنے لگا کہ : میرا مال بھی تم سے زیادہ ہے، اور میرا جتھ بھی تم سے زیادہ مضبوط ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

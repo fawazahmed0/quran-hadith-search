@@ -3224,6 +3224,12 @@ wo jo apni jaano par zulm karte hai, farishte jab un ki jaan qabz karne lagte ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جن کی روحیں فرشتے اس حال میں قبض کرتے ہیں کہ وہ اپنی جانوں پر (بدستور) ظلم کئے جا رہے ہوں، سو وہ (روزِ قیامت) اطاعت و فرمانبرداری کا اظہار کریں گے (اور کہیں گے:) ہم (دنیا میں) کوئی برائی نہیں کیا کرتے تھے، کیوں نہیں بیشک اللہ خوب جانتا ہے جو کچھ تم کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن کی روحیں فرشتوں نے اس حالت میں قبض کیں جب انہوں نے اپنی جانوں پر (کفر کی وجہ سے) ظلم کر رکھا تھا۔ اس موقع پر لوگ بڑی فرمانبرداری کے بول بولیں گے کہ ہم تو کوئی برا کام نہیں کرتے تھے۔ (ان سے کہا جائے گا) کیسے نہیں کرتے تھے ؟ اللہ کو سب معلوم ہے کہ تم کیا کچھ کرتے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

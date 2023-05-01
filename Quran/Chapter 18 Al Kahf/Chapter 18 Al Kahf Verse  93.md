@@ -3224,6 +3224,12 @@ yaha tak ke jab do diwaaro ke darmiyaan pahoncha, un duno ke pare us ne ek aisi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ وہ (ایک مقام پر) دو پہاڑوں کے درمیان جا پہنچا اس نے ان پہاڑوں کے پیچھے ایک ایسی قوم کو آباد پایا جو (کسی کی) بات نہیں سمجھ سکتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ جب وہ دو پہاڑوں کے درمیان پہنچے تو انہیں ان پہاڑوں سے پہلے کچھ لوگ ملے جن کے بارے میں ایسا لگتا تھا کہ وہ کوئی بات نہیں سمجھتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

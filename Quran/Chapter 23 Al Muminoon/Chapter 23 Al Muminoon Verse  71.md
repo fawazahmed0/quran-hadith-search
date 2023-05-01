@@ -3224,6 +3224,12 @@ agar haq hee un ki qaahisho ka pairao ho jaaye to, zameen wa asamaan aur un ke d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر حق (تعالیٰ) ان کی خواہشات کی پیروی کرتا تو (سارے) آسمان اور زمین اور جو (مخلوقات و موجودات) ان میں ہیں سب تباہ و برباد ہو جاتے بلکہ ہم ان کے پاس وہ (قرآن) لائے ہیں جس میں ان کی عزت و شرف (اور ناموری کا راز) ہے سو وہ اپنی عزت ہی سے منہ پھیر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر حق ان کی خواہشات کے تابع ہوجاتا تو آسمان اور زمین اور ان میں بسنے والے سب برباد ہوجاتے۔ نہیں، بلکہ ہم ان کے پاس خود ان کے لیے نصیحت کا سامان لے کر آئے ہیں، اور وہ ہیں کہ خود اپنی نصیحت سے منہ موڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

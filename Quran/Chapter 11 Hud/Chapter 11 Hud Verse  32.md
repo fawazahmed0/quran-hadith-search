@@ -3224,6 +3224,12 @@ Aakhir e kaar un logon ne kaha ke “ aey Nooh, tumne humse jhagda kiya aur bahu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہنے لگے: اے نوح! بیشک تم ہم سے جھگڑ چکے سو تم نے ہم سے بہت جھگڑا کر لیا، بس اب ہمارے پاس وہ (عذاب) لے آؤ جس کا تم ہم سے وعدہ کرتے ہو اگر تم (واقعی) سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا کہ : اے نوح ! تم ہم سے بحث کرچکے، اور بہت بحث کرچکے۔ اب اگر تم سچے ہو تو لے آؤ وہ (عذاب) جس کی دھکمی ہمیں دے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

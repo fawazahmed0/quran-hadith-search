@@ -3224,6 +3224,12 @@ yaqinan hum ne tujhe gawaahi dene waala aur khush qabri sunaane waala aur daraan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے آپ کو (روزِ قیامت گواہی دینے کے لئے اعمال و احوالِ امت کا) مشاہدہ فرمانے والا اور خوشخبری سنانے والا اور ڈر سنانے والا بنا کر بھیجا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ہم نے تمہیں گواہی دینے والا، خوشخبری دینے والا اور خبردار کرنے والا بنا کر بھیجا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

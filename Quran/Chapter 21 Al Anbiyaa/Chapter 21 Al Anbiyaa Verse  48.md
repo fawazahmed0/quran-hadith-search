@@ -3224,6 +3224,12 @@ ye bilkul sach hai ke hum ne Mosa(alaihissalaam) wa Haroon(alaihissalaam) ko fai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے موسٰی اور ہارون (علیہما السلام) کو (حق و باطل میں) فرق کرنے والی اور (سراپا) روشنی اور پرہیز گاروں کے لئے نصیحت (پر مبنی کتاب تورات) عطا فرمائی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ اور ہارون کو حق و باطل کا ایک معیار (ہدایت کی) ایک روشنی اور ان متقی لوگوں کے لیے نصیحت کا سامان عطا کیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

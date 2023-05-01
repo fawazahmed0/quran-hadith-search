@@ -3224,6 +3224,12 @@ hum ne nuh ke baadh bhi bahuth si khaume halaak ki aur tera rub apne bandho ke g
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے نوح (علیہ السلام) کے بعد کتنی ہی قوموں کو ہلاک کر ڈالا، اور آپ کا رب کافی ہے (وہ) اپنے بندوں کے گناہوں سے خوب خبردار خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کتنی ہی نسلیں ہیں جو ہم نے نوح کے بعد ہلاک کیں۔ اور تمہارا رب اپنے بندوں کے گناہوں سے پوری طرح باخبر ہے، سب کچھ دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

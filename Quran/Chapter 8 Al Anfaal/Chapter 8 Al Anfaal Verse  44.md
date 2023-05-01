@@ -3224,6 +3224,12 @@ jab ke us ne ba-waqte mulaqath unhe tumhari nigaho mein bahuth kam dikhaaye aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ منظر بھی انہیں یاد دلائیے) جب اس نے ان کافروں (کی فوج) کو باہم مقابلہ کے وقت (بھی محض) تمہاری آنکھوں میں تمہیں تھوڑا کر کے دکھایا اور تمہیں ان کی آنکھوں میں تھوڑا دکھلایا (تاکہ دونوں لشکر لڑائی میں مستعد رہیں) یہ اس لئے کہ اللہ اس (بھر پور جنگ کے نتیجے میں کفار کی شکستِ فاش کے) امر کو پورا کر دے جو (عند اللہ) مقرر ہو چکا تھا، اور (بالآخر) اللہ ہی کی طرف تمام کام لوٹائے جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو کہ جب تم ایک دوسرے کے مد مقابلہ آئے تھے تو اللہ تمہاری نگاہوں میں ان کی تعداد کم دکھا رہا تھا، اور ان کی نگاہوں میں تمہیں کم کر رکے دکھا رہا تھا تاکہ جو کام ہو کر رہنا تھا، اللہ اسے پورا کر دکھائے۔ اور تمام معاملات اللہ ہی کی طرف لوٹائے جاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

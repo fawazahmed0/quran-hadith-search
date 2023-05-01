@@ -3224,6 +3224,12 @@ tum jaha kahi bhi ho mauth tumhe aa pakdegi, go tum mazbooth qilo mein ho,aur ag
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے موت کے ڈر سے جہاد سے گریز کرنے والو!) تم جہاں کہیں (بھی) ہوگے موت تمہیں (وہیں) آپکڑے گی خواہ تم مضبوط قلعوں میں (ہی) ہو، اور (ان کی ذہنیت یہ ہے کہ) اگر انہیں کوئی بھلائی (فائدہ) پہنچے توکہتے ہیں کہ یہ (تو) اللہ کی طرف سے ہے (اس میں رسول صلی اللہ علیہ وآلہ وسلم کی برکت اور واسطے کا کوئی دخل نہیں)، اور اگر انہیں کوئی برائی (نقصان) پہنچے تو کہتے ہیں: (اے رسول!) یہ آپ کی طرف سے (یعنی آپ کی وجہ سے) ہے۔ آپ فرما دیں: (حقیقۃً) سب کچھ اللہ کی طرف سے (ہوتا) ہے۔ پس اس قوم کو کیا ہوگیا ہے کہ یہ کوئی بات سمجھنے کے قریب ہی نہیں آتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم جہاں بھی ہوگے (ایک نہ ایک دن) موت تمہیں جاپکڑے گی، چاہے تم مضبوط قلعوں میں کیوں نہ رہ رہے ہو۔ اور اگر ان (منافقوں) کو کوئی بھلائی پہنچتی ہے تو وہ کہتے ہیں کہ یہ اللہ کی طرف سے ہے، اور اگر ان کو کوئی برا واقعہ پیش آجاتا ہے تو (اے پیغمبر) وہ (تم سے) کہتے ہیں کہ یہ برا واقعہ آپ کی وجہ سے ہوا ہے۔ کہہ دو کہ ہر واقعہ اللہ کی طرف سے ہوتا ہے۔ ان لوگوں کو کیا ہوگیا ہے کہ یہ کوئی بات سمجھنے کے نزدیک تک نہیں آتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

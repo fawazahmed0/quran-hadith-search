@@ -3224,6 +3224,12 @@ Daudo (race) aur ek dusrey se aage badhne ki koshish karo apne Rubb ki magfirat 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے بندو!) تم اپنے رب کی بخشش کی طرف تیز لپکو اور جنت کی طرف (بھی) جس کی چوڑائی (ہی) آسمان اور زمین کی وسعت جتنی ہے، اُن لوگوں کیلئے تیار کی گئی ہے جو اللہ اور اُس کے رسولوں پر ایمان لائے ہیں، یہ اللہ کا فضل ہے جسے وہ چاہتا ہے اسے عطا فرما دیتا ہے، اور اللہ عظیم فضل والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایک دوسرے سے آگے بڑھنے کی کوشش کرو اپنے پروردگار کی بخشش کی طرف اور اس جنت کی طرف جس کی چوڑائی آسمان اور زمین کی چوڑائی جیسی ہے، یہ ان لوگوں کے لیے تیار کی گئی ہے جو اللہ اور اس کے رسولوں پر ایمان لائے ہیں، یہ اللہ کا فضل ہے جو وہ جس کو چاہتا ہے دیتا ہے۔ اور اللہ بڑے فضل والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

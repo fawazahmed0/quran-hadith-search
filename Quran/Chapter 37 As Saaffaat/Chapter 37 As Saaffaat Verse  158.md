@@ -3224,6 +3224,12 @@ aur un logo ne to Allah ke aur jinnaath ke darmiyaan bhi qaraabat-daari teh raay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے (تو) اللہ اور جِنّات کے درمیان (بھی) نسبی رشتہ مقرر کر رکھا ہے، حالانکہ جنّات کو معلوم ہے کہ وہ (بھی اللہ کے حضور) یقیناً پیش کیے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے اللہ اور جنات کے درمیان بھی نسبی رشتہ داری بنا رکھی ہے۔ حالانکہ خود جنات کو یہ بات معلوم ہے کہ یہ لوگ مجرم بن کر پیش ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

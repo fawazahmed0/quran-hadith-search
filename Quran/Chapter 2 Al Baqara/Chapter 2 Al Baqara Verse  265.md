@@ -3224,6 +3224,12 @@ un logo ki misaal jo apna maal Allah ta’ala ki razaa mandi ki talab mein dil k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اپنے مال اللہ کی رضا حاصل کرنے اور اپنے آپ کو (ایمان و اطاعت پر) مضبوط کرنے کے لئے خرچ کرتے ہیں ان کی مثال ایک ایسے باغ کی سی ہے جو اونچی سطح پر ہو اس پر زوردار بارش ہو تو وہ دوگنا پھل لائے، اور اگر اسے زوردار بارش نہ ملے تو (اسے) شبنم (یا ہلکی سی پھوار) بھی کافی ہو، اور اللہ تمہارے اعمال کو خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اپنے مال اللہ کی خوشنودی طلب کرنے کے لیے اور اپنے آپ میں پختگی پیدا کرنے کے لیے خرچ کرتے ہیں ان کی مثال ایسی ہے جیسے ایک باغ کسی ٹیلے پر واقع ہو، اس پر زور کی بارش برسے تو وہ دگنا پھل لے کر آئے۔ اور اگر اس پر زور کی بارش نہ بھی برسے تو ہلکی پھوار بھی اس کے لیے کافی ہے، اور تم جو عمل بھی کرتے ہو اللہ اسے خوب اچھی طرح دیکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

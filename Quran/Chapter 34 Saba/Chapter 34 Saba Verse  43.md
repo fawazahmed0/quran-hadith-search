@@ -3224,6 +3224,12 @@ aur jab un ke saamne hamaari saaf saaf aayate padi jaati hai to kehte hai ke ye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اُن پر ہماری روشن آیتیں پڑھ کر سنائی جاتی ہیں تو وہ کہتے ہیں: یہ (رسول صلی اللہ علیہ وآلہ وسلم) تو ایک ایسا شخص ہے جو تمہیں صرف اُن (بتوں) سے روکنا چاہتا ہے جن کی تمہارے باپ دادا پوجا کیا کرتے تھے، اور یہ (بھی) کہتے ہیں کہ یہ (قرآن) محض من گھڑت بہتان ہے، اور کافر لوگ اس حق (یعنی قرآن) سے متعلق جبکہ وہ اِن کے پاس آچکا ہے، یہ بھی کہتے ہیں کہ یہ تو محض کھلا جادو ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہماری آیتیں جو مکمل وضاحت کی حامل ہیں ان کو پڑھ کر سنائی جاتی ہیں تو یہ (ہمارے پیغمبر کے بارے میں) کہتے ہیں کہ : کچھ نہیں، یہ شخص بس یہ چاہتا ہے کہ تم لوگوں کو ان معبودوں سے برگشتہ کردے جنہیں تمہارے باپ دادے پوجتے آئے ہیں۔ اور کہتے ہیں کہ : یہ (قرآن) کچھ بھی نہیں، ایک من گھڑت جھوٹ ہے۔ اور جب ان کافروں کے پاس حق کا پیغام آیا تو انہوں نے اس کے بارے میں یہ کہا کہ : یہ تو ایک کھلے جادو کے سوا کچھ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

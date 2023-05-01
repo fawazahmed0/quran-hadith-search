@@ -3224,6 +3224,12 @@ tumhe meri qair qaahi kuch bhi nafa nahi de sakti go main kitni hee tumhari qair
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میری نصیحت (بھی) تمہیں نفع نہ دے گی خواہ میں تمہیں نصیحت کرنے کا ارادہ کروں اگر اللہ نے تمہیں گمراہ کرنے کا ارادہ فرما لیا ہو، وہ تمہارا رب ہے اور تم اسی کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر میں تمہاری خیر خواہی کرنا چاہوں تو میری خیر خواہی اس صورت میں تمہارے کوئی کام نہیں آسکتی جب اللہ ہی نے (تمہاری ضد اور ہٹ دھرمی کی وجہ سے) تمہیں گمراہی کرنے کا ارادہ کرلیا ہو۔ وہی تمہارا پروردگار ہے، اور اسی کے پاس تمہیں واپس لے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

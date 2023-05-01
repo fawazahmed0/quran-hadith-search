@@ -3224,6 +3224,12 @@ ye is liye ke Allah tala aisa nahi ke kisi khaum par koi nemath inam farma kar p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (عذاب) اس وجہ سے ہے کہ اللہ کسی نعمت کو ہرگز بدلنے والا نہیں جو اس نے کسی قوم پر اَرزانی فرمائی ہو یہاں تک کہ وہ لوگ اَز خود اپنی حالتِ نعمت کو بدل دیں (یعنی کفرانِ نعمت اور معصیت و نافرمانی کے مرتکب ہوں اور پھر ان میں احساسِ زیاں بھی باقی نہ رہے تب وہ قوم ہلاکت و بربادی کی زد میں آجاتی ہے)، بیشک اللہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ اس لیے ہوا کہ اللہ کا دستور یہ ہے کہ اس نے جو نعمت کسی قوم کو دی ہو اسے اس وقت تک بدلنا گوارا نہیں کرتا جب تک وہ لوگ خود اپنی حالت تبدیل نہ کرلیں اور اللہ ہر بات سنتا، سب کچھ جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye wo log hai jin ke dilo par aur jin ke kaano par aur jin ki aankho par Allah n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں کہ اللہ نے ان کے دلوں پر اور ان کے کانوں پر اور ان کی آنکھوں پر مُہر لگا دی ہے اور یہی لوگ ہی (آخرت کے انجام سے) غافل ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ایسے لوگ ہیں کہ اللہ نے ان کے دلوں پر ان کے کانوں پر اور ان کی آنکھوں پر مہر لگا دی ہے، اور یہی لوگ ہیں جو (اپنے انجام سے) بالکل غافل ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

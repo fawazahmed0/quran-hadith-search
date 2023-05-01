@@ -3224,6 +3224,12 @@ wahi hai jo tumhe apni nishaaniya dikh laata hai aur tumhaare liye asmaan se roz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جو تمہیں اپنی نشانیاں دکھاتا ہے اور تمہارے لئے آسمان سے رزق اتارتا ہے، اور نصیحت صرف وہی قبول کرتا ہے جو رجوع (الی اللہ) میں رہتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جو تمہیں اپنی نشانیاں دکھاتا اور تمہارے لیے آسمان سے رزق اتارتا ہے۔ اور نصیحت تو وہی مانا کرتا ہے جو (ہدایت کے لیے دل سے رجوع ہو۔)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur kya un logo ne ghaur nahi kiya, asmaano aur zameen ke aalam mein aur dosri c
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا ان لوگوں نے آسمانوں اور زمین کی سلطنت پر اور اللہ نے جو جو چیزیں پیدا کی ہیں ان پر غور نہیں کیا، اور یہ (نہیں سوچا) کہ شاید ان کا مقررہ وقت قریب ہی آپہنچا ہو ؟ اب اس کے بعد آخر وہ کونسی بات ہے جس پر یہ ایمان لائیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

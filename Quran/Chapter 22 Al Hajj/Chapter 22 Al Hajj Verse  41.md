@@ -3224,6 +3224,12 @@ ye wo log hai ke agar hum zameen mein un ke paao jama de, to ye puri paabandi se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ اہلِ حق) وہ لوگ ہیں کہ اگر ہم انہیں زمین میں اقتدار دے دیں (تو) وہ نماز (کا نظام) قائم کریں اور زکوٰۃ کی ادائیگی (کا انتظام) کریں اور (پورے معاشرے میں نیکی اور) بھلائی کا حکم کریں اور (لوگوں کو) برائی سے روک دیں، اور سب کاموں کا انجام اللہ ہی کے اختیار میں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ایسے لوگ ہیں کہ اگر ہم انہیں زمین میں اقتدار بخشیں تو وہ نماز قائم کریں، اور زکوٰۃ ادا کریں، اور لوگوں کو نیکی کی تاکید کریں، اور برائی سے روکیں، اور تمام کاموں کا انجام اللہ ہی کے قبضے میں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

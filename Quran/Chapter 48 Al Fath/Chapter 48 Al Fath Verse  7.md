@@ -3224,6 +3224,12 @@ aur Allah hee ke liye asmaano aur zameen ke lashkar hai aur Allah ghaalib aur hi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آسمانوں اور زمین کے سب لشکر اللہ ہی کے لئے ہیں، اور اللہ بڑا غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین کے تمام لشکر اللہ ہی کے ہیں، اور اللہ اقتدار کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

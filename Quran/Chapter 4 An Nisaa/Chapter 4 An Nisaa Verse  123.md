@@ -3224,6 +3224,12 @@ haqiqath haal na to tumhaari aarzo ke mutaabiq hai aur na ahle kitaab ki ummido 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اللہ کا وعدۂ مغفرت) نہ تمہاری خواہشات پر موقوف ہے اور نہ اہلِ کتاب کی خواہشات پر، جو کوئی برا عمل کرے گا اسے اس کی سزا دی جائے گی اور نہ وہ اللہ کے سوا اپنا کوئی حمایتی پائے گا اور نہ مددگار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نہ تمہاری تمنائیں (جنت میں جانے کے لیے) کافی ہیں، نہ اہل کتاب کی آرزوئیں۔ جو بھی برا عمل کرے گا، اس کی سزا پائے گا، اور اللہ کے سوا اسے اپنا کوئی یارو مددگار نہیں ملے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

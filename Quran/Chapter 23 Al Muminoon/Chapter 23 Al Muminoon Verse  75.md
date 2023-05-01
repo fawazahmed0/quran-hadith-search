@@ -3224,6 +3224,12 @@ aur agar hum un par rahem farmaaye aur un ki taklife door karde, to ye to apni a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم ان پر رحم فرما دیں اور جو تکلیف انہیں (لاحق) ہے اسے دور کر دیں تو وہ بھٹکتے ہوئے اپنی سرکشی میں مزید پکے ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم ان پر رحم کریں اور اس تکلیف کو دور کردیں جس میں یہ مبتلا ہیں تب بھی یہ بھٹکتے ہوئے اپنی سرکشی پر اڑے رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

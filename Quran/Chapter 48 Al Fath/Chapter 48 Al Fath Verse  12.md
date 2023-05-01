@@ -3224,6 +3224,12 @@ Ale zh vy dumaly, shcho Poslanetsʹ i viruyuchi nikoly ne povernutʹsya do svoyi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ تم نے یہ گمان کیا تھا کہ رسول (صلی اللہ علیہ وآلہ وسلم) اور اہلِ ایمان (یعنی صحابہ رضی اللہ عنھم) اب کبھی بھی پلٹ کر اپنے گھر والوں کی طرف نہیں آئیں گے اور یہ (گمان) تمہارے دلوں میں (تمہارے نفس کی طرف سے) خُوب آراستہ کر دیا گیا تھا اور تم نے بہت ہی برا گمان کیا، اور تم ہلاک ہونے والی قوم بن گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت تو یہ ہے کہ تم نے یہ سمجھا تھا کہ رسول (صلی اللہ علیہ وآلہ وسلم) اور دوسرے مسلمان کبھی اپنے گھر والوں کے پاس لوٹ کر نہیں آئیں گے، اور یہی بات تمہارے دلوں کو اچھی معلوم ہوتی تھی، اور تم نے برے برے گمان کیے تھے، اور تم ایسے لوگ بن گئے تھے جنہیں برباد ہونا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

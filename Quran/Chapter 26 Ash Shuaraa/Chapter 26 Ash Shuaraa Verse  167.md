@@ -3224,6 +3224,12 @@ unhone jawaab diya ke aye Looth!(alaihissalaam) agar tu baaz na aaya, to yaqinan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: اے لوط! اگر تم (ان باتوں سے) باز نہ آئے تو تم ضرور شہر بدر کئے جانے والوں میں سے ہو جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگے : لوط ! اگر تم باز نہ آئے تو تم بھی ان لوگوں میں شامل ہوجاؤ گے جنہیں (بستی سے) نکال باہر کیا جاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

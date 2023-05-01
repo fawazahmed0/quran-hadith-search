@@ -3224,6 +3224,12 @@ har giz nahi, ye jo bhi keh raha hai, hum ose zaroor likh lenge, aur us ke liye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہرگز نہیں! اب ہم وہ سب کچھ لکھتے رہیں گے جو وہ کہتا ہے اور اس کے لئے عذاب (پر عذاب) خوب بڑھاتے چلے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہرگز نہیں ! جو کچھ یہ کہہ رہا ہے ہم اسے بھی لکھ رکھیں گے، اور اس کے عذاب میں اور اضافہ کردیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

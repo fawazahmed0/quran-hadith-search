@@ -3224,6 +3224,12 @@ yo nahi, balke un ke dilo par un ke amaal ki wajeh se zang (chad gaya) hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ایسا) ہرگز نہیں بلکہ (حقیقت یہ ہے کہ) ان کے دلوں پر ان اَعمالِ (بد) کا زنگ چڑھ گیا ہے جو وہ کمایا کرتے تھے (اس لیے آیتیں ان کے دل پر اثر نہیں کرتیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہرگز نہیں ! بلکہ جو عمل یہ کرتے رہے ہیں اس نے ان کے دلوں پر زنگ چڑھا دیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

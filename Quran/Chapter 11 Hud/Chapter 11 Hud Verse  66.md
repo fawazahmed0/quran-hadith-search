@@ -3224,6 +3224,12 @@ phir jab hamara farmaan aa pahoncha, hum ne saleh ko aur un par iman laane walo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ہمارا حکمِ (عذاب) آپہنچا (تو) ہم نے صالح (علیہ السلام) کو اور جو ان کے ساتھ ایمان والے تھے اپنی رحمت کے سبب سے بچا لیا اور اس دن کی رسوائی سے (بھی نجات بخشی)۔ بیشک آپ کا رب ہی طاقتور غالب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب ہمارا حکم آگیا تو ہم نے صالح کو اور ان کے ساتھ جو ایمان لائے تھے، ان کو اپنی خاص رحمت کے ذریعے نجات دی، اور اس دن کی رسوائی سے بچا لیا، یقینا تمہارا پروردگار بڑی قوت کا، بڑے اقتدار کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar hum chaahe to jo wahi hum ne aap ki taraf utaari hai sab salb6 karle, p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم چاہیں تو اس (کتاب) کو جو ہم نے آپ کی طرف وحی فرمائی ہے (لوگوں کے دلوں اور تحریری نسخوں سے) محو فرما دیں پھر آپ اپنے لئے اس (وحی) کے لے جانے پر ہماری بارگاہ میں کوئی وکالت کرنے والا بھی نہ پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم چاہیں تو جو کچھ وحی ہم نے تمہارے پاس بھیجی ہے، وہ ساری واپس لے جائیں، پھر تم اسے واپس لانے کے لیے ہمارے مقابلے میں کوئی مددگار بھی نہ پاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

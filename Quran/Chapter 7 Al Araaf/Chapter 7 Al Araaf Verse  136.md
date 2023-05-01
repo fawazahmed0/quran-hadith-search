@@ -3224,6 +3224,12 @@ phir hum ne un se badhla liya, yani un ko darya mein gharq kar diya, us sabab se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نتیجہ یہ ہوا کہ ہم نے ان سے بدلہ لیا اور انہیں سمندر میں غرق کردیا۔ کیونکہ انہوں نے ہماری نشانیوں کو جھٹلایا تھا، اور ان سے بالکل بےپرواہ ہوگئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

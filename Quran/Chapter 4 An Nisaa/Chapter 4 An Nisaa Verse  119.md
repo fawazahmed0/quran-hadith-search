@@ -3224,6 +3224,12 @@ aur unhe raah se behkaata rahonga aur baatil ummide dilaata rahonga aur unhe sik
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+میں انہیں ضرور گمراہ کردوں گا اور ضرور انہیں غلط اُمیدیں دلاؤں گا اور انہیں ضرور حکم دیتا رہوں گا سو وہ یقیناً جانوروں کے کان چیرا کریں گے اور میں انہیں ضرور حکم دیتا رہوں گا سو وہ یقیناً اللہ کی بنائی ہوئی چیزوں کو بدلا کریں گے، اور جو کوئی اللہ کو چھوڑ کر شیطان کو دوست بنالے تو واقعی وہ صریح نقصان میں رہا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں انہیں راہ راست سے بھٹکا کر رہوں گا، اور انہیں خوب آرزوئیں دلاؤں گا، اور انہیں حکم دوں گا تو وہ چوپایوں کے کان چیر ڈالیں گے، اور انہیں حکم دوں گا تو وہ اللہ کی تخلیق میں تبدیلی پیدا کریں گے۔ اور جو شخص اللہ کے بجائے شیطان کو دوست بنائے اس نے کھلے کھ لے خسارے کا سودا کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

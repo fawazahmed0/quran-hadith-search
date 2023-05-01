@@ -3224,6 +3224,12 @@ wo apni rehmath ke saath jise chaahe maqsoos karle aur Allah ta’ala bade fazl 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ جسے چاہتا ہے اپنی رحمت کے ساتھ خاص فرما لیتا ہے، اور اللہ بڑے فضل والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اپنی رحمت کے لیے جس کو چاہتا ہے خاص طور پر منتخب کرلیتا ہے، اور اللہ فضل عظیم کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

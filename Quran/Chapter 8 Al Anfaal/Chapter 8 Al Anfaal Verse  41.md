@@ -3224,6 +3224,12 @@ jaan lo ke tum jis qism ki jo kuch ghanimath hasil karo us mein se panchwa hissa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جان لو کہ جو کچھ مالِ غنیمت تم نے پایا ہو تو اس کا پانچواں حصہ اللہ کے لئے اور رسول (صلی اللہ علیہ وآلہ وسلم) کے لئے اور (رسول صلی اللہ علیہ وآلہ وسلم کے) قرابت داروں کے لئے (ہے) اور یتیموں اور محتاجوں اور مسافروں کے لئے ہے۔ اگر تم اللہ پر اور اس (وحی) پر ایمان لائے ہو جو ہم نے اپنے (برگزیدہ) بندے پر (حق و باطل کے درمیان) فیصلے کے دن نازل فرمائی وہ دن (جب میدانِ بدر میں مومنوں اور کافروں کے) دونوں لشکر باہم مقابل ہوئے تھے، اور اللہ ہر چیز پر قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (مسلمانو) یہ بات اپنے علم میں لے آؤ کہ تم جو کچھ مال غنیمت حاصل کرو اس کا پانچواں حصہ اللہ اور رسول اور ان کے قرابت داروں اور یتیموں اور مسکینوں اور مسافروں کا حق ہے (جس کی ادائیگی تم پر واجب ہے) اگر تم اللہ پر اور اس چیز پر ایمان رکھتے ہو جو ہم نے اپنے بندے پر فیصلے کے دن نازل کی تھی جس دن دو جماعتیں باہم ٹکرائی تھیں، اور اللہ ہر چیز پر قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

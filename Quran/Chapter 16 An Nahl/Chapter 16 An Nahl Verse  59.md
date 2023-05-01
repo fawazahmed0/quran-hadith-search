@@ -3224,6 +3224,12 @@ us buri qabar ki wajeh se logo se chupa chupa phirta hai, soonchta hai ke kya us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ لوگوں سے چُھپا پھرتا ہے (بزعمِ خویش) اس بری خبر کی وجہ سے جو اسے سنائی گئی ہے، (اب یہ سوچنے لگتا ہے کہ) آیا اسے ذلت و رسوائی کے ساتھ (زندہ) رکھے یا اسے مٹی میں دبا دے (یعنی زندہ درگور کر دے)، خبردار! کتنا برا فیصلہ ہے جو وہ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس خوشخبری کو برا سمجھ کر لوگوں سے چھپتا پھرتا ہے (اور سوچتا ہے کہ) ذلت برداشت کر کے اسے اپنے پاس رہنے دے، یا اسے زمین میں گاڑھ دے۔ دیکھو انہوں نے کتنی بری باتیں طے کر رکھی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

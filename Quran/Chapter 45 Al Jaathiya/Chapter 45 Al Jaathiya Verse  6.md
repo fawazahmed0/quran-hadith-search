@@ -3224,6 +3224,12 @@ ye hai Allah ki aayate jinhe hum aap ko raasti se suna rahe hai, pas Allah ta’
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اللہ کی آیتیں ہیں جنہیں ہم آپ پر پوری سچائی کے ساتھ تلاوت فرماتے ہیں، پھر اللہ اور اُس کی آیتوں کے بعد یہ لوگ کس بات پر ایمان لائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اللہ کی آیتیں ہیں جو ہم تمہیں ٹھیک ٹھیک پڑھ کر سنا رہے ہیں۔ اب اللہ اور اس کی آیتوں کے بعد کون سی بات ہے جس پر یہ لوگ ایمان لائیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

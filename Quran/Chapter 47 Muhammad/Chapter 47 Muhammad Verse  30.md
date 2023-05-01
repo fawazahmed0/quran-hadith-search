@@ -3224,6 +3224,12 @@ aur agar hum chahte, to un sab ko tujhe dikha dete, pas tu unhe un ke chehre se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم چاہیں تو آپ کو بلاشبہ وہ (منافق) لوگ (اس طرح) دکھا دیں کہ آپ انہیں ان کے چہروں کی علامت سے ہی پہچان لیں، اور (اسی طرح) یقیناً آپ ان کے اندازِ کلام سے بھی انہیں پہچان لیں گے، اور اللہ تمہارے سب اعمال کو (خوب) جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (مسلمانو) اگر ہم چاہیں تو تمہیں یہ لوگ اس طرح دکھا دیں کہ تم ان کی علامت سے انہیں پہچان جاؤ، اور (اب بھی) تم انہیں بات کرنے کے ڈھپ سے ضرور پہچان ہی جاؤ گے، اور اللہ تم سب کے اعمال کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

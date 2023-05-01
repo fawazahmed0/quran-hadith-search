@@ -3224,6 +3224,12 @@ jis ke paas baatil phatak bhi nahi sakta, na us ke aage se na us ke piche se, ye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+باطل اِس (قرآن) کے پاس نہ اس کے سامنے سے آسکتا ہے اور نہ ہی اس کے پیچھے سے، (یہ) بڑی حکمت والے، بڑی حمد والے (رب) کی طرف سے اتارا ہوا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس تک باطل کی کوئی رسائی نہیں ہے نہ اس کے آگے سے نہ اس کے پیچھے سے یہ اس ذات کی طرف سے اتاری جا رہی ہے جو حکمت کا مالک ہے، تمام تعریفیں اسی کی طرف لوٹتی ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

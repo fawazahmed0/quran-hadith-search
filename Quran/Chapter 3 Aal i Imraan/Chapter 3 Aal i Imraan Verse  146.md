@@ -3224,6 +3224,12 @@ bahuth se nabiyo ke hum-rukaab27 ho kar bahuth se Allah waale jihaad kar chuke h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کتنے ہی انبیاءایسے ہوئے جنہوں نے جہاد کیا ان کے ساتھ بہت سے اللہ والے (اولیاء) بھی شریک ہوئے، تو نہ انہوں نے ان مصیبتوں کے باعث جو انہیں اللہ کی راہ میں پہنچیں ہمت ہاری اور نہ وہ کمزور پڑے اور نہ وہ جھکے، اور اللہ صبر کرنے والوں سے محبت کرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کتنے سارے پیغمبر ہیں جن کے ساتھ ملکر بہت سے اللہ والوں نے جنگ کی ! نتیجتا انہیں اللہ کے راستے میں جو تکلیفیں پہنچیں ان کی وجہ سے نہ انہوں نے ہمت ہاری، نہ وہ کمزور پڑے اور نہ انہوں نے اپنے آپ کو جھکایا، اللہ ایسے ثابت قدم لوگوں سے محبت کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

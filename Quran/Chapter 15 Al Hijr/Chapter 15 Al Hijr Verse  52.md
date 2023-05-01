@@ -3224,6 +3224,12 @@ ke jab unhone un ke paas aa kar salaam kaha to unhone kaha ke hum ko to tum se d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب وہ ابراہیم (علیہ السلام) کے پاس آئے تو انہوں نے (آپ کو) سلام کہا۔ ابراہیم (علیہ السلام) نے کہا کہ ہم آپ سے کچھ ڈر محسوس کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس وقت کا حال جب وہ ان کے پاس پہنچے، اور سلام کیا۔ ابراہیم نے کہا کہ : ہمیں تو تم سے ڈر لگ رہا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

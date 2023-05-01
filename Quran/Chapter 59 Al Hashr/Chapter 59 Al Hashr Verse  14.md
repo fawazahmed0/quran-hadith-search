@@ -3224,6 +3224,12 @@ ye sab mil kar bhi tum se lad nahi sakte, haan ye aur baath hai ke qila bandh mu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (مدینے کے عہد شکن یہود اور منافقین) سب مل کر (بھی) تم سے جنگ نہ کرسکیں گے سوائے قلعہ بند شہروں میں یا دیواروں کی آڑ میں، اُن کی لڑائی اُن کے آپس میں (ہی) سخت ہے، تم انہیں اکٹھا سمجھتے ہو حالانکہ اُن کے دل باہم متفرّق ہیں، یہ اس لئے کہ وہ لوگ عقل سے کام نہیں لیتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب لوگ اکٹھے ہو کر بھی تم سے جنگ نہیں کریں گے، مگر ایسی بستیوں میں جو قلعوں میں محفوظ ہوں، یا پھر دیواروں کے پیچھے چھپ کر۔ ان کی آپس کی مخالفتیں بہت سخت ہیں۔ تم انہیں اکٹھا سمجھتے ہو، حالانکہ ان کے دل پھٹے ہوئے ہیں۔ یہ اس لیے کہ یہ وہ لوگ ہیں جنہیں عقل نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

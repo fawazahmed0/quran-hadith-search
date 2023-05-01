@@ -3224,6 +3224,12 @@ aur injeel walo ko bhi chahiye ke Allah tala ne jo kuch injeel mein nazil farmay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اہلِ انجیل کو (بھی) اس (حکم) کے مطابق فیصلہ کرنا چاہئے جو اللہ نے اس میں نازل فرمایا ہے، اور جو شخص اللہ کے نازل کردہ حکم کے مطابق فیصلہ (و حکومت) نہ کرے سو وہی لوگ فاسق ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انجیل والوں کو چاہیے کہ اللہ نے اس میں جو کچھ نازل کیا ہے اس کے مطابق فیصلہ کریں، اور جو لوگ اللہ کے نازل کیے ہوئے حکم کے مطابق فیصلہ نہ کریں، وہ لوگ فاسق ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

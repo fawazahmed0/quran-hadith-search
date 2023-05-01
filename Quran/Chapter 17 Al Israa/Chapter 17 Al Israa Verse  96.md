@@ -3224,6 +3224,12 @@ keh dijiye ke mere aur tumhaare darmiyaan Allah ta’ala ka gawaah hona kaafi ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: میرے اور تمہارے درمیان اللہ ہی گواہ کے طور پر کافی ہے، بیشک وہ اپنے بندوں سے خوب آگاہ خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اللہ میرے اور تمہارے درمیان گواہ بننے کے لیے کافی ہے۔ بیشک وہ اپنے بندوں سے پوری طرح باخبر ہے، سب کچھ دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

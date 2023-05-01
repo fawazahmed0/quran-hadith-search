@@ -3224,6 +3224,12 @@ aur jab koyi sauda bikta dekhe ya koyi tamaasha nazar aa jaaye to us ki taraf da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب انہوں نے کوئی تجارت یا کھیل تماشا دیکھا تو (اپنی حاجت مندی اور معاشی تنگی کے باعث) اس کی طرف بھاگ کھڑے ہوئے اور آپ کو (خطبہ میں) کھڑے چھوڑ گئے، فرما دیجئے: جو کچھ اللہ کے پاس ہے وہ کھیل سے اور تجارت سے بہتر ہے، اور اللہ سب سے بہتر رزق دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب کچھ لوگوں نے کوئی تجارت یا کوئی کھیل دیکھا تو اس کی طرف ٹوٹ پڑے، اور تمہیں کھڑا ہوا چھوڑ دیا۔ کہہ دو کہ : جو کچھ اللہ کے پاس ہے وہ کھیل اور تجارت سے کہیں زیادہ بہتر ہے، اور اللہ سب سے بہتر رزق دینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

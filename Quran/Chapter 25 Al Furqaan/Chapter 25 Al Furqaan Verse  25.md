@@ -3224,6 +3224,12 @@ aur jis din asmaan baadal sameth phat jayega aur farishte lagataar utaare jayeng
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس دن آسمان پھٹ کر بادل (کی طرح دھوئیں) میں بدل جائے گا اور فرشتے گروہ در گروہ اتارے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس دن آسمان پھٹ کر ایک بادل کو راہ دے گا، اور فرشتے اس طرح اتارے جائیں گے کہ ان کا تار بندھ جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

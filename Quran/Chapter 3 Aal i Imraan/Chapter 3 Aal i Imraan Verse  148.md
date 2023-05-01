@@ -3224,6 +3224,12 @@ Allah ta’ala ne unhe dunya ka sawaab bhi diya aur aaqirath ke sawaab ki qoobi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اللہ نے انہیں دنیا کا بھی انعام عطا فرمایا اور آخرت کے بھی عمدہ اجر سے نوازا، اور اللہ (ان) نیکو کاروں سے پیار کرتا ہے (جو صرف اسی کو چاہتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ اللہ نے انہیں دنیا کا انعام بھی دیا اور آخرت کا بہترین ثواب بھی، اور اللہ ایسے نیک لوگوں سے محبت کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

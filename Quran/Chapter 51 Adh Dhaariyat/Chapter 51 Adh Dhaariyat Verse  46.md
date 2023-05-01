@@ -3224,6 +3224,12 @@ aur Nuh(alaihissalaam) ki khaum ka bhi is se pehle (yahi haal ho chuka tha), wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس سے پہلے نُوح (علیہ السلام) کی قوم کو (بھی ہلاک کیا)، بیشک وہ سخت نافرمان لوگ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس سے بھی پہلے نوح کی قوم کو بھی ہم نے پکڑ میں لیا تھا۔ یقین جانو وہ بڑے نافرمان لوگ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

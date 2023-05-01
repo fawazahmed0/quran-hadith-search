@@ -3224,6 +3224,12 @@ Allah tala ka wada hai ke jo iman lae aur nek kam kare un ke liye wasi maghfirat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے ایسے لوگوں سے جو ایمان لائے اور نیک عمل کرتے رہے وعدہ فرمایا ہے (کہ) ان کے لئے بخشش اور بڑا اجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں ان سے اللہ نے وعدہ کیا ہے کہ (آخرت میں) ان کو مغفرت اور زبردست ثواب حاصل ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

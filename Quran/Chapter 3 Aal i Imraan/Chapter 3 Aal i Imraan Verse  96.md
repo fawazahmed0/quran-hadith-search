@@ -3224,6 +3224,12 @@ Allah ta’ala ka pehla ghar jo logo ke liye muqarrar kiya gaya, wahi hai jo mak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک سب سے پہلا گھر جو لوگوں (کی عبادت) کے لئے بنایا گیا وہی ہے جو مکہّ میں ہے، برکت والا ہے اور سارے جہان والوں کے لئے (مرکزِ) ہدایت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ سب سے پہلا گھر جو لوگوں (کی عبادت) کے لیے بنایا گیا یقینی طور پر وہ ہے جو مکہ میں واقع ہے (اور) بنانے کے وقت ہی سے برکتوں والا اور دنیا جہان کے لوگوں کے لیے ہدایت کا سامان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kehne lage agar hum aap ke saath ho kar hidaayath ke taabedaar ban jaaye to hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (قدر ناشناس) کہتے ہیں کہ اگر ہم آپ کی معیّت میں ہدایت کی پیروی کر لیں تو ہم اپنے ملک سے اچک لئے جائیں گے۔ کیا ہم نے انہیں (اس) امن والے حرم (شہرِ مکہ جو آپ ہی کا وطن ہے) میں نہیں بسایا جہاں ہماری طرف سے رزق کے طور پر (دنیا کی ہر سمت سے) ہر جنس کے پھل پہنچائے جاتے ہیں، لیکن ان میں سے اکثر لوگ نہیں جانتے (کہ یہ سب کچھ کس کے صدقے سے ہو رہا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ کہتے ہیں کہ : اگر ہم آپ کے ساتھ ہدایت کی پیروی کریں گے تو ہمیں اپنی زمین سے کوئی اچک کرلے جائے گا۔ بھلا کیا ہم نے ان کو اس حرم میں جگہ نہیں دے رکھی جو اتنا پر امن ہے کہ ہر قسم کے پھل اس کی طرف کھنچے چلے آتے ہیں، جو خاص ہماری طرف سے دیا ہوا رزق ہے ؟ لیکن ان میں سے اکثر لوگ نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ asmaan wa zameen ki padayish yaqinan insaan ki padayish se bahuth bada kaam hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یقیناً آسمانوں اور زمین کی پیدائش انسانوں کی پیدائش سے کہیں بڑھ کر ہے لیکن اکثر لوگ علم نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینی بات ہے کہ آسمانوں اور زمین کا پیدا کرنا انسانوں کے پیدا کرنے سے زیادہ بڑا کام ہے، لیکن اکثر لوگ (اتنی سی بات) نہیں سمجھتے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

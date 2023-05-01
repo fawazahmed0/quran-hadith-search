@@ -3224,6 +3224,12 @@ jo bhi Allah ta’ala ki, us ke rasool ki farma bardaari kare, khaufe ilaahi rak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرتا ہے اور اللہ سے ڈرتا اور اس کا تقوٰی اختیار کرتا ہے پس ایسے ہی لوگ مراد پانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اللہ اور اس کے رسول کی فرمانبرداری کریں، اللہ سے ڈریں، اور اس کی نافرمانی سے بچیں تو وہی لوگ کامیاب ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

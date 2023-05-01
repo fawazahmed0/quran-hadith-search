@@ -3224,6 +3224,12 @@ unhone kaha ke aye wo shaqs jis par Qur’aan utara gaya hai yaqinan tu, to koyi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (کفار گستاخی کرتے ہوئے) کہتے ہیں: اے وہ شخص جس پر قرآن اتارا گیا ہے! بیشک تم دیوانے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ کہتے ہیں کہ : اے وہ شخص جس پر یہ ذکر (یعنی قرآن) اتارا گیا ہے ! تم یقینی طور پر مجنون ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

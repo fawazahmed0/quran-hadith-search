@@ -3224,6 +3224,12 @@ zamin par chalne phirne wale jitne jandaar hai sub ki roziya Allah tala par hai,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور زمین میں کوئی چلنے پھرنے والا (جاندار) نہیں ہے مگر (یہ کہ) اس کا رزق اللہ (کے ذمۂ کرم) پر ہے اور وہ اس کے ٹھہرنے کی جگہ کو اور اس کے امانت رکھے جانے کی جگہ کو (بھی) جانتا ہے، ہر بات کتابِ روشن (لوحِ محفوظ) میں (درج) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین پر چلنے والا کوئی جاندار ایسا نہیں ہے جس کا رزق اللہ نے اپنے ذمے نہ لے رکھا ہو وہ اس کے مستقل ٹھکانے کو بھی جانتا ہے، اور عارضی ٹھکانے کو بھی۔ ہر بات ایک واضح کتاب میں درج ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

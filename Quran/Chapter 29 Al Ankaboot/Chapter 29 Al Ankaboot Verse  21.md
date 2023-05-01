@@ -3224,6 +3224,12 @@ jise chaahe azaab kare, jis par chaahe rahem kare, sab osi ki taraf lautaaye jao
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ جسے چاہتا ہے عذاب دیتا ہے اور جس پر چاہتا ہے رحم فرماتا ہے اور اسی کی طرف تم پلٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جس کو چاہے گا، سزا دے گا، اور جس پر چاہے گا رحم کرے گا، اور اسی کی طرف تم سب کو پلٹا کرلے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

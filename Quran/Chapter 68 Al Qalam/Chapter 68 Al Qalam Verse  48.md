@@ -3224,6 +3224,12 @@ pas tu apne rab ke hukm ka sabr se (intezaar kar) aur machli waale ki tarah na h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ اپنے رب کے حکم کے انتظار میں صبر فرمائیے اور مچھلی والے (پیغمبر یونس علیہ السلام) کی طرح (دل گرفتہ) نہ ہوں، جب انہوں نے (اللہ کو) پکارا اس حال میں کہ وہ (اپنی قوم پر) غم و غصہ سے بھرے ہوئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض تم اپنے پروردگار کا حکم آنے تک صبر کیے جاؤ، اور مچھلی والے کی طرح مت ہوجانا۔ جب انہوں نے غم سے گھٹ گھٹ کر (ہمیں) پکارا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

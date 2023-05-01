@@ -3224,6 +3224,12 @@ unhone kaha ke aap waaz kahe, ya waaz kehne waalo mein na ho, hum par yeksa hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: ہمارے حق میں برابر ہے خواہ تم نصیحت کرو یا نصیحت کرنے والوں میں نہ بنو (ہم نہیں مانیں گے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہنے لگے : چاہے تم نصیحت کرو، یا نہ کرو، ہمارے لیے سب برابر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

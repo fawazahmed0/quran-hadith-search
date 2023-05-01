@@ -3224,6 +3224,12 @@ agar wo tum se tumhaara maal maange aur zoor de kar maange to tum us se baqili k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر وہ تم سے اس مال کو طلب کر لے پھر تمہیں طلب میں تنگی دے تو تمہیں (دل میں) تنگی محسوس ہوگی (اور) تم بخل کرو گے اور (اس طرح) وہ تمہارے (دنیا پرستی کے باعث باطنی) زنگ ظاہر کر دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر وہ تم سے تمہارے مال طلب کرے، اور تم سے سب کچھ سمیٹ لے تو تم بخل سے کام لو گے، اور وہ تمہارے دل کی ناراضیوں کو ظاہر کردے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

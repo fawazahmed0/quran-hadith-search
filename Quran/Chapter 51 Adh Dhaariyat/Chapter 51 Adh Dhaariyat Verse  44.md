@@ -3224,6 +3224,12 @@ lekin unhone apne rab ke hukm se sartaabi ki, jis par un ke dekhte dekhte (tez w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو انہوں نے اپنے رب کے حکم سے سرکشی کی، پس انہیں ہولناک کڑک نے آن لیا اور وہ دیکھتے ہی رہ گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر بھی انہوں نے اپنے پروردگار کا حکم ماننے سے سرکشی اختیار کی تو انہیں کڑک نے آپکڑا اور وہ دیکھتے رہ گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

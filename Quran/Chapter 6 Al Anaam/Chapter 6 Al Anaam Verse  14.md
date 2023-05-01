@@ -3224,6 +3224,12 @@ aap kahiye ke kya Allah ke siva, jo ke asmaano aur zameen ka paida karne waala h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کیا میں کسی دوسرے کو (عبادت کے لئے اپنا) دوست بنا لوں (اس) اللہ کے سوا جو آسمانوں اور زمین کا پیدا کرنے والا ہے اور وہ (سب کو) کھلاتا ہے اور (خود اسے) کھلایا نہیں جاتا۔ فرما دیں: مجھے حکم دیا گیا ہے کہ میں (اس کے حضور) سب سے پہلا (سرجھکانے والا) مسلمان ہوجاؤں اور (یہ بھی فرما دیا گیا ہے کہ) تم مشرکوں میں سے ہرگز نہ ہوجانا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : کیا میں اللہ کے سوا کسی اور کو رکھوالا بناؤں ؟ (اس اللہ کو چھوڑ کر) جو آسمانوں اور زمین کا پیدا کرنے والا ہے، اور جو سب کو کھلاتا ہے، کسی سے کھاتا نہیں ؟ کہہ دو کہ : مجھے یہ حکم دیا گیا ہے کہ فرمانبرداری میں سب لوگوں سے پہل کرنے والا میں بنوں۔ اور تم مشرکوں میں ہرگز شامل نہ ہونا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

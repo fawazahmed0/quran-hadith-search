@@ -3224,6 +3224,12 @@ Yaqoob (alh-e-salam) ney kaha! Mein to issay hergiz hergiz tumharay sath nahi bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یعقوب (علیہ السلام) نے فرمایا: میں اسے ہرگز تمہارے ساتھ نہیں بھیجوں گا یہاں تک کہ تم اللہ کی قسم کھا کر مجھے پختہ وعدہ دو کہ تم اسے ضرور میرے پاس (واپس) لے آؤ گے سوائے اس کے کہ تم (سب) کو (کہیں) گھیر لیا جائے (یا ہلاک کر دیا جائے)، پھر جب انہوں نے یعقوب (علیہ السلام) کو اپنا پختہ عہد دے دیا تو یعقوب (علیہ السلام) نے فرمایا: جو کچھ ہم کہہ رہے ہیں اس پر اللہ نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 والد نے کہا : میں اس (بنیامین) کو تمہارے ساتھ اس وقت تک ہرگز نہیں بھیجوں گا جب تک تم اللہ کے نام پر مجھ سے یہ عہد نہ کرو کہ اسے ضرور میرے پاس واپس لے کر آؤ گے، الا یہ کہ تم (واقعی) بےبس ہوجاؤ۔ چنانچہ جب انہوں نے اپنے والد کو یہ عہد دے دیا تو والد نے کہا : جو قول وقرار ہم کر رہے ہیں اس پر اللہ نگہبان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

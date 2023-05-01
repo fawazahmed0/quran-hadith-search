@@ -3224,6 +3224,12 @@ tu apne rab ke naam ka zikr kiya kar aur tamaam qalaayeq se kat kar us ki taraf 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ اپنے رب کے نام کا ذِکر کرتے رہیں اور (اپنے قلب و باطن میں) ہر ایک سے ٹوٹ کر اُسی کے ہو رہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنے پروردگار کے نام کا ذکر کرو، اور سب سے الگ ہو کر پورے کے پورے اسی کے ہو رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

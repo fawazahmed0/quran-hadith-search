@@ -3224,6 +3224,12 @@ aur apne rub se jo un ke upar hai kap kapaate rehte hai aur jo hukm mil jaaye us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اپنے رب سے جو ان کے اوپر ہے ڈرتے رہتے ہیں اور جو حکم انہیں دیا جاتا ہے (اسے) بجا لاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اپنے اس پروردگار سے ڈرتے ہیں جو ان کے اوپر ہے اور وہی کام کرتے ہیں جس کا انہیں حکم دیا جاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

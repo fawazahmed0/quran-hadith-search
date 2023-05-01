@@ -3224,6 +3224,12 @@ balke baath ye hai ke ye zaalim to baghair ilm ke qaahish parasti kar rahe hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ جن لوگوں نے ظلم کیا ہے وہ بغیر علم (و ہدایت) کے اپنی نفسانی خواہشات کی پیروی کرتے ہیں، پس اس شخص کو کون ہدایت دے سکتا ہے جسے اللہ نے گمراہ ٹھہرا دیا ہو اور ان لوگوں کے لئے کوئی مددگار نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن ظالم لوگ کسی علم کے بغیر اپنی خواہشات کے پیچھے چل پڑے ہیں۔ اب اس شخص کو کون ہدایت دے سکتا ہے جسے اللہ نے گمراہ کردیا ہو۔ اور ایسے لوگوں کا کوئی مددگار نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

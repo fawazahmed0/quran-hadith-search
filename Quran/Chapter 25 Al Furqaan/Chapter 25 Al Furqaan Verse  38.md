@@ -3224,6 +3224,12 @@ aur aadiyo aur samudiyo aur kuwe walo ko aur un ke darmiyaan ki bahuth si ummato
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور عاد اور ثمود اور باشندگانِ رس کو، اور ان کے درمیان بہت سی(اور) امتوں کو (بھی ہلاک کر ڈالا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی طرح ہم نے عاد وثمود اور اصحاب الرس کو اور ان کے درمیان بہت سی نسلوں کو تباہ کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

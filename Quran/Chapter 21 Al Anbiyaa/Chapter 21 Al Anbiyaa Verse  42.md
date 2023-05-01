@@ -3224,6 +3224,12 @@ un se puchiye ke rahmaan se din aur raath tumhaari hifaazath kaun kar sakta hai?
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: شب و روز (خدائے) رحمان (کے عذاب) سے تمہاری حفاظت و نگہبانی کون کر سکتا ہے، بلکہ وہ اپنے (اسی) رب کے ذکر سے گریزاں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : کون ہے جو رات میں اور دن میں خدائے رحمن (کے عذاب سے) سے تمہارا بچاؤ کرے ؟ مگر وہ ہیں کہ اپنے پروردگار کے ذکر سے منہ موڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

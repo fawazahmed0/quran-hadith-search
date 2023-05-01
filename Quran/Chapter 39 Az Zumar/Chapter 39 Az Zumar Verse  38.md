@@ -3224,6 +3224,12 @@ agar aap un se puche ke asmaan aur zameen ko kis ne paida kiya hai? to yaqinan w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ اُن سے دریافت فرمائیں کہ آسمانوں اور زمین کو کِس نے پیدا کیا تو وہ ضرور کہیں گے: اللہ نے، آپ فرما دیجئے: بھلا یہ بتاؤ کہ جن بتوں کو تم اللہ کے سوا پوجتے ہو اگر اللہ مجھے کوئی تکلیف پہنچانا چاہے تو کیا وہ (بُت) اس کی (بھیجی ہوئی) تکلیف کو دُور کرسکتے ہیں یا وہ مجھے رحمت سے نوازنا چاہے تو کیا وہ (بُت) اس کی (بھیجی ہوئی) رحمت کو روک سکتے ہیں، فرما دیجئے: مجھے اللہ کافی ہے، اسی پر توکل کرنے والے بھروسہ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم ان سے پوچھو کہ آسمانوں اور زمین کو کس نے پیدا کیا ہے ؟ تو وہ ضرور یہی کہیں گے کہ اللہ نے (ان سے) کہو کہ : ” ذرا مجھے یہ بتاؤ کہ تم اللہ کو چھوڑ کر جن (بتوں) کو پکارتے ہو، اگر اللہ مجھے کوئی نقصان پہنچانے کا ارادہ کرلے تو کیا یہ اس کے پہنچائے ہوئے نقصان کو دور کرسکتے ہیں ؟ یا اگر اللہ مجھ پر مہربانی فرمانا چاہے تو کیا یہ اس کی رحمت کو روک سکتے ہیں ؟ “ کہو کہ ” میرے لیے اللہ ہی کافی ہے۔ بھروسہ رکھنے والے اسی پر بھروسہ رکھتے ہیں۔ “
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

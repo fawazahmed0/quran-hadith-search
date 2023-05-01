@@ -3224,6 +3224,12 @@ zamaane ki qasam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+زمانہ کی قَسم (جس کی گردش انسانی حالات پر گواہ ہے)۔ یا: نماز عصر کی قسم (کہ وہ سب نمازوں کا وسط ہے)۔ یا: وقت عصر کی قسم (جب دن بھر چمکنے والا سورج خود ڈوبنے کا منظر پیش کرتا ہے)۔ یا: زمانۂ بعثت مصطفیٰ (صلی اللہ علیہ وآلہ وسلم) کی قَسم (جو سارے زمانوں کا ماحصل اور مقصود ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زمانے کی قسم۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

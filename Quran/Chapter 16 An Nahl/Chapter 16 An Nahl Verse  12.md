@@ -3224,6 +3224,12 @@ osi ne raath din aur suraj chaand ko tumhaare liye taabe kar diya hai aur sitaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُسی نے تمہارے لئے رات اور دن کو اور سورج اور چاند کو مسخر کر دیا، اور تمام ستارے بھی اُسی کی تدبیر (سے نظام) کے پابند ہیں، بیشک اس میں عقل رکھنے والے لوگوں کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس نے دن اور رات کو اور سورج اور چاند کو تمہاری خدمت پر لگا رکھا ہے، اور ستارے بھی اس کے حکم سے کام پر لگے ہوئے ہیں۔ یقینا ان باتوں میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو عقل سے کام لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

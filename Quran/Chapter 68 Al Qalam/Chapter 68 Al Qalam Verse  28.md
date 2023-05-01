@@ -3224,6 +3224,12 @@ un sab mein jo behtar tha, us ne kaha ke main tum se na kehta tha ke tum Allah k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے ایک عدل پسند زِیرک شخص نے کہا: کیا میں نے تم سے نہیں کہا تھا کہ تم (اللہ کا) ذِکر و تسبیح کیوں نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان میں جو شخص سب سے اچھا تھا، وہ کہنے لگا : کیا میں نے تم سے نہیں کہا تھا کہ تم تسبیح کیوں نہیں کرتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

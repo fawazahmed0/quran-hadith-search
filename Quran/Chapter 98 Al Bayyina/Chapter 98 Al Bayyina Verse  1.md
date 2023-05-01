@@ -3224,6 +3224,12 @@ ahle kitaab ke kaafir aur mushrik log jab tak ke un ke paas zaaher daleel na aa 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اہلِ کتاب میں سے جو لوگ کافر ہو گئے اور مشرکین اس وقت تک (کفر سے) الگ ہونے والے نہ تھے جب تک ان کے پاس روشن دلیل (نہ) آجاتی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اہل کتاب اور مشرکین میں سے جو لوگ کافر تھے، وہ اس وقت تک باز آنے والے نہیں تھے جب تک کہ ان کے پاس روشن دلیل نہ آتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

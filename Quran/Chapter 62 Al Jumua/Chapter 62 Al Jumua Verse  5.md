@@ -3224,6 +3224,12 @@ jin logo ko tauraath par amal karne ka hukm diya gaya, phir unhone us par amal n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُن لوگوں کا حال جن پر تورات (کے احکام و تعلیمات) کا بوجھ ڈالا گیا پھر انہوں نے اسے نہ اٹھایا (یعنی اس میں اِس رسول صلی اللہ علیہ وآلہ وسلم کا ذکر موجود تھا مگر وہ اِن پر ایمان نہ لائے) گدھے کی مِثل ہے جو پیٹھ پر بڑی بڑی کتابیں لادے ہوئے ہو، اُن لوگوں کی مثال کیا ہی بُری ہے جنہوں نے اللہ کی آیتوں کو جھٹلایا ہے، اور اللہ ظالم لوگوں کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں پر تورات کا بوجھ ڈالا گیا، پھر انہوں نے اس کا بوجھ نہیں اٹھایا، ان کی مثال اس گدھے کی سی ہے جو بہت سی کتابیں لادے ہوئے ہو۔ بہت بری مثال ہے ان لوگوں کی جنہوں نے اللہ کی آیتوں کو جھٹلایا، اور اللہ ایسے ظالم لوگوں کو ہدایت تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

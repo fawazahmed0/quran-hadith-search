@@ -3224,6 +3224,12 @@ daryaaft ki jiye ke saatho asmaano ka aur bahuth ba azmath arsh ka rab kaun hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان سے دریافت) فرمائیے کہ ساتوں آسمانوں کا اور عرشِ عظیم (یعنی ساری کائنات کے اقتدارِ اعلیٰ) کا مالک کون ہے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : سات آسمانوں کا مالک اور عالی شان عرش کا مالک کون ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

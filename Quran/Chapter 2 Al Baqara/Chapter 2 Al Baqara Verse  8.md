@@ -3224,6 +3224,12 @@ baaz log kehte hai ke hum Allah ta’ala par aur qayaamath ke din par imaan rakh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں میں سے بعض وہ (بھی) ہیں جو کہتے ہیں ہم اللہ پر اور یومِ قیامت پر ایمان لائے حالانکہ وہ (ہرگز) مومن نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کچھ لوگ وہ ہیں جو کہتے ہیں کہ ہم اللہ پر اور یوم آخرت پر ایمان لے آئے، حالانکہ وہ (حقیقت میں) مومن نہیں ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

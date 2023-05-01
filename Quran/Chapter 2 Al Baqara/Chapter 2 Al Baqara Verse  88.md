@@ -3224,6 +3224,12 @@ ye kehte hai ke hamaare dil ghilaaf waale hai, nahi nahi, balke un ke kufr ki wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہودیوں نے کہا: ہمارے دلوں پر غلاف ہیں، (ایسا نہیں) بلکہ ان کے کفر کے باعث اللہ نے ان پر لعنت کر دی ہے سو وہ بہت ہی کم ایمان رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ کہتے ہیں کہ : ہمارے دل غلاف میں ہیں۔ نہیں ! بلکہ ان کے کفر کی وجہ سے اللہ نے ان پر پھٹکار ڈال رکھی ہے اس لیے وہ کم ہی ایمان لاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

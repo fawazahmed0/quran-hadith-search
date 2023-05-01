@@ -3224,6 +3224,12 @@ unhone inkaar kar diya, halaan ke un ke dil yaqeen kar chuke thein, sirf zulm wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے ظلم اور تکبّر کے طور پر ان کا سراسر انکار کر دیا حالانکہ ان کے دل ان (نشانیوں کے حق ہونے) کا یقین کر چکے تھے۔ پس آپ دیکھئے کہ فساد بپا کرنے والوں کا کیسا (بُرا) انجام ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگرچہ ان کے دلوں کو ان (کی سچائی) کا یقین ہوچکا تھا، مگر انہوں نے ظلم اور تکبر کی وجہ سے ان کا انکار کیا۔ اب دیکھ لو ان فساد مچانے والوں کا انجام کیسا ہوا ؟ ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

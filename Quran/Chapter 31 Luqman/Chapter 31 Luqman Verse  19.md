@@ -3224,6 +3224,12 @@ apni raftaar mein miyaana rawi eqtiyaar kar aur apni awaaz pasth kar, yaqinan aw
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اپنے چلنے میں میانہ روی اختیار کر، اور اپنی آواز کو کچھ پست رکھا کر، بیشک سب سے بری آواز گدھے کی آواز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنی چال میں اعتدال اختیار کرو اور اپنی آواز آہستہ رکھو بیشک سب سے بری آواز گدھوں کی آواز ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

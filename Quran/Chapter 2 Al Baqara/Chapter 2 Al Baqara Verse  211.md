@@ -3224,6 +3224,12 @@ bani israel se pucho to, ke hum ne unhe kis qadar roushan nishaaniya ata farmaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ بنی اسرائیل سے پوچھ لیں کہ ہم نے انہیں کتنی واضح نشانیاں عطا کی تھیں، اور جو شخص اللہ کی نعمت کو اپنے پاس آجانے کے بعد بدل ڈالے تو بیشک اللہ سخت عذاب دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بنی اسرائیل سے پوچھو ہم نے ان کو کتنی ساری کھلی نشانیاں دی تھیں، اور جس شخص کے پاس اللہ کی نعمت آچکی ہو، پھر وہ اس کو بدل ڈالے، تو (اسے یاد رکھنا چاہیے کہ) اللہ کا عذاب بڑا سخت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

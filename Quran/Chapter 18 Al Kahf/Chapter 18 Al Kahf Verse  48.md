@@ -3224,6 +3224,12 @@ aur sab ke sab tere rub ke saamne saf basta haazir kiye jayenge, yaqinan tum ham
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (سب لوگ) آپ کے رب کے حضور قطار در قطار پیش کئے جائیں گے، (ان سے کہا جائے گا:) بیشک تم ہمارے پاس (آج اسی طرح) آئے ہو جیسا کہ ہم نے تمہیں پہلی بار پیدا کیا تھا بلکہ تم یہ گمان کرتے تھے کہ ہم تمہارے لئے ہرگز وعدہ کا وقت مقرر ہی نہیں کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور سب کو تمہارے رب کے سامنے صف باندھ کر پیش کیا جائے گا۔ آخر تم ہمارے پاس اسی طرح آگئے جس طرح ہم نے تمہیں پہلی بار پیدا کیا تھا۔ اس کے برعکس تمہارا دعوی یہ تھا کہ ہم تمہارے لیے (یہ) مقرر وقت کبھی نہیں لائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

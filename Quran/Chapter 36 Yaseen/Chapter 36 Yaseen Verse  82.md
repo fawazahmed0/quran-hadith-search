@@ -3224,6 +3224,12 @@ wo jab kabhi kisi cheez ka iraada karta hai, ose itna farma dena (kaafi hai) ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس کا امرِ (تخلیق) فقط یہ ہے کہ جب وہ کسی شے کو (پیدا فرمانا) چاہتا ہے تو اسے فرماتا ہے: ہو جا، پس وہ فوراً (موجود یا ظاہر) ہو جاتی ہے (اور ہوتی چلی جاتی ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کا معاملہ تو یہ ہے کہ جب وہ کسی چیز کا ارادہ کرلے تو صرف اتنا کہتا ہے کہ : ہوجا۔ بس وہ ہوجاتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

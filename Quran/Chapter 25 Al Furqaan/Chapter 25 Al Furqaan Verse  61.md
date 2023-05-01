@@ -3224,6 +3224,12 @@ ba barkath hai wo jis ne asmaan mein burj3 banaya aur us mein aftaab banaya aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی بڑی برکت و عظمت والا ہے جس نے آسمانی کائنات میں (کہکشاؤں کی شکل میں) سماوی کرّوں کی وسیع منزلیں بنائیں اور اس میں (سورج کو روشنی اور تپش دینے والا) چراغ بنایا اور (اس نظامِ شمسی کے اندر) چمکنے والا چاند بنایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بڑی شان ہے اس کی جس نے آسمان میں برج بنائے اور اس میں ایک روشن چراغ اور نور پھیلانے والا چاند پیدا کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

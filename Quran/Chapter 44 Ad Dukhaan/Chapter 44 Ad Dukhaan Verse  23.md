@@ -3224,6 +3224,12 @@ Vyydy z Moyimy rabamy vnochi. Voistynu, vas budutʹ peresliduvaty
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ارشاد ہوا:) پھر تم میرے بندوں کو راتوں رات لے کر چلے جاؤ بیشک تمہارا تعاقب کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اللہ تعالیٰ نے فرمایا کہ) اچھا تم میرے بندوں کو لے کر راتوں رات روانہ ہوجاؤ۔ تمہارا پیچھا ضرور کیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

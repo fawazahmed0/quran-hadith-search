@@ -3224,6 +3224,12 @@ ye is liye ke Allah raath ko din mein daakhil karta hai aur din ko raath mein da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس وجہ سے ہے کہ اللہ رات کو دن میں داخل فرماتا ہے اور دن کو رات میں داخل فرماتا ہے اور بیشک اللہ خوب سننے والا دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس لیے کہ اللہ (کی قدرت اتنی بڑی ہے کہ وہ) رات کو دن میں داخل کردیتا اور دن کو رات میں داخل کردیتا ہے۔ اور اس لیے کہ اللہ ہر بات سنتا، ہر چیز دیکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

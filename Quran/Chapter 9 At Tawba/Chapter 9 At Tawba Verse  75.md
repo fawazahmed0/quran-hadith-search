@@ -3224,6 +3224,12 @@ un mein wo bhi hai jin hone Allah se ahad kiya tha ke agar wo hamein apne fazl s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان (منافقوں) میں (بعض) وہ بھی ہیں جنہوں نے اللہ سے عہد کیا تھا کہ اگر اس نے ہمیں اپنے فضل سے (دولت) عطا فرمائی تو ہم ضرور (اس کی ر اہ میں) خیرات کریں گے اور ہم ضرور نیکو کاروں میں سے ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہی میں وہ لوگ بھی ہیں جنہوں نے اللہ سے یہ عہد کیا تھا کہ اگر وہ اپنے فضل سے ہمیں نوازے گا تو ہم ضرور صدقہ کریں گے، اور یقینا نیک لوگوں میں شامل ہوجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

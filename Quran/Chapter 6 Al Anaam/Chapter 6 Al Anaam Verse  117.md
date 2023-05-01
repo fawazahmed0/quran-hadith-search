@@ -3224,6 +3224,12 @@ bil-yaqeen aap ka rab un ko qoob jaanta hai jo us ki raah se be-raah ho jaate ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک آپ کا رب ہی اسے خوب جانتا ہے جو اس کی راہ سے بہکا ہے اور وہی ہدایت یافتہ لوگوں سے (بھی) خوب واقف ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ تمہارا رب خوب جانتا ہے کہ کون اپنے راستے سے بھٹک رہا ہے، اور وہی ان لوگوں کو خوب جانتا ہے جو صحیح راستے پر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

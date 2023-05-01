@@ -3224,6 +3224,12 @@ wo baghaath mein hamesha rehne ke, jin mein ye log daakhil honge, sone ke kangan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(دائمی اِقامت کے لئے) عدن کی جنّتیں ہیں جن میں وہ داخل ہوں گے، ان میں انہیں سونے اور موتیوں کے کنگنوں سے آراستہ کیا جائے گا اور وہاں ان کی پوشاک ریشمی ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمیشہ بسنے کے باغات ہیں جن میں وہ لوگ داخل ہوں گے وہاں ان کو سونے کے کنگنوں اور موتیوں سے آراستہ کیا جائے گا اور ان کا لباس وہاں پر ریشم ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wo Allah hee hai jo tumhe bijli ki chamak daraane aur ummid dilaane ke liye dikh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جو تمہیں (کبھی) ڈرانے اور (کبھی) امید دلانے کے لئے بجلی دکھاتا ہے اور (کبھی) بھاری (گھنے) بادلوں کو اٹھاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جو تمہیں بجلی کی چمک دکھلاتا ہے جس سے تمہیں (اس کے گرنے کا) ڈر بھی لگتا ہے، اور (بارش کی) امید بھی بندھتی ہے اور وہی (پانی سے) لدے ہوئے بادل اٹھاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

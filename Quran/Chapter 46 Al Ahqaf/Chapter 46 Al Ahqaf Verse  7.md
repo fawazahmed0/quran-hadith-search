@@ -3224,6 +3224,12 @@ aur unhe jab hamaari waazeh aayate pad kar sunaayi jaati hai to munkir log sacch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان پر ہماری واضح آیتیں پڑھی جاتی ہیں (تو) جو لوگ کفر کر رہے ہیں حق (یعنی قرآن) کے بارے میں، جبکہ وہ ان کے پاس آچکا، کہتے ہیں: یہ کھلا جادو ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان کے سامنے ہماری آیتیں اپنی پوری وضاحت کے ساتھ پڑھ کر سنائی جاتی ہیں، تو یہ کافر لوگ حق بات کے ان تک پہنچ جانے کے بعد بھی اس کے بارے میں یوں کہہ دیتے ہیں کہ یہ تو کھلا ہوا جادو ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

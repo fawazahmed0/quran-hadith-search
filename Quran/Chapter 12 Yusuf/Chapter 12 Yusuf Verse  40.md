@@ -3224,6 +3224,12 @@ us ke siva tum jin ki puja paat kar rahe ho, wo sub naam hee naam hai jo tum ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم (حقیقت میں) اللہ کے سوا کسی کی عبادت نہیں کرتے ہو مگر چند ناموں کی جو خود تم نے اور تمہارے باپ دادا نے (اپنے پاس سے) رکھ لئے ہیں، اللہ نے ان کی کوئی سند نہیں اتاری۔ حکم کا اختیار صرف اللہ کو ہے، اسی نے حکم فرمایا ہے کہ تم اس کے سوا کسی کی عبادت نہ کرو، یہی سیدھا راستہ (درست دین) ہے لیکن اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے سوا جس جس کی تم عبادت کرتے ہو، ان کی حقیقت چند ناموں سے زیادہ نہیں ہے جو تم نے اور تمہارے باپ دادوں نے رکھ لیے ہیں۔ اللہ نے ان کے حق میں کوئی دلیل نہیں اتاری۔ حاکمت اللہ کے سوا کسی کو حاصل ہیں ہے، اسی نے یہ حکم دیا ہے کہ اس کے سوا کسی کی عبادت نہ کرو۔ یہی سیدھا سیدھا دین ہے، لیکن اکثر لوگ نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

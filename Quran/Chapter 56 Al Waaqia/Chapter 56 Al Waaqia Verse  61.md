@@ -3224,6 +3224,12 @@ ke tumhaari jageh tum jaise aur payda karde aur tumhe nay seere se us aalam mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس بات سے (بھی عاجز نہیں ہیں) کہ تمہارے جیسے اوروں کو بدل (کر بنا) دیں اور تمہیں ایسی صورت میں پیدا کر دیں جسے تم جانتے بھی نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ ہم تمہاری جگہ تم جیسے اور لوگ لے آئیں، اور تمہیں پھر سے کسی ایسی حالت میں پیدا کردیں جسے تم نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ mera ye kurta tum le jaao aur ise mere waalid ke mu par daal do ke wo dekhne lag
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+میرا یہ قمیض لے جاؤ، سو اسے میرے باپ کے چہرے پر ڈال دینا، وہ بینا ہو جائیں گے، اور (پھر) اپنے سب گھر والوں کو میرے پاس لے آؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرا یہ قمیص لے جاؤ، اور اسے میرے والد کے چہرے پر ڈال دینا، اس سے ان کی بینائی واپس آجائے گی، اور اپنے سارے گھر والوں کو میرے پاس لے آؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

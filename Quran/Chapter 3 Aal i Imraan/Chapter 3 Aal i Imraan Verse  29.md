@@ -3224,6 +3224,12 @@ keh dijiye! ke qaah tum apne sino ki baatein chupaao, qaah zaaher karo, Allah ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ جو تمہارے سینوں میں ہے خواہ تم اسے چھپاؤ یا اسے ظاہر کر دو اللہ اسے جانتا ہے، اور جو کچھ آسمانوں اور زمین میں ہے وہ خوب جانتا ہے، اور اللہ ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے رسول) لوگوں کو بتادو کہ جو کچھ تمہارے دلوں میں ہے تم اسے چھپاؤ یا ظاہر کرو، اللہ اسے جان لے گا۔ اور جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، وہ سب جانتا ہے، اور اللہ ہر چیز پر قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

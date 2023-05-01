@@ -3224,6 +3224,12 @@ us ne aur us ke lashkaro ne na haq tariqe par mulk mein takabbur kiya aur samajh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس (فرعون) نے خود اور اس کی فوجوں نے ملک میں ناحق تکبّر و سرکشی کی اور یہ گمان کر بیٹھے کہ وہ ہماری طرف نہیں لوٹائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض یہ کہ اس نے اور اس کے لشکروں نے زمین میں ناحق گھمنڈ کیا، اور یہ سمجھ بیٹھے کہ انہیں ہمارے پاس واپس نہیں لایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

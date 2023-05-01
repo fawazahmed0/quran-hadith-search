@@ -3224,6 +3224,12 @@ tufh hai tum par aur un par jin ki tum Allah ke siva ibaadath karte ho, kya tumh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تف ہے تم پر (بھی) اور ان (بتوں) پر (بھی) جنہیں تم اللہ کے سوا پوجتے ہو، تو کیا تم عقل نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تف ہے تم پر بھی، اور ان پر بھی جن کی تم اللہ کو چھوڑ کر عبادت کرے ہو۔ بھلا کیا تمہیں اتنی سمجھ نہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

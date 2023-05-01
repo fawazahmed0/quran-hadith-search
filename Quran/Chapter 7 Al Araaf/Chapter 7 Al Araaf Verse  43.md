@@ -3224,6 +3224,12 @@ aur jo kuch un ke dilo mein (kina) tha hum us ko door kar denge, un ke niche neh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے سینوں میں (ایک دوسرے سے دنیا میں) جو کوئی رنجش رہی ہوگی، اسے ہم نکال باہر کریں گے، ان کے نیچے سے نہریں بہتی ہوں گی، اور وہ کہیں گے : تمام تر شکر اللہ کا ہے، جس نے ہمیں اس منزل تک پہنچایا، اگر اللہ ہمیں نہ پہنچاتا تو ہم کبھی منزل تک نہ پہنچتے۔ ہمارے پروردگار کے پیغمبر واقعی ہمارے پاس بالکل سچی بات لے کر آئے تھے۔ اور ان سے پکار کر کہا جائے گا کہ : لوگو ! یہ ہے جنت ! تم جو عمل کرتے رہے ہو ان کی بنا پر تمہیں اس کا وارث بنادیا گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

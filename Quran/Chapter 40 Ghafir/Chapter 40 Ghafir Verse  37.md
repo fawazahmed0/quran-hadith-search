@@ -3224,6 +3224,12 @@ Aasmaano ke raaston tak, aur Moosa ke khuda ko jhaank kar dekhun.Mujhey to yeh M
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یعنی) آسمانوں کے راستوں پر، پھر میں موسٰی کے خدا کو جھانک کر دیکھ سکوں اور میں تو اسے جھوٹا ہی سمجھتا ہوں، اور اس طرح فرعون کے لئے اس کی بد عملی خوش نما کر دی گئی اور وہ (اللہ کی) راہ سے روک دیا گیا، اور فرعون کی پُرفریب تدبیر محض ہلاکت ہی میں تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو آسمانوں کے راستے ہیں پھر میں موسیٰ کے خدا کو جھانک کر دیکھوں اور یقین رکھو کہ میں تو اسے جھوٹا ہی سمجھتا ہوں۔ اسی طرح فرعون کی بد کرداری اس کی نظر میں خوشنما بنادی گئی تھی اور اسے راستے سے روک دیا گیا تھا۔ اور فرعون کی کوئی چال ایسی نہیں تھی جو بربادی میں گئی ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

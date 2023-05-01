@@ -3224,6 +3224,12 @@ aye meri qaum! main tum se us ki koi ujrath nahi maangta, mera ajr us ke zimme h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میری قوم! میں اس (دعوت و تبلیغ) پر تم سے کوئی اجر نہیں مانگتا، میرا اجر فقط اس (کے ذمۂ کرم) پر ہے جس نے مجھے پیدا فرمایا ہے، کیا تم عقل سے کام نہیں لیتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے میری قوم ! میں تم سے اس (تبلیغ) پر کوئی اجرت نہیں مانگتا، میرا اجر کسی اور نے نہیں، اس ذات نے اپنے ذمے لیا ہے جس نے مجھے پیدا کیا ہے، کیا پھر بھی تم عقل سے کام نہیں لیتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

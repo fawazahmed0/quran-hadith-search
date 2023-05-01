@@ -3224,6 +3224,12 @@ roye zameen ke (tamaam) daraqth agar qalam ban jaaye aur samandar siyaahi aur us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر زمین میں جتنے درخت ہیں (سب) قلم ہوں اور سمندر (روشنائی ہو) اس کے بعد اور سات سمندر اسے بڑھاتے چلے جائیں تو اللہ کے کلمات (تب بھی) ختم نہیں ہوں گے۔ بیشک اللہ غالب ہے حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین میں جتنے درخت ہیں، اگر وہ قلم بن جائیں، اور یہ جو سمندر ہے، اس کے علاوہ سات سمندر اس کے ساتھ اور مل جائیں (اور وہ روشنائی بن کر اللہ کی صفات لکھیں) تب بھی اللہ کی باتیں ختم نہیں ہوں گی۔ حقیقت یہ ہے کہ اللہ اقتدار کا بھی مالک ہے، حکمت کا بھی مالک
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

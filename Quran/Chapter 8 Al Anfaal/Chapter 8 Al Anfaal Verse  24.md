@@ -3224,6 +3224,12 @@ ae iman walo! tum Allah aur rasol ke kehne ko baja lao jab ke rasol tum ko tumha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جب (بھی) رسول (صلی اللہ علیہ وآلہ وسلم) تمہیں کسی کام کے لئے بلائیں جو تمہیں (جاودانی) زندگی عطا کرتا ہے تو اللہ اور رسول (صلی اللہ علیہ وآلہ وسلم، دونوں) کی طرف فرمانبرداری کے ساتھ جواب دیتے ہوئے (فوراً) حاضر ہو جایا کرو؛ اور جان لو کہ اللہ آدمی اور اس کے قلب کے درمیان (شانِ قربتِ خاصہ کے ساتھ) حائل ہوتا ہے اور یہ کہ تم سب (بالآخر) اسی کی طرف جمع کئے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ اور رسول کی دعوت قبول کرو، جب رسول تمہیں اس بات کی طرف بلائے جو تمہیں زندگی بخشنے والی ہے۔ اور یہ بات جان رکھو کہ اللہ انسان اور اس کے دل کے درمیان آڑ بن جاتا ہے ۔ اور یہ کہ تم سب کو اسی کی طرف اکٹھا کر کے لے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tum mein se jin logo ne us din peet dikhaayi jis din duno jamaato ki mudh bhed h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ تم میں سے اس دن بھاگ کھڑے ہوئے تھے جب دونوں فوجیں آپس میں گتھم گتھا ہو گئی تھیں تو انہیں محض شیطان نے پھسلا دیا تھا، ان کے کسی عمل کے باعث جس کے وہ مرتکب ہوئے، بیشک اللہ نے انہیں معاف فرما دیا، یقینا اللہ بہت بخشنے والا بڑے حلم والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم میں سے جن لوگوں نے اس دن پیٹھ پھیری جب دونوں لشکر ایک دوسرے سے ٹکرائے، درحقیقت ان کے بعض اعمال کے نتیجے میں شیطان نے ان کو لغزش میں مبتلا کردیا تھا۔ اور یقین رکھو کہ اللہ نے انہیں معاف کردیا ہے۔ یقینا اللہ بہت معاف کرنے والا، بڑا بردبار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

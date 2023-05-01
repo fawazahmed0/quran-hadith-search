@@ -3224,6 +3224,12 @@ aur us se bada zaalim kaun hoga? jo Allah ta’ala par jhoot baandhe ya jab haq 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس شخص سے بڑھ کر ظالم کون ہو سکتا ہے جو اللہ پر جھوٹا بہتان باندھے یا حق کو جھٹلا دے جب وہ اس کے پاس آپہنچے۔ کیا دوزخ میں کافروں کے لئے ٹھکانہ (مقرر) نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس شخص سے بڑا ظالم کون ہوگا جو اللہ پر بہتان باندھے، یا جب اس کے پاس حق کی بات پہنچے تو وہ اسے جھٹلائے ؟ کیا جہنم میں (ایسے) کافروں کا ٹھکانا نہیں ہوگا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

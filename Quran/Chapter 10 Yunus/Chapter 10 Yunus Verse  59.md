@@ -3224,6 +3224,12 @@ aap kahiye ke ye to batao ke Allah ne tumhare liye jo kuch rizkh bheja tha,phir 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: ذرا بتاؤ تو سہی اللہ نے جو (پاکیزہ) رزق تمہارے لئے اتارا سو تم نے اس میں سے بعض (چیزوں) کو حرام اور (بعض کو) حلال قرار دے دیا۔ فرما دیں: کیا اللہ نے تمہیں (اس کی) اجازت دی تھی یا تم اللہ پر بہتان باندھ رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : بھلا بتاؤ اللہ نے تمہارے لیے جو رزق نازل کیا تھا، تم نے اپنی طرف سے اس میں سے کسی کو حرام اور کسی کو حلال قرار دے دیا، ان سے پوچھو کہ : کیا اللہ نے تمہیں اس کی اجازت دی تھی یا تم اللہ پر جھوٹا بہتان باندھتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

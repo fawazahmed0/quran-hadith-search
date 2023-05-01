@@ -3224,6 +3224,12 @@ un ke paas jab un ke aage piche se paighambar aaye, ke tum Allah ke siva kisi ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب اُن کے پاس اُن کے آگے اور اُن کے پیچھے (یا اُن سے پہلے اور ان کے بعد) پیغمبر آئے (اور کہا) کہ اللہ کے سوا کسی کی عبادت نہ کرو، تو وہ کہنے لگے: اگر ہمارا رب چاہتا تو فرشتوں کو اتار دیتا سو جو کچھ تم دے کر بھیجے گئے ہو ہم اس کے منکر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس وقت کی بات ہے جب ان کے پاس پیغمبر (کبھی) ان کے آگے سے اور (کبھی) ان کے پیچھے سے یہ پیغام لے کر آئے کہ اللہ کے سوا کسی چیز کی عبادت نہ کرو۔ انہوں نے کہا کہ : اگر ہمارا پروردگار چاہتا تو فرشتے بھیجتا۔ لہذا جس بات کے ساتھ تمہیں بھیجا گیا ہے۔ ہم اس کو ماننے سے انکار کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

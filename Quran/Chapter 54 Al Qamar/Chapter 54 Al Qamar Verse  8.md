@@ -3224,6 +3224,12 @@ pukaarne waale ki taraf daudte honge aur kaafir kahenge, ye din to bahuth saqth 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پکارنے والے کی طرف دوڑ کر جا رہے ہوں گے، کفّار کہتے ہوں گے: یہ بڑا سخت دِن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دوڑے جارہے ہوں گے اسی پکارے والے کی طرف۔ یہی کافر (جو قیامت کا انکار کرتے تھے) کہیں گے کہ یہ تو بہت ہی کٹھن دن ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

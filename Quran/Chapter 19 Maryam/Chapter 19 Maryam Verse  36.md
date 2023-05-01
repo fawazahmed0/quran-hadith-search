@@ -3224,6 +3224,12 @@ mera aur tum sab ka parvardigaar sirf Allah ta’ala hee hai, tum sab osi ki iba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک اللہ میرا (بھی) رب ہے اور تمہارا (بھی) رب ہے سو تم اسی کی عبادت کیا کرو، یہی سیدھا راستہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر ! لوگوں سے کہہ دو کہ :) یقینا اللہ میرا بھی پروردگار ہے اور تمہارا بھی پروردگار، اس لیے اس کی عبادت کرو، یہی سیدھا راستہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

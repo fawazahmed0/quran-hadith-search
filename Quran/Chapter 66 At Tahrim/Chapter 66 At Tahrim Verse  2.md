@@ -3224,6 +3224,12 @@ tahqeeq ke Allah ta’ala ne tumhaare liye qasmo ko khol daalna muqarrar kar diy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مومنو!) بیشک اللہ نے تمہارے لئے تمہاری قَسموں کا (کفارہ دے کر) کھول ڈالنا مقرر فرما دیا ہے۔ اور اللہ تمہارا مددگار و کارساز ہے، اور وہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے تمہاری قسموں سے نکلنے کا طریقہ مقرر کردیا ہے، اور اللہ تمہارا کارساز ہے اور وہی ہے جس کا علم بھی کامل ہے، حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

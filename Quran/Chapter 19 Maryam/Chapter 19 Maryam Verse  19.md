@@ -3224,6 +3224,12 @@ us ne jawaab diya ke main to Allah ka bheja hoa qaasid hoon, tujhe ek paakiza la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جبرائیل علیہ السلام نے) کہا: میں تو فقط تیرے رب کا بھیجا ہوا ہوں، (اس لئے آیا ہوں) کہ میں تجھے ایک پاکیزہ بیٹا عطا کروں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرشتے نے کہا : میں تو تمہارے رب کا بھیجا ہوا (فرشتہ) ہوں (اور اس لیے آیا ہوں) تاکہ تمہیں ایک پاکیزہ لڑکا دوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

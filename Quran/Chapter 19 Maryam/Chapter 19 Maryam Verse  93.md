@@ -3224,6 +3224,12 @@ asmaan aur zameen mein jo kuch hai sab ke sab Allah ke ghulaam ban kar hee aane 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آسمانوں اور زمین میں جو کوئی بھی (آباد) ہیں (خواہ فرشتے ہیں یا جن و انس) وہ اللہ کے حضور محض بندہ کے طور پر حاضر ہونے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین میں جتنے لوگ ہیں، ان میں سے کوئی ایسا نہیں ہے جو خدائے رحمن کے حضور بندہ بن کر نہ آئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

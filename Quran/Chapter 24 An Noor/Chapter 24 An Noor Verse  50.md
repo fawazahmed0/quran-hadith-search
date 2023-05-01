@@ -3224,6 +3224,12 @@ kya un ke dilo mein bimaari hai? ya ye shak wa shuba mein pade hoye hai? ya unhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ان کے دلوں میں (منافقت کی) بیماری ہے یا وہ (شانِ رسالت صلی اللہ علیہ وآلہ وسلم میں) شک کرتے ہیں یا وہ اس بات کا اندیشہ رکھتے ہیں کہ اللہ اور اس کا رسول (صلی اللہ علیہ وآلہ وسلم) ان پر ظلم کریں گے، (نہیں) بلکہ وہی لوگ خود ظالم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا ان کے دلوں میں کوئی روگ ہے یا یہ شک میں پڑے ہوئے ہیں یا انہیں یہ اندیشہ ہے کہ اللہ اور اس کا رسول ان پر ظلم ڈھائے گا ؟ نہیں بلکہ ظلم ڈھانے والے تو خود یہ لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

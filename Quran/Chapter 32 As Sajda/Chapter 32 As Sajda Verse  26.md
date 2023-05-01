@@ -3224,6 +3224,12 @@ kya us baath ne bhi unhe hidaayath nahi di, ke hum ne un se pehle bahuth si umma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا انہیں (اس امر سے) ہدایت نہیں ہوئی کہ ہم نے اِن سے پہلے کتنی ہی امّتوں کو ہلاک کر ڈالا تھا جن کی رہائش گاہوں میں (اب) یہ لوگ چَلتے پِھرتے ہیں۔ بیشک اس میں نشانیاں ہیں، تو کیا وہ سنتے نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا ان (کافروں) کو اس بات سے کوئی ہدایت نہیں ملی کہ ان سے پہلے کتنی قوموں کو ہم ہلاک کرچکے ہیں جن کے گھروں میں یہ خود چلتے پھرتے ہیں ؟ یقینا اس میں ان لوگوں کے لیے بڑی نشانیاں ہیں۔ تو کیا یہ لوگ سنتے نہیں ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

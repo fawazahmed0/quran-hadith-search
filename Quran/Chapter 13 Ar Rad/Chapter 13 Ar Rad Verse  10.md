@@ -3224,6 +3224,12 @@ tum mein se kisi ka apni baath ka chupa kar kehna aur ba awaaze buland ose kehna
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم میں سے جو شخص آہستہ بات کرے اور جو بلند آواز سے کرے اور جو رات (کی تاریکی) میں چھپا ہو اور جو دن (کی روشنی) میں چلتا پھرتا ہو (اس کے لئے) سب برابر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم میں سے کوئی چپکے سے بات کرے یا زور سے، کوئی رات کے وقت چھپا ہوا ہو، یا دن کے وقت چل پھر رہا ہو، وہ سب (اللہ کے علم کے لحاظ سے) برابر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

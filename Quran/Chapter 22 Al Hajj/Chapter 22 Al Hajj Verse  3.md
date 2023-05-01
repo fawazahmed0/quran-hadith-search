@@ -3224,6 +3224,12 @@ baaz log Allah ke baare mein batein banaate hai aur wo bhi be ilmi ke saath aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کچھ لوگ (ایسے) ہیں جو اللہ کے بارے میں بغیر علم و دانش کے جھگڑا کرتے ہیں اور ہر سرکش شیطان کی پیروی کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں میں کچھ ایسے ہیں جو اللہ کے بارے میں بےجانے بوجھے جھگڑے کرتے ہیں، اور اس سرکش شیطان کے پیچھے چل کھڑے ہوتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

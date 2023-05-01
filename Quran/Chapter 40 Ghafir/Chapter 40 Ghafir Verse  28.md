@@ -3224,6 +3224,12 @@ aur ek momin shaqs ne jo feraun ke khandaan mein se tha aur apna imaan chupaaye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ملّتِ فرعون میں سے ایک مردِ مومن نے کہا جو اپنا ایمان چھپائے ہوئے تھا: کیا تم ایک شخص کو قتل کرتے ہو (صرف) اس لئے کہ وہ کہتا ہے: میرا رب اللہ ہے، اور وہ تمہارے پاس تمہارے رب کی طرف سے واضح نشانیاں لے کر آیا ہے، اور اگر (بالفرض) وہ جھوٹا ہے تو اس کے جھوٹ کا بوجھ اسی پر ہوگا اور اگر وہ سچا ہے تو جس قدر عذاب کا وہ تم سے وعدہ کر رہا ہے تمہیں پہنچ کر رہے گا، بے شک اللہ اسے ہدایت نہیں دیتا جو حد سے گزرنے والا سراسر جھوٹا ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور فرعون کے خاندان میں سے ایک مومن شخص جو ابھی تک اپنا ایمان چھپائے ہوئے تھا بول اٹھا کہ کیا تم ایک شخص کو صرف اس لیے قتل کر رہے ہو کہ وہ کہتا ہے میرا پروردگار اللہ ہے ؟ حالانکہ وہ تمہارے پاس تمہارے پروردگار کی طرف سے روشن دلیلیں لے کر آیا ہے۔ اور اگر وہ جھوٹا ہی ہو تو اس کا جھوٹ اسی پر پڑے گا اور اگر سچا ہو تو جس چیز سے وہ تمہیں ڈرا رہا ہے اس میں کچھ تو تم پر آ ہی پڑے گی اللہ کسی ایسے شخص کو ہدایت نہیں دیتا جو حد سے گذر جانے والا (اور) جھوٹ بولنے کا عادی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

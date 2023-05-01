@@ -3224,6 +3224,12 @@ aur khaum feraun ke sardaaro ne kaha ke kya aap Mosa (alaihissalaam) aur in ki k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور فرعون کی قوم کے سرداروں نے (فرعون سے) کہا : کیا آپ موسیٰ اور اس کی قوم کو کھلا چھوڑ رہے ہیں، تاکہ وہ زمین میں فساد مچائیں، اور آپ اور آپ کے خداؤں کو پس پشت ڈال دیں ؟ وہ بولا : ہم ان کے بیٹوں کو قتل کریں گے اور ان کی عورتوں کو زندہ رکھیں گے اور ہمیں ان پر پورا پورا قابو حاصل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

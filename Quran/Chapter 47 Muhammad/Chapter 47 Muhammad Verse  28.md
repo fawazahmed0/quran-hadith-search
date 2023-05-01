@@ -3224,6 +3224,12 @@ ye is binaah par ke ye wo raah chale jis se unhone Allah ko naraaz kar diya aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس وجہ سے ہے کہ انہوں نے اُس (رَوِش) کی پیروی کی جو اللہ کو ناراض کرتی ہے اور انہوں نے اس کی رضا کو ناپسند کیا تو اس نے ان کے (جملہ) اعمال اکارت کر دیئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب اس لیے کہ یہ اس طریقے پر چلے جس نے اللہ کو ناراض کیا، اور اس کی رضا مندی حاصل کرنے کو خود انہوں نے ناپسند کیا، اس لیے اللہ نے ان کے اعمال اکارت کردیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

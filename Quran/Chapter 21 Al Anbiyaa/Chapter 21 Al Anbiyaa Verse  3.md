@@ -3224,6 +3224,12 @@ un ke dil bilkul ghaafil hai, aur un zaalimo ne chupke chupke sarghooshiya ki, k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے دل غافل ہو چکے ہیں، اور (یہ) ظالم لوگ (آپ کے خلاف) آہستہ آہستہ سرگوشیاں کرتے ہیں کہ یہ تو محض تمہارے ہی جیسا ایک بشر ہے، کیا پھر (بھی) تم (اس کے) جادو کے پاس جاتے ہو حالانکہ تم دیکھ رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ ان کے دل فضولیات میں منہمک ہوتے ہیں۔ اور یہ ظالم چپکے چپکے (ایک دوسرے سے) سرگوشی کرتے ہیں کہ : یہ شخص (یعنی محمد (صلی اللہ علیہ وآلہ وسلم) تمہی جیسا ایک انسان نہیں تو اور کیا ہے ؟ کیا پھر بھی تم سوجھتے بوجھتے جادو کی بات سننے جاؤ گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

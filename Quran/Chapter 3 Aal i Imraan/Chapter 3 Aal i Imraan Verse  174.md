@@ -3224,6 +3224,12 @@ Aakhir e kaar woh Allah taala ki niyamat aur fazal ke saath palat aaye, unko kis
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر وہ (مسلمان) اللہ کے انعام اور فضل کے ساتھ واپس پلٹے انہیں کوئی گزند نہ پہنچی اور انہوں نے رضائے الٰہی کی پیروی کی اور اللہ بڑے فضل والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نتیجہ یہ کہ یہ لوگ اللہ کی نعمت اور فضل لے کر اس طرح واپس آئے کہ انہیں ذرا بھی گزند نہیں پہنچی، اور وہ اللہ کی خوشنودی کے تابع رہے۔ اور اللہ فضل عظیم کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

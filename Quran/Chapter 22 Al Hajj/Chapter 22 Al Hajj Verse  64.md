@@ -3224,6 +3224,12 @@ asmaano aur zameen mein jo kuch hai, osi ka hai aur yaqinan Allah wahi hai be ni
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی کا ہے جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، اور بیشک اللہ ہی بے نیاز قابلِ ستائش ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کچھ آسمانوں میں ہے، اور جو کچھ زمین میں ہے، سب اسی کا ہے۔ اور یقین رکھو کہ اللہ ہی وہ ذات ہے جو سب سے بےنیاز ہے، بذات خود قابل تعریف۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

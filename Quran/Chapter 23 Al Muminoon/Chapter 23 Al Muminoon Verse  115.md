@@ -3224,6 +3224,12 @@ kya tum ye gumaan kiye hoye ho ke hum ne tumhe yo hee bekaar paida kiya hai aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کیا تم نے یہ خیال کر لیا تھا کہ ہم نے تمہیں بے کار (و بے مقصد) پیدا کیا ہے اور یہ کہ تم ہماری طرف لوٹ کر نہیں آؤ گے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا تم یہ سمجھے بیٹھے تھے کہ ہم نے تمہیں یونہی بےمقصد پیدا کردیا، ، اور تمہیں واپس ہمارے پاس نہیں لایا جائے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

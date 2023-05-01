@@ -3224,6 +3224,12 @@ jis ne saath asmaan upar ta-le banaaye (to aye dekhne waale) Allah rahmaan ki pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے سات (یا متعدّد) آسمانی کرّے باہمی مطابقت کے ساتھ (طبق دَر طبق) پیدا فرمائے، تم (خدائے) رحمان کے نظامِ تخلیق میں کوئی بے ضابطگی اور عدمِ تناسب نہیں دیکھو گے، سو تم نگاہِ (غور و فکر) پھیر کر دیکھو، کیا تم اس (تخلیق) میں کوئی شگاف یا خلل (یعنی شکستگی یا اِنقطاع) دیکھتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس نے سات آسمان اوپر تلے پیدا کیے، تم خدائے رحمن کی تخلیق میں کوئی فرق نہیں پاؤ گے۔ اب پھر سے نظر دوڑا کر دیکھو کیا تمہیں کوئی رخنہ نظر آتا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

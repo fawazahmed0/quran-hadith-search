@@ -3224,6 +3224,12 @@ wahaa wo mauth chakne ke nahi hai, haan pehli mauth (jo wo mar chuke) unhe Allah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس (جنت) میں موت کا مَزہ نہیں چکھیں گے سوائے (اس) پہلی موت کے (جو گزر چکی ہوگی) اور اللہ انہیں دوزخ کے عذاب سے بچا لے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو موت ان کو پہلی آچکی تھی، اس کے علاوہ وہاں وہ کسی اور موت کا مزہ نہیں چکھیں گے، اور اللہ انہیں دوزخ کے عذاب سے محفوظ رکھے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

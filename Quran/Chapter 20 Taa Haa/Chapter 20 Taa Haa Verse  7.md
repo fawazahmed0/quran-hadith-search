@@ -3224,6 +3224,12 @@ agar tu onchi baath kahe to wo to har ek poshida, balke poshida se poshida tar c
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ ذکر و دعا میں جہر (یعنی آواز بلند) کریں (تو بھی کوئی حرج نہیں) وہ تو سِرّ (یعنی دلوں کے رازوں) اور اخفی (یعنی سب سے زیادہ مخفی بھیدوں) کو بھی جانتا ہے (تو بلند التجاؤں کو کیوں نہیں سنے گا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم کوئی بات بلند آواز سے کہو (یا آہستہ) تو وہ چپکے سے کہی ہوئی باتوں کو، بلکہ اور زیادہ چھپی ہوئی باتوں کو بھی جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

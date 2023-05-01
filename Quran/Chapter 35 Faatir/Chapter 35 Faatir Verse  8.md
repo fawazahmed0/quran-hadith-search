@@ -3224,6 +3224,12 @@ kya pas wo shaqs jis ke liye us ke bure amaal muzayyan kar diye gaye hai, pas wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا جس شخص کے لئے اس کا برا عمل آراستہ کر دیا گیا ہو اور وہ اسے (حقیقتاً) اچھا سمجھنے لگے (کیا وہ مومنِ صالح جیسا ہو سکتا ہے)، سو بیشک اللہ جسے چاہتا ہے گمراہ ٹھہرا دیتا ہے اور جسے چاہتا ہے ہدایت فرماتا ہے، سو (اے جانِ جہاں!) ان پر حسرت اور فرطِ غم میں آپ کی جان نہ جاتی رہے، بیشک وہ جو کچھ سرانجام دیتے ہیں اللہ اسے خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا بتاؤ کہ جس شخص کی نظروں میں اس کی بدعملی ہی خوشنما بنا کر پیش کی گئی ہو، جس کی بنا پر وہ اس بدعملی کو اچھا سمجھتا ہو (وہ نیک آدمی کے برابر کیسے ہوسکتا ہے ؟) کیونکہ اللہ جس کو چاہتا ہے راستے سے بھٹکا دیتا ہے، اور جس کو چاہتا ہے ٹھیک راستے پر پہنچا دیتا ہے۔ لہذا (اے پیغمبر) ایسا نہ ہو کہ ان (کافروں) پر افسوس کے مارے تمہاری جان ہی جاتی رہے۔ یقین رکھو کہ جو کچھ یہ کر رہے ہیں اللہ اسے خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

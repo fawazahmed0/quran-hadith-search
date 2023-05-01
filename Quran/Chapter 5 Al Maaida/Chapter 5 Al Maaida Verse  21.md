@@ -3224,6 +3224,12 @@ ae meri khaom walo! us muqaddas zamin mein dakhil ho jao jo Allah tala ne tumhar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میری قوم! (ملکِ شام یا بیت المقدس کی) اس مقدس سرزمین میں داخل ہو جاؤ جو اللہ نے تمہارے لئے لکھ دی ہے اور اپنی پشت پر (پیچھے) نہ پلٹنا ورنہ تم نقصان اٹھانے والے بن کر پلٹو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے میری قوم ! اس مقدس سرزمین میں داخل ہوجاؤ جو اللہ نے تمہارے واسطے لکھ دی ہے، اور اپنی پشت کے بل پیچھے نہ لوٹو، ورنہ پلٹ کر نامراد جاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

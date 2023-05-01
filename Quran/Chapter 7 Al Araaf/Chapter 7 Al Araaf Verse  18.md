@@ -3224,6 +3224,12 @@ Allah ta’ala ne farmaaya yaha se zaleel wa qaar ho kar nikal ja, jo shaqs in m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کہا : نکل جا یہاں سے، ذلیل اور مردار ہوکر، ان میں سے جو تیرے پیچھے چلے گا، (وہ بھی تیرا ساتھی ہوگا) اور میں تم سب سے جہنم کو بھر دوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

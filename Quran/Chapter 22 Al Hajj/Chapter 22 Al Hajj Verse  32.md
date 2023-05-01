@@ -3224,6 +3224,12 @@ ye sun liya, ab aur suno! Allah ki nishaaniyo ki jo izzath wa hurmath kare, us k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی (حکم) ہے، اور جو شخص اللہ کی نشانیوں کی تعظیم کرتا ہے (یعنی ان جانداروں، یادگاروں، مقامات، احکام اور مناسک وغیرہ کی تعظیم جو اللہ یا اللہ والوں کے ساتھ کسی اچھی نسبت یا تعلق کی وجہ سے جانے پہچانے جاتے ہیں) تو یہ (تعظیم) دلوں کے تقوٰی میں سے ہے (یہ تعظیم وہی لوگ بجا لاتے ہیں جن کے دلوں کو تقوٰی نصیب ہوگیا ہو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ساری باتیں یاد رکھو، اور جو شخص اللہ کے شعائر کی تعظیم کرے، تو یہ بات دلوں کے تقوی سے حاصل ہوتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

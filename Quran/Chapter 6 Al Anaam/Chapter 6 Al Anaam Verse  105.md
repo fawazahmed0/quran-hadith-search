@@ -3224,6 +3224,12 @@ aur hum is taur par dalaayel ko muqtalif pehluo se bayaan karte hai ta ke ye, yo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم اسی طرح (اپنی) آیتوں کو بار بار (انداز بدل کر) بیان کرتے ہیں اور یہ اس لئے کہ وہ(کافر) بول اٹھیں کہ آپ نے (تو کہیں سے) پڑھ لیا ہے تاکہ ہم اس کو جاننے والے لوگوں کے لئے خوب واضح کردیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی طرح ہم آیتیں مختلف طریقوں سے بار بار واضح کرتے ہیں (تاکہ تم انہیں لوگوں تک پہنچا دو) اور بالآخر یہ لوگ تو یوں کہیں کہ : تم نے کسی سے سیکھا ہے اور جو لوگ علم سے کام لیتے ہیں ان کے لیے ہم حق کو آشکار کردیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

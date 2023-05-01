@@ -3224,6 +3224,12 @@ aur un ki taraf se jhagda na karo jo khud apni hee qayaanath karte hai,yaqinan d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ ایسے لوگوں کی طرف سے (دفاعاً) نہ جھگڑیں جو اپنی ہی جانوں سے دھوکہ کر رہے ہیں۔ بیشک اللہ کسی (ایسے شخص) کو پسند نہیں فرماتا جو بڑا بددیانت اور بدکار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کسی تنازعے میں ان لوگوں کی وکالت نہ کرنا جو خود اپنی جانوں سے خیانت کرتے ہیں۔ اللہ کسی بھی خیانت کرنے والے گنہگار کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

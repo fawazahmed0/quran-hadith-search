@@ -3224,6 +3224,12 @@ in (ghudo) ko dubara mere saamne laao, phir to pindliyo aur gardano par haath ph
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: اُن (گھوڑوں) کو میرے پاس واپس لاؤ، تو انہوں نے (تلوار سے) اُن کی پنڈلیاں اور گردنیں کاٹ ڈالیں (یوں اپنی محبت کو اللہ کے تقرّب کے لئے ذبح کر دیا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس پر انہوں نے کہا) ان کو میرے پاس واپس لے آؤ، چنانچہ وہ (ان کی) پنڈلیوں اور گردنوں پر ہاتھ پھیرنے لگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

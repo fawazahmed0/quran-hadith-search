@@ -3224,6 +3224,12 @@ keh dijiye ke tamaam tareefe Allah hee ko saza waar hai, wo an-qareeb apni nisha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ فرمادیجئے کہ تمام تعریفیں اللہ ہی کے لئے ہیں وہ عنقریب تمہیں اپنی نشانیاں دکھا دے گا سو تم انہیں پہچان لو گے، اور آپ کا رب ان کاموں سے بے خبر نہیں جو تم انجام دیتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہہ دو کہ : تمام تعریفیں اللہ کی ہیں، وہ تمہیں اپنی نشانیاں دکھائے گا، پھر تم انہیں پہچان بھی لو گے۔ اور تمہارا پروردگار تمہارے کاموں سے بیخبر نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

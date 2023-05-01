@@ -3224,6 +3224,12 @@ aur Allah ne jin cheezo ke jodne ka hukm diya hai wo ose jodte hai aur wo apne p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ان سب (حقوق اللہ، حقوق الرسول، حقوق العباد اور اپنے حقوقِ قرابت) کو جوڑے رکھتے ہیں، جن کے جوڑے رکھنے کا اللہ نے حکم فرمایا ہے اور اپنے رب کی خشیّت میں رہتے ہیں اور برے حساب سے خائف رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن رشتوں کو اللہ نے جوڑے رکھنے کا حکم دیا ہے، یہ لوگ انہیں جوڑے رکھتے ہیں، اور اپنے پر ورگار سے ڈرتے ہیں، اور حساب کے برے انجام سے خوف کھاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

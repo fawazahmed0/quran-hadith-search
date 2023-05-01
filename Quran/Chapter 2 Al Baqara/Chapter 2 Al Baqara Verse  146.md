@@ -3224,6 +3224,12 @@ jinhe hum ne kitaab di hai wo to ose aisa pehchaante hai jaise koyi apne baccho 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں کو ہم نے کتاب عطا فرمائی ہے وہ اس رسول (آخر الزماں حضرت محمد صلی اللہ علیہ وآلہ وسلم اور ان کی شان و عظمت) کو اسی طرح پہچانتے ہیں جیسا کہ بلاشبہ اپنے بیٹوں کو پہچانتے ہیں، اور یقیناً انہی میں سے ایک طبقہ حق کو جان بوجھ کر چھپا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں کو ہم نے کتاب دی ہے وہ اس کو اتنی اچھی طرح پہچانتے ہیں جیسے اپنے بیٹوں کو پہچانتے ہیں ۔ اور یقین جانو کہ ان میں سے کچھ لوگوں نے حق کو جان بوجھ کر چھپا رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

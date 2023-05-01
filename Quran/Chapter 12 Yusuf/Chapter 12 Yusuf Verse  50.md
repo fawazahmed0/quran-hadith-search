@@ -3224,6 +3224,12 @@ aur badshah ne kaha yousuf ko mere paas lao, jab qaasid yousuf ke paas pahoncha 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ تعبیر سنتے ہی) بادشاہ نے کہا: یوسف (علیہ السلام) کو (فورًا) میرے پاس لے آؤ، پس جب یوسف (علیہ السلام) کے پاس قاصد آیا تو انہوں نے کہا: اپنے بادشاہ کے پاس لوٹ جا اور اس سے (یہ) پوچھ (کہ) ان عورتوں کا (اب) کیا حال ہے جنہوں نے اپنے ہاتھ کاٹ ڈالے تھے؟ بیشک میرا رب ان کے مکر و فریب کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بادشاہ نے کہا کہ : اس کو (یعنی یوسف کو) میرے پاس لے کر آؤ۔ چنانچہ جب ان کے پاس ایلچی پہنچا تو یوسف نے کہا : اپنے مالک کے پاس واپس جاؤ، اور ان سے پوچھو کہ ان عورتوں کا کیا قصہ ہے جنہوں نے اپنے ہاتھ کاٹ ڈا لے تھے ؟ میرا پروردگار ان عورتوں کے مکر سے خوب واقف ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

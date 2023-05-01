@@ -3224,6 +3224,12 @@ ke kya jab hum mar kar mitthi aur haddi ho jayenge, kya phir bhi hum zaroor utha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ کہتے ہیں کہ جب ہم مر جائیں گے اور ہم خاک اور (بوسیدہ) ہڈیاں ہو جائیں گے تو کیا ہم (پھر زندہ کر کے) اٹھائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہتے ہیں کہ : کیا جب ہم مرجائیں گے اور مٹی اور ہڈیوں میں تبدیل ہوجائیں گے تو کیا واقعی ہمیں دوبارہ زندہ کر کے اٹھایا جائے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

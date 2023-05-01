@@ -3224,6 +3224,12 @@ unhone kaha haan tere parvardigaar ne isi tarah farmaaya hai, beshak wo hakeem a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(فرشتوں نے) کہا: ایسے ہی ہوگا، تمہارے رب نے فرمایا ہے۔ بیشک وہ بڑی حکمت والا بہت علم والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مہمانوں نے کہا : تمہارے پروردگار نے ایسا ہی فرمایا ہے۔ یقین جانو وہی ہے جو بڑی حکمت کا، بڑے علم کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

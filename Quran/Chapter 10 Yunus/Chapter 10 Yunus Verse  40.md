@@ -3224,6 +3224,12 @@ aur un mein se baaz aise hai jo is par iman le aenge aur baaz aise hai ke is par
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان میں سے کوئی تو اس پر ایمان لائے گا اور انہی میں سے کوئی اس پر ایمان نہ لائے گا، اور آپ کا رب فساد انگیزی کرنے والوں کو خوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان میں سے کچھ ایسے ہیں جو اس (قرآن) پر ایمان لے آئیں گے، اور کچھ وہ ہیں جو اس پر ایمان نہیں لائیں گے، اور تمہارا پروردگار فساد پھیلانے والوں کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

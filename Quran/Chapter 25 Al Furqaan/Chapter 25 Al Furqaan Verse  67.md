@@ -3224,6 +3224,12 @@ aur jo qarch karte waqt bhi na to israaf karte hai, na baqili, balke un duno ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ) وہ لوگ ہیں کہ جب خرچ کرتے ہیں تو نہ بے جا اڑاتے ہیں اور نہ تنگی کرتے ہیں اور ان کا خرچ کرنا (زیادتی اور کمی کی) ان دو حدوں کے درمیان اعتدال پر (مبنی) ہوتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو خرچ کرتے ہیں تو نہ فضول خرچی کرتے ہیں، نہ تنگی کرتے ہیں، بلکہ ان کا طریقہ اس (افراط وتفریط) کے درمیان اعتدال کا طریقہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

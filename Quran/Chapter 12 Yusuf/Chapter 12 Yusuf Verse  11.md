@@ -3224,6 +3224,12 @@ unhone kaha abba! aaqir aap yousuf (alaihissalaam) ke bare mein hum par etebaar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: اے ہمارے باپ! آپ کو کیا ہوگیا ہے آپ یوسف (علیہ السلام) کے بارے میں ہم پر اعتبار نہیں کرتے حالانکہ ہم یقینی طور پر اس کے خیر خواہ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (چنانچہ) ان بھائیوں نے (اپنے والد سے) کہا کہ : ابا ! یہ آپ کو کیا ہوگیا ہے کہ آپ یوسف کے معاملے میں ہم پر اطمینان نہیں کرتے ؟ حالانکہ اس میں کوئی شک نہ ہونا چاہیے کہ ہم اس کے پکے خیر خواہ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

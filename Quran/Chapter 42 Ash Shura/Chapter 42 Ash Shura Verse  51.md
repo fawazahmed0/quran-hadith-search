@@ -3224,6 +3224,12 @@ na mumkin hai ke kisi bandhe se Allah ta’ala kalaam kare, magar wahi ke zariye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہر بشر کی (یہ) مجال نہیں کہ اللہ اس سے (براہِ راست) کلام کرے مگر یہ کہ وحی کے ذریعے (کسی کو شانِ نبوت سے سرفراز فرما دے) یا پردے کے پیچھے سے (بات کرے جیسے موسٰی علیہ السلام سے طورِ سینا پر کی) یا کسی فرشتے کو فرستادہ بنا کر بھیجے اور وہ اُس کے اِذن سے جو اللہ چاہے وحی کرے (الغرض عالمِ بشریت کے لئے خطابِ اِلٰہی کا واسطہ اور وسیلہ صرف نبی اور رسول ہی ہوگا)، بیشک وہ بلند مرتبہ بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کسی انسان میں یہ طاقت نہیں ہے کہ اللہ اس سے (روبرو) بات کرے۔ سوائے اس کے کہ وہ وحی کے ذریعے ہو، یا کسی پردے کے پیچھے سے، یا پھر وہ کوئی پیغام لانے والا (فرشتہ) بھیج دے، اور وہ اس کے حکم سے جو وہ چاہے وحی کا پیغام پہنچا دے۔ یقینا وہ بہت اونچی شان والا، بڑی حکمت کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

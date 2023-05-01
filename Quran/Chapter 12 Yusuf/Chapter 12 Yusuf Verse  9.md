@@ -3224,6 +3224,12 @@ yousuf ko to maar hee dalo ya ose kisi (na maloom) jageh phek do ke tumhare waal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اب یہی حل ہے کہ) تم یوسف (علیہ السلام) کو قتل کر ڈالو یا دور کسی غیر معلوم علاقہ میں پھینک آؤ (اس طرح) تمہارے باپ کی توجہ خالصتًا تمہاری طرف ہو جائے گی اور اس کے بعد تم (توبہ کر کے) صالحین کی جماعت بن جانا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اب اس کا حل یہ ہے کہ) یوسف کو قتل ہی کرڈالو، یا اسے کسی اور سرزمین میں پھینک آؤ، تاکہ تمہارے والد کی ساری توجہ خالص تمہاری طرف ہوجائے، اور یہ سب کرنے کے بعد پھر (توبہ کر کے) نیک بن جاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

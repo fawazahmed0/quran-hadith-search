@@ -3224,6 +3224,12 @@ Allah ta’ala tum mein se unhe (ba qoobi) jaanta hai jo dosro ko rokte hai aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ تم میں سے ان لوگوں کو جانتا ہے جو (رسول سے اور ان کی معیّت میں جہاد سے) روکتے ہیں اور جو اپنے بھائیوں سے کہتے ہیں کہ ہماری طرف آجاؤ، اور یہ لوگ لڑائی میں نہیں آتے مگر بہت ہی کم
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ تم میں سے ان لوگوں کو خوب جانتا ہے جو (جہاد میں) رکاوٹ ڈالتے ہیں اور اپنے بھائیوں سے کہتے ہیں کہ : ہمارے پاس چلے آؤ اور خود لڑائی میں آتے نہیں، اور آتے ہیں تو بہت کم۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

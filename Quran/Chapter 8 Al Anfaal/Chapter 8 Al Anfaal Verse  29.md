@@ -3224,6 +3224,12 @@ ae iman walo! agar tum Allah se darte rahoge tuh Allah tala tum ko ek faisle ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اگر تم اللہ کا تقوٰی اختیار کرو گے (تو) وہ تمہارے لئے حق و باطل میں فرق کرنے والی حجت (و ہدایت) مقرر فرما دے گا اور تمہارے (دامن) سے تمہارے گناہوں کو مٹا دے گا اور تمہاری مغفرت فرما دے گا، اور اللہ بڑے فضل والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اگر تم اللہ کے ساتھ تقوی کی روش اختیار کرو گے تو وہ تمہیں (حق و باطل کی) تمیز عطا کردے گا اور تمہاری برائیوں کا کفارہ کردے گا، اور تمہیں مغفرت سے نوازے گا، اور اللہ فضل عظیم کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

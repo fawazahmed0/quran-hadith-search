@@ -3224,6 +3224,12 @@ un logo ko aur kisi baath ka intezaar nahi, sirf us ke akheer natije ka intezaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اب) یہ (کافر) اس آخری انجام کے سوا کس بات کے منتظر ہیں جو اس کتاب میں مذکور ہے ؟ (حالانکہ) جس دن وہ آخری انجام آگیا جو اس کتاب نے بتایا ہے، اس دن یہ لوگ جو اس انجام کو پہلے بھلا چکے تھے، یہ کہیں گے کہ : ہمارے پروردگار کے پیغمبر واقعی سچی خبر لائے تھے، اب کیا ہمیں کچھ سفارشی میسر آسکتے ہیں جو ہماری سفارش کریں، یا کیا ایسا ہوسکتا ہے کہ ہمیں دوبارہ وہیں (دنیا میں) بھیج دیا جائے، تاکہ ہم جو (برے) کام پہلے کرتے رہے ہیں، ان کے برخلاف دوسرے (نیک) عمل کریں ؟ حقیقت یہ ہے کہ یہ لوگ اپنی جانوں کے لیے سخت گھاٹے کا سودا کرچکے ہیں، اور جو (دیوتا) انہوں نے گھڑ رکھے ہیں، انہیں (اس دن) ان کا کہیں سراغ نہیں ملے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

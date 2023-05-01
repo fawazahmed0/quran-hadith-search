@@ -3224,6 +3224,12 @@ un ki aankhe jhuki hoyi hogi, un par zillath cha rahi hogi, ye hai wo din jis ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان کا) حال یہ ہو گا کہ ان کی آنکھیں (شرم اور خوف سے) جھک رہی ہوں گی، ذِلت ان پر چھا رہی ہوگی، یہی ہے وہ دن جس کا ان سے وعدہ کیا جاتا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی نگاہیں جھکی ہوئی ہوں گی، ذلت ان پر چھائی ہوئی ہوگی۔ یہ وہی دن ہوگا جس کا ان سے وعدہ کیا جارہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

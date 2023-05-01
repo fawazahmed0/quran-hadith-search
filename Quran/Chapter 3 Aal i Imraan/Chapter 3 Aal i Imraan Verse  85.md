@@ -3224,6 +3224,12 @@ jo shaqs Islaam ke siva aur deen talaash kare, us ka deen qubool na kiya jayega 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کوئی اسلام کے سوا کسی اور دین کو چاہے گا تو وہ اس سے ہرگز قبول نہیں کیا جائے گا، اور وہ آخرت میں نقصان اٹھانے والوں میں سے ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کوئی شخص اسلام کے سوا کوئی اور دین اختیار کرنا چاہے گا تو اس سے وہ دین قبول نہیں کیا جائے گا، اور آخرت میں وہ ان لوگوں میں شامل ہوگا جو سخت نقصان اٹھانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

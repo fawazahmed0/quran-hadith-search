@@ -3224,6 +3224,12 @@ un logo ne jhutlaya hai, ab un ke paas jaldi se us ki qabre aa jayengi, jis ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو بیشک وہ (حق کو) جھٹلا چکے پس عنقریب انہیں اس امر کی خبریں پہنچ جائیں گی جس کا وہ مذاق اڑایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح انہوں نے حق کو جھٹلا دیا ہے۔ چنانچہ یہ لوگ جن باتوں کا مذاق اڑاتے رہے ہیں، اب عنقریب ان کے ٹھیک ٹھیک حقائق ان کے سامنے آجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

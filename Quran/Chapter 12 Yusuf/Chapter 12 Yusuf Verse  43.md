@@ -3224,6 +3224,12 @@ badshah ne kaha main ne qwaab mein dekha hai ke saath mooti taazi farba gaaye ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ایک روز) بادشاہ نے کہا: میں نے (خواب میں) سات موٹی تازی گائیں دیکھی ہیں، انہیں سات دبلی پتلی گائیں کھا رہی ہیں اور سات سبز خوشے (دیکھے) ہیں اور دوسرے (سات ہی) خشک، اے درباریو! مجھے میرے خواب کا جواب بیان کرو اگر تم خواب کی تعبیر جانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (چند سال بعد مصر کے) بادشاہ نے (اپنے درباریوں سے) کہا کہ : میں (خواب میں) کیا دیکھتا ہوں کہ سات موٹی تازی گائیں ہیں جنہیں سات دبلی پتلی گائیں کھا رہی ہیں، نیز سات خوشے ہرے بھرے ہیں، اور سات اور ہیں جو سوکھے ہوئے ہیں۔ اے درباریو ! اگر تم خواب کی تعبیر دے سکتے ہو تو میرے اس خواب کا مطلب بتاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

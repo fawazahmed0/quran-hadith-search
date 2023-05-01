@@ -3224,6 +3224,12 @@ phir asmaan ki taraf mutawajje hoa aur wo dhua (sa) tha, pas ose aur zameen se f
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر وہ سماوی کائنات کی طرف متوجہ ہوا تو وہ (سب) دھواں تھا، سو اس نے اُسے (یعنی آسمانی کرّوں سے) اور زمین سے فرمایا: خواہ باہم کشش و رغبت سے یا گریزی و ناگواری سے (ہمارے نظام کے تابع) آجاؤ، دونوں نے کہا: ہم خوشی سے حاضر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر وہ آسمان کی طرف متوجہ ہوا جبکہ وہ اس وقت دھویں کی شکل میں تھا اور اس سے اور زمین سے کہا : چلے آؤ چاہے خوشی سے یا زبردستی۔ دونوں نے کہا : ہم خوشی خوشی آتے ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

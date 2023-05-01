@@ -3224,6 +3224,12 @@ phir hum un logo se zaroor puchenge jin ke paas paighambar bheje gaye thein aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب ہم ان لووں سے ضرور باز پرس کریں گے جن کے پاس پیغمبر بھیجے گئے تھے، او ہم خود پیغمبروں سے بھی پوچھیں گے (کہ انہوں نے کیا پیغام پہنچایا، اور انہیں کیا جواب ملا ؟)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

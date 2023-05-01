@@ -3224,6 +3224,12 @@ jo shaqs apne imaan ke baadh Allah se kufr kare bajuz us ke jis par jabar kiya j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص اپنے ایمان لانے کے بعد کفر کرے، سوائے اس کے جسے انتہائی مجبور کر دیا گیا مگر اس کا دل (بدستور) ایمان سے مطمئن ہے، لیکن (ہاں) وہ شخص جس نے (دوبارہ) شرحِ صدر کے ساتھ کفر (اختیار) کیا سو ان پر اللہ کی طرف سے غضب ہے اور ان کے لئے زبردست عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص اللہ پر ایمان لانے کے بعد اس کے ساتھ کفر کا ارتکاب کرے، وہ نہیں جسے زبردستی (کفر کا کلمہ کہنے پر) مجبور کردیا گیا ہو، جبکہ اس کا دل ایمان پر مطمئن ہو، بلکہ وہ شخص جس نے اپنا سینہ کفر کے لیے کھول دیا ہو۔ تو ایسے لوگوں پر اللہ کی طرف سے غضب نازل ہوگا، اور ان کے لیے زبردست عذاب تیار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

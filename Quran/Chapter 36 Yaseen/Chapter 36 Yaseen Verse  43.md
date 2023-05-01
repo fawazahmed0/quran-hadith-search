@@ -3224,6 +3224,12 @@ aur agar hum chaahte, to inhe dubo dete, phir na to koyi un ka faryaadh ras hota
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم چاہیں تو انہیں غرق کر دیں تو نہ ان کے لئے کوئی فریاد رَس ہوگا اور نہ وہ بچائے جاسکیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم چاہیں تو انہیں غرق کر ڈالیں، جس کے بعد نہ تو کوئی ان کی فریاد کو پہنچے اور نہ ان کی جان بچائی جاسکے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

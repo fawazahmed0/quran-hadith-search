@@ -3224,6 +3224,12 @@ aur un logo ne jaisi qadr Allah ta’ala ki karni chahiye thi, nahi ki, saari za
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے اللہ کی قدر و تعظیم نہیں کی جیسے اُس کی قدر و تعظیم کا حق تھا اور ساری کی ساری زمین قیامت کے دن اُس کی مُٹھی میں ہوگی اور سارے آسمانی کرّے اُس کے دائیں ہاتھ (یعنی قبضۂ قدرت) میں لپٹے ہوئے ہوں گے، وہ پاک ہے اور ہر اس چیز سے بلند و برتر ہے جسے یہ لوگ شریک ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں نے اللہ تعالیٰ کی قدر ہی نہیں پہچانی جیسا کہ اس کی قدر پہچاننے کا حق تھا، حالانکہ پوری کی پوری زمین قیامت کے دن اس کی مٹھی میں ہوگی، اور سارے کے سارے آسمان اس کے دائیں ہاتھ میں لپٹے ہوئے ہوں گے۔ وہ پاک ہے اور بہت بالا و برتر اس شرک سے جس کا ارتکاب یہ لوگ کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

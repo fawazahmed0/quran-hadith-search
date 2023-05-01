@@ -3224,6 +3224,12 @@ balke aisi chiz ki takzib karne lage jis ko apne ehaataye ilmi4 mein nahi lae au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ یہ اس (کلامِ الٰہی) کو جھٹلا رہے ہیں جس کے علم کا وہ احاطہ بھی نہیں کرسکے تھے اور ابھی اس کی حقیقت (بھی) ان کے سامنے کھل کر نہ آئی تھی۔ اسی طرح ان لوگوں نے بھی (حق کو) جھٹلایا تھا جو ان سے پہلے ہو گزرے ہیں سو آپ دیکھیں کہ ظالموں کا انجام کیسا ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بات دراصل یہ ہے کہ جس چیز کا احاطہ یہ اپنے علم سے نہیں کرسکے، اسے انہوں نے جھوٹ قرار دے دیا، اور ابھی اس کا انجام بھی ان کے سامنے نہیں آیا اسی طرح جو لوگ ان سے پہلے تھے، انہوں نے (اپنے پیغمبروں کو) جھٹلایا تھا۔ پھر دیکھو کہ ان ظالموں کا انجام کیسا ہوا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

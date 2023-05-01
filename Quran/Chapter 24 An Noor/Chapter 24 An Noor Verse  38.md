@@ -3224,6 +3224,12 @@ us iraade se ke Allah unhe un ke amaal ka behetreen badhla de, balke apne fazl s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اللہ انہیں ان (نیک) اعمال کا بہتر بدلہ دے جو انہوں نے کئے ہیں اور اپنے فضل سے انہیں اور (بھی) زیادہ (عطا) فرما دے، اور اللہ جسے چاہتا ہے بغیر حساب کے رزق (و عطا) سے نوازتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نتیجہ یہ ہے کہ اللہ ان لوگوں کو ان کے اعمال کا بہترین بدلہ دے گا، اور اپنے فضل سے مزید کچھ اور بھی دے گا اور اللہ جس کو چاہتا ہے بےحساب دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

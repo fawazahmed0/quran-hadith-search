@@ -3224,6 +3224,12 @@ jis mein ye hamesha rahenge, na un se azaab halka kiya jayega aur na unhe dheel 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ ہمیشہ اسی (لعنت) میں (گرفتار) رہیں گے، ان پر سے عذاب ہلکا نہیں کیا جائے گا اور نہ ہی انہیں مہلت دی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ہمیشہ اسی پھٹکار میں رہیں گے، نہ ان پر سے عذاب کو ہلکا کیا جائے گا اور نہ ان کو مہلت دی جائے گی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

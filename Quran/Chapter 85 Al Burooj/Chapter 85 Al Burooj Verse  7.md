@@ -3224,6 +3224,12 @@ aur musalmaano ke saath jo kar rahe thein, us ko apne saamne dekh rahe thein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ خود گواہ ہیں جو کچھ وہ اہلِ ایمان کے ساتھ کر رہے تھے (یعنی انہیں آگ میں پھینک پھینک کر جلا رہے تھے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ ایمان والوں کے ساتھ جو کچھ کر رہے تھے، اس کا نظارہ کرتے جاتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

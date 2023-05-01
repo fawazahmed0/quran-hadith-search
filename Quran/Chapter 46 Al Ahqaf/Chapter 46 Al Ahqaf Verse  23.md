@@ -3224,6 +3224,12 @@ hazrath Hoodh(alaihissalaam) ne) kaha (us ka) ilm to Allah hee ke paas hai, main
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا کہ (اس عذاب کے وقت کا) علم تو اللہ ہی کے پاس ہے اور میں تمہیں وہی احکام پہنچا رہا ہوں جو میں دے کر بھیجا گیا ہوں لیکن میں تمہیں دیکھ رہا ہوں کہ تم جاہل لوگ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے فرمایا : ٹھیک ٹھیک علم تو اللہ کے پاس ہے (کہ وہ عذاب کب آئے گا ؟) مجھے جو پیغام دے کر بھیجا گیا ہے میں تو تمہیں وہی پیغام پہنچا رہا ہوں، البتہ میں یہ ضرور دیکھ رہا ہوں کہ تم ایسے لوگ ہو جو نادانی کی باتیں کر رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

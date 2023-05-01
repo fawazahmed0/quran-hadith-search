@@ -3224,6 +3224,12 @@ kya logo ne ye gumaan kar rakha hai un ke sirf is daawe par ke hum imaan laaye h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا لوگ یہ خیال کرتے ہیں کہ (صرف) ان کے (اتنا) کہنے سے کہ ہم ایمان لے آئے ہیں چھوڑ دیئے جائیں گے اور ان کی آزمائش نہ کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا لوگوں نے یہ سمجھ رکھا ہے کہ انہیں یونہی چھوڑ دیا جائے گا کہ بس وہ یہ کہہ دیں کہ : ہم ایمان لے آئے۔ اور ان کو آزمایا نہ جائے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

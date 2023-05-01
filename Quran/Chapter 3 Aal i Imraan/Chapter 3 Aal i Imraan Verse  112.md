@@ -3224,6 +3224,12 @@ un par har jagah zillath ki maar padi, illa ye ke Allah ta’ala ki ya logo ki p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ جہاں کہیں بھی پائے جائیں ان پر ذلّت مسلط کر دی گئی ہے سوائے اس کے کہ انہیں کہیں اللہ کے عہد سے یا لوگوں کے عہد سے (پناہ دے دی جائے) اور وہ اللہ کے غضب کے سزاوار ہوئے ہیں اور ان پر محتاجی مسلط کی گئی ہے، یہ اس لئے کہ وہ اللہ کی آیتوں کا انکار کرتے تھے اور انبیاء کو ناحق قتل کرتے تھے، کیونکہ وہ نافرمان ہو گئے تھے اور (سرکشی میں) حد سے بڑھ گئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جہاں کہیں پائے جائیں، ان پر ذلت کا ٹھپہ لگا دیا گیا ہے، الا یہ کہ اللہ کی طرف سے کوئی سبب پیدا ہوجائے یا انسانوں کی طرف سے کوئی ذریعہ نکل آئے جو ان کو سہارا دیدے، انجام کار وہ اللہ کا غضب لے کر لوٹے ہیں اور ان پر محتاجی مسلط کردی گئی ہے۔ اس کی وجہ یہ ہے وہ اللہ کی آیتوں کا انکار کرتے تھے، اور پیغمبروں کو ناحق قتل کرتے تھے۔ (نیز) اس کی وجہ یہ ہے کہ وہ نافرمانی کرتے تھے، اور ساری حدیں پھلانگ جایا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

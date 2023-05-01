@@ -3224,6 +3224,12 @@ kya wo nahi dekhte? ke hum zameen ko us ke kinaaro se ghataate chale aa rahe hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ نہیں دیکھ رہے کہ ہم (ان کے زیرِ تسلّط) زمین کو ہر طرف سے گھٹاتے چلے جا رہے ہیں (اور ان کے بیشتر علاقے رفتہ رفتہ اسلام کے تابع ہوتے جا رہے ہیں)، اور اللہ ہی حکم فرماتا ہے کوئی بھی اس کے حکم کو ردّ کرنے والا نہیں، اور وہ حساب جلد لینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا ان لوگوں کو یہ حقیقت نظر نہیں آئی کہ ہم ان کی زمین کو چاروں طرف سے گھٹاتے چلے آرہے ہیں ؟ ہر حکم اللہ دیتا ہے، کوئی نہیں ہے جو اس کے حکم کو توڑ سکے، اور وہ جلد حساب لینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

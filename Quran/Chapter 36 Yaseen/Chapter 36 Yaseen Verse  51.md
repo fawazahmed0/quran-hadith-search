@@ -3224,6 +3224,12 @@ to soor ke phuke jaate hee, sab ke sab apni qabro se apne parvardigaar ki taraf 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (جس وقت دوبارہ) صُور پھونکا جائے گا تو وہ فوراً قبروں سے نکل کر اپنے رب کی طرف دوڑ پڑیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور صور پھونکا جائے گا تو یکایک یہ اپنی قبروں سے نکل کر اپنے پروردگار کی طرف تیزی سے روانہ ہوجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

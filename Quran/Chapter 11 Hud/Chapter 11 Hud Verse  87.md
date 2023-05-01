@@ -3224,6 +3224,12 @@ unhone jawaab diya ke aye shoib kya teri salaath tujhe yahi hukm deti hai ke hum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے! اے شعیب! کیا تمہاری نماز تمہیں یہی حکم دیتی ہے کہ ہم ان (معبودوں) کو چھوڑ دیں جن کی پرستش ہمارے باپ دادا کرتے رہے ہیں یا یہ کہ ہم جو کچھ اپنے اموال کے بارے میں چاہیں (نہ) کریں؟ بیشک تم ہی (ایک) بڑے تحمل والے ہدایت یافتہ (رہ گئے) ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہنے لگے : اے شعیب ! کیا تمہاری نماز تمہیں یہ حکم دیتی ہے کہ ہمارے باپ دادا جن کی عبادت کرتے آئے تھے، ہم انہیں بھی چھوڑ دیں اور اپنے مال و دولت کے بارے میں جو کچھ ہم چاہیں، وہ بھی نہ کریں۔ ؟ واقعی تم تو بڑے عقل مند، نیک چلن آدمی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye mere parvardigaar! tu ne mujhe mulk ataa farmaya aur tu ne mujhe qwaab ki ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے رب! بیشک تو نے مجھے سلطنت عطا فرمائی اور تو نے مجھے خوابوں کی تعبیر کے علم سے نوازا، اے آسمانوں اور زمین کے پیدا فرمانے والے! تو دنیا میں (بھی) میرا کارساز ہے اور آخرت میں (بھی)، مجھے حالتِ اسلام پر موت دینا اور مجھے صالح لوگوں کے ساتھ ملا دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرے پروردگار ! تو نے مجھے حکومت سے بھی حصہ عطا فرمایا، اور مجھے تعبیر خواب کے علم سے بھی نوازا۔ آسمانوں اور زمین کے پیدا کرنے والے ! تو ہی دنیا اور آخرت میں میرا رکھوالا ہے۔ مجھے اس حالت میں دنیا سے اٹھانا کہ میں تیرا فرمانبردار ہوں، اور مجھے نیک لوگوں میں شامل کرنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

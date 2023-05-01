@@ -3224,6 +3224,12 @@ main tum mein aur un mein mazbooth hijaab bana deta hoon, mujhe loohe ki chaadar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم مجھے لوہے کے بڑے بڑے ٹکڑے لا دو، یہاں تک کہ جب اس نے دونوں چوٹیوں کے درمیان والے حصے كو برابر کر دیا تو کہنے لگا: (اب آگ لگا کر اسے) دھونکو، یہاں تک کہ جب اس نے اس (لوہے) کو (دھونک دھونک کر) آگ بنا ڈالا تو کہنے لگا: (اب) میرے پاس پگھلا ہوا تانبا لاؤ جو میں اس پر ڈالوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مجھے لوہے کی چادریں لادو، یہاں تک کہ جب انہوں نے (درمیانی خلا کو پاٹ کر) دونوں پہاڑی سروں کو ایک دوسرے سے ملا دیا تو کہا کہ : اب آگ دہکاؤ، یہاں تک کہ جب اس (دیوار) کو لال انگارا کردیا تو کہا کہ : پگھلا ہوا تانبا لاؤ، اب میں اس پر انڈیلوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

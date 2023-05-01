@@ -3224,6 +3224,12 @@ ye Allah ta’ala par aur qayaamath ke din par imaan bhi rakhte hai, bhalaaiyyo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اللہ پر اور آخرت کے دن پر ایمان لاتے ہیں اور بھلائی کا حکم دیتے ہیں اور برائی سے منع کرتے ہیں اور نیک کاموں میں تیزی سے بڑھتے ہیں، اور یہی لوگ نیکوکاروں میں سے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ اللہ پر اور آخرت کے دن پر ایمان رکھتے ہیں، اچھائی کی تلقین کرتے اور برائی سے روکتے ہیں، اور نیک کاموں کی طرف لپکتے ہیں۔ یہ وہ لوگ ہیں جن کا شمار صالحین میں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

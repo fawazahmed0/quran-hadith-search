@@ -3224,6 +3224,12 @@ aur hum Ibraheem(alaihissalaam) aur looth(alaihissalaam) ko bacha kar us zameeen
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم ابراہیم (علیہ السلام) کو اور لوط (علیہ السلام) کو (جو آپ کے بھتیجے یعنی آپ کے بھائی ہاران کے بیٹے تھے) بچا کر (عراق سے) اس سرزمینِ (شام) کی طرف لے گئے جس میں ہم نے جہان والوں کے لئے برکتیں رکھی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم انہیں اور لوط کو بچا کر اس سرزمین کی طرف لے گئے جس میں ہم نے دنیا جہان کے لوگوں کے لیے برکتیں رکھی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

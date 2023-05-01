@@ -3224,6 +3224,12 @@ ab to hum (sab) par hamaare rab ki ye baath saabith ho chuki, ke hum (azaab) cha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ہم پر ہمارے رب کا فرمان ثابت ہوگیا۔ (اب) ہم ذائقۂ (عذاب) چکھنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب تو ہمارے پروردگار کی یہ بات ہم پر ثابت ہوگئی ہے کہ ہم سب کو یہ مزہ چکھنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

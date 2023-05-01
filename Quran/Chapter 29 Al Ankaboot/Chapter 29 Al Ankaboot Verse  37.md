@@ -3224,6 +3224,12 @@ phir bhi unhone unhe jhutlaaya, aaqirash unhe zal zale ne pakad liya aur wo apne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو انہوں نے شعیب (علیہ السلام) کو جھٹلا ڈالا پس انہیں (بھی) زلزلہ (کے عذاب) نے آپکڑا، سو انہوں نے صبح اس حال میں کی کہ اپنے گھروں میں اوندھے منہ (مُردہ) پڑے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ ان لوگوں نے شعیب کو جھٹلایا، چنانچہ زلزلے نے ان کو آپکڑا، اور وہ اپنے گھر میں اوندھے پڑے رہ گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

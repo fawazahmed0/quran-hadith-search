@@ -3224,6 +3224,12 @@ shafa’ath (sifaarish) bhi us ke paas kuch nafa nahi deti, bajuz un ke, jin ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس کی بارگاہ میں شفاعت نفع نہ دے گی سوائے جس کے حق میں اس نے اِذن دیا ہوگا، یہاں تک کہ جب ان کے دلوں سے گھبراہٹ دور کر دی جائے گی تو وہ (سوالاً) کہیں گے کہ تمہارے رب نے کیا فرمایا؟ وہ (جواباً) کہیں گے: 'حق فرمایا' (یعنی اذن دے دیا)، وہی نہایت بلند، بہت بڑا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کے سامنے کوئی سفارش کارآمد نہیں ہے، سوائے اس شخص کے جس کے لیے خود اس نے (سفارش کی) اجازت دے دی ہو، یہاں تک کہ جب ان کے دلوں سے گھبراہٹ دور کردی جاتی ہے تو وہ کہتے ہیں کہ : تمہارے رب نے کیا فرمایا ؟ وہ جواب دیتے ہیں کہ : حق بات ارشاد فرمائی اور وہی ہے جو بڑا عالیشان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

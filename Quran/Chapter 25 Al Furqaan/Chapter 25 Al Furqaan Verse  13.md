@@ -3224,6 +3224,12 @@ aur jab ye jahannam ki kisi tang jageh mein mashke kas kar phek diye jayenge, to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ اس میں کسی تنگ جگہ سے زنجیروں کے ساتھ جکڑے ہوئے (یا اپنے شیطانوں کے ساتھ بندھے ہوئے) ڈالے جائیں گے اس وقت وہ (اپنی) ہلاکت کو پکاریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان کو اچھی طرح باندھ کر اس کی ایک تنگ جگہ میں پھینکا جائے گا تو وہاں یہ موت کی آواز دے کر پکاریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jis waqth do lene waale ja lete hai, ek daayi taraf aur ek baayi taraf baitha ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب دو لینے والے (فرشتے اس کے ہر قول و فعل کو تحریر میں) لے لیتے ہیں (جو) دائیں طرف اور بائیں طرف بیٹھے ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس وقت بھی جب (اعمال کو) لکھنے والے دو فرشتے لکھ رہے ہوتے ہیں۔ ایک دائیں جانب اور دوسرا بائیں جانب بیٹھا ہوتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

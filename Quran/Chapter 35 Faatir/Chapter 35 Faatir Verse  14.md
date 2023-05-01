@@ -3224,6 +3224,12 @@ agar tum unhe pukaaro to wo tumhaari pukaar sunte hee nahi aur agar (bil farz) s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مشرکو!) اگر تم انہیں پکارو تو وہ (بت ہیں) تمہاری پکار نہیں سُن سکتے اور اگر (بالفرض) وہ سُن لیں تو تمہیں جواب نہیں دے سکتے، اور قیامت کے دن وہ تمہارے شِرک کا بالکل انکار کر دیں گے، اور تجھے خدائے باخبر جیسا کوئی خبردار نہ کرے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم ان کو پکارو گے تو وہ تمہاری پکار سنیں گے ہی نہیں، اور اگر سن بھی لیں تو تمہیں کوئی جواب نہیں دے سکیں گے۔ اور قیامت کے دن وہ خود تمہارے شرک کی تردید کریں گے۔ اور جس ذات کو تمام باتوں کی مکمل خبر ہے اس کی برابر تمہیں کوئی اور صحیح بات نہیں بتائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

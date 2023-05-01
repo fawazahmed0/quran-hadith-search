@@ -3224,6 +3224,12 @@ agar ye koi bachao ki jageh ya koi ghaar ya koi bhi sar ghusane ki jageh pale tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان کی کیفیت یہ ہے کہ) اگر وہ کوئی پناہ گاہ یا غار یا سرنگ پا لیں تو انتہائی تیزی سے بھاگتے ہوئے اس کی طرف پلٹ جائیں (اور آپ کے ساتھ ایک لمحہ بھی نہ رہیں مگر اس وقت وہ مجبور ہیں اس لئے جھوٹی وفاداری جتلاتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر ان کو کوئی پناہ گاہ مل جاتی، یا کسی قسم کے غار مل جاتے، یا گھس بیٹھنے کی اور کوئی جگہ، تو یہ بےلگام بھاگ کر ادھر ہی کا رخ کرلیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur kehte hai ke hum Allah ta’ala aur rasool par imaan laaye aur farma-bardaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (لوگ) کہتے ہیں کہ ہم اللہ پر اور رسول (صلی اللہ علیہ وآلہ وسلم) پر ایمان لے آئے ہیں اور اطاعت کرتے ہیں پھر اس (قول) کے بعد ان میں سے ایک گروہ (اپنے اقرار سے) رُوگردانی کرتا ہے، اور یہ لوگ (حقیقت میں) مومن (ہی) نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (منافق) لوگ کہتے ہیں کہ ہم اللہ پر اور رسول پر ایمان لے آئے ہیں، اور ہم فرمانبردار ہوگئے ہیں، پھر ان میں سے ایک گروہ اس کے بعد بھی منہ موڑ لیتا ہے۔ یہ لوگ (حقیقت میں) مومن نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

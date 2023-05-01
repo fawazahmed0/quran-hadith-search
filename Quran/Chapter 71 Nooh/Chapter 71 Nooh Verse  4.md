@@ -3224,6 +3224,12 @@ to wo tumhaare gunaah baqsh dega aur tumhe ek waqth muqarrara tak chohd dega, ya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ تمہارے گناہ بخش دے گا اور تمہیں مقررہ مدت تک مہلت عطا کرے گا، بے شک اللہ کی (مقرر کردہ) مدت جب آجائے تو مہلت نہیں دی جاتی، کاش! تم جانتے ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ تمہارے گناہوں کی مغفرت فرمائے گا، اور تمہیں ایک مقرر وقت تک باقی رکھے گا۔ بیشک جب اللہ کا مقرر کیا ہوا وقت آجاتا ہے تو پھر وہ موخر نہیں ہوتا۔ کاش کہ تم سمجھتے ہوتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

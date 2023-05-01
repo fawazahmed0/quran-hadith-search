@@ -3224,6 +3224,12 @@ hum jab ise padle to aap us ke padne ki pairvi kare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ہم اسے (زبانِ جبریل سے) پڑھ چکیں تو آپ اس پڑھے ہوئے کی پیروی کیا کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب ہم اسے (جبرائیل کے واسطے سے) پڑھ رہے ہوں تو تم اس کے پڑھنے کی پیروی کرو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

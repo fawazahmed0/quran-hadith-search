@@ -3224,6 +3224,12 @@ jab ke munafiq keh rahe thein aur wo bhi jin ke dilo mein roog tha ke unhe tuh u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت بھی یاد کرو) جب منافقین اور وہ لوگ جن کے دل میں (کفر کی) بیماری ہے کہہ رہے تھے کہ ان (مسلمانوں) کو ان کے دین نے بڑا مغرور کر رکھا ہے، (جبکہ حقیقتِ حال یہ ہے کہ) جو کوئی اللہ پر توکل کرتا ہے تو (اللہ اس کے جملہ امور کا کفیل ہو جاتا ہے)، بیشک اللہ بہت غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یاد کرو جب منافقین اور وہ لوگ جن کے دلوں میں روگ تھا، یہ کہہ رہے تھے کہ : ان (مسلمانوں) کو ان کے دین نے دھوکے میں ڈال رکھا ہے، حالانکہ جو کوئی اللہ پر بھروسہ کرے تو اللہ سب پر غالب ہے، بڑی حکمت والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

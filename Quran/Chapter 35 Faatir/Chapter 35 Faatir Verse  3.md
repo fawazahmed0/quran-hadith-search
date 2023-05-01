@@ -3224,6 +3224,12 @@ logo! tum par jo in’aam Allah ta’ala ne kiye hai unhe yaad karo, kya Allah k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! اپنے اوپر اللہ کے انعام کو یاد کرو، کیا اللہ کے سوا کوئی اور خالق ہے جو تمہیں آسمان اور زمین سے روزی دے، اس کے سوا کوئی معبود نہیں، پس تم کہاں بہکے پھرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! یاد کرو ان نعمتوں کو جو اللہ نے تم پر نازل کی ہیں۔ کیا اللہ کے سوا کوئی اور خالق ہے جو تمہیں آسمان اور زمین سے رزق دیتا ہو ؟ اس کے سوا کوئی معبود نہیں ہے۔ پھر آخر تم کہاں اوندھے چلے جارہے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

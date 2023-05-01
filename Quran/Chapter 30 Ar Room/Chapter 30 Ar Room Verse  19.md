@@ -3224,6 +3224,12 @@ Woh zinda mein se murde ko nikalta hai aur murde mein se zinda ko nikal laata ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وُہی مُردہ سے زندہ کو نکالتا ہے اور زندہ سے مُردہ کو نکالتا ہے اور زمین کو اس کی مُردنی کے بعد زندہ و شاداب فرماتا ہے، اور تم (بھی) اسی طرح (قبروں سے) نکالے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جاندار کو بےجان سے نکال لاتا ہے، اور بےجان کو جاندار سے نکال لیتا ہے۔ اور وہ زمین کو اس کے مردہ ہوجانے کے بعد زندگی بخشتا ہے۔ اور اسی طرح تم کو (قبروں سے) نکال لیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

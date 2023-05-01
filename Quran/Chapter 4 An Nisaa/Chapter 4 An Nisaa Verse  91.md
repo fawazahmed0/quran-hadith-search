@@ -3224,6 +3224,12 @@ tum kuch aur logo ko aisa bhi paoge jin ki (ba-zaaher)chaahath hai ke tum se bhi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اب تم کچھ دوسرے لوگوں کو بھی پاؤ گے جو چاہتے ہیں کہ (منافقانہ طریقے سے ایمان ظاہر کرکے) تم سے (بھی) امن میں رہیں اور (پوشیدہ طریقے سے کفر کی موافقت کرکے) اپنی قوم سے (بھی) امن میں رہیں، (مگر ان کی حالت یہ ہے کہ) جب بھی (مسلمانوں کے خلاف) فتنہ انگیزی کی طرف پھیرے جاتے ہیں تو وہ اس میں (اوندھے) کود پڑتے ہیں، سو اگر یہ (لوگ) تم سے (لڑنے سے) کنارہ کش نہ ہوں اور (نہ ہی) تمہاری طرف صلح (کا پیغام) بھیجیں اور (نہ ہی) اپنے ہاتھ (فتنہ انگیزی سے) روکیں تو تم انہیں پکڑ (کر قید کر) لو اور انہیں قتل کر ڈالو جہاں کہیں بھی انہیں پاؤ، اور یہ وہ لوگ ہیں جن پر ہم نے تمہیں کھلا اختیار دیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (منافقین میں) کچھ دوسرے لوگ تمہیں ایسے ملیں گے جو یہ چاہتے ہیں کہ وہ تم سے بھی محفوظ رہیں اور اپنی قوم سے بھی (مگر) جب کبھی ان کو فتنے کی طرف واپس بلایا جائے، وہ اس میں اوندھے منہ جاگرتے ہیں۔ چنانچہ اگر یہ لوگ تم سے (جنگ کرنے سے) علیحدگی اختیار نہ کریں، اور نہ تمہیں امن کی پیشکش کریں اور نہ اپنے ہاتھ روکیں تو ان کو بھی پکڑو، اور جہاں کہیں انہیں پاؤ، انہیں قتل کرو۔ ایسے لوگوں کے خلاف اللہ نے تم کو کھلا کھلا اختیار دے دیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

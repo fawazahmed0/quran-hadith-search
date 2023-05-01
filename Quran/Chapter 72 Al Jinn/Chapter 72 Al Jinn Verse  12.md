@@ -3224,6 +3224,12 @@ aur hum ne samajh liya ke hum Allah ta’ala ko zameen mein har giz aajiz nahi k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے یقین کر لیا ہے کہ ہم اللہ کو ہرگز زمین میں (رہ کر) عاجز نہیں کر سکتے اور نہ ہی (زمین سے) بھاگ کر اسے عاجز کر سکتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : ہم یہ سمجھ چکے ہیں کہ نہ ہم زمین میں اللہ کو عاجز کرسکتے ہیں اور نہ (کہیں اور) بھاگ کر اسے بےبس کرسکتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

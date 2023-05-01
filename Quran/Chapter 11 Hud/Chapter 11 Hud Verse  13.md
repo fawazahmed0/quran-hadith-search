@@ -3224,6 +3224,12 @@ kya ye kehte hai ke is Qur’an ko isi ne ghada hai, jawaab dijiye ke phir tum b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا کفار یہ کہتے ہیں کہ پیغمبر نے اس (قرآن) کو خود گھڑ لیا ہے، فرما دیجئے: تم (بھی) اس جیسی گھڑی ہوئی دس سورتیں لے آؤ اور اللہ کے سوا (اپنی مدد کے لئے) جسے بھی بلا سکتے ہو بلا لو اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا یہ لوگ یوں کہتے ہیں کہ یہ وحی اس (پیغمبر) نے اپنی طرف سے گھڑ لی ہے ؟ (اے پیغمبر ان سے) کہہ دو کہ : پھر تو تم بھی اس جیسی گھڑی ہوئی دس سورتیں بنا لاؤ، اور (اس کام میں مدد کے لیے) اللہ کے سوا جس کسی کو بلا سکو بلا لو، اگر تم سچے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

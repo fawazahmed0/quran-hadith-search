@@ -3224,6 +3224,12 @@ kaun hai jo Allah ta’ala ko acchi tarah qarz de, phir Allah ta’ala us ke liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کون شخص ہے جو اللہ کو قرضِ حسنہ کے طور پر قرض دے تو وہ اس کے لئے اُس (قرض) کو کئی گنا بڑھاتا رہے اور اس کے لئے بڑی عظمت والا اجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کون ہے جو اللہ کو قرض دے ؟ اچھا قرض جس کے نتیجے میں اللہ اسے دینے والے کے لیے کئی گنا بڑھا دے ؟ اور ایسے شخص کو بڑا باعزت اجر ملے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

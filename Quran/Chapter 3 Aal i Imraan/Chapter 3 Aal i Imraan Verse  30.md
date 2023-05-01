@@ -3224,6 +3224,12 @@ jis din har nafs (shaqs) apni ki hoyi nekiyo ko aur apni ki hoyi buraaiyyo ko ma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن ہر جان ہر اس نیکی کو بھی (اپنے سامنے) حاضر پا لے گی جو اس نے کی تھی اور ہر برائی کو بھی جو اس نے کی تھی، تو وہ آرزو کرے گی: کاش! میرے اور اس برائی (یا اس دن) کے درمیان بہت زیادہ فاصلہ ہوتا، اور اللہ تمہیں اپنی ذات (کے غضب) سے ڈراتا ہے، اور اللہ بندوں پر بہت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ دن یاد رکھو جس دن کسی بھی شخص نے نیکی کا جو کام کیا ہوگا، اسے اپنے سامنے موجود پائے گا، اور برائی کا جو کام کیا ہوگا اس کو بھی (اپنے سامنے دیکھ کر) یہ تمنا کرے گا کہ کاش اس کے اور اس کی بدی کے درمیان بہت دور کا فاصلہ ہوتا۔ اور اللہ تمہیں اپنے (عذاب) سے بچاتا ہے، اور اللہ بندوں پر بہت شفقت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

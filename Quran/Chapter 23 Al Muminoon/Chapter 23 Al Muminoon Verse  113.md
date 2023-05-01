@@ -3224,6 +3224,12 @@ wo kahenge ek din ya ek din se bhi kam, ginti ginne waalo se bhi poch li jiye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہیں گے: ہم ایک دن یا دن کا کچھ حصہ ٹھہرے (ہوں گے) آپ اعداد و شمار کرنے والوں سے پوچھ لیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہیں گے کہ : ہم ایک دن یا ایک دن سے بھی کم رہے ہوں گے۔ (ہمیں پوری طرح یاد نہیں) اس لیے جنہوں نے (وقت کی) گنتی کی ہو، ان سے پوچھ لیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

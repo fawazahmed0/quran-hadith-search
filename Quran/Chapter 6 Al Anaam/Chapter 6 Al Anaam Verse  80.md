@@ -3224,6 +3224,12 @@ aur un se un ki khaum ne hujjath10 karna shuro ki, aap ne faramaaya kya tum Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کی قوم ان سے بحث و جدال کرنے لگی (تو) انہوں نے کہا: بھلا تم مجھ سے اللہ کے بارے میں جھگڑتے ہو حالانکہ اس نے مجھے ہدایت فرما دی ہے، اور میں ان (باطل معبودوں) سے نہیں ڈرتا جنہیں تم اس کا شریک ٹھہرا رہے ہو مگر (یہ کہ) میرا رب جو کچھ (ضرر) چاہے (پہنچا سکتا ہے)۔ میرے رب نے ہر چیز کو (اپنے) علم سے احاطہ میں لے رکھا ہے، سو کیا تم نصیحت قبول نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (پھر یہ ہوا کہ) ان کی قوم نے ان سے حجت شروع کردی۔ ابراہیم نے (ان سے) کہا : کیا تم مجھ سے اللہ کے بارے میں حجت کرتے ہو جبکہ اس نے مجھے ہدایت دے دی ہے ؟ اور جن چیزوں کو تم اللہ کے ساتھ شریک مانتے ہو، میں ان سے نہیں ڈرتا (کہ وہ مجھے کوئی نقصان پہنچا دیں گی) الا یہ کہ میرا پروردگار (مجھے) کچھ (نقصان پہنچانا) چاہے (تو وہ ہر حال میں پہنچے گا) میرے پروردگار کا علم ہر چیز کا احاطہ کیے ہوئے ہے۔ کیا تم پھر بھی کوئی نصیحت نہیں مانتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

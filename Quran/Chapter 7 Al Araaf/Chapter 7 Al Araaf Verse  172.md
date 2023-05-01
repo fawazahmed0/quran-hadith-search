@@ -3224,6 +3224,12 @@ aur jab aap ke rab ne aulaad aadam ki posht se un ki aulaad ko nikaala aur un se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے رسول ! لوگوں کو وہ وقت یاد دلاؤ) جب تمہارے پروردگار نے آدم کے بیٹوں کی پشت سے ان کی ساری اولاد کو نکالا تھا، اور ان کو خود اپنے اوپر گواہ بنایا تھا، (اور پوچھا تھا کہ) کیا میں تمہارا رب نہیں ہوں ؟ سب نے جواب دیا تھا کہ : کیوں نہیں ؟ ہم سب اس بات کی گواہی دیتے ہیں۔ (اور یہ اقرار ہم نے اس لیے لیا تھا) تاکہ تم قیامت کے دن یہ نہ کہہ سکو کہ : ہم تو اس بات سے بیخبر تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur un dehatiyo mein se baz aise hai ke jo kuch qarch karte hai us ko jurmana sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان دیہاتی گنواروں میں سے وہ شخص (بھی) ہے جو اس (مال) کو تاوان قرار دیتا ہے جسے وہ (راہِ خدا میں) خرچ کرتا ہے اور تم پر زمانہ کی گردشوں (یعنی مصائب و آلام) کا انتظار کرتا رہتا ہے، (بَلا و مصیبت کی) بری گردش انہی پر ہے، اور اللہ خوب سننے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہی دیہاتیوں میں وہ بھی ہیں جو (اللہ کے نام پر) خرچ کیے ہوئے مال کو ایک تاوان سمجھتے ہیں، اور اس انتظار میں رہتے ہیں کہ تم مسلمانوں پر مصیبتوں کے چکر آپڑیں، (حالانکہ حقیقت یہ ہے کہ) بدترین مصیبت کا چکر تو خود ان پر پڑا ہوا ہے۔ اور اللہ ہر بات سنتا، سب کچھ جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

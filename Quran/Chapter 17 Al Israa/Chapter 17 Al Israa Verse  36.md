@@ -3224,6 +3224,12 @@ jis baath ki tujhe qabar hee na ho, us ke peeche math pad, kyo ke kaan aur aankh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے انسان!) تو اس بات کی پیروی نہ کر جس کا تجھے (صحیح) علم نہیں، بیشک کان اور آنکھ اور دل ان میں سے ہر ایک سے باز پرس ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس بات کا تمہیں یقین نہ ہو، (اسے سچ سمجھ کر) اس کے پیچھے مت پڑو۔ یقین رکھو کہ کان، آنکھ اور دل سب کے بارے میں (تم سے) سوال ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

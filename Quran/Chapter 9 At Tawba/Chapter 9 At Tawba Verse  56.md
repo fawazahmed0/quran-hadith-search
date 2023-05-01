@@ -3224,6 +3224,12 @@ ye Allah ki qasam kha kha kar kehte hai ke ye tumhari jamath ke log hai,halan ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (اس قدر بزدل ہیں کہ) اللہ کی قَسمیں کھاتے ہیں کہ وہ تم ہی میں سے ہیں حالانکہ وہ تم میں سے نہیں لیکن وہ ایسے لوگ ہیں جو (اپنے نفاق کے ظاہر ہونے اور اس کے انجام سے) ڈرتے ہیں (اس لئے وہ بصورتِ تقیہ اپنا مسلمان ہونا ظاہر کرتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اللہ کی قسمیں کھا کر کہتے ہیں کہ وہ تم میں سے ہیں، حالانکہ وہ تم میں سے نہیں ہیں، بلکہ وہ ڈرپوک لوگ ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

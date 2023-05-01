@@ -3224,6 +3224,12 @@ us shaqs se bad kar zalim kaun hai jo Allah ta’ala ki masjido mein Allah ta’
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس شخص سے بڑھ کر کون ظالم ہوگا جو اللہ کی مسجدوں میں اس کے نام کا ذکر کیے جانے سے روک دے اور انہیں ویران کرنے کی کوشش کرے! انہیں ایسا کرنا مناسب نہ تھا کہ مسجدوں میں داخل ہوتے مگر ڈرتے ہوئے، ان کے لئے دنیا میں (بھی) ذلّت ہے اور ان کے لئے آخرت میں (بھی) بڑا عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس شخص سے بڑا ظالم کون ہوگا جو اللہ کی مسجدوں پر اس بات کی بندش لگا دے کہ ان میں اللہ کا نام لیا جائے، اور ان کو ویران کرنے کی کوشش کرے۔ ایسے لوگوں کو یہ حق نہیں پہنچتا کہ وہ ان (مسجدوں) میں داخل ہوں مگر ڈرتے ہوئے۔ ایسے لوگوں کے لیے دنیا میں رسوائی ہے اور انہی کو آخرت میں زبردست عذاب ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

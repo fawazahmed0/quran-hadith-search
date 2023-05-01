@@ -3224,6 +3224,12 @@ jab ke tum un se aur Allah ke siva un ke aur mabudo se kinaara kash ho gaye to a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ان نوجوانوں نے آپس میں کہا:) جب تم ان سے اور ان (جھوٹے معبودوں) سے جنہیں یہ اللہ کے سوا پوجتے ہیں کنارہ کش ہو گئے ہو تو تم (اس) غار میں پناہ لے لو، تمہارا رب تمہارے لئے اپنی رحمت کشادہ فرما دے گا اور تمہارے لئے تمہارے کام میں سہولت مہیا فرما دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ساتھیو) جب تم نے ان لوگوں سے بھی علیحدگی اختیار کرلی ہے اور ان سے بھی جن کی یہ اللہ کو چھوڑ کر عبادت کرتے ہیں تو چلو اب تم اس غار میں پناہ لے لو، تمہارا پروردگار تمہارے لیے اپنا دامن رحمت پھیلا دے گا، اور تمہارے کام میں آسانی کے اسباب مہیا فرمائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

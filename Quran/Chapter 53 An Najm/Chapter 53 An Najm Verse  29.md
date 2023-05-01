@@ -3224,6 +3224,12 @@ to aap us se mu mod le, jo hamaari yaad se mu mode, aur jin ka iraada bajuz zind
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ اپنی توجّہ اس سے ہٹا لیں جو ہماری یاد سے رُوگردانی کرتا ہے اور سوائے دنیوی زندگی کے اور کوئی مقصد نہیں رکھتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) تم ایسے آدمی کی فکر نہ کرو جس نے ہماری نصیحت سے منہ موڑ لیا ہے، اور دنیوی زندگی کے سوا وہ کچھ اور چاہتا ہی نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

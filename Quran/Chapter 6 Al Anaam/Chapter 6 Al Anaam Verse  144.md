@@ -3224,6 +3224,12 @@ aur oont mein do qism aur gaaye mein do qism, aap kahiye ke Allah ta’ala ne un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور دو (نر اور مادہ) اونٹ سے اور دو (نر اور مادہ) گائے سے۔ (آپ ان سے) فرما دیجیے: کیا اُس نے دونوں نر حرام کیے ہیں یا دونوں مادہ یا وہ (بچہ) جو دونوں ماداؤں کے رحموں میں موجود ہے؟ کیا تم اُس وقت موجود تھے جب اللہ نے تمہیں اِس (حرمت) کا حکم دیا تھا؟ پھر اُس سے بڑھ کر ظالم کون ہو سکتا ہے جو اللہ پر جھوٹا بہتان باندھتا ہے تاکہ لوگوں کو بغیر جانے گمراہ کرتا پھرے؟ بے شک اللہ ظالم قوم کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی طرح اونٹوں کی بھی دو صنفیں (نر اور مادہ اللہ نے) پیدا کی ہیں، اور گائے کی بھی دو صنفیں۔ ان سے کہو کہ : کیا دونوں نروں کو اللہ نے حرام کیا ہے، یا دونوں مادہ کو ؟ یا ہر اس بچے کو جو دونوں نسلوں کی مادہ کے پیٹ میں موجود ہو ؟ کیا تم اس وقت خود حاضر تھے جب اللہ نے تمہیں اس کا حکم دیا تھا ؟ (اگر نہیں، اور یقینا نہیں) تو پھر اس شخص سے بڑھ کر ظالم کون ہوگا جو اللہ پر اس لیے جھوٹ باندھے تاکہ کسی علمی بنیاد کے بغیر لوگوں کو گمراہ کرسکے ؟ حقیقت یہ ہے کہ اللہ ظالم لوگوں کو ہدایت تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

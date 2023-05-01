@@ -3224,6 +3224,12 @@ aur wo apne qayaal par ye bhi kehte hai ke ye kuch maweshi hai aur kheth hai jin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اپنے خیالِ (باطل) سے (یہ بھی) کہتے ہیں کہ یہ (مخصوص) مویشی اور کھیتی ممنوع ہے، اسے کوئی نہیں کھا سکتا سوائے اس کے جسے ہم چاہیں اور (یہ کہ بعض) چوپائے ایسے ہیں جن کی پیٹھ (پر سواری) کو حرام کیا گیا ہے اور (بعض) مویشی ایسے ہیں کہ جن پر (ذبح کے وقت) یہ لوگ اللہ کا نام نہیں لیتے (یہ سب) اللہ پر بہتان باندھنا ہے، عنقریب وہ انہیں (اس بات کی) سزا دے گا جو وہ بہتان باندھتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یوں کہتے ہیں کہ : ان چوپایوں اور کھیتیوں پر پابندی لگی ہوئی ہے۔ ان کا زعم یہ ہے کہ : ان کو سوائے ان لوگوں کے کوئی نہیں کھا سکتا جنہیں ہم کھلانا چاہیں۔ ۔ اور کچھ چوپائے ایسے ہیں جن کی پشت حرام قرار دی گئی ہے، اور کچھ چوپائے وہ ہیں جن کے بارے میں اللہ پر یہ بہتان باندھتے ہیں کہ ان پر اللہ کا نام نہیں لیتے۔ جو افترا پردازی یہ لوگ کر رہے ہیں، اللہ انہیں عنقریب اس کا پورا پورا بدلہ دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

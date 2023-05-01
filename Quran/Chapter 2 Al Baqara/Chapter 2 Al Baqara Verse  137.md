@@ -3224,6 +3224,12 @@ agar wo tum jaisa imaan laaye, to hidaayath paaye, aur agar mu mode to wo sarih 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر وہ (بھی) اسی طرح ایمان لائیں جیسے تم اس پر ایمان لائے ہو تو وہ (واقعی) ہدایت پا جائیں گے، اور اگر وہ منہ پھیر لیں تو (سمجھ لیں کہ) وہ محض مخالفت میں ہیں، پس اب اللہ آپ کو ان (کے شر) سے بچانے کے لیے کافی ہوگا، اور وہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے بعد اگر یہ لوگ بھی اسی طرح ایمان لے آئیں جیسے تم ایمان لائے ہو تو یہ راہ راست پر آجائیں گے۔ اور اگر یہ منہ موڑ لیں تو درحقیقت وہ دشمنی میں پڑگئے ہیں۔ اب اللہ تمہاری حمایت میں عنقریب ان سے نمٹ لے گا، اور وہ ہر بات سننے والا، ہر بات جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

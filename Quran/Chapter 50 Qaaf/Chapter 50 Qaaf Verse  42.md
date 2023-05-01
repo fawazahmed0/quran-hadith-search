@@ -3224,6 +3224,12 @@ jis roz us tandh wa tez cheeq ko yaqeen ke saath sun lenge, ye din hoga nikalne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن لوگ سخت چنگھاڑ کی آواز کو بالیقین سنیں گے، یہی قبروں سے نکلنے کا دن ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن لوگ سچ مچ اس پکار کی آواز سنیں گے، وہ قبروں سے نکلنے کا دن ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

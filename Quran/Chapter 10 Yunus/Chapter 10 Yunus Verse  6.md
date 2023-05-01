@@ -3224,6 +3224,12 @@ bila shuba rath aur din ke yeke badh digare ane mein aur Allah tala ne jo kuch a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک رات اور دن کے بدلتے رہنے میں اور ان (جملہ) چیزوں میں جو اللہ نے آسمانوں اور زمین میں پیدا فرمائی ہیں (اسی طرح) ان لوگوں کے لئے نشانیاں ہیں جو تقوٰی رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ رات دن کے آگے پیچھے آنے میں اور اللہ نے آسمانوں اور زمین میں جو کچھ پیدا کیا ہے، اس میں ان لوگوں کے لیے بڑی نشانیاں ہیں جن کے دل میں خدا کا خوف ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

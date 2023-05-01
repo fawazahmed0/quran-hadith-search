@@ -3224,6 +3224,12 @@ Allah ta’ala farmayega fi l waaqe tum wahaa bahuth hee kam rahe ho, aye kaash 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ارشاد ہوگا: تم (وہاں) نہیں ٹھہرے مگر بہت ہی تھوڑا عرصہ، کاش! تم (یہ بات وہیں) جانتے ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ فرمائے گا : تم تھوڑی مدت سے زیادہ نہیں رہے۔ کیا خوب ہوتا اگر یہ بات تم نے (اس وقت) سمجھ لی ہوتی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

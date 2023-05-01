@@ -3224,6 +3224,12 @@ jis din har shaqs apni zaath ke liye ladta jhagadta aaye aur har shaqs ko us ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ دن (یاد کریں) جب ہر شخص محض اپنی جان کی طرف سے (دفاع کے لئے) جھگڑتا ہوا حاضر ہوگا اور ہر جان کو جو کچھ اس نے کیا ہوگا اس کا پورا پورا بدلہ دیا جائے گا اور ان پر کوئی ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ اس دن ہوگا جب ہر شخص اپنے دفاع کی باتیں کرتا ہوا آئے گا اور ہر ہر شخص کو اس کے سارے اعمال کا پورا پورا بدلہ دیا جائے گا اور لوگوں پر کوئی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

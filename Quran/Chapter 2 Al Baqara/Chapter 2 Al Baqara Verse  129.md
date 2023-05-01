@@ -3224,6 +3224,12 @@ aye hamaare rab! un mein unhee mein se rasool bhej, jo un ke paas teri aayate pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! ان میں انہی میں سے (وہ آخری اور برگزیدہ) رسول (صلی اللہ علیہ وآلہ وسلم) مبعوث فرما جو ان پر تیری آیتیں تلاوت فرمائے اور انہیں کتاب اور حکمت کی تعلیم دے (کر دانائے راز بنا دے) اور ان (کے نفوس و قلوب) کو خوب پاک صاف کر دے، بیشک تو ہی غالب حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہمارے پروردگار ! ان میں ایک ایسا رسول بھی بھیجنا جو انہی میں سے ہو، جو ان کے سامنے تیری آیتوں کی تلاوت کرے، انہیں کتاب اور حکمت کی تعلیم دے، اور ان کو پاکیزہ بنائے۔ بیشک تیری اور صرف تیری ذات وہ ہے جس کا اقتدار بھی کامل ہے، جس کی حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

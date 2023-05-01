@@ -3224,6 +3224,12 @@ kya un logo ne Allah ta’ala ke siva auro ko sifaarishi muqarrar kar rakha hai?
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے اللہ کے اِذن کے خلاف (بتوں کو) سفارشی بنا رکھا ہے؟ فرما دیجئے: اگرچہ وہ کسی چیز کے مالک بھی نہ ہوں اور ذی عقل بھی نہ ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان لوگوں نے اللہ (کی اجازت) کے بغیر کچھ سفارشی گھڑ رکھے ہیں ؟ (ان سے) کہو کہ : چاہے یہ نہ کوئی اختیار رکھتے ہوں، نہ کچھ سمجھتے ہوں (پھر بھی تم انہیں سفارشی مانتے رہو گے ؟)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

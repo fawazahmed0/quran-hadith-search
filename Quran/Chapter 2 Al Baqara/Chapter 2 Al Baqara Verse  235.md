@@ -3224,6 +3224,12 @@ tum par is mein koyi gunaah nahi ke tum ishaaratan kinaayatan61 un aurto se nika
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم پر اس بات میں کوئی گناہ نہیں کہ (دورانِ عدت بھی) ان عورتوں کو اشارۃً نکاح کا پیغام دے دو یا (یہ خیال) اپنے دلوں میں چھپا رکھو، اللہ جانتا ہے کہ تم عنقریب ان سے ذکر کرو گے مگر ان سے خفیہ طور پر بھی (ایسا) وعدہ نہ لو سوائے اس کے کہ تم فقط شریعت کی (رُو سے کنایۃً) معروف بات کہہ دو، اور (اس دوران) عقدِ نکاح کا پختہ عزم نہ کرو یہاں تک کہ مقررہ عدت اپنی انتہا کو پہنچ جائے، اور جان لو کہ اللہ تمہارے دلوں کی بات کو بھی جانتا ہے تو اس سے ڈرتے رہا کرو، اور (یہ بھی) جان لو کہ اللہ بڑا بخشنے والا بڑا حلم والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (عدت کے دوران) اگر تم ان عورتوں کو اشارے کنائے میں نکاح کا پیغام دو یا (ان سے نکاح کا ارادہ) دل میں چھپائے رکھو تو تم پر کوئی گناہ نہیں ہے، اللہ جانتا ہے کہ تم ان (سے نکاح) کا خیال تو دل میں لاؤ گے، لیکن ان سے نکاح کا دو طرفہ وعدہ مت کرنا، الا یہ کہ مناسب طریقے سے کوئی بات کہہ دو اور نکاح کا عقد پکا کرنے کا اس وقت تک ارادہ بھی مت کرنا جب تک عدت کی مقررہ مدت اپنی میعاد کو نہ پہنچ جائے، اور یاد رکھو کہ جو کچھ تمہارے دلوں میں ہے اللہ اسے خوب جانتا ہے، لہذا اس سے ڈرتے رہو، اور یاد کھو کہ اللہ بہت بخشنے والا بڑا بردبار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

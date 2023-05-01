@@ -3224,6 +3224,12 @@ lekin shaitaan ne ose aise was-wasa daala, kehne laga ke kya main tujhe dayimi z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس شیطان نے انہیں (ایک) خیال دلا دیا وہ کہنے لگا: اے آدم! کیا میں تمہیں (قربِ الٰہی کی جنت میں) دائمی زندگی بسر کرنے کا درخت بتا دوں اور (ایسی ملکوتی) بادشاہت (کا راز) بھی جسے نہ زوال آئے گا نہ فنا ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر شیطان نے ان کے دل میں وسوسہ ڈالا۔ کہنے لگا : اے آدم ! کیا میں تمہیں ایک ایسا درخت بتاؤں جس سے جاودانی زندگی اور وہ بادشاہی حاصل ہوجاتی ہے جو کبھی پرانی نہیں پڑتی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne samoodh ki taraf un ke bhai Saaleh (alaihissalaam) ko bheja, unhone f
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ثمود کی طرف ہم نے ان کے بھائی صالح کو بھیجا۔ انہوں نے کہا : اے میری قوم کے لوگو ! اللہ کی عبادت کرو۔ اس کے سوا تمہارا کوئی معبود نہیں ہے۔ تمہارے پاس تمہارے رب کی طرف سے ایک روشن دلیل آچکی ہے۔ یہ اللہ کی اونٹنی ہے جو تمہارے لیے ایک نشانی بن کر آئی ہے۔ اس لیے اس کو آزاد چھوڑ دو کہ وہ اللہ کی زمین میں چرتی پھرے اور اسے کسی برائی کے ارادے سے چھونا بھی نہیں، کہیں ایسا نہ ہو کہ تمہیں ایک دکھ دینے والا عذاب آپکڑے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

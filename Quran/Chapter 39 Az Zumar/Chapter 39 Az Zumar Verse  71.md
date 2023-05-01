@@ -3224,6 +3224,12 @@ kaafiro ke ghaul ke ghaul jahannam ki taraf hankaaye jayenge, jab wo us ke paas 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے کفر کیا ہے وہ دوزخ کی طرف گروہ درگروہ ہانکے جائیں گے، یہاں تک کہ جب وہ اُس (جہنم) کے پاس پہنچیں گے تو اُس کے دروازے کھول دیئے جائیں گے اور اس کے داروغے اُن سے کہیں گے: کیا تمہارے پاس تم ہی میں سے رسول نہیں آئے تھے جو تم پر تمہارے رب کی آیات پڑھ کر سناتے تھے اور تمہیں اِس دن کی پیشی سے ڈراتے تھے؟ وہ (دوزخی) کہیں گے: ہاں (آئے تھے)، لیکن کافروں پر فرمانِ عذاب ثابت ہو چکا ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنایا تھا انہیں جہنم کی طرف گروہوں کی شکل میں ہانکا جائے گا، یہاں تک کہ جب وہ اس کے پاس پہنچ جائیں گے تو اس کے دروازے کھولے جائیں گے اور اس کے محافظ ان سے کہیں گے کہ کیا تمہارے پاس تمہارے اپنے لوگوں میں سے پیغمبر نہیں آئے تھے جو تمہیں تمہارے رب کی آیتیں پڑھ کر سناتے ہوں، اور تمہیں اس دن کا سامنا کرنے سے خبر دار کرتے ہوں ؟ وہ کہیں گے کہ بیشک آئے تھے، لیکن عذاب کی بات کافروں پر سچی ہو کر رہی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

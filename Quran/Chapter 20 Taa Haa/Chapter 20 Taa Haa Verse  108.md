@@ -3224,6 +3224,12 @@ jis din log pukaarne waale ke piche chalenge, jis mein koyi kaji na hogi aur All
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس دن لوگ پکارنے والے کے پیچھے چلتے جائیں گے اس (کے پیچھے چلنے) میں کوئی کجی نہیں ہوگی، اور (خدائے) رحمان کے جلال سے سب آوازیں پست ہوجائیں گی پس تم ہلکی سی آہٹ کے سوا کچھ نہ سنوگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان دن سب کے سب منادی کے پیچھے اس طرح چلے آئیں گے کہ اس کے سامنے کوئی ٹیڑھ نہیں دکھا سکیں گے۔ اور خدائے رحمن کے آگے تمام آوازیں دب کر رہ جائیں گی، چنانچہ تمہیں پاؤں کی سرسراہٹ کے سوا کچھ سنائی نہیں دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

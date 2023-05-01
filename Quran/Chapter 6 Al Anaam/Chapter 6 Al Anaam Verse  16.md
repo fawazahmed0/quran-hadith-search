@@ -3224,6 +3224,12 @@ jis shaqs se us roz wo azaab hata diya jaaye to us par Allah ne bada rahem kiya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس دن جس شخص سے وہ (عذاب) پھیر دیا گیا تو بیشک (اللہ نے) اس پر رحم فرمایا، اور یہی (اُخروی بخشش) کھلی کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس کسی شخص سے اس دن وہ عذاب ہٹا دیا گیا، اس پر اللہ نے بڑا رحم کیا، اور یہی واضح کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

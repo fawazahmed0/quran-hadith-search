@@ -3224,6 +3224,12 @@ aur jo log hamaari aayato ki takzeeb karte hai wo to tarah tarah ki zulmato mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے ہماری آیتوں کو جھٹلایا وہ بہرے اور گونگے ہیں، تاریکیوں میں (بھٹک رہے) ہیں۔ اللہ جسے چاہتا ہے اسے (انکارِ حق اور ضد کے باعث) گمراہ کردیتا ہے، اور جسے چاہتا ہے اسے (قبولِ حق کے باعث) سیدھی راہ پر لگا دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ہے وہ اندھیروں میں بھٹکتے بھٹکتے بہرے اور گونگے ہوچکے ہیں۔ اللہ جسے چاہتا ہے، (اس کی ہٹ دھرمی کی وجہ سے) گمراہی میں ڈال دیتا ہے، اور جسے چاہتا ہے سیدھی راہ پر لگا دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

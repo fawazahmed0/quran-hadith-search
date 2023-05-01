@@ -3224,6 +3224,12 @@ Allah ta’ala jo rehmath logo ke liye khol de, so us ka koyi bandh karne waala 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ انسانوں کے لئے (اپنے خزانۂ) رحمت سے جو کچھ کھول دے تو اسے کوئی روکنے والا نہیں ہے، اور جو روک لے تو اس کے بعد کوئی اسے چھوڑنے والا نہیں، اور وہی غالب ہے بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس رحمت کو اللہ لوگوں کے لیے کھول دے، کوئی نہیں ہے جو اسے روک سکے اور جسے وہ روک لے تو کوئی نہیں ہے جو اس کے بعد اسے چھڑا سکے۔ اور وہی ہے جو اقتدار کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

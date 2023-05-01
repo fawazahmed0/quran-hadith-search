@@ -3224,6 +3224,12 @@ Moosa ne jawab diya “us waqt woh kaam maine nadanishtagi (inadvertently) mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) فرمایا: جب میں نے وہ کام کیا میں بے خبر تھا (کہ کیا ایک گھونسے سے اس کی موت بھی واقع ہو سکتی ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : اس وقت وہ کام میں ایسی حالت میں کر گزرا تھا کہ مجھے پتہ نہیں تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ koyi nafs nahi jaanta, jo kuch hum ne un ki aankho ki thandak un ke liye pushida
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کسی کو معلوم نہیں جو آنکھوں کی ٹھنڈک ان کے لئے پوشیدہ رکھی گئی ہے، یہ ان (اَعمالِ صالحہ) کا بدلہ ہوگا جو وہ کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ کسی متنفس کو کچھ پتہ نہیں ہے کہ ایسے لوگوں کے لیے آنکھوں کی ٹھنڈک کا کیا سامان ان کے اعمال کے بدلے میں چھپا کر رکھا گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

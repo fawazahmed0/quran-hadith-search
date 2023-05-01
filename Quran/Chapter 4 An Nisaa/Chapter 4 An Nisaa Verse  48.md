@@ -3224,6 +3224,12 @@ yaqinan Allah ta’ala apne saath shareek kiye jaane ko nahi baqshta aur us ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ اِس بات کو نہیں بخشتا کہ اس کے ساتھ شرک کیا جائے اور اس سے کم تر (جو گناہ بھی ہو) جس کے لئے چاہتا ہے بخش دیتا ہے، اور جس نے اللہ کے ساتھ شرک کیا اس نے واقعۃً زبردست گناہ کا بہتان باندھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک اللہ اس بات کو معاف نہیں کرتا کہ اس کے ساتھ کسی کو شریک ٹھہرایا جائے، اور اس سے کمتر ہر بات کو جس کے لیے چاہتا ہے معاف کردیتا ہے۔ اور جو شخص اللہ کے ساتھ کسی کو شریک ٹھہراتا ہے وہ ایسا بہتان باندھتا ہے جو بڑا زبردست گناہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur us ne zameen mein pahaad gaad diye hai ta ke tumhe le kar hale na aur nehre 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی نے زمین میں (مختلف مادوں کو باہم ملا کر) بھاری پہاڑ بنا دیئے تاکہ ایسا نہ ہو کہ کہیں وہ (اپنے مدار میں حرکت کرتے ہوئے) تمہیں لے کر کانپنے لگے اور نہریں اور (قدرتی) راستے (بھی) بنائے تاکہ تم (منزلوں تک پہنچنے کے لئے) راہ پا سکو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس نے زمین میں پہاڑوں کے لنگڑ ڈال دیے ہیں تاکہ وہ تم کو لے کر ڈگمگائے نہیں، اور دریا اور راستے بنائے ہیں تاکہ تم منزل مقصود تک پہنچ سکو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tum mujhe ye daawath de rahe ho ke main Allah ke saath kufr karo aur us ke saath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم مجھے (یہ) دعوت دیتے ہو کہ میں اللہ کے ساتھ کفر کروں اور اس کے ساتھ اس چیز کو شریک ٹھہراؤں جس کا مجھے کچھ علم بھی نہیں اور میں تمہیں خدائے غالب کی طرف بلاتا ہوں جو بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم مجھے یہ دعوت دے رہے ہو کہ اللہ کا انکار کروں، اور اس کے ساتھ ایسی چیزوں کو شریک مانوں جن کے بارے میں مجھے کوئی علم نہیں ہے۔ اور میں تمہیں اس ذات کی طرف بلا رہا ہوں جو بڑی صاحب اقتدار، بہت بخشنے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

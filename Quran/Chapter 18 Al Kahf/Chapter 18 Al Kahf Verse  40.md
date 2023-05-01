@@ -3224,6 +3224,12 @@ bahuth mumkin hai ke mera rub mujhe tere us baagh se bhi behtar de aur us par aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کچھ بعید نہیں کہ میرا رب مجھے تیرے باغ سے بہتر عطا فرمائے اور اس (باغ) پر آسمان سے کوئی عذاب بھیج دے پھر وہ چٹیل چکنی زمین بن جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو میرے رب سے کچھ بعید نہیں ہے کہ وہ مجھے تمہارے باغ سے بہتر چیز عطا فرمادے، اور تمہارے اس باغ پر کوئی آسمانی آفت بھیج دے، جس سے وہ چکنے میدان میں تبدیل ہو کر رہ جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

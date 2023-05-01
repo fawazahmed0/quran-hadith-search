@@ -3224,6 +3224,12 @@ aur jo log momin mardho aur momin aurto ko eza de, baghair kisi jurm ke, jo un s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ مومِن مَردوں اور مومِن عورتوں کو اذیتّ دیتے ہیں بغیر اِس کے کہ انہوں نے کچھ (خطا) کی ہو تو بیشک انہوں نے بہتان اور کھلے گناہ کا بوجھ (اپنے سَر) لے لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ مومن مردوں اور مومن عورتوں کو ان کے کسی جرم کے بغیر تکلیف پہنچاتے ہیں، انہوں نے بہتان طرازی اور کھلے گناہ کا بوجھ اپنے اوپر لاد لیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

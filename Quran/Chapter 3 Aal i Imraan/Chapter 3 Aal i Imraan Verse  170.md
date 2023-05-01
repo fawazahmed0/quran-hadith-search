@@ -3224,6 +3224,12 @@ Allah ta’ala ne apna fazl jo unhe de rakha hai us se bahuth khush hai aur khus
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (حیاتِ جاودانی کی) ان (نعمتوں) پر فرحاں و شاداں رہتے ہیں جو اللہ نے انہیں اپنے فضل سے عطا فرما رکھی ہیں اور اپنے ان پچھلوں سے بھی جو (تاحال) ان سے نہیں مل سکے (انہیں ایمان اور طاعت کی راہ پر دیکھ کر) خوش ہوتے ہیں کہ ان پر بھی نہ کوئی خوف ہو گا اور نہ وہ رنجیدہ ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے ان کو اپنے فضل سے جو کچھ دیا ہے وہ اس پر مگن ہیں، اور ان کے پیچھے جو لوگ ابھی ان کے ساتھ (شہادت میں) شامل نہیں ہوئے، ان کے بارے میں اس بات پر بھی خوشی مناتے ہیں کہ (جب وہ ان سے آکر ملیں گے تو) نہ ان پر کوئی خوف ہوگا اور نہ وہ غمگین ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

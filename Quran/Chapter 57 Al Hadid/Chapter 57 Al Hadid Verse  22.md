@@ -3224,6 +3224,12 @@ na koyi musibath dunya mein aati hai na(qaas) tumhaari jaano mein, magar us se p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کوئی بھی مصیبت نہ تو زمین میں پہنچتی ہے اور نہ تمہاری زندگیوں میں مگر وہ ایک کتاب میں (یعنی لوحِ محفوظ میں جو اللہ کے علمِ قدیم کا مرتبہ ہے) اس سے قبل کہ ہم اسے پیدا کریں (موجود) ہوتی ہے، بیشک یہ (علمِ محیط و کامل) اللہ پر بہت ہی آسان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کوئی مصیبت ایسی نہیں ہے جو زمین میں نازل ہوتی یا تمہاری جانوں کو لاحق ہوتی ہو، مگر وہ ایک کتاب میں اس وقت سے درج ہے جب ہم نے ان جانوں کو پیدا بھی نہیں کیا تھا، یقین جانو یہ بات اللہ کے لیے بہت آسان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo mera bhi waaris ho aur yaqub(alaihissalaam) ke qaandaan ka bhi jaanasheen aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو (آسمانی نعمت میں) میرا (بھی) وارث بنے اور یعقوب (علیہ السلام) کی اولاد (کے سلسلۂ نبوت) کا (بھی) وارث ہو، اور اے میرے رب! تو (بھی) اسے اپنی رضا کا حامل بنا لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو میرا بھی وارث ہو، اور یعقوب (علیہ السلام) کی اولاد سے بھی میراث پائے۔ اور یا رب ! اسے ایسا بنایے جو (خود آپ کا) پسندیدہ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

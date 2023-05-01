@@ -3224,6 +3224,12 @@ ye sab (intezamaath) is wajeh se hai ke Allah ta’ala haq hai aur us ke siva ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس لئے کہ اللہ ہی حق ہے اور جن کی یہ لوگ اللہ کے سوا عبادت کرتے ہیں، وہ باطل ہیں اور یہ کہ اللہ ہی بلند و بالا، بڑائی والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ اس لیے ہے کہ اللہ ہی کا وجود سچا ہے، اور اس کے سوا جن (معبودوں) کو یہ (مشرک) پکارتے ہیں، وہ بےبنیاد ہیں، اور اللہ ہی وہ ہے جس کی شان بہت اونچی ہے، جس کی ذات بہت بڑی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

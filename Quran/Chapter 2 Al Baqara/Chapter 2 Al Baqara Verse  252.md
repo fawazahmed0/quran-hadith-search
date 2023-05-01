@@ -3224,6 +3224,12 @@ ye Allah ta’ala ki aayate hai jinhe hum haqqaaniyath ke saath aap par padte ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اللہ کی آیتیں ہیں ہم انہیں (اے حبیب!) آپ پر سچائی کے ساتھ پڑھتے ہیں، اور بیشک آپ رسولوں میں سے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اللہ کی آیات ہیں جو ہم آپ کے سامنے ٹھیک ٹھیک پڑھ کر سناتے ہیں، اور آپ بیشک ان پیغمبروں میں سے ہیں جو رسول بنا کر بھیجے گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

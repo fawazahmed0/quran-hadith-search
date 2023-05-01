@@ -3224,6 +3224,12 @@ aur us se pehle tumhaare paas (hazrath) Yousuf(alaihissalaam) dalile le kar aaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے اہلِ مصر!) بے شک تمہارے پاس اس سے پہلے یوسف (علیہ السلام) واضح نشانیوں کے ساتھ آچکے اور تم ہمیشہ ان (نشانیوں) کے بارے میں شک میں (پڑے) رہے جو وہ تمہارے پاس لائے تھے، یہاں تک کہ جب وہ وفات پا گئے تو تم کہنے لگے کہ اب اللہ ان کے بعد ہرگز کسی رسول کو نہیں بھیجے گا۔ اسی طرح اللہ اس شخص کو گمراہ ٹھہرا دیتا ہے جو حد سے گزرنے والا شک کرنے والا ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ اس سے پہلے یوسف (علیہ السلام) تمہارے پاس روشن دلیلیں لے کر آئے تھے تب بھی تم ان کی لائی ہوئی باتوں کے متعلق شک میں پڑے رہے۔ پھر جب وہ وفات پا گئے تو تم نے کہا کہ ان کے بعد اللہ اب کوئی پیغمبر نہیں بھیجے گا ۔ اسی طرح اللہ ان تمام لوگوں کو گمراہی میں ڈالے رکھتا ہے جو حد سے گذرے ہوئے، شکی ہوتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye meri qaum ke logo ab tum apni jageh amal kiye jao, main bhi amal kar raha ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اے میری قوم! تم اپنی جگہ کام کرتے رہو میں اپنا کام کر رہا ہوں۔ تم عنقریب جان لوگے کہ کس پر وہ عذاب آپہنچتا ہے جو رسوا کر ڈالے گا اور کون ہے جو جھوٹا ہے، اور تم بھی انتظار کرتے رہو اور میں (بھی) تمہارے ساتھ منتظر ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے میری قوم ! تم اپنے حال پر رہ کر (جو چاہو) عمل کیے جاؤ، میں بھی (اپنے طریقے کے مطابق) عمل کر رہا ہوں۔ عنقریب تمہیں پتہ چل جائے گا کہ کس پر وہ عذاب نازل ہوگا جو اسے رسوا کر کے رکھ دے گا، اور کون ہے جو جھوٹا ہے ؟ اور تم بھی انتظار کرو، میں بھی تمہارے ساتھ انتظار کر رہا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

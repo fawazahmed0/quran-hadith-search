@@ -3224,6 +3224,12 @@ beshak us mein yaqinan nishaani hai aur un mein ke aksar log momin nahi hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اس میں ضرور (قدرتِ الٰہیہ کی) نشانی ہے اور ان میں سے اکثر لوگ ایمان لانے والے نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا ان سب چیزوں میں عبرت کا بڑا سامان ہے، پھر بھی ان میں سے اکثر لوگ ایمان نہیں لاتے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

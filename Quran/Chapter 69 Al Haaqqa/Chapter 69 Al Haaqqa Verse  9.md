@@ -3224,6 +3224,12 @@ feraun aur us se pehle ke log aur jin ki bastiyaa ulatdi gayi, unhone ne bhi qat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرعون اور جو اُس سے پہلے تھے اور (قومِ لوط کی) اُلٹی ہوئی بستیوں (کے باشندوں) نے بڑی خطائیں کی تھیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور فرعون اور اس سے پہلے کے لوگوں نے اور (لوط (علیہ السلام) کی) الٹی ہوئی بستیوں نے بھی اسی جرم کا ارتکاب کیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

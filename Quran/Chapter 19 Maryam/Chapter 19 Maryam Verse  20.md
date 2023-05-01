@@ -3224,6 +3224,12 @@ kehne lagi, bhala mere haan baccha kaise ho sakta hain? mujhe to kisi insaan ka 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(مریم علیہا السلام نے) کہا: میرے ہاں لڑکا کیسے ہوسکتا ہے جبکہ مجھے کسی انسان نے چھوا تک نہیں اور نہ ہی میں بدکار ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مریم نے کہا : میرے لڑکا کیسے ہوجائے گا، جبکہ مجھے کسی بشر نے چھوا تک نہیں ہے، اور نہ میں کوئی بدکار عورت ہوں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

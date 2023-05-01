@@ -3224,6 +3224,12 @@ aur apna haath khinch nikala, to wo bhi osi waqt har dekhne waale ko safedh cham
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (موسٰی علیہ السلام نے) اپنا ہاتھ (بغل میں ڈال کر) باہر نکالا تو وہ اسی وقت دیکھنے والوں کے لئے (چمک دار) سفید ہوگیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے اپنا ہاتھ (بغل میں سے) کھینچ کر نکالا تو پل بھر میں وہ سب دیکھنے والوں کے سامنے سفید ہوگیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

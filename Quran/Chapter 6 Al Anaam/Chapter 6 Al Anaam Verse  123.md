@@ -3224,6 +3224,12 @@ aur isi tarah hum ne har basti mein waha ke rayeeso hee ko juraayem ka murtakib 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے ہر بستی میں وڈیروں (اور رئیسوں) کو وہاں کے جرائم کا سرغنہ بنایا تاکہ وہ اس (بستی) میں مکاریاں کریں، اور وہ (حقیقت میں) اپنی جانوں کے سوا کسی (اور) سے فریب نہیں کر رہے اور وہ (اس کے انجامِ بد کا) شعور نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی طرح ہم نے ہر بستی میں وہاں کے مجرموں کے سرغنوں کو یہ موقع دیا ہے کہ وہ اس (بستی) میں (مسلمانوں کے خلاف) سازشیں کیا کریں۔ اور وہ جو سازشیں کرتے ہیں، (درحقیقت) وہ کسی اور کے نہیں، بلکہ خود ان کے اپنے خلاف پڑتی ہیں، جبکہ ان کو اس کا احساس نہیں ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

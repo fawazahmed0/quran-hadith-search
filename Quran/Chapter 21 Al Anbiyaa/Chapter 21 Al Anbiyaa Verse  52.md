@@ -3224,6 +3224,12 @@ jab ke us ne apne baap se aur apni khaum se kaha ke ye murtiyaan jin ke tum muja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب انہوں نے اپنے باپ (چچا) اور اپنی قوم سے فرمایا: یہ کیسی مورتیاں ہیں جن (کی پرستش) پر تم جمے بیٹھے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ وقت یاد کرو جب انہوں نے اپنے باپ اور اپنی قوم سے کہا تھا کہ : یہ کیا مورتیں ہیں جن کے آگے تم دھرنا دیے بیٹھے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

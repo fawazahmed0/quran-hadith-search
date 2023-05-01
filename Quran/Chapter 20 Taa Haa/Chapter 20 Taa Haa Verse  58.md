@@ -3224,6 +3224,12 @@ accha hum bhi tere muqaable mein isi jaisa jaadu zaroor layenge, pas tu hamaare 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو ہم بھی تمہارے پاس اسی کی مانند جادو لائیں گے تم ہمارے اور اپنے درمیان (مقابلہ کے لئے) وعدہ طے کرلو جس کی خلاف ورزی نہ ہم کریں اور نہ ہی تم، (مقابلہ کی جگہ) کھلا اور ہموار میدان ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اچھا تو ہم بھی تمہارے سامنے ایسا ہی جادو لا کر رہیں گے۔ اب تم کسی کھلے میدان میں ہمارے اور اپنے درمیان مقابلے کا ایسا وقت طے کرلو جس کی خلاف ورزی نہ ہم کریں، نہ تم کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

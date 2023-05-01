@@ -3224,6 +3224,12 @@ aur jise wo hidaayath de, ose koyi gumraah karne waala nahi, kya Allah ta’ala 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جسے اللہ ہدایت سے نواز دے تو اسے کوئی گمراہ کرنے والا نہیں۔ کیا اللہ بڑا غالب، انتقام لینے والا نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جسے اللہ راہ راست پر لے آئے اسے کوئی راستے سے بھٹکانے والا نہیں۔ کیا اللہ زبردست، انتقام لینے والا نہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ inhe un ka rub khush qabri deta hai apni rehmath ki aur razamandi ki aur jannato
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کا رب انہیں اپنی جانب سے رحمت کی اور (اپنی) رضا کی اور (ان) جنتوں کی خوشخبری دیتا ہے جن میں ان کے لئے دائمی نعمتیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کا پروردگار انہیں اپنی طرف سے رحمت اور خوشنودی کی، اور ایسے باغات کی خوشخبری دیتا ہے جن میں ان کے لیے دائمی نعمتیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

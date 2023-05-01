@@ -3224,6 +3224,12 @@ ye hai un ke makanaath jo un ke zulm ki wajeh se ujde pade hai, jo log ilm rakht
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو یہ ان کے گھر ویران پڑے ہیں اس لئے کہ انہوں نے ظلم کیا تھا۔ بیشک اس میں اس قوم کے لئے (عبرت کی) نشانی ہے جو علم رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ وہ رہے ان کے گھر جو ان کے ظلم کی وجہ سے ویران پڑے ہیں۔ یقینا اس واقعے میں ان لوگوں کے لیے عبرت کا سامان ہے جو علم سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

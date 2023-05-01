@@ -3224,6 +3224,12 @@ aur jo log hamaari nishaaniyo ko pasth karne ke darpe rehte hai, wahi dozakhi ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ہماری آیتوں (کے ردّ) میں کوشاں رہتے ہیں اس خیال سے کہ (ہمیں) عاجز کردیں گے وہی لوگ اہلِ دوزخ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ہماری نشانیوں کو نیچا دکھانے کے لیے دوڑ دھوپ کی ہے، تو وہ دوزخ کے باسی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

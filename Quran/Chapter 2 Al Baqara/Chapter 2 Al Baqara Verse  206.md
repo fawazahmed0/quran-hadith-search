@@ -3224,6 +3224,12 @@ aur jab us se kaha jaaye ke Allah se dar, to takabbur aur ta-aassub32 ose gunaah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اسے اس (ظلم و فساد پر) کہا جائے کہ اللہ سے ڈرو تو اس کا غرور اسے مزید گناہ پر اکساتا ہے، پس اس کے لئے جہنم کافی ہے اور وہ یقیناً برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب اس سے کہا جاتا ہے کہ اللہ کا خوف کرو، تو نخوت اس کو گناہ پر اور آمادہ کردیتی ہے۔ چنانچہ ایسے شخص کو تو جہنم ہی راس آئے گی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

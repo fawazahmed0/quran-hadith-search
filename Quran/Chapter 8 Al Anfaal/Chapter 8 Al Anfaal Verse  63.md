@@ -3224,6 +3224,12 @@ un ke dilo mein ba-hami ulfath bhi osi ne dali hai, zamin mein jo kuch hai tu ag
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اسی نے) ان (مسلمانوں) کے دلوں میں باہمی الفت پیدا فرما دی۔ اگر آپ وہ سب کچھ جو زمین میں ہے خرچ کر ڈالتے تو (ان تمام مادی وسائل سے) بھی آپ ان کے دلوں میں (یہ) الفت پیدا نہ کر سکتے لیکن اللہ نے ان کے درمیان (ایک روحانی رشتے سے) محبت پیدا فرما دی۔ بیشک وہ بڑے غلبہ والا حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے دلوں میں ایک دوسرے کی الفت پیدا کردی۔ اگر تم زمین بھر کی ساری دولت بھی خرچ کرلیتے تو ان کے دلوں میں یہ الفت پیدا نہ کرسکتے، لیکن اللہ نے ان کے دلوں کو جوڑ دیا، وہ یقینا اقتدار کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

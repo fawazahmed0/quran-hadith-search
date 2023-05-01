@@ -3224,6 +3224,12 @@ pas tu mujh mein aur un mein koyi qatayi faisla karde aur mujhe aur mere ba imaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تو میرے اور ان کے درمیان فیصلہ فرما دے اور مجھے اور ان مومنوں کو جو میرے ساتھ ہیں نجات دے دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب آپ میرے اور ان کے در میان دو ٹوک فیصلہ کردیجیے، اور مجھے اور میرے مومن ساتھیوں کو بچا لیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar inhe tere rab ke kisi azaab ka jhonka bhi lag jaaye, to pukaar uthe ke haay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر واقعتاً انہیں آپ کے رب کی طرف سے تھوڑا سا عذاب (بھی) چھو جائے تو وہ ضرور کہنے لگیں گے: ہائے ہماری بدقسمتی! بیشک ہم ہی ظالم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہارے پروردگار کے عذاب کا ایک جھونکا بھی انہیں چھو جائے تو یہ کہہ اٹھیں گے کہ : ہائے ہماری کم بختی ! واقعی ہم لوگ ظالم تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

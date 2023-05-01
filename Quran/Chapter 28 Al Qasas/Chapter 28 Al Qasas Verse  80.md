@@ -3224,6 +3224,12 @@ zee ilm log unhe samjhaane lage, ke afsoos! behtar cheez to wo hai, jo ba taur s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (دوسری طرف) وہ لوگ جنہیں علمِ (حق) دیا گیا تھا بول اٹھے: تم پر افسوس ہے اللہ کا ثواب اس شخص کے لئے (اس دولت و زینت سے کہیں زیادہ) بہتر ہے جو ایمان لایا ہو اور نیک عمل کرتا ہو، مگر یہ (اجر و ثواب) صبر کرنے والوں کے سوا کسی کو عطا نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں کو (اللہ کی طرف سے) علم عطا ہوا تھا۔ انہوں نے کہا : تم پر افسوس ہے (کہ تم ایسا کہہ رہے ہو) اللہ کا دیا ہوا ثواب اس شخص کے لیے کہیں زیادہ بہتر ہے جو ایمان لائے اور نیک عمل کرے، اور وہ انہی کو ملتا ہے جو صبر سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

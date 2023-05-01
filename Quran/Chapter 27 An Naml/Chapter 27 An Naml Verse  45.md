@@ -3224,6 +3224,12 @@ yaqinan hum ne samoodh ki taraf un ke bhai saaleh ko bheja ke tum sab Allah ki i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے قومِ ثمود کے پاس ان کے (قومی) بھائی صالح (علیہ السلام) کو (پیغمبر بنا کر) بھیجا کہ تم لوگ اللہ کی عبادت کرو تو اس وقت وہ دو فرقے ہو گئے جو آپس میں جھگڑتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے قوم ثمود کے پاس ان کے بھائی صالح کو یہ پیغام دے کر بھیجا کہ تم اللہ کی عبادت کرو تو اچانک وہ دو گروہ بن گئے جو آپس میں جھگڑنے لگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

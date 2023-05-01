@@ -3224,6 +3224,12 @@ moosa (alaihissalam)ne farmaya ke kya tum us sahih dalil ki nisbath jab ke wo tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+موسٰی (علیہ السلام) نے کہا: کیا تم (ایسی بات) حق سے متعلق کہتے ہو جب وہ تمہارے پاس آچکا ہے، (عقل و شعور کی آنکھیں کھول کر دیکھو) کیا یہ جادو ہے؟ اور جادوگر (کبھی) فلاح نہیں پاسکیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : کیا تم حق کے بارے میں ایسی بات کہہ رہے ہو جبکہ وہ تمہارے پاس آچکا ہے ؟ بھلا کیا یہ جادو ہے ؟ حالانکہ جادو گر فلاح نہیں پایا کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

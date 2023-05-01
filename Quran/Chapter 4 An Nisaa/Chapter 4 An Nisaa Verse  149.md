@@ -3224,6 +3224,12 @@ agar tum kisi neki ko elaaniya karo ya poshida ya kisi buraayi se dar-guzar karo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تم کسی کارِ خیر کو ظاہر کرو یا اسے مخفی رکھو یا کسی (کی) برائی سے درگزر کرو تو بیشک اللہ بڑا معاف فرمانے والا بڑی قدرت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم کوئی نیک کام علانیہ کرو یا خفیہ طور پر کرو، یا کسی برائی کو معا ف کرو تو (بہتر ہے کیونکہ) اللہ بہت معاف کرنے والا ہے (اگرچہ سزا دینے پر) پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

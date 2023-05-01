@@ -3224,6 +3224,12 @@ main tuh chahta hoon ke tu mera gunah aur apne gunah apne sar par rakh le aur do
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+میں چاہتا ہوں (کہ مجھ سے کوئی زیادتی نہ ہو اور) میرا گناہ ِ (قتل) اور تیرا اپنا (سابقہ) گناہ (جس کے باعث تیری قربانی نامنظور ہوئی سب) توہی حاصل کرلے پھر تو اہلِ جہنم میں سے ہو جائے گا، اور یہی ظالموں کی سزا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں تو یہ چاہتا ہوں کہ انجام کار تم اپنے اور میرے دونوں کے گناہ میں پکڑے جاؤ، اور دوزخیوں میں شامل ہو۔ اور یہی ظالموں کی سزا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

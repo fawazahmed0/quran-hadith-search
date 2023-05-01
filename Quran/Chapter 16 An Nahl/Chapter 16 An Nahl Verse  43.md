@@ -3224,6 +3224,12 @@ aap se pehle bhi hum mardo ko hee bhejte rahe jin ki jaanib wahi utaara karte th
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آپ سے پہلے بھی مَردوں ہی کو رسول بنا کر بھیجا جن کی طرف ہم وحی بھیجتے تھے سو تم اہلِ ذکر سے پوچھ لیا کرو اگر تمہیں خود (کچھ) معلوم نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ہم نے تم سے پہلے بھی کسی اور کو نہیں، انسانوں ہی کو پیغمبر بنا کر بھیجا تھا جن پر ہم وحی نازل کرتے تھے۔ (اے منکرو) اب اگر تمہیں اس بات کا علم نہیں ہے تو جو علم والے ہیں ان سے پوچھ لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

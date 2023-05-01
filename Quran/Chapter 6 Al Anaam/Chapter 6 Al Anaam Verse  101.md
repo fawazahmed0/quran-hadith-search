@@ -3224,6 +3224,12 @@ wo asmaano aur zameen ka maujid12 hai, Allah ta’ala ke aulaad kaha ho sakti ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی آسمانوں اور زمینوں کا مُوجِد ہے، بھلا اس کی اولاد کیونکر ہو سکتی ہے حالانکہ اس کی بیوی (ہی) نہیں ہے، اور اسی نے ہر چیز کو پیدا فرمایا ہے اور وہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ تو آسمانوں اور زمین کا موجود ہے۔ اس کا کوئی بیٹا کہاں ہوسکتا ہے، جبکہ اس کی کوئی بیوی نہیں ؟ اسی نے ہر چیز پیدا کی ہے اور وہ ہر ہر چیز کا پورا پورا علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

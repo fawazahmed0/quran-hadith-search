@@ -3224,6 +3224,12 @@ jise theek thaak kar ke us mein apni ruh phuki, osi ne tumhaare kaan, aankhe aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اس (میں اعضاء) کو درست کیا اور اس میں اپنی روحِ (حیات) پھونکی اور تمہارے لئے (رحمِ مادر ہی میں پہلے) کان اور (پھر) آنکھیں اور (پھر) دل و دماغ بنائے، تم بہت ہی کم شکر ادا کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اسے ٹھیک ٹھاک کر کے اس میں اپنی روح پھونکی، اور (انسانو) تمہارے لیے کان، آنکھیں اور دل پیدا کیے۔ تم لوگ شکر تھوڑا ہی کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

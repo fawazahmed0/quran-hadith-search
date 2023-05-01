@@ -3224,6 +3224,12 @@ qareeb hai ke (abhi) ghusse ke maare phat jaaye, jab kabi us mein koyi gruh daal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+گویا (ابھی) شدتِ غضب سے پھٹ کر پارہ پارہ ہو جائے گی، جب اس میں کوئی گروہ ڈالا جائے گا تو اس کے داروغے ان سے پوچھیں گے: کیا تمہارے پاس کوئی ڈر سنانے والا نہیں آیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسا لگے گا جیسے وہ غصے سے پھٹ پڑے گی۔ جب بھی اس میں (کافروں کا) کوئی گروہ پھینکا جائے گا تو اس کے محافظ ان سے پوچھیں گے کہ کیا تمہارے پاس کوئی خبردار کرنے والا نہیں آیا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hamaara azaab dekhte hee kehne lage, ke Allah waahed par hum imaan laaye aur jin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب انہوں نے ہمارا عذاب دیکھ لیا تو کہنے لگے: ہم اللہ پر ایمان لائے جو یکتا ہے اور ہم نے اُن (سب) کا انکار کر دیا جنہیں ہم اس کا شریک ٹھہرایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب انہوں نے ہمارا عذاب آنکھوں سے دیکھ لیا تو اس وقت کہا کہ : ہم خدائے واحد پر ایمان لے آئے، اور ان سب کا ہم نے انکار کردیا جن کو ہم اللہ کے ساتھ شریک ٹھہرایا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

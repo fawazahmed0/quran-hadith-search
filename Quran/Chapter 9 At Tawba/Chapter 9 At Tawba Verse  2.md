@@ -3224,6 +3224,12 @@ pus (ae mushriko!) tum mulk mein char mahine tak tuh chal phirlo,jan lo ke tum A
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (اے مشرکو!) تم زمین میں چار ماہ (تک) گھوم پھر لو (اس مہلت کے اختتام پر تمہیں جنگ کا سامنا کرنا ہوگا) اور جان لو کہ تم اللہ کو ہرگز عاجز نہیں کر سکتے اور بیشک اللہ کافروں کو رسوا کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے مشرکو) تمہیں چار مہینے تک اجازت ہے کہ تم (عرب کی) سرزمین میں آزادی سے گھومو پھرو، اور یہ بات جان رکھو کہ تم اللہ کو عاجز نہیں کرسکتے، اور یہ بات بھی کہ اللہ اب کافروں کو رسوا کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

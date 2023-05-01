@@ -3224,6 +3224,12 @@ un do khaidiyo mein se jo reha hoa tha ose muddath ke baadh yaad aa gaya aur keh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ شخص جو ان دونوں میں سے رہائی پا چکا تھا بولا، اور (اب) اسے ایک مدت کے بعد (یوسف علیہ السلام کے ساتھ کیا ہوا وعدہ) یاد آگیا: میں تمہیں اس کی تعبیر بتاؤں گا سو تم مجھے (یوسف علیہ السلام کے پاس) بھیجو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان دو قیدیوں میں سے جو رہا ہوگیا تھا، اور اسے ایک لمبے عرصے کے بعد (یوسف کی) بات یاد آئی تھی، اس نے کہا کہ : میں آپ کو اس خواب کی تعبیر بتائے دیتا ہوں، بس مجھے (یوسف کے پاس قید خانے میں) بھیج دیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

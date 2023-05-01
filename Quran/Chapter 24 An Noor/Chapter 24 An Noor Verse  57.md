@@ -3224,6 +3224,12 @@ ye qayaal aap kabi bhi na karna ke, munkir log zameen mein (idhar udhar bhaag ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ خیال ہر گز نہ کرنا کہ انکار و ناشکری کرنے والے لوگ زمین میں (اپنے ہلاک کئے جانے سے اللہ کو) عاجز کر دیں گے، اور ان کا ٹھکانا دوزخ ہے، اور وہ بہت ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ہرگز نہ سمجھنا کہ جن لوگوں نے کفر کا راستہ اپنا لیا ہے، وہ زمین میں (کہیں بھاگ کر ہمیں) بےبس کردیں گے۔ ان کا ٹھکانا دوزخ ہے، اور یقینا وہ بہت ہی برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

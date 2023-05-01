@@ -3224,6 +3224,12 @@ noah ne kaha, mere paalanhaar main teri hee panah chahta hoon us baat se ke tujh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(نوح علیہ السلام نے) عرض کیا: اے میرے رب! میں اس بات سے تیری پناہ چاہتا ہوں کہ تجھ سے وہ سوال کروں جس کا مجھے کچھ علم نہ ہو، اور اگر تو مجھے نہ بخشے گا اور مجھ پر رحم (نہ) فرمائے گا (تو) میں نقصان اٹھانے والوں میں سے ہو جاؤں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نوح نے کہا : میرے پروردگار میں آپ کی پناہ مانگتا ہوں اس بات سے کہ آئندہ آپ سے وہ چیز مانگوں جس کا مجھے علم نہیں، اور اگر آپ نے میری مغفرت نہ فرمائے اور مجھ پر رحم نہ کیا تو میں بھی ان لوگوں میں شامل ہوجاؤں گا جو برباد ہوگئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

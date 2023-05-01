@@ -3224,6 +3224,12 @@ aur shaytaan ne un ke baare mein apna gumaan saccha kar dikhaya, ye log sab ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ابلیس نے ان کے بارے میں اپنا خیال سچ کر دکھایا تو ان لوگوں نے اس کی پیروی کی بجز ایک گروہ کے جو (صحیح) مومنین کا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور واقعی ان لوگوں کے بارے میں ابلیس نے اپنا خیال درست پایا چنانچہ یہ اسی کے پیچھے چل پڑے، سوائے اس گروہ کے جو مومن تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

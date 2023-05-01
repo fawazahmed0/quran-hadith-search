@@ -3224,6 +3224,12 @@ kya unhone is baath mein ghaur wa fikr hee nahi kiya? balke un ke paas wo ayaath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کیا انہوں نے اس فرمانِ (الٰہی) میں غور و خوض نہیں کیا یا ان کے پاس کوئی ایسی چیز آگئی ہے جو ان کے اگلے باپ دادا کے پاس نہیں آئی تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان لوگوں نے اس کلام پر غور نہیں کیا، یا ان کے پاس کوئی ایسی چیز آگئی ہے جو ان کے پچھلے باپ دادوں کے پاس نہیں آئی تھی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

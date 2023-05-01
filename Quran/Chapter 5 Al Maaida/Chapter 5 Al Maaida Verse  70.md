@@ -3224,6 +3224,12 @@ hum ne bil yaqeen banu isarel se ahad wa paima liya aur un ki taraf rasulo ko bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے بنی اسرائیل سے عہد (بھی) لیا اور ہم نے ان کی طرف (بہت سے) پیغمبر (بھی) بھیجے، (مگر) جب بھی ان کے پاس کوئی پیغمبر ایسا حکم لایا جسے ان کے نفس نہیں چاہتے تھے تو انہوں نے (انبیاء کی) ایک جماعت کو جھٹلایا اور ایک کو (مسلسل) قتل کرتے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے بنو اسرائیل سے عہد لیا تھا، اور ان کے پاس رسول بھیجے تھے، جب کوئی رسول ان کے پاس کوئی ایسی بات لے کر آتا جس کو ان کا دل نہیں چاہتا تھا تو کچھ (رسولوں) کو انہوں نے جھٹلایا اور کچھ کو قتل کرتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

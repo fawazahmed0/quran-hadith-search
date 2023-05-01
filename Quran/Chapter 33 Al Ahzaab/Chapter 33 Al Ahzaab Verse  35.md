@@ -3224,6 +3224,12 @@ beshak musalmaan mardh aur musalmaan aurte, momin mardh aur momin aurte, farma b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک مسلمان مرد اور مسلمان عورتیں، اور مومن مَرد اور مومن عورتیں، اور فرمانبردار مرد اور فرمانبردار عورتیں، اور صدق والے مرد اور صدق والی عورتیں، اور صبر والے مرد اور صبر والی عورتیں، اور عاجزی والے مرد اور عاجزی والی عورتیں، اور صدقہ و خیرات کرنے والے مرد اور صدقہ و خیرات کرنے والی عورتیں اور روزہ دار مرد اور روزہ دار عورتیں، اور اپنی شرم گاہوں کی حفاظت کرنے والے مرد اور حفاظت کرنے والی عورتیں، اور کثرت سے اللہ کا ذکر کرنے والے مرد اور ذکر کرنے والی عورتیں، اللہ نے اِن سب کے لئے بخشِش اور عظیم اجر تیار فرما رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک فرمانبردار مرد ہوں یا فرمانبردار عورتیں مومن مرد ہوں یا مومن عورتیں، عبادت گزار مرد ہوں یا عبادت گزار عورتیں، سچے مرد ہوں یا سچی عورتیں، صابر مرد ہوں یا صابر عورتیں، دل سے جھکنے والے مرد ہوں یا دل سے جھکنے والی عورتیں صدقہ کرنے والے مرد ہوں یا صدقہ کرنے والی عورتیں، روزہ دار مرد ہوں یا روزہ دار عورتیں، اپنی شرمگاہوں کی حفاظت کرنے والے مرد ہوں یا حفاظت کرنے والی عورتیں، اور اللہ کا کثرت سے ذکر کرنے والے مرد ہوں یا ذکر کرنے والی عورتیں، ان سب کے لیے اللہ نے مغفرت اور شاندار اجر تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

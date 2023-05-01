@@ -3224,6 +3224,12 @@ Yeh kehte hain “rehman aulad rakhta hai” SubhanAllah , woh to banday hain ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ لوگ کہتے ہیں کہ (خدائے) رحمان نے (فرشتوں کو اپنی) اولاد بنا رکھا ہے وہ پاک ہے، بلکہ (جن فرشتوں کو یہ اُس کی اولاد سمجھتے ہیں) وہ (اللہ کے) معزز بندے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ کہتے ہیں کہ : خدائے رحمن (فرشتوں کی شکل میں) اولاد رکھتا ہے۔ سبحان اللہ ! بلکہ (فرشتے تو اللہ کے) بندے ہیں جنہیں عزت بخشی گئی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

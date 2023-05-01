@@ -3224,6 +3224,12 @@ phir jab hamara hukm aa pahoncha hum ne us basti ko zer wa zabar kar diya, upar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ہمارا حکمِ (عذاب) آپہنچا تو ہم نے (الٹ کر) اس بستی کے اوپر کے حصہ کو نچلا حصہ کر دیا اور ہم نے اس پر پتھر اور پکی ہوئی مٹی کے کنکر برسائے جو پے در پے (اور تہ بہ تہ) گرتے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب ہمارا حکم آگیا تو ہم نے اس زمین کے اوپر والے حصے کو نیچے والے حصے میں تبدیل کردیا، اور ان پر پکی مٹی کے تہہ بر تہہ پتھر برسائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jis ka ye qayaal ho ke Allah ta’ala apne rasool ki madad duno jahaan mein na k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص یہ گمان کرتا ہے کہ اللہ اپنے (محبوب و برگزیدہ) رسول کی دنیا و آخرت میں ہرگز مدد نہیں کرے گا اسے چاہئے کہ (گھر کی) چھت سے ایک رسی باندھ کر لٹک جائے پھر (خود کو) پھانسی دے لے پھر دیکھے کیا اس کی یہ تدبیر اس (نصرتِ الٰہی) کو دور کر دیتی ہے جس پر غصہ کھا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص یہ سمجھتا تھا کہ اللہ دنیا اور آخرت میں اس (پیغمبر) کی مدد نہیں کرے گا تو وہ آسمان تک ایک رسی تان کر رابطہ کاٹ ڈالے، پھر دیکھے کہ کیا اس کی یہ تدبیر اس کی جھنجلاہٹ دور کرسکتی ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

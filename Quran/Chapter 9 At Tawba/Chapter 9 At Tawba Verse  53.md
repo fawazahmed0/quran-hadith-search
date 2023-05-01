@@ -3224,6 +3224,12 @@ keh dijiye ke tum khushi ya na khushi kisi tarah bhi qarch karo,qubol tuh hargiz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تم خوشی سے خرچ کرو یا ناخوشی سے تم سے ہرگز وہ (مال) قبول نہیں کیا جائے گا، بیشک تم نافرمان لوگ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : تم اپنا مال چاہے خوشی خوشی چندے میں دو ، یا بددلی سے، وہ تم سے ہرگز قبول نہیں کیا جائے گا۔ تم ایسے لوگ ہو جو مسلسل نافرمانی کرتے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ae ahal kitab! bil-yaqeen4 hamara rasol tumhaare pas rasulo ki aamd ke ek waqfe 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اہلِ کتاب! بیشک تمہارے پاس ہمارے (یہ آخر الزمان) رسول (صلی اللہ علیہ وآلہ وسلم) پیغمبروں کی آمد (کے سلسلے) کے منقطع ہونے (کے موقع) پر تشریف لائے ہیں، جو تمہارے لئے (ہمارے احکام) خوب واضح کرتے ہیں، (اس لئے) کہ تم (عذر کرتے ہوئے یہ) کہہ دوگے کہ ہمارے پاس نہ (تو) کوئی خوشخبری سنانے والا آیا ہے اور نہ ڈر سنانے والا۔ (اب تمہارا یہ عذر بھی ختم ہو چکا ہے کیونکہ) بلاشبہ تمہارے پاس (آخری) خوشخبری سنانے اور ڈر سنانے والا (بھی) آگیا ہے، اور اللہ ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے اہل کتاب ! تمہارے پاس ہمارے پیغمبر ایسے وقت دین کی وضاحت کرنے آئے ہیں جب پیغمبروں کی آمد رکی ہوئی تھی، تاکہ تم یہ نہ کہہ سکو کہ ہمارے پاس نہ کوئی (جنت کی) خوشخبری دینے والا آیا، نہ کوئی (جہنم سے) ڈرانے والا۔ لو اب تمہارے پاس خوشخبری دینے والا اور ڈرانے والا آگیا ہے۔ اور اللہ ہر بات پر پوری پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

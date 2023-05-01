@@ -3224,6 +3224,12 @@ aur agar aap un se sawaal kare ke aasmaan se paani utaar kar zameen ko us ki mau
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ ان سے پوچھیں کہ آسمان سے پانی کس نے اتارا پھر اس سے زمین کو اس کی مُردنی کے بعد حیات (اور تازگی) بخشی، تو وہ ضرور کہہ دیں گے: اللہ نے، آپ فرما دیں: ساری تعریفیں اللہ ہی کے لئے ہیں، بلکہ ان میں سے اکثر (لوگ) عقل نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم ان سے پوچھو کہ : کون ہے جس نے آسمان سے پانی برسایا، پھر اس کے ذریعے زمین کے مردہ ہونے کے بعد اسے زندگی بخشی ؟ تو وہ ضرور یہ کہیں گے کہ : اللہ ! کہو : الحمدللہ ! لیکن ان میں سے اکثر لوگ عقل سے کام نہیں لیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

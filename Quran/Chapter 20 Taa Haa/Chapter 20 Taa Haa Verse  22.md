@@ -3224,6 +3224,12 @@ aur apna haath apni baghal mein daal le, to wo safedh chamakta hoa ho kar nikleg
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (حکم ہوا:) اپنا ہاتھ اپنی بغل میں دبا لو وہ بغیر کسی بیماری کے سفید چمک دار ہو کر نکلے گا (یہ) دوسری نشانی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنے ہاتھ کو اپنی بغل میں دباؤ، وہ کسی بیماری کے بغیر سفید ہو کر نکلے گا۔ یہ (تمہاری نبوت کی) ایک اور نشانی ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

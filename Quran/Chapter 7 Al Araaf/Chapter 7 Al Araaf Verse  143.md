@@ -3224,6 +3224,12 @@ aur jab Mosa(alaihissalaam) hamaare waqt par aaye aur un ke rab ne un se baatein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب موسیٰ ہمارے مقررہ وقت پر پہنچے اور ان کا رب ان سے ہم کلام ہوا تو وہ کہنے لگے : میرے پروردگار ! مجھے دیدار کرا دیجیے کہ میں آپ کو دیکھ لوں۔ فرمایا : تم مجھے ہرگز نہیں دیکھ سکو گے، البتہ پہاڑ کی طرف نظر اٹھاؤ، اس کے بعد اگر وہ اپنی جگہ برقرار رہا تو تم مجھے دیکھ لو گے۔ پھر جب ان کے رب نے پہاڑ پر تجلی فرمائی تو اس کو ریزہ ریزہ کردیا، اور موسیٰ بےہوش ہو کر گرپڑے۔ بعد میں جب انہیں ہوش آیا تو انہوں نے کہا : پاک ہے آپ کی ذات۔ میں آپ کے حضور توبہ کرتا ہوں اور (آپ کی اس بات پر کہ دنیا میں کوئی آپ کو نہیں دیکھ سکتا) میں سب سے پہلے ایمان لاتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur un se pehle logo ne bhi jhutlaaya tha, to dekho un par mera azaab kaisa kuch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بے شک ان لوگوں نے (بھی) جھٹلایا تھا جو ان سے پہلے تھے، سو میرا اِنکار کیسا (عبرت ناک ثابت) ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان سے پہلے جو لوگ تھے، انہوں نے بھی (پیغمبروں کو) جھٹلایا تھا۔ پھر (دیکھ لو کہ) میرا عذاب کیسا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

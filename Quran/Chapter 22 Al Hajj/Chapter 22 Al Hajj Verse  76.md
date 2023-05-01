@@ -3224,6 +3224,12 @@ wo ba-qoobi jaanta hai jo kuch un ke aage hai aur jo kuch un ke piche hai aur Al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ ان (چیزوں) کو (خوب) جانتا ہے جو ان کے آگے ہیں اور جو ان کے پیچھے ہیں، اور تمام کام اسی کی طرف لوٹائے جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ان کے آگے اور پیچھے کی ساری باتوں کو جانتا ہے، اور اللہ ہی پر تمام معاملات کا دارومدار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

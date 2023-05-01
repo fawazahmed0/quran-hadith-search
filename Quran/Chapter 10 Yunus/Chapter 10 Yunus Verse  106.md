@@ -3224,6 +3224,12 @@ aur Allah ko chohd kar aisi cheez ki ibadath math karna jo tujh ko na koi nafa p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ حکم رسول اللہ صلی اللہ علیہ وآلہ وسلم کی وساطت سے امت کو دیا جارہا ہے:) اور نہ اللہ کے سوا ان (بتوں) کی عبادت کریں جو نہ تمہیں نفع پہنچا سکتے ہیں اور نہ تمہیں نقصان پہنچا سکتے ہیں، پھر اگر تم نے ایسا کیا تو بیشک تم اس وقت ظالموں میں سے ہو جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ تعالیٰ کو چھوڑ کر کسی ایسے (من گھڑت معبود) کو نہ پکارنا جو تمہیں نہ کوئی فائدہ پہنچا سکتا ہے، نہ کوئی نقصان۔ پھر بھی اگر تم (بفرض محال) ایسا کر بیٹھے تو تمہارا شمار بھی ظالموں میں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

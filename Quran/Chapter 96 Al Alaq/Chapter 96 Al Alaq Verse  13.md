@@ -3224,6 +3224,12 @@ bhala dekho to agar ye jhutlaata ho aur mu pherta ho, to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اب بتائیے! اگر اس نے (دینِ حق کو) جھٹلایا ہے اور (آپ سے) منہ پھیر لیا ہے (تو اس کا کیا حشر ہوگا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا بتلاؤ کہ اگر وہ (روکنے والا) حق کو جھٹلاتا ہو، اور منہ موڑتا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

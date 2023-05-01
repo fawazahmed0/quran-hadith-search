@@ -3224,6 +3224,12 @@ pas feraun laut gaya aur us ne apne hath kande jama kiye, phir aa gaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر فرعون (مجلس سے) واپس مڑ گیا سو اس نے اپنے مکر و فریب (کی تدبیروں) کو اکٹھا کیا پھر (مقررہ وقت پر) آگیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ فرعون (اپنی جگہ) واپس چلا گیا، اور اس نے اپنی ساری تدبیریں اکٹھی کیں، پھر (مقابلے کے لیے) آگیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

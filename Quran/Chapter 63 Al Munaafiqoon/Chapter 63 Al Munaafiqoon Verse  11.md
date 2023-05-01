@@ -3224,6 +3224,12 @@ aur jab kisi ka muqarrara waqt aa jaata hai, phir ose Allah ta’ala har giz muh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ہرگز کسی شخص کو مہلت نہیں دیتا جب اس کی موت کا وقت آجاتا ہے، اور اللہ اُن کاموں سے خوب آگاہ ہے جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب کسی شخص کا معین وقت آجائے گا تو اللہ اسے ہرگز مہلت نہیں دے گا، اور جو کچھ تم کرتے ہو، اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

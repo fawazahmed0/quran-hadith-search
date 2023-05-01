@@ -3224,6 +3224,12 @@ un mein se agar koyi bhi kehde ke, Allah ke siva main laayaq ibaadath hoon, to h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان میں سے کون ہے جو کہہ دے کہ میں اس (اللہ) کے سوا معبود ہوں سو ہم اسی کو دوزخ کی سزا دیں گے، اسی طرح ہم ظالموں کو سزا دیا کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ان میں سے کوئی (بالفرض) یہ کہے کہ : اللہ کے علاوہ میں بھی معبود ہوں۔ تو اس کو ہم جہنم کی سزا دیں گے۔ ایسے ظالموں کو ہم ایسی ہی سزا دیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

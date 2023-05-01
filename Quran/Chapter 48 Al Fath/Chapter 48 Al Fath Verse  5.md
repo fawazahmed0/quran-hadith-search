@@ -3224,6 +3224,12 @@ ta ke momin mardo aur aurto ko un jannato mein le jaaye, jin ke niche nehre beh 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ سب نعمتیں اس لئے جمع کی ہیں) تاکہ وہ مومن مردوں اور مومن عورتوں کو بہشتوں میں داخل فرمائے جن کے نیچے نہریں رواں ہیں (وہ) ان میں ہمیشہ رہنے والے ہیں۔ اور (مزید یہ کہ) وہ ان کی لغزشوں کو (بھی) ان سے دور کر دے (جیسے اس نے ان کی خطائیں معاف کی ہیں)۔ اور یہ اللہ کے نزدیک (مومنوں کی) بہت بڑی کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ وہ مومن مردوں اور عورتوں کو ایسے باغات میں داخل کرے جن کے نیچے نہریں بہتی ہیں، جہاں وہ ہمیشہ بسے رہیں گے، اور ان کی برائیوں کو ان سے دور کردے، اور اللہ کے نزدیک یہ بڑی زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

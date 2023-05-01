@@ -3224,6 +3224,12 @@ us ke rub ne us ki dua qubool karli aur un aurton ke daao pesh us se pher diye, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو ان کے رب نے ان کی دعا قبول فرما لی اور عورتوں کے مکر و فریب کو ان سے دور کر دیا۔ بیشک وہی خوب سننے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ یوسف کے رب نے ان کی دعا قبول کی، اور ان عورتوں کی چالوں سے انہیں محفوظ رکھا۔ بیشک وہی ہے جو ہر بات سننے والا، ہر چیز جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

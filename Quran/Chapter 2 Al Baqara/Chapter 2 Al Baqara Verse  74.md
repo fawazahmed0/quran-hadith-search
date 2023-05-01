@@ -3224,6 +3224,12 @@ phir us ke baadh tumhaare dil patthar jaise, balke us se bhi zyaada saqth ho gay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اس کے بعد (بھی) تمہارے دل سخت ہوگئے چنانچہ وہ (سختی میں) پتھروں جیسے (ہوگئے) ہیں یا ان سے بھی زیادہ سخت (ہو چکے ہیں، اس لئے کہ) بیشک پتھروں میں (تو) بعض ایسے بھی ہیں جن سے نہریں پھوٹ نکلتی ہیں، اور یقیناً ان میں سے بعض وہ (پتھر) بھی ہیں جو پھٹ جاتے ہیں تو ان سے پانی ابل پڑتا ہے، اور بیشک ان میں سے بعض ایسے بھی ہیں جو اللہ کے خوف سے گر پڑتے ہیں، (افسوس! تمہارے دلوں میں اس قدر نرمی، خستگی اور شکستگی بھی نہیں رہی،) اور اللہ تمہارے کاموں سے بے خبر نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سب کے بعد تمہارے دل پھر سخت ہوگئے، یہاں تک کہ وہ ایسے ہوگئے جیسے پتھر ! بلکہ سختی میں کچھ ان سے بھی زیادہ۔ (کیونکہ) پتھروں میں سے کچھ ایسے بھی ہوتے ہیں جن سے نہریں پھوٹ بہتی ہیں، اور انہی میں سے کچھ وہ ہوتے ہیں جو خود پھٹ پڑتے ہیں اور ان سے پانی نکل آتا ہے، اور انہی میں وہ (پتھر) بھی ہیں جو اللہ کے خوف سے لڑھک جاتے ہیں۔ ۔ اور (اس کے برخلاف) جو کچھ تم کر رہے ہو، اللہ اس سے بیخبر نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

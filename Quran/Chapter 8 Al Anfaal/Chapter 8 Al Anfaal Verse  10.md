@@ -3224,6 +3224,12 @@ aur Allah tala ne ye imdad mahez is liye ki ke basharath ho aur ta ke tumhare di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس (مدد کی صورت) کو اللہ نے محض بشارت بنایا (تھا) اور (یہ) اس لئے کہ اس سے تمہارے دل مطمئن ہو جائیں اور (حقیقت میں تو) اللہ کی بارگاہ سے مدد کے سوا کوئی (اور) مدد نہیں، بیشک اللہ (ہی) غالب حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ وعدہ اللہ نے کسی اور وجہ سے نہیں بلکہ صرف اس لیے کیا کہ وہ خوشخبری بنے اور تاکہ تمہارے دلوں کو اطمینان حاصل ہو، ورنہ مدد کسی اور کے پاس سے نہیں، صرف اللہ کے پاس سے آتی ہے۔ یقینا اللہ اقتدار کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

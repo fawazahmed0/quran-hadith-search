@@ -3224,6 +3224,12 @@ osi ne tumhe zindagi baqshi, phir wahi tumhe maar daalega, phir wahi tumhe zinda
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے تمہیں زندگی بخشی پھر تمہیں موت دیتا ہے پھر تمہیں (دوبارہ) زندگی دے گا۔ بیشک انسان ہی بڑا ناشکر گزار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جس نے تمہیں زندگی دی، پھر وہ تمہیں موت دے گا، پھر تمہیں زندہ کرے گا۔ واقعی انسان بڑا ناشکرا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

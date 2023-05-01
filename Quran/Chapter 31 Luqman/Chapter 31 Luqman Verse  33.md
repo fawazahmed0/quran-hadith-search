@@ -3224,6 +3224,12 @@ logo! apne rab se daro aur us din ka khauf karo, jis din baap apne bete ko koyi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! اپنے رب سے ڈرو، اور اس دن سے ڈرو جس دن کوئی باپ اپنے بیٹے کی طرف سے بدلہ نہیں دے سکے گا اور نہ کوئی ایسا فرزند ہوگا جو اپنے والد کی طرف سے کچھ بھی بدلہ دینے والا ہو، بیشک اللہ کا وعدہ سچا ہے سو دنیا کی زندگی تمہیں ہرگز دھوکہ میں نہ ڈال دے، اور نہ ہی فریب دینے والا (شیطان) تمہیں اللہ کے بارے میں دھوکہ میں ڈال دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! اپنے پروردگار (کی ناراضی) سے بچو، اور ڈرو اس دن سے جب کوئی باپ اپنے بیٹے کے کام نہیں آئے گا، اور نہ کسی بیٹے کی یہ مجال ہوگی کہ وہ اپنے باپ کے ذرا بھی کام آجائے۔ یقین جانو کہ اللہ کا وعدہ سچا ہے، اس لیے ایسا ہرگز نہ ہونے پائے کہ یہ دنیوی زندگی تمہیں دھوکے میں ڈال دے، اور ایسا ہرگز نہ ہونے پائے کہ وہ (شیطان) تمہیں اللہ کے معاملے میں دھوکے میں ڈال دے جو سب سے بڑا دھوکا باز ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

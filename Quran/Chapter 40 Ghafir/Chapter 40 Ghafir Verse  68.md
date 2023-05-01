@@ -3224,6 +3224,12 @@ wahi hai jo jilaata hai aur maar daalta hai, phir jab wo kisi kaam ka karna muqa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جو زندگی دیتا ہے اور موت دیتا ہے پھر جب وہ کسی کام کا فیصلہ فرماتا ہے تو صرف اسے فرما دیتا ہے: ہو جا۔ پس وہ ہو جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جو زندگی دیتا اور موت دیتا ہے اور جب وہ کسی کام کا فیصلہ کرلیتا ہے تو اس سے صرف اتنا کہتا ہے کہ ہوجا، بس وہ ہوجاتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

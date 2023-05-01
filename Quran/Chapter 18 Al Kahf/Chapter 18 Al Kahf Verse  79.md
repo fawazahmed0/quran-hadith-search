@@ -3224,6 +3224,12 @@ kashti to chandh miskino ki thi jo darya mein kaam kaaj karte thein, main ne us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ جو کشتی تھی سو وہ چند غریب لوگوں کی تھی وہ دریا میں محنت مزدوری کیا کرتے تھے پس میں نے ارادہ کیا کہ اسے عیب دار کر دوں اور (اس کی وجہ یہ تھی کہ) ان کے آگے ایک (جابر) بادشاہ (کھڑا) تھا جو ہر (بے عیب) کشتی کو زبردستی (مالکوں سے بلامعاوضہ) چھین رہا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جہاں تک کشتی کا تعلق ہے وہ کچھ غریب آدمیوں کی تھی جو دریا میں مزدوری کرتے تھے، میں نے چاہا کہ اس میں کوئی عیب پیدا کردوں، (کیونکہ) ان کے آگے ایک بادشاہ تھا جو ہر (اچھی) کشتی کو زبردستی چھین کر رکھ لیا کرتا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

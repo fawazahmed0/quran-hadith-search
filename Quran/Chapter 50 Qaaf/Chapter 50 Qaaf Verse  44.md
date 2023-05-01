@@ -3224,6 +3224,12 @@ jis din zameen phat jayegi aur ye daudte hoye (nikal padenge), ye jama kar lena 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جِس دن زمین اُن پر سے پھٹ جائے گی تو وہ جلدی جلدی نکل پڑیں گے، یہ حشر (پھر سے لوگوں کو جمع کرنا) ہم پر نہایت آسان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن جب زمین پھٹ کر ان کو اس طرح باہر کردے گی کہ وہ جلدی جلدی نکل رہے ہوں گے۔ اس طرح سب کو جمع کرلینا ہمارے لیے بہت آسان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

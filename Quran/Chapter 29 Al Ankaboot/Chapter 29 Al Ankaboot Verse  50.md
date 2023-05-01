@@ -3224,6 +3224,12 @@ unhone kaha ke us par kuch nishaaniya (maujezaath) us ke rab ki taraf se kyo nah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کفّار کہتے ہیں کہ اِن پر (یعنی نبی اکرم صلی اللہ علیہ وآلہ وسلم پر) ان کے رب کی طرف سے نشانیاں کیوں نہیں اتاری گئیں، آپ فرما دیجئے کہ نشانیاں تو اللہ ہی کے پاس ہیں اور میں تو محض صریح ڈر سنانے والا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ کہتے ہیں کہ : ان (پیغمبر (صلی اللہ علیہ وآلہ وسلم) پر ان کے پروردگار کی طرف سے نشانیاں کیوں نہیں اتاری گئیں ؟ (اے پیغمبر ! ان سے) کہہ دو کہ : نشانیاں صرف اللہ کے پاس ہیں اور میں تو ایک واضح طور پر خبردار کرنے والا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

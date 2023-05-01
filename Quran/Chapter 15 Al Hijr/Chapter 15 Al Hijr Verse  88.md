@@ -3224,6 +3224,12 @@ aap har giz apni nazre us cheez ki taraf na daudaaye jis se hum ne un mein se ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ ان چیزوں کی طرف نگاہ اٹھا کر بھی نہ دیکھئے جن سے ہم نے کافروں کے گروہوں کو (چند روزہ) عیش کے لئے بہرہ مند کیا ہے، اور ان (کی گمراہی) پر رنجیدہ خاطر بھی نہ ہوں اور اہلِ ایمان (کی دل جوئی) کے لئے اپنے (شفقت و التفات کے) بازو جھکائے رکھئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم ان چیزوں کی طرف ہرگز آنکھ اٹھا کر بھی نہ دیکھو جو ہم نے ان (کافروں) میں سے مختلف لوگوں کو مزے اڑانے کے لیے دے رکھی ہیں، اور نہ ان لوگوں پر اپنا دل کڑھاؤ، اور جو لوگ ایمان لے آئے ہیں، ان کے لیے اپنی شفقت کا بازو پھیلا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ namaaz ko qaayam kare aftaab ke dhalne se le kar raath ki taariki tak aur fajr k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ سورج ڈھلنے سے لے کر رات کی تاریکی تک (ظہر، عصر، مغرب اور عشاء کی) نماز قائم فرمایا کریں اور نمازِ فجر کا قرآن پڑھنا بھی (لازم کر لیں)، بیشک نمازِ فجر کے قرآن میں (فرشتوں کی) حاضری ہوتی ہے (اور حضوری بھی نصیب ہوتی ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) سورج ڈھلنے کے وقت سے لے کر رات کے اندھیرے تک نماز قائم کرو۔ اور فجر کے وقت قرآن پڑھنے کا اہتمام کرو۔ یاد رکھو کہ فجر کی تلاوت میں مجمع حاضر ہوتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

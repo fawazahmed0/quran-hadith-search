@@ -3224,6 +3224,12 @@ aag hai jis ke saamne ye har subah shaam laaye jaate hai aur jis din qayaamath h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آتشِ دوزخ کے سامنے یہ لوگ صبح و شام پیش کئے جاتے ہیں اور جس دن قیامت بپا ہوگی (تو حکم ہوگا:) آلِ فرعون کو سخت ترین عذاب میں داخل کر دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آگ ہے جس کے سامنے انہیں صبح و شام پیش کیا جاتا ہے اور جس دن قیامت آجائے گی (اس دن حکم ہوگا کہ) فرعون کے لوگوں کو سخت ترین عذاب میں داخل کردو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

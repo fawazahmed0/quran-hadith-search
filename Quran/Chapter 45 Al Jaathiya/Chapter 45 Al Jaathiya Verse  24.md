@@ -3224,6 +3224,12 @@ kya ab bhi tum nasihath nahi pakadte, unhone kaha ke hamaari zindagi to sirf dun
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کہتے ہیں: ہماری دنیوی زندگی کے سوا (اور) کچھ نہیں ہے ہم (بس) یہیں مرتے اور جیتے ہیں اور ہمیں زمانے کے (حالات و واقعات کے) سوا کوئی ہلاک نہیں کرتا (گویا خدا اور آخرت کا مکمل انکار کرتے ہیں)، اور انہیں اس (حقیقت) کا کچھ بھی علم نہیں ہے، وہ صرف خیال و گمان سے کام لے رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ کہتے ہیں کہ : جو کچھ زندگی ہے بس یہی ہماری دنیوی زندگی ہے، (اسی میں) ہم مرتے اور جیتے ہیں اور ہمیں کوئی اور نہیں، زمانہ ہی ہلاک کردیتا ہے۔ حالانکہ اس بات کا انہیں کچھ بھی علم نہیں ہے، بس وہمی اندازے لگاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

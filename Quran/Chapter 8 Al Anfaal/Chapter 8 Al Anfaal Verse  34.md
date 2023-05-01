@@ -3224,6 +3224,12 @@ aur un mein kya bath hai ke un ko Allah tala saza na de, halan ke wo log masjide
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(آپ کی ہجرتِ مدینہ کے بعد مکہ کے) ان (کافروں) کے لئے اور کیا وجہ ہوسکتی ہے کہ اللہ انہیں (اب) عذاب نہ دے حالانکہ وہ (لوگوں کو) مسجدِ حرام (یعنی کعبۃ اللہ) سے روکتے ہیں اور وہ اس کے ولی (یا متّولی) ہونے کے اہل بھی نہیں، اس کے اولیاء (یعنی دوست) تو صرف پرہیزگار لوگ ہوتے ہیں مگر ان میں سے اکثر (اس حقیقت کو) جانتے ہی نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بھلا ان میں کیا خوبی ہے کہ اللہ ان کو عذاب نہ دے جبکہ وہ لوگوں کو مسجد حرام سے روکتے ہیں۔ حالانکہ وہ اس کے متولی نہیں ہیں۔ متقی لوگوں کے سوا کسی قسم کے لوگ اس کے متولی نہیں ہوسکتے، لیکن ان میں سے اکثر لوگ (اس بات کو) نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

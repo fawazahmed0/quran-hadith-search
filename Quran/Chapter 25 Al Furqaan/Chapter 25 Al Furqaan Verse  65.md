@@ -3224,6 +3224,12 @@ aur jo ye dua karte hai ke aye hamaare parvardigaar! hum se dozakh ka azaab pare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ) وہ لوگ ہیں جو (ہمہ وقت حضورِ باری تعالیٰ میں) عرض گزار رہتے ہیں کہ اے ہمارے رب! تو ہم سے دوزخ کا عذاب ہٹا لے، بیشک اس کا عذاب بڑا مہلک (اور دائمی) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو یہ کہتے ہیں کہ : ہمارے پروردگار ! جہنم کے عذاب کو ہم سے دور رکھیے۔ حقیقت یہ ہے کہ اس کا عذاب وہ تباہی ہے جو چمٹ کر رہ جاتی ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

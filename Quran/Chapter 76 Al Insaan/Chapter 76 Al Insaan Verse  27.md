@@ -3224,6 +3224,12 @@ beshak ye log jaldi milne waali (dunya) ko chaahte hai aur apne piche ek bade bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک یہ (طالبانِ دنیا) جلد ملنے والے مفاد کو عزیز رکھتے ہیں اور سخت بھاری دن (کی یاد) کو اپنے پسِ پشت چھوڑے ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ تو (دنیا کی) فوری چیزوں سے محبت کرتے ہیں اور اپنے آگے جو بھاری دن آنے والا، اسے نظر انداز کیے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur zameen mein akad kar na chal, ke na tu zameen ko phaad sakta hai aur na lamb
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور زمین میں اکڑ کر مت چل، بیشک تو زمین کو (اپنی رعونت کے زور سے) ہرگز چیر نہیں سکتا اور نہ ہی ہرگز تو بلندی میں پہاڑوں کو پہنچ سکتا ہے (تو جو کچھ ہے وہی رہے گا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین پر اکڑ کر مت چلو۔ نہ تم زمین کو پھاڑ سکتے ہو اور نہ بلندی میں پہاڑوں کو پہنچ سکتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

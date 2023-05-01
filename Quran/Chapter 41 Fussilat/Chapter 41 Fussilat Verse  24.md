@@ -3224,6 +3224,12 @@ ab agar ye sabr kare to bhi un ka thikaana jahannam hee hai aur agar ye (uzr wa)
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اب اگر وہ صبر کریں تب بھی ان کا ٹھکانا دوزخ ہے، اور اگر وہ (توبہ کے ذریعے اللہ کی) رضا حاصل کرنا چاہیں تو بھی وہ رضا پانے والوں میں نہیں ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب ان لوگوں کا حال یہ ہے کہ اگر یہ صبر کریں تب بھی آگ ہی ان کا ٹھکانا ہے اور اگر یہ معذرت چاہیں تو یہ ان لوگوں میں سے نہیں ہیں جن کی معذرت قبول کی جاتی ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

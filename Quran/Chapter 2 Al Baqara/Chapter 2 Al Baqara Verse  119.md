@@ -3224,6 +3224,12 @@ hum ne aap ko haq ke saath khush qabri dene waala aur daraane waala bana kar bhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے محبوبِ مکرّم!) بیشک ہم نے آپ کو حق کے ساتھ خوشخبری سنانے والا اور ڈر سنانے والا بنا کر بھیجا ہے اور اہلِ دوزخ کے بارے میں آپ سے پرسش نہیں کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) بیشک ہم نے تمہیں کو حق دے کر اس طرح بھیجا ہے کہ تم (جنت کی) خوشخبری دو اور (جہنم سے) ڈراؤ) اور جو لوگ (اپنی مرضی سے) جہنم (کا راستہ) اختیار کرچکے ہیں ان کے بارے میں آپ سے کوئی باز پرس نہیں ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne inhe aise imaam bana diye ke logo ko jahannam ki taraf bulaaye aur ro
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے انہیں (دوزخیوں کا) پیشوا بنا دیا کہ وہ (لوگوں کو) دوزخ کی طرف بلاتے تھے اور قیامت کے دن ان کی کوئی مدد نہیں کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے انہیں قائد بنایا تھا جو لوگوں کو دوزخ کی طرف بلاتے تھے، اور قیامت کے دن ان کو کسی کی مدد نہیں پہنچے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

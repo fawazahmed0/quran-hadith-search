@@ -3224,6 +3224,12 @@ ye Allah ki nemate jaante pehchaante hoye bhi un ke munkir ho rahe hai balke un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ لوگ اللہ کی نعمت کو پہچانتے ہیں پھر اس کا انکار کرتے ہیں اور ان میں سے اکثر کافر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ اللہ کی نعمتوں کو پہچانتے ہیں، پھر بھی ان کا انکار کرتے ہیں، اور ان میں سے اکثر لوگ ناشکرے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

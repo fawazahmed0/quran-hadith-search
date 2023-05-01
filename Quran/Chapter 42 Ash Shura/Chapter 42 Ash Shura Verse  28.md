@@ -3224,6 +3224,12 @@ aur wahi hai jo logo ke na-ummidh ho jaane ke baadh baarish barsaata hai aur apn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ ہی ہے جو بارش برساتا ہے اُن کے مایوس ہو جانے کے بعد اور اپنی رحمت پھیلا دیتا ہے، اور وہ کار ساز بڑی تعریفوں کے لائق ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جو لوگوں کے ناامید ہونے کے بعد بارش برساتا اور اپنی رحمت پھیلا دیتا ہے، اور وہی ہے جو (سب کا) قابل تعریف رکھوالا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

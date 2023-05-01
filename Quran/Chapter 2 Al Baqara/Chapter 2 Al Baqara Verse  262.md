@@ -3224,6 +3224,12 @@ jo log apna maal Allah ki raah mein qarch karte hai phir us ke baadh na to ehsaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ اللہ کی راہ میں اپنے مال خرچ کرتے ہیں پھر اپنے خرچ کئے ہوئے کے پیچھے نہ احسان جتلاتے ہیں اور نہ اذیت دیتے ہیں ان کے لئے ان کے رب کے پاس ان کا اجر ہے اور (روزِ قیامت) ان پر نہ کوئی خوف ہوگا اور نہ وہ غمگین ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اپنے مال اللہ کے راستے میں خرچ کرتے ہیں، پھر خرچ کرنے کے بعد نہ احسان جتلاتے ہیں اور نہ کوئی تکلیف پہنچاتے ہیں، وہ اپنے پروردگار کے پاس اپنا ثواب پائیں گے، نہ ان کو کوئی خوف لاحق ہوگا اور نہ کوئی غم پہنچے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

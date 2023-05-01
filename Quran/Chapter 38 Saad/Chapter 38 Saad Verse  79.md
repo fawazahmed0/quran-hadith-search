@@ -3224,6 +3224,12 @@ kehne laga, mere rab mujhe logo ke uth khade hone ke din tak mahullath de
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُس نے کہا: اے پروردگار! پس تو مجھے اُس دن تک (زندہ رہنے کی) مہلت دے دے جس دن لوگ (دوبارہ) قبروں سے اٹھائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے کہا : میرے پروردگار ! پھر تو مجھے اس دن تک کے لیے (جینے کی) مہلت دیدے جس دن لوگوں کو دوبارہ زندہ کیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

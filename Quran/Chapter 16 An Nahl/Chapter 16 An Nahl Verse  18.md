@@ -3224,6 +3224,12 @@ aur agar tum Allah ki nemato ka shumaar karna chaaho to tum ose nahi kar sakte, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم اللہ کی نعمتوں کو شمار کرنا چاہو تو انہیں پورا شمار نہ کر سکو گے، بیشک اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم اللہ کی نعمتوں کو گننے لگو، تو انہیں شمار نہیں کرسکتے۔ حقیقت یہ ہے کہ اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

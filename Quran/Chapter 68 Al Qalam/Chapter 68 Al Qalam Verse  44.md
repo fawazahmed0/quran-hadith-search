@@ -3224,6 +3224,12 @@ pas mujhe aur us kalaam ko jhutlaane waale ko chohd de, hum unhe is tarah aahist
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (اے حبیبِ مکرم!) آپ مجھے اور اس شخص کو جو اس کلام کو جھٹلاتا ہے (اِنتقام کے لئے) چھوڑ دیں، اب ہم انہیں آہستہ آہستہ (تباہی کی طرف) اس طرح لے جائیں گے کہ انہیں معلوم تک نہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) جو لوگ اس کلام کو جھٹلا رہے ہیں انہیں مجھ پر چھوڑ دو ۔ ہم انہیں اس طرح دھیرے دھیرے (تباہی کی طرف) لے جائیں گے کہ انہیں پتہ بھی نہیں چلے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

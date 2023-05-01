@@ -3224,6 +3224,12 @@ hum aur hamaare baap dadaao ko bahuth pehle se ye waade kiye jaate rahe, kuch na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+درحقیقت اس کا وعدہ ہم سے (بھی) کیا گیا اور اس سے پہلے ہمارے باپ دادا سے (بھی)، یہ اگلے لوگوں کے من گھڑت افسانوں کے سوا کچھ نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے اور ہمارے باپ دادوں سے اس قسم کے وعدے پہلے بھی کیے گئے تھے، (لیکن) ان کی حقیقت اس کے سوا کچھ نہیں کہ یہ قصہ کہانیاں ہیں جو پرانے زمانے کے لوگوں سے نقل ہوتی چلی آرہی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

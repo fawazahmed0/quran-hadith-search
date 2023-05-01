@@ -3224,6 +3224,12 @@ jo ek chashma hai, jis se Allah ke bandhe piyenge, us ki nehre nikaal le jayenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(کافور جنت کا) ایک چشمہ ہے جس سے (خاص) بندگانِ خدا (یعنی اَولیاء اللہ) پیا کریں گے (اور) جہاں چاہیں گے (دوسروں کو پلانے کے لئے) اسے چھوٹی چھوٹی نہروں کی شکل میں بہا کر (بھی) لے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ مشروبات ایک ایسے چشمے کے ہوں گے جو اللہ کے (نیک) بندوں کے پینے کے لیے مخصوص ہے، وہ اسے (جہاں چاہیں گے) آسانی سے بہا کرلے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

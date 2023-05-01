@@ -3224,6 +3224,12 @@ jo kuch tumhaare dilo mein hai ose tumhara rub ba-qoobi jaanta hai, agar tum nek
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہارا رب ان (باتوں) سے خوب آگاہ ہے جو تمہارے دلوں میں ہیں، اگر تم نیک سیرت ہو جاؤ تو بیشک وہ (اللہ اپنی طرف) رجوع کرنے والوں کو بہت بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہارا رب خوب جانتا ہے تمہارے دلوں میں کیا ہے۔ اگر تم نیک بن جاؤ، تو وہ ان لوگوں کی خطائیں بہت معاف کرتا ہے جو کثرت سے اس کی طرف رجوع کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

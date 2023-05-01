@@ -3224,6 +3224,12 @@ ye log tumhare samne uzr pesh karenge jab tum un ke paas wapas jaoge,aap keh dij
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) وہ تم سے عذر خواہی کریں گے جب تم ان کی طرف (اس سفرِ تبوک سے) پلٹ کر جاؤ گے، (اے حبیب!) آپ فرما دیجئے: بہانے مت بناؤ ہم ہرگز تمہاری بات پر یقین نہیں کریں گے، ہمیں اللہ نے تمہارے حالات سے باخبر کردیا ہے، اور اب (آئندہ) تمہارا عمل (دنیا میں بھی) اللہ دیکھے گا اور اس کا رسول (صلی اللہ علیہ وآلہ وسلم) بھی (دیکھے گا) پھر تم (آخرت میں بھی) ہر پوشیدہ اور ظاہر کو جاننے والے (رب) کی طرف لوٹائے جاؤ گے تو وہ تمہیں ان تمام (اعمال) سے خبردار فرما دے گا جو تم کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) جب تم لوگ (تبوک سے) واپس ان (منافقوں) کے پاس جاؤ گے، تو یہ تمہارے سامنے (طرح طرح کے) عذر پیش کریں گے۔ (اے پیغمبر) ان سے کہہ دینا کہ : تم عذر پیش نہ کرو ہم ہرگز تمہاری بات کا یقین نہیں کریں گے۔ اللہ نے ہمیں تمہارے حالات سے اچھی طرح باخبر کردیا ہے۔ اور آئندہ اللہ بھی تمہارا طرز عمل دیکھے گا، اور اس کا رسول بھی، پھر تمہیں لوٹا کر اس ذات کے سامنے پیش کیا جائے گا جس کو چھپی اور کھلی تمام باتوں کا پورا علم ہے، پھر وہ تمہیں بتائے گا کہ تم کیا کچھ کرتے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

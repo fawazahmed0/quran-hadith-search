@@ -3224,6 +3224,12 @@ aye Dawoodh! (alaihissalaam) hum ne tumhe zameen mein qalifa bana diya, tum logo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے داؤد! بے شک ہم نے آپ کو زمین میں (اپنا) نائب بنایا سو تم لوگوں کے درمیان حق و انصاف کے ساتھ فیصلے (یا حکومت) کیا کرو اور خواہش کی پیروی نہ کرنا ورنہ (یہ پیروی) تمہیں راہِ خدا سے بھٹکا دے گی، بے شک جو لوگ اللہ کی راہ سے بھٹک جاتے ہیں اُن کے لئے سخت عذاب ہے اس وجہ سے کہ وہ یومِ حساب کو بھول گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے داؤد ! ہم نے تمہیں زمین میں خلیفہ بنایا ہے، لہذا تم لوگوں کے درمیان برحق فیصلے کرو، اور نفسانی خواہش کے پیچھے نہ چلو، ورنہ وہ تمہیں اللہ کے راستے سے بھٹکا دے گی۔ یقین رکھو کہ جو لوگ اللہ کے راستے سے بھٹک جاتے ہیں، ان کے لیے سخت عذاب ہے، کیونکہ انہوں نے حساب کے دن کو بھلا دیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

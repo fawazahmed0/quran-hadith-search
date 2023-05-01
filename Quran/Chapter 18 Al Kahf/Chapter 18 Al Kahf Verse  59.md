@@ -3224,6 +3224,12 @@ ye hai wo bastiya jinhe hum ne un ke mazaalim ki bina par ghaarath kar diya aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ بستیاں ہیں ہم نے جن کے رہنے والوں کو ہلاک کر ڈالا جب انہوں نے ظلم کیا اور ہم نے ان کی ہلاکت کے لئے ایک وقت مقرر کر رکھا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ساری بستیاں (تمہارے سامنے) ہیں، جب انہوں نے ظلم کی روش اپنائی تو ہم نے ان کو ہلاک کر ڈالا، اور ان کی ہلاکت کے لیے (بھی) ہم نے ایک وقت مقرر کیا ہوا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

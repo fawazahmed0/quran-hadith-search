@@ -3224,6 +3224,12 @@ aur jo log jhoti gawaahi nahi dete, aur jab kisi laghw cheez par un ka guzar hot
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ) وہ لوگ ہیں جو کذب اور باطل کاموں میں (قولاً اور عملاً دونوں صورتوں میں) حاضر نہیں ہوتے اور جب بے ہودہ کاموں کے پاس سے گزرتے ہیں تو (دامن بچاتے ہوئے) نہایت وقار اور متانت کے ساتھ گزر جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (رحمن کے بندے وہ ہیں) جو ناحق کاموں میں شامل نہیں ہوتے اور جب کسی لغو چیز کے پاس سے گزرتے ہیں تو وقار کے ساتھ گزر جاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

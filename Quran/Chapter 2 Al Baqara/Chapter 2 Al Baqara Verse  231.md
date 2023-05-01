@@ -3224,6 +3224,12 @@ jab tum aurto ko talaaq do aur wo apni iddath58 qatam karne par aaye, to ab unhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تم عورتوں کو طلاق دو اور وہ اپنی عدت (پوری ہونے) کو آپہنچیں تو انہیں اچھے طریقے سے (اپنی زوجیّت میں) روک لو یا انہیں اچھے طریقے سے چھوڑ دو، اور انہیں محض تکلیف دینے کے لئے نہ روکے رکھو کہ (ان پر) زیادتی کرتے رہو، اور جو کوئی ایسا کرے پس اس نے اپنی ہی جان پر ظلم کیا، اور اللہ کے احکام کو مذاق نہ بنا لو، اور یاد کرو اللہ کی اس نعمت کو جو تم پر (کی گئی) ہے اور اس کتاب کو جو اس نے تم پر نازل فرمائی ہے اور دانائی (کی باتوں) کو (جن کی اس نے تمہیں تعلیم دی ہے) وہ تمہیں (اس امر کی) نصیحت فرماتا ہے، اور اللہ سے ڈرو اور جان لو کہ بیشک اللہ سب کچھ جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم نے عورتوں کو طلاق دے دی ہو اور وہ اپنی عدت کے قریب پہنچ جائیں، تو یا تو ان کو بھلائی کے ساتھ (اپنی زوجیت میں) روک رکھو، یا انہیں بھلائی کے ساتھ چھوڑ دو ، اور انہیں ستانے کی خاطر اس لیے روک کر نہ رکھو کہ ان پر ظلم کرسکو اور جو شخص ایسا کرے گا وہ خود اپنی جان پر ظلم کرے گا، اور اللہ کی آیتوں کو مذاق مت بناؤ اور اللہ نے تم پر جو انعام فرمایا ہے اسے اور تم پر جو کتاب اور حکمت کی باتیں تمہیں نصیحت کرنے کے لیے نازل کی ہیں انہیں یاد رکھو، اور اللہ سے ڈرتے رہو، اور جان رکھو کہ اللہ ہر چیز کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ beshak hum un ki azmaayesh ke liye ontni bhejenge, pas (aye saaleh) tu un ka mun
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم اُن کی آزمائش کے لئے اونٹنی بھیجنے والے ہیں، پس (اے صالح!) اُن (کے انجام) کا انتظار کریں اور صبر جاری رکھیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم ان کے پاس ان کی آزمائش کے طور پر اونٹنی بھیج رہے ہیں، اس لیے تم انہیں دیکھتے رہو، اور صبر سے کام لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

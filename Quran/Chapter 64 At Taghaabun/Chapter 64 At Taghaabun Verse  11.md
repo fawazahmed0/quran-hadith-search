@@ -3224,6 +3224,12 @@ koyi musibath Allah ki ijaazath ke baghair nahi pahonch sakti, jo Allah par imaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(کسی کو) کوئی مصیبت نہیں پہنچتی مگر اللہ کے حکم سے اور جو شخص اللہ پر ایمان لاتا ہے تو وہ اُس کے دل کو ہدایت فرما دیتا ہے، اور اللہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کوئی مصیبت اللہ کے حکم کے بغیر نہیں آتی، اور جو کوئی اللہ پر ایمان لاتا ہے وہ اس کے دل کو ہدایت بخشتا ہے، اور اللہ ہر چیز کو خوب جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

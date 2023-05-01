@@ -3224,6 +3224,12 @@ aur agar aap (wo waqth) mulaaheza kare jab ke ye kuffaar ghabraaye phirenge, phi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ (ان کا حال) دیکھیں جب یہ لوگ بڑے مضطرب ہوں گے، پھر بچ نہ سکیں گے اور نزدیکی جگہ سے ہی پکڑ لئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر تمہیں ان کی حالت عجیب نظر آئے گی) اگر تم وہ منظر دیکھو جب یہ گھبرائے پھرتے ہوں گے، اور بھاگ نکلنے کا کوئی راستہ نہیں ہوگا، اور انہیں قریب ہی سے پکڑ لیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

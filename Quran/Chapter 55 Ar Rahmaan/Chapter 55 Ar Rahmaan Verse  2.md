@@ -3224,6 +3224,12 @@ Qur’aan sikhaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے (خود رسولِ عربی ﷺ کو یا ان کے ذریعے اِنسان کو) قرآن سکھایا٭o٭ یہ آیت کفّار و مشرکینِ مکّہ کے اِس الزام کے جواب میں اُتری کہ محمد ﷺ کو (معاذ اللہ) کوئی شخص خفیہ قرآن سکھاتا ہے۔ حوالہ جات کے لیے ملاحظہ کریں: تفسیر القشیری، البغوی، الخازن، البحر المحیط، الجمل، اللباب، الصاوی، فتح القدیر، المظہری، السراج المنیر، المراغی، اضواء البیان اور مجمع البیان وغیرھم
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس نے قرآن کی تعلیم دی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

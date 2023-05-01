@@ -3224,6 +3224,12 @@ unhone jawaab diya ke hum ne apne eqtiyaar se aap ke saath waade ka qilaaf nahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: ہم نے اپنے اختیار سے آپ کے وعدہ کی خلاف ورزی نہیں کی مگر (ہوا یہ کہ) قوم کے زیورات کے بھاری بوجھ ہم پر لاد دیئے گئے تھے تو ہم نے انہیں (آگ میں) ڈال دیا پھر اسی طرح سامری نے (بھی) ڈال دیئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگے : ہم نے اپنے اختیار سے آپ کے وعدے کی خلاف ورزی نہیں کی، بلکہ ہوا یہ کہ ہم پر لوگوں کے زیورات کے بوجھ لدے ہوئے تھے، اس لیے ہم نے انہیں پھینک دیا۔ پھر اسی طرح سامری نے کچھ ڈالا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo kehte hai ke aye hamaare rab! hum imaan la chuke, is liye hamaare gunaah maaf
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ وہ لوگ ہیں) جو کہتے ہیں: اے ہمارے رب! ہم یقینا ایمان لے آئے ہیں سو ہمارے گناہ معاف فرما دے اور ہمیں دوزخ کے عذاب سے بچا لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جو کہتے ہیں کہ : اے ہمارے پروردگار ہم آپ پر ایمان لے آئے ہیں، اب ہمارے گناہوں کو بخش دیجیے، اور ہمیں دوزخ کے عذاب سے بچا لیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

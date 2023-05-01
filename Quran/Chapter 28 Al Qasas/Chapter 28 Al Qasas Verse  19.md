@@ -3224,6 +3224,12 @@ phir jab apne aur us ke dushman ko pakadna chaaha, wo faryaadi kehne laga, Mosa(
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو جب انہوں نے ارادہ کیا کہ اس شخص کو پکڑیں جو ان دونوں کا دشمن ہے تو وہ بول اٹھا: اے موسٰی! کیا تم مجھے (بھی) قتل کرنا چاہتے ہو جیسا کہ تم نے کل ایک شخص کو قتل کر ڈالا تھا۔ تم صرف یہی چاہتے ہو کہ ملک میں بڑے جابر بن جاؤ اور تم یہ نہیں چاہتے کہ اصلاح کرنے والوں میں سے بنو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب انہوں نے اس شخص کو پکڑنے کا ارادہ کیا جو ان دونوں کا دشمن تھا تو اس (اسرائیلی) نے کہا : موسیٰ کیا تم مجھے بھی اسی طرح قتل کرنا چاہتے ہو جیسے تم نے کل ایک آدمی کو قتل کردیا تھا ؟ تمہارا مقصد اس کے سوا کچھ نہیں کہ تم زمین میں اپنی زبردستی جماؤ، اور تم مصلح بننا نہیں چاہتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

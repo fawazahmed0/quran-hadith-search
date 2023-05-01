@@ -3224,6 +3224,12 @@ Allah ta’ala irshaad farma chuka hai ke do maboodh na banaao, maboodh to sirf 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے فرمایا ہے: تم دو معبود مت بناؤ، بیشک وہی (اللہ) معبودِ یکتا ہے، اور تم مجھ ہی سے ڈرتے رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے فرمایا ہے کہ : دو دو معبود نہ بنا بیٹھنا، وہ تو بس ایک ہی معبود ہے۔ اس لیے بس مجھی سے ڈرا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

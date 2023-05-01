@@ -3224,6 +3224,12 @@ agar ye log teri na farmaani kare to, tu elaan karde ke main un kaamo se bezaar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر وہ آپ کی نافرمانی کریں تو آپ فرما دیجئے کہ میں ان اعمالِ (بد) سے بیزار ہوں جو تم انجام دے رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر وہ تمہاری نافرمانی کریں تو کہہ دو کہ : جو کچھ تم کر رہے ہو، اس سے میرا کوئی تعلق نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

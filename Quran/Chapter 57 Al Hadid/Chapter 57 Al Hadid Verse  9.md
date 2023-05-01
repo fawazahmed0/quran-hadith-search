@@ -3224,6 +3224,12 @@ wo (Allah) hee hai jo apne bandhe par waazeh aayate utaarta hai, ta ke wo tumhe 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جو اپنے (برگزیدہ) بندے پر واضح نشانیاں نازل فرماتا ہے تاکہ تمہیں اندھیروں سے روشنی کی طرف نکال لے جائے، اور بیشک اللہ تم پر نہایت شفقت فرمانے والا نہایت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہی تو ہے جو اپنے بندے پر کھلی کھلی آیتیں نازل فرماتا ہے، تاکہ تمہیں اندھیریوں سے نکال کر روشنی میں لائے۔ اور یقین جانو اللہ تم پر بہت شفیق، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un mein tumhaare liye ek muqarrar waqt tak ka fayeda hai, phir un ke halaal hone
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہارے لئے ان (قربانی کے جانوروں) میں مقررہ مدت تک فوائد ہیں پھر انہیں قدیم گھر (خانہ کعبہ) کی طرف (ذبح کے لئے) پہنچنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہیں ایک معین وقت تک ان (جانوروں سے) فوائد حاصل کرنے کا حق ہے۔ پھر ان کے حلال ہونے کی منزل اسی قدیم گھر (یعنی خانہ کعبہ) کے آس پاس ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

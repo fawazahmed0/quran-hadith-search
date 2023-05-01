@@ -3224,6 +3224,12 @@ balke un ke dil us taraf se ghaflath mein hai, aur un ke liye us ke siva bhi bah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ ان کے دل اس (قرآن کے پیغام) سے غفلت میں (پڑے) ہیں اور اس کے سوا (بھی) ان کے کئی اور (برے) اعمال ہیں جن پر وہ عمل پیرا ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن ان کے دل اس بات سے غفلت میں ڈوبے ہوئے ہیں، اور اس کے علاوہ ان کی اور بھی کارستانیاں ہیں جو وہ کرتے رہتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

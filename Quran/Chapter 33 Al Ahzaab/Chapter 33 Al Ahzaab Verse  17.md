@@ -3224,6 +3224,12 @@ puchiye to, ke agar Allah ta’ala tumhe koyi buraayi pahonchana chaahe, ya tum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کون ایسا شخص ہے جو تمہیں اللہ سے بچا سکتا ہے اگر وہ تمہیں تکلیف دینا چاہے یا تم پر رحمت کا ارادہ فرمائے، اور وہ لوگ اپنے لئے اللہ کے سوا نہ کوئی کارساز پائیں گے اور نہ کوئی مددگار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : کون ہے جو تمہیں اللہ سے بچا سکے، اگر وہ تمہیں کوئی برائی پہنچانے کا ارادہ کرلے، یا (وہ کون ہے جو اس کی رحمت کو روک سکے) اگر وہ تم پر رحمت کرنے کا ارادہ کرلے ؟ اور اللہ کے سوا ان لوگوں کو نہ کوئی رکھوالا مل سکتا ہے، نہ کوئی مددگار۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ so jab Allah ne duno ko sahih saalim aulaad de di to Allah ki di hoyi cheez mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن جب اللہ نے ان کو ایک تندرست بچہ دے دیا تو ان دونوں نے اللہ کی عطا کی ہوئی نعمت میں اللہ کے ساتھ دوسروں کو شریک ٹھہرانا شروع کردیا، حالانکہ اللہ ان کا مشرکانہ باتوں سے کہیں بلند اور برتر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

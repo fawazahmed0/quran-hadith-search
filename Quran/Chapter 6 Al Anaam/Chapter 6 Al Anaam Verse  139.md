@@ -3224,6 +3224,12 @@ aur wo kehte hai ke jo cheez un maweshi ke pet mein hai, wo qaalis hamaare mardo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ بھی) کہتے ہیں کہ جو (بچہ) ان چوپایوں کے پیٹ میں ہے وہ ہمارے مَردوں کے لئے مخصوص ہے اور ہماری عورتوں پر حرام کر دیا گیا ہے، اور اگر وہ (بچہ) مرا ہوا (پیدا) ہو تو وہ (مرد اور عورتیں) سب اس میں شریک ہوتے ہیں، عنقریب وہ انہیں ان کی (من گھڑت) باتوں کی سزا دے گا، بیشک وہ بڑی حکمت والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نیز وہ کہتے ہیں کہ : ان خاص چوپایوں کے پیٹ میں جو بچے ہیں وہ صرف ہمارے مردوں کے لیے مخصوص ہیں، اور ہماری عورتوں کے لیے حرام ہیں۔ اور اگر وہ بچہ مردہ پیدا ہو تو اس سے فائدہ اٹھانے میں سب (مرد و عورت) شریک ہوجاتے ہیں۔ جو باتیں یہ لوگ بنا رہے ہیں، اللہ انہیں عنقریب ان کا پورا پورا بدلہ دے گا۔ یقینا وہ حکمت کا بھی مالک ہے، علم کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

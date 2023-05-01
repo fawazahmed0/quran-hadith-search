@@ -3224,6 +3224,12 @@ aur Allah ta’ala tumhaare paas apni kitaab mein ye hukm utaar chuka hai ke tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک (اللہ نے) تم پر کتاب میں یہ (حکم) نازل فرمایا ہے کہ جب تم سنو کہ اللہ کی آیتوں کا انکار کیا جا رہا ہے اور ان کا مذاق اُڑایا جا رہا ہے تو تم ان لوگوں کے ساتھ مت بیٹھو یہاں تک کہ وہ (انکار اور تمسخر کو چھوڑ کر) کسی دوسری بات میں مشغول ہو جائیں۔ ورنہ تم بھی انہی جیسے ہو جاؤ گے۔ بیشک اللہ منافقوں اور کافروں سب کو دوزخ میں جمع کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس نے کتاب میں تم پر یہ حکم نازل کیا ہے کہ جب تم اللہ کی آیتوں کو سنو کہ ان کا انکار کیا جارہا ہے اور ان کا مذاق اڑایا جارہا ہے تو ایسے لوگوں کے ساتھ اس وقت تک مت بیٹھو جب تک وہ کسی اور بات میں مشغول نہ ہوجائیں، ورنہ تم بھی انہی جیسے ہوجاؤ گے۔ یقین رکھو کہ اللہ تمام منافقوں اور کافروں کو جہنم میں اکٹھا کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

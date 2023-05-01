@@ -3224,6 +3224,12 @@ jo kuch wo keh rahe hai, us ki haqiqath se hum ba qabar hai, un mein sab se zyaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم خوب جانتے ہیں وہ جو کچھ کہہ رہے ہوں گے جبکہ ان میں سے ایک عقل و عمل میں بہتر شخص کہے گا کہ تم تو ایک دن کے سوا (دنیا میں) ٹھہرے ہی نہیں ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس بارے میں وہ باتیں کریں گے اس کی حقیقت ہمیں خوب معلوم ہے۔ جبکہ ان میں سے جس کا طریقہ سب سے بہتر ہوگا، وہ کہے گا کہ تم ایک دن سے زیادہ نہیں ٹھہرے ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

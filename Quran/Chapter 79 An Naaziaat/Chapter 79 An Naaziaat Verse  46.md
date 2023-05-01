@@ -3224,6 +3224,12 @@ jis roz ye ose dekh lenge, to aisa maloom hoga ke sirf din ka aaqri hissa ya aww
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+گویا وہ جس دن اسے دیکھ لیں گے تو (یہ خیال کریں گے کہ) وہ (دنیا میں) ایک شام یا اس کی صبح کے سوا ٹھہرے ہی نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن یہ اس کو دیکھ لیں گے، اس دن انہیں ایسا معلوم ہوگا جیسے وہ (دنیا میں یا قبر میں) ایک شام یا ایک صبح سے زیادہ نہیں رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

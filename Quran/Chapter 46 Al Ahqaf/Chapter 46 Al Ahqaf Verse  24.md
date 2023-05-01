@@ -3224,6 +3224,12 @@ phir jab unhone azaab ko ba surate baadal dekha apni waadiyo ki taraf aate hoye,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب انہوں نے اس (عذاب) کو بادل کی طرح اپنی وادیوں کے سامنے آتا ہوا دیکھا تو کہنے لگے: یہ (تو) بادل ہے جو ہم پر برسنے والا ہے، (ایسا نہیں ہے) بلکہ وہ (بادل) تو وہ (عذاب) ہے جس کی تم نے جلدی مچا رکھی تھی۔ (یہ) آندھی ہے جس میں دردناک عذاب (آرہا) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ جب انہوں نے اس (عذاب) کو ایک بادل کی شکل میں آتا دیکھا جو ان کی وادیوں کا رخ کر رہا تھا تو انہوں نے کہا کہ : یہ بادل ہے جو ہم پر بارش برسائے گا۔ نہیں ! بلکہ یہ وہ چیز ہے جس کی تم نے جلدی مچائی تھی۔ ایک آندھی جس میں دردناک عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

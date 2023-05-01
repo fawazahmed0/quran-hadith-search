@@ -3224,6 +3224,12 @@ ye jo kuch bhi bhalaaiyya kare, un ki na-qadri na ki jayegi aur Allah ta’ala p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ لوگ جو نیک کام بھی کریں اس کی ناقدری نہیں کی جائے گی اور اللہ پرہیزگاروں کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جو بھلائی بھی کریں گے، اس کی ہرگز ناقدری نہیں کی جائے گی، اور اللہ پرہیزگاروں کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

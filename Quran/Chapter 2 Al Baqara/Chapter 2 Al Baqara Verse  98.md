@@ -3224,6 +3224,12 @@ Yakshcho khto ye vorohom Allahu, anhelam Yoho, poslantsyam Yoho, Dzhibrilyu ta M
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص اللہ کا اور اس کے فرشتوں اور اس کے رسولوں کا اور جبریل اور میکائیل کا دشمن ہوا تو یقیناً اللہ (بھی ان) کافروں کا دشمن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر کوئی شخص اللہ کا، اس کے فرشتوں اور رسولوں کا، اور جبرئیل اور میکائیل کا دشمن ہے تو (وہ سن رکھے کہ) اللہ کافروں کا دشمن ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

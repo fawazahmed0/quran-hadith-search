@@ -3224,6 +3224,12 @@ aur main tauraath ki tasdeeq karne waala hoon jo mere saamne hai, aur main is li
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں اپنے سے پہلے اتری ہوئی (کتاب) تورات کی تصدیق کرنے والا ہوں اور یہ اس لئے کہ تمہاری خاطر بعض ایسی چیزیں حلال کر دوں جو تم پر حرام کر دی گئی تھیں اور تمہارے پاس تمہارے رب کی طرف سے نشانی لے کر آیا ہوں، سو اللہ سے ڈرو اور میری اطاعت اختیار کر لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو کتاب مجھ سے پہلے آچکی ہے، یعنی تورات، میں اس کی تصدیق کرنے والا ہوں، اور (اس لیے بھیجا گیا ہوں) تاکہ کچھ چیزیں جو تم پر حرام کی گئی تھیں، اب تمہارے لیے حلال کردوں۔ اور میں تمہارے پاس تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں، لہذا اللہ سے ڈرو اور میرا کہنا مانو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

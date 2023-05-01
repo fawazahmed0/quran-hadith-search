@@ -3224,6 +3224,12 @@ unhone makar (khufiyaa tadbeer) kiya aur hum ne bhi, aur wo ose samajhte hee na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے خفیہ سازش کی اور ہم نے (بھی اس کے توڑ کے لئے) خفیہ تدبیر فرمائی اور انہیں خبر بھی نہ ہوئی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے یہ چال چلی اور ہم نے بھی ایک چال اس طرح چلی کہ ان کو پتہ بھی نہ لگ سکا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

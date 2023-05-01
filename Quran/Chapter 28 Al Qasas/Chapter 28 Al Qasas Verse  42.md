@@ -3224,6 +3224,12 @@ aur hum ne is dunya mein bhi un ke piche apni laanath laga di aur qayaamath ke d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان کے پیچھے اس دنیا میں (بھی) لعنت لگا دی اور قیامت کے دن (بھی) وہ بدحال لوگوں میں (شمار) ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دنیا میں ہم نے لعنت ان کے پیچھے لگا دی ہے، اور قیامت کے دن وہ ان لوگوں میں شامل ہوں گے جن کی بری حالت ہونے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

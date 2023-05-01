@@ -3224,6 +3224,12 @@ isi tarah jo log un se pehle guzre hai, un ke paas jo bhi rasool aya, unhone keh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی طرح اُن سے پہلے لوگوں کے پاس بھی کوئی رسول نہیں آیا مگر انہوں نے یہی کہا کہ (یہ) جادوگر ہے یا دیوانہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی طرح ان سے پہلے جو لوگ تھے ان کے پاس بھی کوئی پیغمبر ایسا نہیں آیا جس کے بارے میں انہوں نے یہ نہ کہا ہو کہ : جادوگر ہے، یا دیوانہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

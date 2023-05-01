@@ -3224,6 +3224,12 @@ qabardaar! Allah ta’ala hee ke liye qaalis ibaadath karna hai aur jin logo ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(لوگوں سے کہہ دیں:) سُن لو! طاعت و بندگی خالصۃً اللہ ہی کے لئے ہے، اور جن (کفّار) نے اللہ کے سوا (بتوں کو) دوست بنا رکھا ہے، وہ (اپنی بُت پرستی کے جھوٹے جواز کے لئے یہ کہتے ہیں کہ) ہم اُن کی پرستش صرف اس لئے کرتے ہیں کہ وہ ہمیں اللہ کا مقرّب بنا دیں، بے شک اللہ اُن کے درمیان اس چیز کا فیصلہ فرما دے گا جس میں وہ اختلاف کرتے ہیں، یقیناً اللہ اس شخص کو ہدایت نہیں فرماتا جو جھوٹا ہے، بڑا ناشکر گزار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد رکھو کہ خالص بندگی اللہ ہی کا حق ہے۔ اور جن لوگوں نے اس کے بجائے دوسرے رکھوالے بنا لیے ہیں۔ (یہ کہہ کر کہ) ہم ان کی عبادت صرف اس لیے کرتے ہیں کہ یہ ہمیں اللہ سے قریب کردیں۔ ان کے درمیان اللہ ان باتوں کا فیصلہ کرے گا جن میں وہ اختلاف کر رہے ہیں۔ یقین رکھو کہ اللہ کسی ایسے شخص کو راستے پر نہیں لاتا جو جھوٹا ہو، کفر پر جما ہوا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kehne laga ke aye mere rub mujhe us din tak ki dheel de ke log dubaara utha khad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُس نے کہا: اے پروردگار! پس تو مجھے اُس دن تک (زندہ رہنے کی) مہلت دے دے جس دن لوگ (دوبارہ) قبروں سے اٹھائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگا : یا رب ! پھر مجھے اس دن تک (زندہ رہنے کی) مہلت دیدے جب لوگ مرنے کے بعد دوبارہ زندہ کیے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un ke aksar qufiya mashwero mein koyi khair nahi, haan! bhalaayi us ke mashware 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے اکثر خفیہ مشوروں میں کوئی بھلائی نہیں سوائے اس شخص (کے مشورے) کے جو کسی خیرات کا یا نیک کام کا یا لوگوں میں صلح کرانے کا حکم دیتا ہے اور جو کوئی یہ کام اللہ کی رضا جوئی کے لئے کرے تو ہم اس کو عنقریب عظیم اجر عطا کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگوں کی بہت سی خفیہ سرگوشیوں میں کوئی خیر نہیں ہوتی، الا یہ کہ کوئی شخص صدقے کا یا کسی نیکی کا یا لوگوں کے درمیان اصلاح کا حکم دے۔ اور جو شخص اللہ کی خوشنودی حاصل کے کرنے کے لیے ایسا کرے گا، ہم اس کو زبردست ثواب عطا کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

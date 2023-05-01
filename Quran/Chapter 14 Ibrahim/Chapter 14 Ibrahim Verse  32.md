@@ -3224,6 +3224,12 @@ Allah wo hai jis ne aasmaano aur zameen ko paida kiya hai aur aasmaano se baaris
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ وہ ہے جس نے آسمانوں اور زمین کو پیدا فرمایا اور آسمان کی جانب سے پانی اتارا پھر اس پانی کے ذریعہ سے تمہارے رزق کے طور پر پھل پیدا کئے، اور اس نے تمہارے لئے کشتیوں کو مسخر کر دیا تاکہ اس کے حکم سے سمندر میں چلتی رہیں اور اس نے تمہارے لئے دریاؤں کو (بھی) مسخر کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے آسمانوں اور زمین کو پیدا کیا، اور آسمان سے پانی برسایا، پھر اس کے ذریعے تمہارے رزق کے لیے پھل اگائے، اور کشتیوں کو تمہارے لیے رام کردیا، تاکہ وہ اس کے حکم سے سمندر میں چلیں، اور دریاؤں کو بھی تمہاری خدمت پر لگا دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jis ka iraada aaqirath ka ho aur jaisi koshish us ke liye honi chaahiye wo k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص آخرت کا خواہش مند ہوا اور اس نے اس کے لئے اس کے لائق کوشش کی اور وہ مومن (بھی) ہے تو ایسے ہی لوگوں کی کوشش مقبولیت پائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص آخرت (کا فائدہ) چاہے اور اس کے لیے ویسی ہی کوشش کرے جیسی اس کے لیے کرنی چاہے، جبکہ وہ مومن بھی ہو، تو ایسے لوگوں کی کوشش کی پوری قدر دانی کی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

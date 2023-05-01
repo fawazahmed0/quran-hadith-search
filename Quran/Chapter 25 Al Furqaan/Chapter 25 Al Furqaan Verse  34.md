@@ -3224,6 +3224,12 @@ jo log apne mu ke bal jahannam ki taraf jama kiye jayenge, wahi badh-tar makaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) ایسے لوگ ہیں جو اپنے چہروں کے بل دوزخ کی طرف ہانکے جائیں گے یہی لوگ ہیں جو ٹھکانے کے لحاظ سے نہایت برے اور راستے سے (بھی) بہت بہکے ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں کو گھیر کر نہ کے بل دوزخ کی طرف لے جایا جائے گا، وہ بدترین مقام پر ہیں، اور ان کا راستہ بدترین گمراہی کا راستہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

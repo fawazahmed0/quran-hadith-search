@@ -3224,6 +3224,12 @@ pas ab to hameshgi ke taur par tum jahannum ke darwaazo mein daakhil ho jao, pas
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تم دوزخ کے دروازوں سے داخل ہو جاؤ، تم اس میں ہمیشہ رہنے والے ہو، سو تکبّر کرنے والوں کا کیا ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اب ہمیشہ جہنم میں رہنے کے لیے اس کے دروازوں میں داخل ہوجاؤ، کیونکہ تکبر کرنے والوں کا یہی برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

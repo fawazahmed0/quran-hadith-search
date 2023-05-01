@@ -3224,6 +3224,12 @@ aap un ke malo mein se sadqa le lijiye jis ke zariye se aap un ko paak saaf kard
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ ان کے اموال میں سے صدقہ (زکوٰۃ) وصول کیجئے کہ آپ اس (صدقہ) کے باعث انہیں (گناہوں سے) پاک فرما دیں اور انہیں (ایمان و مال کی پاکیزگی سے) برکت بخش دیں اور ان کے حق میں دعا فرمائیں، بیشک آپ کی دعا ان کے لئے (باعثِ) تسکین ہے، اور اللہ خوب سننے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ان لوگوں کے اعمال میں سے صدقہ وصول کرلو جس کے ذریعے تم انہیں پاک کردو گے اور ان کے لیے باعث برکت بنو گے، اور ان کے لیے دعا کرو۔ یقینا تمہاری دعا ان کے لیے سراپا تسکین ہے، اور اللہ ہر بات سنتا اور سب کچھ جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

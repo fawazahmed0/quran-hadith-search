@@ -3224,6 +3224,12 @@ aye logo! apne parvardigaar se daro jis ne tumhe ek jaan se paida kiya aur osi s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! اپنے رب سے ڈرو جس نے تمہاری پیدائش (کی ابتداء) ایک جان سے کی پھر اسی سے اس کا جوڑ پیدا فرمایا پھر ان دونوں میں سے بکثرت مردوں اور عورتوں (کی تخلیق) کو پھیلا دیا، اور ڈرو اس اللہ سے جس کے واسطے سے تم ایک دوسرے سے سوال کرتے ہو اور قرابتوں (میں بھی تقوٰی اختیار کرو)، بیشک اللہ تم پر نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! اپنے پروردگار سے ڈرو جس نے تمہیں ایک جان سے پیدا کیا، اور اسی سے اس کی بیوی پیدا کی، اور ان دونوں سے بہت سے مرد اور عورتیں (دنیا میں) پھیلا دیئے۔ اور اللہ سے ڈرو جس کا واسطہ دے کر تم ایک دوسرے سے اپنے حقوق مانگتے ہو، اور رشتہ داریوں (کی حق تلفی سے) ڈرو۔ یقین رکھو کہ اللہ تمہاری نگرانی کررہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

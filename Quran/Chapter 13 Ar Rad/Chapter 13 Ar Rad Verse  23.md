@@ -3224,6 +3224,12 @@ hamesha rehne ke baghaath, jahaan ye khud jayenge aur un ke baap dadaao aur biwi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جہاں) سدا بہار باغات ہیں ان میں وہ لوگ داخل ہوں گے اور ان کے آباء و اجداد اور ان کی بیویوں اور ان کی اولاد میں سے جو بھی نیکوکار ہوگا اور فرشتے ان کے پاس (جنت کے) ہر دروازے سے آئیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یعنی ہمیشہ رہنے کے لیے وہ باغات جن میں وہ خود بھی داخل ہوں گے، اور ان کے باپ دادوں، بیویوں اور اولاد میں سے جو نیک ہوں گے وہ بھی، اور (ان کے استقبال کے لیے) فرشتے ان کے پاس ہر دروازے سے (یہ کہتے ہوئے) داخل ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye imaan waalo! tum un logo ki tarah na ho jaana jinhone kufr kiya aur apne bha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم ان کافروں کی طرح نہ ہو جاؤ جو اپنے ان بھائیوں کے بارے میں یہ کہتے ہیں جو (کہیں) سفر پر گئے ہوں یا جہاد کر رہے ہوں (اور وہاں مر جائیں) کہ اگر وہ ہمارے پاس ہوتے تو نہ مرتے اور نہ قتل کئے جاتے، تاکہ اللہ اس (گمان) کو ان کے دلوں میں حسرت بنائے رکھے، اور اللہ ہی زندہ رکھتا اور مارتا ہے، اور اللہ تمہارے اعمال خوب دیکھ رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! ان لوگوں کی طرح نہ ہوجانا جنہوں نے کفر اختیار کرلیا ہے، اور جب ان کے بھائی کسی سرزمین میں سفر کرتے ہیں یا جنگ میں شامل ہوتے ہیں تو یہ ان کے بارے میں کہتے ہیں کہ : اگر وہ ہمارے پاس ہوتے تو نہ مرتے، اور نہ مارے جاتے۔ (ان کی اس بات کا) نتیجہ تو (صرف) یہ ہے کہ اللہ ایسی باتوں کو ان کے دلوں میں حسرت کا سبب بنا دیتا ہے، (ورنہ) زندگی اور موت تو اللہ دیتا ہے۔ اور جو عمل بھی تم کرتے ہو اللہ اسے دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

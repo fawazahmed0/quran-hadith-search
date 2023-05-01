@@ -3224,6 +3224,12 @@ ye wo log hai jinhone dunya ki zindagi ko aaqirath ke badhle qareed liya, un ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی وہ لوگ ہیں جنہوں نے آخرت کے بدلے میں دنیا کی زندگی خرید لی ہے، پس نہ ان پر سے عذاب ہلکا کیا جائے گا اور نہ ہی ان کو مدد دی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جنہوں نے دنیوی زندگی کو آخرت کے بدلے خرید لیا ہے، لہذا نہ ان کے عذاب میں کوئی تخفیف ہوگی اور نہ ان کی مدد کی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

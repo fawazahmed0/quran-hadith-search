@@ -3224,6 +3224,12 @@ un aurto par koyi gunaah nahi, ke wo apne baapo aur apne beto aur bhaiyyo aur bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان پر (پردہ نہ کرنے میں) کوئی گناہ نہیں اپنے (حقیقی) آباء سے، اور نہ اپنے بیٹوں سے اور نہ اپنے بھائیوں سے، اور نہ اپنے بھتیجوں سے اور نہ اپنے بھانجوں سے اور نہ اپنی (مسلِم) عورتوں اور نہ اپنی مملوک باندیوں سے، تم اللہ کا تقوٰی (برقرار) رکھو، بیشک اللہ ہر چیز پر گواہ و نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نبی کی بیویوں کے لیے اپنے اپنے باپ (کے سامنے بےپردہ آنے) میں کوئی گناہ نہیں ہے، نہ اپنے بیٹوں کو، نہ اپنے بھائیوں کے، نہ اپنے بھتیجوں کے، نہ اپنے بھانجوں کے، اور نہ اپنی عورتوں کے۔ اور نہ اپنی کنیزوں کے (سامنے آنے میں کوئی گناہ ہے) اور (اے خواتین !) تم اللہ سے ڈرتی رہو۔ یقین جانو کہ اللہ ہر بات کا مشاہدہ کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

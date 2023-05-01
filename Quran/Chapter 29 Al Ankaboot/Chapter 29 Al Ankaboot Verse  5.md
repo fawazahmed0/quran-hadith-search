@@ -3224,6 +3224,12 @@ jise Allah ki mulaqaath ki ummid ho, pas Allah ka tehraya hoa waqt yaqinan aane 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص اللہ سے ملاقات کی امید رکھتا ہے تو بیشک اللہ کا مقرر کردہ وقت ضرور آنے والا ہے، اور وہی سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص اللہ سے جاملنے کی امید رکھتا ہو، اسے یقین رکھنا چاہیے کہ اللہ کی مقرر کی ہوئی میعاد ضرور آکر رہے گی، اور وہی ہے جو ہر بات سنتا، ہر چیز جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

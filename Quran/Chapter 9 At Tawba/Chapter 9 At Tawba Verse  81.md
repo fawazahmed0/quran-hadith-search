@@ -3224,6 +3224,12 @@ piche reh jane wale log rasol Allah(sallallahualaihiwasallam) ke jane ke badh ap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+رسول اللہ (صلی اللہ علیہ وآلہ وسلم) کی مخالفت کے باعث (دفاعِ مدینہ کے لیے جہاد سے) پیچھے رہ جانے والے (یہ منافق) اپنے بیٹھ رہنے پر خوش ہو رہے ہیں وہ اس بات کو ناپسند کرتے تھے کہ اپنے مالوں اور اپنی جانوں سے اللہ کی راہ میں جہاد کریں اور کہتے تھے کہ اس گرمی میں نہ نکلو۔ فرما دیجیے: دوزخ کی آگ سب سے زیادہ گرم ہے، اگر وہ سمجھتے ہوتے (تو کیا ہی اچھا ہوتا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں کو (غزوہ تبوک سے) پیچھے رہنے دیا گیا تھا، وہ رسول اللہ کے جانے کے بعد اپنے (گھروں میں) بیٹھے رہنے سے بڑے خوش ہوئے، اور ان کو یہ بات ناگوار تھی کہ وہ اللہ کے راستے میں اپنے مال و جان سے جہاد کریں، اور انہوں نے کہا تھا کہ : اس گرمی میں نہ نکلو۔ کہو کہ : جہنم کی آگ گرمی میں کہیں زیادہ سخت ہے۔ کاش۔ ان کو سمجھ ہوتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

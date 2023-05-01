@@ -3224,6 +3224,12 @@ wahi hai jis ne tumhaare liye zameen ko farsh (bichona) banaya aur us mein tumha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے تمہارے لئے زمین کو بچھونا بنایا اور اس میں تمہارے لئے راستے بنائے تاکہ تم منزلِ مقصود تک پہنچ سکو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ ذات ہے جس نے تمہارے لیے زمین کو بچھونا بنایا، اور اس میں تمہارے لیے راستے بنائے، تاکہ تم منزل تک پہنچ سکو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

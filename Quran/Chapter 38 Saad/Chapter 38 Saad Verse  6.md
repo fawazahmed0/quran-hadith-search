@@ -3224,6 +3224,12 @@ un ke sardaar ye kehte hoye chale ke, chalo ji aur apne mabudho par jame raho, y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُن کے سردار (ابوطالب کے گھر میں نبی اکرم صلی اللہ علیہ وآلہ وسلم کی مجلس سے اٹھ کر) چل کھڑے ہوئے (باقی لوگوں سے) یہ کہتے ہوئے کہ تم بھی چل پڑو، اور اپنے معبودوں (کی پرستش) پر ثابت قدم رہو، یہ ضرور ایسی بات ہے جس میں کوئی غرض (اور مراد) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان میں کے سردار لوگ یہ کہہ کر چلتے بنے کہ : چلو اور اپنے خداؤں (کی عبادت) پر ڈٹے رہو یہ بات تو ایسی ہے کہ اس کے پیچھے کچھ اور ہی ارادے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

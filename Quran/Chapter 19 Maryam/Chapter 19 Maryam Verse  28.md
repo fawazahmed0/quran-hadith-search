@@ -3224,6 +3224,12 @@ aaye Haroon ki behen! na to tera baap bora aadmi tha aur na teri maa badhkaar th
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہارون کی بہن! نہ تیرا باپ برا آدمی تھا اور نہ ہی تیری ماں بدچلن تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ہارون کی بہن نہ تو تمہارا باپ کوئی برا آدمی تھا، نہ تمہاری ماں کوئی بدکار عورت تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

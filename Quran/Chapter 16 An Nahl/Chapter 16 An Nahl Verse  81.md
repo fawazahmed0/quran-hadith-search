@@ -3224,6 +3224,12 @@ Allah hee ne tumhaare liye apni paida karda cheezo mein se saaye banaye hai aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ہی نے تمہارے لئے اپنی پیدا کردہ کئی چیزوں کے سائے بنائے اور اس نے تمہارے لئے پہاڑوں میں پناہ گاہیں بنائیں اور اس نے تمہارے لئے (کچھ) ایسے لباس بنائے جو تمہیں گرمی سے بچاتے ہیں اور (کچھ) ایسے لباس جو تمہیں شدید جنگ میں (دشمن کے وار سے) بچاتے ہیں، اس طرح اللہ تم پر اپنی نعمتِ (کفالت و حفاظت) پوری فرماتا ہے تاکہ تم (اس کے حضور) سرِ نیاز خم کر دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ ہی نے اپنی پیدا کی ہوئی چیزوں سے تمہارے لیے سائے پیدا کیے، اور پہاڑوں میں تمہارے لیے پناہ گا ہیں بنائیں، اور تمہارے لیے ایسے لباس پیدا کیے جو تمہیں گرمی سے بچاتے ہیں، اور ایسے لباس جو تمہاری جنگ میں تمہیں محفوظ رکھتے ہیں۔ اس طرح وہ اپنی نعمتوں کو تم پر مکمل کرتا ہے تاکہ تم فرمانبردار بنو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

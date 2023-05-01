@@ -3224,6 +3224,12 @@ Allah ta’ala chaahta hai ke tumhaare waaste qoob khol kar bayaan kare aur tumh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ چاہتا ہے کہ تمہارے لئے (اپنے احکام کی) وضاحت فرما دے اور تمہیں ان (نیک) لوگوں کی راہوں پر چلائے جو تم سے پہلے ہوگزرے ہیں اور تمہارے اوپر رحمت کے ساتھ رجوع فرمائے، اور اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ چاہتا ہے کہ تمہارے لیے (احکام کی) وضاحت کردے، اور جو (نیک) لوگ تم سے پہلے گزرے ہیں، تم کو ان کے طور طریقوں پر لے آئے، اور تم پر (رحمت کے ساتھ) توجہ فرمائے، اور اللہ ہر بات کا جاننے والا بھی ہے، حکمت والا بھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir jo bhi nek amal kare aur wo momin (bhi) ho, to us ki koshish ki be qadri na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جو کوئی نیک عمل کرے اور وہ مومن بھی ہو تو اس کی کوشش (کی جزا) کا انکار نہ ہوگا، اور بیشک ہم اس کے (سب) اعمال کو لکھ رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جو مومن بن کر نیک عمل کرے گا تو اس کی کوشش کی ناقدری نہیں ہوگی، اور ہم اس کوشش کو لکھے جاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

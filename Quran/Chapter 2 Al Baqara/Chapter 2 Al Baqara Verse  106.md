@@ -3224,6 +3224,12 @@ jis ayath ko hum mansooq karde ya bhulade, us se behtar ya us jaisi aur laate ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم جب کوئی آیت منسوخ کر دیتے ہیں یا اسے فراموش کرا دیتے ہیں (تو بہرصورت) اس سے بہتر یا ویسی ہی (کوئی اور آیت) لے آتے ہیں، کیا تم نہیں جانتے کہ اللہ ہر چیز پر (کامل) قدرت رکھتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم جب بھی کوئی آیت منسوخ کرتے ہیں یا اسے بھلا دیتے ہیں تو اس سے بہتر یا اسی جیسی (آیت) لے آتے ہیں۔ کیا تمہیں یہ معلوم نہیں کہ اللہ ہر چیز پر قدرت رکھتا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

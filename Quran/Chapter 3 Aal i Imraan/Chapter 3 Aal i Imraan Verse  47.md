@@ -3224,6 +3224,12 @@ kehne lagi ilaahi mujhe ladka kaise hoga? halaan ke mujhe to kisi insaan ne haat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(مریم علیہا السلام نے) عرض کیا: اے میرے رب! میرے ہاں کیسے لڑکا ہوگا درآنحالیکہ مجھے تو کسی شخص نے ہاتھ تک نہیں لگایا، ارشاد ہوا: اسی طرح اللہ جو چاہتا ہے پیدا فرماتا ہے، جب کسی کام (کے کرنے) کا فیصلہ فرما لیتا ہے تو اس سے فقط اتنا فرماتا ہے کہ ’ہو جا‘ وہ ہو جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مریم نے کہا : پروردگار مجھ سے لڑکا کیسے پیدا ہوجائے گا جبکہ مجھے کسی بشر نے چھوا تک نہیں ؟ اللہ نے فرمایا : اللہ اسی طرح جس کو چاہتا ہے پیدا کرتا ہے۔ جب وہ کوئی کام کرنے کا فیصلہ کرلیتا ہے تو صرف اتنا کہتا ہے کہ “ ہوجا ” بس وہ ہوجاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas tum Allah ki taraf daud bhaag (yaani rujo) karo, yaqinan main tumhe us ki ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تم اللہ کی طرف دوڑ چلو، بیشک میں اُس کی طرف سے تمہیں کھلا ڈر سنانے والا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا دوڑو اللہ کی طرف یقین جانو، میں اس کی طرف سے تمہارے لیے صاف صاف خبردار کرنے والا (بن کر آیا) ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

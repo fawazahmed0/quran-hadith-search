@@ -3224,6 +3224,12 @@ yahaan tak ke jab rasool na ummid hone lage aur wo (khaom ke log) qayaal karne l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ جب پیغمبر (اپنی نافرمان قوموں سے) مایوس ہوگئے اور ان منکر قوموں نے گمان کر لیا کہ ان سے جھوٹ بولا گیا ہے (یعنی ان پر کوئی عذاب نہیں آئے گا) تو ان رسولوں کو ہماری مدد آپہنچی پھر ہم نے جسے چاہا (اسے) نجات بخش دی، اور ہمارا عذاب مجرم قوم سے پھیرا نہیں جاتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (پچھلے انبیاء کے ساتھ بھی یہی ہوا کہ ان کی قوموں پر عذاب آنے میں کچھ دیر لگی) یہاں تک کہ جب پیغمبر لوگوں سے مایوس ہوگئے اور کافر لوگ یہ سمجھنے لگے کہ انہیں جھوٹی دھمکیاں دی گئی تھیں تو ان پیغمبروں کے پاس ہماری مدد پہنچ گئی (یعنی کافروں پر عذاب آیا) اور جن کو ہم چاہتے تھے، انہیں بچا لیا گیا، اور جو لوگ مجرم ہوتے ہیں، ان سے ہمارے عذاب کو ٹالا نہیں جاسکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

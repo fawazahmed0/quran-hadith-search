@@ -3224,6 +3224,12 @@ pas qaraabi hai munkiro ko un ke us din ki jis ka waada diye jaate hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کافروں کے لئے اُن کے اُس دِن میں بڑی تباہی ہے جس کا اُن سے وعدہ کیا جا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض جن لوگوں نے کفر اختیار کیا ہے، ان کی اس دن کی وجہ سے بڑی خرابی ہوگی جس کا ان سے وعدہ کیا جارہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

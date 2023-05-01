@@ -3224,6 +3224,12 @@ balke unhe (azaab ke liye) diya gaya waqt to qayaamath ka din hee hai aur qayaam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ اُن کا (اصل) وعدہ تو قیامت ہے اور قیامت کی گھڑی بہت ہی سخت اور بہت ہی تلخ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہی نہیں، بلکہ ان کے اصل وعدے کا وقت تو قیامت ہے اور قیامت اور زیادہ مصیبت اور کہیں زیادہ کڑوی ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ balke har tarah se theek thaak rakha, ta ke apne paas ki saqt saza se hoshyaar k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اسے) سیدھا اور معتدل (بنایا) تاکہ وہ (منکرین کو) اللہ کی طرف سے (آنے والے) شدید عذاب سے ڈرائے اور مومنین کو جو نیک اعمال کرتے ہیں خوشخبری سنائے کہ ان کے لئے بہتر اجر (جنت) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایک سیدھی سیدھی کتاب جو اس نے اس لیے نازل کی ہے کہ لوگوں کو اپنی طرف سے ایک سخت عذاب سے آگاہ کرے اور جو مومن نیک عمل کرتے ہیں ان کو خوشخبری دے کہ ان کو بہترین اجر ملنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

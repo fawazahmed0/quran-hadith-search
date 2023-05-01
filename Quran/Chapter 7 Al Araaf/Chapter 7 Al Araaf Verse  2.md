@@ -3224,6 +3224,12 @@ ye ek kitaab hai jo aap ke paas is liye bheji gayi hai ke aap is ke zariye se da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یہ کتاب ہے جو تم پر اس لیے اتاری گئی ہے کہ تم اس کے ذریعے لوگوں کو ہوشیار کرو، لہذا اس کی وجہ سے تمہارے دل میں کوئی پریشانی نہ ہونی چاہیے، اور مومنوں کے لیے یہ ایک نصیحت کا پیغام ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

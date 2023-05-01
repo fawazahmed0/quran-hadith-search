@@ -3224,6 +3224,12 @@ tum Allah ta’ala ke Nabi ke bulaane ko aisa bulaawa na karlo jaisa ke aapas me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) تم رسول کے بلانے کو آپس میں ایک دوسرے کو بلانے کی مثل قرار نہ دو (جب رسولِ اکرم صلی اللہ علیہ وآلہ وسلم کو بلانا تمہارے باہمی بلاوے کی مثل نہیں تو خود رسول صلی اللہ علیہ وآلہ وسلم کی ذاتِ گرامی تمہاری مثل کیسے ہو سکتی ہے)، بیشک اللہ ایسے لوگوں کو (خوب) جانتا ہے جو تم میں سے ایک دوسرے کی آڑ میں (دربارِ رسالت صلی اللہ علیہ وآلہ وسلم سے) چپکے سے کھسک جاتے ہیں، پس وہ لوگ ڈریں جو رسول (صلی اللہ علیہ وآلہ وسلم) کے امرِ (ادب) کی خلاف ورزی کر رہے ہیں کہ (دنیا میں ہی) انہیں کوئی آفت آپہنچے گی یا (آخرت میں) ان پر دردناک عذاب آن پڑے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے لوگو) اپنے درمیان رسول کو بلانے کو ایسا (معمولی) نہ سمجھو جیسے تم آپس میں ایک دوسرے کو بلایا کرتے ہو اللہ تم میں سے ان لوگوں کو خوب جانتا ہے جو ایک دوسرے کی آڑ لے کر چپکے سے کھسک جاتے ہیں۔ لہذا جو لوگ اس کے حکم کی خلاف ورزی کرتے ہیں، ان کو اس بات سے ڈرنا چاہیے کہ کہیں ان پر کوئی آفت نہ آپڑے، یا انہیں کوئی دردناک عذاب نہ آپکڑے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

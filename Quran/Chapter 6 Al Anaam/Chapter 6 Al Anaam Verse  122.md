@@ -3224,6 +3224,12 @@ aisa shaqs jo pehle murda tha phir hum ne us ko zinda kar diya aur hum ne us ko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا وہ شخص جو مُردہ (یعنی ایمان سے محروم) تھا پھر ہم نے اسے (ہدایت کی بدولت) زندہ کیا اور ہم نے اس کے لئے (ایمان و معرفت کا) نور پیدا فرما دیا (اب) وہ اس کے ذریعے (بقیہ) لوگوں میں (بھی روشنی پھیلانے کے لئے) چلتا ہے اس شخص کی مانند ہو سکتا ہے جس کا حال یہ ہو کہ (وہ جہالت اور گمراہی کے) اندھیروں میں (اس طرح گھِرا) پڑا ہے کہ اس سے نکل ہی نہیں سکتا۔ اسی طرح کافروں کے لئے ان کے وہ اعمال (ان کی نظروں میں) خوش نما دکھائے جاتے ہیں جو وہ انجام دیتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ذرا بتاؤ کہ جو شخص مردہ ہو، پھر ہم نے اسے زندگی دی ہو، اور اس کو ایک روشنی مہیا کردی ہو جس کے سہارے وہ لوگوں کے درمیان چلتا پھرتا ہو کیا وہ اس شخص کی طرح ہوسکتا ہے جس کا حال یہ ہو کہ وہ اندھیروں میں گھرا ہوا ہو جن سے کبھی نکل نہ پائے ؟ اسی طرح کافروں کو یہ سجھا دیا گیا ہے وہ جو کچھ کرتے رہے ہیں، وہ بڑا خوشنما کام ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

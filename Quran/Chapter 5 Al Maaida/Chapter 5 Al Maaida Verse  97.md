@@ -3224,6 +3224,12 @@ Allah ne kaabe ko, jo ke adab ka makaan hai logo ke qaayem rehne ka sabab qaraar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے عزت (و ادب) والے گھر کعبہ کو لوگوں کے (دینی و دنیوی امور میں) قیام (امن) کا باعث بنا دیا ہے اور حرمت والے مہینے کو اور کعبہ کی قربانی کو اور گلے میں علامتی پٹے والے جانوروں کو بھی (جو حرمِ مکہ میں لائے گئے ہوں سب کو اسی نسبت سے عزت و احترام عطا کر دیا گیا ہے)، یہ اس لئے کہ تمہیں علم ہو جائے کہ جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے اللہ خوب جانتا ہے اور اللہ ہر چیز سے بہت واقف ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کعبے کو جو بڑی حرمت والا گھر ہے لوگوں کے لیے قیام امن کا ذریعہ بنادیا ہے، نیز حرمت والے مہینے، نذرانے کے جانوروں اور ان کے گلے میں پڑے ہوئے پٹوں کو بھی (امن کا ذریعہ بنایا ہے) ۔ یہ سب اس لیے تاکہ تمہیں معلوم ہو کہ آسمانوں اور زمین میں جو کچھ ہے اللہ اسے خوب جانتا ہے، اور اللہ ہر بات سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

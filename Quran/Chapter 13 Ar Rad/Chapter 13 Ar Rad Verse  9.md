@@ -3224,6 +3224,12 @@ zaaher wa poshida ka wo aalim hai (sub se) bada aur (sub se) buland wa baala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ ہر نہاں اور عیاں کو جاننے والا ہے سب سے برتر (اور) اعلیٰ رتبہ والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ غائب و حاضر تمام باتوں کا جاننے والا ہے، اس کی ذات بہت بڑی ہے، اس کی شان بہت اونچی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

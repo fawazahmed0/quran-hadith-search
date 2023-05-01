@@ -3224,6 +3224,12 @@ aur Allah tala haq ko apne farmaan se sabith kar deta hai,go mujrim kaisa hee na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ اپنے کلمات سے حق کا حق ہونا ثابت فرما دیتا ہے اگرچہ مجرم لوگ اسے ناپسند ہی کرتے رہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ سچ کو اپنے حکم سے سچ کر دکھاتا ہے، چاہے مجرم لوگ کتنا برا سمجھیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

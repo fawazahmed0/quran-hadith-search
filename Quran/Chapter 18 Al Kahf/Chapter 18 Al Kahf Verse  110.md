@@ -3224,6 +3224,12 @@ aap keh dijiye ke main to tum jaisa hee ek insaan hoon (haan) meri jaanib wahi k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجیے: میں تو صرف (بخلقتِ ظاہری) بشر ہونے میں تمہاری مثل ہوں (اس کے سوا اور تمہاری مجھ سے کیا مناسبت ہے! ذرا غور کرو) میری طرف یہ وحی بھیجی گئی ہے کہ تمہارا معبود فقط معبودِ یکتا ہی ہے (بھلا تم میں یہ نوری استعداد کہاں ہے کہ تم پر کلامِ الٰہی اتر سکے)! پس جو شخص اپنے رب سے ملاقات کی امید رکھتا ہے تو اسے چاہیے کہ نیک عمل کرے اور اپنے رب کی عبادت میں کسی کو شریک نہ کرے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : میں تو تمہی جیسا ایک انسان ہوں (البتہ) مجھ پر یہ وحی آتی ہے کہ تم سب کا خدا بس ایک خدا ہے۔ لہذا جس کسی کو اپنے مالک سے جاملنے کی امید ہو، اسے چاہیے کہ وہ نیک عمل کرے، اور اپنے مالک کی عبادت میں کسی اور کو شریک نہ ٹھہرائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

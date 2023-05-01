@@ -3224,6 +3224,12 @@ deene ibrahimi se wahi be raghbati karega jo mahaz be waqoof ho, hum ne tu ose d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کون ہے جو ابراہیم (علیہ السلام) کے دین سے رُوگرداں ہو سوائے اس کے جس نے خود کو مبتلائے حماقت کر رکھا ہو، اور بیشک ہم نے انہیں ضرور دنیا میں (بھی) منتخب فرما لیا تھا اور یقیناً وہ آخرت میں (بھی) بلند رتبہ مقرّبین میں ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کون ہے جو ابراہیم کے طریقے سے انحراف کرے ؟ سوائے اس شخص کے جو خود اپنے آپ کو حماقت میں مبتلا کرچکا ہو۔ حقیقت تو یہ ہے کہ ہم نے دنیا میں انہیں (اپنے لیے) چن لیا تھا، اور آخرت میں ان کا شمار صالحین میں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

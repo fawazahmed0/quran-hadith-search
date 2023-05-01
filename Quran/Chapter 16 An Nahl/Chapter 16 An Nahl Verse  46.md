@@ -3224,6 +3224,12 @@ ya unhe chalte phirte pakadle, ye kisi surath mein Allah ta’ala ko aajiz nahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا ان کی نقل و حرکت (سفر اور شغلِ تجارت) کے دوران ہی انہیں پکڑ لے سو وہ اللہ کو عاجز نہیں کر سکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا انہیں چلتے پھرتے ہی اپنی پکڑ میں لے لے، کیونکہ وہ اسے عاجز نہیں کرسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye hamaare parvardigaar hamein yahaan se najaath de, agar ab bhi hum aisa hee k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! تو ہمیں یہاں سے نکال دے پھر اگر ہم (اسی گمراہی کا) اعادہ کریں تو بیشک ہم ظالم ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمارے پروردگار ! ہمیں یہاں سے باہر نکال دیجیے، پھر اگر ہم دوبارہ وہی کام کریں تو بیشک ہم ظالم ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

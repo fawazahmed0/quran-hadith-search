@@ -3224,6 +3224,12 @@ kya ye log behtar hai ya tubbah ki khaum aur jo in se bhi pehle thein, hum ne un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا یہ لوگ بہتر ہیں یا (بادشاہِ یمن اسعد ابوکریب) تُبّع (الحمیری) کی قوم اور وہ لوگ جو اِن سے پہلے تھے، ہم نے اُن (سب) کو ہلاک کر ڈالا تھا، بیشک وہ لوگ مجرم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا یہ لوگ بہتر ہیں یا تبع کی قوم اور وہ لوگ جو ان سے پہلے تھے ؟ ہم نے ان سب کو ہلاک کردیا۔ (کیونکہ) وہ یقینی طور پر مجرم لوگ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

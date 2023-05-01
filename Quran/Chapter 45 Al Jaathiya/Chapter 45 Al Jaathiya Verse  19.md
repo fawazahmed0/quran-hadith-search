@@ -3224,6 +3224,12 @@ Allah ke muqable mein woh tumhare kuch bhi kaam nahin aa sakte. Zaalim log ek du
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک یہ لوگ اللہ کی جانب سے (اسلام کی راہ میں پیش آمدہ مشکلات کے وقت میں وعدوں کے باوجود) ہرگز آپ کے کام نہیں آئیں گے، اور بیشک ظالم لوگ (دنیا میں) ایک دوسرے کے ہی دوست اور مددگار ہوا کرتے ہیں، اور اللہ پرہیزگاروں کا دوست اور مددگار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ کے مقابلے میں تمہارے ذرا بھی کام نہیں آسکتے۔ اور حقیقت یہ ہے کہ ظالم لوگ ایک دوسرے کے دوست ہیں، اور اللہ متقی لوگوں کا دوست ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

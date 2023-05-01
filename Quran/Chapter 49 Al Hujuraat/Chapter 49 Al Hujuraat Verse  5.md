@@ -3224,6 +3224,12 @@ agar ye log yaha tak sabr karte ke aap(sallallahu alaihiwasallam) khud se nikal 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر وہ لوگ صبر کرتے یہاں تک کہ آپ خود ہی ان کی طرف باہر تشریف لے آتے تو یہ اُن کے لئے بہتر ہوتا، اور اللہ بڑا بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر یہ لوگ اس وقت تک صبر کرتے جب تک تم خود باہر نکل کر ان کے پاس آجاتے، تو ان کے لیے بہتر ہوا اور اللہ بہت بخشنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

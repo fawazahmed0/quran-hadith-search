@@ -3224,6 +3224,12 @@ ye log aap se azaab ka fauri mutaaleba kar rahe hai, Allah hargiz apna waada nah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ آپ سے عذاب میں جلدی کے خواہش مند ہیں اور اللہ ہرگز اپنے وعدہ کی خلاف ورزی نہ کرے گا، اور (جب عذاب کا وقت آئے گا) تو (عذاب کا) ایک دن آپ کے رب کے ہاں ایک ہزار سال کی مانند ہے (اس حساب سے) جو تم شمار کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ تم سے عذاب جلدی لانے کا مطالبہ کرتے ہیں، حالانکہ اللہ اپنے وعدے کی ہرگز خلاف ورزی نہیں کرے گا، اور یقین جانو کہ تمہارے رب کے یہاں کا ایک دن تمہاری گنتی کے مطابق ایک ہزار سال کی طرح کا ہوتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

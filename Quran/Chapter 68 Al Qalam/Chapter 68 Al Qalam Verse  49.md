@@ -3224,6 +3224,12 @@ agar ose us ke rab ki nemath na paa leti to yaqinan wo bure haalo mein, chatyal 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر ان کے رب کی رحمت و نعمت ان کی دستگیری نہ کرتی تو وہ ضرور چٹیل میدان میں پھینک دئیے جاتے اور وہ ملامت زدہ ہوتے (مگر اللہ نے انہیں ا س سے محفوط رکھا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر ان کے پروردگار کے فضل نے انہیں سنبھال نہ لیا ہوتا تو انہیں بری حالت کے ساتھ اسی کھلے میدان میں پھینک دیا جاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

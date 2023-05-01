@@ -3224,6 +3224,12 @@ keh dijiye ke agar main bahek jaao to mere behekne (ka wabaal) mujh par hee hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اگر میں بہک جاؤں تو میرے بہکنے کا گناہ (یا نقصان) میری اپنی ہی ذات پر ہے، اور اگر میں نے ہدایت پا لی ہے تو اس وجہ سے (پائی ہے) کہ میرا رب میری طرف وحی بھیجتا ہے۔ بیشک وہ سننے والا ہے قریب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اگر میں راستے سے بھٹکا ہوں تو میرے بھٹکنے کا نقصان مجھی کو ہوگا، اور اگر میں نے سیدھا راستہ پالیا ہے تو یہ اس وحی کی بدولت ہے جو میرا رب مجھ پر نازل کر رہا ہے۔ وہ یقینا سب کچھ سننے والا، ہر ایک سے قریب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

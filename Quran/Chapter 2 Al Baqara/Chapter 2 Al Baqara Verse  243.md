@@ -3224,6 +3224,12 @@ kya tum ne unhe nahi dekha jo hazaaro ki tedaad mein thein aur mauth ke dar ke m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) کیا آپ نے ان لوگوں کو نہیں دیکھا جو موت کے ڈر سے اپنے گھروں سے نکل گئے حالانکہ وہ ہزاروں (کی تعداد میں) تھے، تو اللہ نے انہیں حکم دیا: مر جاؤ (سو وہ مرگئے)، پھر انہیں زندہ فرما دیا، بیشک اللہ لوگوں پر فضل فرمانے والا ہے مگر اکثر لوگ (اس کا) شکر ادا نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تمہیں ان لوگوں کا حال معلوم نہیں ہوا جو موت سے بچنے کے لیے اپنے گھروں سے نکل آئے تھے، اور وہ ہزاروں کی تعداد میں تھے ؟ چنانچہ اللہ نے ان سے کہا : مرجاؤ، پھر انہیں زندہ کیا۔ حقیقت یہ ہے کہ اللہ لوگوں پر بہت فضل فرمانے والا ہے، لیکن اکثر لوگ شکر ادا نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

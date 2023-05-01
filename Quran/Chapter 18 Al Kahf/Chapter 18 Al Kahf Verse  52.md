@@ -3224,6 +3224,12 @@ aur jis din wo farmaayega ke tumhaare qayaal mein jo mere shareek thein unhe puk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُس دن (کو یاد کرو جب) اللہ فرمائے گا: انہیں پکارو جنہیں تم میرا شریک گمان کرتے تھے، سو وہ انہیں بلائیں گے مگر وہ انہیں کوئی جواب نہ دیں گے اور ہم ان کے درمیان (ایک وادئ جہنم کو) ہلاکت کی جگہ بنا دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس دن کا دھیان کرو جب اللہ (ان مشرکوں سے) کہے گا کہ : ذرا پکارو ان کو جنہیں تم نے میری خدائی میں شریک سمجھ رکھا تھا۔ چنانچہ وہ پکاریں گے، لیکن وہ ان کو کوئی جواب نہیں دیں گے، اور ہم ان کے درمیان ایک مہلک آڑ حائل کردیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas ye log apne dilo mein qaayal ho gaye aur kehne lage, waaqeyi zaalim to tum h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر وہ اپنی ہی (سوچوں کی) طرف پلٹ گئے تو کہنے لگے: بیشک تم خود ہی (ان مجبور و بے بس بتوں کی پوجا کر کے) ظالم (ہوگئے) ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر وہ لوگ اپنے دل میں کچھ سوچنے لگے، اور (اپنے آپ سے) کہنے لگے کہ : سچی بات تو یہی ہے کہ تم خود ظالم ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

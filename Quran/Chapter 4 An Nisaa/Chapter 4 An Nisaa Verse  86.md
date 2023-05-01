@@ -3224,6 +3224,12 @@ aur jab tumhe salaam kiya jaaye to tum us se accha jawaab do,ya un hee alfaaz ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب (کسی لفظ) سلام کے ذریعے تمہاری تکریم کی جائے تو تم (جواب میں) اس سے بہتر (لفظ کے ساتھ) سلام پیش کیا کرو یا (کم از کم) وہی (الفاظ جواب میں) لوٹا دیا کرو، بیشک اللہ ہر چیز پر حساب لینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تمہیں کوئی شخص سلام کرے تو تم اسے اس سے بھی بہتر طریقے پر سلام کرو، یا (کم از کم) انہی الفاظ میں اس کا جواب دے دو ۔ بیشک اللہ ہر چیز کا حساب رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

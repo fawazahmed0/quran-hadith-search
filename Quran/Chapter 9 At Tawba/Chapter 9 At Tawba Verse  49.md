@@ -3224,6 +3224,12 @@ un mein se koi tho kehta hai ke mujhe ijazath di jiye,mujhe fitne mein na daliye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان میں سے وہ شخص (بھی) ہے جو کہتا ہے کہ آپ مجھے اجازت دے دیجئے (کہ میں جہاد پر جانے کی بجائے گھر ٹھہرا رہوں) اور مجھے فتنہ میں نہ ڈالئے، سن لو! کہ وہ فتنہ میں (تو خود ہی) گر پڑے ہیں، اور بیشک جہنم کافروں کو گھیرے ہوئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہی میں وہ صاحب بھی ہیں جو کہتے ہیں کہ : مجھے اجازت دے دیجیے، اور مجھے فتنے میں نہ ڈالیے، ارے فتنے ہی میں تو یہ خود پڑے ہوئے ہیں۔ اور یقین رکھو کہ جہنم سارے کافروں کو گھیرے میں لینے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

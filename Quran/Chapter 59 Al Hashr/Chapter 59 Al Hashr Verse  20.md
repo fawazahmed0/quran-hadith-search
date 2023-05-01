@@ -3224,6 +3224,12 @@ ahle naar aur ahle jannath (baaham) baraabar nahi, jo ahle jannath hai wahi kamy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اہلِ دوزخ اور اہلِ جنت برابر نہیں ہوسکتے، اہلِ جنت ہی کامیاب و کامران ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جنت والے اور دوزخ والے برابر نہیں ہوسکتے۔ جنت والے ہی وہ ہیں جو کامیاب ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

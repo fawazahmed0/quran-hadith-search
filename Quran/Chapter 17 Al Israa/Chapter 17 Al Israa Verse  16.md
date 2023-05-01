@@ -3224,6 +3224,12 @@ aur jab hum kisi basti ki halaakat ka iraada kar lete hai to wahaan ke khush haa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم کسی بستی کو ہلاک کرنے کا ارادہ کرتے ہیں تو ہم وہاں کے امراء اور خوشحال لوگوں کو (کوئی) حکم دیتے ہیں (تاکہ ان کے ذریعہ عوام اور غرباء بھی درست ہو جائیں) تو وہ اس (بستی) میں نافرمانی کرتے ہیں پس اس پر ہمارا فرمانِ (عذاب) واجب ہو جاتا ہے پھر ہم اس بستی کو بالکل ہی مسمار کر دیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہم کسی بستی کو ہلاک کرنے کا ارادہ کرتے ہیں تو اس کے خوش حال لوگوں کو (ایمان اور اطاعت کا) حکم دیتے ہیں، پھر وہ وہاں نافرمانیاں کرتے ہیں، تو ان پر بات پوری ہوجاتی ہے، چنانچہ ہم انہیں تباہ و برباد کر ڈالتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

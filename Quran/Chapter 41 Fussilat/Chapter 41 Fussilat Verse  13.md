@@ -3224,6 +3224,12 @@ ab bhi ye ru-garda ho, to keh djiye! ke main tumhe us kadak (azaab asmaani) se d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر وہ رُوگردانی کریں تو آپ فرما دیں: میں تمہیں اُس خوفناک عذاب سے ڈراتا ہوں جو عاد اور ثمود کی ہلاکت کے مانند ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر یہ لوگ منہ موڑیں تو کہہ دو کہ میں تمہیں اس کڑکے سے خبر دار کردیا ہے جیسا کڑکا عاد اور ثمود پر نازل ہوا تھا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

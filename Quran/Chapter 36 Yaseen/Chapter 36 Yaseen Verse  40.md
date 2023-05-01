@@ -3224,6 +3224,12 @@ na aftaab ki ye majaal hai ke chaandh ko pakde aur na raath din par aage bad jaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نہ سورج کی یہ مجال کہ وہ (اپنا مدار چھوڑ کر) چاند کو جا پکڑے اور نہ رات ہی دن سے پہلے نمودار ہوسکتی ہے، اور سب (ستارے اور سیارے) اپنے (اپنے) مدار میں حرکت پذیر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نہ تو سورج کی یہ مجال ہے کہ وہ چاند کو جاپکڑے، اور نہ رات دن سے آگے نکل سکتی ہے، اور یہ سب اپنے اپنے مدار میں تیر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

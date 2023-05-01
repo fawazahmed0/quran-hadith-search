@@ -3224,6 +3224,12 @@ kya tumhare paas tum se pehle ke logo ki qabar nahi aayi? yani khaume nuh ki aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تمہیں ان لوگوں کی خبر نہیں پہنچی جو تم سے پہلے ہو گزرے ہیں، (وہ) قومِ نوح اور عاد اور ثمود (کی قوموں کے لوگ) تھے اور (کچھ) لوگ جو ان کے بعد ہوئے، انہیں اللہ کے سوا کوئی نہیں جانتا (کیونکہ وہ صفحۂ ہستی سے بالکل نیست و نابود ہو چکے ہیں)، ان کے پاس ان کے رسول واضح نشانیوں کے ساتھ آئے تھے پس انہوں نے (اَز راہِ تمسخر و عناد) اپنے ہاتھ اپنے مونہوں میں ڈال لئے اور (بڑی جسارت کے ساتھ) کہنے لگے: ہم نے اس (دین) کا انکار کر دیا جس کے ساتھ تم بھیجے گئے ہو اور یقیناً ہم اس چیز کی نسبت اضطراب انگیز شک میں مبتلا ہیں جس کی طرف تم ہمیں دعوت دیتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے کفار مکہ) کیا تمہیں ان لوگوں کی خبر نہیں پہنچتی جو تم سے پہلے گزر چکے ہیں، قوم نوح، عاد، ثمود اور ان کے بعد آنے والی قومیں جنہیں اللہ کے سوا کوئی نہیں جانتا۔ ان سب کے پاس ان کے رسول کھلے کھلے دلائل لے کر آئے، تو انہوں نے ان کہ منہ پر اپنے ہاتھ رکھ دیے، اور کہا کہ : جو پیغام تمہیں دے کر بھیجا گیا ہے، ہم اس کو ماننے سے انکار کرتے ہیں، اور جس بات کی تم ہمیں دعوت دے رہے ہو، اس کے بارے میں ہمیں بڑا بھاری شک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

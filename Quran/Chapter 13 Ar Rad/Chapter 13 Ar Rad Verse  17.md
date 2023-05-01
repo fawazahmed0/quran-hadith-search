@@ -3224,6 +3224,12 @@ osi ne aasmaan se paani barsaaya, phir apni apni was’ath ke mutaabiq naale beh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس نے آسمان کی جانب سے پانی اتارا تو وادیاں اپنی (اپنی) گنجائش کے مطابق بہہ نکلیں، پھر سیلاب کی رَو نے ابھرا ہوا جھاگ اٹھا لیا، اور جن چیزوں کو آگ میں تپاتے ہیں، زیور یا دوسرا سامان بنانے کے لئے اس پر بھی ویسا ہی جھاگ اٹھتا ہے، اس طرح اللہ حق اور باطل کی مثالیں بیان فرماتا ہے، سو جھاگ تو (پانی والا ہو یا آگ والا سب) بے کار ہو کر رہ جاتا ہے اور البتہ جو کچھ لوگوں کے لئے نفع بخش ہوتا ہے وہ زمین میں باقی رہتا ہے، اللہ اس طرح مثالیں بیان فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی نے آسمان سے پانی برسایا جس سے ندی نالے اپنی اپنی بشاط کے مطابق بہہ پڑے، پھر پانی کے ریلے نے پھولے ہوئے جھاگ کو اوپر اٹھا لیا، اور اسی قسم کا جھاگ اس وقت بھی اٹھتا ہے جب لوگ زیور یا برتن بنانے کے لیے دھاتوں کو آگ پر تپاتے ہیں۔ اللہ حق اور باطل کی مثال اسی طرح بیان کر رہا ہے کہ (دونوں قسم کا) جو جھاگ ہوتا ہے وہ تو باہر گر کر ضائع ہوجاتا ہے، لیکن وہ چیز جو لوگوں کے لیے فائدہ مند ہوتی ہے وہ زمین میں ٹھہر جاتی ہے۔ اسی قسم کی تمثیلیں ہیں جو اللہ بیان کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aasmaano mein aur zameen mein jo kuch hai sub osi ka hai aur osi ki ibaadath laa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کچھ آسمانوں اور زمین میں ہے (سب) اسی کا ہے اور (سب کے لئے) اسی کی فرمانبرداری واجب ہے۔ تو کیا تم غیر اَز خدا (کسی) سے ڈرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین میں جو کچھ ہے اسی کا ہے، اور اسی کی اطاعت ہر حال میں لازم ہے۔ کیا پھر بھی تم اللہ کے سوا اوروں سے ڈرتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas aap jame rahiye jaisa ke aap ko hukm diya gaya hai aur wo log bhi jo aap ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ ثابت قدم رہئے جیسا کہ آپ کو حکم دیا گیا ہے اور وہ بھی (ثابت قدم رہے) جس نے آپ کی معیت میں (اللہ کی طرف) رجوع کیا ہے، اور (اے لوگو!) تم سرکشی نہ کرنا، بیشک تم جو کچھ کرتے ہو وہ اسے خوب دیکھ رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) جس طرح تمہیں حکم دیا گیا ہے اس کے مطابق تم بھی سیدھے راستے پر ثابت قدم رہو، اور وہ لوگ بھی جو توبہ کر کے تمہارے ساتھ ہیں، اور حد سے آگے نہ نکلو۔ یقین رکھو کہ جو عمل بھی تم کرتے ہو وہ اسے پوری طرح دیکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

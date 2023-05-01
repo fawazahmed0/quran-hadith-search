@@ -3224,6 +3224,12 @@ hum aap ke chehre ko baar baar asmaan ki taraf uthte hoye dekh rahe hai, ab hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) ہم بار بار آپ کے رُخِ انور کا آسمان کی طرف پلٹنا دیکھ رہے ہیں، سو ہم ضرور بالضرور آپ کو اسی قبلہ کی طرف پھیر دیں گے جس پر آپ راضی ہیں، پس آپ اپنا رخ ابھی مسجدِ حرام کی طرف پھیر لیجئے، اور (اے مسلمانو!) تم جہاں کہیں بھی ہو پس اپنے چہرے اسی کی طرف پھیر لو، اور وہ لوگ جنہیں کتاب دی گئی ہے ضرور جانتے ہیں کہ یہ (تحویلِ قبلہ کا حکم) ان کے رب کی طرف سے حق ہے، اور اللہ ان کاموں سے بے خبر نہیں جو وہ انجام دے رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ہم تمہارے چہرے کو بار بار آسمان کی طرف اٹھتے ہوئے دیکھ رہے ہیں۔ چنانچہ ہم تمہارا رخ ضرور اس قبلے کی طرف پھیر دیں گے جو تمہیں پسند ہے لو اب اپنا رخ مسجد حرام کی سمت کرلو، اور (آئند ہ) جہاں کہیں تم ہو اپنے چہروں کا رخ (نماز پڑھتے ہوئے) اسی کی طرف رکھا کرو۔ اور جن لوگوں کو کتاب دی گئی ہے وہ خوب جانتے ہیں کہ یہی بات حق ہے جو ان کے پروردگار کی طرف سے آئی ہے اور جو کچھ یہ کر رہے ہیں اللہ اس سے غافل نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

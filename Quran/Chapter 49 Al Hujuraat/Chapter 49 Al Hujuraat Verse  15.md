@@ -3224,6 +3224,12 @@ momin to wo hai jo Allah par aur us ke rasool par (pakka) imaan laaye, phir shak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایمان والے تو صرف وہ لوگ ہیں جو اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) پر ایمان لائے، پھر شک میں نہ پڑے اور اللہ کی راہ میں اپنے اموال اور اپنی جانوں سے جہاد کرتے رہے، یہی وہ لوگ ہیں جو (دعوائے ایمان میں) سچےّ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایمان لانے والے تو وہ ہیں جنہوں نے اللہ اور اس کے رسول کو دل سے مانا ہے، پھر کسی شک میں نہیں پڑے، اور جنہوں نے اپنے مال و دولت اور اپنی جانوں سے اللہ کے راستے میں جہاد کیا ہے۔ وہی لوگ ہیں جو سچے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

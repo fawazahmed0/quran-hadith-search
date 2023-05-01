@@ -3224,6 +3224,12 @@ agar hum aap ko saabith qadam na rakhte to bahuth mumkin tha ke un ki taraf qadr
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم نے آپ کو (پہلے ہی سے عصمتِ نبوت کے ذریعہ) ثابت قدم نہ بنایا ہوتا تو تب بھی آپ ان کی طرف (اپنے پاکیزہ نفس اور طبعی استعداد کے باعث) بہت ہی معمولی سے جھکاؤ کے قریب جاتے۔ (ان کی طرف پھر بھی زیادہ مائل نہ ہوتے اور وہ ناکام رہتے مگر اللہ نے آپ کو عصمتِ نبوت کے ذریعہ اس معمولی سے میلان کے قریب جانے سے بھی محفوظ فرما لیا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم نے تمہیں ثابت قدم نہ بنایا ہوتا تو تم بھی ان کی طرف کچھ کچھ جھکنے کے قریب جاپہنچتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

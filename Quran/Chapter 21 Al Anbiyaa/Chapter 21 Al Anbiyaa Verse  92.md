@@ -3224,6 +3224,12 @@ ye tumhaari ummath hai, jo haqiqath mein ek hee ummath hai aur main tum sab ka p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک یہ تمہاری ملت ہے (سب) ایک ہی ملت ہے اور میں تمہارا رب ہوں پس تم میری (ہی) عبادت کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لوگو) یقین رکھو کہ یہ (دین جس کی یہ تمام انبیاء دعوت دیتے رہے ہیں) تمہارا دین ہے جو ایک ہی دین ہے، اور میں تمہارا پروردگار ہوں۔ لہذا تم میری عبادت کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

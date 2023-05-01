@@ -3224,6 +3224,12 @@ rahmaan ke (sacche) bandhe wo hai jo zameen par faruthni4 ke saath chalte hai au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (خدائے) رحمان کے (مقبول) بندے وہ ہیں جو زمین پر آہستگی سے چلتے ہیں اور جب ان سے جاہل (اکھڑ) لوگ (ناپسندیدہ) بات کرتے ہیں تو وہ سلام کہتے (ہوئے الگ ہو جاتے) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور رحمن کے بندے وہ ہیں جو زمین پر عاجزی سے چلتے ہیں اور جب جاہل لوگ ان سے (جاہلانہ) خطاب کرتے ہیں تو وہ سلامتی کی بات کہتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

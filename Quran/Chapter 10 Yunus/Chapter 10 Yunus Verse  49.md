@@ -3224,6 +3224,12 @@ aap farma dijiye ke main apni zath ke liye to kisi nafe ka aur kisi zarar ka eqt
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: میں اپنی ذات کے لئے نہ کسی نقصان کا مالک ہوں اور نہ نفع کا، مگر جس قدر اللہ چاہے۔ ہر امت کے لئے ایک میعاد (مقرر) ہے، جب ان کی (مقررہ) میعاد آپہنچتی ہے تو وہ نہ ایک گھڑی پیچھے ہٹ سکتے ہیں اور نہ آگے بڑھ سکتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہہ دو کہ : میں تو خود اپنی ذات کو بھی کوئی نقصان پہنچانے کا اختیار رکھتا ہوں، نہ فائدہ پہنچانے کا، مگر جتنا اللہ چاہے۔ ہر امت کا ایک وقت مقرر ہے، چنانچہ جب ان کا وہ وقت آجاتا ہے تو وہ اس سے نہ ایک گھڑی پیچھے جاسکتے ہیں نہ آگے آسکتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

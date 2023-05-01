@@ -3224,6 +3224,12 @@ aur (un ke liye) jinhone us ghar mein (yaani madina) aur imaan mein un se pehle 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ مال اُن انصار کے لئے بھی ہے) جنہوں نے اُن (مہاجرین) سے پہلے ہی شہرِ (مدینہ) اور ایمان کو گھر بنا لیا تھا۔ یہ لوگ اُن سے محبت کرتے ہیں جو اِن کی طرف ہجرت کر کے آئے ہیں۔ اور یہ اپنے سینوں میں اُس (مال) کی نسبت کوئی طلب (یا تنگی) نہیں پاتے جو اُن (مہاجرین) کو دیا جاتا ہے اور اپنی جانوں پر انہیں ترجیح دیتے ہیں اگرچہ خود اِنہیں شدید حاجت ہی ہو، اور جو شخص اپنے نفس کے بُخل سے بچا لیا گیا پس وہی لوگ ہی بامراد و کامیاب ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور یہ مال فیئ) ان لوگوں کا حق ہے جو پہلے ہی سے اس جگہ (یعنی مدینہ میں) ایمان کے ساتھ مقیم ہیں۔ جو کوئی ان کے پاس ہجرت کے آتا ہے یہ اس سے محبت کرتے ہیں، اور جو کچھ ان (مہاجرین) کو دیا جاتا ہے، یہ اپنے سینوں میں اس کی کوئی خواہش بھی محسوس نہیں کرتے، اور ان کو اپنے آپ پر ترجیح دیتے ہیں، چاہے ان پر تنگ دستی کی حالت گزر رہی ہو۔ اور جو لوگ اپنی طبیعت کے بخل سے محفوظ ہوجائیں، وہی ہیں جو فلاح پانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

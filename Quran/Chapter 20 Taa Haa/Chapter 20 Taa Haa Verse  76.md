@@ -3224,6 +3224,12 @@ hameshgi waali jannate jin ke niche nehre lehre le rahi hai, jaha wo hamesha (ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ) سدا بہار باغات ہیں جن کے نیچے سے نہریں رواں ہیں (وہ) ان میں ہمیشہ رہنے والے ہیں، اور یہ اس شخص کا صلہ ہے جو (کفر و معصیت کی آلودگی سے) پاک ہو گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ہمیشہ رہنے والے باغات جن کے نیچے سے نہریں بہتی ہوں گی، جن میں وہ ہمیشہ رہیں گے۔ اور یہ صلہ ہے اس کا جس نے پاکیزگی اختیار کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

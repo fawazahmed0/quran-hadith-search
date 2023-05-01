@@ -3224,6 +3224,12 @@ aur un ko agar koyi baath bathlaane ko pukaaro to us ko na sune aur un ko aap de
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم انہیں صحیح راستے کی طرف بلاؤ تو وہ سنیں گے بھی نہیں۔ وہ تمہیں نظر تو اس طرح آتے ہیں جیسے تمہیں دیکھ رہے ہوں، لیکن حقیقت میں انہیں کچھ سجھائی نہیں دیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jo log kaafir hoye unhe halaaki ho, Allah un ke amaal ghaarath kar dega
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جنہوں نے کفر کیا تو ان کے لئے ہلاکت ہے اور (اللہ نے) ان کے اعمال برباد کر دیئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے، ان کے لیے تباہی ہے، اور اللہ نے ان کے اعمال اکارت کردیے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

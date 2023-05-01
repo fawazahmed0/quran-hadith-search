@@ -3224,6 +3224,12 @@ aur agar miya biwi judha ho jaaye to Allah ta’ala apni wus-ath se har ek ko be
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر دونوں (میاں بیوی) جدا ہو جائیں تواللہ ہر ایک کو اپنی کشائش سے (ایک دوسرے سے) بے نیاز کر دے گا اور اللہ بڑی وسعت والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر دونوں جدا ہو ہی جائیں تو اللہ اپنی (قدرت اور حمت کی) وسعت سے دونوں کو (ایک دوسرے کی حاجت سے) بےنیاز کردے گا۔ اللہ بڑی وسعتوں والا، بڑی حکمت والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

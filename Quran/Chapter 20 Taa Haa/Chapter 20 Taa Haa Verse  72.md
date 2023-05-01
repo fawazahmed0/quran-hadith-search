@@ -3224,6 +3224,12 @@ unhone jawaab diya ke na mumkin hai ke hum tujhe tarjih de, un daleelo par jo ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جادوگروں نے) کہا: ہم تمہیں ہرگز ان واضح دلائل پر ترجیح نہیں دیں گے جو ہمارے پاس آچکے ہیں، اس (رب) کی قسم جس نے ہمیں پیدا فرمایا ہے! تو جو حکم کرنے والا ہے کر لے، تُو فقط (اس چند روزہ) دنیوی زندگی ہی سے متعلق فیصلہ کر سکتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جادوگروں نے کہا : قسم اس ذات کی جس نے ہمیں پیدا کیا ہے۔ ہمارے سامنے جو روشن نشانیاں آگئی ہیں ان پر ہم تمہیں ہرگز ترجیح نہیں دے سکتے۔ اب تمہیں جو کچھ کرنا ہو، کرلو۔ تم جو کچھ بھی کرو گے اسی دنیوی زندگی کے لیے ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

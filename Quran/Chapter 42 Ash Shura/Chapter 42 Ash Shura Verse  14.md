@@ -3224,6 +3224,12 @@ un logo ne apne paas ilm aa jaane ke baadh hee eqtelaaf kiya (aur wo bhi) baahmi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے فرقہ بندی نہیں کی تھی مگر اِس کے بعد جبکہ اُن کے پاس علم آچکا تھا محض آپس کی ضِد (اور ہٹ دھرمی) کی وجہ سے، اور اگر آپ کے رب کی جانب سے مقررہ مدّت تک (کی مہلت) کا فرمان پہلے صادر نہ ہوا ہوتا تو اُن کے درمیان فیصلہ کیا جا چکا ہوتا، اور بیشک جو لوگ اُن کے بعد کتاب کے وارث بنائے گئے تھے وہ خود اُس کی نسبت فریب دینے والے شک میں (مبتلا) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں نے آپس کی عداوتوں کی وجہ سے (دین میں) جو تفرقہ ڈالا ہے وہ اس کے بعد ہی ڈالا ہے جب ان کے پاس یقینی علم آچکا تھا۔ اور اگر تمہارے پروردگار کی طرف سے ایک معین مدت تک کے لیے ایک بات پہلے سے طے نہ ہوتی تو ان کا فیصلہ ہوچکا ہوتا۔ اور ان لوگوں کے بعد جن کو کتاب کا وارث بنایا گیا ہے وہ اس کے بارے میں ایسے شک میں پڑے ہوئے ہیں جس نے انہیں خلجان میں ڈال رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

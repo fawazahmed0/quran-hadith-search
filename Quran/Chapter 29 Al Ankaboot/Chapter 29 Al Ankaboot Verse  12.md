@@ -3224,6 +3224,12 @@ kaafiro ne imaan waalo se kaha ke tum hamaari raah ki tabedaari karo, tumhaare g
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ ایمان والوں سے کہتے ہیں کہ تم ہماری راہ کی پیروی کرو اور ہم تمہاری خطاؤں (کے بوجھ) کو اٹھا لیں گے، حالانکہ وہ ان کے گناہوں کا کچھ بھی (بوجھ) اٹھانے والے نہیں ہیں بیشک وہ جھوٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے، انہوں نے ایمان والوں سے کہا کہ : ہمارے راستے کے پیچھے چلو تاکہ ہم تمہاری خطاؤں کا بوجھ اٹھالیں گے۔ حالانکہ وہ ان کی خطاؤں کا ذرا بھی بوجھ نہیں اٹھاسکتے، اور یہ لوگ یقینا بالکل جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

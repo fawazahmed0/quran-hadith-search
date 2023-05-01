@@ -3224,6 +3224,12 @@ jo log iman lae aur hijrath ki aur Allah ki rah mein jihad kiya aur jinhone jaga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ایمان لائے اور انہوں نے ہجرت کی اور اللہ کی راہ میں جہاد کیا اور جن لوگوں نے (راہِ خدا میں گھر بار اور وطن قربان کر دینے والوں کو) جگہ دی اور (ان کی) مدد کی، وہی لوگ حقیقت میں سچے مسلمان ہیں، ان ہی کے لئے بخشش اور عزت کی روزی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لے آئے، اور انہوں نے ہجرت کی، اور اللہ کے راستے میں جہاد کیا، وہ اور جنہوں نے انہیں آباد کیا اور ان کی مدد کی وہ سب صحیح معنوں میں مومن ہیں۔ ایسے لوگ مغفرت اور باعزت رزق کے مستحق ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

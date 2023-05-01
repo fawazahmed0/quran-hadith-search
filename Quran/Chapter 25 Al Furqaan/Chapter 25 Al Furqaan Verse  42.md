@@ -3224,6 +3224,12 @@ Isne to humein gumraah karke apne maboodon se bargashta(astray/behka/gumrah) hi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قریب تھا کہ یہ ہمیں ہمارے معبودوں سے بہکا دیتا اگر ہم ان (کی پرستش) پر ثابت قدم نہ رہتے اور وہ عنقریب جان لیں گے جس وقت عذاب دیکھیں گے کہ کون زیادہ گمراہ تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر ہم اپنے خداؤں (کی عقیدت) پر مضبوطی سے جمے نہ رہتے تو ان صاحب نے تو ہمیں ان سے بھٹکانے میں کوئی کسر نہیں چھوڑی تھی۔ (جو لوگ یہ باتیں کہہ رہے ہیں) جب انہیں عذاب آنکھوں سے نظر آجائے گا تب انہیں پتہ چلے گا کہ کون راستے سے بالکل بھٹکا ہوا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

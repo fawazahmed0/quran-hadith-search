@@ -3224,6 +3224,12 @@ phir jab raath ki tariki un par chaa gayi to unhone ek sitaara dekha, aap ne far
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ان پر رات نے اندھیرا کر دیا تو انہوں نے (ایک) ستارہ دیکھا (تو) کہا: (کیا تمہارے خیال میں) یہ میرا رب ہے؟ پھر جب وہ ڈوب گیا تو (اپنی قوم کو سنا کر) کہنے لگے: میں ڈوب جانے والوں کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب ان پر رات چھائی تو انہوں نے ایک ستارا دیکھا۔ کہنے لگے : یہ میرا رب ہے پھر جب وہ ڈوب گیا تو انہوں نے کہا : میں ڈوبنے والوں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

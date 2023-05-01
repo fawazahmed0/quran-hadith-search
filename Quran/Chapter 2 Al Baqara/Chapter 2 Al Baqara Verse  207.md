@@ -3224,6 +3224,12 @@ aur baaz log wo bhi hai jo Allah ta’ala ki raza mandi ki talab mein apni jaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اس کے برعکس) لوگوں میں کوئی شخص ایسا بھی ہوتا ہے جو اللہ کی رضا حاصل کرنے کے لئے اپنی جان بھی بیچ ڈالتا ہے، اور اللہ بندوں پر بڑی مہربانی فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یقین کرو وہ بہت برابچھونا ہے، اور (دوسری طرف) لوگوں میں وہ شخص بھی ہے جو اللہ کی خوشنودی کی خاطر اپنی جان کا سودا کرلیتا ہے، اور اللہ (ایسے) بندوں پر بڑا مہربان ہے ،۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

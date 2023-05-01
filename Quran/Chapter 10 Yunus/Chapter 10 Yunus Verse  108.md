@@ -3224,6 +3224,12 @@ aap keh dijiye ke aye logo! tumhare paas haq tumhare rub ki taraf se pahoch chok
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اے لوگو! بیشک تمہارے پاس تمہارے رب کی جانب سے حق آگیا ہے، سو جس نے راہِ ہدایت اختیار کی بس وہ اپنے ہی فائدے کے لئے ہدایت اختیار کرتا ہے اور جو گمراہ ہوگیا بس وہ اپنی ہی ہلاکت کے لئے گمراہ ہوتا ہے اور میں تمہارے اوپر داروغہ نہیں ہوں (کہ تمہیں سختی سے راہِ ہدایت پر لے آؤں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کہہ دو کہ : لوگو تمہارے پروردگار کی طرف سے تمہارے پاس حق آگیا ہے، اب جو شخص ہدایت کا راستہ اپنائے گا وہ خود اپنے فائدے کے لیے اپنائے گا، اور جو گمراہی اختیار کرے گا، اس کی گمراہی کا نقصان خود اسی کو پہنچے گا، اور میں تمہارے کاموں کا ذمہ دار نہیں ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

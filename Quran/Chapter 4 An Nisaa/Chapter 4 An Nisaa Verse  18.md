@@ -3224,6 +3224,12 @@ un ki tauba nahi jo buraiyya karte chale jaaye yaha tak ke jab un mein se kisi k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ایسے لوگوں کے لئے توبہ (کی قبولیت) نہیں ہے جو گناہ کرتے چلے جائیں، یہاں تک کہ ان میں سے کسی کے سامنے موت آپہنچے تو (اس وقت) کہے کہ میں اب توبہ کرتا ہوں اور نہ ہی ایسے لوگوں کے لئے ہے جو کفر کی حالت پر مریں، ان کے لئے ہم نے دردناک عذاب تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو بہ کی قبولیت ان کے لیے نہیں جو برے کام کیے جاتے ہیں، یہاں تک کہ جب ان میں سے کسی پر موت کا وقت آکھڑا ہوتا ہے تو وہ کہتا ہے کہ میں نے اب توبہ کرلی ہے، اور نہ ان کے لیے ہے جو کفر ہی کی حالت میں مرجاتے ہیں۔ ایسے لوگوں کے لیے تو ہم نے دکھ دینے والا عذاب تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

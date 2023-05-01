@@ -3224,6 +3224,12 @@ phir to hum bhi aap ko duhra azaab dunya ka karte aur dohra hee mauth ka, phir a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اگر بالفرض آپ مائل ہو جاتے تو) اس وقت ہم آپ کو دوگنا مزہ زندگی میں اور دوگنا موت میں چکھاتے پھر آپ اپنے لئے (بھی) ہم پر کوئی مدد گار نہ پاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ایسا ہوجاتا تو ہم تمہیں دنیا میں بھی دگنی سزا دیتے، اور مرنے کے بعد بھی دگنی، پھر تمہیں ہمارے مقابلے میں کوئی مددگار نہ ملتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

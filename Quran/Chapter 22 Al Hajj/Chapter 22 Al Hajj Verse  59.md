@@ -3224,6 +3224,12 @@ unhe Allah ta’ala aisi jageh pahonchayega ke wo us se raazi ho jayenge, beshak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ ضرور انہیں اس جگہ (یعنی مقامِ رضوان میں) داخل فرمائے گا جس سے وہ راضی ہو جائیں گے، اور بیشک اللہ خوب جاننے والا بُردبار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ انہیں ضرور ایسی جگہ پہنچائے گا جس سے وہ خوش ہوجائیں گے، اور اللہ یقینا ہر بات جاننے والا، بڑا بردبار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

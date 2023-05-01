@@ -3224,6 +3224,12 @@ aur un ke baad hum khudh tumhe us zameen mein basaayenge, ye hai un ke liye jo m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے بعد ہم تمہیں ضرور (اسی) ملک میں آباد فرمائیں گے۔ یہ (وعدہ) ہر اس شخص کے لئے ہے جو میرے حضور کھڑا ہونے سے ڈرا اور میرے وعدۂ (عذاب) سے خائف ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے بعد یقینا تمہیں زمین میں بسائیں گے، یہ ہے ہر اس شخص کا صلہ جو میرے سامنے کھڑا ہونے کا خوف رکھتا اور میری وعید سے ڈرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

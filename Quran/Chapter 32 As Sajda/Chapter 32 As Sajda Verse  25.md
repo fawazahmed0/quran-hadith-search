@@ -3224,6 +3224,12 @@ aap ka rab un (sab) ke darmiyaan un (tamaam) baatho ka faisla qayaamath ke din k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک آپ کا رب ہی ان لوگوں کے درمیان قیامت کے دن ان (باتوں) کا فیصلہ فرما دے گا جن میں وہ اختلاف کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا تمہارا پروردگار ہی قیامت کے دن ان کے درمیان ان باتوں کا فیصلہ کرے گا جن میں وہ اختلاف کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

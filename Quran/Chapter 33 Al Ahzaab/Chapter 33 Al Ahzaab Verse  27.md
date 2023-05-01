@@ -3224,6 +3224,12 @@ aur us ne tumhe un ki zamino ka aur un ke ghar baar ka aur un ke maal ka waaris 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس نے تمہیں ان (جنگی دشمنوں) کی زمین کا اور ان کے گھروں کا اور ان کے اموال کا اوراس (مفتوحہ) زمین کا جِس میں تم نے (پہلے) قدم بھی نہ رکھا تھا مالک بنا دیا، اور اللہ ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے تمہیں ان کی زمین کا، ان کے گھروں کا اور ان کی دولت کا وارث بنادیا، اور ایک ایسی زمین کا بھی جس تک ابھی تمہارے قدم نہیں پہنچے اور اللہ ہر چیز پر پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

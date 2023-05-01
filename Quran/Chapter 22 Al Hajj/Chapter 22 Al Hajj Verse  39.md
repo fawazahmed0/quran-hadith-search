@@ -3224,6 +3224,12 @@ jin (musalaamo) se (kaafir) jung kar rahe hai, unhe bhi muqaable ki ijaazath di 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان لوگوں کو (اب اپنے دفاع کے لیے جنگ کی) اجازت دے دی گئی ہے جن پر (ناحق) جنگ مسلط کردی گئی ہے، (اور یہ اجازت) اِس وجہ سے (دی گئی ہے) کہ ان پر ظلم کیا گیا، اور بے شک اللہ ان (مظلوموں) کی مدد پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں سے جنگ کی جارہی ہے، انہیں اجازت دی جاتی ہے (کہ وہ اپنے دفاع میں لڑیں) کیونکہ ان پر ظلم کیا گیا ہے، اور یقین رکھو کہ اللہ ان کو فتح دلانے پر پوری طرح قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

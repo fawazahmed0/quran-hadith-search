@@ -3224,6 +3224,12 @@ tum us ke paas ja kar kaho ke hum tere parvardigaar ke paighambar hai, tu hamaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تم دونوں اس کے پاس جاؤ اور کہو: ہم تیرے رب کے بھیجے ہوئے (رسول) ہیں سو تو بنی اسرائیل کو (اپنی غلامی سے آزاد کرکے) ہمارے ساتھ بھیج دے اور انہیں (مزید) اذیت نہ پہنچا، بیشک ہم تیرے پاس تیرے رب کی طرف سے نشانی لے کر آئے ہیں، اور اس شخص پر سلامتی ہو جس نے ہدایت کی پیروی کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب اس کے پاس جاؤ، اور کہو کہ ہم دونوں تمہارے رب کے پیغمبر ہیں، اس لیے بنو اسرائیل کو ہمارے ساتھ بھیج دو ، اور انہیں تکلیفیں نہ پہنچاؤ، ہم تمہارے پاس تمہارے رب کی طرف سے نشانی لے کر آئے ہیں، اور سلامتی اسی کے لیے جو ہدایت کی پیروی کرے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

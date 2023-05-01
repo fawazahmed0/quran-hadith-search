@@ -3224,6 +3224,12 @@ yaqinan in ke paas wo qabre aa chuki hai jin mein daant dapat (ki nasihath) hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک اُن کے پاس (پہلی قوموں کی) ایسی خبریں آچکی ہیں جن میں (کفر و نافرمانی پر بڑی) عبرت و سرزنش ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں کو (پچھلی قوموں کے) واقعات کی اتنی خبریں پہنچ چکی ہیں جن میں تنبیہ کا بڑا سامان تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

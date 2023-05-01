@@ -3224,6 +3224,12 @@ wo phir kehne lage ke dua ki jiye ke Allah ta’ala bayaan kare ke us ka rang ky
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (پھر) بولے: اپنے رب سے ہمارے حق میں دعا کریں وہ ہمارے لئے واضح کر دے کہ اس کا رنگ کیسا ہو؟ (موسیٰ علیہ السلام نے) کہا: وہ فرماتا ہے کہ وہ گائے زرد رنگ کی ہو، اس کی رنگت خوب گہری ہو (ایسی جاذبِ نظر ہو کہ) دیکھنے والوں کو بہت بھلی لگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگے آپ ہماری خاطر اپنے رب سے درخواست کیجئے کہ ہمیں صاف صاف بتائے کہ اس کا رنگ کیسا ہو ؟ موسیٰ نے کہا اللہ فرماتا ہے کہ وہ ایسے تیز زرد رنگ کی گائے ہو جو دیکھنے والوں کا دل خوش کردے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

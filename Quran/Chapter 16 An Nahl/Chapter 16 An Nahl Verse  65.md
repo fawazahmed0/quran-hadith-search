@@ -3224,6 +3224,12 @@ aur Allah aasmaan se paani barsa kar us se zameen ko us ki mauth ke baadh zinda 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے آسمان کی جانب سے پانی اتارا اور اس کے ذریعہ زمین کو اس کے مردہ (یعنی بنجر) ہونے کے بعد زندہ (یعنی سرسبز و شاداب) کر دیا۔ بیشک اس میں (نصیحت) سننے والوں کے لئے نشانی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے آسمان سے پانی برسایا، اور زمین کے مردہ ہوجانے کے بعد اس میں جان ڈال دی۔ یقینا اس میں ان لوگوں کے لیے نشانی ہے جو بات سنتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

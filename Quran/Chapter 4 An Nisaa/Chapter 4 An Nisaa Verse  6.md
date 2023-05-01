@@ -3224,6 +3224,12 @@ aur yaqtimo ko un ke baaligh ho jaane tak sudhaarte aur azmaate raho, phir agar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یتیموں کی (تربیتہً) جانچ اور آزمائش کرتے رہو یہاں تک کہ نکاح (کی عمر) کو پہنچ جائیں پھر اگر تم ان میں ہوشیاری (اور حُسنِ تدبیر) دیکھ لو تو ان کے مال ان کے حوالے کر دو، اور ان کے مال فضول خرچی اور جلد بازی میں (اس اندیشے سے) نہ کھا ڈالو کہ وہ بڑے ہو (کر واپس لے) جائیں گے، اور جو کوئی خوشحال ہو وہ (مالِ یتیم سے) بالکل بچا رہے اور جو (خود) نادار ہو اسے (صرف) مناسب حد تک کھانا چاہئے، اور جب تم ان کے مال ان کے سپرد کرنے لگو تو ان پر گواہ بنا لیا کرو، اور حساب لینے والا اللہ ہی کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یتیموں کو جانچتے رہو، یہاں تک کہ جب وہ نکاح کے لائق عمر کو پہنچ جائیں، تو اگر تم یہ محسوس کرو کہ ان میں سمجھ داری آچکی ہے تو ان کے مال انہی کے حوالے کردو۔ اور یہ مال فضول خرچی کر کے اور یہ سوچ کر جلدی جلدی نہ کھا بیٹھو کہ وہ کہیں بڑے نہ ہوجائیں۔ اور (یتیموں کے سرپرستوں میں سے) جو خود مال دار ہو وہ تو اپنے آپ کو (یتیم کا مال کھانے سے) بالکل پاک رکھے، ہاں اگر وہ خود محتاج ہو تو معروف طریق کار کو ملحوظ رکھتے ہوئے کھالے۔ پھر جب تم ان کے مال انہیں دو تو ان پر گواہ بنا لو، اور اللہ حساب لینے کے لیے کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

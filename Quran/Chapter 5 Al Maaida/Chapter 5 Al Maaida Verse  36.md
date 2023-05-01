@@ -3224,6 +3224,12 @@ yaqin mano ke kafiro ke liye agar wo sub kuch ho, jo sari zamin mein hai balke o
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ کفر کے مرتکب ہو رہے ہیں اگر ان کے پاس وہ سب کچھ (مال و متاع اور خزانہ موجود) ہو جو روئے زمین میں ہے بلکہ اس کے ساتھ اتنا اور (بھی) تاکہ وہ روزِ قیامت کے عذاب سے (نجات کے لئے) اسے فدیہ (یعنی اپنی جان کے بدلہ) میں دے دیں تو (وہ سب کچھ بھی) ان سے قبول نہیں کیا جائے گا، اور ان کے لئے درد ناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ جن لوگوں نے کفر اپنا لیا ہے اگر زمین میں جتنی چیزیں ہیں وہ سب ان کے پاس ہوں، اور اتنی ہی اور بھی ہوں، تاکہ وہ قیامت کے دن کے عذاب سے بچنے کے لیے وہ سب فدیہ میں پیش کردیں، تب بھی ان کی یہ پیشکش قبول نہیں کی جائے گی، اور ان کو دردناک عذاب ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

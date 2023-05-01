@@ -3224,6 +3224,12 @@ paak hai wo Allah ta’ala jo apne bandHe ko raath hee raath mein masjide haraam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ ذات (ہر نقص اور کمزوری سے) پاک ہے جو رات کے تھوڑے سے حصہ میں اپنے (محبوب اور مقرّب) بندے کو مسجدِ حرام سے (اس) مسجدِ اقصٰی تک لے گئی جس کے گرد و نواح کو ہم نے بابرکت بنا دیا ہے تاکہ ہم اس (بندۂ کامل) کو اپنی نشانیاں دکھائیں، بیشک وہی خوب سننے والا خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پاک ہے وہ ذات جو اپنے بندے کو راتوں رات مسجد حرام سے مسجد اقصی تک لے گئی جس کے ماحول پر ہم نے برکتیں نازل کی ہیں، تاکہ ہم انہیں اپنی کچھ نشانیاں دکھائیں۔ بیشک وہ ہر بات سننے والی، ہر چیز دیکھنے والی ذات ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur (tum ose bhi yaad karo)tum ne (hazrath) Moosa (alaihissalaam) se kaha tha ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تم نے کہا: اے موسیٰ! ہم آپ پر ہرگز ایمان نہ لائیں گے یہاں تک کہ ہم اللہ کو (آنکھوں کے سامنے) بالکل آشکارا دیکھ لیں پس (اس پر) تمہیں کڑک نے آلیا (جو تمہاری موت کا باعث بن گئی) اور تم (خود یہ منظر) دیکھتے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم نے کہا تھا اے موسیٰ ہم اس وقت تک ہرگز تمہارا یقین نہیں کریں گے جب تک اللہ کو ہم خود کھلی آنکھوں نہ دیکھ لیں “
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

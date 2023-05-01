@@ -3224,6 +3224,12 @@ keh dijiye! ke Allah ke siva jin jin ka tumhe gumaan hai (sab) ko pukaar lo, na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تم انہیں بلا لو جنہیں تم اللہ کے سوا (معبود) سمجھتے ہو، وہ آسمانوں میں ذرّہ بھر کے مالک نہیں ہیں اور نہ زمین میں، اور نہ ان کی دونوں (زمین و آسمان) میں کوئی شراکت ہے اور نہ ان میں سے کوئی اللہ کا مددگار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان کافروں سے) کہو کہ پکارو ان کو جنہیں تم نے اللہ کے سوا خدا سمجھا ہوا ہے۔ وہ آسمانوں اور زمین میں ذرہ برابر کسی چیز کے مالک نہیں ہیں، نہ ان کو آسمان و زمین کے معاملات میں (اللہ کے ساتھ) کوئی شرکت حاصل ہے، اور نہ ان میں سے کوئی اللہ کا مددگار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

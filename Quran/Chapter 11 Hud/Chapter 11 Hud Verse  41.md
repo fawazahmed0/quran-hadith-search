@@ -3224,6 +3224,12 @@ nuh alaihissalaam ne kaha us kashti mein bait jao Allah hee ke naam se us ka cha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نوح (علیہ السلام) نے کہا: تم لوگ اس میں سوار ہو جاؤ اللہ ہی کے نام سے اس کا چلنا اور اس کا ٹھہرنا ہے۔ بیشک میرا رب بڑا ہی بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نوح نے (ان سب سے) کہا کہ : اس کشتی میں سوار ہوجاؤ، اس کا چلنا بھی اللہ ہی کے نام سے ہے، اور لنگر ڈالنا بھی، یقین رکھو کہ میرا پروردگار بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

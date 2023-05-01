@@ -3224,6 +3224,12 @@ ye is liye ke kaafiro ne baatil ki pairvi ki aur momino ne us deene haq ki itteb
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس لئے کہ جن لوگوں نے کفر کیا وہ باطل کے پیچھے چلے اور جو لوگ ایمان لائے انہوں نے اپنے رب کی طرف سے (اتارے گئے) حق کی پیروی کی، اسی طرح اللہ لوگوں کے لئے ان کے احوال بیان فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس لیے کہ جن لوگوں نے کفر اختیار کیا ہے وہ باطل کے پیچھے چلے ہیں، اور جو لوگ ایمان لائے ہیں وہ اس حق کے پیچھے چلے ہیں جو ان کے پروردگار کی طرف سے آیا ہے، اسی طرح اللہ لوگوں کو بتارہا ہے کہ ان کے حالات کیا کیا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yaqinan hum ne kaafiro ke liye zanjire aur tauq aur shulo waali aag tayyaar kar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے کافروں کے لئے (پاؤں کی) زنجیریں اور (گردن کے) طوق اور (دوزخ کی) دہکتی آگ تیار کر رکھی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ہی کافروں کے لیے زنجیریں، گلے کے طوق اور بھڑکتی ہوئی آگ تیار کی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

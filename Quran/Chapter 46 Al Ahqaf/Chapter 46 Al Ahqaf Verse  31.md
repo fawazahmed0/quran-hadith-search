@@ -3224,6 +3224,12 @@ aye hamaari khaum! Allah ke bulaane waale ka kaha maano, us par imaan laao, to A
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہماری قوم! تم اللہ کی طرف بلانے والے (یعنی محمد رسول اللہ صلی اللہ علیہ وآلہ وسلم) کی بات قبول کر لو اور ان پر ایمان لے آؤ (تو) اللہ تمہارے گناہ بخش دے گا اور تمہیں دردناک عذاب سے پناہ دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ہماری قوم کے لوگو ! اللہ کے داعی کی بات مان لو، اور اس پر ایمان لے آؤ، اللہ تمہارے گناہوں کو معاف کردے گا، اور تمہیں ایک دردناک عذاب سے پناہ دے دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

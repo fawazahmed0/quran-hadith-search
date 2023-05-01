@@ -3224,6 +3224,12 @@ kehne lage parvardigaar mere liye us ki koyi nishaani muqarrar karde, farmaaya n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عرض کیا: اے میرے رب! میرے لئے کوئی نشانی مقرر فرما، فرمایا: تمہارے لئے نشانی یہ ہے کہ تم تین دن تک لوگوں سے سوائے اشارے کے بات نہیں کر سکو گے، اور اپنے رب کو کثرت سے یاد کرو اور شام اور صبح اس کی تسبیح کرتے رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : پروردگار میرے لیے کوئی نشانی مقرر کردیجیے، اللہ نے کہا : تمہاری نشانی یہ ہوگی کہ تم تین دن تک اشاروں کے سوا کوئی بات نہیں کرسکو گے۔ اور اپنے رب کا کثرت سے ذکر کرتے رہو، اور ڈھلے دن کے وقت بھی اور صبح سویرے بھی اللہ کی تسبیح کیا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

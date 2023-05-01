@@ -3224,6 +3224,12 @@ tum aur Allah ke siva jin jin ki tum ibaadath karte ho, sab dozakh ka indhan ban
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک تم اور وہ (بت) جن کی تم اللہ کے سوا پرستش کرتے تھے (سب) دوزخ کا ایندھن ہیں، تم اس میں داخل ہونے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے شرک کرنے والو !) یقین رکھو کہ تم اور جن کی تم اللہ کو چھوڑ کر عبادت کرتے ہو، وہ سب جہنم کا ایندھن ہیں۔ تمہیں اسی جہنم میں جا اترنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

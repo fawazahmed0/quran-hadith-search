@@ -3224,6 +3224,12 @@ mahino ka aage piche kar dena kufr ki zyadati hai,is se wo log gumrahi mein dale
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(حرمت والے مہینوں کو) آگے پیچھے ہٹا دینا محض کفر میں زیادتی ہے اس سے وہ کافر لوگ بہکائے جاتے ہیں جو اسے ایک سال حلال گردانتے ہیں اور دوسرے سال اسے حرام ٹھہرا لیتے ہیں تاکہ ان (مہینوں) کا شمار پورا کر دیں جنہیں اللہ نے حرمت بخشی ہے اور اس (مہینے) کو حلال (بھی) کر دیں جسے اللہ نے حرام فرمایا ہے۔ ان کے لئے ان کے برے اعمال خوش نما بنا دیئے گئے ہیں اور اللہ کافروں کے گروہ کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ نسیئ (یعنی مہینوں کو آگے پیچھے کردینا) تو کفر میں ایک مزید اضافہ ہے جس کے ذریعے کافروں کو گمراہ کیا جاتا ہے۔ یہ لوگ اس عمل کو ایک سال حلال کرلیتے ہیں، اور ایک سال حرام قرار دے دیتے ہیں، تاکہ اللہ نے جو مہینے حرام کیے ہیں ان کی بس گنتی پوری کرلیں، اور (اس طرح) جو بات اللہ نے حرام قرار دی تھی اسے حلال سمجھ لیں۔ ان کی بدعملی ان کی نگاہ میں خوشنما بنادی گئی ہے، اور اللہ ایسے کافر لوگوں کو ہدایت تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

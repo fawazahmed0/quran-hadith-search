@@ -3224,6 +3224,12 @@ aur ye bhi ke hum unhe zameen mein khudrath wa eqtiyaar de aur feraun aur hamaan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم انہیں ملک میں حکومت و اقتدار بخشیں اور فرعون اور ہامان اور ان دونوں کی فوجوں کو وہ (انقلاب) دکھا دیں جس سے وہ ڈرا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہیں زمین میں اقتدار عطاکریں، اور فرعون، ہامان اور ان کے لشکروں کو وہی کچھ دکھا دیں جس سے بچاؤ کی وہ تدبیریں کر رہے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

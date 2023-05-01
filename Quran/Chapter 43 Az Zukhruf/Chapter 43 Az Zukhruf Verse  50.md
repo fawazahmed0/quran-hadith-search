@@ -3224,6 +3224,12 @@ phir jab hum ne wo azaab un se hata liya, unhone osi waqt apna khaul wa qaraar t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ہم نے (دعائے موسٰی سے) وہ عذاب اُن سے ہٹا دیا تو وہ فوراً عہد شکنی کرنے لگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب ہم ان سے عذاب کو دور کردیتے ہیں تو پل بھر میں وہ اپنا وعدہ توڑ ڈالتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

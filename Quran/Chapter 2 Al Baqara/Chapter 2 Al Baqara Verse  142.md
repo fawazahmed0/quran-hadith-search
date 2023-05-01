@@ -3224,6 +3224,12 @@ an qareeb nadaan log kahenge ke jis qible par ye thein us se unhe kis cheez ne h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اَب بیوقوف لوگ یہ کہیں گے کہ ان (مسلمانوں) کو اپنے اس قبلہ (بیت المقدس) سے کس نے پھیر دیا جس پر وہ (پہلے سے) تھے، آپ فرما دیں: مشرق و مغرب (سب) اللہ ہی کے لئے ہے، وہ جسے چاہتا ہے سیدھی راہ پر ڈال دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب یہ بیوقوف لوگ کہیں گے کہ آخر وہ کیا چیز ہے جس نے ان (مسلمانوں) کو قبلے سے رخ پھیرنے پر آمادہ کردیا جس کی طرف وہ منہ کرتے چلے آرہے تھے ؟ آپ کہہ دیجیے کہ مشرق اور مغرب سب اللہ ہی کی ہیں۔ وہ جس کو چاہتا ہے سیدھی راہ کی ہدایت کردیتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

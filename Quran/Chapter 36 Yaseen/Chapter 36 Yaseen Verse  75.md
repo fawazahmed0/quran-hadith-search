@@ -3224,6 +3224,12 @@ Woh inki koi madad nahin kar sakte balke yeh log ultey unke liye hazir-baash las
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بت اُن کی مدد کی قدرت نہیں رکھتے اور یہ (کفار و مشرکین) اُن (بتوں) کے لشکر ہوں گے جو (اکٹھے دوزخ میں) حاضر کر دیئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (حالانکہ) ان میں یہ طاقت ہی نہیں ہے کہ ان کی مدد کرسکیں، بلکہ وہ ان کے لیے ایک ایسا (مخالف) لشکر بنیں گے جسے (قیامت میں ان کے سامنے) حاضر کرلیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

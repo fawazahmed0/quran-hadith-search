@@ -3224,6 +3224,12 @@ aur hum ne Ibraheem wa Ishaaq(alaihima assalaam) par bartake naazil farmaayi aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اُن پر اور اسحاق (علیہ السلام) پر برکتیں نازل فرمائیں، اور ان دونوں کی نسل میں نیکو کار بھی ہیں اور اپنی جان پر کھلے ظلم شِعار بھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان پر بھی برکتیں نازل کیں۔ اور اسحاق پر بھی، اور ان کی اولاد میں سے کچھ لوگ نیک عمل کرنے والے ہیں، اور کچھ اپنی جان پر کھلا ظلم کرنے والے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

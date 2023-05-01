@@ -3224,6 +3224,12 @@ jo shaqs neki layega ose us se behtar milega aur jo buraayi le kar ayega, to ais
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص نیکی لے کر آئے گا اس کے لئے اس سے بہتر (صلہ) ہے اور جو شخص برائی لے کر آئے گا تو برے کام کرنے والوں کو کوئی بدلہ نہیں دیا جائے گا مگر اسی قدر جو وہ کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص کوئی نیکی لے کر آئے گا تو اس کو اس سے بہتر چیز ملے گی، اور جو کوئی بدی لے کر آئے گا تو جنہوں نے برے کام کیے ہیں، ان کو کسی اور چیز کی نہیں، ان کے کیے ہوئے کاموں ہی کی سزا دی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

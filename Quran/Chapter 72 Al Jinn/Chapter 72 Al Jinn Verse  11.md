@@ -3224,6 +3224,12 @@ aur ye ke (beshak) baaz to hum mein neko kaar hai aur baaz us ke bar aks bhi hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ ہم میں سے کچھ نیک لوگ ہیں اور ہم (ہی) میں سے کچھ اس کے سوا (برے) بھی ہیں، ہم مختلف طریقوں پر (چل رہے) تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : ہم میں کچھ نیک ہیں، اور کچھ ایسے نہیں ہیں اور ہم مختلف طریقوں پر چلے آرہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ goya ke wo un gharo mein kabhi ba-se hee na thein, agah raho madyan ke liye bhi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+گویا وہ ان میں کبھی بسے ہی نہ تھی۔ سنو! (اہلِ) مدین کے لئے ہلاکت ہے جیسے (قومِ) ثمود ہلاک ہوئی تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جیسے کبھی وہاں بسے ہی نہ تھے۔ یاد رکھو ! مدین کی بھی ویسی ہی بربادی ہوئی جیسی بربادی ثمود کی ہوئی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

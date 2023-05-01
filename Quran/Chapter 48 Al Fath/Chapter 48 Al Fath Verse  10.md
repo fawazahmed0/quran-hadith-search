@@ -3224,6 +3224,12 @@ jo log tujh se baith karte hai, wo yaqinan Allah se baith karte hai, un ke haath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) بیشک جو لوگ آپ سے بیعت کرتے ہیں وہ اللہ ہی سے بیعت کرتے ہیں، ان کے ہاتھوں پر (آپ کے ہاتھ کی صورت میں) اللہ کا ہاتھ ہے۔ پھر جس شخص نے بیعت کو توڑا تو اس کے توڑنے کا وبال اس کی اپنی جان پر ہوگا اور جس نے (اس) بات کو پورا کیا جس (کے پورا کرنے) پر اس نے اللہ سے عہد کیا تھا تو وہ عنقریب اسے بہت بڑا اجر عطا فرمائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر !) جو لوگ آپ سے بیعت کر رہے ہیں درحقیقت وہ اللہ سے بیعت کررہے ہیں ۔ اللہ کا ہاتھ ان کے ہاتھوں پر ہے، اس کے بعد جو کوئی عہد توڑے گا، اس کے عہد کو توڑنے کا وبال اسی پر پڑے گا، اور جو کوئی اس عہد کو پورا کرے گا، جو اس نے اللہ سے کیا ہے تو اللہ اس کو زبردست ثواب عطا کرے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

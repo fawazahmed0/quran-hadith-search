@@ -3224,6 +3224,12 @@ pas us ne apne bal bothe par mu moda aur kehne laga ye jaadugar hai ya deewana h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو اُس نے اپنے اراکینِ سلطنت سمیت رُوگردانی کی اور کہنے لگا: (یہ) جادوگر یا دیوانہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو فرعون نے اپنی قوت بازو کے بل پر منہ موڑا، اور کہا کہ : یہ جادوگر ہے یا دیوانہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

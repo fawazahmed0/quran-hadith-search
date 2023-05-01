@@ -3224,6 +3224,12 @@ aur ye dua karte hai ke aye hamaare parvardigaar! tu hamein hamaari biwiyo aur a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ) وہ لوگ ہیں جو (حضورِ باری تعالیٰ میں) عرض کرتے ہیں: اے ہمارے رب! ہمیں ہماری بیویوں اور ہماری اولاد کی طرف سے آنکھوں کی ٹھنڈک عطا فرما، اور ہمیں پرہیزگاروں کا پیشوا بنا دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو (دعا کرتے ہوئے) کہتے ہیں کہ : ہمارے پروردگار ! ہمیں اپنی بیوی بچوں سے آنکھوں کی ٹھنڈک عطا فرما، اور ہمیں پرہیزگاروں کا سربراہ بنا دے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

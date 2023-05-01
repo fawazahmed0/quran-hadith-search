@@ -3224,6 +3224,12 @@ be-shak munaafiq Allah se chaal baaziya kar rahe hai aur wo unhe us chaal baazi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک منافق (بزعمِ خویش) اللہ کو دھوکہ دینا چاہتے ہیں حالانکہ وہ انہیں (اپنے ہی) دھوکے کی سزا دینے والا ہے، اور جب وہ نماز کے لئے کھڑے ہوتے ہیں تو سستی کے ساتھ (محض) لوگوں کو دکھانے کیلئے کھڑے ہوتے ہیں اور اللہ کویاد (بھی) نہیں کرتے مگر تھوڑا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ منافق اللہ کے ساتھ دھوکا بازی کرتے ہیں، حالانکہ اللہ نے انہیں دھوکے میں ڈال رکھا ہے۔ اور جب یہ لوگ نماز کے لیے کھڑے ہوتے ہیں تو کسمساتے ہوئے کھڑے ہوتے ہیں، لوگوں کے سامنے دکھا وا کرتے ہیں، اور اللہ کو تھوڑا ہی یاد کرتے ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

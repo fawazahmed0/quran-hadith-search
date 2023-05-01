@@ -3224,6 +3224,12 @@ hum ek sahih andaaz se asmaan se paani barsaate hai, phir ose zameen mein tehra 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم ایک اندازہ کے مطابق (عرصہ دراز تک) بادلوں سے پانی برساتے رہے، پھر (جب زمین ٹھنڈی ہوگئی تو) ہم نے اس پانی کو زمین (کی نشیبی جگہوں) میں ٹھہرا دیا (جس سے ابتدائی سمندر وجود میں آئے) اور بیشک ہم اسے (بخارات بنا کر) اڑا دینے پر بھی قدرت رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے آسمان سے ٹھیک اندازے کے مطابق پانی اتارا، پھر اسے زمین میں ٹھہرا دیا، اور یقین رکھو، ہم اسے غائب کردینے پر بھی قادر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

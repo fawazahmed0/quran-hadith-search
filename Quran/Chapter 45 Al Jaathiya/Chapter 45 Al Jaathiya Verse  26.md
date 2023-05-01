@@ -3224,6 +3224,12 @@ aap keh dijiye Allah hee tumhe zinda karta hai phir tumhe maar daalta hai, phir 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اللہ ہی تمہیں زندگی دیتا ہے اور پھر وہی تمہیں موت دیتا ہے پھر تم سب کو قیامت کے دن کی طرف جمع فرمائے گا جس میں کوئی شک نہیں ہے، لیکن اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ اللہ ہی تمہیں زندگی دیتا ہے، پھر وہ تمہیں موت دے گا پھر تم سب کو قیامت کے دن جمع کرے گا، جس میں کسی قسم کا کوئی شک نہیں ہے، لیکن اکثر لوگ سمجھتے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

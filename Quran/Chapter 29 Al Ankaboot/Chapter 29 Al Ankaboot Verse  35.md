@@ -3224,6 +3224,12 @@ al-batta hum ne is basti ko sarih ibrath ki nishaani bana diya, un logo ke liye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے اس بستی سے (ویران مکانوں کو) ایک واضح نشانی کے طور پر عقل مند لوگوں کے لئے برقرار رکھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اس بستی کی کچھ کھلی نشانی ان لوگوں کے لیے چھوڑ دی ہے جو سمجھ سے کام لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

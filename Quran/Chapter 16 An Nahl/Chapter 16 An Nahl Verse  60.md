@@ -3224,6 +3224,12 @@ aaqirath par imaan na rakhne walo ki hee buri misaal hai, Allah ke liye to bahut
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان لوگوں کی جو آخرت پر ایمان نہیں رکھتے (یہ) نہایت بری صفت ہے، اور بلند تر صفت اللہ ہی کی ہے اور وہ غالب حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بری بری باتیں تو انہی میں ہیں جو آخرت پر ایمان نہیں رکھتے، اور اعلی درجے کی صفات صرف اللہ کی ہیں، اور وہ اقتدار کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yahaa tak ke jab wo hamaare paas aayega, kahega kaash mere aur tere darmiyaan ma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ جب وہ ہمارے پاس آئے گا تو (اپنے ساتھی شیطان سے) کہے گا: اے کاش! میرے اور تیرے درمیان مشرق و مغرب کا فاصلہ ہوتا پس (تو) بہت ہی برا ساتھی تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ جب ایسا شخص ہمارے پاس آئے گا تو (اپنے شیطان ساتھی سے) کہے گا کہ : کاش میرے اور تیرے درمیان مشرق و مغرب کا فاصلہ ہوتا، کیونکہ تو بہت برا ساتھی تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

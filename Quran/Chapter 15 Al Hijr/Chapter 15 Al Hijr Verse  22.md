@@ -3224,6 +3224,12 @@ aur hum bhejte hai bhujal hawaae phir aasmaan se paani barsa kar wo tumhe pilaat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم ہواؤں کو بادلوں کا بوجھ اٹھائے ہوئے بھیجتے ہیں پھر ہم آسمان کی جانب سے پانی اتارتے ہیں پھر ہم اسے تم ہی کو پلاتے ہیں اور تم اس کے خزانے رکھنے والے نہیں ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ ہوائیں جو بادلوں کو پانی سے بھر دیتی ہیں، ہم نے بھیجی ہیں، پھر آسمان سے پانی ہم نے اتارا ہے، پھر اس سے تمہیں سیراب ہم نے کیا ہے، اور تمہارے بس میں یہ نہیں ہے کہ تم اس کو ذخیرہ کر کے رکھ سکو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye ghayb ki qabro mein se hai jise hum teri taraf wahi se pahochaate hai, tu un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے محبوب!) یہ غیب کی خبریں ہیں جو ہم آپ کی طرف وحی فرماتے ہیں، حالانکہ آپ (اس وقت) ان کے پاس نہ تھے جب وہ (قرعہ اندازی کے طور پر) اپنے قلم پھینک رہے تھے کہ ان میں سے کون مریم (علیہا السلام) کی کفالت کرے اور نہ آپ اس وقت ان کے پاس تھے جب وہ آپس میں جھگڑ رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یہ سب غیب کی خبریں ہیں جو ہم وحی کے ذریعے تمہیں دے رہے ہیں، تم اس وقت ان کے پاس نہیں تھے جب وہ یہ طے کرنے کے لیے اپنے قلم ڈال رہے تھے کہ ان میں سے کون مریم کی کفالت کرے گا، اور نہ اس وقت تم ان کے پاس تھے جب وہ (اس مسئلے میں) ایک دوسرے سے اختلاف کررہے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ta’ala saccha baadshah hai, wo badi bulandi waala hai, us ke siva koyi m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اللہ جو بادشاہِ حقیقی ہے بلند و برتر ہے، اس کے سوا کوئی معبود نہیں، بزرگی اور عزت والے عرش (اقتدار) کا (وہی) مالک ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض بہت اونچی شان ہے اللہ کی جو صحیح معنی میں بادشاہ ہے۔ اس کے سوا کوئی معبود نہیں، وہ عزت والے عرش کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

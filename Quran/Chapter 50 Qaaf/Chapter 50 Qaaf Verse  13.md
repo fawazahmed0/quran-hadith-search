@@ -3224,6 +3224,12 @@ aur aadh ne aur feraun ne aur bradaraan looth ne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (عُمان اور اَرضِ مَہرہ کے درمیان یمن کی وادئ اَحقاف میں آباد ہود علیہ السلام کی قومِ) عاد نے اور(مصر کے حکمران) فرعون نے اور (اَرضِ فلسطین میں سدوم اور عمورہ کی رہنے والی) قومِ لُوط نے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نیز قوم عاد اور قوم فرعون اور لوط کے بھائیوں نے بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

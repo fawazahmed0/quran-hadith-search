@@ -3224,6 +3224,12 @@ aur dosro ke liye bhi unhee mein se jo ab tak un se nahi mile aur wahi ghaalib b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اِن میں سے دوسرے لوگوں میں بھی (اِس رسول صلی اللہ علیہ وآلہ وسلم کو تزکیہ و تعلیم کے لئے بھیجا ہے) جو ابھی اِن لوگوں سے نہیں ملے (جو اس وقت موجود ہیں یعنی اِن کے بعد کے زمانہ میں آئیں گے)، اور وہ بڑا غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یہ رسول جن کی طرف بھیجے گئے ہیں) ان میں کچھ اور بھی ہیں جو ابھی ان کے ساتھ آکر نہیں ملے۔ اور وہ بڑے اقتدار والا، بڑی حکمت والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

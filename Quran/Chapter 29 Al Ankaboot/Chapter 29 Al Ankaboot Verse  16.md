@@ -3224,6 +3224,12 @@ aur Ibraheem(alaihissalaam) ne bhi apni khaum se farmaya ke Alla ta’ala ki iba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ابراہیم (علیہ السلام) کو (یاد کریں) جب انہوں نے اپنی قوم سے فرمایا کہ تم اللہ کی عبادت کرو اور اس سے ڈرو، یہی تمہارے حق میں بہتر ہے اگر تم (حقیقت کو) جانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ابراہیم کو بھیجا جبکہ انہوں نے اپنی قوم سے کہا تھا کہ : اللہ کی عبادت کرو، اور اس سے ڈرو یہی بات تمہارے لیے بہتر ہے، اگر تم سمجھ سے کام لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

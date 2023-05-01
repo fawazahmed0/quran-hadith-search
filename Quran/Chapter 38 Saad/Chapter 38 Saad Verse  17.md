@@ -3224,6 +3224,12 @@ aap un ki baatho par sabr kare aur hamaare bandhe Dawood(alaihissalaam) ko yaad 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) جو کچھ وہ کہتے ہیں آپ اس پر صبر جاری رکھیئے اور ہمارے بندے داؤد (علیہ السلام) کا ذکر کریں جو بڑی قوت والے تھے، بے شک وہ (ہماری طرف) بہت رجوع کرنے والے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یہ جو کچھ کہتے ہیں اس پر صبر کرو، اور ہمارے بندے داؤد (علیہ السلام) کو یاد کرو جو بڑے طاقتور تھے۔ وہ بیشک اللہ سے بہت لو لگائے ہوئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

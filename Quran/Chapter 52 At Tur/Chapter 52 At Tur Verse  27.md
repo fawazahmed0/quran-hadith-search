@@ -3224,6 +3224,12 @@ pas Allah ta’ala ne hum par bada ehsaan kiya aur hamein tez wa tundh garam haw
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اللہ نے ہم پر احسان فرما دیا اور ہمیں نارِ جہنّم کے عذاب سے بچا لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آخر اللہ نے ہم پر بڑا احسان فرمایا، اور ہمیں جھلسانے والی ہوا کے عذاب سے بچا لیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

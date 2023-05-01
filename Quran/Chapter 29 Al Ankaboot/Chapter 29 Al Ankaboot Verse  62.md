@@ -3224,6 +3224,12 @@ Allah ta’ala apne bandho mein se jise chaahe faraagh rozi deta hai aur jise ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ اپنے بندوں میں سے جس کے لئے چاہتا ہے رزق کشادہ فرما دیتا ہے، اور جس کے لئے (چاہتا ہے) تنگ کر دیتا ہے، بیشک اللہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ اپنے بندوں میں سے جس کے لیے چاہتا ہے، رزق میں کشادگی کردیتا ہے، اور جس کے لیے چاہتا ہے تنگی کردیتا ہے، یقینا اللہ ہر چیز کا مکمل علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

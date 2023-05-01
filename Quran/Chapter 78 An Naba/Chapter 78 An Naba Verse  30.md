@@ -3224,6 +3224,12 @@ ab tum (apne kiye ka) maza chako, hum tumhaara azaab hee badaate rahenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے منکرو!) اب تم (اپنے کئے کا) مزہ چکھو (تم دنیا میں کفر و سرکشی میں بڑھتے گئے) اب ہم تم پر عذاب ہی کو بڑھاتے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب مزہ چکھو ! اس لئے کہ ہم تمہارے لیے سزا کے سوا کسی چیز میں اضافہ نہیں کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

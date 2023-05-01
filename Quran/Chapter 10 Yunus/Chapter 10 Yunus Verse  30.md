@@ -3224,6 +3224,12 @@ us muqam par har shaqs apne agle kiye hoe kamo ki jaanch kar lega aur ye log All
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس (دہشت ناک) مقام پر ہر شخص ان (اعمال کی حقیقت) کو جانچ لے گا جو اس نے آگے بھیجے تھے اور وہ اللہ کی جانب لوٹائے جائیں گے جو ان کا مالکِ حقیقی ہے اور ان سے وہ بہتان تراشی جاتی رہے گی جو وہ کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہر شخص نے ماضی میں جو کچھ کیا ہوگا، اس موقع پر وہ خود اس کو پرکھ لے گا اور سب کو اللہ کی طرف لوٹا دیا جائے گا جو ان کا مالک حقیقی ہے، اور جو جھوٹ انہوں نے تراش رکھے تھے، ان کا کوئی سراغ انہیں نہیں ملے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

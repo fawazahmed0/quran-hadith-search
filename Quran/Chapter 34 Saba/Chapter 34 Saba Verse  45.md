@@ -3224,6 +3224,12 @@ aur un se pehle ke logo ne bhi hamaari baatho ko jhutlaaya tha aur unhe hum ne j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اِن سے پہلے لوگوں نے بھی (حق کو) جھٹلایا تھا اور یہ اس کے دسویں حصّے کو بھی نہیں پہنچے جو کچھ ہم نے اُن (پہلے گزرے ہوؤں) کو دیا تھا پھر انہوں نے (بھی) میرے رسولوں کو جھٹلایا، سو میرا انکار کیسا (عبرت ناک ثابت) ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان سے پہلے لوگوں نے بھی (پیغمبروں) کو جھٹلایا تھا، اور یہ (عرب کے مشرکین) تو اس سازوسامان کے دسویں حصے کو بھی نہیں پہنچے ہیں جو ہم نے ان (پہلے لوگوں) کو دے رکھا تھا، پھر بھی انہوں نے میرے پیغمبروں کو جھٹلایا، تو (دیکھ لو کہ) میری دی ہوئی سزا کیسی (سخت) تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

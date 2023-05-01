@@ -3224,6 +3224,12 @@ lekin jab Allah ne apne fazl se unhe diya tuh ye us mein baqili karne lage aur t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جب اس نے انہیں اپنے فضل سے (دولت) بخشی (تو) وہ اس میں بخل کرنے لگے اور وہ (اپنے عہد سے) روگردانی کرتے ہوئے پھر گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن جب اللہ نے ان کو اپنے فضل سے نوازا تو اس میں بخل کرنے لگے، اور منہ موڑ کر چل دیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

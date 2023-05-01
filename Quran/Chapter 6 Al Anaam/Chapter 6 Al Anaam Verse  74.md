@@ -3224,6 +3224,12 @@ aur wo waqth bhi yaad karne ke qaabil hai jab Ibraheem ne apne baap aazar se far
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کیجئے) جب ابراہیم (علیہ السلام) نے اپنے باپ آزر (جو حقیقت میں چچا تھا محاورۂ عرب میں اسے باپ کہا گیا ہے) سے کہا: کیا تم بتوں کو معبود بناتے ہو؟ بیشک میں تمہیں اور تمہاری قوم کو صریح گمراہی میں (مبتلا) دیکھتا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس وقت کا ذکر سنو) جب ابراہیم نے اپنے باپ آزر سے کہا تھا کہ : کیا آپ بتوں کو خدا بنائے بیٹھے ہیں ؟ میں دیکھ رہا ہوں کہ آپ اور آپ کی قوم کھلی گمراہی میں مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

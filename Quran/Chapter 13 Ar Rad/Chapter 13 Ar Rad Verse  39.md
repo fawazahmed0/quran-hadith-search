@@ -3224,6 +3224,12 @@ Allah jo chaahe mitaade aur jo chahe saabith rakhe, lohe mehfooz osi ke paas hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ جس (لکھے ہوئے) کو چاہتا ہے مٹا دیتا ہے اور (جسے چاہتا ہے) ثبت فرما دیتا ہے، اور اسی کے پاس اصل کتاب (لوحِ محفوظ) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ جس (حکم) کو چاہتا ہے، منسوخ کردیتا ہے، اور (جس کو چاہتا ہے) باقی رکھتا ہے۔ اور تمام کتابوں کی جو اصل ہے، وہ اسی کے پاس ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

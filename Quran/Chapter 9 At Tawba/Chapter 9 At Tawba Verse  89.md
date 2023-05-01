@@ -3224,6 +3224,12 @@ inhi ke liye Allah ne wo jannate tayyar ki hai jin ke niche nehre jari hai,jin m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے ان کے لئے جنتیں تیار فرما رکھی ہیں جن کے نیچے سے نہریں جاری ہیں (وہ) ان میں ہمیشہ رہنے والے ہیں، یہی بہت بڑی کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے ان کے لیے وہ باغات تیار کر رکھے ہیں جن کے نیچے نہریں بہتی ہیں، جن میں یہ ہمیشہ رہیں گے، اور یہ بڑی زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

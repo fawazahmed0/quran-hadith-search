@@ -3224,6 +3224,12 @@ aur jin ke taraazu ka palla halka ho gaya, ye hai wo jinhone apna nuqsaan aap ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن کے پلڑے (اعمال کا وزن نہ ہونے کے باعث) ہلکے ہوں گے تو یہی لوگ ہیں جنہوں نے اپنے آپ کو نقصان پہنچایا وہ ہمیشہ دوزخ میں رہنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن کے پلڑے ہلکے پڑگئے، تو یہ وہ لوگ ہوں گے جنہوں نے اپنے لیے گھاٹے کا سودا کیا تھا، وہ دوزخ میں ہمیشہ ہمیشہ رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

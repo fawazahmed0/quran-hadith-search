@@ -3224,6 +3224,12 @@ bil aaqir hum ne ose aur us ke lashkaro ko apne azaab mein pakad kar darya mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے اُسے اور اُس کے لشکر کو (عذاب کی) گرفت میں لے لیا اور اُن (سب) کو دریا میں غرق کر دیا اور وہ تھا ہی قابلِ ملامت کام کرنے والا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہم نے اسے اور اس کے لشکر کو پکڑا اور سب کو سمندر میں پھینک دیا، اور وہ تھا ہی ملامت کے لائق۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ unhe maaro jahaa bhi paao aur unhe nikaalo jahaa se unhone tumhe nikaala hai aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (دورانِ جنگ) ان (جارح اور محارب کافروں) کو جہاں بھی پاؤ مار ڈالو اور (ریاستی اقدام کے ذریعے) انہیں وہاں سے باہر نکال دو جہاں سے انہوں نے تمہیں نکالا تھا اور فتنہ انگیزی تو قتل سے بھی زیادہ سخت (جرم) ہے اور ان سے مسجدِ حرام (خانہ کعبہ) کے پاس جنگ نہ کرو جب تک وہ خود تم سے وہاں جنگ نہ کریں، پھر اگر وہ تم سے قتال کریں تو (جواباً) تم بھی انہیں قتل کرو، (ایسے جارح اور محارب) کافروں کی یہی سزا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم ان لوگوں کو جہاں پاؤ قتل کرو، اور انہیں اس جگہ سے نکال باہر کرو جہاں سے انہوں نے تمہیں نکالا تھا، اور فتنہ قتل سے زیادہ سنگین برائی ہے، اور تم ان سے مسجد حرام کے پاس اس وقت تک لڑائی نہ کرو جب تک وہ خود اس میں تم سے لڑائی شروع نہ کریں، ہاں اگر وہ تم سے اس میں لڑائی شروع کردیں تو تم ان کو قتل کرسکتے ہو، ایسے کافروں کی سزا یہی ہے ،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tumhaari dunyaawi zindagi mein bhi hum tumhaare rafeeq thein aur aaqirath mein b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم دنیا کی زندگی میں (بھی) تمہارے دوست اور مددگار ہیں اور آخرت میں (بھی)، اور تمہارے لئے وہاں ہر وہ نعمت ہے جسے تمہارا جی چاہے اور تمہارے لئے وہاں وہ تمام چیزیں (حاضر) ہیں جو تم طلب کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم دنیا والی زندگی میں بھی تمہارے ساتھی تھے، اور آخرت میں بھی رہیں گے۔ اور اس جنت میں ہر وہ چیز تمہارے ہی لیے ہے جس کو تمہارا دل چاہے، اور اس میں ہر وہ چیز تمہارے ہی لیے جو تم منگوانا چاہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

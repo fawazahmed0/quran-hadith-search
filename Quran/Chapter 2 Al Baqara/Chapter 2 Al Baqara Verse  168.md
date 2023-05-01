@@ -3224,6 +3224,12 @@ logo! zameen mein jitni bhi halaal aur pakiza cheeze hai unhe khaao piyo aur sha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! زمین کی چیزوں میں سے جو حلال اور پاکیزہ ہے کھاؤ، اور شیطان کے راستوں پر نہ چلو، بیشک وہ تمہارا کھلا دشمن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! زمین میں جو حلال پاکیزہ چیزیں ہیں وہ کھاؤ اور شیطان کے نقش قدم پر نہ چلو، یقین جانو کہ وہ تمہارے لیے ایک کھلا دشمن ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

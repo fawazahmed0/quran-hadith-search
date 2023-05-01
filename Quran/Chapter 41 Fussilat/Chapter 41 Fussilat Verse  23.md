@@ -3224,6 +3224,12 @@ tumhaari isi badh gumaani ne jo tum ne apne rab se kar rakhi thi, tumhe halaak k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہارا یہی گمان جو تم نے اپنے رب کے بارے میں قائم کیا، تمہیں ہلاک کر گیا سو تم نقصان اٹھانے والوں میں سے ہو گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اپنے پروردگار کے بارے میں تمہارا یہی گمان تھا جس نے تمہیں برباد کیا، اور اسی کے نتیجے میں تم ان لوگوں میں شامل ہوگئے جو سراسر خسارے میں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

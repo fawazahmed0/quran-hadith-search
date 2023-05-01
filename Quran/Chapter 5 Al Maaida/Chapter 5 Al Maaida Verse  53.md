@@ -3224,6 +3224,12 @@ aur imandar kahenge kya yahi wo log hai jo bade mubalegha10 se Allah ki qasme kh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اس وقت) ایمان والے یہ کہیں گے کیا یہی وہ لوگ ہیں جنہوں نے بڑے تاکیدی حلف (کی صورت) میں اللہ کی قَسمیں کھائی تھیں کہ بیشک وہ ضرور تمہارے (ہی) ساتھ ہیں، (مگر) ان کے سارے اعمال اکارت گئے، سو وہ نقصان اٹھانے والے ہوگئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس وقت) ایمان والے (ایک دوسرے سے) کہیں گے کہ کیا یہ وہی لوگ ہیں جنہوں نے بڑے زور و شور سے اللہ کی قسمیں کھائی تھیں کہ وہ تمہارے ساتھ ہیں۔ ان کے اعمال غارت ہوگئے، اور وہ نامراد ہو کر رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

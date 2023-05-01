@@ -3224,6 +3224,12 @@ Allah ta’ala farmaayega, phit kaare hoye yaheen pade raho aur mujh se kalaam n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ارشاد ہو گا: (اب) اسی میں ذلت کے ساتھ پڑے رہو اور مجھ سے بات نہ کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ فرمائے گا۔ اسی (دوزخ) میں ذلیل ہو کر پڑے رہو، اور مجھ سے بات بھی نہ کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

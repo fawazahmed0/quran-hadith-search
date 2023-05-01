@@ -3224,6 +3224,12 @@ un ke liye jannath mein har qism ke mewe honge aur bhi jo kuch wo talab kare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُن کے لئے اس میں (ہر قسم کا) میوہ ہوگا اور ان کے لئے ہر وہ چیز (میسر) ہوگی جو وہ طلب کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہاں ان کے لیے میوے ہوں گے، اور انہیں ہر وہ چیز ملے گی جو وہ منگوائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

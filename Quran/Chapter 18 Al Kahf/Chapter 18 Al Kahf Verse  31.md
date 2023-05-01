@@ -3224,6 +3224,12 @@ un ke liye hameshgi waali jannate hai, un ke niche se nehre jaari hongi, wahaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان لوگوں کے لئے ہمیشہ (آباد) رہنے والے باغات ہیں (جن میں) ان (کے محلات) کے نیچے نہریں جاری ہیں انہیں ان جنتوں میں سونے کے کنگن پہنائے جائیں گے اور وہ باریک دیبا اور بھاری اطلس کے (ریشمی) سبز لباس پہنیں گے اور پر تکلف تختوں پر تکئے لگائے بیٹھے ہوں گے، کیا خوب ثواب ہے اور کتنی حسین آرام گاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جن کے لیے ہمیشہ رہنے والے باغات ہیں، ان کے نیچے سے نہریں بہتی ہوں گی، ان کو وہاں سونے کے کنگنوں سے مزین کیا جائے گا، وہ اونچی مسندوں پر تکیہ لگائے ہوئے باریک اور دبیز ریشم کے سبز کپڑے پہنے ہوں گے۔ کتنا بہترین اجر اور کیسی حسین آرام گاہ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar tum un bade gunaaho se bachte rahoge jin se tum ko mana kiya jaata hai to h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تم کبیرہ گناہوں سے جن سے تمہیں روکا گیا ہے بچتے رہو تو ہم تم سے تمہاری چھوٹی برائیاں مٹا دیں گے اور تمہیں عزت والی جگہ میں داخل فرما دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم ان بڑے بڑے گناہوں سے پرہیز کرو جن سے تمہیں روکا گیا ہے تو تمہاری چھوٹی برائیوں کا ہم خود کفارہ کردیں گے۔ اور تم کو ایک باعزت جگہ داخل کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

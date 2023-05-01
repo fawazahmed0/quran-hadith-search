@@ -3224,6 +3224,12 @@ yaqinan Qur’aan bani israel ke saamne un aksar chizo ka bayaan kar raha hai, j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک یہ قرآن بنی اسرائیل کے سامنے وہ بیشتر چیزیں بیان کرتا ہے جن میں وہ اختلاف کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 واقعہ یہ ہے کہ یہ قرآن بنو اسرائیل کے سامنے اکثر ان باتوں کی حقیقت واضح کرتا ہے جن میں وہ اختلاف کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

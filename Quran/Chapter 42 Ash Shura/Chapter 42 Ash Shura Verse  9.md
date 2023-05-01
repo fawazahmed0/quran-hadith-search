@@ -3224,6 +3224,12 @@ kya un logo ne Allah ta’ala ke siva aur kaar saaz bana liye hai (haqiqatan to)
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے اللہ کو چھوڑ کر بتوں کو اولیاء بنا لیا ہے، پس اللہ ہی ولی ہے (اسی کے دوست ہی اولیاء ہیں)، اور وہی مُردوں کو زندہ کرتا ہے اور وہی ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا ان لوگوں نے اس کو چھوڑ کر دوسرے رکھوالے بنا لیے ہیں ؟ سچ تو یہ ہے کہ رکھوالا اللہ ہی ہے، اور وہی مردوں کو زندہ کرتا ہے اور وہی ہر چیز پر قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

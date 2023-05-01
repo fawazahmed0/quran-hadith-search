@@ -3224,6 +3224,12 @@ Hum issey pehle Moosa ko bhi apni nishaniyon ke saath bhej chuke hain, usey bhi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے موسٰی (علیہ السلام) کو اپنی نشانیوں کے ساتھ بھیجا کہ (اے موسٰی!) تم اپنی قوم کو اندھیروں سے نکال کر نور کی طرف لے جاؤ اور انہیں اللہ کے دنوں کی یاد دلاؤ (جو ان پر اور پہلی امتوں پر آچکے تھے)۔ بیشک اس میں ہر زیادہ صبر کرنے والے (اور) خوب شکر بجا لانے والے کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ کو اپنی نشانیاں دے کر بھیجا کہ : اپنی قوم کو اندھیروں سے نکال کر روشنی میں لاؤ، اور (مختلف لوگوں کو) اللہ نے (خوشحالی اور بدحالی کے) جو دن دکھائے ہیں، ان کے حوالے سے انہیں نصیحت کرو۔ حقیقت یہ ہے کہ ہر وہ شخص جو صبر اور شکر کا خوگر ہو، اس کے لیے ان واقعات میں بڑی نشانیاں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ magar jo kuch Allah chaahe, wo zaaher aur poshida ko jaanta hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر جو اللہ چاہے، بیشک وہ جہر اور خفی (یعنی ظاہر و پوشیدہ اور بلند و آہستہ) سب باتوں کو جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سوائے اس کے جسے اللہ چاہے۔ یقین رکھو وہ کھلی ہوئی چیزوں کو بھی جانتا ہے اور ان چیزوں کو بھی جو چھپی ہوئی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

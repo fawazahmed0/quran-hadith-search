@@ -3224,6 +3224,12 @@ na to Allah ne kisi ko bete banaya aur na us ke saath aur koyi maboodh hai, warn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے (اپنے لئے) کوئی اولاد نہیں بنائی اور نہ ہی اس کے ساتھ کوئی اور خدا ہے ورنہ ہر خدا اپنی اپنی مخلوق کو ضرور (الگ) لے جاتا اور یقیناً وہ ایک دوسرے پر غلبہ حاصل کرتے (اور پوری کائنات میں فساد بپا ہو جاتا)۔ اللہ ان باتوں سے پاک ہے جو وہ بیان کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نہ تو اللہ نے کوئی بیٹا بنایا ہے، اور نہ اس کے ساتھ کوئی اور خدا ہے۔ اگر ایسا ہوتا تو ہر خدا اپنی مخلوق کو لے کر الگ ہوجاتا، اور پھر وہ ایک دوسرے پر چڑھائی کردیتے۔ پاک ہے اللہ ان باتوں سے جو یہ لوگ بناتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

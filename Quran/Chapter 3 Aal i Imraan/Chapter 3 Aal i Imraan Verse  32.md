@@ -3224,6 +3224,12 @@ keh dijiye! ke Allah ta’ala aur rasool ki ita’ath karo agar ye mu pher le to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ اللہ اور رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرو پھر اگر وہ روگردانی کریں تو اللہ کافروں کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ اللہ اور رسول کی اطاعت کرو، پھر بھی اگر منہ موڑو گے تو اللہ کافروں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

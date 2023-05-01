@@ -3224,6 +3224,12 @@ aur jab Isa(alaihissalaam) maujeze laaye to kaha ke main tumhaare paas hikmath l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب عیسٰی (علیہ السلام) واضح نشانیاں لے کر آئے تو انہوں نے کہا: یقیناً میں تمہارے پاس حکمت و دانائی لے کر آیا ہوں اور (اس لئے آیا ہوں) کہ بعض باتیں جن میں تم اختلاف کر رہے ہو تمہارے لئے خوب واضح کر دوں، سو تم اللہ سے ڈرو اور میری اطاعت کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب عیسیٰ کھلی ہوئی نشانیاں لے کر آئے تھے تو انہوں نے (لوگوں سے) کہا تھا کہ : میں تمہارے پاس دانائی کی بات لے کر آیا ہوں، اور اس لیے لایا ہوں کہ تمہارے سامنے کچھ وہ چیزیں واضح کردوں جن میں تم اختلاف کرتے ہو۔ لہذا تم اللہ سے ڈرو، اور میری بات مان لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

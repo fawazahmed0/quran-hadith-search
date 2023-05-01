@@ -3224,6 +3224,12 @@ aap keh dijiye! ke accha ye to bataao ke, agar tumhaare (pine ka) paani zameen m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اگر تمہارا پانی زمین میں بہت نیچے اتر جائے (یعنی خشک ہو جائے) تو کون ہے جو تمہیں (زمین پر) بہتا ہوا پانی لا دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : ذرا یہ بتلاؤ کہ اگر کسی صبح تمہارا پانی نیچے کو اتر کر غائب ہوجائے تو کون ہے جو تمہیں چشمے سے ابلتا ہوا پانی لاکر دیدے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ keh dijiye ke ose to us Allah ne utaara hai, jo asmaan wa zameen ki tamaam pushi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اِس (قرآن) کو اُس (اللہ) نے نازل فرمایا ہے جو آسمانوں اور زمین میں (موجود) تمام رازوں کو جانتا ہے، بیشک وہ بڑا بخشنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : یہ کلام تو اس (اللہ) نے نازل کیا ہے جو ہر بھید کو پوری طرح جانتا ہے، آسمانوں میں بھی، زمین میں بھی۔ بیشک وہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap sabr kare, baghair taufeeqe ilaahi ke aap sabr kar hee nahi sakte aur un ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیبِ مکرّم!) صبر کیجئے اور آپ کا صبر کرنا اللہ ہی کے ساتھ ہے اور آپ ان (کی سرکشی) پر رنجیدہ خاطر نہ ہوا کریں اور آپ ان کی فریب کاریوں سے (اپنے کشادہ سینہ میں) تنگی (بھی) محسوس نہ کیا کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم صبر سے کام لو، اور تمہارا صبر اللہ ہی کی توفیق سے ہے۔ اور ان (کافروں) پر صدمہ نہ کرو، اور جو مکاریاں یہ لوگ کر رہے ہیں ان کی وجہ سے تنگ دل نہ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

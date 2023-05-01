@@ -3224,6 +3224,12 @@ aye yousuf! aye bahuth bade sacche yousuf! aap hamein is qwaab ki tabeer batlaiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ قید خانہ میں پہنچ کر کہنے لگا:) اے یوسف، اے صدقِ مجسّم! آپ ہمیں (اس خواب کی) تعبیر بتا دیں کہ سات فربہ گائیں ہیں جنہیں سات دبلی گائیں کھا رہی ہیں اور سات سبز خوشے ہیں اور دوسرے سات خشک؛ تاکہ میں (یہ تعبیر لے کر) واپس لوگوں کے پاس جاؤں شاید انہیں (آپ کی قدر و منزلت) معلوم ہو جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (چنانچہ اس نے قید خانے میں پہنچ کر یوسف سے کہا) یوسف ! اے وہ شخص جس کی ہر بات سچی ہوتی ہے، تم ہمیں اس (خواب) کا مطلب بتاؤ کہ سات موٹی تازی گائیں ہیں جنہیں سات دبلی پتلی گائیں کھا رہی ہیں، اور سات خوشے ہرے بھرے ہیں، اور دوسرے سات اور ہیں جو سوکھے ہوئے ہیں، شاید میں لوگوں کے پاس واپس جاؤں (اور انہیں خواب کی تعبیر بتاؤں) تاکہ وہ بھی حقیقت جان لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un se pehle Nuh(alaihissalaam) ki khaum ne aur ras waalo ne aur samoodh ne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اِن (کفّارِ مکہ) سے پہلے قومِ نوح نے، اور (سرزمینِ یمامہ کے اندھے) کنویں والوں نے، اور (مدینہ سے شام کی طرف تبوک کے قریب بستیِ حجر میں آباد صالح علیہ السلام کی قوم) ثمود نے جھٹلایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے پہلے نوح کی قوم اور اصحاب الرس اور ثمود کے لوگوں نے بھی (اس بات کو) جھٹلایا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

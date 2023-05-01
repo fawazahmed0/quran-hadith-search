@@ -3224,6 +3224,12 @@ lekin jo log apne rab se darte rahe, un ke liye jannate hai jin ke niche nehre j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لیکن جو لوگ اپنے رب سے ڈرتے رہے ان کے لئے بہشتیں ہیں جن کے نیچے نہریں بہہ رہی ہیں، وہ ان میں ہمیشہ رہنے والے ہیں، اللہ کے ہاں سے (ان کی) مہمانی ہے اور (پھر اس کا حریمِ قُرب، جلوۂ حُسن اور نعمتِ وصال، الغرض) جو کچھ بھی اللہ کے پاس ہے وہ نیک لوگوں کے لئے بہت ہی اچھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن جو لوگ اپنے پروردگار سے ڈرتے ہوئے عمل کرتے ہیں، ان کے لیے ایسے باغات ہیں جن کے نیچے نہریں بہتی ہیں، اللہ کی طرف سے میزبانی کے طور پر وہ ہمیشہ ان میں رہیں گے۔ اور جو کچھ اللہ کے پاس ہے وہ وہ نیک لوگوں کے لیے کہیں بہتر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

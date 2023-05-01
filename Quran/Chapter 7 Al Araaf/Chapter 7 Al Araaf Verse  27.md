@@ -3224,6 +3224,12 @@ aye aulaad aadam! shaitaan tum ko kisi qaraabi mein na daal de jaisa us ne tumha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے آدم کے بیٹو اور بیٹیو ! شیطان کو ایسا موقع ہرگز ہرگز نہ دینا کہ وہ تمہیں اسی طرح فتنے میں ڈال دے جیسے اس نے تمہارے ماں باپ کو جنت سے نکالا، جبکہ ان کا لباس ان کے جسم سے اتر والیا تھا، تاکہ ان کو ایک دوسرے کی شرم کی جگہیں دکھا دے۔ اور وہ اس کا جتھ تمہیں وہاں سے دیکھتا ہے جہاں سے تم انہیں نہیں دیکھ سکتے۔ ان شیطانوں کو ہم نے انہی کا دوست بنادیا ہے جو ایمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

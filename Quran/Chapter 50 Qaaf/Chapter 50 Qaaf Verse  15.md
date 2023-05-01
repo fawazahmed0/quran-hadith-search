@@ -3224,6 +3224,12 @@ kya hum pehli baar ke payda karne se thak gaye, balke ye log nayi paydayish ki t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کیا ہم پہلی بار پیدا کرنے کے باعث تھک گئے ہیں؟ (ایسا نہیں) بلکہ وہ لوگ اَزسرِنَو پیدائش کی نسبت شک میں (پڑے) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ہم پہلی بات پیدا کرنے سے تھک گئے تھے ؟ نہیں ! لیکن یہ لوگ از سر نو پیدا کرنے کے بارے میں دھوکے میں پڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

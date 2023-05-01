@@ -3224,6 +3224,12 @@ aur har ummath ke liye ek rasol hai,so jab un ka wo rasol aa chukta hai,un ka fa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہر امت کے لئے ایک رسول آتا رہا ہے۔ پھر جب ان کا رسول (واضح نشانیوں کے ساتھ) آچکا (اور وہ پھر بھی نہ مانے) تو ان میں انصاف کے ساتھ فیصلہ کر دیا گیا، اور (قیامت کے دن بھی اسی طرح ہوگا) ان پر ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہر امت کے لیے ایک رسول بھیجا گیا ہے، پھر جب ان کا رسول آجاتا ہے تو ان کا فیصلہ پورے انصاف سے کیا جاتا ہے، اور ان پر ظلم نہیں کیا جاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

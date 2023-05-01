@@ -3224,6 +3224,12 @@ insaan jald baaz maqlooq hai, main tumhe apni nishaaniyaan abhi abhi dikhaonga, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انسان (فطرتًا) جلد بازی میں سے پیدا کیا گیا ہے، میں تمہیں جلد ہی اپنی نشانیاں دکھاؤں گا پس تم جلدی کا مطالبہ نہ کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انسان جلد بازی کی خصلت لے کر پیدا ہوا ہے۔ میں عنقریب تمہیں اپنی نشانیاں دکھلا دوں گا، لہذا تم مجھ سے جلدی مت مچاؤ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

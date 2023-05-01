@@ -3224,6 +3224,12 @@ aur un ke liye ek nishaani raath hai, jis se hum din ko kheench dete hai to wo y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ایک نشانی اُن کے لئے رات (بھی) ہے، ہم اس میں سے (کیسے) دن کو کھینچ لیتے ہیں سو وہ اس وقت اندھیرے میں پڑے رہ جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے لیے ایک اور نشانی رات ہے۔ ہم اس پر سے دن کا چھلکا اتار لیتے ہیں تو وہ یکایک اندھیرے میں رہ جاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

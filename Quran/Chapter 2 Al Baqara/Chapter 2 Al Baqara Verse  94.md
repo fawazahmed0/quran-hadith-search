@@ -3224,6 +3224,12 @@ aap kehdi jiye ke agar aaqirath ka ghar sirf tumhaare hee liye hai, Allah ke naz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں: اگر آخرت کا گھر اللہ کے نزدیک صرف تمہارے لئے ہی مخصوص ہے اور لوگوں کے لئے نہیں تو تم (بے دھڑک) موت کی آرزو کرو اگر تم (اپنے خیال میں) سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آپ (ان سے) کہیے کہ : اگر اللہ کے نزدیک آخرت کا گھر تمام انسانوں کو چھوڑ کر صرف تمہارے ہی لیے مخصوص ہے (جیسا کہ تمہارا کہنا ہے) تو موت کی تمنا تو کر کے دکھاؤ، اگر واقعی سچے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

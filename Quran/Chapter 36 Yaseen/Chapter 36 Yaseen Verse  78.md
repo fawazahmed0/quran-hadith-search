@@ -3224,6 +3224,12 @@ aur us ne hamaare liye misaal bayaan ki aur apni (asal) paydaayish ko bhool gaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (خود) ہمارے لئے مثالیں بیان کرنے لگا اور اپنی پیدائش (کی حقیقت) کو بھول گیا۔ کہنے لگا: ہڈیوں کو کون زندہ کرے گا جبکہ وہ بوسیدہ ہوچکی ہوں گی؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمارے بارے میں تو وہ باتیں بناتا ہے، اور خود اپنی پیدائش کو بھلا بیٹھا ہے، کہتا ہے کہ : ان ہڈیوں کو کون زندگی دے گا جبکہ وہ گل چکی ہوں گی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

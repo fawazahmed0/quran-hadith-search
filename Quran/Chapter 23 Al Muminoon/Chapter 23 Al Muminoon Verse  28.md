@@ -3224,6 +3224,12 @@ jab tu aur tere saathi kashti par ba itmenaan baith jaao, to kehna ke sab tareef
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب تم اور تمہاری سنگت والے (لوگ) کشتی میں ٹھیک طرح سے بیٹھ جائیں تو کہنا (کہ) ساری تعریفیں اللہ ہی کے لئے ہیں جس نے ہمیں ظالم قوم سے نجات بخشی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب تم اور تمہارے ساتھی کشتی میں ٹھیک ٹھیک بیٹھ چکیں تو کہنا : شکر ہے اللہ کا جس نے ہمیں ظالم لوگوں سے نجات عطا فرمائی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

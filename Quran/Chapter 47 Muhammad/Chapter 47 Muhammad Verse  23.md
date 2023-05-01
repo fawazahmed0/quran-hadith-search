@@ -3224,6 +3224,12 @@ ye wahi log hai jin par Allah ki phitkaar hai aur jin ki samaath aur aankho ki r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی وہ لوگ ہیں جن پر اللہ نے لعنت کی ہے اور ان (کے کانوں) کو بہرا کر دیا ہے اور ان کی آنکھوں کو اندھا کر دیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جن کو اللہ نے اپنی رحمت سے دور کردیا ہے، چنانچہ انہیں بہرا بنادیا ہے اور ان کی آنکھیں اندھی کردی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

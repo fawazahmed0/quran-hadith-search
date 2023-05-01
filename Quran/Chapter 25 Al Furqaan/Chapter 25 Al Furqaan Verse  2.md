@@ -3224,6 +3224,12 @@ osi Allah ki saltanath hai asamaano aur zameen ki, aur wo koyi aulaad nahi rakht
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (اللہ) کہ آسمانوں اور زمین کی بادشاہت اسی کے لئے ہے اور جس نے نہ (اپنے لئے) کوئی اولاد بنائی ہے اور نہ بادشاہی میں اس کا کوئی شریک ہے اور اسی نے ہر چیز کو پیدا فرمایا ہے پھر اس (کی بقا و ارتقاء کے ہر مرحلہ پر اس کے خواص، افعال اور مدت، الغرض ہر چیز) کو ایک مقررہ اندازے پر ٹھہرایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ذات جو آسمانوں اور زمین کی بادشاہت کی تنہا مالک ہے اور جس نے نہ تو کوئی بیٹا بنایا ہے، اور نہ اس کی بادشاہت میں کوئی شریک ہے، اور جس نے ہر چیز کو پیدا کر کے اس کو ایک نپا تلا انداز عطا کیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

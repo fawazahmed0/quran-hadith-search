@@ -3224,6 +3224,12 @@ aur wo Allah sunhanahuwata’ala ke liye ladkiya muqarrar karte hai aur apne liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (کفار و مشرکین) اللہ کے لئے بیٹیاں مقرر کرتے ہیں وہ (اس سے) پاک ہے اور اپنے لئے وہ کچھ (یعنی بیٹے) جن کی وہ خواہش کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کے لیے تو انہوں نے بیٹیاں گھڑ رکھی ہیں۔ سبحان اللہ ! اور خود اپنے لیے وہ (بیٹے چاہتے ہیں) جو اپنی خواہش کے مطابق ہوں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

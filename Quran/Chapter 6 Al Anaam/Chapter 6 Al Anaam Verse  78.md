@@ -3224,6 +3224,12 @@ phir jab aftaab ko dekha chamakta hoa to farmaaya ke ye mera rab hai, ye tuh sab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب سورج کو چمکتے دیکھا (تو) کہا: (کیا اب تمہارے خیال میں) یہ میرا رب ہے (کیونکہ) یہ سب سے بڑا ہے؟ پھر جب وہ (بھی) چھپ گیا تو بول اٹھے: اے لوگو! میں ان (سب چیزوں) سے بیزار ہوں جنہیں تم (اللہ کا) شریک گردانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب انہوں نے سورج کو چمکتے دیکھا تو کہا : یہ میرا رب ہے۔ یہ زیادہ بڑا ہے۔ پھر جب وہ غروب ہوا تو انہوں نے کہا : اے میری قوم ! جن جن چیزوں کو تم اللہ کی خدائی میں شریک قرار دیتے ہو، میں ان سب سے بیزار ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye isi tara hai aur hum badi badi aankho waali huro se un ka nikaah kar denge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی طرح (ہی) ہوگا، اور ہم انہیں گوری رنگت والی کشادہ چشم حوروں سے بیاہ دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے ساتھ یہی معاملہ ہوگا اور ہم بڑی بڑی آنکھوں والی حوروں کا ان سے بیاہ کردیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar mere rab ka ehsaan na hota to main bhi dozakh mein haazir kiye jaane waalo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر میرے رب کا احسان نہ ہوتا تو میں (بھی تمہارے ساتھ عذاب میں) حاضر کئے جانے والوں میں شامل ہو جاتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر میرے پروردگار کا فضل شامل حال نہ ہوتا تو اور لوگوں کے ساتھ بھی مجھے دھر لیا جاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

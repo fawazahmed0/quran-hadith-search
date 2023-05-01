@@ -3224,6 +3224,12 @@ unhone apne saathi ko awaaz di, jis ne (oontni par) waar kiya aur us ki koonche 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس انہوں نے (قدار نامی) اپنے ایک ساتھی کو بلایا، اس نے (اونٹنی پر تلوار سے) وار کیا اور کونچیں کاٹ دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر انہوں نے اپنے آدمی کو بلایا، چنانچہ اس نے ہاتھ بڑھایا، اور (اونٹنی کو) قتل کر ڈالا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

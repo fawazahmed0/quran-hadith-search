@@ -3224,6 +3224,12 @@ aur aap us ki itteba karte rahiye jo kuch aap ke paas wahi bheji jati hai aur sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے رسول!) آپ اسی کی اتباع کریں جو آپ کی طرف وحی کی جاتی ہے اور صبر کرتے رہیں یہاں تک کہ اللہ فیصلہ فرما دے، اور وہ سب سے بہتر فیصلہ فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو وحی تمہارے پاس بھیجی جارہی ہے، تم اس کی اتباع کرو، اور صبر سے کام لو، یہاں تک کہ اللہ کوئی فیصلہ کردے۔ اور وہ بہترین فیصلہ کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

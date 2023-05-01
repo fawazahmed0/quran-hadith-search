@@ -3224,6 +3224,12 @@ aye aulaade yaqoob! main ne jo nemate tum par in’aam ki hai unhe yaad karo aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اولادِ یعقوب! میری اس نعمت کو یاد کرو جو میں نے تم پر ارزانی فرمائی اور (خصوصاً) یہ کہ میں نے تمہیں اس زمانے کے تمام لوگوں پر فضیلت عطا کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے بنی اسرائیل ! میری وہ نعمت یاد کرو جو میں نے تم کو عطا کی تھی، اور یہ بات (یاد کرو) کہ میں نے تم کو سارے جہانوں پر فضیلت دی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

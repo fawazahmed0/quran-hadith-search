@@ -3224,6 +3224,12 @@ hazrath Mosa(alaihissalaam) kehne lage mera rab ta’ala ose qoob jaanta hai jo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور موسٰی (علیہ السلام) نے کہا: میرا رب اس کو خوب جانتا ہے جو اس کے پاس سے ہدایت لے کر آیا ہے اور اس کو (بھی) جس کے لئے آخرت کے گھر کا انجام (بہتر) ہوگا، بیشک ظالم فلاح نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور موسیٰ نے کہا : میرا پروردگار خوب جانتا ہے کہ کون اس کے پاس سے ہدایت لے کر آیا ہے اور آخر کار بہتر ٹھکانا کس کے ہاتھ آئے گا، یہ یقینی بات ہے کہ ظالم لوگ فلاح نہیں پائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

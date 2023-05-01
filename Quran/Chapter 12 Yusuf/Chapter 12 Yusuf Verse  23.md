@@ -3224,6 +3224,12 @@ us aurath ne jis ke ghar mein yousuf thein yousuf ko behlana phuslana shuro kiya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس عورت (زلیخا) نے جس کے گھر وہ رہتے تھے آپ سے آپ کی ذات کی شدید خواہش کی اور اس نے دروازے (بھی) بند کر دیئے اور کہنے لگی: جلدی آجاؤ (میں تم سے کہتی ہوں)۔ یوسف (علیہ السلام) نے کہا: اللہ کی پناہ! بیشک وہ (جو تمہارا شوہر ہے) میرا مربّی ہے اس نے مجھے بڑی عزت سے رکھا ہے۔ بیشک ظالم لوگ فلاح نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس عورت کے گھر میں وہ رہتے تھے، اس نے ان کو ورغلانے کی کوشش کی، اور سارے دروازوں کو بند کردیا، اور کہنے لگی : آ بھی جاؤ !۔ یوسف نے کہا : اللہ کی پناہ ! وہ میرا آقا ہے، اس نے مجھے اچھی طرح رکھا ہے۔ سچی بات یہ ہے کہ جو لوگ ظلم کرتے ہیں انہیں فلاح حاصل نہیں ہوتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

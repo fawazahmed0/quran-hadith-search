@@ -3224,6 +3224,12 @@ us ki bulandi oonchi ki, phir ose theek thaak kar diya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس نے آسمان کے تمام کرّوں (ستاروں) کو (فضائے بسیط میں پیدا کر کے) بلند کیا، پھر ان (کی ترکیب و تشکیل اور افعال و حرکات) میں اعتدال، توازن اور استحکام پیدا کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کی بلندی اٹھائی ہوئی ہے، پھر اسے ٹھیک کیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

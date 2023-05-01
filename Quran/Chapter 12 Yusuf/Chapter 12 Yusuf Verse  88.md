@@ -3224,6 +3224,12 @@ phir jab ye log yousuf (alaihissallaam) ke paas pahonche to kehne lage ke aye az
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو جب وہ (دوبارہ) یوسف (علیہ السلام) کے پاس حاضر ہوئے تو کہنے لگے: اے عزیزِ مصر! ہم پر اور ہمارے گھر والوں پر مصیبت آن پڑی ہے (ہم شدید قحط میں مبتلا ہیں) اور ہم (یہ) تھوڑی سی رقم لے کر آئے ہیں سو (اس کے بدلے) ہمیں (غلہ کا) پورا پورا ناپ دے دیں اور (اس کے علاوہ) ہم پر (کچھ) صدقہ (بھی) کر دیں۔ بیشک اللہ خیرات کرنے والوں کو جزا دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب وہ یوسف کے پاس پہنچے تو انہوں نے (یوسف سے) کہا : اے عزیز ! ہم پر اور ہمارے گھر والوں پر سخت مصیبت پڑی ہوئی ہے، اور ہم ایک معمولی سی پونجی لے کر آئے ہیں، آپ ہمیں پورا پورا غلہ دے دیجیے، اور اللہ کے لیے ہم پر احسان کیجیے، یقینا اللہ اپنی خاطر احسان کرنے والوں کو بڑا اجر عطا فرماتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Aur woh is aazmaish ke zariye se momino ko alag chant (purge )kar kafiron ki sar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ اس لئے (بھی) ہے کہ اللہ ایمان والوں کو (مزید) نکھار دے (یعنی پاک و صاف کر دے) اور کافروں کو مٹا دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مقصد یہ (بھی) تھا کہ اللہ ایمان والوں کو میل کچیل سے نکھار کر رکھ دے اور کافروں کو ملیامیٹ کر ڈالے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

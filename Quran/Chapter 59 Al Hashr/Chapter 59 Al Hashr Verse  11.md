@@ -3224,6 +3224,12 @@ kya tu ne munaafiqo ko na dekha? ke apne ahle kitaab kaafir bhaiyyo se kehte hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے منافقوں کو نہیں دیکھا جو اپنے اُن بھائیوں سے کہتے ہیں جو اہلِ کتاب میں سے کافر ہوگئے ہیں کہ اگر تم (یہاں سے) نکالے گئے توہم بھی ضرور تمہارے ساتھ ہی نکل چلیں گے اور ہم تمہارے معاملے میں کبھی بھی کسی ایک کی بھی اطاعت نہیں کریں گے اور اگر تم سے جنگ کی گئی تو ہم ضرور بالضرور تمہاری مدد کریں گے، اور اللہ گواہی دیتا ہے کہ وہ یقیناً جھوٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے ان کو نہیں دیکھا جنہوں نے منافقت سے کام لیا ہے کہ وہ اپنے ان بھائیوں سے جو کافر اہل کتاب میں سے ہیں یہ کہتے ہیں کہ : اگر تمہیں نکالا گیا تو ہم بھی تمہارے ساتھ نکلیں گے اور تمہارے بارے میں کبھی کسی اور کا کہنا نہیں مانیں گے، اور اگر تم سے جنگ کی گئی تو ہم تمہاری مدد کریں گے، اور اللہ گواہی دیتا ہے کہ یہ لوگ بالکل جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

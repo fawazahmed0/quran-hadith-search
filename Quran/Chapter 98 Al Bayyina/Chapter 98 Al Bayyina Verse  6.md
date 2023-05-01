@@ -3224,6 +3224,12 @@ beshak jo log ahle kitaab mein se kaafir hoye aur mushrikeen, sab dozakh ki aag 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ اہلِ کتاب میں سے کافر ہوگئے اور مشرکین (سب) دوزخ کی آگ میں (پڑے) ہوں گے وہ ہمیشہ اسی میں رہنے والے ہیں، یہی لوگ بد ترین مخلوق ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ اہل کتاب اور مشرکین میں سے جنہوں نے کفر اپنا لیا ہے وہ جہنم کی آگ میں جائیں گے جہاں وہ ہمیشہ رہیں گے۔ یہ لوگ ساری مخلوق میں سب سے برے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

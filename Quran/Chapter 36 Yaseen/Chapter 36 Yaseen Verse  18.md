@@ -3224,6 +3224,12 @@ unhone kaha ke hum to tum ko manhoos samajhte hai, agar tum baaz na aaye to hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(بستی والوں نے) کہا: ہمیں تم سے نحوست پہنچی ہے اگر تم واقعی باز نہ آئے تو ہم تمہیں یقیناً سنگ سار کر دیں گے اور ہماری طرف سے تمہیں ضرور دردناک عذاب پہنچے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بستی والوں نے کہا : ہم نے تو تمہارے اندر نحوست محسوس کی ہے۔ یقین جانو اگر تم باز نہ آئے تو ہم تم پر پتھر برسائیں گے، اور ہمارے ہاتھوں تمہیں بڑی دردناک سزا ملے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

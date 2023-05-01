@@ -3224,6 +3224,12 @@ pas jo imaan laaye hai aur jinhone nek amal kiye hai, unhee ke liye baqshish hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جو لوگ ایمان لائے اور نیک عمل کرتے رہے ان کے لئے مغفرت ہے اور (مزید) بزرگی والی عطا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جو لوگ ایمان لے آئے، اور نیک عمل کرنے لگے، تو ان کے لیے مغفرت ہے، اور باعزت رزق ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

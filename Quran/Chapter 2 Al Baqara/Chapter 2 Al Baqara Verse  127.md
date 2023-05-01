@@ -3224,6 +3224,12 @@ Ibraheem (alaihissalam) aur Ismail (alaihissalam) kaaba ki bunyaadein aur diwaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کرو) جب ابراہیم اور اسماعیل (علیھما السلام) خانہ کعبہ کی بنیادیں اٹھا رہے تھے (تو دونوں دعا کر رہے تھے) کہ اے ہمارے رب! تو ہم سے (یہ خدمت) قبول فرما لے، بیشک تو خوب سننے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس وقت کا تصور کرو جب ابراہیم بیت اللہ کی بنیادیں اٹھا رہے تھے اور اسماعیل بھی (ان کے ساتھ شریک تھے، اور دونوں یہ کہتے جاتے تھے کہ) اے ہمارے پروردگار ! ہم سے (یہ خدمت) قبول فرما لے۔ بیشک تو اور صرف تو ہی، ہر ایک کی سننے والا، ہر ایک کو جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

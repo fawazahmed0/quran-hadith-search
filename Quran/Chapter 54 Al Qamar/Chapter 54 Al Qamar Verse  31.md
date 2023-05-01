@@ -3224,6 +3224,12 @@ hum ne un par ek cheeq bheji, pas aise ho gaye jaise baad banaane waale ki, roun
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے اُن پر ایک نہایت خوفناک آواز بھیجی سو وہ باڑ لگانے والے کے بچے ہوئے اور روندے گئے بھوسے کی طرح ہوگئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ان پر بس ایک ہی چنگھاڑ بھیجی، جس سے وہ ایسے ہو کر رہ گئے جیسے کانٹوں کی روندی ہوئی باڑھ ہوتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

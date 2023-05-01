@@ -3224,6 +3224,12 @@ jin logo ne kufr kiya aur Allah ki raah se auro ko roka, phir kufr ki haalath me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جن لوگوں نے کفر کیا اور (لوگوں کو) اللہ کی راہ سے روکا پھر اس حال میں مر گئے کہ وہ کافر تھے تو اللہ انہیں کبھی نہ بخشے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا ہے اور دوسروں کو اللہ کے راستے سے روکا ہے، پھر کفر ہی کی حالت میں مرگئے ہیں، اللہ کبھی ان کو نہیں بخشے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ a takozh dlya toho, shchob znyshchyty chastynu neviruyuchykh abo prynyzyty yikh 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(مزید) اس لئے کہ (اللہ) کافروں کے ایک گروہ کو ہلاک کر دے یا انہیں ذلیل کر دے سو وہ ناکام ہو کر واپس پلٹ جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور جنگ بدر میں یہ مدد اللہ نے اس لئے کی) تاکہ جن لوگوں نے کفر اپنایا ہے ان کا ایک حصہ کاٹ کر رکھ دے، یا ان کو ایسی ذلت آمیز شکست دے کہ وہ نامراد ہو کر واپس چلے جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

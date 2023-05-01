@@ -3224,6 +3224,12 @@ aur Allah ke saath kisi aur ko maboodh na tehraao, beshak main tumhe us ki taraf
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کے سوا کوئی دوسرا معبود نہ بناؤ، بیشک میں اس کی جانب سے تمہیں کھلا ڈر سنانے والا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کے ساتھ کوئی اور معبود نہ بناؤ۔ یقین جانو میں اس کی طرف سے تمہارے لیے صاف صاف خبردار کرنے والا (بن کر آیا) ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

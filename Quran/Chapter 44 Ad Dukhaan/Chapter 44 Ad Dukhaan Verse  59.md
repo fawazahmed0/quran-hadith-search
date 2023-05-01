@@ -3224,6 +3224,12 @@ ab tu muntzir reh, ye bhi muntazir hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ (بھی) انتظار فرمائیں، یقیناً وہ (بھی) انتظار کر رہے ہیں (آپ اُن کا حشر اور ہمارا انتقام دیکھیں گے اور وہ آپ کی شان اور آپ کے تصدّق سے مومنوں پر میرا انعام دیکھیں گے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب تم بھی انتظار کرو، یہ لوگ بھی انتظار کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

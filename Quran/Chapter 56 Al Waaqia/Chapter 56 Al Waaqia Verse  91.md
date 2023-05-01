@@ -3224,6 +3224,12 @@ to bhi salaamti hai tere liye, ke to daahne waalo mein se hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو (اس سے کہا جائے گا:) تمہارے لئے دائیں جانب والوں کی طرف سے سلام ہے (یا اے نبی! آپ پر اصحابِ یمین کی جانب سے سلام ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو (اس سے کہا جائے گا کہ) تمہارے لیے سلامتی ہی سلامتی ہے کہ تم دائیں ہاتھ والوں میں سے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ke qisse mein (bhi hamaari taraf se tambi hai) ke hum ne ose
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور موسٰی (علیہ السلام کے واقعہ) میں (بھی نشانیاں ہیں) جب ہم نے انہیں فرعون کی طرف واضح دلیل دے کر بھیجا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور موسیٰ (کے واقعے) میں بھی (ہم نے ایسی ہی نشانی چھوڑی تھی) جب ہم نے انہیں ایک کھلی ہوئی دلیل کے ساتھ فرعون کے پاس بھیجا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

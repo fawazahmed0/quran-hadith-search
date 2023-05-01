@@ -3224,6 +3224,12 @@ Us waqt Adam ne apne Rubb se chandh kaleemat seekh kar tauba ki, jisko uske Rubb
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر آدم (علیہ السلام) نے اپنے رب سے (عاجزی اور معافی کے) چند کلمات سیکھ لئے پس اللہ نے ان کی توبہ قبول فرما لی، بیشک وہی بہت توبہ قبول کرنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر آدم نے اپنے پروردگار سے (توبہ کے) کچھ الفاظ سیکھ لیے (جن کے ذریعے انہوں نے توبہ مانگی) چنانچہ اللہ نے ان کی توبہ قبول کرلی بیشک وہ بہت معاف کرنے والا، بڑا مہربان ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

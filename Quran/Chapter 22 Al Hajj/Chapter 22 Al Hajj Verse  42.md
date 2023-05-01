@@ -3224,6 +3224,12 @@ agar ye log aap ko jhutlaaye (to koyi tajjub ki baath nahi) to in se pehle Nuh(a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر یہ (کفار) آپ کو جھٹلاتے ہیں تو ا ن سے پہلے قومِ نوح اور عاد و ثمود نے بھی (اپنے رسولوں کو) جھٹلایا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) اگر یہ لوگ تمہیں جھٹلاتے ہیں تو ان سے پہلے نوح کی قوم، اور عاد وثمود کی قومیں بھی (اپنے اپنے پیغمبروں کو) جھٹلا چکی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

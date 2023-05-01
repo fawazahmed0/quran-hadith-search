@@ -3224,6 +3224,12 @@ lekin jo log imaan laaye aur (phir) nek amal kiye to, un ke liye aisa ajr hai jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے ان لوگوں کے جو ایمان لائے اور نیک عمل کرتے رہے تو ان کے لئے ختم نہ ہونے والا (دائمی) اجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سوائے ان کے جو ایمان لائے، اور انہوں نے نیک عمل کیے، تو ان کو ایسا اجر ملے گا جو کبھی ختم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

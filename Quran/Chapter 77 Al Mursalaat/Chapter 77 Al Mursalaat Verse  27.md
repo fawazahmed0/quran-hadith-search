@@ -3224,6 +3224,12 @@ aur hum ne us mein bulandh wa bhaari pahaad bana diye aur tumhe sayraab karne wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم نے اس پر بلند و مضبوط پہاڑ رکھ دئیے اور ہم نے تمہیں (شیریں چشموں کے ذریعے) میٹھا پانی پلایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اس میں گڑھے ہوئے اونچے اونچے پہاڑ پیدا کیے، اور تمہیں میٹھے پانی سے سیراب کرنے کا انتظام کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

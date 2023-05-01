@@ -3224,6 +3224,12 @@ ye sub jab yousuf ke paas pahonch gaye to us ne apne bhai ko apne paas bhita liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ یوسف (علیہ السلام) کے پاس حاضر ہوئے تو یوسف (علیہ السلام) نے اپنے بھائی (بنیامین) کو اپنے پاس جگہ دی (اسے آہستہ سے) کہا: بیشک میں ہی تیرا بھائی (یوسف) ہوں پس تو غمزدہ نہ ہو ان کاموں پر جو یہ کرتے رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یہ لوگ یوسف کے پاس پہنچے تو انہوں نے اپنے (سگے) بھائی (بنیامین) کو اپنے پاس خاص جگہ دی، (اور انہیں) بتایا کہ میں تمہارا بھائی ہوں، لہذا تم ان باتوں پر رنجیدہ نہ ہونا جو یہ (دوسرے بھائی) کرتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

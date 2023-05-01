@@ -3224,6 +3224,12 @@ aur asmaano aur zameen ko Allah ne bahuth hee adl ke saath payda kiya hai, aur t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے آسمانوں اور زمین کو حق (پر مبنی حکمت) کے ساتھ پیدا فرمایا اور اس لئے کہ ہر جان کو اس کے اعمال کا بدلہ دیا جائے جو اس نے کمائے ہیں اور اُن پر ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے سارے آسمانوں اور زمین کو برحق مقصد کے لیے پیدا کیا ہے، اور اس لیے کیا ہے کہ ہر شخص کو اس کے کیے ہوئے کاموں کا بدلہ دیا جائے، اور دیتے وقت ان پر کوئی ظلم نہ کیا جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Tumhare rafeeq to haqeeqat mein sirf Allah aur Allah ka Rasool aur woh ehle iman
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک تمہارا (حقیقی مددگار اور) دوست تو اللہ اور اس کا رسول (صلی اللہ علیہ وآلہ وسلم) ہی ہے اور (ساتھ) وہ ایمان والے ہیں جو نماز قائم رکھتے ہیں اور زکوٰۃ ادا کرتے ہیں اور وہ (اللہ کے حضور عاجزی سے) جھکنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) تمہارے یارومددگار تو اللہ، اس کے رسول اور وہ ایمان والے ہیں جو اس طرح نماز قائم کرتے اور زکوٰۃ ادا کرتے ہیں کہ وہ (دل سے) اللہ کے آگے جھکے ہوئے ہوتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

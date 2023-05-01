@@ -3224,6 +3224,12 @@ wahi hai jis ne na-qaandah logo mein unhee mein se ek rasool bheja jo unhe us ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے اَن پڑھ لوگوں میں انہی میں سے ایک (با عظمت) رسول (صلی اللہ علیہ وآلہ وسلم) کو بھیجا وہ اُن پر اُس کی آیتیں پڑھ کر سناتے ہیں اور اُن (کے ظاہر و باطن) کو پاک کرتے ہیں اور انہیں کتاب و حکمت کی تعلیم دیتے ہیں، بیشک وہ لوگ اِن (کے تشریف لانے) سے پہلے کھلی گمراہی میں تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے امی لوگوں میں انہی میں سے ایک رسول کو بھیجا جو ان کے سامنے اس کی آیتوں کی تلاوت کریں اور ان کو پاکیزہ بنائیں اور انہیں کتاب اور حکمت کی تعلیم دیں، جبکہ وہ اس سے پہلے کھلی گمراہی میں پڑے ہوئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

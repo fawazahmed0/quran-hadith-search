@@ -3224,6 +3224,12 @@ un logo se lado jo Allah par aur qayamath ke din par iman nahi late,jo Allah aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) تم اہلِ کتاب میں سے ان لوگوں کے ساتھ (بھی جوابی) جنگ کرو (جنہوں نے تمہارے ساتھ مدینہ میں کیے ہوئے معاہدۂ اَمن کو توڑ کر، جلا وطنی کے باوُجود جنگ اَحزاب میں مدینہ پر حملہ آور کفارِ مکہ کی اَفواج کی بھرپور مدد کی اور اب بھی تمہارے خلاف تمام ممکنہ سازشیں جاری رکھے ہوئے ہیں) جو نہ اللہ پر ایمان رکھتے ہیں نہ یومِ آخرت پر اور نہ ان چیزوں کو حرام جانتے ہیں جنہیں اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) نے حرام قرار دیا ہے اور نہ ہی دینِ حق اختیارکرتے ہیں، یہاں تک کہ وہ (ریاست کے دستور اور نظام کے) تابع ہو کر اپنے ہاتھ سے ریاستی حفاظت کا ٹیکس (جو عسکری خدمات سے اِستثناء کی صورت میں وصول کیا جاتا ہے) ادا کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اہل کتاب جو نہ اللہ پر ایمان رکھتے ہیں، نہ یوم آخرت پر اور جو اللہ اور اس کے رسول کی حرام کی ہوئی چیزوں کو حرام نہیں سمجھتے، اور نہ دین حق کو اپنا دین مانتے ہیں ان سے جنگ کرو، یہاں تک کہ وہ خوار ہو کر اپنے ہاتھ سے جزیہ ادا کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

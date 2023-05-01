@@ -3224,6 +3224,12 @@ aur na aap andho ko un ki gumraahi se hata kar rehnumaayi kar sakte hai, aap to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ ہی آپ (دل کے) اندھوں کو ان کی گمراہی سے (بچا کر) ہدایت دینے والے ہیں، آپ تو (فی الحقیقت) انہی کو سناتے ہیں جو (آپ کی دعوت قبول کر کے) ہماری آیتوں پر ایمان لے آتے ہیں سو وہی لوگ مسلمان ہیں (اور وہی زندہ کہلانے کے حق دار ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نہ تم اندھوں کو ان کی گمراہی سے بچا کر راستے پر لاسکتے ہو۔ تم تو انہی لوگوں کو اپنی بات سنا سکتے ہو جو ہماری آیتوں پر ایمان لائیں، پھر وہی لوگ فرمانبردار ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

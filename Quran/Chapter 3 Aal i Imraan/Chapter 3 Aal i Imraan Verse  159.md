@@ -3224,6 +3224,12 @@ Allah ta’ala ki rehmath ke baayes aap un par narm dil hai aur agar aap badh-za
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ والا صفات!) پس اللہ کی کیسی رحمت ہے کہ آپ ان کے لئے نرم طبع ہیں، اور اگر آپ تُندخُو (اور) سخت دل ہوتے تو لوگ آپ کے گرد سے چھٹ کر بھاگ جاتے، سو آپ ان سے درگزر فرمایا کریں اور ان کے لئے بخشش مانگا کریں اور (اہم) کاموں میں ان سے مشورہ کیا کریں، پھر جب آپ پختہ ارادہ کر لیں تو اللہ پر بھروسہ کیا کریں، بیشک اللہ توکّل والوں سے محبت کرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان واقعات کے بعد اللہ کی رحمت ہی تھی جس کی بنا پر (اے پیغمبر) تم نے ان لوگوں سے نرمی کا برتاؤ کیا۔ اگر تم سخت مزاج اور سخت دل والے ہوتے تو یہ تمہارے آس پاس سے ہٹ کر تتر بتر ہوجاتے۔ لہذا ان کو معاف کردو، ان کے لیے مغفرت کی دعا کرو، اور ان سے (اہم) معاملات میں مشورہ لیتے رہو۔ پھر جب تم رائے پختہ کر کے کسی بات کا عزم کرلو تو اللہ پر بھروسہ کرو۔ اللہ یقینا توکل کرنے والوں سے محبت کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

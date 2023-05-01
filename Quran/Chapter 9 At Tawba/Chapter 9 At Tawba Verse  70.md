@@ -3224,6 +3224,12 @@ kya unhe apne se pehle logo ki qabre nahi pahochi,khaom e noah aur aadh aur samo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ان کے پاس ان لوگوں کی خبر نہیں پہنچی جو ان سے پہلے تھے، قومِ نوح اور عاد اور ثمود اور قومِ ابراہیم اور باشندگانِ مدین اور ان بستیوں کے مکین جو الٹ دی گئیں، ان کے پاس (بھی) ان کے رسول واضح نشانیاں لے کر آئے تھے (مگر انہوں نے نافرمانی کی) پس اللہ تو ایسا نہ تھا کہ ان پر ظلم کرتا لیکن وہ (انکارِ حق کے باعث) اپنے اوپر خود ہی ظلم کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا ان (منافقوں) کو ان لوگوں کی خبر نہیں پہنچی جو ان سے پہلے گزرے ہیں ؟ نوح کی قوم، اور عاد وثمود، ابراہیم کی قوم، مدین کے باشندے اور وہ بستیاں جنہیں الٹ ڈالا گیا۔ ان سب کے پاس ان کے رسول روشن دلائل لے کر آئے تھے۔ پھر اللہ ایسا نہیں تھا کہ ان پر ظلم کرتا، لیکن یہ خود اپنی جانوں پر ظلم ڈھاتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

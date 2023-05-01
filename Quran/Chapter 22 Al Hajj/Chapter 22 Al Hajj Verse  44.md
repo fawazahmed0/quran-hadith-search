@@ -3224,6 +3224,12 @@ aur madyan waale bhi apne apne nabiyo ko jhutla chuke hai, Mosa(alaihissalaam) b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور باشندگانِ مدین نے (بھی جھٹلایا تھا) اور موسٰی (علیہ السلام) کو بھی جھٹلایا گیا سو میں (ان سب) کافروں کو مہلت دیتا رہا پھر میں نے انہیں پکڑ لیا، پھر (بتائیے) میرا عذاب کیسا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مدین کے لوگ بھی، اور موسیٰ کو بھی جھٹلایا گیا تھا، چنانچہ ان کافروں کو میں نے کچھ ڈھیل دی، پھر انہیں پکڑ میں لے لیا، اب دیکھ لو کہ میری پکڑ کیسی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

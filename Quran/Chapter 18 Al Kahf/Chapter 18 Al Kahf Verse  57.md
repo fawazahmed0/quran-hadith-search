@@ -3224,6 +3224,12 @@ us se bad kar zaalim kaun hai? jise us ke rub ki aayato se nasihath ki jaaye wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس شخص سے بڑھ کر ظالم کون ہوگا جسے اس کے رب کی نشانیاں یاد دلائی گئیں تو اس نے ان سے رُوگردانی کی اور ان (بداَعمالیوں) کو بھول گیا جو اس کے ہاتھ آگے بھیج چکے تھے، بیشک ہم نے ان کے دلوں پر پردے ڈال دیئے ہیں کہ وہ اس حق کو سمجھ (نہ) سکیں اور ان کے کانوں میں بوجھ پیدا کر دیا ہے (کہ وہ اس حق کو سن نہ سکیں)، اور اگر آپ انہیں ہدایت کی طرف بلائیں تو وہ کبھی بھی قطعًا ہدایت نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس شخص سے بڑھ کر ظالم کون ہوگا جسے اس کے رب کی آیتوں کے حوالے سے نصیحت کی جائے، تو وہ ان سے منہ موڑ لے، اور اپنے ہاتھوں کے کرتوت کو بھلا بیٹھے ؟ حقیقت یہ ہے کہ ہم نے (ان لوگوں کے کرتوت کی وجہ سے) ان کے دلوں پر غلاف چڑھا دیے ہیں جن کی وجہ سے وہ اس (قرآن) کو نہیں سمجھتے، اور ان کے کانوں میں ڈاٹ لگا دی ہے۔ اور اگر تم انہیں ہدایت کی طرف بلاؤ، تب بھی وہ صحیح راستے پر ہرگز نہیں آئیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

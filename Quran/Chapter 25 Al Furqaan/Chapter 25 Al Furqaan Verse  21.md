@@ -3224,6 +3224,12 @@ aur jinhe hamaari mulaqaath ki tawaqqo nahi, unhone kaha ke hum par farishte kyo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ہماری ملاقات کی امید نہیں رکھتے کہتے ہیں کہ ہمارے اوپر فرشتے کیوں نہیں اتارے گئے یا ہم اپنے رب کو (اپنی آنکھوں سے) دیکھ لیتے (تو پھر ضرور ایمان لے آتے)، حقیقت میں یہ لوگ اپنے دِلوں میں (اپنے آپ کو) بہت بڑا سمجھنے لگے ہیں اور حد سے بڑھ کر سرکشی کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں کو یہ توقع ہی نہیں ہے کہ وہ (کسی وقت) ہم سے آملیں گے، وہ یوں کہتے ہیں کہ : ہم پر فرشتے کیوں نہیں اتارے جاتے ؟ یا پھر ایسا کیوں نہیں ہوتا کہ ہم خود اپنے پروردگار کو دیکھ لیں ؟ حقیقت یہ ہے کہ یہ اپنے دلوں میں اپنے آپ کو بہت بڑا سمجھے ہوئے ہیں۔ اور انہوں نے بڑی سرکشی اختیار کی ہوئی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

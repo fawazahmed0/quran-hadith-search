@@ -3224,6 +3224,12 @@ aap se wahi kaha jaata hai jo aap se pehle ke rasulo se bhi kaha gaya hai, yaqin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) جو آپ سے کہی جاتی ہیں (یہ) وہی باتیں ہیں جو آپ سے پہلے رسولوں سے کہی جا چکی ہیں، بے شک آپ کا رب ضرور معافی والا (بھی) ہے اور درد ناک سزا دینے والا (بھی) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر !) تم سے جو باتیں کہی جا رہی ہیں، وہ وہی ہیں جو تم سے پہلے پیغمبروں سے کہی گئی تھیں، یقین رکھو تمہارا پروردگار مغفرت کرنے والا بھی ہے، اور دردناک سزا دینے والا بھی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

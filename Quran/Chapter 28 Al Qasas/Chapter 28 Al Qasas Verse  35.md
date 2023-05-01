@@ -3224,6 +3224,12 @@ Allah ta’ala ne farmaya ke hum tere bhai ke saath tere baazu mazbooth kar deng
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ارشاد فرمایا: ہم تمہارا بازو تمہارے بھائی کے ذریعے مضبوط کر دیں گے۔ اور ہم تم دونوں کے لئے (لوگوں کے دلوں میں اور تمہاری کاوشوں میں) ہیبت و غلبہ پیدا کئے دیتے ہیں۔ سو وہ ہماری نشانیوں کے سبب سے تم تک (گزند پہنچانے کے لئے) نہیں پہنچ سکیں گے، تم دونوں اور جو لوگ تمہاری پیروی کریں گے غالب رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ارشاد ہوا : ہم تمہارے بھائی کے ذریعے تمہارے ہاتھ مضبوط کیے دیتے ہیں، اور تم دونوں کو ایسا دبدبہ عطا کردیتے ہیں کہ ان کو ہماری نشانیوں کی برکت سے تم پر دسترس حاصل نہیں ہوگی، تم اور تمہارے پیروکار ہی غالب رہو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

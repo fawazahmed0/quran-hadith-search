@@ -3224,6 +3224,12 @@ aap keh di jiye ke aye logo! main tum sab ki taraf us Allah ta’ala ka bheja ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے رسول ان سے) کہو کہ : اے لوگو ! میں تم سب کی طرف اس اللہ کا بھیجا ہوا رسول ہوں جس کے قبضے میں تمام آسمانوں اور زمین کی سلطنت ہے، اس کے سوا کوئی معبود نہیں ہے۔ وہی زندگی اور موت دیتا ہے۔ اب تم اللہ پر اور اس کے رسول پر ایمان لے آؤ جو نبی امی ہے، اور جو اللہ پر اور اس کے کلمات پر ایمان رکھتا ہے، اور اس کی پیروی کرو تاکہ تمہیں ہدایت حاصل ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

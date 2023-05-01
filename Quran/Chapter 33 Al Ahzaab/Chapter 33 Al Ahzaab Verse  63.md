@@ -3224,6 +3224,12 @@ log aap se qayaamath ke baare mein sawaal karte hai, aap keh dijiye! ke us ka il
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لوگ آپ سے قیامت کے (وقت کے) بارے میں دریافت کرتے ہیں۔ فرما دیجئے: اس کا علم تو اللہ ہی کے پاس ہے، اور آپ کو کس نے آگاہ کیا شاید قیامت قریب ہی آچکی ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگ تم سے قیامت کے بارے میں پوچھتے ہیں۔ کہہ دو کہ اس کا علم تو اللہ ہی کے پاس ہے۔ اور تمہیں کیا پتہ شاید قیامت قریب ہی آگئی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

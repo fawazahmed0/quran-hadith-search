@@ -3224,6 +3224,12 @@ aur jin logo ne us ke siva dosro ko kaar saaz bana liya hai, Allah ta’ala un p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے اللہ کو چھوڑ کر بتوں کو دوست و کارساز بنا رکھا ہے اللہ اُن (کے حالات) پر خوب نگہبان ہے اور آپ ان (کافروں) کے ذمّہ دار نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے اس کے سوا دوسرے رکھوالے بنا رکھے ہیں، اللہ ان پر نگرانی رکھے ہوئے ہے، اور تم ان کے ذمہ دار نہیں ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

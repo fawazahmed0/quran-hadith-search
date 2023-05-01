@@ -3224,6 +3224,12 @@ ye to bahuth hee thoda fayeda hai, us ke baadh ka tikhaana to jahannam hai aur w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ تھوڑی سی (چند دنوں کی) متاع ہے، پھر ان کا ٹھکانا دوزخ ہوگا، اور وہ بہت ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ تو تھوڑا سا مزہ ہے جو یہ اڑا رہے ہیں) پھر ان کا ٹھکانا جہنم ہے، اور وہ بدترین بچھونا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

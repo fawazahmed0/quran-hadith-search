@@ -3224,6 +3224,12 @@ dehaatiyo mein se jo log piche chohd diye gaye thein, wo ab tujh se kahenge ke h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عنقریب دیہاتیوں میں سے وہ لوگ جو (حدیبیہ میں شرکت سے) پیچھے رہ گئے تھے آپ سے (معذرۃً یہ) کہیں گے کہ ہمارے اموال اور اہل و عیال نے ہمیں مشغول کر رکھا تھا (اس لئے ہم آپ کی معیت سے محروم رہ گئے) سو آپ ہمارے لئے بخشش طلب کریں۔ یہ لوگ اپنی زبانوں سے وہ (باتیں) کہتے ہیں جو ان کے دلوں میں نہیں ہیں۔ آپ فرما دیں کہ کون ہے جو تمہیں اللہ کے (فیصلے کے) خلاف بچانے کا اختیار رکھتا ہو اگر اس نے تمہارے نقصان کا ارادہ فرما لیا ہو یا تمہارے نفع کا ارادہ فرما لیا ہو، بلکہ اللہ تمہارے کاموں سے اچھی طرح باخبر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ دیہاتی جو (حدیبیہ کے سفر میں) پیچھے رہ گئے تھے، اب وہ تم سے ضرور یہ کہیں گے کہ : ہمارے مال و دولت اور ہمارے اہل و عیال نے ہمیں مشغول کرلیا تھا، اس لیے ہمارے لیے مغفرت کی دعا کردیجیے۔ وہ اپنی زبانوں سے وہ باتیں کہتے ہیں جو ان کے دلوں میں نہیں ہوتیں۔ (ان سے) کہو کہ : اچھا تو اگر اللہ تمہیں کوئی نقصان پہنچانا چاہے یا فائدہ پہنچانا چاہے تو کون ہے جو اللہ کے سامنے تمہارے معاملے میں کچھ بھی کرنے کی طاقت رکھتا ہو ؟ بلکہ جو کچھ تم کرتے ہو، اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

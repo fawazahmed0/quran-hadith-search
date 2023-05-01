@@ -3224,6 +3224,12 @@ aur jab taqseem ke waqth qaraabat-daar aur yateem aur miskeen aa jaaye to tum us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تقسیمِ (وراثت) کے موقع پر (غیر وارث) رشتہ دار اور یتیم اور محتاج موجود ہوں تو اس میں سے کچھ انہیں بھی دے دو اور ان سے نیک بات کہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب (میراث کی) تقسیم کے وقت (غیر وارث) رشتہ دار، یتیم اور مسکین لوگ آجائیں، تو ان کو بھی اس میں سے کچھ دے دو ، اور ان سے مناسب انداز میں بات کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

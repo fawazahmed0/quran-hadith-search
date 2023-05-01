@@ -3224,6 +3224,12 @@ Allah aur us ke rasol ki jaanib se bezaari ka elan hai un mushriko ke bare mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی طرف سے بیزاری (و دست برداری) کا اعلان ہے ان مشرک لوگوں کی طرف جن سے تم نے (صلح و امن کا) معاہدہ کیا تھا (لیکن اُنہوں نے معاہدہ توڑتے ہوئے حالتِ جنگ کو پھر بحال کردیا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) یہ اللہ اور اس کے رسول کی طرف سے دستبرداری کا اعلان ہے ان تمام مشرکین کے خلاف جن سے تم نے معاہدہ کیا ہوا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

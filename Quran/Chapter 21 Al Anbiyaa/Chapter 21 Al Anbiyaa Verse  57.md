@@ -3224,6 +3224,12 @@ aur Allah ki qasam main tumhaare un mabudo ke saath, jab tum alaheda peet pher k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کی قسم! میں تمہارے بتوں کے ساتھ ضرور ایک تدبیر عمل میں لاؤں گا اس کے بعد کہ جب تم پیٹھ پھیر کر پلٹ جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کی قسم ! جب تم پیٹھ پھیر کر چلے جاؤ گے تو میں تمہارے بتوں کے ساتھ ایک (ایسا) کام کروں گا (جس سے ان کی حقیقت کھل جائے گی)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ koi sabab un ke qarch ki quboliyath ke na hone ka us ke siva nahi ke ye Allah au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان سے ان کے نفقات (یعنی صدقات) کے قبول کئے جانے میں کوئی (اور) چیز انہیں مانع نہیں ہوئی سوائے اس کے کہ وہ اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کے منکر ہیں اور وہ نماز کی ادائیگی کے لئے نہیں آتے مگر کاہلی و بے رغبتی کے ساتھ اور وہ (اللہ کی راہ میں) خرچ (بھی) نہیں کرتے مگر اس حال میں کہ وہ ناخوش ہوتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے چندے قبول کیے جانے میں رکاوٹ کی کوئی اور وجہ اس کے سوا نہیں ہے کہ انہوں نے اللہ اور اس کے رسول کے ساتھ کفر کا معاملہ کیا ہے، اور یہ نماز میں آتے ہیں تو کسمساتے ہوئے آتے ہیں اور (کسی نیکی میں) خرچ کرتے ہیں تو برا مانتے ہوئے خرچ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

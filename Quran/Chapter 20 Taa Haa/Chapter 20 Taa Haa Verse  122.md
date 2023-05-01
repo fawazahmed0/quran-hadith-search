@@ -3224,6 +3224,12 @@ phir us ke rab ne nawaaza, us ki tauba qubool ki aur us ki rehnumaayi ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان کے رب نے انہیں (اپنی قربت و نبوت کے لئے) چن لیا اور ان پر (عفو و رحمت کی خاص) توجہ فرمائی اور منزلِ مقصود کی راہ دکھا دی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ان کے رب نے انہیں چن لیا، چنانچہ ان کی توبہ قبول فرمائی، اور انہیں ہدایت عطا فرمائی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

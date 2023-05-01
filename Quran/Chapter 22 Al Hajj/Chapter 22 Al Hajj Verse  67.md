@@ -3224,6 +3224,12 @@ har ummath ke liye hum ne ibaadath ka ek tariqa muqarrar kar diya hai, jise wo b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم نے ہر ایک امت کے لئے (احکامِ شریعت یا عبادت و قربانی کی) ایک راہ مقرر کر دی ہے، انہیں اسی پر چلنا ہے، سو یہ لوگ آپ سے ہرگز (اللہ کے) حکم میں جھگڑا نہ کریں، اور آپ اپنے رب کی طرف بلاتے رہیں۔ بیشک آپ ہی سیدھی (راہِ) ہدایت پر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ہر امت کے لوگوں کے لیے عبادت کا ایک طریقہ مقرر کیا ہے، جس کے مطابق وہ عبادت کرتے ہیں۔ لہذا (اے پیغمبر) لوگوں کو تم سے اس معاملے میں جھگڑا نہیں کرنا چاہیے اور تم اپنے پروردگار کی طرف دعوت دیتے رہو۔ تم یقینا سیدھے راستے پر ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

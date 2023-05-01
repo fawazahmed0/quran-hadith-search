@@ -3224,6 +3224,12 @@ phir agar ye teri na maane, to tu yaqeen karle ke ye sirf apni qaahish ki pairvi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر وہ آپ کا ارشاد قبول نہ کریں تو آپ جان لیں (کہ ان کے لئے کوئی حجت باقی نہیں رہی) وہ محض اپنی خواہشات کی پیروی کرتے ہیں، اور اس شخص سے زیادہ گمراہ کون ہوسکتا ہے جو اللہ کی جانب سے ہدایت کو چھوڑ کر اپنی خواہش کی پیروی کرے۔ بیشک اللہ ظالم قوم کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اگر یہ تمہاری فرمائش پوری نہ کریں، تو سمجھ لو کہ درحقیقت یہ لوگ اپنی خواہشات کے پیچھے چل رہے ہیں، اور اس سے زیادہ گمراہ کون ہوگا جو اللہ کی طرف سے آئی ہوئی ہدایت کے بغیر بس اپنی خواہش کے پیچھے چلے ؟ بیشک اللہ ظالم لوگوں کو ہدایت نہیں دیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wahi hai jis ne apne rasool ko hidaayath aur deene haq ke saath bheja ta ke ose 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے اپنے رسول (صلی اللہ علیہ وآلہ وسلم) کو ہدایت اور دینِ حق عطا فرما کر بھیجا تاکہ اسے تمام ادیان پر غالب کر دے، اور (رسول صلی اللہ علیہ وآلہ وسلم کی صداقت و حقانیت پر) اللہ ہی گواہ کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے اپنے رسول کو ہدایت اور سچا دین دے کر بھیجا ہے، تاکہ اسے ہر دوسرے دین پر غالب کردے۔ اور (اس کی) گواہی دینے کے لیے اللہ کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

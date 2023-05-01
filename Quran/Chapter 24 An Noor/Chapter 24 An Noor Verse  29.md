@@ -3224,6 +3224,12 @@ haan ghair abaadh gharo mein jahaan tumhaara koyi fayeda ya asbaab ho, jaane mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس میں تم پر گناہ نہیں کہ تم ان مکانات (و عمارات) میں جو کسی کی مستقل رہائش گاہ نہیں ہیں (مثلاً ہوٹل، سرائے اور مسافر خانے وغیرہ میں بغیر اجازت کے) چلے جاؤ (کہ) ان میں تمہیں فائدہ اٹھانے کا حق (حاصل) ہے، اور اللہ ان (سب باتوں) کو جانتا ہے جو تم ظاہر کرتے ہو اور جو تم چھپاتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہارے لیے اس میں کوئی گناہ نہیں ہے کہ تم ایسے گھروں میں (اجازت لیے بغیر) داخل ہو جن میں کوئی رہتا نہ ہو، اور ان سے تمہیں فائدہ اٹھانے کا حق ہو۔ اور تم جو کام علانیہ کرتے ہو، اور جو چھپ کر کرتے ہو، اللہ ان سب کو جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum ne aadam ko pehle hee taakidi hukm de diya tha, lekin wo bhool gaya aur hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور درحقیقت ہم نے اس سے (بہت) پہلے آدم (علیہ السلام) کو تاکیدی حکم فرمایا تھا سو وہ بھول گئے اور ہم نے ان میں بالکل (نافرمانی کا کوئی) ارادہ نہیں پایا (یہ محض ایک بھول تھی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اس سے پہلے آدم کو ایک بات کی تاکید کی تھی، پھر ان سے بھول ہوگئی، اور ہم نے ان میں عزم نہیں پایا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

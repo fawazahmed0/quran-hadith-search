@@ -3224,6 +3224,12 @@ aye musalmaano! agar tumhe koyi faasiq qabar de to tum us ki acchi tarah tehqeeq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اگر تمہارے پاس کوئی فاسق (شخص) کوئی خبر لائے تو خوب تحقیق کر لیا کرو (ایسا نہ ہو) کہ تم کسی قوم کو لاعلمی میں (ناحق) تکلیف پہنچا بیٹھو، پھر تم اپنے کئے پر پچھتاتے رہ جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اگر کوئی فاسق تمہارے پاس کوئی خبر لے کر آئے، تو اچھی طرح تحقیق کرلیا کرو، کہیں ایسا نہ ہو کہ تم نادانی سے کچھ لوگوں کو نقصان پہنچا بیٹھو، اور پھر اپنے کیے پر پچھتاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

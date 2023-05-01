@@ -3224,6 +3224,12 @@ logo ko un ki cheeze kami se na do, be baaki ke saath zameen mein fasaadh machaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں کو ان کی چیزیں کم (تول کے ساتھ) مت دیا کرو اور ملک میں (ایسی اخلاقی، مالی اور سماجی خیانتوں کے ذریعے) فساد انگیزی مت کرتے پھرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں کو ان کی چیزیں گھٹا کر نہ دیا کرو، اور زمین میں فساد مچاتے مت پھرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

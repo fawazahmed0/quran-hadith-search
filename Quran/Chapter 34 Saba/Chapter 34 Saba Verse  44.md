@@ -3224,6 +3224,12 @@ aur un (makke waalo) ko na to hum ne kitaabe de rakhi hai, jinhe ye padte ho, na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان (اہلِ مکہّ) کو نہ آسمانی کتابیں عطا کی تھیں جنہیں یہ لوگ پڑھتے ہوں اور نہ ہی آپ سے پہلے ان کی طرف کوئی ڈر سنانے والا بھیجا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حالانکہ ہم نے انہیں پہلے نہ ایسی کتابیں دی تھیں جو یہ پڑھتے پڑھاتے ہوں اور نہ (اے پیغمبر) تم سے پہلے ہم نے ان کے پاس کوئی خبردار کرنے والا (نبی) بھیجا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

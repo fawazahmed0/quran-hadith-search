@@ -3224,6 +3224,12 @@ tu kehde ke tamaam tareef Allah hee ke liye hai aur us ke bar-guzida bandho par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے کہ تمام تعریفیں اللہ ہی کے لئے ہیں اور اس کے منتخب (برگزیدہ) بندوں پر سلامتی ہو، کیا اللہ ہی بہتر ہے یا وہ (معبودانِ باطلہ) جنہیں یہ لوگ (اس کا) شریک ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کہو : تمام تعریفیں اللہ کے لیے ہیں اور سلام ہو اس کے ان بندوں پر جن کو اس نے منتخب فرمایا ہے بتاؤ کیا اللہ بہتر ہے یا وہ جن کو ان لوگوں نے اللہ کی خدائی میں شریک بنا رکھا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

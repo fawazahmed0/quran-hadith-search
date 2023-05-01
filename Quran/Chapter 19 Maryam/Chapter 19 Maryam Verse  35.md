@@ -3224,6 +3224,12 @@ Allah ta’ala ke liye aulaad ka hona laayeq nahi, wo to bilkul paak zaath hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اللہ کی شان نہیں کہ وہ (کسی کو اپنا) بیٹا بنائے، وہ (اس سے) پاک ہے، جب وہ کسی کام کا فیصلہ فرماتا ہے تو اسے صرف یہی حکم دیتا ہے: ”ہوجا“ بس وہ ہوجاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کی یہ شان نہیں ہے کہ وہ کوئی بیٹا بنائے، اس کی ذات پاک ہے۔ جب وہ کسی بات کا فیصلہ کرلیتا ہے تو بس اس سے یہ کہتا ہے کہ ہوجا۔ چنانچہ وہ ہو جاتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

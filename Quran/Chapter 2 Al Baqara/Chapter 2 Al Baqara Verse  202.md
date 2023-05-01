@@ -3224,6 +3224,12 @@ ye wo log hai jin ke liye un ke amaal ka hissa hai aur Allah ta’ala jald hisaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی وہ لوگ ہیں جن کے لئے ان کی (نیک) کمائی میں سے حصہ ہے، اور اللہ جلد حساب کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جنہیں اپنے اعمال کی کمائی کا حصہ (ثواب کی صورت میں) ملے گا، اور اللہ جلد حساب لینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

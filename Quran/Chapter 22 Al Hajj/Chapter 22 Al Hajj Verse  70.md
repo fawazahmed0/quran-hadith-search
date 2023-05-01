@@ -3224,6 +3224,12 @@ kya aap ne nahi jaana ke asamaan wa zameen ki har cheez Allah ke ilm mein hai, y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تمہیں معلوم نہیں کہ اللہ وہ سب کچھ جانتا ہے جو آسمان اور زمین میں ہے، بیشک یہ سب کتاب (لوحِ محفوظ) میں (درج) ہے، یقیناً یہ سب اللہ پر (بہت) آسان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نہیں جانتے کہ آسمان اور زمین کی تمام چیزیں اللہ کے علم میں ہیں ؟ یہ سب باتیں ایک کتاب میں محفوظ ہیں۔ بیشک یہ سارے کام اللہ کے لیے بہت آسان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

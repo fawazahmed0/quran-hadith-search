@@ -3224,6 +3224,12 @@ jab wo unhe door se dekhegi, to ye us ka ghusse se bhiparna aur dahaadna sunenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب وہ (آتشِ دوزخ) دور کی جگہ سے (ہی) ان کے سامنے ہوگی یہ اس کے جوش مارنے اور چنگھاڑنے کی آواز کو سنیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب وہ ان کو دور سے دیکھے گی تو یہ لوگ اس کے بپھرنے اور پھنکارنے کی آوازیں سنیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

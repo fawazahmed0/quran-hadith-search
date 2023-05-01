@@ -3224,6 +3224,12 @@ aye logo! hum ne tum sab ko (ek hee) mardh wa aurath se payda kiya hai aur is li
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! ہم نے تمہیں مرد اور عورت سے پیدا فرمایا اور ہم نے تمہیں (بڑی بڑی) قوموں اور قبیلوں میں (تقسیم) کیا تاکہ تم ایک دوسرے کو پہچان سکو۔ بیشک اللہ کے نزدیک تم میں زیادہ باعزت وہ ہے جو تم میں زیادہ پرہیزگارہو، بیشک اللہ خوب جاننے والا خوب خبر رکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! حقیقت یہ ہے کہ ہم نے تم سب کو ایک مرد اور ایک عورت سے پیدا کیا ہے، اور تمہیں مختلف قوموں اور خاندانوں میں اس لیے تقسیم کیا ہے تاکہ تم ایک دوسرے کی پہچان کرسکو، درحقیقت اللہ کے نزدیک تم میں سب سے زیادہ عزت والا وہ ہے جو تم میں سب سے زیادہ متقی ہو۔ یقین رکھو کہ اللہ سب کچھ جاننے والا، ہر چیز سے باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ samajhte hai ke ab tak lashkar chale nahi gaye aur agar fauje aa jaaye to tamann
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ لوگ (ابھی تک یہ) گمان کرتے ہیں کہ کافروں کے لشکر (واپس) نہیں گئے اور اگر وہ لشکر (دوبارہ) آجائیں تو یہ چاہیں گے کہ کاش وہ دیہاتیوں میں جا کر بادیہ نشین ہو جائیں (اور) تمہاری خبریں دریافت کرتے رہیں، اور اگر وہ تمہارے اندر موجود ہوں تو بھی بہت ہی کم لوگوں کے سوا وہ جنگ نہیں کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ یہ سمجھ رہے ہیں کہ (دشمنوں کے) لشکر ابھی گئے نہیں ہیں۔ اور اگر وہ لشکر (دوبارہ) آجائیں تو ان کی خواہش یہ ہوگی کہ وہ دیہات میں جاکر رہیں (اور وہیں بیٹھے ہوئے) تمہاری خبریں معلوم کرتے رہیں۔ اور اگر تمہارے درمیان رہے بھی تو لڑائی میں تھوڑا ہی حصہ لیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur ye log yo kehte hai ke un ke paas koyi farishta kyo nahi utaara gaya aur aga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (کفّار) کہتے ہیں کہ اس (رسولِ مکرّم) پر کوئی فرشتہ کیوں نہ اتارا گیا (جسے ہم ظاہراً دیکھ سکتے اور وہ ان کی تصدیق کردیتا)، اور ہم اگر فرشتہ اتار دیتے تو (ان کا) کام ہی تمام ہوچکا ہوتا پھر انہیں (ذرا بھی) مہلت نہ دی جاتی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگ یہ کہتے ہیں کہ : اس (پیغمبر) پر کوئی فرشتہ کیوں نہیں اتارا گیا ؟ حالانکہ اگر ہم کوئی فرشتہ اتار دیتے تو سارا کام ہی تمام ہوجاتا پھر ان کو کوئی مہلت نہ دی جاتی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

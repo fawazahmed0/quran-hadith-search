@@ -3224,6 +3224,12 @@ aap farma di jiye ke kya main Allah ke siva kisi aur ko rab banaane ke liye tala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کیا میں اللہ کے سوا کوئی دوسرا رب تلاش کروں حالانکہ وہی ہر شے کا پروردگار ہے، اور ہر شخص جو بھی (گناہ) کرتا ہے (اس کا وبال) اسی پر ہوتا ہے اور کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا۔ پھر تمہیں اپنے رب ہی کی طرف لوٹنا ہے پھر وہ تمہیں ان (باتوں کی حقیقت) سے آگاہ فرما دے گا جن میں تم اختلاف کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : کیا میں اللہ کے سوا کوئی اور پروردگار تلاش کروں، حالانکہ وہ ہر چیز کا مالک ہے ؟ اور جو کوئی شخص کوئی کمائی کرتا ہے، اس کا نفع نقصان کسی اور پر نہیں، خود اسی پر پڑتا ہے۔ اور کوئی بوجھ اٹھانے والا کسی اور کا بوجھ نہیں اٹھائے گا۔ پھر تمہارے پروردگار ہی کی طرف تم سب کو لوٹنا ہے۔ اس وقت وہ تمہیں وہ ساری باتیں بتائے گا جن میں تم اختلاف کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

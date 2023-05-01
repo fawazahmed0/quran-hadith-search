@@ -3224,6 +3224,12 @@ momin mard wa aurath aapas mein ek dosre ke (madadgar wa ma’awin aur)dosth hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اہلِ ایمان مرد اور اہلِ ایمان عورتیں ایک دوسرے کے رفیق و مددگار ہیں۔ وہ اچھی باتوں کا حکم دیتے ہیں اور بری باتوں سے روکتے ہیں اور نماز قائم رکھتے ہیں اور زکوٰۃ ادا کرتے ہیں اور اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت بجا لاتے ہیں، ان ہی لوگوں پر اللہ عنقریب رحم فرمائے گا، بیشک اللہ بڑا غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مومن مرد اور مومن عورتیں آپس میں ایک دوسرے کے مددگار ہیں۔ وہ نیکی کی تلقین کرتے ہیں اور برائی سے روکتے ہیں، اور نماز قائم کرتے ہیں اور زکوٰۃ ادا کرتے ہیں، اور اللہ اور اس کے رسول کی فرمانبرداری کرتے ہیں۔ یہ ایسے لوگ ہیں جن کو اللہ اپنی رحمت سے نوازے گا۔ یقینا اللہ اقتدار کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

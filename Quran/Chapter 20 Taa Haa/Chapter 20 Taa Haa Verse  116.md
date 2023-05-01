@@ -3224,6 +3224,12 @@ aur jab hum ne farishto se kaha ke Aadam(as) ko sajda karo, to iblees ke siva sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کریں) جب ہم نے فرشتوں سے فرمایا: تم آدم (علیہ السلام) کو سجدہ کرو تو انہوں نے سجدہ کیا سوائے ابلیس کے، اس نے انکار کیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد کرو وہ وقت جب ہم نے فرشتوں سے کہا تھا کہ آدم کو سجدہ کرو، چنانچہ سب نے سجدہ کیا، البتہ ابلیس تھا جس نے انکار کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

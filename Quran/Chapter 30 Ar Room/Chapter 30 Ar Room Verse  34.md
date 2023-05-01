@@ -3224,6 +3224,12 @@ ta ke us cheez ki na shukri kare, jo hum ne unhe di hai, accha tum fayeda utha l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اس نعمت کی ناشکری کریں جو ہم نے انہیں عطا کی ہے پس تم (چند روزہ زندگی کے) فائدے اٹھا لو، پھر عنقریب تم (اپنے انجام کو) جان لو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ ہم نے انہیں جو کچھ دیا تھا اس کی ناشکری کریں۔ اچھا ! کچھ مزے اڑا لو، پھر وہ وقت دور نہیں جب تمہیں سب پتہ چل جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

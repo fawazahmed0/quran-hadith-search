@@ -3224,6 +3224,12 @@ aur agar aap un se daryaafth kare ke zameen wa asmaan ka qaaliq aur suraj chaand
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ اِن (کفّار) سے پوچھیں کہ آسمانوں اور زمین کو کس نے پیدا کیا اور سورج اور چاند کو کس نے تابع فرمان بنا دیا، تو وہ ضرور کہہ دیں گے: اللہ نے، پھر وہ کدھر الٹے جا رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم ان سے پوچھو کہ : کون ہے جس نے آسمانوں اور زمین کو پیدا کیا، اور سورج اور چاند کو کام پر لگایا ؟ تو وہ ضرور یہ کہیں گے کہ : اللہ ! پھر آخر یہ لوگ کہاں سے اوندھے چل پڑتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wo log, ke jab un se logo ne kaha ke kaafiro ne tumhaare muqaable par lashkar ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) وہ لوگ (ہیں) جن سے لوگوں نے کہا کہ مخالف لوگ تمہارے مقابلے کے لئے (بڑی کثرت سے) جمع ہو چکے ہیں سو ان سے ڈرو، تو (اس بات نے) ان کے ایمان کو اور بڑھا دیا اور وہ کہنے لگے: ہمیں اللہ کافی ہے اور وہ کیا اچھا کارساز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ لوگ جن سے کہنے والوں نے کہا تھا : یہ (مکہ کے کافر) لوگ تمہارے (مقابلے) کے لیے (پھر سے) جمع ہوگئے ہیں، لہذا ان سے ڈرتے رہنا، تو اس (خبر) نے ان کے ایمان میں اور اضافہ کردیا اور وہ بول اٹھے کہ : ہمارے لیے اللہ کافی ہے اور وہ بہترین کارساز ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

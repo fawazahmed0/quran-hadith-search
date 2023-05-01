@@ -3224,6 +3224,12 @@ tumhaari aurto mein se jo aurte haiz se na ummidh ho gayi ho, agar tumhe shuba h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہاری عورتوں میں سے جو حیض سے مایوس ہو چکی ہوں اگر تمہیں شک ہو (کہ اُن کی عدّت کیا ہوگی) تو اُن کی عدّت تین مہینے ہے اور وہ عورتیں جنہیں (ابھی) حیض نہیں آیا (ان کی بھی یہی عدّت ہے)، اور حاملہ عورتیں (تو) اُن کی عدّت اُن کا وضعِ حمل ہے، اور جو شخص اللہ سے ڈرتا ہے (تو) وہ اس کے کام میں آسانی فرما دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہاری عورتوں میں سے جو ماہواری آنے سے مایوس ہوچکی ہوں اگر تمہیں (ان کی عدت کے بارے میں) شک ہو تو (یاد رکھو کہ) ان کی عدت تین مہینے ہے، اور ان عورتوں کی (عدت) بھی (یہی ہے) جنہیں ابھی ماہواری آئی ہی نہیں، اور جو عورتیں حاملہ ہوں، ان کی (عدت کی) میعاد یہ ہے کہ وہ اپنے پیٹ کا بچہ جن لیں۔ اور جو کوئی اللہ سے ڈرے گا، اللہ اس کے کام میں آسانی پیدا کردے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

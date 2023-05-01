@@ -3224,6 +3224,12 @@ wo Allah hai jis ne tumhaare liye, kaan aur aankhe aur dil paida kiye, magar tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جو تمہارے لئے کان اور آنکھیں اور دل (و دماغ) رفتہ رفتہ وجود میں لایا، (مگر) تم لوگ بہت ہی کم شکر ادا کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ ہی تو ہے جس نے تمہارے لیے کان اور آنکھیں اور دل پیدا کیے۔ (مگر) تم لوگ بہت کم شکر ادا کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un ke sine jo kuch chupaate aur jo kuch zaaher karte hai, aap ka rab sab kuch ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کا رب ان (تمام باتوں) کو جانتا ہے جو ان کے سینے (اپنے اندر) چھپائے ہوئے ہیں اور جو کچھ وہ آشکار کرتے ہیں۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارا پروردگار ان باتوں کو بھی جانتا ہے جو ان کے سینے چھپائے ہوئے ہیں، اور ان باتوں کو بھی جو یہ کھلم کھلا کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

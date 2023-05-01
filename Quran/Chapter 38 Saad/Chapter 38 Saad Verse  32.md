@@ -3224,6 +3224,12 @@ to kehne lage main ne apne parvardigaar ki yaad par in ghudo ki muhabbath ko tar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو انہوں نے (اِنابۃً) کہا: میں مال (یعنی گھوڑوں) کی محبت کو اپنے رب کے ذکر سے بھی (زیادہ) پسند کر بیٹھا ہوں یہاں تک کہ (سورج رات کے) پردے میں چھپ گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو انہوں نے کہا : میں نے اس دولت کی محبت اپنے پروردگار کی یاد ہی کی وجہ سے اختیار کی ہے۔ یہاں تک کہ وہ اوٹ میں چھپ گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

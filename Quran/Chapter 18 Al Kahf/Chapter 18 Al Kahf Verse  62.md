@@ -3224,6 +3224,12 @@ jab ye duno wahaa se aage bade to Mosa(alaihissalaam) ne apne nau jawaan se kaha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ دونوں آگے بڑھ گئے (تو) موسٰی (علیہ السلام) نے اپنے خادم سے کہا: ہمارا کھانا ہمارے پاس لاؤ بیشک ہم نے اپنے اس سفر میں بڑی مشقت کا سامنا کیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب دونوں آگے نکل گئے، تو موسیٰ نے اپنے نوجوان سے کہا کہ : ہمارا ناشتہ لاؤ، سچی بات یہ ہے کہ ہمیں اس سفر میں بڑی تھکاوٹ لاحق ہوگئی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

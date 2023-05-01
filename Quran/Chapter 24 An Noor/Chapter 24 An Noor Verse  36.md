@@ -3224,6 +3224,12 @@ un gharo mein jin ke bulandh karne aur jin mein apne naam ki yaad ka Allah ta’
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اللہ کا یہ نور) ایسے گھروں (مساجد اور مراکز) میں (میسر آتا ہے) جن (کی قدر و منزلت) کے بلند کئے جانے اور جن میں اللہ کے نام کا ذکر کئے جانے کا حکم اللہ نے دیا ہے (یہ وہ گھر ہیں کہ اللہ والے) ان میں صبح و شام اس کی تسبیح کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن گھروں کے بارے میں اللہ نے یہ حکم دیا ہے کہ ان کو بلند مقام دیا جائے اور ان میں اس کا نام لے کر ذکر کیا جائے، ان میں صبح و شام وہ لوگ تسبیح کرتے ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

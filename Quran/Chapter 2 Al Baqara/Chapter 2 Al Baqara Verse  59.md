@@ -3224,6 +3224,12 @@ phir un zaalimo ne us baath ko jo un se kahi gayi thi badal daali, hum ne bhi un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (ان) ظالموں نے اس قول کو جو ان سے کہا گیا تھا ایک اور کلمہ سے بدل ڈالا سو ہم نے (ان) ظالموں پر آسمان سے (بصورتِ طاعون) سخت آفت اتار دی اس وجہ سے کہ وہ (مسلسل) حکم عدولی کر رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مگر ہوا یہ کہ جو بات ان سے کہی گئی تھی ظالموں نے اسے بدل کر ایک اور بات بنالی نتیجہ یہ کہ جو نافرمانیاں وہ کرتے آرہے تھے ہم نے ان کی سزا میں ان ظالموں پر آسمان سے عذاب نازل کیا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

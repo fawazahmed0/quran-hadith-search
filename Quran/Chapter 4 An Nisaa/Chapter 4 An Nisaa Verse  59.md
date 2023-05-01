@@ -3224,6 +3224,12 @@ aye imaan waalo farma-bardaari karo Allah ta’ala ki aur farma-bardaari karo ra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اللہ کی اطاعت کرو اور رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرو اوراپنے میں سے (اہلِ حق) صاحبانِ اَمر کی، پھر اگر کسی مسئلہ میں تم باہم اختلاف کرو تو اسے (حتمی فیصلہ کے لئے) اللہ اور رسول (صلی اللہ علیہ وآلہ وسلم) کی طرف لوٹا دو اگر تم اللہ پر اور یومِ آخرت پر ایمان رکھتے ہو، (تو) یہی (تمہارے حق میں) بہتر اور انجام کے لحاظ سے بہت اچھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ کی اطاعت کرو اور اس کے رسول کی بھی اطاعت کرو اور تم میں سے جو لوگ صاحب اختیار ہوں ان کی بھی۔ پھر اگر تمہارے درمیان کسی چیز میں اختلاف ہوجائے تو اگر واقعی تم اللہ اور یوم آخرت پر ایمان رکھتے ہو تو اسے اللہ اور رسول کے حوالے کردو۔ یہی طریقہ بہترین ہے اور اس کا انجام بھی سب سے بہتر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jo koyi kisi momin ko qasdan qatl kar daale us ki saza dozakh hai jis mein w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص کسی مسلمان کو قصداً قتل کرے تو اس کی سزا دوزخ ہے کہ مدتوں اس میں رہے گا اور اس پر اللہ غضبناک ہوگا اور اس پر لعنت کرے گا اور اس نے اس کے لئے زبردست عذاب تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص کسی مسلمان کو جان بوجھ کر قتل کرے تو اس کی سزا جہنم ہے جس میں وہ ہمیشہ رہے گا اور اللہ اس پر غضب نازل کرے گا اور لعنت بھیجے گا، اور اللہ نے اس کے لیے زبردست عذاب تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

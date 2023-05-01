@@ -3224,6 +3224,12 @@ jis ke liye asmaan wa zameen ka milk(milkiyath) hai aur Allah ta’ala ke saamne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس کے لئے آسمانوں اور زمین کی (ساری) بادشاہت ہے، اور اللہ ہر چیز پر گواہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس کے قبضے میں سارے آسمانوں اور زمین کی سلطنت ہے۔ اور اللہ ہر چیز کو دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

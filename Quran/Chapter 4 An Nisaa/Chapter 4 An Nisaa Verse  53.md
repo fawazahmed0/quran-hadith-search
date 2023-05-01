@@ -3224,6 +3224,12 @@ kya un ka koyi hissa saltanath mein hai? agar aisa ho to phir ye kisi ko ek khaj
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ان کا سلطنت میں کچھ حصہ ہے؟ اگر ایسا ہو تو یہ (اپنے بخل کے باعث) لوگوں کو تِل برابر بھی (کوئی چیز) نہیں دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو کیا ان کو (کائنات کی) بادشاہی کا کچھ حصہ ملا ہوا ہے ؟ اگر ایسا ہوتا تو یہ لوگوں کو گٹھلی کے شگاف کے برابر بھی کچھ نہ دیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

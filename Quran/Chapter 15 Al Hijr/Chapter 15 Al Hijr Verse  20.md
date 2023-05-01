@@ -3224,6 +3224,12 @@ aur osi mein hum ne tumhari roziya banadi hai aur jinhe tum rozi dene wale nahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اس میں تمہارے لئے اسبابِ معیشت پیدا کئے اور ان (انسانوں، جانوروں اور پرندوں) کے لئے بھی جنہیں تم رزق مہیا نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس میں تمہارے لیے بھی روزی کے سامان پیدا کیے ہیں اور ان (مخلوقات) کے لیے بھی جنہیں تم رزق نہیں دیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

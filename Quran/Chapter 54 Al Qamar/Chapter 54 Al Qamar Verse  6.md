@@ -3224,6 +3224,12 @@ pas (aye Nabi) tum un se eraaz karo, jis din ek pukaarne waala na gawaar cheez k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ اُن سے منہ پھیر لیں، جس دن بلانے والا (فرشتہ) ایک نہایت ناگوار چیز (میدانِ حشر) کی طرف بلائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) تم بھی ان کی پرواہ مت کرو۔ جس دن پکارنے والا ایک ناگوار چیز کی طرف بلائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

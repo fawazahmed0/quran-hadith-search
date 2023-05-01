@@ -3224,6 +3224,12 @@ aur khud tumhaari paydayish mein aur un jaanwaro ki paydayish mein jinhe wo phai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہاری (اپنی) پیدائش میں اور اُن جانوروں میں جنہیں وہ پھیلاتا ہے، یقین رکھنے والے لوگوں کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور خود تمہاری پیدائش میں، اور ان جانوروں میں جو اس نے (زمین میں) پھیلا رکھے ہیں، ان لوگوں کے لیے بڑی نشانیاں ہیں جو یقین کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

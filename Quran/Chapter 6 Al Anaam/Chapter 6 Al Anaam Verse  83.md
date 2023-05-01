@@ -3224,6 +3224,12 @@ aur ye hamaari hujjath thi wo hum ne Ibraheem ko un ki khaum ke muqaable mein di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہی ہماری (توحید کی) دلیل تھی جو ہم نے ابراہیم (علیہ السلام) کو ان کی (مخالف) قوم کے مقابلہ میں دی تھی۔ ہم جس کے چاہتے ہیں درجات بلند کر دیتے ہیں۔ بیشک آپ کا رب بڑی حکمت والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ہماری وہ کامیاب دلیل تھی جو ہم نے ابراہیم کو ان کی قوم کے مقابلے میں عطا کی تھی۔ ہم جس کے چاہتے ہیں درجے بلند کردیتے ہیں۔ بیشک تمہارے رب کی حکمت بھی بڑی ہے، علم بھی کامل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

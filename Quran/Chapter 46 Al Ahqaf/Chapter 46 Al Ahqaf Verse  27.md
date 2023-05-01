@@ -3224,6 +3224,12 @@ aur yaqinan hum ne tumhaare aas paas ki bastiyaa tabaah kardi aur tarah tarah ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے اہلِ مکہّ!) بیشک ہم نے کتنی ہی بستیوں کو ہلاک کر ڈالا جو تمہارے اردگرد تھیں اور ہم نے اپنی نشانیاں بار بار ظاہر کیں تاکہ وہ (کفر سے) رجوع کر لیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اور بستیوں کو بھی ہلاک کیا ہے جو تمہارے اردگرد واقع تھیں، جبکہ ہم طرح طرح کی نشانیاں (ان کے) سامنے لاچکے تھے، تاکہ وہ باز آجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

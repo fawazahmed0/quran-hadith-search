@@ -3224,6 +3224,12 @@ asmaano aur zameen ki paidayish, raath din ka her pher, kashtiyo ka logo ko nafa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک آسمانوں اور زمین کی تخلیق میں اور رات دن کی گردش میں اور ان جہازوں (اور کشتیوں) میں جو سمندر میں لوگوں کو نفع پہنچانے والی چیزیں اٹھا کر چلتی ہیں اور اس (بارش) کے پانی میں جسے اللہ آسمان کی طرف سے اتارتا ہے پھر اس کے ذریعے زمین کو مُردہ ہو جانے کے بعد زندہ کرتا ہے (وہ زمین) جس میں اس نے ہر قسم کے جانور پھیلا دیئے ہیں اور ہواؤں کے رُخ بدلنے میں اور اس بادل میں جو آسمان اور زمین کے درمیان (حکمِ الٰہی کا) پابند (ہو کر چلتا) ہے (ان میں) عقلمندوں کے لئے (قدرتِ الٰہی کی بہت سی) نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک آسمان اور زمین کی تخلیق میں رات دن کے لگاتار آنے جانے میں اور ان کشتیوں میں جو لوگوں کے فائدے کا سامان لیکر سمندر میں تیرتی ہیں اس پانی میں جو اللہ نے آسمان سے اتارا اور اس کے ذریعے زمین کو اس کے مردہ ہوجانے کے بعد زندگی بخشی اور اس میں ہر قسم کے جانور پھیلا دیئے، اور ہواؤں کی گردش میں اور ان بادلوں میں جو آسمان اور زمین کے درمیان تابع دار بن کر کام میں لگے ہوئے ہیں، ان لوگوں کے لیے نشانیاں ہی نشانیاں ہیں جو اپنی عقل سے کام لیتے ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

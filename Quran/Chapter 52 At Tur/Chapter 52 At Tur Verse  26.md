@@ -3224,6 +3224,12 @@ kahenge ke is se pehle hum ne apne ghar waalo ke darmiyaan bahuth dara karte the
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہیں گے: بیشک ہم اس سے پہلے اپنے گھروں میں (عذابِ الٰہی سے) ڈرتے رہتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہیں گے کہ : ہم پہلے جب اپنے گھر والوں (یعنی دنیا) میں تھے تو ڈرے سہمے رہتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

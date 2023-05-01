@@ -3224,6 +3224,12 @@ ye is liye qasme khaenge ke tum un se raazi ho jao,so agar tum un se raazi bhi h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ تمہارے لئے قَسمیں کھاتے ہیں تاکہ تم ان سے راضی ہو جاؤ، سو (اے مسلمانو!) اگرتم ان سے راضی بھی ہوجاؤ تو (بھی) اللہ نافرمان قو م سے راضی نہیں ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ تمہارے سامنے اس لیے قسمیں کھائیں گے تاکہ تم ان سے راضی ہوجاؤ، حالانکہ اگر تم ان سے راضی ہو بھی گئے تو اللہ تو ایسے نافرمان لوگوں سے راضی نہیں ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

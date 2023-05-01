@@ -3224,6 +3224,12 @@ asal baath yahi hai ke tum sab ka maboodh barhaq sirf Allah hee hai, us ke siva 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(لوگو!) تمہارا معبود صرف (وہی) اللہ ہے جس کے سوا کوئی معبود نہیں، وہ ہر چیز کو (اپنے) علم کے احاطہ میں لئے ہوئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت میں تم سب کا معبود تو بس ایک ہی اللہ ہے، جس کے سوا کوئی معبود نہیں ہے۔ اس کا علم ہر چیز کا احاطہ کیے ہوئے ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

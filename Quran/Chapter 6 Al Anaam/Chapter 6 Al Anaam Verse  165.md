@@ -3224,6 +3224,12 @@ aur wo aisa hai jis ne tum ko zameen mein qalifa banaaya aur ek dosre par rutba 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے تم کو زمین میں نائب بنایا اور تم میں سے بعض کو بعض پر درجات میں بلند کیا تاکہ وہ ان (چیزوں) میں تمہیں آزمائے جو اس نے تمہیں (امانتاً) عطا کر رکھی ہیں۔ بیشک آپ کا رب (عذاب کے حق داروں کو) جلد سزا دینے والا ہے اور بیشک وہ (مغفرت کے امیدواروں کو) بڑا بخشنے والا اور بے حد رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جس نے تمہیں زمین میں ایک دوسرے کا جانشین بنایا، اور تم میں سے کچھ لوگوں کو دوسروں سے درجات میں بلندی عطا کی، تاکہ اس نے تمہیں جو نعمتیں دی ہیں ان میں تمہیں آزمائے۔ یہ حقیقت ہے کہ تمہارا رب جلد سزا دینے والا ہے، اور یہ (بھی) حقیقت ہے کہ وہ بہت بخشنے والا بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

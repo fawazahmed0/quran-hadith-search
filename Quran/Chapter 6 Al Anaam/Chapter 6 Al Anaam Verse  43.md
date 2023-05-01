@@ -3224,6 +3224,12 @@ so jab un ko hamaari saza pahonchi thi to unhone aajzi kyo nahi eqtiyaar ki? lek
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ان تک ہمارا عذاب آپہنچا تو انہوں نے عاجزی و زاری کیوں نہ کی؟ لیکن (حقیقت یہ ہے کہ) ان کے دل سخت ہوگئے تھے اور شیطان نے ان کے لئے وہ (گناہ) آراستہ کر دکھائے تھے جو وہ کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ایسا کیوں نہ ہوا کہ جب ان کے پاس ہماری طرف سے سختی آئی تھی، اس وقت وہ عاجزی کا رویہ اختیار کرتے ؟ بلکہ ان کے دل تو اور سخت ہوگئے اور جو کچھ وہ کر رہے تھے، شیطان نے انہیں یہ سجھایا کہ وہی بڑے شاندار کام ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

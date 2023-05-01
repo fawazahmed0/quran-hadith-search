@@ -3224,6 +3224,12 @@ un ke libaas ghandhak ke honge aur aag un ke chehro par bhi chadi hoyi hogi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے لباس گندھک (یا ایسے روغن) کے ہوں گے (جو آگ کو خوب بھڑکاتا ہے) اور ان کے چہروں کو آگ ڈھانپ رہی ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے قمیص تارکول کے ہوں گے، اور آگ ان کے چہروں پر چھائی ہوئی ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

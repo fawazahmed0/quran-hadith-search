@@ -3224,6 +3224,12 @@ aur agar tum aurto ko isse pehle talaaq dedo ke tum ne unhe haath lagaaya ho aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم نے انہیں چھونے سے پہلے طلاق دے دی درآنحالیکہ تم ان کا مَہر مقرر کر چکے تھے تو اس مَہر کا جو تم نے مقرر کیا تھا نصف دینا ضروری ہے سوائے اس کے کہ وہ (اپنا حق) خود معاف کر دیں یا وہ (شوہر) جس کے ہاتھ میں نکاح کی گرہ ہے معاف کردے (یعنی بجائے نصف کے زیادہ یا پورا ادا کردے)، اور (اے مَردو!) اگر تم معاف کر دو تو یہ تقویٰ کے قریب تر ہے، اور (کشیدگی کے ان لمحات میں بھی) آپس میں احسان کرنا نہ بھولا کرو، بیشک اللہ تمہارے اعمال کو خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم نے انہیں چھونے سے پہلے ہی اس حالت میں طلاق دی ہو جبکہ ان کے لیے (نکاح کے وقت) کوئی مہر مقرر کرلیا تھا تو جتنا مہر تم نے مقرر کیا تھا اس کا آدھا دینا (واجب ہے) الا یہ کہ وہ عورتیں رعایت کردیں (اور آدھے مہر کا بھی مطالبہ نہ کریں) یا وہ (شوہر) جس کے ہاتھ میں نکاح کی گرہ ہے، رعایت کرے ا (اور پورا مہر دیدے) اور اگر تم رعایت کرو تو یہ تقوی کے زیادہ قریب ہے، اور آپس میں فراخ دلی کا برتاؤ کرنا مت بھولو۔ جو عمل بھی تم کرتے ہو، اللہ یقینا اسے دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

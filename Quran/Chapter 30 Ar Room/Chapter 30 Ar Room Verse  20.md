@@ -3224,6 +3224,12 @@ Allah ki nishaaniyo mein se hai ke us ne tum ko mitthi se paida kiya, phir ab in
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ اس کی نشانیوں میں سے ہے کہ اس نے تمہیں مٹی سے پیدا کیا پھر اب تم انسان ہو جو (زمین میں) پھیلے ہوئے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کی (قدرت کی) ایک نشانی یہ ہے کہ اس نے تم کو مٹی سے پیدا کیا، پھر تم دیکھتے ہی دیکھتے انسان بن کر (زمین میں) پھیلے پڑے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

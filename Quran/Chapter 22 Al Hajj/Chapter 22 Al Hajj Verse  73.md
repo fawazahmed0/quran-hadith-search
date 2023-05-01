@@ -3224,6 +3224,12 @@ logo! ek misaal bayaan ki ja rahi hai, zara kaan laga kar sun lo, Allah ke siva 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! ایک مثال بیان کی جاتی ہے سو اسے غور سے سنو: بیشک جن (بتوں) کو تم اللہ کے سوا پوجتے ہو وہ ہرگز ایک مکھی (بھی) پیدا نہیں کرسکتے اگرچہ وہ سب اس (کام) کے لئے جمع ہو جائیں، اور اگر ان سے مکھی کوئی چیز چھین کر لے جائے (تو) وہ اس چیز کو اس (مکھی) سے چھڑا (بھی) نہیں سکتے، کتنا بے بس ہے طالب (عابد) بھی اور مطلوب (معبود) بھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگو ! ایک مثال بیان کی جارہی ہے اب اسے کان لگا کر سنو ! تم لوگ اللہ کو چھوڑ کر جن جن کو دعا کے لیے پکارتے ہو وہ ایک مکھی بھی پیدا نہیں کرسکتے، چاہے اس کام کے لیے سب کے سب اکٹھے ہوجائیں، اور اگر مکھی ان سے کوئی چیز چھین کرلے جائے تو وہ اس سے چھڑا بھی نہیں سکتے۔ ایسا دعا مانگنے والا بھی بودا اور جس سے دعا مانگی جارہی ہے وہ بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

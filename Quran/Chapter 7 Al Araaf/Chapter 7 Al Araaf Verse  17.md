@@ -3224,6 +3224,12 @@ phir un par hamla karonga un ke aage se bhi un ke piche se bhi aur un ki dahni j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر میں ان پر (چاروں طرف سے) حملے کروں گا، ان کے سامنے سے بھی اور ان کے پیچھے سے بھی، اور ان کی دائیں طرف سے بھی، اور ان کی بائیں طرف سے بھی۔ اور تو ان میں سے اکثر لوگوں کو شکر گزار نہیں پائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

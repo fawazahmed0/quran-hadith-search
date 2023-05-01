@@ -3224,6 +3224,12 @@ Inke dilon mein Allah se badh kar tumhara khauf hai, isliye ke yeh aisey log hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) بیشک اُن کے دلوں میں اللہ سے (بھی) زیادہ تمہارا رعب اور خوف ہے، یہ اس وجہ سے کہ وہ ایسے لوگ ہیں جو سمجھ ہی نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) حقیقت یہ ہے کہ ان کے دلوں میں تمہاری دہشت اللہ سے زیادہ ہے۔ یہ اس لیے کہ یہ وہ لوگ ہیں جنہیں سمجھ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

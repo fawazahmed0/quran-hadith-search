@@ -3224,6 +3224,12 @@ unhone apni rassiya aur laathiyaa daal di, aur kehne lage izzate feraun ki qasam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو انہوں نے اپنی رسیاں اور اپنی لاٹھیاں ڈال دیں اور کہنے لگے: فرعون کی عزت کی قسم! ہم ضرور غالب ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر ان جادوگروں نے اپنی رسیاں اور لاٹھیاں زمین پر ڈال دیں اور کہا کہ : فرعون کی عزت کی قسم ! ہم ہی غالب آئیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

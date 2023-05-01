@@ -3224,6 +3224,12 @@ wo bola ke main aisa nahi ke is insaan ko sajda karo jise tu ne kaali aur sadi h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ابلیس نے) کہا: میں ہر گز ایسا نہیں (ہو سکتا) کہ بشر کو سجدہ کروں جسے تو نے سِن رسیدہ (اور) سیاہ بودار، بجنے والے گارے سے تخلیق کیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے کہا : میں ایسا (گرا ہوا) نہیں ہوں کہ ایک ایسے بشر کو سجدہ کروں جسے تو نے سڑے ہوئے گارے کی کھنکھناتی ہوئی مٹی سے پیدا کیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

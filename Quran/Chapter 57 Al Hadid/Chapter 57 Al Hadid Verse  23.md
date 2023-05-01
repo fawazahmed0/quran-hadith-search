@@ -3224,6 +3224,12 @@ ta ke tum apne se fauth shuda kisi cheez par ranjida na ho jaya karo aur na ataa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ تم اس چیز پر غم نہ کرو جو تمہارے ہاتھ سے جاتی رہی اور اس چیز پر نہ اِتراؤ جو اس نے تمہیں عطا کی، اور اللہ کسی تکبّر کرنے والے، فخر کرنے والے کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس لیے تاکہ جو چیز تم سے جاتی رہے، اس پر تم غم میں نہ پڑو، اور جو چیز اللہ تمہیں عطا فرمادے، اس پر تم اتراؤ نہیں، اور اللہ کسی ایسے شخص کو پسند نہیں کرتا جو اتراہٹ میں مبتلا ہو، شیخی بگھارنے والا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

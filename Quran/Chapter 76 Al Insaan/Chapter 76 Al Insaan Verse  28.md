@@ -3224,6 +3224,12 @@ hum ne unhe payda kiya aur hum ne hee un ke jod aur bhandan mazbooth kiye aur hu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ نہیں سوچتے کہ) ہم ہی نے انہیں پیدا فرمایا ہے اور ان کے جوڑ جوڑ کو مضبوط بنایا ہے، اور ہم جب چاہیں (انہیں) انہی جیسے لوگوں سے بدل ڈالیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ہی انہیں پیدا کیا ہے اور ان کے جوڑ بند مضبوط کیے ہیں، اور ہم جب چاہیں ان کے بدلے ان جیسے دوسرے پیدا کردیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne un ke kuch hum nasheen muqarrar kar rakhe thein, jinhone un ke agle p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اُن کے لئے ساتھ رہنے والے (شیاطین) مقرر کر دیئے، سو انہوں نے اُن کے لئے وہ (تمام برے اعمال) خوش نما کر دکھائے جو اُن کے آگے تھے اور اُن کے پیچھے تھے اور اُن پر (وہی) فرمانِ عذاب ثابت ہوگیا جو اُن امتوں کے بارے میں صادر ہوچکا تھا جو جنّات اور انسانوں میں سے اُن سے پہلے گزر چکی تھیں۔ بے شک وہ نقصان اٹھانے والے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے (دنیا میں) ان پر کچھ ساتھی مسلط کردئیے تھے جنہوں نے ان کے آگے پیچھے کے سارے کاموں کو خوشنما بنادیا تھا چنانچہ جو دوسرے جنات اور انسان ان سے پہلے گذر چکے ہیں ان کے ساتھ مل کر عذاب کی بات ان پر بھی سچی ہوئی۔ یقینا وہ سب خسارہ اٹھانے والوں میں سے ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

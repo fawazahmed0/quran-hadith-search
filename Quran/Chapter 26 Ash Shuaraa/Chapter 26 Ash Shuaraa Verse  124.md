@@ -3224,6 +3224,12 @@ jab ke un se un ke bhai hoodh ne kaha ke kya tum darte nahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب اُن سے اُن کے (قومی) بھائی ھود (علیہ السلام) نے فرمایا: کیا تم (اللہ سے) ڈرتے نہیں ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جبکہ ان کے بھائی ہود نے ان سے کہا کہ : کیا تم اللہ سے ڈرتے نہیں ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

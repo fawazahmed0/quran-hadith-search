@@ -3224,6 +3224,12 @@ dunya mein bhi un ke piche laanath laga di gayi aur qayamath ke din bhi, dekhlo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس دنیا میں (بھی) ان کے پیچھے لعنت لگا دی گئی اور قیامت کے دن (بھی لگے گی)۔ یاد رکھو کہ (قومِ) عاد نے اپنے رب کے ساتھ کفر کیا تھا۔ خبردار! ہود (علیہ السلام) کی قومِ عاد کے لئے (رحمت سے) دوری ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس کا نتیجہ یہ ہوا کہ) اس دنیا میں بھی پھٹکار ان کے پیچھے لگا دی گئی، اور قیامت کے دن بھی۔ یاد رکھو کہ قوم عاد نے اپنے رب کے ساتھ کفر کا معاملہ کیا تھا۔ یا درکھو کہ بربادی عاد ہی کی ہوئی، جو ہود کی قوم تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

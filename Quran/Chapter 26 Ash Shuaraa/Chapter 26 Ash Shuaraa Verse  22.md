@@ -3224,6 +3224,12 @@ mujh par tera kya yahi wo ehsaan hai? jise tu jata raha hai, ke tu ne bani israe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا وہ (کوئی) بھلائی ہے جس کا تو مجھ پر احسان جتا رہا ہے (اس کا سبب بھی یہ تھا) کہ تو نے (میری پوری قوم) بنی اسرائیل کو غلام بنا رکھا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ احسان جو تم مجھ پر رکھ رہے ہو (اس کی حقیقت) یہ ہے کہ تم نے سارے بنو اسرائیل کو غلام بنا رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

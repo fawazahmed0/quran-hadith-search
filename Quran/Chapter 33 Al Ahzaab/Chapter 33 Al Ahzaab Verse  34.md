@@ -3224,6 +3224,12 @@ aur tumhaare gharo mein Allah ki jo aayate aur rasool(sallallahu alaihi wasallam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اللہ کی آیتوں کو اور (رسول صلی اللہ علیہ وآلہ وسلم کی) سنت و حکمت کو جن کی تمہارے گھروں میں تلاوت کی جاتی ہے یاد رکھا کرو، بیشک اللہ (اپنے اولیاء کے لئے) صاحبِ لُطف (اور ساری مخلوق کے لئے) خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے گھروں میں اللہ کی جو آیتیں اور حکمت کی جو باتیں سنائی جاتی ہیں ان کو یاد رکھو۔ یقین جانو اللہ بہت باریک بین اور ہر بات سے باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

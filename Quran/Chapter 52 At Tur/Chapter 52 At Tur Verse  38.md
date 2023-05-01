@@ -3224,6 +3224,12 @@ ya kya un ke paas koyi sidi hai jis par chad kar sunte hai? (agar aisa hai) to u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا اُن کے پاس کوئی سیڑھی ہے (جس پر چڑھ کر) وہ اُس (آسمان) میں کان لگا کر باتیں سن لیتے ہیں؟ سو جو اُن میں سے سننے والا ہے اُسے چاہئے کہ روشن دلیل لائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا ان کے لئے کوئی سیڑھی ہے جس پر چڑھ کر یہ (عالم بالا کی باتیں) سن لیتے ہیں۔ اگر ایسا ہے تو ان میں سے جو سنتا ہو وہ کوئی واضح ثبوت تو لائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

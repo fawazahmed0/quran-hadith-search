@@ -3224,6 +3224,12 @@ kya unhe ye kaafi nahi? ke hum ne aap par kitaab naazil farma di jo un par padi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ان کے لئے یہ (نشانی) کافی نہیں ہے کہ ہم نے آپ پر (وہ) کتاب نازل فرمائی ہے جو ان پر پڑھی جاتی ہے (یا ہمیشہ پڑھی جاتی رہے گی)، بیشک اس (کتاب) میں رحمت اور نصیحت ہے ان لوگوں کے لئے جو ایمان رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان کے لیے یہ (نشانی) کافی نہیں ہے کہ ہم نے تم پر کتاب اتاری ہے جو ان کو پڑھ کر سنائی جارہی ہے ؟ یقینا اس میں ان لوگوں کے لیے بڑی رحمت اور نصیحت ہے جو ماننے والے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

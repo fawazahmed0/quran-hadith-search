@@ -3224,6 +3224,12 @@ jab ke tum chade, chale jaa rahe thein aur kisi ki taraf tawajjeh tak nahi karte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب تم (افراتفری کی حالت میں) بھاگے جا رہے تھے اور کسی کو مڑ کر نہیں دیکھتے تھے اور رسول (صلی اللہ علیہ وآلہ وسلم) اس جماعت میں (کھڑے) جو تمہارے پیچھے (ثابت قدم) رہی تھی تمہیں پکار رہے تھے پھر اس نے تمہیں غم پر غم دیا (یہ نصیحت و تربیت تھی) تاکہ تم اس پر جو تمہارے ہاتھ سے جاتا رہا اور اس مصیبت پر جو تم پر آن پڑی رنج نہ کرو، اور اللہ تمہارے کاموں سے خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (وہ وقت یاد کرو) جب تم منہ اٹھائے چلے جارہے تھے اور کسی کو مڑ کر نہیں دیکھتے تھے، اور رسول تمہارے پیچھے سے تمہیں پکار رہے تھے، چنانچہ اللہ نے تمہیں (رسول کو) غم (دینے) کے بدلے (شکست کا) غم دیا، تاکہ آئندہ تم زیادہ صدمہ نہ کیا کرو، نہ اس چیز پر جو تمہارے ہاتھ سے جاتی رہے، اور نہ کسی اور مصیبت پر جو تمہیں پہنچ جائے۔ اور اللہ تمہارے تمام کاموں سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

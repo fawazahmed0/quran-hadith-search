@@ -3224,6 +3224,12 @@ wahi hai jis ne asmaano aur zameen ko che din mein payda kiya, phir arsh par mus
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جِس نے آسمانوں اور زمین کو چھ اَدوار میں پیدا فرمایا پھر کائنات کی مسند اقتدار پر (اپنی شان کے مطابق) جلوہ افروز ہوا (یعنی پوری کائنات کو اپنے امر کے ساتھ منظم فرمایا)، وہ جانتا ہے جو کچھ زمین میں داخل ہوتا ہے اور جو کچھ اس میں سے خارج ہوتا ہے اور جو کچھ آسمانی کرّوں سے اترتا (یا نکلتا) ہے یا جو کچھ ان میں چڑھتا (یا داخل ہوتا) ہے۔ وہ تمہارے ساتھ ہوتا ہے تم جہاں کہیں بھی ہو، اور اللہ جو کچھ تم کرتے ہو (اسے) خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے آسمانوں اور زمین کو چھ دن میں پیدا کیا، پھر عرش پر استوا فرمایا، وہ ہر اس چیز کو جانتا ہے جو زمین میں داخل ہوتی ہے اور جو اس سے نکلتی ہے اور ہر اس چیز کو جو آسمان سے اترتی ہے اور جو اس میں چڑھتی ہے اور تم جہاں کہیں ہو، وہ تمہارے ساتھ ہے۔ اور جو کام بھی تم کرتے ہو اللہ اس کو دیکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

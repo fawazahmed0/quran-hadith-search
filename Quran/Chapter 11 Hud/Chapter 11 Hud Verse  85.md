@@ -3224,6 +3224,12 @@ aye meri qaum! naap tool insaaf ke saath pori pori karo, logo ko un ki cheeze ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اے میری قوم! تم ناپ اور تول انصاف کے ساتھ پورے کیا کرو اور لوگوں کو ان کی چیزیں گھٹا کر نہ دیا کرو اور فساد کرنے والے بن کر ملک میں تباہی مت مچاتے پھرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے میری قوم کے لوگو ! ناپ تول پوراپورا کیا کرو، اور لوگوں کو ان کی چیزیں گھٹا کر نہ دیا کرو۔ اور زمین میں فساد پھیلاتے مت پھرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

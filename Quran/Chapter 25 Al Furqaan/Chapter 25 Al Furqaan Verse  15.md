@@ -3224,6 +3224,12 @@ aap keh dijiye ke kya ye behtar hai ya wo hameshgi waali jannath jis ka waada pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کیا یہ (حالت) بہتر ہے یا دائمی جنت (کی زندگی) جس کا پرہیزگاروں سے وعدہ کیا گیا ہے، یہ ان (کے اعمال) کی جزا اور ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ یہ انجام بہتر ہے یا ہمیشہ رہنے والی جنت، جس کا وعدہ متقی لوگوں سے کیا گیا ہے ؟ وہ ان کے لیے انعام ہوگی، اور ان کا آخری انجام
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

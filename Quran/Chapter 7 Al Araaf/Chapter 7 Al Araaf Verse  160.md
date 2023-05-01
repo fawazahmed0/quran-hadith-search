@@ -3224,6 +3224,12 @@ aur hum ne un ko baara khaandaano mein taqseem kar ke sab ki alag alag jamaath m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان کو (یعنی بنی اسرائیل کو) بارہ خاندانوں میں اس طرح تقسیم کردیا تھا کہ وہ الگ الگ (انتقامی) جماعتوں کی صورت اختیار کر گئے تھے۔ اور جب موسیٰ کی قوم نے ان سے پانی مانگا تو ہم نے ان کو وحی کے ذریعے حکم دیا کہ اپنی لاٹھی فلاں پتھر پر مارو۔ چنانچہ اس پتھر سے بارہ چشمے پھوٹ پڑے۔ ہر خاندان کو اپنی پانی پینے کی جگہ معلوم ہوگئی۔ اور ہم نے ان کو بادل کا سایہ دیا، اور ہم نے ان پر من وسلوی (یہ کہہ کر) اتارا کہ : کھاؤ وہ پاکیزہ رزق جو ہم نے تمہیں دیا ہے۔ اور (اس کے باوجود انہوں نے ناشکری کی تو) انہوں نے ہمارا کوئی نقصان نہیں کیا، بلکہ وہ خود اپنی جانوں پر ظلم کرتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

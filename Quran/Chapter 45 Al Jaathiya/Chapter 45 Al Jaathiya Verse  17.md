@@ -3224,6 +3224,12 @@ aur hum ne unhe deen ki saaf saaf dalile di, phir unhone apne paas ilm ke pahonc
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان کو دین (اور نبوّت) کے واضح دلائل اور نشانیاں دی ہیں مگر اس کے بعد کہ اُن کے پاس (بعثتِ محمدی صلی اللہ علیہ وآلہ وسلم کا) علم آچکا انہوں نے (اس سے) اختلاف کیا محض باہمی حسد و عداوت کے باعث، بیشک آپ کا رب اُن کے درمیان قیامت کے دن اس امر کا فیصلہ فرما دے گا جس میں وہ اختلاف کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہیں کھلے کھلے احکام دیے تھے، اس کے بعد ان میں جو اختلاف پیدا ہوا وہ ان کے پاس علم آجانے کے بعد ہی ہوا، صرف اس لیے کہ ان کو ایک دوسرے سے ضد ہوگئی تھی۔ یقینا تمہارا پروردگار ان کے درمیان قیامت کے دن ان باتوں کا فیصلہ کردے گا جن میں وہ اختلاف کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

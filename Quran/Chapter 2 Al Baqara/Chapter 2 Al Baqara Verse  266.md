@@ -3224,6 +3224,12 @@ kya tum mein se koyi bhi ye chaahta hai ke us ka khajuro aur anguro ka baagh ho 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم میں سے کوئی شخص یہ پسند کرے گا کہ اس کے پاس کھجوروں اور انگوروں کا ایک باغ ہو جس کے نیچے نہریں بہتی ہوں اس کے لئے اس میں (کھجوروں اور انگوروں کے علاوہ بھی) ہر قسم کے پھل ہوں اور (ایسے وقت میں) اسے بڑھاپا آپہنچے اور (ابھی) اس کی اولاد بھی ناتواں ہو اور (ایسے وقت میں) اس باغ پر ایک بگولا آجائے جس میں (نِری) آگ ہو اور وہ باغ جل جائے (تو اس کی محرومی اور پریشانی کا عالم کیا ہو گا)، اسی طرح اللہ تمہارے لئے نشانیاں واضح طور پر بیان فرماتا ہے تاکہ تم غور کرو (سو کیا تم چاہتے ہو کہ آخرت میں تمہارے اعمال کا باغ بھی ریاکاری کی آگ میں جل کر بھسم ہو جائے اور تمہیں سنبھالا دینے والا بھی کوئی نہ ہو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم میں سے کوئی یہ پسند کرے گا کہ اس کا کھجوروں اور انگوروں کا ایک باغ ہو جس کے نیچے نہریں بہتی ہوں (اور) اس کو اس باغ میں اور بھی ہر طرح کے پھل حاصل ہوں، اور بڑھاپے نے اسے آپکڑا ہو، اور اس کے بچے ابھی کمزور ہوں، اتنے میں ایک آگ سے بھرا بگولا آکر اس کو اپنی زد میں لے لے اور پورا باغ جل کر رہ جائے ؟ اسی طرح اللہ تمہارے لیے اپنی آیتیں کھول کھول کر بیان کرتا ہے تاکہ تم غور کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

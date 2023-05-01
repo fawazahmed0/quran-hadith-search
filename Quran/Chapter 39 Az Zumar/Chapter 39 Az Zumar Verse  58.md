@@ -3224,6 +3224,12 @@ ya azaab ko dekh kar kahe, kaash ke kisi tarah mera laut jaana hota, to main bhi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا عذاب دیکھتے وقت کہنے لگے کہ اگر ایک بار میرا دنیا میں لوٹنا ہو جائے تو میں نیکوکاروں میں سے ہو جاؤں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا جب عذاب آنکھوں سے دیکھ لے تو یہ کہے کہ : ” کاش مجھے ایک مرتبہ واپس جانے کا موقع مل جائے تو میں نیک لوگوں میں شامل ہوجاؤں ! “
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

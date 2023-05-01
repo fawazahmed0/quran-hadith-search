@@ -3224,6 +3224,12 @@ aur yateem ke maal ke paas na jaao magar aise tariqe se jo ke mus-tahsan hai yah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یتیم کے مال کے قریب مت جانا مگر ایسے طریق سے جو بہت ہی پسندیدہ ہو یہاں تک کہ وہ اپنی جوانی کو پہنچ جائے، اور پیمانے اور ترازو (یعنی ناپ اور تول) کو انصاف کے ساتھ پورا کیا کرو۔ ہم کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتے، اور جب تم (کسی کی نسبت کچھ) کہو تو عدل کرو اگرچہ وہ (تمہارا) قرابت دار ہی ہو، اور اللہ کے عہد کو پورا کیا کرو، یہی (باتیں) ہیں جن کا اس نے تمہیں تاکیدی حکم دیا ہے تاکہ تم نصیحت قبول کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یتیم جب تک پختگی کی عمر کو نہ پہنچ جائے، اس وقت تک اس کے مال کے قریب بھی نہ جاؤ، مگر ایسے طریقے سے جو (اس کے حق میں) بہترین ہو، اور ناپ تول انصاف کے ساتھ وپرا پورا کیا کرو، (البتہ) اللہ کسی بھی شخص کو اس کی طاقت سے زیادہ کی تکلیف نہیں دیتا۔ اور جب کوئی بات کہو تو انصاف سے کام لو، چاہے معاملہ اپنے قریبی رشتہ دار ہی کا ہو، اور اللہ کے عہد کو پورا کرو۔ لوگو ! یہ باتیں ہیں جن کی اللہ نے تاکید کی ہے، تاکہ تم نصیحت قبول کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Yaad karo jab tum momino se keh rahey thay, “ kya tumhare liye yeh baat kafi n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب آپ مسلمانوں سے فرما رہے تھے کہ کیا تمہارے لئے یہ کافی نہیں کہ تمہارا رب تین ہزار اتارے ہوئے فرشتوں کے ذریعے تمہاری مدد فرمائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب (بدر کی جنگ میں) تم مومنوں سے کہہ رہے تھے کہ : کیا تمہارے لیے یہ بات کافی نہیں ہے کہ تمہارا پروردگار تین ہزار فرشتے اتار کر تمہاری مدد کو بھیج دے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ isi tarah hum ne tere saamne pehli ki guzri hoyi waardaate bayaan farma rahe hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس طرح ہم آپ کو (اے حبیبِ معظّم!) ان (قوموں) کی خبریں سناتے ہیں جو گزر چکی ہیں اور بیشک ہم نے آپ کو اپنی خاص جناب سے ذکر (یعنی نصیحت نامہ) عطا فرمایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ماضی میں جو حالات گزرے ہیں ان میں سے کچھ واقعات ہم اسی طرح تم کو سناتے ہیں، اور ہم نے تمہیں خاص اپنے پاس سے ایک نصیحت نامہ عطا کیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

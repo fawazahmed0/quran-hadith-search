@@ -3224,6 +3224,12 @@ aye imaan waalo! bahuth badh gumaaniyo se bacho, yaqeen maano ke baaz badh gumaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! زیادہ تر گمانوں سے بچا کرو بیشک بعض گمان (ایسے) گناہ ہوتے ہیں (جن پر اُخروی سزا واجب ہوتی ہے) اور (کسی کے عیبوں اور رازوں کی) جستجو نہ کیا کرو اور نہ پیٹھ پیچھے ایک دوسرے کی برائی کیا کرو، کیا تم میں سے کوئی شخص پسند کرے گا کہ وہ اپنے مُردہ بھائی کا گوشت کھائے، سو تم اس سے نفرت کرتے ہو۔ اور (اِن تمام معاملات میں) اللہ سے ڈرو بیشک اللہ توبہ کو بہت قبول فرمانے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! بہت سے گمانوں سے بچو، بعض گمان گناہ ہوتے ہیں، اور کسی کی ٹوہ میں نہ لگو اور ایک دوسرے کی غیبت نہ کرو۔ کیا تم میں سے کوئی یہ پسند کرے گا کہ وہ اپنے مردے بھائی کا گوشت کھائے ؟ اس سے تو خود تم نفرت کرتے ہو، اور اللہ سے ڈرو، بیشک اللہ بڑا توبہ قبول کرنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

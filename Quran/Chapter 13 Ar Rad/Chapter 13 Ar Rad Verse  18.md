@@ -3224,6 +3224,12 @@ jin logo ne apne rub ke hukm ki baja aawari ki un ke liye bhalaai hai aur jin lo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایسے لوگوں کے لئے جنہوں نے اپنے رب کا حکم قبول کیا بھلائی ہے، اور جنہوں نے اس کا حکم قبول نہیں کیا اگر ان کے پاس وہ سب کچھ ہو جو زمین میں ہے اور اس کے ساتھ اتنا اور بھی ہو سو وہ اسے (عذاب سے نجات کے لئے) فدیہ دے ڈالیں (تب بھی) انہی لوگوں کا حساب برا ہوگا، اور ان کا ٹھکانا دوزخ ہے، اور وہ نہایت برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلائی انہی لوگوں کے حصے میں ہے جنہوں نے اپنے رب کا کہنا مانا ہے اور جنہوں نے اس کا کہنا نہیں مانا، اگر ان کے پاس دنیا بھر کی ساری چیزیں بھی ہوں گی، بلکہ اتنی ہی اور بھی، تو وہ (قیامت کے دن) اپنی جان بچانے کے لیے وہ سب کچھ دینے کو تیار ہوجائیں گے۔ ان لوگوں کے حصے میں بری طرح کا حساب ہے، اور ان کا ٹھکانا جہنم ہے اور وہ بہت برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

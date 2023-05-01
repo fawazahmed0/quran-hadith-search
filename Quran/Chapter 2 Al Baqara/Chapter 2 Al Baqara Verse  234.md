@@ -3224,6 +3224,12 @@ tum mein se jo log fauth60 ho jaaye aur biwiya chohd jaaye wo aurte apne aap ko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم میں سے جو فوت ہو جائیں اور (اپنی) بیویاں چھوڑ جائیں تو وہ اپنے آپ کو چار ماہ دس دن انتظار میں روکے رکھیں، پھر جب وہ اپنی عدت (پوری ہونے) کو آپہنچیں تو پھر جو کچھ وہ شرعی دستور کے مطابق اپنے حق میں کریں تم پر اس معاملے میں کوئی مؤاخذہ نہیں، اور جو کچھ تم کرتے ہو اللہ اس سے اچھی طرح خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم میں سے جو لوگ وفات پاجائیں، اور بیویاں چھوڑ کر جائیں تو وہ بیویاں اپنے آپ کو چار مہینے اور دس دن انتظار میں رکھیں گی، پھر جب وہ اپنی (عدت کی) میعاد کو پہنچ جائیں تو وہ اپنے بارے میں جو کاروائی (مثلا دوسرا نکاح) قاعدے کے مطابق کریں تو تم پر کچھ گناہ نہیں، اور جو کچھ تم کرتے ہو اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir nutfe ko hum ne jama hoa qoon bana diya, phir us qoon ke luthde ko gosh ka 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے اس نطفہ کو (رحمِ مادر کے اندر جونک کی صورت میں) معلّق وجود بنا دیا، پھر ہم نے اس معلّق وجود کو ایک (ایسا) لوتھڑا بنا دیا جو دانتوں سے چبایا ہوا لگتا ہے، پھر ہم نے اس لوتھڑے سے ہڈیوں کا ڈھانچہ بنایا، پھر ہم نے ان ہڈیوں پر گوشت (اور پٹھے) چڑھائے، پھر ہم نے اسے تخلیق کی دوسری صورت میں (بدل کر تدریجاً) نشو و نما دی، پھر اللہ نے (اسے) بڑھا (کر محکم وجود بنا) دیا جو سب سے بہتر پیدا فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے اس بوند کو جمے ہوئے خون کی شکل دے دی، پھر اس جمے ہوئے خون کو ایک لوتھڑا بنادیا، پھر اس لوتھڑے کو ہڈیوں میں تبدیل کردیا، پھر ہڈیوں کو گوشت کا لباس پہنایا، پھر اسے ایسی اٹھان دی کہ وہ ایک دوسری ہی مخلوق بن کر کھڑا ہوگیا۔ غرض بڑی شان ہے اللہ کی جو سارے کاریگروں سے بڑھ کر کاریگر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

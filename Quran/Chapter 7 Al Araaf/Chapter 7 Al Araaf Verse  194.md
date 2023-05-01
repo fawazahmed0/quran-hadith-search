@@ -3224,6 +3224,12 @@ waqeyi tum Allah ko chohd kar jin ki ibaadath karte ho wo bhi tum hee jaise band
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ اللہ کو چھوڑ کر جن جن کو تم پکارتے ہو، وہ سب تمہاری طرح (اللہ کے) بندے ہیں۔ اب ذرا ان سے دعا مانگو، پھر اگر تم سچے ہو تو انہیں تمہاری دعا قبول کرنی چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

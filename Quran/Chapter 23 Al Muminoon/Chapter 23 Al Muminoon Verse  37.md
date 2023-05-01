@@ -3224,6 +3224,12 @@ Zindagi kuch nahin hai magar bas yahi duniya ki zindagi. Yahin humko marna aur j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (آخرت کی زندگی کچھ) نہیں ہماری زندگانی تو یہی دنیا ہے ہم (یہیں) مرتے اور جیتے ہیں اور (بس ختم)، ہم (دوبارہ) نہیں اٹھائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زندگی تو ہماری اس دنیوی زندگی کے سوا کوئی اور نہیں ہے (یہیں) ہم مرتے اور جیتے ہیں، اور ہمیں دوبارہ زندہ نہیں کیا جاسکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

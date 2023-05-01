@@ -3224,6 +3224,12 @@ kya ye nahi dekhte ke hum ne haram ko ba-aman bana diya hai, halaan ke un ke ird
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا انہوں نے نہیں دیکھا کہ ہم نے حرمِ (کعبہ) کو جائے امان بنا دیا ہے اور اِن کے اِردگرِد کے لوگ اُچک لئے جاتے ہیں، تو کیا (پھر بھی) وہ باطل پر ایمان رکھتے اور اللہ کے احسان کی ناشکری کرتے رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا انہوں نے یہ نہیں دیکھا کہ ہم نے (ان کے شہر کو) ایک پرامن حرم بنادیا ہے، جبکہ ان کے اردگرد لوگوں کا حال یہ ہے کہ انہیں اچک لیا جاتا ہے۔ کیا پھر بھی یہ باطل پر ایمان لاتے ہیں، اور اللہ کی نعمت کی ناشکری کرتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

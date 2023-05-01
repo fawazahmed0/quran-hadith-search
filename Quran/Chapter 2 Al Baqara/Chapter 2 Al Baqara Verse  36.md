@@ -3224,6 +3224,12 @@ lekin shaitaan ne un ko behka kar wahaa se nikalwa hee diya aur hum ne keh diya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر شیطان نے انہیں اس جگہ سے ہلا دیا اور انہیں اس (راحت کے) مقام سے جہاں وہ تھے الگ کر دیا، اور (بالآخر) ہم نے حکم دیا کہ تم نیچے اتر جاؤ، تم ایک دوسرے کے دشمن رہو گے۔ اب تمہارے لئے زمین میں ہی معیّنہ مدت تک جائے قرار ہے اور نفع اٹھانا مقدّر کر دیا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ شیطان نے ان دونوں کو وہاں سے ڈگمگادیا اور جس (عیش) میں وہ تھے اس سے انہیں نکال کر رہا اور ہم نے (آدم، ان کی بیوی اور ابلیس سے) کہا : اب تم سب یہاں سے اتر جاؤ، تم ایک دوسرے کے دشمن ہوگے، اور تمہارے لئے ایک مدت تک زمین میں ٹھہرنا اور کسی قدر فائدہ اٹھانا (طے کردیا گیا) ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

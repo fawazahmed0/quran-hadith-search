@@ -3224,6 +3224,12 @@ haj ke mahine muqarrar hai, is liye jo shaqs in mein haj laazim karle, wo apni b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حج کے چند مہینے معیّن ہیں (یعنی شوال، ذوالقعدہ اور عشرہء ذی الحجہ)، تو جو شخص ان (مہینوں) میں نیت کر کے (اپنے اوپر) حج لازم کرلے تو حج کے دنوں میں نہ عورتوں سے اختلاط کرے اور نہ کوئی (اور) گناہ اور نہ ہی کسی سے جھگڑا کرے، اور تم جو بھلائی بھی کرو اللہ اسے خوب جانتا ہے، اور (آخرت کے) سفر کا سامان کرلو، بیشک سب سے بہترزادِ راہ تقویٰ ہے، اور اے عقل والو! میرا تقویٰ اختیار کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حج کے چند متعین مہینے ہیں۔ چنانچہ جو شخص ان مہینوں میں (احرام باندھ کر) اپنے اوپر حج لازم کرلے تو حج کے دوران نہ وہ کوئی فحش بات کرے نہ کوئی گناہ نہ کوئی جھگڑا۔ اور تم جو کوئی نیک کام کرو گے اللہ اسے جان لے گا، اور (حج کے سفر میں) زاد راہ ساتھ لے جایا کرو، کیونکہ بہترین زاد راہ تقوی ہے اور اے عقل والو ! میری نافرمانی سے ڈرتے رہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

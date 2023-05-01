@@ -3224,6 +3224,12 @@ jise ba-mushkil ghoont ghoont piyega, phir bhi ose gale se utaar na sakega aur o
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جسے وہ بمشکل ایک ایک گھونٹ پیئے گا اور اسے حلق سے نیچے اتار نہ سکے گا، اور اسے ہر طرف سے موت آگھیرے گی اور وہ مر (بھی) نہ سکے گا، اور (پھر) اس کے پیچھے (ایک اور) بڑا ہی سخت عذاب ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اسے گھونٹ گھونٹ کر کے پیے گا، اور اسے ایسا محسوس ہوگا کہ وہ اسے حلق سے اتار نہیں سکے گا، موت اس پر ہر طرف سے آرہی ہوگی، مگر وہ مرے گا نہیں، اور اس کے آگے (ہمیشہ) ایک اور سخت عذاب موجود ہوگا، ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

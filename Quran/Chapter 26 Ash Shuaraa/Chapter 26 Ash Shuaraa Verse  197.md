@@ -3224,6 +3224,12 @@ kya unhe ye nishaani kaafi nahi, ke haqqaniyate Qur’aan ko to, bani israel ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا ان کے لئے (صداقتِ قرآن اور صداقتِ نبوتِ محمدی صلی اللہ علیہ وآلہ وسلم کی) یہ دلیل (کافی) نہیں ہے کہ اسے بنی اسرائیل کے علماء (بھی) جانتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان لوگوں کے لیے یہ کوئی دلیل نہیں ہے کہ بنو اسرائیل کے علماء اس سے واقف ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

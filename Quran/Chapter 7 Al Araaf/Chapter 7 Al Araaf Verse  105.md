@@ -3224,6 +3224,12 @@ mere liye yahi shayaan10 hai ke ba-juz sach ke Allah ki taraf koyi baath mansoob
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرا فرض ہے کہ میں اللہ کی طرف منسوب کر کے حق کے سوا کوئی اور بات نہ کہوں۔ میں تمہارے پاس تمہارے پروردگار کی طرف سے ایک کھلی دلیل لے کر آیا ہوں، لہذا بنی اسرائیل کو میرے ساتھ بھیج دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

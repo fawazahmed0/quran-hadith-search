@@ -3224,6 +3224,12 @@ tumhaare liye darya ka shikaar pakadna aur us ka khaana halaal kiya gaya hai, tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہارے لئے دریا کا شکار اور اس کا کھانا تمہارے اور مسافروں کے فائدے کی خاطر حلال کر دیا گیا ہے، اور خشکی کا شکار تم پر حرام کیا گیا ہے جب تک کہ تم حالتِ احرام میں ہو، اور اللہ سے ڈرتے رہو جس کی (بارگاہ کی) طرف تم (سب) جمع کئے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہارے لیے سمندر کا شکار اور اس کا کھانا حلال کردیا گیا ہے، تاکہ وہ تمہارے لیے اور قافلوں کے لیے فائدہ اٹھانے کا ذریعہ بنے، لیکن جب تک تم حالت احرام میں ہو تم پر خشکی کا شکار حرام کردیا گیا ہے، اور اللہ سے ڈرتے رہو جس کی طرف تم سب کو جمع کر کے لے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

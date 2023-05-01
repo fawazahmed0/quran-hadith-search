@@ -3224,6 +3224,12 @@ keh dijiye ke agar mere parvardigaar ki baatho ke likhne ke liye samandar siyaah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اگر سمندر میرے رب کے کلمات کے لئے روشنائی ہوجائے تو وہ سمندر میرے رب کے کلمات کے ختم ہونے سے پہلے ہی ختم ہوجائے گا اگرچہ ہم اس کی مثل اور (سمندر یا روشنائی) مدد کے لئے لے آئیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر لوگوں سے) کہہ دو کہ : اگر میرے رب کی باتیں لکھنے کے لیے سمندر روشنائی بن جائے، تو میرے رب کی باتیں ختم نہیں ہوں گی کہ اس سے پہلے سمندر خشک ہوچکا ہوگا، چاہے اس سمندر کی کمی پوری کرنے کے لیے ہم ویسا ہی ایک اور سمندر کیوں نہ لے آئیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

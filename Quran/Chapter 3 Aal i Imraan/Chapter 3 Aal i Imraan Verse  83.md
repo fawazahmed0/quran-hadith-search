@@ -3224,6 +3224,12 @@ kya wo Allah ta’ala ke deen ke siva kisi aur deen ki talaash mein hai? halaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا یہ اللہ کے دین کے سوا کوئی اور دین چاہتے ہیں اور جو کوئی بھی آسمانوں اور زمین میں ہے اس نے خوشی سے یا لاچاری سے (بہرحال) اسی کی فرمانبرداری اختیار کی ہے اور سب اسی کی طرف لوٹائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب کیا یہ لوگ اللہ کے دین کے علاوہ کسی اور دین کی تلاش میں ہیں ؟ حالانکہ آسمانوں اور زمین میں جتنی مخلوقات ہیں ان سب نے اللہ ہی کے آگے گردن جھکا رکھی ہے، (کچھ نے) خوشی سے اور (کچھ نے) ناچار ہوکر، اور اسی کی طرف وہ سب لوٹ کر جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

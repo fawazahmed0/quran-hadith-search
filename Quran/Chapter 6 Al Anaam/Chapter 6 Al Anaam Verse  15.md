@@ -3224,6 +3224,12 @@ aap keh dijiye ke main agar apne rab ka kehna na maano to main ek bade din ke az
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے کہ بیشک میں (تو) بڑے عذاب کے دن سے ڈرتا ہوں، اگر میں اپنے رب کی نافرمانی کروں (سو یہ کیسے ممکن ہے؟)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اگر میں اپنے پروردگار کی نافرمانی کروں تو مجھے ایک زبردست دن کے عذاب کا خوف ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

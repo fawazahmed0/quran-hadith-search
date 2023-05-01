@@ -3224,6 +3224,12 @@ aur wo log us mein chillayenge ke aye hamaare parvardigaar! hum ko nikaal le hum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ اس دوزخ میں چِلّائیں گے کہ اے ہمارے رب! ہمیں (یہاں سے) نکال دے، (اب) ہم نیک عمل کریں گے ان (اَعمال) سے مختلف جو ہم (پہلے) کیا کرتے تھے۔ (ارشاد ہوگا:) کیا ہم نے تمہیں اتنی عمر نہیں دی تھی کہ اس میں جو شخص نصیحت حاصل کرنا چاہتا، وہ سوچ سکتا تھا اور (پھر) تمہارے پاس ڈر سنانے والا بھی آچکا تھا، پس اب (عذاب کا) مزہ چکھو سو ظالموں کے لئے کوئی مددگار نہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ اس دوزخ میں چیخ پکار مچائیں گے کہ : اے ہمارے پروردگار ! ہمیں باہر نکال دے تاکہ ہم جو کام پہلے کیا کرتے تھے انہیں چھوڑ کر نیک عمل کریں۔ (ان سے جواب میں کہا جائے گا کہ) بھلا کیا ہم نے تمہیں اتنی عمر نہیں دی تھی کہ جس کسی کو اس میں سوچنا سمجھنا ہوتا، وہ سمجھ لیتا ؟ اور تمہارے پاس خبردار کرنے والا بھی آیا تھا۔ اب مزا چکھو، کیونکہ کوئی نہیں ہے جو ایسے ظالموں کا مددگار بنے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya tu ne unhe dekha, jo Allah ki aayato mein jhagadte hai, wo kahaa pher diye j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے اُن لوگوں کو نہیں دیکھا جو اللہ کی آیتوں میں جھگڑا کرتے ہیں، وہ کہاں بھٹکے جا رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے ان لوگوں کو دیکھا جو اللہ کی آیتوں میں جھگڑے نکالتے ہیں ؟ کوئی کہاں سے ان کا رخ پھیر دیتا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

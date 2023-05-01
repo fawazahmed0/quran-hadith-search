@@ -3224,6 +3224,12 @@ aur jin jin ko ye log Allah ta’ala ke siva pukaarte hai wo kisi cheez ko paida
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (مشرک) لوگ جن (بتوں) کو اللہ کے سوا پوجتے ہیں وہ کچھ بھی پیدا نہیں کر سکتے بلکہ وہ خود پیدا کئے گئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ تعالیٰ کو چھوڑ کر یہ لوگ جن (دیوتاؤں) کو پکارتے ہیں، وہ کچھ بھی پیدا نہیں کرتے، وہ تو خود ہی مخلوق ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

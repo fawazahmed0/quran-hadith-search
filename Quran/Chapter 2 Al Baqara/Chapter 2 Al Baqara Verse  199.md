@@ -3224,6 +3224,12 @@ phir tum us jagaah se lauto jis jagaah se sub log lauthte hai aur Allah ta’ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر تم وہیں سے جاکر واپس آیا کرو جہاں سے (اور) لوگ واپس آتے ہیں اور اللہ سے (خوب) بخشش طلب کرو، بیشک اللہ نہایت بخشنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے علاوہ (یہ بات بھی یاد رکھو کہ) تم اسی جگہ سے روانہ ہو جہاں سے عام لوگ روانہ ہوتے ہیں اور اللہ سے مغفرت مانگو، بیشک اللہ بہت بخشنے والا، بڑا مہربان ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas kya haal hoga jis waqth ke har ummath mein se ek gawaah hum layenge aur aap 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اس دن کیا حال ہوگا جب ہم ہر امت سے ایک گواہ لائیں گے اور (اے حبیب!) ہم آپ کو ان سب پر گواہ لائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر (یہ لوگ سوچ رکھیں کہ) اس وقت (ان کا) کیا حال ہوگا جب ہم ہر امت میں سے ایک گواہ لے کر آئیں گے اور (اے پیغمبر) ہم تم کو ان لوگوں کے خلاف گواہ کے طور پر پیش کریں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

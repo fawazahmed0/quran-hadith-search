@@ -3224,6 +3224,12 @@ ke ye sab aapas mein ek dosre ki nasal se hai aur Allah ta’ala sunta jaanta ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ ایک ہی نسل ہے ان میں سے بعض بعض کی اولاد ہیں، اور اللہ خوب سننے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ایسی نسل تھی جس کے افراد (نیکی اور اخلاص میں) ایک دوسرے سے ملتے جلتے تھے، اور اللہ (ہر ایک کی بات) سننے والا ہے، ہر چیز کا علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

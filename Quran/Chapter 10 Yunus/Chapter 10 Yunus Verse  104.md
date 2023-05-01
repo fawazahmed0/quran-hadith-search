@@ -3224,6 +3224,12 @@ aap keh dijiye ke aye logo! agar tum mere deen ki taraf se shak mein ho to mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اے لوگو! اگر تم میرے دین (کی حقانیت کے بارے) میں ذرا بھی شک میں ہو تو (سن لو) کہ میں ان (بتوں) کی پرستش نہیں کرسکتا جن کی تم اللہ کے سوا پرستش کرتے ہو لیکن میں تو اس اللہ کی عبادت کرتا ہوں جو تمہیں موت سے ہمکنار کرتا ہے، اور مجھے حکم دیا گیا ہے کہ میں (ہمیشہ) اہلِ ایمان میں سے رہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ان سے کہو کہ : اے لوگو اگر تم میرے دین کے بارے میں کسی شک میں مبتلا ہو تو (سن لو کہ) تم اللہ کے سوا جن جن کی عبادت کرتے ہو میں ان کی عبادت نہیں کرتا، بلکہ میں اس اللہ کی عبادت کرتا ہوں جو تمہاری روح قبض کرتا ہے۔ اور مجھے یہ حکم دیا گیا ہے کہ میں مومنوں میں شامل رہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

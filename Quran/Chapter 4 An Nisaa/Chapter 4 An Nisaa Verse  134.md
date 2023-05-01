@@ -3224,6 +3224,12 @@ jo shaqs dunya ka sawaab chaahta ho to (yaad rakho ke) Allah ta’ala ke paas du
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو کوئی دنیا کا انعام چاہتا ہے تو اللہ کے پاس دنیا و آخرت (دونوں) کاانعام ہے، اور اللہ خوب سننے والا خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص (صرف) دنیا کا ثواب چاہتا ہو (اسے یاد رکھنا چاہیے کہ) اللہ کے پاس دنیا اور آخرت دونوں کا ثواب موجود ہے۔ اللہ ایسا ہے کہ ہر بات کو سنتا اور ہر چیز کو جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur tum apni qasmo ko aapas ki dagha baazi ka bahaana na banao, phir to tumhaare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اپنی قَسموں کو آپس میں فریب کاری کا ذریعہ نہ بنایا کرو ورنہ قدم (اسلام پر) جم جانے کے بعد لڑکھڑا جائے گا اور تم اس وجہ سے کہ اللہ کی راہ سے روکتے تھے برے انجام کا مزہ چکھو گے، اور تمہارے لئے زبردست عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم اپنی قسموں کو آپس میں فساد ڈالنے کا ذریعہ نہ بناؤ، جس کے نتیجے میں کسی (اور) کا پاؤں جمنے کے بعد پھسل جائے ، پھر تمہیں (اس کو) اللہ کے راستے سے روکنے کی وجہ سے بری سزا چکھنی پڑے، اور تمہیں (ایسی صورت میں) بڑا عذاب ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur unhone farishto ko jo rahmaan ke ibaadat guzaar hai aurte qaraar de liya, ky
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے فرشتوں کو جو کہ (خدائے) رحمان کے بندے ہیں عورتیں قرار دیا ہے، کیا وہ اُن کی پیدائش پر حاضر تھے؟ (نہیں، تو) اب اُن کی گواہی لکھ لی جائے گی اور (روزِ قیامت) اُن سے باز پُرس ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے علاوہ انہوں نے فرشتوں کو جو خدائے رحمن کے بندے ہیں، مؤنث بنادیا ہے۔ کیا یہ لوگ ان کی تخلیق کے وقت موجود تھے ؟ ان کا یہ دعوی لکھ لیا جائے گا اور ان سے باز پرس ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

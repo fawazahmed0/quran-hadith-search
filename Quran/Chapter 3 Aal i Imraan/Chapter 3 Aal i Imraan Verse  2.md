@@ -3224,6 +3224,12 @@ Allah ta’ala wo hai jis ke siva koyi maboodh nahi, jo zinda aur sab ka nigehba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ، اس کے سوا کوئی لائقِ عبادت نہیں (وہ) ہمیشہ زندہ رہنے والا ہے (سارے عالم کو اپنی تدبیر سے) قائم رکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس کے سوا کوئی معبود نہیں، جو سدا زندہ ہے، جو پوری کائنات سنبھالے ہوئے ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

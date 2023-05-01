@@ -3224,6 +3224,12 @@ khaum ka jawaab bajuz us kehne ke aur kuch na tha ke aale looth ko apne shahar s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو ان کی قوم کا جواب اس کے سوا کچھ نہ تھا کہ وہ کہنے لگے: تم لوط کے گھر والوں کو اپنی بستی سے نکال دو یہ بڑے پاک باز بنتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر یہ کہنے کے سوا ان کی قوم کا کوئی جواب نہیں تھا کہ : لوط کے گھر والوں کو اپنی بستی سے نکال باہر کرو، یہ بڑے پاکباز بنتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

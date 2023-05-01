@@ -3224,6 +3224,12 @@ yousuf alaihissalaam ne dua ki ke aye mere parvardigaar! jis baath ki taraf ye a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اب زنانِ مصر بھی زلیخا کی ہم نوا بن گئی تھیں) یوسف (علیہ السلام) نے (سب کی باتیں سن کر) عرض کیا: اے میرے رب! مجھے قید خانہ اس کام سے کہیں زیادہ محبوب ہے جس کی طرف یہ مجھے بلاتی ہیں، (پھر یوسف علیہ السلام تضرّع اور استغاثہ کی غرض سے بارگاہ الٰہی کی طرف متوجہ ہوئے جیسے اَنبیاء و مرسلین کی عادت ہے،) اور (عرض کیا:) اگر تو نے ان کے مکر کو مجھ سے نہ پھیرا تو (تیری مدد اور حفاظت کے بغیر) میں اُن کی (باتوں کی) طرف مائل ہو جاؤں گا اور میں نادانوں میں سے ہو جاؤں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یوسف نے دعا کی کہ : یا رب ! یہ عورتیں مجھے جس کام کی دعوت دے رہی ہیں، اس کے مقابلے میں قید خانہ مجھے زیادہ پسند ہے۔ اور اگر تو نے مجھے ان کی چالوں سے محفوظ نہ کیا تو میرا دل بھی ان کی طرف کھنچنے لگے گا، اور جو لوگ جہالت کے کام کرتے ہیں، ان میں میں بھی شامل ہوجاؤں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

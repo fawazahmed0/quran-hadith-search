@@ -3224,6 +3224,12 @@ yaqinan aap imaan waalo ka sab se zyaada dushman yahodiyo aur mushriko ko payeng
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ یقیناً ایمان والوں کے حق میں بلحاظِ عداوت سب لوگوں سے زیادہ سخت یہودیوں اور مشرکوں کو پائیں گے، اور آپ یقیناً ایمان والوں کے حق میں بلحاظِ محبت سب سے قریب تر ان لوگوں کو پائیں گے جو کہتے ہیں: بیشک ہم نصاریٰ ہیں۔ یہ اس لئے کہ ان میں علماءِ (شریعت بھی) ہیں اور (عبادت گزار) گوشہ نشین بھی ہیں اور (نیز) وہ تکبر نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم یہ بات ضرور محسوس کرلو گے کہ مسلمانوں سے سب سے سخت دشمنی رکھنے والے ایک تو یہودی ہیں، اور دوسرے وہ لوگ ہیں جو (کھل کر) شرک کرتے ہیں۔ اور تم یہ بات بھی ضرور محسوس کرلو گے کہ (غیر مسلموں میں) مسلمانوں سے دوستی میں قریب تر وہ لوگ ہیں جنہوں نے اپنے آپ کو نصرانی کہا ہے، اس کی وجہ یہ ہے کہ ان میں بہت سے علم دوست عالم اور بہت سے تارک الدنیا درویش ہیں نیز یہ وجہ بھی ہے کہ وہ تکبر نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

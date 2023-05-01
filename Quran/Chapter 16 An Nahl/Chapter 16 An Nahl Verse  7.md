@@ -3224,6 +3224,12 @@ aur wo tumhaare bojh un shehro tak utha le jaate hai jahaan tum baghair aadhi ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (جانور) تمہارے بوجھ (بھی) ان شہروں تک اٹھا لے جاتے ہیں جہاں تم بغیر جانکاہ مشقت کے نہیں پہنچ سکتے تھے، بیشک تمہارا رب نہایت شفقت والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ تمہارے بوجھ لاد کر ایسے شہر تک لے جاتے ہیں جہاں تم جان جوکھوں میں ڈالے بغیر نہیں پہنچ سکتے تھے۔ حقیقت یہ ہے تمہارا پروردگار بہت شفیق، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un bastiyo ke kuch kuch qisse hum aap se bayaan kar rahe hai aur un sab ke paas 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہی ہیں وہ بستیاں جن کے واقعات ہم تمہیں سنا رہے ہیں۔ اور حقیقت یہ ہے کہ ان سب کے پاس ان کے پیغمبر کھلے کھلے دلائل لے کر آئے تھے، مگر جس بات کو وہ پہلے جھٹلا چکے تھے، اس پر کبھی ایمان لانے کو تیار نہیں ہوئے۔ جو لوگ کفر کو اپنا چکے ہوتے ہیں، ان کے دلوں پر اللہ اسی طرح مہر لگا دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum ne un ki gardano mein tauq daal diye hai, phir wo thodiyo tak hai, jis se un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے اُن کی گردنوں میں طوق ڈال دیئے ہیں تو وہ اُن کی ٹھوڑیوں تک ہیں، پس وہ سر اوپر اٹھائے ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ان کے گلوں میں طوق ڈال رکھے ہیں، جو ٹھوڑیوں تک پہنچے ہوئے ہیں، اور اس وجہ سے ان کے سر اوپر کو اٹھے رہ گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

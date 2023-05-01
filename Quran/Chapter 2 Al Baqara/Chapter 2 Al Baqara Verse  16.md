@@ -3224,6 +3224,12 @@ ye wo log hai jinhone gumraahi ko hidaayath ke badhle mein qarid liya, pus na to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی وہ لوگ ہیں جنہوں نے ہدایت کے بدلے گمراہی خریدی لیکن ان کی تجارت فائدہ مند نہ ہوئی اور وہ (فائدہ مند اور نفع بخش سودے کی) راہ جانتے ہی نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جنہوں نے ہدایت کے بدلے گمراہی خرید لی ہے لہٰذا نہ ان کی تجارت میں نفع ہوا اور نہ انہیں صحیح راستہ نصیب ہوا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ zameen wa asmaan ki baadh’shaahath Allah hee ki hai aur Allah ta’ala hee ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور سارے آسمانوں اور زمین کی حکمرانی اللہ ہی کی ہے، اور سب کو اسی کی طرف لوٹ کر جانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین کی بادشاہی اللہ ہی کے لیے ہے، اور اللہ ہی کی طرف (سب کو) لوٹ کر جانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

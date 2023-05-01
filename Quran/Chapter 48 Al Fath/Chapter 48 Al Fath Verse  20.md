@@ -3224,6 +3224,12 @@ Allah ta’ala ne tum se bahuth saari ghanimato ka waada kiya hai jinhe tum haas
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے (کئی فتوحات کے نتیجے میں) تم سے بہت سی غنیمتوں کا وعدہ فرمایا ہے جو تم آئندہ حاصل کرو گے مگر اس نے یہ (غنیمتِ خیبر) تمہیں جلدی عطا فرما دی اور (اہلِ مکہّ، اہلِ خیبر، قبائل بنی اسد و غطفان الغرض تمام دشمن) لوگوں کے ہاتھ تم سے روک دیئے، اور تاکہ یہ مومنوں کے لئے (آئندہ کی کامیابی و فتح یابی کی) نشانی بن جائے۔ اور تمہیں (اطمینانِ قلب کے ساتھ) سیدھے راستہ پر (ثابت قدم اور) گامزن رکھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے تم سے بہت سے مال غنیمت کا وعدہ کر رکھا ہے جو تم حاصل کرو گے، اب فوری طور پر اس نے تمہیں یہ فتح دے دی ہے، اور لوگوں کے ہاتھوں کو تم سے روک دیا، تاکہ یہ مومنوں کے لیے ایک نشانی بن جائے، اور تمہیں اللہ سیدھے راستے پر ڈال دے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

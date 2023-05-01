@@ -3224,6 +3224,12 @@ aur hum ne bani israel ko darya se paar utaar diya, pas un logo ka ek khaum par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے بنی اسرائیل سے سمندر پار کروایا، تو وہ کچھ لوگوں کے پاس سے گزرے جو اپنے بتوں سے لگے بیٹھے تھے، بنی اسرائیل کہنے لگے : اے موسیٰ ! ہمارے لیے بھی کوئی ایسا ہی دیوتا بنادو جیسے ان لوگوں کے دیوتا ہیں۔ موسیٰ نے کہا : تم ایسے (عجیب) لوگ ہو جو جہالت کی باتیں کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir sab apne maalik haqiqi ke paas laaye jayenge, qoob sun lo faisla Allah hee 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر وہ (سب) اللہ کے حضور لوٹائے جائیں گے جو ان کا مالکِ حقیقی ہے، جان لو! حکم (فرمانا) اسی کا (کام) ہے، اور وہ سب سے جلد حساب کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ان سب کو اللہ کی طرف لوٹا دیا جاتا ہے جو ان کا مولائے برحق ہے۔ یاد رکھو ! حکم اسی کا چلتا ہے اور وہ سب سے زیادہ جلدی حساب لینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

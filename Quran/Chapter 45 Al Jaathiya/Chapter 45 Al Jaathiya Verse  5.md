@@ -3224,6 +3224,12 @@ aur raath din ke badalne mein aur jo kuch rozi Allah ta’ala asmaan se naazil f
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور رات دن کے آگے پیچھے آنے جانے میں اور (بصورتِ بارش) اُس رِزق میں جسے اللہ آسمان سے اتارتا ہے، پھر اس سے زمین کو اُس کی مُردنی کے بعد زندہ کر دیتا ہے اور (اسی طرح) ہواؤں کے رُخ پھیرنے میں، اُن لوگوں کے لئے نشانیاں ہیں جو عقل و شعور رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نیز رات اور دن کے آنے جانے میں اور اللہ نے آسمان سے رزق کا جو ذریعہ اتارا، پھر اس سے زمین کو اس کے مردہ ہوجانے کے بعد نئی زندگی دی، اس میں اور ہواؤں کی گردش میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو عقل سے کام لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

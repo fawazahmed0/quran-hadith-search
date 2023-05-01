@@ -3224,6 +3224,12 @@ pas farishto ne unhe awaaz di jab ke wo hujre mein khade namaaz pad rahe thein, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ابھی وہ حجرے میں کھڑے نماز ہی پڑھ رہے تھے (یا دعا ہی کر رہے تھے) کہ انہیں فرشتوں نے آواز دی: بیشک اللہ آپ کو (فرزند) یحیٰی (علیہ السلام) کی بشارت دیتا ہے جو کلمۃ اللہ (یعنی عیسٰی علیہ السلام) کی تصدیق کرنے والا ہو گا اور سردار ہو گا اور عورتوں (کی رغبت) سے بہت محفوظ ہو گا اور (ہمارے) خاص نیکوکار بندوں میں سے نبی ہو گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ (ایک دن) جب زکریا عبادت گاہ میں کھڑے نماز پڑھ رہے تھے، فرشتوں نے انہیں آواز دی کہ : اللہ آپ کو یحی کی (پیدائش) کی خوشخبری دیتا ہے جو اس شان سے پیدا ہوں گے کہ اللہ کے ایک کلمے کی تصدیق کریں گے، لوگوں کے پیشوا ہوں گے، اپنے آپ کو نفسانی خواہشات سے مکمل طور پر روکے ہوئے ہوں گے، اور نبی ہوں گے اور ان کا شمار راست بازوں میں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

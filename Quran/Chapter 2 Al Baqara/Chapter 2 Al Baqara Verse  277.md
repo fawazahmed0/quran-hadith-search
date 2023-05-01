@@ -3224,6 +3224,12 @@ be-shak jo log imaan ke saath (sunnath ke mutaabiq) nek kaam karte hai, namaazo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ایمان لائے اور انہوں نے نیک اعمال کئے اور نماز قائم رکھی اور زکوٰۃ دیتے رہے ان کے لئے ان کے رب کے پاس ان کا اجر ہے، اور ان پر (آخرت میں) نہ کوئی خوف ہوگا اور نہ وہ رنجیدہ ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ہاں) وہ لوگ جو ایمان لائیں، نیک عمل کریں، نماز قائم کریں اور زکوٰۃ ادا کریں وہ اپنے رب کے پاس اپنے اجر کے مستحق ہوں گے، نہ انہیں کوئی خوف لاحق ہوگا نہ کوئی غم پہنچے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

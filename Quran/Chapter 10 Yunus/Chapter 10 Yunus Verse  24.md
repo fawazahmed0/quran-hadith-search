@@ -3224,6 +3224,12 @@ pus dunyawi zindagi ki halath tuh aisi hai jaise hum ne aasman se pani barsaya,p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بس دنیا کی زندگی کی مثال تو اس پانی جیسی ہے جسے ہم نے آسمان سے اتارا پھر اس کی وجہ سے زمین کی پیداوار خوب گھنی ہو کر اُگی، جس میں سے انسان بھی کھاتے ہیں اور چوپائے بھی، یہاں تک کہ جب زمین نے اپنی (پوری پوری) رونق اور حسن لے لیا اور خوب آراستہ ہوگئی اور اس کے باشندوں نے سمجھ لیا کہ (اب) وہ اس پر پوری قدرت رکھتے ہیں تو (دفعۃً) اسے رات یا دن میں ہمارا حکمِ (عذاب) آپہنچا تو ہم نے اسے (یوں) جڑ سے کٹا ہوا بنا دیا گویا وہ کل یہاں تھی ہی نہیں، اسی طرح ہم ان لوگوں کے لئے نشانیاں کھول کر بیان کرتے ہیں جو تفکر سے کام لیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دنیوی زندگی کی مثال تو کچھ ایسی ہے جیسے ہم نے آسمان سے پانی برسایا جس کی وجہ سے زمین سے اگنے والی وہ چیزیں خوب گھنی ہوگئیں جو انسان اور مویشی کھاتے ہیں یہاں تک کہ جب زمین نے اپنا یہ زیور پہن لیا، اور سنگھار کر کے خوشنما ہوگئی اور اس کے مالک سمجھنے لگے کہ بس اب یہ پوری طرح ان کے قابو میں ہے، تو کسی رات یا دن کے وقت ہمارا حکم آگیا (کہ اس پر کوئی آفت آجائے) اور ہم نے اس کو کٹی ہوئی کھیتی کی سپاٹ زمین میں اس طرح تبدیل کردیا جیسے کل وہ تھی ہی نہیں۔ اسی طرح ہم نشانیوں کو ان لوگوں کے لیے کھول کھول کر بیان کرتے ہیں جو غور و فکر سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

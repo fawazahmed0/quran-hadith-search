@@ -3224,6 +3224,12 @@ Allah ta’ala irshaad farmayega ke ye wo din hai ke jo log sacche thein un ka s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ فرمائے گا: یہ ایسا دن ہے (جس میں) سچے لوگوں کو ان کا سچ فائدہ دے گا، ان کے لئے جنتیں ہیں جن کے نیچے نہریں جاری ہیں، وہ ان میں ہمیشہ ہمیشہ رہنے والے ہیں۔ اللہ ان سے راضی ہوگیا اور وہ اس سے راضی ہوگئے، یہی (رضائے الٰہی) سب سے بڑی کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کہے گا کہ : یہ وہ دن ہے جس میں سچے لوگوں کو ان کا سچ فائدہ پہنچائے گا۔ ان کے لیے وہ باغات ہیں جن کے نیچے نہریں بہہ رہی ہیں، جن میں یہ لوگ ہمیشہ ہمیشہ رہیں گے۔ اللہ ان سے خوش ہے اور یہ اس سے خوش ہیں۔ یہی بڑی زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

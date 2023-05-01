@@ -3224,6 +3224,12 @@ maal wa aulaad to dunya hee ki zeenath hai aur (haan) albatta baaqi rehne waali 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مال اور اولاد (تو صرف) دنیاوی زندگی کی زینت ہیں اور (حقیقت میں) باقی رہنے والی (تو) نیکیاں (ہیں جو) آپ کے رب کے نزدیک ثواب کے لحاظ سے (بھی) بہتر ہیں اور آرزو کے لحاظ سے (بھی) خوب تر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مال اور اولاد دنیوی زندگی کی زینت ہیں، اور جو نیکیاں پائیدار رہنے والی ہیں، وہ تمہارے رب کے نزدیک ثواب کے اعتبار سے بھی بہتر ہیں، اور امید وابستہ کرنے کے لیے بھی بہتر۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

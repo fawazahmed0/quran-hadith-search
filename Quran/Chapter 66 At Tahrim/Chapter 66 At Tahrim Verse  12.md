@@ -3224,6 +3224,12 @@ aur (misaal bayaan farmaayi) maryam binte imran ki, jis ne apne namoos1 ki hifaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (دوسری مثال) عمران کی بیٹی مریم کی (بیان فرمائی ہے) جس نے اپنی عصمت و عفّت کی خوب حفاظت کی تو ہم نے (اس کے) گریبان میں اپنی روح پھونک دی اور اس نے اپنے رب کے فرامین اور اس کی (نازل کردہ) کتابوں کی تصدیق کی اور وہ اطاعت گزاروں میں سے تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نیز عمران کی بیٹی مریم کو (مثال کے طور پر پیش کرتا ہے) جنہوں نے اپنی عصمت کی حفاظت کی، تو ہم نے اس میں اپنی روح پھونک دی، اور انہوں نے اپنے پروردگار کی باتوں اور اس کی کتابوں کی تصدیق کی، اور وہ طاعت شعار لوگوں میں شامل تھیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

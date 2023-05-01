@@ -3224,6 +3224,12 @@ ta ke (log) us ke phal khaaye aur us ko un ke haatho ne nahi banaya, phir kyo sh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ وہ اس کے پھل کھائیں اور اسے اُن کے ہاتھوں نے نہیں بنایا، پھر (بھی) کیا وہ شکر نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ یہ اس کی پیداوار میں سے کھائیں، حالانکہ اس کو ان کے ہاتھوں نے نہیں بنایا تھا۔ کیا پھر بھی یہ شکر نہیں کریں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ osi paani ke zariye se hum tumhaare liye khajuro aur anguro ke baghaath paida ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے تمہارے لئے اس سے (درجہ بہ درجہ یعنی پہلے ابتدائی نباتات پھر بڑے پودے پھر درخت وجود میں لاتے ہوئے) کھجور اور انگور کے باغات بنا دیئے (مزید برآں) تمہارے لئے زمین میں (اور بھی) بہت سے پھل اور میوے (پیدا کئے) اور (اب) تم ان میں سے کھاتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے اس سے تمہارے لیے کھجوروں اور انگوروں کے باغات پیدا کیے جن سے تمہیں بہت سے میوے حاصل ہوتے ہیں، اور انہی میں سے تم کھاتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

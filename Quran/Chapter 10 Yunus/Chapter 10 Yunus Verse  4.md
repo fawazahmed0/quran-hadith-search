@@ -3224,6 +3224,12 @@ tum sub ko Allah hee ke paas jaana hai,Allah ne saccha wada kar rakha hai,beshak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(لوگو!) تم سب کو اسی کی طرف لوٹ کر جانا ہے (یہ) اللہ کا سچا وعدہ ہے۔ بیشک وہی پیدائش کی ابتداء کرتا ہے پھر وہی اسے دہرائے گا تاکہ ان لوگوں کو جو ایمان لائے اور نیک عمل کئے، انصاف کے ساتھ جزا دے، اور جن لوگوں نے کفر کیا ان کے لئے پینے کو کھولتا ہوا پانی اور دردناک عذاب ہے، اس کا بدلہ جو وہ کفر کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی کی طرف تم سب کو لوٹنا ہے، یہ اللہ کا سچا وعدہ ہے، یقینا ساری مخلوق کو شروع میں بھی وہی پیدا کرتا ہے اور دوبارہ بھی وہی پیدا کرے گا تاکہ جو لوگ ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں ان کو انصاف کے ساتھ اس کا صلہ دے۔ اور جنہوں نے کفر اپنا لیا ہے، انکے لیے کھولتے ہوئے پانی کا مشروب ہے، اور دکھ دینے والا عذاب ہے، کیونکہ وہ حق کا انکار کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

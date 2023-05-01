@@ -3224,6 +3224,12 @@ aur sivaye tumhaare deen par chalne waalo ke, aur kisi ka yaqeen na karo, aap ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کسی کی بات نہ مانو سوائے اس شخص کے جو تمہارے (ہی) دین کا پیرو ہو، فرما دیں کہ بیشک ہدایت تو (فقط) ہدایتِ الٰہی ہے (اور اپنے لوگوں سے مزید کہتے ہیں کہ یہ بھی ہرگز نہ ماننا) کہ جیسی کتاب (یا دِین) تمہیں دیا گیا اس جیسا کسی اور کو بھی دیا جائے گا یا یہ کہ کوئی تمہارے رب کے پاس تمہارے خلاف حجت لا سکے گا، فرما دیں: بیشک فضل تو اللہ کے ہاتھ میں ہے، جسے چاہتا ہے عطا فرماتا ہے، اور اللہ وسعت والا بڑے علم والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مگر دل سے ان لوگوں کے سوا کسی کی نہ ماننا جو تمہارے دین کے متبع ہیں۔ آپ ان سے کہہ دیجیے کہ ہدایت تو وہی ہدایت ہے جو اللہ کی دی ہوئی ہو، یہ ساری باتیں تم اس ضد میں کر رہے ہو کہ کسی کو اس جیسی چیز (یعنی نبوت اور آسمانی کتاب) کیوں مل گئی جیسی کبھی تمہیں دی گئی تھی یا یہ (مسلمان) تمہارے رب کے آگے تم پر غالب کیوں آگئے۔ آپ کہہ دیجیے کہ فضیلت تمام تر اللہ کے ہاتھ میں ہے، وہ جس کو چاہتا ہے دے دیتا ہے، اور اللہ بڑی وسعت والا ہے، ہر چیز کا علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

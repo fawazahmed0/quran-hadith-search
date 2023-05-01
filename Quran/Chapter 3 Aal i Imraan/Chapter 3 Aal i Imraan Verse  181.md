@@ -3224,6 +3224,12 @@ yaqinan Allah ta’ala ne un logo ka qaul bhi suna jinhone kaha ke Allah ta’al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ نے ان لوگوں کی بات سن لی جو کہتے ہیں کہ اللہ محتاج ہے اور ہم غنی ہیں، اب ہم ان کی ساری باتیں اور ان کا انبیاءکو ناحق قتل کرنا (بھی) لکھ رکھیں گے، اور (روزِ قیامت) فرمائیں گے کہ (اب تم) جلا ڈالنے والے عذاب کا مزہ چکھو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے ان لوگوں کی بات سن لی ہے جو یہ کہتے ہیں کہ : اللہ فقیر ہے اور ہم مال دار ہیں۔ ہم ان کی یہ بات بھی (ان کے اعمال نامے میں) لکھے لیتے ہیں، اور انہوں نے انبیاء کو جو ناحق قتل کیا ہے، اس کو بھی، اور (پھر) کہیں گے کہ : دہکتی آگ کا مزہ چکھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

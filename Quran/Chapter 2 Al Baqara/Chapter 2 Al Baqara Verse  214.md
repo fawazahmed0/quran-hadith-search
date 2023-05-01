@@ -3224,6 +3224,12 @@ kya tum ye gumaan kiye baithe ho ke jannath mein chale jaoge, halaan ke ab tak t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم یہ گمان کرتے ہو کہ تم (یونہی بلا آزمائش) جنت میں داخل ہو جاؤ گے حالانکہ تم پر تو ابھی ان لوگوں جیسی حالت (ہی) نہیں بیتی جو تم سے پہلے گزر چکے، انہیں توطرح طرح کی سختیاں اور تکلیفیں پہنچیں اور انہیں (اس طرح) ہلا ڈالا گیا کہ (اُس قوم کے) پیغمبر اور ان کے ایمان والے ساتھی (بھی) پکار اٹھے کہ اللہ کی مدد کب آئے گی؟ آگاہ ہو جاؤ کہ بیشک اللہ کی مدد قریب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) کیا تم نے یہ سمجھ رکھا ہے کہ تم جنت میں (یونہی) داخل ہوجاؤ گے، حالانکہ ابھی تمہیں اس جیسے حالات پیش نہیں آئے جیسے ان لوگوں کو پیش آئے تھے جو تم سے پہلے ہوگزرے ہیں۔ ان پر سختیاں اور تکلیفیں آئیں، اور انہیں ہلا ڈالا گیا، یہاں تک کہ رسول اور ان کے ایمان والے ساتھ بول اٹھے کہ “ اللہ کی مدد کب آئے گی ؟” یا درکھو ! اللہ کی مدد نزدیک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

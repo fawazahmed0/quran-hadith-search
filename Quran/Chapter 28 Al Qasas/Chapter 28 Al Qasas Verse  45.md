@@ -3224,6 +3224,12 @@ lekin hum ne bahuth si nasle paida ki jin par lambi muddate guzar gayi aur na tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لیکن ہم نے (موسیٰ علیہ السلام کے بعد یکے بعد دیگرے) کئی قومیں پیدا فرمائیں پھر ان پر طویل مدّت گزر گئی، اور نہ (ہی) آپ (موسیٰ اور شعیب علیہما السلام کی طرح) اہل مدین میں مقیم تھے کہ آپ ان پر ہماری آیتیں پڑھ کر سناتے ہوں لیکن ہم ہی (آپ کو اخبارِ غیب سے سرفراز فرما کر) مبعوث فرمانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلکہ ان کے بعد ہم نے بہت سی نسلیں پیدا کیں، جن پر طویل زمانہ گزر گیا۔ اور تم مدین کے بسنے والوں کے درمیان بھی مقیم نہیں تھے کہ ان کو ہماری آیتیں پڑھ کر سناتے ہو، بلکہ (تمہیں) رسول بنانے والے ہم ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

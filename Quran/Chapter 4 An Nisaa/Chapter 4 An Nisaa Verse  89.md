@@ -3224,6 +3224,12 @@ un ki chaahath hai ke jis tarah ke kaafir wo hai tum bhi un ki tarah kufr karne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (منافق تو) یہ تمنا کرتے ہیں کہ تم بھی کفر کروجیسے انہوں نے کفر کیا تاکہ تم سب برابر ہو جاؤ۔ سو تم ان میں سے کسی کو حلیف نہ بناؤ یہاں تک کہ وہ اللہ کی راہ میں (مدینہ کی طرف) ہجرت (کرکے اپنا صدق و اِخلاص ثابت) کریں۔ پھر اگر وہ (اپنے معاہدۂ اَمن سے) رُوگردانی (اور جارحیت کا اِرتکاب) کریں تو اُنہیں گرفتار کرلو اور (دورانِ جنگ) انہیں جہاں بھی پاؤ قتل کر ڈالو اور ان میں سے (کسی کو) حلیف نہ بناؤ اور نہ مددگار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ چاہتے یہ ہیں کہ جس طرح انہوں نے کفر کو اپنا لیا ہے، اسی طرح تم بھی کافر بن کر سب برابر ہوجاؤ،۔ لہذا (اے مسلمانو) تم ان میں سے کسی کو اس وقت تک دوست نہ بناؤ جب تک وہ اللہ کے راستے میں ہجرت نہ کرلے۔ چنانچہ اگر وہ (ہجرت سے) اعراض کریں تو ان کو پکڑو، اور جہاں بھی انہیں پاؤ، انہیں قتل کردو، اور ان میں سے کسی کو نہ اپنا دوست بناؤ، نہ مددگار۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

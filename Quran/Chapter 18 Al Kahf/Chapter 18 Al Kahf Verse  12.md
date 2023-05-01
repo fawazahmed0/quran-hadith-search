@@ -3224,6 +3224,12 @@ phir hum ne unhe utha khada kiya, ke hum ye maloom karle ke duno gruh mein se us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے انہیں اٹھا دیا کہ دیکھیں دونوں گروہوں میں سے کون اس (مدّت) کو صحیح شمار کرنے والا ہے جو وہ (غار میں) ٹھہرے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے ان کو جگایا تاکہ یہ دیکھیں کہ ان کے دو گروہوں میں سے کون سا گروہ اپنے سوئے رہنے کی مدت کا زیادہ صحیح شمار کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

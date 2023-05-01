@@ -3224,6 +3224,12 @@ aur agar aap us waqth dekhe jab ye apne rab ke saamne khade kiye jayenge, Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ (انہیں اس وقت) دیکھیں جب وہ اپنے رب کے حضور کھڑے کئے جائیں گے، (اور انہیں) اللہ فرمائے گا: کیا یہ (زندگی) حق نہیں ہے؟ (تو) کہیں گے: کیوں نہیں! ہمارے رب کی قسم (یہ حق ہے، پھر) اللہ فرمائے گا: پس (اب) تم عذاب کا مزہ چکھو اس وجہ سے کہ تم کفر کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم وہ وقت دیکھو جب یہ اپنے رب کے سامنے کھڑے کیے جائیں گے۔ وہ کہے گا : کیا یہ (دوسری زندگی) حق نہیں ہے ؟ وہ کہیں گے : بیشک ہمارے رب کی قسم ! اللہ کہے گا : تو پھر چکھو عذاب کا مزہ، کیونکہ تم کفر کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

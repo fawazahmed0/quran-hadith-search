@@ -3224,6 +3224,12 @@ yaqinan hum ne tumhaari jaanib kitaab naazil farmaayi hai, jis mein tumhaare liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے تمہاری طرف ایسی کتاب نازل فرمائی ہے جس میں تمہاری نصیحت (کا سامان) ہے، کیا تم عقل نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اب) ہم نے تمہارے پاس ایک ایسی کتاب اتاری ہے جس میں تمہارے لیے نصیحت ہے۔ کیا پھر بھی تم نہیں سمجھتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

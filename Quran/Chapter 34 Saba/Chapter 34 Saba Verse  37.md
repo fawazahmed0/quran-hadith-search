@@ -3224,6 +3224,12 @@ aur tumhaare maal aur aulaad aise nahi ke tumhe hamaare paas (martabo se) qareeb
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ تمہارے مال اس قابل ہیں اور نہ تمہاری اولاد کہ تمہیں ہمارے حضور قرب اور نزدیکی دلا سکیں مگر جو ایمان لایا اور اس نے نیک عمل کئے، پس ایسے ہی لوگوں کے لئے دوگنا اجر ہے ان کے عمل کے بدلے میں اور وہ (جنت کے) بالاخانوں میں امن و امان سے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نہ تمہارے مال تمہیں اللہ کا قرب عطا کرتے ہیں اور نہ تمہاری اولاد۔ ہاں مگر جو ایمان لائے اور نیک عمل کرے تو ایسے لوگوں کو ان کے عمل کا دوہرا ثواب ملے گا، اور وہ (جنت کے) بالاخانوں میں چین کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

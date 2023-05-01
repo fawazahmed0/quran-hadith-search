@@ -3224,6 +3224,12 @@ tamaam ke tamaam chalne phirne waale jaandaaro ko Allah ta’ala hee ne paani se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے ہر چلنے پھرنے والے (جاندار) کی پیدائش (کی کیمیائی ابتداء) پانی سے فرمائی، پھر ان میں سے بعض وہ ہوئے جو اپنے پیٹ کے بل چلتے ہیں اور ان میں سے بعض وہ ہوئے جو دو پاؤں پر چلتے ہیں، اور ان میں سے بعض وہ ہوئے جو چار (پیروں) پر چلتے ہیں، اللہ جو چاہتا ہے پیدا فرماتا رہتا ہے، بیشک اللہ ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے زمین پر چلنے والے ہر جاندار کو پانی سے پیدا کیا ہے۔ پھر ان میں سے کچھ وہ ہیں جو اپنے پیٹ کے بل چلتے ہیں، کچھ وہ ہیں جو دو پاؤں پر چلتے ہیں، اور کچھ وہ ہیں جو چار (پاؤں) پر چلتے ہیں۔ اللہ جو چاہتا ہے پیدا کرتا ہے۔ یقینا اللہ ہر بات پر قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

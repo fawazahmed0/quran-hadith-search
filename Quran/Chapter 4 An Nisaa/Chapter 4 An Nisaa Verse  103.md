@@ -3224,6 +3224,12 @@ phir jab tum namaz ada kar chuko to uthte baithte aur lete Allah ta’ala ka zik
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (اے مسلمانو!) جب تم نماز ادا کر چکو تو اللہ کو کھڑے اور بیٹھے اور اپنے پہلوؤں پر (لیٹے ہر حال میں) یاد کرتے رہو، پھر جب تم (حالتِ خوف سے نکل کر) اطمینان پالو تو نماز کو (حسبِ دستور) قائم کرو۔ بیشک نماز مومنوں پر مقررہ وقت کے حساب سے فرض ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب تم نماز پوری کرچکو تو اللہ کو (ہر حالت میں) یاد کرتے رہو، کھڑے بھی بیٹھے بھی، اور لیٹے ہوئے بھی۔ پھر جب تمہیں (دشمن کی طرف سے) اطمینان حاصل ہوجائے تو نماز قاعدے کے مطابق پڑھو۔ بیشک نماز مسلمانوں کے ذمے ایک ایسا فریضہ ہے جو وقت کا پابند ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yaqinan tumhaare liye ibrath ki nishaani thi un do jamaato mein jo ghath4 gayi t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک تمہارے لئے ان دو جماعتوں میں ایک نشانی ہے (جو میدانِ بدر میں) آپس میں مقابل ہوئیں، ایک جماعت (یعنی اہل ایمان) نے اللہ کی راہ میں (دفاعی) جنگ کی اور دوسری کافر تھی (یعنی کفار مکہ جنہوں نے مدینہ کے پُر امن مسلمانوں پر فوج کشی کی) وہ انہیں (اپنی) آنکھوں سے اپنے سے دوگنا دیکھ رہے تھے، اور اللہ اپنی مدد کے ذریعے جسے چاہتا ہے تقویت دیتا ہے، یقینا اس واقعہ میں آنکھ والوں کے لئے (بڑی) عبرت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہارے لیے ان دو گروہوں (کے واقعے) میں بڑی نشانی ہے جو ایک دوسرے سے ٹکرائے تھے۔ ان میں سے ایک گروہ اللہ کے راستے میں لڑ رہا تھا، اور دوسرا کافروں کا گروہ تھا جو اپنے آپ کو کھلی آنکھوں ان سے کئی گنا زیادہ دیکھ رہا تھا۔ اور اللہ جس کی چاہتا ہے اپنی مدد سے تائید کرتا ہے۔ بیشک اس واقعے میں آنکھوں والوں کے لیے عبرت کا بڑا سامان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

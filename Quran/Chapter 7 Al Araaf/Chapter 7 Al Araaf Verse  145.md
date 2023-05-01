@@ -3224,6 +3224,12 @@ aur hum ne chandh taqtiyo par har qism ki nasihath aur har cheez ki tafseel un k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان کے لیے تختیوں میں ہر قسم کی نصیحت اور ہر چیز کی تفصیل لکھ دی، (اور یہ حکم دیا کہ) اب اس کو مضبوطی سے تھام لو، اور اپنی قوم کو حکم دو کہ اس کے بہترین احکام پر عمل کریں۔ میں عنقریب تم کو نافرمانوں کا گھر دکھا دوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

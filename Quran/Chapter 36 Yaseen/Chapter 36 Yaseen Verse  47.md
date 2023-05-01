@@ -3224,6 +3224,12 @@ aur un se jab kaha jaata hai ke Allah ta’ala ke diye hoye mein se kuch qarch k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اُن سے کہا جاتا ہے کہ تم اس میں سے (راہِ خدا میں) خرچ کرو جو تمہیں اللہ نے عطا کیا ہے تو کافر لوگ ایمان والوں سے کہتے ہیں: کیا ہم اس (غریب) شخص کو کھلائیں جسے اگر اللہ چاہتا تو (خود ہی) کھلا دیتا۔ تم تو کھلی گمراہی میں ہی (مبتلا) ہوگئے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان سے کہا جاتا ہے کہ : اللہ نے تمہیں جو رزق دیا ہے اس میں سے (غریبوں پر بھی) خرچ کرو، تو یہ کافر لوگ مسلمانوں سے کہتے ہیں کہ : کیا ہم ان لوگوں کو کھانا کھلائی جنہیں اگر اللہ چاہتا تو خود کھلا دیتا ؟ (مسلمانو) تمہاری حقیقت اس کے سوا کچھ بھی نہیں کہ تم کھلی گمراہی میں پڑے ہوئے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

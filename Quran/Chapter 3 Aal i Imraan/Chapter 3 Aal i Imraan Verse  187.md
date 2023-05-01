@@ -3224,6 +3224,12 @@ aur Allah ta’ala ne jab ahle kitaab se ahad liya ke tum ise sub logo se zaroor
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اللہ نے ان لوگوں سے پختہ وعدہ لیا جنہیں کتاب عطا کی گئی تھی کہ تم ضرور اسے لوگوں سے صاف صاف بیان کرو گے اور (جو کچھ اس میں بیان ہوا ہے) اسے نہیں چھپاؤ گے تو انہوں نے اس عہد کو پسِ پشت ڈال دیا اور اس کے بدلے تھوڑی سی قیمت وصول کر لی، سو یہ ان کی بہت ہی بُری خریداری ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ان لوگوں کو وہ وقت نہ بھولنا چاہیے) جب اللہ نے اہل کتاب سے یہ عہد لیا تھا کہ : تم اس کتاب کو لوگوں کے سامنے ضرور کھول کھول کر بیان کرو گے، اور اس کو چھپاؤ گے نہیں۔ پھر انہوں نے اس عہد کو پس پشت ڈال دیا اور اس کے بدلے تھوڑی سے قیمت حاصل کرلی، اس طرح کتنی بری ہے وہ چیز جو یہ مول لے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

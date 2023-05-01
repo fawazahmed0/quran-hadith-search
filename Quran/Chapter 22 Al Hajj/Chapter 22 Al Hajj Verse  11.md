@@ -3224,6 +3224,12 @@ baaz log aise bhi hai ke, ek kinaare par (khade) ho kar Allah ki ibaadath karte 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں میں سے کوئی ایسا بھی ہوتا ہے جو (بالکل دین کے) کنارے پر (رہ کر) اللہ کی عبادت کرتا ہے، پس اگر اسے کوئی (دنیاوی) بھلائی پہنچتی ہے تو وہ اس (دین) سے مطمئن ہو جاتا ہے اور اگر اسے کوئی آزمائش پہنچتی ہے تو اپنے منہ کے بل (دین سے) پلٹ جاتا ہے، اس نے دنیا میں (بھی) نقصان اٹھایا اور آخرت میں (بھی)، یہی تو واضح (طور پر) بڑا خسارہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں میں وہ شخص بھی ہے جو ایک کنارے پر رہ کر اللہ کی عبادت کرتا ہے۔ چنانچہ اگر اسے (دنیا میں) کوئی فائدہ پہنچ گیا تو وہ اس سے مطمئن ہوجاتا ہے اور اگر اسے کوئی آزمائش پیش آگئی تو وہ منہ موڑ کر (پھر کفر کی طرف) چل دیتا ہے۔ ایسے شخص نے دنیا بھی کھوئی، اور آخرت بھی۔ یہی تو کھلا ہوا گھاٹا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

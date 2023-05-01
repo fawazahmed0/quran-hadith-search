@@ -3224,6 +3224,12 @@ mere sacche bandho par tera koyi qaabo aur bas nahi, tera rub kaar-saazi karne w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو میرے بندے ہیں ان پر تیرا تسلط نہیں ہو سکے گا، اور تیرا رب ان (اللہ والوں) کی کارسازی کے لئے کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھ کہ جو میرے بندے ہیں، ان پر تیرا کوئی بس نہیں چلے گا۔ اور تیرا پروردگار (ان کی) رکھوالی کے لیے کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

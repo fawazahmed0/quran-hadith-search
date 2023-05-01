@@ -3224,6 +3224,12 @@ agar Allah ta’ala ka fazal wa rahem tujh par na hota to un ki ek jamaath ne to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب!) اگر آپ پر اللہ کا فضل اور اس کی رحمت نہ ہوتی تو ان (دغابازوں) میں سے ایک گروہ یہ ارادہ کر چکا تھا کہ آپ کو بہکا دیں، جب کہ وہ محض اپنے آپ کو ہی گمراہ کر رہے ہیں اور آپ کا تو کچھ بگاڑ ہی نہیں سکتے، اور اللہ نے آپ پر کتاب اور حکمت نازل فرمائی ہے اور اس نے آپ کو وہ سب علم عطا کر دیا ہے جوآپ نہیں جانتے تھے، اورآپ پر اللہ کا بہت بڑا فضل ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) اگر اللہ کا فضل اور رحمت تمہارے شامل حال نہ ہوتی تو ان میں سے ایک گروہ نے تو تم کو سیدھی راہ سے بھٹکانے کا ارادہ کر ہی لیا تھا۔ اور (درحقیقت) یہ اپنے سوا کسی کو نہیں بھٹکا رہے ہیں، اور یہ تم کو ذرا بھی نقصان نہیں پہنچائیں گے۔ اللہ نے تم پر کتاب اور حکمت نازل کی ہے اور تم کو ان باتوں کا علم دیا ہے جو تم نہیں جانتے تھے، اور تم پر اللہ کا فضل ہمیشہ بہت زیادہ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

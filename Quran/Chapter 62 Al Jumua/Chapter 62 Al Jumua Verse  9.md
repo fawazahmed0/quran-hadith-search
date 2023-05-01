@@ -3224,6 +3224,12 @@ aye wo logo jo imaan laaye ho! jume ke din namaaz ki azaan di jaaye to tum Allah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جب جمعہ کے دن (جمعہ کی) نماز کے لئے اذان دی جائے تو فوراً اللہ کے ذکر (یعنی خطبہ و نماز) کی طرف تیزی سے چل پڑو اور خرید و فروخت (یعنی کاروبار) چھوڑ دو۔ یہ تمہارے حق میں بہتر ہے اگر تم علم رکھتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جب جمعہ کے دن نماز کے لیے پکارا جائے تو اللہ کے ذکر کی طرف لپکو، اور خریدو فروخت چھوڑ دو ۔ یہ تمہارے لیے بہتر ہے اگر تم سمجھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

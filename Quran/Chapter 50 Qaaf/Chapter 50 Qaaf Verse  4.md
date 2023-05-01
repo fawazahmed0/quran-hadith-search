@@ -3224,6 +3224,12 @@ zameen jo kuch un mein se ghataati hai, wo hamein maloom hai aur hamaare paas sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم جانتے ہیں کہ زمین اُن (کے جسموں) سے (کھا کھا کر) کتنا کم کرتی ہے، اور ہمارے پاس (ایسی) کتاب ہے جس میں سب کچھ محفوظ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 واقعہ تو یہ ہے کہ زمین ان کے جن حصوں کو (کھا کر) گھٹا دیتی ہے ہمیں ان کا پورا علم ہے اور ہمارے پاس ایک کتاب ہے جو سب کچھ محفوظ رکھتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

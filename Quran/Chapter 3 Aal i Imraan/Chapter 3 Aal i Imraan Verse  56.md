@@ -3224,6 +3224,12 @@ phir kaafiro ko to main dunya aur aaqirath mein saqt tar azaab donga aur un ka k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جو لوگ کافر ہوئے انہیں دنیا اور آخرت (دونوں میں) سخت عذاب دوں گا اور ان کا کوئی مددگار نہ ہو گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جو لوگ ایسے ہیں کہ انہوں نے کفر اپنا لیا ہے، ان کو تو میں دنیا اور آخرت میں سخت عذاب دوں گا، اور ان کو کسی طرح کے مددگار میسر نہیں آئیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

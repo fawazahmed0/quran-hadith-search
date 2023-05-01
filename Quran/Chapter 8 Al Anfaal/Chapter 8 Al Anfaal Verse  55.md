@@ -3224,6 +3224,12 @@ tamam jandaro se badh-tar, Allah ke nazdik wo hai jo kufr kare phir wo iman na l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ کے نزدیک سب جانوروں سے (بھی) بدتر وہ لوگ ہیں جنہوں نے کفر کیا پھر وہ ایمان نہیں لاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ اللہ کے نزدیک زمین پر چلنے والے جان داروں میں بدترین لوگ وہ ہیں جنہوں نے کفر اپنا لیا ہے، جس کی وجہ سے وہ ایمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ is rasool(salallahualihiwasallam)ki jo ita’ath kare osi ne Allah ta’ala ki f
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے رسول (صلی اللہ علیہ وآلہ وسلم) کا حکم مانا بیشک اس نے اللہ (ہی) کا حکم مانا، اور جس نے روگردانی کی تو ہم نے آپ کو ان پر نگہبان بنا کر نہیں بھیجا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو رسول کی اطاعت کرے، اس نے اللہ کی اطاعت کی، اور جو (اطاعت سے) منہ پھیر لے تو (اے پیغمبر) ہم نے تمہیں ان پر نگران بنا کر نہیں بھیجا (کہ تمہیں ان کے عمل کا ذمہ دار ٹھہرایا جائے)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

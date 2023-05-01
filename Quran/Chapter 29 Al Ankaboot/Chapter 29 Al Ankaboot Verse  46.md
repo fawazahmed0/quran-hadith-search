@@ -3224,6 +3224,12 @@ aur ahle kitaab ke saath bahes wa mubaahesa na karo magar us tariqe par jo umdah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے مومنو!) اہلِ کتاب سے نہ جھگڑا کرو مگر ایسے طریقہ سے جو بہتر ہو سوائے ان لوگوں کے جنہوں نے ان میں سے ظلم کیا، اور (ان سے) کہہ دو کہ ہم اس (کتاب) پر ایمان لائے (ہیں) جو ہماری طرف اتاری گئی (ہے) اور جو تمہاری طرف اتاری گئی تھی، اور ہمارا معبود اور تمہارا معبود ایک ہی ہے، اور ہم اسی کے فرمانبردار ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (مسلمانو) اہل کتاب سے بحث نہ کرو، مگر ایسے طریقے سے جو بہترین ہو۔ البتہ ان میں سے جو زیادتی کریں، ان کی بات اور ہے۔ اور (ان سے) یہ کہو کہ : ہم اس کتاب پر بھی ایمان لائے ہیں جو ہم پر نازل کی گئی ہے، اور اس پر بھی جو تم پر نازل کی گئی تھی، اور ہمارا خدا اور تمہارا خدا ایک ہے، اور ہم اسی کے فرمانبردار ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

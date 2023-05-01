@@ -3224,6 +3224,12 @@ wo is liye ke imaan waalo ka kaar-saaz khud Allah ta’ala hai aur is liye ke ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس وجہ سے ہے کہ اللہ ان لوگوں کا ولی و مددگار ہے جو ایمان لائے ہیں اور بیشک کافروں کے لئے کوئی ولی و مددگار نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس لیے کہ اللہ ان لوگوں کا رکھوالا ہے جو ایمان لائیں اور کافروں کا کوئی رکھوالا نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya aap nahi dekhte ke Allah ta’ala raath ko din mein aur din ko raath mein kh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے نہیں دیکھا کہ اللہ رات کو دن میں داخل فرماتا ہے اور دن کو رات میں داخل فرماتا ہے اور (اسی نے) سورج اور چاند کو مسخّر کر رکھا ہے، ہر کوئی ایک مقرّر میعاد تک چل رہا ہے، اور یہ کہ اللہ ان (تمام) کاموں سے جو تم کرتے ہو خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ اللہ رات کو دن میں داخل کردیتا ہے اور دن کو رات میں داخل کردیتا ہے، اور اس نے سورج اور چاند کو کام میں لگا رکھا ہے کہ ہر ایک کسی متعین میعاد تک رواں دواں ہے، اور (کیا تمہیں یہ معلوم نہیں) کہ اللہ پوری طرح باخبر ہے کہ تم کیا کرتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Yaad karo woh waqt jab Ibrahim ne dua ki thi ke “parwardigar, is shehar ko ama
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کیجئے) جب ابراہیم (علیہ السلام) نے عرض کیا: اے میرے رب! اس شہر (مکہ) کو جائے امن بنا دے اور مجھے اور میرے بچوں کو اس (بات) سے بچا لے کہ ہم بتوں کی پرستش کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یاد کرو وہ وقت جب ابراہیم نے (اللہ تعالیٰ سے دعا کرتے ہوئے) کہا تھا کہ : یا رب ! اس شہر کو پر امن بنا دیجیے اور مجھے اور میرے بیٹوں کو اس بات سے بچایے کہ ہم بتوں کی پرستش کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

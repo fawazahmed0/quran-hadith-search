@@ -3224,6 +3224,12 @@ kya Allah ta’ala ne apni maqlooq mein se betiyaa to khud rakh li aur tumhe bet
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے کافرو! اپنے پیمانۂ فکر کے مطابق یہی جواب دو کہ) کیا اس نے اپنی مخلوقات میں سے (خود اپنے لئے تو) بیٹیاں بنا رکھی ہیں اور تمہیں بیٹوں کے ساتھ مختص کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا اللہ نے اپنی مخلوق میں سے اپنے لیے تو بیٹیاں پسند کی ہیں، اور تمہیں بیٹوں کے لیے منتخب کیا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

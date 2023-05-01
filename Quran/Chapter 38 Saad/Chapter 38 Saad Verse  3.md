@@ -3224,6 +3224,12 @@ hum ne un se pehle bhi bahuth si ummato ko tabaah kar daala, unhone har chandh c
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم نے کتنی ہی امّتوں کو اُن سے پہلے ہلاک کر دیا تو وہ (عذاب کو دیکھ کر) پکارنے لگے حالانکہ اب خلاصی (اور رہائی) کا وقت نہیں رہا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان سے پہلے ہم نے کتنی قوموں کو ہلاک کیا، تو انہوں نے اس وقت آوازیں دیں جب چھٹکارے کا وقت رہا ہی نہیں تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

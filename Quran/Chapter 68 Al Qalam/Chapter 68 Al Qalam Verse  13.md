@@ -3224,6 +3224,12 @@ gardan kash, phir saath hee be nasab ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جو) بد مزاج درُشت خو ہے، مزید برآں بد اَصل (بھی) ہے٭o٭ یہ آیات ولید بن مغیرہ کے بارے میں نازل ہوئیں۔ حضرت عبد اﷲ بن عباس رضی اﷲ عنہما فرماتے ہیں کہ جتنے ذِلت آمیز اَلقاب باری تعالیٰ نے اس بدبخت کو دئیے آج تک کلامِ اِلٰہی میں کسی اور کے لئے استعمال نہیں ہوئے۔ وجہ یہ تھی کہ اُس نے حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم کی شانِ اَقدس میں گستاخی کی، جس پر غضبِ اِلٰہی بھڑک اٹھا۔ ولید نے حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم کی شان میں گستاخی کا ایک کلمہ بولا تھا، جواباً باری تعالیٰ نے اُس کے دس رذائل بیان کیے اور آخر میں نطفۂ حرام ہونا بھی ظاہر کر دیا، اور اس کی ماں نے بعد ازاں اِس اَمر کی بھی تصدیق کر دی۔ (تفسیر قرطبی، رازی، نسفی وغیرھم)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بد مزاج ہے اور اس کے علاوہ نچلے نسب والا بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

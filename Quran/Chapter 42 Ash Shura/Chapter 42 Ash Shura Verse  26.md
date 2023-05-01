@@ -3224,6 +3224,12 @@ imaan waalo aur nekokaar logo ki sunta hai aur unhe apne fazl se aur bada kar de
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُن لوگوں کی دعا قبول فرماتا ہے جو ایمان لائے اور نیک اعمال کرتے رہے اور اپنے فضل سے انہیں (اُن کی دعا سے بھی) زیادہ دیتا ہے، اور جو کافر ہیں اُن کے لئے سخت عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں، وہ ان کی دعا سنتا ہے اور انہیں اپنے فضل سے اور زیادہ دیتا ہے، اور کافروں کے لیے سخت عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

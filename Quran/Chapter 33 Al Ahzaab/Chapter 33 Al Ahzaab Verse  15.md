@@ -3224,6 +3224,12 @@ us se pehle to unhone Allah se ehadh kiya tha ke peet na pherenge aur Allah ta�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک انہوں نے اس سے پہلے اللہ سے عہد کر رکھا تھا کہ پیٹھ پھیر کر نہ بھاگیں گے، اور اللہ سے کیے ہوئے عہد کی (ضرور) باز پُرس ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ انہوں نے اللہ سے پہلے یہ عہد کر رکھا تھا کہ وہ پیٹھ پھیر کر نہیں جائیں گے۔ اور اللہ سے کیے ہوئے عہد کی باز پرس ضرور ہو کر رہے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

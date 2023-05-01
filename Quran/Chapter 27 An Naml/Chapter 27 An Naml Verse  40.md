@@ -3224,6 +3224,12 @@ jis ke paas kitaab ka ilm tha wo bol utha ke aap palak jhapkaaye, us se bhi pehl
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(پھر) ایک ایسے شخص نے عرض کیا جس کے پاس (آسمانی) کتاب کا کچھ علم تھا کہ میں اسے آپ کے پاس لا سکتا ہوں قبل اس کے کہ آپ کی نگاہ آپ کی طرف پلٹے (یعنی پلک جھپکنے سے بھی پہلے)، پھر جب (سلیمان علیہ السلام نے) اس (تخت) کو اپنے پاس رکھا ہوا دیکھا (تو) کہا: یہ میرے رب کا فضل ہے تاکہ وہ مجھے آزمائے کہ آیا میں شکر گزاری کرتا ہوں یا نا شکری، اور جس نے (اللہ کا) شکر ادا کیا سو وہ محض اپنی ہی ذات کے فائدہ کے لئے شکر مندی کرتا ہے اور جس نے ناشکری کی تو بیشک میرا رب بے نیاز، کرم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس کے پاس کتاب کا علم تھا، وہ بول اٹھا : میں آپ کی آنکھ جھپکنے سے پہلے ہی اسے آپ کے پاس لے آتا ہوں۔ چنانچہ جب سلیمان نے وہ تخت اپنے پاس رکھا ہوا دیکھا تو کہا : یہ میرے پروردگار کا فضل ہے، تاکہ وہ مجھے آزمائے کہ میں شکر کرتا ہوں یا ناشکری ؟ اور جو کوئی شکر کرتا ہے تو اپنے ہی فائدے کے لیے شکر کرتا ہے، اور اگر کوئی ناشکری کرے تو میرا پروردگار بےنیاز ہے، کریم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

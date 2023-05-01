@@ -3224,6 +3224,12 @@ us waqt ko yad karo jab ke tum apne rub se faryad kar rahe thein,phir Allah tala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ وقت یاد کرو) جب تم اپنے رب سے (مدد کے لئے) فریاد کر رہے تھے تو اس نے تمہاری فریاد قبول فرمالی (اور فرمایا) کہ میں ایک ہزار پے در پے آنے والے فرشتوں کے ذریعے تمہاری مدد کرنے والا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد کرو جب تم اپنے رب سے فریاد کر رہے تھے، تو اس نے تمہاری فریاد کا جواب دیا کہ میں تمہاری مدد کے لیے ایک ہزار فرشتوں کی کمک بھیجے والا ہوں جو لگاتار آئیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

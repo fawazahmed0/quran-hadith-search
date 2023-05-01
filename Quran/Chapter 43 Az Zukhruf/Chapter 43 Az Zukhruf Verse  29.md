@@ -3224,6 +3224,12 @@ balke main ne un logo ko aur un ke baap dadaao ko samaan (aur asbaab) diya, yaha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ میں نے انہیں اور اِن کے آباء و اجداد کو (اسی ابراہیم علیہ السلام کے تصدّق اور واسطہ سے اِس دنیا میں) فائدہ پہنچایا ہے یہاں تک کہ اِن کے پاس حق (یعنی قرآن) اور واضح و روشن بیان والا رسول (صلی اللہ علیہ وآلہ وسلم) تشریف لے آیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (پھر بھی بہت سے لوگ باز نہ آئے) اس کے باوجود میں نے ان کو اور ان کے باپ دادوں کو زندگی کے فائدے دیے، یہاں تک کہ ان کے پاس حق اور صاف صاف ہدایت دینے والا پیغمبر آگیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

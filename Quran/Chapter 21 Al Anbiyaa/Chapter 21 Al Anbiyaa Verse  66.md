@@ -3224,6 +3224,12 @@ Allah ke qaleel ne osi waqt farmaaya, afsoos! kya tum Allah ke alaawa un ki ibaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ابراہیم علیہ السلام نے) فرمایا: پھر کیا تم اللہ کو چھوڑ کر ان (مورتیوں) کو پوجتے ہو جو نہ تمہیں کچھ نفع دے سکتی ہیں اور نہ تمہیں نقصان پہنچا سکتی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابراہیم نے کہا : بھلا بتاؤ کہ کیا تم اللہ کو چھوڑ کر ایسی چیزوں کی عبادت کر رہے ہو جو تمہیں نہ کچھ فائدہ پہنچاتی ہیں نہ نقصان ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

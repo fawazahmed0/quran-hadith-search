@@ -3224,6 +3224,12 @@ isi tarah hum ne tujh par arabi Qur’aan naazil farmaya hai aur tarah tarah se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے اس (آخری وحی) کو عربی زبان میں (بشکلِ) قرآن اتارا ہے اور ہم نے اس میں (عذاب سے) ڈرانے کی باتیں بار بار (مختلف طریقوں سے) بیان کی ہیں تاکہ وہ پرہیزگار بن جائیں یا (یہ قرآن) ان (کے دلوں) میں یادِ (آخرت یا قبولِ نصیحت کا جذبہ) پیدا کردے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اسی طرح یہ وحی ایک عربی قرآن کی شکل میں نازل کی ہے، اور اس میں تنبیہات کو طرح طرح سے بیان کیا ہے، تاکہ لوگ پرہیزگاری اختیار کریں، یا یہ قرآن ان میں کچھ سوچ سمجھ پیدا کرے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

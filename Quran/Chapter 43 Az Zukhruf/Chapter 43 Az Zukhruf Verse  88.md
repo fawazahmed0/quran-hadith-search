@@ -3224,6 +3224,12 @@ aur un ka (paighambar ka aksar) ye kehna ke aye mere rab! yaqinan ye wo log hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُس (حبیبِ مکرّم) کے (یوں) کہنے کی قسم کہ یا ربّ! بیشک یہ ایسے لوگ ہیں جو ایمان (ہی) نہیں لاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کو پیغمبر کی اس بات کا بھی علم ہے کہ : یا رب ! یہ ایسے لوگ ہیں جو ایمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye is liye ke un ke paas un ke rasool waazeh dalaayel le kar aaye, to unhone keh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس لئے کہ اُن کے پاس اُن کے رسول واضح نشانیاں لے کر آتے تھے تو وہ کہتے تھے: کیا (ہماری ہی مثل اور ہم جنس) بشر٭ ہمیں ہدایت کریں گے؟ سو وہ کافر ہوگئے اور انہوں نے (حق سے) رُوگردانی کی اور اللہ نے بھی (اُن کی) کچھ پرواہ نہ کی، اور اللہ بے نیاز ہے لائقِ حمد و ثنا ہےo٭ بشر کا یہ معنی ائمہ تفاسیر کے بیان کردہ معنی کے مطابق ہے۔ حوالہ جات کے لئے دیکھیں: تفسیر طبری، الکشاف، نسفی، بغوی، خازن، جمل، مظہری اور فتح القدیر وغیرہ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ اس لیے ہوا کہ ان کے پاس ان کے پیغمبر روشن دلائل لے کر آتے تھے تو وہ کہتے تھے کہ : کیا (ہم جیسے) انسان ہیں جو ہمیں ہدایت دیں گے ؟ غرض انہوں نے کفر اختیار کیا اور منہ موڑا، اور اللہ نے بھی بےنیازی برتی، اور اللہ بالکل بےنیاز ہے بذات خود قابل تعریف۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

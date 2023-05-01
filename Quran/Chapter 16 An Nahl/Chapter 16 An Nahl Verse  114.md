@@ -3224,6 +3224,12 @@ jo kuch halaal aur pakiza rozi Allah ne tumhe de rakhi hai ose khaao aur Allah k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جو حلال اور پاکیزہ رزق تمہیں اللہ نے بخشا ہے، تم اس میں سے کھایا کرو اور اللہ کی نعمت کا شکر بجا لاتے رہو اگر تم اسی کی عبادت کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اللہ نے جو حلال پاکیزہ چیزیں تمہیں رزق کے طور پر دی ہیں، انہیں کھاؤ، اور اللہ کی نعمتوں کا شکر ادا کرو، اگر تم واقعی اسی کی عبادت کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

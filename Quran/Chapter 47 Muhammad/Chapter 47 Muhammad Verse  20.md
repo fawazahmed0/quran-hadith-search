@@ -3224,6 +3224,12 @@ aur jo log imaan laaye wo kehte hai, koyi surath kyo naazil nahi ki gayi? phir j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ایمان والے کہتے ہیں کہ (اپنے دفاع میں جنگ کی اِجازت سے متعلق) کوئی سورت کیوں نہیں اتاری جاتی؟ پھر جب کوئی واضح سورت نازل کی جاتی ہے اور اس میں (دفاعی) جنگ کا (صریحاً) ذکر کیا جاتا ہے تو آپ ایسے لوگوں کو جن کے دلوں میں (نفاق کی) بیماری ہے (اور وہ آپ کی اور مسلمانوں کی سلامتی نہیں چاہتے) ملاحظہ فرماتے ہیں کہ وہ آپ کی طرف (اس طرح) دیکھتے ہیں جیسے وہ شخص دیکھتا ہے جس پر موت کی غشی طاری ہو رہی ہو۔ سو ان کے لیے خرابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لائے ہیں، وہ کہتے ہیں کہ : کیا اچھا ہو کہ کوئی (نئی) سورت نازل ہوجائے ؟ پھر جب کوئی جچی تلی سورت نازل ہوجائے، اور اس میں لڑائی کا ذکر ہو تو جن لوگوں کے دلوں میں روگ ہے، تم انہیں دیکھو گے کہ وہ تمہاری طرف اس طرح نظریں اٹھائے ہوئے ہیں جیسے کسی پر موت کی غشی طاری ہو۔ بڑی خرابی ہے ایسے لوگوں کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

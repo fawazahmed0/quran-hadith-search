@@ -3224,6 +3224,12 @@ tumhaare paas jitni bhi nemate hai sub osi ki di hoyi hai, ab bhi jab tumhe koyi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہیں جو نعمت بھی حاصل ہے سو وہ اللہ ہی کی جانب سے ہے، پھر جب تمہیں تکلیف پہنچتی ہے تو تم اسی کے آگے گریہ و زاری کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم کو جو نعمت بھی حاصل ہوتی ہے، وہ اللہ کی طرف سے ہوتی ہے، پھر جب تمہیں کوئی تکلیف پہنچتی ہے تو اسی سے فریادیں کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

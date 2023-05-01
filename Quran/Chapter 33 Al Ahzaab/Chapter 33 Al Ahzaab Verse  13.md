@@ -3224,6 +3224,12 @@ un hee ki ek jamaath ne haank lagaayi ke aye madine waalo! tumhaare liye thikaan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جبکہ اُن میں سے ایک گروہ کہنے لگا: اے اہلِ یثرب! تمہارے (بحفاظت) ٹھہرنے کی کوئی جگہ نہیں رہی، تم واپس (گھروں کو) چلے جاؤ، اور ان میں سے ایک گروہ نبی (اکرم صلی اللہ علیہ وآلہ وسلم) سے یہ کہتے ہوئے (واپس جانے کی) اجازت مانگنے لگا کہ ہمارے گھر کھلے پڑے ہیں، حالانکہ وہ کھلے نہ تھے، وہ (اس بہانے سے) صرف فرار چاہتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب انہی میں سے کچھ لوگوں نے کہا تھا کہ : یثرت کے لوگو ! تمہارے لیے یہاں ٹھہرے کا کوئی موقع نہیں ہے، بس واپس لوٹ جاؤ۔ اور انہی میں سے کچھ لوگ نبی سے یہ کہہ کر (گھر جانے کی) اجازت مانگ رہے تھے کہ : ہمارے گھر غیر محفوظ ہیں حالانکہ وہ غیر محفوظ نہیں تھے، بلکہ ان کا مقصد صرف یہ تھا کہ (کسی طرح) بھاگ کھڑے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un ke chaaro taraf se sone ki rikaabiya aur sone ke gilaaso ka daur chalaya jaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان پر سونے کی پلیٹوں اور گلاسوں کا دور چلایا جائے گا اور وہاں وہ سب چیزیں (موجود) ہوں گی جن کو دل چاہیں گے اور (جن سے) آنکھیں راحت پائیں گی اور تم وہاں ہمیشہ رہو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے آگے سونے کے پیالے اور گلاس گردش میں لائے جائیں گے۔ اور اس جنت میں ہر وہ چیز ہوگی جس کی دلوں کو خواہش ہوگی اور جس سے آنکھوں کو لذت حاصل ہوگی۔ (ان سے کہا جائے گا کہ) اس جنت میں تم ہمیشہ رہو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

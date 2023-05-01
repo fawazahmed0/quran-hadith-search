@@ -3224,6 +3224,12 @@ ye jamaath to guzar choki, jo unhone kiya wo un ke liye hai, aur jo tum karoge t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ ایک امت تھی جو گزر چکی، ان کے لئے وہی کچھ ہوگا جو انہوں نے کمایا اور تمہارے لئے وہ ہوگا جو تم کماؤ گے اور تم سے ان کے اعمال کی باز پُرس نہ کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ایک امت تھی جو گزر گئی، جو کچھ انہوں نے کمایا وہ ان کا ہے اور جو کچھ تم نے کمایا وہ تمہارا ہے، اور تم سے یہ نہیں پوچھا جائے گا کہ وہ کیا عمل کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye jin chizo ko keh raha hai, ose hum us ke baadh le lenge, aur ye to bilkul ake
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (مرنے کے بعد) جو یہ کہہ رہا ہے اس کے ہم ہی وارث ہوں گے اور وہ ہمارے پاس تنہا آئے گا (اس کے مال و اولاد ساتھ نہ ہوں گے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس (مال اور اولاد) کا یہ حوالہ دے رہا ہے، اس کے وارث ہم ہوں گے، اور یہ ہمارے پاس تن تنہا آئے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

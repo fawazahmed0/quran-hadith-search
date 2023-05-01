@@ -3224,6 +3224,12 @@ so jis shaqs ko Allah ta’ala raaste par daalna chaahe us ke sine ko islam ke l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اللہ جس کسی کو (فضلاً) ہدایت دینے کا ارادہ فرماتا ہے اس کا سینہ اسلام کے لئے کشادہ فرما دیتا ہے اور جس کسی کو (عدلاً اس کی اپنی خرید کردہ) گمراہی پر ہی رکھنے کا ارادہ فرماتا ہے اس کا سینہ (ایسی) شدید گھٹن کے ساتھ تنگ کر دیتا ہے گویا وہ بمشکل آسمان (یعنی بلندی) پر چڑھ رہا ہو، اسی طرح اللہ ان لوگوں پر عذابِ (ذّلت) واقع فرماتا ہے جو ایمان نہیں لاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض جس شخص کو اللہ ہدایت تک پہنچانے کا ارادہ کرلے، اس کا سینہ اسلام کے لیے کھول دیتا ہے، اور جس کو (اس کی ضد کی وجہ سے) گمراہ کرنے کا ارادہ کرلے، اس کے سینے کو تنگ اور اتنا زیادہ تنگ کردیتا ہے کہ (اسے ایمان لانا ایسا مشکل معلوم ہوتا ہے) جیسے اسے زبردستی آسمان پر چڑھنا پڑ رہا ہو۔ اسی طرح اللہ (کفر کی) گندگی ان لوگوں پر مسلط کردیتا ہے جو ایمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

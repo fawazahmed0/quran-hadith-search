@@ -3224,6 +3224,12 @@ aap jahaa se nikle apna mu (namaaz ke liye) masjid haraam ki taraf kar liya kare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم جدھر سے بھی (سفر پر) نکلو اپنا چہرہ (نماز کے وقت) مسجدِ حرام کی طرف پھیر لو، اور یہی تمہارے رب کی طرف سے حق ہے، اور اللہ تمہارے اعمال سے بے خبر نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم جہاں سے بھی (سفر کے لیے) نکلو، اپنا منہ (نماز کے وقت) مسجد حرام کی طرف کرو، اور یقینا یہی بات ہے جو تمہارے پروردگار کی طرف سے آئی ہے اور جو کچھ تم کرتے ہو اللہ اس سے بیخبر نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

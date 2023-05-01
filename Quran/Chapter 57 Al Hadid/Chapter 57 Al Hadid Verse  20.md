@@ -3224,6 +3224,12 @@ qoob jaan rakho ke dunya ki zindagi sirf khel tamaasha, zeenath aur aapas mein f
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جان لو کہ دنیا کی زندگی محض کھیل اور تماشا ہے اور ظاہری آرائش ہے اور آپس میں فخر اور خود ستائی ہے اور ایک دوسرے پر مال و اولاد میں زیادتی کی طلب ہے، اس کی مثال بارش کی سی ہے کہ جس کی پیداوار کسانوں کو بھلی لگتی ہے پھر وہ خشک ہو جاتی ہے پھر تم اسے پک کر زرد ہوتا دیکھتے ہو پھر وہ ریزہ ریزہ ہو جاتی ہے، اور آخرت میں (نافرمانوں کے لئے) سخت عذاب ہے اور (فرمانبرداروں کے لئے) اللہ کی جانب سے مغفرت اور عظیم خوشنودی ہے، اور دنیا کی زندگی دھوکے کی پونجی کے سوا کچھ نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 خوب سمجھ لو کہ اس دنیا والی زندگی کی حقیقت بس یہ ہے کہ وہ نام ہے کھیل کود کا، ظاہری سجاوٹ کا، تمہارے ایک دوسرے پر فخر جتانے کا، اور مال اور اولاد میں ایک دوسرے سے بڑھنے کی کوشش کرنے کا۔ اس کی مثال ایسی ہے جیسے ایک بارش جس سے اگنے والی چیزیں کسانوں کو بہت اچھی لگتی ہیں، پھر وہ اپنا زور دکھاتی ہیں، پھر تم اس کو دیکھتے ہو کہ زرد پڑگئی ہے، پھر وہ چورا چورا ہوجاتی ہے۔ اور آخرت میں (ایک تو) سخت عذاب ہے، اور (دوسرے) اللہ کی طرف سے بخشش ہے، اور خوشنودی، او دنیا والی زندگی دھکے کے سامان کے سوا کچھ بھی نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

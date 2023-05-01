@@ -3224,6 +3224,12 @@ kaha accha tum par salaam ho, main to apne parvardigaar se tumhaari baqshish ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ابراہیم علیہ السلام نے) کہا: (اچھا) تمہیں سلام، میں اب (بھی) اپنے رب سے تمہارے لئے بخشش مانگوں گا، بیشک وہ مجھ پر بہت مہربان ہے (شاید تمہیں ہدایت عطا فرما دے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابراہیم نے کہا : میں آپ کو (رخصت کا) سلام کرتا ہوں۔ میں اپنے پروردگار سے آپ کی بخشش کی دعا کروں گا۔ بیشک وہ مجھ پر بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

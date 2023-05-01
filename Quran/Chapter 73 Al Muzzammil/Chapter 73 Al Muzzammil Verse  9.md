@@ -3224,6 +3224,12 @@ mashriq wa maghrib ka parvardigaar, jis ke siva koyi maboodh nahi, tu osi ko apn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ مشرق و مغرب کا مالک ہے، اُس کے سوا کوئی معبود نہیں، سو اُسی کو (اپنا) کارساز بنا لیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ مشرق و مغرب کا مالک ہے، اس کے سوا کوئی معبود نہیں، اس لیے اسی کو کارساز بنا لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

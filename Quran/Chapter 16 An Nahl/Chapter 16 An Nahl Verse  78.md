@@ -3224,6 +3224,12 @@ Allah ta’ala ne tumhe tumhari maao ke peto se nikaala ke us waqt tum kuch bhi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے تمہیں تمہاری ماؤں کے پیٹ سے (اس حالت میں) باہر نکالا کہ تم کچھ نہ جانتے تھے اور اس نے تمہارے لئے کان اور آنکھیں اور دل بنائے تاکہ تم شکر بجا لاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے تم کو تمہاری ماؤں کے پیٹ سے اس حالت میں نکالا کہ تم کچھ نہیں جانتے تھے، اور تمہارے لیے کان، آنکھیں اور دل پیدا کیے، تاکہ تم شکر ادا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

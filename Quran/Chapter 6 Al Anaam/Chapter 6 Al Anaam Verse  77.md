@@ -3224,6 +3224,12 @@ phir jab chaandh ko dekha chamakta hoa to farmaaya ke ye mera rab hai lekin jab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب چاند کو چمکتے دیکھا (تو) کہا: (کیا تمہارے خیال میں) یہ میرا رب ہے؟ پھرجب وہ (بھی) غائب ہوگیا تو (اپنی قوم کو سنا کر) کہنے لگے: اگر میرا رب مجھے ہدایت نہ فرماتا تو میں بھی ضرور (تمہاری طرح) گمراہوں کی قوم میں سے ہو جاتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب انہوں نے چاند کو چمکتے دیکھا تو کہا کہ : یہ میرا رب ہے۔ لیکن جب وہ بھی ڈوب گیا تو کہنے لگے : اگر میرا رب مجھے ہدایت نہ دیتا تو میں یقینا گمراہ لوگوں میں شامل ہوجاؤں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

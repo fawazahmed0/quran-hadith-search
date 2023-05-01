@@ -3224,6 +3224,12 @@ asmaano aur zameen ki konjiya osi ki hai, jis ki chaahe rozi kushaada karde aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی آسمانوں اور زمین کی کُنجیوں کا مالک ہے (یعنی جس کے لئے وہ چاہے خزانے کھول دیتا ہے) وہ جس کے لئے چاہتا ہے رِزق و عطا کشادہ فرما دیتا ہے اور (جس کے لئے چاہتا ہے) تنگ کر دیتا ہے۔ بیشک وہ ہر چیز کا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین کی ساری کنجیاں اسی کے قبضے میں ہیں، وہ جس کے لیے چاہتا ہے رزق میں وسعت اور تنگی کرتا ہے، یقینا وہ ہر چیز کا جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

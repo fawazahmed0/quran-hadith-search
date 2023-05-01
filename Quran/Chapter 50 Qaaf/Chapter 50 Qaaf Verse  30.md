@@ -3224,6 +3224,12 @@ jis din hum dozakh se pochenge kya tu bhar chuki? wo jawaab degi kya kuch aur zy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس دن ہم دوزخ سے فرمائیں گے: کیا تو بھر گئی ہے؟ اور وہ کہے گی: کیا کچھ اور زیادہ بھی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ وقت (یاد رکھو) جب ہم جہنم سے کہیں گے کہ : کیا تو بھر گئی ؟ اور وہ کہے گی کہ : کیا کچھ اور بھی ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

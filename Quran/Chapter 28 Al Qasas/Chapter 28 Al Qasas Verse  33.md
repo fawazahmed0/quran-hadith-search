@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ne kaha parvardigaar! main ne in ka ek aadmi qatl kar diya t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) عرض کیا: اے پروردگار! میں نے ان میں سے ایک شخص کو قتل کر ڈالا تھا سو میں ڈرتا ہوں کہ وہ مجھے قتل کرڈالیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : میرے پروردگار ! میں نے ان کا ایک آدمی قتل کردیا تھا، اس لیے مجھے ڈر ہے کہ وہ مجھے قتل نہ کردیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ momino ko chaahiye ke imaan waalo ko chohd kar kaafiro ko apna dosth na banaaye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مسلمانوں کو چاہئے کہ اہلِ ایمان کو چھوڑ کر کافروں کو دوست نہ بنائیں اور جو کوئی ایسا کرے گا اس کے لئے اللہ (کی دوستی میں) سے کچھ نہیں ہوگا سوائے اس کے کہ تم ان (کے شر) سے بچنا چاہو، اور اللہ تمہیں اپنی ذات (کے غضب) سے ڈراتا ہے، اور اللہ ہی کی طرف لوٹ کر جانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مومن لوگ مسلمانوں کو چھوڑ کر کافروں کو اپنا یارومددگار نہ بنائیں اور جو ایسا کرے گا اس کا اللہ سے کوئی تعلق نہیں، الا یہ کہ تم ان (کے ظلم) سے بچنے کے لیے بچاؤ کا کوئی طریقہ اختیار کرو، اور اللہ تمہیں اپنے (عذاب) سے بچاتا ہے، اور اسی کی طرف (سب کو) لوٹ کر جانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

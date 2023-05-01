@@ -3224,6 +3224,12 @@ aur ye kehte hai ke sirf yahi dunyaawi zindagi hamaari zindagi hai aur hum zinda
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (یہی) کہتے رہیں گے (جیسے انہوں نے پہلے کہا تھا) کہ ہماری اس دنیوی زندگی کے سوا (اور) کوئی (زندگی) نہیں اور ہم (مرنے کے بعد) نہیں اٹھائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ تو یوں کہتے ہیں کہ جو کچھ ہے بس یہی دنیوی زندگی ہے اور ہم مر کر دوبارہ زندہ نہیں کیے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

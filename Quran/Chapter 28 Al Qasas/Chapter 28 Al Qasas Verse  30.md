@@ -3224,6 +3224,12 @@ pas jab wahaan pahonche to us ba barkath zameen ke maidaan ke daay kinaare ke da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب موسٰی (علیہ السلام) وہاں پہنچے تو وادئ (طور) کے دائیں کنارے سے بابرکت مقام میں (واقع) ایک درخت سے آواز دی گئی کہ اے موسٰی! بیشک میں ہی اللہ ہوں (جو) تمام جہانوں کا پروردگار (ہوں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب وہ اس آگ کے پاس پہنچے تو دائیں وادی کے کنارے پر جو برکت والے علاقے میں واقع تھی، ایک درخت سے آواز آئی کہ : اے موسیٰ ! میں ہی اللہ ہوں، تمام جہانوں کا پروردگار
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

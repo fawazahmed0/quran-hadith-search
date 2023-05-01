@@ -3224,6 +3224,12 @@ ye wo log hai jin ki jagah jahannam hai, jahaan se unhe chutkaara na milega
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں جن کا ٹھکانا دوزخ ہے اور وہ وہاں سے بھاگنے کی کوئی جگہ نہ پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سب کا ٹھکانا جہنم ہے اور ان کو اس سے بچنے کے لیے کوئی راہ فرار نہیں ملے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

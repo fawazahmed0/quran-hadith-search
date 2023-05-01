@@ -3224,6 +3224,12 @@ aur Allah ta’ala ki ibaadath karo aur us ke saath kisi ko shareek na karo aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اللہ کی عبادت کرو اور اس کے ساتھ کسی کو شریک نہ ٹھہراؤ اور ماں باپ کے ساتھ بھلائی کرو اور رشتہ داروں اور یتیموں اور محتاجوں (سے) اور نزدیکی ہمسائے اور اجنبی پڑوسی اور ہم مجلس اور مسافر (سے)، اور جن کے تم مالک ہو چکے ہو، (ان سے نیکی کیا کرو)، بیشک اللہ اس شخص کو پسند نہیں کرتا جو تکبرّ کرنے والا (مغرور) فخر کرنے والا (خود بین) ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کی عبادت کرو، اور اس کے ساتھ کسی کو شریک نہ ٹھہراؤ، اور والدین کے ساتھ اچھا سلوک کرو، نیز رشتہ داروں، یتیموں، مسکینوں، قریب والے پڑوسی، دور والے پڑوسی، ساتھ بیٹھے (یا ساتھ کھڑے) ہوئے شخص اور راہ گیر کے ساتھ اور اپنے غلام باندیوں کے ساتھ بھی (اچھا برتاؤ رکھو) بیشک اللہ کسی اترانے والے شیخی باز کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas aap ne khud un jaanwaro ko paani pila diya, phir saaye ki taraf hat aaye aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو انہوں نے دونوں (کے ریوڑ) کو پانی پلا دیا پھر سایہ کی طرف پلٹ گئے اور عرض کیا: اے رب! میں ہر اس بھلائی کا جو تو میری طرف اتارے محتاج ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر موسیٰ نے ان کی خاطر ان کے جانوروں کو پانی پلا دیا، پھر مڑ کر ایک سائے کی جگہ چلے گئے، اور کہنے لگے : میرے پروردگار ! جو کوئی بہتری تو مجھ پر اوپر سے نازل کردے، میں اس کا محتاج ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

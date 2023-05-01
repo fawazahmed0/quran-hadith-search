@@ -3224,6 +3224,12 @@ un ke pahonchne se pehle hum ne Mosa(alaihissalaam) par daaiyo ka doodh haraam k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے پہلے ہی سے موسٰی (علیہ السلام) پر دائیوں کا دودھ حرام کر دیا تھا سو (موسٰی علیہ السلام کی بہن نے) کہا: کیا میں تمہیں ایسے گھر والوں کی نشاندہی کروں جو تمہارے لئے اس (بچے) کی پرورش کر دیں اور وہ اس کے خیر خواہ (بھی) ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ پر پہلے ہی سے یہ بندش لگا دی تھی کہ وہ دودھ پلانے والیاں انہیں دودھ نہ پلاسکیں۔ اس لیے ان کی بہن نے کہا : کیا میں تمہیں ایسے گھر کا پتہ بتاؤں جس کے لوگ تمہارے لیے اس بچے کی پرورش کریں، اور اس کے خیر خواہ رہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

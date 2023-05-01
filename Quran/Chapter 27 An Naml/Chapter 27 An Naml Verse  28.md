@@ -3224,6 +3224,12 @@ mere is qath ko le ja kar unhe de de, phir un ke paas se hat aa, aur dekh ke wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+میرا یہ خط لے جا اور اسے ان کی طرف ڈال دے پھر ان کے پاس سے ہٹ آپھر دیکھ وہ کس بات کی طرف رجوع کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرا یہ خط لے کر جاؤ اور ان کے پاس ڈال دینا، پھر الگ ہٹ جانا، اور دیکھنا کہ وہ جواب میں کیا کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

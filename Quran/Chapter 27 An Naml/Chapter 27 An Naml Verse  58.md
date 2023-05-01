@@ -3224,6 +3224,12 @@ aur un par ek qaas (qism ki) baarish barsa di, pas un dhamkaaye hoye logo par bu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان پر خوب (پتھروں کی) بارش برسائی، سو (ان) ڈرائے گئے لوگوں پر (پتھروں کی) بارش نہایت ہی بری تھی۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان پر ایک زبردست بارش برسائی، چنانچہ بہت بری بارش تھی جو ان لوگوں پر برسی جنہیں پہلے سے خبردار کردیا گیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

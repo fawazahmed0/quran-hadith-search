@@ -3224,6 +3224,12 @@ aur kaha unhone ke har giz apne mabudho ko na chohd na aur na wadh aur sava aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کہتے رہے کہ تم اپنے معبودوں کو مت چھوڑنا اور وَدّ اور سُوَاع اور یَغُوث اور یَعُوق اور نَسر (نامی بتوں) کو (بھی) ہرگز نہ چھوڑنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اپنے آدمیوں سے) کہا ہے کہ : اپنے معبودوں کو ہرگز مت چھوڑنا۔ نہ ود اور سواع کو کسی صورت میں چھوڑنا، اور نہ یغوث، یعوق اور نسر کو چھوڑنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

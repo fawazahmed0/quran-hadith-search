@@ -3224,6 +3224,12 @@ wo to sirf ek zoor ki jhidki hai, ke yeka yek ye dekhne lagenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس وہ تو محض ایک (زور دار آواز کی) سخت جھڑک ہوگی سو سب اچانک (اٹھ کر) دیکھنے لگ جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بس وہ تو ایک ہی زور دار آواز ہوگی، جس کے بعد وہ اچانک (سارے ہولناک مناظر) دیکھنے لگیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

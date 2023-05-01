@@ -3224,6 +3224,12 @@ kahaa ye sirf mere rub ki meherbaani hain, haan jab mere rub ka waada aayega to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ذوالقرنین نے) کہا: یہ میرے رب کی جانب سے رحمت ہے، پھر جب میرے رب کا وعدۂ (قیامت قریب) آئے گا تو وہ اس دیوار کو (گرا کر) ہموار کردے گا (دیوار ریزہ ریزہ ہوجائے گی)، اور میرے رب کا وعدہ برحق ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ذوالقرنین نے کہا : یہ میرے رب کی رحمت ہے (کہ اس نے ایسی دیوار بنانے کی توفیق دی) پھر میرے رب نے جس وقت کا وعدہ کیا ہے جب وہ وقت آئے گا تو وہ اس (دیوار) کو ڈھا کر زمین کے برابر کردے گا، اور میرے رب کا وعدہ بالکل سچا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

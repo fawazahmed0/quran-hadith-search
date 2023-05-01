@@ -3224,6 +3224,12 @@ jo log paak daaman logo par zina ki tuhmath lagaaye, phir chaar gawaah na pesh k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ پاک دامن عورتوں پر (بدکاری کی) تہمت لگائیں پھر چار گواہ پیش نہ کر سکیں تو تم انہیں (سزائے قذف کے طور پر) اسّی کوڑے لگاؤ اور کبھی بھی ان کی گواہی قبول نہ کرو، اور یہی لوگ بدکردار ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ پاک دامن عورتوں پر تہمت لگائیں، پھر چار گواہ لے کر نہ آئیں، تو ان کو اسی کوڑے لگاؤ اور ان کی گواہی کبھی قبول نہ کرو، اور وہ خود فاسق ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

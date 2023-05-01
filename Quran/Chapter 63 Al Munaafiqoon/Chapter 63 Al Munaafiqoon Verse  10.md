@@ -3224,6 +3224,12 @@ aur jo kuch hum ne tumhe de rakha hai, us mein se (hamaari raah mein) us se pehl
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اس (مال) میں سے جو ہم نے تمہیں عطا کیا ہے (اللہ کی راہ میں) خرچ کرو قبل اِس کے کہ تم میں سے کسی کو موت آجائے پھر وہ کہنے لگے: اے میرے رب! تو نے مجھے تھوڑی مدت تک کی مہلت اور کیوں نہ دے دی کہ میں صدقہ و خیرات کرلیتا اور نیکوکاروں میں سے ہو جاتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے تمہیں جو رزق دیا ہے اس میں سے (اللہ کے حکم کے مطابق) خرچ کرلو، قبل اس کے کہ تم میں سے کسی کے پاس موت آجائے تو وہ یہ کہے کہ : اے میرے پروردگار ! تو نے مجھے تھوڑی دیر کے لیے اور مہلت کیوں نہ دے دی کہ میں خوب صدقہ کرتا، اور نیک لوگوں میں شامل ہوجاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

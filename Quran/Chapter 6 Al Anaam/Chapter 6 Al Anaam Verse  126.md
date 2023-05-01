@@ -3224,6 +3224,12 @@ aur yahi tere rab ka sidha raasta hai, hum ne nasihath haasil karne waalo ke waa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (اسلام ہی) آپ کے رب کا سیدھا راستہ ہے، بیشک ہم نے نصیحت قبول کرنے والے لوگوں کے لئے آیتیں تفصیل سے بیان کر دی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (اسلام) تمہارے پروردگار کا (بتایا ہوا) سیدھا سیدھا راستہ ہے۔ جو لوگ نصیحت قبول کرتے ہیں، ان کے لیے ہم نے (اس راستے کی) نشانیاں کھول کھول کر بیان کردی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

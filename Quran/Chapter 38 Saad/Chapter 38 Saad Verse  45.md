@@ -3224,6 +3224,12 @@ hamaare bandho Ibraheem, Is’haaq aur Yaqoob(alaihim assalaam) ka bhi logo se z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہمارے بندوں ابراہیم اور اسحاق اور یعقوب (علیھم السلام) کا ذکر کیجئے جو بڑی قوّت والے اور نظر والے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہمارے بندوں ابراہیم، اسحاق اور یعقوب کو یاد کرو جو (نیک عمل کرنے والے) ہاتھ اور (دیکھنے والی) آنکھیں رکھتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

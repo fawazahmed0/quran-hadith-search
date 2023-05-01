@@ -3224,6 +3224,12 @@ tum mein se jo log apni biwiyo se zihaar1 karte hai (yaani unhe maa keh baithte 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم میں سے جو لوگ اپنی بیویوں سے ظِہار کر بیٹھتے ہیں (یعنی یہ کہہ بیٹھتے ہیں کہ تم مجھ پر میری ماں کی پشت کی طرح ہو)، تو (یہ کہنے سے) وہ اُن کی مائیں نہیں (ہوجاتیں)، اُن کی مائیں تو صرف وہی ہیں جنہوں نے اُن کو جَنا ہے، اور بیشک وہ لوگ بری اور جھوٹی بات کہتے ہیں، اور بیشک اللہ ضرور درگزر فرمانے والا بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم میں سے جو لوگ اپنی بیویوں سے ظہار کرتے ہیں (ان کے اس عمل سے) وہ بیویاں ان کی مائیں نہیں ہوجاتیں۔ ان کی مائیں تو وہی ہیں جنہوں نے ان کو جنم دیا ہے۔ حقیقت یہ ہے کہ یہ لوگ ایسی بات کہتے ہیں جو بہت بری ہے، اور جھوٹ ہے۔ اور اللہ بہت معاف کرنے والا، بہت بخشنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

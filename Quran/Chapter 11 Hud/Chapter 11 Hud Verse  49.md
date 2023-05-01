@@ -3224,6 +3224,12 @@ ye qabre ghaib ki qabro mein se hai jin ki wahi hum aap ki taraf karte hai, unhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (بیان ان) غیب کی خبروں میں سے ہے جو ہم آپ کی طرف وحی کرتے ہیں، اس سے قبل نہ آپ انہیں جانتے تھے اور نہ آپ کی قوم، پس آپ صبر کریں۔ بیشک بہتر انجام پرہیزگاروں ہی کے لئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یہ غیب کی کچھ باتیں ہیں جو ہم تمہیں وحی کے ذریعے بتا رہے ہیں۔ یہ باتیں نہ تم اس سے پہلے جانتے تھے، نہ تمہاری قوم۔ لہذا صبر سے کام لو اور آخری انجام متقیوں ہی کے حق میں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

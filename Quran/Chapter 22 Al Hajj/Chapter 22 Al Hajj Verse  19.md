@@ -3224,6 +3224,12 @@ ye duno apne rab ke baare mein eqtelaaf karne waale hai, pas kaafiro ke liye to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ دو فریق ہیں جو اپنے رب کے بارے میں جھگڑ رہے ہیں پس جو کافر ہوگئے ہیں ان کے لئے آتشِ دوزخ کے کپڑے کاٹ (کر، سِی) دیئے گئے ہیں۔ ان کے سروں پر کھولتا ہوا پانی انڈیلا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ (مومن اور کافر) دو فریق ہیں جنہوں نے اپنے پروردگار کے بارے میں ایک دوسرے سے جھگڑا کیا ہے۔ اب (اس کا فیصلہ اس طرح ہوگا کہ) جن لوگوں نے کفر اپنا یا ہے، ان کے لیے آگ کے کپڑے تراشے جائیں گے، ان کے سروں کے اوپر سے کھولتا ہوا پانی چھوڑا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

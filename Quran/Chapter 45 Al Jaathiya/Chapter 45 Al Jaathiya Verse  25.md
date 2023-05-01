@@ -3224,6 +3224,12 @@ aur jab un ke saamne hamaari waazeh aur roushan aayato ki tilaawath ki jaati hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اُن پر ہماری واضح آیتیں پڑھ کر سنائی جاتی ہیں تو اس کے سوا اُن کی کوئی دلیل نہیں ہوتی کہ ہمارے باپ دادا کو (زندہ کر کے) لے آؤ، اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہماری آیتیں پوری وضاحت کے ساتھ ان کو پڑھ کر سنائی جاتی ہیں تو یہ کہنے کے سوا ان کی کوئی دلیل نہیں ہوتی کہ : اگر تم سچے ہو تو ہمارے باپ دادوں کو (زندہ کر کے) لے آؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

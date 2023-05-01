@@ -3224,6 +3224,12 @@ tamaam tarife us Allah ke liye saza-waar hai, jis ki milkiyath mein wo sab kuch 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمام تعریفیں اللہ ہی کے لئے ہیں، جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے (سب) اسی کا ہے اور آخرت میں بھی تعریف اسی کے لئے ہے، اور وہ بڑی حکمت والا، خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمام تر تعریف اس اللہ کی ہے جس کی صفت یہ ہے کہ آسمانوں اور زمین میں جو کچھ ہے سب اسی کا ہے، اور آخرت میں بھی تعریف اسی کی ہے، اور وہی ہے جو حکمت کا مالک ہے، مکمل طور پر باخبر۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

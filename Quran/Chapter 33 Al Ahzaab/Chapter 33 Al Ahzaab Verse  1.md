@@ -3224,6 +3224,12 @@ aye Nabi(sallallahu alaihi wasalaam) Allah ta’ala se darte rehna aur kaafiro a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبی! آپ اللہ کے تقوٰی پر (حسبِ سابق استقامت سے) قائم رہیں اور کافروں اور منافقوں کا (یہ) کہنا (کہ ہمارے ساتھ مذہبی سمجھوتہ کر لیں ہرگز) نہ مانیں، بیشک اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! اللہ سے ڈرتے رہو، اور کافروں اور منافقوں کا کہنا مت مانو۔ بیشک اللہ بہت علم والا، بڑا حکمت والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

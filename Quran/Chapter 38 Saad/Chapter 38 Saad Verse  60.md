@@ -3224,6 +3224,12 @@ wo kahenge, balke tum hee ho, jin ke liye koyi khush aamadeedh nahi hai, tum hee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (آنے والے) کہیں گے: بلکہ تم ہی ہو کہ تمہیں کوئی فراخی نصیب نہ ہو، تم ہی نے یہ (کفر اور عذاب) ہمارے سامنے پیش کیا، سو (یہ) بری قرارگاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ (آنے والے) کہیں گے : نہیں، بلکہ پھٹکار تم پر ہو، تم ہی تو یہ مصیبت ہمارے آگے لائے ہو، اب تو یہی بدترین جگہ ہے جس میں رہنا ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

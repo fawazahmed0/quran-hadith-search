@@ -3224,6 +3224,12 @@ aur jab un se kaha jaata hai ke aur logo(yaani sahaba) ki tarah tum bhi imaan la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان سے کہا جاتا ہے کہ (تم بھی) ایمان لاؤ جیسے (دوسرے) لوگ ایمان لے آئے ہیں، تو کہتے ہیں: کیا ہم بھی (اسی طرح) ایمان لے آئیں جس طرح (وہ) بیوقوف ایمان لے آئے، جان لو! بیوقوف (درحقیقت) وہ خود ہیں لیکن انہیں (اپنی بیوقوفی اور ہلکے پن کا) علم نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان سے کہا جاتا ہے کہ تم بھی اسی طرح ایمان لے آؤ جیسے دوسرے لوگ ایمان لائے ہیں تو وہ کہتے ہیں کہ کیا ہم بھی اسی طرح ایمان لائیں جیسے بیوقوف لوگ ایمان لائے ہیں ؟ خوب اچھی طرح سن لو کہ یہی لوگ بیوقوف ہیں لیکن وہ یہ بات نہیں جانتے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

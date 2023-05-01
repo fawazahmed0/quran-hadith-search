@@ -3224,6 +3224,12 @@ hum ne aap ko tamaam logo ke liye khush qabriya sunaane waala aur daraane waala 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیبِ مکرّم!) ہم نے آپ کو نہیں بھیجا مگر اس طرح کہ (آپ) پوری انسانیت کے لئے خوشخبری سنانے والے اور ڈر سنانے والے ہیں لیکن اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ہم نے تمہیں سارے ہی انسانوں کے لیے ایسا رسول بنا کر بھیجا ہے جو خوشخبری بھی سنائے اور خبردار بھی کرے، لیکن اکثر لوگ سمجھ نہیں رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

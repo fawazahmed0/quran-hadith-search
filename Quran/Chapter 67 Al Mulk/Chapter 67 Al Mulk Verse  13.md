@@ -3224,6 +3224,12 @@ tum apni baatho ko chupaao ya zaaher karo, wo to sino ki poshidgiyo ko bhi ba-qo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم لوگ اپنی بات چھپا کر کہو یا اُسے بلند آواز میں کہو، یقیناً وہ سینوں کی (چھپی) باتوں کو (بھی) خوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم اپنی بات چھپا کر کرو، یا زور سے کرو (سب اس کے علم میں ہے، کیونکہ) وہ دلوں تک کی باتوں کا پورا علم رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

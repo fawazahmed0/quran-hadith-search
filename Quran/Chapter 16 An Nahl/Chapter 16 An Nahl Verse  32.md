@@ -3224,6 +3224,12 @@ wo jin ki jaane farishte us haal mein qabz karte hai ke wo paak saaf ho, kehte h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جن کی روحیں فرشتے اس حال میں قبض کرتے ہیں کہ وہ (نیکی و طاعت کے باعث) پاکیزہ اور خوش و خرم ہوں، (ان سے فرشتے قبضِ روح کے وقت ہی کہہ دیتے ہیں:) تم پر سلامتی ہو، تم جنت میں داخل ہو جاؤ ان (اَعمالِ صالحہ) کے باعث جو تم کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جن کی روحیں فرشتے ایسی حالت میں قبض کرتے ہیں کہ وہ پاک صاف ہوتے ہیں وہ ان سے کہتے ہیں کہ : سلامتی ہو تم پر ! جو عمل تم کرتے رہے ہو، اس کے صلے میں جنت میں داخل ہوجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

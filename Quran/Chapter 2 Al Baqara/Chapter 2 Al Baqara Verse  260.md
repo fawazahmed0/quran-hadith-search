@@ -3224,6 +3224,12 @@ aur jab Ibraheem (alaihissalaam) ne kaha ke aye mere parvardigaar! mujhe dikha, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ واقعہ بھی یاد کریں) جب ابراہیم (علیہ السلام) نے عرض کیا: میرے رب! مجھے دکھا دے کہ تُو مُردوں کو کس طرح زندہ فرماتا ہے؟ ارشاد ہوا: کیا تم یقین نہیں رکھتے؟ اس نے عرض کیا: کیوں نہیں (یقین رکھتا ہوں) لیکن (چاہتا ہوں کہ) میرے دل کو بھی خوب سکون نصیب ہو جائے، ارشاد فرمایا: سو تم چار پرندے پکڑ لو پھر انہیں اپنی طرف مانوس کر لو پھر (انہیں ذبح کر کے) ان کا ایک ایک ٹکڑا ایک ایک پہاڑ پر رکھ دو پھر انہیں بلاؤ وہ تمہارے پاس دوڑتے ہوئے آجائیں گے، اور جان لو کہ یقینا اللہ بڑا غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس وقت کا تذکرہ سنو) جب ابراہیم نے کہا تھا کہ میرے پروردگار مجھے دکھایے کہ آپ مردوں کو کیسے زندہ کرتے ہیں ؟ اللہ نے کہا : کیا تمہیں یقین نہیں ؟ کہنے لگے : یقین کیوں نہ ہوتا ؟ مگر (یہ خواہش اس لیے کی ہے) تاکہ میرے دل کو پورا اطمینان حاصل ہوجائے۔ اللہ نے کہا : اچھا تو چار پرندے لو، اور انہیں اپنے سے مانوس کرلو، پھر (ان کو ذبح کر کے) ان کا ایک ایک حصہ ہر پہاڑ پر رکھ دو ، پھر ان کو بلاؤ، وہ چاروں تمہارے پاس دوڑے چلے آئیں گے۔ اور جان رکھو کہ اللہ پوری طرح صاحب اقتدار بھی ہے، اعلی درجے کی حکمت والا بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

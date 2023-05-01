@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ne kaha, mere parvardigaar! mujhe to khauf hai ke kahi wo mu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+موسٰی (علیہ السلام) نے عرض کیا: اے رب! میں ڈرتا ہوں کہ وہ مجھے جھٹلا دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا کہ : میرے پروردگار ! مجھے ڈر ہے کہ وہ مجھے جھوٹا بنائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

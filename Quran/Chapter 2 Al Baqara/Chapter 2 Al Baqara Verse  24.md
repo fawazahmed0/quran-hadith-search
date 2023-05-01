@@ -3224,6 +3224,12 @@ pus agar tum ne na kya aur tum har giz nahi kar sakte, to (ise saccha maan kar) 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر تم ایسا نہ کر سکو اور ہرگز نہ کر سکو گے تو اس آگ سے بچو جس کا ایندھن آدمی (یعنی کافر) اور پتھر (یعنی ان کے بت) ہیں، جو کافروں کے لئے تیار کی گئی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر تم یہ کام نہ کرسکو اور یقینا کبھی نہیں کرسکو گے تو ڈرو اس آگ سے جس کا ایندھن انسان اور پتھر ہوں گے وہ کافروں کے لئے تیار کی گئی ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

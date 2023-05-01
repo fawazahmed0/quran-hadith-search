@@ -3224,6 +3224,12 @@ aur kaafiro ne kaha (aao) hum tumhe ek aisa shaqs batlaaye jo tumhe ye qabar pah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ (تعجب و استہزاء کی نیت سے) کہتے ہیں کہ کیا ہم تمہیں ایسے شخص کا بتائیں جو تمہیں یہ خبر دیتا ہے کہ جب تم (مَر کر) بالکل ریزہ ریزہ ہوجاؤ گے تو یقیناً تمہیں (ایک) نئی پیدائش ملے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کافر لوگ (ایک دوسرے سے) کہنے لگے : کیا ہم تمہیں ایک ایسے شخص کا پتہ بتائیں جو تمہیں یہ خبر دیتا ہے کہ جب تم (مر کر) بالکل ریزہ ریزہ ہوچکو گے اس وقت تم ایک نئے جنم میں آؤ گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

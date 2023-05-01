@@ -3224,6 +3224,12 @@ Aey Musalmano! Ab kya in logon se tum yeh tawaqqu rakhte ho ke yeh tumhari dawat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) کیا تم یہ توقع رکھتے ہو کہ وہ (یہودی) تم پر یقین کر لیں گے جبکہ ان میں سے ایک گروہ کے لوگ ایسے (بھی) تھے کہ اللہ کا کلام (تورات) سنتے پھر اسے سمجھنے کے بعد (خود) بدل دیتے حالانکہ وہ خوب جانتے تھے (کہ حقیقت کیا ہے اور وہ کیا کر رہے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو !) کیا اب بھی تمہیں یہ لالچ ہے کہ یہ لوگ تمہارے کہنے سے ایمان لے آئیں گے ؟ حالانکہ ان میں سے ایک گروہ کے لوگ اللہ کا کلام سنتے تھے، پھر اس کو اچھی طرح سمجھنے کے بعد بھی جانتے بوجھتے اس میں تحریف کر ڈالتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

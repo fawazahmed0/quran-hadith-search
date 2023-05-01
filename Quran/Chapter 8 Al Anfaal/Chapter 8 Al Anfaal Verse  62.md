@@ -3224,6 +3224,12 @@ agar wo tujh se dagha bazi karna chahenge tuh Allah tujhe kafi hai,osi ne apni m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر وہ چاہیں کہ آپ کو دھوکہ دیں تو بے شک آپ کے لیے اللہ کافی ہے، وہی ہے جس نے آپ کو (براہ راست) اپنی مدد کے ذریعے اور اہل ایمان کے ذریعے طاقت بخشی (جو آپ کی پیروی کرتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر وہ تمہیں دھوکا دینے کا ارادہ کریں گے تو اللہ تمہارے لیے کافی ہے۔ وہی تو ہے جس نے اپنی مدد کے ذریعے اور مومنوں کے ذریعے تمہارے ہاتھ مضبوط کیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye imaan waalo tum sabith qadam raho aur ek dosre ko thaame rakho aur jihaad ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! صبر کرو اور ثابت قدمی میں (دشمن سے بھی) زیادہ محنت کرو اور (جہاد کے لئے) خوب مستعد رہو، اور (ہمیشہ) اللہ کا تقوٰی قائم رکھو تاکہ تم کامیاب ہو سکو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! صبر اختیار کرو، مقابلے کے وقت ثابت قدمی دکھاؤ، اور سرحدوں کی حفاظت کے لیے جمے رہو۔ اور اللہ سے ڈرتے رہو، تاکہ تمہیں فلاح نصیب ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

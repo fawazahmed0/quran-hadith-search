@@ -3224,6 +3224,12 @@ Allah ta’ala farmayega ke jo firqe tum se pehle guzar chuke hai jinnaath mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ فرمائے گا کہ : جاؤ، جنات اور انسانوں کے ان گروہوں کے ساتھ تم بھی دوزخ میں داخل ہوجاؤ جو تم سے پہلے گزر چکے ہیں۔ (اسی طرح) جب بھی کوئی گروہ دوزخ میں داخل ہوگا وہ اپنے جیسوں پر لعنت بھیجے گا یہاں تک کہ جب ایک کے بعد ایک، سب اس میں اکٹھے ہوجائیں گے تو ان میں سے جو لوگ بعد میں آئے تھے، وہ اپنے سے پہلے آنے والوں کے بارے میں کہیں گے کہ : اے ہمارے پروردگار ! انہوں نے ہمیں غلط راستے پر ڈالا تھا، اس لیے ان کو آگ کا دگنا عذاب دینا۔ اللہ فرمائے گا کہ : سبھی کا عذاب دگنا ہے، لیکن تمہیں (ابھی) پتہ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

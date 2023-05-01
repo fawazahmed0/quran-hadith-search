@@ -3224,6 +3224,12 @@ aye musalamaano! jab tum rasool Allah (sallallahualaihi wasallam) se sargoshi ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جب تم رسول (صلی اللہ علیہ وآلہ وسلم) سے کوئی راز کی بات تنہائی میں عرض کرنا چاہو تو اپنی رازدارانہ بات کہنے سے پہلے کچھ صدقہ و خیرات کر لیا کرو، یہ (عمل) تمہارے لئے بہتر اور پاکیزہ تر ہے، پھر اگر (خیرات کے لئے) کچھ نہ پاؤ تو بیشک اللہ بہت بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جب تم رسول سے تنہائی میں کوئی بات کرنا چاہو تو اپنی اس تنہائی کی بات سے پہلے کچھ صدقہ کردیا کرو۔ یہ طریقہ تمہارے حق میں بہتر اور زیادہ ستھرا طریقہ ہے۔ ہاں اگر تمہارے پاس (صدقہ کرنے کے لیے) کچھ نہ ہو تو اللہ بہت بخشنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

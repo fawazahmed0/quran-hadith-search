@@ -3224,6 +3224,12 @@ un se pehle jitni bastiyaan hum ne ujaadi, sab imaan se qaali thi, to kya ab ye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان سے پہلے ہم نے جس بھی بستی کو ہلاک کیا وہ (انہی نشانیوں پر) ایمان نہیں لائی تھی، تو کیا یہ ایمان لے آئیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حالانکہ ان سے پہلے جس کسی بستی کو ہم نے ہلاک کیا، وہ ایمان نہیں لائی، اب کیا یہ لوگ لے آئیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

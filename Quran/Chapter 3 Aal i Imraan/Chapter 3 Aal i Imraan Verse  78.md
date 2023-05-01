@@ -3224,6 +3224,12 @@ yaqinan un mein aisa gruh bhi hai jo kitaab padte hoye apni zabaan mudta hai, ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ان میں ایک گروہ ایسا بھی ہے جو کتاب پڑھتے ہوئے اپنی زبانوں کو مروڑ لیتے ہیں تاکہ تم ان کی الٹ پھیر کو بھی کتاب (کا حصّہ) سمجھو حالانکہ وہ کتاب میں سے نہیں ہے، اور کہتے ہیں: یہ (سب) اللہ کی طرف سے ہے، اور وہ (ہرگز) اللہ کی طرف سے نہیں ہے، اور وہ اللہ پر جھوٹ گھڑتے ہیں اور (یہ) انہیں خود بھی معلوم ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہی میں سے ایک گروہ کے لوگ ایسے ہیں جو کتاب (یعنی تورات) پڑھتے وقت اپنی زبانوں کو مروڑتے ہیں تاکہ تم (ان کی مروڑ کر بنائی ہوئی) اس عبارت کو کتاب کا حصہ سمجھو، حالانکہ وہ کتاب کا حصہ نہیں ہوتی، اور وہ کہتے ہیں کہ یہ (عبارت) اللہ کی طرف سے ہے، حالانکہ وہ اللہ کی طرف سے نہیں ہوتی۔ اور (اس طرح) وہ اللہ پر جانتے بوجھتے جھوٹ باندھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

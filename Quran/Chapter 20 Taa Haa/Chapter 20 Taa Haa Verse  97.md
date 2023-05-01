@@ -3224,6 +3224,12 @@ kaha accha ja, dunya ki zindagi mein teri saza yahi hai ke tu kehta rahe ke mujh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) فرمایا: پس تو (یہاں سے نکل کر) چلا جا چنانچہ تیرے لئے (ساری) زندگی میں یہ (سزا) ہے کہ تو (ہر کسی کو یہی) کہتا رہے: (مجھے) نہ چھونا (مجھے نہ چھونا)، اور بیشک تیرے لئے ایک اور وعدۂ (عذاب) بھی ہے جس کی ہرگز خلاف ورزی نہ ہوگی، اور تو اپنے اس (من گھڑت) معبود کی طرف دیکھ جس (کی پوجا) پر تو جم کر بیٹھا رہا، ہم اسے ضرور جلا ڈالیں گے پھر ہم اس (کی راکھ) کو ضرور دریا میں اچھی طرح بکھیر دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : اچھا تو جا، اب زندگی بھر تیرا کام یہ ہوگا کہ تو لوگوں سے یہ کہا کرے گا کہ مجھے نہ چھونا۔ اور (اس کے علاوہ) تیرے لیے ایک وعدے کا وقت مقرر ہے جو تجھ سے ٹلایا نہیں جاسکتا۔ اور دیکھ اپنے اس (جھوٹے) معبود کو جس پر تو جما بیٹھا تھا ! ہم اسے جلا ڈالیں گے، اور پھر اس (کی راکھ) کو چورا چورا کر کے سمندر میں بکھیر دیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

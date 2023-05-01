@@ -3224,6 +3224,12 @@ aap se ye ahle kitaab darqaast karte hai ke aap un ke paas koi asmaani kitaab la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) آپ سے اہلِ کتاب سوال کرتے ہیں کہ آپ ان پر آسمان سے (ایک ہی دفعہ پوری لکھی ہوئی) کوئی کتاب اتار لائیں، تو وہ موسٰی (علیہ السلام) سے اس سے بھی بڑا سوال کر چکے ہیں، انہوں نے کہا تھا کہ ہمیں اللہ (کی ذات) کھلم کھلا دکھا دو، پس ان کے (اس) ظلم (یعنی گستاخانہ سوال) کی وجہ سے انہیں آسمانی بجلی نے آپکڑا (جس کے باعث وہ مرگئے، پھر موسٰی علیہ السلام کی دعا سے زندہ ہوئے)، پھر انہوں نے بچھڑے کو (اپنا معبود) بنا لیا اس کے بعد کہ ان کے پاس (حق کی نشاندہی کرنے والی) واضح نشانیاں آچکی تھیں، پھر ہم نے اس (جرم) سے بھی درگزر کیا اور ہم نے موسٰی (علیہ السلام) کو (ان پر) واضح غلبہ عطا فرمایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) اہل کتاب تم سے (جو) مطالبہ کر رہے ہیں کہ تم ان پر آسمان سے کوئی کتاب نازل کرواؤ، تو (یہ کوئی نئی بات نہیں، کیونکہ) یہ لوگ تو موسیٰ اسے اس سے بھی بڑا مطالبہ کرچکے ہیں۔ چنانچہ انہوں نے (موسیٰ سے) کہا تھا کہ ہمیں اللہ کھلی آنکھوں دکھاؤ، چنانچہ ان کی سرکشی کی وجہ سے ان کو بجلی کے کڑکے نے آپکڑا تھا، پھر ان کے پاس جو کھلی کھلی نشانیاں آئیں، ان کے بعد بھی انہوں نے بچھڑے کو معبود بنا لیا تھا۔ اس پر بھی ہم نے انہیں معاف کردیا، اور ہم نے موسیٰ کو واضح اقتدار عطا کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

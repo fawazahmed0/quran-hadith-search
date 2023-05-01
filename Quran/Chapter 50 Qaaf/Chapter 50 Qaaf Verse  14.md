@@ -3224,6 +3224,12 @@ aur ayika waalo ne aur tubba ki khaum ne bhi takzeeb ki thi, sab ne paighambaro 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (مَدیَن کے گھنے درختوں والے بَن) اَیکہ کے رہنے والوں نے (یہ قومِ شعیب تھی) اور (بادشاہِ یَمن اسعَد ابوکریب) تُبّع (الحِمیَری) کی قوم نے، (الغرض اِن) سب نے رسولوں کو جھٹلایا، پس (اِن پر) میرا وعدۂ عذاب ثابت ہو کر رہا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اصحاب الایکہ اور تبع قوم نے بھی۔ ان سب نے پیغمبروں کو جھٹلایا تھا، اس لیے میں نے جس عذاب سے ڈرایا تھا، وہ سچ ہو کر رہا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

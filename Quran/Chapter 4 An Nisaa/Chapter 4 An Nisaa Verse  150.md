@@ -3224,6 +3224,12 @@ jo log Allah ke saath aur us ke paighambaro ke saath kufr karte hai aur jo log y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلا شبہ جو لوگ اللہ اور اس کے رسولوں کے ساتھ کفر کرتے ہیں اور چاہتے ہیں کہ اللہ اور اس کے رسولوں کے درمیان تفریق کریں اور کہتے ہیں کہ ہم بعض کو مانتے ہیں اور بعض کو نہیں مانتے اور چاہتے ہیں کہ اس (ایمان و کفر) کے درمیان کوئی راہ نکال لیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اللہ اور اس کے رسولوں کا انکار کرتے ہیں اور اللہ اور اس کے رسولوں کے درمیان فرق کرنا چاہتے اور کہتے ہیں کہ کچھ (رسولوں) پر تو ہم ایمان لاتے ہیں اور کچھ کا انکار کرتے ہیں، اور (اس طرح) وہ چاہتے ہیں کہ) کفر اور ایمان کے درمیان) ایک بیچ کی راہ نکال لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne hukm diya ke aye aadam! tum aur tumhaari biwi jannath mein raho, phir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے آدم ! تم اور تمہاری بیوی دونوں جنت میں رہو، اور جہاں سے جو چیز چاہو، کھاؤ۔ البتہ اس (خاص) درخت کے قریب بھی مت پھٹکنا، ورنہ تم زیادتی کرنے والوں میں شامل ہوجاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

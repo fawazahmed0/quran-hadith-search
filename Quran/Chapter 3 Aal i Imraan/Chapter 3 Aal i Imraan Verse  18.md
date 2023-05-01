@@ -3224,6 +3224,12 @@ Allah ta’ala, farishte aur ahle ilm is baath ki gawaahi dete hai ke Allah ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے اس بات پر گواہی دی کہ اس کے سوا کوئی لائقِ عبادت نہیں اور فرشتوں نے اور علم والوں نے بھی (اور ساتھ یہ بھی) کہ وہ ہر تدبیر عدل کے ساتھ فرمانے والا ہے، اس کے سوا کوئی لائقِ پرستش نہیں وہی غالب حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے خود اس بات کی گواہی دی ہے، اور فرشتوں اور اہل علم نے بھی کہ اس کے سوا کوئی معبود نہیں جس نے انصاف کے ساتھ (کائنات) کا انتظام سنبھالا ہوا ہے۔ اس کے سوا کوئی عبادت کے لائق نہیں جس کا اقتدار بھی کامل ہے حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas main qasam khaata hoon, sitaaro ke girne ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس میں اُن جگہوں کی قَسم کھاتا ہوں جہاں جہاں قرآن کے مختلف حصے (رسولِ عربی صلی اللہ علیہ وآلہ وسلم پر) اترتے ہیں٭o٭ یہ ترجمہ حضرت عبد اللہ بن عباس کے بیان کردہ معنی پر کیا گیا ہے، مزید حضرت عکرمہ، حضرت مجاہد، حضرت عبد اللہ بن جبیر، حضرت سدی، حضرت فراء اور حضرت زجاج رضی اللہ عنھم اور دیگر ائمہ تفسیر کا قول بھی یہی ہے؛ اور سیاقِ کلام بھی اسی کا تقاضا کرتا ہے۔ پیچھے سورۃ النجم میں حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم کو نجم کہا گیا ہے، یہاں قرآن کی سورتوں کو نجوم کہا گیا ہے۔ حوالہ جات کے لئے ملاحظہ کریں: تفسیر بغوی، خازن، طبری، الدر المنثور، الکشاف، تفسیر ابن ابی حاتم، روح المعانی، ابن کثیر، اللباب، البحر المحیط، جمل، زاد المسیر، فتح القدیر، المظہری، البیضاوی، تفسیر ابی سعود اور مجمع البیان
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب میں ان جگہوں کی قسم کھا کر کہتا ہوں جہاں ستارے گرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

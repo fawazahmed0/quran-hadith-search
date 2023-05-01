@@ -3224,6 +3224,12 @@ jab wo chontiyo ke maidaan mein pahonche to, ek chonti ne kaha, aye chontiyo! ap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ جب وہ (لشکر) چیونٹیوں کے میدان پر پہنچے تو ایک چیونٹی کہنے لگی: اے چیونٹیو! اپنی رہائش گاہوں میں داخل ہو جاؤ کہیں سلیمان (علیہ السلام) اور ان کے لشکر تمہیں کچل نہ دیں اس حال میں کہ انہیں خبر بھی نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ ایک دن جب یہ سب چیونٹیوں کی وادی میں پہنچے تو ایک چیونٹی نے کہا : چیونٹیو ! اپنے اپنے گھروں میں گھس جاؤ، کہیں ایسا نہ ہو کہ سلیمان اور ان کا لشکر تمہیں پیس ڈالے، اور انہیں پتہ بھی نہ چلے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

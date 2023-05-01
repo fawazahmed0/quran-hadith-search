@@ -3224,6 +3224,12 @@ aur aap pahaado ko dekh kar apni jageh jame hoye qayaal karte hai, lekin wo bhi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے انسان!) تو پہاڑوں کو دیکھے گا تو خیال کرے گا کہ جمے ہوئے ہیں حالانکہ وہ بادل کے اڑنے کی طرح اڑ رہے ہوں گے۔ (یہ) اللہ کی کاریگری ہے جس نے ہر چیز کو (حکمت و تدبیر کے ساتھ) مضبوط و مستحکم بنا رکھا ہے۔ بیشک وہ ان سب (کاموں) سے خبردار ہے جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم (آج) پہاڑوں کو دیکھتے ہو تو سمجھتے ہو کہ یہ اپنی جگہ جمے ہوئے ہیں، حالانکہ (اس وقت) وہ اس طرح پھر رہے ہوں گے جیسے بادل پھرتے ہیں۔ یہ سب اللہ کی کاریگری ہے جس نے ہر چیز کو مستحکم طریقے سے بنایا ہے۔ یقینا اسے پوری خبر ہے کہ تم کیا کام کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

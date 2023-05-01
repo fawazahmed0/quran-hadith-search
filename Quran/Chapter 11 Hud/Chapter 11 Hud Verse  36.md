@@ -3224,6 +3224,12 @@ nuh ki taraf wahi bheji gayi ke teri qaum mein se jo iman la choke, un ke siva a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نوح (علیہ السلام) کی طرف وحی کی گئی کہ (اب) ہرگز تمہاری قوم میں سے (مزید) کوئی ایمان نہیں لائے گا سوائے ان کے جو (اس وقت تک) ایمان لا چکے ہیں، سو آپ ان کے (تکذیب و استہزا کے) کاموں سے رنجیدہ نہ ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نوح کے پاس وحی بھیجی گئی کہ : تمہاری قوم میں سے جو لوگ اب تک ایمان لاچکے ہیں، ان کے سوا اب کوئی اور ایمان نہیں لائے گا۔ لہذا جو حرکتیں یہ لوگ کرتے رہے ہیں، تم ان پر صدمہ نہ کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

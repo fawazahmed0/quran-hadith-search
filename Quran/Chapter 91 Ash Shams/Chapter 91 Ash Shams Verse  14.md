@@ -3224,6 +3224,12 @@ un logo ne apne paighambar ko jhota samajh kar us oontni ki koonche kaat di, pas
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو انہوں نے اس (رسول) کو جھٹلا دیا، پھر اس (اونٹنی) کی کونچیں کاٹ ڈالیں تو ان کے رب نے ان کے گناہ کی وجہ سے ان پر ہلاکت نازل کر دی، پھر (پوری) بستی کو (تباہ کر کے عذاب میں سب کو) برابر کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی انہوں نے پیغبر کو جھٹلایا، اور اس اونٹنی کو مار ڈالا نتیجہ یہ کہ ان کے پروردگار نے ان کے گناہ کی وجہ سے ان کی اینٹ سے اینٹ بجا کر سب کو برابر کردیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

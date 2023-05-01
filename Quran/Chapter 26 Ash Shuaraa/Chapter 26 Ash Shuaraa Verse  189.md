@@ -3224,6 +3224,12 @@ chu ke unhone ose jhutlaya to, unhe sayebaan waale din ke azaab ne pakad liya, w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو انہوں نے شعیب (علیہ السلام) کو جھٹلا دیا پس انہیں سائبان کے دن کے عذاب نے آپکڑا، بیشک وہ زبردست دن کا عذاب تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض ان لوگوں نے شعیب کو جھٹلایا جس کا نتیجہ یہ ہوا کہ انہیں سائبان والے دن کے عذاب نے آپکڑا ۔ بیشک وہ ایک زبردست دن کا عذاب تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

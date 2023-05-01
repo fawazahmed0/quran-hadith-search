@@ -3224,6 +3224,12 @@ phir us ke badh bhi jis par chahe Allah tala apni rehmath ki tawaaje farmaega,Al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اللہ اس کے بعد بھی جس کی چاہتا ہے توبہ قبول فرماتا ہے (یعنی اسے توفیقِ اسلام اور توجہِ رحمت سے نوازتا ہے)، اور اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اللہ جس کو چاہے اس کے بعد توبہ نصیب کردے، اور اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

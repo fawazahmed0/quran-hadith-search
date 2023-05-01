@@ -3224,6 +3224,12 @@ aur aaqir kya wajeh hai, ke tum aise jaanwar mein se na khaao jis par Allah ka n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہیں کیا ہے کہ تم اس (ذبیحہ) سے نہیں کھاتے جس پر (ذبح کے وقت) اللہ کا نام لیا گیا ہے (تم ان حلال جانوروں کو بلاوجہ حرام ٹھہراتے ہو)؟ حالانکہ اس نے تمہارے لئے ان (تمام) چیزوں کو تفصیلاً بیان کر دیا ہے جو اس نے تم پر حرام کی ہیں، سوائے اس (صورت) کے کہ تم (محض جان بچانے کے لئے) ان (کے بقدرِ حاجت کھانے) کی طرف انتہائی مجبور ہو جاؤ (سو اب تم اپنی طرف سے اور چیزوں کو مزید حرام نہ ٹھہرایا کرو)۔ بیشک بہت سے لوگ بغیر (پختہ) علم کے اپنی خواہشات (اور من گھڑت تصورات) کے ذریعے (لوگوں کو) بہکاتے رہتے ہیں، اور یقینا آپ کا ربّ حد سے تجاوز کرنے والوں کو خوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے لیے کون سی رکاوٹ ہے جس کی بنا پر تم اس جانور میں سے نہ کھاؤ جس پر اللہ کا نام لے لیا گیا ہو ؟ حالانکہ اس نے وہ چیزیں تمہیں تفصیل سے بتادی ہیں جو اس نے تمہارے لیے (عام حالات میں) حرام قرار دی ہیں، البتہ جن کو کھانے پر تم بالکل مجبور ہی ہوجاؤ (تو ان حرام چیزوں کی بھی بقدر ضرورت اجازت ہوجاتی ہے) اور بہت سے لوگ کسی علم کی بنیاد پر نہیں (بلکہ صرف) اپنی خواہشات کی بنیاد پر دوسروں کو گمراہ کرتے ہیں۔ بلا شبہ تمہارا رب حد سے گزرنے والوں کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

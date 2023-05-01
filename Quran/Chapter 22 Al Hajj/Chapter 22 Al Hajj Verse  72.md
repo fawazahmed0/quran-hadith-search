@@ -3224,6 +3224,12 @@ jab un ke saamne hamaare kalaam ki khuli hoyi aayato ki tilaawath ki jaati hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان (کافروں) پر ہماری روشن آیتیں تلاوت کی جاتی ہیں (تو) آپ ان کافروں کے چہروں میں ناپسندیدگی (و ناگواری کے آثار) صاف دیکھ سکتے ہیں۔ ایسے لگتا ہے کہ عنقریب ان لوگوں پر جھپٹ پڑیں گے جو انہیں ہماری آیات پڑھ کر سنا رہے ہیں، آپ فرما دیجئے: (اے مضطرب ہونے والے کافرو!) کیا میں تمہیں اس سے (بھی) زیادہ تکلیف دہ چیز سے آگاہ کروں؟ (وہ دوزخ کی) آگ ہے، جس کا اللہ نے کافروں سے وعدہ کر رکھا ہے، اور وہ بہت ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان کو ہماری آیتیں اپنی پوری وضاحتوں کے ساتھ پڑھ کر سنائی جاتی ہیں، تو تم ان کافروں کے چہروں پر ناگواری کے اثرات صاف پہچان لیتے ہو، ایسا لگتا ہے کہ یہ ان لوگوں پر حملہ کردیں گے جو انہیں ہماری آیتیں پڑھ کر سنا رہے ہیں۔ کہہ دو کہ : لوگو ! کیا میں تمہیں ایسی چیز بتلا دوں جو اس سے زیادہ ناگوار ہے ؟ آگ ! اللہ نے کافروں سے اس کا وعدہ کر رکھا ہے اور وہ بہت برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar Allah ta’ala ne un par jila watni ko muqaddar na kar diya hota, to ya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ نے اُن کے حق میں جلا وطنی لکھ نہ دی ہوتی تو وہ انہیں دنیا میں (اور سخت) عذاب دیتا، اور ان کے لئے آخرت میں (بھی) دوزخ کا عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ نے ان کی قسمت میں جلا وطنی نہ لکھ دی ہوتی تو وہ دنیا ہی میں ان کو عذاب دے دیتا، البتہ آخرت میں ان کے لیے دوزخ کا عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

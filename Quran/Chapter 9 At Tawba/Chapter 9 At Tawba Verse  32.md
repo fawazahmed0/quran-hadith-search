@@ -3224,6 +3224,12 @@ wo chahte hai ke Allah ke noor ko apne muh se bujade aur Allah tala inkari hai m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ چاہتے ہیں کہ اللہ کا نور اپنی پھونکوں سے بجھا دیں اور اللہ (یہ بات) قبول نہیں فرماتا مگر یہ (چاہتا ہے) کہ وہ اپنے نور کو کمال تک پہنچا دے اگرچہ کفار (اسے) ناپسند ہی کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ چاہتے ہیں کہ اللہ کے نور کو اپنے منہ کی پھونکوں سے بجھا دیں، حالانکہ اللہ کو اپنے نور کی تکمیل کے سوا ہر بات نامنظور ہے، چاہے کافروں کو یہ بات کتنی بری لگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

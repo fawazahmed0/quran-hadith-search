@@ -3224,6 +3224,12 @@ aye Nabi! (sallallahu alaihi wasalaam) ki biwiyo, tum mein se jo khuli be hayaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اَزواجِ نبیِ (مکرّم!) تم میں سے کوئی ظاہری معصیت کی مرتکب ہو تو اس کے لئے عذاب دوگنا کر دیا جائے گا، اور یہ اللہ پر بہت آسان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی کی بیویو ! تم میں سے جو کوئی کسی کھلی بےہودگی کا ارتکاب کرے گی، اس کا عذاب بڑھا کر دو گنا کردیا جائے گا، اور اللہ کے لیے ایسا کرنا بہت آسان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

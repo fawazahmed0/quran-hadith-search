@@ -3224,6 +3224,12 @@ keh dijiye ke agar bil farz tum mere rub ki rehmato ke khazaano ke maalik ban ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اگر تم میرے رب کی رحمت کے خزانوں کے مالک ہوتے تو تب بھی (سب) خرچ ہوجانے کے خوف سے تم (اپنے ہاتھ) روکے رکھتے، اور انسان بہت ہی تنگ دل اور بخیل واقع ہوا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان کافروں سے) کہہ دو کہ : اگر میرے پروردگار کی رحمت کے خزانے کہیں تمہارے اختیار میں ہوتے تو تم خرچ ہوجانے کے ڈر سے ضرور ہاتھ روک لیتے۔ اور انسان ہے ہی بڑا تنگ دل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur ye wahi hai jo jilaata aur maarta hai aur raath din ke raddo badal ka muqtaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جو زندگی بخشتا ہے اور موت دیتا ہے اور شب و روز کا گردش کرنا (بھی) اسی کے اختیار میں ہے۔ سو کیا تم سمجھتے نہیں ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جو زندگی اور موت دیتا ہے اور اسی کے قبضے میں رات اور دن کی تبدیلیاں ہیں۔ کیا پھر بھی تم عقل سے کام نہیں لیتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

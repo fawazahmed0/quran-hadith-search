@@ -3224,6 +3224,12 @@ hum ne insaan ko us ke maa baap ke mutaalliq nasihath ki hai, us ki maa ne dukh 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے انسان کو اس کے والدین کے بارے میں (نیکی کا) تاکیدی حکم فرمایا، جسے اس کی ماں تکلیف پر تکلیف کی حالت میں (اپنے پیٹ میں) برداشت کرتی رہی اور جس کا دودھ چھوٹنا بھی دو سال میں ہے (اسے یہ حکم دیا) کہ تو میرا (بھی) شکر ادا کر اور اپنے والدین کا بھی۔ (تجھے) میری ہی طرف لوٹ کر آنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے انسان کو اپنے والدین کے بارے میں یہ تاکید کی ہے۔ (کیونکہ) اس کی ماں نے اسے کمزوری پر کمزوری برداشت کر کے پیٹ میں رکھا، اور دو سال میں اس کا دودھ چھوٹتا ہے۔ کہ تم میرا شکر ادا کرو، اور اپنے ماں باپ کا میرے پاس ہی (تمہیں) لوٹ کر آنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

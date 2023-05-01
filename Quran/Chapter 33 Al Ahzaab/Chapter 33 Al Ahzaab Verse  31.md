@@ -3224,6 +3224,12 @@ aur tum mein se jo koyi Allah ki aur us ke rasool(sallallahu alaihi wasallam) ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم میں سے جو اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت گزار رہیں اور نیک اعمال کرتی رہیں تو ہم ان کا ثواب (بھی) انہیں دوگنا دیں گے اور ہم نے اُن کے لئے (جنّت میں) باعزّت رزق تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم میں سے جو کوئی اللہ اور اس کے رسول کی تابع دار رہے گی اور نیک عمل کرے گی، اسے ہم اس کا ثواب بھی دو گنا دیں گے، اور اس کے لیے ہم نے باعزت رزق تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

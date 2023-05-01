@@ -3224,6 +3224,12 @@ aur Allah ta’ala ne tumhaare liye tumhaare gharo mein sukunath ki jageh banaad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے تمہارے لئے تمہارے گھروں کو (مستقل) سکونت کی جگہ بنایا اور تمہارے لئے چوپایوں کی کھالوں سے (عارضی) گھر (یعنی خیمے) بنائے جنہیں تم اپنے سفر کے وقت اور (دورانِ سفر منزلوں پر) اپنے ٹھہرنے کے وقت ہلکا پھلکا پاتے ہو اور (اسی اللہ نے تمہارے لئے) بھیڑوں اور دنبوں کی اون اور اونٹوں کی پشم اور بکریوں کے بالوں سے گھریلو استعمال اور (معیشت و تجارت میں) فائدہ اٹھانے کے اسباب بنائے (جو) مقررہ مدت تک (ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس نے تمہارے لیے تمہارے گھروں کو سکون کی جگہ بنایا، اور تمہارے لیے مویشیوں کی کھالوں سے ایسے گھر بنائے جو تمہیں سفر پر روانہ ہوتے وقت اور کسی جگہ ٹھہرتے وقت ہلکے پھلکے محسوس ہوتے ہیں۔ اور ان کے اون، ان کے رویں اور ان کے بالوں سے گھریلو سامان اور ایسی چیزیں پیدا کیں جو ایک مدت تک تمہیں فائدہ پہنچاتی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

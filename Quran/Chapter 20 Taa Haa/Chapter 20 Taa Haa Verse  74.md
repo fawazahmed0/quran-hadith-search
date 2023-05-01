@@ -3224,6 +3224,12 @@ baath yahi hai ke jo bhi gunehgaar ban kar Allah ta’ala ke haan haazir hoga, u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو شخص اپنے رب کے پاس مجرم بن کر آئے گا تو بیشک اس کے لئے جہنم ہے، (اور وہ ایسا عذاب ہے کہ) نہ وہ اس میں مر سکے گا اور نہ ہی زندہ رہے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ جو شخص اپنے پروردگار کے پاس مجرم بن کر آئے گا، اس کے لیے جہنم ہے جس میں نہ وہ مرے گا اور نہ جئے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

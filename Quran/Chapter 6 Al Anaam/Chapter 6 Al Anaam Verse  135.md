@@ -3224,6 +3224,12 @@ aap ye farma di jiye ke aye meri khaum! tum apni haalath par amal karte raho, ma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اے (میری) قوم! تم اپنی جگہ پر عمل کرتے رہو بیشک میں (اپنی جگہ) عمل کئے جا رہا ہوں۔ پھر تم عنقریب جان لو گے کہ آخرت کا انجام کس کے لئے (بہتر ہے)۔ بیشک ظالم لوگ نجات نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان لوگوں سے) کہو کہ : اے میری قوم ! تم اپنی جگہ (اپنے طریقے کے مطابق) عمل کرو، میں (اپنے طریقے کے مطابق) عمل کر رہا ہوں۔ پھر جلد ہی تمہیں معلوم ہوجائے گا کہ اس دنیا کا انجام کس کے حق میں نکلتا ہے۔ یہ حقیقت (اپنی جگہ) ہے کہ ظالم لوگ فلاح نہیں پاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur Allah ta’ala hee ke paas hai ghayb ki kunjiya (qazaane) un ko koyi nahi ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور غیب کی کُنجیاں (یعنی وہ راستے جن سے غیب کسی پر آشکار کیا جاتا ہے) اسی کے پاس (اس کی قدرت و ملکیت میں) ہیں، انہیں اس کے سوا (اَز خود) کوئی نہیں جانتا، اور وہ ہر اس چیز کو (بلاواسطہ) جانتا ہے جو خشکی میں اور دریاؤں میں ہے، اور کوئی پتّا نہیں گرتا مگر (یہ کہ) وہ اسے جانتا ہے اور نہ زمین کی تاریکیوں میں کوئی (ایسا) دانہ ہے اور نہ کوئی تر چیز ہے اور نہ کوئی خشک چیز مگر روشن کتاب میں (سب کچھ لکھ دیا گیا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی کے پاس غیب کی کنجیاں ہیں جنہیں اس کے سوا کوئی نہیں جانتا۔ اور خشکی اور سمندر میں جو کچھ ہے وہ اس سے واقف ہے کسی درخت کا کوئی پتہ نہیں گرتا جس کا اسے علم نہ ہو، اور زمین کی اندھیریوں میں کوئی دانہ یا کوئی خشک یا تر چیز ایسی نہیں ہے جو ایک کھلی کتاب میں درج نہ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

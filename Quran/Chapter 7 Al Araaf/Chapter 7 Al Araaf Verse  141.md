@@ -3224,6 +3224,12 @@ aur wo waqt yaad karo jab hum ne tum ko feraun waalo se bacha liya jo tum ko bad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اللہ فرماتا ہے کہ) یاد کرو ہم نے تمہیں فرعون کے لوگوں سے بچایا ہے جو تمہیں بدترین تکلیفیں پہنچاتے تھے۔ تمہارے بیٹوں کو قتل کر ڈالتے تھے، اور تمہاری عورتوں کو زندہ چھوڑ دیتے تھے۔ اور اس میں تمہارے رب کی طرف سے بڑی آزمائش تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

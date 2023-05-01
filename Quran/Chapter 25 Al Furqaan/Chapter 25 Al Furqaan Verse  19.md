@@ -3224,6 +3224,12 @@ to unhone to, tumhe tumhaari tamaam baatho mein jhutlaaya, ab na to tum mein aza
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو (اے کافرو!) انہوں نے (تو) ان باتوں میں تمہیں جھٹلا دیا ہے جو تم کہتے تھے پس (اب) تم نہ تو عذاب پھیرنے کی طاقت رکھتے ہو اور نہ (اپنی) مدد کی، اور (سن لو!) تم میں سے جو شخص (بھی) ظلم کرتا ہے ہم اسے بڑے عذاب کا مزہ چکھائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لو (اے کافرو) انہوں نے تو تمہاری وہ ساری باتیں جھٹلا دیں جو تم کہا کرتے ہو۔ اب نہ (عذاب کو) ٹالنا تمہارے بس میں ہے نہ کوئی مدد حاصل کرنا۔ اور تم میں سے جو کوئی ظلم کا مرتکب ہے، ہم اسے بڑے بھاری عذاب کا مزہ چکھائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

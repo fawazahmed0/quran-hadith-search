@@ -3224,6 +3224,12 @@ ye bhi min-jumla us wahi ke hai jo teri jaanib tere rub ne hikmath se utaari hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ حکمت و دانائی کی ان باتوں میں سے ہے جو آپ کے رب نے آپ کی طرف وحی فرمائی ہیں، اور (اے انسان!) اللہ کے ساتھ کوئی دوسرا معبود نہ ٹھہرا (ورنہ) تو ملامت زدہ (اور اللہ کی رحمت سے) دھتکارا ہوا ہو کر دوزخ میں جھونک دیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یہ وہ حکمت کی باتیں ہیں جو تمہارے پروردگار نے تم پر وحی کے ذریعے پہنچائی ہیں۔ اور (اے انسان) اللہ کے ساتھ کسی اور کو معبود نہ بنا، ورنہ تجھے ملامت کرکے، دھکے دے کر دوزخ میں پھینک دیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

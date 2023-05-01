@@ -3224,6 +3224,12 @@ isi tarah hoa aur hum ne un (tamaam) chizo ka waaris bani israel ko bana diya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ہم نے) اسی طرح (کیا) اور ہم نے بنی اسرائیل کو ان (سب چیزوں) کا وارث بنا دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کا معاملہ تو اسی طرح ہوا، اور (دوسری طرف) ان چیزوں کا وارث ہم نے بنی اسرائیل کو بنادیا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

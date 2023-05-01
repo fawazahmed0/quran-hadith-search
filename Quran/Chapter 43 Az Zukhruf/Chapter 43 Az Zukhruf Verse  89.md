@@ -3224,6 +3224,12 @@ pas aap un se mu pher le aur kehde (acha bhai) salaam! unhe an-qareeb (khud hee)
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو (میرے محبوب!) آپ اُن سے چہرہ پھیر لیجئے اور (یوں) کہہ دیجئے: (بس ہمارا) سلام، پھر وہ جلد ہی (اپنا حشر) معلوم کر لیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) تم ان کی پرواہ نہ کرو، اور کہہ دو : سلام۔ کیونکہ عنقریب انہیں خود سب پتہ چل جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

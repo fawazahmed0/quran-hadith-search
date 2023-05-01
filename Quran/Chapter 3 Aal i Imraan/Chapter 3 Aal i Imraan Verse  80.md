@@ -3224,6 +3224,12 @@ aur ye nahi (ho sakta) ke wo tumhe, farishto aur nabiyo ko rab bana lene ka hukm
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ پیغمبر تمہیں یہ حکم کبھی نہیں دیتا کہ تم فرشتوں اور پیغمبروں کو رب بنا لو، کیا وہ تمہارے مسلمان ہو جانے کے بعد (اب) تمہیں کفر کا حکم دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نہ وہ تمہیں یہ حکم دے سکتا ہے کہ فرشتوں اور پیغمبروں کو خدا قرار دے دو ۔ جب تم مسلمان ہوچکے تو کیا اس کے بعد وہ تمہیں کفر اختیار کرنے کا حکم دے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

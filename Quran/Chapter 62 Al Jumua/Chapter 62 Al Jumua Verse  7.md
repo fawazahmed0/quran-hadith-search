@@ -3224,6 +3224,12 @@ ye kabi bhi muth ki tamanna na karenge, ba wajeh un amaal ke jo apne aage apne h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ لوگ کبھی بھی اس کی تمنا نہیں کریں گے اُس (رسول کی تکذیب اور کفر) کے باعث جو وہ آگے بھیج چکے ہیں۔ اور اللہ ظالموں کو خُوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے اپنے ہاتھوں جو اعمال آگے بھیج رکھے ہیں ان کی وجہ سے یہ کبھی موت کی تمنا نہیں کریں گے، اور اللہ ان ظالموں کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne un ke piche isa bin maryam ko bheja jo apne se pehle ki kitab yani ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان (پیغمبروں) کے پیچھے ان (ہی) کے نقوشِ قدم پر عیسٰی ابن مریم (علیھما السلام) کو بھیجا جو اپنے سے پہلے کی (کتاب) تورات کی تصدیق کرنے والے تھے اور ہم نے ان کو انجیل عطا کی جس میں ہدایت اور نور تھا اور (یہ انجیل بھی) اپنے سے پہلے کی (کتاب) تورات کی تصدیق کرنے والی (تھی) اور (سراسر) ہدایت تھی اور پرہیز گاروں کے لئے نصیحت تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان (پیغمبروں) کے بعد عیسیٰ ابن مریم کو اپنے سے پہلی کتاب یعنی تورات کی تصدیق کرنے والا بنا کر بھیجا، اور ہم نے ان کو انجیل عطا کی جس میں ہدایت تھی اور نور تھا، اور جو اپنے سے پہلی کتاب یعنی تورات کی تصدیق کرنے والی اور متقیوں کے لیے سراپا ہدایت و نصیحت بن کر آئی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

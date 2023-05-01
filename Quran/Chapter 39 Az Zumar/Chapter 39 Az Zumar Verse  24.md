@@ -3224,6 +3224,12 @@ bhala jo shaqs qayaamath ke din ke, badh-tareen azaab ki suphar (dhaal) apne mu 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا وہ شخص جو قیامت کے دن (آگ کے) برے عذاب کو اپنے چہرے سے روک رہا ہوگا (کیونکہ اس کے دونوں ہاتھ بندھے ہونگے، اس کا کیا حال ہوگا؟) اور ایسے ظالموں سے کہا جائے گا: اُن بداعمالیوں کا مزہ چکھو جو تم انجام دیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا (اس شخص کا کیسا برا حال ہوگا) جو قیامت کے دن اپنے چہرے ہی سے بدترین عذاب کو روکنا چاہے گا ؟ اور ظالموں سے کہا جائے گا کہ : چکھو مزہ اس کمائی کا جو تم نے کر رکھی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

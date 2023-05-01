@@ -3224,6 +3224,12 @@ aur jo log Allah ta’ala ki baatho mein jhagda daalte hai, us ke baadh ke (maql
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اللہ (کے دین کے بارے) میں جھگڑتے ہیں بعد اِس کے کہ اسے قبول کر لیا گیا اُن کی بحث و تکرار اُن کے رب کے نزدیک باطل ہے اور اُن پر (اللہ کا) غضب ہے اور اُن کے لئے سخت عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اللہ کے بارے میں بحثیں نکالتے ہیں جبکہ لوگ اس کی بات مان چکے ہیں، ان کی بحث ان کے پروردگار کے نزدیک باطل ہے، اور ان پر (اللہ کا) غضب ہے، اور ان کے لیے سخت عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

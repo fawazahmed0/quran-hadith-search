@@ -3224,6 +3224,12 @@ tum namaaze qaayem rakho aur zakaath dete raha karo aur jo kuch bhalaayi tum apn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نماز قائم (کیا) کرو اور زکوٰۃ دیتے رہا کرو، اور تم اپنے لئے جو نیکی بھی آگے بھیجو گے اسے اللہ کے حضور پا لو گے، جو کچھ تم کر رہے ہو یقینا اللہ اسے دیکھ رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نماز قائم کرو اور زکوٰۃ ادا کرو، اور (یاد رکھو کہ) جو بھلائی کا عمل بھی تم خود اپنے فائدے کے لیے آگے بھیج دو گے اس کو اللہ کے پاس پاؤ گے بیشک جو عمل بھی تم کرتے ہو اللہ اسے دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

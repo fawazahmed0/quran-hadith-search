@@ -3224,6 +3224,12 @@ kya jab hum mar kar mitthi ho jayenge, phir ye waapsi door (az aqal) hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا جب ہم مَر جائیں گے اور ہم مٹّی ہو جائیں گے (تو پھر زندہ ہوں گے)؟ یہ پلٹنا (فہم و ادراک سے) بعید ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ہم مر کھپ جائیں اور مٹی ہوجائیں گے، (اس وقت ہمیں پھر زندہ کیا جائے گا ؟) یہ واپسی تو ہماری سمجھ سے دور ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ keh dijiye ke har shaqs apne tareeqe par aamil hai, jo puri hidaayath ke raaste 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: ہر کوئی (اپنے) اپنے طریقہ و فطرت پر عمل پیرا ہے، اور آپ کا رب خوب جانتا ہے کہ سب سے زیادہ سیدھی راہ پر کون ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : ہر شخص اپنے اپنے طریقے پر کام کررہا ہے۔ اب اللہ ہی بہتر جانتا ہے کون زیادہ صحیح راستہ پر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

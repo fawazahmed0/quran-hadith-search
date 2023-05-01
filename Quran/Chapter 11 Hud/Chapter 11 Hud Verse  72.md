@@ -3224,6 +3224,12 @@ wo kehne lagi haay meri kambaqti! mera haan aulaad kaise ho sakti hai, main khud
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہنے لگیں: وائے حیرانی! کیا میں بچہ جنوں گی حالانکہ میں بوڑھی (ہو چکی) ہوں اور میرے یہ شوہر (بھی) بوڑھے ہیں؟ بیشک یہ تو بڑی عجیب چیز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہنے لگیں : ہائے ! کیا میں اس حالت میں بچہ جنوں گی کہ میں بوڑھی ہوں، اور یہ میرے شوہر ہیں جو خود بڑھاپے کی حالت میں ہیں ؟ واقعی یہ تو بڑی عجیب بات ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

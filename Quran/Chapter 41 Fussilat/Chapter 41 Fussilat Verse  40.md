@@ -3224,6 +3224,12 @@ beshak jo log hamaari aayato mein kaj rawi karte hai, wo (kuch) hum se maqfi nah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک جو لوگ ہماری آیتوں (کے معنی) میں صحیح راہ سے انحراف کرتے ہیں وہ ہم پر پوشیدہ نہیں ہیں، بھلا جو شخص آتشِ دوزخ میں جھونک دیا جائے (وہ) بہتر ہے یا وہ شخص جو قیامت کے دن (عذاب سے) محفوظ و مامون ہو کر آئے، تم جو چاہو کرو، بے شک جو کام تم کرتے ہو وہ خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ہماری آیتوں کے بارے میں ٹیڑھا راستہ اختیار کرتے ہیں وہ ہم سے چھپ نہیں سکتے۔ بھلا بتاؤ کہ جس شخص کو آگ میں ڈال دیا جائے، وہ بہتر ہے، یا وہ شخص جو قیامت کے دن بےخوف و خطر آئے گا (اچھا) جو چاہو کرلو یقین جانو کہ وہ تمہارے ہر کام کو خوب دیکھ رہا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

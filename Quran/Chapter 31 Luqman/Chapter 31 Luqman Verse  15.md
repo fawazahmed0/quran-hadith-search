@@ -3224,6 +3224,12 @@ aur agar wo duno tujh par is baath ka dabaau daale ke tu mere saath shareek kare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر وہ دونوں تجھ پر اس بات کی کوشش کریں کہ تو میرے ساتھ اس چیز کو شریک ٹھہرائے جس (کی حقیقت) کا تجھے کچھ علم نہیں ہے تو ان کی اطاعت نہ کرنا، اور دنیا (کے کاموں) میں ان کا اچھے طریقے سے ساتھ دینا، اور (عقیدہ و امورِ آخرت میں) اس شخص کی پیروی کرنا جس نے میری طرف توبہ و طاعت کا سلوک اختیار کیا۔ پھر میری ہی طرف تمہیں پلٹ کر آنا ہے تو میں تمہیں ان کاموں سے باخبر کر دوں گا جو تم کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر وہ تم پر یہ زور ڈالیں کہ تم میرے ساتھ کسی کو (خدائی میں) شریک قرار دو جس کی تمہارے پاس کوئی دلیل نہیں تو ان کی بات مت مانو، اور دنیا میں ان کے ساتھ بھلائی سے رہو، اور ایسے شخص کا راستہ اپناؤ جس نے مجھ سے لو لگا رکھی ہو۔ پھر تم سب کو میرے پاس لوٹ کر آنا ہے، اس وقت میں تمہیں بتاؤں گا کہ تم کیا کرتے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ farmaya ! hum ne teri khaum ko tere piche aazmaayesh mein daal diya aur unhe saa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ارشاد ہوا: بیشک ہم نے تمہارے (آنے کے) بعد تمہاری قوم کو فتنہ میں مبتلا کر دیا ہے اور انہیں سامری نے گمراہ کر ڈالا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے فرمایا : پھر تمہارے آنے کے بعد ہم نے تمہاری قوم کو فتنے میں مبتلا کردیا ہے، اور انہیں سامری نے گمراہ کر ڈالا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

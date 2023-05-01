@@ -3224,6 +3224,12 @@ ae iman walo! tum Allah ki qatir haq par qa’em ho jao, raasthi aur insaaf ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اللہ کے لئے مضبوطی سے قائم رہتے ہوئے انصاف پر مبنی گواہی دینے والے ہو جاؤ اور کسی قوم کی سخت دشمنی (بھی) تمہیں اس بات پر برانگیختہ نہ کرے کہ تم (اس سے) عدل نہ کرو۔ عدل کیا کرو (کہ) وہ پرہیزگاری سے نزدیک تر ہے، اور اللہ سے ڈرا کرو، بیشک اللہ تمہارے کاموں سے خوب آگاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! ایسے بن جاؤ کہ اللہ (کے احکام کی پابندی) کے لیے ہر وقت تیار ہو (اور) انصاف کی گواہی دینے والے ہو، اور کسی قوم کی دشمنی تمہیں اس بات پر آمادہ نہ کرے کہ تم انصافی کرو۔ انصاف سے کام لو، یہی طریقہ تقوی سے قریب تر ہے۔ اور اللہ سے ڈرتے رہو۔ اللہ یقینا تمہارے تمام کاموں سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

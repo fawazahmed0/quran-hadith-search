@@ -3224,6 +3224,12 @@ le paalko ko un ke (haqiqi) baapu ki taraf nisbath kar ke bulaao, Allah ke nazdi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم اُن (منہ بولے بیٹوں) کو ان کے باپ (ہی کے نام) سے پکارا کرو، یہی اللہ کے نزدیک زیادہ عدل ہے، پھر اگر تمہیں ان کے باپ معلوم نہ ہوں تو (وہ) دین میں تمہارے بھائی ہیں اور تمہارے دوست ہیں۔ اور اس بات میں تم پر کوئی گناہ نہیں جو تم نے غلطی سے کہی لیکن (اس پر ضرور گناہ ہوگا) جس کا ارادہ تمہارے دلوں نے کیا ہو، اور اللہ بہت بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم ان (منہ بولے بیٹوں) کو ان کے اپنے باپوں کے نام سے پکارا کرو۔ یہی طریقہ اللہ کے نزدیک پورے انصاف کا ہے۔ اور اگر تمہیں ان کے باپ معلوم نہ ہوں تو وہ تمہارے دینی بھائی اور تمہارے دوست ہیں۔ اور تم سے جو غلطی ہوجائے اس کی وجہ سے تم پر کوئی گناہ نہیں ہوگا، البتہ جو بات تم اپنے دلوں سے جان بوجھ کر کرو، (اس پر گناہ ہے) بیشک اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

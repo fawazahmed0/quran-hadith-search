@@ -3224,6 +3224,12 @@ keh dijiye! ke mera rab apne bandho mein jis ke liye chaahe rozi kushaada karta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: بیشک میرا رب اپنے بندوں میں سے جس کے لئے چاہتا ہے رِزق کشادہ فرما دیتا ہے اور جس کے لئے (چاہتا ہے) تنگ کر دیتا ہے، اور تم (اللہ کی راہ میں) جو کچھ بھی خرچ کرو گے تو وہ اس کے بدلہ میں اور دے گا اور وہ سب سے بہتر رِزق دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : میرا پروردگار اپنے بندوں میں سے جس کے لیے چاہتا ہے رزق کی فراوانی کردیتا ہے، اور (جس کے لیے چاہتا ہے) تنگی کردیتا ہے۔ اور تم جو چیز بھی خرچ کرتے ہو وہ اس کی جگہ اور چیز دے دیتا ہے، اور وہی سب سے بہتر رزق دینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

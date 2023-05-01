@@ -3224,6 +3224,12 @@ suno! jo bhi apne aap ko quloos ke saath Allah ke saamne jhukaade, beshak ose us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہاں، جس نے اپنا چہرہ اللہ کے لئے جھکا دیا (یعنی خود کو اللہ کے سپرد کر دیا) اور وہ صاحبِ اِحسان ہو گیا تو اس کے لئے اس کا اجر اس کے رب کے ہاں ہے اور ایسے لوگوں پر نہ کوئی خوف ہو گا اورنہ وہ رنجیدہ ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیوں نہیں ؟ (قاعدہ یہ ہے کہ) جو شخص بھی اپنا رخ اللہ کے آگے جھکا دے، اور وہ نیک عمل کرنے والا ہو، اسے اپنا اجر اپنے پروردگار کے پاس ملے گا۔ اور ایسے لوگوں کو نہ کوئی خوف ہوگا اور نہ وہ غمگین ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

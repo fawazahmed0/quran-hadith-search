@@ -3224,6 +3224,12 @@ paighambar ne kaha mera parvardigaar har us baath ko jo zameen wa asmaan mein ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(نبئ معظّم صلی اللہ علیہ وآلہ وسلم نے) فرمایا کہ میرا رب آسمان اور زمین میں کہی جانے والی (ہر) بات کو جانتا ہے اور وہ خوب سننے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پیغمبر نے (جواب میں) کہا کہ : آسمان اور زمین میں جو کچھ کہا جاتا ہے، میرا پروردگار اس سب کو جانتا ہے۔ وہ ہر بات سنتا ہے، ہر چیز سے باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

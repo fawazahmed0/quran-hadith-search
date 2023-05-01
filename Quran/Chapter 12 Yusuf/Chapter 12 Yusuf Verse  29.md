@@ -3224,6 +3224,12 @@ yousuf ab is baath ko aati jaati karo (aye aurath) tu apne gunah se tauba kar be
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے یوسف! تم اس بات سے درگزر کرو اور (اے زلیخا!) تو اپنے گناہ کی معافی مانگ، بیشک تو ہی خطاکاروں میں سے تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یوسف ! تم اس بات کا خیال نہ کرو، اور اے عورت ! تو اپنے گناہ کی معافی مانگ، یقینی طور پر تو ہی خطاکار تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

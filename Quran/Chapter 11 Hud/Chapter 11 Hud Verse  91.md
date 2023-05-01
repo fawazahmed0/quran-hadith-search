@@ -3224,6 +3224,12 @@ unhone kaha aye shoib! teri aksar batein to hamari samajhne hee nahi aati aur hu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: اے شعیب! تمہاری اکثر باتیں ہماری سمجھ میں نہیں آتیں اور ہم تمہیں اپنے معاشرے میں ایک کمزور شخص جانتے ہیں، اور اگر تمہارا کنبہ نہ ہوتا تو ہم تمہیں سنگ سار کر دیتے اور (ہمیں اسی کا لحاظ ہے ورنہ) تم ہماری نگاہ میں کوئی عزت والے نہیں ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ بولے : اے شعیب ! تمہاری بہت سی باتیں تو ہماری سمجھ ہی میں نہیں آتیں، اور ہم دیکھ رہے ہیں کہ تم ہمارے درمیان ایک کمزور آدمی ہو، اور اگر تمہارا خاندان نہ ہوتا تو ہم تمہیں پتھر مار مار کر ہلاک کردیتے۔ ہم پر تمہارا کچھ زور نہیں چلتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ta’ala hee maqlooq ki ibteda karta hai, phir wahi ose dubara paida kareg
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ مخلوق کو پہلی بار پیدا فرماتا ہے پھر (وہی) اسے دوبارہ پیدا فرمائے گا، پھر تم اسی کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ہی مخلوق کی ابتدا کرتا ہے، اور وہی اس کو دوبارہ پیدا کرے گا۔ پھر تم سب اس کے پاس واپس بلا لیے جاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

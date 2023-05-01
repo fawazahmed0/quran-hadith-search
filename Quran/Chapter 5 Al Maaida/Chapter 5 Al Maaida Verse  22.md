@@ -3224,6 +3224,12 @@ unhone jawab diya ke ae Mosa, wahaa tuh zoor-aawar sarkash log hai aur jab tak w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے (جوابًا) کہا: اے موسٰی! اس میں تو زبردست (ظالم) لوگ (رہتے) ہیں اور ہم اس میں ہرگز داخل نہیں ہوں گے یہاں تک کہ وہ اس (زمین) سے نکل جائیں، پس اگر وہ یہاں سے نکل جائیں تو ہم ضرور داخل ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ بولے۔ اے موسیٰ ! اس (ملک) میں تو بڑے طاقتور لوگ رہتے ہیں، اور جب تک وہ لوگ وہاں سے نکل نہ جائیں، ہم ہرگز اس میں داخل نہیں ہوں گے۔ ہاں اگر وہ وہاں سے نکل جائیں تو بیشک ہم اس میں داخل ہوجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

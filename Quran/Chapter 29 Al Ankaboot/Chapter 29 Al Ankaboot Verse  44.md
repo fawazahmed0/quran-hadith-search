@@ -3224,6 +3224,12 @@ Allah ta’ala ne asmaano aur zameen ko maslihath aur haq ke saath paida kiya ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے آسمانوں اور زمین کو درست تدبیر کے ساتھ پیدا فرمایا ہے، بیشک اس (تخلیق) میں اہلِ ایمان کے لئے (اس کی وحدانیت اور قدرت کی) نشانی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے آسمانوں اور زمین کو برحق (مقصد کے لیے) پیدا کیا ہے۔ درحقیقت اس میں ایمان والوں کے لیے بڑی نشانی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

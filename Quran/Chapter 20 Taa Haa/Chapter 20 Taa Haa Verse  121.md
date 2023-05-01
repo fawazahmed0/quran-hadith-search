@@ -3224,6 +3224,12 @@ chuna che un duno ne us daraqt se kuch kha liya, pas un ke satar khul gaye aur b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو دونوں نے (اس مقامِ قربِ الٰہی کی لازوال زندگی کے شوق میں) اس درخت سے پھل کھا لیا پس ان پر ان کے مقام ہائے سَتَر ظاہر ہو گئے اور دونوں اپنے (بدن) پر جنت (کے درختوں) کے پتے چپکانے لگے اور آدم (علیہ السلام) سے اپنے رب کے حکم (کو سمجھنے) میں فروگذاشت ہوئی٭ سو وہ (جنت میں دائمی زندگی کی) مراد نہ پا سکےo٭ (کہ ممانعت مخصوص ایک درخت کی تھی یا اس کی پوری نوع کی تھی، کیونکہ آپ علیہ السلام نے پھل اس مخصوص درخت کا نہیں کھایا تھا بلکہ اسی نوع کے دوسرے درخت سے کھایا تھا، یہ سمجھ کر کہ شاید ممانعت اسی ایک درخت کی تھی۔)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ان دونوں نے اس درخت میں سے کچھ کھالیا جس سے ان دونوں کے شرم کے مقامات ان کے سامنے کھل گئے، اور وہ دونوں جنت کے پتوں کو اپنے اوپر گانٹھنے لگے۔ اور (اس طرح) آدم نے اپنے رب کا کہا ٹالا، اور بھٹک گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

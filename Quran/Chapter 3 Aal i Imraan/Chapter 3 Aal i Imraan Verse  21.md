@@ -3224,6 +3224,12 @@ jo log Allah ta’ala ki aayato se kufr karte hai aur na-haq nabiyo qatal kar da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یقینا جو لوگ اللہ کی آیتوں کا انکار کرتے ہیں اور انبیاء کو ناحق قتل کرتے ہیں اور لوگوں میں سے بھی انہیں قتل کرتے ہیں جو عدل و انصاف کا حکم دیتے ہیں سو آپ انہیں دردناک عذاب کی خبر سنا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اللہ کی آیتوں کو جھٹلاتے ہیں اور نبیوں کو ناحق قتل کرتے ہیں اور انصاف کی تلقین کرنے والے لوگوں کو بھی قتل کرتے ہیں، ان کو دردناک عذاب کی “ خوشخبری ” سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

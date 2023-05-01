@@ -3224,6 +3224,12 @@ us din Allah ta’ala unhe pura pura badhla, haq wa insaaf ke saath dega aur wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس دن اللہ انہیں ان (کے اعمال) کی پوری پوری جزا جس کے وہ صحیح حق دار ہیں دے دے گا اور وہ جان لیں گے کہ اللہ (خود بھی) حق ہے (اور حق کو) ظاہر فرمانے والا (بھی) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن اللہ ان کو وہ بدلہ پورا پورا دیدے گا جس کے وہ مستحق ہیں اور ان کو پتہ چل جائے گا کہ اللہ ہی حق ہے، اور وہی ساری بات کھول دینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

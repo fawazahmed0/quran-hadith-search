@@ -3224,6 +3224,12 @@ ye log hai jinhone kaha ke Allah ta’ala ne hamein hukm diya hai ke kisi rasool
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ (یعنی یہود حیلہ جوئی کے طور پر) یہ کہتے ہیں کہ اللہ نے ہمیں یہ حکم بھیجا تھا کہ ہم کسی پیغمبر پر ایمان نہ لائیں جب تک وہ (اپنی رسالت کے ثبوت میں) ایسی قربانی نہ لائے جسے آگ (آکر) کھا جائے، آپ (ان سے) فرما دیں: بیشک مجھ سے پہلے بہت سے رسول واضح نشانیاں لے کر آئے اور اس نشانی کے ساتھ بھی (آئے) جو تم کہہ رہے ہو تو (اس کے باوجود) تم نے انہیں شہید کیوں کیا اگر تم (اتنے ہی) سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جو کہتے ہیں کہ : اللہ نے ہم سے یہ وعدہ لیا ہے کہ کسی پیغمبر پر اس وقت تک ایمان نہ لائیں جب تک وہ ہمارے پاس ایسی قربانی لے کر نہ آئے جسے آگ کھاجائے۔ تم کہو کہ : مجھ سے پہلے تمہارے پاس بہت سے پیغمبر کھلی نشانیاں بھی لے کر آئے اور وہ چیز بھی جس کے بارے میں تم نے (مجھ سے) کہا ہے۔ پھر تم نے انہیں کیوں قتل کیا اگر تم واقعی سچے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

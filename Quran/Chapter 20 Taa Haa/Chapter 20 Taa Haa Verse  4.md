@@ -3224,6 +3224,12 @@ is ka utaarna us ki taraf se hai jis ne zameen ko aur bulandh asmaano ko paida k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) اس (اللہ) کی طرف سے اتارا ہوا ہے جس نے زمین اور بلند و بالا آسمان پیدا فرمائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسے اس ذات کی طرف سے تھوڑ ا تھوڑا کر کے نازل کیا جارہا ہے جس نے زمین اور اونچے اونچے آسمان پیدا کیے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

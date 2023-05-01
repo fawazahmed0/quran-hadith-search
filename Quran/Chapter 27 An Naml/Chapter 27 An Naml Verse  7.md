@@ -3224,6 +3224,12 @@ Osʹ Musa skazav svoyiy rodyni: «YA pomityv vohonʹ! YA prynesu vam zvidty yaku
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ واقعہ یاد کریں) جب موسٰی (علیہ السلام) نے اپنی اہلیہ سے فرمایا کہ میں نے ایک آگ دیکھی ہے (یا مجھے ایک آگ میں شعلۂ انس و محبت نظر آیا ہے)، عنقریب میں تمہارے پاس اس میں سے کوئی خبر لاتا ہوں (جس کے لئے مدت سے دشت و بیاباں میں پھر رہے ہیں) یا تمہیں (بھی اس میں سے) کوئی چمکتا ہوا انگارا لا دیتا ہوں تاکہ تم (بھی اس کی حرارت سے) تپ اٹھو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس وقت کو یاد کرو جب موسیٰ نے اپنے گھر والوں سے کہا تھا کہ : مجھے ایک آگ نظر آئی ہے۔ میں ابھی تمہارے پاس وہاں سے کوئی خبر لے کر آتا ہوں، یا پھر تمہارے پاس آگ کا کوئی شعلہ اٹھا کرلے آؤں گا، تاکہ تم آگ سے گرمی حاصل کرسکو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

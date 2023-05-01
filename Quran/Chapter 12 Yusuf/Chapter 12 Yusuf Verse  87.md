@@ -3224,6 +3224,12 @@ mere pyaare baccho! tum jaao aur yousuf(alaihissallaam) ki aur us ke bhai ki por
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے بیٹو! جاؤ (کہیں سے) یوسف (علیہ السلام) اور اس کے بھائی کی خبر لے آؤ اور اللہ کی رحمت سے مایوس نہ ہو، بیشک اللہ کی رحمت سے صرف وہی لوگ مایوس ہوتے ہیں جو کافر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرے بیٹو ! جاؤ، اور یوسف اور اس کے بھائی کا کچھ سراغ لگاؤ، اور اللہ کی رحمت سے ناامید نہ ہو۔ یقین جانو، اللہ کی رحمت سے وہی لوگ ناامید ہوتے ہیں جو کافر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

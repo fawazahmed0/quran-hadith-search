@@ -3224,6 +3224,12 @@ agar aap ka parvardigaar chahta, to sab logo ko ek hee rah par ek gruh kar deta,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ کا رب چاہتا تو تمام لوگوں کو ایک ہی امت بنا دیتا (مگر اس نے جبراً ایسا نہ کیا بلکہ سب کو مذہب کے اختیار کرنے میں آزادی دی) اور (اب) یہ لوگ ہمیشہ اختلاف کرتے رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہارا پروردگار چاہتا تو تمام انسانوں کو ایک ہی طریقے کا پیرو بنا دیتا، (مگر کسی کو زبردستی کسی دین پر مجبور کرنا حکمت کا تقاضا نہیں ہے، اس لیے انہیں اپنے اختیار سے مختلف طریقے اپنانے کا موقع دیا گیا ہے) اور وہ اب ہمیشہ مختلف راستوں پر ہی رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

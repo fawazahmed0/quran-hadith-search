@@ -3224,6 +3224,12 @@ aye imaan waalo! momino ko chohd kar kaafiro ko dosth na banao,kya tum ye chahte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! مسلمانوں کے سوا (جارح) کافروں کو (اپنا) حلیف نہ سمجھو، کیا تم چاہتے ہو کہ (نافرمانوں کی دوستی کے ذریعے) اپنے خلاف اللہ کی صریح حجت قائم کر لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! مسلمانوں کو چھوڑ کر کافروں کو دوست مت بناؤ، کیا تم یہ چاہتے ہو کہ اللہ کے پاس اپنے خلاف (یعنی اپنے مستحق عذاب ہونے کی) ایک کھلی کھلی وجہ پیدا کردو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

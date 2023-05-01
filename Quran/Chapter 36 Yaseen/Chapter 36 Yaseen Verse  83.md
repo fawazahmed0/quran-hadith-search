@@ -3224,6 +3224,12 @@ pas paak hai wo Allah jis ke haath mein har cheez ki badshaahath hai aur jis ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس وہ ذات پاک ہے جس کے دستِ (قدرت) میں ہر چیز کی بادشاہت ہے اور تم اسی کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض پاک ہے وہ ذات جس کے ہاتھ میں ہر چیز کی حکومت ہے اور اسی کی طرف تم سب کو آخر کار لے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

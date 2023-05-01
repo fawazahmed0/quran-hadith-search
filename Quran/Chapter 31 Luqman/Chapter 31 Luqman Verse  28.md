@@ -3224,6 +3224,12 @@ tum sab ki paidayish aur marne ke baadh jilaana aisa hee hai, jaise ek jee1 ka, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم سب کو پیدا کرنا اور تم سب کو (مرنے کے بعد) اٹھانا (قدرتِ الٰہیہ کے لئے) صرف ایک شخص (کو پیدا کرنے اور اٹھانے) کی طرح ہے۔ بیشک اللہ سننے والا دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم سب کو پیدا کرنا اور دوبارہ زندہ کرنا (اللہ کے لیے) ایسا ہی ہے جیسے ایک انسان کو (پیدا کرنا اور دوبارہ زندہ کرنا) یقینا اللہ ہر بات سنتا، ہر چیز دیکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

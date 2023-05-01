@@ -3224,6 +3224,12 @@ yaqinan aap se pehle ke paighambaro ka mazaaq udaya gaya tha aur main ne bhi kaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک آپ سے قبل (بھی کفار کی جانب سے) رسولوں کے ساتھ مذاق کیا جاتا رہا سو میں نے کافروں کو مہلت دی پھر میں نے انہیں (عذاب کی) گرفت میں لے لیا۔ پھر (دیکھئے) میرا عذاب کیسا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) حقیقت یہ ہے کہ تم سے پہلے پیغمبروں کا بھی مذاق اڑایا گیا تھا، اور ایسے کافروں کو بھی میں نے مہلت دی تھی مگر کچھ وقت کے بعد میں نے ان کو گرفت میں لے لیا، اب دیکھ لو کہ میرا عذاب کیسا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

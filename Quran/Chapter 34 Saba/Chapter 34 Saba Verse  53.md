@@ -3224,6 +3224,12 @@ us se pehle to unhone us se kufr kiya tha aur door daraaz se bin dekhe hee phekt
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حالانکہ وہ اس سے پہلے کفر کر چکے، اور وہ بِن دیکھے دور کی جگہ سے باطل گمان کے تیر پھینکتے رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جبکہ انہوں نے پہلے اس کا انکار کیا تھا، اور دور دور سے اٹک پچوں تیر پھینکا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

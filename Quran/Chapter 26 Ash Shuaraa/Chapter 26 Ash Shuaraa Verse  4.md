@@ -3224,6 +3224,12 @@ agar hum chaahte, to un par asmaan se koyi aisi nishaani utaar te, ke jis ke saa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر ہم چاہیں تو ان پر آسمان سے (ایسی) نشانی اتار دیں کہ ان کی گردنیں اس کے آگے جھکی رہ جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر ہم چاہیں تو ان پر آسمان سے کوئی ایسی نشانی اتار دیں کہ اس کے آگے ان کی گردنیں جھک کر رہ جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ logo Allah ta’ala ka waada saccha hai, tumhe zindagaani dunya dhuke mein na da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! بیشک اللہ کا وعدہ سچا ہے سو دنیا کی زندگی تمہیں ہرگز فریب نہ دے دے، اور نہ وہ دغا باز شیطان تمہیں اللہ (کے نام) سے دھوکہ دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! یقین جانو کہ اللہ کا وعدہ سچا ہے، لہذا تمہیں یہ دنیوی زندگی ہرگز دھوکے میں نہ ڈالے، اور نہ اللہ کے معاملے میں تمہیں وہ (شیطان) دھوکے میں ڈالنے پائے جو بڑا دھوکے باز ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

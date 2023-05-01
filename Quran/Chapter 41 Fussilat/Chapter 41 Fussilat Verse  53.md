@@ -3224,6 +3224,12 @@ an-qareeb hum unhe apni nishaaniyaa afaaq-e-aalam2mein bhi dikhaayenge aur khud 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم عنقریب انہیں اپنی نشانیاں اَطرافِ عالم میں اور خود اُن کی ذاتوں میں دِکھا دیں گے یہاں تک کہ اُن پر ظاہر ہو جائے گا کہ وہی حق ہے۔ کیا آپ کا رب (آپ کی حقانیت کی تصدیق کے لئے) کافی نہیں ہے کہ وہی ہر چیز پر گواہ (بھی) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم انہیں اپنی نشانیاں کائنات میں بھی دکھائیں گے اور خود ان کے اپنے وجود میں بھی، یہاں تک کہ ان پر یہ بات کھل کر سامنے آجائے کہ یہی حق ہے۔ کیا تمہارے رب کی یہ بات کافی نہیں ہے کہ وہ ہر چیز کا گواہ ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

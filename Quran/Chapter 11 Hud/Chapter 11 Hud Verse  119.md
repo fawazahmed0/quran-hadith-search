@@ -3224,6 +3224,12 @@ bajoz un ke jin par aap ka rub rahem farmaye,unhe to isi liye paida kiya hai aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے اس شخص کے جس پر آپ کا رب رحم فرمائے، اور اسی لئے اس نے انہیں پیدا فرمایا ہے، اور آپ کے رب کا فرمان پورا ہو چکا بیشک میں دوزخ کو جِنّوں اور انسانوں میں سے سب (اہلِ باطل) سے ضرور بھر دوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ جن پر تمہارا پروردگار رحم فرمائے گا، ان کی بات اور ہے (کہ اللہ انہیں حق پر قائم رکھے گا) اور اسی (امتحان) کے لیے اس نے ان کو پیدا کیا ہے۔ اور تمہارے رب کی وہ بات پوری ہوگی جو اس نے کہی تھی کہ : میں جہنم کو جنات اور انسانوں دونوں سے بھر دوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

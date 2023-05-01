@@ -3224,6 +3224,12 @@ mere bandho! aaj to tum par koyi khauf (wa hiraas) hai aur na tum (badh dil aur)
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اُن سے فرمایا جائے گا): اے میرے (مقرّب) بندو! آج کے دن تم پر نہ کوئی خوف ہے اور نہ ہی تم غم زدہ ہو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (جن سے کہا جائے گا کہ) اے میرے بندو ! آج تم پر نہ کوئی خوف طاری ہوگا اور نہ تم غمگین ہوگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

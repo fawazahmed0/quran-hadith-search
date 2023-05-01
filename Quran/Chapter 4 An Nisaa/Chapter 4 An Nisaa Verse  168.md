@@ -3224,6 +3224,12 @@ jin logo ne kufr kiya aur zulm kiya unhe Allah ta’ala har-giz har-giz na baqsh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جنہوں نے (اللہ کی گواہی کو نہ مان کر) کفر کیا اور (رسول کی شان کو نہ مان کر) ظلم کیا، اللہ ہرگز (ایسا) نہیں کہ انہیں بخش دے اور نہ (ایسا ہے کہ آخرت میں) انہیں کوئی راستہ دکھائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنایا ہے (اور دوسروں کو اللہ کے راستے سے روک کر ان پر) ظلم کیا ہے اللہ ان کو بخشنے والا نہیں ہے، اور نہ ان کو کوئی اور راستہ دکھانے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

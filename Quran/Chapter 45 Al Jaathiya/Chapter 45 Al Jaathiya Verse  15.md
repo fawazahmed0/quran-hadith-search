@@ -3224,6 +3224,12 @@ jo neki karega wo apne zaathi bhale ke liye aur jo buraayi karega us ka wabaal o
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے کوئی نیک عمل کیا سو اپنی ہی جان کے (نفع کے) لئے اور جِس نے برائی کی تو (اس کا وبال بھی) اسی پر ہے پھر تم سب اپنے رب کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص بھی نیک کام کرتا ہے وہ اپنے ہی فائدے کے لیے کرتا ہے اور جو برا کام کرتا ہے وہ اپنا ہی نقصان کرتا ہے، پھر تم سب کو اپنے پروردگار ہی کے پاس واپس لایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

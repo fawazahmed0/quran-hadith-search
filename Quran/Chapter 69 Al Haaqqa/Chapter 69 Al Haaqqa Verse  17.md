@@ -3224,6 +3224,12 @@ us ke kinaaro par farishte honge aur tere parvardigaar ka arsh us din aat (faris
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرشتے اس کے کناروں پر کھڑے ہوں گے، اور آپ کے رب کے عرش کو اس دن ان کے اوپر آٹھ (فرشتے یا فرشتوں کے طبقات) اٹھائے ہوئے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور فرشتے اس کے کناروں پر ہوں گے، اور تمہارے پروردگار کے عرش کو اس دن آٹھ فرشتے اپنے اوپر اٹھائے ہوئے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

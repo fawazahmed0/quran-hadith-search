@@ -3224,6 +3224,12 @@ Allah ta’ala hee din aur raath ko raddu badal karta rehta hai, aankho waalo ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ رات اور دن کو (ایک دوسرے کے اوپر) پلٹتا رہتا ہے، اور بیشک اس میں عقل و بصیرت والوں کے لئے (بڑی) رہنمائی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی اللہ رات اور دن کا الٹ پھیر کرتا ہے۔ یقینا ان سب باتوں میں ان لوگوں کے لیے نصیحت کا سامان ہے جن کے پاس دیکھنے والی آنکھیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

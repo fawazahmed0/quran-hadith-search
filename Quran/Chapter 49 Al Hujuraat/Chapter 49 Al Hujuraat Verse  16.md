@@ -3224,6 +3224,12 @@ keh dijiye! ke kya tum Allah ko apni deen daari se agaah kar rahe ho, Allah har 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کیا تم اللہ کو اپنی دین داری جتلا رہے ہو، حالانکہ اللہ اُن (تمام) چیزوں کو جانتا ہے جو آسمانوں میں ہیں اور جو زمین میں ہیں، اور اللہ ہر چیز کا خوب علم رکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان دیہاتیوں سے) کہو کہ : کیا تم اللہ کو اپنے دین کی اطلاع دے رہے ہو ؟ حالانکہ اللہ ان تمام چیزوں کو خوب جانتا ہے جو آسمانوں میں ہیں اور جو زمین میں ہیں، اور اللہ ہر چیز کا پورا پورا علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

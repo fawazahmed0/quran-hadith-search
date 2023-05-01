@@ -3224,6 +3224,12 @@ Har Nabi ne unsey poocha, kya tum usi dagar par cahle jaogey khwah mein us raast
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(پیغمبر نے) کہا: اگرچہ میں تمہارے پاس اُس (طریقہ) سے بہتر ہدایت کا (دین اور) طریقہ لے آؤں جس پر تم نے اپنے باپ دادا کو پایا تھا، تو انہوں نے کہا: جو کچھ (بھی) تم دے کر بھیجے گئے ہو ہم اُس کے منکر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پیغمبر نے کہا کہ : تم نے اپنے باپ دادوں کو جس طریقے پر پایا ہے، اگر میں تمہارے پاس اس سے زیادہ ہدایت کی بات لے کر آیا ہوں تو کیا پھر بھی (تم اپنے طریقے پر چلے جاؤ گے ؟) انہوں نے جواب دیا کہ : تم جو پیغام دے کر بھیجے گئے ہو ہم تو اس کو ماننے والے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

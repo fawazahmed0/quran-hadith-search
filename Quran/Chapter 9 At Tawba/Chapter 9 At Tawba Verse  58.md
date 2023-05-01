@@ -3224,6 +3224,12 @@ un mein wo bhi hai jo qairati mal ki taqsim ke bare mein aap par aib rakhte hai,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان ہی میں سے بعض ایسے ہیں جو صدقات (کی تقسیم) میں آپ پر طعنہ زنی کرتے ہیں، پھر اگر انہیں ان (صدقات) میں سے کچھ دے دیا جائے تو وہ راضی ہو جائیں اور اگر انہیں اس میں سے کچھ نہ دیا جائے تو وہ فوراً خفا ہو جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہی (منافقین) میں وہ بھی ہیں جو صدقات (کی تقسیم) کے بارے میں آپ کو طعنہ دیتے ہیں۔ چنانچہ اگر انہیں صدقات میں سے (ان کی مرضی کے مطابق) دے دیا جائے تو راضی ہوجاتے ہیں، اور اگر ان میں سے انہیں نہ دیا جائے تو ذرا سی دیر میں ناراض ہوجاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

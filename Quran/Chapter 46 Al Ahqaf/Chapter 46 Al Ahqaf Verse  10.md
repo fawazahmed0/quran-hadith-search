@@ -3224,6 +3224,12 @@ aap keh dijiye! agar ye (Qur’aan) Allah hee ki taraf se ho aur tum ne ose na m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: ذرا بتاؤ تو اگر یہ (قرآن) اللہ کی طرف سے ہو اور تم نے اس کا انکار کر دیا ہو اور بنی اسرائیل میں سے ایک گواہ (بھی پہلی آسمانی کتابوں سے) اس جیسی کتاب (کے اترنے کے ذکر) پر گواہی دے پھر وہ (اس پر) ایمان (بھی) لایا ہو اور تم (اس کے باوجود) غرور کرتے رہے (تو تمہارا انجام کیا ہوگا؟)، بیشک اللہ ظالم قوم کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : ذرا مجھے یہ بتاؤ کہ اگر یہ (قرآن) اللہ کی طرف سے ہو، اور تم نے اس کا انکار کردیا، اور بنو اسرائیل میں سے ایک گواہ نے اس جیسی بات کے حق میں گواہی بھی دے دی، اور اس پر ایمان بھی لے آیا اور تم اپنے گھمنڈ میں مبتلا رہے (تو یہ کتنے ظلم کی بات ہے ؟) یقین جانو کہ اللہ ایسے لوگوں کو ہدایت تک نہیں پہنچاتا جو ظالم ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

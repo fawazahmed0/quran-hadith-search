@@ -3224,6 +3224,12 @@ chuna che Allah ta’ala ke hukm se unhone jaalotiyo ko shikast dedi aur (hazrat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر انہوں نے ان (جالوتی فوجوں) کو اللہ کے امر سے شکست دی، اور داؤد (علیہ السلام) نے جالوت کو قتل کر دیا اور اللہ نے ان کو (یعنی داؤد علیہ السلام کو) حکومت اور حکمت عطا فرمائی اور انہیں جو چاہا سکھایا، اور اگر اللہ (ظلم و جور روا رکھنے والے اَمن دشمن) لوگوں کے ایک گروہ کو (تکریمِ اِنسانیت اور اَمن کا تحفظ کرنے والے) دوسرے گروہ کے ذریعے نہ ہٹاتا رہتا تو زمین (پر انسانی زندگی بعض جابروں کے مسلسل تسلّط اور ظلم کے باعث) برباد ہو جاتی مگر اللہ تمام جہانوں پر بڑا فضل فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ انہوں نے اللہ کے حکم سے ان (جالوت کے ساتھیوں) کو شکست دی اور داؤد نے جالوت کو قتل کیا، اور اللہ نے اس کو سلطنت اور دانائی عطا کی، اور جو علم چاہا اس کو عطا فرمایا۔ اگر اللہ لوگوں کا ایک دوسرے کے ذریعے دفاع نہ کرے تو زمین میں فساد پھیل جائے، لیکن اللہ تمام جہانوں پر بڑا فضل فرمانے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

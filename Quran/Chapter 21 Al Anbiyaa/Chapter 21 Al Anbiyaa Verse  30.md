@@ -3224,6 +3224,12 @@ kya kaafir logo ne ye nahi dekha ke asmaan wa zameen baaham mile jhule thein, ph
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا کافر لوگوں نے نہیں دیکھا کہ جملہ آسمانی کائنات اور زمین (سب) ایک اکائی کی شکل میں جڑے ہوئے تھے پس ہم نے ان کو پھاڑ کر جدا کر دیا، اور ہم نے (زمین پر) ہر پیکرِ حیات (کی زندگی) کی نمود پانی سے کی، تو کیا وہ (قرآن کے بیان کردہ اِن حقائق سے آگاہ ہو کر بھی) ایمان نہیں لاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا ہے، کیا انہیں یہ معلوم نہیں ہے کہ سارے آسمان اور زمین بند تھے، پھر ہم نے انہیں کھول دیا۔ اور پانی سے ہر جاندار چیز پیدا کی ہے ؟ کیا پھر بھی یہ ایمان نہیں لائیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

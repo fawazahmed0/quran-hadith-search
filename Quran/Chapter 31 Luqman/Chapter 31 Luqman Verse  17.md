@@ -3224,6 +3224,12 @@ aye mere pyaare bete! tu namaaz qaayam rakhna, acche kaamo ki nasihath karte reh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے فرزند! تو نماز قائم رکھ اور نیکی کا حکم دے اور برائی سے منع کر اور جو تکلیف تجھے پہنچے اس پر صبر کر، بیشک یہ بڑی ہمت کے کام ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیٹا ! نماز قائم کرو، اور لوگوں کو نیکی کی تلقین کرو، اور برائی سے روکو، اور تمہیں جو تکلیف پیش آئے، اس پر صبر کرو۔ بیشک یہ بڑی ہمت کا کام ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

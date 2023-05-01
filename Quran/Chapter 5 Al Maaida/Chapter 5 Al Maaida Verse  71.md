@@ -3224,6 +3224,12 @@ aur samajh baithe ke koyi pakad na hogi, pas andhe bhaire ban baithe, phir Allah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (ساتھ) یہ خیال کرتے رہے کہ (انبیاء کے قتل و تکذیب سے) کوئی عذاب نہیں آئے گا، سو وہ اندھے اور بہرے ہوگئے تھے۔ پھر اللہ نے ان کی توبہ قبول فرما لی، پھر ان میں سے اکثر لوگ (دوبارہ) اندھے اور بہرے (یعنی حق دیکھنے اور سننے سے قاصر) ہوگئے، اور اللہ ان کاموں کو خوب دیکھ رہا ہے جو وہ کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ یہ سمجھ بیٹھے کہ کوئی پکڑ نہیں ہوگی، اس لیے اندھے بہرے بن گئے، پھر اللہ نے ان کی توبہ قبول کی تو ان میں سے بہت سے پھر اندھے بہرے بن گئے، اور اللہ ان کے تمام اعمال کو خوب دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

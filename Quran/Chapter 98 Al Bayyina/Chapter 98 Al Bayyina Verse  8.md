@@ -3224,6 +3224,12 @@ un ka badhla un ke rab ke paas hameshgi waali jannate hai, jin ke niche nehre be
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کی جزا ان کے رب کے حضور دائمی رہائش کے باغات ہیں جن کے نیچے سے نہریں رواں ہیں، وہ ان میں ہمیشہ ہمیشہ رہیں گے، اللہ اُن سے راضی ہوگیا ہے اور وہ لوگ اس سے راضی ہیں، یہ (مقام) اس شخص کے لئے ہے جو اپنے رب سے خائف رہا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے پروردگار کے پاس ان کا انعام وہ سدا بہار جنتیں ہیں جن کے نیچے سے نہریں بہتی ہیں۔ وہاں وہ ہمیشہ ہمیشہ رہیں گے۔ اللہ ان سے خوش ہوگا اور وہ اس سے خوش ہوں گے۔ یہ سب کچھ اس کے لیے ہے جو اپنے پروردگار کا خوف دل میں رکھتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

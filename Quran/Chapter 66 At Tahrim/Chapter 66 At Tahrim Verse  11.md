@@ -3224,6 +3224,12 @@ aur Allah ta’ala ne imaan waalo ke liye feraun ki biwi ki misaal bayaan farmaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے اُن لوگوں کے لئے جو ایمان لائے ہیں زوجۂ فرعون (آسیہ بنت مزاحم) کی مثال بیان فرمائی ہے، جب اس نے عرض کیا: اے میرے رب! تو میرے لئے بہشت میں اپنے پاس ایک گھر بنا دے اور مجھ کو فرعون اور اُس کے عملِ (بد) سے نجات دے دے اور مجھے ظالم قوم سے (بھی) بچا لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ایمان اختیار کیا ہے ان کے لیے اللہ، فرعون کی بیوی کو مثال کے طور پر پیش کرتا ہے۔ جب اس نے کہا تھا کہ : میرے پروردگار میرے لیے اپنے پاس جنت میں ایک گھر بنا دے، اور مجھے فرعون اور اس کے عمل سے نجات دیدے، اور مجھے ظالم لوگوں سے بھی نجات عطا فرما۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

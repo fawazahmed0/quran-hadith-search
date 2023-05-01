@@ -3224,6 +3224,12 @@ beshak jin logo ne kaha ke hamaara rab Allah hai phir us par jame rahe to un par
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جن لوگوں نے کہا کہ ہمارا رب اللہ ہے پھر انہوں نے استقامت اختیار کی تو ان پر نہ کوئی خوف ہے اور نہ وہ غمگین ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا جن لوگوں نے یہ کہہ دیا ہے کہ : ہمارا پروردگار اللہ ہے، پھر وہ اس پر ثابت قدم رہے تو ان پر نہ کوئی خوف طاری ہوگا اور نہ وہ غمگین ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

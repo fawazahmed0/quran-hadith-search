@@ -3224,6 +3224,12 @@ aur agar aap ka rub chahta to tamaam rooye zamin ke log sub ke sub iman le aate,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ کا رب چاہتا تو ضرور سب کے سب لوگ جو زمین میں آباد ہیں ایمان لے آتے، (جب رب نے انہیں جبراً مومن نہیں بنایا) تو کیا آپ لوگوں پر جبر کریں گے یہاں تک کہ وہ مومن ہوجائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ چاہتا تو روئے زمین پر بسنے والے سب کے سب ایمان لے آتے تو کیا تم لوگوں پر زبردستی کرو گے تاکہ وہ سب مومن بن جائیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

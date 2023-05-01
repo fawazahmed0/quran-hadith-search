@@ -3224,6 +3224,12 @@ agar hum is Qur’aan ko kisi pahaad par utaarte to, tu dekhta ke khaufe ilaahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر ہم یہ قرآن کسی پہاڑ پر نازل فرماتے تو (اے مخاطب!) تو اسے دیکھتا کہ وہ اللہ کے خوف سے جھک جاتا، پھٹ کر پاش پاش ہوجاتا، اور یہ مثالیں ہم لوگوں کے لئے بیان کر رہے ہیں تاکہ وہ غور و فکر کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر ہم نے یہ قرآن کسی پہاڑ پر اتارا ہوتا تو تم اسے دیکھتے کہ وہ اللہ کے رعب سے جھکا جارہا ہے، اور پھٹا پڑتا ہے۔ اور ہم یہ مثالیں لوگوں کے سامنے اس لیے بیان کرتے ہیں تاکہ وہ غور و فکر سے کام لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yaqinan hum ne bani israel ko kitaab, hukumath aur nabuwath di thi aur hum ne un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے بنی اسرائیل کو کتاب اور حکومت اور نبوت عطا فرمائی، اور انہیں پاکیزہ چیزوں سے رزق دیا اور ہم نے انہیں (ان کے ہم زمانہ) جہانوں پر (یعنی اس دور کی قوموں اور تہذیبوں پر) فضیلت بخشی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے بنو اسرائیل کو کتاب اور حکومت اور نبوت عطا کی تھی، اور انہیں پاکیزہ چیزوں کا رزق دیا تھا، اور انہیں دنیا جہان کے لوگوں پر فوقیت بخشی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

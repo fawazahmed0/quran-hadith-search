@@ -3224,6 +3224,12 @@ us ki jaldi unhe padi hai jo ose nahi maante aur jo us par yaqeen rakhte hai wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اِس (قیامت) میں وہ لوگ جلدی مچاتے ہیں جو اِس پر ایمان (ہی) نہیں رکھتے اور جو لوگ ایمان رکھتے ہیں اس سے ڈرتے ہیں اور جانتے ہیں کہ اِس کا آنا حق ہے، جان لو! جو لوگ قیامت کے بارے میں جھگڑا کرتے ہیں وہ پرلے درجہ کی گمراہی میں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اس پر ایمان نہیں رکھتے وہ اس کے آنے کی جلدی مچاتے ہیں، اور جو لوگ ایمان لائے ہیں، وہ اس سے سہمے رہتے ہیں، اور جانتے ہیں کہ وہ برحق ہے۔ ارے جو لوگ قیامت کے بارے میں بحثیں کر رہے ہیں، وہ گمراہی میں بہت دور چلے گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

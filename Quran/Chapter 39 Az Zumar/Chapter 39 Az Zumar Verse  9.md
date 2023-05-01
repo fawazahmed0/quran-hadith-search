@@ -3224,6 +3224,12 @@ bhala jo shaqs raatho ke auqaath sajde aur qayaam ki haalath mein (ibaadath mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا (یہ مشرک بہتر ہے یا) وہ (مومن) جو رات کی گھڑیوں میں سجود اور قیام کی حالت میں عبادت کرنے والا ہے، آخرت سے ڈرتا رہتا ہے اور اپنے رب کی رحمت کی امید رکھتا ہے، فرما دیجئے: کیا جو لوگ علم رکھتے ہیں اور جو لوگ علم نہیں رکھتے (سب) برابر ہوسکتے ہیں؟ بس نصیحت تو عقل مند لوگ ہی قبول کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا (کیا ایسا شخص اس کے برابر ہوسکتا ہے) جو رات کی گھڑیوں میں عبادت کرتا ہے، کبھی سجدے میں، کبھی قیام میں، آخرت سے ڈرتا ہے، اور اپنے پروردگار کی رحمت کا امیدوار ہے ؟ کہو کہ : کیا وہ جو جانتے ہیں اور جو نہیں جانتے سب برابر ہیں ؟ (مگر) نصیحت تو وہی لوگ قبول کرتے ہیں جو عقل والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

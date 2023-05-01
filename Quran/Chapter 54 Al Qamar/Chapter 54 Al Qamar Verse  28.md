@@ -3224,6 +3224,12 @@ haan unhe qabar kar de ke paani un mein taqseem shuda hai, har ek apni baari par
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہیں اس بات سے آگاہ کر دیں کہ اُن کے (اور اونٹنی کے) درمیان پانی تقسیم کر دیا گیا ہے، ہر ایک (کو) پانی کا حصّہ اس کی باری پر حاضر کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کو بتادو کہ (کنویں کا) پانی ان کے درمیان تقسیم کردیا گیا ہے۔ ہر پانی کا حق دار اپنی باری میں حاضر ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

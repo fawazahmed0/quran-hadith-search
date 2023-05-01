@@ -3224,6 +3224,12 @@ hum ne hee aap ko haq de kar khush qabri sunaane waala aur dar sunaane waala ban
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے آپ کو حق و ہدایت کے ساتھ، خوشخبری سنانے والا اور (آخرت کا) ڈر سنانے والا بنا کر بھیجا ہے۔ اور کوئی امّت (ایسی) نہیں مگر اُس میں کوئی (نہ کوئی) ڈر سنانے والا (ضرور) گزرا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے تمہیں حق بات دے کر اس طرح بھیجا ہے کہ تم خوشخبری دو اور خبردار کرو، اور کوئی امت ایسی نہیں ہے جس میں کوئی خبر دار کرنے والا نہ آیا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

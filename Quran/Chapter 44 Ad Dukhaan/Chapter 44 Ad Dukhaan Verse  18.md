@@ -3224,6 +3224,12 @@ ke Allah ta’ala ke bandho ko mere hawaale kardo, yaqeen maano ke main tuhaare 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(انہوں نے کہا تھا) کہ تم بندگانِ خدا (یعنی بنی اسرائیل) کو میرے حوالے کر دو، بیشک میں تمہاری قیادت و رہبری کے لئے امانت دار رسول ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور انہوں نے کہا تھا کہ) اللہ کے بندوں کو میرے حوالے کردو۔ میں تمہاری طرف ایک امانت دار پیغمبر بن کر آیا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

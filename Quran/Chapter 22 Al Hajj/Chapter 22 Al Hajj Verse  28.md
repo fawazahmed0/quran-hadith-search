@@ -3224,6 +3224,12 @@ ta ke apne liye fayede haasil kare aur un muqarrara dino mein Allah ka naam yaad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ وہ اپنے فوائد (بھی) پائیں اور (قربانی کے) مقررہ دنوں کے اندر اللہ نے جو مویشی چوپائے ان کو بخشے ہیں ان پر (ذبح کے وقت) اللہ کے نام کا ذکر بھی کریں، پس تم اس میں سے خود (بھی) کھاؤ اور خستہ حال محتاج کو (بھی) کھلاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ وہ ان فوائد کو آنکھوں سے دیکھیں جو ان کے لیے رکھے گئے ہیں، اور متعین دنوں میں ان چوپایوں پر اللہ کا نام لیں جو اللہ نے انہیں عطا کیے ہیں۔ چنانچہ (مسلمانو) ان جانوروں میں سے خود بھی کھاؤ اور تنگ دست محتاج کو بھی کھلاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

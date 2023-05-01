@@ -3224,6 +3224,12 @@ wahi farishto ko apni wahi de kar apne hukm se apne bandho mein se jis par chaah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی فرشتوں کو وحی کے ساتھ (جو جملہ تعلیماتِ دین کی روح اور جان ہے) اپنے حکم سے اپنے بندوں میں سے جس پر چاہتا ہے نازل فرماتا ہے کہ (لوگوں کو) ڈر سناؤ کہ میرے سوا کوئی معبود نہیں سو میری پرہیزگاری اختیار کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اپنے حکم سے فرشتوں کو اپنے بندوں میں سے جس پر چاہتا ہے اس زندگی بخشنے والی وحی کے ساتھ اتارتا ہے کہ : لوگوں کو آگاہ کردو کہ میرے سوا کوئی معبود نہیں ہے، لہذا تم مجھی سے ڈرو، (کسی اور سے نہیں) ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur bil-yaqeen hum ne (khaume aadh) ko wo maqdoor diye thein jo tumhe to diye bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے اہلِ مکہّ!) درحقیقت ہم نے ان کو ان امور میں طاقت و قدرت دے رکھی تھی جن میں ہم نے تم کو قدرت نہیں دی اور ہم نے انہیں سماعت اور بصارت اور دل و دماغ (کی بے بہا صلاحیتوں) سے نوازا تھا مگر نہ تو ان کے کان ہی ان کے کچھ کام آسکے اور نہ ان کی آنکھیں اور نہ (ہی) ان کے دل و دماغ جبکہ وہ اللہ کی نشانیوں کا انکار ہی کرتے رہے اور (بالآخر) اس (عذاب) نے انہیں آگھیرا جس کا وہ مذاق اڑایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے عرب کے لوگو) ہم نے ان لوگوں کو ان باتوں کی طاقت دی تھی جن کی طاقت تمہیں نہیں دی، اور ہم نے ان کو کان، آنکھیں اور دل سب کچھ دے رکھے تھے، لیکن نہ ان کے کان اور ان کی آنکھیں ان کے کچھ کام آئیں اور نہ ان کے دل، کیونکہ اللہ کی آیتوں کا انکار کرتے تھے، اور جس چیز کا وہ مذاق اڑایا کرتے تھے اسی نے انہیں آگھیرا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum un ka sahih waqea tere saamne bayaan farma rahe hai, ye chand nau jawaan apn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اب) ہم آپ کو ان کا حال صحیح صحیح سناتے ہیں، بیشک وہ (چند) نوجوان تھے جو اپنے رب پر ایمان لائے اور ہم نے ان کے لئے (نورِ) ہدایت میں اور اضافہ فرما دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم تمہارے سامنے ان کا واقعہ ٹھیک ٹھیک بیان کرتے ہیں۔ یہ کچھ نوجوان تھے جو اپنے پروردگار پر ایمان لائے تھے، اور ہم نے ان کو ہدایت میں خوب ترقی دی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wo Allah tala aisa hai jis ne aftab ko chamakta hoa banaya aur chaand ko norani 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے سورج کو روشنی (کا منبع) بنایا اور چاند کو (اس سے) روشن (کیا) اور اس کے لئے (کم و بیش دکھائی دینے کی) منزلیں مقرر کیں تاکہ تم برسوں کا شمار اور (اوقات کا) حساب معلوم کر سکو، اور اللہ نے یہ (سب کچھ) نہیں پیدا فرمایا مگر درست تدبیر کے ساتھ، وہ (ان کائناتی حقیقتوں کے ذریعے اپنی خالقیت، وحدانیت اور قدرت کی) نشانیاں ان لوگوں کے لئے تفصیل سے واضح فرماتا ہے جو علم رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ وہی ہے جس نے سورج کو سراپا روشنی بنایا، اور چاند کو سراپا نور، اور اس کے (سفر) کے لیے منزلیں مقرر کردیں، تاکہ تم برسوں کی گنتی اور (مہینوں کا) حساب معلوم کرسکو۔ اللہ نے یہ سب کچھ بغیر کسی صحیح مقصد کے پیدا نہیں کردیا وہ یہ نشانیاں ان لوگوں کے لیے کھول کھول کر بیان کرتا ہے جو سمجھ رکھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

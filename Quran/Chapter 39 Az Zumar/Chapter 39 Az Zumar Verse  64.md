@@ -3224,6 +3224,12 @@ aap keh dijiye aye jaahilo! kya tum mujh se Allah ke siva auro ki ibaadath ko ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اے جاہلو! کیا تم مجھے غیر اللہ کی پرستش کرنے کا کہتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دہ کہ کیا پھر بھی اے جاہلو ! تم مجھ سے کہتے ہو کہ اللہ کے سوا کسی اور کی عبادت کرو ؟۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

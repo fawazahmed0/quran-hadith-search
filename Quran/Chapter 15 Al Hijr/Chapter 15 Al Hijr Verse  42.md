@@ -3224,6 +3224,12 @@ mere bandho par tujhe koi ghalba nahi lekin haan jo gumraah log teri pairvi kare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک میرے (اخلاص یافتہ) بندوں پر تیرا کوئی زور نہیں چلے گا سوائے ان بھٹکے ہوؤں کے جنہوں نے تیری راہ اختیار کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ جو میرے بندے ہیں، ان پر تیرا کوئی زور نہیں چلے گا، سوائے ان گمراہ لوگوں کے جو تیرے پیچھے چلیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

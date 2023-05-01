@@ -3224,6 +3224,12 @@ us ne tum sab ko ek hee jaan se paida kiya hai, phir osi se us ka joda paida kiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُس نے تم سب کو ایک حیاتیاتی خلیہ سے پیدا فرمایا پھر اس سے اسی جیسا جوڑ بنایا پھر اُس نے تمہارے لیے جانوروں میں سے آٹھ (نر اور مادہ) جوڑے مہیا کیے، وہ تمہاری ماؤں کے رحِموں میں ایک تخلیقی مرحلہ سے اگلے تخلیقی مرحلہ میں ترتیب کے ساتھ تمہاری تشکیل کرتا ہے (اِس عمل کو) تین قِسم کے تاریک پردوں میں (مکمل فرماتا ہے)، یہی تمہارا پروردگار ہے جو سب قدرت و سلطنت کا مالک ہے، اُس کے سوا کوئی معبود نہیں، پھر (تخلیق کے یہ مخفی حقائق جان لینے کے بعد بھی) تم کہاں بہکے پھرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے تم سب کو ایک شخص سے پیدا کیا پھر اسی سے اس کا جوڑ بنایا، اور تمہارے لیے مویشیوں میں سے آٹھ جوڑے پیدا کیے وہ تمہاری تخلیق تمہاری ماؤں کے پیٹ میں اس طرح کرتا ہے کہ تین اندھیریوں کے درمیان تم بناوٹ کے ایک مرحلے کے بعد دوسرے مرحلے سے گزرتے ہو۔ وہ ہے اللہ جو تمہارا پروردگار ہے۔ ساری بادشاہی اسی کی ہے، اس کے سوا کوئی عبادت کے لائق نہیں ہے۔ پھر بھی تمہارا منہ آخر کوئی کہاں سے موڑ دیتا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tumhaare paas to Mosa yahi daleele le kar aaye, lekin tum ne phir bhi bachda puj
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (صورت حال یہ ہے کہ) تمہارے پاس (خود) موسیٰ (علیہ السلام) کھلی نشانیاں لائے پھر تم نے ان کے پیچھے بچھڑے کو معبود بنا لیا اور تم (حقیقت میں) ہو ہی جفاکار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور خود موسیٰ تمہارے پاس روشن نشانیاں لے کر آئے، پھر تم نے ان کے پیٹھ پیچھے یہ ستم ڈھایا کہ گائے کے بچھڑے کو معبود بنا لیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

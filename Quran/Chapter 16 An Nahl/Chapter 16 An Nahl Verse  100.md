@@ -3224,6 +3224,12 @@ haan us ka ghalba un par to yaqinan hai jo osi se rafaaqath kare aur ose Allah k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بس اس کا غلبہ صرف انہی لوگوں پر ہے جو اسے دوست بناتے ہیں اور جو اللہ کے ساتھ شرک کرنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کا بس تو ان لوگوں پر چلتا ہے جو اسے دوست بناتے ہیں، اور اللہ کے ساتھ شرک کا ارتکاب کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum an-qareeb kaafiro ke dilo mein roob28 daal denge, is wajeh se ke ye Allah ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم عنقریب کافروں کے دلوں میں (تمہارا) رعب ڈال دیں گے اس وجہ سے کہ انہوں نے اس چیز کو اللہ کا شریک ٹھہرایا ہے جس کے لئے اللہ نے کوئی سند نہیں اتاری اور ان کا ٹھکانا دوزخ ہے اور ظالموں کا (وہ) ٹھکانا بہت ہی برا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنایا ہے ہم عنقریب ان کے دلوں میں رعب ڈال دیں گے کیونکہ انہوں نے اللہ کی خدائی میں ایسی چیزوں کو شریک ٹھہرایا ہے جن کے بارے میں اللہ نے کوئی دلیل نہیں اتاری۔ ان کا ٹھکانا جہنم ہے اور وہ ظالموں کا بدترین ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

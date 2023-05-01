@@ -3224,6 +3224,12 @@ jinhe ye log pukaarte hai khud wo apne rub ke taqarrub ki justaju mein rehte hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ لوگ جن کی عبادت کرتے ہیں (یعنی ملائکہ، جنّات، عیسٰی اور عزیر علیہما السلام وغیرھم کے بت اور تصویریں بنا کر انہیں پوجتے ہیں) وہ (تو خود ہی) اپنے رب کی طرف وسیلہ تلاش کرتے ہیں کہ ان میں سے (بارگاہِ الٰہی میں) زیادہ مقرّب کون ہے اور (وہ خود) اس کی رحمت کے امیدوار ہیں اور (وہ خود ہی) اس کے عذاب سے ڈرتے رہتے ہیں، (اب تم ہی بتاؤ کہ وہ معبود کیسے ہو سکتے ہیں وہ تو خود معبودِ برحق کے سامنے جھک رہے ہیں)، بیشک آپ کے رب کا عذاب ڈرنے کی چیز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن کو یہ لوگ پکارتے ہیں، وہ تو خود اپنے پروردگار تک پہنچنے کا وسیلہ تلاش کرتے ہیں کہ ان میں سے کون اللہ کے زیادہ قریب ہوجائے، اور وہ اس کی رحمت کے امیدوار رہتے ہیں، اور اس کے عذاب سے ڈرتے ہیں۔ یقینا تمہارے رب کا عذاب ہے ہی ایسی چیز جس سے ڈرا جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

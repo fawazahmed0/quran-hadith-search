@@ -3224,6 +3224,12 @@ hum ne ose apni sab nishaaniya dikhaadi, lekin phir bhi us ne jhutlaaya aur inka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے اس (فرعون) کو اپنی ساری نشانیاں (جو موسٰی اور ہارون علیھما السلام کو دی گئی تھیں) دکھائیں مگر اس نے جھٹلایا اور (ماننے سے) انکار کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ ہم نے اس (فرعون) کو اپنی ساری نشانیاں دکھائیں، مگر وہ جھٹلاتا ہی رہا، اور مان کر نہیں دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

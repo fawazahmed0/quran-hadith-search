@@ -3224,6 +3224,12 @@ Halaanke woh ek dusre ko dikhaye jayenge, mujrim chahega ke us din ke azaab se b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(حالانکہ) وہ (ایک دوسرے کو) دکھائے جا رہے ہوں گے، مجرم آرزو کرے گا کہ کاش! اس دن کے عذاب (سے رہائی) کے بدلہ میں اپنے بیٹے دے دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حالانکہ وہ ایک دوسرے کو دکھا بھی دیے جائیں گے۔ مجرم یہ چاہے گا کہ اس دن کے عذاب سے چھوٹنے کے لیے اپنے بیٹے فدیہ میں دیدے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

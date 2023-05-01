@@ -3224,6 +3224,12 @@ phir Allah tala ne ek kawwe ko bheja jo zamin khod raha tha,ta ke ose dikhae ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اللہ نے ایک کوّا بھیجا جو زمین کریدنے لگا تاکہ اسے دکھائے کہ وہ اپنے بھائی کی لاش کس طرح چھپائے، (یہ دیکھ کر) اس نے کہا: ہائے افسوس! کیا میں اس کوّے کی مانند بھی نہ ہوسکا کہ اپنے بھائی کی لاش چھپا دیتا، سو وہ پشیمان ہونے والوں میں سے ہوگیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اللہ نے ایک کوا بھیجا جو زمین کھودنے لگا تاکہ اسے دکھائے کہ وہ اپنے بھائی کی لاش کیسے چھپائے (یہ دیکھ کر) وہ بولا۔ ہائے افسوس ! کیا میں اس کوے جیسا بھی نہ ہوسکا کہ اپنے بھائی کی لاش چھپا دیتا۔ اس طرح بعد میں وہ بڑا شرمندہ ہوا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

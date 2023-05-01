@@ -3224,6 +3224,12 @@ qabar-daar! us ka kehna har giz na maanna aur sajda kar aur qareeb ho ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہرگز نہیں! آپ اس کے کئے کی پرواہ نہ کیجئے، اور (اے حبیبِ مکرّم!) آپ سر بسجود رہئے اور (ہم سے مزید) قریب ہوتے جائیے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہرگز نہیں ! اس کی بات نہ مانو، اور سجدہ کرو، اور قریب آجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

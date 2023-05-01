@@ -3224,6 +3224,12 @@ dar haqiqath na to khud unhe us ka ilm hai na un ke baap dadaao ko, ye tuhmath b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نہ اس کا کوئی علم انہیں ہے اور نہ ان کے باپ دادا کو تھا، (یہ) کتنا بڑا بول ہے جو ان کے منہ سے نکل رہا ہے، وہ (سراسر) جھوٹ کے سوا کچھ کہتے ہی نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس بات کا کوئی علمی ثبوت نہ خود ان کے پاس ہے، نہ ان کے باپ دادوں کے پاس تھا۔ بڑی سنگین بات ہے جو ان کے منہ سے نکل رہی ہے۔ جو کچھ وہ کہہ رہے ہیں، وہ جھوٹ کے سوا کچھ نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

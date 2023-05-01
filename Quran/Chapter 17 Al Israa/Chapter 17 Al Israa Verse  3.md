@@ -3224,6 +3224,12 @@ aye un logo ki aulaad! jinhe hum ne nuh ke saath sawaar kar diya tha, wo hamara 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے) ان لوگوں کی اولاد جنہیں ہم نے نوح (علیہ السلام) کے ساتھ (کشتی میں) اٹھا لیا تھا، بیشک نوح (علیہ السلام) بڑے شکر گزار بندے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ان لوگوں کی اولاد جن کو ہم نے نوح کے ساتھ کشتی میں سوار کیا تھا۔ اور وہ بڑے شکر گزار بندے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

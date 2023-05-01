@@ -3224,6 +3224,12 @@ osi ne tumhe tumhaari mu maangi kul cheezo mein se de rakha hai, agar tum Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس نے تمہیں ہر وہ چیز عطا فرما دی جو تم نے اس سے مانگی، اور اگر تم اللہ کی نعمتوں کو شمار کرنا چاہو (تو) پورا شمار نہ کر سکو گے، بیشک انسان بڑا ہی ظالم بڑا ہی ناشکرگزار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم نے جو کچھ مانگا، اس نے اس میں سے (جو تمہارے لیے مناسب تھا) تمہیں دیا۔ اور اگر تم اللہ کی نعمتوں کو شمار کرنے لگو تو شمار (بھی) نہیں کرسکتے۔ حقیقت یہ ہے کہ انسان بہت بےانصاف، بڑا ناشکرا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

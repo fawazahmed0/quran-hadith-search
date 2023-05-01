@@ -3224,6 +3224,12 @@ hum phir har har giruh se unhe alag nikaal khada karenge, jo Allah rahmaan se ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم ہر گروہ سے ایسے شخص کو ضرور چن کر نکال لیں گے جو ان میں سے (خدائے) رحمان پر سب سے زیادہ نافرمان و سرکش ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ان کے ہر گروہ میں سے ان لوگوں کو کھیچ نکالیں گے جو خدائے رحمن کے ساتھ سرکشی کرنے میں زیادہ سخت تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

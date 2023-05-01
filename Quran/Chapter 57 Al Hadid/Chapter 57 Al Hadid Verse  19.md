@@ -3224,6 +3224,12 @@ Allah aur us ke rasool par jo imaan rakhte hai, wahi log apne rab ke nazdeek sid
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اللہ اور اس کے رسولوں پر ایمان لائے وہی لوگ اپنے رب کے نزدیک صدیق اور شہید ہیں، اُن کے لئے اُن کا اجر (بھی) ہے اور ان کا نور (بھی) ہے، اور جنہوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہی لوگ دوزخی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اللہ پر اور اس کے رسولوں پر ایمان لائے ہیں، وہی اپنے رب کے نزدیک صدیق اور شہید ہیں۔ ان کے لیے ان کا اجر اور ان کا نور ہے۔ اور جن لوگوں نے کفر اپنا لیا اور ہماری نشانیوں کو جھٹلایا، وہ دوزخی لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

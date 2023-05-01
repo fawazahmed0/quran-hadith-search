@@ -3224,6 +3224,12 @@ farishto ne kaha, kya tu Allah ki khudrath se tajjub kar rahi hai? tum par aye i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرشتوں نے کہا: کیا تم اللہ کے حکم پر تعجب کر رہی ہو؟ اے گھر والو! تم پر اللہ کی رحمت اور اس کی برکتیں ہیں، بیشک وہ قابلِ ستائش (ہے) بزرگی والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرشتوں نے کہا : کیا آپ اللہ کے حکم پر تعجب کر رہی ہیں ؟ آپ جیسے مقدس گھرانے پر اللہ کی رحمت اور برکتیں ہی برکتیں ہیں، بیشک وہ ہر تعریف کا مستحق، بڑی شان والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

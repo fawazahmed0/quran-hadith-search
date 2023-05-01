@@ -3224,6 +3224,12 @@ jo ke namaz ki pabandi karte hai aur hum ne un ko jo kuch diya hai wo us mein se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) وہ لوگ ہیں جو نماز قائم رکھتے ہیں اور جو کچھ ہم نے انہیں عطا کیا ہے اس میں سے (اس کی راہ میں) خرچ کرتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو نماز قائم کرتے ہیں، اور ہم نے ان کو جو رزق دیا ہے اس میں سے (فی سبیل اللہ) خرچ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

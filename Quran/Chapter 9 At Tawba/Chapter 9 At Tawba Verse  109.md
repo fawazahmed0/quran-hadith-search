@@ -3224,6 +3224,12 @@ phir aya aisa shaqs behtar hai jis ne apni imarath ki bunyad Allah se darne par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا وہ شخص جس نے اپنی عمارت (یعنی مسجد) کی بنیاد اللہ سے ڈرنے او ر (اس کی) رضا و خوشنودی پر رکھی، بہتر ہے یا وہ شخص جس نے اپنی عمارت کی بنیاد ایسے گڑھے کے کنارے پر رکھی جو گرنے والا ہے۔ سو وہ (عمارت) اس معمار کے ساتھ ہی آتشِ دوزخ میں گر پڑی، اور اللہ ظالم لوگوں کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا وہ شخص بہتر ہے جس نے اپنی عمارت کی بنیاد اللہ کے خوف اور اس کی خوشنودی پر اٹھائی ہو، یا وہ شخص جس نے اپنی عمارت کی بنیاد ایک ڈھانگ کے کسی گرتے ہوئے کنارے پر رکھی ہو، پھر وہ اسے لے کر جہنم کی آگ میں جاگرے ؟ اور اللہ ایسے ظالم لوگوں کو ہدایت تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

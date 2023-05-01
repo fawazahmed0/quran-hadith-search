@@ -3224,6 +3224,12 @@ aur un ki namaz kabe ke pas sirf ye thi,sitiya bajana aur thaliya bajana,so apne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیت اللہ (یعنی خانہ کعبہ) کے پاس ان کی (نام نہاد) نماز سیٹیاں اور تالیاں بجانے کے سوا کچھ بھی نہیں ہے، سو تم عذاب (کا مزہ) چکھو اس وجہ سے کہ تم کفر کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بیت اللہ کے پاس ان کی نماز سیٹیاں بجانے اور تالیاں پیٹنے کے سوا کچھ نہیں۔ لہذا (اے کافرو) جو کافرانہ باتیں تم کرتے رہے ہو ان کی وجہ سے اب عذاب کا مزہ چکھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

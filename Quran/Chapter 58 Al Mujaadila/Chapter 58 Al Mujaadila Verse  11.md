@@ -3224,6 +3224,12 @@ aye musalmaano! jab tum se kaha jaaye ke majliso mein zara koshaadgi payda karo,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جب تم سے کہا جائے کہ (اپنی) مجلسوں میں کشادگی پیدا کرو تو کشادہ ہو جایا کرو اللہ تمہیں کشادگی عطا فرمائے گا اور جب کہا جائے کھڑے ہو جاؤ تو تم کھڑے ہوجایا کرو، اللہ اُن لوگوں کے درجات بلند فرما دے گا جو تم میں سے ایمان لائے اور جنہیں علم سے نوازا گیا، اور اللہ اُن کاموں سے جو تم کرتے ہو خوب آگاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جب تم سے کہا جائے کہ مجلسوں میں دوسروں کے لیے گنجائش پید کرو، تو گنجائش پیدا کردیا کرو، اللہ تمہارے لیے وسعت پیدا کرے گا، اور جب کہا جائے کہ اٹھ جاؤ، تو اٹھ جاؤ، تم میں سے جو لوگ ایمان لائے ہیں اور جن کو علم عطا کیا گیا ہے اللہ ان کو درجوں میں بلند کرے گا، اور جو کچھ تم کرتے ہو اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

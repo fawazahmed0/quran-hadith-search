@@ -3224,6 +3224,12 @@ jo koi jahaalath se bure amal karle phir tauba karle aur islaah bhi karle to phi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر بیشک آپ کا رب ان لوگوں کے لئے جنہوں نے نادانی سے غلطیاں کیں پھر اس کے بعد تائب ہوگئے اور (اپنی) حالت درست کرلی تو بیشک آپ کا رب اس کے بعد بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی تمہارا رب ایسا ہے کہ جن لوگوں نے نادانی میں برائی کا ارتکاب کرلیا اور اس کے بعد توبہ کرلی، اور اپنی اصلاح کرلی تو ان سب باتوں کے بعد بھی تمہارا پروردگار بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

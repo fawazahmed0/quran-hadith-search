@@ -3224,6 +3224,12 @@ unhone kaha aye hoodh! tu hamare paas koi dalil to laya nahi aur hum sif tere ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: اے ہود! تم ہمارے پاس کوئی واضح دلیل لیکر نہیں آئے ہو اور نہ ہم تمہارے کہنے سے اپنے معبودوں کو چھوڑنے والے ہیں اور نہ ہی ہم تم پر ایمان لانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : اے ہود ! تم ہمارے پاس کوئی روشن دلیل لے کر نہیں آئے۔ اور ہم اپنے خداؤں کو صرف تمہارے کہنے سے چھوڑنے والے نہیں ہیں، اور نہ ہم تمہاری بات پر ایمان لاسکتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

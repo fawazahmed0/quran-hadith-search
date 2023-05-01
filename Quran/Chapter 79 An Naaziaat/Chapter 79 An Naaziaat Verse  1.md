@@ -3224,6 +3224,12 @@ doob kar saqti se khinchne waalo ki qasam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان (فرشتوں) کی قَسم جو (کافروں کی جان ان کے جسموں کے ایک ایک انگ میں سے) نہایت سختی سے کھینچ لاتے ہیں۔(br) (یا:- توانائی کی ان لہروں کی قَسم جو مادہ کے اندر گھس کر کیمیائی جوڑوں کو سختی سے توڑ پھوڑ دیتی ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قسم ہے ان (فرشتوں) کی جو (کافروں کی روح) سختی سے کھینچتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas jo kuch halal aur pakiza ghanimath tum ne hasil ki hai, qoob khaao piyo aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو تم اس میں سے کھاؤ جو حلال، پاکیزہ مالِ غنیمت تم نے پایا ہے اور اللہ سے ڈرتے رہو، بیشک اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اب تم نے جو مال غنیمت میں حاصل کیا ہے، اسے پاکیزہ حلال مال کے طور پر کھاؤ اور اللہ سے ڈرتے رہو۔ یقینا اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

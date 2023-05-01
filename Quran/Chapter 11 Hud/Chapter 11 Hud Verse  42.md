@@ -3224,6 +3224,12 @@ wo kashti unhe pahaado jaisi maujo mein le kar ja rahi thi aur noah (alaihissala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کشتی پہاڑوں جیسی (طوفانی) لہروں میں انہیں لئے چلتی جا رہی تھی کہ نوح (علیہ السلام) نے اپنے بیٹے کو پکارا اور وہ ان سے الگ (کافروں کے ساتھ کھڑا) تھا: اے میرے بیٹے! ہمارے ساتھ سوار ہوجا اور کافروں کے ساتھ نہ رہ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ کشتی پہاڑوں جیسی موجوں کے درمیان چلی جاتی تھی۔ اور نوح نے اپنے اس بیٹے کو جو سب سے الگ تھا، آواز دی کہ : بیٹے ! ہمارے ساتھ سوار ہوجاؤ، اور کافروں کے ساتھ نہ رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

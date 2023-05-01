@@ -3224,6 +3224,12 @@ aur wo aisa hai jis ne tumhaare liye sitaaro ko paida kiya ta ke tum un ke zariy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے تمہارے لئے ستاروں کو بنایا تاکہ تم ان کے ذریعے بیابانوں اور دریاؤں کی تاریکیوں میں راستے پاسکو۔ بیشک ہم نے علم رکھنے والی قوم کے لئے (اپنی) نشانیاں کھول کر بیان کر دی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی نے تمہارے لیے ستارے بنائے ہیں، تاکہ تم ان کے ذریعے خشکی اور سمندر کی تاریکیوں میں راستے معلوم کرسکو۔ ہم نے ساری نشانیاں ایک ایک کر کے کھول دی ہیں (مگر) ان لوگوں کے لیے جو علم سے کام لیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

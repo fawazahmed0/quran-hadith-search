@@ -3224,6 +3224,12 @@ jis ne nihaayath qoob banaayi jo cheez bhi banaayi aur insaan ki banaawat mitthi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے خوبی و حسن بخشا ہر اس چیز کو جسے اس نے پیدا فرمایا اور اس نے انسانی تخلیق کی ابتداء مٹی (یعنی غیر نامی مادّہ) سے کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے جو چیز بھی پیدا کی، اسے خوب بنایا، اور انسان کی تخلیق کی ابتدا گارے سے کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

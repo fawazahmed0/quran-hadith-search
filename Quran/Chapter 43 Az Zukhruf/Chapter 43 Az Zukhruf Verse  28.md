@@ -3224,6 +3224,12 @@ aur (Ibraheem(alaihissalaam)) osi ko apni aulaad mein bhi baaqi rehne waali baat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ابراہیم (علیہ السلام) نے اس (کلمۂ توحید) کو اپنی نسل و ذریّت میں باقی رہنے والا کلمہ بنا دیا تاکہ وہ (اللہ کی طرف) رجوع کرتے رہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ابراہیم نے اس (عقیدے) کو ایسی بات بنادیا جو ان کی اولاد میں باقی رہی، تاکہ لوگ (شرک سے) باز آئیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

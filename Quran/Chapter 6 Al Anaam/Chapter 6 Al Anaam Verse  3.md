@@ -3224,6 +3224,12 @@ aur wahi hai maboodh bar-haq asmaano mein bhi aur zameen mein bhi, wo tumhaare p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آسمانوں میں اور زمین میں وہی اللہ ہی (معبودِ برحق) ہے، جو تمہاری پوشیدہ اور تمہاری ظاہر(سب باتوں) کو جانتا ہے اور جو کچھ تم کما رہے ہو وہ (اسے بھی) جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی اللہ آسمانوں میں بھی ہے، اور زمین میں بھی۔ وہ تمہارے چھپے ہوئے بھید بھی جانتا ہے اور کھلے ہوئے حالات بھی، اور جو کچھ کمائی تم کر رہے ہو، اس سے بھی واقف ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

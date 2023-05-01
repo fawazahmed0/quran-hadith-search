@@ -3224,6 +3224,12 @@ aur tum un logo ki tarah math hona jo dawah tuh karte hai ke hum ne sun liya hal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان لوگوں کی طرح مت ہو جانا جنہوں نے (دھوکہ دہی کے طور پر) کہا: ہم نے سن لیا، حالانکہ وہ نہیں سنتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں کی طرح نہ ہوجانا جو کہتے تو ہیں کہ ہم نے سن لیا، مگر وہ (حقیقت میں) سنتے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ buraayi ko us tariqe se door kare, jo saraasar bhalaayi waala ho, jo kuch ye bay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ برائی کو ایسے طریقہ سے دفع کیا کریں جو سب سے بہتر ہو، ہم ان (باتوں) کو خوب جانتے ہیں جو یہ بیان کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لیکن جب تک وہ وقت نہ آئے) تم برائی کا دفعیہ ایسے طریقے سے کرتے رہو جو بہترین ہو۔ جو باتیں یہ لوگ بناتے ہیں ہم خوب جانتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

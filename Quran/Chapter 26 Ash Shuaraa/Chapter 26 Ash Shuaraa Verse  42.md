@@ -3224,6 +3224,12 @@ feraun ne kaha haan! (badi khushi se) balke aisi surath mein tum mere qaas darba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(فرعون نے) کہا: ہاں بیشک تم اسی وقت (اجرت والوں کی بجائے میرے) قربت والوں میں شامل ہو جاؤ گے (اور قربت کا درجہ اُجرت سے کہیں بلند ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرعون نے کہا : ہاں ہاں، اور تمہیں اس صورت میں مقرب لوگوں میں بھی ضرور شامل کرلیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

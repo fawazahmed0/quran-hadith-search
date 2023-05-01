@@ -3224,6 +3224,12 @@ jo apne parvardigaar ke hukm se har waqt apne phal laata hai aur Allah ta’ala 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (درخت) اپنے رب کے حکم سے ہر وقت پھل دے رہا ہے، اور اللہ لوگوں کے لئے مثالیں بیان فرماتا ہے تاکہ وہ نصیحت حاصل کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اپنے رب کے حکم سے وہ ہر آن پھل دیتا ہے۔ اللہ (اس قسم کی) مثالیں اس لیے دیتا ہے تاکہ لوگ نصیحت حاصل کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

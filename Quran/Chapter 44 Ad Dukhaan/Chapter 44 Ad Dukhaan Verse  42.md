@@ -3224,6 +3224,12 @@ magar jis par Allah ki meherbaani ho jaaye, wo zabardasth aur rahem karne waala 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے اُن کے جن پر اللہ نے رحمت فرمائی ہے (وہ ایک دوسرے کی شفاعت کریں گے)، بیشک وہ بڑا غالب بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سوائے اس کے جس پر اللہ رحم فرمائے۔ یقینا وہ مکمل اقتدار کا مالک بھی ہے اور بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

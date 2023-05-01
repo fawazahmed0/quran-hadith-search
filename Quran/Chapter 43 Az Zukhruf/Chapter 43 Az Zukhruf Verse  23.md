@@ -3224,6 +3224,12 @@ isi tarah aap se pehle bhi hum ne jis basti mein koyi daraane waala bheja, wahaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے کسی بستی میں آپ سے پہلے کوئی ڈر سنانے والا نہیں بھیجا مگر وہاں کے وڈیروں اور خوشحال لوگوں نے کہا: بیشک ہم نے اپنے باپ دادا کو ایک طریقہ و مذہب پر پایا اور ہم یقیناً انہی کے نقوشِ قدم کی اقتداء کرنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ہم نے تم سے پہلے جب بھی کسی بستی میں کوئی خبردار کرنے والا (پیغمبر) بھیجا تو وہاں کے دولت مند لوگوں نے یہی کہا کہ : ہم نے اپنے باپ دادوں کو ایک طریقے پر پایا ہے، اور ہم انہی کے نقش قدم کے پیچھے چل رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

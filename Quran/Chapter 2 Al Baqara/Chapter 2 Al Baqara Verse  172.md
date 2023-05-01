@@ -3224,6 +3224,12 @@ aye imaan waalo! jo paakiza cheeze hum ne tumhe de rakhi hai unhe khaao piyo aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! ان پاکیزہ چیزوں میں سے کھاؤ جو ہم نے تمہیں عطا کی ہیں اور اللہ کا شکر ادا کرو اگر تم صرف اسی کی بندگی بجا لاتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جو پاکیزہ چیزیں ہم نے تمہیں رزق کے طور پر عطا کی ہیں، ان میں سے (جو چاہو) کھاؤ، اور اللہ کا شکر ادا کرو، اگر واقعی تم صرف اسی کی بندگی کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ baccha bol utha ke main Allah ta’ala ka bandha hoon, us ne mujhe kitaab ata fa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(بچہ خود) بول پڑا: بیشک میں اللہ کا بندہ ہوں، اس نے مجھے کتاب عطا فرمائی ہے اور مجھے نبی بنایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس پر) بچہ بول اٹھا کہ : میں اللہ کا بندہ ہوں، اس نے مجھے کتاب دی ہے، اور نبی بنایا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

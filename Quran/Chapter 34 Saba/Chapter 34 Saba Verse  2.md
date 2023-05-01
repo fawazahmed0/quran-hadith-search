@@ -3224,6 +3224,12 @@ jo zameen mein jaaye aur jo us se nikle, jo asmaan se utre aur jo chad kar us me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اُن (سب) چیزوں کو جانتا ہے جو زمین میں داخل ہوتی ہیں اور جو اس میں سے باہر نکلتی ہیں اور جو آسمان سے اترتی ہیں اور جو اس میں چڑھتی ہیں، اور وہ بہت رحم فرمانے والا بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ان چیزوں کو بھی جانتا ہے جو زمین کے اندر جاتی ہیں اور ان کو بھی جو اس سے باہر نکلتی ہیں، ان کو بھی جو آسمان سے اترتی ہیں اور ان کو بھی جو اس میں چڑھتی ہیں اور وہی ہے جو بڑا مہربان ہے، بہت بخشنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

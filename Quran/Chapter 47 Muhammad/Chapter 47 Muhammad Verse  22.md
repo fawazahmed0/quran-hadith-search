@@ -3224,6 +3224,12 @@ aur tumse ye bhi bayeedh nahi ke agar tum ko hukumath mil jaaye to tum zameen me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (اے منافقو!) تم سے توقع یہی ہے کہ اگر تم (قتال سے گریز کر کے بچ نکلو اور) حکومت حاصل کر لو تو تم زمین میں فساد ہی برپا کرو گے اور اپنے (ان) قرابتی رشتوں کو توڑ ڈالو گے (جن کے بارے میں اللہ اور اس کے رسول صلی اللہ علیہ وآلہ وسلم نے مواصلت اور مُودّت کا حکم دیا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اگر تم نے (جہاد سے) منہ موڑا تو تم سے کیا توقع رکھی جائے ؟ یہی کہ تم زمین میں فساد مچاؤ، اور اپنے خونی رشتے کاٹ ڈالو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne Dawood(alaihissalaam) ko zaboor ataa farmaayi aur aap se pehle ke bah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ہم نے کئی) ایسے رسول (بھیجے) ہیں جن کے حالات ہم (اس سے) پہلے آپ کو سنا چکے ہیں اور (کئی) ایسے رسول بھی (بھیجے) ہیں جن کے حالات ہم نے (ابھی تک) آپ کو نہیں سنائے اور اللہ نے موسٰی (علیہ السلام) سے (بلاواسطہ) گفتگو (بھی) فرمائی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بہت سے رسول ہیں جن کے واقعات ہم نے پہلے تمہیں سنائے ہیں اور بہت سے رسول ایسے ہیں کہ ہم نے ان کے واقعات تمہیں نہیں سنائے۔ اور موسیٰ سے تو اللہ براہ راست ہم کلام ہوا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ lekin jin logo ne hukme adoli ki, un ka thikana dozakh hai, jab kabhi us se baah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ نافرمان ہوئے سو ان کا ٹھکانا دوزخ ہے۔ وہ جب بھی اس سے نکل بھاگنے کا ارادہ کریں گے تو اسی میں لوٹا دیئے جائیں گے اور ان سے کہا جائے گا کہ اِس آتشِ دوزخ کا عذاب چکھتے رہو جِسے تم جھٹلایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رہے وہ لوگ جنہوں نے نافرمانی کی ہے، تو اس کے مستقل قیام کی جگہ جہنم ہے۔ جب بھی وہ اس سے نکلنا چاہیں گے، انہیں وہیں واپس لوٹا دیا جائے گا، اور ان سے کہا جائے گا کہ : آگ کے جس عذاب کو تم جھٹلایا کرتے تھے اس کا مزہ چکھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

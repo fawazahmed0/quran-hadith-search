@@ -3224,6 +3224,12 @@ pas kya haal hoga jab ke hum unhe us din jama karenge? jis ke aane mein koyi sha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کیا حال ہو گا جب ہم ان کو اس دن جس (کے بپا ہونے) میں کوئی شک نہیں جمع کریں گے، اور جس جان نے جو کچھ بھی (اعمال میں سے) کمایا ہو گا اسے اس کا پورا پورا بدلہ دیا جائے گا اور ان پر کوئی ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا اس وقت ان کا کیا حال ہوگا جب ہم انہیں ایک ایسے دن (کا سامنا کرنے) کے لیے جمع کر لائیں گے جس کے آنے میں ذرا بھی شک نہیں ہے اور ہر ہر شخص نے جو کچھ کمائی کی ہوگی وہ اس کو پوری پوری دے دی جائے گی، اور کسی پر کوئی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

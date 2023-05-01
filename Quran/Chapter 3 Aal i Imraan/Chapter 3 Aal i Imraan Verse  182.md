@@ -3224,6 +3224,12 @@ ye tumhaare pesh karda amaal ka badhla hai aur Allah ta’ala apne bandu par zul
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ ان اعمال کا بدلہ ہے جو تمہارے ہاتھ خود آگے بھیج چکے ہیں اور بیشک اللہ بندوں پر ظلم کرنے والا نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب تمہارے ہاتھوں کے کرتوت کا نتیجہ ہے جو تم نے آگے بھیج رکھا تھا، ورنہ اللہ بندوں پر ظلم کرنے والا نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

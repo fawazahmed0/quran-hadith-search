@@ -3224,6 +3224,12 @@ pas agar tum ose le kar paas na aye to meri taraf se tumhe koi naap bhi na mileg
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اگر تم اسے میرے پاس نہ لائے تو (آئندہ) تمہارے لئے میرے پاس (غلہ کا) کوئی پیمانہ نہ ہوگا اور نہ (ہی) تم میرے قریب آسکو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب اگر تم اسے لے کر نہ آئے تو میرے پاس تمہارے لیے کوئی غلہ نہیں ہوگا، اور تم میرے پاس بھی نہ پھٹکنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

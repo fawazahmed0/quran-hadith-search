@@ -3224,6 +3224,12 @@ tu jab Qur’an padta hai hum tere aur un logo ke darmiyaan jo aaqirath par yaqe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب آپ قرآن پڑھتے ہیں (تو) ہم آپ کے اور ان لوگوں کے درمیان جو آخرت پر ایمان نہیں رکھتے ایک پوشیدہ پردہ حائل کر دیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جب تم قرآن پڑھتے ہو تو ہم تمہارے اور ان لوگوں کے درمیان جو آخرت پر ایمان نہیں رکھتے، ایک ان دیکھا پردہ حائل کردیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

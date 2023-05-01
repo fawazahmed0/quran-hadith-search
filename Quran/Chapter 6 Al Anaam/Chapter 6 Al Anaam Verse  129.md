@@ -3224,6 +3224,12 @@ aur isi tarah hum baaz kuffaar ko baaz ke qareeb rakhenge, un ke amaal ke sabab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی طرح ہم ظالموں میں سے بعض کو بعض پر مسلط کرتے رہتے ہیں ان اعمالِ(بد) کے باعث جو وہ کمایا کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی طرح ہم ظالموں کو ان کے کمائے ہوئے اعمال کی وجہ سے ایک دوسرے پر مسلط کردیتے ہیں۔ ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

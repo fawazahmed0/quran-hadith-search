@@ -3224,6 +3224,12 @@ aap keh di jiye ke mere paas to ek daleel hai mere rab ki taraf se, aur tum us k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: (کافرو!) بیشک میں اپنے رب کی طرف سے روشن دلیل پر (قائم) ہوں اور تم اسے جھٹلاتے ہو۔ میرے پاس وہ (عذاب) نہیں ہے جس کی تم جلدی مچا رہے ہو۔ حکم صرف اللہ ہی کا ہے۔ وہ حق بیان فرماتا ہے اور وہی بہتر فیصلہ فرمانے والاہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : مجھے اپنے پروردگار کی طرف سے ایک روشن دلیل مل چکی ہے جس پر میں قائم ہوں، اور تم نے اسے جھٹلا دیا ہے، جس چیز کے جلدی آنے کا تم مطالبہ کر رہے ہو وہ میرے پاس موجود نہیں ہے۔ حکم اللہ کے سوا کسی کا نہیں چلتا۔ وہ حق بات بیان کردیتا ہے، اور وہی سب سے بہتر فیصلہ کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

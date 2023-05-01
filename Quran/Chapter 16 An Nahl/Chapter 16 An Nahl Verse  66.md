@@ -3224,6 +3224,12 @@ tumhaare liye to chau paayo mein bhi badi ibrath hai ke hum tumhe us ke pet mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک تمہارے لئے مویشیوں میں (بھی) مقامِ غور ہے، ہم ان کے جسموں کے اندر کی اس چیز سے جو آنتوں کے (بعض) مشمولات اور خون کے اختلاط سے (وجود میں آتی ہے) خالص دودھ نکال کر تمہیں پلاتے ہیں (جو) پینے والوں کے لئے فرحت بخش ہوتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بیشک تمہارے لیے مویشیوں میں بھی سوچنے کا بڑا سامان ہے، ان کے پیٹ میں جو گوبر اور خون ہے اس کے بیچ میں سے ہم تمہیں ایسا صاف ستھرا دودھ پینے کو دیتے ہیں جو پینے والوں کے لیے خوشگوار ہوتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

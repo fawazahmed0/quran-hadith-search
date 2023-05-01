@@ -3224,6 +3224,12 @@ jo koyi Allah ki raah mein watan ko chohdega wo zameen mein bahuth si qayaam ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کوئی اللہ کی راہ میں گھر بار چھوڑ کرنکلے وہ زمین میں (ہجرت کے لئے) بہت سی جگہیں اور (معاش کے لئے) کشائش پائے گا، اور جو شخص بھی اپنے گھر سے اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی طرف ہجرت کرتے ہوئے نکلے پھر اسے (راستے میں ہی) موت آپکڑے تو اس کا اجر اللہ کے ذمے ثابت ہو گیا، اور اللہ بڑا بخشنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص اللہ کے راستے میں ہجرت کرے گا وہ زمین میں بہت جگہ اور بڑی گنجائش پائے گا۔ اور جو شخص اپنے گھر سے اللہ اور اس کے رسول کی طرف ہجرت کرنے کے لیے نکلے، پھر اسے موت آپکڑے تب بھی اس کا ثواب اللہ کے پاس طے ہوچکا، اور اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

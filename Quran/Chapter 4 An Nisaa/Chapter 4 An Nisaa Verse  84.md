@@ -3224,6 +3224,12 @@ tu Allah ta’ala ki raah mein jung karta reh,tujhe sirf teri zaath ki nisbath h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (اے محبوب!) آپ اللہ کی راہ میں (اپنے دفاع اور حق کی مدد میں) جہاد کیجیے، آپ کو اپنی جان کے سوا (کسی اور کے لیے) ذِمّہ دار نہیں ٹھہرایا جائے گا اور آپ مسلمانوں کو (جارحیت مسلط کرنے والے شرپسندوں کے خلاف جہاد پر) اُبھاریں، عجب نہیں کہ اللہ کافروں کا جنگی زور توڑ دے اور اللہ گرفت میں (بھی) بہت سخت ہے اور سزا دینے میں (بھی) بہت سخت
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) تم اللہ کے راستے میں جنگ کرو، تم پر اپنے سوا کسی اور کی ذمہ داری نہیں ہے۔ ہاں مومنوں کو ترغیب دیتے رہو، کچھ بعید نہیں کہ اللہ کافروں کی جنگ کا زور توڑ دے۔ اور اللہ کا زور سب سے زیادہ زبردست ہے اور اس کی سزا بڑی سخت۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ dekho zaalimo ki taraf hargiz na jhukna warna tumhe bhi(dozakh ki) aag lag jaegi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم ایسے لوگوں کی طرف مت جھکنا جو ظلم کر رہے ہیں ورنہ تمہیں آتشِ (دوزخ) آچھوئے گی اور تمہارے لئے اللہ کے سوا کوئی مددگار نہ ہوگا پھر تمہاری مدد (بھی) نہیں کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (مسلمانو) ان ظالم لوگوں کی طرف ذرا بھی نہ جھکنا، کبھی دوزخ کی آگ تمہیں بھی آپکڑے اور تمہیں اللہ کو چھوڑ کر کسی قسم کے دوست میسر نہ آئیں، پھر تمہاری کوئی مدد بھی نہ کرے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

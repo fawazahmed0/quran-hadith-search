@@ -3224,6 +3224,12 @@ aur (neez) un ke kuch baap dadaao ko aur kuch aulaad ko aur kuch bhaiyyo ko aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے آباؤ (و اجداد) اور ان کی اولاد اور ان کے بھائیوں میں سے بھی (بعض کو ایسی فضیلت عطا فرمائی) اور ہم نے انہیں (اپنے لطفِ خاص اور بزرگی کے لئے) چن لیا تھا اور انہیں سیدھی راہ کی طرف ہدایت فرما دی تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے باپ دادوں، ان کی اولادوں اور ان کے بھائیوں میں سے بھی بہت سے لوگوں کو۔ ہم نے ان سب کو منتخب کر کے راہ راست تک پہنچا دیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

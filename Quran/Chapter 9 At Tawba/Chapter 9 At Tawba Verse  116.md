@@ -3224,6 +3224,12 @@ bila shuba Allah hee ki saltanath hai asmano aur zamin mein,wahi jilata aur mart
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ ہی کے لئے آسمانوں اور زمین کی ساری بادشاہی ہے، (وہی) جِلاتا اور مارتا ہے، اور تمہارے لئے اللہ کے سوا نہ کوئی دوست ہے اور نہ کوئی مددگار (جو اَمرِ الہٰی کے خلاف تمہاری حمایت کر سکے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا اللہ ہی ہے جس کے قبضے میں سارے آسمانوں اور زمین کی سلطنت ہے۔ وہ زندگی بھی دیتا ہے، اور موت بھی، اور اللہ کے سوا تمہارا نہ کوئی رکھوالا ہے نہ مددگار۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

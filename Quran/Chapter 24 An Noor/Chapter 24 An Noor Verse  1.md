@@ -3224,6 +3224,12 @@ ye hai wo surath jo hum ne naazil farmaayi hai aur muqarrar kardi hai aur jis me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) ایک (عظیم) سورت ہے جسے ہم نے اتارا ہے اور ہم نے اس (کے احکام) کو فرض کر دیا ہے اور ہم نے اس میں واضح آیتیں نازل فرمائی ہیں تاکہ تم نصیحت حاصل کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ایک سورت ہے جو ہم نے نازل کی ہے، اور جس (کے احکام) کو ہم نے فرض کیا ہے، اور اس میں کھلی کھلی آیتیں نازل کی ہیں، تاکہ تم نصیحت حاصل کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

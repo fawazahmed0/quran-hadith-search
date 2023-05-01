@@ -3224,6 +3224,12 @@ ta ke wo imaan waalo aur neko-kaaro ko bhala badhla ata farmaaye, yahi log hai j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اللہ ان لوگوں کو پورا بدلہ عطا فرمائے جو ایمان لائے اور نیک عمل کرتے رہے۔ یہی وہ لوگ ہیں جن کے لئے بخشِش اور بزرگی والا (اخروی) رِزق ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور قیامت اس لیے آئے گی) تاکہ جو لوگ ایمان لائے ہیں اور انہوں نے نیک عمل کیے ہیں، اللہ ان کو انعام دے۔ ایسے لوگوں کے لیے مغفرت ہے اور باعزت رزق۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ so jab ose theek thaak karlo aur us mein apni ruh phook do, to tum sab us ke saa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب میں اس (کے ظاہر) کو درست کر لوں اور اس (کے باطن) میں اپنی (نورانی) روح پھونک دوں تو تم اس (کی تعظیم) کے لئے سجدہ کرتے ہوئے گر پڑنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب میں اسے پوری طرح بنا دوں اور اس میں اپنی روح پھونک دوں تو تم اس کے آگے سجدے میں گر جانا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un ke amaal dunya wa aaqirath mein ghaarath hai aur un ka koyi madadgaar nahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں جن کے اعمال دنیا اور آخرت (دونوں) میں غارت ہوگئے اور ان کا کوئی مددگار نہیں ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جن کے اعمال دنیا اور آخرت میں غارت ہوچکے ہیں، اور ان کو کسی قسم کے مددگار نصیب نہیں ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

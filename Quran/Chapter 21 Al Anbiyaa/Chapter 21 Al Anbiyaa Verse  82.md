@@ -3224,6 +3224,12 @@ isi tarah se bahuth se shayaateen bhi, hum ne us ke taabe kiye thein, jo us ke f
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کچھ شیاطین (دیووں اور جنّوں) کو بھی (سلیمان علیہ السلام کے تابع کر دیا تھا) جو ان کے لئے (دریا میں) غوطے لگاتے تھے اور اس کے سوا (ان کے حکم پر) دیگر خدمات بھی انجام دیتے تھے، اور ہم ہی ان (دیووں) کے نگہبان تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کچھ ایسے شریر جنات بھی ہم نے ان کے تابع کردئیے تھے جو ان کی خاطر پانی میں غوطے لگاتے تھے۔ اور اس کے سوا اور بھی کام کرتے تھے۔ اور ان سب کی دیکھ بھال کرنے والے ہم تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

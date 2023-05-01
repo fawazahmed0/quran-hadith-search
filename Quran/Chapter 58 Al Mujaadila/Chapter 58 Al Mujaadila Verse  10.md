@@ -3224,6 +3224,12 @@ Kana-phusi (Whispering) to ek shaytani kaam hai, aur woh isliye ki jati hai ke i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(منفی اور تخریبی) سرگوشی محض شیطان ہی کی طرف سے ہوتی ہے تاکہ وہ ایمان والوں کو پریشان کرے حالانکہ وہ (شیطان) اُن (مومنوں) کا کچھ بگاڑ نہیں سکتا مگر اللہ کے حکم سے، اور اللہ ہی پر مومنوں کو بھروسہ رکھنا چاہیے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسی سرگوشی تو شیطان کی طرف سے ہوتی ہے تاکہ وہ ایمان والوں کو غم میں مبتلا کرے اور وہ اللہ کے حکم کے بغیر انہیں ذرا بھی نقصان نہیں پہنچا سکتا۔ اور مومنوں کو اللہ ہی پر بھروسہ رکھنا چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

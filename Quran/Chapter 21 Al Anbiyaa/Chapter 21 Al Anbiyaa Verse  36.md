@@ -3224,6 +3224,12 @@ ye munkireen tujhe jab bhi dekhte hai, to tumhara mazaaq hee udaate hai, ke kya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب کافر لوگ آپ کو دیکھتے ہیں تو آپ سے محض تمسخر ہی کرنے لگتے ہیں (اور کہتے ہیں:) کیا یہی ہے وہ شخص جو تمہارے معبودوں کا (ردّ و انکار کے ساتھ) ذکر کرتا ہے؟ اور وہ خود (خدائے) رحمان کے ذکر سے انکاری ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا رکھا ہے، وہ جب تمہیں دیکھتے ہیں تو اس کے سوا ان کا کوئی کام نہیں ہوتا کہ وہ تمہارا مذاق بنانے لگتے ہیں (اور کہتے ہیں) کیا یہی صاحب ہیں جو تمہارے خداؤں کا ذکر کیا کرتے ہیں ؟ (یعنی یہ کہتے ہیں کہ ان کی کوئی حقیقت نہیں) حالانکہ ان (کافروں) کی اپنی حالت یہ ہے کہ وہ خدائے رحمن ہی کا ذکر کرنے سے انکار کیے بیٹھے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

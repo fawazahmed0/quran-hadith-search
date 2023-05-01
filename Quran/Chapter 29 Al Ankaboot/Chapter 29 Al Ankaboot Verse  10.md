@@ -3224,6 +3224,12 @@ aur baaz log aise bhi hai jo zabaani kehte hai ke hum imaan laaye hai, lekin jab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں میں ایسے شخص (بھی) ہوتے ہیں جو (زبان سے) کہتے ہیں کہ ہم اللہ پر ایمان لائے، پھر جب انہیں اللہ کی راہ میں (کوئی) تکلیف پہنچائی جاتی ہے تو وہ لوگوں کی آزمائش کواللہ کے عذاب کی مانند قرار دیتے ہیں، اور اگر آپ کے رب کی جانب سے کوئی مدد آپہنچتی ہے تو وہ یقیناً یہ کہنے لگتے ہیں کہ ہم تو تمہارے ساتھ ہی تھے، کیا اللہ ان (باتوں) کو نہیں جانتا جو جہان والوں کے سینوں میں (پوشیدہ) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کچھ لوگ ایسے ہیں کہ وہ کہہ دیتے ہیں کہ : ہم اللہ پر ایمان لے آئے ہیں۔ پھر جب ان کو اللہ کے راستے میں کوئی تکلیف پہنچائی جاتی ہے تو وہ لوگوں کی پہنچائی ہوئی تکلیف کو ایسا سمجھتے ہیں جیسا اللہ کا عذاب اور اگر کبھی تمہارے پروردگار کی طرف سے کوئی مدد ان (مسلمانوں) کے پاس آگئی ہے تو وہ ضرور یہ کہیں گے کہ : ہم تو تمہارے ساتھ تھے۔ بھلا کیا اللہ کو وہ باتیں اچھی معلوم نہیں ہیں جو سارے دنیا جہان کے لوگوں کے سینوں میں چھپی ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

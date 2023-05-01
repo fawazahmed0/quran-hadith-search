@@ -3224,6 +3224,12 @@ qaawind ne jo dekha ke yousuf ka kurta peet ki janib se phaada gaya hai to saaf 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب اس (عزیزِ مصر) نے ان کا قمیض دیکھا (کہ) وہ پیچھے سے پھٹا ہوا تھا تو اس نے کہا: بیشک یہ تم عورتوں کا فریب ہے۔ یقیناً تم عورتوں کا فریب بڑا (خطرناک) ہوتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب شوہر نے دیکھا کہ ان کی قمیص پیچھے سے پھٹی ہے تو اس نے کہا کہ : یہ تم عورتوں کی مکاری ہے، واقعی تم عورتوں کی مکاری بڑی سخت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

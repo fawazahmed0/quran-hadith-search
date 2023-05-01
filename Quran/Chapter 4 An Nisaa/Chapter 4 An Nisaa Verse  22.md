@@ -3224,6 +3224,12 @@ aur un aurto se nikaah na karo jin se tumhaare baapo ne nikaah kiya hai,magar jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان عورتوں سے نکاح نہ کرو جن سے تمہارے باپ دادا نکاح کر چکے ہوں مگر جو (اس حکم سے پہلے) گزر چکا (وہ معاف ہے)، بیشک یہ بڑی بے حیائی اور غضب (کا باعث) ہے اور بہت بری روِش ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن عورتوں سے تمہارے باپ دادا (کسی وقت) نکاح کرچکے ہوں، تم انہیں نکاح میں نہ لاؤ، البتہ پہلے جو کچھ ہوچکا وہ ہوچکا۔ یہ بڑی بےحیائی ہے، گھناؤنا عمل ہے، اور بےراہ روی کی بات ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

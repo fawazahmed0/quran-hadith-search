@@ -3224,6 +3224,12 @@ aur Allah hee ki (milkiyath mein) hai wo jahaaz jo samandaro mein pahaad ki tara
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اوربلند بادبان والے بڑے بڑے جہاز (بھی) اسی کے (اختیار میں) ہیں جو پہاڑوں کی طرح سمندر میں (کھڑے ہوتے یا چلتے) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی کے قبضے میں وہ جہاز ہیں جو سمندر میں پہاڑوں کی طرح اونچے کھڑے کیے گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

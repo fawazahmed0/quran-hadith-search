@@ -3224,6 +3224,12 @@ ke tum sirf Allah hee ki ibadath karo,mujhe to tum par dardnaak din ke azaab ka 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کہ تم اللہ کے سوا کسی کی عبادت نہ کرو، میں تم پر دردناک دن کے عذاب (کی آمد) کا خوف رکھتا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ اللہ کے سوا کسی اور کی عبادت نہ کرو۔ یقین جانو مجھے تم پر ایک دکھ دینے والے دن کے عذاب کا اندیشہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

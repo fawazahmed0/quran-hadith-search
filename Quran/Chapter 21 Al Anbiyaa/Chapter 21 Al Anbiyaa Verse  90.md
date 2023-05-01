@@ -3224,6 +3224,12 @@ hum ne us ki dua ko qubool farma kar, ose Yahya(alaihissalaam) ata farmaya aur u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو ہم نے ان کی دعا قبول فرما لی اور ہم نے انہیں یحیٰی (علیہ السلام) عطا فرمایا اور ان کی خاطر ان کی زوجہ کو (بھی) درست (قابلِ اولاد) بنا دیا۔ بیشک یہ (سب) نیکی کے کاموں (کی انجام دہی) میں جلدی کرتے تھے اور ہمیں شوق و رغبت اور خوف و خشیّت (کی کیفیتوں) کے ساتھ پکارا کرتے تھے، اور ہمارے حضور بڑے عجز و نیاز کے ساتھ گڑگڑاتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہم نے ان کی دعا قبول کی، اور ان کو یحی (جیسا بیٹا) عطا کیا، اور ان کی خاطر ان کی بیوی کو اچھا کردیا، یقینا یہ لوگ بھلائی کے کاموں میں تیزی دکھاتے تھے، اور ہمیں شوق اور رعب کے عالم میں پکارا کرتے تھے، اور ان کے دل ہمارے آگے جھکے ہوئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

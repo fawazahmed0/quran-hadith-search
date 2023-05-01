@@ -3224,6 +3224,12 @@ aur kya tum un logo ke gharo mein rehte sehte na thein jinhone apni jaano par zu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم (اپنی باری پر) انہی لوگوں کے (چھوڑے ہوئے) محلات میں رہتے تھے (جنہوں نے اپنے اپنے دور میں) اپنی جانوں پر ظلم کیا تھا حالانکہ تم پر عیاں ہو چکا تھا کہ ہم نے ان کے ساتھ کیا معاملہ کیا تھا اور ہم نے تمہارے (فہم کے) لئے مثالیں بھی بیان کی تھیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم ان لوگوں کی بستیوں میں رہ چکے تھے جنہوں نے اپنی جانوں پر ظلم کیا تھا، اور یہ بات کھل کر تمہارے سامنے آچکی تھی کہ ہم نے ان کے ساتھ کیسا سلوک کیا، اور ہم نے تمہیں مثالیں بھی دی تھیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

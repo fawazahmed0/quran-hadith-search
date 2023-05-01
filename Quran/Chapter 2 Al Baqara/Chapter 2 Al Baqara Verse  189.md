@@ -3224,6 +3224,12 @@ log aap se chaand ke baare mein sawaal karte hai, aap kehdi jiye ke ye logo (ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) لوگ آپ سے نئے چاندوں کے بارے میں دریافت کرتے ہیں، فرما دیں: یہ لوگوں کے لئے اور ماہِ حج (کے تعیّن) کے لئے وقت کی علامتیں ہیں، اور یہ کوئی نیکی نہیں کہ تم (حالتِ احرام میں) گھروں میں ان کی پشت کی طرف سے آؤ بلکہ نیکی تو (ایسی الٹی رسموں کی بجائے) پرہیزگاری اختیار کرنا ہے، اور تم گھروں میں ان کے دروازوں سے آیا کرو، اور اللہ سے ڈرتے رہو تاکہ تم فلاح پاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگ آپ سے نئے مہینوں کے چاند کے بارے میں پوچھتے ہیں، آپ انہیں بتا دیجیئے کہ یہ لوگوں (کے مختلف معاملات کے) اور حج کے اوقات متعین کرنے کے لیے ہیں۔ اور یہ کوئی نیکی نہیں ہے کہ تم گھروں میں ان کی پشت کی طرف سے داخل ہو بلکہ نیکی یہ ہے کہ انسان تقوی اختیار کرے، اور تم گھروں میں ان کے دروازوں سے داخل ہوا کرو، اور اللہ سے ڈرتے رہو، تاکہ تمہیں فلاح حاصل ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ lekin jo badh baqt hoye wo dozakh mein honge,waha chikhenge chillaenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو جو لوگ بدبخت ہوں گے (وہ) دوزخ میں (پڑے) ہوں گے ان کے مقدر میں وہاں چیخنا اور چلّانا ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جو بدحال ہوں گے وہ دوزخ میں ہوں گے جہاں ان کی چیخنے چلانے کی آوازیں آئیں گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

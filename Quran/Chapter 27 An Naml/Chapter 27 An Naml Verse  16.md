@@ -3224,6 +3224,12 @@ aur Dawood(alaihissalaam) ke waaris sulaimaan hoye aur kehne lage logo! hamein p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور سلیمان (علیہ السلام)، داؤد (علیہ السلام) کے جانشین ہوئے اور انہوں نے کہا: اے لوگو! ہمیں پرندوں کی بولی (بھی) سکھائی گئی ہے اور ہمیں ہر چیز عطا کی گئی ہے۔ بیشک یہ (اللہ کا) واضح فضل ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور سلیمان کو داؤد کی وراثت ملی اور انہوں نے کہا : اے لوگو ! ہمیں پرندوں کی بولی سکھائی گئی ہے، اور ہمیں ہر (ضرورت کی) چیز عطا کی گئی ہے۔ یقینا یہ (اللہ تعالیٰ کا) کھلا ہوا فضل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo log kitaabullah ki tilaawath karte hai aur namaaz ki paabandi rakhte hai, aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ اللہ کی کتاب کی تلاوت کرتے ہیں اور نماز قائم رکھتے ہیں اور جو کچھ ہم نے انہیں عطا کیا ہے اس میں سے خرچ کرتے ہیں، پوشیدہ بھی اور ظاہر بھی، اور ایسی (اُخروی) تجارت کے امیدوار ہیں جو کبھی خسارے میں نہیں ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اللہ کی کتاب کی تلاوت کرتے ہیں، اور جنہوں نے نماز کی پابندی کر رکھی ہے، اور ہم نے انہیں جو رزق دیا ہے اس میں سے وہ (نیک کاموں میں) خفیہ اور علانیہ خرچ کرتے ہیں، وہ ایسی تجارت کے امیدوار ہیں جو کبھی نقصان نہیں اٹھائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

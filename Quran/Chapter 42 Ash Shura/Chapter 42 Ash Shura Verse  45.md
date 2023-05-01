@@ -3224,6 +3224,12 @@ aur tu unhe dekhega ke wo (jahannam ke) saamne la khade kiye jayenge, maare zill
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ انہیں دیکھیں گے کہ وہ دوزخ پر ذلّت اور خوف کے ساتھ سر جھکائے ہوئے پیش کئے جائیں گے (اسے چوری چوری) چھپی نگاہوں سے دیکھتے ہوں گے، اور ایمان والے کہیں گے: بیشک نقصان اٹھانے والے وہی لوگ ہیں جنہوں نے اپنی جانوں کو اور اپنے اہل و عیال کو قیامت کے دن خسارے میں ڈال دیا، یاد رکھو! بیشک ظالم لوگ دائمی عذاب میں (مبتلا) رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم انہیں دیکھو گے کہ دوزخ کے سامنے انہیں اس طرح پیش کیا جائے گا کہ وہ ذلت کے مارے جھکے ہوئے کن انکھیوں سے دیکھ رہے ہوں گے، اور جو لوگ ایمان لاچکے ہیں وہ کہہ رہے ہوں گے کہ : واقعی اصل خسارے میں وہ لوگ ہیں جنہوں نے قیامت کے دن اپنے آپ کو اور اپنے گھر والوں کو خسارے میں ڈال دیا۔ یاد رکھو کہ ظالم لوگ ایسے عذاب میں ہوں گے جو ہمیشہ قائم رہے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

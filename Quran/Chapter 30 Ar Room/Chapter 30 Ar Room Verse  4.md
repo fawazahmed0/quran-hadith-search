@@ -3224,6 +3224,12 @@ chand saal mein hee us se pehle aur us ke baadh bhi, eqtiyaar Allah ta’ala hee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+چند ہی سال میں (یعنی دس سال سے کم عرصہ میں)، اَمر تو اللہ ہی کا ہے پہلے (غلبۂ فارس میں) بھی اور بعد (کے غلبۂ روم میں) بھی، اور اس وقت اہلِ ایمان خوش ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چند ہی سالوں میں ! سارا اختیار اللہ ہی کا ہے، پہلے بھی اور بعد میں بھی۔ اور اس دن ایمان والے اللہ کی دی ہوئی فتح سے خوش ہوں گے،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

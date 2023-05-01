@@ -3224,6 +3224,12 @@ aur aap ka rab jo chahta hai paida karta hai aur jise chahta hai chun leta hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کا رب جو چاہتا ہے پیدا فرماتا ہے اور (جسے چاہتا ہے نبوت اور حقِ شفاعت سے نوازنے کے لئے) منتخب فرما لیتا ہے، ان (منکر اور مشرک) لوگوں کو (اس امر میں) کوئی مرضی اور اختیار حاصل نہیں ہے۔ اللہ پاک ہے اور بالاتر ہے ان (باطل معبودوں) سے جنہیں وہ (اللہ کا) شریک گردانتے ہیں۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارا پروردگار جو چاہتا ہے پیدا کرتا ہے، اور (جو چاہتا ہے) پسند کرتا ہے۔ ان کو کوئی اختیار نہیں ہے۔ اللہ ان کے شرک سے پاک ہے اور بہت بالا و برتر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

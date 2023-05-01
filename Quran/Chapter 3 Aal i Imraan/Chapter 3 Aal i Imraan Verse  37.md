@@ -3224,6 +3224,12 @@ pas ose us ke parvardigaar ne acchi tarah qubool farmaaya aur ose behetreen parv
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو اس کے رب نے اس (مریم) کو اچھی قبولیت کے ساتھ قبول فرما لیا اور اسے اچھی پرورش کے ساتھ پروان چڑھایا اور اس کی نگہبانی زکریا (علیہ السلام) کے سپرد کر دی، جب بھی زکریا (علیہ السلام) اس کے پاس عبادت گاہ میں داخل ہوتے تو وہ اس کے پاس (نئی سے نئی) کھانے کی چیزیں موجود پاتے، انہوں نے پوچھا: اے مریم! یہ چیزیں تمہارے لئے کہاں سے آتی ہیں؟ اس نے کہا: یہ (رزق) اللہ کے پاس سے آتا ہے، بیشک اللہ جسے چاہتا ہے بے حساب رزق عطا کرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ اس کے رب نے اس (مریم) کو بطریق احسن قبول کیا اور اسے بہترین طریقے سے پروان چڑھایا۔ اور زکریا اس کے سرپرست بنے۔ جب بھی زکریا ان کے پاس ان کی عبادت گاہ میں جاتے، ان کے پاس کوئی رزق پاتے، انہوں نے پوچھا : مریم ! تمہارے پاس یہ چیزیں کہاں سے آئیں ؟ وہ بولیں : اللہ کے پاس سے۔ اللہ جس کو چاہتا ہے بےحساب رزق دیتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

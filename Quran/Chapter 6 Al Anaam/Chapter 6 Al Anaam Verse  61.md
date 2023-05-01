@@ -3224,6 +3224,12 @@ aur wahi apne bandho ke upar ghaalib hai, bar-tar hai aur tum par nigeh-daasht r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی اپنے بندوں پر غالب ہے اور وہ تم پر (فرشتوں کو بطور) نگہبان بھیجتا ہے، یہاں تک کہ جب تم میں سے کسی کو موت آتی ہے (تو) ہمارے بھیجے ہوئے (فرشتے) اس کی روح قبض کرلیتے ہیں اور وہ خطا (یا کوتاہی) نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی اپنے بندوں پر مکمل اقتدار رکھتا ہے اور تمہارے لیے نگہبان (فرشتے) بھیجتا ہے۔ یہاں تک کہ جب تم میں سے کسی کی موت کا وقت آجاتا ہے تو ہمارے بھیجے ہوئے فرشتے اس کو پورا پورا وصول کرلیتے ہیں، اور وہ ذرا بھی کوتاہی نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

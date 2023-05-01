@@ -3224,6 +3224,12 @@ ye us wajeh se ke un ke paas un ke paighambar maujeze le le kar aate thein, to w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس وجہ سے ہوا کہ ان کے پاس ان کے رسول کھلی نشانیاں لے کر آئے تھے پھر انہوں نے کفر کیا تو اللہ نے انہیں (عذاب میں) پکڑ لیا، بے شک وہ بڑی قوت والا، سخت عذاب دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ اس لیے ہوا کہ ان کے پاس ان کے پیغمبر کھلی کھلی دلیلیں لے کر آتے تھے تو یہ انکار کرتے تھے، اس لیے اللہ نے انہیں پکڑ میں لیا۔ یقینا وہ بڑی قوت والا سزا دینے میں بڑا سخت ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

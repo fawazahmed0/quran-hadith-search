@@ -3224,6 +3224,12 @@ aye kaafiro! aaj tum uzr wa bahaana math karo, tumhe sirf tumhaare kartooth ka b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے کافرو! آج کے دن کوئی عذر پیش نہ کرو، بس تمہیں اسی کا بدلہ دیا جائے گا جو کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے کفر اختیار کرنے والو ! آج معذرتیں پیش مت کرو، تمہیں انہی اعمال کا بدلہ دیا جارہا ہے جو تم کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

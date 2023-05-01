@@ -3224,6 +3224,12 @@ aur Allah ke saath kisi dosre maboodh ko nahi pukaarte aur kisi aise shaqs ko ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ) وہ لوگ ہیں جو اللہ کے ساتھ کسی دوسرے معبود کی پوجا نہیں کرتے اور نہ (ہی) کسی ایسی جان کو قتل کرتے ہیں جسے بغیرِ حق مارنا اللہ نے حرام فرمایا ہے اور نہ (ہی) بدکاری کرتے ہیں، اور جو شخص یہ کام کرے گا وہ سزائے گناہ پائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو اللہ کے ساتھ کسی بھی دوسرے معبود کی عبادت نہیں کرتے، اور جس جان کو اللہ نے حرمت بخشی ہے، اسے ناحق قتل نہیں کرتے، اور نہ وہ زنا کرتے ہیں، اور جو شخص بھی یہ کام کرے گا، اسے اپنے گناہ کے وبال کا سامنا کرنا پڑے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

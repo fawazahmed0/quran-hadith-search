@@ -3224,6 +3224,12 @@ wo zaath jis ne tumhaare liye zameen ko pasth wa muti kar diya ta ke tum us ki r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وُہی ہے جس نے تمہارے لئے زمین کو نرم و مسخر کر دیا، سو تم اس کے راستوں میں چلو پھرو، اور اُس کے (دئیے ہوئے) رِزق میں سے کھاؤ، اور اُسی کی طرف (مرنے کے بعد) اُٹھ کر جانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے تمہارے لیے زمین کو رام کردیا ہے، لہذا تم اس کے مونڈھوں پر چلو پھرو، اور اس کا رزق کھاؤ، اور اسی کے پاس دوبارہ زندہ ہو کر جانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

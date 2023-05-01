@@ -3224,6 +3224,12 @@ main ne jinnaath aur insaano ko mahez isi liye payda kiya hai ke wo sirf meri ib
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں نے جنّات اور انسانوں کو صرف اسی لئے پیدا کیا کہ وہ میری بندگی اختیار کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں نے جنات اور انسانوں کو اس کے سوا کسی اور کام کے لیے پیدا نہیں کیا کہ وہ میری عبادت کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

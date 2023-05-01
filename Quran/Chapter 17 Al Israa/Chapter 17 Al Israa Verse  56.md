@@ -3224,6 +3224,12 @@ keh dijiye ke Allah ke siva jinhe tum maboodh samajh rahe ho unhe pukaaro lekin 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تم ان سب کو بلا لو جنہیں تم اللہ کے سوا (معبود) گمان کرتے ہو وہ تم سے تکلیف دور کرنے پر قادر نہیں ہیں اور نہ (اسے دوسروں کی طرف) پھیر دینے کا (اختیار رکھتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (جو لوگ اللہ کے علاوہ دوسرے معبودوں کو مانتے ہیں، ان سے) کہہ دو کہ : جن کو تم نے اللہ کے سوا معبود سمجھ رکھا ہے، انہیں پکار کر دیکھو۔ ہوگا یہ کہ نہ وہ تم سے کوئی تکلیف دور کرسکیں گے، اور نہ اسے تبدیل کرسکیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

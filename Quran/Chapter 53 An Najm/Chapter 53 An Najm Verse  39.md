@@ -3224,6 +3224,12 @@ aur ye ke har insaan ke liye sirf wahi hai jis ki koshish khud us ne ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ انسان کو (عدل میں) وہی کچھ ملے گا جس کی اُس نے کوشش کی ہوگی (رہا فضل اس پر کسی کا حق نہیں وہ محض اللہ کی عطاء و رضا ہے جس پر جتنا چاہے کر دے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ انسان کو خود اپنی کوشش کے سوا کسی اور چیز کا (بدلہ لینے کا) حق نہیں پہنچتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

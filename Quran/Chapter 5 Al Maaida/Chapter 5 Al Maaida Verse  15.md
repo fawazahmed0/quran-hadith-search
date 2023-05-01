@@ -3224,6 +3224,12 @@ ae ahle kitab! yaqinan tumhare pas hamara rasol (sallallahualaihiwasallam)aa chu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اہلِ کتاب! بیشک تمہارے پاس ہمارے (یہ) رسول تشریف لائے ہیں جو تمہارے لئے بہت سی ایسی باتیں (واضح طور پر) ظاہر فرماتے ہیں جو تم کتاب میں سے چھپائے رکھتے تھے اور (تمہاری) بہت سی باتوں سے درگزر (بھی) فرماتے ہیں۔ بیشک تمہارے پاس اللہ کی طرف سے ایک نور (یعنی حضرت محمد صلی اللہ علیہ وآلہ وسلم) آگیا ہے اور ایک روشن کتاب (یعنی قرآن مجید)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے اہل کتاب ! تمہارے پاس ہمارے (یہ) پیغبر آگئے ہیں جو کتاب (یعنی تورات اور انجیل) کی بہت سی ان باتوں کو کھول کھول کر بیان کرتے ہیں جو تم چھپایا کرتے ہو، اور بہت سی باتوں سے درگزر کر جاتے ہیں تمہارے پاس اللہ کی طرف سے ایک روشنی آئی ہے اور ایک ایسی کتاب جو حق کو واضح کردینے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

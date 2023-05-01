@@ -3224,6 +3224,12 @@ agar wo chaahe to hawa bandh karde aur ye kashtiya samandaro par ruki reh jaaye,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر وہ چاہے ہوا کو بالکل ساکِن کر دے تو کشتیاں سطحِ سمندر پر رُکی رہ جائیں، بیشک اس میں ہر صبر شعار و شکر گزار کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر وہ چاہے تو ہوا کو ٹھہرا دے، جس سے یہ سمندر کی پشت پر کھڑے کے کھڑے رہ جائیں، یقینا اس میں ہر اس شخص کے لیے بڑی نشانیاں ہیں جو صبر کا بھی خوگر اور شکر کا بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

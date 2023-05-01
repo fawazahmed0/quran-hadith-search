@@ -3224,6 +3224,12 @@ wo log bhi qat-an kaafir ho gaye jinhone kaha Allah teen mein ka tisra hai, dar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ایسے لوگ (بھی) کافر ہوگئے ہیں جنہوں نے کہا کہ اللہ تین (معبودوں) میں سے تیسرا ہے، حالانکہ معبودِ یکتا کے سوا کوئی عبادت کے لائق نہیں، اور اگر وہ ان (بیہودہ باتوں) سے جو وہ کہہ رہے ہیں بازنہ آئے تو ان میں سے کافروں کو دردناک عذاب ضرور پہنچے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ لوگ (بھی) یقینا کافر ہوچکے ہیں جنہوں نے یہ کہا ہے کہ : اللہ تین میں کا تیسرا ہے حالانکہ ایک خدا کے سوا کوئی خدا نہیں ہے، اور اگر یہ لوگ اپنی اس بات سے باز نہ آئے تو ان میں سے جن لوگوں نے (ایسے) کفر کا ارتکاب کیا ہے، ان کو دردناک عذاب پکڑ کر رہے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

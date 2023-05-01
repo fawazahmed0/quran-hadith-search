@@ -3224,6 +3224,12 @@ pas jo log imaan laaye hai aur shaayesta amaal kiye hai un ko un ka pura pura sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جو لوگ ایمان لائے اور نیک عمل کرتے رہے وہ انہیں پورے پورے اجر عطا فرمائے گا اور (پھر) اپنے فضل سے انہیں اور زیادہ دے گا، اور وہ لوگ جنہوں نے (اللہ کی عبادت سے) عار محسوس کی اور تکبرّ کیا تو وہ انہیں دردناک عذاب دے گا، اور وہ اپنے لئے اللہ کے سوا نہ کوئی دوست پائیں گے اور نہ کوئی مددگار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جو لوگ ایمان لائے ہوں گے اور انہوں نے نیک عمل کیے ہوں گے ان کو ان کا پورا پورا ثواب دے گا، اور اپنے فضل سے اس سے زیادہ بھی دے گا۔ رہے وہ لوگ جنہوں نے (بندگی کو) عار سمجھا ہوگا اور تکبر کا مظاہرہ کیا ہوگا، تو ان کو دردناک عذاب دے گا، اور ان کو اللہ کے سوا اپنا کوئی رکھوالا اور مددگار نہیں ملے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap jise chaahe hidaayath nahi kar sakte, balke Allah ta’ala hee jise chaahe h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حقیقت یہ ہے کہ جسے آپ (راہ ہدایت پر لانا) چاہتے ہیں اسے راہ ہدایت پر آپ خود نہیں لاتے بلکہ جسے اللہ چاہتا ہے (آپ کے ذریعے) راہ ہدایت پر چلا دیتا ہے، اور وہ راہ ہدایت پانے والوں سے خوب واقف ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) حقیقت یہ ہے کہ تم جس کو خود چاہو ہدایت تک نہیں پہنچا سکتے، بلکہ اللہ جس کو چاہتا ہے ہدایت تک پہنچا دیتا ہے، اور ہدایت قبول کرنے والوں کو وہی خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur apne gharo mein qaraar se raho aur qadeem jaheliyath ke zamaane ki tarah apn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اپنے گھروں میں سکون سے قیام پذیر رہنا اور پرانی جاہلیت کی طرح زیب و زینت کا اظہار مت کرنا، اور نماز قائم رکھنا اور زکوٰۃ دیتے رہنا اور اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت گزاری میں رہنا، بس اللہ یہی چاہتا ہے کہ اے (رسول صلی اللہ علیہ وآلہ وسلم کے) اہلِ بیت! تم سے ہر قسم کے گناہ کا میل (اور شک و نقص کی گرد تک) دُور کر دے اور تمہیں (کامل) طہارت سے نواز کر بالکل پاک صاف کر دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنے گھروں میں قرار کے ساتھ رہو اور (غیر مردوں کو) بناؤ سنگھار دکھاتی نہ پھرو، جیسا کہ پہلی بار جاہلیت میں دکھایا جاتا تھا اور نماز قائم کرو، اور زکوٰۃ ادا کرو، اور اللہ اور اس کے رسول کی فرمانبرداری کرو۔ اے نبی کے اہل بیت ! (گھر والو) اللہ تو یہ چاہتا ہے کہ تم سے گندگی کو دور رکھے، اور تمہیں ایسی پاکیزگی عطا کرے جو ہر طرح مکمل ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

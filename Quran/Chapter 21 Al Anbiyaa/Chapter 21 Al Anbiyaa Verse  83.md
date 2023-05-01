@@ -3224,6 +3224,12 @@ Ayyub(alaihissalaam) ki us haalath ko yaad karo, jab ke us ne apne parvardigaar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ایوب (علیہ السلام کا قصّہ یاد کریں) جب انہوں نے اپنے رب کو پکارا کہ مجھے تکلیف چھو رہی ہے اور تو سب رحم کرنے والوں سے بڑھ کر مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ایوب کو دیکھو ! جب انہوں نے اپنے پروردگار کو پکارا کہ : مجھے یہ تکلیف لگ گئی ہے، اور تو سارے رحم کرنے والوں سے بڑھ کر رحم کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

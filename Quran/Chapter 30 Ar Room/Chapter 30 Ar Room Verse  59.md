@@ -3224,6 +3224,12 @@ Allah ta’ala un logo ke dilo par jo samajh nahi rakhte yo hee muhar kar deta h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی طرح اللہ ان لوگوں کے دلوں پر مہر لگا دیتا ہے جو (حق واضح ہو جانے کے باوجود) نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ اسی طرح ان لوگوں کے دلوں پر ٹھپہ لگا دیتا ہے جو سمجھ سے کام نہیں لیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

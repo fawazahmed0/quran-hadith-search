@@ -3224,6 +3224,12 @@ aur jo kuch chota bada unhone qarch kiya aur jitne maidan un ko tai karne pade,y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ یہ کہ وہ (مجاہدین) تھوڑا خرچہ کرتے ہیں اور نہ بڑا اور نہ (ہی) کسی میدان کو (راہِ خدا میں) طے کرتے ہیں مگر ان کے لئے (یہ سب صرف و سفر) لکھ دیا جاتا ہے تاکہ اللہ انہیں (ہر اس عمل کی) بہتر جزا دے جو وہ کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نیز وہ جو کچھ (اللہ کے راستے میں) خرچ کرتے ہیں، چاہے وہ خرچ چھوٹا ہو یا بڑا، اور جس کسی وادی کو وہ پار کرتے ہیں، اس سب کو (ان کے اعمال نامے میں نیکی کے طور پر) لکھا جاتا ہے، تاکہ اللہ انہیں (ہر ایسے عمل پر) وہ جزاء دے جو ان کے بہترین اعمال کے لیے مقرر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ke aaye mere parvardigaar! meri haddiya kamzoor ho gayi hai aur sar bhudaape ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عرض کیا: اے میرے رب! میرے جسم کی ہڈیاں کمزور ہوگئی ہیں اوربڑھاپے کے باعث سر آگ کے شعلہ کی مانند سفید ہوگیا ہے اور اے میرے رب! میں تجھ سے مانگ کر کبھی محروم نہیں رہا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا تھا کہ : میرے پروردگار ! میری ہڈیاں کمزور پڑگئی ہیں، اور سر بڑھاپے کی سفیدی سے بھڑک اٹھا ہے، اور میرے پروردگار ! میں آپ سے دعا مانگ کر کبھی نامراد نہیں ہوا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

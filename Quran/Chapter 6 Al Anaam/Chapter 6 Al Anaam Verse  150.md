@@ -3224,6 +3224,12 @@ aap kahiye ke apne gawaaho ko laao jo is baath par shahaadath de ke Allah ne un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان مشرکوں سے) فرما دیجئے کہ تم اپنے ان گواہوں کو پیش کرو جو (آکر) اس بات کی گواہی دیں کہ اللہ نے اسے حرام کیا ہے، پھر اگر وہ (جھوٹی) گواہی دے ہی دیں تو ان کی گواہی کو تسلیم نہ کرنا (بلکہ ان کا جھوٹا ہونا ان پر آشکار کر دینا)، اور نہ ایسے لوگوں کی خواہشات کی پیروی کرنا جو ہماری آیتوں کو جھٹلاتے ہیں اور جو آخرت پر ایمان نہیں رکھتے اور وہ (معبودانِ باطلہ کو) اپنے رب کے برابر ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے کہو کہ : اپنے وہ گواہ ذرا سامنے لاؤ جو یہ گواہی دیں کہ اللہ نے ان چیزوں کو حرام قرار دیا ہے۔ پھر اگر یہ خود گواہی دے بھی دیں تو تم ان کے ساتھ گواہی میں شریک نہ ہونا، اور ان لوگوں کی خواہشات کے پیچھے نہ چلنا جنہوں نے ہماری آیتوں کو جھٹلایا ہے۔ جو آخرت پر ایمان نہیں رکھتے، اور جو دوسروں کو (خدائی میں) اپنے پروردگار کے برابر مانتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

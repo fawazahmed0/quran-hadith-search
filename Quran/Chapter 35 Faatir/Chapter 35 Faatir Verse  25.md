@@ -3224,6 +3224,12 @@ aur agar ye log aap ko jhutla de, to jo log un se pehle ho guzre hai unhone bhi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر یہ لوگ آپ کو جھٹلائیں تو بیشک اِن سے پہلے لوگ (بھی) جھٹلا چکے ہیں، اُن کے پاس (بھی) اُن کے رسول واضح نشانیاں اور صحیفے اور روشن کرنے والی کتاب لے کر آئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر یہ لوگ تمہیں جھٹلا رہے ہیں تو جو (کافر) ان سے پہلے تھے، انہوں نے بھی (رسولوں کو) جھٹلایا تھا۔ ان کے پیغمبر ان کے پاس کھلی کھلی نشانیاں لے کر، صحیفے لے کر اور روشنی پھیلانے والی کتاب لے کر آئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

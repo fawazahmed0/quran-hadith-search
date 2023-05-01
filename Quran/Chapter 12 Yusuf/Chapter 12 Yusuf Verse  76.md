@@ -3224,6 +3224,12 @@ pas yousuf ne un ke samaan ki talaash shuro ki, apne bhai ke samaan ki talashi s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس یوسف (علیہ السلام) نے اپنے بھائی کی بوری سے پہلے ان کی بوریوں کی تلاشی شروع کی پھر (بالآخر) اس (پیالے) کو اپنے (سگے) بھائی (بنیامین) کی بوری سے نکال لیا۔ یوں ہم نے یوسف (علیہ السلام) کو تدبیر بتائی۔ وہ اپنے بھائی کو بادشاہِ (مصر) کے قانون کی رو سے (اسیر بنا کر) نہیں رکھ سکتے تھے مگر یہ کہ (جیسے) اللہ چاہے۔ ہم جس کے چاہتے ہیں درجات بلند کر دیتے ہیں، اور ہر صاحبِ علم سے اوپر (بھی) ایک علم والا ہوتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ یوسف نے اپنے (سگے) بھائی کے تھیلے سے پہلے دوسرے بھائیوں کے تھیلوں کی تلاشی شروع کی، پھر اس پیالے کو اپنے (سگے) بھائی کے تھیلے میں سے برآمد کرلیا۔ اس طرح ہم نے یوسف کی خاطر یہ تدبیر کی۔ اللہ کی یہ مشیت نہ ہوتی تو یوسف کے لیے یہ ممکن نہیں تھا کہ وہ بادشاہ کے قانون کے مطابق اپنے بھائی کو اپنے پاس رکھ لیتے، اور ہم جس کو چاہتے ہیں، اس کے درجے بلند کردیتے ہیں، اور جتنے علم والے ہیں، ان سب کے اوپر ایک بڑا علم رکھنے والا موجود ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

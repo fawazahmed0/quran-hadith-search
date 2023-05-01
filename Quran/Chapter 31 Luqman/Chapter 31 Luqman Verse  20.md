@@ -3224,6 +3224,12 @@ kya tum nahi dekhte ke Allah ta’ala ne zameen wa asmaan ki har cheez ko tumhaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(لوگو!) کیا تم نے نہیں دیکھا کہ اللہ نے تمہارے لئے ان تمام چیزوں کو مسخّر فرما دیا ہے جو آسمانوں میں ہیں اور جو زمین میں ہیں، اور اس نے اپنی ظاہری اور باطنی نعمتیں تم پر پوری کر دی ہیں۔ اور لوگوں میں کچھ ایسے (بھی) ہیں جو اللہ کے بارے میں جھگڑا کرتے ہیں بغیر علم کے اور بغیر ہدایت کے اور بغیر روشن کتاب (کی دلیل) کے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم لوگوں نے یہ نہیں دیکھا کہ آسمانوں اور زمین میں جو کچھ ہے اسے اللہ نے تمہارے کام میں لگا رکھا ہے، اور تم پر اپنی ظاہری اور باطنی نعمتیں پوری پوری نچھاور کی ہیں ؟ پھر بھی انسانوں میں سے کچھ لوگ ہیں جو اللہ کے بارے میں بحثیں کرتے ہیں، جبکہ ان کے پاس نہ کوئی علم ہے، نہ ہدایت ہے، اور نہ کوئی ایسی کتاب ہے جو روشنی دکھائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

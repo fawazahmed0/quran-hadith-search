@@ -3224,6 +3224,12 @@ ye log us basti ke paas se bhi aate jaate hai, jin par buri tarah ki baarish bar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک یہ (کفار) اس بستی پر سے گزرے ہیں جس پر بری طرح (پتھروں کی) بارش برسائی گئی تھی، تو کیا یہ اس (تباہ شدہ بستی) کو دیکھتے نہ تھے بلکہ یہ تو (مرنے کے بعد) اٹھائے جانے کی امید ہی نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (کفار مکہ) اس بستی سے ہو کر گزرتے رہے ہیں جس پر بری طرح (پتھروں کی) بارش برسائی گئی تھی بھلا کیا یہ اس بستی کو دیکھتے نہیں رہے ؟ (پھر بھی انہیں عبرت نہیں ہوئی) بلکہ ان کے دل میں دوسری زندگی کا اندیشہ تک پیدا نہیں ہوا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

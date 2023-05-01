@@ -3224,6 +3224,12 @@ hum to Allah ta’ala par badi jhooti tuhmath lagaane waale ho jayenge agar hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم اللہ پر جھوٹا بہتان باندھیں گے، اگر تمہارے دین کی طرف لوٹ آئیں گے، جبکہ اللہ نے ہمیں اس سے نجات دے دی ہے۔ ہمارے لیے تو یہ ممکن ہی نہیں ہے کہ اس کی طرف واپس جائیں۔ ہاں اللہ ہمارا پروردگار ہی کچھ چاہے تو اور بات ہے۔ ہمارے رب نے اپنے علم سے ہر چیز کا احاطہ کیا ہوا ہے۔ اللہ ہی پر ہم نے بھروسہ کر رکھا ہے۔ اے ہمارے رب ! ہمارے اور ہماری قوم کے درمیان حق کا فیصلہ فرمادے۔ اور تو ہی سب سے بہتر فیصلہ کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

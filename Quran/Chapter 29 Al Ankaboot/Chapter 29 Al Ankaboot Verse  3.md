@@ -3224,6 +3224,12 @@ un se aglo ko bhi hum ne qoob jaancha, yaqinan Allah ta’ala unhe bhi jaan lega
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے ان لوگوں کو (بھی) آزمایا تھا جو ان سے پہلے تھے سو یقیناً اللہ ان لوگوں کو ضرور (آزمائش کے ذریعے) نمایاں فرما دے گا جو (دعوٰی ایمان میں) سچے ہیں اور جھوٹوں کو (بھی) ضرور ظاہر کر دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حالانکہ ہم نے ان سب کی آزمائش کی ہے جو ان سے پہلے گزر چکے ہیں۔ لہذا اللہ ضرور معلوم کر کے رہے گا کہ کون لوگ ہیں جنہوں نے سچائی سے کام لیا ہے اور وہ یہ بھی معلوم کر کے رہے گا کہ کون لوگ جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

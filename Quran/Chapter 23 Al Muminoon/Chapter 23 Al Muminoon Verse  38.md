@@ -3224,6 +3224,12 @@ ye to bas aisa shaqs hai jis ne Allah par jhoot (buhtaan) baandh liya hai, hum t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ تو محض ایسا شخص ہے جس نے اللہ پر جھوٹا بہتان لگایا ہے اور ہم بالکل اس پر ایمان لانے والے نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (رہا یہ شخص، تو) یہ اور کچھ نہیں، ایک ایسا آدمی ہے جس نے اللہ پر جھوٹا بہتان گھڑا ہے، اور ہم اس پر ایمان لانے والے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

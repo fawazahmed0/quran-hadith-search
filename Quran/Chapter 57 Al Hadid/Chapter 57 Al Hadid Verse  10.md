@@ -3224,6 +3224,12 @@ tumhe kya ho gaya hai jo tum Allah ki raah mein qarch nahi karte? dar asl asmaan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہیں کیا ہوگیا ہے کہ تم اللہ کی راہ میں خرچ نہیں کرتے حالاں کہ آسمانوں اور زمین کی ساری ملکیت اللہ ہی کی ہے (تم فقط اس مالک کے نائب ہو)، تم میں سے جن لوگوں نے فتحِ (مکّہ) سے پہلے (اللہ کی راہ میں اپنا مال) خرچ کیا اور (حق کے لیے) قتال کیا وہ (اور تم) برابر نہیں ہوسکتے، وہ اُن لوگوں سے درجہ میں بہت بلند ہیں جنہوں نے بعد میں مال خرچ کیا ہے، اور قتال کیا ہے، مگر اللہ نے حسنِ آخرت (یعنی جنت) کا وعدہ سب سے فرما دیا ہے، اور اللہ جو کچھ تم کرتے ہو اُن سے خوب آگاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے لیے کونسی وجہ ہے کہ تم اللہ کے راستے میں خرچ نہ کرو، حالانکہ آسمانوں اور زمین کی ساری میراث اللہ ہی کے لیے ہے۔ تم میں سے جنہوں نے (مکہ کی) فتح سے پہلے خرچ کیا، اور لڑائی لڑی، وہ (بعد والوں کے) برابر نہیں ہیں۔ وہ درجے میں ان لوگوں سے بڑھے ہوئے ہیں جنہوں نے (فتح مکہ کے) بعد خرچ کیا، اور لڑائی لڑی۔ یوں اللہ نے بھلائی کا وعدہ ان سب سے کر رکھا ہے، اور تم جو کچھ کرتے ہو اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

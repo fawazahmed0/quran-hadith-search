@@ -3224,6 +3224,12 @@ pas hum ne un se inteqaam liya aur dekh le jhutlaane waalo ka kaisa anjaam hoa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو ہم نے اُن سے بدلہ لے لیا پس آپ دیکھئے کہ جھٹلانے والوں کا انجام کیسا ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نتیجہ یہ ہوا کہ ہم نے ان سے انتقام لیا، اب دیکھ لو کہ جھٹلانے والوں کا انجام کیسا ہوا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

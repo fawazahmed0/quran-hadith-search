@@ -3224,6 +3224,12 @@ kaafir is wahi ilaahi mein hamesha shak shuba hee karte rahenge, hatta ke achaan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ ہمیشہ اس (قرآن) کے حوالے سے شک میں رہیں گے یہاں تک کہ اچانک ان پر قیامت آپہنچے یا اس دن کا عذاب آجائے جس سے نجات کا کوئی امکان نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے وہ اس (کلام) کی طرف سے برابر شک ہی میں پڑے رہیں گے، یہاں تک کہ ان پر اچانک قیامت آجائے، یا ایسے دن کا عذاب ان تک آپہنچے جو (ان کے لیے) کسی بھلائی کو جنم دینے کی صلاحیت سے خالی ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

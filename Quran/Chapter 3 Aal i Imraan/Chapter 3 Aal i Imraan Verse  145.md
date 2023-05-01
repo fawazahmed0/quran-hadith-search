@@ -3224,6 +3224,12 @@ baghair Allah ta’ala ke hukm ke koyi jaandaar nahi mar sakta, muqarrar shuda w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کوئی شخص اللہ کے حکم کے بغیر نہیں مر سکتا (اس کا) وقت لکھا ہوا ہے، اور جو شخص دنیا کا انعام چاہتا ہے ہم اسے اس میں سے دے دیتے ہیں، اور جو آخرت کا انعام چاہتا ہے ہم اسے اس میں سے دے دیتے ہیں، اور ہم عنقریب شکر گزاروں کو (خوب) صلہ دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کسی بھی شخص کے اختیار میں نہیں ہے کہ اسے اللہ کے حکم کے بغیر موت آجائے، جس کا ایک معین وقت پر آنا لکھا ہوا ہے۔ اور جو شخص دنیا کا بدلہ چاہے گا ہم اسے اس کا حصہ دے دیں گے، اور جو آخرت کا ثواب چاہے گا ہم اسے اس کا حصہ عطا کردیں گے، اور جو لوگ شکر گزار ہیں ان کو ہم جلد ہی ان کا اجر عطا کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

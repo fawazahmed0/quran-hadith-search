@@ -3224,6 +3224,12 @@ aur jab be huda baath kaan mein padti hai, to us se kinaara kar lete hai aur keh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اورجب وہ کوئی بیہودہ بات سنتے ہیں تو اس سے منہ پھیر لیتے ہیں اور کہتے ہیں کہ ہمارے لئے ہمارے اعمال ہیں اور تمہارے لئے تمہارے اعمال، تم پر سلامتی ہو ہم جاہلوں (کے فکر و عمل) کو (اپنانا) نہیں چاہتے (گویا ان کی برائی کے عوض ہم اپنی اچھائی کیوں چھوڑیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب وہ کوئی بےہودہ بات سنتے ہیں تو اسے ٹال جاتے ہیں اور کہتے ہیں کہ : ہمارے لیے ہمارے اعمال ہیں، اور تمہارے لیے تمہارے اعمال۔ ہم تمہیں سلام کرتے ہیں، ہم نادان لوگوں سے الجھنا نہیں چاہتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

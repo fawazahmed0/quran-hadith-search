@@ -3224,6 +3224,12 @@ wo jise chaahe hikmath aur danaayi deta hai aur jo shaqs hikmath aur samajh diya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جسے چاہتا ہے دانائی عطا فرما دیتا ہے، اور جسے (حکمت و) دانائی عطا کی گئی اسے بہت بڑی بھلائی نصیب ہوگئی، اور صرف وہی لوگ نصیحت حاصل کرتے ہیں جو صاحبِ عقل و دانش ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جس کو چاہتا ہے دانائی عطا کردیتا ہے، اور جسے دانائی عطا ہوگئی اسے وافر مقدار میں بھلائی مل گئی۔ اور نصیحت وہی لوگ حاصل کرتے ہیں جو سمجھ کے مالک ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ us ke saathi ne us se baatein karte hoye kaha ke kya tu us (maaboodh) se kufr ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس کے ساتھی نے اس سے کہا اور وہ اس سے تبادلہء خیال کر رہا تھا: کیا تو نے اس (رب) کا انکار کیا ہے جس نے تجھے (اوّلاً) مٹی سے پیدا کیا پھر ایک تولیدی قطرہ سے پھر تجھے (جسمانی طور پر) پورا مرد بنا دیا؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے ساتھی نے اس سے باتیں کرتے ہوئے کہا : کیا تم اس ذات کے ساتھ کفر کا معاملہ کر رہے رہو جس نے تمہیں مٹی سے، اور پھر نطفے سے پیدا کیا، پھر تمہیں ایک بھلا چنگا انسان بنادیا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

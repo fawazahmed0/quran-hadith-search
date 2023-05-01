@@ -3224,6 +3224,12 @@ un ke liye un ke rab ke paas (har) wo cheez hai, jo ye chaahe, nek logo ka yahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُن کے لئے وہ (سب نعمتیں) ان کے رب کے پاس (موجود) ہیں جن کی وہ خواہش کریں گے، یہی محسنوں کی جزا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کو اپنے پروردگار کے پاس ہر وہ چیز ملے گی جو وہ چاہیں گے۔ یہ ہے نیک لوگوں کا بدلہ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

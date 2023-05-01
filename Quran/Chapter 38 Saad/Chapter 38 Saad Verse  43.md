@@ -3224,6 +3224,12 @@ aur hum ne ose us ka pura kumba ata farmaya, balke utna hee aur bhi, osi ke saat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اُن کو اُن کے اہل و عیال اور اُن کے ساتھ اُن کے برابر (مزید اہل و عیال) عطا کر دیئے، ہماری طرف سے خصوصی رحمت کے طور پر، اور دانش مندوں کے لئے نصیحت کے طور پر
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس طرح) ہم نے انہیں ان کے گھر والے بھی عطا کردیے۔ اور ان کے ساتھ اتنے ہی اور بھی۔ تاکہ ان پر ہماری رحمت ہو، اور عقل والوں کے لیے ایک یادگار نصیحت۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

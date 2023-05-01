@@ -3224,6 +3224,12 @@ ye sab hamaari aayato se kufr karne aur us kehne ka badhla hai ke kya jab hum ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ ان لوگوں کی سزا ہے اس وجہ سے کہ انہوں نے ہماری آیتوں سے کفر کیا اور یہ کہتے رہے کہ کیا جب ہم (مَر کر بوسیدہ) ہڈیاں اور ریزہ ریزہ ہو جائیں گے تو کیا ہم اَز سرِ نو پیدا کر کے اٹھائے جائیں گے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ان کی سزا ہے، کیونکہ انہوں نے ہماری آیتوں کا انکار کیا تھا، اور یہ کہا تھا کہ : کیا جب ہم (مر کر) ہڈیاں ہی ہڈٰیاں رہ جائیں گے، اور چورا چورا ہوجائیں گے تو کیا پھر بھی ہمیں نئے سرے سے زندہ کر کے اٹھایا جائے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

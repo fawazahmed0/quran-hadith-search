@@ -3224,6 +3224,12 @@ magar logo ne aapas mein apne deen mein firqa bandiyaan kar li, sab ke sab hamaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان (اہلِ کتاب) نے آپس میں اپنے دین کو ٹکڑے ٹکڑے کر ڈالا، یہ سب ہماری ہی جانب لوٹ کر آنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں نے اپنے دین کو آپس میں ٹکڑے ٹکڑے کر کے بانٹ لیا، (مگر) سب ہمارے پاس لوٹ کر آنے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

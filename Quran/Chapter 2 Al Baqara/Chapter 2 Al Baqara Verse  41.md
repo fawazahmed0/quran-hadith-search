@@ -3224,6 +3224,12 @@ aur is kitaab par imaan lao jo main ne tumhaari kitaabo ki tasdiq mein naazil fa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس (کتاب) پر ایمان لاؤ جو میں نے (اپنے رسول محمد صلی اللہ علیہ وآلہ وسلم پر) اتاری (ہے، حالانکہ) یہ اس کی (اصلاً) تصدیق کرتی ہے جو تمہارے پاس ہے اور تم ہی سب سے پہلے اس کے منکر نہ بنو اور میری آیتوں کو (دنیا کی) تھوڑی سی قیمت پر فروخت نہ کرو اور مجھ ہی سے ڈرتے رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو کلام میں نے نازل کیا ہے اس پر ایمان لاؤ جبکہ وہ اس کتاب (یعنی تورات) کی تصدیق بھی کررہا ہے جو تمہارے پاس ہے اور تم ہی سب سے پہلے اس کے منکر نہ بن جاؤ اور میری آیتوں کو معمولی سی قیمت لے کر نہ بیچو اور (کسی اور کے بجائے) صرف میرا خوف دل میں رکھو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

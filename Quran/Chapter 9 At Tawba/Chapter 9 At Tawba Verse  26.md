@@ -3224,6 +3224,12 @@ phir Allah ne apni taraf ki taskin apne nabi par aur momino par utari aur apne w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اللہ نے اپنے رسول (صلی اللہ علیہ وآلہ وسلم) پر اور ایمان والوں پر اپنی تسکین (رحمت) نازل فرمائی اور اس نے (ملائکہ کے ایسے) لشکر اتارے جنہیں تم نہ دیکھ سکے اور اس نے ان لوگوں کو عذاب دیا جو کفر کر رہے تھے، اور یہی کافروں کی سزا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اللہ نے اپنے رسول پر اور مومنوں پر اپنی طرف سے تسکین نازل کی اور ایسے لشکر اتارے جو تمہیں نظر نہیں آئے، اور جن لوگوں نے کفر اپنا رکھا تھا، اللہ نے ان کو سزا دی، اور ایسے کافروں کا یہی بدلہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

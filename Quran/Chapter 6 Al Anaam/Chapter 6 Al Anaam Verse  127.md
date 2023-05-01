@@ -3224,6 +3224,12 @@ un logo ke waaste un ke rab ke paas salaamti ka ghar hai aur Allah ta’ala un s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہی کے لئے ان کے رب کے حضور سلامتی کا گھر ہے اور وہی ان کا مولٰی ہے ان اعمالِ (صالحہ) کے باعث جو وہ انجام دیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے پروردگار کے پاس سکھ چین کا گھر ایسے ہی لوگوں کے لیے ہے اور جو عمل وہ کرتے رہے ہیں ان کی وجہ سے وہ خود ان کا رکھوالا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

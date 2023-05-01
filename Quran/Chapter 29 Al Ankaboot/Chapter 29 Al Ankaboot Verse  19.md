@@ -3224,6 +3224,12 @@ kya unhone nahi dekha ke maqlooq ki ibteda kis tarah Allah ne ki, phir Allah us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے نہیں دیکھا (یعنی غور نہیں کیا) کہ اللہ کس طرح تخلیق کی ابتداء فرماتا ہے پھر (اسی طرح) اس کا اعادہ فرماتا ہے۔ بیشک یہ (کام) اللہ پر آسان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان لوگوں نے یہ نہیں دیکھا کہ اللہ کس طرح مخلوق کو شروع میں پیدا کرتا ہے ؟ پھر وہی اسے دوبارہ پیدا کرے گا، یہ کام تو اللہ کے لیے بہت آسان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

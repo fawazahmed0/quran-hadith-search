@@ -3224,6 +3224,12 @@ kya aap ne nahi dekha ke Allah ta’ala asmaan se paani barsaata hai, pas zameen
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے نہیں دیکھا کہ اللہ آسمان کی جانب سے پانی اتارتا ہے تو زمین سرسبز و شاداب ہو جاتی ہے۔ بیشک اللہ مہربان (اور) بڑا خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ اللہ نے آسمان سے پانی اتارا، جس سے زمین سرسبز ہوجاتی ہے ؟ حقیقت یہ ہے کہ اللہ بڑا مہربان، ہر بات سے باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

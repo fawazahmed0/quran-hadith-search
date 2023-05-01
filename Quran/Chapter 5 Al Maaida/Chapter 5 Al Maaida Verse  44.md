@@ -3224,6 +3224,12 @@ hum ne taurath nazil faramai hai,jis mein hidayath wa noor hai,yahodiyo mein isi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے تورات نازل فرمائی جس میں ہدایت اور نور تھا، اس کے مطابق انبیاء جو (اللہ کے) فرمانبردار (بندے) تھے یہودیوں کو حکم دیتے رہے اور اللہ والے (یعنی ان کے اولیاء) اور علماء (بھی اسی کے مطابق فیصلے کرتے رہے)، اس وجہ سے کہ وہ اللہ کی کتاب کے محافظ بنائے گئے تھے اور وہ اس پر نگہبان (و گواہ) تھے۔ پس تم لوگوں سے مت ڈرو اور (صرف) مجھ سے ڈرا کرو اور میری آیات (یعنی احکام) کے بدلے (دنیا کی) حقیر قیمت نہ لیا کرو، اور جو شخص اللہ کے نازل کردہ حکم کے مطابق فیصلہ (و حکومت) نہ کرے سو وہی لوگ کافر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک ہم نے تورات نازل کی تھی جس میں ہدایت تھی اور نور تھا۔ تمام نبی جو اللہ تعالیٰ کے فرمانبردار تھے، اسی کے مطابق یہودیوں کے معاملات کا فیصلہ کرتے تھے، اور تمام اللہ والے اور علماء بھی (اسی پر عمل کرتے رہے) کیونکہ ان کو اللہ کی کتاب کا محافظ بنایا گیا تھا، اور وہ اس کے گواہ تھے۔ لہذا (اے یہودیو) تم لوگوں سے نہ ڈرو، اور مجھ سے ڈرو، اور تھوڑی سی قیمت لینے کی خاطر میری آیتوں کا سودا نہ کیا کرو۔ اور جو لوگ اللہ کے نازل کیے ہوئے حکم کے مطابق فیصلہ نہ کریں، وہ لوگ کافر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

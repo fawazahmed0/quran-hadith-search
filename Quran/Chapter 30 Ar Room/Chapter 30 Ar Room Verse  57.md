@@ -3224,6 +3224,12 @@ pas us din zaalimo ko un ka uzr bahaana kuch kaam na ayega aur na un se tauba au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اس دن ظالموں کو ان کی معذرت کوئی فائدہ نہ دے گی اور نہ ہی ان سے (اللہ کو) راضی کرنے کا مطالبہ کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جن لوگوں نے ظلم کی راہ اپنائی تھی، اس دن ان کی معذرت انہیں کوئی فائدہ نہیں پہنچائے گی، اور نہ ان سے یہ کہا جائے گا کہ اللہ کی ناراضی دور کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

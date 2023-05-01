@@ -3224,6 +3224,12 @@ aur kuch aur log hai jin ka mamla Allah ka hukm ane tak multawi hai un ko saza d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کچھ دوسرے (بھی) ہیں جو اللہ کے (آئندہ) حکم کے لئے مؤخر رکھے گئے ہیں وہ یا تو انہیں عذاب دے گا یا ان کی توبہ قبول فرمالے گا، اور اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کچھ اور لوگ ہیں جن کا فیصلہ اللہ کا حکم آنے تک ملتوی کردیا گیا ہے، یا اللہ ان کو سزا دے گا، یا معاف کردے گا، اور اللہ کامل علم والا بھی ہے، کامل حکمت والا بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

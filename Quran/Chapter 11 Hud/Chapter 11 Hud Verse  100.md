@@ -3224,6 +3224,12 @@ bastiyo ki ye baaz qabre jinhe hum tere samne bayan farma rahe hai un mein se ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے رسولِ معظم!) یہ (ان) بستیوں کے کچھ حالات ہیں جو ہم آپ کو سنا رہے ہیں ان میں سے کچھ برقرار ہیں اور (کچھ) نیست و نابود ہوگئیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ان بستیوں کے کچھ حالات ہیں جو ہم تمہیں سنا رہے ہیں۔ ان میں سے کچھ (بستیاں) وہ ہیں جو ابھی اپنی جگہ کھڑی ہیں، اور کچھ کٹی ہوئی فصل (کی طرح بےنشان) بن چکی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

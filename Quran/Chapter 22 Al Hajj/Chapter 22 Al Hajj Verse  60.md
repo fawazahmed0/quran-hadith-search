@@ -3224,6 +3224,12 @@ baath yahi hai, aur jis ne badhla liya osi ke baraabar jo us ke saath kiya gaya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(حکم) یہی ہے، اور جس شخص نے اتنا ہی بدلہ لیا جتنی اسے اذیت دی گئی تھی پھر اس شخص پر زیادتی کی جائے تو اللہ ضرور اس کی مدد فرمائے گا۔ بیشک اللہ درگزر فرمانے والا بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ بات طے ہے اور (آگے یہ بھی سن لو کہ) جس شخص نے کسی کو بدلے میں اتنی ہی تکلیف پہنچائی جتنی اس کو پہنچائی گئی تھی، اس کے بعد پھر اس سے زیادتی کی گئی، تو اللہ اس کی ضرور مدد کرے گا۔ یقین رکھو کہ اللہ بہت معاف کرنے والا، بہت بخشنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

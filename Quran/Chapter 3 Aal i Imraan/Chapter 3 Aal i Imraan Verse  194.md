@@ -3224,6 +3224,12 @@ aye hamaare paalne waale maboodh! hamein wo de jis ka waada tu ne hum se apne ra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! اور ہمیں وہ سب کچھ عطا فرما جس کا تو نے ہم سے اپنے رسولوں کے ذریعے وعدہ فرمایا ہے اور ہمیں قیامت کے دن رسوا نہ کر، بیشک تو وعدہ کے خلاف نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے ہمارے پروردگار ! ہمیں وہ کچھ بھی عطا فرمایئے جس کا وعدہ آپ نے اپنے پیغمبروں کے ذریعے ہم سے کیا ہے، اور ہمیں قیامت کے دن رسوا نہ کیجئے۔ یقینا آپ وعدے کی کبھی خلاف ورزی نہیں کیا کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

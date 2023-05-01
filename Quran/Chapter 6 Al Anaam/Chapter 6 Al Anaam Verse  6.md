@@ -3224,6 +3224,12 @@ kya unhone dekha nahi ke hum un se pehle kitni jamaato ko halaak kar chuke hai j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی ہی قوموں کو ہلاک کردیا جنہیں ہم نے زمین میں (ایسا مستحکم) اقتدار دیا تھا کہ ایسا اقتدار (اور جماؤ) تمہیں بھی نہیں دیا اور ہم نے ان پر لگا تار برسنے والی بارش بھیجی اور ہم نے ان (کے مکانات و محلّات) کے نیچے سے نہریں بہائیں پھر (اتنی پُرعشرت زندگی دینے کے باوجود) ہم نے ان کے گناہوں کے باعث انہیں ہلاک کردیا اور ان کے بعد ہم نے دوسری اُمتوں کو پیدا کیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا انہوں نے نہیں دیکھا کہ ہم ان سے پہلے کتنی قوموں کو ہلاک کرچکے ہیں۔ ان کو ہم نے زمین میں وہ اقتدار دیا تھا جو تمہیں نہیں دیا۔ ہم نے ان پر آسمان سے خوب بارشیں بھیجیں، اور ہم نے دریاؤں کو مقرر کردیا کہ وہ ان کے نیچے بہتے رہیں۔ لیکن پھر ان کے گناہوں کی وجہ سے ہم نے ان کو ہلاک کر ڈالا۔ اور ان کے بعد دوسری نسلیں پیدا کیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

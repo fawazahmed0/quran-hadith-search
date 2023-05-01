@@ -3224,6 +3224,12 @@ raath ke kuch hisse mein tahaajjud ki namaaz mein Qur’an ki tilaawath kare, ye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور رات کے کچھ حصہ میں (بھی قرآن کے ساتھ شب خیزی کرتے ہوئے) نماز تہجد پڑھا کریں یہ خاص آپ کے لئے زیادہ (کی گئی) ہے، یقیناً آپ کا رب آپ کو مقامِ محمود پر فائز فرمائے گا (یعنی وہ مقامِ شفاعتِ عظمٰی جہاں جملہ اوّلین و آخرین آپ کی طرف رجوع اور آپ کی حمد کریں گے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور رات کے کچھ حصے میں تہجد پڑھا کرو جو تمہارے لیے ایک اضافی عبادت ہے۔ امید ہے کہ تمہارا پروردگار تمہیں مقام محمود تک پہنچائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

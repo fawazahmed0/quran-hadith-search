@@ -3224,6 +3224,12 @@ be-shak musalmaano par Allah ta’ala ka bada ehsaan hai ke unhee mein se ek ras
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ نے مسلمانوں پر بڑا احسان فرمایا کہ ان میں انہی میں سے (عظمت والا) رسول (صلی اللہ علیہ وآلہ وسلم) بھیجا جو ان پر اس کی آیتیں پڑھتا اور انہیں پاک کرتا ہے اور انہیں کتاب و حکمت کی تعلیم دیتا ہے، اگرچہ وہ لوگ اس سے پہلے کھلی گمراہی میں تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ اللہ نے مومنوں پر بڑا احسان کیا کہ ان کے درمیان انہی میں سے ایک رسول بھیجا جو ان کے سامنے اللہ کی آیتوں کی تلاوت کرے، انہیں پاک صاف بنائے اور انہیں کتاب اور حکمت کی تعلیم دے، جبکہ یہ لوگ اس سے پہلے یقینا کھلی گمراہی میں مبتلا تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

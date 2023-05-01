@@ -3224,6 +3224,12 @@ aur agar hum baadhe-tundh1 hawa chala de, aur ye log unhee kheto ko (murjhaayi h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم (خشک) ہوا بھیج دیں اور وہ (اپنی) کھیتی کو زرد ہوتا ہوا دیکھ لیں تو اس کے بعد وہ (پہلی تمام نعمتوں سے) کفر کرنے لگیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم (نقصان دہ) ہوا چلا دیں جس کے نتیجے میں وہ اپنے کھیت کو پیلا پڑا ہوا دیکھیں تو اس کے بعد یہ ناشکری کرنے لگیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

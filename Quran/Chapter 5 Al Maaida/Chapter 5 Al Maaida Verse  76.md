@@ -3224,6 +3224,12 @@ aap keh di jiye ke kya tum Allah ke siva un ki ibaadath karte ho, jo na tumhaare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کیا تم اللہ کے سوا اس کی عبادت کرتے ہو جو نہ تمہارے لئے کسی نقصان کا مالک ہے نہ نفع کا، اور اللہ ہی تو خوب سننے والا اور خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہو کہ : کیا تم اللہ کے سوا ایسی مخلوق کی عبادت کرتے ہو جو تمہیں نہ کوئی نقصان پہنچانے کی طاقت رکھتی ہے اور نہ فائدہ پہنچانے کی جبکہ اللہ ہر بات کو سننے والا، ہر چیز کو جاننے والا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

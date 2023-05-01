@@ -3224,6 +3224,12 @@ jis Allah ka hai jo kuch aasmaano aur zameen mein hai aur kaafiro ke liye to saq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اللہ کہ جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے (سب) اسی کا ہے، اور کفّار کے لئے سخت عذاب کے باعث بربادی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ کہ آسمانوں اور زمین میں جو کچھ ہے، اسی کی ملکیت ہے۔ اور افسوس ہے ان لوگوں پر جو حق کا انکار کرتے ہیں، کیونکہ انہیں سخت عذاب ہونے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

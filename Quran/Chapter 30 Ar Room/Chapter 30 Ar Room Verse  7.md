@@ -3224,6 +3224,12 @@ wo to (sirf) dunyawi zindagi ke zaaher ko (hee) jaante hai aur aaqirath se to bi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (تو) دنیا کی ظاہری زندگی کو (ہی) جانتے ہیں اور وہ لوگ آخرت (کی حقیقی زندگی) سے غافل و بے خبر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ دنیوی زندگی کے صرف ظاہری رخ کو جانتے ہیں، اور آخرت کے بارے میں ان کا حال یہ ہے کہ وہ اس سے بالکل غافل ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ab tu apne bhai sameth meri nishaaniya hamrah liye hoye ja, aur qabardaar mere z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم اور تمہارا بھائی (ہارون) میری نشانیاں لے کر جاؤ اور میری یاد میں سستی نہ کرنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم اور تمہارا بھائی دونوں میری نشانیاں لے کر جاؤ، اور میرا ذکر کرنے میں سستی نہ کرنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

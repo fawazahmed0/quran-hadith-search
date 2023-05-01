@@ -3224,6 +3224,12 @@ jab (hazrath) Moosa (alaihissalaam) ne apni khaum se kaha ke aye meri khaum! bac
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب موسیٰ (علیہ السلام) نے اپنی قوم سے کہا: اے میری قوم! بے شک تم نے بچھڑے کو (اپنا معبود) بنا کر اپنی جانوں پر (بڑا) ظلم کیا ہے تو اب اپنے پیدا فرمانے والے (حقیقی رب) کے حضور توبہ کرو پس (آپس میں) ایک دوسرے کو قتل کر ڈالو، یہی (عمل) تمہارے لیے تمہارے خالق کے نزدیک بہترین (توبہ) ہے، پھر اس نے تمہاری توبہ قبول فرما لی، یقینا وہ بڑا ہی توبہ قبول کرنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب موسیٰ نے اپنی قوم سے کہا تھا کہ ” اے میری قوم ! حقیقت میں تم نے بچھڑے کو معبود بنا کر خود اپنی جانوں پر ظلم کیا ہے لہٰذا اب اپنے خالق سے توبہ کرو اور اپنے آپ کو قتل کرو تمہارے خالق کے نزدیک یہی تمہارے حق میں بہتر ہے اس طرح اللہ نے تمہاری توبہ قبول کرلی۔ بیشک وہی ہے جو اتنا معاف کرنے والا، اتنا رحم کرنے والا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

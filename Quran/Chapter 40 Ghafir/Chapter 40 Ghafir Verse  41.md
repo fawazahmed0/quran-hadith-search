@@ -3224,6 +3224,12 @@ aye meri khaum! ye kya baath hai ke main tumhe najaath ki taraf bula raha hoon a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اے میری قوم! مجھے کیا ہوا ہے کہ میں تمہیں نجات کی طرف بلاتا ہوں اور تم مجھے دوزخ کی طرف بلاتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے میری قوم ! یہ کیا بات ہے کہ میں تمہیں نجات کی طرف دعوت دے رہا ہوں۔ اور تم مجھے آگ کی طرف بلا رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

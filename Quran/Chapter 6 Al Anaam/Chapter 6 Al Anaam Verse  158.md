@@ -3224,6 +3224,12 @@ kya ye log sirf us amr ke muntazir hai ke un ke paas farishte aaye ya un ke paas
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ فقط اسی انتظار میں ہیں کہ ان کے پاس (عذاب کے) فرشتے آپہنچیں یا آپ کا رب (خود) آجائے یا آپ کے رب کی کچھ (مخصوص) نشانیاں (عیاناً) آجائیں۔ (انہیں بتا دیجئے کہ) جس دن آپ کے رب کی بعض نشانیاں (یوں ظاہراً) آپہنچیں گی (تو اس وقت) کسی (ایسے) شخص کا ایمان اسے فائدہ نہیں پہنچائے گا جو پہلے سے ایمان نہیں لایا تھا یا اس نے اپنے ایمان (کی حالت) میں کوئی نیکی نہیں کمائی تھی، فرما دیجئے: تم انتظار کرو ہم (بھی) منتظر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ (ایمان لانے کے لیے) اس کے سوا کس بات کا انتظار کر رہے ہیں کہ ان کے پاس فرشتے آئیں، یا تمہارا پروردگار خود آئے، یا تمہارے پروردگار کی کچھ نشانیاں آجائیں ؟ (حالانکہ) جس دن تمہارے پروردگار کی کوئی نشانی آگئی، اس دن کسی ایسے شخص کا ایمان اس کے لیے کار آمد نہیں ہوگا جو پہلے ایمان نہ لایا ہو، یا جس نے اپنے ایمان کے ساتھ کسی نیک عمل کی کمائی نہ کی ہو۔ (لہذا ان لوگوں سے) کہہ دو کہ : اچھا، انتظار کرو، ہم بھی انتظار کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

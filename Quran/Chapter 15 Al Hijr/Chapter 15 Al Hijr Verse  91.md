@@ -3224,6 +3224,12 @@ jinhone is kitaab ilaahi ke tukde tukde kar diye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جنہوں نے قرآن کو ٹکڑے ٹکڑے (کر کے تقسیم) کر ڈالا (یعنی موافق آیتوں کو مان لیا اور غیر موافق کو نہ مانا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جنہوں نے (اپنی) پڑھی جانے والی کتاب کے حصے بخرے کرلیے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

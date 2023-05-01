@@ -3224,6 +3224,12 @@ aur hum ne wahaa musalmaano ka sirf ek hee ghar paaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو ہم نے اُس بستی میں مسلمانوں کے ایک گھر کے سوا (اور کوئی گھر) نہیں پایا (اس میں حضرت لوط علیہ السلام اور ان کی دو صاحبزادیاں تھیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس میں ایک گھر کے سوا ہم نے کسی اور گھر کو مومن نہیں پایا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

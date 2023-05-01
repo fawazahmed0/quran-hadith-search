@@ -3224,6 +3224,12 @@ aye mere qaid khaane ke rafiqo! tum duno mein se ek to apne badshah ko sharaab p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے قید خانہ کے دونوں ساتھیو! تم میں سے ایک (کے خواب کی تعبیر یہ ہے کہ وہ) اپنے مربّی (یعنی بادشاہ) کو شراب پلایا کرے گا، اور رہا دوسرا (جس نے سر پر روٹیاں دیکھی ہیں) تو وہ پھانسی دیا جائے گا پھر پرندے اس کے سر سے (گوشت نوچ کر) کھائیں گے، (قطعی) فیصلہ کر دیا گیا جس کے بارے میں تم دریافت کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے میرے قید خانے کے ساتھیو ! (اب اپنے خوابوں کی تعبیر سنو) تم میں سے ایک کا معاملہ تو یہ ہے کہ وہ (قید سے آزاد ہوکر) اپنے آقا کو شراب پلائے گا۔ رہا دوسرا تو اسے سولی دی جائے گی، جس کے نتیجے میں پرندے اس کے سر کو (نوچ کر) کھائیں گے۔ جس معاملے میں تم پوچھ رہے تھے، اس کا فیصلہ (اسی طرح) ہوچکا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

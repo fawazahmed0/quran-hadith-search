@@ -3224,6 +3224,12 @@ aur wo bahuth barkato waala hai jis ke paas aasmaan wa zameen aur un ke darmiyaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ ذات بڑی بابرکت ہے جس کے لئے آسمانوں اور زمین کی بادشاہت ہے اور (اُن کی بھی) جو کچھ اِن کے درمیان ہے، اور (وقتِ) قیامت کا علم (بھی) اس کے پاس ہے، اور تم اسی کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بڑی شان ہے اس کی جس کے قبضے میں آسمانوں اور زمین اور ان کے درمیان تمام چیزوں کی سلطنت ہے اور اسی کے پاس قیامت کا علم ہے، اور اسی کے پاس تم سب کو واپس لے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

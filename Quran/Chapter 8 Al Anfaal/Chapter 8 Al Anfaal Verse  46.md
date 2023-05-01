@@ -3224,6 +3224,12 @@ aur Allah ki aur us ke rasol ki farma bardari karte raho,aapas mein eqtilaf na k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرو اور آپس میں جھگڑا مت کرو ورنہ (متفرق اور کمزور ہو کر) بزدل ہو جاؤ گے اور (دشمنوں کے سامنے) تمہاری ہوا (یعنی قوت) اکھڑ جائے گی اور صبر کرو، بیشک اللہ صبر کرنے والوں کے ساتھ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ اور اس کے رسول کی اطاعت کرو، اور آپس میں جھگڑا نہ کرو، ورنہ تم کمزور پڑجاؤ گے، اور تمہاری ہوا اکھڑ جائے گی، اور صبر سے کام لو۔ یقین رکھو کہ اللہ صبر کرنے والوں کے ساتھ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

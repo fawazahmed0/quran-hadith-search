@@ -3224,6 +3224,12 @@ phir un ke badh hum dunya mein bajae un ke,tum ko janashin kiya,ta ke hum dekh l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے ان کے بعد تمہیں زمین میں (ان کا) جانشین بنایا تاکہ ہم دیکھیں کہ (اب) تم کیسے عمل کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے ان کے بعد زمین میں تم کو جانشین بنایا ہے تاکہ یہ دیکھیں کہ تم کیسے عمل کرتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

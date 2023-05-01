@@ -3224,6 +3224,12 @@ badshah ne kaha ise mere paas laao ke main ose apne qaas kaamo ke liye muqarrar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بادشاہ نے کہا: انہیں میرے پاس لے آؤ کہ میں انہیں اپنے لئے (مشیرِ) خاص کر لوں، سو جب بادشاہ نے آپ سے (بالمشافہ) گفتگو کی (تو نہایت متاثر ہوا اور) کہنے لگا: (اے یوسف!) بیشک آپ آج سے ہمارے ہاں مقتدر (اور) معتمد ہیں (یعنی آپ کو اقتدار میں شریک کر لیا گیا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بادشاہ نے کہا کہ : اس کو میرے پاس لے آؤ، میں اسے خالص اپنا (معاون) بناؤں گا۔ چنانچہ جب (یوسف بادشاہ کے پاس آگئے اور) بادشاہ نے ان سے باتیں کیں تو اس نے کہا : آج سے ہمارے پاس تمہارا بڑا مرتبہ ہوگا، اور تم پر پورا بھروسہ کیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

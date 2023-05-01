@@ -3224,6 +3224,12 @@ imaan laane waalo ka karsaaz71 Allah ta’ala khud hai, wo unhe andhero se roush
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ایمان والوں کا کارساز ہے وہ انہیں تاریکیوں سے نکال کر نور کی طرف لے جاتا ہے، اور جو لوگ کافر ہیں ان کے حمایتی شیطان ہیں وہ انہیں (حق کی) روشنی سے نکال کر (باطل کی) تاریکیوں کی طرف لے جاتے ہیں، یہی لوگ جہنمی ہیں، وہ اس میں ہمیشہ رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ایمان والوں کا رکھوالا ہے، وہ انہیں اندھیریوں سے نکال کر روشنی میں لاتا ہے، اور جن لوگوں نے کفر اپنا لیا ہے، ان کے رکھوالے وہ شیطان ہیں جو انہیں روشنی سے نکال کر اندھیریوں میں لے جاتے ہیں، وہ سب آگ کے باسی ہیں، وہ ہمیشہ اسی میں رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

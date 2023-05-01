@@ -3224,6 +3224,12 @@ tumhaari aurto mein se jo behayaayi ka kaam kare un par apne mein se chaar gawaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہاری عورتوں میں سے جو بدکاری کا ارتکاب کر بیٹھیں تو ان پر اپنے لوگوں میں سے چار مردوں کی گواہی طلب کرو، پھر اگر وہ گواہی دے دیں تو ان عورتوں کو گھروں میں بند کر دو یہاں تک کہ موت ان کے عرصۂ حیات کو پورا کر دے یا اللہ ان کے لئے کوئی راہ (یعنی نیا حکم) مقرر فرما دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہاری عورتوں میں سے جو بدکاری کا ارتکاب کریں، ان پر اپنے میں سے چار گواہ بنا لو۔ چنانچہ اگر وہ (ان کی بدکاری کی) گواہی دیں تو ان عورتوں کو گھروں میں روک کر رکھو یہاں تک کہ انہیں موت اٹھا کرلے جائے، یا اللہ ان کے لیے کوئی اور راستہ پیدا کردے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

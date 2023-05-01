@@ -3224,6 +3224,12 @@ aur hum ne Mosa(alaihissalaam) ko apni nishaniya de kar feraun aur us ke ham raa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یقیناً ہم نے موسٰی(علیہ السلام) کو اپنی نشانیاں دے کر فرعون اور اس کے سرداروں کی طرف بھیجا تو انہوں نے کہا: بیشک میں سب جہانوں کے پروردگار کا رسول ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ کو اپنی نشانیاں دے کر فرعون اور اس کے سرداروں کے پاس بھیجا تھا، چنانچہ موسیٰ نے کہا کہ : میں رب العالمین کا بھیجا ہوا پیغمبر ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

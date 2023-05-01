@@ -3224,6 +3224,12 @@ aur ye log jinhone hamaari aayato ko aur qayaamath ke pesh aane ko jhut laya un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ہماری نشانیوں کو اور آخرت کا سامنا کرنے کو جھٹلایا ہے، ان کے اعمال غارت ہوگئے ہیں۔ انہیں جو بدلہ دیا جائے گا، وہ کسی اور چیز کا نہیں خود ان اعمال کا ہوگا جو وہ کرتے آئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

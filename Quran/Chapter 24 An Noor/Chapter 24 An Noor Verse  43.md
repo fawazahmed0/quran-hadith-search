@@ -3224,6 +3224,12 @@ kya aap ne nahi dekha ke Allah ta’ala baadalo ko chalaata hai, phir unhe milaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم نے نہیں دیکھا کہ اللہ ہی بادل کو (پہلے) آہستہ آہستہ چلاتا ہے پھر اس (کے مختلف ٹکڑوں) کو آپس میں ملا دیتا ہے پھر اسے تہ بہ تہ بنا دیتا ہے پھر تم دیکھتے ہو کہ اس کے درمیان خالی جگہوں سے بارش نکل کر برستی ہے، اور وہ اسی آسمان (یعنی فضا) میں برفانی پہاڑوں کی طرح (دکھائی دینے والے) بادلوں میں سے اولے برساتا ہے، پھر جس پر چاہتا ہے ان اولوں کو گراتا ہے اور جس سے چاہتا ہے ان کو پھیر دیتا ہے (مزید یہ کہ انہی بادلوں سے بجلی بھی پیدا کرتا ہے)، یوں لگتا ہے کہ اس (بادل) کی بجلی کی چمک آنکھوں (کو خیرہ کر کے ان) کی بینائی اچک لے جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے دیکھا نہیں کہ اللہ بادلوں کو ہنکاتا ہے، پھر ان کو ایک دوسرے سے جوڑ دیتا ہے، پھر انہیں تہہ بر تہہ گھٹا میں تبدیل کردیتا ہے، پھر تم دیکھتے ہو کہ بارش اس کے درمیان سے برس رہی ہے۔ اور آسمان میں (بادلوں کی شکل میں) جو پہاڑ کے پہاڑ ہوتے ہیں، اللہ ان سے اولے برساتا ہے، پھر جس کے لیے چاہتا ہے ان کو مصیبت بنا دیتا ہے، اور جس سے چاہتا ہے ان کا رخ پھیر دیتا ہے۔ ایسا لگتا ہے کہ اس کی بجلی کی چمک آنکھوں کی بینائی اچک لے جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

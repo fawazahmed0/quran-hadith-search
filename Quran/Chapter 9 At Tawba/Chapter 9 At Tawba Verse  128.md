@@ -3224,6 +3224,12 @@ tumhare paas ek aise paighambar tashrif lae hai jo tumhari jins se hai jin ko tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک تمہارے پاس تم میں سے (ایک باعظمت) رسول (صلی اللہ علیہ وآلہ وسلم) تشریف لائے۔ تمہارا تکلیف و مشقت میں پڑنا ان پر سخت گراں (گزرتا) ہے۔ (اے لوگو!) وہ تمہارے لئے (بھلائی اور ہدایت کے) بڑے طالب و آرزو مند رہتے ہیں (اور) مومنوں کے لئے نہایت (ہی) شفیق بے حد رحم فرمانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لوگو) تمہارے پاس ایک ایسا رسول آیا ہے جو تمہی میں سے ہے، جس کو تمہاری ہر تکلیف بہت گراں معلوم ہوتی ہے، جسے تمہاری بھلائی کی دھن لگی ہوئی ہے، جو مومنوں کے لیے انتہائی شفیق، نہایت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

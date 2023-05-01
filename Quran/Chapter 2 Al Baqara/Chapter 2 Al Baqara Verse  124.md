@@ -3224,6 +3224,12 @@ jab Ibraheem (alaihissalam) ko un ke rab ne kayi kayi baatho se azmaaya aur unho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کرو) جب ابراہیم (علیہ السلام) کو ان کے رب نے کئی باتوں میں آزمایا تو انہوں نے وہ پوری کر دیں، (اس پر) اللہ نے فرمایا: میں تمہیں لوگوں کا پیشوا بناؤں گا، انہوں نے عرض کیا: (کیا) میری اولاد میں سے بھی؟ ارشاد ہوا: (ہاں! مگر) میرا وعدہ ظالموں کو نہیں پہنچتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وہ وقت یاد کرو) جب ابراہیم کو ان کے پروردگار نے کئی باتوں سے آزمایا، اور انہوں نے وہ ساری باتیں کیں، اللہ نے (ان سے) کہا : میں تمہیں تمام انسانوں کا پیشوا بنانے والا ہوں۔ ابراہیم نے پوچھا : اور میری اولاد میں سے ؟ اللہ نے فرمایا میرا (یہ) عہد ظالموں کو شامل نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo log ba wajoodh apne paas kisi sanadh ke na hone ke, ayaath ilaahi mein jhagda
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک جو لوگ اللہ کی آیتوں میں جھگڑا کرتے ہیں بغیر کسی دلیل کے جو اُن کے پاس آئی ہو، ان کے سینوں میں سوائے غرور کے اور کچھ نہیں ہے وہ اُس (حقیقی برتری) تک پہنچنے والے ہی نہیں۔ پس آپ (ان کے شر سے) اللہ کی پناہ مانگتے رہئے، بے شک وہی خوب سننے والا خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ جو لوگ اللہ کی آیتوں کے بارے میں جھگڑے نکالتے ہیں، جبکہ ان کے پاس (اپنے دعوے کی) کوئی سند نہیں آئی، ان کے سینوں میں اور کچھ نہیں، بلکہ اس بڑائی کا ایک گھمنڈ ہے جس تک وہ کبھی پہنچنے والے نہیں ہیں۔ لہذا تم اللہ کی پناہ مانگو۔ یقینا وہی ہے جو ہر بات سننے والا، سب کچھ دیکھنے والا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

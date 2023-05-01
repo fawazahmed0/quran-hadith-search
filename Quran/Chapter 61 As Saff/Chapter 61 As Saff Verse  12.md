@@ -3224,6 +3224,12 @@ Allah ta’ala tumhaare gunaah maaf farma dega aur tumhe un jannato mein pahonch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ تمہارے گناہوں کو بخش دے گا اور تمہیں جنتوں میں داخل فرمائے گا جن کے نیچے سے نہریں جاری ہوں گی اور نہایت عمدہ رہائش گاہوں میں (ٹھہرائے گا) جو جناتِ عدن (یعنی ہمیشہ رہنے کی جنتوں) میں ہیں، یہی زبردست کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے نتیجے میں اللہ تمہاری خاطر تمہارے گناہوں کو بخش دے گا اور تمہیں ان باغوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی، اور ایسے عمدہ گھروں میں بسائے گا جو ہمیشہ ہمیشہ رہنے والی جنتوں میں واقع ہوں گے۔ یہی زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

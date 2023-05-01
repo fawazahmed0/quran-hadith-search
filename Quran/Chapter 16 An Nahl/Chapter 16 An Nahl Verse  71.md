@@ -3224,6 +3224,12 @@ Allah ta’ala hee ne tum mein se ek ko dosre par rozi mein zyadati de rakhi hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے تم میں سے بعض کو بعض پر رزق (کے درجات) میں فضیلت دی ہے (تاکہ وہ تمہیں حکمِ انفاق کے ذریعے آزمائے)، مگر جن لوگوں کو فضیلت دی گئی ہے وہ اپنی دولت (کے کچھ حصہ کو بھی) اپنے زیردست لوگوں پر نہیں لوٹاتے (یعنی خرچ نہیں کرتے) حالانکہ وہ سب اس میں (بنیادی ضروریات کی حد تک) برابر ہیں، تو کیا وہ اللہ کی نعمتوں کا انکار کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے تم میں سے کچھ لوگوں کو رزق کے معاملے میں دوسروں پر برتری دے رکھی ہے۔ اب جن لوگوں کو برتری دی گئی ہے وہ اپنا رزق اپنے غلاموں کو اس طرح نہیں لوٹا دیتے کہ وہ سب برابر ہوجائیں۔ تو کیا یہ لوگ اللہ کی نعمت کا انکار کرتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

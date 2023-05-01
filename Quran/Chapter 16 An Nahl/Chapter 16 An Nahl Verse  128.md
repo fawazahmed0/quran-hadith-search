@@ -3224,6 +3224,12 @@ yaqeen maano ke Allah ta’la parhezgaaro aur neko kaaro ke saath hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ اُن لوگوں کو اپنی معیتِ (خاص) سے نوازتا ہے جو صاحبانِ تقوٰی ہوں اور وہ لوگ جو صاحبانِ اِحسان (بھی) ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ اللہ ان لوگوں کا ساتھی ہے جو تقوی اختیار کرتے ہیں اور جو احسان پر عمل پیرا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

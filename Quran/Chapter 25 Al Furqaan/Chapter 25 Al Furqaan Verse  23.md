@@ -3224,6 +3224,12 @@ aur unhone jo jo amaal kiye thein, hum ne un ki taraf bad kar unhe para gandha z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (پھر) ہم ان اعمال کی طرف متوجہ ہوں گے جو (بزعمِ خویش) انہوں نے (زندگی میں) کئے تھے تو ہم انہیں بکھرا ہوا غبار بنا دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے (دنیا میں) جو عمل کیے ہیں، ہم ان کا فیصلہ کرنے پر آئیں گے تو انہیں فضا میں بکھرے ہوئے گرد و غبار (کی طرح بےقیمت) بنادیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

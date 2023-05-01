@@ -3224,6 +3224,12 @@ bahuth si zulm karne waali bastiyo ko main ne dheel di phir aaqir unhe pakad liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کتنی ہی بستیاں (ایسی) ہیں جن کو میں نے مہلت دی حالانکہ وہ ظالم تھیں پھر میں نے انہیں (عذاب کی) گرفت میں لے لیا، اور (ہر کسی کو) میری ہی طرف لوٹ کر آنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کتنی ہی بستیاں ایسی تھیں جنہیں میں نے مہلت دی تھی، اور وہ ظلم کرتی رہیں، پھر میں نے انہیں پکڑ میں لے لیا، اور سب کو آخر کار میرے پاس ہی لوٹنا ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

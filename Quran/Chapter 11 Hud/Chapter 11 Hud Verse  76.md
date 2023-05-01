@@ -3224,6 +3224,12 @@ aye ibraheem! is qayaal ko chohd di jiye, aap ke rub ka hukm aa pahoncha hai aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(فرشتوں نے کہا:) اے ابراہیم! اس (بات) سے درگزر کیجئے، بیشک اب تو آپ کے رب کا حکمِ (عذاب) آچکا ہے، اور انہیں عذاب پہنچنے ہی والا ہے جو پلٹایا نہیں جا سکتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ہم نے ان سے کہا) ابراہیم ! اس بات کو جانے دو ۔ یقین کرلو کہ تمہارے رب کا حکم آچکا ہے، اور ان لوگوں پر ایسا عذاب آکر رہے گا جس کو کوئی پیچھے نہیں لوٹا سکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

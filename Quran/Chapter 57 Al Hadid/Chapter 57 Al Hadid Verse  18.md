@@ -3224,6 +3224,12 @@ beshak sadqa dene waale mardh aur sadqa dene waali aurte aur jo Allah ko quloos 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک صدقہ و خیرات دینے والے مرد اور صدقہ و خیرات دینے والی عورتیں اور جنہوں نے اللہ کو قرضِ حسنہ کے طور پر قرض دیا ان کے لئے (صدقہ و قرضہ کا اجر) کئی گنا بڑھا دیا جائے گا اور اُن کے لئے بڑی عزت والا ثواب ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا وہ جو صدقہ دینے والے مرد اور صدقہ دینے والی عورتیں ہیں، اور انہوں نے اللہ کو قرض دیا ہے اچھا قرض، ان کے لیے اس (صدقے) کو کئی گنا بڑھا دیا جائے گا، اور ان کے لیے باعزت اجر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

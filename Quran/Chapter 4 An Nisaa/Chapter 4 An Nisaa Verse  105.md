@@ -3224,6 +3224,12 @@ yaqinan hum ne tumhaari taraf haq ke saath apni kitaab naazil farmaayi hai ta ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے رسولِ گرامی!) بیشک ہم نے آپ کی طرف حق پر مبنی کتاب نازل کی ہے تاکہ آپ لوگوں میں اس (حق) کے مطابق فیصلہ فرمائیں جو اللہ نے آپ کو دکھایا ہے، اور آپ (کبھی) بددیانت لوگوں کی طرف داری میں بحث کرنے والے نہ بنیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک ہم نے حق پر مشتمل کتاب تم پر اس لیے اتاری ہے تاکہ تم لوگوں کے درمیان اس طریقے کے مطابق فیصلہ کرو جو اللہ نے تم کو سمجھا دیا ہے، اور تم خیانت کرنے والوں کے طرف دار نہ بنو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

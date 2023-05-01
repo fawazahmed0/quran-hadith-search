@@ -3224,6 +3224,12 @@ aap ne farmaya, kuch qabar bhi hai, jinhe tum pooj rahe ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ابراہیم علیہ السلام نے) فرمایا: کیا تم نے (کبھی ان کی حقیقت میں) غور کیا ہے جن کی تم پرستش کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابراہیم نے کہا : بھلا کبھی تم نے ان چیزوں کو غور سے دیکھا بھی جن کی تم عبادت کرتے رہے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

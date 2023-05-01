@@ -3224,6 +3224,12 @@ aap ne farmaya is ka apni dumbiyo ke saath teri ek dumbi milaane ka sawaal, besh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+داؤد (علیہ السلام) نے کہا: تمہاری دُنبی کو اپنی دُنبیوں سے ملانے کا سوال کر کے اس نے تم سے زیادتی کی ہے اور بیشک اکثر شریک ایک دوسرے پر زیادتی کرتے ہیں سوائے اُن لوگوں کے جو ایمان لائے اور نیک عمل کئے، اور ایسے لوگ بہت کم ہیں۔ اور داؤد (علیہ السلام) نے خیال کیا کہ ہم نے (اس مقدّمہ کے ذریعہ) اُن کی آزمائش کی ہے، سو انہوں نے اپنے رب سے مغفرت طلب کی اور سجدہ میں گر پڑے اور توبہ کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 داؤد نے کہا : اس نے اپنی دنبیوں میں شامل کرنے کے لیے تمہاری دنبی کا جو مطالبہ کیا ہے اس میں یقینا تم پر ظلم کیا ہے۔ اور بہت سے لوگ جن کے درمیان شرکت ہوتی ہے وہ ایک دوسرے کے ساتھ زیادتی کرتے ہیں، سوائے ان کے جو ایمان لائے ہیں، اور جنہوں نے نیک عمل کیے ہیں، اور وہ بہت کم ہیں۔ اور داؤد کو خیال آیا کہ ہم نے دراصل ان کی آزمائش کی ہے، اس لیے انہوں نے اپنے پروردگار سے معافی مانگی، جھک کر سجدے میں گرگئے اور اللہ سے لو لگائی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

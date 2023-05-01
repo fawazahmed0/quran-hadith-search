@@ -3224,6 +3224,12 @@ aur Allah ta’ala ki yaad un ginti ke chand dino (ayyaam tashreeq)mein karo, do
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کو (ان) گنتی کے چند دنوں میں (خوب) یاد کیا کرو، پھر جس کسی نے (منیٰ سے واپسی میں) دو ہی دنوں میں جلدی کی تو اس پر کوئی گناہ نہیں اور جس نے (اس میں) تاخیر کی تو اس پر بھی کوئی گناہ نہیں، یہ اس کے لئے ہے جو پرہیزگاری اختیار کرے، اور اللہ سے ڈرتے رہو اور جان لو کہ تم سب کو اسی کے پاس جمع کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کو گنتی کے (ان چند) دنوں میں (جب تم منی میں مقیم ہو) یاد کرتے رہو۔ پھر جو شخص دو ہی دن میں جلدی چلا جائے اس پر بھی کوئی گناہ نہیں ہے اور جو شخص (ایک دن) بعد میں جائے اس پر بھی کوئی گناہ نہیں یہ (تفصیل) اس کے لیے ہے جو تقوی اختیار کرے اور تم سب تقوی اختیار کرو، اور یقین رکھو کہ تم سب کو اسی کی طرف لے جا کر جمع کیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

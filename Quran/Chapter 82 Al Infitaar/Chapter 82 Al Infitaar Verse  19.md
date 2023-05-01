@@ -3224,6 +3224,12 @@ Wo hay jis din koi shaks kisi shaks kay liye kissi cheez ka mukhtar na hoga aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) وہ دن ہے جب کوئی شخص کسی کے لئے کسی چیز کا مالک نہ ہوگا، اور حکم فرمائی اس دن اللہ ہی کی ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ دن ہوگا جس میں کسی دوسرے کے لیے کچھ کرنا کسی کے بس میں نہیں ہوگا، اور تمام تر حکم اس دن اللہ ہی کا چلے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

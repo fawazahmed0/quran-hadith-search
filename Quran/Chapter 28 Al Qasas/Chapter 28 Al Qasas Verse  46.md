@@ -3224,6 +3224,12 @@ aur na tu toor ki taraf tha, jab ke hum ne awaaz di, balke ye tere parvardigaar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ (ہی) آپ طُور کے کنارے (اس وقت موجود) تھے جب ہم نے (موسٰی علیہ السلام کو) ندا فرمائی مگر (آپ کو ان تمام احوالِ غیب پر مطلع فرمانا) آپ کے رب کی جانب سے (خصوصی) رحمت ہے۔ تاکہ آپ (ان واقعات سے باخبر ہو کر) اس قوم کو (عذابِ الٰہی سے) ڈرائیں جن کے پاس آپ سے پہلے کوئی ڈر سنانے والا نہیں آیا، تاکہ وہ نصیحت قبول کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نہ تم اس وقت طور کے کنارے موجود تھے جب ہم نے (موسیٰ کو) پکارا تھا، بلکہ یہ تمہارے رب کی رحمت ہے (کہ تمہیں وحی کے ذریعے یہ باتیں بتائی جارہی ہیں) تاکہ تم اس قوم کو خبردار کرو جس کے پاس تم سے پہلے کوئی خبردار کرنے والا نہیں آیا، شاید وہ نصیحت قبول کرلیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

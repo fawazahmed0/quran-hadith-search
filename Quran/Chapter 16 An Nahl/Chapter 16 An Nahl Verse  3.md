@@ -3224,6 +3224,12 @@ osi ne aasmaano aur zameen ko haq ke saath paida kiya, wo us se bari hai jo mush
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُسی نے آسمانوں اور زمین کو درست تدبیر کے ساتھ پیدا فرمایا، وہ ان چیزوں سے برتر ہے جنہیں کفار (اس کا) شریک گردانتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے آسمانوں اور زمین کو برحق مقصد سے پیدا کیا ہے۔ جو شرک یہ لوگ کرتے ہیں، وہ اس سے بہت بالا و برتر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

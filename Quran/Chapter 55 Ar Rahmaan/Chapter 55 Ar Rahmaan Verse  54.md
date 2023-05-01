@@ -3224,6 +3224,12 @@ jannati aisi farsho par takya lagaaye hoye honge, jin ke astar dabeez resham ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اہلِ جنت ایسے بستروں پر تکیے لگائے بیٹھے ہوں گے جن کے استر نفِیس اور دبیز ریشم (یعنی اَطلس) کے ہوں گے، اور دونوں جنتوں کے پھل (اُن کے) قریب جھک رہے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ (جنتی لوگ) ایسے فرشوں پر تکیہ لگائے ہوئے ہوں گے جن کے بستر دبیز ریشم کے ہوں گے، اور دونوں باغوں کے پھل جھکے پڑ رہے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

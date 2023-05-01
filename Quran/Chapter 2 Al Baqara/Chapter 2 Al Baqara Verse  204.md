@@ -3224,6 +3224,12 @@ baaz logo ki dunyaawi gharz30 ki baatein aap ko khush kar deti hai aur wo apne d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں میں کوئی شخص ایسا بھی (ہوتا) ہے کہ جس کی گفتگو دنیاوی زندگی میں تجھے اچھی لگتی ہے اور وہ اللہ کو اپنے دل کی بات پر گواہ بھی بناتا ہے، حالانکہ وہ سب سے زیادہ جھگڑالو ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں میں ایک وہ شخص بھی ہے کہ دنیوی زندگی کے بارے میں اس کی باتیں تمہیں بڑی اچھی لگتی ہیں اور جو کچھ اس کے دل میں ہے اس پر وہ اللہ کو گواہ بھی بناتا ہے، حالانکہ وہ (تمہارے) دشمنوں میں سب سے زیادہ کٹر ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

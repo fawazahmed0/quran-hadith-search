@@ -3224,6 +3224,12 @@ un logo ne kaha ke tum to hamaari tarah mamoli aadmi ho aur rahmaan ne koyi chee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(بستی والوں نے) کہا: تم تو محض ہماری طرح بشر ہو اور خدائے رحمان نے کچھ بھی نازل نہیں کیا، تم فقط جھوٹ بول رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : تمہاری حقیقت اس کے سوا کچھ بھی نہیں کہ تم ہم جیسے ہی آدمی ہو۔ اور خدائے رحمن نے کوئی چیز نازل نہیں کی ہے، اور تم سراسر جھوٹ بول رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

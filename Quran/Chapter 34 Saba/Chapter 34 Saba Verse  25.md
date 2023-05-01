@@ -3224,6 +3224,12 @@ keh dijiye ke hamaare kiye hoye gunaaho ki baabath tum se koyi sawaal na kiya ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تم سے اس جرم کی باز پرس نہ ہوگی جو (تمہارے گمان میں) ہم سے سرزد ہوا اور نہ ہم سے اس کا پوچھا جائے گا جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : ہم نے جو جرم کیا ہو، اس کے بارے میں تم سے نہیں پوچھا جائے گا، اور تم جو عمل کرتے ہو، اس کے بارے میں ہم سے سوال نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

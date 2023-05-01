@@ -3224,6 +3224,12 @@ na to ahle kitaab ke kaafir aur na mushrikeen chaahte hai ke tum par tumhaare ru
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نہ وہ لوگ جو اہلِ کتاب میں سے کافر ہو گئے اور نہ ہی مشرکین اسے پسند کرتے ہیں کہ تمہارے رب کی طرف سے تم پر کوئی بھلائی اترے، اور اللہ جسے چاہتا ہے اپنی رحمت کے ساتھ خاص کر لیتا ہے، اور اللہ بڑے فضل والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کافر لوگ خواہ اہل کتاب میں سے ہوں یا مشرکین میں سے، یہ پسند نہیں کرتے کہ تمہارے پروردگار کی طرف سے کوئی بھلائی تم پر نازل ہو، حالانکہ اللہ جس کو چاہتا ہے اپنی رحمت کے لیے مخصوص فرما لیتا ہے۔ اور اللہ فضل عظیم کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

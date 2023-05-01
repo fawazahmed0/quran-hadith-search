@@ -3224,6 +3224,12 @@ aye imaan waalo! Allah ta’ala par us ke rasool(sallallahualaihiwasallam) par a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اللہ پر اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) پر اور اس کتاب پر جو اس نے اپنے رسول (صلی اللہ علیہ وآلہ وسلم) پر نازل فرمائی ہے اور اس کتاب پر جو اس نے (اس سے) پہلے اتاری تھی ایمان لاؤ، اور جو کوئی اللہ کا اور اس کے فرشتوں کا اور اس کی کتابوں کا اور اس کے رسولوں کا اور آخرت کے دن کا انکار کرے تو بیشک وہ دور دراز کی گمراہی میں بھٹک گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ پر ایمان رکھو، اور اس کے رسول پر اور اس کتاب پر جو اللہ نے اپنے رسول پر اتاری ہے اور ہر اس کتاب پر جو اس نے پہلے اتاری تھی۔ اور جو شخص اللہ کا، اس کے فرشتوں کا، اس کی کتابوں کا، اس کے رسولوں کا اور یوم آخرت کا انکار کرے وہ بھٹک کر گمراہی میں بہت دور جا پڑا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

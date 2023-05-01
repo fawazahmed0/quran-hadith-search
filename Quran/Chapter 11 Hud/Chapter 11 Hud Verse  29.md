@@ -3224,6 +3224,12 @@ meri khaum walo! main tum se is par maal nahi maangta,mere sawaab to sirf Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اے میری قوم! میں تم سے اس (دعوت و تبلیغ) پر کوئی مال و دولت (بھی) طلب نہیں کرتا، میرا اجر تو صرف اللہ (کے ذمۂ کرم) پر ہے اور میں (تمہاری خاطر) ان (غریب اور پسماندہ) لوگوں کو جو ایمان لے آئے ہیں دھتکارنے والا بھی نہیں ہوں (تم انہیں حقیر مت سمجھو یہی حقیقت میں معزز ہیں)۔ بیشک یہ لوگ اپنے رب کی ملاقات سے بہرہ یاب ہونے والے ہیں اور میں تو درحقیقت تمہیں جاہل (و بے فہم) قوم دیکھ رہا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے میری قوم ! میں اس (تبلیغ) پر تم سے کوئی مال نہیں مانگتا، میرا اجر اللہ کے سوا کسی اور نے ذمے نہیں لیا، اور جو لوگ ایمان لاچکے ہیں، میں ان کو دھتکارنے والا نہیں ہوں، ان سب کو اپنے رب سے جا ملنا ہے۔ لیکن میں تو یہ دیکھ رہا ہوں کہ تم ایسے لوگ ہو جو نادانی کی باتیں کر رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

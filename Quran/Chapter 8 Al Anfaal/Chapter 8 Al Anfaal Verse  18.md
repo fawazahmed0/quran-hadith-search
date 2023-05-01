@@ -3224,6 +3224,12 @@ Yeh maamla to tumhare saath hai aur kafiron ke saath maamla yeh hai ke Allah unk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (تو ایک لطف و احسان) ہے اور (دوسرا) یہ کہ اللہ کافروں کے مکر و فریب کو کمزور کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ تو اپنی جگہ، اس کے علاوہ یہ بات بھی تھی کہ اللہ کو کافروں کی ہر سازش کو کمزور کرنا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

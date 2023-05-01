@@ -3224,6 +3224,12 @@ hum ne is tarah logo ko un ke haal se agaah kar diya ke wo jaan le ke Allah ka w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس طرح ہم نے ان (کے حال) پر ان لوگوں کو (جو چند صدیاں بعد کے تھے) مطلع کردیا تاکہ وہ جان لیں کہ اللہ کا وعدہ سچا ہے اور یہ (بھی) کہ قیامت کے آنے میں کوئی شک نہیں ہے۔ جب وہ (بستی والے) آپس میں ان کے معاملہ میں جھگڑا کرنے لگے (جب اصحابِ کہف وفات پاگئے) تو انہوں نے کہا کہ ان (کے غار) پر ایک عمارت (بطور یادگار) بنا دو، ان کا رب ان (کے حال) سے خوب واقف ہے، ان (ایمان والوں) نے کہا جنہیں ان کے معاملہ پر غلبہ حاصل تھا کہ ہم ان (کے دروازہ) پر ضرور ایک مسجد بنائیں گے (تاکہ مسلمان اس میں نماز پڑھیں اور ان کی قربت سے خصوصی برکت حاصل کریں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یوں ہم نے ان کی خبر لوگوں تک پہنچا دی، تاکہ وہ یقین سے جان لیں کہ اللہ کا وعدہ سچا ہے، نیز یہ کہ قیامت کی گھڑی آنے والی ہے، اس میں کوئی شک نہیں۔ (پھر وہ وقت بھی آیا) جب لوگ ان کے بارے میں آپس میں جھگڑ رہے تھے، چنانچہ کچھ لوگوں نے کہا کہ ان پر ایک عمارت بنادو ۔ ان کا رب ہی ان کے معاملے کو بہتر جانتا ہے۔ (آخر کار) جن لوگوں کو ان کے معاملات پر غلبہ حاصل تھا انہوں نے کہا کہ : ہم تو ان کے اوپر ایک مسجد ضرور بنائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

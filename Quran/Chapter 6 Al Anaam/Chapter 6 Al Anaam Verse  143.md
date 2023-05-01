@@ -3224,6 +3224,12 @@ Yeh aath (eight) narr o mada (couples) hain, do bhedh (sheep) ki qisam se aur do
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اللہ نے) آٹھ (نر اور مادہ) جوڑے پیدا کیے، دو (نر اور مادہ) بھیڑ سے اور دو (نر اور مادہ) بکری سے۔ (آپ ان سے) فرما دیجیے: کیا اُس نے دونوں نر حرام کیے ہیں یا دونوں مادہ یا وہ (بچہ) جو دونوں ماداؤں کے رحموں میں موجود ہے؟ مجھے علم و دانش کے ساتھ بتاؤ اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مویشیوں کے) کل آٹھ جوڑے اللہ نے پیدا کیے ہیں، دو صنفیں (نر اور مادہ) بھیڑوں کی نسل سے اور دو بکریوں کی نسل سے۔ ذرا ان سے پوچھو کہ : کیا دونوں نروں کو اللہ نے حرام کیا ہے، یا دونوں مادہ کو ؟ یا ہر اس بچے کو جو دونوں نسلوں کی مادہ کے پیٹ میں موجود ہو ؟ اگر تم سچے ہو تو کسی علمی بنیاد پر مجھے جواب دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

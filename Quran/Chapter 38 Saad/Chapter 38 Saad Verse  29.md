@@ -3224,6 +3224,12 @@ ye ba barkath kitaab hai jise hum ne aap ki taraf is liye naazil farmaya hai, ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ کتاب برکت والی ہے جسے ہم نے آپ کی طرف نازل فرمایا ہے تاکہ دانش مند لوگ اس کی آیتوں میں غور و فکر کریں اور نصیحت حاصل کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یہ ایک بابرکت کتاب ہے جو ہم نے تم پر اس لیے اتاری ہے کہ لوگ اس کی آیتوں پر غور و فکر کریں، اور تاکہ عقل رکھنے والے نصیحت حاصل کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

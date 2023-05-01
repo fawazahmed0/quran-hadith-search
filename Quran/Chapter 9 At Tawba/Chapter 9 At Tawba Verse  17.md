@@ -3224,6 +3224,12 @@ layaq nahi ke mushrik Allah tala ki masjido ko abaad kare,dara hal ye ke wo khud
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مشرکوں کے لئے یہ روا نہیں کہ وہ اللہ کی مسجدیں آباد کریں درآنحالیکہ وہ خود اپنے اوپر کفر کے گواہ ہیں، ان لوگوں کے تمام اعمال باطل ہو چکے ہیں اور وہ ہمیشہ دوزخ ہی میں رہنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مشرکین اس بات کے اہل نہیں ہیں کہ وہ اللہ کی مسجدوں کو آباد کریں، حالانکہ وہ خود اپنے کفر کے گواہ بنے ہوئے ہیں، ان لوگوں کے تو اعمال ہی غارت ہوچکے ہیں، اور دوزخ ہی میں ان کو ہمیشہ رہنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

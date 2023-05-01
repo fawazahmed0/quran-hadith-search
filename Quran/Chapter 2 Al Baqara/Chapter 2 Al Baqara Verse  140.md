@@ -3224,6 +3224,12 @@ kya tum kehte ho ke Ibraheem aur Ismail aur Is’haaq aur Yaqub (alaihimussalam)
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے اہلِ کتاب!) کیا تم یہ کہتے ہو کہ ابراہیم اور اسماعیل اور اسحٰق اور یعقوب (علیھم السلام) اور ان کے بیٹے یہودی یا نصرانی تھے، فرما دیں: کیا تم زیادہ جانتے ہو یا اللہ؟ اور اس سے بڑھ کر ظالم کون ہوگا جو اس گواہی کو چھپائے جو اس کے پاس اللہ کی طرف سے (کتاب میں موجود) ہے، اور اللہ تمہارے کاموں سے بے خبر نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا تم یہ کہتے ہو کہ ابراہیم، اسماعیل، اسحاق، یعقوب اور ان کی اولادیں یہودی یا نصرانی تھیں ؟ (مسلمانو ! ان سے) کہو : کیا تم زیادہ جانتے ہو یا اللہ ؟ اور اس شخص سے بڑا ظالم کون ہوگا جو ایسی شہادت کو چھپائے جو اس کے پاس اللہ کی طرف سے پہنچی ہو ؟ اور جو کچھ تم کرتے ہو اللہ اس سے بیخبر نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

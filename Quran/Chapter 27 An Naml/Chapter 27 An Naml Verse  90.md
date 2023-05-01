@@ -3224,6 +3224,12 @@ aur jo buraayi le kar ayenge, wo aundhe mu aag mein jhonk diye jayenge, sirf wah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص برائی لے کر آئے گا تو ان کے منہ (دوزخ کی) آگ میں اوندھے ڈالے جائیں گے۔ بس تمہیں وہی بدلہ دیا جائے گا جو تم کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو کوئی برائی لے کر آئے گا تو ایسے لوگوں کو منہ کے بل آگ میں ڈال دیا جائے گا۔ تمہیں کسی اور بات کی نہیں، انہی اعمال کی سزا دی جائے گی جو تم کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

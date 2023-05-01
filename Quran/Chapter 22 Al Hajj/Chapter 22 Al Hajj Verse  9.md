@@ -3224,6 +3224,12 @@ jo apni pehlo modne waala ban kar, is liye ke Allah ki raah se behka de, ose dun
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اپنی گردن کو (تکبّر سے) مروڑے ہوئے تاکہ (دوسروں کو بھی) اللہ کی راہ سے بہکا دے، اس کے لئے دنیا میں (بھی) رسوائی ہے اور قیامت کے دن ہم اسے جلا دینے والے عذاب کا مزہ چکھائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ تکبر سے اپنا پہلو اکڑائے ہوئے ہیں، تاکہ دوسروں کو بھی اللہ کے راستے سے گمراہ کریں، ایسے ہی شخص کے لیے دنیا میں رسوائی ہے، اور قیامت کے دن ہم اسے جلتی ہوئی آگ کا مزہ چکھائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

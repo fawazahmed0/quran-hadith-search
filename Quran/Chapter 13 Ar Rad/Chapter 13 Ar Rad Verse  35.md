@@ -3224,6 +3224,12 @@ us jannath ki sifath, jis ka waada parhezgaro ko diya gaya hai, ye hai ke us ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس جنت کا حال جس کا پرہیزگاروں سے وعدہ کیا گیا ہے (یہ ہے) کہ اس کے نیچے سے نہریں بہہ رہی ہیں، اس کا پھل بھی ہمیشہ رہنے والا ہے اور اس کا سایہ (بھی)، یہ ان لوگوں کا (حسنِ) انجام ہے جنہوں نے تقوٰی اختیار کیا، اور کافروں کا انجام آتشِ دوزخ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (دوسری طرف) وہ جنت جس کا متقی لوگوں سے وعدہ کیا گیا ہے اس کا حال یہ ہے کہ اس کے نیچے نہریں بہتی ہیں، اس کے پھل بھی سدا بہار ہیں، اور اس کی چھاؤں بھی ! یہ انجام ہے ان لوگوں کا جنہوں نے تقوی اختیار کیا، جبکہ کافروں کا انجام دوزخ کی آگ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

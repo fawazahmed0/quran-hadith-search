@@ -3224,6 +3224,12 @@ jin logo ko hum ne kitaab di hai wo log rasool ko pehchaante hai jis tarah apne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ لوگ جنہیں ہم نے کتاب دی تھی اس (نبئ آخر الزماں صلی اللہ علیہ وآلہ وسلم) کو ویسے ہی پہچانتے ہیں جیسے اپنے بیٹوں کو پہچانتے ہیں، جنہوں نے اپنی جانوں کو (دائمی) خسارے میں ڈال دیا ہے سو وہ ایمان نہیں لائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں کو ہم نے کتاب دی ہے وہ ان کو (یعنی خاتم النبیین (صلی اللہ علیہ وآلہ وسلم) کو) اس طرح پہچانتے ہیں جیسے وہ اپنے بیٹوں کو پہچانتے ہیں (پھر بھی) جن لوگوں نے اپنی جانوں کے لیے گھاٹے کا سودا کر رکھا ہے، وہ اہمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

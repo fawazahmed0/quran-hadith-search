@@ -3224,6 +3224,12 @@ aap farmaaiye ke al-batta mere rab ne sirf haraam kiya hai un tamaam fahesh baat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : میرے پروردگار نے تو بےحیائی کے کاموں کو حرام قرار دیا ہے، چاہے وہ بےحیائی کھلی ہوئی ہو یا چھپی ہوئی۔ نیز ہر قسم کے گناہ کو اور ناحق کسی سے زیادتی کرنے کو، اور اس بات کو کہ تم اللہ کے ساتھ کسی ایسی چیز کو شریک مانو جس کے بارے میں اللہ نے کوئی دلیل نازل نہیں کی ہے، نیز اس بات کو کہ تم اللہ کے ذمے وہ باتیں لگاؤ جن کی حقیقت کا تمہیں ذرا بھی علم نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

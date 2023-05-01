@@ -3224,6 +3224,12 @@ yaqinan jo log imaan laaye aur nek amaal kare to hum kisi nek amal karne waale k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ایمان لائے اور نیک عمل کئے یقیناً ہم اس شخص کا اجر ضائع نہیں کرتے جو نیک عمل کرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ جو لوگ ایمان لائے، اور انہوں نے نیک عمل کیے، تو یقینا ہم ایسے لوگوں کے اجر کو ضائع نہیں کرتے جو اچھی طرح عمل کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

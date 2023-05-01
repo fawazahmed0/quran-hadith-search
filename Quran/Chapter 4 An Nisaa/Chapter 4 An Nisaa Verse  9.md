@@ -3224,6 +3224,12 @@ aur chaahiye ke wo us baath se dare ke agar wo khud apne piche (nanne nanne) na-
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یتیموں سے معاملہ کرنے والے) لوگوں کو ڈرنا چاہئے کہ اگر وہ اپنے پیچھے ناتواں بچے چھوڑ جاتے تو (مرتے وقت) ان بچوں کے حال پر (کتنے) خوفزدہ (اور فکر مند) ہوتے، سو انہیں (یتیموں کے بارے میں) اللہ سے ڈرتے رہنا چاہئے اور (ان سے) سیدھی بات کہنی چاہئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ لوگ (یتیموں کے مال میں خرد برد کرنے سے) ڈریں جو اگر اپنے پیچھے کمزور بچے چھوڑ کر جائیں تو ان کی طرف سے فکر مند رہیں گے۔ لہذا وہ اللہ سے ڈریں اور سیدھی سیدھی بات کہا کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

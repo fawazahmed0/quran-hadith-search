@@ -3224,6 +3224,12 @@ aur jab ke un mein se ek jamaath ne yo kaha ke tum aise logo ko kyo nasihath kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وہ وقت انہیں یاد دلاؤ) جب انہی کے ایک گروہ نے (دوسرے گروہ سے) کہا تھا کہ : تم ان لوگوں کو کیوں نصیحت کر رہے ہو جنہیں اللہ یا تو ہلاک کرنے والا ہے، یا کوئی سخت قسم کا عذاب دینے والا ہے ؟ دوسرے گروہ کے لوگوں نے کہا کہ : یہ ہم اس لیے کرتے ہیں تاکہ تمہارے رب کے حضور بری الذمہ ہوسکیں اور شاید اس (نصیحت سے) یہ لوگ پرہیزگاری اختیار کرلیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

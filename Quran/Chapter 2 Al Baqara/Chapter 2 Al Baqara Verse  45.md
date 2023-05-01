@@ -3224,6 +3224,12 @@ aur sabr aur namaaz ke saath madad talab karo ye cheez shaaq7 hai magar darr rak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور صبر اور نماز کے ذریعے (اللہ سے) مدد چاہو، اور بیشک یہ گراں ہے مگر (ان) عاجزوں پر (ہرگز) نہیں (جن کے دل محبتِ الٰہی سے خستہ اور خشیتِ الٰہی سے شکستہ ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور صبر اور نماز سے مدد حاصل کرو نماز بھاری ضرور معلوم ہوتی ہے مگر ان لوگوں کو نہیں جو خشوع (یعنی دھیان اور عاجزی) سے پڑھتے ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

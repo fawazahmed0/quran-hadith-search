@@ -3224,6 +3224,12 @@ aur feraun ne kaha mujhe chohdo ke main Mosa(alaihissalaams) ko maar daalo aur o
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرعون بولا: مجھے چھوڑ دو میں موسیٰ کو قتل کر دوں اور اسے چاہیے کہ اپنے رب کو بلا لے۔ مجھے خوف ہے کہ وہ تمہارا دین بدل دے گا یا ملک (مصر) میں فساد پھیلا دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور فرعون نے کہا : لاؤ میں موسیٰ کو قتل ہی کر ڈالوں، اور اسے چاہیے کہ اپنے رب کو پکار لے۔ مجھے ڈر ہے کہ یہ تمہارا دین بدل ڈالے گا، یا زمین میں فساد برپا کردے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

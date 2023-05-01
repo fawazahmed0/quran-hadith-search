@@ -3224,6 +3224,12 @@ unhone farmaya ke bas ab tum par Allah ki taraf se azaab aur ghazab aaya hee cha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہود نے کہا : اب تمہارے رب کی طرف سے تم پر عذاب اور قہر کا آنا طے ہوچکا ہے۔ کیا تم مجھ سے (مختلف بتوں کے) ان ناموں کے بارے میں جھگڑتے ہو جو تم نے اور تمہارے باپ دادوں نے رکھ لیے ہیں، جن کی تائید میں اللہ نے کوئی دلیل نازل نہیں کی ؟ بس تو تم انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

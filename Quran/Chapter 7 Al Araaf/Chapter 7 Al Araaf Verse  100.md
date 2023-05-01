@@ -3224,6 +3224,12 @@ aur kya un logo ko jo zameen ke waaris hoye, waha ke logo ki halaakath ke baadh 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ کسی زمین (کے باشندوں کی ہلاکت) کے بعد اس کے وارث بن جاتے ہیں، بھلا کیا ان کو یہ سبق نہیں ملا کہ اگر ہم چاہیں تو ان کو (بھی) ان کے گناہوں کی وجہ سے کسی مصیبت میں مبتلا کردیں ؟ اور (جو لوگ اپنی ضد کی وجہ سے یہ سبق نہیں لیتے) ہم ان کے دلوں پر مہر لگا دیتے ہیں، جس کے نتیجے میں وہ کوئی بات نہیں سنتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

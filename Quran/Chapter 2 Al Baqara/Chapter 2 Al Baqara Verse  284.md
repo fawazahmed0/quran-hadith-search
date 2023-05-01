@@ -3224,6 +3224,12 @@ asmaano aur zameen ki har cheez Allah ta’ala hee ki milkiyath hai, tumhaare di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو کچھ آسمانوں میں اور زمین میں ہے سب اللہ کے لئے ہے، وہ باتیں جو تمہارے دلوں میں ہیں خواہ انہیں ظاہر کرو یا انہیں چھپاؤ اللہ تم سے اس کا حساب لے گا، پھر جسے وہ چاہے گا بخش دے گا اور جسے چاہے گا عذاب دے گا، اور اللہ ہر چیز پر کامل قدرت رکھتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب اللہ ہی کا ہے، اور جو باتیں تمہارے دلوں میں ہیں، خواہ تم ان کو ظاہر کرو یا چھپاؤ، اللہ تم سے ان کا حساب لے گا پھر جس کو چاہے گا معاف کردے گا اور جس کو چاہے گا سزا دے گا (اور اللہ ہر چیز پر قدرت رکھتا ہے۔)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

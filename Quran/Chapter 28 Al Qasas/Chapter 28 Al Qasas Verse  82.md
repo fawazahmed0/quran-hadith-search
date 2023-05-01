@@ -3224,6 +3224,12 @@ aur jo log kal us ke martabe par pahonchne ki aarzu mandiyaa kar rahe thein, wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ کل اس کے مقام و مرتبہ کی تمنا کر رہے تھے (اَز رہِ ندامت) کہنے لگے: کتنا عجیب ہے کہ اللہ اپنے بندوں میں سے جس کے لئے چاہتا ہے رزق کشادہ فرماتا اور (جس کے لئے چاہتا ہے) تنگ فرماتا ہے، اگر اللہ نے ہم پر احسان نہ فرمایا ہوتا تو ہمیں (بھی) دھنسا دیتا، ہائے تعجب ہے! (اب معلوم ہوا) کہ کافر نجات نہیں پا سکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کل جو لوگ اس جیسا ہونے کی تمنا کر رہے تھے، کہنے لگے : اوہو ! پتہ چل گیا کہ اللہ اپنے بندوں میں سے جس کے لیے چاہتا ہے رزق میں وسعت کردیتا ہے، اور (جس کے لیے چاہتا ہے) تنگی کردیتا ہے۔ اگر اللہ نے ہم پر احسان نہ کیا ہوتا تو وہ ہمیں بھی زمین میں دھنسا دیتا۔ اوہو ! پتہ چلا گیا کہ کافر لوگ فلاح نہیں پاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

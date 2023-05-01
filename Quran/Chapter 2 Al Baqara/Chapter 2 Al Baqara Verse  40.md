@@ -3224,6 +3224,12 @@ aye bani israel! meri us nemath ko yaad karo jo main ne tum par in’aam ki aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اولادِ یعقوب! میرے وہ انعام یاد کرو جو میں نے تم پر کئے اور تم میرے (ساتھ کیا ہوا) وعدہ پورا کرو میں تمہارے (ساتھ کیا ہوا) وعدہ پورا کروں گا، اور مجھ ہی سے ڈرا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے بنی اسرائیل میری وہ نعمت یاد کرو جو میں نے تم کو عطا کی تھی اور تم مجھ سے کیا ہوا عہد پورا کرو تاکہ میں بھی تم سے کیا ہوا عہد پورا کروں، اور تم (کسی اور سے نہیں، بلکہ) صرف مجھی سے ڈرو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

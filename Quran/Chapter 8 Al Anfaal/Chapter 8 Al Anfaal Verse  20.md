@@ -3224,6 +3224,12 @@ ae iman walo! Allah ka aur us ke rasol ka kehna mano aur us (ka kehna manne)se r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اللہ کی اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرو اور اس سے روگردانی مت کرو حالانکہ تم سن رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ اور اس کے رسول کی تابع داری کرو، اور اس (تابع داری) سے منہ نہ موڑو، جبکہ تم (اللہ اور رسول کے احکام) سن رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

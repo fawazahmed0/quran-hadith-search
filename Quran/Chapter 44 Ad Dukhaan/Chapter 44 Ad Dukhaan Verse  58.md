@@ -3224,6 +3224,12 @@ hum ne is Qur’aan ko teri zabaan mein asaan kar diya ta ke wo nasihath haasil 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بس ہم نے آپ ہی کی زبان میں اس (قرآن) کو آسان کر دیا ہے تاکہ وہ نصیحت حاصل کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض (اے پیغمبر) ہم نے اس (قرآن) کو تمہاری زبان میں آسان بنادیا ہے تاکہ لوگ نصیحت حاصل کریں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

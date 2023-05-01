@@ -3224,6 +3224,12 @@ phir hum ne un par tofaan bheja aur tiddiya aur ghun13 ka kida aur mendak aur qo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہم نے ان پر طوفان، ٹڈیوں، گھن کے کیڑوں، مینڈکوں اور خون کی بلائیں چھوڑیں، جو سب علیحدہ علیحدہ نشانیاں تھیں۔ پھر بھی انہوں نے تکبر کا مظاہرہ کیا، اور وہ بڑے مجرم لوگ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

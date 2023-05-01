@@ -3224,6 +3224,12 @@ aur jab hum ne tum se waada liya aur tum par toor pahaad la khada kar diya (aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کرو) جب ہم نے تم سے پختہ عہد لیا اور تمہارے اوپر طور کو اٹھا کھڑا کیا، کہ جو کچھ ہم نے تمہیں دیا ہے اسے مضبوطی سے پکڑے رہو اور جو کچھ اس (کتاب تورات) میں (لکھا) ہے اسے یاد رکھو تاکہ تم پرہیزگار بن جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وقت یاد کرو جب ہم نے تم سے (تورات پر عمل کرنے کا) عہد لیا تھا، اور کوہ طور کو تمہارے اوپر اٹھا کھڑا کیا تھا۔ (کہ) جو (کتاب) ہم نے تمہیں دی ہے اس کو مضبوطی سے تھامو اور اس میں جو کچھ (لکھا) ہے اس کو یاد رکھو، تاکہ تمہیں تقویٰ حاصل ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

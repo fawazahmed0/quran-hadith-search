@@ -3224,6 +3224,12 @@ unhone hamaari tamaam nishaaniya jhutlaayi, pas hum ne unhe bade ghaaleb qawi pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے ہماری سب نشانیوں کو جھٹلا دیا پھر ہم نے انہیں بڑے غالب بڑی قدرت والے کی پکڑ کی شان کے مطابق پکڑ لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے ہماری تمام نشانیوں کو جھٹلا دیا تھا، اس لیے ہم نے ان کو ایسی پکڑ میں لیا جیسی ایک زبردست قدرت والے کی پکڑ ہوتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

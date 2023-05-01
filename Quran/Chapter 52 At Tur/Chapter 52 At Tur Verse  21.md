@@ -3224,6 +3224,12 @@ aur jo log imaan laaye aur un ki aulaad ne bhi imaan mein un ki pairvi ki, hum u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ایمان لائے اور اُن کی اولاد نے ایمان میں اُن کی پیروی کی، ہم اُن کی اولاد کو (بھی درجاتِ جنت میں) اُن کے ساتھ ملا دیں گے (خواہ اُن کے اپنے عمل اس درجہ کے نہ بھی ہوں یہ صرف اُن کے صالح آباء کے اکرام میں ہوگا) اور ہم اُن (صالح آباء) کے ثوابِ اعمال سے بھی کوئی کمی نہیں کریں گے، (علاوہ اِس کے) ہر شخص اپنے ہی عمل (کی جزا و سزا) میں گرفتار ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لائے ہیں اور ان کی اولاد نے بھی ایمان میں ان کی پیروی کی ہے تو ان کی اولاد کو ہم انہی کے ساتھ شامل کردیں گے، اور ان کے عمل میں سے کسی چیز کی کمی نہیں کریں گے۔ ہر انسان کی جان اپنی کمائی کے بدلے رہن رکھی ہوئی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

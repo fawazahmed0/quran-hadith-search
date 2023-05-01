@@ -3224,6 +3224,12 @@ aur hum ne unhe (Ibraheem ko) Is’haaq wa Yaqoob(alaihima assalaam) ata kiye au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے انہیں اسحاق اور یعقوب (علیہما السلام بیٹا اور پوتا) عطا فرمائے اور ہم نے ابراہیم (علیہ السلام) کی اولاد میں نبوت اور کتاب مقرر فرما دی اور ہم نے انہیں دنیا میں (ہی) ان کا صلہ عطا فرما دیا، اور بیشک وہ آخرت میں (بھی) نیکوکاروں میں سے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے انہیں اسحاق اور یعقوب (جیسے بیٹے) عطا فرمائے، اور ان کی اولاد میں نبوت اور کتاب کا سلسلہ جاری رکھا، اور ان کا اجر ہم نے انہیں دنیا میں (بھی) دیا اور یقینا آخرت میں ان کا شمار صالحین میں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

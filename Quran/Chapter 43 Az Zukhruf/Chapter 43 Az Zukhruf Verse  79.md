@@ -3224,6 +3224,12 @@ kya unhone kisi kaam ka poqta iraada kar liya hai to yaqeen maano ke hum bhi poq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے (یعنی کفّارِ مکہ نے رسول صلی اللہ علیہ وآلہ وسلم کے خلاف کوئی تدبیر) پختہ کر لی ہے تو ہم (بھی) پختہ فیصلہ کرنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں کیا ان لوگوں نے کچھ کرنے کا فیصلہ کرلیا ہے ؟ اچھا تو ہم بھی کچھ کرنے کا فیصلہ کرنے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

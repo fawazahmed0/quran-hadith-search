@@ -3224,6 +3224,12 @@ aur us ne zameen mein us ke upar se pahaad gaad diye aur us mein barkath rakh di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُس کے اندر (سے) بھاری پہاڑ (نکال کر) اس کے اوپر رکھ دیئے اور اس کے اندر (معدنیات، آبی ذخائر، قدرتی وسائل اور دیگر قوتوں کی) برکت رکھی، اور اس میں (جملہ مخلوق کے لئے) غذائیں (اور سامانِ معیشت) مقرر فرمائے (یہ سب کچھ اس نے) چار دنوں (یعنی چار ارتقائی زمانوں) میں مکمل کیا، (یہ سارا رِزق اصلًا) تمام طلب گاروں (اور حاجت مندوں) کے لئے برابر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس نے زمین میں جمے ہوئے پہاڑ پیدا کیے جو اس کے اوپر ابھرے ہوئے ہیں اور اس میں برکت ڈال دی اور اس میں توازن کے ساتھ اس کی غذائیں پیدا کیں۔ سب کچھ چار دن میں تمام سوال کرنے والوں کے لیے برابر
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

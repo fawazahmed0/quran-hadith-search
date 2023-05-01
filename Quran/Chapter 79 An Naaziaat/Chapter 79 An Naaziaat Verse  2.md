@@ -3224,6 +3224,12 @@ bandh khol kar chohda dene waalo ki qasam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان (فرشتوں) کی قَسم جو (مومنوں کی جان کے) بند نہایت نرمی سے کھول دیتے ہیں۔(br) (یا:- توانائی کی ان لہروں کی قَسم جو مادہ کے اندر سے کیمیائی جوڑوں کو نہایت نرمی اور آرام سے توڑ دیتی ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو (مومنوں کی روح کی) گرہ نرمی سے کھول دیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

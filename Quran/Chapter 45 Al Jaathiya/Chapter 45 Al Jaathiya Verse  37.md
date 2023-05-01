@@ -3224,6 +3224,12 @@ tamaam (buzrugi aur) badaayi asmaano aur zameen mein osi ki hai aur wahi ghaalib
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آسمانوں اور زمین میں ساری کبریائی (یعنی بڑائی) اسی کے لئے ہے اور وہی بڑا غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمام تر بڑائی اسی کو حاصل ہے، آسمانوں میں بھی اور زمین میں بھی، اور وہی ہے جس کا اقتدار بھی کامل ہے، جس کی حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

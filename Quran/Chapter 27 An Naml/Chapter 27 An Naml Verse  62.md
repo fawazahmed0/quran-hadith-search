@@ -3224,6 +3224,12 @@ bekas ki pukaar ko jab ke wo pukaare, kaun qubool kar ke saqti ko door kar deta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ وہ کون ہے جو بے قرار شخص کی دعا قبول فرماتا ہے جب وہ اسے پکارے اور تکلیف دور فرماتا ہے اور تمہیں زمین میں(پہلے لوگوں کا) وارث و جانشین بناتا ہے؟ کیا اللہ کے ساتھ کوئی (اور بھی) معبود ہے؟ تم لوگ بہت ہی کم نصیحت قبول کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا وہ کون ہے کہ جب کوئی بےقرار اسے پکارتا ہے تو وہ اس کی دعا قبول کرتا ہے، اور تکلیف دور کردیتا ہے اور جو تمہیں زمین کا خلیفہ بناتا ہے ؟ کیا (پھر بھی تم کہتے ہو کہ) اللہ کے ساتھ کوئی اور خدا ہے ؟ نہیں ! بلکہ تم بہت کم نصیحت قبول کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

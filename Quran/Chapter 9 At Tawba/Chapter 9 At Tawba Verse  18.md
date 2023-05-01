@@ -3224,6 +3224,12 @@ Allah ki masjido ko raunaq wa abadi tuh un ke hisse mein hai jo Allah par aur qa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ کی مسجدیں صرف وہی آباد کر سکتا ہے جو اللہ پر اور یومِ آخرت پر ایمان لایا اور اس نے نماز قائم کی اور زکوٰۃ ادا کی اور اللہ کے سوا (کسی سے) نہ ڈرا۔ سو امید ہے کہ یہی لوگ ہدایت پانے والوں میں ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کی مسجدوں کو تو وہی لوگ آباد کرتے ہیں جو اللہ اور یوم آخرت پر ایمان لائے ہوں اور نماز قائم کریں اور زکوٰۃ ادا کریں اور اللہ کے سوا کسی سے نہ ڈریں۔ ایسے ہی لوگوں سے یہ توقع ہوسکتی ہے کہ وہ صحیح راستہ اختیار کرنے والوں میں شامل ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

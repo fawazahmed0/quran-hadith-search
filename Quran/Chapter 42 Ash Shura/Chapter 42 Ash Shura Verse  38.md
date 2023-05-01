@@ -3224,6 +3224,12 @@ aur apne rab ke farmaan ko qubool karte hai aur namaaz ki paabandi karte hai aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اپنے رب کا فرمان قبول کرتے ہیں اور نماز قائم رکھتے ہیں اور اُن کا فیصلہ باہمی مشورہ سے ہوتا ہے اور اس مال میں سے جو ہم نے انہیں عطا کیا ہے خرچ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جنہوں نے اپنے پروردگار کی بات مانی ہے اور نماز قائم کی ہے اور ان کے معاملات آپس کے مشورے سے طے ہوتے ہیں، اور ہم نے انہیں جو رزق دیا ہے ،۔ اس میں سے وہ (نیکی کے کاموں میں) خرچ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

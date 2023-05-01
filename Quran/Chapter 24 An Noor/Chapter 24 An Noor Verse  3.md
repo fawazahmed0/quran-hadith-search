@@ -3224,6 +3224,12 @@ zaani mard bajuz zaaniya ya mushrika aurath ke aur se nikaah nahi karta aur zina
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بدکار مرد سوائے بدکار عورت یا مشرک عورت کے (کسی پاکیزہ عورت سے) نکاح (کرنا پسند) نہیں کرتا اور بدکار عورت سے (بھی) سوائے بدکار مرد یا مشرک کے کوئی (صالح شخص) نکاح (کرنا پسند) نہیں کرتا، اور یہ (فعلِ زنا) مسلمانوں پر حرام کر دیا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زانی مرد نکاح کرتا ہے تو زنا کا ریا مشرک عورت ہی سے نکاح کرتا ہے، اور زنا کار عورت سے نکاح کرتا ہے تو وہی مرد جو خود زانی ہو، یا مشرک ہو اور یہ بات مومنوں کے لیے حرام کردی گئی ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

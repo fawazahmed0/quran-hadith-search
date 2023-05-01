@@ -3224,6 +3224,12 @@ wahi asmaano mein maboodh hai aur zameen mein bhi wahi qaabile ibaadath hai aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ذات آسمان میں معبود ہے اور زمین میں (بھی) معبود ہے، اور وہ بڑی حکمت والا بڑے علم والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی (اللہ) ہے جو آسمان میں بھی معبود ہے اور زمین میں بھی معبود ہے۔ اور وہی ہے جو حکمت کا بھی مالک ہے، علم کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

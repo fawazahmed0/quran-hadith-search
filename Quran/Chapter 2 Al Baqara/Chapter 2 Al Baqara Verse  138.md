@@ -3224,6 +3224,12 @@ Allah ka rang iqtiyaar karo aur Allah ta’ala se accha rang kis ka hoga? hum to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(کہہ دو: ہم) اللہ کے رنگ (میں رنگے گئے ہیں) اور کس کا رنگ اللہ کے رنگ سے بہتر ہے اور ہم تو اسی کے عبادت گزار ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے مسلمانوں ! کہہ دو کہ) ہم پر تو اللہ نے اپنا رنگ چڑھا دیا ہے اور کون ہے جو اللہ سے بہتر رنگ چڑھائے ؟ اور ہم صرف اسی کی عبادت کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

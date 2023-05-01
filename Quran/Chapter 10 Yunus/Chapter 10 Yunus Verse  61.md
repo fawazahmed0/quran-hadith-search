@@ -3224,6 +3224,12 @@ aur aap kisi haal mein ho aur min jumla un ahwaal ke, aap kahi se Qur’an padte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیبِ مکرّم!) آپ جس حال میں بھی ہوں اور آپ اس کی طرف سے جس قدر بھی قرآن پڑھ کر سناتے ہیں اور (اے امتِ محمدیہ!) تم جو عمل بھی کرتے ہو مگر ہم (اس وقت) تم سب پر گواہ و نگہبان ہوتے ہیں جب تم اس میں مشغول ہوتے ہو، اور آپ کے رب (کے علم) سے ایک ذرّہ برابر بھی (کوئی چیز) نہ زمین میں پوشیدہ ہے اور نہ آسمان میں اور نہ اس (ذرہ) سے کوئی چھوٹی چیز ہے اور نہ بڑی مگر واضح کتاب (یعنی لوحِ محفوظ) میں (درج) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم جس حالت میں بھی ہوتے ہو اور قرآن کا جو حصہ بھی تلاوت کرتے ہو اور (اے لوگو) تم جو کام بھی کرتے ہو، تو جس وقت تم اس کام میں مشغول ہوتے ہو ہم تمہیں دیکھتے رہتے ہیں اور تمہارے رب سے کوئی ذرہ برابر چیز بھی پوشیدہ نہیں ہے، نہ زمین میں نہ آسمان میں، نہ اس سے چھوٹی، نہ بڑی، مگر وہ ایک واضح کتاب میں درج ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

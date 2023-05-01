@@ -3224,6 +3224,12 @@ aap farmaiye ke Allah ta’ala ke paida kiye hoye asbaabe zeenath ko, jin ko us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : آخر کون ہے جس نے زینت کے اس سامان کو حرام قرار دیا ہو جو اللہ نے اپنے بندوں کے لیے پیدا کیا ہے اور (اسی طرح) پاکیزہ رزق کی چیزوں کو ؟ کہو کہ : جو لوگ ایمان رکھتے ہیں ان کو یہ نعمتیں جو دنیوی زندگی میں ملی ہوئی ہیں، قیامت کے دن خالص انہی کے لیے ہوں گے۔ اسی طرح ہم تمام آیتیں ان لوگوں کے لیے تفصیل سے بیان کرتے ہیں جو علم سے کام لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

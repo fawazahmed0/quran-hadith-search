@@ -3224,6 +3224,12 @@ ye Qur’an jo hum naazil kar rahe hai momino ke liye to saraasar shifa aur rehm
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم قرآن میں وہ چیز نازل فرما رہے ہیں جو ایمان والوں کے لئے شفاء اور رحمت ہے اور ظالموں کے لئے تو صرف نقصان ہی میں اضافہ کر رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم وہ قرآن نازل کر رہے ہیں جو مومنوں کے لیے شفا اور رحمت کا سامان ہے، البتہ ظالموں کے حصے میں اس سے نقصان کے سوا کسی اور چیز کا اضافہ نہیں ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

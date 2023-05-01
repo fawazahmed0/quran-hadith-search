@@ -3224,6 +3224,12 @@ apni fitna pardaazi ka maza chako, yahi hai jis ki tum jaldi macha rahe thein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اُن سے کہا جائے گا:) اپنی سزا کا مزہ چکھو، یہی وہ عذاب ہے جسے تم جلدی مانگتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ چکھو مزہ اپنی شرارت کا۔ یہی ہے وہ چیز جس کے بارے میں تم یہ مطالبہ کرتے تھے کہ وہ جلدی آجائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

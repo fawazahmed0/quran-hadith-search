@@ -3224,6 +3224,12 @@ aur (dekho) kisi momin mardh aur aurath ko Allah aur us ke rasool(sallallahu ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ کسی مومن مرد کو (یہ) حق حاصل ہے اور نہ کسی مومن عورت کو کہ جب اللہ اور اس کا رسول (صلی اللہ علیہ وآلہ وسلم) کسی کام کا فیصلہ (یا حکم) فرما دیں تو ان کے لئے اپنے (اس) کام میں (کرنے یا نہ کرنے کا) کوئی اختیار ہو، اور جو شخص اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی نافرمانی کرتا ہے تو وہ یقیناً کھلی گمراہی میں بھٹک گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب اللہ اور اس کا رسول کسی بات کا حتمی فیصلہ کردیں تو نہ کسی مومن مرد کے لیے یہ گنجائش ہے نہ کسی مومن عورت کے لیے کہ ان کو اپنے معاملے میں کوئی اختیار باقی رہے۔ اور جس کسی نے اللہ اور اس کے رسول کی نافرمانی کی، وہ کھلی گمراہی میں پڑگیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un jannato ke saaye un par jhuke hoye honge aur un ke (mewe aur) gucche niche la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (جنت کے درختوں کے) سائے ان پر جھک رہے ہوں گے اور ان کے (میووں کے) گچھے جھک کر لٹک رہے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حالت یہ ہوگی کہ ان باغوں کے سائے ان پر جھکے ہوئے ہوں گے، اور ان کے پھل مکمل طور سے ان کے آگے رام کردیے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

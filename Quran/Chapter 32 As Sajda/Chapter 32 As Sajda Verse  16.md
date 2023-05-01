@@ -3224,6 +3224,12 @@ un ki karwate un ke bistaro se alag rehti hai, apne rab ko khauf aur ummid ke sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے پہلو اُن کی خواب گاہوں سے جدا رہتے ہیں اور اپنے رب کو خوف اور امید (کی مِلی جُلی کیفیت) سے پکارتے ہیں اور ہمارے عطا کردہ رزق میں سے (ہماری راہ میں) خرچ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے پہلو (رات کے وقت) اپنے بستروں سے جدا ہوتے ہیں وہ اپنے پروردگار کو ڈر اور امید (کے ملے جذبات) کے ساتھ پکار رہے ہوتے ہیں اور ہم نے ان کو جو رزق دیا ہے، وہ اس میں سے (نیکی کے کاموں میں) خرچ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

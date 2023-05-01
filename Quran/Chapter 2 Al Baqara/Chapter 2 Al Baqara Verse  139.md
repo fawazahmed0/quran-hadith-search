@@ -3224,6 +3224,12 @@ aap kehdi jiye kya tum hum se Allah ke baare mein jhagadte ho, jo hamaara aur tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیں: کیا تم اللہ کے بارے میں ہم سے جھگڑا کرتے ہو حالانکہ وہ ہمارا (بھی) رب ہے، اور تمہارا (بھی) رب ہے اور ہمارے لئے ہمارے اعمال اور تمہارے لئے تمہارے اعمال ہیں، اور ہم تو خالصۃً اسی کے ہو چکے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : کیا تم ہم سے اللہ کے بارے میں حجت کرتے ہو ؟ حالانکہ وہ ہمارا بھی پروردگار ہے اور تمہارا بھی پروردگار (یہ) اور (بات ہے کہ) ہمارے اعمال ہمارے لیے ہیں، اور تمہارے عمل تمہارے لیے۔ اور ہم نے تو اپنی بندگی اسی کے لیے خالص کرلی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

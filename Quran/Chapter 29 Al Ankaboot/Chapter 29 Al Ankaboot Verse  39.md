@@ -3224,6 +3224,12 @@ aur qaroon aur feraun aur hamaan ko bhi, un ke paas hazrath Mosa(alaihissalaam) 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ہم نے) قارون اور فرعون اور ہامان کو (بھی ہلاک کیا) اور بیشک موسٰی (علیہ السلام) ان کے پاس واضح نشانیاں لے کر آئے تھے تو انہوں نے ملک میں غرور و سرکشی کی اور وہ (ہماری گرفت سے) آگے بڑھ جانے والے نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور قارون، فرعون اور ہامان کو بھی ہم نے ہلاک کیا موسیٰ ان کے پاس روشن دلیلیں لے کر آئے تھے، مگر انہوں نے زمین میں تکبر سے کام لیا، اور وہ (ہم سے) جیت نہ سکے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap keh dijiye! accha agar mujhe aur mere saathiyo ko Allah ta’ala halaak kard
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: بھلا یہ بتاؤ اگر اللہ مجھے موت سے ہم کنار کر دے (جیسے تم خواہش کرتے ہو) اور جو میرے ساتھ ہیں (ان کو بھی)، یا ہم پر رحم فرمائے (یعنی ہماری موت کو مؤخر کر دے) تو (ان دونوں صورتوں میں) کون ہے جو کافروں کو دردناک عذاب سے پناہ دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہو کہ : ذرا یہ بتلاؤ کہ چاہے اللہ مجھے اور میرے ساتھیوں کو ہلاک کردے یا ہم پر رحم فرما دے، (دونوں صورتوں میں) کافروں کو دردناک عذاب سے کون بچائے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

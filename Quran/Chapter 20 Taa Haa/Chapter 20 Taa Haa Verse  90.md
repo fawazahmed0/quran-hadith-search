@@ -3224,6 +3224,12 @@ aur Haroon(alaihissalaam) ne us se pehle hee un se keh diya tha, aye meri khaum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہارون (علیہ السلام) نے (بھی) ان کو اس سے پہلے (تنبیہاً) کہہ دیا تھا کہ اے قوم! تم اس (بچھڑے) کے ذریعہ تو بس فتنہ میں ہی مبتلا ہوگئے ہو، حالانکہ بیشک تمہارا رب (یہ نہیں وہی) رحمان ہے پس تم میری پیروی کرو اور میرے حکم کی اطاعت کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہارون نے ان سے پہلے ہی کہا تھا کہ : میری قوم کے لوگو ! تم اس (بچھڑے) کی وجہ سے فتنے میں مبتلا ہوگئے ہو، اور حقیقت میں تمہارا رب تو رحمن ہے، اس لیے تم میرے پیچھے چلو اور میری بات مانو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

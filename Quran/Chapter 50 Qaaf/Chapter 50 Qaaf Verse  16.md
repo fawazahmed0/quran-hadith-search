@@ -3224,6 +3224,12 @@ hum ne insaan ko payda kiya hai aur us ke dil mein jo qayalaath uthte hai, un se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے انسان کو پیدا کیا ہے اور ہم اُن وسوسوں کو (بھی) جانتے ہیں جو اس کا نفس (اس کے دل و دماغ میں) ڈالتا ہے۔ اور ہم اس کی شہ رگ سے بھی زیادہ اس کے قریب ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ ہم نے انسان کو پیدا کیا ہے، اور اس کے دل میں جو خیالات آتے ہیں، ان (تک) سے ہم خوب واقف ہیں، اور ہم اس کی شہ رگ سے بھی زیادہ اس کے قریب ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

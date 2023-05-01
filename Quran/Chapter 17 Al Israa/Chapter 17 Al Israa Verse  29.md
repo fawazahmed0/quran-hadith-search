@@ -3224,6 +3224,12 @@ apna haath apni gardan se bandha hoa na rakh aur na ose bikul hee qool de ke phi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ اپنا ہاتھ اپنی گردن سے باندھا ہوا رکھو (کہ کسی کو کچھ نہ دو) اور نہ ہی اسے سارا کا سارا کھول دو (کہ سب کچھ ہی دے ڈالو) کہ پھر تمہیں خود ملامت زدہ (اور) تھکا ہارا بن کر بیٹھنا پڑے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نہ تو (ایسے کنجوس بنو کہ) اپنے ہاتھ کو گردن سے باندھ کر رکھو، اور نہ (ایسے فضول خرچ کہ) ہاتھ کو بالکل ہی کھلا چھوڑ دو جس کے نتیجے میں تمہیں قابل ملامت اور قلاش ہو کر بیٹھنا پڑے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

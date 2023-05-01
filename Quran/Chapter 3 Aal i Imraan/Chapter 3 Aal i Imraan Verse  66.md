@@ -3224,6 +3224,12 @@ suno! tum log us mein jhagad chuke jis ka tumhe ilm tha, phir ab is baath mein k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سن لو! تم وہی لوگ ہو جو ان باتوں میں بھی جھگڑتے رہے ہو جن کا تمہیں (کچھ نہ کچھ) علم تھا مگر ان باتوں میں کیوں تکرار کرتے ہو جن کا تمہیں (سرے سے) کوئی علم ہی نہیں، اور اللہ جانتا ہے اور تم نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دیکھو ! یہ تم ہی تو ہو جنہوں نے ان معاملات میں اپنی سی بحث کرلی ہے جن کا تمہیں کچھ نہ کچھ علم تھا۔ اب ان معاملات میں کیوں بحث کرتے ہو جن کا تمہیں سرے سے کوئی علم ہی نہیں ہے ؟ اللہ جانتا ہے، اور تم نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aaye zakarya! hum tujhe ek bacche ki khush qabri dete hain, jis ka naam Yahya ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ارشاد ہوا:) اے زکریا! بیشک ہم تمہیں ایک لڑکے کی خوشخبری سناتے ہیں جس کا نام یحیٰی (علیہ السلام) ہوگا ہم نے اس سے پہلے اس کا کوئی ہم نام نہیں بنایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (آواز آئی کہ) اے زکریا ! ہم تمہیں ایک ایسے لڑکے کی خوشخبری دیتے ہیں جس کا نام یحی ہوگا۔ اس سے پہلے ہم نے اس کے نام کا کوئی اور شخص پیدا نہیں کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

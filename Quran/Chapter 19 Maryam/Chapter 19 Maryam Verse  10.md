@@ -3224,6 +3224,12 @@ kehne lage mere parvardigaar mere liye koyi alaamath muqarrar farma de, irshaad 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(زکریا علیہ السلام نے) عرض کیا: اے میرے رب! میرے لئے کوئی نشانی مقرر فرما، ارشاد ہوا: تمہاری نشانی یہ ہے کہ تم بالکل تندرست ہوتے ہوئے بھی تین رات (دن) لوگوں سے کلام نہ کرسکوگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زکریا نے کہا : میرے پروردگار ! میرے لیے کوئی نشانی مقرر فرما دیجیے۔ فرمایا : تمہاری نشانی یہ ہے کہ تم صحت مند ہونے کے باوجود تین رات تک لوگوں سے بات نہیں کرسکو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

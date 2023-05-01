@@ -3224,6 +3224,12 @@ yaqinan jo log iman lae aur unhone nek kaam kiye un ka rub un ko un ke iman ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ایمان لائے اور نیک عمل کرتے رہے انہیں ان کا رب ان کے ایمان کے باعث (جنتوں تک) پہنچا دے گا، جہاں ان (کی رہائش گاہوں) کے نیچے سے نہریں بہہ رہی ہوں گی (یہ ٹھکانے) اُخروی نعمت کے باغات میں (ہوں گے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (دوسری طرف) جو لوگ ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں، ان کے ایمان کی وجہ سے ان کا پروردگار انہیں اس منزل تک پہنچائے گا کہ نعمتوں سے بھرے باغات میں ان کے نیچے سے نہریں بہتی ہوں گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

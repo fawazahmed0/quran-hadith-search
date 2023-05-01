@@ -3224,6 +3224,12 @@ yahi un ke ilm ki inteha hai, aap ka rab us se qoob waaqif hai jo us ki raah se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُن لوگوں کے علم کی رسائی کی یہی حد ہے، بیشک آپ کا رب اس شخص کو (بھی) خوب جانتا ہے جو اُس کی راہ سے بھٹک گیا ہے اور اس شخص کو (بھی) خوب جانتا ہے جِس نے ہدایت پا لی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے لوگوں کے علم کی پہنچ بس یہیں تک ہے۔ تمہارا پروردگار ہی خوب جانتا ہے کہ کون اس کے راستے سے بھٹک چکا ہے، اور وہی خوب جانتا ہے کون راہ پا گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

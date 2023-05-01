@@ -3224,6 +3224,12 @@ aur hum ne tum se kaha ke us basti mein jao aur jo kuch jahaa kahi se chaaho ba-
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کرو) جب ہم نے فرمایا: اس شہر میں داخل ہو جاؤ اور اس میں جہاں سے چاہو خوب جی بھر کے کھاؤ اور (یہ کہ شہر کے) دروازے میں سجدہ کرتے ہوئے داخل ہونا اور یہ کہتے جانا: (اے ہمارے رب! ہم سب خطاؤں کی) بخشش چاہتے ہیں، (تو) ہم تمہاری (گزشتہ) خطائیں معاف فرما دیں گے، اور (علاوہ اس کے) نیکوکاروں کو مزید (لطف و کرم سے) نوازیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وہ وقت بھی یاد کرو) جب ہم نے کہا تھا کہ ” اس بستی میں داخل ہوجاؤ اور اس میں سے جہاں سے چاہو جی بھر کر کھاؤ اور (بستی کے) دروازے میں جھکے سروں سے داخل ہونا اور یہ کہتے جانا کہ (یا اللہ) ہم آپ کی بخشش کے طلب گار ہیں (اس طرح) ہم تمہاری خطائیں معاف کردیں گے اور نیکی کرنے والوں کو اور زیادہ (ثواب) بھی دیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

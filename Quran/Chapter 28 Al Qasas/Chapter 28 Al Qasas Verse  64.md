@@ -3224,6 +3224,12 @@ kaha jayega ke apne shariko ko bulaao, wo bulayenge, lekin inhe wo jawaab tak na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ان سے) کہا جائے گا: تم اپنے (خود ساختہ) شریکوں کو بلاؤ، سو وہ انہیں پکاریں گے پس وہ (شریک) انہیں کوئی جواب نہ دیں گے اور وہ لوگ عذاب کو دیکھ لیں گے، کاش! وہ (دنیا میں) راہِ ہدایت پا چکے ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ان کافروں سے) کہا جائے گا کہ : پکارو ان کو جنہیں تم نے اللہ کا شریک بنا رکھا تھا۔ چنانچہ وہ ان کو پکاریں گے مگر وہ ان کو جواب نہیں دیں گے، اور یہ عذاب آنکھوں سے دیکھ لیں گے۔ کاش یہ ایسے ہوتے کہ ہدایت کو قبول کرلیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

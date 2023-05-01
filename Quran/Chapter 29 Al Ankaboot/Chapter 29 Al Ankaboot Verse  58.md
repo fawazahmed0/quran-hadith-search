@@ -3224,6 +3224,12 @@ aur jo log imaan laaye aur nek kaam kiye unhe hum yaqinan jannath ke un bala kha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ایمان لائے اور نیک اعمال کرتے رہے ہم انہیں ضرور جنت کے بالائی محلّات میں جگہ دیں گے جن کے نیچے سے نہریں بہہ رہی ہوں گی وہ ان میں ہمیشہ رہیں گے، یہ عملِ (صالح) کرنے والوں کا کیا ہی اچھا اجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لائے ہیں، اور انہوں نے نیک عمل کیے ہیں، ان کو ہم ضرور جنت کے ایسے بالاخانوں میں آباد کریں گے جن کے نیچے نہریں بہتی ہوں گی، جہاں وہ ہمیشہ ہمیشہ رہیں گے۔ بہترین اجر ہے ان عمل کرنے والوں کا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

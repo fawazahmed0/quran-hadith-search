@@ -3224,6 +3224,12 @@ bandho ki rozi ke liye aur hum ne paani se murda shahar ko zinda kar diya, isi t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ سب کچھ اپنے) بندوں کی روزی کے لئے (کیا) اور ہم نے اس (پانی) سے مُردہ زمین کو زندہ کیا، اسی طرح (تمہارا) قبروں سے نکلنا ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ ہم بندوں کو رزق عطا کریں اور (اس طرح) ہم نے اس پانی سے ایک مردہ پڑے ہوئے شہر کو زندگی دے دی، بس اسی طرح (انسانوں کا قبروں سے) نکلنا بھی ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

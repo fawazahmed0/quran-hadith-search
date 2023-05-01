@@ -3224,6 +3224,12 @@ aur Allah hee ki milk hai wo sab kuch jo raath mein aur din mein rehti hai aur w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (ساری مخلوق) جو رات میں اور دن میں آرام کرتی ہے، اسی کی ہے، اور وہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور رات اور دن میں جتنی مخلوقات آرام پاتی ہیں، سب اسی کے قبضے میں ہیں اور وہ ہر بات کو سنتا، ہر چیز کو جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

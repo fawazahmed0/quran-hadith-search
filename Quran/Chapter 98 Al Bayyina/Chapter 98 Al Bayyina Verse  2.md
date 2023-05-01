@@ -3224,6 +3224,12 @@ Allah ta’ala ka ek rasool jo paak sahife pade
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ دلیل) اللہ کی طرف سے رسول (آخر الزماں صلی اللہ علیہ وآلہ وسلم) ہیں جو (ان پر) پاکیزہ اوراقِ (قرآن) کی تلاوت فرماتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یعنی ایک اللہ کا رسول جو پاک صحیفے پڑھ کر سنائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

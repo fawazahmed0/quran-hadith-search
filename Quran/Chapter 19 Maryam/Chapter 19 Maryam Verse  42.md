@@ -3224,6 +3224,12 @@ jab ke unhone apne baap se kaha ke abba jaan! aap un ki puja paat kyo kar rahe h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب انہوں نے اپنے باپ (یعنی چچا آزر سے جس نے آپ کے والد تارخ کے انتقال کے بعد آپ کو پالا تھا) سے کہا: اے میرے باپ! تم ان (بتوں) کی پرستش کیوں کرتے ہو جو نہ سن سکتے ہیں اور نہ دیکھ سکتے ہیں اور نہ تم سے کوئی (تکلیف دہ) چیز دور کرسکتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد کرو جب انہوں نے اپنے باپ سے کہا تھا کہ : ابا جان ! آپ ایسی چیزوں کی کیوں عبادت کرتے ہیں جو نہ سنتی ہیں، نہ دیکھتی ہیں، اور نہ آپ کا کوئی کام کرسکتی ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

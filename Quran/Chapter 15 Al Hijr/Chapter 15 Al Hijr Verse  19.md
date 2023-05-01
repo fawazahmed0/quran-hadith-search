@@ -3224,6 +3224,12 @@ aur zameen ko hum ne phaila diya hai aur us par (atal) pahaad daal diye hai aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور زمین کو ہم نے (گولائی کے باوجود) پھیلا دیا اور ہم نے اس میں (مختلف مادوں کو باہم ملا کر) مضبوط پہاڑ بنا دیئے اور ہم نے اس میں ہر جنس کو (مطلوبہ) توازن کے مطابق نشو و نما دی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین کو ہم نے پھیلا دیا ہے، اور اس کو جمانے کے لیے اس میں پہاڑ رکھ دیے ہیں، اور اس میں ہر قسم کی چیزیں توازن کے ساتھ اگائی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

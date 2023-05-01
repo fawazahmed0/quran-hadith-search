@@ -3224,6 +3224,12 @@ jo baghair kisi sanadh ke, jo un ke paas aayi ho, Allah ki aayato mein jhagadte 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ اللہ کی آیتوں میں جھگڑا کرتے ہیں بغیر کسی دلیل کے جو ان کے پاس آئی ہو، (یہ جھگڑا کرنا) اللہ کے نزدیک اور ایمان والوں کے نزدیک سخت بیزاری (کی بات) ہے، اسی طرح اللہ ہر ایک مغرور (اور) سر کش کے دل پر مُہر لگا دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اپنے پاس کسی واضح دلیل کے آئے بغیر اللہ کی آیتوں میں جھگڑے نکالا کرتے ہیں۔ یہ بات اللہ کے نزدیک بھی قابل نفرت ہے اور ان لوگوں کے نزدیک بھی جو ایمان لے آئے ہیں۔ اسی طرح اللہ ہر متکبر جابر شخص کے دل پر مہر لگا دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

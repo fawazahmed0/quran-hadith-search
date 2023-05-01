@@ -3224,6 +3224,12 @@ ye kahenge ke Allah ka shukr hai, jis ne hum se apna waada pura kiya aur hamein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (جنتی) کہیں گے: تمام تعریفیں اللہ ہی کے لئے ہیں جس نے ہم سے اپنا وعدہ سچا کر دکھایا اور ہمیں سرزمینِ جنت کا وارث بنا دیا کہ ہم (اِس) جنّت میں جہاں چاہیں قیام کریں، سو نیک عمل کرنے والوں کا کیسا اچھا اجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ (جنتی) کہیں گے کہ تمام تر شکر اللہ کا ہے جس نے ہم سے اپنے وعدے کو سچا کر دکھایا اور ہمیں اس سرزمین کا ایسا وارث بنادیا کہ ہم جنت میں جہاں چاہیں اپنا ٹھکانا بنالیں۔ ثابت ہوا کہ بہترین انعام (نیک) عمل کرنے والوں کا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

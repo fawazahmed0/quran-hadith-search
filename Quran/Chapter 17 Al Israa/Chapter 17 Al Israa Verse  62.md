@@ -3224,6 +3224,12 @@ accha dekh le ise tu ne mujh par buzrugi to di hai, lekin agar mujhe bhi qayaama
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اور شیطان یہ بھی) کہنے لگا: مجھے بتا تو سہی کہ یہ وہ شخص ہے جسے تو نے مجھ پر فضیلت دی ہے (آخر اس کی کیا وجہ ہے؟) اگر تو مجھے قیامت کے دن تک مہلت دے دے تو میں اس کی اولاد کو سوائے چند افراد کے (اپنے قبضہ میں لے کر) جڑ سے اکھاڑ دوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگا : بھلا بتاؤ یہ ہے وہ مخلوق جسے تو نے میرے مقابلے میں عزت بخشی ہے۔ اگر تو نے مجھے قیامت کے دن تک مہلت دی تو میں اس کی اولاد میں سے تھوڑے سے لوگوں کو چھوڑ کر باقی سب کو جبڑوں میں لگام ڈالوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

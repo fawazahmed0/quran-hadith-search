@@ -3224,6 +3224,12 @@ aur jaan rakho ke tum mein Allah ke rasool(sallallahu alaihiwasallam) maujoodh h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جان لو کہ تم میں رسول اللہ (صلی اللہ علیہ وآلہ وسلم) موجود ہیں، اگر وہ بہت سے کاموں میں تمہارا کہنا مان لیں تو تم بڑی مشکل میں پڑ جاؤ گے لیکن اللہ نے تمہیں ایمان کی محبت عطا فرمائی اور اسے تمہارے دلوں میں آراستہ فرما دیا اور کفر اور نافرمانی اور گناہ سے تمہیں متنفر کر دیا، ایسے ہی لوگ دین کی راہ پر ثابت اور گامزن ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ بات اچھی طرح سمجھ لو کہ تمہارے درمیان اللہ کے رسول موجود ہیں۔ بہت سی باتیں ہیں جن میں وہ اگر تمہاری بات مان لیں تو خود تم مشکل میں پڑجاؤ۔ لیکن اللہ نے تمہارے دل میں ایمان کی محبت ڈال دی ہے، اور اسے تمہارے دلوں میں پرکشش بنادیا ہے، اور تمہارے اندر کفر کی اور گناہوں اور نافرمانی کی نفرت بٹھا دی ہے۔ ایسے ہی لوگ ہیں جو ٹھیک ٹھیک راستے پر آچکے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur wahi hai jis ne raath ko tumhaare liye pardah banaya aur neend ko raahath ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے تمہارے لئے رات کو پوشاک (کی طرح ڈھانک لینے والا) بنایا اور نیند کو (تمہارے لئے) آرام (کا باعث) بنایا اور دن کو (کام کاج کے لئے) اٹھ کھڑے ہونے کا وقت بنایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جس نے تمہارے لیے رات کو لباس بنایا، اور نیند کو سراپا سکون اور دن کو دوبارہ اٹھ کھڑے ہونے کا ذریعہ بنادیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

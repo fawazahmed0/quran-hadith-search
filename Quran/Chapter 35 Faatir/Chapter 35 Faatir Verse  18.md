@@ -3224,6 +3224,12 @@ koyi bhi boojh uthaane waala dosre ka boojh nahi uthaayega, agar koyi gira-baar1
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کوئی بوجھ اٹھانے والا دوسرے کا بارِ (گناہ) نہ اٹھا سکے گا، اور کوئی بوجھ میں دبا ہوا (دوسرے کو) اپنا بوجھ بٹانے کے لئے بلائے گا تو اس سے کچھ بھی بوجھ نہ اٹھایا جا سکے گا خواہ قریبی رشتہ دار ہی ہو، (اے حبیب!) آپ ان ہی لوگوں کو ڈر سناتے ہیں جو اپنے رب سے بن دیکھے ڈرتے ہیں اور نماز قائم کرتے ہیں، اور جو کوئی پاکیزگی حاصل کرتا ہے وہ اپنے ہی فائدہ کے لئے پاک ہوتا ہے، اور اللہ ہی کی طرف پلٹ کر جانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کوئی بوجھ اٹھانے والا کسی دوسرے کا بوجھ نہیں اٹھائے گا اور جس کسی پر بڑا بوجھ لدا ہوا ہو، وہ اگر کسی اور کو اس کے اٹھانے کی دعوت دے گا تو اس میں سے کچھ بھی اٹھایا نہیں جائے گا، چاہے وہ (جسے بوجھ اٹھانے کی دعوت دی گئی تھی) کوئی قریبی رشتہ دار ہی کیوں نہ ہو۔ (اے پیغمبر) تم انہی لوگوں کو خبردار کرسکتے ہو جو اپنے پروردگار کو دیکھے بغیر اس سے ڈرتے ہوں۔ اور جنہوں نے نماز قائم کی ہو، اور جو شخص پاک ہوتا ہے وہ اپنے ہی فائدے کے لیے پاک ہوتا ہے۔ اور آخرکار سب کو اللہ ہی کی طرف لوٹ کر جانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

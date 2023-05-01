@@ -3224,6 +3224,12 @@ jo shaqs dunya ki zindagi aur us ki zinath par farefta hoa chahta ho, hum aiso k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ (فقط) دنیوی زندگی اور اس کی زینت (و آرائش) کے طالب ہیں ہم ان کے اعمال کا پورا پورا بدلہ اسی دنیا میں دے دیتے ہیں اور انہیں اس (دنیا کے صلہ) میں کوئی کمی نہیں دی جاتی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ (صرف) دنیوی زندگی اور اس کی سج دھج چاہتے ہیں، ہم ان کے اعمال کا پورا پورا صلہ اسی دنیا میں بھگتا دیں گے، اور یہاں ان کے حق میں کوئی کمی نہیں ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

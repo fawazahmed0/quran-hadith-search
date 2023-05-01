@@ -3224,6 +3224,12 @@ sivaaye un ke jo imaan laaye aur nek amal kiye aur ba kasrath Allah ta’ala ka 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے ان (شعراء) کے جو ایمان لائے اور نیک عمل کرتے رہے اور اللہ کو کثرت سے یاد کرتے رہے (یعنی اللہ اور رسول صلی اللہ علیہ وآلہ وسلم کے مدح خواں بن گئے) اور اپنے اوپر ظلم ہونے کے بعد (ظالموں سے بزبانِ شعر) انتقام لیا (اور اپنے کلام کے ذریعے اسلام اور مظلوموں کا دفاع کیا بلکہ ان کاجوش بڑھایا تو یہ شاعری مذموم نہیں)، اور وہ لوگ جنہوں نے ظلم کیا عنقریب جان لیں گے کہ وہ (مرنے کے بعد) کونسی پلٹنے کی جگہ پلٹ کر جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں مگر وہ لوگ مستثنی ہیں جو ایمان لائے، اور انہوں نے نیک عمل کیے، اور اللہ کو کثرت سے یاد کیا، اور اپنے اوپر ظلم ہونے کے بعد اس کا بدلہ لیا۔ اور ظلم کرنے والوں کو عنقریب پتہ چل جائے گا کہ وہ کس انجام کی طرف پلٹ رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ munafiqo ko har waqt us bath ka khatka laga rehta hai ke kahi musalmano par koi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+منافقین اس بات سے ڈرتے ہیں کہ مسلمانوں پر کوئی ایسی سورت نازل کر دی جائے جو انہیں ان باتوں سے خبردار کر دے جو ان (منافقوں) کے دلوں میں (مخفی) ہیں۔ فرما دیجئے: تم مذاق کرتے رہو، بیشک اللہ وہ (بات) ظاہر فرمانے والا ہے جس سے تم ڈر رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 منافق لوگ اس بات سے ڈرتے ہیں کہ مسلمانوں پر کہیں کوئی ایسی سورت نازل نہ کردی جائے جو انہیں ان (منافقین) کے دلوں کی باتیں بتلا دے۔ ۔ کہہ دو کہ : (اچھا) تم مذاق اڑاتے رہو، اللہ وہ بات ظاہر کرنے والا ہے جس سے تم ڈرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

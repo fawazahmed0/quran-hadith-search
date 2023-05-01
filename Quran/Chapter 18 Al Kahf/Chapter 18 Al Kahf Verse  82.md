@@ -3224,6 +3224,12 @@ diwaar ka qissa ye hai ke us shahar mein do yateem bacche hain, jin ka qazaana u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ جو دیوار تھی تو وہ شہر میں (رہنے والے) دو یتیم بچوں کی تھی اور اس کے نیچے ان دونوں کے لئے ایک خزانہ (مدفون) تھا اور ان کا باپ صالح (شخص) تھا، سو آپ کے رب نے ارادہ کیا کہ وہ دونوں اپنی جوانی کو پہنچ جائیں اور آپ کے رب کی رحمت سے وہ اپنا خزانہ (خود ہی) نکالیں، اور میں نے (جو کچھ بھی کیا) وہ اَز خود نہیں کیا، یہ ان (واقعات) کی حقیقت ہے جن پر آپ صبر نہ کر سکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رہی یہ دیوار، تو وہ اس شہر میں رہنے والے دو یتیم لڑکوں کی تھی، اور اس کے نیچے ان کا ایک خزانہ گڑا ہوا تھا، اور ان دونوں کا باپ ایک نیک آدمی تھا۔ اس لیے آپ کے پروردگار نے یہ چاہا کہ یہ دونوں لڑکے اپنی جوانی کی عمر کو پہنچیں، اور اپنا خزانہ نکال لیں۔ یہ سب کچھ آپ کے رب کی رحمت کی بنا پر ہوا ہے، اور میں نے کوئی کام اپنی رائے سے نہیں کیا۔ یہ تھا مقصد ان باتوں کا جن پر آپ سے صبر نہیں ہوسکا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

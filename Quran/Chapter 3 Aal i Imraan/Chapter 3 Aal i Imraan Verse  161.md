@@ -3224,6 +3224,12 @@ na-mumkin hai ke nabi se qayaanath ho jaaye, har qayaanath karne waala qayaanath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کسی نبی کی نسبت یہ گمان ہی ممکن نہیں کہ وہ کچھ چھپائے گا، اور جو کوئی (کسی کا حق) چھپاتا ہے تو قیامت کے دن اسے وہ لانا پڑے گا جو اس نے چھپایا تھا، پھر ہر شخص کو اس کے عمل کا پورا بدلہ دیا جائے گا اور ان پر ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کسی نبی سے یہ نہیں ہوسکتا کہ وہ مال غنیمت میں خیانت کرے۔ اور جو کوئی خیانت کرے گا وہ قیامت کے دن وہ چیز لے کر آئے گا جو اس نے خیانت کر کے لی ہوگی، پھر ہر شخص کو اس کے کئے کا پورا پورا بدلہ دیا جائے گا، اور کسی پر کوئی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

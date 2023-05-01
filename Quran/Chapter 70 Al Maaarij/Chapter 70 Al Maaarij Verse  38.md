@@ -3224,6 +3224,12 @@ kya un mein se har ek ki tawaqqe ye hai ke wo nemato waali jannath mein daakhil 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ان میں سے ہر شخص یہ توقع رکھتا ہے کہ وہ (بغیر ایمان و عمل کے) نعمتوں والی جنت میں داخل کر دیا جائے گا؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا ان میں سے ہر شخص کو یہ لالچ ہے کہ اسے نعمتوں والی جنت میں داخل کیا جائے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

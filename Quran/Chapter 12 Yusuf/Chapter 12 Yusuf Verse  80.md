@@ -3224,6 +3224,12 @@ jab ye us se mayoos ho gaye to tanhaai mein bait kar mashwera karne lage, un mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ یوسف (علیہ السلام) سے مایوس ہوگئے تو علیحدگی میں (باہم) سرگوشی کرنے لگے، ان کے بڑے (بھائی) نے کہا: کیا تم نہیں جانتے کہ تمہارے باپ نے تم سے اللہ کی قسم اٹھوا کر پختہ وعدہ لیا تھا اور اس سے پہلے تم یوسف کے حق میں جو زیادتیاں کر چکے ہو (تمہیں وہ بھی معلوم ہیں)، سو میں اس سرزمین سے ہرگز نہیں جاؤں گا جب تک مجھے میرا باپ اجازت (نہ) دے یا میرے لئے اللہ کوئی فیصلہ فرما دے، اور وہ سب سے بہتر فیصلہ فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب وہ یوسف سے مایوس ہوگئے تو الگ ہو کر چپکے چپکے مشورہ کرنے لگے۔ ان سب میں جو بڑا تھا، اس نے کہا : کیا تمہیں معلوم نہیں کہ تمہارے والد نے تم سے اللہ کے نام پر عہد لیا تھا، اور اس سے پہلے تم یوسف کے معاملے میں جو قصور کرچکے ہو، (وہ بھی معلوم ہے) لہذا میں تو اس ملک سے اس وقت تک نہیں ٹلوں گا جب تک میرے والد مجھے اجازت نہ دیں، یا اللہ ہی میرے حق میں کوئی فیصلہ فرمادے۔ اور وہی سب سے بہتر فیصلہ کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

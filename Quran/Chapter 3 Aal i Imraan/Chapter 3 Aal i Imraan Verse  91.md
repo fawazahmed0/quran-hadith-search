@@ -3224,6 +3224,12 @@ haan jo log kufr kare, aur marte dum tak kaafir rahe, un mein se koyi agar zamee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ کافر ہوئے اور حالتِ کفر میں ہی مر گئے سو ان میں سے کوئی شخص اگر زمین بھر سونا بھی (اپنی نجات کے لئے) معاوضہ میں دینا چاہے تو اس سے ہرگز قبول نہیں کیا جائے گا، انہی لوگوں کے لئے دردناک عذاب ہے اور ان کا کوئی مددگار نہیں ہو سکے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنایا اور کافر ہونے کی حالت ہی میں مرے، ان میں سے کسی سے پوری زمین بھر کر سونا قبول نہیں کیا جائے گا، خواہ وہ اپنی جان چھڑانے کے لیے اس کی پیشکش ہی کیوں نہ کرے۔ ان کو تو دردناک عذاب ہو کر رہے گا، اور ان کو کسی قسم کے مددگار میسر نہیں آئیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

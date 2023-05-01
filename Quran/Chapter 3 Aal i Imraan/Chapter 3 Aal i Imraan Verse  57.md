@@ -3224,6 +3224,12 @@ lekin imaan waalo aur nek amaal waalo ko, Allah ta’ala un ka sawaab pura pura 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ایمان لائے اور انہوں نے نیک عمل کئے تو (اللہ) انہیں ان کا بھرپور اجر دے گا، اور اللہ ظالموں کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ جو لوگ ایمان لائے ہیں اور انہوں نے نیک عمل کیے ہیں، ان کو اللہ ان کا پورا پورا ثواب دے گا، اور اللہ ظالموں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

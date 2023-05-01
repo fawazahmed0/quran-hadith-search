@@ -3224,6 +3224,12 @@ phir un ki tamaam buraiya un par aa padi aur un mein se bhi, jo gunehgaar hai, u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو انہیں وہ برائیاں آپہنچیں جو انہوں نے کما رکھی تھیں، اور اُن لوگوں میں سے جو ظلم کر رہے ہیں انہیں (بھی) عنقریب وہ برائیاں آپہنچیں گی جو انہوں نے کما رکھی ہیں، اور وہ (اللہ کو) عاجز نہیں کرسکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے جو کمائی کی تھی، اس کی برائیاں انہی پر آپڑیں، اور ان (عرب کے) لوگوں میں جنہوں نے ظلم کا ارتکاب کیا ہے، ان کی کمائی کی برائیاں بھی عنقریب ان پر آپڑیں گی، اور یہ (اللہ) کو عاجز نہیں کرسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

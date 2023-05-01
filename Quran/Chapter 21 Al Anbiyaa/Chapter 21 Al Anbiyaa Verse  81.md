@@ -3224,6 +3224,12 @@ hum ne tundh wa tez hawa ko Sulaimaan(alaihissalaam) ke taabe kar diya, jo us ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ہم نے) سلیمان (علیہ السلام) کے لئے تیز ہوا کو (مسخّر کردیا) جو ان کے حکم سے (جملہ اَطراف و اَکناف سے) اس سرزمینِ (شام) کی طرف چلا کرتی تھی جس میں ہم نے برکتیں رکھی ہیں، اور ہم ہر چیز کو (خوب) جاننے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے تیز چلتی ہوئی ہوا کو سلیمان کے تابع کردیا تھا جو ان کے حکم سے اس سرزمین کی طرف چلتی تھی جس میں ہم نے برکتیں رکھی ہیں۔ اور ہمیں ہر ہر بات کا پورا پورا علم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

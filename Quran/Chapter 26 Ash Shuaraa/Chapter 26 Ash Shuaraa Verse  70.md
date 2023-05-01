@@ -3224,6 +3224,12 @@ jab ke unhone apne baap aur apni khaum se farmaya ke tum kis ki ibaadath karte h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب انہوں نے اپنے باپ ٭ اور اپنی قوم سے فرمایا: تم کس چیز کو پوجتے ہوo٭ (یہ حقیقی باپ نہ تھا، چچا تھا۔ اسی نے حضرت ابراہیم علیہ السلام کی پرورش کی تھی جس کی وجہ سے اسے باپ کہا کرتے تھے۔ اس کا نام آزر ہے جبکہ آپ کے حقیقی والد کا نام تارخ ہے۔)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب انہوں نے اپنے باپ اور اپنی قوم سے کہا تھا کہ : تم کس چیز کی عبادت کرتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

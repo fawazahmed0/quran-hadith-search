@@ -3224,6 +3224,12 @@ aye imaan waalo! agar tum Allah (ke deen) ki madad karoge to wo tumhaari madad k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اگر تم اللہ (کے دین) کی مدد کرو گے تو وہ تمہاری مدد فرمائے گا اور تمہارے قدموں کو مضبوط رکھے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اگر تم اللہ (کے دین) کی مدد کرو گے تو وہ تمہاری مدد کرے گا، اور تمہارے قدم جما دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

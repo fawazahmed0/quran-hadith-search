@@ -3224,6 +3224,12 @@ jab bacchi ko jana, to kehne lagi ke parvardigaar! mujhe to ladki hoyi, Allah ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب اس نے لڑکی جنی تو عرض کرنے لگی: مولا! میں نے تو یہ لڑکی جنی ہے، حالانکہ جو کچھ اس نے جنا تھا اللہ اسے خوب جانتا تھا، (وہ بولی:) اور لڑکا (جو میں نے مانگا تھا) ہرگز اس لڑکی جیسا نہیں (ہو سکتا) تھا (جو اللہ نے عطا کی ہے)، اور میں نے اس کا نام ہی مریم (عبادت گزار) رکھ دیا ہے اور بیشک میں اس کو اور اس کی اولاد کو شیطان مردود (کے شر) سے تیری پناہ میں دیتی ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب ان سے لڑکی پیدا ہوئی تو وہ (حسرت سے) کہنے لگیں : یا رب یہ تو مجھ سے لڑکی پیدا ہوگئی ہے۔ حالانکہ اللہ کو خوب علم تھا کہ ان کے یہاں کیا پیدا ہوا ہے۔ اور لڑکا لڑکی جیسا نہیں ہوتا، میں نے اس کا نام مریم رکھ دیا ہے اور میں اسے اور اس کی اولاد کو شیطان مردود سے حفاظت کے لیے آپ کی پناہ میں دیتی ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

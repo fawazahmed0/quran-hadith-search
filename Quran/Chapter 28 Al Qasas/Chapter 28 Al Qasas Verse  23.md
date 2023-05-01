@@ -3224,6 +3224,12 @@ madyan ke paani par jab aap pahonche, to dekha ke logo ki ek jamaath wahaan paan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ مَدْيَنَْ کے پانی (کے کنویں) پر پہنچے تو انہوں نے اس پر لوگوں کا ایک ہجوم پایا جو (اپنے جانوروں کو) پانی پلا رہے تھے اور ان سے الگ ایک جانب دو عورتیں دیکھیں جو (اپنی بکریوں کو) روکے ہوئے تھیں (موسٰی علیہ السلام نے) فرمایا: تم دونوں اس حال میں کیوں (کھڑی) ہو؟ دونوں بولیں کہ ہم (اپنی بکریوں کو) پانی نہیں پلا سکتیں یہاں تک کہ چرواہے (اپنے مویشیوں کو) واپس لے جائیں، اور ہمارے والد عمر رسیدہ بزرگ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب وہ مدین کے کنویں پر پہنچے تو دیکھا کہ اس پر ایسے لوگوں کا ایک مجمع ہے جو اپنے جانوروں کو پانی پلا رہے ہیں، اور دیکھا کہ ان سے پہلے دو عورتیں ہیں جو اپنے جانوروں کو روکے کھڑی ہیں۔ موسیٰ نے ان سے کہا : تم کیا چاہتی ہو ؟ ان دونوں نے کہا : ہم اپنے جانوروں کو اس وقت تک پانی نہیں پلا سکتیں جب تک سارے چرواہے پانی پلا کر نکل نہیں جاتے، اور ہمارے والد بہت بوڑھے آدمی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

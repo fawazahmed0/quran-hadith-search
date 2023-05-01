@@ -3224,6 +3224,12 @@ fauran jawaab denge ke Allah ki, keh dijiye ke phir tum nasihath kyo nahi haasil
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ فوراً بول اٹھیں گے کہ (سب کچھ) اللہ کا ہے، (تو) آپ فرمائیں: پھر تم نصیحت قبول کیوں نہیں کرتے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ضرور یہی کہیں گے کہ : یہ سب کچھ اللہ کا ہے۔ کہو کہ : کیا پھر بھی تم سبق نہیں لیتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

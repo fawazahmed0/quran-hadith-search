@@ -3224,6 +3224,12 @@ phir hum ne Mosa ko kitaab di thi jis se acchi tarah amal karne waalo par nemath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے موسٰی (علیہ السلام) کو کتاب عطا کی اس شخص پر (نعمت) پوری کرنے کے لئے جو نیکو کار بنے اور (اسے) ہر چیز کی تفصیل اور ہدایت اور رحمت بنا کر (اتارا) تاکہ وہ (لوگ قیامت کے دن) اپنے رب سے ملاقات پر ایمان لائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے موسیٰ کو کتاب عطا کی تھی جس کا مقصد یہ تھا کہ نیک لوگوں پر اللہ کی نعمت پوری ہو، اور ہر چیز کی تفصیل بیان کردی جائے، اور وہ (لوگوں کے لیے) رہنمائی اور رحمت کا سبب بنے، تاکہ وہ (آخرت میں) اپنے پروردگار سے جا ملنے پر ایمان لے آئیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap ko to kabhi us ka qayaal bhi na guzra tha ke aap ki taraf kitaab naazil farm
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم (حضور صلی اللہ علیہ وآلہ وسلم کی وساطت سے اُمتِ محمدی کو خطاب ہے) اس بات کی امید نہ رکھتے تھے کہ تم پر (یہ) کتاب اتاری جائے گی مگر (یہ) تمہارے رب کی رحمت (سے اتری) ہے، پس تم ہرگز کافروں کے مددگار نہ بننا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تمہیں پہلے سے یہ امید نہیں تھی کہ تم پر یہ کتاب نازل کی جائے گی، لیکن یہ تمہارے رب کی طرف سے رحمت ہے، لہذا کافروں کے ہرگز مددگار نہ بننا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

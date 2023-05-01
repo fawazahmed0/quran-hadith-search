@@ -3224,6 +3224,12 @@ aur ek kashti hamari aankho ke samne aur hamari wahi se tayyar kar, aur zalimo k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم ہمارے حکم کے مطابق ہمارے سامنے ایک کشتی بناؤ اور ظالموں کے بارے میں مجھ سے (کوئی) بات نہ کرنا، وہ ضرور غرق کئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہماری نگرانی میں اور ہماری وحی کی مدد سے کشتی بناؤ، اور جو لوگ ظالم بن چکے ہیں ان کے بارے میں مجھ سے کوئی بات نہ کرنا۔ یہ اب غرق ہو کر رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

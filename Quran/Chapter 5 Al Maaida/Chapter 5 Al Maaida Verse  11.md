@@ -3224,6 +3224,12 @@ ae iman walo! Allah tala ne jo ehsan tum par kiya hai ose yad karo jab ke ek kha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اللہ کے (اُس) انعام کو یاد کرو (جو) تم پر ہوا جب قوم (کفّار) نے یہ ارادہ کیا کہ اپنے ہاتھ (قتل و ہلاکت کے لئے) تمہاری طرف دراز کریں تو اللہ نے ان کے ہاتھ تم سے روک دیئے، اور اللہ سے ڈرتے رہو، اور ایمان والوں کو اللہ ہی پر بھروسہ رکھنا چاہئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ نے تم پر جو انعام فرمایا اس کو یاد کرو۔ جب کچھ لوگوں نے ارادہ کیا تھا کہ تم پر دست درازی کریں، تو اللہ نے تمہیں نقصان پہنچانے سے ان کے ہاتھ روک دئیے اور (اس نعمت کا شکر یہ ہے کہ) اللہ کا رعب دل میں رکھتے ہوئے عمل کرو، اور مومنوں کو صرف اللہ ہی پر بھروسہ رکھنا چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

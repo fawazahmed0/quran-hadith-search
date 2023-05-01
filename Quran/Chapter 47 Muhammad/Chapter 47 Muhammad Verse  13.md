@@ -3224,6 +3224,12 @@ hum ne kitni bastiyo ko jo taaqath mein teri us basti se zyaada thi, jis se tujh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب!) کتنی ہی بستیاں تھیں جن کے باشندے (وسائل و اقتدار میں) آپ کے اس شہر (مکّہ کے باشندوں) سے زیادہ طاقتور تھے جس (کے مقتدر وڈیروں) نے آپ کو (بصورتِ ہجرت) نکال دیا ہے، ہم نے انہیں (بھی) ہلاک کر ڈالا پھر ان کا کوئی مددگار نہ ہوا (جو انہیں بچا سکتا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کتنی بستیاں ہیں جو طاقت میں تمہاری اس بستی سے زیادہ مضبوط تھیں جس نے (اے پیغمبر) تمہیں نکالا ہے۔ ان سب کو ہم نے ہلاک کردیا، اور ان کا کوئی مددگار نہ ہوا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

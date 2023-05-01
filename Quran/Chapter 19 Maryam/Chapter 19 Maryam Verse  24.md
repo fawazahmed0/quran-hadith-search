@@ -3224,6 +3224,12 @@ itne mein ose niche se hee awaaz di ke, aazur da qaatir na ho, tere rub ne tere 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان کے نیچے کی جانب سے (جبرائیل نے یا خود عیسٰی علیہ السلام نے) انہیں آواز دی کہ تو رنجیدہ نہ ہو، بیشک تمہارے رب نے تمہارے نیچے ایک چشمہ جاری کر دیا ہے (یا تمہارے نیچے ایک عظیم المرتبہ انسان کو پیدا کر کے لٹا دیا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر فرشتے نے ان کے نیچے ایک جگہ سے انہیں آواز دی کہ : غم نہ کرو، تمہارے رب نے تمہارے نیچے ایک چشمہ پیدا کردیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya tum nahi dekhte ke Allah ta’ala ne upar ta-le kis tarah saath asmaan payda
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم نے نہیں دیکھا کہ اللہ نے کس طرح سات (یا متعدّد) آسمانی کرّے باہمی مطابقت کے ساتھ (طبق در طبق) پیدا فرمائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے یہ نہیں دیکھا کہ اللہ نے کس طرح سات آسمان اوپر تلے پیدا فرمائے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

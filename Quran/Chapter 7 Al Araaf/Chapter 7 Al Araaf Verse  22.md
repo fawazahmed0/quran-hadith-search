@@ -3224,6 +3224,12 @@ so un duno ko fareb se niche le aaya, pas un duno ne jab daraqt ko chaka,duno ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح اس نے دونوں کو دھوکا دے کر نیچے اتار ہی لیا۔ چنانچہ جب دونوں نے اس درخت کا مزہ چکھا تو ان دونوں کی شرم کی جگہیں ایک دوسرے پر کھل گئیں، اور وہ جنت کے کچھ پتے جوڑ جوڑ کر اپنے بدن پر چپکانے لگے۔ اور ان کے پروردگار نے انہیں آواز دی کہ : کیا میں نے تم دونوں کو اس درخت سے روکا نہیں تھا، اور تم سے یہ نہیں کہا تھا کہ شیطان تم دونوں کا کھلا دشمن ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

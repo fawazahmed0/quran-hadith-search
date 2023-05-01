@@ -3224,6 +3224,12 @@ soodh qoor log na khade honge magar isi tarah jis tarah wo khada hota hai jise s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ سُود کھاتے ہیں وہ (روزِ قیامت) کھڑے نہیں ہو سکیں گے مگر جیسے وہ شخص کھڑا ہوتا ہے جسے شیطان (آسیب) نے چھو کر بدحواس کر دیا ہو، یہ اس لئے کہ وہ کہتے تھے کہ تجارت (خرید و فروخت) بھی تو سود کی مانند ہے، حالانکہ اللہ نے تجارت (سوداگری) کو حلال فرمایا ہے اور سود کو حرام کیا ہے، پس جس کے پاس اس کے رب کی جانب سے نصیحت پہنچی سو وہ (سود سے) باز آگیا تو جو پہلے گزر چکا وہ اسی کا ہے، اور اس کا معاملہ اللہ کے سپرد ہے، اور جس نے پھر بھی لیا سو ایسے لوگ جہنمی ہیں، وہ اس میں ہمیشہ رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ سود کھاتے ہیں وہ (قیامت میں) اٹھیں گے تو اس شخص کی طرح اٹھیں گے جسے شیطان نے چھوکر پاگل بنادیا ہو، یہ اس لیے ہوگا کہ انہوں نے کہا تھا کہ : بیع بھی تو سود ہی کی طرح ہوتی ہے۔ حالانکہ اللہ نے بیع کو حلال کیا ہے اور سود کو حرام قرار دیا ہے۔ لہذا جس شخص کے پاس اس کے پروردگار کی طرف سے نصیحت آگئی اور وہ (سودی معاملات سے) باز آگیا تو ماضی میں جو کچھ ہوا وہ اسی کا ہے۔ اور اس (کی باطنی کیفیت) کا معاملہ اللہ کے حوالے ہے۔ اور جس شخص نے لوٹ کر پھر وہی کام کیا تو ایسے لوگ دوزخی ہیں، وہ ہمیشہ اسی میں رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

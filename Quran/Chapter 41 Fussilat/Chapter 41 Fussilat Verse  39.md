@@ -3224,6 +3224,12 @@ us Allah ki nishaaniyo mein se (ye bhi) hai ke tu zameen ko dabi dabaayi dekhta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس کی نشانیوں میں سے یہ بھی ہے کہ آپ (پہلے) زمین کو خشک (اور بے قدر) دیکھتے ہیں پھر جب ہم اس پر پانی برساتے ہیں تو وہ سرسبز و شاداب ہو جاتی ہے اور نمو پانے لگتی ہے، بے شک وہ ذات جس نے اس (مردہ زمین) کو زندہ کیا ہے یقیناً وہی (روزِ قیامت) مُردوں کو زندہ فرمانے والا ہے۔ بے شک وہ ہر چیز پر خوب قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کی نشانیوں میں سے یہ بھی ہے کہ تم زمین کو دیکھتے ہو کہ وہ مرجھائی پڑی ہے۔ پھر جونہی ہم نے اس پر پانی اتارا، وہ حرکت میں آگئی، اور اس میں بڑھوتری پیدا ہوگئی، حقیقت یہ ہے کہ جس نے اس زمین کو زندہ کیا وہی مردوں کو بھی زندہ کرنے والا ہے۔ یقینا وہ ہر چیز پر قادر ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

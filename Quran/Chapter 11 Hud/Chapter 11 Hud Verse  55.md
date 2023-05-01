@@ -3224,6 +3224,12 @@ accha tum sub mil kar mere qilaaf chaale chal lo aur mujhe bilkul mahulath bhi n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس (اللہ) کے سوا تم سب (بشمول تمہارے معبودانِ باطلہ) مل کر میرے خلاف (کوئی) تدبیر کرلو پھر مجھے مہلت بھی نہ دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب تم سب کے سب ملکر میرے خلاف چالیں چل لو، اور مجھے ذرا مہلت نہ دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

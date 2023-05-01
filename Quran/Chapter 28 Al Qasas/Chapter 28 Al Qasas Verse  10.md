@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ki waalida ka dil be qaraar ho gaya, qareeb thi ke is waaqe 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور موسٰی (علیہ السلام) کی والدہ کا دل (صبر سے) خالی ہوگیا، قریب تھا کہ وہ (اپنی بے قراری کے باعث) اس راز کو ظاہر کردیتیں اگر ہم ان کے دل پر صبر و سکون کی قوّت نہ اتارتے تاکہ وہ (وعدۂ الٰہی پر) یقین رکھنے والوں میں سے رہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ادھر موسیٰ کی والدہ کا دل بےقرار تھا۔ قریب تھا کہ وہ یہ سارا راز کھول دیتیں، اگر ہم نے ان کے دل کو سنبھالا نہ ہوتا، تاکہ وہ (ہمارے وعدے پر) یقین کیے رہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

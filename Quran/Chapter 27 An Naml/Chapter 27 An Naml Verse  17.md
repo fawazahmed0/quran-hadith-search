@@ -3224,6 +3224,12 @@ Sulaimaan(alaihissalaam) ke saamne unke tamaam lashkar jinnaath aur insaan aur p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور سلیمان (علیہ السلام) کے لئے ان کے لشکر جنّوں اور انسانوں اور پرندوں (کی تمام جنسوں) میں سے جمع کئے گئے تھے، چنانچہ وہ بغرضِ نظم و تربیت (ان کی خدمت میں) روکے جاتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور سلیمان کے لیے ان کے سارے لشکر جمع کردیے گئے تھے جو جنات، انسانوں اور پرندوں پر مشتمل تھے، چنانچہ انہیں قابو میں رکھا جاتا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

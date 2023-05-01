@@ -3224,6 +3224,12 @@ keh di jiye ke aye ahle kitaab! apne deen mein na-haq ghulo aur zyaadati na karo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئیے: اے اہلِ کتاب! تم اپنے دین میں ناحق حد سے تجاوز نہ کیا کرو اور نہ ان لوگوں کی خواہشات کی پیروی کیا کرو جو (بعثتِ محمدی صلی اللہ علیہ وآلہ وسلم سے) پہلے ہی گمراہ ہو چکے تھے اور بہت سے (اور) لوگوں کو (بھی) گمراہ کرگئے اور (بعثتِ محمدی صلی اللہ علیہ وآلہ وسلم کے بعد بھی) سیدھی راہ سے بھٹکے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور ان سے یہ بھی کہو کہ) اے اہل کتاب ! اپنے دین میں ناحق غلو نہ کرو اور ان لوگوں کی خواہشات کے پیچھے نہ چلو جو پہلے خود بھی گمراہ ہوئے، بہت سے دوسروں کو بھی گمراہ کیا، اور سیدھے راستے سے بھٹک گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

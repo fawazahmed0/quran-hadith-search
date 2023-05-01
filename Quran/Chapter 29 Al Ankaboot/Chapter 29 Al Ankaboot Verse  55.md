@@ -3224,6 +3224,12 @@ us din un ke upar ta le se unhe azaab dhaanp raha hoga aur Allah ta’ala farmaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن عذاب انہیں ان کے اوپر سے اور ان کے پاؤں کے نیچے سے ڈھانپ لے گا تو ارشاد ہوگا: تم ان کاموں کا مزہ چکھو جو تم کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن جب عذاب ان پر اوپر سے بھی چھا جائے گا، اور ان کے پاؤں کے نیچے سے بھی، اور کہے گا کہ : چکھو ان کاموں کا مزہ جو تم کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

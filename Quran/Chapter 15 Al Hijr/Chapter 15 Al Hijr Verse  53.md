@@ -3224,6 +3224,12 @@ unhone kaha daro nahi, hum tujhe ek saahebe ilm farzand ki bashaarat dete hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(مہمان فرشتوں نے) کہا: آپ خائف نہ ہوں ہم آپ کو ایک دانش مند لڑکے (کی پیدائش) کی خوشخبری سناتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : ڈریے نہیں، ہم تو آپ کو ایک صاحب علم لڑکے (کی ولادت) کی خوشخبری دے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

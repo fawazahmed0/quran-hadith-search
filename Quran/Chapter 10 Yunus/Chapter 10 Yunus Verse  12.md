@@ -3224,6 +3224,12 @@ aur jab insan ko koi taklif pahochti hai tuh hum ko pukarta hai lete bhi,baite b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب (ایسے) انسان کو کوئی تکلیف پہنچتی ہے تو وہ ہمیں اپنے پہلو پر لیٹے یا بیٹھے یا کھڑے پکارتا ہے، پھر جب ہم اس سے اس کی تکلیف دور کردیتے ہیں تو وہ (ہمیں بھلا کر اس طرح) چل دیتا ہے گویا اس نے کسی تکلیف میں جو اسے پہنچی تھی ہمیں (کبھی) پکارا ہی نہیں تھا۔ اسی طرح حد سے بڑھنے والوں کے لئے ان کے (غلط) اَعمال آراستہ کر کے دکھائے گئے ہیں جو وہ کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب انسان کو کوئی تکلیف پہنچتی ہے تو وہ لیٹے بیٹھے اور کھڑے ہوئے (ہر حالت میں) ہمیں پکارتے ہیں۔ پھر جب ہم اس کی تکلیف دور کردیتے ہیں تو اس طرح چل کھڑا ہوتا ہے جیسے کبھی اپنے آپ کو پہنچنے والی کسی تکلیف میں ہمیں پکارا ہی نہ تھا۔ جو لوگ حد سے گزر جاتے ہیں، انہیں اپنے کرتوت اسی طرح خوشنما معلوم ہوتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur un mein baaz (aise bhi hai ke) teri taraf kaan lagaate hai, yahaa tak ke jab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان میں سے بعض وہ لوگ بھی ہیں جو آپ کی طرف (دل اور دھیان لگائے بغیر) صرف کان لگائے سنتے رہتے ہیں یہاں تک کہ جب وہ آپ کے پاس سے نکل کر (باہر) جاتے ہیں تو ان لوگوں سے پوچھتے ہیں جنہیں علمِ (نافع) عطا کیا گیا ہے کہ ابھی انہوں نے (یعنی رسول اللہ صلی اللہ علیہ وآلہ وسلم نے) کیا فرمایا تھا؟ یہی وہ لوگ ہیں جن کے دلوں پر اللہ نے مہر لگا دی ہے اور وہ اپنی خواہشات کی پیروی کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ان میں سے کچھ لوگ وہ ہیں جو تمہاری باتیں کانوں سے تو سنتے ہیں، لیکن جب تمہارے پاس سے نکل کر جاتے ہیں تو جنہیں علم عطا ہوا ہے ان سے پوچھتے ہیں کہ : ابھی ابھی آپ (صلی اللہ علیہ وآلہ وسلم) نے کیا کہا تھا ؟ یہ وہ لوگ ہیں جن کے دلوں پر اللہ نے مہر لگا دی ہے، اور جو اپنی نفسانی خواہشات کے پیچھے لگ گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

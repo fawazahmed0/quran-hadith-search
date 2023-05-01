@@ -3224,6 +3224,12 @@ jin logo ko hamare paas ane ka yaqin nahi aur wo dunyawi zindagi par razi ho gae
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ہم سے ملنے کی امید نہیں رکھتے اور دنیوی زندگی سے خوش ہیں اور اسی سے مطمئن ہوگئے ہیں اور جو ہماری نشانیوں سے غافل ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ہم سے (آخرت میں) آملنے کی کوئی توقع ہی نہیں رکھتے، اور دنیوی زندگی میں مگن اور اسی پر مطمئن ہوگئے ہیں، اور جو ہماری نشانیوں سے غافل ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya ye log zameen mein chale phire nahi, ke dekhte ke jo log un se pehle thein, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا یہ لوگ زمین میں چلے پھرے نہیں کہ دیکھ لیتے ان لوگوں کا انجام کیسا ہوا جو ان سے پہلے تھے، وہ لوگ قوّت میں (بھی) اِن سے بہت زیادہ تھے اور اُن آثار و نشانات میں (بھی) جو زمین میں (چھوڑ گئے) تھے۔ پھر اللہ نے ان کے گناہوں کی وجہ سے انہیں پکڑ لیا، اور ان کے لئے اللہ (کے عذاب) سے بچانے والا کوئی نہ تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا ان لوگوں نے زمین میں چل پھر کر یہ نہیں دیکھا کہ جو لوگ ان سے پہلے تھے، ان کا کیسا انجام ہوچکا ہے۔ وہ طاقت میں بھی ان سے زیادہ مضبوط تھے، اور زمین میں چھوڑی ہوئی یادگاروں کے اعتبار سے بھی۔ پھر اللہ نے ان کے گناہوں کی وجہ سے انہیں پکڑ میں لے لیا۔ اور کوئی نہیں تھا جو انہیں اللہ سے بچائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

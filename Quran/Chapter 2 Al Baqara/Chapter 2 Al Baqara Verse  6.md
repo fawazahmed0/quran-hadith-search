@@ -3224,6 +3224,12 @@ kaafiro ko aap ka darsana ya na daraana baraabar hai, ye log imaan na layenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جنہوں نے کفر اپنا لیا ہے ان کے لئے برابر ہے خواہ آپ انہیں ڈرائیں یا نہ ڈرائیں، وہ ایمان نہیں لائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک وہ لوگ جنہوں نے کفر اپنا لیا ہے ان کے حق میں دونوں باتیں برابر ہیں، چاہے آپ ان کو ڈرائیں یا نہ ڈرائیں وہ ایمان نہیں لائیں گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

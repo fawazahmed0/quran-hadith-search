@@ -3224,6 +3224,12 @@ kaash! ye kaafir jaante ke us waqt na to ye kaafir aag ko apne chehro se hata sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر کافر لوگ وہ وقت جان لیتے جبکہ وہ (دوزخ کی) آگ کو نہ اپنے چہروں سے روک سکیں گے اور نہ اپنی پشتوں سے اور نہ ہی ان کی مدد کی جائے گی (تو پھر عذاب طلب کرنے میں جلدی کا شور نہ کرتے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کاش ان کافروں کو اس وقت کی کچھ خبر لگ جاتی جب یہ نہ اپنے چہروں سے آگ کو دور کرسکیں گے، اور نہ اپنی پشتوں سے، اور نہ ان کو کوئی مدد میسر آئے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

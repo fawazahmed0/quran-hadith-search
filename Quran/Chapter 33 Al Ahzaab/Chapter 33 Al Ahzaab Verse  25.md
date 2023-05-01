@@ -3224,6 +3224,12 @@ aur Allah ta’ala ne kaafiro ko ghusse mein bhare hoye hee, (na muraadh) lauta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے کافروں کو ان کے غصّہ کی جلن کے ساتھ (مدینہ سے نامراد) واپس لوٹا دیا کہ وہ کوئی کامیابی نہ پا سکے، اور اللہ ایمان والوں کے لئے جنگِ (احزاب) میں کافی ہوگیا، اور اللہ بڑی قوت والا عزت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ کافر تھے، اللہ نے انہیں ان کے سارے غیظ و غضب کے ساتھ اس طرح پسپا کردیا کہ وہ کوئی فائدہ حاصل نہ کرسکے۔ اور مومنوں کی طرف سے لڑائی کے لیے اللہ خود کافی ہوگیا۔ اور اللہ بڑی قوت کا، بڑے اقتدار کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

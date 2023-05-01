@@ -3224,6 +3224,12 @@ osi ka natija hoga ke qayamath ke din ye log apne pure bojh ke saath hee un ke b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ سب کچھ اس لئے کہہ رہے ہیں) تاکہ روزِ قیامت وہ اپنے (اعمالِ بد کے) پورے پورے بوجھ اٹھائیں اور کچھ بوجھ اُن لوگوں کے بھی (اٹھائیں) جنہیں (اپنی) جہالت کے ذریعہ گمراہ کئے جا رہے ہیں، جان لو! بہت بُرا بوجھ ہے جو یہ اٹھا رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان باتوں کا) نتیجہ یہ ہے کہ وہ قیامت کے دن خود اپنے (گناہوں) کے پورے پورے بوجھ بھی اپنے اوپر لادیں گے، اور ان لوگوں کے بوجھ کا ایک حصہ بھی جنہیں یہ کسی علم کے بغیر گمراہ کر رہے ہیں۔ یاد رکھو کہ بہت برا بوجھ ہے جو یہ لاد رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

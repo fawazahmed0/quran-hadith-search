@@ -3224,6 +3224,12 @@ lekin jin logo ne kufr kiya, to (main un se kahonga) kya meri aayate tumhe sunaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے کُفر کیا (اُن سے کہا جائے گا:) کیا میری آیتیں تم پر پڑھ پڑھ کر نہیں سنائی جاتی تھیں، پس تم نے تکبّر کیا اور تم مُجرم لوگ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رہے وہ لوگ جنہوں نے کفر اپنا لیا تھا، (ان سے کہا جائے گا کہ) بھلا کیا تمہارے سامنے میری آیتیں نہیں پڑھی جاتی تھیں ؟ پھر بھی تم نے تکبر سے کام لیا، اور مجرم بنے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

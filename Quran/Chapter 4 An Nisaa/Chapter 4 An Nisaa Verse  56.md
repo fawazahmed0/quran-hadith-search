@@ -3224,6 +3224,12 @@ jin logo ne hamaari aayato se kufr kiya unhe hum yaqinan aag mein daal denge,jab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جن لوگوں نے ہماری آیتوں سے کفر کیا ہم عنقریب انہیں (دوزخ کی) آگ میں جھونک دیں گے، جب ان کی کھالیں جل جائیں گی تو ہم انہیں دوسری کھالیں بدل دیں گے تاکہ وہ (مسلسل) عذاب (کا مزہ) چکھتے رہیں، بیشک اللہ غالب حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک جن لوگوں نے ہماری آیتوں سے انکار کیا ہے، ہم انہیں آگ میں داخل کریں گے، جب بھی ان کی کھالیں جل جل کر پک جائیں گی، تو ہم انہیں ان کے بدلے دوسری کھالیں دے دیں گے تاکہ وہ عذاب کا مزہ چکھیں۔ بیشک اللہ صاحب اقتدار بھی ہے، صاحب حکمت بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

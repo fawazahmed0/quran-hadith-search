@@ -3224,6 +3224,12 @@ aur tumhe qoob pay dar pay maal aur aulaad mein taraqqi dega aur tumhe baghaath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہاری مدد اَموال اور اولاد کے ذریعے فرمائے گا اور تمہارے لئے باغات اُگائے گا اور تمہارے لئے نہریں جاری کر دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے مال اور اولاد میں ترقی دے گا، اور تمہارے لیے باغات پیدا کرے گا، اور تمہاری خاطر نہریں مہیا کردے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

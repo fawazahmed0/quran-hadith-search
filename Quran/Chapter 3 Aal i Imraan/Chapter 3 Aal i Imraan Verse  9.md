@@ -3224,6 +3224,12 @@ aye hamaare rab! tu yaqinan logo ko ek din jama karne waala hai jis ke aane mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! بیشک تو اس دن کہ جس میں کوئی شک نہیں سب لوگوں کو جمع فرمانے والا ہے، یقینا اللہ (اپنے) وعدہ کے خلاف نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمارے پروردگار تو تمام انسانوں کو ایک ایسے دن جمع کرنے والا ہے جس کے آنے میں کوئی شک نہیں۔ بیشک اللہ اپنے وعدے کی خلاف ورزی نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

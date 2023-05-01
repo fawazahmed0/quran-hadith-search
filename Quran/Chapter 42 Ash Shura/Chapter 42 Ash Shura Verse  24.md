@@ -3224,6 +3224,12 @@ kya ye kehte hai ke (paighambar ne) Allah par jhoot baandha hai, agar Allah ta�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا یہ لوگ کہتے ہیں کہ اس (رسول صلی اللہ علیہ وآلہ وسلم) نے اللہ پر جھوٹا بہتان تراشا ہے، سو اگر اللہ چاہے توآپ کے قلبِ اطہر پر (صبر و استقامت کی) مُہر ثبت فرما دے (تاکہ آپ کو اِن کی بیہودہ گوئی کا رنج نہ پہنچے)، اور اللہ باطل کو مٹا دیتا ہے اور اپنے کلمات سے حق کو ثابت رکھتا ہے۔ بیشک وہ سینوں کی باتوں کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا یہ لوگ یوں کہتے ہیں کہ اس شخص نے یہ کلام خود گھڑ کر جھوٹ موٹ اللہ کے ذمے لگا دیا ہے ؟ حالانکہ اگر اللہ چاہے تو تمہارے دل پر مہر لگا دے، اور اللہ تو باطل کو مٹاتا ہے، اور حق کو اپنے کلمات کے ذریعے ثابت کرتا ہے، یقینا وہ سینوں میں چھپی ہوئی باتوں تک کو جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ imaan na laane walo se keh dijiye ke tum apne taur par amal kiye jao hum bhi ama
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ ان لوگوں سے جو ایمان نہیں لاتے فرما دیں: تم اپنی جگہ عمل کرتے رہو (اور) ہم (اپنے مقام پر) عمل پیرا ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان نہیں لارہے ہیں، ان سے کہو کہ : تم اپنی موجودہ حالت پر عمل کیے جاؤ، ہم بھی (اپنے طریقے پر) عمل کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

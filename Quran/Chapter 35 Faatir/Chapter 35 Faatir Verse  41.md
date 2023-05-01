@@ -3224,6 +3224,12 @@ yaqini baath hai ke Allah ta’ala asmaano aur zameen ko thaame hoye hai ke wo t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ آسمانوں اور زمین کو (اپنے نظامِ قدرت کے ذریعے) اس بات سے روکے ہوئے ہے کہ وہ (اپنی اپنی جگہوں اور راستوں سے) ہٹ سکیں، اور اگر وہ دونوں ہٹنے لگیں تو اس کے بعد کوئی بھی ان دونوں کو روک نہیں سکتا، بیشک وہ بڑا بُردبار، بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ اللہ نے آسمانوں اور زمین کو تھام رکھا ہے کہ وہ اپنی جگہ سے ٹلیں نہیں، اور اگر وہ ٹل جائیں تو اس کے سوا کوئی نہیں ہے جو انہیں تھام سکے۔ یقینا اللہ بڑا بردبار، بہت بخشنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

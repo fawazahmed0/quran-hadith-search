@@ -3224,6 +3224,12 @@ ta ke Allah ta’ala tumhaare kaam sawaar de aur tumhaare gunaah maaf farma de a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ تمہارے لئے تمہارے (سارے) اعمال درست فرما دے گا اور تمہارے گناہ تمہارے لئے بخش دے گا، اور جو شخص اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی فرمانبرداری کرتا ہے تو بیشک وہ بڑی کامیابی سے سرفراز ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ تمہارے فائدے کے لیے تمہارے کام سنوار دے گا، اور تمہارے گناہوں کی مغفرت کردے گا۔ اور جو شخص اللہ اور اس کے رسول کی اطاعت کرے، اس نے وہ کامیابی حاصل کرلی جو زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

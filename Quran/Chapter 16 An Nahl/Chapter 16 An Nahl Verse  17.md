@@ -3224,6 +3224,12 @@ to kya wo jo paida karta hai us jaisa hai jo paida nahi kar saakta? kya tum bilk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ خالق جو (اتنا کچھ) پیدا فرمائے اس کے مثل ہو سکتا ہے جو (کچھ بھی) پیدا نہ کر سکے، کیا تم لوگ نصیحت قبول نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب بتاؤ کہ جو کچھ پیدا نہیں کرتے ؟ کیا پھر بھی تم کوئی سبق نہیں لیتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ lekin phir is liye ke tum shukr guzaari karo us mauth ke baadh bhi hum ne tumhe 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے تمہارے مرنے کے بعد تمہیں (دوبارہ) زندہ کیا تاکہ تم (ہمارا) شکر ادا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نتیجہ یہ ہوا کہ کڑکے نے تمہیں اس طرح آپکڑا کہ تم دیکھتے رہ گئے پھر ہم نے تمہیں تمہارے مرنے کے بعد دوسری زندگی دی تاکہ تم شکر گزار بنو۔ ف
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

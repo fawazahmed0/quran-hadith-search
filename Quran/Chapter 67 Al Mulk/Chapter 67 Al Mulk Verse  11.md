@@ -3224,6 +3224,12 @@ pas unhone apne jurm ka eqbaal kar liya, ab ye dozakhi dafa ho (door ho)
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس وہ اپنے گناہ کا اِعتراف کر لیں گے، سو دوزخ والوں کے لئے (رحمتِ اِلٰہی سے) دُوری (مقرر) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح وہ اپنے گناہ کا خود اعتراف کرلیں گے۔ غرض پھٹکار ہے دوزخ والوں پر۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

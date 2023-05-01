@@ -3224,6 +3224,12 @@ aye jinnaath aur insaano ki jamaath! kya tumhaare paas tum mein se hee paighamba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے گروہِ جن و انس! کیا تمہارے پاس تم ہی میں سے رسول نہیں آئے تھے جو تم پر میری آیتیں بیان کرتے تھے اور تمہاری اس دن کی پیشی سے تمہیں ڈراتے تھے؟ (تو) وہ کہیں گے: ہم اپنی جانوں کے خلاف گواہی دیتے ہیں، اور انہیں دنیا کی زندگی نے دھوکہ میں ڈال رکھا تھا اور وہ اپنی جانوں کے خلاف اس (بات) کی گواہی دیں گے کہ وہ (دنیا میں) کافر (یعنی حق کے انکاری) تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے جنات اور انسانوں کے گروہ ! کیا تمہارے پاس خود تم میں سے وہ پیغمبر نہیں آئے تھے جو تمہیں میری آیتیں پڑھ کر سناتے تھے اور تم کو اسی دن کا سامنا کرنے سے خبردار کرتے تھے جو آج تمہارے سامنے ہے ؟ وہ کہیں گے : (آج) ہم نے خود اپنے خلاف گواہی دے دی ہے (کہ واقعی ہمارے پاس پیغمبر آئے تھے، اور ہم نے انہیں جھٹلایا تھا) اور (درحقیقت) ان کو دنیوی زندگی نے دھوکے میں ڈال دیا تھا، اور (اب) انہوں نے خود اپنے خلاف گواہی دے دی کہ وہ کافر تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

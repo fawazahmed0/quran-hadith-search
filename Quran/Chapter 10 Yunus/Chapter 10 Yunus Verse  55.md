@@ -3224,6 +3224,12 @@ yaad rakho ke jitni chize asmano mein aur zamin mein hai sub Allah hee ki milk h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جان لو! جو کچھ بھی آسمانوں اور زمین میں ہے (سب) اللہ ہی کا ہے۔ خبردار ہو جاؤ! بیشک اللہ کا وعدہ سچا ہے لیکن ان میں سے اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد رکھو کہ آسمانوں اور زمین میں جو کچھ ہے اللہ ہی کا ہے۔ یا درکھو کہ اللہ کا وعدہ سچا ہے، لیکن اکثر لوگ نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

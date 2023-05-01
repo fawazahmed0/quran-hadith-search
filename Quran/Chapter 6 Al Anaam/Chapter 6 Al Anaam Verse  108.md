@@ -3224,6 +3224,12 @@ aur gaali math do un ko jin ki ye log Allah ta’ala ko chohd kar ibaadath karte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے مسلمانو!) تم ان (جھوٹے معبودوں) کو گالی مت دو جنہیں یہ (مشرک لوگ) اللہ کے سوا پوجتے ہیں پھر وہ لوگ (بھی جواباً) جہالت کے باعث ظلم کرتے ہوئے اللہ کی شان میں دشنام طرازی کرنے لگیں گے۔ اسی طرح ہم نے ہر فرقہ (و جماعت) کے لئے ان کا عمل (ان کی آنکھوں میں) مرغوب کر رکھا ہے (اور وہ اسی کو حق سمجھتے رہتے ہیں)، پھر سب کو اپنے رب ہی کی طرف لوٹنا ہے اور وہ انہیں ان اعمال کے نتائج سے آگاہ فرما دے گا جو وہ انجام دیتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) جن (جھوٹے معبودوں) کو یہ لوگ اللہ کے بجائے پکارتے ہیں تم ان کو برا نہ کہو، جس کے نتیجے میں یہ لوگ جہالت کے عالم میں حد سے آگے بڑھ کر اللہ کو برا کہنے لگیں۔ (اس دنیا میں تو) ہم نے اسی طرح ہر گروہ کے عمل کو اس کی نظر میں خوشنما بنا رکھا ہے۔ پھر ان سب کو اپنے پروردگار ہی کے پاس لوٹنا ہے۔ اس وقت وہ انہیں بتائے گا کہ وہ کیا کچھ کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

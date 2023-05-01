@@ -3224,6 +3224,12 @@ aur wo apne rub ki raza mandi ki talab ke liye sabr karte hai aur namaazo ko bar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اپنے رب کی رضاجوئی کے لئے صبر کرتے ہیں اور نماز قائم رکھتے ہیں اور جو رزق ہم نے انہیں دیا ہے اس میں سے پوشیدہ اور اعلانیہ (دونوں طرح) خرچ کرتے ہیں اور نیکی کے ذریعہ برائی کو دور کرتے رہتے ہیں یہی وہ لوگ ہیں جن کے لئے آخرت کا (حسین) گھر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ وہ لوگ ہیں جنہوں نے اپنے رب کی خوشنودی کی خاطر صبر سے کام لیا ہے، اور نماز قائم کی ہے اور ہم نے انہیں جو رزق عطا فرمایا ہے، اس میں سے خفیہ بھی اور علانیہ بھی خرچ کیا ہے، اور وہ بدسلوکی کا دفاع حسن سلوک سے کرتے ہیں، وطن اصلی میں بہترین انجام ان کا حصہ، ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye log kyo Allah ta’ala ki taraf nahi jhukte aur kyo esteghfaar nahi karte? Al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا یہ لوگ اللہ کی بارگاہ میں رجوع نہیں کرتے اور اس سے مغفرت طلب (نہیں) کرتے، حالانکہ اللہ بڑا بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا پھر بھی یہ لوگ معافی کے لیے اللہ کی طرف رجوع نہیں کریں گے، اور اس سے مغفرت نہیں مانگیں گے ؟ حالانکہ اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

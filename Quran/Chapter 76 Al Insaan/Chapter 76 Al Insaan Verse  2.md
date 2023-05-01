@@ -3224,6 +3224,12 @@ beshak hum ne insaan ko mile jhule natfe se imtehaan ke liye payda kiya aur us k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک ہم نے انسان کو مخلوط نطفہ سے پیدا فرمایا جسے ہم (تولّد تک ایک مرحلہ سے دوسرے مرحلہ کی طرف) پلٹتے اور جانچتے رہتے ہیں، پس ہم نے اسے (ترتیب سے) سننے والا (پھر) دیکھنے والا بنایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے انسان کو ایک ملے جلے نطفے سے اس طرح پیدا کیا کہ اسے آزمائیں۔ پھر اسے ایسا بنایا کہ وہ سنتا بھی ہے، دیکھتا بھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tum par farz kar diya gaya hai ke jab tum mein se koyi marne lage aur maal chohd
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم پر فرض کیا جاتاہے کہ جب تم میں سے کسی کی موت قریب آپہنچے اگر اس نے کچھ مال چھوڑا ہو، تو (اپنے) والدین اور قریبی رشتہ داروں کے حق میں بھلے طریقے سے وصیت کرے، یہ پرہیزگاروں پر لازم ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم پر فرض کیا گیا ہے کہ اگر تم میں سے کوئی، اپنے پیچھے مال چھوڑ کر جانے والا ہو تو جب اس کی موت کا وقت قریب آجائے وہ اپنے والدین اور قریبی رشتہ داروں کے حق میں دستور کے مطابق وصیت کرے یہ متقی لوگوں کے ذمے ایک لازمی حق ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

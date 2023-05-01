@@ -3224,6 +3224,12 @@ aur Allah ta’ala ki muhabbath mein khaana khilaate hai, miskeen, yateem aur kh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اپنا) کھانا اللہ کی محبت میں (خود اس کی طلب و حاجت ہونے کے باوُجود اِیثاراً) محتاج کو اور یتیم کو اور قیدی کو کھلا دیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ اللہ کی محبت کی خاطر مسکینوں، یتیموں اور قیدیوں کو کھانا کھلاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

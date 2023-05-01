@@ -3224,6 +3224,12 @@ aur hum ne unhe ek laakh balke aur zyaada aadmiyo ki taraf bheja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے انہیں (اَرضِ موصل میں قومِ نینوٰی کے) ایک لاکھ یا اس سے زیادہ افراد کی طرف بھیجا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے انہیں ایک لاکھ، بلکہ اس سے بھی زیادہ لوگوں کے پاس پیغمبر بنا کر بھیجا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

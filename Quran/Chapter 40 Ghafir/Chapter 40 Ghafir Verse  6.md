@@ -3224,6 +3224,12 @@ aur isi tarah aap ke rab ka hukm kaafiro par saabith ho gaya ke wo dozakhi hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح آپ کے رب کا فرمان اُن لوگوں پر پورا ہو کر رہا جنہوں نے کفر کیا تھا بے شک وہ لوگ دوزخ والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی طرح جن لوگوں نے کفر اپنا لیا ہے، ان کے بارے میں تمہارے پروردگار کی یہ بات بھی پکی ہوچکی ہے کہ وہ دوزخی لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

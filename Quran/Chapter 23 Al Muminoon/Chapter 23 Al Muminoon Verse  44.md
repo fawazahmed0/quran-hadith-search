@@ -3224,6 +3224,12 @@ phir hum ne lagataar rasool bheje, jab jab jis ummath ke paas us ka rasool ayaa,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے پے در پے اپنے رسولوں کو بھیجا۔ جب بھی کسی امت کے پاس اس کا رسول آتا وہ اسے جھٹلا دیتے تو ہم (بھی) ان میں سے بعض کو بعض کے پیچھے (ہلاک در ہلاک) کرتے چلے گئے اور ہم نے انہیں داستانیں بنا ڈالا، پس ہلاکت ہو ان لوگوں کے لئے جو ایمان نہیں لاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے پے در پے اپنے پیغمبر بھیجے، جب بھی کسی قوم کے پاس اس کا پیغمبر آتا تو وہ اسے جھٹلاتے، چنانچہ ہم نے بھی ایک کے بعد ایک (کو ہلاک کرنے) کا سلسلہ باندھ دیا، اور انہیں قصہ کہانیاں بنا ڈالا۔ پھٹکار ہے ان لوگوں پر جو ایمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ isi tarah hum ayaath ki tafseel karte rehte hai aur ta ke mujrimeen ka tariqa za
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم آیتوں کو تفصیلاً بیان کرتے ہیں اور (یہ) اس لئے کہ مجرموں کا راستہ (سب پر) ظاہر ہوجائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم اسی طرح نشانیاں تفصیل کے ساتھ بیان کرتے ہیں (تاکہ سیدھا راستہ بھی واضح ہوجائے) اور تاکہ مجرموں کا راستہ بھی کھل کر سامنے آجائے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur har shaqs is tarah aayega ke us ke saath ek laane waala hoga aur ek gawaahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہر جان (ہمارے حضور اس طرح) آئے گی کہ اُس کا ایک ہانکنے والا (فرشتہ) اور (دوسرا اعمال پر) گواہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہر شخص اس طرح آئے گا کہ اس کے ساتھ ایک ہانکنے والا ہوگا، اور ایک گواہی دینے والا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

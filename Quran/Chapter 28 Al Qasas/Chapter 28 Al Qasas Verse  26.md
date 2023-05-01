@@ -3224,6 +3224,12 @@ un duno mein se ek ne kaha ke abba ji! aap unhe mazdoori par rakh li jiye kyo ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان میں سے ایک (لڑکی) نے کہا: اے میرے ابا جان! انہیں اپنے پاس مزدوری پر رکھ لیں بیشک بہترین شخص جسے آپ مزدوری پر رکھیں وہی ہے جو طاقتور امانت دار ہو (اور یہ اس ذمہ داری کے اہل ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان دونوں عورتوں میں سے ایک نے کہا : ابا جان ! آپ ان کو اجرت پر کوئی کام دے دیجیے۔ آپ کسی سے اجرت پر کام لیں تو اس کے لیے بہترین شخص وہ ہے جو طاقتور بھی ہو، امانت دار بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

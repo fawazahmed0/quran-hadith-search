@@ -3224,6 +3224,12 @@ aur asmaano aur zameen ki badshaahi Allah hee ki hai aur jis din qayaamath qaaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ہی کے لئے آسمانوں اور زمین کی بادشاہت ہے اور جِس دن قیامت برپا ہوگی تب (سب) اہلِ باطل سخت خسارے میں پڑ جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین کی سلطنت اللہ ہی کی ہے، اور جس دن قیامت آکھڑی ہوگی، اس دن جو لوگ باطل پر ہیں، وہ سخت نقصان اٹھائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

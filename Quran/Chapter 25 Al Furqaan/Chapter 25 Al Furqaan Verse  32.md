@@ -3224,6 +3224,12 @@ aur kaafiro ne kaha ke us par Qur’aan saara ka saara ek saath hee kyo na utaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر کہتے ہیں کہ اس (رسول) پر قرآن ایک ہی بار (یک جا کرکے) کیوں نہیں اتارا گیا؟ یوں (تھوڑا تھوڑا کر کے اسے) تدریجاً اس لئے اتارا گیا ہے تاکہ ہم اس سے آپ کے قلبِ (اطہر) کو قوت بخشیں اور (اسی وجہ سے) ہم نے اسے ٹھہر ٹھہر کر پڑھا ہے (تاکہ آپ کو ہمارے پیغام کے ذریعے بار بار سکونِ قلب ملتا رہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کافر لوگ کہتے ہیں کہ : ان پر سارا قرآن ایک ہی دفعہ میں کیوں نازل نہیں کردیا گیا ؟ (اے پیغمبر) ہم نے ایسا اس لیے کیا ہے تاکہ اس کے ذریعے تمہارا دل مضبوط رکھیں۔ اور ہم نے اسے ٹھہر ٹھہر کر پڑھوایا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

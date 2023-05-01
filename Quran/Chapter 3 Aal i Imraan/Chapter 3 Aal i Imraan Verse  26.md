@@ -3224,6 +3224,12 @@ aap keh dijiye, aye Allah! aye tamam jahaan ke maalik! tu jise chaahe badshaahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب! یوں) عرض کیجئے: اے اللہ، سلطنت کے مالک! تُو جسے چاہے سلطنت عطا فرما دے اور جس سے چاہے سلطنت چھین لے اور تُو جسے چاہے عزت عطا فرما دے اور جسے چاہے ذلّت دے، ساری بھلائی تیرے ہی دستِ قدرت میں ہے، بیشک تُو ہر چیز پر بڑی قدرت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : اے اللہ ! اے اقتدار کے مالک ! تو جس کو چاہتا ہے اقتدار بخشتا ہے، اور جس سے چاہتا ہے اقتدار چھین لیتا ہے، اور جس کو چاہتا ہے عزت بخشتا ہے اور جس کو چاہتا ہے رسوا کردیتا ہے، تمام تر بھلائی تیرے ہی ہاتھ میں ہے۔ یقینا تو ہر چیز پر قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

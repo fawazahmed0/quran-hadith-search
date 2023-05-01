@@ -3224,6 +3224,12 @@ unhe us ke siva koyi hukm nahi diya gaya ke sirf Allah ki ibaadath kare, osi ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حالانکہ انہیں فقط یہی حکم دیا گیا تھا کہ صرف اسی کے لئے اپنے دین کو خالص کرتے ہوئے اللہ کی عبادت کریں، (ہر باطل سے جدا ہو کر) حق کی طرف یک سُوئی پیدا کریں اور نماز قائم کریں اور زکوٰۃ دیا کریں اور یہی سیدھا اور مضبوط دین ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہیں اس کے سوا کوئی اور حکم نہیں دیا گیا تھا کہ وہ اللہ کی عبادت اس طرح کریں کہ بندگی کو بالکل یکسو ہو کر صرف اسی کے لیے خاص رکھیں، اور نماز قائم کریں اور زکوٰۃ ادا کریں، اور یہی سیدھی سچی امت کا دین ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

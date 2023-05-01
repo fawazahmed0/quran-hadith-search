@@ -3224,6 +3224,12 @@ wo un ke aage piche ke tamaam umoor se waaqif hai, wo kisi ki bhi sifaarish nahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (اللہ) ان چیزوں کو جانتا ہے جو ان کے سامنے ہیں اور جو ان کے پیچھے ہیں اور وہ (اس کے حضور) سفارش بھی نہیں کرتے مگر اس کے لئے (کرتے ہیں) جس سے وہ خوش ہوگیا ہو اور وہ اس کی ہیبت و جلال سے خائف رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ان کی تمام اگلی پچھلی باتوں کو جانتا ہے اور وہ کسی کی سفارش نہیں کرسکتے، سوائے اس کے جس کے لیے اللہ کی مرضی ہو، اور وہ اس کے خوف سے سہمے رہتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

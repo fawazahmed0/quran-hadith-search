@@ -3224,6 +3224,12 @@ aur us din zaalim shaqs apne haatho ko chaba chaba kar kahega, haay kaash ke mai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس دن ہر ظالم (غصہ اور حسرت سے) اپنے ہاتھوں کو کاٹ کاٹ کھائے گا (اور) کہے گا: کاش! میں نے رسولِ (اکرم صلی اللہ علیہ وآلہ وسلم) کی معیّت میں (آکر ہدایت کا) راستہ اختیار کر لیا ہوتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس دن ظالم انسان (حسرت سے) اپنے ہاتھوں کو کاٹ کھائے گا، اور کہے گا : کاش میں نے پیغمبر کی ہمراہی اختیار کرلی ہوتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

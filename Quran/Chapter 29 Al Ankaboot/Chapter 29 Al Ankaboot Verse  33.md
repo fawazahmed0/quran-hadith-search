@@ -3224,6 +3224,12 @@ phir jab hamaare qaasidh Looth(alaihissalaam) ke paas pahonche to wo un ki wajeh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہمارے بھیجے ہوئے (فرشتے) لوط (علیہ السلام) کے پاس آئے تو وہ ان (کے آنے) سے رنجیدہ ہوئے اور ان کے (ارادۂ عذاب کے) باعث نڈھال سے ہوگئے اور (فرشتوں نے) کہا: آپ نہ خوفزدہ ہوں اور نہ غم زدہ ہوں، بیشک ہم آپ کو اور آپ کے گھر والوں کو بچانے والے ہیں سوائے آپ کی عورت کے وہ (عذاب کے لئے) پیچھے رہ جانے والوں میں سے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہمارے بھیجے ہوئے فرشتے لوط کے پاس پہنچے تو لوط ان کی وجہ سے سخت پریشان ہوئے، اور ان کی وجہ سے ان کا دل تنگ ہونے لگا، ان فرشتوں نے کہا : آپ نہ ڈریے، اور نہ غم کیجیے۔ ہم آپ کو اور آپ کے متعلقین کو بچالیں گے، سوائے آپ کی بیوی کے جو پیچھے رہ جانے والوں میں شامل رہے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

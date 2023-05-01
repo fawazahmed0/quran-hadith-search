@@ -3224,6 +3224,12 @@ jo rahmaan ka ghaybaana khauf rakhta ho, aur tawajje waala dil laaya ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو (خدائے) رحمان سے بِن دیکھے ڈرتا رہا اور (اللہ کی بارگاہ میں) رجوع و اِنابت والا دل لے کر حاضر ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو خدائے رحمن سے اسے دیکھے بغیر ڈرتا ہو، اور اللہ کی طرف رجوع ہونے والا دل لے کر آئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

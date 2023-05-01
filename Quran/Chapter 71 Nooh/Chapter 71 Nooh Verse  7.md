@@ -3224,6 +3224,12 @@ main ne jab kabhi unhe teri baqshish ke liye bulaaya, unhone apni ongliya apne k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں نے جب (بھی) اُنہیں (ایمان کی طرف) بلایا تاکہ تو انہیں بخش دے تو انہوں نے اپنی انگلیاں اپنے کانوں میں دے لیں اور اپنے اوپر اپنے کپڑے لپیٹ لئے اور (کفر پر) ہٹ دھرمی کی اور شدید تکبر کیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں نے جب بھی انہیں دعوت دی، تاکہ آپ ان کی مغفرت فرمائیں تو انہوں نے اپنی انگلیاں اپنے کانوں میں دے لیں، اپنے کپڑے اپنے ا وپر لپیٹ لیے، اپنی بات پر اڑ رہے، اور تکبر ہی تکبر کا مظاہرہ کرتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

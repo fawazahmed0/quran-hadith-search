@@ -3224,6 +3224,12 @@ aur un mein tumhaari raunaq bhi hai, jab chara kar lao tabh bhi aur jab charaane
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان میں تمہارے لئے رونق (اور دل کشی بھی) ہے جب تم شام کو چراگاہ سے (واپس) لاتے ہو اور جب تم صبح کو (چرانے کے لئے) لے جاتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم انہیں شام کے وقت گھر واپس لاتے ہو، اور جب انہیں صبح کو چرانے لے جاتے ہو تو ان میں تمہارے لیے ایک خوشنما منظر بھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

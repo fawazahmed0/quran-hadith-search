@@ -3224,6 +3224,12 @@ wo jawaab denge ke tu paak zaath hai, khud hamein hee ye zeba na tha, ke tere si
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہیں گے: تیری ذات پاک ہے ہمیں (تو) یہ بات (بھی) زیبا نہ تھی کہ ہم تیرے سوا اوروں کو دوست (ہی) بنائیں (چہ جائے کہ ہم انہیں تیرے غیر کی عبادت کا کہتے) لیکن (اے مولا!) تو نے انہیں اور ان کے باپ دادا کو (دنیوی مال و اسباب سے) اتنا بہرہ مند فرمایا، یہاں تک کہ وہ تیری یاد (بھی) بھول گئے، اور یہ (بدبخت) ہلاک ہونے والے لوگ (ہی) تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہیں گے کہ : آپ کی ذات ہر عیب سے پاک ہے۔ ہماری مجال نہیں تھی کہ ہم آپ کو چھوڑ کر دوسرے رکھوالوں کے قائل ہوں، لیکن ہوا یہ کہ آپ نے ان کو اور ان کے باپ دادوں کو دنیا کا سازوسامان دیا، یہاں تک کہ جو بات یاد رکھنی تھی یہ اسے بھلا بیٹھے، اور (اس طرح) یہ خود برباد ہو کر رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

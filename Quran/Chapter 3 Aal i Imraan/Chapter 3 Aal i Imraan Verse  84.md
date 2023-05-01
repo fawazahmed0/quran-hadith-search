@@ -3224,6 +3224,12 @@ aap keh dijiye, ke hum Allah ta’ala par aur jo kuch hum par utaara gaya hai au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرمائیں: ہم اللہ پر ایمان لائے ہیں اور جو کچھ ہم پر اتارا گیا ہے اور جو کچھ ابراہیم اور اسماعیل اور اسحاق اور یعقوب (علیھم السلام) اور ان کی اولاد پر اتارا گیا ہے اور جو کچھ موسٰی اور عیسٰی اور جملہ انبیاء (علیھم السلام) کو ان کے رب کی طرف سے عطا کیا گیا ہے (سب پر ایمان لائے ہیں)، ہم ان میں سے کسی پر بھی ایمان میں فرق نہیں کرتے اور ہم اسی کے تابع فرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : ہم ایمان لائے اللہ پر اور جو (کتاب) ہم پر اتاری گئی اس پر، اور اس (ہدایت) پر جو ابراہیم، اسماعیل، اسحاق، یعقوب اور (ان کی) اولاد پر ان کے پروردگار کی طرف سے اتاری گئی، اور ان باتوں پر جو موسیٰ ، عیسیٰ اور (دوسرے) پیغمبروں کو عطا کی گئیں۔ ہم ان (پیغمبروں) میں سے کسی کے درمیان کوئی فرق نہیں کرتے، اور ہم اسی (ایک اللہ) کے آگے سرجھکائے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

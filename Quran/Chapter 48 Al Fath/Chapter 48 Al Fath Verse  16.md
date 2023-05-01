@@ -3224,6 +3224,12 @@ aap piche chohde hoye badduo se kehdo ke an-qareeb tum ek saqth jang jo khaum ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ دیہاتیوں میں سے پیچھے رہ جانے والوں سے فرما دیں کہ تم عنقریب ایک سخت جنگ جو قوم (سے جہاد) کی طرف بلائے جاؤ گے تم ان سے جنگ کرتے رہو گے یا وہ مسلمان ہو جائیں گے، سو اگر تم حکم مان لوگے تو اللہ تمہیں بہترین اجر عطا فرمائے گا۔ اور اگر تم رُوگردانی کرو گے جیسے تم نے پہلے رُوگردانی کی تھی تو وہ تمہیں دردناک عذاب میں مبتلا کر دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان پیچھے رہنے والے دیہاتیوں سے کہہ دینا کہ : عنقریب تمہیں ایسے لوگوں کے پاس (لڑنے کے لیے) بلایا جائے گا جو بڑے سخت جنگجو ہوں گے، کہ یا تو ان سے لڑتے رہو، یا وہ اطاعت قبول کرلیں۔ اس وقت اگر تم (جہاد کے اس حکم کی) اطاعت کرو گے تو اللہ تمہیں اچھا اجر دے گا، اور اگر تم منہ موڑو گے جیسا کہ تم نے پہلے منہ موڑا تھا تو اللہ تمہیں دردناک عذاب دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

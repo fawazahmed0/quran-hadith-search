@@ -3224,6 +3224,12 @@ yaad rakho ke jitne kuch asmano mein hai aur jitne zameen mein hai,ye sub Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جان لو جو کوئی آسمانوں میں ہے اور جو کوئی زمین میں ہے سب اللہ ہی کے (مملوک) ہیں، اور جو لوگ اللہ کے سوا (بتوں) کی پرستش کرتے ہیں (درحقیقت اپنے گھڑے ہوئے) شریکوں کی پیروی (بھی) نہیں کرتے، بلکہ وہ صرف (اپنے) وہم و گمان کی پیروی کرتے ہیں اور وہ محض غلط اندازے لگاتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد رکھو کہ آسمانوں اور زمین میں جتنے جان دار ہیں وہ سب اللہ ہی کی ملکیت میں ہیں اور جو لوگ اللہ کے سوا دوسروں کو پکارتے ہیں وہ کوئی اللہ کے (حقیقی) شرکاء کی پیروی نہیں کرتے، وہ کسی اور چیز کی نہیں، محض گمان کی پیروی کرتے ہیں اور ان کا کام اس کے سوا کچھ نہیں کہ اندازوں کے تیر چلاتے رہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne hazrath moosa (alaihissalam) se chaalis raatho ka wada kiya, phir tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت بھی یاد کرو) جب ہم نے موسیٰ (علیہ السلام) سے چالیس راتوں کا وعدہ فرمایا تھا پھر تم نے موسیٰ (علیہ السلام کے چلّہءِ اعتکاف میں جانے) کے بعد بچھڑے کو (اپنا) معبود بنا لیا اور تم واقعی بڑے ظالم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وہ وقت یاد کرو) جب ہم نے موسیٰ سے چالیس راتوں کا وعدہ ٹھہرایا تھا پھر تم نے ان کے پیچھے (اپنی جانوں پر) ظلم کرکے بچھڑے کو معبود بنالیا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

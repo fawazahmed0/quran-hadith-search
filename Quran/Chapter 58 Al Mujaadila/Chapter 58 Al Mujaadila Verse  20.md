@@ -3224,6 +3224,12 @@ beshak Allah ta’ala ki aur us ke rasool ki jo log muqaalifath karte hai, wahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ اللہ اور اُس کے رسول (صلی اللہ علیہ وآلہ وسلم) سے عداوت رکھتے ہیں وہی ذلیل ترین لوگوں میں سے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک جو لوگ اللہ اور اس کے رسول کی مخالفت کرتے ہیں، وہ ذلیل ترین لوگوں میں شامل ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

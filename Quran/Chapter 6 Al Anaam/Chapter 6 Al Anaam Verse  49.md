@@ -3224,6 +3224,12 @@ aur jo log hamaari aayato ko jhuta batlaaye un ko azaab pahonchega ba-wajeh, us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے ہماری آیتوں کو جھٹلایا انہیں عذاب چھو کر رہے گا، اس وجہ سے کہ وہ نافرمانی کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ہماری آیتوں کو جھٹلایا، ان کو عذاب پہنچ کر رہے گا، کیونکہ وہ نافرمانی کے عادی تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

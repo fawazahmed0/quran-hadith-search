@@ -3224,6 +3224,12 @@ beshak tera rab apni raah se behekne waalo ko qoob jaanta hai aur wo raah yaafta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک آپ کا رب اس شخص کو (بھی) خوب جانتا ہے جو اس کی راہ سے بھٹک گیا ہے، اور وہ ان کو (بھی) خوب جانتا ہے جو ہدایت یافتہ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا تمہارا پروردگار اسے بھی خوب جانتا ہے جو اپنے راستے سے بھٹک گیا ہے اور ان لوگوں کو بھی خوب جانتا ہے جنہوں نے سیدھی راہ پالی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

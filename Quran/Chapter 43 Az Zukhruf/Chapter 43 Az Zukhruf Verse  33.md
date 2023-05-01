@@ -3224,6 +3224,12 @@ aur agar ye baath na hoti ke tamaam log ek hee tariqe par ho jayenge, to rahmaan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر یہ نہ ہوتا کہ سب لوگ (کفر پر جمع ہو کر) ایک ہی ملّت بن جائیں گے تو ہم (خدائے) رحمان کے ساتھ کفر کرنے والے تمام لوگوں کے گھروں کی چھتیں (بھی) چاندی کی کر دیتے اور سیڑھیاں (بھی) جن پر وہ چڑھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر یہ اندیشہ نہ ہوتا کہ تمام انسان ایک ہی طریقے کے (یعنی کافر) ہوجائیں گے تو جو لوگ خدائے رحمن کے منکر ہیں، ہم ان کے لیے ان گھروں کی چھتیں بھی چاندی کی بنا دیتے، اور وہ سیڑھیاں بھی جن پر وہ چڑھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

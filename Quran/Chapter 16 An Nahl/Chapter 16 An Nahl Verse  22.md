@@ -3224,6 +3224,12 @@ tum sub ka maboodh sirf Allah ta’ala akela hai aur aaqirath par imaan na rakhn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہارا معبود، معبودِ یکتا ہے، پس جو لوگ آخرت پر ایمان نہیں رکھتے ان کے دل منکر ہیں اور وہ سرکش و متکبّر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہارا معبود تو بس ایک ہی خدا ہے۔ لہذا جو لوگ آخرت پر ایمان نہیں رکھتے، ان کے دل میں انکار پیوست ہوگیا ہے، اور وہ گھمنڈ میں مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

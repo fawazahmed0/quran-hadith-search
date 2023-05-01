@@ -3224,6 +3224,12 @@ phir un logo mein se ho jaata jo imaan laate aur ek dosre ko sabr ki aur rahem k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (شرط یہ ہے کہ ایسی جدّ و جہد کرنے والا) وہ شخص ان لوگوں میں سے ہو جو ایمان لائے ہیں اور ایک دوسرے کو صبر و تحمل کی نصیحت کرتے ہیں اور باہم رحمت و شفقت کی تاکید کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر وہ ان لوگوں میں بھی شامل ہوا جو ایمان لائے ہیں، اور جنہوں نے ایک دوسرے کو ثابت قدمی کی تاکید کی ہے، اور ایک دوسرے کو رحم کھانے کی تاکید کی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

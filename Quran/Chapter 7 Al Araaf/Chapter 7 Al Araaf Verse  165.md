@@ -3224,6 +3224,12 @@ so jab wo us ko bhol gaye jo un ko samjhaaya jaata tha to hum ne un logo ko to b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب یہ لوگ وہ بات بھلا بیٹھے جس کی انہیں نصیحت کی گئی تھی تو برائی سے روکنے والوں کو تو ہم نے بچا لیا، اور جنہوں نے زیادتیاں کی تھیں، ان کی مسلسل نافرمانی کی بنا پر ہم نے انہیں ایک سخت عذاب میں پکڑ لیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

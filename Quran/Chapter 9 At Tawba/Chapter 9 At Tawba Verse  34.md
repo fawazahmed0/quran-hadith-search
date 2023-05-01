@@ -3224,6 +3224,12 @@ ae iman walo! aksar ulema aur aabedh, logo ka mal nahaq kha jate hai aur Allah k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! بیشک (اہلِ کتاب کے) اکثر علماء اور درویش، لوگوں کے مال ناحق (طریقے سے) کھاتے ہیں اور اللہ کی راہ سے روکتے ہیں (یعنی لوگوں کے مال سے اپنی تجوریاں بھرتے ہیں اور دینِ حق کی تقویت و اشاعت پر خرچ کئے جانے سے روکتے ہیں)، اور جو لوگ سونا اور چاندی کا ذخیرہ کرتے ہیں اور اسے اللہ کی راہ میں خرچ نہیں کرتے تو انہیں دردناک عذاب کی خبر سنا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! (یہودی) احبار اور (عیسائی) راہبوں میں سے بہت سے ایسے ہیں کہ لوگوں کا مال ناحق طریقے سے کھاتے ہیں، اور دوسروں کو اللہ کے راستے سے روکتے ہیں۔ اور جو لوگ سونے چاندی کو جمع کر کر کے رکھتے ہیں، اور اس کو اللہ کے راستے میں خرچ نہیں کرتے، ان کو ایک دردناک عذاب کی خوشخبری سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un par phitkaar barsaayi gayi, jahaan bhi mil jaaye pakde jaaye aur qoob tukde t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) لعنت کیے ہوئے (جنگ جُو، دہشت گرد، فسادی اور ریاست کے خلاف باغیانہ سازشوں میں ملوث) لوگ جہاں کہیں پائے جائیں، گرفتار کر لیے جائیں اور ایک ایک کو (نشان عبرت بناتے ہوئے ان کی باغیانہ کارروائیوں کی سزا کے طور پر) قتل کر دیا جائے (تاکہ امن کو لاحق خطرات کا صفایا ہو جائے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن میں وہ پھٹکارے ہوئے ہوں گے۔ (پھر) جہاں کہیں ملیں گے، پکڑ لیے جائیں گے، اور انہیں ایک ایک کر کے قتل کردیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

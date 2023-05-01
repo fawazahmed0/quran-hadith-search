@@ -3224,6 +3224,12 @@ aur (taaqtwar) jinnaath ko bhi (un ka ma teheth kar diya) har imaarath banaane w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کل جنّات (و شیاطین بھی ان کے تابع کر دیئے) اور ہر معمار اور غوطہ زَن (بھی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور شریر جنات بھی ان کے قابو میں دے دیے تھے، جن میں ہر طرح کے معمار اور غوطہ خور شامل تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur raath ke waqth us ke saamne sajde kar aur bahuth raath tak us ki tasbih kiya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور رات کی کچھ گھڑیاں اس کے حضور سجدہ ریزی کیا کریں اور رات کے (بقیہ) طویل حصہ میں اس کی تسبیح کیا کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کچھ رات کو بھی اس کے آگے سجدے کیا کرو، اور رات کے لمبے وقت میں اس کی تسبیح کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

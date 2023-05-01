@@ -3224,6 +3224,12 @@ hum aap se pehle bhi bahuth se rasool bhej chuke hai, hum ne un sab ko biwi bacc
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے رسول!) بیشک ہم نے آپ سے پہلے (بہت سے) پیغمبروں کو بھیجا اور ہم نے ان کے لئے بیویاں (بھی) بنائیں اور اولاد (بھی)، اور کسی رسول کا یہ کام نہیں کہ وہ نشانی لے آئے مگر اللہ کے حکم سے، ہر ایک میعاد کے لئے ایک نوشتہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ ہم نے تم سے پہلے بھی بہت سے رسول بھیجے ہیں اور انہیں بیوی بچے بھی عطا فرمائے ہیں، اور کسی رسول کو یہ اختیار نہیں تھا کہ وہ کوئی ایک آیت بھی اللہ کے حکم کے بغیر لاسکے۔ ہر زمانے کے لیے الگ کتاب دی گئی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

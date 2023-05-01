@@ -3224,6 +3224,12 @@ badi puqtagi ke saath Allah ta’ala ki qasme kha kha kar kehte hai ke aap ka hu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ لوگ اللہ کی بڑی بھاری (تاکیدی) قَسمیں کھاتے ہیں کہ اگر آپ انہیں حکم دیں تو وہ (جہاد کے لئے) ضرور نکلیں گے، آپ فرما دیں کہ تم قَسمیں مت کھاؤ (بلکہ) معروف طریقہ سے فرمانبرداری (درکار) ہے، بیشک اللہ ان کاموں سے خوب آگاہ ہے جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (منافق لوگ) بڑے زوروں سے اللہ کی قسمیں کھاتے ہیں کہ اگر (اے پیغمبر) تم انہیں حکم دو گے تو یہ نکل کھڑے ہوں گے۔ (ان سے) کہو کہ : قسمیں نہ کھاؤ۔ (تمہاری) فرمانبرداری کا سب کو پتہ ہے۔ یقین جانو کہ تم جو کچھ کرتے ہو اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

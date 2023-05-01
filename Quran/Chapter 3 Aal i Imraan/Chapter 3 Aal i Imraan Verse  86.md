@@ -3224,6 +3224,12 @@ Allah ta’ala un logo ko kaise hidaayath dega jo apne imaan laane aur rasool ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ان لوگوں کو کیونکر ہدایت فرمائے جو ایمان لانے کے بعد کافر ہو گئے حالانکہ وہ اس امر کی گواہی دے چکے تھے کہ یہ رسول سچا ہے اور ان کے پاس واضح نشانیاں بھی آچکی تھیں، اور اللہ ظالم قوم کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ایسے لوگوں کو کیسے ہدایت دے جنہوں نے ایمان لانے کے بعد کفر اختیار کرلیا ؟ حالانکہ وہ گوہی دے چکے تھے کہ یہ رسول سچے ہیں، اور ان کے پاس (اس کے) روشن دلائل بھی آچکے تھے۔ اللہ ایسے ظالموں کو ہدایت نہیں دیا کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

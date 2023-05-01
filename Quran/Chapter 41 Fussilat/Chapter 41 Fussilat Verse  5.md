@@ -3224,6 +3224,12 @@ aur unhone kaha ke tu jis ki taraf hamein bula raha hai, hamaare dil to us se pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کہتے ہیں کہ ہمارے دل اُس چیز سے غلافوں میں ہیں جس کی طرف آپ ہمیں بلاتے ہیں اور ہمارے کانوں میں (بہرے پن کا) بوجھ ہے اور ہمارے اور آپ کے درمیان پردہ ہے سو آپ (اپنا) عمل کرتے رہئے ہم اپنا عمل کرنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (پیغمبر (صلی اللہ علیہ وآلہ وسلم) سے) کہتے ہیں کہ جس چیز کی طرف تم ہمیں بلا رہے ہو اس کے لیے ہمارے دل غلافوں میں لپٹے ہوئے ہیں ہمارے کان بہرے ہیں، اور ہمارے اور تمہارے درمیان ایک پردہ حائل ہے۔ لہذا تم اپنا کام کرتے رہو۔ ہم اپنا کام کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

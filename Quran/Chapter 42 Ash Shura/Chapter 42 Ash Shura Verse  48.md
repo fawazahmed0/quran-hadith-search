@@ -3224,6 +3224,12 @@ agar ye mu pher le to hum ne aap ko un par nigehbaan bana kar nahi bheja, aap ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (بھی) اگر وہ رُوگردانی کریں تو ہم نے آپ کو اُن پر (تباہی سے بچانے کا) ذمّہ دار بنا کر نہیں بھیجا۔ آپ پر تو صرف (پیغامِ حق) پہنچا دینے کی ذمّہ داری ہے، اور بیشک جب ہم انسان کو اپنی بارگاہ سے رحمت (کا ذائقہ) چکھاتے ہیں تو وہ اس سے خوش ہو جاتا ہے اور اگر انہیں کوئی مصیبت پہنچتی ہے اُن کے اپنے ہاتھوں سے آگے بھیجے ہوئے اعمالِ (بد) کے باعث، تو بیشک انسان بڑا ناشکر گزار (ثابت ہوتا) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یہ لوگ اگر پھر بھی منہ موڑیں تو ہم نے تمہیں ان پر نگران بنا کر نہیں بھیجا ہے، تم پر بات پہنچا دینے کے سوا کوئی ذمہ داری نہیں ہے، اور (انسان کا حال یہ ہے کہ) جب ہم انسان کو اپنی طرف سے کسی رحمت کا مزہ چکھا دیتے ہیں تو وہ اس پر اترا جاتا ہے، اور اگر خود اپنے ہاتھوں کے کرتوت کی وجہ سے ایسے لوگوں کو کوئی مصیبت پیش آجاتی ہے تو وہی انسان پکا ناشکرا بن جاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

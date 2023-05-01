@@ -3224,6 +3224,12 @@ aur un mein baaz aise hai jo aap ki taraf kaan lagae baite hai,kya aap behro ko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان میں سے بعض وہ ہیں جو (ظاہراً) آپ کی طرف کان لگاتے ہیں، تو کیا آپ بہروں کو سنا دیں گے خواہ وہ کچھ عقل بھی نہ رکھتے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان میں کچھ ایسے بھی ہیں جو تمہاری باتوں کو (بظاہر) کان لگا کر سنتے ہیں (مگر دل میں حق کی طلب نہیں رکھتے، اس لیے درحقیقت بہرے ہیں) تو کیا تم بہروں کو سناؤ گے، چاہے وہ سمجھتے نہ ہوں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

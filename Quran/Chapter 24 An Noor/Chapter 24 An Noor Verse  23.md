@@ -3224,6 +3224,12 @@ jo log paak daaman bholi bhaali ba imaan aurto par tuhmath lagaate hai, wo dunya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ان پارسا مومن عورتوں پر جو (برائی کے تصور سے بھی) بے خبر اور ناآشنا ہیں (ایسی) تہمت لگاتے ہیں وہ دنیا اور آخرت (دونوں جہانوں) میں ملعون ہیں اور ان کے لئے زبردست عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد رکھو کہ جو لوگ پاک دامن بھولی بھالی مسلمان عورتوں پر تہمت لگاتے ہیں ان پر دنیا اور آخرت میں پھٹکار پڑچکی ہے، اور ان کو اس دن زبردست عذاب ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

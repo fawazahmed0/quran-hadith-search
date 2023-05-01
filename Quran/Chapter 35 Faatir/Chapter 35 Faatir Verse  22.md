@@ -3224,6 +3224,12 @@ aur zinde aur murde baraabar nahi ho sakte, Allah ta’ala jis ko chaahta hai su
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ زندہ لوگ اور نہ مُردے برابر ہو سکتے ہیں، بیشک اللہ جسے چاہتا ہے سنا دیتا ہے، اور آپ کے ذِمّے اُن کو سنانا نہیں جو قبروں میں (مدفون مُردوں کی مانند) ہیں (یعنی آپ کافروں سے اپنی بات قبول کروانے کے ذمّہ دار نہیں ہیں)٭o٭ یہاں پر مَنْ فِي الْقُبُوْرِ (قبروں میں مدفون مُردوں) سے مراد کافر ہیں۔ اَئمہ تفسیر نے صحابہ و تابعین رضی اللہ عنہم سے یہی معنی بیان کیا ہے۔ بطور حوالہ ملاحظہ فرمائیں : تفسیر البغوی (3 : 569)، زاد المسیر لابن الجوزی (7 : 484)، تفسیر القرطبی (14 : 340)، تفسیر الخازن (3 : 498)، تفسیر ابن کثیر (3 : 553)، تفسیر اللباب لابی حفص الحنبلی (15 : 199، 200)، الدر المنثور للسیوطي (7 : 18)، اور فتح القدیر للشوکانی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زندہ لوگ اور مردے برابر نہیں ہوسکتے، اور اللہ تو جس کو چاہتا ہے بات سنا دیتا ہے، اور تم ان کو بات نہیں سنا سکتے جو قبروں میں پڑے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

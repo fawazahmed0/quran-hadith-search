@@ -3224,6 +3224,12 @@ ye ghaib ki qabro mein se hai jis ki hum aap ko wahi kar rahe hai, aap un ke paa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) یہ (قصّہ) غیب کی خبروں میں سے ہے جسے ہم آپ کی طرف وحی فرما رہے ہیں، اور آپ (کوئی) ان کے پاس موجود نہ تھے جب وہ (برادرانِ یوسف) اپنی سازشی تدبیر پر جمع ہو رہے تھے اور وہ مکر و فریب کر رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) یہ تمام واقعہ غیب کی خبروں کا ایک حصہ ہے جو ہم تمہیں وحی کے ذریعے بتا رہے ہیں، اور تم اس وقت ان (یوسف کے بھائیوں) کے پاس موجود نہیں تھے جب انہوں نے سازش کر کے اپنا فیصلہ پختہ کرلیا تھا (کہ یوسف کو کنویں میں ڈالیں گے) ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

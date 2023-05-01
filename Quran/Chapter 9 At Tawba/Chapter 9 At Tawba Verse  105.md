@@ -3224,6 +3224,12 @@ keh dijiye ke tum amal kiye jao,tumhare amal Allah khud dekh lega aur us ka raso
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرما دیجئے: تم عمل کرو، سو عنقریب تمہارے عمل کو اللہ (بھی) دیکھ لے گا اور اس کا رسول (صلی اللہ علیہ وآلہ وسلم بھی) اور اہلِ ایمان (بھی)، اور تم عنقریب ہر پوشیدہ اور ظاہر کو جاننے والے (رب) کی طرف لوٹائے جاؤ گے، سو وہ تمہیں ان اعمال سے خبردار فرما دے گا جو تم کرتے رہتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ان سے) کہو کہ : تم عمل کرتے رہو۔ اب اللہ بھی تمہارا طرز عمل دیکھے گا، اور اس کا رسول بھی اور مومن لوگ بھی۔ پھر تمہیں لوٹا کر اس ذات کے سامنے پیش کیا جائے گا، جس کو چھپی اور کھلی تمام باتوں کا پورا علم ہے، پھر وہ تمہیں بتائے گا کہ تم کیا کچھ کرتے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

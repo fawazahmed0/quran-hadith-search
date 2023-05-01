@@ -3224,6 +3224,12 @@ aur ye ke hum mein ka be waqoof Allah ke baare mein qilaafe haq batein kaha kart
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ ہم میں سے کوئی اَحمق ہی اللہ کے بارے میں حق سے دور حد سے گزری ہوئی باتیں کہا کرتا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : ہم میں سے بیوقوف لوگ اللہ کے بارے میں ایسی باتیں کہتے تھے جو حقیقت سے بہت دور ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

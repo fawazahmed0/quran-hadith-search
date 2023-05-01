@@ -3224,6 +3224,12 @@ qayaal to ki jiye! ke ye log aap ki nisbath kaisi kaisi baatein banaate hai, pas
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) ملاحظہ فرمائیے یہ لوگ آپ کے لئے کیسی (کیسی) مثالیں بیان کرتے ہیں پس یہ گمراہ ہو چکے ہیں سو یہ (ہدایت کا) کوئی راستہ نہیں پا سکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) دیکھو ان لوگوں نے تمہارے بارے میں کیسی کیسی باتیں بنائی ہیں۔ چنانچہ ایسے بھٹکے ہیں کہ راستے پر آنا ان کے بس سے باہر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

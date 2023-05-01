@@ -3224,6 +3224,12 @@ jis roz kaafir aur rasool ke na-farmaan aarzo karenge ke kaash! unhe zameen ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس دن وہ لوگ جنہوں نے کفر کیا اور رسول (صلی اللہ علیہ وآلہ وسلم) کی نافرمانی کی، آرزو کریں گے کہ کاش (انہیں مٹی میں دبا کر) ان پر زمین برابر کر دی جاتی، اور وہ اللہ سے کوئی بات نہ چھپا سکیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا رکھا ہے اور رسول کے ساتھ نافرمانی کا رویہ اختیار کیا ہے، اس دن وہ یہ تمنا کریں گے کہ کاش انہیں زمین (میں دھنسا کر اس) کے برابر کردیا جائے اور وہ اللہ سے کوئی بات چھپا نہیں سکیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

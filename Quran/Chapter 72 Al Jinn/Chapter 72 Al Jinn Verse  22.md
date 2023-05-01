@@ -3224,6 +3224,12 @@ keh dijiye ke mujhe har giz koyi Allah se bacha nahi sakta aur main har giz us k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ نہ مجھے ہرگز کوئی اللہ کے (اَمر کے خلاف) عذاب سے پناہ دے سکتا ہے اور نہ ہی میں قطعاً اُس کے سوا کوئی جائے پناہ پاتا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : مجھے اللہ سے نہ کوئی بچا سکتا ہے اور نہ میں اسے چھوڑ کر کوئی پناہ کی جگہ پاسکتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

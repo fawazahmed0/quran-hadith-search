@@ -3224,6 +3224,12 @@ feraun ne kaha ke meri ijaazath se pehle tum us par imaan le aaye? yaqinan yahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(فرعون نے) کہا: تم اس پر ایمان لے آئے ہو قبل اس کے کہ میں تمہیں اجازت دیتا، بیشک یہ (موسٰی علیہ السلام) ہی تمہارا بڑا (استاد) ہے جس نے تمہیں جادو سکھایا ہے، تم جلد ہی (اپنا انجام) معلوم کر لو گے، میں ضرور ہی تمہارے ہاتھ اور تمہارے پاؤں الٹی طرف سے کاٹ ڈالوں گا اور تم سب کو یقیناً سولی پر چڑھا دوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرعون بولا : تم میرے اجازت دینے سے پہلے ہی موسیٰ پر ایمان لے آئے۔ ثابت ہوا کہ یہ تم سب کا سرغنہ ہے جس نے تمہیں جادو سکھایا ہے۔ اچھا ابھی تمہیں پتہ چل جائے گا۔ میں تم سب کے ایک طرف کے ہاتھ اور دوسری طرف کے پاؤں کٹواؤں گا، اور تم سب کو سولی پر لٹکا دوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

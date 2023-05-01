@@ -3224,6 +3224,12 @@ momino mein (aise) log bhi hai jinhone jo ehadh Allah ta’ala se kiya tha, unhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مومنوں میں سے (بہت سے) مَردوں نے وہ بات سچ کر دکھائی جس پر انہوں نے اللہ سے عہد کیا تھا، پس ان میں سے کوئی (تو شہادت پا کر) اپنی نذر پوری کر چکا ہے اور ان میں سے کوئی (اپنی باری کا) انتظار کر رہا ہے، مگر انہوں نے (اپنے عہد میں) ذرا بھی تبدیلی نہیں کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہی ایمان والوں میں وہ لوگ بھی ہیں جنہوں نے اللہ سے جو عہد کیا تھا اسے سچا کر دکھایا۔ پھر ان میں سے کچھ وہ ہیں جنہوں نے اپنا نذرانہ پورا کردیا، اور کچھ وہ ہیں جو ابھی انتظار میں ہیں۔ اور انہوں نے (اپنے ارادوں میں) ذرا سی بھی تبدیلی نہیں کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ya unhe un ke kartuto ke baayes tabaah karde, wo to bahuth si khataao se darguza
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا اُن (جہازوں اور کشتیوں) کو اُن کے اعمالِ (بد) کے باعث جو انہوں نے کما رکھے ہیں غرق کر دے، مگر وہ بہت (سی خطاؤں) کو معاف فرما دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا (اگر اللہ چاہے) تو ان جہازوں کو لوگوں کے بعض اعمال کی وجہ سے تباہ ہی کردے، اور بہت سوں سے درگزر کر جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

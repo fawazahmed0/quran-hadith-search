@@ -3224,6 +3224,12 @@ ya aap aasmaan ko hum par tukde tukde kar ke giraade jaisa ke aap ka gumaan hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا جیسا کہ آپ کا خیال ہے ہم پر (ابھی) آسمان کے چند ٹکڑے گرا دیں یا آپ اللہ کو اور فرشتوں کو ہمارے سامنے لے آئیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا جیسے تم دعوے کرتے ہو، آسمان کے ٹکڑے ٹکڑے کر کے اسے ہم پر گرا دو ، یا پھر اللہ کو اور فرشتوں کو ہمارے آمنے سامنے لے آؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

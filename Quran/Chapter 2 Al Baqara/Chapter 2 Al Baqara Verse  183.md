@@ -3224,6 +3224,12 @@ aye imaan walo tum par roze rakhna farz kiya gaya jis tarah tum se pehle logo pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم پر اسی طرح روزے فرض کئے گئے ہیں جیسے تم سے پہلے لوگوں پر فرض کئے گئے تھے تاکہ تم پرہیزگار بن جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! تم پر روزے فرض کردیئے گئے ہیں جس طرح تم سے پہلے لوگوں پر فرض کئے گئے تھے، تاکہ تمہارے اندر تقوی پیدا ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

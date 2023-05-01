@@ -3224,6 +3224,12 @@ aur baz aise hai jinhone un aghraaz15 ke liye masjid banai hai ke zarar16 pahoch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (منافقین میں سے وہ بھی ہیں) جنہوں نے ایک مسجد تیار کی ہے (مسلمانوں کو) نقصان پہنچانے اور کفر (کو تقویت دینے) اور اہلِ ایمان کے درمیان تفرقہ پیدا کرنے اور اس شخص کی گھات کی جگہ بنانے کی غرض سے جو اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) سے پہلے ہی سے جنگ کر رہا ہے، اور وہ ضرور قَسمیں کھائیں گے کہ ہم نے (اس مسجد کے بنانے سے) سوائے بھلائی کے اور کوئی ارادہ نہیں کیا، اور اللہ گواہی دیتا ہے کہ وہ یقیناً جھوٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کچھ وہ لوگ ہیں جنہوں نے ایک مسجد اس کام کے لیے بنائی ہے کہ (مسلمانوں کو) نقصان پہنچائیں، کافرانہ باتیں کریں، مومنوں میں پھوٹ ڈالیں اور اس شخص کو ایک اڈہ فراہم کریں جس کی پہلے سے اللہ اور اس کے رسول کے ساتھ جنگ ہے۔ اور یہ قسمیں ضرور کھا لیں گے کہ بھلائی کے سوا ہماری کوئی اور نیت نہیں ہے، لیکن اللہ اس بات کی گواہی دیتا ہے کہ وہ قطعی جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

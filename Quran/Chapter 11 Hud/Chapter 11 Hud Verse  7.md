@@ -3224,6 +3224,12 @@ Allah hee wo hai jis ne che din mein aasmaan aur zamin ko paida kiya aur us ka a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی (اللہ) ہے جس نے آسمانوں اور زمین (کی بالائی و زیریں کائناتوں) کو چھ روز (یعنی تخلیق و اِرتقاء کے چھ اَدوار و مراحل) میں پیدا فرمایا اور (تخلیقِ اَرضی سے قبل) اس کا تختِ اقتدار پانی پر تھا (اور اس نے اس سے زندگی کے تمام آثار کو اور تمہیں پیدا کیا) تاکہ وہ تمہیں آزمائے کہ تم میں سے کون عمل کے اعتبار سے بہتر ہے؟ اور اگر آپ یہ فرمائیں کہ تم لوگ مرنے کے بعد (زندہ کر کے) اٹھائے جاؤ گے تو کافر یقینًا (یہ) کہیں گے کہ یہ تو صریح جادو کے سوا کچھ (اور) نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جس نے تمام آسمانوں اور زمین کو چھ دن میں پیدا کیا۔ جبکہ اس کا عرش پانی پر تھا۔ تاکہ تمہیں آزمائے کہ عمل کے اعتبار سے تم میں کون زیادہ اچھا ہے۔ اور اگر تم (لوگوں سے) یہ کہو کہ تمہیں مرنے کے بعد دوبارہ زندہ کیا جائے گا تو جن لوگوں نے کفر اپنا لیا ہے، وہ یہ کہیں گے کہ یہ کھلے جادو کے سوا کچھ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

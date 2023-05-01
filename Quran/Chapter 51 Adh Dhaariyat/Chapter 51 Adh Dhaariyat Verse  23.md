@@ -3224,6 +3224,12 @@ asmaan wa zameen ke parvardigaar ki qasam! ke ye bilkul bar haq hai, aisa hee ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آسمان اور زمین کے مالک کی قَسم! یہ (ہمارا وعدہ) اسی طرح یقینی ہے جس طرح تمہارا اپنا بولنا (تمہیں اس پر کامل یقین ہوتا ہے کہ منہ سے کیا کہہ رہے ہو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا آسمان اور زمین کے پروردگار کی قسم ! یہ بات یقینا ایسی ہی سچی ہے جیسے یہ بات کہ تم بولتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

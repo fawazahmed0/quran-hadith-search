@@ -3224,6 +3224,12 @@ main unhe ek hadhya bhejne wali hoon, phir dekh longi ke qaasidh kya jawaab le k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک میں ان کی طرف کچھ تحفہ بھیجنے والی ہوں پھر دیکھتی ہوں قاصد کیا جواب لے کر واپس لوٹتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں ان کے پاس ایک تحفہ بھیجتی ہوں، پھر دیکھوں گی کہ ایلچی کیا جواب لے کر واپس آتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

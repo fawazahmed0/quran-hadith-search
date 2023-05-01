@@ -3224,6 +3224,12 @@ jo log ye bahuth bada buhtaan baandh laaye hai, ye bhi tum mein se hee ek gruh h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جن لوگوں نے (عائشہ صدیقہ طیبہ طاہرہ رضی اللہ عنہا پر) بہتان لگایا تھا (وہ بھی) تم ہی میں سے ایک جماعت تھی، تم اس (بہتان کے واقعہ) کو اپنے حق میں برا مت سمجھو بلکہ وہ تمہارے حق میں بہتر (ہوگیا) ہے٭ ان میں سے ہر ایک کے لئے اتنا ہی گناہ ہے جتنا اس نے کمایا، اور ان میں سے جس نے اس (بہتان) میں سب سے زیادہ حصہ لیا اس کے لئے زبردست عذاب ہےo٭ (کیونکہ تمہیں اسی حوالے سے احکامِ شریعت مل گئے اور عائشہ صدیقہ طیبہ طاہرہ رضی اللہ عنہا کی پاک دامنی کا گواہ خود اللہ بن گیا جس سے تمہیں ان کی شان کا پتہ چل گیا۔)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ جو لوگ یہ جھوٹی تہمت گھڑ کر لائے ہیں وہ تمہارے اندر ہی کا ایک ٹولہ ہے تم اس بات کو اپنے لیے برا نہ سمجھو، بلکہ یہ تمہارے لیے بہتر ہی بہتر ہے۔ ان لوگوں میں سے ہر ایک کے حصے میں اپنے کیے کا گناہ آیا ہے۔ اور ان میں سے جس شخص نے اس (بہتان) کا بڑا حصہ اپنے سر لیا ہے اس کے لیے تو زبردست عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

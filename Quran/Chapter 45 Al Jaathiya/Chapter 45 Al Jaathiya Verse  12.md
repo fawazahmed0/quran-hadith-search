@@ -3224,6 +3224,12 @@ Allah hee hai jis ne tumhaare liye darya ko taabe bana diya ta ke us ke hukm se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہی ہے جس نے سمندر کو تمہارے قابو میں کر دیا تاکہ اس کے حکم سے اُس میں جہاز اور کشتیاں چلیں اور تاکہ تم (بحری راستوں سے بھی) اُس کا فضل (یعنی رزق) تلاش کر سکو، اور اس لئے کہ تم شکر گزار ہو جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے سمندر کو تمہارے کام میں لگا دیا ہے، تاکہ اس کے حکم سے اس میں کشتیاں چلیں، اور تاکہ تم اس کا فضل تلاش کرو۔ اور تاکہ تم شکر ادا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

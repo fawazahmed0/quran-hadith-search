@@ -3224,6 +3224,12 @@ kya wo us baath se be khauf ho gaye hai ke un ke paas Allah ke azaabo mein se ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ اس بات سے بے خوف ہو گئے ہیں کہ ان پر اللہ کے عذاب کی چھا جانے والی آفت آجائے یا ان پر اچانک قیامت آجائے اور انہیں خبر بھی نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان لوگوں کو اس بات کا ذرا ڈر نہیں ہے کہ اللہ کے عذاب کی کوئی بلا آکر ان کو لپیٹ لے، یا ان پر قیامت اچانک ٹوٹ پڑے اور انہیں پہلے سے احساس بھی نہ ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

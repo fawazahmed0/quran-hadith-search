@@ -3224,6 +3224,12 @@ aur aajizi aur muhabbath ke saath un ke saamne tawaaze ka baazo pasth rakhe rakh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان دونوں کے لئے نرم دلی سے عجز و انکساری کے بازو جھکائے رکھو اور (اللہ کے حضور) عرض کرتے رہو: اے میرے رب! ان دونوں پر رحم فرما جیسا کہ انہوں نے بچپن میں مجھے (رحمت و شفقت سے) پالا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے ساتھ محبت کا برتاؤ کرتے ہوئے ان کے سامنے اپنے آپ کو انکساری سے جھکاؤ، اور یہ دعا کرو کہ : یا رب ! جس طرح انہوں نے میرے بچپن میں مجھے پالا ہے، آپ بھی ان کے ساتھ رحمت کا معاملہ کیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

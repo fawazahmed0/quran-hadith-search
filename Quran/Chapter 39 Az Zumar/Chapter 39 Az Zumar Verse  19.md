@@ -3224,6 +3224,12 @@ bhala jis shaqs par azaab ki baath saabith ho choki hai, to kya aap ose jo dozak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا جس شخص پر عذاب کا حکم ثابت ہو چکا، تو کیا آپ اس شخص کو بچا سکتے ہیں جو (دائمی) دوزخی ہو چکا ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا جس شخص پر عذاب کی بات طے ہوچکی، تو کیا تم اسے بچا لو گے جو آگ کے اندر پہنچ چکا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

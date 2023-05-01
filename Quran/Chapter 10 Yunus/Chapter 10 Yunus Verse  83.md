@@ -3224,6 +3224,12 @@ pas moosa(alaihissalaam)par unki khaom mein se sirf qadre khaleel admi imaan lae
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس موسٰی (علیہ السلام) پر ان کی قوم کے چند جوانوں کے سوا (کوئی) ایمان نہ لایا، فرعون اور اپنے (قومی) سرداروں (وڈیروں) سے ڈرتے ہوئے کہ کہیں وہ انہیں (کسی) مصیبت میں مبتلا نہ کر دیں، اور بیشک فرعون سرزمینِ (مصر) میں بڑا جابر و سرکش تھا، اور وہ یقیناً (ظلم میں) حد سے بڑھ جانے والوں میں سے تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ موسیٰ پر کوئی اور نہیں، لیکن خود اس کی قوم کے کچھ نوجوان فرعون اور اپنے سرداروں سے ڈرتے ڈرتے ایمان لائے کہ کہیں فرعون انہیں نہ ستائے۔ اور یقینا فرعون زمین میں بڑا زور آور تھا، اور وہ ان لوگوں میں سے تھا جو کسی حد پر قائم نہیں رہتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

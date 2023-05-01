@@ -3224,6 +3224,12 @@ aur jab Mosa(alaihissalaam) apni jawaani ko pahonch gaye aur pure tawaana ho gay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب موسٰی (علیہ السلام) اپنی جوانی کو پہنچ گئے اور (سنِّ) اعتدال پر آگئے تو ہم نے انہیں حکمِ (نبوّت) اور علم و دانش سے نوازا، اور ہم نیکوکاروں کو اسی طرح صلہ دیا کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب موسیٰ اپنی بھرپور توانائی کو پہنچے اور پورے جوان ہوگئے تو ہم نے انہیں حکمت اور علم سے نوازا، اور نیک لوگوں کو ہم یوں ہی صلہ دیا کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

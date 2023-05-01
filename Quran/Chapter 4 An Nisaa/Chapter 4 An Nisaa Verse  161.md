@@ -3224,6 +3224,12 @@ aur soodh jis se mana kiye gaye thein ose lene ke baayes aur logo ka maal na-haq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے سود لینے کے سبب سے، حالانکہ وہ اس سے روکے گئے تھے، اور ان کے لوگوں کا ناحق مال کھانے کی وجہ سے (بھی انہیں سزا ملی) اور ہم نے ان میں سے کافروں کے لئے دردناک عذاب تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور سود لیا کرتے تھے، حالانکہ انہیں اس سے منع کیا گیا تھا اور لوگوں کے مال ناحق طریقے سے کھاتے تھے۔ اور ان میں سے جو لوگ کافر ہیں، ان کے لیے ہم نے ایک دردناک عذاب تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

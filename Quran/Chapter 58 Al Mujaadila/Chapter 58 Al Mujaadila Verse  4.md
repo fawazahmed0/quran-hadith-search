@@ -3224,6 +3224,12 @@ haan jo shaqs na paaye, us ke zimme do mahino ke lagataar roze hai, us se pehle 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جسے (غلام یا باندی) میسّر نہ ہو تو دو ماہ متواتر روزے رکھنا (لازم ہے) قبل اِس کے کہ وہ ایک دوسرے کو مَس کریں، پھر جو شخص اِس کی (بھی) طاقت نہ رکھے تو ساٹھ مسکینوں کو کھانا کھلانا (لازم ہے)، یہ اِس لئے کہ تم اللہ اور اُس کے رسول (صلی اللہ علیہ وآلہ وسلم) پر ایمان رکھو۔ اور یہ اللہ کی (مقرر کردہ) حدود ہیں، اور کافروں کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جس شخص کو غلام میسر نہ ہو، اس کے ذمے دو متواتر مہینوں کے روزے ہیں، قبل اس کے کہ وہ (میاں بیوی) ایک دوسرے کو ہاتھ لگائیں۔ پھر جس کو اس کی بھی استطاعت نہ ہو اس کے ذمے ساٹھ مسکینوں کو کھانا کھلانا ہے۔ یہ اس لئے تاکہ تم اللہ اور اس کے رسول پر ایمان لاؤ، اور یہ اللہ کی مقرر کی ہوئی حدیں ہیں اور کافروں کے لیے دردناک عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

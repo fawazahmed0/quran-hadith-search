@@ -3224,6 +3224,12 @@ aur har ek ke liye un ke amaal ke sabab darje milenge aur aap ka rab un ke amaal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہر ایک کے لئے ان کے اعمال کے لحاظ سے درجات (مقرر) ہیں، اور آپ کا رب ان کاموں سے بے خبر نہیں جو وہ انجام دیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہر قسم کے لوگوں کو مختلف درجات ان اعمال کے حساب سے ملتے ہیں جو انہوں نے کیے ہوتے ہیں۔ اور جو اعمال بھی وہ کرتے ہیں، تمہارا پروردگار ان سے غافل نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

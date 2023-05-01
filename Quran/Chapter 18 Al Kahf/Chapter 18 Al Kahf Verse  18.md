@@ -3224,6 +3224,12 @@ aap qayaal karte ke wo bedaar hai, halaan ke wo soye hoye thein, khud hum hee un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے سننے والے!) تو انہیں (دیکھے تو) بیدار خیال کرے گا حالانکہ وہ سوئے ہوئے ہیں اور ہم (وقفوں کے ساتھ) انہیں دائیں جانب اور بائیں جانب کروٹیں بدلاتے رہتے ہیں، اور ان کا کتا (ان کی) چوکھٹ پر اپنے دونوں بازو پھیلائے (بیٹھا) ہے، اگر تو انہیں جھانک کر دیکھ لیتا تو ان سے پیٹھ پھیر کر بھاگ جاتا اور تیرے دل میں ان کی دہشت بھر جاتی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم انہیں (دیکھ کر) یہ سمجھتے کہ وہ جاگ رہے ہیں، حالانکہ وہ سوئے ہوئے تھے، اور ہم ان کو دائیں اور بائیں کروٹ دلواتے رہتے تھے، اور ان کا کتا دہلیز پر اپنے دونوں ہاتھ پھیلائے ہوئے (بیٹھا) تھا۔ اگر تم انہیں جھانک کر دیکھتے تو ان سے پیٹھ پھیر کر بھاگ کھڑے ہوتے، اور تمہارے اندر ان کی دہشت سما جاتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

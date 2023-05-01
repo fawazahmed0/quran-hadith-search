@@ -3224,6 +3224,12 @@ is liye hum ne chaaha ke unhe un ka parvardigaar us ke badhle is se paakizgi waa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ہم نے ارادہ کیا کہ ان کا رب انہیں (ایسا) بدل عطا فرمائے جو پاکیزگی میں (بھی) اس (لڑکے) سے بہتر ہو اور شفقت و رحم دلی میں (بھی والدین سے) قریب تر ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہم نے یہ چاہا کہ ان کا پروردگار انہیں اس لڑکے کے بدلے ایسی اولاد دے جو پاکیزگی میں بھی اس سے بہتر ہو، اور حسن سلوک میں بھی اس سے بڑھی ہوئی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

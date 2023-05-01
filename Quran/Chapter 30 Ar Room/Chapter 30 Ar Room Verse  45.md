@@ -3224,6 +3224,12 @@ ta ke Allah ta’ala unhe apne fazl se jaza de, jo imaan laaye aur nek amaal kiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اللہ اپنے فضل سے ان لوگوں کو بدلہ دے جو ایمان لائے اور نیک عمل کرتے رہے۔ بیشک وہ کافروں کو دوست نہیں رکھتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نتیجہ یہ کہ اللہ ان لوگوں کو اپنے فضل سے جزاء دے گا جو ایمان لائے ہیں، اور انہوں نے نیک عمل کیے ہیں۔ یقینا اللہ کافروں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

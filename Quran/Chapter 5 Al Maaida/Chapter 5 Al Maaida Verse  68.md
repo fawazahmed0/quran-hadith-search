@@ -3224,6 +3224,12 @@ aap keh di jiye ke aye ahle kitaab! tum dar asal kisi cheez par nahi, jab tak ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اے اہلِ کتاب! تم (دین میں سے) کسی شے پر بھی نہیں ہو، یہاں تک کہ تم تورات اور انجیل اور جو کچھ تمہاری طرف تمہارے رب کی جانب سے نازل کیا گیا ہے (نافذ اور) قائم کر دو، اور (اے حبیب!) جو (کتاب) آپ کی طرف آپ کے رب کی جانب سے نازل کی گئی ہے یقیناً ان میں سے اکثر لوگوں کو (حسداً) سرکشی اور کفر میں بڑھا دے گی، سو آپ گروہِ کفار (کی حالت) پر افسوس نہ کیا کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اے اہل کتاب ! جب تک تم تورات اور انجیل پر اور جو (کتاب) تمہارے پروردگار کی طرف سے تمہارے پاس (اب) بھیجی گئی ہے اس کی پوری پابندی نہیں کرو گے، تمہاری کوئی بنیاد نہیں ہوگی جس پر تم کھڑے ہوسکو۔ اور (اے رسول) جو وحی اپنے پروردگار کی طرف سے تم پر نازل کی گئی ہے وہ ان میں سے بہت سوں کی سرکشی اور کفر میں مزید اضافہ کر کے رہے گی، لہذا تم ان کافر لوگوں پر افسوس مت کرنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

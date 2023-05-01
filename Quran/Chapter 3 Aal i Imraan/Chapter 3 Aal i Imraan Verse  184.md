@@ -3224,6 +3224,12 @@ phir bhi agar ye log aap ko jhutlaaye to aap se pehle bhi bahuth se wo rasool jh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر بھی اگر آپ کو جھٹلائیں تو (محبوب آپ رنجیدہ خاطر نہ ہوں) آپ سے پہلے بھی بہت سے رسولوں کو جھٹلایا گیا جو واضح نشانیاں (یعنی معجزات) اور صحیفے اور روشن کتاب لے کر آئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) اگر پھر بھی یہ لوگ تمہیں جھٹلائیں تو (یہ کوئی نئی بات نہیں) تم سے پہلے بھی بہت سے ان رسولوں کو جھٹلایا جاچکا ہے جو کھلی کھلی نشانیاں بھی لائے تھے، لکھے ہوئے صحیفے بھی اور ایسی کتاب بھی جو (حق کو) روشن کردینے والی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ irshaad hoa ke aye Mosa! main ne paighambari aur apni hum kalaami se, aur logo p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرمایا : اے موسیٰ ! میں نے اپنے پیغام دے کر اور تمام سے ہم کلام ہو کر تمہیں تمام انسانوں پر فوقیت دی ہے۔ لہذا میں نے جو کچھ تمہیں دیا ہے، اسے لے لو، اور ایک شکر گزار شخص بن جاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

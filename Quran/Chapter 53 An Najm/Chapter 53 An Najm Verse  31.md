@@ -3224,6 +3224,12 @@ aur Allah hee ka hai jo kuch asmaano mein hai aur jo kuch zameen mein hai, ta ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ہی کے لئے ہے جو کچھ آسمانوں اور جو کچھ زمین میں ہے تاکہ جن لوگوں نے برائیاں کیں انہیں اُن کے اعمال کا بدلہ دے اور جن لوگوں نے نیکیاں کیں انہیں اچھا اجر عطا فرمائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں میں جو کچھ ہے وہ بھی اور زمین میں جو کچھ ہے وہ بھی اللہ ہی کا ہے۔ نتیجہ یہ ہے کہ جنہوں نے برے کام کیے ہیں، وہ ان کو ان کے عمل کا بھی بدلہ دے گا، اور جنہوں نے نیک کام کیے ہیں، ان کو بہترین بدلہ عطا کرے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

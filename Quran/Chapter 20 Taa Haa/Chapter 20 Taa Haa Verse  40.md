@@ -3224,6 +3224,12 @@ Yaad kar jabke teri behan chal rahi thi, phir jaa kar kehti hai, “main tumhein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تمہاری بہن (اجنبی بن کر) چلتے چلتے (فرعون کے گھر والوں سے) کہنے لگی: کیا میں تمہیں کسی (ایسی عورت) کی نشاندہی کر دوں جو اس (بچہ) کی پرورش کر دے، پھر ہم نے تم کو تمہاری والدہ کی طرف (پرورش کے بہانے) واپس لوٹا دیا تاکہ اس کی آنکھ بھی ٹھنڈی ہوتی رہے اور وہ رنجیدہ بھی نہ ہو، اور تم نے (قومِ فرعون کے) ایک (کافر) شخص کو مار ڈالا تھا پھر ہم نے تمہیں (اس) غم سے (بھی) نجات بخشی اور ہم نے تمہیں بہت سی آزمائشوں سے گزار کر خوب جانچا، پھر تم کئی سال اہلِ مدین میں ٹھہرے رہے پھر تم (اللہ کے) مقرر کردہ وقت پر (یہاں) آگئے اے موسٰی! (اس وقت ان کی عمر ٹھیک چالیس برس ہوگئی تھی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس وقت کا تصور کرو جب تمہاری بہن گھر سے چلتی ہے، اور (فرعون کے کارندوں سے) یہ کہتی ہے کہ : کیا میں تمہیں اس (عورت) کا پتہ بتاؤں جو اس (بچے) کو پالے ؟ اس طرح ہم نے تمہیں تمہاری ماں کے پاس لوٹا دیا، تاکہ اس کی آنکھ ٹھنڈی رہے، اور وہ غمگین نہ ہو۔ اور تم نے ایک شخص کو مار ڈالا تھا، پھر ہم نے تمہیں اس گھٹن سے نجات دی، اور تمہیں کئی آزمائشوں سے گزارا۔ پھر تم کئی سال مدین والوں میں رہے، اس کے بعد اے موسیٰ ! تم ایک ایسے وقت پر یہاں آئے ہو جو پہلے سے مقدر تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

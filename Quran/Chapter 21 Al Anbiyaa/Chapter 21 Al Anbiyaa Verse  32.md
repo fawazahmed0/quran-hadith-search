@@ -3224,6 +3224,12 @@ asmaan ko mehfooz chath bhi hum ne hee banaya hai, lekin log us ki khudrath ke n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے سماء (یعنی زمین کے بالائی کرّوں) کو محفوظ چھت بنایا (تاکہ اہلِ زمین کو خلا سے آنے والی مہلک قوتوں اور جارحانہ لہروں کے مضر اثرات سے بچائیں) اور وہ اِن (سماوی طبقات کی) نشانیوں سے رُوگرداں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے آسمان کو ایک محفوظ چھت بنادیا ہے، اور یہ لوگ ہیں کہ اس کی نشانیوں سے منہ موڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ khaum ne jawaab diya kya aap hamaare paas is liye aaye hai ke hamein apne mabudh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہنے لگے کہ کیا آپ ہمارے پاس اس لئے آئے ہیں کہ ہمیں ہمارے معبودوں سے برگشتہ کر دیں، پس وہ (عذاب) لے آئیں جس سے ہمیں ڈرا رہے ہیں اگر آپ سچوں میں سے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : کیا تم ہمارے پاس اس لیے آئے ہو کہ ہمارے خداؤں سے ہمیں برگشتہ کرو ؟ اچھا اگر تم سچے ہو تو لے آؤ ہم پر وہ (عذاب) جس کی دھمکی دے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum farishto ko haq ke saath hee utaarte hai aur us waqt wo mahulath diye gaye n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم فرشتوں کو نہیں اتارا کرتے مگر (فیصلۂ) حق کے ساتھ (یعنی جب عذاب کی گھڑی آپہنچے تو اس کے نفاذ کے لئے اتارتے ہیں) اور اس وقت انہیں مہلت نہیں دی جاتی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم فرشتوں کو اتارتے ہیں تو برحق فیصلہ دے کر اتارتے ہیں، اور ایسا ہوتا تو ان کو مہلت بھی نہ ملتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

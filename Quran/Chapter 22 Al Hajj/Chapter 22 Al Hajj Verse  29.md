@@ -3224,6 +3224,12 @@ phir wo apna mayl kuchayl door kare aur apni nazre puri kare aur Allah ke qadeem
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر انہیں چاہئے کہ (احرام سے نکلتے ہوئے بال اور ناخن کٹوا کر) اپنا میل کچیل دور کریں اور اپنی نذریں (یا بقیہ مناسک) پوری کریں اور (اللہ کے) قدیم گھر (خانہ کعبہ) کا طوافِ (زیارت) کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر (حج کرنے والے) لوگوں کو چاہیے کہ وہ اپنا میل کچیل دور کریں، اور اپنی منتیں پوری کریں، اور اس بیت عتیق کا طواف کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

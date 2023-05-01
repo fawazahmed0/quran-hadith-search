@@ -3224,6 +3224,12 @@ aur mujh par meri paidayish ke din aur meri mauth ke din aur jis din ke main dub
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور مجھ پر سلام ہو میرے میلاد کے دن، اور میری وفات کے دن، اور جس دن میں زندہ اٹھایا جاؤں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اللہ کی طرف سے) سلامتی ہے مجھ پر اس دن بھی جب میں پیدا ہوا، اور اس دن بھی جس دن میں مروں گا، اور اس دن بھی جب مجھے دوبارہ زندہ کر کے اٹھایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

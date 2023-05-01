@@ -3224,6 +3224,12 @@ tum se pehle bhi aise waqeaath guzar chuke hai, so zameen mein chal phir kar dek
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم سے پہلے (گذشتہ امتوں کے لئے قانونِ قدرت کے) بہت سے ضابطے گزر چکے ہیں سو تم زمین میں چلا پھرا کرو اور دیکھا کرو کہ جھٹلانے والوں کا کیا انجام ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم سے پہلے بہت سے واقعات گزر چکے ہیں، اب تم زمین میں چل پھر کر دیکھ لو کہ جنہوں نے (پیغمبروں کو) جھٹلایا تھا ان کا انجام کیسا ہوا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

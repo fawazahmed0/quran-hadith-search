@@ -3224,6 +3224,12 @@ aur wo waqt bhi qaabil zikr hai jab hum ne pahaad ko utha kar sayebaan ki tarah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یاد کرو) جب ہم نے پہاڑ کو ان کے اوپر اس طرح اٹھا دیا تھا جیسے وہ کوئی سائبات ہو اور انہیں یہ گمان ہوگیا تھا کہ وہ ان کے اوپر گرنے ہی والا ہے (اس وقت ہم نے حکم دیا تھا کہ) ہم نے تمہیں جو کتاب دی ہے اسے مضبوطی سے تھامو اور اس کی باتوں کو یاد کرو، تاکہ تم تقوی اختیار کرسکو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

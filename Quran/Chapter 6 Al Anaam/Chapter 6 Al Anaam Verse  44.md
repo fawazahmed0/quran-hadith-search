@@ -3224,6 +3224,12 @@ phir jab wo log un chizo ko bhule rahe jin ki un ko nasihath ki jaati thi to hum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب انہوں نے اس نصیحت کو فراموش کردیا جو ان سے کی گئی تھی تو ہم نے (انہیں اپنے انجام تک پہنچانے کے لیے) ان پر ہر چیز (کی فراوانی) کے دروازے کھول دیئے، یہاں تک کہ جب وہ ان چیزوں (کی لذتوں اور راحتوں) سے خوب خوش ہو (کر مدہوش ہو) گئے جو انہیں دی گئی تھیں تو ہم نے اچانک انہیں (عذاب میں) پکڑ لیا تو اس وقت وہ مایوس ہوکر رہ گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر انہیں جو نصیحت کی گئی تھی، جب وہ اسے بھلا بیٹھے تو ہم نے ان پر ہر نعمت کے دروازے کھول دیئے یہاں تک کہ جو نعمتیں انہیں دی گئی تھیں، جب وہ ان پر اترانے لگے تو ہم نے اچانک ان کو آپکڑا، جس کا نتیجہ یہ ہوا کہ وہ بالکل مایوس ہو کر رہ گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

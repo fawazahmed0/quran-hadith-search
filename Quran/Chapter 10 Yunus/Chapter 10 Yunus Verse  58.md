@@ -3224,6 +3224,12 @@ aap keh dijiye ke bus logo ko Allah ke us in’aam aur rehmath par khush hona ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: (یہ سب کچھ) اللہ کے فضل اور اس کی رحمت کے باعث ہے (جو بعثتِ محمدی صلی اللہ علیہ وآلہ وسلم کے ذریعے تم پر ہوا ہے) پس مسلمانوں کو چاہئے کہ اس پر خوشیاں منائیں، یہ اس (سارے مال و دولت) سے کہیں بہتر ہے جسے وہ جمع کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کہو کہ : یہ سب کچھ اللہ کے فضل اور رحمت سے ہوا ہے، لہذا اسی پر تو انہیں خوش ہونا چاہیے، یہ اس تمام دولت سے کہیں بہتر ہے جسے یہ جمع کر کر کے رکھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

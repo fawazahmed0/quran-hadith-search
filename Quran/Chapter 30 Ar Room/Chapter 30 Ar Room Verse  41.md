@@ -3224,6 +3224,12 @@ khushki aur tari mein logo ki badh amaaliyo ke baayes, fasaad pehel gaya, is liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بحر و بر میں فساد ان (گناہوں) کے باعث پھیل گیا ہے جو لوگوں کے ہاتھوں نے کما رکھے ہیں تاکہ (اللہ) انہیں بعض (برے) اعمال کا مزہ چکھا دے جو انہوں نے کئے ہیں، تاکہ وہ باز آجائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگوں نے اپنے ہاتھوں جو کمائی کی، اس کی وجہ سے خشکی اور تری میں فساد پھیلا۔ تاکہ انہوں نے جو کام کیے ہیں اللہ ان میں سے کچھ کا مزہ انہیں چکھائے، شاید وہ باز آجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum ne har ummath mein rasool bheja ke (logo!) sirf Allah ki ibaadath karo aur u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے ہر امت میں ایک رسول بھیجا کہ (لوگو) تم اللہ کی عبادت کرو اور طاغوت (یعنی شیطان اور بتوں کی اطاعت و پرستش) سے اجتناب کرو، سو اُن میں بعض وہ ہوئے جنہیں اللہ نے ہدایت فرما دی اور اُن میں بعض وہ ہوئے جن پر گمراہی (ٹھیک) ثابت ہوئی، سو تم لوگ زمین میں سیر و سیاحت کرو اور دیکھو کہ جھٹلانے والوں کا کیا انجام ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور واقعہ یہ ہے کہ ہم نے ہر امت میں کوئی نہ کوئی پیغمبر اس ہدایت کے ساتھ بھیجا ہے کہ تم اللہ کی عبادت کرو، اور طاغوت سے اجتناب کرو۔ پھر ان میں سے کچھ وہ تھے جن کو اللہ نے ہدایت دے دی اور کچھ ایسے تھے جن پر گمراہی مسلط ہوگئی۔ تو ذرا زمین میں چل پھر کر دیکھو کہ (پیغمبروں کو) جھٹلانے والوں کا انجام کیسا ہوا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

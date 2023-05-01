@@ -3224,6 +3224,12 @@ kya wo kehte hai ke ise to us ne khud ghad liya hai, aap keh dijiye! ke agar mai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ لوگ (یہ) کہتے ہیں کہ اس (قرآن) کو (پیغمبر نے) گھڑ لیا ہے۔ آپ فرما دیں: اگر اسے میں نے گھڑا ہے تو تم مجھے اللہ (کے عذاب) سے (بچانے کا) کچھ بھی اختیار نہیں رکھتے، اور وہ ان (باتوں) کو خوب جانتا ہے جو تم اس (قرآن) کے بارے میں طعنہ زنی کے طور پر کر رہے ہو۔ وہی (اللہ) میرے اور تمہارے درمیان گواہ کافی ہے، اور وہ بڑا بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا ان کا کہنا یہ ہے کہ اسے پیغمبر نے اپنی طرف سے گھڑ لیا ہے ؟ کہہ دو کہ : اگر میں نے اسے اپنی طرف سے گھڑ لیا ہے تو تم مجھے اللہ کی پکڑ سے ذرا بھی نہیں بچا سکو گے۔ جو باتیں تم بناتے ہو وہ انہیں خوب جانتا ہے۔ میرے اور تمہارے درمیان گواہ بننے کے لیے وہ کافی ہے اور وہی ہے جو بہت بخشنے والا بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar Allah ta’ala ka fazl wa karam tum par dunya aur aaqirath mein na hota, to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم پر دنیا و آخرت میں اللہ کا فضل اور اس کی رحمت نہ ہوتی تو جس (تہمت کے) چرچے میں تم پڑ گئے ہو اس پر تمہیں زبردست عذاب پہنچتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم پر دنیا اور آخرت میں اللہ کا فضل اور اس کی رحمت نہ ہوتی تو جن باتوں میں تم پڑگئے تھے ان کی وجہ سے تم پر اس وقت سخت عذاب آپڑتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

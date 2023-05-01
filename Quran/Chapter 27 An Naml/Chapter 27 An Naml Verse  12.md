@@ -3224,6 +3224,12 @@ aur apna haath apne girebaan mein daal, wo safedh chamkila ho kar niklega, bagha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اپنا ہاتھ اپنے گریبان کے اندر ڈالو وہ بغیر کسی عیب کے سفید چمک دار (ہو کر) نکلے گا، (یہ دونوں اللہ کی) نو نشانیوں میں (سے) ہیں (انہیں لے کر) فرعون اور اس کی قوم کے پاس جاؤ۔ بیشک وہ نافرمان قوم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنا ہاتھ گریبان میں داخل کرو، تو وہ کسی بیماری کے بغیر سفید ہو کر نکلے گا۔ یہ دونوں باتیں ان نو نشانیوں میں سے ہیں جو فرعون اور اس کی قوم کی طرف (تمہارے ذریعے) بھیجی جارہی ہیں۔ حقیقت یہ ہے کہ وہ نافرمان لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

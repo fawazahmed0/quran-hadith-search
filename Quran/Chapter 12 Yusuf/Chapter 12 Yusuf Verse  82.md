@@ -3224,6 +3224,12 @@ aap us shaher ke logo se daryaaft farmaale jahaan hum thein aur us qaafile se bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اگر آپ کو اعتبار نہ آئے تو) اس بستی (والوں) سے پوچھ لیں جس میں ہم تھے اور اس قافلہ (والوں) سے (معلوم کر لیں) جس میں ہم آئے ہیں، اور بیشک ہم (اپنے قول میں) یقیناً سچے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس بستی میں ہم تھے اس سے پوچھ لیجیے، اور جس قافلے میں ہم آئے ہیں، اس سے تحقیق کرلیجیے، یہ بالکل پکی بات ہے کہ ہم سچے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

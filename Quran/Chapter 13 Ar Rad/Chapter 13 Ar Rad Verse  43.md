@@ -3224,6 +3224,12 @@ ye kaafir kehte hai ke aap Allah ke rasool nahi, aap jawaab di jiye ke mujh mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ کہتے ہیں کہ آپ پیغمبر نہیں ہیں، فرما دیجئے: (میری رسالت پر) میرے اور تمہارے درمیان اللہ بطورِ گواہ کافی ہے اور وہ شخص بھی جس کے پاس (صحیح طور پر آسمانی) کتاب کا علم ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے، وہ کہتے ہیں کہ : تم پیغمبر نہیں ہو۔ کہہ دو کہ : میرے اور تمہارے درمیان گواہی کے لیے اللہ کافی ہے، نیز ہر وہ شخص جس کے پاس کتاب کا علم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur feraun ki biwi ne kaha, ye to meri aur teri aankho ki thandak hai, ise qatl 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرعون کی بیوی نے (موسٰی علیہ السلام کو دیکھ کر) کہا کہ (یہ بچہ) میری اور تیری آنکھ کے لئے ٹھنڈک ہے۔ اسے قتل نہ کرو، شاید یہ ہمیں فائدہ پہنچائے یا ہم اس کو بیٹا بنالیں اور وہ (اس تجویز کے انجام سے) بے خبر تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور فرعون کی بیوی نے (فرعون سے) کہا کہ : یہ بچہ میری اور تمہاری آنکھوں کی ٹھنڈک ہے۔ اسے قتل نہ کرو، کچھ بعید نہیں کہ یہ ہمیں فائدہ پہنچائے، یا ہم اسے بیٹا بنالیں۔ اور (یہ فیصلہ کرتے وقت) انہیں انجام کا پتہ نہیں تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

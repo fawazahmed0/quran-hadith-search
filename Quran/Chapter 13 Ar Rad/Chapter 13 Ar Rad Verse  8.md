@@ -3224,6 +3224,12 @@ maada apne shikm mein jo kuch rakhti hai ose Allah ba-qoobi jaanta hai aur pet k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ جانتا ہے جو کچھ ہر مادہ اپنے پیٹ میں اٹھاتی ہے اور رحم جس قدر سکڑتے اور جس قدر بڑھتے ہیں، اور ہر چیز اس کے ہاں مقرر حد کے ساتھ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس کسی مادہ کو جو حمل ہوتا ہے، اللہ اس کو بھی جانتا ہے، اور ماؤں کے رحم میں جو کوئی کمی بیشی ہوتی ہے اس کو بھی، اور ہر چیز کا اس کے ہاں ایک اندازہ مقرر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

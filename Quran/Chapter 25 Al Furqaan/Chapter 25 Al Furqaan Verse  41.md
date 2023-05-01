@@ -3224,6 +3224,12 @@ aur tumhe jab kabhi dekhte hai, to tum se masqara pan karne lagte hai, ke kya ya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیبِ مکرّم!) جب (بھی) وہ آپ کو دیکھتے ہیں آپ کا مذاق اڑانے کے سوا کچھ نہیں کرتے (اور کہتے ہیں:) کیا یہی وہ (شخص) ہے جسے اللہ نے رسول بنا کر بھیجا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جب یہ لوگ تمہیں دیکھتے ہیں تو ان کا کوئی کام اس کے سوا نہیں ہوتا کہ یہ تمہارا مذاق بناتے ہیں کہ : کیا یہی وہ صاحب ہیں جنہیں اللہ نے پیغمبر بنا کر بھیجا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

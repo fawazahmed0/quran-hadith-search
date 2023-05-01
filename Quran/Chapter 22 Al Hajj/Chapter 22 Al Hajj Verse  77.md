@@ -3224,6 +3224,12 @@ aye imaan waalo! ruku, sajda karte raho aur apne parvardigaar ki ibaadath mein l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم رکوع کرتے رہو اور سجود کرتے رہو، اور اپنے رب کی عبادت کرتے رہو اور (دیگر) نیک کام کئے جاؤ تاکہ تم فلاح پا سکو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! رکوع کرو، اور سجدہ کرو، اور اپنے پروردگار کی بندگی کرو، اور بھلائی کے کام کرو، تاکہ تمہیں فلاح حاصل ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

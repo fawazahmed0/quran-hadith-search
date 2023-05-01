@@ -3224,6 +3224,12 @@ jin logo ne imaan qubool kar ke phir kufr kiya, phir imaan la kar phir kufr kiya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ایمان لائے پھر کافر ہوگئے، پھر ایمان لائے پھر کافر ہوگئے، پھر کفر میں اوربڑھ گئے تواللہ ہرگز (یہ ارادہ فرمانے والا) نہیں کہ انہیں بخش دے اور نہ (یہ کہ) انہیں سیدھا راستہ دکھائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ایمان لائے، پھر کافر ہوگئے، پھر ایمان لائے، پھر کافر ہوگئے، پھر کفر میں بڑھتے ہی چلے گئے، اللہ ان کو بخشنے والا نہیں ہے، اور نہ انہیں راستے پر لانے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

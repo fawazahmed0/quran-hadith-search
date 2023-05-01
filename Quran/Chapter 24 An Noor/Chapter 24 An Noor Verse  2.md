@@ -3224,6 +3224,12 @@ zina kaar aurath wa mard mein se har ek ko sau(100) kode lagaao, un par Allah ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بدکار عورت اور بدکار مرد (اگر غیر شادی شدہ ہوں) تو ان دونوں میں سے ہر ایک کو (شرائطِ حد کے ساتھ جرمِ زنا کے ثابت ہو جانے پر) سو (سو) کوڑے مارو (جبکہ شادی شدہ مرد و عورت کی بدکاری پر سزا رجم ہے اور یہ سزائے موت ہے) اور تمہیں ان دونوں پر اللہ کے دین (کے حکم کے اجراء) میں ذرا ترس نہیں آنا چاہئے اگر تم اللہ پر اور آخرت کے دن پر ایمان رکھتے ہو، اور چاہئے کہ ان دونوں کی سزا (کے موقع) پر مسلمانوں کی (ایک اچھی خاصی) جماعت موجود ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زنا کرنے والی عورت اور زنا کرنے والے مرد دونوں کو سو سو کوڑے لگائے، اور اگر تم اللہ اور یوم آخرت پر ایمان رکھتے ہو، تو اللہ کے دین کے معاملے میں ان پر ترس کھانے کا کوئی جذبہ تم پر غالب نہ آئے۔ اور یہ بھی چاہیے کہ مومنوں کا ایک مجمع ان کی سزا کو کھلی آنکھوں دیکھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

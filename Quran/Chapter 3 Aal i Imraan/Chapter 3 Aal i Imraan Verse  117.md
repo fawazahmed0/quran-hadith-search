@@ -3224,6 +3224,12 @@ ye kuffaar jo qarch aqrajaath kare, us ki misaal ye hai ke ek tondh hawa19 chali
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ لوگ) جو مال (بھی) اس دنیا کی زندگی میں خرچ کرتے ہیں اس کی مثال اس ہوا جیسی ہے جس میں سخت پالا ہو (اور) وہ ایسی قوم کی کھیتی پر جا پڑے جو اپنی جانوں پر ظلم کرتی ہو اور وہ اسے تباہ کر دے، اور اللہ نے ان پر کوئی ظلم نہیں کیا بلکہ وہ خود اپنی جانوں پر ظلم کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کچھ یہ لوگ دنیوی زندگی میں خرچ کرتے ہیں، اس کی مثال ایسی ہے جیسے ایک سخت سردی والی تیز ہوا ہو جو ان لوگوں کی کھیتی کو جا لگے جنہوں نے اپنی جانوں پر ظلم کر رکھا ہو اور وہ اس کھیتی کو برباد کردے۔ ان پر اللہ نے ظلم نہیں کیا، بلکہ وہ خود اپنی جانوں پر ظلم کرتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ noah ne kaha, meri qaum walo! mujhe batao to agar main apne rub ki taraf se kisi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(نوح علیہ السلام نے) کہا: اے میری قوم! بتاؤ تو سہی اگر میں اپنے رب کی طرف سے روشن دلیل پر بھی ہوں اور اس نے مجھے اپنے حضور سے (خاص) رحمت بھی بخشی ہو مگر وہ تمہارے اوپر (اندھوں کی طرح) پوشیدہ کر دی گئی ہو، تو کیا ہم اسے تم پر جبراً مسلّط کر سکتے ہیں درآنحالیکہ تم اسے ناپسند کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نوح نے کہا : اے میری قوم ! ذرا مجھے یہ بتاؤ کہ اگر میں اپنے پروردگار کی طرف سے آئی ہوئی ایک روشن ہدایت پر قائم ہوں، اور اس نے مجھے خاص اپنے پاس سے ایک رحمت (یعنی نبوت) عطا فرمائی ہے، پھر بھی وہ تمہیں سجھائی نہیں دے رہی، تو کیا ہم اس کو تم پر زبردستی مسلط کردیں جبکہ تم اسے ناپسند کرتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

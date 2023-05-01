@@ -3224,6 +3224,12 @@ kya tujhe ilm nahi ke zameen wa asmaan ka mulk Allah hee ke liye hai,aur Allah k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تمہیں معلوم نہیں کہ آسمانوں اور زمین کی بادشاہت اللہ ہی کے لئے ہے، اور اللہ کے سوا نہ تمہارا کوئی دوست ہے اور نہ ہی مددگار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تمہیں یہ معلوم نہیں کہ اللہ وہ ذات ہے کہ آسمانوں اور زمین کی سلطنت تنہا اسی کی ہے، اور اللہ کے سوا نہ کوئی تمہارا رکھوالا ہے نہ مددگار ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

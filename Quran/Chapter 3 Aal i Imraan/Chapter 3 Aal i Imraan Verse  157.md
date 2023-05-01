@@ -3224,6 +3224,12 @@ qasam hai ke agar Allah ta’ala ki raah mein shaheed kiye jaao ya apni mauth ma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم اللہ کی راہ میں قتل کر دئیے جاؤ یا تمہیں موت آجائے تو اللہ کی مغفرت اور رحمت اس (مال و متاع) سے بہت بہتر ہے جو تم جمع کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم اللہ کے راستے میں قتل ہوجاؤ یا مرجاؤ، تب بھی اللہ کی طرف سے ملنے والی مغفرت اور رحمت ان چیزوں سے کہیں بہتر ہے جو یہ لوگ جمع کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

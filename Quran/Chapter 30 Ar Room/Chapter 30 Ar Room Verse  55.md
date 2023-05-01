@@ -3224,6 +3224,12 @@ aur jis din qayaamath barpa ho jayegi, gunehgaar log qasme khayenge ke (dunya me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس دن قیامت برپا ہوگی مُجرم لوگ قَسمیں کھائیں گے کہ وہ (دنیا میں) ایک گھڑی کے سوا ٹھہرے ہی نہیں تھے، اسی طرح وہ (دنیا میں بھی حق سے) پھرے رہتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس دن قیامت برپا ہوگی اس دن مجرم لوگ قسم کھا لیں گے کہ وہ (برزخ میں) ایک گھڑی سے زیادہ نہیں رہے۔ اسی طرح (دنیا میں بھی) وہ اوندھے چلا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

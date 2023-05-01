@@ -3224,6 +3224,12 @@ aur jo log hamaari aayato ko jhutla rahe thein, un ke muqaable mein hum ne us ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اس قوم (کے اذیت ناک ماحول) میں ان کی مدد فرمائی جو ہماری آیتوں کو جھٹلاتے تھے۔ بیشک وہ (بھی) بہت بری قوم تھی سو ہم نے ان سب کو غرق کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس قوم نے ہماری نشانیوں کو جھٹلایا تھا، اس کے مقابلے میں ان کی مدد کی۔ حقیقت یہ ہے کہ وہ بہت برے لوگ تھے، اس لیے ہم نے ان سب کو غرق کردیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

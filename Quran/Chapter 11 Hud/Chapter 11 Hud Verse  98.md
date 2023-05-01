@@ -3224,6 +3224,12 @@ wo to qayamath ke din apni qaum ka pesh ro ho kar, un sub ko dozakh mein ja khad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ قیامت کے دن اپنی قوم کے آگے آگے چلے گا بالآخر انہیں آتشِ دوزخ میں لا گرائے گا، اور وہ داخل کئے جانے کی کتنی بری جگہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ قیامت کے دن اپنی قوم کے آگے آگے ہوگا، اور ان سب کو دوزخ میں لا اتارے گا۔ اور وہ بدترین گھاٹ ہے جس پر کوئی اترے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

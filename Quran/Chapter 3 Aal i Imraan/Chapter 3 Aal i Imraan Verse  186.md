@@ -3224,6 +3224,12 @@ yaqinan tumhaare maalo aur jaano se tumhaari azmaayesh ki jayegi aur ye bhi yaqe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) تمہیں ضرور بالضرور تمہارے اموال اور تمہاری جانوں میں آزمایا جائے گا، اور تمہیں بہر صورت ان لوگوں سے جنہیں تم سے پہلے کتاب دی گئی تھی اور ان لوگوں سے جو مشرک ہیں بہت سے اذیت ناک (طعنے) سننے ہوں گے، اور اگر تم صبر کرتے رہو اور تقوٰی اختیار کئے رکھو تو یہ بڑی ہمت کے کاموں سے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) تمہیں اپنے مال و دولت اور جانوں کے معاملے میں (اور) آزمایا جائے گا، اور تم اہل کتاب اور مشرکین دونوں سے بہت سی تکلیف دہ باتیں سنو گے۔ اور اگر تم نے صبر اور تقوی سے کام لیا تو یقینا یہی کام بڑی ہمت کے ہیں (جو تمہیں اختیار کرنے ہیں)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

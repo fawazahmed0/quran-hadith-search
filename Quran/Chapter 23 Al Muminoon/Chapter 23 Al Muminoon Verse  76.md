@@ -3224,6 +3224,12 @@ aur hum ne unhe azaab mein bhi pakda, ta-hum ye log na to apne parvardigaar ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے انہیں عذاب میں پکڑ لیا پھر (بھی) انہوں نے اپنے رب کے لئے عاجزی اختیار نہ کی اور نہ وہ (اس کے حضور) گڑگڑائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 واقعہ یہ ہے کہ ہم نے ان کو (ایک مرتبہ) عذاب میں پکڑا تھا، تو اس وقت بھی یہ لوگ اپنے پروردگار کے سامنے نہیں جھکے۔ اور یہ تو عاجزی کی روش اختیار کرتے ہی نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

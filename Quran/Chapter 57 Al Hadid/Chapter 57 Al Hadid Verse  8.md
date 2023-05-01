@@ -3224,6 +3224,12 @@ tum Allah par imaan kyo nahi laate? halaan ke khud rasool tumhe apne rab par ima
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہیں کیا ہوگیا ہے کہ تم اللہ پر ایمان نہیں لاتے، حالانکہ رسول (صلی اللہ علیہ وآلہ وسلم) تمہیں بلا رہے ہیں کہ تم اپنے رب پر ایمان لاؤ اور بیشک (اللہ) تم سے مضبوط عہد لے چکا ہے، اگر تم ایمان لانے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے لیے کونسی وجہ ہے کہ تم اللہ پر ایمان نہ رکھو، حالانکہ رسول تمہیں دعوت دے رہے ہیں کہ تم اپنے پروردگار پر ایمان رکھو، اور وہ تم سے عہد لے چکے ہیں، اگر تم واقعی مومن ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

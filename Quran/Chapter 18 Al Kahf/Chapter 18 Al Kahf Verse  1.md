@@ -3224,6 +3224,12 @@ tamaam tarife osi Allah ke liye sazawaar hai jis ne apne bandhe par ye Qur’an 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمام تعریفیں اللہ ہی کے لئے ہیں جس نے اپنے (محبوب و مقرّب) بندے پر کتابِ (عظیم) نازل فرمائی اور اس میں کوئی کجی نہ رکھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمام تعریفیں اللہ کی ہیں جس نے اپنے بندے پر کتاب نازل کی، اور اس میں کسی قسم کی کوئی خاص خامی نہیں رکھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

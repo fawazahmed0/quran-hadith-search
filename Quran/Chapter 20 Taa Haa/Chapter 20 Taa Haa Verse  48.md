@@ -3224,6 +3224,12 @@ hamaari taraf wahi ki gayi hai ke jo jhutlaaye aur ru gardaani kare, us ke liye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہماری طرف وحی بھیجی گئی ہے کہ عذاب (ہر) اس شخص پر ہوگا جو (رسول کو) جھٹلائے گا اور (اس سے) منہ پھیر لے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم پر یہ وحی نازل کی گئی ہے کہ عذاب اس کو ہوگا جو (حق کو) جھٹلائے، اور منہ موڑے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

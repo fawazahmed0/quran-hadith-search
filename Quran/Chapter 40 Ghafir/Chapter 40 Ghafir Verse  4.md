@@ -3224,6 +3224,12 @@ Allah ta’ala ki aayato mein wahi log jhagadte hai jo kaafir hai, pas un logo k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ کی آیتوں میں کوئی جھگڑا نہیں کرتا سوائے اُن لوگوں کے جنہوں نے کفر کیا، سو اُن کا شہروں میں (آزادی سے) گھومنا پھرنا تمہیں مغالطہ میں نہ ڈال دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کی آیتوں میں جھگڑے وہی لوگ پیدا کرتے ہیں جنہوں نے کفر اپنا لیا ہے لہذا ان لوگوں کا شہروں میں دندناتے پھرنا تمہیں دھوکے میں نہ ڈالے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

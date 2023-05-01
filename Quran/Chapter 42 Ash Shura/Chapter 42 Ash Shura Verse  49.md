@@ -3224,6 +3224,12 @@ asmaano ki aur zameen ki saltanath Allah ta’ala hee ke liye hai, wo jo chahta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہی کے لئے آسمانوں اور زمین کی بادشاہت ہے، وہ جو چاہتا ہے پیدا فرماتا ہے، جسے چاہتا ہے لڑکیاں عطا کرتا ہے اور جسے چاہتا ہے لڑکے بخشتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سارے آسمانوں اور زمین کی سلطنت اللہ ہی کی ہے، وہ جو چاہتا ہے، پیدا کرتا ہے، وہ جس کو چاہتا ہے، لڑکیاں دیتا ہے اور جس کو چاہتا ہے لڑکے دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

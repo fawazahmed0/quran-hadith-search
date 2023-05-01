@@ -3224,6 +3224,12 @@ jitni bhi bastiya hai hum qayaamath ke din se pehle pehle ya to unhe halaak kar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (کفر و سرکشی کرنے والوں کی) کوئی بستی ایسی نہیں مگر ہم اسے روزِ قیامت سے قبل ہی تباہ کر دیں گے یا اسے نہایت ہی سخت عذاب دیں گے، یہ (امر) کتاب (لوحِ محفوظ) میں لکھا ہوا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کوئی بستی ایسی نہیں ہے جسے ہم روز قیامت سے پہلے ہلاک نہ کریں، یا اسے سخت عذاب نہ دیں۔ یہ بات (تقدیر کی) کتاب میں لکھی جاچکی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

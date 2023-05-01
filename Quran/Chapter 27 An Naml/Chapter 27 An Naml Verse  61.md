@@ -3224,6 +3224,12 @@ kya wo jis ne zameen ko qaraar gaah banaya aur us ke darmiyaan nehre jaari kardi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ وہ کون ہے جس نے زمین کو قرار گاہ بنایا اور اس کے درمیان نہریں بنائیں اور اس کے لئے بھاری پہاڑ بنائے۔ اور (کھاری اور شیریں) دو سمندروں کے درمیان آڑ بنائی؟ کیا اللہ کے ساتھ کوئی (اور بھی) معبود ہے؟ بلکہ ان (کفار) میں سے اکثر لوگ بے علم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا وہ کون ہے جس نے زمین کو قرار کی جگہ بنایا، اور اس کے بیچ بیچ میں دریا پیدا کیے، اور اس (کو ٹھہرانے) کے لیے (پہاڑوں کی) میخیں گاڑ دیں، اور دو سمندروں کے درمیان ایک آڑ رکھ دی ؟ کیا (پھر بھی تم کہتے ہو کہ) اللہ کے ساتھ کوئی اور خدا ہے ؟ نہیں ! بلکہ ان میں سے اکثر لوگ حقیقت سے ناواقف ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

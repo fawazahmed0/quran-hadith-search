@@ -3224,6 +3224,12 @@ keh dijiye! jo gumraahi mein ho, to Allah rahmaan us ko qoob lambi mahullath det
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: جو شخص گمراہی میں مبتلا ہو تو (خدائے) رحمان (بھی) اسے عمر و عیش میں خوب مہلت دیتا رہتا ہے، یہاں تک کہ جب وہ لوگ اس چیز کو دیکھ لیں گے جس کا ان سے وعدہ کیا گیا ہے خواہ عذاب اور خواہ قیامت، تب وہ اس شخص کو جان لیں گے جو رہائش گاہ کے اعتبار سے (بھی) برا ہے اور لشکر کے اعتبار سے (بھی) کمزور تر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : جو لوگ گمراہی میں جا پڑیں تو ان کے لیے مناسب یہی ہے کہ خدائے رحمن انہیں خوب ڈھیل دیتا رہے۔ یہاں تک کہ جب یہ لوگ وہ چیز خود دیکھ لیں گے جس سے انہیں ڈرایا جارہا ہے، چاہے وہ (اس دنیا کا) عذاب ہو، یا قیامت، تو اس وقت انہیں پتہ چلے گا کہ بدترین مقام کس کا تھا، اور لشکر کس کا زیادہ کمزور تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

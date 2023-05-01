@@ -3224,6 +3224,12 @@ un ke rasulo ne unhe kaha ke kya haq ta’ala ke baare mein tumhe shak hai jo aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے پیغمبروں نے کہا: کیا اللہ کے بارے میں شک ہے جو آسمانوں اور زمین کا پیدا فرمانے والا ہے، (جو) تمہیں بلاتا ہے کہ تمہارے گناہوں کو تمہاری خاطر بخش دے اور (تمہاری نافرمانیوں کے باوجود) تمہیں ایک مقرر میعاد تک مہلت دیئے رکھتا ہے۔ وہ (کافر) بو لے: تم تو صرف ہمارے جیسے بشر ہی ہو، تم یہ چاہتے ہو کہ ہمیں ان (بتوں) سے روک دو جن کی پرستش ہمارے باپ دادا کیا کرتے تھے، سو تم ہمارے پاس کوئی روشن دلیل لاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے پیغمبروں نے ان سے کہا : کیا اللہ کے بارے میں شک ہے جو سارے آسمانوں اور زمین کا خالق ہے ؟ وہ تمہیں بلا رہا ہے کہ تمہاری خاطر تمہارے گناہ معاف کردے، اور تمہیں ایک مقررہ مدت تک مہلت دے۔ انہوں نے کہا کہ : تمہاری حقیقت اس کے سوا کچھ بھی نہیں کہ تم ایسے ہی انسان ہو جیسے ہم ہیں۔ تم یہ چاہتے ہو کہ ہمارے باپ دادا جن کی عبادت کرتے آئے ہیں ان سے ہمیں روک دو ، لہذا کوئی صاف صاف معجزہ لاکر دکھاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ lekin un mein se jo kaamil aur mazbooth ilm waale hai aur imaan waale hai jo us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لیکن ان میں سے پختہ علم والے اور مومن لوگ اس (وحی) پر جو آپ کی طرف نازل کی گئی ہے اور اس (وحی) پر جو آپ سے پہلے نازل کی گئی (برابر) ایمان لاتے ہیں، اور وہ (کتنے اچھے ہیں کہ) نماز قائم کرنے والے (ہیں) اور زکوٰۃ دینے والے (ہیں) اور اللہ اور قیامت کے دن پر ایمان رکھنے والے (ہیں)۔ ایسے ہی لوگوں کو ہم عنقریب بڑا اجر عطا فرمائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ ان (بنی اسرائیل) میں سے جو لوگ علم میں پکے ہیں اور مومن ہیں وہ اس (کلام) پر بھی ایمان رکھتے ہیں جو (اے پیغمبر) تم پر نازل کیا گیا اور اس پر بھی جو تم سے پہلے نازل کیا گیا تھا اور قابل تعریف ہیں وہ لوگ جو نماز قائم کرنے والے ہیں، زکوٰۃ دینے والے ہیں اور اللہ اور یوم آخرت پر ایمان رکھنے والے ہیں۔ یہ وہ لوگ ہیں جنہیں ہم اجر عظیم عطا کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah aur us ke rasol ki taraf se logo ko bade haj ke din saaf ittela hai ke All
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ آیات) اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی جانب سے تمام لوگوں کی طرف حجِ اکبر کے دن اعلانِ (عام) ہے کہ اللہ مشرکوں سے بے زار ہے اور اس کا رسول (صلی اللہ علیہ وآلہ وسلم) بھی (ان سے بری الذمّہ ہے)، پس (اے مشرکو!) اگر تم توبہ کر لو تو وہ تمہارے حق میں بہتر ہے اور اگر تم نے روگردانی کی تو جان لو کہ تم ہرگز اللہ کو عاجز نہ کر سکو گے، اور (اے حبیب!) آپ کافروں کو دردناک عذاب کی خبر سنا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حج اکبر کے دن اللہ اور اس کے رسول کی طرف سے تمام انسانوں کے لیے یہ اعلان کیا جاتا ہے کہ اللہ بھی مشرکین سے دست بردار ہوچکا ہے، اور اس کا رسول بھی۔ اب (اے مشرکو) اگر تم توبہ کرلو تو یہ تمہارے حق میں بہت بہتر ہوگا، اور اگر تم نے (اب بھی) منہ موڑے رکھا تو یاد رکھو کہ تم اللہ کو عاجز نہیں کرسکتے، اور تمام کافروں کو ایک دکھ دینے والے عذاب کی خوشخبری سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

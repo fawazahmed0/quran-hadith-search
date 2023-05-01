@@ -3224,6 +3224,12 @@ kehne lage! aye Ibraheem(alaihissalaam) kya tu ne hee hamaare khudaao ke saath y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جب ابراہیم علیہ السلام آئے تو) وہ کہنے لگے: کیا تم نے ہی ہمارے معبودوں کے ساتھ یہ حال کیا ہے اے ابراہیم
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (پھر جب ابراہیم کو لایا گیا تو) وہ بولے : ابراہیم ! کیا ہمارے خداؤں کے ساتھ یہ حرکت تم ہی نے کی ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jab ye us baath ki taraf bulaaye jaate hai ke Allah aur us ka rasool un ke jhagd
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان لوگوں کو اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی طرف بلایا جاتا ہے کہ وہ ان کے درمیان فیصلہ فرما دے تو اس وقت ان میں سے ایک گروہ (دربارِ رسالت صلی اللہ علیہ وآلہ وسلم میں آنے سے) گریزاں ہوتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب انہیں اللہ اور اس کے رسول کی طرف بلایا جاتا ہے تاکہ رسول ان کے درمیان فیصلہ کریں تو ان میں سے کچھ لوگ ایک دم رخ پھیر لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

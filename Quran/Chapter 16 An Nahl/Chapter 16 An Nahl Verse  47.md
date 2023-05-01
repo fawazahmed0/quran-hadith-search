@@ -3224,6 +3224,12 @@ ya unhe dara dhamka kar pakadle, pas yaqinan tumhaara parvardigaar aala shafqath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا انہیں ان کے خوف زدہ ہونے پر پکڑ لے، تو بیشک تمہارا رب بڑا شفیق نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا انہیں اس طرح گرفت میں لے کہ وہ دھیرے دھیرے گھٹتے چلے جائیں۔ کیونکہ تمہارا پروردگار بڑا شفیق، نہایت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

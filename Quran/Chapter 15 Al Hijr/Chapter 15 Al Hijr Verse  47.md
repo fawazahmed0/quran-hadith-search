@@ -3224,6 +3224,12 @@ un ke dilo mein jo kuch ranjish wa kina tha hum sub kuch nikaal denge, wo bhai b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم وہ ساری کدورت باہر کھینچ لیں گے جو (دنیا میں) ان کے سینوں میں (مغالطہ کے باعث ایک دوسرے سے) تھی، وہ (جنت میں) بھائی بھائی بن کر آمنے سامنے بیٹھے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے سینوں میں جو کچھ رنجش ہوگی، اسے ہم نکال پھینکیں گے، وہ بھائی بھائی بن کر آمنے سامنے اونچی نشستوں پر بیٹھے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

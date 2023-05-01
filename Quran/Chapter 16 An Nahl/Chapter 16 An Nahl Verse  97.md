@@ -3224,6 +3224,12 @@ jo shaqs nek amal kare mard ho ya aurath lekin ba imaan ho to hum ose yaqinan ni
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو کوئی نیک عمل کرے (خواہ) مرد ہو یا عورت جبکہ وہ مومن ہو تو ہم اسے ضرور پاکیزہ زندگی کے ساتھ زندہ رکھیں گے، اور انہیں ضرور ان کا اجر (بھی) عطا فرمائیں گے ان اچھے اعمال کے عوض جو وہ انجام دیتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس شخص نے بھی مومن ہونے کی حالت میں نیک عمل کیا ہوگا، چاہے وہ مرد ہو یا عورت، ہم اسے پاکیزہ زندگی بسر کرائیں گے، اور ایسے لوگوں کو ان کے بہترین اعمال کے مطابق ان کا اجر ضرور عطا کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

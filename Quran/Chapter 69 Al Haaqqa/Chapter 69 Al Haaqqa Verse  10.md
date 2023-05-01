@@ -3224,6 +3224,12 @@ aur apne rab ke rasool ki na farmaani ki (bil aaqir) Allah ne unhe (bhi) zabarda
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس انہوں نے (بھی) اپنے رب کے رسول کی نافرمانی کی، سو اللہ نے انہیں نہایت سخت گرفت میں پکڑ لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ انہوں نے اپنے پروردگار کے پیغمبر کی نافرمانی کی تھی، اس لیے اللہ نے انہیں سخت پکڑ میں لے لیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ narm baath kehna aur maaf kar dena us sadqe se behtar hai jis ke baadh eza rasaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(سائل سے) نرمی کے ساتھ گفتگو کرنا اور درگزر کرنا اس صدقہ سے کہیں بہتر ہے جس کے بعد (اس کی) دل آزاری ہو، اور اللہ بے نیاز بڑا حلم والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلی بات کہہ دینا اور درگزر کرنا اس صدقے سے بہتر ہے جس کے بعد کوئی تکلیف پہنچائی جائے اور اللہ بڑا بےنیاز، بہت بردبار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

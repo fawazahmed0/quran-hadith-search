@@ -3224,6 +3224,12 @@ aaqir kya wajeh hai ke hum Allah ta’ala par bharosa na rakhe jab ke osi ne ham
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہمیں کیا ہے کہ ہم اللہ پر بھروسہ نہ کریں درآنحالیکہ اسی نے ہمیں (ہدایت و کامیابی کی) راہیں دکھائی ہیں، اور ہم ضرور تمہاری اذیت رسانیوں پر صبر کریں گے اور اہلِ توکل کو اللہ ہی پر توکل کرنا چاہیے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آخر ہم کیوں اللہ پر بھروسہ نہ رکھیں، جبکہ اس نے ہمیں ان راستوں کی ہدایت دے دی ہے جن پر ہمیں چلنا ہے ؟ اور تم نے ہمیں جو تکلیفیں پہنچائی ہیں، ان پر ہم یقینا صبر کریں گے، اور جن لوگوں کو بھروسہ رکھنا ہو، انہیں اللہ ہی پر بھروسہ رکھنا چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

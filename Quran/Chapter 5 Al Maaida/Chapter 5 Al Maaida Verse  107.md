@@ -3224,6 +3224,12 @@ phir agar us ki ittela ho ke wo duno gawaah kisi gunaah ke murtakib hoye hai to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر اس (بات) کی اطلاع ہو جائے کہ وہ دونوں (صحیح گواہی چھپانے کے باعث) گناہ کے سزاوار ہوگئے ہیں تو ان کی جگہ دو اور (گواہ) وصیت کے حق داروں میں سے کھڑے ہوجائیں جو میت کے زیادہ قریبی ہوں، پھر وہ اللہ کی قسَم کھائیں کہ بے شک ہماری گواہی ان دونوں کی گواہی سے زیادہ سچی ہے اور ہم (حق سے) تجاوز نہیں کر رہے، (اگر ایسا کریں تو) ہم اسی وقت ظالموں میں سے ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بعد میں اگر یہ پتہ چلے کہ انہوں نے (جھوٹ بول کر) اپنے اوپر گناہ کا بوجھ اٹھا لیا ہے تو ان لوگوں میں سے دو آدمی ان کی جگہ (گواہی کے لیے) کھڑے ہوجائیں جن کے خلاف ان پہلے دو آدمیوں نے گناہ اپنے سر لیا تھا اور وہ اللہ کی قسم کھائیں کہ ہماری گواہی ان پہلے دو آدمیوں کی گواہی کے مقابلے میں زیادہ سچی ہے، اور ہم نے (اس گواہی میں) کوئی زیادتی نہیں کی ہے، ورنہ ہم ظالموں میں شمار ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

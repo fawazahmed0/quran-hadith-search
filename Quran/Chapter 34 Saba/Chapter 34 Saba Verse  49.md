@@ -3224,6 +3224,12 @@ keh dijiye ke haq aa chuka, baatil na to pehle kuch kar saka hai aur na kar sake
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: حق آگیا ہے اور باطل نہ (کچھ) پہلی بار پیدا کر سکتا ہے اور نہ دوبارہ پلٹا سکتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : حق آچکا ہے اور باطل میں نہ کچھ شروع کرنے کا دم ہے نہ دوبارہ کرنے کا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

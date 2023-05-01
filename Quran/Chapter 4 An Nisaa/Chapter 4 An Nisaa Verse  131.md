@@ -3224,6 +3224,12 @@ zameen aur asmaano ki har har cheez Allah ta’ala hee ki milkiyath mein hai aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ہی کا ہے جو کچھ آسمانوں میں اورجو کچھ زمین میں ہے۔ اور بیشک ہم نے ان لوگوں کو (بھی) جنہیں تم سے پہلے کتاب دی گئی حکم دیا ہے اور تمہیں (بھی) کہ اللہ سے ڈرتے رہا کرو۔ اور اگر تم نافرمانی کرو گے تو بیشک (سب کچھ) اللہ ہی کا ہے جو آسمانوں میں اورجو زمین میں ہے اوراللہ بے نیاز، ستودہ صفات ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین میں جو کچھ ہے اللہ ہی کا ہے۔ ہم نے تم سے پہلے اہل کتاب کو بھی اور تمہیں بھی یہی تاکید کی ہے کہ اللہ سے ڈرو اور اگر تم کفر اپناؤ گے تو (اللہ کا کیا نقصان ہے ؟ کیونکہ) آسمانوں اور زمین میں جو کچھ ہے اللہ ہی کا ہے، اور اللہ ہر ایک سے بےنیاز اور بذات خود لائق تعریف ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

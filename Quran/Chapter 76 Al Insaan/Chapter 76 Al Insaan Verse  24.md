@@ -3224,6 +3224,12 @@ pas tu apne rab ke hukm par qaayam reh aur un mein se kisi gunehgaar ya na shukr
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ اپنے ربّ کے حکم کی خاطر صبر (جاری) رکھیں اور ان میں سے کسی کاذب و گنہگار یا کافر و ناشکرگزار کی بات پر کان نہ دھریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا تم اپنے پروردگار کے حکم پر ثابت قدم رہو، اور ان لوگوں میں سے کسی نافرمان یا کافر کی بات نہ مانو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

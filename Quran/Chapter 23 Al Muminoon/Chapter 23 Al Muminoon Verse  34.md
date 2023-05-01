@@ -3224,6 +3224,12 @@ agar tum ne apne jaise hee insaan ki taabedaari karli, to beshak tum saqt qasaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم نے اپنے ہی جیسے ایک بشر کی اطاعت کر لی تو پھر تم ضرور خسارہ اٹھانے والے ہو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر کہیں تم نے اپنے ہی جیسے ایک انسان کی فرمانبرداری قبول کرلی تو تم بڑے ہی گھاٹے کا سودا کرو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

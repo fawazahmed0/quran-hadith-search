@@ -3224,6 +3224,12 @@ beshak Allah ta’ala ne tamaam jahaan ke logo mein se Aadam(alaihissalaam) ko a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ نے آدم (علیہ السلام) کو اور نوح (علیہ السلام) کو اور آلِ ابراہیم کو اور آلِ عمران کو سب جہان والوں پر (بزرگی میں) منتخب فرما لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے آدم، نوح، ابراہیم کے خاندان، اور عمران کے خاندان کو چن کر تمام جہانوں پر فضیلت دی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

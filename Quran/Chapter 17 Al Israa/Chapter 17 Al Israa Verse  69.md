@@ -3224,6 +3224,12 @@ kya tum is baath se be khauf ho gaye ho ke Allah ta’ala phir tumhe dubara dary
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا تم اس بات سے بے خوف ہوگئے ہو کہ وہ تمہیں دوبارہ اس (سمندر) میں پلٹا کر لے جائے اور تم پر کشتیاں توڑ دینے والی آندھی بھیج دے پھر تمہیں اس کفر کے باعث جو تم کرتے تھے (سمندر میں) غرق کر دے پھر تم اپنے لئے اس (ڈبونے) پر ہم سے مؤاخذہ کرنے والا کوئی نہیں پاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا تم اس بات سے بھی بےفکر ہوگئے ہو کہ وہ تمہیں دوبارہ اسی (سمندر) میں لے جائے۔ پھر تم پر ہوا کا طوفان بھیج کر تمہاری ناشکری کی سزا میں تمہیں غرق کر ڈالے، پھر تمہیں کوئی نہ ملے جو اس معاملے میں ہمارا پیچھا کرسکے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

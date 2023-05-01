@@ -3224,6 +3224,12 @@ wo to dozakh ki aahat tak na sunenge aur apni man-bhaati cheezo mein hamesha reh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اس کی آہٹ بھی نہ سنیں گے اور وہ ان (نعمتوں) میں ہمیشہ رہیں گے جن کی ان کے دل خواہش کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اس کی سرسراہٹ بھی نہیں سنیں گے، اور وہ ہمیشہ ہمیشہ اپنی من پسند چیزوں کے درمیان رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

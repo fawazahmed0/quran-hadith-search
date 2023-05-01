@@ -3224,6 +3224,12 @@ aur jo apne aap ko nasrani kehte hai,hum ne un se bhi ahad wa paima liya,unhone 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان لوگوں سے (بھی اسی قسم کا) عہد لیا تھا جو کہتے ہیں: ہم نصاریٰ ہیں، پھر وہ (بھی) اس (رہنمائی) کا ایک (بڑا) حصہ فراموش کر بیٹھے جس کی انہیں نصیحت کی گئی تھی۔ سو (اس بدعہدی کے باعث) ہم نے ان کے درمیان دشمنی اور کینہ روزِ قیامت تک ڈال دیا، اور عنقریب اللہ انہیں ان (اعمال کی حقیقت) سے آگاہ فرما دے گا جو وہ کرتے رہتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کہا تھا کہ ہم نصرانی ہیں، ان سے (بھی) ہم نے عہد لیا تھا، پھر جس چیز کی ان کو نصیحت کی گئی تھی اس کا ایک بڑا حصہ وہ (بھی) بھلا بیٹھے۔ چنانچہ ہم نے ان کے درمیان قیامت کے دن تک کے لیے دشمنی اور بغض پیدا کردیا اور اللہ انہیں عنقریب بتادے گا کہ وہ کیا کچھ کرتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

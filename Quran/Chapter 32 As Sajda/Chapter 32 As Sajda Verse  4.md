@@ -3224,6 +3224,12 @@ Allah ta’ala wo hai jis ne asmaan wa zameen ko aur jo kuch un ke darmiyaan hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہی ہے جس نے آسمانوں اور زمین کو اور جو کچھ ان کے درمیان ہے (اسے) چھ دنوں (یعنی چھ مدتوں) میں پیدا فرمایا پھر (نظام کائنات کے) عرش (اقتدار) پر (اپنی شان کے مطابق) جلوہ افروز ہوا، تمہارے لئے اسے چھوڑ کر نہ کوئی کارساز ہے اور نہ کوئی سفارشی، سو کیا تم نصیحت قبول نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے آسمانوں اور زمین کو اور ان کے درمیان ساری چیزوں کو چھ دن میں پیدا کیا، پھر اس نے عرش پر استواء فرمایا۔ اس کے سوا نہ تمہارا کوئی رکھوالا ہے، نہ کوئی سفارشی کیا پھر بھی تم کسی نصیحت پر دھیان نہیں دیتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

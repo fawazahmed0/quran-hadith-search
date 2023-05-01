@@ -3224,6 +3224,12 @@ kuch log to kahenge ke as-haabe kahaf teen thein aur chautha un ka kutta tha, ku
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اب) کچھ لوگ کہیں گے: (اصحابِ کہف) تین تھے ان میں سے چوتھا ان کا کتا تھا، اور بعض کہیں گے: پانچ تھے ان میں سے چھٹا ان کا کتا تھا، یہ بِن دیکھے اندازے ہیں، اور بعض کہیں گے: (وہ) سات تھے اور ان میں سے آٹھواں ان کا کتا تھا۔ فرما دیجئے: میرا رب ہی ان کی تعداد کو خوب جانتا ہے اور سوائے چند لوگوں کے ان (کی صحیح تعداد) کا علم کسی کو نہیں، سو آپ کسی سے ان کے بارے میں بحث نہ کیا کریں سوائے اس قدر وضاحت کے جو ظاہر ہو چکی ہے اور نہ ان میں سے کسی سے ان (اصحابِ کہف) کے بارے میں کچھ دریافت کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کچھ لوگ کہیں گے کہ وہ تین آدمی تھے، اور چوتھا ان کا کتا تھا، اور کچھ کہیں گے کہ وہ پانچ تھے، اور چھٹا ان کا کتا تھا۔ یہ سب اٹکل کے تیر چلانے کی باتیں ہیں۔ اور کچھ کہیں گے کہ وہ سات تھے، اور آٹھواں ان کا کتا تھا، کہہ دو کہ : میرا رب ہی ان کی صحیح تعداد کو جانتا ہے۔ تھوڑے سے لوگوں کے سوا کسی کو ان کا پورا علم نہیں۔ لہذا ان کے بارے میں سرسری گفتگو سے آگے بڑھ کر کوئی بحث نہ کرو، اور نہ ان کے بارے میں کسی سے پوچھ گچھ کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

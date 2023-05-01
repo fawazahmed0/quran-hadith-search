@@ -3224,6 +3224,12 @@ jo raahe raasth ki taraf rehnumaayi karta hai, hum us par imaan laa chuke (ab) h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو ہدایت کی راہ دکھاتا ہے، سو ہم اس پر ایمان لے آئے ہیں، اور اپنے رب کے ساتھ کسی کو ہرگز شریک نہیں ٹھہرائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو راہ راست کی طرف رہنمائی کرتا ہے، اس لیے ہم اس پر ایمان لے آئے ہیں، اور اب اپنے پروردگار کے ساتھ کسی کو (عبادت میں) ہرگز شریک نہیں مانیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

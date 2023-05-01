@@ -3224,6 +3224,12 @@ us se pehle hum batein sunne ke liye asmaan mein jageh jageh baith jaaya karte t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ ہم (پہلے آسمانی خبریں سننے کے لئے) اس کے بعض مقامات میں بیٹھا کرتے تھے، مگر اب کوئی سننا چاہے تو وہ اپنی تاک میں آگ کا شعلہ (منتظر) پائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : ہم پہلے سن گن لینے کے لیے آسمان کی کچھ جگہوں پر جا بیٹھا کرتے تھے۔ لیکن اب جو کوئی سننا چاہتا ہے وہ دیکھتا ہے کہ ایک شعلہ اس کی گھات میں لگا ہوا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

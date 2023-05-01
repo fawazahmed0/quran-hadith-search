@@ -3224,6 +3224,12 @@ aur us ne mujhe ba barkath kiya hain, jahaan bhi main hoon, aur us ne mujhe nama
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں جہاں کہیں بھی رہوں اس نے مجھے سراپا برکت بنایا ہے اور میں جب تک (بھی) زندہ ہوں اس نے مجھے نماز اور زکوٰۃ کا حکم فرمایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جہاں بھی میں رہوں، مجھے بابرکت بنایا ہے، اور جب تک زندہ رہوں، مجھے نماز اور زکوٰۃ کا حکم دیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

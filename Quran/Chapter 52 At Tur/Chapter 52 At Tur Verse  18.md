@@ -3224,6 +3224,12 @@ jo unhe un ke rab ne de rakhi hai, us par khush khush hai aur un ke parvardigaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+خوش اور لطف اندوز ہوں گے اُن (عطاؤں) سے جن سے اُن کے رب نے انہیں نوازا ہوگا، اور اُن کا رب انہیں دوزخ کے عذاب سے محفوظ رکھے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے پروردگار نے انہیں جس طرح نوازا اور ان کے پروردگار ہی نے انہیں دوزخ کے عذاب سے جس طرح بچایا، اس کا لطف اٹھا رہے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

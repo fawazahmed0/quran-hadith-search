@@ -3224,6 +3224,12 @@ un se daryaaft ki jiye! ke kya aap ke rab ki to betiyaa hai aur un ke bete hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ اِن (کفّارِ مکّہ) سے پوچھئے کیا آپ کے رب کے لئے بیٹیاں ہیں اور ان کے لئے بیٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب ان (مکہ کے مشرکوں) سے پوچھو کہ : کیا (اے پیغمبر) تمہارے رب کے حصے میں تو بیٹیاں آئی ہیں اور خود ان کے حصے میں بیٹے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

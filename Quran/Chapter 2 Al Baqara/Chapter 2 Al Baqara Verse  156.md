@@ -3224,6 +3224,12 @@ jinhe jab kabhi koyi musibath atai hai to keh diya karte hai ke hum to khud Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جن پر کوئی مصیبت پڑتی ہے تو کہتے ہیں: بیشک ہم بھی اللہ ہی کا (مال) ہیں اور ہم بھی اسی کی طرف پلٹ کر جانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں کہ جب ان کو کوئی مصیبت پہنچتی ہے تو یہ کہتے ہیں کہ “ ہم سب اللہ ہی کے ہیں اور ہم کو اللہ ہی کی طرف لوٹ کر جانا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

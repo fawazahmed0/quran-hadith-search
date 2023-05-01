@@ -3224,6 +3224,12 @@ osi ne tumhaare liye zameen ko farsh banaya hai, aur us mein tumhaare chalne ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے زمین کو تمہارے رہنے کی جگہ بنایا اور اس میں تمہارے (سفر کرنے کے) لئے راستے بنائے اور آسمان کی جانب سے پانی اتارا، پھر ہم نے اس (پانی) کے ذریعے (زمین سے) انواع و اقسام کی نباتات کے جوڑے نکال دیئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ ذات ہے جس نے زمین کو تمہارے لیے فرش بنادیا، اور اس میں تمہارے لیے راستے بنائے، اور آسمان سے پانی برسایا، پھر ہم نے اس کے ذریعے طرح طرح کی مختلف نباتات نکالیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

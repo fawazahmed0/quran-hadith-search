@@ -3224,6 +3224,12 @@ yousuf ne kaha tumhe jo khana diya jata hai us ke tumhare paas pahonchne se pehl
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یوسف (علیہ السلام) نے کہا: جو کھانا (روز) تمہیں کھلایا جاتا ہے وہ تمہارے پاس آنے بھی نہ پائے گا کہ میں تم دونوں کو اس کی تعبیر تمہارے پاس اس کے آنے سے قبل بتا دوں گا، یہ (تعبیر) ان علوم میں سے ہے جو میرے رب نے مجھے سکھائے ہیں۔ بیشک میں نے اس قوم کا مذہب (شروع ہی سے) چھوڑ رکھا ہے جو اللہ پر ایمان نہیں لاتے اور وہ آخرت کے بھی منکر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یوسف نے کہا : جو کھانا تمہیں (قید خانے میں) دیا جاتا ہے، وہ ابھی آنے نہیں پائے گا کہ میں تمہیں اس کی حقیقت بتادوں گا یہ اس علم کا ایک حصہ ہے جو میرے پروردگار نے مجھے عطا فرمایا ہے۔ (مگر اس سے پہلے میری ایک بات سنو) بات یہ ہے کہ میں نے ان لوگوں کا دین چھوڑ دیا ہے جو اللہ پر ایمان نہیں رکھتے، اور جو آخرت کے منکر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

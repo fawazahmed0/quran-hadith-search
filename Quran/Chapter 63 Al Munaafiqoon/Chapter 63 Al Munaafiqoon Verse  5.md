@@ -3224,6 +3224,12 @@ aur jab un se kaha jaata hai ke aao tumhaare liye Allah ke rasool isteghfaar kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اُن سے کہا جاتا ہے کہ آؤ رسول اللہ (صلی اللہ علیہ وآلہ وسلم) تمہارے لئے مغفرت طلب فرمائیں تو یہ (منافق گستاخی سے) اپنے سر جھٹک کر پھیر لیتے ہیں اور آپ انہیں دیکھتے ہیں کہ وہ تکبر کرتے ہوئے (آپ کی خدمت میں آنے سے) گریز کرتے ہیں٭o٭ یہ آیت عبد اللہ بن اُبیّ (رئیس المنافقین) کے بارے میں نازل ہوئی، جب اسے حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم کی خدمتِ اقدس میں بخشش طلبی کے لئے حاضر ہونے کا کہا گیا تو سر جھٹک کر کہنے لگا: میں نہیں جاتا، میں ایمان بھی لا چکا ہوں، ان کے کہنے پر زکوٰۃ بھی دے دی ہے۔ اب کیا باقی رہ گیا ہے فقط یہی کہ محمد صلی اللہ علیہ وآلہ وسلم کو سجدہ بھی کروں؟ (الطبری، الکشاف، نسفی، بغوی، خازن)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان سے کہا جاتا ہے کہ آؤ، اللہ کے رسول تمہارے حق میں مغفرت کی دعا کریں، تو یہ اپنے سروں کو مٹکاتے ہیں، اور تم انہیں دیکھو گے کہ وہ بڑے گھمنڈ کے عالم میں بےرخی سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

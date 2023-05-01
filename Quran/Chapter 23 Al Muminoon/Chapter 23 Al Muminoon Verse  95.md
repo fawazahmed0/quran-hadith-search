@@ -3224,6 +3224,12 @@ hum jo kch waade unhe de rahe hai, sab aap ko dikha dene par yaqinan qaadir hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم اس بات پرضرور قادر ہیں کہ ہم آپ کو وہ (عذاب) دکھا دیں جس کا ہم ان سے وعدہ کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یقین جانو کہ ہم جس چیز کی انہیں دھمکی دے رہے ہیں اسے تمہاری آنکھوں کے سامنے لانے پر پوری طرح قادر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

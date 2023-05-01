@@ -3224,6 +3224,12 @@ waqeyi qaraabi mein pad gaye wo log jinhone apni aulaad ko mahez baraahe himaaqa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+واقعی ایسے لوگ برباد ہوگئے جنہوں نے اپنی اولاد کو بغیر علمِ (صحیح) کے (محض) بیوقوفی سے قتل کر ڈالا اور ان (چیزوں) کو جو اللہ نے انہیں (روزی کے طور پر) بخشی تھیں اللہ پر بہتان باندھتے ہوئے حرام کر ڈالا، بیشک وہ گمراہ ہو گئے اور ہدایت یافتہ نہ ہو سکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ وہ لوگ بڑے خسارے میں ہیں جنہوں نے اپنی اولاد کو کسی علمی وجہ کے بغیر محض حماقت سے قتل کیا ہے، اور اللہ نے جو رزق ان کو دیا تھا اسے اللہ پر بہتان باندھ کر حرام کرلیا ہے۔ وہ بری طرح گمراہ ہوگئے ہیں، اور کبھی ہدایت پر آئے ہی نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

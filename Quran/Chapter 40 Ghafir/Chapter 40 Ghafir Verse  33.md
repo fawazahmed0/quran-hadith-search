@@ -3224,6 +3224,12 @@ jis din tum peet pher kar lautoge, tumhe Allah se bachaane waala koyi na hoga au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن تم پیٹھ پھیر کر بھاگو گے اور تمہیں اللہ (کے عذاب) سے بچانے والا کوئی نہیں ہو گا اور جسے اللہ گمراہ ٹھہرا دے تو اس کے لئے کوئی ہادی و رہنما نہیں ہوتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دم تم پیٹھ پھیر کر اس طرح بھاگو گے کہ کوئی بھی تمہیں اللہ سے بچانے والا نہیں ہوگا اور جسے اللہ بھٹکا دے اسے کوئی راستہ دکھانے والا میسر نہیں آتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

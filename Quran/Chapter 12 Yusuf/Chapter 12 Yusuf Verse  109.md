@@ -3224,6 +3224,12 @@ aap se pehle hum ne basti walo mein jitne rasool bheje hai sub mard hee thein ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آپ سے پہلے بھی (مختلف) بستیوں والوں میں سے مَردوں ہی کو (رسول بنا کر) بھیجا تھا جن کی طرف ہم وحی فرماتے تھے، کیا ان لوگوں نے زمین میں سیر نہیں کی کہ وہ (خود) دیکھ لیتے کہ ان سے پہلے لوگوں کا انجام کیا ہوا، اور بے شک آخرت کا گھر پرہیزگاری اختیار کرنے والوں کے لیے بہتر ہے، کیا تم عقل نہیں رکھتے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے تم سے پہلے جو رسول بھیجے وہ سب مختلف بستیوں میں بسنے والے انسان ہی تھے جن پر ہم وحی بھیجتے تھے۔ تو کیا ان لوگوں نے زمین میں چل پھر کر یہ نہیں دیکھا کہ ان سے پہلے کی قوموں کا انجام کیسا ہوا ؟ اور آخرت کا گھر یقینا ان لوگوں کے لیے کہیں بہتر ہے جنہوں نے تقوی اختیار کیا۔ کیا پھر بھی تم عقل سے کام نہیں لیتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

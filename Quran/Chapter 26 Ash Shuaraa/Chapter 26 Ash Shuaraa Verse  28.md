@@ -3224,6 +3224,12 @@ Moosa ne kaha “mashriq o magrib aur jo kuch inke darmiyan hai sabka Rubb, agar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) کہا: (وہ) مشرق اور مغرب اور اس (ساری کائنات) کا رب ہے جو ان دونوں کے درمیان ہے اگر تم (کچھ) عقل رکھتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : وہ مشرق و مغرب کا بھی پروردگار ہے، اور ان کے درمیان ساری چیزوں کا بھی، اگر تم عقل سے کام لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

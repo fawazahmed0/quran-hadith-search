@@ -3224,6 +3224,12 @@ feraun kehne laga ke kya meri ijaazath se pehle hee tum us par imaan le aaye? Ya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(فرعون) کہنے لگا: تم اس پر ایمان لے آئے ہو قبل اس کے کہ میں تمہیں اجازت دوں، بیشک وہ (موسٰی) تمہارا (بھی) بڑا (استاد) ہے جس نے تم کو جادو سکھایا ہے، پس (اب) میں ضرور تمہارے ہاتھ اور تمہارے پاؤں الٹی سمتوں سے کاٹوں گا اور تمہیں ضرور کھجور کے تنوں میں سولی چڑھاؤں گا اور تم ضرور جان لوگے کہ ہم میں سے کون عذاب دینے میں زیادہ سخت اور زیادہ مدت تک باقی رہنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرعون بولا : تم ان پر میرے اجازت دینے سے پہلے ہی ایمان لے آئے، مجھے یقین ہے کہ یہ (موسیٰ) تم سب کا سرغنہ ہے جس نے تمہیں جادو سکھلایا ہے۔ اب میں نے بھی پکا ارادہ کرلیا ہے کہ تمہارے ہاتھ پاؤں مخالف سمتوں سے کاٹوں گا، اور تمہیں کھجور کے تنوں پر سولی چڑھاؤں گا۔ اور تمہیں یقینا پتہ لگ جائے گا کہ ہم دونوں میں سے کس کا عذاب زیادہ سخت اور دیرپا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

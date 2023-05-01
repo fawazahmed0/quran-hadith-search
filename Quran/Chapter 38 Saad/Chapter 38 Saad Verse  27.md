@@ -3224,6 +3224,12 @@ aur hum ne asmaan wa zameen aur un ke darmiyaan ki chizo ko na haq paida nahi ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آسمانوں کو اور زمین کو اور جو کائنات دونوں کے درمیان ہے اسے بے مقصد و بے مصلحت نہیں بنایا۔ یہ (بے مقصد یعنی اتفاقیہ تخلیق) کافر لوگوں کا خیال و نظریہ ہے۔ سو کافر لوگوں کے لئے آتشِ دوزخ کی ہلاکت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے آسمان و زمین اور ان کے درمیان جو چیزیں ہیں ان کو فضول ہی پیدا نہیں کردیا۔ یہ تو ان لوگوں کا گمان ہے جنہوں نے کفر اختیار کرلیا ہے، چنانچہ ان کافروں کے لیے دوزخ کی شکل میں بڑی تباہی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

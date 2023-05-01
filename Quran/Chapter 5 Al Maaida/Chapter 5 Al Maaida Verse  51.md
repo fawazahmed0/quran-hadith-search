@@ -3224,6 +3224,12 @@ ae iman walo tum yahod wa nasara ko dosth na banao,ye tuh aapas mein hee ek dosr
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! (جارِح اور دشمن) یہود اور نصاریٰ کو (اپنا قابل اعتماد) حلیف نہ سمجھو یہ آپس میں ایک دوسرے کے حلیف ہیں۔ اور تم میں سے جو شخص ان (جارِح اور دشمن یہود و نصاریٰ) کو (اپنا قابلِ اِعتماد) حلیف سمجھے گا تو بے شک وہ انہی میں سے ہو (جائے) گا۔ یقیناً اللہ ظالم قوم کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! یہودیوں اور نصرانیوں کو یارومددگار نہ بناؤ یہ خود ہی ایک دوسرے کے یارومددگار ہیں اور تم میں سے جو شخص ان کی دوستی کا دم بھرے گا تو پھر وہ انہی میں سے ہوگا۔ یقینا اللہ ظالم لوگوں کو ہدایت نہیں دیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

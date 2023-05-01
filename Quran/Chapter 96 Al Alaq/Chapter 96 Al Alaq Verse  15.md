@@ -3224,6 +3224,12 @@ yaqinan agar ye baaz na raha, to hum us ki peshaani ke baal pakad kar ghasitenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+خبر دار! اگر وہ (گستاخئ رسالت اور دینِ حق کی عداوت سے) باز نہ آیا تو ہم ضرور (اسے) پیشانی کے بالوں سے پکڑ کر گھسیٹیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 خبردار ! اگر وہ باز نہ آیا تو ہم (اسے) پیشانی کے بال پکڑ کر گھسیٹیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

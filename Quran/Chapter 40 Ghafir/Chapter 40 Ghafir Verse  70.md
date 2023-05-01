@@ -3224,6 +3224,12 @@ jin logo ne kitaab ko jhutlaaya aur ose bhi jo hum ne apne rasulo ke saath bheja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جن لوگوں نے کتاب کو (بھی) جھٹلا دیا اور ان (نشانیوں) کو (بھی) جن کے ساتھ ہم نے اپنے رسولوں کو بھیجا تھا، تو وہ عنقریب (اپنا انجام) جان لیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ وہ ہیں جنہوں نے اس کتاب کو بھی جھٹلایا ہے، اور اس (تعلیم) کو بھی جس کا حامل بنا کر ہم نے اپنے پیغمبر بھیجے تھے۔ چنانچہ انہیں عنقریب پتہ لگ جائے گا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jab kabhi un ke paas Allah ka koyi rasool un ki kitaab ki tasdeeq karne waala aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اسی طرح) جب ان کے پاس اللہ کی جانب سے رسول (حضرت محمد صلی اللہ علیہ وآلہ وسلم) آئے جو اس کتاب کی (اصلاً) تصدیق کرنے والے ہیں جو ان کے پاس (پہلے سے) موجود تھی تو (انہی) اہلِ کتاب میں سے ایک گروہ نے اللہ کی (اسی) کتاب (تورات) کو پسِ پشت پھینک دیا، گویا وہ (اس کو) جانتے ہی نہیں (حالانکہ اسی تورات نے انہیں نبی آخرالزماں حضرت محمد صلی اللہ علیہ وآلہ وسلم کی تشریف آوری کی خبر دی تھی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان کے پاس اللہ کی طرف سے ایک رسول آئے جو اس (تورات) کی تصدیق کر رہے تھے جو ان کے پاس ہے، تو اہل کتاب میں سے ایک گروہ نے اللہ کی کتاب (تورات و انجیل) کو اس طرح پس پشت ڈال دیا گویا وہ کچھ جانتے ہی نہ تھے (کہ اس میں نبی آخر الزماں (صلی اللہ علیہ وآلہ وسلم) کے بارے میں کیا ہدایات دی گئی تھیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

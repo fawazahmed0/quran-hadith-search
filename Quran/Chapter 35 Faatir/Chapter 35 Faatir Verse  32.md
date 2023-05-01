@@ -3224,6 +3224,12 @@ phir hum ne un logo ko (us) kitaab ka waaris banaya, jin ko hum ne apne bandho m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے اس کتاب (قرآن) کا وارث ایسے لوگوں کو بنایا جنہیں ہم نے اپنے بندوں میں سے چُن لیا (یعنی اُمّتِ محمدیہ کو)، سو ان میں سے اپنی جان پر ظلم کرنے والے بھی ہیں، اور ان میں سے درمیان میں رہنے والے بھی ہیں، اور ان میں سے اللہ کے حکم سے نیکیوں میں آگے بڑھ جانے والے بھی ہیں۔ یہی (اس کتاب یعنی قرآن کا وارث ہونا) بڑا فضل ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے اس کتاب کا وارث اپنے بندوں میں سے ان کو بنایا جنہیں ہم نے چن لیا تھا پھر ان میں سے کچھ وہ ہیں جو اپنی جان پر ظلم کرنے والے ہیں، اور انہی میں سے کچھ ایسے ہیں جو درمیانے درجے کے ہیں، اور کچھ وہ ہیں جو اللہ کی توفیق سے نیکیوں میں بڑھے چلے جاتے ہیں۔ اور یہ (اللہ کا) بہت بڑا فضل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

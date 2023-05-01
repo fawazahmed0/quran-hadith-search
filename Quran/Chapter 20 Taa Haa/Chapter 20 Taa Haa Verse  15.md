@@ -3224,6 +3224,12 @@ qayaamath yaqinan aane waali hai, jise main poshida rakhna chahta hoon, ta ke ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک قیامت کی گھڑی آنے والی ہے، میں اسے پوشیدہ رکھنا چاہتا ہوں تاکہ ہر جان کو اس (عمل) کا بدلہ دیا جائے جس کے لئے وہ کوشاں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ قیامت کی گھڑی آنے والی ہے، میں اس (کے وقت) کو خفیہ رکھنا چاہتا ہوں، تاکہ ہر شخص کو اس کے کیے کا بدلہ ملے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

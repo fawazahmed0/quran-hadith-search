@@ -3224,6 +3224,12 @@ aur tumhaari jin aurto ko Allah ta’ala ne tumhara joda banaya hai, un ko chohd
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اپنی بیویوں کو چھوڑ دیتے ہو جو تمہارے رب نے تمہارے لئے پیدا کی ہیں، بلکہ تم (سرکشی میں) حد سے نکل جانے والے لوگ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہاری بیویاں جو تمہارے رب نے تمہارے لیے پیدا کی ہیں، ان کو چھوڑے بیٹھے ہو ؟ حقیقت تو یہ ہے کہ تم حد سے بالکل گزرے ہوئے لوگ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

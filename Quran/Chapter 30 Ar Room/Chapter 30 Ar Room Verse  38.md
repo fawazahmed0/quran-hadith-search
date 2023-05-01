@@ -3224,6 +3224,12 @@ pas qaraabath-daar ko, miskeen ko, musaafir ko, har ek ko us ka haq di jiye, ye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ قرابت دار کو اس کا حق ادا کرتے رہیں اور محتاج اور مسافر کو (ان کا حق)، یہ ان لوگوں کے لئے بہتر ہے جو اللہ کی رضامندی کے طالب ہیں، اور وہی لوگ مراد پانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا تم رشتہ دار کو اس کا حق دو اور مسکین اور مسافر کو بھی جو لوگ اللہ کی خوشنودی چاہتے ہیں، ان کے لیے یہ بہتر ہے، اور وہی ہیں جو فلاح پانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

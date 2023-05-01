@@ -3224,6 +3224,12 @@ hameshgi waale baghaat jahaan wo jayenge jin ke niche nehre beh rahi hai, jo kuc
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سدا بہار باغات ہیں جن میں وہ داخل ہوں گے جن کے نیچے سے نہریں بہہ رہی ہوں گی، اِن میں اُن کے لئے جو کچھ وہ چاہیں گے (میسّر) ہوگا، اس طرح اللہ پرہیزگاروں کو صلہ عطا فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمیشہ ہمیشہ بسنے کے لیے وہ باغات جن میں وہ داخل ہوں گے، جن کے نیچے سے نہریں بہتی ہوں گی، اور وہاں جو کچھ وہ چاہیں گے، انہیں ملے گا۔ متقی لوگوں کو اللہ ایسا ہی صلہ دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

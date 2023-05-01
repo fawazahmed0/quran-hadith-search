@@ -3224,6 +3224,12 @@ pas ye log jab kashtiyo mein sawaar hote hai, to Allah ta’ala hee ko pukaarte 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ کشتی میں سوار ہوتے ہیں تو (مشکل وقت میں بتوں کو چھوڑ کر) صرف اللہ کو اس کے لئے (اپنا) دین خالص کرتے ہوئے پکارتے ہیں، پھر جب اللہ انہیں بچا کر خشکی تک پہنچا دیتا ہے تو اس وقت وہ (دوبارہ) شرک کرنے لگتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب یہ کشتی میں سوار ہوتے ہیں تو اللہ کو اس طرح پکارتے ہیں کہ ان کا اعتقاد خالص اسی پر ہوتا ہے۔ پھر جب وہ انہیں بچا کر خشکی پر لے آتا ہے تو فورا شرک کرنے لگتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un se pehle khaum nuh ne bhi hamaare bandhe ko jhutlaaya tha aur deewana batla k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اِن سے پہلے قومِ نوح نے (بھی) جھٹلایا تھا۔ سو انہوں نے ہمارے بندۂ (مُرسَل نُوح علیہ السلام) کی تکذیب کی اور کہا: (یہ) دیوانہ ہے، اور انہیں دھمکیاں دی گئیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے پہلے نوح کی قوم نے بھی جھٹلانے کا رویہ اختیار کیا تھا۔ انہوں نے ہمارے بندے کو جھٹلایا، اور کہا کہ : یہ دیوانے ہیں، اور انہیں دھمکیاں دی گئیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ unhe sirf ek saqt cheeq ka intezaar hai, jo unhe aa pakdegi aur ye baaham ladaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ لوگ صرِف ایک سخت چنگھاڑ کے ہی منتظر ہیں جو انہیں (اچانک) پکڑے گی اور وہ آپس میں جھگڑ رہے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (دراصل) یہ لوگ بس ایک چنگھاڑ کا انتظار کر رہے ہیں جو ان کی حجت بازی کے عین درمیان انہیں آپکڑے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

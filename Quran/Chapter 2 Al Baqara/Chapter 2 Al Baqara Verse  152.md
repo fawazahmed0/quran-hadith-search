@@ -3224,6 +3224,12 @@ is liye tum mera zikr karo, main bhi tumhe yaad karonga, meri shukar guzaari kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو تم مجھے یاد کیا کرو میں تمہیں یاد رکھوں گا اور میرا شکر ادا کیا کرو اور میری ناشکری نہ کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہیں وہ باتیں سکھاتا ہے جو تم نہیں جانتے تھے۔ لہذا مجھے یاد کرو، میں تمہیں یاد رکھوں گا۔ اور میرا شکر ادا کرو اور میری ناشکری نہ کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

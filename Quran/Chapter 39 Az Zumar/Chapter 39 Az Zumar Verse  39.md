@@ -3224,6 +3224,12 @@ keh dijiye ke aye meri khaum! tum apni jageh par amal kiye jaao, main bhi amal k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اے (میری) قوم! تم اپنی جگہ عمل کئے جاؤ میں (اپنی جگہ) عمل کر رہا ہوں، پھر عنقریب تم (انجام کو) جان لو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : ” اے میری قوم کے لوگو ! تم اپنے طریقے پر عمل کیے جاؤ، میں (اپنے طریقے پر) عمل کر رہا ہوں، پھر عنقریب تمہیں پتہ چل جائے گا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

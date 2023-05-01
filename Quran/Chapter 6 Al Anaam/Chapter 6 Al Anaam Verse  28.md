@@ -3224,6 +3224,12 @@ balke jis cheez ko us ke qabl chupaaya karte thein wo un ke saamne aa gayi, aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اس اقرار میں کوئی سچائی نہیں) بلکہ ان پر وہ (سب کچھ) ظاہر ہوگیا ہے جو وہ پہلے چھپایا کرتے تھے، اور اگر وہ (دنیا میں) لوٹا (بھی) دیئے جائیں تو (پھر) وہی دہرائیں گے جس سے وہ روکے گئے تھے اور بیشک وہ (پکے) جھوٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حالانکہ (ان کی یہ آرزو بھی سچی نہ ہوگی) بلکہ دراصل وہ چیز (یعنی آخرت) ان کے سامنے کھل کر آچکی ہوگی جسے وہ پہلے چھپایا کرتے تھے (اس لیے مجبورا یہ دعوی کریں گے) ورنہ اگر ان کو واقعی واپس بھیجا جائے تو یہ دوبارہ وہی کچھ کریں گے جس سے انہیں روکا گیا ہے، اور یقین جانو یہ پکے جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

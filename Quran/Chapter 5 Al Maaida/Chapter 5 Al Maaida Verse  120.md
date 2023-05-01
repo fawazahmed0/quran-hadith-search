@@ -3224,6 +3224,12 @@ Allah hee ki hai saltanath asmaano ki aur zameen ki aur un cheezo ki jo un mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمام آسمانوں اور زمین کی اور جو کچھ ان میں ہے (سب کی) بادشاہی اللہ ہی کے لئے ہے، اور وہ ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمام آسمانوں اور زمین میں اور ان میں جو کچھ ہے اس سب کی بادشاہی اللہ ہی کے لیے ہے، اور وہ ہر چیز پر پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

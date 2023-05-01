@@ -3224,6 +3224,12 @@ aur jin logo ko ilm aur imaan diya gaya, wo jawaab denge ke tum to jaisa ke kita
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جنہیں علم اور ایمان سے نوازا گیا ہے (ان سے) کہیں گے: درحقیقت تم اللہ کی کتاب میں (ایک گھڑی نہیں بلکہ) اٹھنے کے دن تک ٹھہرے رہے ہو، سو یہ ہے اٹھنے کا دن، لیکن تم جانتے ہی نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں کو علم اور ایمان عطا کیا گیا ہے وہ کہیں گے کہ : تم اللہ کی لکھی ہوئی تقدیر کے مطابق حشر کے دن تک (برزخ میں) پڑے رہے ہو۔ اب یہ وہی حشر کا دن ہے، لیکن تم لوگ یقین نہیں کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

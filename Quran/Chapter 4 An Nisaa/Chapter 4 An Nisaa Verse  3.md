@@ -3224,6 +3224,12 @@ agar tumhe dar ho ke yateem ladkiyo se nikaah kar ke tum insaaf na rakh sakoge, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تمہیں اندیشہ ہو کہ تم یتیم لڑکیوں کے بارے میں انصاف نہ کر سکو گے تو ان عورتوں سے نکاح کرو جو تمہارے لئے پسندیدہ اور حلال ہوں، دو دو اور تین تین اور چار چار (مگر یہ اجازت بشرطِ عدل ہے)، پھر اگر تمہیں اندیشہ ہو کہ تم (زائد بیویوں میں) عدل نہیں کر سکو گے تو صرف ایک ہی عورت سے (نکاح کرو) یا وہ کنیزیں جو (شرعاً) تمہاری ملکیت میں آئی ہوں، یہ بات اس سے قریب تر ہے کہ تم سے ظلم نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہیں یہ اندیشہ ہو کہ تم یتیموں کے بارے میں انصاف سے کام نہیں لے سکو گے تو (ان سے نکاح کرنے کے بجائے) دوسری عورتوں میں سے کسی سے نکاح کرلو جو تمہیں پسند آئیں دو دو سے، تین تین سے، اور چار چار سے، ہاں ! اگر تمہیں یہ خطرہ ہو کہ تم (ان بیویوں) کے درمیان انصاف نہ کرسکو گے تو پھر ایک ہی بیوی پر اکتفا کرو، یا ان کنیزوں پر جو تمہاری ملکیت میں ہیں۔ اس طریقے میں اس بات کا زیادہ امکان ہے کہ تم بےانصافی میں مبتلا نہیں ہوگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

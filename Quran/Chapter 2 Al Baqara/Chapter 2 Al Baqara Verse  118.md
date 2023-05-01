@@ -3224,6 +3224,12 @@ isi tarah be ilm logo ne bhi kaha ke khud Allah ta’ala hum se batein kyo nahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ علم نہیں رکھتے کہتے ہیں کہ اللہ ہم سے کلام کیوں نہیں فرماتا یا ہمارے پاس (براہِ راست) کوئی نشانی کیوں نہیں آتی؟ اسی طرح ان سے پہلے لوگوں نے بھی انہی جیسی بات کہی تھی، ان (سب) لوگوں کے دل آپس میں ایک جیسے ہیں، بیشک ہم نے یقین والوں کے لئے نشانیاں خوب واضح کر دی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ علم نہیں رکھتے وہ کہتے ہیں کہ : اللہ ہم سے (براہ راست) کیوں بات نہیں کرتا ؟ یا ہمارے پاس کوئی نشانی کیوں نہیں آتی ؟ جو لوگ ان سے پہلے گزرے ہیں وہ بھی اسی طرح کی باتیں کہتے تھے جیسے یہ کہتے ہیں۔ ان سب کے دل ایک جیسے ہیں۔ حقیقت یہ ہے کہ جو لوگ یقین کرنا چاہیں ان کے لیے ہم نشانیاں پہلے ہی واضح کرچکے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

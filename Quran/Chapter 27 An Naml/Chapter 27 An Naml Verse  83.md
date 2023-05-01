@@ -3224,6 +3224,12 @@ aur jis din hum har ummath mein se un logo ke gruh ko jo hamaari aayato ko jhutl
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس دن ہم ہر امت میں سے ان لوگوں کا (ایک ایک) گروہ جمع کریں گے جو ہماری آیتوں کو جھٹلاتے تھے سو وہ (اکٹھا چلنے کے لئے آگے کی طرف سے) روکے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس دن کو نہ بھولو جب ہم ہر امت میں سے ان لوگوں کی پوری فوج کو گھیر لائیں گے جو ہماری آیتوں کو جھٹلایا کرتے تھے، پھر ان کی جماعت بندی کی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jab un ko hukm diya gaya ke tum log us aabadi mein ja kar raho aur khaao us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب ان سے کہا گیا تھا کہ : اس بستی میں جاکر بس جاؤ، اور اس میں جہاں سے چاہو کھاؤ، اور یہ کہتے جانا کہ (یا اللہ) ہم آپ کی بخشش کے طلب گار ہیں، اور (بستی کے) دروازے میں جھکے ہوئے سروں کے ساتھ داخل ہونا، تو ہم تمہاری خطائیں معاف کردیں گے، (اور) نیکی کرنے والوں کو اور زیادہ (ثواب) بھی دیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

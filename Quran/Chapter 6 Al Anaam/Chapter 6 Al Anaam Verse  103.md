@@ -3224,6 +3224,12 @@ us ko to kisi nigaah muheeth13 nahi ho sakti, aur wo sab nigaaho ko muheeth ho j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نگاہیں اس کا احاطہ نہیں کر سکتیں اور وہ سب نگاہوں کا احاطہ کئے ہوئے ہے، اور وہ بڑا باریک بین بڑا باخبر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نگاہیں اس کو نہیں پاسکتیں، اور وہ تمام نگاہوں کو پالیتا ہے۔ اس کی ذات اتنی ہی لطیف ہے، اور وہ اتنا ہی باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

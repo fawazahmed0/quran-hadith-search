@@ -3224,6 +3224,12 @@ isi tarah hum ne is Qur’an ko arabi zabaan ka farmaan utara hai, agar aap ne u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے اس (قرآن) کو حکم بنا کر عربی زبان میں اتارا ہے، اور (اے سننے والے!) اگر تو نے ان (کافروں) کی خواہشات کی پیروی کی اس کے بعد کہ تیرے پاس (قطعی) علم آچکا ہے تو تیرے لئے اللہ کے مقابلہ میں نہ کوئی مددگار ہوگا اور نہ کوئی محافظ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی طرح ہم نے اس (قرآن) کو عربی زبان میں ایک حکم نامہ بنا کر نازل کیا ہے۔ اور (اے پیغمبر) تمہارے پاس جو علم آچکا ہے، اگر اس کے بعد بھی تم ان لوگوں کی خواہشات کے پیچھے چلے تو اللہ کے مقابلے میں نہ تمہارا کوئی مددگار ہوگا، نہ کوئی بچانے والا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

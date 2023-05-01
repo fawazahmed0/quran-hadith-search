@@ -3224,6 +3224,12 @@ beshak Allah ta’ala un logo se muhabbath karta hai jo us ki raah mein saf bast
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک اللہ ان لوگوں کو پسند فرماتا ہے جو (ظلم کے خاتمے اور حق کی مدد کے لیے) اُس کی راہ میں (یوں) صف بستہ ہوکر لڑتے ہیں گویا وہ سیسہ پلائی ہوئی دیوار ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ اللہ ان لوگوں سے محبت کرتا ہے جو اس کے راستے میں اس طرح صف بنا کر لڑتے ہیں جیسے وہ سیسہ پلائی ہوئی عمارت ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yahi hai jo jaldi jaldi bhalaiyya haasil kar rahe hai aur yahi hai, jo un ki tar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی لوگ بھلائیوں (کے سمیٹنے) میں جلدی کر رہے ہیں اور وہی اس میں آگے نکل جانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ہیں جو بھلائیاں حاصل کرنے میں جلدی دکھا رہے ہیں، اور وہ ہیں جو ان کی طرف تیزی سے آگے بڑھ رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye hai hamaari kitaab jo tumhaare baare mein sach sach bol rahi hai, hum tumhaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ ہمارا نوشتہ ہے جو تمہارے بارے میں سچ سچ بیان کرے گا، بیشک ہم وہ سب کچھ لکھوا (کر محفوظ کر) لیا کرتے تھے جو تم کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ہمارا (لکھوایا ہوا) دفتر ہے جو تمہارے بارے میں ٹھیک ٹھیک بول رہا ہے۔ تم جو کچھ کرتے تھے، ہم اس سب کو لکھوا لیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

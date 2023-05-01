@@ -3224,6 +3224,12 @@ shaytaan ki tarah ke us ne insaan se kaha kufr kar, jab wo kufr kar chuka to keh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(منافقوں کی مثال) شیطان جیسی ہے جب وہ انسان سے کہتا ہے کہ تُو کافر ہو جا، پھر جب وہ کافر ہوجاتا ہے تو (شیطان) کہتا ہے: میں تجھ سے بیزار ہوں، بیشک میں اللہ سے ڈرتا ہوں جو تمام جہانوں کا رب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی مثال شیطان کی سی ہے کہ وہ انسان سے کہتا ہے کہ : کافر ہوجا۔ پھر جب وہ کافر ہوجاتا ہے تو کہتا ہے کہ : میں تجھ سے بری ہوں، میں اللہ سے ڈرتا ہوں جو سارے جہانوں کا پروردگار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

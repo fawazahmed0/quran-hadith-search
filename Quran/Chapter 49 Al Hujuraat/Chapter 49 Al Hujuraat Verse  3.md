@@ -3224,6 +3224,12 @@ beshak jo log rasool Allah (sallallahu alaihiwasallam) ke huzoor mein apni awaaz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ رسول اللہ (صلی اللہ علیہ وآلہ وسلم) کی بارگاہ میں (ادب و نیاز کے باعث) اپنی آوازوں کو پست رکھتے ہیں، یہی وہ لوگ ہیں جن کے دلوں کو اللہ نے تقوٰی کے لئے چن کر خالص کر لیا ہے۔ ان ہی کے لئے بخشش ہے اور اجرِ عظیم ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو جو لوگ اللہ کے رسول (صلی اللہ علیہ وآلہ وسلم) کے پاس اپنی آوازیں نیچی رکھتے ہیں، یہ وہی لوگ ہیں جن کے دلوں کو اللہ نے خوب جانچ کر تقوی کے لیے منتخب کرلیا ہے، ان کو مغفرت بھی حاصل ہے اور زبردست اجر بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

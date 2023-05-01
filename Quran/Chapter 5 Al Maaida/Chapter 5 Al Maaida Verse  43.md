@@ -3224,6 +3224,12 @@ Aur yeh tumhein kaise hakam (Judge) banate hain jabke inke paas taurat (torah) m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ لوگ آپ کو کیوں کر حاکم مان سکتے ہیں در آنحالیکہ ان کے پاس تورات (موجود) ہے جس میں اللہ کا حکم (مذکور) ہے، پھر یہ اس کے بعد (بھی حق سے) رُوگردانی کرتے ہیں، اور وہ لوگ (بالکل) ایمان لانے والے نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کیسے تم سے فیصلہ لینا چاہتے ہیں جبکہ ان کے پاس تورات موجود ہے جس میں اللہ کا فیصلہ درج ہے ؟ پھر اس کے بعد (فیصلے سے) منہ بھی پھیر لیتے ہیں دراصل یہ ایمان والے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

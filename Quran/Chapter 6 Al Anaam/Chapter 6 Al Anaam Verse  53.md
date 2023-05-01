@@ -3224,6 +3224,12 @@ aur isi tarah hum ne baaz ko baaz ke zariye se azmaayesh mein daal rakha hai ta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم ان میں سے بعض کو بعض کے ذریعے آزماتے ہیں تاکہ وہ (دولت مند کافر غریب مسلمانوں کو دیکھ کر استہزاءً یہ) کہیں: کیا ہم میں سے یہی وہ لوگ ہیں جن پر اللہ نے احسان کیا ہے؟ کیا اللہ شکر گزاروں کو خوب جاننے والا نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی طرح ہم نے کچھ لوگوں کو کچھ دوسروں کے ذریعے آزمائش میں ڈالا ہے تاکہ وہ (ان کے بارے میں) یہ کہیں کہ : کیا یہ ہیں وہ لوگ جن کو اللہ نے ہم سب کو چھوڑ کر احسان کرنے کے لیے چنا ہے ؟ کیا (جو کافر یہ بات کہہ رہے ہیں ان کے خیال میں) اللہ اپنے شکر گزار بندوں کو دوسروں سے زیادہ نہیں جانتا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

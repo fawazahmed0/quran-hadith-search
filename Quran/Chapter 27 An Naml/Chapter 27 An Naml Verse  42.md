@@ -3224,6 +3224,12 @@ phir jab wo aa gayi to us se kaha (daryaaft kiya) gaya ke aisa hee tera (bhi) ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ (ملکہ) آئی تو اس سے کہا گیا: کیا تمہارا تخت اسی طرح کا ہے، وہ کہنے لگی: گویا یہ وہی ہے اور ہمیں اس سے پہلے ہی (نبوتِ سلیمان کے حق ہونے کا) علم ہو چکا تھا اور ہم مسلمان ہو چکے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض جب وہ آئی تو اس سے پوچھا گیا : کیا تمہارا تخت ایسا ہی ہے ؟ کہنے لگی : ایسا لگتا ہے کہ یہ تو بالکل وہی ہے۔ ہمیں تو اس سے پہلے ہی (آپ کی سچائی کا) علم عطا ہوگیا تھا، اور ہم سر جھکا چکے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

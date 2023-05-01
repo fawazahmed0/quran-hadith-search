@@ -3224,6 +3224,12 @@ Masih (alaihissalaam) ko Allah ka bandha hone mein koyi nang wa aar25 ya takabbu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مسیح (علیہ السلام) اس (بات) سے ہرگز عار نہیں رکھتا کہ وہ اللہ کا بندہ ہو اور نہ ہی مقرّب فرشتوں کو (اس سے کوئی عار ہے)، اور جو کوئی اس کی بندگی سے عار محسوس کرے اور تکبر کرے تو وہ ایسے تمام لوگوں کو عنقریب اپنے پاس جمع فرمائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مسیح کبھی اس بات کو عار نہیں سمجھ سکتے کہ وہ اللہ کے بندے ہوں، اور نہ مقرب فرشتے (اس میں کوئی عار سمجھتے ہیں) اور جو شخص اپنے پروردگار کی بندگی میں عار سمجھے، اور تکبر کا مظاہرہ کرے تو (وہ اچھی طرح سمجھ لے کہ) اللہ ان سب کو اپنے پاس جمع کرے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

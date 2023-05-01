@@ -3224,6 +3224,12 @@ aur zameen aur asmaano ki baadshaahath Allah hee ke liye hai, jise chaahe baqshe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آسمانوں اور زمین کی بادشاہت اللہ ہی کے لئے ہے، وہ جسے چاہتا ہے بخش دیتا ہے اور جسے چاہتا ہے عذاب دیتا ہے، اور اللہ بڑا بخشنے والا بے حد رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین کی سلطنت تمام تر اللہ ہی کی ہے، وہ جس کو چاہے بخش دے، اور جس کو چاہے عذاب دے، اور اللہ بہت بخشنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

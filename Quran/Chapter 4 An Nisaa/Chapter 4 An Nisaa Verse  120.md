@@ -3224,6 +3224,12 @@ wo un se zabaani waade karta rahega,aur sabz baagh dikhaata rahega (magar yaad r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+شیطان انہیں (غلط) وعدے دیتا ہے اور انہیں (جھوٹی) اُمیدیں دلاتا ہے اور شیطان فریب کے سوا ان سے کوئی وعدہ نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ تو ان سے وعدے کرتا اور انہیں آرزووں میں مبتلا کرتا ہے جبکہ (حقیقت یہ ہے کہ) شیطان ان سے جو بھی وعدے کرتا ہے وہ دھوکے کے سوا کچھ نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ is liye aap un chizo se shak wa shuba mein na rahe jinhe ye log pooj rahe hai, u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (اے سننے والے!) تو ان کے بارے میں کسی (بھی) شک میں مبتلا نہ ہو جن کی یہ لوگ پوجا کرتے ہیں۔ یہ لوگ (کسی دلیل و بصیرت کی بنا پر) پرستش نہیں کرتے مگر (صرف اس طرح کرتے ہیں) جیسے ان سے قبل ان کے باپ دادا پرستش کرتے چلے آرہے ہیں۔ اور بیشک ہم انہیں یقیناً ان کا پورا حصۂ (عذاب) دیں گے جس میں کوئی کمی نہیں کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) یہ (مشرکین) جن (بتوں) کی عبادت کرتے ہیں، ان کے بارے میں ذرا بھی شک میں نہ رہنا۔ یہ تو اسی طرح عبادت کر رہے ہیں جیسے ان کے باپ دادے پہلے ہی عبادت کیا کرتے تھے، اور یقین رکھو کہ ہم ان سب کو ان کا حصہ پورا پورا چکا دیں گے، جس میں کوئی کمی نہیں کی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

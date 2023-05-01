@@ -3224,6 +3224,12 @@ pas un ki kaisi (durgath) hogi, jab ke farihte un ki ruh qabz karte hoye un ke c
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (اس وقت ان کا حشر) کیسا ہوگا جب فرشتے ان کی جان (اس حال میں) نکالیں گے کہ ان کے چہروں اور ان کی پیٹھوں پر ضربیں لگاتے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اس وقت ان کا کیا حال بنے گا جب فرشتے ان کی روح اس طرح قبض کریں گے کہ ان کے چہروں پر اور پیٹھوں پر مارتے جاتے ہوں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

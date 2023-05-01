@@ -3224,6 +3224,12 @@ alif laam raa! ye aali shaan kitaab hum ne aap ki taraf utaari hai ke aap logo k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+الف، لام، را (حقیقی معنی اللہ اور رسول صلی اللہ علیہ وآلہ وسلم ہی بہتر جانتے ہیں)، یہ (عظیم) کتاب ہے جسے ہم نے آپ کی طرف اتارا ہے تاکہ آپ لوگوں کو (کفر کی) تاریکیوں سے نکال کر (ایمان کے) نور کی جانب لے آئیں (مزید یہ کہ) ان کے رب کے حکم سے اس کی راہ کی طرف (لائیں) جو غلبہ والا سب خوبیوں والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الر۔ (اے پیغمبر) یہ ایک کتاب ہے جو ہم نے تم پر نازل کیا ہے، تاکہ تم لوگوں کو ان کے پروردگار کے حکم سے اندھیروں سے نکال کر روشنی میں لے آؤ، یعنی اس ذات کے راستے کی طرف جس کا اقتدار سب پر غالب ہے، (اور) جو ہر تعریف کا مستحق ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

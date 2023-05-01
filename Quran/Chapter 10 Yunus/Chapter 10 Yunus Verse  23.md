@@ -3224,6 +3224,12 @@ phir jab Allah tala un ko bacha leta hai tuh fauran hee wo zamin mein nahaq sark
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب اللہ نے انہیں نجات دے دی تو وہ فوراً ہی ملک میں (حسبِ سابق) ناحق سرکشی کرنے لگتے ہیں۔ اے (اللہ سے بغاوت کرنے والے) لوگو! بس تمہاری سرکشی و بغاوت (کا نقصان) تمہاری ہی جانوں پر ہے۔ دنیا کی زندگی کا کچھ فائدہ (اٹھالو)، بالآخر تمہیں ہماری ہی طرف پلٹنا ہے، اُس وقت ہم تمہیں ان اَعمال سے خوب آگاہ کر دیں گے جو تم کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن جب اللہ ان کو نجات دے دیتا ہے تو زیادہ دیر نہیں گزرتی کہ وہ زمین میں ناحق سرکشی کرنے لگتے ہیں۔ ارے لوگو ! تمہاری یہ سرکشی درحقیقت خود تمہارے اپنے خلاف پڑتی ہے۔ اب تو دنیوی زندگی کے مزے اڑا لو، آخر کو ہمارے پاس ہی تمہیں لوٹ کر آنا ہے۔ اس وقت ہم تمہیں بتائیں گے کہ تم کیا کچھ کرتے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

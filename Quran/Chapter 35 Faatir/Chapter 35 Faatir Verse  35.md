@@ -3224,6 +3224,12 @@ jis ne hum ko apne fazl se hamesha rehne ke muqaam mein la utaara, jahaan na hum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے ہمیں اپنے فضل سے دائمی اقامت کے گھر لا اتارا ہے، جس میں ہمیں نہ کوئی مشقّت پہنچے گی اور نہ اس میں ہمیں کوئی تھکن پہنچے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس نے اپنے فضل سے ہم کو ابدی ٹھکانے کے گھر میں لا اتارا ہے جس میں نہ ہمیں کبھی کوئی کلفت چھوکر گزرے گی، اور نہ کبھی کوئی تھکن پیش آئے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

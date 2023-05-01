@@ -3224,6 +3224,12 @@ Lut ne kaha “bhaiyon, yeh mere mehmaan hain, meri fazihat (dishonour) na karo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لوط (علیہ السلام) نے کہا: بیشک یہ لوگ میرے مہمان ہیں پس تم مجھے (اِن کے بارے میں) شرم سار نہ کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوط نے (ان سے) کہا کہ : یہ لوگ میرے مہمان ہیں، لہذا مجھے رسوا نہ کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

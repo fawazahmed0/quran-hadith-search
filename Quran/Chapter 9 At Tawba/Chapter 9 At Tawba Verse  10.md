@@ -3224,6 +3224,12 @@ ye tuh kisi musalman ke haq mein kisi rishtedari ka ya ahad ka muth-laq lihaz na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نہ وہ کسی مسلمان کے حق میں قرابت کا لحاظ کرتے ہیں اور نہ عہد کا، اور وہی لوگ (سرکشی میں) حد سے بڑھنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ کسی بھی مومن کے معاملے میں کسی رشتہ داری یا معاہدے کا پاس نہیں کرتے، اور یہی ہیں جو حدیں توڑنے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

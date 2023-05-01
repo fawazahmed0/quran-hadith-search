@@ -3224,6 +3224,12 @@ lekin main to aqeeda rakhta hoon ke wahi Allah mera parvardigaar hai, main apne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لیکن میں (تو یہ کہتا ہوں) کہ وہی اللہ میرا رب ہے اور میں اپنے رب کے ساتھ کسی کو شریک نہیں گردانتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جہاں تک میرا تعلق ہے، میں تو یہ عقیدہ رکھتا ہوں کہ اللہ میرا پروردگار ہے، اور میں اپنے پروردگار کے ساتھ کسی کو شریک نہیں مانتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

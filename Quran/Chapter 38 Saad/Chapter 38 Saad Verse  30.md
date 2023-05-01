@@ -3224,6 +3224,12 @@ aur hum ne Dawoodh(alaihissalaam) ko Sulaimaan(alaihissalaam) (naami farzandh) a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے داؤد (علیہ السلام) کو (فرزند) سلیمان (علیہ السلام) بخشا، وہ کیا خوب بندہ تھا، بے شک وہ بڑی کثرت سے توبہ کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے داؤد کو سلیمان (جیسا بیٹا) عطا کیا، وہ بہترین بندے تھے، واقعی وہ اللہ سے خوب لو لگائے ہوئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

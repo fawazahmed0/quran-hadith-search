@@ -3224,6 +3224,12 @@ talaaq waali aurte apne aap ko teen haiz tak roke rakhe, unhe halaal nahi ke All
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور طلاق یافتہ عورتیں اپنے آپ کو تین حیض تک روکے رکھیں، اور ان کے لئے جائز نہیں کہ وہ اسے چھپائیں جو اللہ نے ان کے رحموں میں پیدا فرما دیا ہو، اگر وہ اللہ پر اور قیامت کے دن پر ایمان رکھتی ہیں، اور اس مدت کے اندر ان کے شوہروں کو انہیں (پھر) اپنی زوجیت میں لوٹا لینے کا حق زیادہ ہے اگر وہ اصلاح کا ارادہ کر لیں، اور دستور کے مطابق عورتوں کے بھی مردوں پر اسی طرح حقوق ہیں جیسے مردوں کے عورتوں پر، البتہ مردوں کو ان پر فضیلت ہے، اور اللہ بڑا غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن عورتوں کو طلاق دے دی گئی ہو وہ تین مرتبہ حیض آنے تک اپنے آپ کو انتظار میں رکھیں اور اگر وہ اللہ پر اور آخرت کے دن پر ایمان رکھتی ہوں تو ان کے لیے حلال نہیں ہے کہ اللہ نے ان کے رحم میں جو کچھ (حمل یا حیض) پیدا کیا ہے اسے چھپائیں، اور اس مدت میں اگر ان کے شوہر حالات بہتر بنانا چاہیں تو ان کو حق ہے کہ وہ ان عورتوں کو (اپنی زوجیت) میں واپس لے لیں۔ اور ان عورتوں کو معروف طریقے کے مطابق ویسے ہی حقوق حاصل ہیں جیسے (مردوں کو) ان پر حاصل ہیں۔ ہاں مردوں کو ان پر ایک درجہ فوقیت ہے اور اللہ غالب اور حکمت والا ہے ،۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

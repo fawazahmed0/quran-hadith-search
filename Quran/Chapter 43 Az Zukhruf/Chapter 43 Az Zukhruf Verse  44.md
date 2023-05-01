@@ -3224,6 +3224,12 @@ aur yaqinan ye (khud) aap ke liye aur aap ki khaum ke liye nasihath hai aur an-q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یقیناً یہ (قرآن) آپ کے لئے اور آپ کی امت کے لئے عظیم شرف ہے، اور (لوگو!) عنقریب تم سے پوچھا جائے گا (کہ تم نے قرآن کے ساتھ کتنا تعلق استوار کیا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ یہ وحی تمہارے لیے اور تمہاری قوم کے لیے ایک نیک نامی کا ذریعہ ہے، اور تم سب سے پوچھا جائے گا (کہ تم نے اس کا کیا حق ادا کیا ؟)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kafir apas mein ek dosre ke rafiq hai,agar tum ne aisa na kiya tuh mulk mein fit
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ کافر ہیں وہ ایک دوسرے کے مددگار ہیں، (اے مسلمانو!) اگر تم (ایک دوسرے کے ساتھ) ایسا (تعاون اور مدد و نصرت) نہیں کرو گے تو زمین میں (غلبۂ کفر و باطل کا) فتنہ اور بڑا فساد بپا ہو جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا رکھا ہے وہ آپس میں ایک دوسرے کے والی وارث ہیں، اگر تم ایسا نہیں کرو گے تو زمین میں فتنہ اور بڑا فساد برپا ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

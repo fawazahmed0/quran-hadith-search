@@ -3224,6 +3224,12 @@ pas aap sabr kare, Allah ka waada qat’an saccha hai, unhe hum ne jo waade de r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ صبر کیجئے بے شک اللہ کا وعدہ سچّا ہے، پھر اگر ہم آپ کو اس (عذاب) کا کچھ حصّہ دکھا دیں جس کا ہم اُن سے وعدہ کر رہے ہیں یا ہم آپ کو (اس سے قبل) وفات دے دیں تو (دونوں صورتوں میں) وہ ہماری ہی طرف لوٹائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر !) تم صبر سے کام لو۔ یقین رکھو کہ اللہ کا وعدہ سچا ہے۔ اب ہم ان (کافروں کو) جس (عذاب) سے ڈرا رہے ہیں، چاہے اس کا کچھ حصہ ہم تمہیں بھی (تمہاری زندگی میں) دکھلا دیں، یا تمہیں دنیا سے اٹھالیں، بہر صورت ان کو ہمارے پاس ہی واپس لایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

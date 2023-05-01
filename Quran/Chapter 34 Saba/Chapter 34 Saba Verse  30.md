@@ -3224,6 +3224,12 @@ jawaab di jiye ke waade ka din theek mu’ayyan hai, jis se ek sa’ath na tum p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تمہارے لئے وعدہ کا دن مقرر ہے نہ تم اس سے ایک گھڑی پیچھے رہو گے اور نہ آگے بڑھ سکو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : تمہارے لیے ایک ایسے دن کی میعاد مقرر ہے جس سے تم گھڑی برابر نہ پیچھے ہٹ سکتے ہو نہ آگے جاسکتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

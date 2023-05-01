@@ -3224,6 +3224,12 @@ Ek aisi kitaab jiski aayat khoob khol kar bayan ki gayi hain, Arabi zubaan ka Qu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اِس) کتاب کا جس کی آیات واضح طور پر بیان کر دی گئی ہیں علم و دانش رکھنے والی قوم کے لئے عربی (زبان میں) قرآن (ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عربی قرآن کی شکل میں یہ وہ کتاب ہے جس کی آیتیں علم حاصل کرنے والوں کے لیے تفصیل سے بیان کی گئی ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

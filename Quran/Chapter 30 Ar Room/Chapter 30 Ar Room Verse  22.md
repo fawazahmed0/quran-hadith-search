@@ -3224,6 +3224,12 @@ us (ki khudrath) ki nishaaniyo mein se asmaano aur zameen ki paidayish aur tumha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس کی نشانیوں میں سے آسمانوں اور زمین کی تخلیق (بھی) ہے اور تمہاری زبانوں اور تمہارے رنگوں کا اختلاف (بھی) ہے، بیشک اس میں اہلِ علم (و تحقیق) کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کی نشانیوں کا ایک حصہ آسمانوں اور زمین کی پیدائش اور تمہاری زبانوں اور رنگوں کا اختلاف بھی ہے۔ یقینا اس میں دانش مندوں کے لیے بڑی نشانیاں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

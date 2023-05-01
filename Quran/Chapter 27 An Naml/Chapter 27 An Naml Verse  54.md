@@ -3224,6 +3224,12 @@ aur Looth ka (zikr kar) jab ke us ne apni khaum se kaha ke kya ba wajoodh dekhne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوط (علیہ السلام) کو (یاد کریں) جب انہوں نے اپنی قوم سے فرمایا: کیا تم بے حیائی کا ارتکاب کرتے ہو حالانکہ تم دیکھتے (بھی) ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے لوط کو پیغمبر بنا کر بھیجا جبکہ انہوں نے اپنی قوم سے کہا تھا کہ : کیا تم کھلی آنکھوں دیکھتے ہوئے بھی بےحیائی کا یہ کام کرتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

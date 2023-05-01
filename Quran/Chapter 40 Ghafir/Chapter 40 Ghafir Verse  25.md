@@ -3224,6 +3224,12 @@ pas jab un ke paas (Mosa(as)) hamaari taraf se (deen) haq ko le kar aaye, to unh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ ہماری بارگاہ سے پیغامِ حق لے کر ان کے پاس آئے تو انہوں نے کہا: ان لوگوں کے لڑکوں کو قتل کر دو جو ان کے ساتھ ایمان لائے ہیں اور ان کی عورتوں کو زندہ چھوڑ دو، اور کافروں کی پر فریب چالیں صرف ہلاکت ہی تھیں (انہوں نے پُر امن لوگوں کی نسل کُشی کی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب وہ لوگوں کے پاس وہ حق بات لے کر گئے جو ہماری طرف سے آئی تھی تو انہوں نے کہا کہ جو لوگ ان کے ساتھ ایمان لے آئے ہیں ان کے بیٹوں کو قتل کر ڈالو اور ان کی عورتوں کو زندہ رکھو۔ حالانکہ کافروں کی چال کا اناجم اس کے سوا کچھ نہیں وہ مقصد تک نہ پہنچ سکیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

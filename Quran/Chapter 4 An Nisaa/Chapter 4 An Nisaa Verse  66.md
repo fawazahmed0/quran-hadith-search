@@ -3224,6 +3224,12 @@ aur agar hum un par farz kar dete ke apni jaano ko qatal kar daalo! ya apne ghar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم ان پر فرض کر دیتے کہ تم اپنے آپ کو قتل کر ڈالو یا اپنے گھروں کو چھوڑ کر نکل جاؤ تو ان میں سے بہت تھوڑے لوگ اس پر عمل کرتے، اورانہیں جو نصیحت کی جاتی ہے اگر وہ اس پر عمل پیرا ہو جاتے تویہ ان کے حق میں بہتر ہوتا اور (ایمان پر) بہت زیادہ ثابت قدم رکھنے والا ہوتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم ان کے لیے یہ فرض قرار دے دیتے کہ تم اپنے آپ کو قتل کرو یا اپنے گھروں سے نکل جاؤ تو ان میں سے تھوڑے سے لوگوں کے سوا کوئی اس پر عمل نہ کرتا۔ اور جس بات کی انہیں نصیحت کی جارہی ہے اگر یہ لوگ اس پر عمل کرلیتے تو ان کے حق میں کہیں بہتر ہوتا، اور ان میں خوب ثابت قدمی پیدا کردیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

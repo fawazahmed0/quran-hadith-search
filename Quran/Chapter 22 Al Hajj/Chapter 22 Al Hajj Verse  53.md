@@ -3224,6 +3224,12 @@ ye is liye ke shaitaani milaawat ko Allah ta’ala un logo ki azmaayesh ka zariy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ اس لئے ہوتا ہے) تاکہ اللہ ان (باطل خیالات اور فاسد شبہات) کو جو شیطان (لوگوں کے ذہنوں میں) ڈالتا ہے ایسے لوگوں کے لئے آزمائش بنا دے جن کے دلوں میں (منافقت کی) بیماری ہے اور جن لوگوں کے دل (کفر و عناد کے باعث) سخت ہیں، اور بیشک ظالم لوگ بڑی شدید مخالفت میں مبتلا ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ (شیطان نے رکاوٹ اس لیے ڈالی) تاکہ جو رکاوٹ شیطان نے ڈالی تھی، اللہ اسے ان لوگوں کے لیے فتنہ بنا دے جن کے دلوں میں روگ ہے، اور جن کے دل سخت ہیں۔ اور یقین جانو کہ یہ ظالم لوگ مخالفت میں بہت دور چلے گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

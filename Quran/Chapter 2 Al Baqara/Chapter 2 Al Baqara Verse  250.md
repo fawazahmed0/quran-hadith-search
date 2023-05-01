@@ -3224,6 +3224,12 @@ jab un ka jaalooth aur us ke lashkar se muqaabla hoa to unhone dua maangi ke aye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ جالوت اور اس کی فوجوں کے مقابل ہوئے تو عرض کرنے لگے: اے ہمارے پروردگار! ہم پر صبر میں وسعت ارزانی فرما اور ہمیں ثابت قدم رکھ اور ہمیں کافروں پر غلبہ عطا فرما
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یہ لوگ جالوت اور اس کے لشکروں کے آمنے سامنے ہوئے تو انہوں نے کہا : اے ہمارے پروردگار صبر و استقلال کی صفت ہم پر انڈیل دے، ہمیں ثابت قدمی بخش دے، اور ہمیں اس کافر قوم کے مقابلے میں فتح و نصرت عطا فرمادے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

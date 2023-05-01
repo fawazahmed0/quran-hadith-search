@@ -3224,6 +3224,12 @@ phir to dil hee dil mein un se khauf zada ho gaye, unhone kaha aap khauf na ki j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اُن (کے نہ کھانے) سے دل میں ہلکی سی گھبراہٹ محسوس کی۔ وہ (فرشتے) کہنے لگے: آپ گھبرائیے نہیں، اور اُن کو علم و دانش والے بیٹے (اسحاق علیہ السلام) کی خوشخبری سنا دی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سے ابراہیم نے ان کی طرف سے اپنے دل میں ڈر محسوس کیا۔ انہوں نے کہا : ڈرییے نہیں، اور انہیں ایک لڑکے کی خوشخبری دی جو بڑا عالم ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

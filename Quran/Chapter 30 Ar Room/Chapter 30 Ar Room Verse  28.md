@@ -3224,6 +3224,12 @@ Allah ta’ala ne tumhaare liye ek misaal khud tumhaari hee bayaan farmaayi, jo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُس نے (نکتۂ توحید سمجھانے کے لئے) تمہارے لئے تمہاری ذاتی زندگیوں سے ایک مثال بیان فرمائی ہے کہ کیا جو (لونڈی، غلام) تمہاری مِلک میں ہیں اس مال میں جو ہم نے تمہیں عطا کیا ہے شراکت دار ہیں، کہ تم (سب) اس (ملکیت) میں برابر ہو جاؤ۔ (مزید یہ کہ کیا) تم ان سے اسی طرح ڈرتے ہو جس طرح تمہیں اپنوں کا خوف ہوتا ہے (نہیں) اسی طرح ہم عقل رکھنے والوں کے لئے نشانیاں کھول کر بیان کرتے ہیں (کہ اللہ کا بھی اس کی مخلوق میں کوئی شریک نہیں ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ تمہیں خود تمہارے اندر سے ایک مثال دیتا ہے۔ ہم نے جو رزق تمہیں دیا ہے، کیا تمہارے غلاموں میں سے کوئی اس میں تمہارا شریک ہے کہ اس رزق میں تمہارا درجہ ان کے برابر ہو (اور) تم ان غلاموں سے ویسے ہی ڈرتے ہو جیسے آپس میں ایک دوسرے سے ڈرتے ہو ؟ ہم اسی طرح دلائل ان لوگوں کے لیے کھول کھول کر بیان کرتے ہیں جو عقل سے کام لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

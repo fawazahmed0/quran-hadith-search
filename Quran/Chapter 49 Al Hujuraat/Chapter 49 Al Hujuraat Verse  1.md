@@ -3224,6 +3224,12 @@ aye imaan waale logo! Allah aur us ke rasool(sallallahu alaihiwasallam) ke aage 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! (کسی بھی معاملے میں) اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) سے آگے نہ بڑھا کرو اور اللہ سے ڈرتے رہو (کہ کہیں رسول صلی اللہ علیہ وآلہ وسلم کی بے ادبی نہ ہوجائے)، بیشک اللہ (سب کچھ) سننے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ اور اس کے رسول کے آگے نہ بڑھا کرو۔ اور اللہ سے ڈرتے رہو۔ اللہ یقینا سب کچھ سنتا، سب کچھ جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

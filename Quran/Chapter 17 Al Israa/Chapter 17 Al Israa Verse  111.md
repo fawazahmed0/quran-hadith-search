@@ -3224,6 +3224,12 @@ aur ye keh dijiye ke tamaam tareef Allah hee ke liye hai jo na, aulaad rakhta ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرمائیے کہ سب تعریفیں اللہ ہی کے لئے ہیں جس نے نہ تو (اپنے لئے) کوئی بیٹا بنایا اور نہ ہی (اس کی) سلطنت و فرمانروائی میں کوئی شریک ہے اور نہ کمزوری کے باعث اس کا کوئی مددگار ہے (اے حبیب!) آپ اسی کو بزرگ تر جان کر اس کی خوب بڑائی (بیان) کرتے رہئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہو کہ : تمام تعریفیں اللہ کی ہیں جس نے نہ کوئی بیٹا بنایا، نہ اس کی سلطنت میں کوئی شریک ہے، اور نہ اسے عاجزی سے بچانے کے لیے کوئی حمایتی درکار ہے۔ اور اس کی ایسی بڑائی بیان کرو جیسی بڑائی بیان کرنے کا اسے حق حاصل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

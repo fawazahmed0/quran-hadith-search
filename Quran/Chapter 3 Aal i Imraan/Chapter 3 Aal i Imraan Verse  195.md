@@ -3224,6 +3224,12 @@ pas un ke rab ne un ki dua qubool farma li, ke tum mein se kisi kaam karne waale
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان کے رب نے ان کی دعا قبول فرما لی (اور فرمایا:) یقیناً میں تم میں سے کسی محنت والے کی مزدوری ضائع نہیں کرتا خواہ مرد ہو یا عورت، تم سب ایک دوسرے میں سے (ہی) ہو، پس جن لوگوں نے (اللہ کے لئے) وطن چھوڑ دیئے اور (اسی کے باعث) اپنے گھروں سے نکال دیئے گئے اور میری راہ میں ستائے گئے اور (میری خاطر) لڑے اور مارے گئے تو میں ضرور ان کے گناہ ان (کے نامۂ اعمال) سے مٹا دوں گا اور انہیں یقیناً ان جنتوں میں داخل کروں گا جن کے نیچے نہریں بہتی ہوں گی، یہ اللہ کے حضور سے اجر ہے، اور اللہ ہی کے پاس (اس سے بھی) بہتر اجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ان کے پروردگار نے ان کی دعا قبول کی (اور کہا) کہ : میں تم میں سے کسی کا عمل ضائع نہیں کروں گا، خواہ وہ مرد ہو یا عورت۔ تم سب آپس میں ایک جیسے ہو۔ لہذا جن لوگوں نے ہجرت کی، اور انہیں ان کے گھروں سے نکالا گیا، اور میرے راستے میں تکلیفیں دی گئیں، اور جنہوں نے (دین کی خاطر) لڑائی لڑی اور قتل ہوئے، میں ان سب کی برائیوں کا ضرور کفارہ کردوں گا، اور انہیں ضرور بالضرور ایسے باغات میں داخل کروں گا جن کے نیچے نہریں بہتی ہوں گی۔ یہ سب کچھ اللہ کی طرف سے انعام ہوگا، اور اللہ ہی ہے جس کے پاس بہترین انعام ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

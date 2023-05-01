@@ -3224,6 +3224,12 @@ aur ye kitaab jo hum ne aap ke paas wahi ke taur par bheji hai, ye bilkul theek 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کتاب (قرآن) ہم نے آپ کی طرف وحی فرمائی ہے، وہی حق ہے اور اپنے سے پہلے کی کتابوں کی تصدیق کرنے والی ہے، بیشک اللہ اپنے بندوں سے پوری طرح باخبر ہے خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ہم نے تمہارے پاس وحی کے ذریعے جو کتاب بھیجی ہے وہ سچی ہے جو اپنے سے پہلی کتابوں کی تصدیق کرتی ہوئی آئی ہے۔ یقینا اللہ اپنے بندوں سے پوری طرح باخبر، ہر چیز کو دیکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

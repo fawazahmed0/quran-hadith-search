@@ -3224,6 +3224,12 @@ aur aadh be hadh tez wa tundh hawa se ghaarath kar diye gaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور رہے قومِ عاد کے لوگ! تو وہ (بھی) ایسی تیز آندھی سے ہلاک کر دئیے گئے جو انتہائی سرد نہایت گرج دار تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو عاد کے لوگ تھے، انہیں ایک ایسی بےقابو طوفانی ہوا سے ہلاک کیا گیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

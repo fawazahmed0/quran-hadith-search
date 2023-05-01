@@ -3224,6 +3224,12 @@ agar tum sadqe qairaath ko zaaher karo to wo bhi accha hai aur agar tum ose posh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تم خیرات ظاہر کر کے دو تو یہ بھی اچھا ہے (اس سے دوسروں کو ترغیب ہوگی)، اور اگر تم انہیں مخفی رکھو اور وہ محتاجوں کو پہنچا دو تو یہ تمہارے لئے (اور) بہتر ہے، اور اللہ (اس خیرات کی وجہ سے) تمہارے کچھ گناہوں کو تم سے دور فرما دے گا، اور اللہ تمہارے اعمال سے باخبر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم صدقات ظاہر کر کے دو تب بھی اچھا ہے، اور اگر ان کو چھپا کر فقرا کو دو تو یہ تمہارے حق میں کہیں بہتر ہے، اور اللہ تمہاری برائیوں کا کفارہ کردے گا، اور اللہ تمہارے تمام کاموں سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

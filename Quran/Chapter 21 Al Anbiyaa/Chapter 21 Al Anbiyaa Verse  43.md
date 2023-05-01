@@ -3224,6 +3224,12 @@ kya hamaare siva un ke aur maboodh hai, jo unhe musibato se bacha le, koyi bhi k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ہمارے سوا ان کے کچھ اور معبود ہیں جو انہیں (عذاب سے) بچا سکیں، وہ تو خود اپنی ہی مدد پر قدرت نہیں رکھتے اور نہ ہماری طرف سے انہیں کوئی تائید و رفاقت میسّر ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان کے پاس ہمارے سوا کوئی ایسے خدا ہیں جو ان کی حفاظت کرتے ہوں ؟ وہ تو خود اپنی مدد نہیں کرسکتے اور نہ ہمارے مقابلے میں کوئی ان کا ساتھ دے سکتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

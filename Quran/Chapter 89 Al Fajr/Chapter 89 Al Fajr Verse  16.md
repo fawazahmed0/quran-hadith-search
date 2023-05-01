@@ -3224,6 +3224,12 @@ aur jab wo us ko azmaata hai, us ki rozi tang kar deta hai, to kehne lagta hai k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لیکن جب وہ اسے (تکلیف و مصیبت دے کر) آزماتا ہے اور اس پر اس کا رزق تنگ کرتا ہے تو وہ کہتا ہے: میرے رب نے مجھے ذلیل کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور دوسری طرف جب اسے آزماتا ہے اور اس کے رزق میں تنگی کردیتا ہے تو کہتا ہے کہ : میرے پروردگار نے میری توہین کی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

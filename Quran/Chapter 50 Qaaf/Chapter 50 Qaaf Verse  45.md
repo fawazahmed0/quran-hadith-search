@@ -3224,6 +3224,12 @@ ye jo kuch keh rahe hai, hum ba-qoobi jaante hai aur aap un par jabar karne waal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم خوب جانتے ہیں جو کچھ وہ کہتے ہیں اور آپ اُن پر جبر کرنے والے نہیں ہیں، پس قرآن کے ذریعے اس شخص کو نصیحت فرمائیے جو میرے وعدۂ عذاب سے ڈرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کچھ یہ لوگ کہتے ہیں ہمیں خوب معلوم ہے اور (اے پیغمبر) تم ان پر زبردستی کرنے والے نہیں ہو۔ لہذا قرآن کے ذریعے ہر اس شخص کو نصیحت کرتے رہو جو میری وعید سے ڈرتا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

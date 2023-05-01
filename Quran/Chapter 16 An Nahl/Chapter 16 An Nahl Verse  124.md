@@ -3224,6 +3224,12 @@ hafte ke din ki azmath to sirf un logo ke zimme hee zarori ki gayi thi jinhone u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہفتہ کا دن صرف انہی لوگوں پر مقرر کیا گیا تھا جنہوں نے اس میں اختلاف کیا، اور بیشک آپ کا رب قیامت کے دن اُن کے درمیان اُن (باتوں) کا فیصلہ فرما دے گا جن میں وہ اختلاف کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سینچر کے دن کے احکام تو ان لوگوں پر لازم کیے گئے تھے جنہوں نے اس کے بارے میں اختلاف کیا تھا۔ اور یقین رکھو کہ تمہارا رب قیامت کے دن ان کے درمیان ان تمام باتوں کا فیصلہ کردے گا جن میں لوگ اختلاف کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

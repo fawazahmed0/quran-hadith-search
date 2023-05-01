@@ -3224,6 +3224,12 @@ kya pas wo apne aage piche asmaan wa zameen ko dekh nahi rahe hai? agar hum chaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کیا انہوں نے اُن (نشانیوں) کو نہیں دیکھا جو آسمان اور زمین سے اُن کے آگے اور اُن کے پیچھے (انہیں گھیرے ہوئے) ہیں۔ اگر ہم چاہیں تو انہیں زمین میں دھنسا دیں یا اُن پر آسمان سے کچھ ٹکڑے گرا دیں، بیشک اس میں ہر اس بندے کے لئے نشانی ہے جو اللہ کی طرف رجوع کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان لوگوں نے اس آسمان و زمین کو نہیں دیکھا جو ان کے آگے بھی موجود ہیں اور ان کے پیچھے بھی۔ اگر ہم چاہیں تو ان کو زمین میں دھنسا دیں، یا آسمان کے کچھ ٹکڑے ان پر گرا دیں۔ حقیقت یہ ہے کہ اس میں ہر اس بندے کے لیے ایک نشانی ہے جو اللہ کی طرف رجوع کرنے والا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ sab asmaan wa zameen waale osi se maangte hai, har roz wo ek shaan mein hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سب اسی سے مانگتے ہیں جو بھی آسمانوں اور زمین میں ہیں۔ وہ ہر آن نئی شان میں ہوتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین میں جو بھی ہیں اسی سے (اپنی حاجتیں) مانگتے ہیں، وہ ہر روز کسی شان میں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

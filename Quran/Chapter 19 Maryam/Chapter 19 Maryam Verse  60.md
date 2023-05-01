@@ -3224,6 +3224,12 @@ bajuz un ke jo tauba karle aur imaan laaye aur nek amal kare, aise log jannath m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے اس شخص کے جس نے توبہ کر لی اور ایمان لے آیا اور نیک عمل کرتا رہا تو یہ لوگ جنت میں داخل ہوں گے اور ان پر کچھ بھی ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ جن لوگوں نے توبہ کرلی، اور ایمان لے آئے، اور نیک عمل کیے تو ایسے لوگ جنت میں داخل ہوں گے، اور ان پر ذرا بھی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ us ne jawaab diya ke aye Ibraheem!(alaihissalaam) kya tu hamaare mabudo se rugar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(آزر نے) کہا: اے ابراہیم! کیا تم میرے معبودوں سے روگرداں ہو؟ اگر واقعی تم (اس مخالفت سے) باز نہ آئے تو میں تمہیں ضرور سنگ سار کر دوں گا اور ایک طویل عرصہ کے لئے تم مجھ سے الگ ہوجاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے باپ نے کہا : ابراہیم ! کیا تم میرے خداؤں سے بیزار ہو ؟ یاد رکھو، اگر تم باز نہ آئے تو میں تم پر پتھر برساؤں گا، اور اب تم ہمیشہ کے لیے مجھ سے دور ہوجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

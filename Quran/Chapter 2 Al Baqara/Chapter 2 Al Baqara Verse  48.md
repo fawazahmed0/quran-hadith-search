@@ -3224,6 +3224,12 @@ us din se darte raho jab koyi kisi ko nafa na de sakega aur na hee us ki baabath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُس دن سے ڈرو جس دن کوئی جان کسی دوسرے کی طرف سے کچھ بدلہ نہ دے سکے گی اور نہ اس کی طرف سے (کسی ایسے شخص کی) کوئی سفارش قبول کی جائے گی (جسے اِذنِ اِلٰہی حاصل نہ ہوگا) اور نہ اس کی طرف سے (جان چھڑانے کے لئے) کوئی معاوضہ قبول کیا جائے گا اور نہ (اَمرِ الٰہی کے خلاف) ان کی اِمداد کی جا سکے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس دن سے ڈرو جس دن کوئی شخص بھی کسی کے کچھ کام نہیں آئے گا نہ کسی سے کوئی سفارش قبول کی جائے گی نہ کسی سے کسی قسم کا فدیہ لیا جائے گا اور نہ ان کو کوئی مدد پہنچے گی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

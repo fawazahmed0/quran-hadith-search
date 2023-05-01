@@ -3224,6 +3224,12 @@ agar asmaan wa zameen mein sivaaye Allah ta’ala ke aur bhi maboodh hote, to ye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر ان دونوں (زمین و آسمان) میں اللہ کے سوا اور (بھی) معبود ہوتے تو یہ دونوں تباہ ہو جاتے، پس اللہ جو عرش کا مالک ہے ان (باتوں) سے پاک ہے جو یہ (مشرک) بیان کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر آسمان اور زمین میں اللہ کے سوا دوسرے خدا ہوتے تو دونوں درہم برہم ہوجاتے۔ لہذا عرش کا مالک اللہ ان باتوں سے بالکل پاک ہے جو یہ لوگ بنایا کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar hum un par aasmaan ka darwaza khol bhi de aur ye waha chadne bhi lag ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم ان پر آسمان کا کوئی دروازہ (بھی) کھول دیں (اور ان کے لئے یہ بھی ممکن بنا دیں کہ) وہ سارا دن اس میں (سے) اوپر چڑھتے رہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر (بالفرض) ہم ان کے لیے آسمان کا کوئی دروازہ کھول دیں اور وہ دن کی روشنی میں اس پر چڑھتے بھی چلے جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

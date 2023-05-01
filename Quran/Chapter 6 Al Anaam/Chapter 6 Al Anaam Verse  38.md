@@ -3224,6 +3224,12 @@ aur jitne qism ke jaan-daar zameen par chalne waale hai aur jitne qism ke parind
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے انسانو!) کوئی بھی چلنے پھرنے والا (جانور) اور پرندہ جو اپنے دو بازوؤں سے اڑتا ہو (ایسا) نہیں ہے مگر یہ کہ (بہت سی صفات میں) وہ سب تمہارے ہی مماثل طبقات ہیں، ہم نے کتاب میں کوئی چیز نہیں چھوڑی (جسے صراحۃً یا اشارۃً بیان نہ کردیا ہو) پھر سب (لوگ) اپنے رب کے پاس جمع کئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین میں جتنے جانور چلتے ہیں، اور جتنے پرندے اپنے پروں سے اڑتے ہیں، وہ سب مخلوقات کی تم جیسی ہی اصناف ہیں۔ ہم نے کتاب (یعنی لوح محفوظ) میں کوئی کسر نہیں چھوڑی ہے۔ پھر ان سب کو جمع کر کے ان کے پروردگار کی طرف لے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye mushrikeen (yo) kahenge ke agar Allah ta’ala ko manzoor hota to na hum shir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جلد ہی مشرک لوگ کہیں گے کہ اگر اللہ چاہتا تو نہ (ہی) ہم شرک کرتے اور نہ ہمارے آباء و اجداد اور نہ کسی چیز کو (بلا سند) حرام قرار دیتے۔ اسی طرح ان لوگوں نے بھی جھٹلایا تھا جو ان سے پہلے تھے حتٰی کہ انہوں نے ہمارا عذاب چکھ لیا۔ فرما دیجئے: کیا تمہارے پاس کوئی (قابلِ حجت) علم ہے کہ تم اسے ہمارے لئے نکال لاؤ (تو اسے پیش کرو)، تم (علمِ یقینی کو چھوڑ کر) صرف گمان ہی کی پیروی کرتے ہو اور تم محض (تخمینہ کی بنیاد پر) دروغ گوئی کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے شرک اپنایا ہوا ہے وہ یہ کہیں گے کہ : اگر اللہ چاہتا تو نہ ہم شرک کرتے، نہ ہمارے باپ دادا، اور نہ ہم کسی بھی چیز کو حرام قرار دیتے، ان سے پہلے کے لوگوں نے بھی اسی طرح (رسولوں کو) جھٹلایا تھا، یہاں تک کہ انہوں نے ہمارے عذاب کا مزہ چکھ لیا۔ تم ان سے کہو کہ : کیا تمہارے پاس کوئی علم ہے جو ہمارے سامنے نکال کر پیش کرسکو ؟ تم تو جس چیز کے پیچھے چل رہے ہو وہ گمان کے سوا کچھ نہیں، اور تمہارا کام اس کے سوا کچھ نہیں کہ وہمی اندازے لگاتے رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

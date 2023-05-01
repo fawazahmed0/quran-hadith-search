@@ -3224,6 +3224,12 @@ aur yaqinan hum ne aap ki taraf roushan dalile bheji hai, jin ka inkaar sivaaye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے آپ کی طرف روشن آیتیں اتاری ہیں اور ان (نشانیوں) کا سوائے نافرمانوں کے کوئی انکار نہیں کر سکتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بیشک ہم نے آپ پر ایسی آیتیں اتاری ہیں جو حق کو آشکارہ کرنے والی ہیں، اور ان کا انکار وہی لوگ کرتے ہیں جو نافرمان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

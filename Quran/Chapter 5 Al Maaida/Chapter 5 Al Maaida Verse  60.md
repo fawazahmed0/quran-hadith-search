@@ -3224,6 +3224,12 @@ keh dijiye ke kya mein tumhe batao?ke is se bhi zyada bore ajr pane wala Allah t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کیا میں تمہیں اس شخص سے آگاہ کروں جو سزا کے اعتبار سے اللہ کے نزدیک اس سے (بھی) برا ہے (جسے تم برا سمجھتے ہو، اور یہ وہ شخص ہی) جس پر اللہ نے لعنت کی ہے اور اس پر غضب ناک ہوا ہے اور اس نے ان (برے لوگوں) میں سے (بعض کو) بندر اور (بعض کو) سؤر بنا دیا ہے، اور (یہ ایسا شخص ہے) جس نے شیطان کی (اطاعت و) پرستش کی ہے، یہی لوگ ٹھکانے کے اعتبار سے بدترین اور سیدھی راہ سے بہت ہی بھٹکے ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ان سے) کہو کہ : کیا میں تمہیں بتاؤں کہ (جس بات کو تم برا سمجھ رہے ہو) اس سے زیادہ برے انجام والے کون ہیں ؟ یہ وہ لوگ ہیں جن پر اللہ نے پھٹکار ڈالی، جن پر اپنا غضب نازل کیا، جن میں سے لوگوں کو بندر اور سور بنایا، اور جنہوں نے شیطان کی پرستش کی، وہ لوگ ہیں جن کا ٹھکانا بھی بدترین ہے اور وہ سیدھے راستے سے بھی بہت بھٹکے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ us ne kaha ke jo zulm karega, ose to hum bhi ab saza denge, phir wo apne parvard
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ذوالقرنین نے کہا: جو شخص (کفر و فسق کی صورت میں) ظلم کرے گا تو ہم اسے ضرور سزا دیں گے، پھر وہ اپنے رب کی طرف لوٹایا جائے گا، پھر وہ اسے بہت ہی سخت عذاب دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : ان میں سے جو کوئی ظلم کا راستہ اختیار کرے گا، اسے تو ہم سزا دیں گے، پھر اسے اپنے رب کے پاس پہنچا دیا جائے گا، اور وہ اسے سخت عذاب دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

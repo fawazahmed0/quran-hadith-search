@@ -3224,6 +3224,12 @@ aur hum ne un ko Is’haaq diya aur Yaqoob, har ek ko hum ne hidaayath ki aur pe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان (ابراہیم علیہ السلام) کو اسحاق اور یعقوب (بیٹا اور پوتا علیھما السلام) عطا کئے، ہم نے (ان) سب کو ہدایت سے نوازا، اور ہم نے (ان سے) پہلے نوح (علیہ السلام) کو (بھی) ہدایت سے نوازا تھا اور ان کی اولاد میں سے داؤد اور سلیمان اور ایوب اور یوسف اور موسٰی اور ہارون (علیھم السلام کو بھی ہدایت عطا فرمائی تھی)، اور ہم اسی طرح نیکو کاروں کو جزا دیا کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ابراہیم کو اسحاق (جیسا بیٹا) اور یعقوب (جیسا پوتا) عطا کیا۔ (ان میں سے) ہر ایک کو اہم نے ہدایت دی، اور نوح کو ہم نے پہلے ہی ہدایت دی تھی، اور ان کی اولاد میں سے داؤد، سلیمان، ایوب، یوسف، موسیٰ اور ہارون کو بھی۔ اور اسی طرح ہم نیک کام کرنے والوں کو بدلہ دیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

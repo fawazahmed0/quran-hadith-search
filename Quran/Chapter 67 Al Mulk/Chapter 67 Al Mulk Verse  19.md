@@ -3224,6 +3224,12 @@ kya ye apne upar, par khole hoye aur (kabhi kabhi) simte hoye (odne waale) parin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا اُنہوں نے پرندوں کو اپنے اوپر پر پھیلائے ہوئے اور (کبھی) پر سمیٹے ہوئے نہیں دیکھا؟ اُنہیں (فضا میں گرنے سے) کوئی نہیں روک سکتا سوائے رحمان کے (بنائے ہوئے قانون کے)، بے شک وہ ہر چیز کو خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا انہوں نے پرندوں کو اپنے اوپر نظر اٹھا کر نہیں دیکھا کہ وہ پروں کو پھیلائے ہوئے ہوتے ہیں، اور سمیٹ بھی لیتے ہیں۔ ان کو خدائے رحمن کے سوا کوئی تھامے ہوئے نہیں ہے۔ یقینا وہ ہر چیز کی خوب دیکھ بھال کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

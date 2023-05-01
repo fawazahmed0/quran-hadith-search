@@ -3224,6 +3224,12 @@ sub logo se zyaada Ibraheem se nazdik tar wo log hai, jinhone un ka kaha maana a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک سب لوگوں سے بڑھ کر ابراہیم (علیہ السلام) کے قریب (اور حق دار) تو وہی لوگ ہیں جنہوں نے ان (کے دین) کی پیروی کی ہے اور (وہ) یہی نبی (صلی اللہ علیہ وآلہ وسلم) اور (ان پر) ایمان لانے والے ہیں، اور اللہ ایمان والوں کا مددگار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابراہیم کے ساتھ تعلق کے سب سے زیادہ حق دار وہ لوگ ہیں جنہوں نے ان کی پیروی کی، نیز یہ نبی (آخر الزماں (صلی اللہ علیہ وآلہ وسلم) اور وہ لوگ ہیں جو (ان پر) ایمان لائے ہیں، اور اللہ مومنوں کا کارساز ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

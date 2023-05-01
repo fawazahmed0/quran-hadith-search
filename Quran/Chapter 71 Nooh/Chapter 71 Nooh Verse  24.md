@@ -3224,6 +3224,12 @@ aur unhone bahuth se logo ko gumraah kiya (ilaahi) tu un zaalimo ki gumraahi aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور واقعی انہوں نے بہت لوگوں کو گمراہ کیا، سو (اے میرے رب!) تو (بھی ان) ظالموں کو سوائے گمراہی کے (کسی اور چیز میں) نہ بڑھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح انہوں نے بہت سوں کو گمراہ کردیا ہے، لہذا (یا رب) آپ بھی ان کو گمراہی کے سوا کسی اور چیز میں ترقی نہ دیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

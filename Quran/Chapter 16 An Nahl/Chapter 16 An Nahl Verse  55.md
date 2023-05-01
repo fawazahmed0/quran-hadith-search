@@ -3224,6 +3224,12 @@ ke hamaari di hoyi nemato ki na shukri kare, accha kuch fayeda uthaalo, aaqir ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ کفر و شرک اس لئے) تاکہ وہ ان (نعمتوں) کی ناشکری کریں جو ہم نے انہیں عطا کر رکھی ہیں، پس (اے مشرکو! چند روزہ) فائدہ اٹھا لو پھر تم عنقریب (اپنے انجام کو) جان لو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ ہم نے اسے جو نعمت دی تھی اس کی ناشکری کرے۔ اچھا ! کچھ عیش کرلو، پھر عنقریب تمہیں پتہ چل جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

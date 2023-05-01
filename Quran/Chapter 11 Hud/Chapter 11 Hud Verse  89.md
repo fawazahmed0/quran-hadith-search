@@ -3224,6 +3224,12 @@ aur aye meri qaum (ke logo!) kahi aisa na ho ke tum ko meri muqalifat un azaabo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اے میری قوم! مجھ سے دشمنی و مخالفت تمہیں یہاں تک نہ ابھار دے کہ (جس کے باعث) تم پر وہ (عذاب) آپہنچے جیسا (عذاب) قومِ نوح یا قومِ ہود یا قومِ صالح کو پہنچا تھا، اور قومِ لوط (کا زمانہ تو) تم سے کچھ دور نہیں (گزرا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے میری قوم ! میرے ساتھ ضد کا جو معاملہ تم کر رہے ہو، وہ کہیں تمہیں اس انجام تک نہ پہنچا دے کہ تم پر بھی ویسی ہی مصیبت نازل ہو جیسی نوح کی قوم پر یا ہود کی قوم پر یا صالح کی قوم پر نازل ہوچکی ہے۔ اور لوط کی قوم تو تم سے کچھ دور بھی نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

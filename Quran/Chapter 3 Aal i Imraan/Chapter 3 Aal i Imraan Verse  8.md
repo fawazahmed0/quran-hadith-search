@@ -3224,6 +3224,12 @@ aye hamaare rab! hamein hidaayath dene ke baadh hamaare dil tede na karde aur ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اور عرض کرتے ہیں:) اے ہمارے رب! ہمارے دلوں میں کجی پیدا نہ کر اس کے بعد کہ تو نے ہمیں ہدایت سے سرفراز فرمایا ہے اور ہمیں خاص اپنی طرف سے رحمت عطا فرما، بیشک تو ہی بہت عطا فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ایسے لوگ یہ دعا کرتے ہیں کہ) اے ہمارے رب تو نے ہمیں جو ہدایت عطا فرمائی ہے اس کے بعد ہمارے دلوں میں ٹیڑھ پیدا نہ ہونے دے، اور خاص اپنے پاس سے ہمیں رحمت عطا فرما۔ بیشک تیری اور صرف تیری ذات وہ ہے جو بےانتہا بخشش کی خوگر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

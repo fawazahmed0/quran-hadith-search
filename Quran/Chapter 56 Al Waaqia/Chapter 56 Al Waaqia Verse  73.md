@@ -3224,6 +3224,12 @@ hum ne ose sabab nasihath aur musaafiro ke fayde ki cheez banaya hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم ہی نے اِس (درخت کی آگ) کو (آتشِ جہنّم کی) یاد دلانے والی (نصیحت و عبرت) اور جنگلوں کے مسافروں کے لئے باعثِ منفعت بنایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ہی اس کو نصیحت کا سامان اور صحرائی مسافروں کے لیے فائدے کی چیز بنایا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

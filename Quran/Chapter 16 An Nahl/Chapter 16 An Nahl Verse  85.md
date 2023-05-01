@@ -3224,6 +3224,12 @@ aur jab ye zaalim azaab dekh lenge phir na to un se halka kiya jayega aur na wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ظالم لوگ عذاب دیکھ لیں گے تو نہ ان سے (اس عذاب کی) تخفیف کی جائے گی اور نہ ہی انہیں مہلت دی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یہ ظالم عذاب کو آنکھوں سے دیکھ لیں گے تو نہ ان سے اس عذاب کو ہلکا کیا جائے گا، اور نہ ان کو مہلت دی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

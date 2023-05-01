@@ -3224,6 +3224,12 @@ namaaz ki paabandi karo, zakaath ada karo aur Allah ta’ala ke rasool ki farma 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم نماز (کے نظام) کو قائم رکھو اور زکوٰۃ کی ادائیگی (کا انتظام) کرتے رہو اور رسول (صلی اللہ علیہ وآلہ وسلم) کی (مکمل) اطاعت بجا لاؤ تاکہ تم پر رحم فرمایا جائے (یعنی غلبہ و اقتدار، استحکام اور امن و حفاظت کی نعمتوں کو برقرار رکھا جائے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نماز قائم کرو، اور زکوٰۃ ادا کرو، اور رسول کی فرمانبرداری کرو، تاکہ تمہارے ساتھ رحمت کا برتاؤ کیا جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un ki ye imarath jo unhone banai hai hamesha un ke dilo mein shak ki bunyad par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کی عمارت جسے انہوں نے (مسجد کے نام پر) بنا رکھا ہے ہمیشہ ان کے دلوں میں (شک اور نفاق کے باعث) کھٹکتی رہے گی سوائے اس کے کہ ان کے دل (مسلسل خراش کی وجہ سے) پارہ پارہ ہو جائیں، اور اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو عمارت ان لوگوں نے بنائی تھی، وہ ان کے دلوں میں اس وقت تک برابر شک پیدا کرتی رہے گی جب تک ان کے دل ہی ٹکڑے ٹکڑے نہیں ہوجاتے۔ اور اللہ کامل علم والا بھی ہے، کامل حکمت والا بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

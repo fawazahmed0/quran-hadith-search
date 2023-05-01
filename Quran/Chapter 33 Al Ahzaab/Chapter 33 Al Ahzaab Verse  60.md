@@ -3224,6 +3224,12 @@ agar (ab bhi) ye munafiq aur jin ke dilo mein bimaari hai aur wo log jo madine m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر منافق لوگ اور وہ لوگ جن کے دلوں میں (رسول صلی اللہ علیہ وآلہ وسلم سے بُغض اور گستاخی کی) بیماری ہے، اور (اسی طرح) مدینہ میں جھوٹی افواہیں پھیلانے والے لوگ (رسول صلی اللہ علیہ وآلہ وسلم کو ایذاء رسانی سے) باز نہ آئے تو ہم آپ کو ان پر ضرور مسلّط کر دیں گے پھر وہ مدینہ میں آپ کے پڑوس میں نہ ٹھہر سکیں گے مگر تھوڑے (دن)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر وہ لوگ باز نہ آئے جو منافق ہیں جن کے دلوں میں روگ ہے اور جو شہر میں شرانگیز افواہیں پھیلاتے ہیں تو ہم ضرور ایسا کریں گے کہ تم ان کے خلاف اٹھ کھڑے ہوگے، پھر وہ اس شہر میں تمہارے ساتھ نہیں رہ سکیں گے، البتہ تھوڑے دن۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

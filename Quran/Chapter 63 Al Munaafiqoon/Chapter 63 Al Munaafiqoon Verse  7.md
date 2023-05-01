@@ -3224,6 +3224,12 @@ yahi wo hai jo kehte hai ke jo log Rasool Allah(sallallahu alaihi wasallam) ke p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) یہی وہ لوگ ہیں جو (آپ سے بُغض و عِناد کی بنا پر) یہ (بھی) کہتے ہیں کہ جو (درویش اور فقراء) رسول اللہ (صلی اللہ علیہ وآلہ وسلم) کی خدمت میں رہتے ہیں اُن پر خرچ مت کرو (یعنی ان کی مالی اعانت نہ کرو) یہاں تک کہ وہ (سب انہیں چھوڑ کر) بھاگ جائیں (منتشر ہوجائیں)، حالانکہ آسمانوں اور زمین کے سارے خزانے اللہ ہی کے ہیں لیکن منافقین نہیں سمجھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہی تو ہیں جو کہتے ہیں کہ جو لوگ رسول اللہ کے پاس ہیں ان پر کچھ خرچ نہ کرو، یہاں تک کہ یہ خود ہی منتشر ہوجائیں گے، حالانکہ آسمانوں اور زمین کے تمام خزانے اللہ ہی کے ہیں، لیکن منافق لوگ سمجھتے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

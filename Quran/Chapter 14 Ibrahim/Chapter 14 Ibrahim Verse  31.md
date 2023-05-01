@@ -3224,6 +3224,12 @@ mere imaan wale bando se keh di jiye ke namaazo ko qaayam rakhe aur jo kuch hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ میرے مومن بندوں سے فرما دیں کہ وہ نماز قائم رکھیں اور جو رزق ہم نے انہیں دیا ہے اس میں سے پوشیدہ اور اعلانیہ (ہماری راہ میں) خرچ کرتے رہیں اس دن کے آنے سے پہلے جس دن میں نہ کوئی خرید و فروخت ہوگی اور نہ ہی کوئی (دنیاوی) دوستی (کام آئے گی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرے جو بندے ایمان لائے ہیں، ان سے کہہ دو کہ وہ نماز قائم کریں، اور ہم نے ان کو جو رزق دیا ہے اس میں سے پوشیدہ طور پر بھی اور علانیہ بھی (نیکی کے کاموں میں) خرچ کریں (اور یہ کام) اس دن کے آنے سے پہلے پہلے (کرلیں) جس میں نہ کوئی خریدو فروخت ہوگی، نہ کوئی دوستی آئے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

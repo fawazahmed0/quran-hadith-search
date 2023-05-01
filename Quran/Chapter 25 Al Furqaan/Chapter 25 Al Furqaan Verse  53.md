@@ -3224,6 +3224,12 @@ aur wahi hai jis ne do samandar aapas mein mila rakhe hai, ye hai meetha aur maz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے دو دریاؤں کو ملا دیا۔ یہ (ایک) میٹھا نہایت شیریں ہے اور یہ (دوسرا) کھاری نہایت تلخ ہے۔ اور اس نے ان دونوں کے درمیان ایک پردہ اور مضبوط رکاوٹ بنا دی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جس نے دریاؤں کو اس طرح ملا کر چلایا ہے کہ ایک میٹھا ہے جس سے تسکین ملتی ہے، اور ایک نمکین ہے، سخت کڑوا۔ اور ان دونوں کے درمیان ایک آڑ اور ایسی رکاوٹ حائل کردی ہے جس کو (دونوں میں سے) کوئی عبور نہیں کرسکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

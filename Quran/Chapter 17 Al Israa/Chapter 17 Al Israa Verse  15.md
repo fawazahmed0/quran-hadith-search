@@ -3224,6 +3224,12 @@ jo raahe raasth haasil karle wo khud apne hee bhale ke liye raah yaafta hota hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو کوئی راہِ ہدایت اختیار کرتا ہے تو وہ اپنے فائدہ کے لئے ہدایت پر چلتا ہے اور جو شخص گمراہ ہوتا ہے تو اس کی گمراہی کا وبال (بھی) اسی پر ہے، اور کوئی بوجھ اٹھانے والا کسی دوسرے (کے گناہوں) کا بوجھ نہیں اٹھائے گا، اور ہم ہرگز عذاب دینے والے نہیں ہیں یہاں تک کہ ہم (اس قوم میں) کسی رسول کو بھیج لیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص سیدھی راہ پر چلتا ہے تو وہ خود اپنے فائدے کے لیے چلتا ہے، اور جو گمراہی کا راستہ اختیار کرتا ہے وہ اپنے ہی نقصان کے لیے اختیار کرتا ہے۔ اور کوئی بوجھ اٹھانے والا کسی دوسرے کا بوجھ نہیں اٹھائے گا۔ اور ہم کبھی کسی کو اس وقت تک سزا نہیں دیتے جب تک کوئی پیغمبر (اس کے پاس) نہ بھیج دیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

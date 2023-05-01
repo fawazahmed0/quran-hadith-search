@@ -3224,6 +3224,12 @@ aasmaano aur zameen ka ghaib sirf Allah ta’ala hee ko maloom hai aur qayamath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آسمانوں اور زمین کا (سب) غیب اللہ ہی کے لئے ہے، اور قیامت کے بپا ہونے کا واقعہ اس قدر تیزی سے ہوگا جیسے آنکھ کا جھپکنا یا ا س سے بھی تیز تر، بیشک اللہ ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین کے سارے بھید اللہ کے قبضے میں ہیں۔ اور قیامت کا معاملہ آنکھ جھپکنے سے زیادہ نہیں ہوگا، بلکہ اس سے بھی جلدی۔ یقین رکھو کہ اللہ ہر چیز پر پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

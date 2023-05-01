@@ -3224,6 +3224,12 @@ jo log apni peet ke bal ulte phir gaye, us ke baadh ke un ke liye hidaayath waaz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ پیٹھ پھیر کر پیچھے (کفر کی طرف) لوٹ گئے اس کے بعد کہ ان پر ہدایت واضح ہو چکی تھی شیطان نے انہیں (کفر کی طرف واپس پلٹنا دھوکہ دہی سے) اچھا کر کے دکھایا، اور انہیں (دنیا میں) طویل زندگی کی امید دلائی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ جو لوگ حق بات سے پیٹھ پھیر کر مڑ گئے ہیں، باوجودیکہ ہدایت ان کے سامنے خوب واضح ہوچکی تھی، انہیں شیطان نے پٹی پڑھائی ہے اور انہیں دور دراز کی امیدیں دلائی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Woh balaa (catastrophe) achanak aayegi aur inhein is tarah yaklakht (suddenly) d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ (قیامت) انہیں اچانک آپہنچے گی تو انہیں بدحواس کر دے گی سو وہ نہ تو اسے لوٹا دینے کی طاقت رکھتے ہوں گے اور نہ ہی انہیں مہلت دی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلکہ وہ (آگ) ان کے پاس ایک دم آدھمکے گی، اور ان کے ہوش و حواس گم کر رکے رکھ دے گی، پھر نہ یہ اسے پیچھے ہٹا سکیں گے، اور نہ انہیں کوئی مہلت دی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

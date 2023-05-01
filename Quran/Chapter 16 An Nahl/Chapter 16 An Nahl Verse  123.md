@@ -3224,6 +3224,12 @@ phir hum ne aap ki jaanib wahi bheji ke aap millath-e-ibraheem haneef ki pairvi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (اے حبیبِ مکرّم!) ہم نے آپ کی طرف وحی بھیجی کہ آپ ابراہیم (علیہ السلام) کے دین کی پیروی کریں جو ہر باطل سے جدا تھے، اور وہ مشرکوں میں سے نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر (اے پیغمبر) ہم نے تم پر بھی وحی کے ذریعے یہ حکم نازل کیا ہے کہ تم ابراہیم کے دین کی پیروی کرو جس نے اپنا رخ اللہ ہی کی طرف کیا ہوا تھا، اور وہ ان لوگوں میں سے نہیں تھے جو اللہ کے ساتھ شرک کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

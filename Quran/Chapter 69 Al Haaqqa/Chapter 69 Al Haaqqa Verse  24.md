@@ -3224,6 +3224,12 @@ Yizhte y pyyte na radistʹ — za te, shcho vy robyly v poperedni dni
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اُن سے کہا جائے گا:) خوب لطف اندوزی کے ساتھ کھاؤ اور پیو اُن (اَعمال) کے بدلے جو تم گزشتہ (زندگی کے) اَیام میں آگے بھیج چکے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (کہا جائے گا کہ) اپنے ان اعمال کے صلے میں مزے سے کھاؤ پیو، جو تم نے گزرے ہوئے دنوں میں کیے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

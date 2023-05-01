@@ -3224,6 +3224,12 @@ jab ke Allah tala ne tujhe tere qwab mein un ki tedad kam dikhai,agar un ki zyad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ واقعہ یاد دلائیے) جب آپ کو اللہ نے آپ کے خواب میں ان کافروں (کے لشکر) کو تھوڑ ا کر کے دکھایا تھا اور اگر (اللہ) آپ کو وہ زیادہ کر کے دکھاتا تو (اے مسلمانو!) تم ہمت ہار جاتے اور تم یقیناً اس (جنگ کے) معاملے میں باہم جھگڑنے لگتے لیکن اللہ نے (مسلمانوں کو بزدلی اور باہمی نزاع سے) بچا لیا۔ بیشک وہ سینوں کی (چھپی) باتوں کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) وہ وقت یاد کرو جب اللہ خواب میں تمہیں ان (دشمنوں) کی تعداد کم دکھا رہا تھا، اور اگر تمہیں ان کی تعداد زیادہ دکھا دیتا تو (اے مسلمانو) تم ہمت ہار جاتے، اور تمہارے درمیان اس معاملے میں اختلاف پیدا ہوجاتا، لیکن اللہ نے (تمہیں اس سے) بچا لیا۔ یقینا وہ سینوں میں چھپی باتیں خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

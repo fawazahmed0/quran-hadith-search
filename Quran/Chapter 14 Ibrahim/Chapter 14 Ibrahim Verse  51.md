@@ -3224,6 +3224,12 @@ ye is liye ke Allah ta’ala har shaqs ko us ke kiye hoye amaal ka badhla de, be
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اللہ ہر شخص کو ان (اَعمال) کابدلہ دے دے جو اس نے کما رکھے ہیں۔ بیشک اللہ حساب میں جلدی فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ اللہ ہر شخص کو اس کے کیے کا بدلہ دے۔ یقینا اللہ جلد حساب چکانے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

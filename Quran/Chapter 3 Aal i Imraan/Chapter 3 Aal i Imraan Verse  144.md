@@ -3224,6 +3224,12 @@ Muhammad iske siwa kuch nahin ke bas ek Rasool hain, unsey pehle aur Rasool bhi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور محمد (صلی اللہ علیہ وآلہ وسلم بھی تو) رسول ہی ہیں (نہ کہ خدا)، آپ سے پہلے بھی کئی پیغمبر (مصائب اور تکلیفیں جھیلتے ہوئے اس دنیا سے) گزر چکے ہیں، پھر اگر آپ (صلی اللہ علیہ وآلہ وسلم) وفات فرما جائیں یا شہید کر دیئے جائیں تو کیا تم اپنے (پچھلے مذہب کی طرف) الٹے پاؤں پھر جاؤ گے (یعنی کیا ان کی وفات یا شہادت کو معاذ اللہ دینِ اسلام کے حق نہ ہونے پر یا ان کے سچے رسول نہ ہونے پر محمول کرو گے)، اور جو کوئی اپنے الٹے پاؤں پھرے گا تو وہ اللہ کا ہرگز کچھ نہیں بگاڑے گا، اور اللہ عنقریب (مصائب پر ثابت قدم رہ کر) شکر کرنے والوں کو جزا عطا فرمائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور محمد (صلی اللہ علیہ وآلہ وسلم) ایک رسول ہی تو ہیں۔ ان سے پہلے بہت سے رسول گزر چکے ہیں، بھلا اگر ان کا انتقال ہوجائے یا انہیں قتل کردیا جائے تو کیا تم الٹے پاؤں پھر جاؤ گے ؟ اور جو کوئی الٹے پاؤں پھرے گا وہ اللہ کو ہرگز کوئی نقصان نہیں پہنچا سکتا۔ اور جو شکر گزار بندے ہیں اللہ ان کو ثواب دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

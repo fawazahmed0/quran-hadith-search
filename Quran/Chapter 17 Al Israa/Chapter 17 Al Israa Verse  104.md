@@ -3224,6 +3224,12 @@ us ke baadh hum ne bani israel se farma diya ke us sar zameen par tum raho saho,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اس کے بعد بنی اسرائیل سے فرمایا: تم اس ملک میں آباد ہو جاؤ پھر جب آخرت کا وعدہ آجائے گا (تو) ہم تم سب کو اکٹھا سمیٹ کر لے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کے بعد بنو اسرائیل سے کہا کہ : تم زمین میں بسو۔ پھر جب آخرت کا وعدہ پورا ہونے کا وقت آئے گا تو ہم تم سب کو جمع کر کے حاضر کردیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya ye log Qur’an mein ghaur nahi karte? agar ye Allah ta’ala ke siva kisi a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو کیا وہ قرآن میں غور و فکر نہیں کرتے، اور اگر یہ (قرآن) غیرِ خدا کی طرف سے (آیا) ہوتا تو یہ لوگ اس میں بہت سا اختلاف پاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا یہ لوگ قرآن میں غور وفکر سے کام نہیں لیتے ؟ اگر یہ اللہ کے سوا کسی اور کی طرف سے ہوتا تو وہ اس میں بکثرت اختلافات پاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

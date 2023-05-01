@@ -3224,6 +3224,12 @@ Nahin, balke yeh kehte hain ke humne apne baap dada ko ek tarike par paya hai au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(نہیں) بلکہ وہ کہتے ہیں: بیشک ہم نے اپنے باپ دادا کو ایک ملّت (و مذہب) پر پایا اور یقیناً ہم انہی کے نقوشِ قدم پر (چلتے ہوئے) ہدایت یافتہ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نہیں، بلکہ ان کا کہنا یہ ہے کہ ہم نے اپنے باپ دادوں کو ایک طریقے پر پایا ہے اور ہم انہی کے نقش قدم کے مطابق ٹھیک ٹھیک راستے پر جارہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

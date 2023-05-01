@@ -3224,6 +3224,12 @@ wo asmaan wa zameen ki har har cheez ka ilm rakhta hai aur jo kuch tum chupaao a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو کچھ آسمانوں اور زمین میں ہے وہ جانتا ہے اور ان باتوں کو (بھی) جانتا ہے جو تم چھپاتے ہو، اور جو ظاہر کرتے ہو اور اللہ سینوں والی (راز کی) باتوں کو (بھی) خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین میں جو کچھ ہے، وہ اسے جانتا ہے، اور جو کچھ تم چھپ کر کرتے ہو اور جو کچھ کھلم کھلا کرتے ہو، اس کا بھی اسے پورا علم ہے، اور اللہ دلوں کی باتوں تک کا خوب جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

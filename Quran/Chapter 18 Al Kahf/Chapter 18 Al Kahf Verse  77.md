@@ -3224,6 +3224,12 @@ phir duno chale, ek gaao waalo ke paas aa kar un se khaana talab kiya, to unhone
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر دونوں چل پڑے یہاں تک کہ جب دونوں ایک بستی والوں کے پاس آپہنچے، دونوں نے وہاں کے باشندوں سے کھانا طلب کیا تو انہوں نے ان دونوں کی میزبانی کرنے سے انکار کر دیا، پھر دونوں نے وہاں ایک دیوار پائی جو گرا چاہتی تھی تو (خضر علیہ السلام نے) اسے سیدھا کر دیا، موسٰی (علیہ السلام) نے کہا: اگر آپ چاہتے تو اس (تعمیر) پر مزدوری لے لیتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ وہ دونوں پھر روانہ ہوگئے، یہاں تک کہ جب ایک بستی والوں کے پاس پہنچے تو اس کے باشندوں سے کھانا مانگا تو ان لوگوں نے ان کی مہمانی کرنے سے انکار کردیا۔ پھر انہیں وہاں ایک دیوار ملی جو گرا ہی چاہتی تھی، ان صاحب نے اسے کھڑا کردیا۔ موسیٰ نے کہا : اگر آپ چاہتے تو اس کام پر کچھ اجرت لے لیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye Qur’an tamaam logo ke liye ittela naama hai ke is ke zariye se, wo hoshyaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (قرآن) لوگوں کے لئے کاملاً پیغام کا پہنچا دینا ہے، تاکہ انہیں اس کے ذریعہ ڈرایا جائے اور یہ کہ وہ خوب جان لیں کہ بس وہی (اللہ) معبودِ یکتا ہے اور یہ کہ دانش مند لوگ نصیحت حاصل کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ تمام لوگوں کے لیے ایک پیغام ہے، اور اس لیے دیا جارہا ہے تاکہ انہیں اس کے ذریعے خبردار کیا جائے، اور تاکہ وہ جان لیں کہ معبود برحق بس ایک ہی ہے، اور تاکہ سمجھ رکھنے والے نصیحت حاصل کرلیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

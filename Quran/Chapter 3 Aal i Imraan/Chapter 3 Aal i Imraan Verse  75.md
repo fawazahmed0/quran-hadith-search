@@ -3224,6 +3224,12 @@ baaz ahle kitaab to aise hai, ke agar unhe tu qazaane ka ameen bhi banaade to bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اہلِ کتاب میں ایسے بھی ہیں کہ اگر آپ اس کے پاس مال کا ڈھیر امانت رکھ دیں تو وہ آپ کو لوٹا دے گا اور انہی میں ایسے بھی ہیں کہ اگر اس کے پاس ایک دینار امانت رکھ دیں تو آپ کو وہ بھی نہیں لوٹائے گا سوائے اس کے کہ آپ اس کے سر پر کھڑے رہیں، یہ اس لئے کہ وہ کہتے ہیں کہ اَن پڑھوں کے معاملہ میں ہم پر کوئی مؤاخذہ نہیں، اور اللہ پر جھوٹ باندھتے ہیں اور انہیں خود (بھی) معلوم ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اہل کتاب میں کچھ لوگ تو ایسے ہیں کہ اگر تم ان کے پاس دولت کا ایک ڈھیر بھی امانت کے طور پر رکھوا دو تو وہ تمہیں واپس کردیں گے، اور انہی میں سے کچھ ایسے ہیں کہ اگر ایک دینار کی امانت بھی ان کے پاس رکھواؤ تو وہ تمہیں واپس نہیں دیں گے، الا یہ کہ تم ان کے سر پر کھڑے رہو۔ ان کا یہ طرز عمل اس لیے ہے کہ انہوں نے یہ کہہ رکھا ہے کہ : امیوں (یعنی غیر یہودی عربوں) کے ساتھ معاملہ کرنے میں ہماری کوئی پکڑ نہیں ہوگی۔ اور (اس طرح) وہ اللہ پر جان بوجھ کر جھوٹ باندھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

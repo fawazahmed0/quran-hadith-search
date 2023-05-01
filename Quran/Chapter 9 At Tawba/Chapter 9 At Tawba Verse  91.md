@@ -3224,6 +3224,12 @@ zaifo par aur bimaro par aur un par jin ke paas qarch karne ko kuch bhi nahi koi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ضعیفوں (کمزوروں) پر کوئی گناہ نہیں اور نہ بیماروں پر اور نہ (ہی) ایسے لوگوں پر ہے جو اس قدر (وسعت بھی) نہیں پاتے جسے خرچ کریں جبکہ وہ اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کے لئے خالص و مخلص ہو چکے ہوں، نیکوکاروں (یعنی صاحبانِ احسان) پر الزام کی کوئی راہ نہیں اور اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کمزور لوگوں پر (جہاد میں نہ جانے کا) کوئی گناہ نہیں، نہ بیماروں پر، اور نہ ان لوگوں پر جن کے پاس خرچ کرنے کو کچھ نہیں ہے، جبکہ وہ اللہ اور اس کے رسول کے لیے مخلص ہوں۔ نیک لوگوں پر کوئی الزام نہیں، اور اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

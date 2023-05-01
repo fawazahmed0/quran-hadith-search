@@ -3224,6 +3224,12 @@ phir kaam ki tadhbeer karne waalo ki qasam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان (فرشتوں) کی قَسم جو مختلف اُمور کی تدبیر کرتے ہیں۔(br) (یا:- پھر توانائی کی ان لہروں کی قَسم جو باہمی تعامل سے کائناتی نظام کی بقا کے لئے توازن و تدبیر قائم رکھتی ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جو حکم ملتا ہے اس (کو پورا کرنے) کا انتظام کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

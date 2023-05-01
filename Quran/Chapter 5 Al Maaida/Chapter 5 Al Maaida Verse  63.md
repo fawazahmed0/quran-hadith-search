@@ -3224,6 +3224,12 @@ inhe un ke aabedh wa aalim jhoot baatho ke kehne aur haraam chizo ke khaane se k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہیں (روحانی) درویش اور (دینی) علماء ان کے قولِ گناہ اور اکلِ حرام سے منع کیوں نہیں کرتے؟ بیشک وہ (بھی برائی کے خلاف آواز بلند نہ کر کے) جو کچھ تیار کر رہے ہیں بہت برا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے مشائخ اور علماء ان کو گناہ کی باتیں کہنے اور حرام کھانے سے آخر کیوں منع نہیں کرتے ؟ حقیقت یہ ہے کہ ان کا یہ طرز عمل نہایت برا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

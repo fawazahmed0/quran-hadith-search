@@ -3224,6 +3224,12 @@ aur jo shaqs Allah par aur us ke rasool par imaan na laaye to hum ne bhi aise ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) پر ایمان نہ لائے تو ہم نے کافروں کے لئے دوزخ تیار کر رکھی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص اللہ اور اس کے رسول پر ایمان نہ لائے تو (وہ یاد رکھے کہ) ہم نے کافروں کے لیے بھڑکتی ہوئی آگ تیار کر رکھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

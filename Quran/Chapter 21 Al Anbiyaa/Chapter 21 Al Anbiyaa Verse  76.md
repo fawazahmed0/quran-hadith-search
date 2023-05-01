@@ -3224,6 +3224,12 @@ Nuh (alaihissalaam) ke us waqt ko yaad ki jiye jab ke us ne us se pehle dua ki, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نوح (علیہ السلام کو بھی یاد کریں) جب انہوں نے ان (انبیاء علیہم السلام) سے پہلے (ہمیں) پکارا تھا سو ہم نے ان کی دعا قبول فرمائی پس ہم نے ان کو اور ان کے گھر والوں کو بڑے شدید غم و اندوہ سے نجات بخشی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نوح کو بھی (ہم نے حکمت اور علم عطا کیا) وہ وقت یاد کرو جب اس واقعے سے پہلے انہوں نے ہمیں پکارا تو ہم نے ان کی دعا قبول کی، اور ان کو اور ان کے ساتھیوں کو بڑی بھاری مصیبت سے بچا لیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

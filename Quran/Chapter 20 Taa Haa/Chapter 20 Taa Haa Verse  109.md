@@ -3224,6 +3224,12 @@ us din sifaarish kuch kaam na ayegi, magar jise rahmaan hukm de aur us ki baath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس دن سفارش سود مند نہ ہوگی سوائے اس شخص (کی سفارش) کے جسے (خدائے) رحمان نے اذن (و اجازت) دے دی ہے اور جس کی بات سے وہ راضی ہوگیا ہے (جیسا کہ انبیاء و مرسلین، اولیاء، متقین، معصوم بچوں اور دیگر کئی بندوں کا شفاعت کرنا ثابت ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن کسی کی سفارش کام نہیں آئے گی، سوائے اس شخص (کی سفارش) کے جسے خدائے رحمن نے اجازت دے دی ہو، اور جس کے بولنے پر وہ راضی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

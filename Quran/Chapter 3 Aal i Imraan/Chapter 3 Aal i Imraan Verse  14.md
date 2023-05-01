@@ -3224,6 +3224,12 @@ marghoob6 cheezo ki muhabbath logo ke liye muzayyan7 kardi gayi hai, jaise aurte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لوگوں کے لئے ان خواہشات کی محبت (خوب) آراستہ کر دی گئی ہے (جن میں) عورتیں اور اولاد اور سونے اور چاندی کے جمع کئے ہوئے خزانے اور نشان کئے ہوئے خوبصورت گھوڑے اور مویشی اور کھیتی (شامل ہیں)، یہ (سب) دنیوی زندگی کا سامان ہے، اور اللہ کے پاس بہتر ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگوں کے لیے ان چیزوں کی محبت خوشنما بنادی گئی ہے جو ان کی نفسانی خواہش کے مطابق ہوتی ہے ،۔ یعنی عورتیں، بچے، سونے چاندی کے لگے ہوئے ڈھیر، نشان لگائے ہوئے گھوڑے، چوپائے اور کھیتیاں۔ یہ سب دنیوی زندگی کا سامان ہے (لیکن) ابدی انجام کا حسن تو صرف اللہ کے پاس ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

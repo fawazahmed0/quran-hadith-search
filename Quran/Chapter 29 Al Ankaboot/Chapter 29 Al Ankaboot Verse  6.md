@@ -3224,6 +3224,12 @@ aur har ek koshish karne wala apne hee bhale ki koshish karta hai, waise to Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص (راہِ حق میں) جد و جہد کرتا ہے وہ اپنے ہی (نفع کے) لئے تگ و دو کرتا ہے، بیشک اللہ تمام جہانوں (کی طاعتوں، کوششوں اور مجاہدوں) سے بے نیاز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص بھی ہمارے راستے میں محنت اٹھاتا ہے، وہ اپنے ہی فائدے کے لیے محنت اٹھاتا ہے۔ یقینا اللہ تمام دنیا جہان کے لوگوں سے بےنیاز ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

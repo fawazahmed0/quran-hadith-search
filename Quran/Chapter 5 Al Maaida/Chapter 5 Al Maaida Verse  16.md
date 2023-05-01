@@ -3224,6 +3224,12 @@ jis ke zariye se Allah tala unhe jo raza e rub ke darpe ho salamti ki rahe bat-l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ اس کے ذریعے ان لوگوں کو جو اس کی رضا کے پیرو ہیں، سلامتی کی راہوں کی ہدایت فرماتا ہے اور انہیں اپنے حکم سے (کفر و جہالت کی) تاریکیوں سے نکال کر (ایمان و ہدایت کی) روشنی کی طرف لے جاتا ہے اور انہیں سیدھی راہ کی سمت ہدایت فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس کے ذریعے اللہ ان لوگوں کو سلامتی کی راہیں دکھاتا ہے جو اس کی خوشنودی کے طالب ہیں اور انہیں اپنے حکم سے اندھیریوں سے نکال کر روشنی کی طرف لاتا ہے، اور انہیں سیدھے راستے کی ہدایت عطا فرماتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

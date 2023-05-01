@@ -3224,6 +3224,12 @@ aye meri khaum ke logo! aaj to badshaahath tumhaari hai, ke is zameen par tum gh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میری قوم! آج کے دن تمہاری حکومت ہے (تم ہی) سرزمینِ (مصر) میں اقتدار پر ہو، پھر کون ہمیں اللہ کے عذاب سے بچا سکتا ہے اگر وہ (عذاب) ہمارے پاس آجائے۔ فرعون نے کہا: میں تمہیں فقط وہی بات سمجھاتا ہوں جسے میں خود (صحیح) سمجھتا ہوں اور میں تمہیں بھلائی کی راہ کے سوا (اور کوئی راستہ) نہیں دکھاتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے میری قوم ! آج تو تمہیں ایسی سلطنت حاصل ہے کہ زمین میں تمہارا راج ہے، لیکن اگر اللہ کا عذاب ہم پر آگیا تو کون ہے جو اس کے مقابلے میں ہماری مدد کرے ؟۔ فرعون نے کہا میں تو تمہیں وہی رائے دوں گا جسے میں درست سمجھتا ہوں، اور میں تمہاری جو رہنمائی کر رہا ہوں وہ بالکل ٹھیک راستے کی طرف کر رہا ہوں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ us hamesha zinda rehne waale Allah ta’ala par tawakkal kare, jise kabhi mauth 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ اس (ہمیشہ) زندہ رہنے والے (رب) پر بھروسہ کیجئے جو کبھی نہیں مرے گا اور اس کی تعریف کے ساتھ تسبیح کرتے رہئے، اور اس کا اپنے بندوں کے گناہوں سے باخبر ہونا کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم اس ذات پر بھروسہ رکھو جو زندہ ہے، جسے کبھی موت نہیں آئے گی، اور اسی کی حمد کے ساتھ تسبیح کرتے رہو، اور وہ اپنے بندوں کے گناہوں کی خبر رکھنے کے لیے کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

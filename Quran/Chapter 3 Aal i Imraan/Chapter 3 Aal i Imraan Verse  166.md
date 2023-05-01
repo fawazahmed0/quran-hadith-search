@@ -3224,6 +3224,12 @@ aur tumhe jo kuch us din pahoncha, jis din do jamaato mein mudh bhed hoyi thi, w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُس دن جو تکلیف تمہیں پہنچی جب دونوں لشکر باہم مقابل ہو گئے تھے سو وہ اللہ کے حکم (ہی) سے تھے اور یہ اس لئے کہ اللہ ایمان والوں کی پہچان کرا دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہیں جو مصیبت اس دن پہنچی جب دونوں لشکر ٹکرائے تھے، وہ اللہ کے حکم سے پہنچی، تاکہ وہ مومنوں کو بھی پرکھ کر دیکھ لے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ta’ala tumhe sirf un logo ki muhabbath se rokta hai, jinhone tum se deen
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ تو محض تمہیں ایسے لوگوں سے دوستی کرنے سے منع فرماتا ہے جنہوں نے تم سے دین (کے بارے) میں جنگ کی اور تمہیں تمہارے گھروں (یعنی وطن) سے نکالا اور تمہارے باہر نکالے جانے پر (تمہارے دشمنوں کی) مدد کی۔ اور جو شخص اُن سے دوستی کرے گا تو وہی لوگ ظالم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ تو تمہیں اس بات سے منع کرتا ہے کہ جن لوگوں نے تمہارے ساتھ دین کے معاملے میں جنگ کی ہے، اور تمہیں اپنے گھروں سے نکالا ہے، اور تمہیں نکالنے میں ایک دوسرے کی مدد کی ہے، تم ان سے دوستی رکھو۔ اور جو لوگ ان سے دوستی رکھیں گے، وہ ظالم ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

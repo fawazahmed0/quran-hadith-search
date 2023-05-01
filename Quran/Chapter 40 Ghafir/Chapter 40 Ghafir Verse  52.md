@@ -3224,6 +3224,12 @@ jis din zaalimo ko un ki (uzr) maazirath kuch nafa na degi, un ke liye laanath h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن ظالموں کو اُن کی معذرت فائدہ نہیں دے گی اور اُن کے لئے پھٹکار ہوگی اور اُن کے لئے (جہنّم کا) بُرا گھر ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن ظالموں کو ان کی معذرت کچھ بھی فائدہ نہیں دے گی، اور ان کے حصے میں پھٹکار ہوگی، اور ان کے لیے رہئش کی بدترین جگہ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

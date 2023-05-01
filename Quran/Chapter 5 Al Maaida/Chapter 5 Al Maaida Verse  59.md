@@ -3224,6 +3224,12 @@ keh dijiye ae yahodiyo aur nasraniyo tum hum se sirf is wajeh se dushmaniya kar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے نبئ مکرّم!) آپ فرما دیجئے: اے اہلِ کتاب! تمہیں ہماری کون سی بات بری لگی ہے بجز اس کے کہ ہم اللہ پر اور اس (کتاب) پر جو ہماری طرف نازل کی گئی ہے اور ان (کتابوں) پر جو پہلے نازل کی جا چکی ہیں ایمان لائے ہیں اور بیشک تمہارے اکثر لوگ نافرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم (ان سے) کہو کہ : اے اہل کتاب ! تمہیں اس کے سوا ہماری کون سی بات بری لگتی ہے کہ ہم اللہ پر اور جو کلام ہم پر اتارا گیا اس پر اور جو پہلے اتارا گیا تھا اس پر ایمان لے آئے ہیں، جبکہ تم میں سے اکثر لوگ نافرمان ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

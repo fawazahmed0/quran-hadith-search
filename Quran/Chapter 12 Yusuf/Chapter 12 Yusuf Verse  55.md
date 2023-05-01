@@ -3224,6 +3224,12 @@ Yusuf ne kaha, “mulk ke khazane mere supurd kijiye , main hifazat karne wala b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یوسف (علیہ السلام) نے فرمایا: (اگر تم نے واقعی مجھ سے کوئی خاص کام لینا ہے تو) مجھے سرزمینِ (مصر) کے خزانوں پر (وزیر اور امین) مقرر کر دو، بیشک میں (ان کی) خوب حفاظت کرنے والا (اور اقتصادی امور کا) خوب جاننے والا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یوسف نے کہا کہ : آپ مجھے ملک کے خزانوں (کے انتظام) پر مقرر کردیجیے۔ یقین رکھیے کہ مجھے حفاظت کرنا خوب آتا ہے (اور) میں (اس کام کا) پورا علم رکھتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

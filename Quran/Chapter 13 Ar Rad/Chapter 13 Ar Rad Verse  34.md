@@ -3224,6 +3224,12 @@ un ke liye dunya ki zindagi mein bhi azaab hai aur aqirath ka azaab to bahuth he
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے لئے دنیوی زندگی میں (بھی) عذاب ہے اور یقیناً آخرت کا عذاب زیادہ سخت ہے، اور انہیں اللہ (کے عذاب) سے کوئی بچانے والا نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے لوگوں کے لیے دنیوی زندگی میں بھی عذاب ہے اور یقینا آخرت کا عذاب کہیں زیادہ بھاری ہوگا، اور کوئی نہیں ہے جو انہیں اللہ (کے عذاب) سے بچا سکے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yaqinan Allah tala ne bahuth se maidano mein tumhe fateh di hai aur hunain ki la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ نے بہت سے مقامات میں تمہاری مدد فرمائی اور (خصوصاً) حنین کے دن جب تمہاری (افرادی قوت کی) کثرت نے تمہیں نازاں بنا دیا تھا پھر وہ (کثرت) تمہیں کچھ بھی نفع نہ دے سکی اور زمین باوجود اس کے کہ وہ فراخی رکھتی تھی، تم پر تنگ ہو گئی چنانچہ تم پیٹھ دکھاتے ہوئے پھر گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ اللہ تعالیٰ نے تمہاری بہت سے مقامات پر مدد کی ہے، اور (خاص طور پر) حنین کے دن جب تمہاری تعداد کی کثرت نے تمہیں مگن کردیا تھا، مگر وہ کثرت تعداد تمہارے کچھ کام نہ آئی، اور زمین اپنی ساری وسعتوں کے باوجود تم پر تنگ ہوگئی، پھر تم نے پیٹھ دکھا کر میدان سے رخ موڑ لیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

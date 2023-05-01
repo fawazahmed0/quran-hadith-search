@@ -3224,6 +3224,12 @@ phir shaitaan ne un duno ke dilo mein was-wasa daala ta ke un ki sharam gaahe jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ شیطان نے ان دونوں کے دل میں وسوسہ ڈالا، تاکہ ان کی شرم کی جگہیں جو ان سے چھپائی گئی تھیں، ایک دوسرے کے سامنے کھول دے کہنے لگا کہ : تمہارے پروردگار نے تمہیں اس درخت سے کسی اور وجہ سے نہیں، بلکہ صرف اس وجہ سے روکا تھا کہ کہیں تم فرشتے نہ بن جاؤ، یا تمہیں ہمیشہ کی زندگی نہ حاصل ہوجائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

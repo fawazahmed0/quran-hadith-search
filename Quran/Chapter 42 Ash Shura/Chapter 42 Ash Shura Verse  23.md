@@ -3224,6 +3224,12 @@ yahi wo hai jis ki bashaarath Allah ta’ala apne un bandho ko de raha hai, jo i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ (انعام) ہے جس کی خوشخبری اللہ ایسے بندوں کو سناتا ہے جو ایمان لائے اور نیک اعمال کرتے رہے، فرما دیجئے: میں اِس (تبلیغ رسالت) پر تم سے کوئی اجرت نہیں مانگتا مگر (میری) قرابت (اور اللہ کی قربت) سے محبت (چاہتا ہوں) اور جو شخص نیکی کمائے گا ہم اس کے لئے اس میں اُخروی ثواب اور بڑھا دیں گے۔ بیشک اللہ بڑا بخشنے والا قدر دان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہی وہ چیز ہے جس کی خوشخبری اللہ اپنے ان بندوں کو دیتا ہے جو ایمان لائے ہیں، اور جنہوں نے نیک عمل کیے ہیں۔ (اے پیغمبر ! کافروں سے) کہہ دو کہ : میں تم سے اس (تبلیغ) پر کوئی اجرت نہیں مانگتا، سوائے رشتہ داری کی محبت کے۔ اور جو شخص کوئی بھلائی کرے گا، ہم اس کی خاطر اس بھلائی میں مزید خوبی کا اضافہ کردیں گے۔ یقین جانو اللہ بہت بخشنے والا، بڑا قدردان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ us Allah ki raah ki jis ki milkiyath mein asmaano aur zameen ki har cheez hai, a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ صراطِ مستقیم) اسی اللہ ہی کا راستہ ہے جو آسمانوں اور زمین کی ہر چیز کا مالک ہے۔ جان لو! کہ سارے کام اللہ ہی کی طرف لوٹتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اللہ کا راستہ ہے، وہ اللہ جس کی ملکیت میں وہ سب کچھ جو آسمانوں میں ہے اور وہ سب کچھ جو زمین میں ہے۔ یاد رکھو کہ سارے معاملات آخر کار اللہ ہی کی طرف لوٹیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

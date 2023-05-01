@@ -3224,6 +3224,12 @@ us waqt ko yad karo jab ke Allah tum par ong tari kar raha tha, apni taraf se ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب اس نے اپنی طرف سے (تمہیں) راحت و سکون (فراہم کرنے) کے لئے تم پر غنودگی طاری فرما دی اور تم پر آسمان سے پانی اتارا تاکہ اس کے ذریعے تمہیں (ظاہری و باطنی) طہارت عطا فرما دے اور تم سے شیطان (کے باطل وسوسوں) کی نجاست کو دور کردے اور تمہارے دلوں کو (قوتِ یقین سے) مضبوط کر دے اور اس سے تمہارے قدم (خوب) جما دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد کرو جب تم پر سے گھبراہٹ دور کرنے کے لیے وہ اپنے حکم سے تم پر غنودگی طاری کر رہا تھا اور تم پر آسمان سے پانی برسا رہا تھا تاکہ اس کے ذریعے تمہیں پاک کرے، تم سے شیطان کی گندگی دور کرے تمہارے دلوں کی ڈھارس بندھائے اور اس کے ذریعے (تمہارے) پاؤں اچھی طرح جما دے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

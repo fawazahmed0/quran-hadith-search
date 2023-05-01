@@ -3224,6 +3224,12 @@ kya tu un se koyi ujrath chahta hai jis ke taawaan1se ye dabe jaate ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ ان سے (تبلیغِ رسالت پر) کوئی معاوضہ مانگ رہے ہیں کہ وہ تاوان (کے بوجھ) سے دبے جا رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم ان سے کوئی اجرت مانگ رہے ہو کہ وہ تاوان کے بوجھ سے دبے جارہے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

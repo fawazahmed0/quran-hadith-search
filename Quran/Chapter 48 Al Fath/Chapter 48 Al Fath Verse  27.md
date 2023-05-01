@@ -3224,6 +3224,12 @@ yaqinan Allah ta’ala ne apne Rasool(sallallahu alaihi wasallam) ko qaab saccha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ نے اپنے رسول (صلی اللہ علیہ وآلہ وسلم) کو حقیقت کے عین مطابق سچا خواب دکھایا تھا کہ تم لوگ، اگر اللہ نے چاہا تو ضرور بالضرور مسجدِ حرام میں داخل ہو گے امن و امان کے ساتھ، (کچھ) اپنے سر منڈوائے ہوئے اور (کچھ) بال کتروائے ہوئے (اس حال میں کہ) تم خوفزدہ نہیں ہو گے، پس وہ (صلح حدیبیہ کو اس خواب کی تعبیر کے پیش خیمہ کے طور پر) جانتا تھا جو تم نہیں جانتے تھے سو اس نے اس (فتحِ مکہ) سے بھی پہلے ایک فوری فتح (حدیبیہ سے پلٹتے ہی فتحِ خیبر) عطا کر دی (اور اس سے اگلے سال فتحِ مکہ اور داخلۂ حرم عطا فرما دیا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ اللہ نے اپنے رسول کو سچا خواب دکھایا ہے جو واقعے کے بالکل مطابق ہے۔ تم لوگ انشاء اللہ ضرور مسجد حرام میں اس طرح امن وامان کے ساتھ داخل ہوگے کہ تم (میں سے کچھ) نے اپنے سروں کو بےخوف و خطر منڈوایا ہوگا اور (کچھ نے) بال تراشے ہوں گے۔ اللہ وہ باتیں جانتا ہے جو تمہیں معلوم نہیں ہیں۔ چنانچہ اس نے وہ خواب پورا ہونے سے پہلے ایک قریبی فتح طے کردی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

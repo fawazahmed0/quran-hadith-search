@@ -3224,6 +3224,12 @@ jise Allah ne laanath ki hai aur us ne beda uthaaya hai ke tere bandho mein se m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس پراللہ نے لعنت کی ہے اور جس نے کہا تھا کہ میں تیرے بندوں میں سے ایک معیّن حصہ (اپنے لئے) ضرور لے لوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس پر اللہ نے پھٹکار ڈال رکھی ہے، اور اس نے (اللہ سے) یہ کہہ رکھا ہے کہ : میں تیرے بندوں سے ایک طے شدہ حصہ لے کر رہوں گا،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

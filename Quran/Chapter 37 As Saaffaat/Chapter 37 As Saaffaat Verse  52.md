@@ -3224,6 +3224,12 @@ jo (mujh se) kaha karta tha ke kya tu (qayaamath ke aane ka) yaqeen karne waalo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (مجھے) کہتا تھا: کیا تم بھی (ان باتوں کا) یقین اور تصدیق کرنے والوں میں سے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو (مجھ سے) کہا کرتا تھا کہ : کیا تم واقعی ان لوگوں میں سے ہو جو (آخرت کی زندگی کو) سچ مانتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

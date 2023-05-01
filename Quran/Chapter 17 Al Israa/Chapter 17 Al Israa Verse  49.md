@@ -3224,6 +3224,12 @@ unhone kaha ke kya jab hum haddiya aur (mitthi ho kar) reza reza ho jayenge to k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کہتے ہیں: جب ہم (مَر کر بوسیدہ) ہڈیاں اور ریزہ ریزہ ہو جائیں گے تو کیا ہمیں اَز سرِ نو پیدا کر کے اٹھایا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہتے ہیں کہ : کیا جب ہمارا وجود ہڈیوں میں تبدیل ہو کر چورا چورا ہوجائے گا تو بھلا کیا اس وقت ہمیں نئے سرے سے پیدا کر کے اٹھایا جائے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir bhi agar ye aap se jhagde to aap kehde ke main aur mere tabedaaro ne Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) اگر پھر بھی آپ سے جھگڑا کریں تو فرما دیں کہ میں نے اور جس نے (بھی) میری پیروی کی اپنا روئے نیاز اللہ کے حضور جھکا دیا ہے، اور آپ اہلِ کتاب اور اَن پڑھ لوگوں سے فرما دیں: کیا تم بھی اللہ کے حضور جھکتے ہو (یعنی اسلام قبول کرتے ہو)؟ پھر اگر وہ فرمانبرداری اختیار کر لیں تو وہ حقیقتاً ہدایت پا گئے، اور اگر منہ پھیر لیں تو آپ کے ذمہ فقط حکم پہنچا دینا ہی ہے، اور اللہ بندوں کو خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر یہ تم سے جھگڑیں تو کہہ دو کہ : میں نے تو اپنا رخ اللہ کی طرف کرلیا ہے اور جنہوں نے میری اتباع کی ہے انہوں نے بھی، اور اہل کتاب سے اور (عرب کے) ان پڑھ (مشرکین) سے کہہ دو کہ کیا تم بھی اسلام لاتے ہو ؟ پھر اگر وہ اسلام لے آئیں تو ہدایت پاجائیں گے، اور اگر انہوں نے منہ موڑا تو تمہاری ذمہ داری صرف پیغام پہنچانے کی حد تک ہے اور اللہ تمام بندوں کو خود دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

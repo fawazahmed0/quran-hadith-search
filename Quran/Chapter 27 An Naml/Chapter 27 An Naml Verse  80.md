@@ -3224,6 +3224,12 @@ beshak aap na murdo ko suna sakte hai aur na behro ko apni pukaar suna sakte hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) بے شک آپ نہ تو اِن مردوں (یعنی حیات ایمانی سے محروم کافروں) کو اپنی پکار سناتے ہیں اور نہ ہی (صدائے حق کی سماعت سے محروم) بہروں کو، جب کہ وہ (آپ ہی سے) پیٹھ پھیرے جا رہے ہوں ٭o٭ یہاں پر الْمَوْتٰی (مُردوں) اور الصُّمَّ (بہروں) سے مراد کافر ہیں۔ صحابہ و تابعین رضی اللہ عنہم سے بھی یہی معنٰی مروی ہے۔ مختلف تفاسیر سے حوالے ملاحظہ ہوں : تفسیر الطبری (20 : 12)، تفسیر القرطبی (13 : 232)، تفسیر البغوی (3 : 428)، زاد المسیر لابن الجوزی (6 : 189)، تفسیر ابن کثیر (3 : 375، 439)، تفسیر اللباب لابی حفص الحنبلی (16 : 126)، الدر المنثور للسیوطی (6 : 376)، اور فتح القدیر للشوکانی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد رکھو کہ تم مردوں کو اپنی بات نہیں سنا سکتے، اور نہ تم بہروں کو اپنی پکار سنا سکتے ہو، جب وہ پیٹھ پھیر کر چل کھڑے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

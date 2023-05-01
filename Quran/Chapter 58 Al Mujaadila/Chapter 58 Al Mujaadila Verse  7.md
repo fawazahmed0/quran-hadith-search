@@ -3224,6 +3224,12 @@ kya tu ne nahi dekha ke, Allah asmaano ki aur zameen ki har cheez se waaqif hai,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے انسان!) کیا تجھے معلوم نہیں کہ اللہ اُن سب چیزوں کو جانتا ہے جو آسمانوں میں ہیں اور جو زمین میں ہیں، کہیں بھی تین (آدمیوں) کی کوئی سرگوشی نہیں ہوتی مگر یہ کہ وہ (اللہ اپنے محیط علم و آگہی کے ساتھ) اُن کا چوتھا ہوتا ہے اور نہ ہی کوئی پانچ (آدمیوں) کی سرگوشی ہوتی ہے مگر وہ (اپنے علمِ محیط کے ساتھ) اُن کا چھٹا ہوتا ہے، اور نہ اس سے کم (لوگوں) کی اور نہ زیادہ کی مگر وہ (ہمیشہ) اُن کے ساتھ ہوتا ہے جہاں کہیں بھی وہ ہوتے ہیں، پھر وہ قیامت کے دن انہیں اُن کاموں سے خبردار کر دے گا جو وہ کرتے رہے تھے، بیشک اللہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ آسمانوں اور زمین میں جو کچھ ہے اللہ اسے جانتا ہے ؟ کبھی تین آدمیوں میں کوئی سرگوشی ایسی نہیں ہوتی جس میں چوتھا وہ نہ ہو، اور نہ پانچ آدمیوں کی کوئی سرگوشی ایسی ہوتی ہے جس میں چھٹا وہ نہ ہو، اور چاہے سرگوشی کرنے والے اس سے کم ہوں یا زیادہ، وہ جہاں بھی ہوں، اللہ ان کے ساتھ ہوتا ہے۔ پھر وہ قیامت کے دن انہیں بتائے گا کہ انہوں نے کیا کچھ کیا تھا۔ بیشک اللہ ہر چیز کو جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

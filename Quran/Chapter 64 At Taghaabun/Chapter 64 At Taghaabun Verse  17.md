@@ -3224,6 +3224,12 @@ agar tum Allah ko accha qarz do ge (yaani us ki raah mein qarch karoge) to wo os
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تم اللہ کو (اخلاص اور نیک نیتی سے) اچھا قرض دوگے تو وہ اسے تمہارے لئے کئی گنا بڑھا دے گا اور تمہیں بخش دے گا، اور اللہ بڑا قدر شناس ہے بُردبار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم اللہ کو اچھی طرح قرض دو گے تو اللہ تمہارے لیے اس کو کئی گنا بڑھا دے گا، اور تمہارے گناہ بخش دے گا، اور اللہ بڑا قدردان، بہت بردبار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un se kiye hoye waado mein se koi agar hum aap ko dikhaade ya aap ko hum fauth k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم (اس عذاب کا) کچھ حصہ جس کا ہم نے ان (کافروں) سے وعدہ کیا ہے آپ کو (حیاتِ ظاہری میں ہی) دکھا دیں یا ہم آپ کو (اس سے قبل) اٹھا لیں (یہ دونوں چیزیں ہماری مرضی پر منحصر ہیں) آپ پر تو صرف (احکام کے) پہنچا دینے کی ذمہ داری ہے اور حساب لینا ہمارا کام ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس بات کی دھمکی ہم ان (کافروں) کو دیتے ہیں، چاہے اس کا کوئی حصہ ہم تمہیں (تمہاری زندگی ہی میں) دکھا دیں، یا (اس سے پہلے ہی) تمہیں دنیا سے اٹھالیں۔ بہرحال تمہارے ذمے تو صرف پیغام پہنچا دینا ہے، اور حساب لینے کی ذمہ داری ہماری ہے۔ ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

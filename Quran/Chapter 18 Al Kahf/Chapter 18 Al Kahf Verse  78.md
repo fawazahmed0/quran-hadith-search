@@ -3224,6 +3224,12 @@ us ne kaha bas ye judaayi hai mere aur tere darmiyaan, ab main tujhe un baatho k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(خضرعلیہ السلام نے) کہا: یہ میرے اور آپ کے درمیان جدائی (کا وقت) ہے، اب میں آپ کو ان باتوں کی حقیقت سے آگاہ کئے دیتا ہوں جن پر آپ صبر نہیں کر سکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : لیجیے میرے اور آپ کے درمیان جدائی کا وقت آگیا۔ اب میں آپ کو ان باتوں کا مقصد بتائے دیتا ہوں جن پر آپ سے صبر نہیں ہوسکا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas aap apna rukh us sacche aur sidhe deen ki taraf hee rakhe, qabl us ke, ke wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ اپنا رُخِ (انور) سیدھے دین کے لئے قائم رکھیئے قبل اس کے کہ وہ دن آجائے جسے اللہ کی طرف سے (قطعاً) نہیں پھرنا ہے۔ اس دن سب لوگ جدا جدا ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا تم اپنا رخ صحیح دین کی طرف قائم رکھو، قبل اس کے کہ وہ دن آئے جس کے ٹلنے کا اللہ کی طرف سے کوئی امکان نہیں ہے۔ اس دن لوگ الگ الگ ہوجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jis ki (asmaano mein) ita’ath ki jaati hai, ameen hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(تمام جہانوں کے لئے) واجب الاطاعت ہیں (کیونکہ ان کی اطاعت ہی اللہ کی اطاعت ہے)، امانت دار ہیں (وحی اور زمین و آسمان کے سب اُلوہی رازوں کے حامل ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہاں اس کی بات مانی جاتی ہے۔ وہ امانت دار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

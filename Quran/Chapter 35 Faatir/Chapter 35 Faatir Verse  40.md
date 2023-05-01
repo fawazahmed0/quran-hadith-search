@@ -3224,6 +3224,12 @@ aap kahiye! ke tum apne qaraar daath shariko ka haal to batlaao, jin ko tum Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کیا تم نے اپنے شریکوں کو دیکھا ہے جنہیں تم اللہ کے سوا پوجتے ہو، مجھے دکھا دو کہ انہوں نے زمین سے کیا چیز پیدا کی ہے یا آسمانوں (کی تخلیق) میں ان کی کوئی شراکت ہے، یا ہم نے انہیں کوئی کتاب عطا کر رکھی ہے کہ وہ اس کی دلیل پر قائم ہیں؟ (کچھ بھی نہیں ہے) بلکہ ظالم لوگ ایک دوسرے سے فریب کے سوا کوئی وعدہ نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ان سے کہو کہ : بھلا بتاؤ تم اللہ کو چھوڑ کر اپنے جن من گھڑت شریکوں کو پوجا کرتے ہو، ذرا مجھے دکھاؤ کہ انہوں نے زمین کا کونسا حصہ پیدا کیا ہے ؟ یا آسمانوں (کی پیدائش میں) ان کی کونسی شرکت ہے ؟ یا پھر ہم نے انہیں کوئی کتاب دے رکھی ہے جس کی کسی واضح ہدایت پر یہ لوگ قائم ہیں ؟ نہیں، بلکہ یہ ظالم لوگ ایک دوسرے کو خالص دھوکے کی یقین دہانی کرتے آئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

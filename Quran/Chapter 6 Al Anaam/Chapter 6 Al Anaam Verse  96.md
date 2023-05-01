@@ -3224,6 +3224,12 @@ wo subah ka nikaalne waala hai aur us ne raath ko raahath ki cheez banaaya aur s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہی) صبح (کی روشنی) کو رات کا اندھیرا چاک کر کے نکالنے والاہے، اور اسی نے رات کو آرام کے لئے بنایا ہے اور سورج اور چاند کوحساب و شمار کے لئے، یہ بہت غالب بڑے علم والے (ربّ) کا مقررہ اندازہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس کے حکم سے صبح کو پو پھٹتی ہے، اور اسی نے رات کو سکون کا وقت بنایا ہے، اور سورج اور چاند کو ایک حساب کا پابند ! یہ سب کچھ اس ذات کی منصوبہ بندی ہے جس کا اقتدار بھی کامل ہے، علم بھی کامل
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

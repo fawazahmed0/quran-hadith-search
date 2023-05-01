@@ -3224,6 +3224,12 @@ pas tum bo-dhe ban kar sulaah ki darqaast par na utar aao, jab ke tum hee buland
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مومنو!) پس تم ہمت نہ ہارو اور ان (متحارب کافروں) سے صلح کی درخواست نہ کرو (کہیں تمہاری کمزوری ظاہر نہ ہو)، اور تم ہی غالب رہو گے، اور اللہ تمہارے ساتھ ہے اور وہ تمہارے اعمال (کا ثواب) ہرگز کم نہ کرے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے مسلمانو) تم کمزور پڑ کر صلح کی دعوت نہ دو ۔ تم ہی سربلند رہو گے، اللہ تمہارے ساتھ ہے، اور وہ تمہارے اعمال کو ہرگز برباد نہیں کرے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ sivaaye un logo ke, jo imaan laaye aur nek amal kiye aur (jinhone) aapas mein ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے ان لوگوں کے جو ایمان لے آئے اور نیک عمل کرتے رہے اور (معاشرے میں) ایک دوسرے کو حق کی تلقین کرتے رہے اور (تبلیغِ حق کے نتیجے میں پیش آمدہ مصائب و آلام میں) باہم صبر کی تاکید کرتے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سوائے ان لوگوں کے جو ایمان لائیں اور نیک عمل کریں اور ایک دوسرے کو حق بات کی نصیحت کریں، اور ایک دوسرے کو صبر کی نصیحت کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

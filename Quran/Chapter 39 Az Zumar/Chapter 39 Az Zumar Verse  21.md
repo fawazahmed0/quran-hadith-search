@@ -3224,6 +3224,12 @@ kya aap ne nahi dekha ke Allah ta’ala asmaan se paani utaarta hai aur ose zame
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے انسان!) کیا تو نے نہیں دیکھا کہ اللہ نے آسمان سے پانی برسایا، پھر زمین میں اس کے چشمے رواں کیے، پھر اس کے ذریعے کھیتی پیدا کرتا ہے جس کے رنگ جداگانہ ہوتے ہیں، پھر وہ (تیار ہوکر) خشک ہو جاتی ہے، پھر (پکنے کے بعد) تو اسے زرد دیکھتا ہے، پھر وہ اسے چورا چورا کر دیتا ہے، بے شک اس میں عقل والوں کے لئے نصیحت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ اللہ نے آسمان سے پانی اتارا، پھر اسے زمین کے سوتوں میں پرو دیا ؟ پھر وہ اس پانی سے ایسی کھیتیاں وجود میں لاتا ہے جن کے رنگ مختلف ہیں، پھر وہ کھیتیاں سو کھ جاتی ہیں تو تم انہیں دیکھتے ہو کہ پیلی پڑگئی ہیں، پھر وہ انہیں چورا چورا کردیتا ہے۔ یقینا ان باتوں میں ان لوگوں کے لیے بڑا سبق ہے جو عقل رکھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum baghair tere rab ke hukm ke utar nahi sakte, hamaare aage piche aur un ke da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (جبرائیل میرے حبیب صلی اللہ علیہ وآلہ وسلم سے کہو کہ) ہم آپ کے رب کے حکم کے بغیر (زمین پر) نہیں اتر سکتے، جو کچھ ہمارے آگے ہے اور جو کچھ ہمارے پیچھے ہے اور جو کچھ اس کے درمیان ہے (سب) اسی کا ہے، اور آپ کا رب (آپ کو) کبھی بھی بھولنے والا نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (فرشتے تم سے یہ کہتے ہیں کہ) ہم آپ کے رب کے حکم کے بغیر اتر کر نہیں آتے۔ جو کچھ ہمارے آگے ہے اور جو کچھ ہمارے پیچھے ہے اور جو کچھ ان کے درمیان ہے، وہ سب اسی کی ملکیت ہے۔ اور تمہارا رب ایسا نہیں ہے جو بھول جایا کرے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

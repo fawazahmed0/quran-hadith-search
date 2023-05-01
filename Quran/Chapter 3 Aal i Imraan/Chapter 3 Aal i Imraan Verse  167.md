@@ -3224,6 +3224,12 @@ aur munafiqo ko bhi maaloom kare jin se kaha gaya ke aao Allah ki raah mein jiha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ایسے لوگوں کی بھی پہچان کرا دے جو منافق ہیں اور جب ان سے کہا گیا کہ آؤ اللہ کی راہ میں جنگ کرو یا (وضاحتاً کہا گیا کہ دشمن کے حملے کا) دفاع کرو تو کہنے لگے اگر ہم جانتے کہ (واقعتا) لڑائی ہوگی (یا ہم اسے اللہ کی راہ میں جنگ جانتے) تو ضرور تمہاری پیروی کرتے، اس دن وہ (ظاہری) ایمان کی نسبت کھلے کفر سے زیادہ قریب تھے، وہ اپنے منہ سے وہ باتیں کہتے ہیں جو ان کے دلوں میں نہیں ہیں، اور اللہ (ان باتوں) کو خوب جانتا ہے جو وہ چھپا رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور منافقین کو بھی دیکھ لے، اور ان (منافقوں) سے کہا گیا تھا کہ آؤ اللہ کے راستے میں جنگ کرو یاد فاع کرو، تو انہوں نے کہا تھا کہ : اگر ہم دیکھتے کہ (جنگ کی طرح) جنگ ہوگی تو ہم ضرور آپ کے پیچھے چلتے۔ اس دن (جب وہ یہ بات کہہ رہے تھے) وہ ایمان کی بہ نسبت کفر سے زیادہ قریب تھے۔ وہ اپنے منہ سے وہ بات کہتے ہیں جو ان کے دلوں میں نہیں ہوتی اور جو کچھ یہ چھپاتے ہیں اللہ اسے خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

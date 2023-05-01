@@ -3224,6 +3224,12 @@ insaan (ka ye haal hai ke) jab ose us ka rab azmaata hai, aur izzath wa nemath d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر انسان (ایسا ہے) کہ جب اس کا رب اسے (راحت و آسائش دے کر) آزماتا ہے اور اسے عزت سے نوازتا ہے اور اسے نعمتیں بخشتا ہے تو وہ کہتا ہے: میرے رب نے مجھ پر کرم فرمایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن انسان کا حال یہ ہے کہ جب اس کا پروردگار اسے آزماتا ہے اور انعام و اکرام سے نوازتا ہے تو وہ کہتا ہے کہ : میرے پروردگار نے میری عزت کی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

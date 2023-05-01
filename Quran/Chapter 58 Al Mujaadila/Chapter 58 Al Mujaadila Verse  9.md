@@ -3224,6 +3224,12 @@ aye imaan waalo! tum jab sargooshi karo to ye sargoshiya gunaah aur zulm (zyaada
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جب تم آپس میں سرگوشی کرو تو گناہ اور ظلم و سرکشی اور نافرمانئ رسالت مآب (صلی اللہ علیہ وآلہ وسلم) کی سرگوشی نہ کیا کرو اور نیکی اور پرہیزگاری کی بات ایک دوسرے کے کان میں کہہ لیا کرو، اور اللہ سے ڈرتے رہو جس کی طرف تم سب جمع کئے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جب تم آپس میں ایک دوسرے سے سرگوشی کرو تو ایسی سرگوشی نہ کرو جو گناہ، زیادتی اور رسول کی نافرمانی پر مشتمل ہو، ہاں ایسی سرگوشی کرو جو نیک کاموں اور تقوی پر مشتمل ہو، اور اللہ سے ڈرتے رہو، جس کے پاس تم سب کو جمع کر کے لے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

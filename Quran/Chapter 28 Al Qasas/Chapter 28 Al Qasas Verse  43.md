@@ -3224,6 +3224,12 @@ aur un ke agle zamaane waalo ko halaak karne ke baadh, hum ne Mosa(alaihissalaam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے اس (صورتِ حال) کے بعد کہ ہم پہلی (نافرمان) قوموں کو ہلاک کر چکے تھے موسٰی (علیہ السلام) کو کتاب عطا کی جو لوگوں کے لئے (خزانۂ) بصیرت اور ہدایت و رحمت تھی، تاکہ وہ نصیحت قبول کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے پچھلی امتوں کو ہلاک کرنے کے بعد موسیٰ کو ایسی کتاب دی تھی جو لوگوں کے لیے بصیرت کی باتوں پر مشتمل اور سراپا ہدایت و رحمت تھی، تاکہ وہ نصیحت حاصل کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

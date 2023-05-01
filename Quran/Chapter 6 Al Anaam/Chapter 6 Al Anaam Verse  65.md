@@ -3224,6 +3224,12 @@ aap kahiye ke is par bhi wahi qaadir hai ke tum par koyi azaab tumhaare upar se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: وہ اس پر قادر ہے کہ تم پر عذاب بھیجے (خواہ) تمہارے اوپر کی طرف سے یا تمہارے پاؤں کے نیچے سے یا تمہیں فرقہ فرقہ کر کے آپس میں بھڑائے اور تم میں سے بعض کو بعض کی لڑائی کا مزہ چکھا دے۔ دیکھئے! ہم کس کس طرح آیتیں بیان کرتے ہیں تاکہ یہ (لوگ) سمجھ سکیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : وہ اس بات پر پوری طرح قدرت رکھتا ہے کہ تم پر کوئی عذاب تمہارے اوپر سے بھیج دے یا تمہارے پاؤں کے نیچے سے (نکال دے) یا تمہیں مختلف ٹولیوں میں بانٹ کر ایک دوسرے سے بھڑا دے، اور ایک دوسرے کی طاقت کا مزہ چکھا دے۔ دیکھو ! ہم کس طرح مختلف طریقوں سے اپنی نشانیاں واضح کر رہے ہیں تاکہ یہ کچھ سمجھ سے کام لے لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

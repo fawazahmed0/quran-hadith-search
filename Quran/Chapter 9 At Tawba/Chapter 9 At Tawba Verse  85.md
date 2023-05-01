@@ -3224,6 +3224,12 @@ aap ko un ke maal wa aulad kuch bhi bhale na lage! Allah ki chahath yahi hai ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے مال اور ان کی اولاد آپ کو تعجب میں نہ ڈالیں۔ اللہ فقط یہ چاہتا ہے کہ ان چیزوں کے ذریعے انہیں دنیا میں (بھی) عذاب دے اور ان کی جانیں اس حال میں نکلیں کہ وہ کافر (ہی) ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہیں ان کے مال اور اولاد (کی کثرت) سے تعجب نہیں ہونا چاہیے۔ اللہ تو یہ چاہتا ہے کہ انہی چیزوں سے ان کو دنیا میں عذاب دے، اور ان کی جان بھی کفر ہی کی حالت میں نکلے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

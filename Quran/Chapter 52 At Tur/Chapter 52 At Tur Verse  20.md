@@ -3224,6 +3224,12 @@ baraabar biche hoye shaandaar taqte par takye lagaaye hoye, aur hum ne un ke nik
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ صف در صف بچھے ہوئے تختوں پر تکیے لگائے (بیٹھے) ہوں گے، اور ہم گوری رنگت (اور) دلکش آنکھوں والی حوروں کو اُن کی زوجیت میں دے دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ایک قطار میں لگی ہوئی اونچی نشستوں پر تکیہ لگائے ہوئے ہوں گے، اور ہم بڑی بڑی آنکھوں والی حوروں سے ان کا بیاہ کردیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

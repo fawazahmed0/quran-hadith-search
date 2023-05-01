@@ -3224,6 +3224,12 @@ Allah ta’ala ne kaafiro ke liye Nuh ki aur Looth ki biwi ki misaal bayaan farm
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے اُن لوگوں کے لئے جنہوں نے کفر کیا ہے نوح (علیہ السلام) کی عورت (واعلہ) اور لوط (علیہ السلام) کی عورت (واہلہ) کی مثال بیان فرمائی ہے، وہ دونوں ہمارے بندوں میں سے دو صالح بندوں کے نکاح میں تھیں، سو دونوں نے اُن سے خیانت کی پس وہ اللہ (کے عذاب) کے سامنے اُن کے کچھ کام نہ آئے اور اُن سے کہہ دیا گیا کہ تم دونوں (عورتیں) داخل ہونے والوں کے ساتھ دوزخ میں داخل ہو جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اختیار کیا ہے، اللہ ان کے لیے نوح کی بیوی اور لوط کی بیوی کو مثال کے طور پر پیش کرتا ہے۔ یہ دونوں ہمارے دو ایسے بندوں کے نکاح میں تھیں جو بہت نیک تھے۔ پھر انہوں نے ان کے ساتھ بےوفائی کی، تو وہ دونوں اللہ کے مقابلے میں ان کے کچھ بھی کام نہیں آئے اور (ان بیویوں سے) کہا گیا کہ : دوسرے جانے والوں کے ساتھ تم بھی جہنم میں چلی جاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yaqeen jaano ke ye log apne rab ke rubaro jaane se shak mein hai, yaad rakho ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جان لو کہ وہ لوگ اپنے رب کے حضور پیشی کی نسبت شک میں ہیں، خبردار! وہی (اپنے علم و قدرت سے) ہر چیز کا احاطہ فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد رکھو کہ یہ لوگ اپنے رب کا سامنا کرنے کے معاملے میں شک میں پڑے ہوئے ہیں۔ یاد رکھو کہ وہ ہر چیز کو احاطے میں لیے ہوئے ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas aap logo ko osi taraf bulaate rahe aur jo kuch aap se kaha gaya hai, us par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ اسی (دین) کے لئے دعوت دیتے رہیں اور جیسے آپ کو حکم دیا گیا ہے (اسی پر) قائم رہئے اور اُن کی خواہشات پر کان نہ دھریئے، اور (یہ) فرما دیجئے: جو کتاب بھی اللہ نے اتاری ہے میں اُس پر ایمان رکھتا ہوں، اور مجھے حکم دیا گیا ہے کہ میں تمہارے درمیان عدل و انصاف کروں۔ اللہ ہمارا (بھی) رب ہے اور تمہارا (بھی) رب ہے، ہمارے لئے ہمارے اعمال ہیں اور تمہارے لئے تمہارے اعمال، ہمارے اور تمہارے درمیان کوئی بحث و تکرار نہیں، اللہ ہم سب کو جمع فرمائے گا اور اسی کی طرف (سب کا) پلٹنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) تم اسی بات کی طرف لوگوں کو دعوت دیتے رہو اور جس طرح تمہیں حکم دیا گیا ہے، (اسی دین پر) جمے رہو، اور ان لوگوں کی خواہشات کے پیچھے نہ چلو، اور کہہ دو کہ : میں تو اس کتاب پر ایمان لایا ہوں جو اللہ نے نازل کی ہے، اور مجھے حکم دیا گیا ہے کہ میں تمہارے درمیان انصاف کروں۔ اللہ ہمارا بھی رب ہے اور تمہارا بھی رب۔ ہمارے اعمال ہمارے لیے ہیں اور تمہارے اعمال تمہارے لیے۔ ہمارے اور تمہارے درمیان (اب) کوئی بحث نہیں۔ اللہ ہم سب کو جمع کرے گا، اور اسی کے پاس آخر سب کو لوٹنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

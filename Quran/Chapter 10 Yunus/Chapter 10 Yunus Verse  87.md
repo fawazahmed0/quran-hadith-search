@@ -3224,6 +3224,12 @@ aur hum ne moosa(alaihissalaam) aur un ke bhai ke paas wahi bheji ke tum duno ap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے موسٰی (علیہ السلام) اور ان کے بھائی کی طرف وحی بھیجی کہ تم دونوں مصر (کے شہر) میں اپنی قوم کے لئے چند مکانات تیار کرو اور اپنے (ان) گھروں کو (نماز کی ادائیگی کے لئے) قبلہ رخ بناؤ اور (پھر) نماز قائم کرو، اور ایمان والوں کو (فتح و نصرت کی) خوشخبری سنا دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ اور ان کے بھائی پر وحی بھیجی کہ : تم دونوں اپنی قوم کو مصر ہی کے گھروں میں بساؤ، اور اپنے گھروں کو نماز کی جگہ بنا لو۔ اور (اس طرح) نماز قائم کرو اور ایمان لانے والوں کو خوشخبری دے دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

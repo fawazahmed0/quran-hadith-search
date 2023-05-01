@@ -3224,6 +3224,12 @@ yahod kehte hai uzair Allah ka beta hai,aur nasrani kehte hai masih Allah ka bet
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہود نے کہا: عزیر (علیہ السلام) اللہ کے بیٹے ہیں اور نصارٰی نے کہا: مسیح (علیہ السلام) اللہ کے بیٹے ہیں۔ یہ ان کا (لغو) قول ہے جو اپنے مونہہ سے نکالتے ہیں۔ یہ ان لوگوں کے قول سے مشابہت (اختیار) کرتے ہیں جو (ان سے) پہلے کفر کر چکے ہیں، اللہ انہیں ہلاک کرے یہ کہاں بہکے پھرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہودی تو یہ کہتے ہیں کہ عزیر اللہ کے بیٹے ہیں، اور نصرانی یہ کہتے ہیں کہ مسیح اللہ کے بیٹے ہیں، یہ سب ان کی منہ کی بنائی ہوئی باتیں ہیں۔ یہ ان لوگوں کی سی باتیں کر رہے ہیں جو ان سے پہلے کافر ہوچکے ہیں۔ اللہ کی مار ہو ان پر ! یہ کہاں اوندھے بہکے جارہے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

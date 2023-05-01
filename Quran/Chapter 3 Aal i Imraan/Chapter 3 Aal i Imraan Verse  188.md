@@ -3224,6 +3224,12 @@ wo log jo apne kartuto par khush hai aur chaahte hai ke jo unhone nahi kiya us p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ ایسے لوگوں کو ہرگز (نجات پانے والا) خیال نہ کریں جو اپنی کارستانیوں پر خوش ہو رہے ہیں اور ناکردہ اعمال پر بھی اپنی تعریف کے خواہش مند ہیں، (دوبارہ تاکید کے لئے فرمایا:) پس آپ انہیں ہرگز عذاب سے نجات پانے والا نہ سمجھیں، اور ان کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ہرگز نہ سمجھنا کہ جو لوگ اپنے کئے پر بڑے خوش ہیں، اور چاہتے ہیں کہ ان کی تعریف ان کاموں پر بھی کی جائے جو انہوں نے کئے ہی نہیں، ایسے لوگوں کے بارے میں ہرگز یہ نہ سمجھنا کہ وہ عذاب سے بچنے میں کامیاب ہوجائیں گے۔ ان کے لیے دردناک سزا (تیار) ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur wahi hai jo ba-raane rehmath2 se pehle khush qabri dene waali hawaao ko bhej
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جو اپنی رحمت (کی بارش) سے پہلے ہواؤں کو خوشخبری بنا کر بھیجتا ہے، اور ہم ہی آسمان سے پاک (صاف کرنے والا) پانی اتارتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جس نے اپنی رحمت (یعنی بارش) سے پہلے ہوائیں بھیجیں جو (بارش کی) خوشخبری لے کر آتی ہیں، اور ہم نے ہی آسمان سے پاکیزہ پانی اتارا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye paighambar jab musalmaan aurte aap se un baatho par baith karne aaye, ke wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبی! جب آپ کی خدمت میں مومن عورتیں اس بات پر بیعت کرنے کے لئے حاضر ہوں کہ وہ اللہ کے ساتھ کسی چیز کو شریک نہیں ٹھہرائیں گی اور چوری نہیں کریں گی اور بدکاری نہیں کریں گی اور اپنی اولاد کو قتل نہیں کریں گی اور اپنے ہاتھوں اور پاؤں کے درمیان سے کوئی جھوٹا بہتان گھڑ کر نہیں لائیں گی (یعنی اپنے شوہر کو دھوکہ دیتے ہوئے کسی غیر کے بچے کو اپنے پیٹ سے جنا ہوا نہیں بتائیں گی) اور (کسی بھی) امرِ شریعت میں آپ کی نافرمانی نہیں کریں گی، تو آپ اُن سے بیعت لے لیا کریں اور اُن کے لئے اللہ سے بخشش طلب فرمائیں، بیشک اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! جب تمہارے پاس مسلمان عورتیں اس بات پر بیعت کرنے کے لیے آئیں کہ وہ اللہ کے ساتھ کسی بھی چیز کو شریک نہیں مانیں گی، اور چوری نہیں کریں گی، اور زنا نہیں کریں گی، اور اپنی اولاد کو قتل نہیں کریں گی، اور نہ کوئی ایسا بہتان باندھیں گی جو انہوں نے اپنے ہاتھوں اور پاؤں کے درمیان گھڑ لیا ہو، اور نہ کسی بھلے کام میں تمہاری نافرمانی کریں گی، تو تم ان کو بیعت کرلیا کرو، اور ان کے حق میں اللہ سے مغفرت کی دعا کیا کرو، یقینا اللہ بہت بخشنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

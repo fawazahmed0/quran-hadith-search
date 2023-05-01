@@ -3224,6 +3224,12 @@ balke mein behtar hoon ba nisbath us ke jo be-tauqeer1 hai aur saaf bol bhi nahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا (یہ حقیقت نہیں کہ) میں اِس شخص سے بہتر ہوں جو حقیر و بے وقعت ہے اور صاف طریقے سے گفتگو بھی نہیں کر سکتا؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا پھر مانو کہ میں اس شخص سے کہیں بہتر ہوں جو بڑا حقیر قسم کا ہے، اور اپنی بات کھل کر کہنا بھی اس کے لیے مشکل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

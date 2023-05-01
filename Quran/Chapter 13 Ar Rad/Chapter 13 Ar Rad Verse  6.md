@@ -3224,6 +3224,12 @@ aur jo tujh se (sazaa ki talbi mein) jaldi kar rahe hai raahath se pehle hee yaq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ لوگ رحمت سے پہلے آپ سے عذاب طلب کرنے میں جلدی کرتے ہیں، حالانکہ ان سے پہلے کئی عذاب گزر چکے ہیں، اور (اے حبیب!) بیشک آپ کا رب لوگوں کے لئے ان کے ظلم کے باوجود بخشش والا ہے اور یقیناً آپ کا رب سخت عذاب دینے والا (بھی) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ خوشحالی (کی میعاد ختم ہونے) سے پہلے تم سے بدحالی کی جلدی مچائے ہوئے ہیں حالانکہ ان سے پہلے ایسے عذاب کے واقعات گزر چکے ہیں جس نے لوگوں کو رسوا کر ڈالا تھا۔ اور یہ حقیقت ہے کہ لوگوں کے لیے ان کی زیادتی کے باوجود تمہارے رب کی ذات ایک معاف کرنے والی ذات ہے، اور یہ بھی حقیقت ہے کہ اس کا عذاب بڑا سخت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

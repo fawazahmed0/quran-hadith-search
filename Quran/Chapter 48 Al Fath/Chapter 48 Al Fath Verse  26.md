@@ -3224,6 +3224,12 @@ jab ke un kaafiro ne apne dilo mein hamiyyath ko jageh di aur hamiyyath1 bhi jah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب کافر لوگوں نے اپنے دلوں میں متکبّرانہ ہٹ دھرمی رکھ لی (جو کہ) جاہلیت کی ضِد اور غیرت (تھی) تو اللہ نے اپنے رسول (صلی اللہ علیہ وآلہ وسلم) اور مومنوں پر اپنی خاص تسکین نازل فرمائی اور انہیں کلمہء تقوٰی پر مستحکم فرما دیا اور وہ اسی کے زیادہ مستحق تھے اور اس کے اہل (بھی) تھے، اور اللہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (چنانچہ) جب ان کافروں نے اپنے دلوں میں اس حمیت کو جگہ دی جو جاہلیت کی حمیت تھی تو اللہ نے اپنی طرف سے اپنے پیغمبر اور مسلمانوں پر سکینت نازل فرمائی۔ اور ان کو تقوی کی بات پر جمائے رکھا، اور وہ اسی کے زیادہ حق دار اور اس کے اہل تھے اور اللہ ہر چیز کو خوب جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

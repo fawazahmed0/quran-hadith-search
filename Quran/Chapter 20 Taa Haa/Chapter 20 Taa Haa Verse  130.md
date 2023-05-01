@@ -3224,6 +3224,12 @@ pas un ki baatho par sabr kar aur apne parvardigaar ki tasbih aur tareef bayaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ ان کی (دل آزار) باتوں پر صبر فرمایا کریں اور اپنے رب کی حمد کے ساتھ تسبیح کیا کریں طلوعِ آفتاب سے پہلے (نمازِ فجر میں) اور اس کے غروب سے قبل (نمازِ عصر میں)، اور رات کی ابتدائی ساعتوں میں (یعنی مغرب اور عشاء میں) بھی تسبیح کیا کریں اور دن کے کناروں پر بھی (نمازِ ظہر میں جب دن کا نصفِ اوّل ختم اور نصفِ ثانی شروع ہوتا ہے، (اے حبیبِ مکرّم! یہ سب کچھ اس لئے ہے) تاکہ آپ راضی ہو جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) یہ لوگ جو باتیں کرتے ہیں، تم ان پر صبر کرو، اور سورج نکلنے سے پہلے اور اس کے غروب سے پہلے اپنے رب کی تسبیح اور حمد کرتے رہو، اور رات کے اوقات میں بھی تسبیح کرو، اور دن کے کناروں میں بھی، تاکہ تم خوش ہوجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

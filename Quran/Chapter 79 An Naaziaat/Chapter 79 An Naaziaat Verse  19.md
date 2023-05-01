@@ -3224,6 +3224,12 @@ aur ye ke main tujhe tere rab ki raah dikhaao, ta ke tu (us se) darne lage
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (کیا تو چاہتا ہے کہ) میں تیرے رب کی طرف تیری رہنمائی کروں تاکہ تو (اس سے) ڈرنے لگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ میں تمہیں تمہارے پروردگار کا راستہ دکھاؤں تو تمہارے دل میں خوف پیدا ہوجائے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

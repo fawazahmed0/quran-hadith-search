@@ -3224,6 +3224,12 @@ phir to un ka yahi qaul raha, yahaan tak ke hum ne unhe jad se kati hoyi kheti a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو ہمیشہ ان کی یہی فریاد رہی یہاں تک کہ ہم نے ان کو کٹی ہوئی کھیتی (اور) بجھی ہوئی آگ (کے ڈھیر) کی طرح بنا دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی یہی پکار جارہی رہی یہاں تک کہ ہم نے ان کو ایک کٹی ہوئی کھیتی، ایک بجھی ہوئی آگ بنا کر رکھ دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

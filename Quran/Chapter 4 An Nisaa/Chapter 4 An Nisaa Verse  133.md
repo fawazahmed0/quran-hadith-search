@@ -3224,6 +3224,12 @@ agar ose manzoor ho to aye logo wo tum sab ko le jaaye aur dosro ko le aaye, All
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! اگر وہ چاہے تو تمہیں نابود کر دے اور (تمہاری جگہ) دوسروں کو لے آئے، اور اللہ اس پر بڑی قدرت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر وہ چاہے تو اے لوگو ! تم سب کو (دنیا سے) لے جائے اور دوسروں کو (تمہاری جگہ یہاں) لے آئے، اللہ اس بات کی پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ us waqt Shoib (alaihissalaam) un se mu mod kar chale aur farmaane lage ke aye me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ وہ (یعنی شعیب (علیہ السلام)) ان سے منہ موڑ کر چل دیے، اور کہنے لگے : اے قوم ! میں نے تجھے اپنے رب کے پیغامات پہنچا دیے تھے، اور تیرا بھلا چاہا تھا۔ (مگر) اب میں اس قوم پر کیا افسوس کروں جو ناشکری تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

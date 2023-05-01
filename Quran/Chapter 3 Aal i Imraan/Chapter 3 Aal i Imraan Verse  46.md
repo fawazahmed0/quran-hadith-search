@@ -3224,6 +3224,12 @@ wo logo se apne gehwaare13 mein baatein karega aur adhed umar14 mein bhi aur wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ لوگوں سے گہوارے میں اور پختہ عمر میں (یکساں) گفتگو کرے گا اور وہ (اللہ کے) نیکوکار بندوں میں سے ہو گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ گہوارے میں بھی لوگوں سے بات کرے گا اور بڑی عمر میں بھی، اور راست باز لوگوں میں سے ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

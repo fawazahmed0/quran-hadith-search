@@ -3224,6 +3224,12 @@ pus ose us ke nafs ne apne bhai ke qatl par amada kar diya aur us ne ose qatl ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اس (قابیل) کے نفس نے اس کے لئے اپنے بھائی (ہابیل) کا قتل آسان (اور مرغوب) کر دکھایا، سو اس نے اس کو قتل کردیا، پس وہ نقصان اٹھانے والوں میں سے ہوگیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آخر کار اس کے نفس نے اس کو اپنے بھائی کے قتل پر آمادہ کرلیا، چنانچہ اس نے اپنے بھائی کو قتل کر ڈالا، اور نامرادوں میں شامل ہوگیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

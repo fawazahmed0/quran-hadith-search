@@ -3224,6 +3224,12 @@ wahi Allah hai jis ne raath aur din aur suraj aur chaandh ko paida kiya hai, un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی (اللہ) ہے جس نے رات اور دن کو پیدا کیا اور سورج اور چاند کو (بھی)، تمام (آسمانی کرّے) اپنے اپنے مدار کے اندر تیزی سے تیرتے چلے جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی (اللہ) ہے جس نے رات اور دن اور سورج اور چاند پیدا کیے، سب کسی نہ کسی مدار میں تیر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yahaan tak ke jab hum ne, un par saqt azaab ka, darwaaza qol diya, to osi waqt f
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ جب ہم ان پر نہایت سخت عذاب کا دروازہ کھول دیں گے (تو) اس وقت وہ اس میں انتہائی حیرت سے ساکت و مایوس (پڑے) رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ جب ہم ان پر سخت عذاب والا دروازہ کھول دیں گے، تو یہ ایک دم اس میں مایوس ہو کر رہ جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

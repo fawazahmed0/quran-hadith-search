@@ -3224,6 +3224,12 @@ to tumhe jo kuch diya gaya hai wo zindagaani dunya ka kuch yo hee sa asbaab hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو تمہیں جو کچھ بھی (مال و متاع) دیا گیا ہے وہ دنیوی زندگی کا (چند روزہ) فائدہ ہے اور جو کچھ اللہ کے پاس ہے وہ بہتر اور پائیدار ہے، (یہ) اُن لوگوں کے لئے ہے جو ایمان لاتے اور اپنے رب پر توکّل کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض تمہیں جو کوئی چیز دی گئی ہے وہ دنیوی زندگی کی پونجی ہے، اور جو کچھ اللہ کے پاس ہے وہ ان لوگوں کے لیے کہیں بہتر اور پائیدار ہے جو ایمان لائے ہیں، اور اپنے پروردگار پر بھروسہ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

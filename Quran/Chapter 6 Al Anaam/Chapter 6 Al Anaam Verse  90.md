@@ -3224,6 +3224,12 @@ yahi log aise thein jin ko Allah ta’ala ne hidaayath ki thi, so aap bhi un hee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہی) وہ لوگ (یعنی پیغمبرانِ خدا) ہیں جنہیں اللہ نے ہدایت فرمائی ہے پس (اے رسولِ آخر الزمان!) آپ ان کے (فضیلت والے سب) طریقوں (کو اپنی سیرت میں جمع کر کے ان) کی پیروی کریں (تاکہ آپ کی ذات میں ان تمام انبیاء و رسل کے فضائل و کمالات یکجا ہوجائیں)، آپ فرما دیجئے: (اے لوگو!) میں تم سے اس (ہدایت کی فراہمی پر کوئی اجرت نہیں مانگتا۔ یہ تو صرف جہان والوں کے لئے نصیحت ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ (جن کا ذکر اوپر ہوا) وہ تھے جن کو اللہ نے (مخالفین کے رویے پر صبر کرنے کی) ہدایت کی تھی، لہذا (اے پیغمبر) تم بھی انہی کے راستے پر چلو۔ (مخالفین سے) کہہ دو کہ میں تم سے اس (دعوت) پر کوئی اجرت نہیں مانگتا۔ یہ تو دنیا جہان کے سب لوگوں کے لیے ایک نصیحت ہے، اور بس۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

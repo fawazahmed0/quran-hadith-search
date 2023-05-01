@@ -3224,6 +3224,12 @@ haan jo log us ke baadh tauba aur islaah karle, to Allah ta’ala baqshne waala 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے ان کے جنہوں نے اس (تہمت لگنے) کے بعد توبہ کر لی اور (اپنی) اصلاح کر لی، تو بیشک اللہ بڑا بخشنے والا نہایت مہربان ہے (ان کا شمار فاسقوں میں نہیں ہوگا مگر اس سے حدِ قذف معاف نہیں ہوگی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں جو لوگ اس کے بعد توبہ کرلیں، اور (اپنی) اصلاح کرلیں، تو اللہ بہت بخشنے والا، بڑا رحم کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

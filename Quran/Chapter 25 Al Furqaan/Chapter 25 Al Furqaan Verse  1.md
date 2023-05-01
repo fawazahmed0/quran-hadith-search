@@ -3224,6 +3224,12 @@ bahuth ba barkath hai wo Allah ta’ala jis ne apne bandhe par furqaan utaara, t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ اللہ) بڑی برکت والا ہے جس نے (حق و باطل میں فرق اور) فیصلہ کرنے والا (قرآن) اپنے (محبوب و مقرّب) بندہ پر نازل فرمایا تاکہ وہ تمام جہانوں کے لئے ڈر سنانے والا ہو جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بڑی شان ہے اس ذات کی جس نے اپنے بندے پر حق و باطل کا فیصلہ کردینے والی یہ کتاب نازل کی، تاکہ وہ دنیا جہان کے لوگوں کو خبردار کردے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur aap dekhenge ke har ummath ghutno ke bal giri hoyi hogi, har gruh apne naame
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ دیکھیں گے (کفّار و منکرین کا) ہر گروہ گھٹنوں کے بل گِرا ہوا بیٹھا ہو گا، ہر فرقے کو اس (کے اعمال) کی کتاب کی طرف بلایا جائے گا، آج تمہیں اُن اعمال کا بدلہ دیا جائے گا جو تم کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم ہر گروہ کو دیکھو گے کہ وہ گھٹنوں کے بل گرا ہوا ہے۔ ہر گروہ کو اس کے اعمال نامے کی طرف بلایا جائے گا، (اور کہا جائے گا کہ) آج تمہیں ان اعمال کا بدلہ دیا جائے گا جو تم کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

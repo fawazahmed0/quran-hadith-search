@@ -3224,6 +3224,12 @@ logo ke saamne apne gaal na phula aur zameen mein itra kar na chal, kisi takabbu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں سے (غرور کے ساتھ) اپنا رخ نہ پھیر، اور زمین پر اکڑ کر مت چل، بیشک اللہ ہر متکبّر، اِترا کر چلنے والے کو ناپسند فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں کے سامنے (غرور سے) اپنے گال مت پھلاؤ، اور زمین پر اتراتے ہوئے مت چلو۔ یقین جانو اللہ کسی اترانے والے شیخی باز کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

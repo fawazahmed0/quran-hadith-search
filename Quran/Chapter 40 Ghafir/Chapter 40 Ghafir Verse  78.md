@@ -3224,6 +3224,12 @@ yaqinan hum aap se pehle bhi bahuth se rasool bhej chuke hai, jin mein se baaz k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بے شک ہم نے آپ سے پہلے بہت سے رسولوں کو بھیجا، ان میں سے بعض کا حال ہم نے آپ پر بیان فرما دیا اور ان میں سے بعض کا حال ہم نے (ابھی تک) آپ پر بیان نہیں فرمایا، اور کسی بھی رسول کے لئے یہ (ممکن) نہ تھا کہ وہ کوئی نشانی بھی اللہ کے اِذن کے بغیر لے آئے، پھر جب اللہ کا حکم آپہنچا (اور) حق و انصاف کے ساتھ فیصلہ کر دیا گیا تو اس وقت اہلِ باطل خسارے میں رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ ہم نے تم سے پہلے بھی بہت سے پیغمبر بھیجے ہیں۔ ان میں سے کچھ وہ ہیں جن کے واقعات ہم نے تمہیں بتا دئیے ہیں اور کچھ وہ ہیں جن کے واقعات ہم نے تمہیں نہیں بتائے اور کسی پیغمبر کو یہ اختیار نہیں ہے کہ وہ اللہ کی اجازت کے بغیر کوئی معجزہ لے آئے پھر جب اللہ کا حکم آئے گا تو سچائی کا فیصلہ ہوجائے گا، اور جو لوگ باطل کی پیروی کر رہے ہیں، وہ اس موقع پر سخت نقصان اٹھائیں گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

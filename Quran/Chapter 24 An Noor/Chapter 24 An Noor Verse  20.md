@@ -3224,6 +3224,12 @@ agar tum par Allah ta’ala ka fazl aur us ki rehmath na hoti aur ye bhi ke Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم پر (اس رسولِ مکرّم صلی اللہ علیہ وآلہ وسلم کے صدقہ میں) اللہ کا فضل اور اس کی رحمت نہ ہوتی تو (تم بھی پہلی امتوں کی طرح تباہ کر دیئے جاتے) مگر اللہ بڑا شفیق بڑا رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر یہ بات نہ ہوتی کہ اللہ کا فضل اور اس کی رحمت تمہارے شامل حال ہے اور اللہ بڑا شفیق بڑا مہربان ہے (تو تم بھی نہ بچتے) ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

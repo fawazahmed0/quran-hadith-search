@@ -3224,6 +3224,12 @@ tum par Allah tala ki jo nemate nazil hoi hai unhe yad rakho, aur us ke us ahad 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کی (اس) نعمت کو یاد کرو جو تم پر (کی گئی) ہے اور اس کے عہد کو (بھی یاد کرو) جو اس نے تم سے (پختہ طریقے سے) لیا تھا جب کہ تم نے (اقراراً) کہا تھا کہ ہم نے (اللہ کے حکم کو) سنا اور ہم نے (اس کی) اطاعت کی اور اللہ سے ڈرتے رہو، بیشک اللہ سینوں کی (پوشیدہ) باتوں کو خوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے تم پر جو انعام فرمایا ہے اسے اور اس عہد کو یاد رکھو جو اس نے تم سے لیا تھا۔ جب تم نے کہا تھا کہ : ہم نے (اللہ کے احکام کو) اچھی طرح سن لیا ہے، اور اطاعت قبول کرلی ہے، اور اللہ سے ڈرتے رہو، اللہ یقینا سینوں کے بھید سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

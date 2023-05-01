@@ -3224,6 +3224,12 @@ wo apne sar upar uthaye daud-bhaag, kar rahe honge, khud apni taraf bhi unki nig
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ لوگ (میدانِ حشر کی طرف) اپنے سر اوپر اٹھائے دوڑتے جا رہے ہوں گے اس حال میں کہ ان کی پلکیں بھی نہ جھپکتی ہوں گی اور ان کے دل سکت سے خالی ہو رہے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دوسروں کو اوپر اٹھائے دوڑ رہے ہوں گے، ان کی نگاہیں جھپکنے کو واپس نہیں آئیں گی اور ان کے دل (بدحواسی میں) اڑے جارہے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye hamaare rab! tu unhe hameshgi waali jannato mein le ja, jin ka tu ne un se w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! اور انہیں (ہمیشہ رہنے کے لئے) جنّاتِ عدن میں داخل فرما، جن کا تُو نے اُن سے وعدہ فرما رکھا ہے اور اُن کے آباء و اجداد سے اور اُن کی بیویوں سے اور اُن کی اولاد و ذرّیت سے جو نیک ہوں (انہیں بھی اُن کے ساتھ داخل فرما)، بے شک تو ہی غالب، بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے پروردگار ! انہیں ہمیشہ رہنے والی جنتوں میں داخل فرما۔ جس کا تو نے ان سے وعدہ کیا ہے۔ نیز ان کے ماں باپ اور بیوی بچوں میں سے جو نیک ہوں، انہیں بھی، یقیناً تیری اور صرف تیری ذات وہ ہے جس کا اقتدار بھی کامل ہے، جس کی حکمت بھی کامل
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

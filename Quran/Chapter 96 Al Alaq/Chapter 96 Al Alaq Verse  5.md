@@ -3224,6 +3224,12 @@ jis ne insaan ko wo sikhaaya jise wo nahi jaanta tha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے انسان کو (اس کے علاوہ بھی) وہ (کچھ) سکھا دیا جو وہ نہیں جانتا تھا۔ یا- جس نے (سب سے بلند رتبہ) انسان (محمد مصطفی صلی اللہ علیہ وآلہ وسلم) کو (بغیر ذریعۂ قلم کے) وہ سارا علم عطا فرما دیا جو وہ پہلے نہ جانتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انسان کو اس بات کی تعلیم دی جو وہ نہیں جانتا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

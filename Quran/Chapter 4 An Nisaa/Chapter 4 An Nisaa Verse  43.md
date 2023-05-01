@@ -3224,6 +3224,12 @@ ae imaan waalo! jab tum nashe mein masth ho, namaaz ke qareeb bhi na jaao, jab t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم نشہ کی حالت میں نماز کے قریب مت جاؤ یہاں تک کہ تم وہ بات سمجھنے لگو جو کہتے ہو اور نہ حالتِ جنابت میں (نماز کے قریب جاؤ) تا آنکہ تم غسل کر لو سوائے اس کے کہ تم سفر میں راستہ طے کر رہے ہو، اور اگر تم بیمار ہو یا سفر میں ہو یا تم میں سے کوئی قضائے حاجت سے لوٹے یا تم نے (اپنی) عورتوں سے مباشرت کی ہو پھر تم پانی نہ پاسکو تو تم پاک مٹی سے تیمم کر لو پس اپنے چہروں اور اپنے ہاتھوں پر مسح کر لیا کرو، بیشک اللہ معاف فرمانے والا بہت بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جب تم نشے کی حالت میں ہو تو اس وقت تک نماز کے قریب بھی نہ جانا جب تک تم جو کچھ کہہ رہے ہو اسے سمجھنے نہ لگو۔ اور جنابت کی حالت میں بھی جب تک غسل نہ کرلو، (نماز جائز نہیں) الا یہ کہ تم مسافر ہو (اور پانی نہ ملے تو تیمم کر کے نماز پڑھ سکتے ہو) اور اگر تم بیمار ہو یا سفر پر ہو یا تم میں سے کوئی قضائے حاجت کی جگہ سے آیا ہو یا تم نے عورتوں کو چھوا ہو، پھر تم کو پانی نہ ملے تو پاک مٹی سے تیمم کرلو، اور اپنے چہروں اور ہاتھوں کا (اس مٹی سے) مسح کرلو۔ بیشک اللہ بڑا معاف کرنے والا بڑا بخشنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

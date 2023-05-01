@@ -3224,6 +3224,12 @@ tu ne apne baagh mein jaate waqt kyo na kaha ke Allah ka chaaha hone wala hai, k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تو اپنے باغ میں داخل ہوا تو تو نے کیوں نہیں کہا: ”ما شاء الله لا قوۃ اِلا بالله“ (وہی ہونا ہے جو اللہ چاہے کسی کو کچھ طاقت نہیں مگر اللہ کی مدد سے)، اگر تو (اِس وقت) مجھے مال و اولاد میں اپنے سے کم تر دیکھتا ہے (تو کیا ہوا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم اپنے باغ میں داخل ہورہے تھے، اس وقت تم نے یہ کیوں نہیں کہا کہ ماشاء اللہ لاقوۃ الا باللہ ! (جو اللہ چاہتا ہے، وہی ہوتا ہے، اللہ کی توفیق کے بغیر کسی میں کوئی طاقت نہیں) ۔ اگر تمہیں یہ نظر آرہا ہے کہ میری دولت اور اولاد تم سے کم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

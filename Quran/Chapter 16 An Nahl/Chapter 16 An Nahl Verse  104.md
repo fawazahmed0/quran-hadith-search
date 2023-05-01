@@ -3224,6 +3224,12 @@ jo log Allah ta’ala ki ayato par imaan nahi rakhte unhe Allah ki taraf se bhi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ اللہ کی آیتوں پر ایمان نہیں لاتے اللہ انہیں ہدایت (یعنی صحیح فہم و بصیرت کی توفیق بھی) نہیں دیتا اور ان کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اللہ کی آیتوں پر ایمان نہیں رکھتے، ان کو اللہ ہدایت پر نہیں لاتا، اور ان کے لیے دردناک عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

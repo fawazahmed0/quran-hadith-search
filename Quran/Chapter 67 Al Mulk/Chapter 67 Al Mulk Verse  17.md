@@ -3224,6 +3224,12 @@ ya kya tum us baath se nidar ho gaye ho ke asmaano waala tum par patthar barsaad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم آسمان والے (رب) سے بے خوف ہو گئے ہو کہ وہ تم پر پتھر برسانے والی ہوا بھیج دے؟ سو تم عنقریب جان لو گے کہ میرا ڈرانا کیسا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا کیا تم آسمان والے کی اس بات سے بےخوف ہو بیٹھے ہو کہ وہ تم پر پتھروں کی بارش برسادے ؟ پھر تمہیں پتہ چلے گا کہ میرا ڈرانا کیسا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

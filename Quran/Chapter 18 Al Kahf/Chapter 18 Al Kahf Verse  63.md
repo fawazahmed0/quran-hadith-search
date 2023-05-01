@@ -3224,6 +3224,12 @@ us ne jawaab diya ke kya aap ne dekha bhi? jab ke hum patthar se tek laga kar ar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(خادم نے) کہا: کیا آپ نے دیکھا جب ہم نے پتھر کے پاس آرام کیا تھا تو میں (وہاں) مچھلی بھول گیا تھا، اور مجھے یہ کسی نے نہیں بھلایا سوائے شیطان کے کہ میں آپ سے اس کا ذکر کروں، اور اس (مچھلی) نے تو (زندہ ہوکر) دریا میں عجیب طریقہ سے اپنا راستہ بنا لیا تھا (اور وہ غائب ہو گئی تھی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے کہا : بھلا بتائیے ! (عجیب قصہ ہوگیا) جب ہم اس چٹان پر ٹھہرے تھے تو میں مچھلی (کا آپ سے ذکر کرنا) بھول گیا۔ اور شیطان کے سوا کوئی نہیں ہے جس نے مجھ سے اس کا تذکرہ کرنا بھلا یا ہو، اور اس (مچھلی) نے تو بڑے عجیب طریقے پر دریا میں اپنی راہ لے لی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jab Allah ta’ala ne nabiyo se ahadh liya ke jo kuch main tumhe kitaab wa hikma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے محبوب! وہ وقت یاد کریں) جب اللہ نے انبیاء سے پختہ عہد لیا کہ جب میں تمہیں کتاب اور حکمت عطا کر دوں پھر تمہارے پاس وہ (سب پر عظمت والا) رسول (صلی اللہ علیہ وآلہ وسلم) تشریف لائے جو ان کتابوں کی تصدیق فرمانے والا ہو جو تمہارے ساتھ ہوں گی تو ضرور بالضرور ان پر ایمان لاؤ گے اور ضرور بالضرور ان کی مدد کرو گے، فرمایا: کیا تم نے اِقرار کیا اور اس (شرط) پر میرا بھاری عہد مضبوطی سے تھام لیا؟ سب نے عرض کیا: ہم نے اِقرار کر لیا، فرمایا کہ تم گواہ ہو جاؤ اور میں بھی تمہارے ساتھ گواہوں میں سے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ان کو وہ وقت یاد دلاؤ) جب اللہ نے پیغمبروں سے عہد لیا تھا کہ : اگر میں تم کو کتاب اور حکمت عطا کروں، پھر تمہارے پاس کوئی رسول آئے جو اس (کتاب) کی تصدیق کرے جو تمہارے پاس ہے، تو تم اس پر ضرور ایمان لاؤ گے، اور ضرور اس کی مدد کرو گے۔ اللہ نے (ان پیغمبروں سے) کہا تھا کہ : کیا تم اس بات کا اقرار کرتے ہو اور میری طرف سے دی ہوئی یہ ذمہ داری اٹھاتے ہو ؟ انہوں نے کہا تھا : ہم اقرار کرتے ہیں۔ اللہ نے کہا : تو پھر (ایک دوسرے کے اقرار کے) گواہ بن جاؤ، اور میں بھی تمہارے ساتھ گواہی میں شامل ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

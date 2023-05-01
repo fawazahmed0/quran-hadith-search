@@ -3224,6 +3224,12 @@ jo log imaan laaye aur unhone kaam bhi acche kiye, yaqinan un ke liye al-firdaus
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ایمان لائے اور نیک عمل کرتے رہے تو ان کے لئے فردوس کے باغات کی مہمانی ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (دوسری طرف) جو لوگ ایمان لائے ہیں، اور جنہوں نے نیک عمل کیے ہیں، ان کی مہمانی کے لیے بیشک فردوس کے باغ ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

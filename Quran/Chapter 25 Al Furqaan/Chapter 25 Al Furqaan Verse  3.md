@@ -3224,6 +3224,12 @@ un logo ne Allah ke siva jinhe apne maboodh tehra rakhe hai wo kisi cheez ko pai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان (مشرکین) نے اللہ کو چھوڑ کر اور معبود بنا لئے ہیں جو کوئی چیز بھی پیدا نہیں کر سکتے بلکہ وہ خود پیدا کئے گئے ہیں اور نہ ہی وہ اپنے لئے کسی نقصان کے مالک ہیں اور نہ نفع کے اور نہ وہ موت کے مالک ہیں اور نہ حیات کے اور نہ (ہی مرنے کے بعد) اٹھا کر جمع کرنے کا (اختیار رکھتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں نے اسے چھوڑ کر ایسے خدا بنا رکھے ہیں جو کچھ پیدا نہیں کرتے، بلکہ خود پیدا کیے جاتے ہیں، اور جن کا خود اپنے نقصان یا فائدے پر بھی کوئی بس نہیں چلتا، اور نہ کسی کا مرنا یا جینا ان کے اختیار میں ہے، نہ کسی کو دوبارہ زندہ کرنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

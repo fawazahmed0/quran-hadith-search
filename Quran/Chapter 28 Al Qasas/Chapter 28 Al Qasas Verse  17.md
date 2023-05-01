@@ -3224,6 +3224,12 @@ kehne lage aye mere rab! jaise tu ne mujh par ye karam farmaaya, main bhi ab har
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(مزید) عرض کرنے لگے: اے میرے رب! اس سبب سے کہ تو نے مجھ پر (اپنی مغفرت کے ذریعہ) احسان فرمایا ہے اب میں ہرگز مجرموں کا مددگار نہیں بنوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : میرے پروردگار ! آپ نے مجھ پر انعام کیا ہے تو میں آئندہ کبھی مجرموں کا مددگار نہیں بنوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

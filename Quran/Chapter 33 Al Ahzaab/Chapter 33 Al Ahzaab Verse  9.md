@@ -3224,6 +3224,12 @@ aye imaan waalo! Allah ta’ala ne jo ehsaan tum par kiya, ose yaad karo, jab ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اپنے اوپر اللہ کا احسان یاد کرو جب (کفار کی) فوجیں تم پر آپہنچیں، تو ہم نے ان پر ہوا اور (فرشتوں کے) لشکروں کو بھیجا جنہیں تم نے نہیں دیکھا اور جو کچھ تم کرتے ہو اللہ اسے خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! یاد کرو اللہ نے اس وقت تم پر کیسا انعام کیا جب تم پر بہت سے لشکر چڑھ آئے تھے، پھر ہم نے ان پر ایک آندھی بھی بھیجی، اور ایسے لشکر بھی جو تمہیں نظر نہیں آتے تھے۔ اور تم جو کچھ کر رہے تھے اللہ اس کو دیکھ رہا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

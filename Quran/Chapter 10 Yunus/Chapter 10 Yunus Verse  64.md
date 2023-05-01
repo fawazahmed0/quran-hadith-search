@@ -3224,6 +3224,12 @@ un ke liye dunyawi zindagi mein bhi aur aqirath mein bhi khush qabri hai,Allah t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے لئے دنیا کی زندگی میں (بھی عزت و مقبولیت کی) بشارت ہے اور آخرت میں (بھی مغفرت و شفاعت کی/ یا دنیا میں بھی نیک خوابوں کی صورت میں پاکیزہ روحانی مشاہدات ہیں اور آخرت میں بھی حُسنِ مطلق کے جلوے اور دیدار)، اللہ کے فرمان بدلا نہیں کرتے، یہی وہ عظیم کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے لیے خوشخبری ہے دنیوی زندگی میں بھی اور آخرت میں بھی، اللہ کی باتوں میں کوئی تبدیلی نہیں ہوتی، یہی زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

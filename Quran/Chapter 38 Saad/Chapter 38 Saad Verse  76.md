@@ -3224,6 +3224,12 @@ us ne jawaab diya ke main us se behtar hoon, tu ne mujhe aag se banaya aur ose m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس نے (نبی کے ساتھ اپنا موازنہ کرتے ہوئے) کہا کہ میں اس سے بہتر ہوں، تو نے مجھے آگ سے بنایا ہے اور تو نے اِسے مٹی سے بنایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگا : میں اس (آدم) سے بہتر ہوں۔ تو نے مجھے آگ سے پیدا کیا ہے اور اس کو گارے سے پیدا کیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

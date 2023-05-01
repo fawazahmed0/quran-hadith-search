@@ -3224,6 +3224,12 @@ unhone kaha Allah ki qasam! tum ko qoob ilm hai ke hum mulk mein fasaad phailane
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہنے لگے: اللہ کی قسم! بیشک تم جان گئے ہو (گے) ہم اس لئے نہیں آئے تھے کہ (جرم کا ارتکاب کر کے) زمین میں فساد بپا کریں اور نہ ہی ہم چور ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ (بھائی) بولے : اللہ کی قسم ! آپ لوگ جانتے ہیں کہ ہم زمین میں فساد پھیلانے کے لیے نہیں آئے تھے، اور نہ ہم چوری کرنے والے لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

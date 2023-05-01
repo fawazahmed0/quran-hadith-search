@@ -3224,6 +3224,12 @@ us roz log muqtalif jamaate ho kar (waapas) lautenge, ta ke unhe un ke amaal dik
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس دن لوگ مختلف گروہ بن کر (جدا جدا حالتوں کے ساتھ) نکلیں گے تاکہ انہیں ان کے اَعمال دکھائے جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس روز لوگ مختلف ٹولیوں میں واپس ہوں گے، تاکہ ان کے اعمال انہیں دکھا دیے جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

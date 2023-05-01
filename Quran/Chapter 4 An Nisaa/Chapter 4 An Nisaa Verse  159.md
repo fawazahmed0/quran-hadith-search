@@ -3224,6 +3224,12 @@ ahale kitaab mein ek bhi aisa na bachega jo hazrath Isa (alaihissalaam) ki mauth
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (قربِ قیامت نزولِ مسیح علیہ السلام کے وقت) اہلِ کتاب میں سے کوئی (فرد یا فرقہ) نہ رہے گا مگر وہ عیسٰی (علیہ السلام) پر ان کی موت سے پہلے ضرور (صحیح طریقے سے) ایمان لے آئے گا، اور قیامت کے دن عیسٰی (علیہ السلام) ان پر گواہ ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اہل کتاب میں سے کوئی ایسا نہیں ہے جو اپنی موت سے پہلے ضرور بالضرور عیسیٰ (علیہ السلام) پر ایمان نہ لائے، اور قیامت کے دن وہ ان لوگوں کے خلاف گواہ بنیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

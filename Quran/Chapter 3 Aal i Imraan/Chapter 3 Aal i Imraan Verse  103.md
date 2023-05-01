@@ -3224,6 +3224,12 @@ Allah ta’ala ki rassi ko sab mil kar mazbooth thaam lo aur phoot na daalo aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم سب مل کر اللہ کی رسی کو مضبوطی سے تھام لو اور تفرقہ مت ڈالو، اور اپنے اوپر اللہ کی اس نعمت کو یاد کرو جب تم (ایک دوسرے کے) دشمن تھے تو اس نے تمہارے دلوں میں الفت پیدا کردی اور تم اس کی نعمت کے باعث آپس میں بھائی بھائی ہوگئے، اور تم (دوزخ کی) آگ کے گڑھے کے کنارے پر(پہنچ چکے) تھے پھر اس نے تمہیں اس گڑھے سے بچا لیا، یوں ہی اللہ تمہارے لئے اپنی نشانیاں کھول کر بیان فرماتا ہے تاکہ تم ہدایت پا جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کی رسی کو سب ملکر مضبوطی سے تھامے رکھو، اور آپس میں پھوٹ نہ ڈالو، اور اللہ نے تم پر جو انعام کیا ہے اسے یاد رکھو کہ ایک وقت تھا جب تم ایک دوسرے کے دشمن تھے، پھر اللہ نے تمہارے دلوں کو جوڑ دیا اور تم اللہ کے فضل سے بھائی بھائی بن گئے، اور تم آگ کے گڑھے کے کنارے پر تھے، اللہ نے تمہیں اس سے نجات عطا فرمائی۔ اسی طرح اللہ تمہارے لیے اپنی نشانیاں کھول کھول کر واضح کرتا ہے، تاکہ تم راہ راست پر آجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

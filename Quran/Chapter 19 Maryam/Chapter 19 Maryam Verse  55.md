@@ -3224,6 +3224,12 @@ wo apne ghar waalo ko baraabar namaaz aur zakaath ka hukm deta tha aur tha bhi a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ اپنے گھر والوں کو نماز اور زکوٰۃ کا حکم دیتے تھے، اور وہ اپنے رب کے حضور مقام مرضیّہ پر (فائز) تھے (یعنی ان کا رب ان سے راضی تھا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ اپنے گھر والوں کو بھی نماز اور زکوٰۃ کا حکم دیا کرتے، اور اپنے پروردگار کے نزدیک پسندیدہ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ keh dijiye ke Allah ta’ala saccha hai, tum sab Ibraheem haneef ki millath ki p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیں کہ اللہ نے سچ فرمایا ہے، سو تم ابراہیم (علیہ السلام) کے دین کی پیروی کرو جو ہر باطل سے منہ موڑ کر صرف اللہ کے ہوگئے تھے، اور وہ مشرکوں میں سے نہیں تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آپ کہیے کہ اللہ نے سچ کہا ہے، لہذا تم ابراہیم کے دین کا اتباع کرو جو پوری طرح سیدھے راستے پر تھے، اور ان لوگوں میں سے نہیں تھے جو اللہ کی خدائی میں کسی کو شریک مانتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

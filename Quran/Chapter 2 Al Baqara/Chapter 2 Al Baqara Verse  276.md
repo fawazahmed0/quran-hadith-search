@@ -3224,6 +3224,12 @@ Allah ta’ala soodh ko mitaata hai aur sadqe ko bhadaata hai aur Allah ta’ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ سود کو مٹاتا ہے (یعنی سودی مال سے برکت کو ختم کرتا ہے) اور صدقات کو بڑھاتا ہے (یعنی صدقہ کے ذریعے مال کی برکت کو زیادہ کرتا ہے)، اور اللہ کسی بھی ناسپاس نافرمان کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ سود کو مٹاتا ہے اور صدقات کو بڑھاتا ہے، اور اللہ ہر اس شخص کو ناپسند کرتا ہے جو ناشکرا گنہگار ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

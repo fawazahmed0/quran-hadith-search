@@ -3224,6 +3224,12 @@ Tumhare liye kufr ki taraf janey ka ab kya mauqa baki hai jabke tumko Allah ki a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم (اب) کس طرح کفر کرو گے حالانکہ تم وہ (خوش نصیب) ہو کہ تم پر اللہ کی آیتیں تلاوت کی جاتی ہیں اور تم میں (خود) اللہ کے رسول (صلی اللہ علیہ وآلہ وسلم) موجود ہیں، اور جو شخص اللہ (کے دامن) کو مضبوط پکڑ لیتا ہے تو اسے ضرور سیدھی راہ کی طرف ہدایت کی جاتی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم کیسے کفر اپناؤ گے جبکہ اللہ کی آیتیں تمہارے سامنے تلاوت کی جاتی ہیں اور اس کا رسول تمہارے درمیان موجود ہے ؟ اور (اللہ کی سنت یہ ہے کہ) جو شخص اللہ کا سہارا مضبوطی سے تھام لے، وہ سیدھے راستے تک پہنچا دیا جاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

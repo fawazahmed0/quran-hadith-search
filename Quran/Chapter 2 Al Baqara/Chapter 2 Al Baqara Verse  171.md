@@ -3224,6 +3224,12 @@ kuffaar ki misaal un jaanwaro ki tarah hai jo apne charwaahe ki sirf pukaar aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کافروں (کو ہدایت کی طرف بلانے) کی مثال ایسے شخص کی سی ہے جو کسی ایسے (جانور) کو پکارے جو سوائے پکار اور آواز کے کچھ نہیں سنتا، یہ لوگ بہرے، گونگے، اندھے ہیں سو انہیں کوئی سمجھ نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر کو اپنا لیا ہے ان (کو حق کی دعوت دینے) کی مثال کچھ ایسی ہے جیسے کوئی شخص ان (جانوروں) کو زور زور سے بلائے جو ہانک پکار کے سوا کچھ نہیں سنتے۔ یہ بہرے، گونگے اندھے ہیں، لہذا کچھ نہیں سمجھتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

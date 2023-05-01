@@ -3224,6 +3224,12 @@ aur Allah par sidhi raah ka bata dena hai aur baaz tedi raahe hai aur agar wo ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور درمیانی راہ اللہ (کے دروازے) پر جا پہنچتی ہے اور اس میں سے کئی ٹیڑھی راہیں بھی (نکلتی) ہیں، اور اگر وہ چاہتا تو تم سب ہی کو ہدایت فرما دیتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور سیدھا راستہ دکھانے کی ذمہ داری اللہ نے لی ہے، اور بہت سے راستے ٹیڑھے ہیں اور اگر وہ چاہتا تو تم سب کو سیدھے راستے پر پہنچا بھی دیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

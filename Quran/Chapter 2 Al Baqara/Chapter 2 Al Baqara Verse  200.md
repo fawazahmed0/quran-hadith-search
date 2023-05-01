@@ -3224,6 +3224,12 @@ phir jab tum arkaan haj ada kar chuko, to Allah ta’ala ka zikr karo jis tarah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب تم اپنے حج کے ارکان پورے کر چکو تو (منیٰ میں) اللہ کا خوب ذکر کیا کرو جیسے تم اپنے باپ دادا کا (بڑے شوق سے) ذکر کرتے ہو یا اس سے بھی زیادہ شدّتِ شوق سے (اللہ کا) ذکر کیا کرو، پھر لوگوں میں سے کچھ ایسے بھی ہیں جو کہتے ہیں: اے ہمارے رب! ہمیں دنیا میں (ہی) عطا کر دے اور ایسے شخص کے لئے آخرت میں کوئی حصہ نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب تم اپنے حج کے کام پورے کرچکو تو اللہ کا اس طرح ذکر کرو جیسے تم اپنے باپ دادوں کا ذکر کیا کرتے ہو، بلکہ اس سے بھی زیادہ ذکر کرو اب بعض لوگ تو وہ ہیں جو (دعا میں بس) یہ کہتے ہیں کہ :“ اے ہمارے پروردگار ! ہمیں دنیا میں بھلائی عطا فرما ” اور آخرت میں ان کا کوئی حصہ نہیں ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

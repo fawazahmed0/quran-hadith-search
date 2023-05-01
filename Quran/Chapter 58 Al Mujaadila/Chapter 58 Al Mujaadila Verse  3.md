@@ -3224,6 +3224,12 @@ jo log apni biwiyo se zihaar kare, phir apni kahi hoyi baath se rujo karle, to u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اپنی بیویوں سے ظہار کر بیٹھیں پھر جو کہا ہے اس سے پلٹنا چاہیں تو ایک گردن (غلام یا باندی) کا آزاد کرنا لازم ہے قبل اِس کے کہ وہ ایک دوسرے کو مَس کریں، تمہیں اس بات کی نصیحت کی جاتی ہے، اور اللہ اُن کاموں سے خوب آگاہ ہے جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اپنی بیویوں سے ظہار کرتے ہیں پھر انہوں نے جو کچھ کہا ہے، اس سے رجوع کرتے ہیں، تو ان کے ذمے ایک غلام آزاد کرنا ہے، قبل اس کے کہ وہ (میاں بیوی) ایک دوسرے کو ہاتھ لگائیں۔ یہ ہے وہ بات جس کی تمہیں نصیحت کی جارہی ہے، اور جو کچھ تم کرتے ہو، اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

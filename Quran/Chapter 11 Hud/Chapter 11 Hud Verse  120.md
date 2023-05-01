@@ -3224,6 +3224,12 @@ rasulo ke sab ehwaal hum aap ke samne aap ke dil ki taskeen ke liye bayaan farma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم رسولوں کی خبروں میں سے سب حالات آپ کو سنا رہے ہیں جس سے ہم آپ کے قلبِ (اَطہر) کو تقویت دیتے ہیں، اور آپ کے پاس اس (سورت) میں حق اور نصیحت آئی ہے اور اہلِ ایمان کے لئے عبرت (و یاددہانی بھی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) گذشتہ پیغمبروں کے واقعات میں سے وہ سارے واقعات ہم تمہیں سنا رہے ہیں جن سے ہم تمہارے دل کو تقویت پہنچائیں۔ اور ان واقعات کے ضمن میں تمہارے پاس جو بات آئی ہے وہ خود بھی حق ہے اور تمام مومنوں کے لیے نصیحت اور یاددہانی بھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

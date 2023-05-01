@@ -3224,6 +3224,12 @@ to hum ne kaha aaye Aadam! ye tera aur teri biwi ka dushman hai (qayaal rakhna) 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے فرمایا: اے آدم! بیشک یہ (شیطان) تمہارا اور تمہاری بیوی کا دشمن ہے، سو یہ کہیں تم دونوں کو جنت سے نکلوا نہ دے پھر تم مشقت میں پڑ جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہم نے کہا کہ : اے آدم ! یہ تمہارا اور تمہاری بیوی کا دشمن ہے، لہذا ایسا نہ ہو کہ یہ تم دونوں کو جنت سے نکلوا دے، اور تم مشقت میں پڑجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

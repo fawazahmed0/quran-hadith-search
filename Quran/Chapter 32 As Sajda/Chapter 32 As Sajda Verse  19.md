@@ -3224,6 +3224,12 @@ jin logo ne imaan qubool kiya aur nek amaal bhi kiye un ke liye hameshgi waali j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+چنانچہ جو لوگ ایمان لائے اور نیک اعمال کرتے رہے تو ان کے لئے دائمی سکونت کے باغات ہیں، (اللہ کی طرف سے ان کی) ضیافت و اِکرام میں اُن (اَعمال) کے بدلے جو وہ کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جو لوگ ایمان لائے ہیں، اور انہوں نے نیک عمل کیے ہیں ان کے لیے مستقل قیام کے باغات ہیں جو ان کو پہلی مہمانی ہی کے طور پردے دیے جائیں گے، ان اعمال کے صلے میں جو وہ کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

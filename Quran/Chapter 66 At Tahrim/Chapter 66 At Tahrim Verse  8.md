@@ -3224,6 +3224,12 @@ aye imaan waalo! tum Allah ke saamne sacchi qaalis tauba karo, qareeb hai ke tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اللہ کے حضور رجوعِ کامل سے خالص توبہ کر لو، یقین ہے کہ تمہارا رب تم سے تمہاری خطائیں دفع فرما دے گا اور تمہیں بہشتوں میں داخل فرمائے گا جن کے نیچے سے نہریں رواں ہیں جس دن اللہ (اپنے) نبی (صلی اللہ علیہ وآلہ وسلم) کو اور اُن اہلِ ایمان کو جو اُن کی (ظاہری یا باطنی) معیّت میں ہیں رسوا نہیں کرے گا، اُن کا نور اُن کے آگے اور اُن کے دائیں طرف (روشنی دیتا ہوا) تیزی سے چل رہا ہوگا، وہ عرض کرتے ہوں گے: اے ہمارے رب! ہمارا نور ہمارے لئے مکمل فرما دے اور ہماری مغفرت فرما دے، بیشک تو ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ کے حضور سچی توبہ کرو، کچھ بعید نہیں کہ تمہارا پروردگار تمہاری برائیاں تم سے جھاڑ دے، اور تمہیں ایسے باغات میں داخل کردے جن کے نیچے نہریں بہتی ہیں، اس دن جب اللہ نبی کو اور جو لوگ ان کے ساتھ ایمان لائے ہیں ان کو رسوا نہیں کرے گا۔ ان کا نور ان کے آگے اور ان کی دائیں طرف دوڑ رہا ہوگا۔ وہ کہہ رہے ہوں گے کہ : اے ہمارے پروردگار ! ہمارے لیے اس نور کو مکمل کردیجیے اور ہماری مغفرت فرما دیجیے۔ یقینا آپ ہر چیز پر پوری قدرت رکھنے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

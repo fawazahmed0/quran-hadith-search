@@ -3224,6 +3224,12 @@ jin mein ba faraaghath takiye lagaaye baithe hoye, tarah tarah ke mewe aur qism 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اس میں (مَسندوں پر) تکیے لگائے بیٹھے ہوں گے اس میں (وقفے وقفے سے) بہت سے عمدہ پھل اور میوے اور (لذیذ) شربت طلب کرتے رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جہاں وہ تکیہ لگائے ہوئے بہت سے میوے اور مشروبات منگوا رہے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

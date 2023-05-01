@@ -3224,6 +3224,12 @@ bus iman wale tuh aise hote hai ke jab Allah tala ka zikr ata hai tuh un ke qulo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایمان والے (تو) صرف وہی لوگ ہیں کہ جب (ان کے سامنے) اللہ کا ذکر کیا جاتا ہے (تو) ان کے دل (اس کی عظمت و جلال کے تصور سے) خوفزدہ ہو جاتے ہیں اور جب ان پر اس کی آیات تلاوت کی جاتی ہیں تو وہ (کلامِ محبوب کی لذت انگیز اور حلاوت آفریں باتیں) ان کے ایمان میں زیادتی کر دیتی ہیں اور وہ (ہر حال میں) اپنے رب پر توکل (قائم) رکھتے ہیں (اور کسی غیر کی طرف نہیں تکتے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مومن تو وہ لوگ ہیں کہ جب ان کے سامنے اللہ کا ذکر ہوتا ہے تو ان کے دل ڈر جاتے ہیں اور جب ان کے سامنے اس کی آیتیں پڑھی جاتی ہیں تو وہ آیتیں ان کے ایمان کو اور ترقی دیتی ہیں اور وہ اپنے پروردگار پر بھروسہ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

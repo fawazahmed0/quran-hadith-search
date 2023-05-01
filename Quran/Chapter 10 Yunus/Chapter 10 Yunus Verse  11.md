@@ -3224,6 +3224,12 @@ aur agar Allah logo par jaldi se nuqsan waqe kar diya karta jis tarah wo faede k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ (ان کافر) لوگوں کو برائی (یعنی عذاب) پہنچانے میں جلدبازی کرتا، جیسے وہ طلبِ نعمت میں جلدبازی کرتے ہیں تو یقیناً ان کی میعادِ (عمر) ان کے حق میں (جلد) پوری کردی گئی ہوتی (تاکہ وہ مَر کے جلد دوزخ میں پہنچیں)، بلکہ ہم ایسے لوگوں کو جو ہم سے ملاقات کی توقع نہیں رکھتے ان کی سرکشی میں چھوڑے رکھتے ہیں کہ وہ بھٹکتے رہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ (ان کافر) لوگوں کو برائی (یعنی عذاب) کا نشانہ بنانے میں بھی اتنی ہی جلدی کرتا جتنی جلدی وہ اچھائیاں مانگنے میں مچاتے ہیں تو ان کی مہلت تمام کردی گئی ہوتی ۔ (لیکن ایسی جلد بازی ہماری حکمت کے خلاف ہے) لہذا جو لوگ ہم سے (آٓخرت میں) ملنے کی توقع نہیں رکھتے، ہم انہیں اس حال پر چھوڑ دیتے ہیں کہ وہ اپنی سرکشی میں بھٹکتے پھریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

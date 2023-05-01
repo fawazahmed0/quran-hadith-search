@@ -3224,6 +3224,12 @@ to jab main ose pura bana chuko, aur us mein apni ruh phok doon to tum sub us ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب میں اس کی (ظاہری) تشکیل کو کامل طور پر درست حالت میں لا چکوں اور اس پیکرِ (بشری کے باطن) میں اپنی (نورانی) روح پھونک دوں تو تم اس کے لئے سجدہ میں گر پڑنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا جب میں اس کو پوری طرح بنا لوں، اور اس میں اپنی روح پھونک دوں تو تم سب اس کے آگے سجدے میں گر جانا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

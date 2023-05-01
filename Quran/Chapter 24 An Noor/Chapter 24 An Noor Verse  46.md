@@ -3224,6 +3224,12 @@ bila shak wa shuba hum ne roushan aur waazeh aayate utaar di hai, Allah ta’ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یقیناً ہم نے واضح اور روشن بیان والی آیتیں نازل فرمائی ہیں، اور اللہ (ان کے ذریعے) جسے چاہتا ہے سیدھی راہ کی طرف ہدایت فرما دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک ہم نے وہ آیتیں نازل کی ہیں جو حقیقت کو کھول کھول کر بیان کرنے والی ہیں، اور اللہ جس کو چاہتا ہے سیدھے راستے تک پہنچا دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

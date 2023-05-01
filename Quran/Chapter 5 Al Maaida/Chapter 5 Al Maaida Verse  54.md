@@ -3224,6 +3224,12 @@ ae iman walo tum mein se jo shaqs apne deen se phir jae,tuh Allah tala bahuth ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم میں سے جو شخص اپنے دین سے پھر جائے گا تو عنقریب اللہ (ان کی جگہ) ایسی قوم کو لائے گا جن سے وہ (خود) محبت فرماتا ہوگا اور وہ اس سے محبت کرتے ہوں گے وہ مومنوں پر نرم (اور اُن) کافروں پر سخت ہوں گے (جو اِسلام کے خلاف ظلم و عداوت سے کام لیتے ہیں)، اللہ کی راہ میں (خوب) جہاد کریں گے اور کسی ملامت کرنے والے کی ملامت سے خوفزدہ نہیں ہوں گے۔ یہ (تعمیری کردار) اللہ کا فضل ہے وہ جسے چاہتا ہے عطا فرماتا ہے اور اللہ وسعت والا (ہے) خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اگر تم میں سے کوئی اپنے دین سے پھرجائے گا تو اللہ ایسے لوگ پیدا کردے گا جن سے وہ محبت کرتا ہوگا، اور وہ اس سے محبت کرتے ہوں گے جو مومنوں کے لیے نرم اور کافروں کے لیے سخت ہوں گے۔ اللہ کے راستے میں جہاد کریں گے، اور کسی ملامت کرنے والے کی ملامت سے نہیں ڈریں گے، یہ اللہ کا فضل ہے جو وہ جس کو چاہتا ہے عطا فرماتا ہے، اور اللہ بڑی وسعت والا، بڑے علم والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

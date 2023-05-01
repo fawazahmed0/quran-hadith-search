@@ -3224,6 +3224,12 @@ phir bhi agar ye kibr wa ghuroor kare, to wo (farishte) jo aap ke rab ke nazdeek
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر وہ تکبّر کریں (تو آپ اُن کی پرواہ نہ کریں) پس جو فرشتے آپ کے رب کے حضور میں ہیں وہ رات دن اس کی تسبیح کرتے رہتے ہیں اور وہ تھکتے (اور اکتاتے) ہی نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر یہ (کافر) تکبر سے کام لیں، تو (کرتے رہیں) کیونکہ جو (فرشتے) تمہارے رب کے پاس ہیں۔ وہ دن رات اس کی تسبیح کرتے ہیں اور وہ اکتاتے نہیں ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya ye log yo kehte hai ke aap ne is ko ghad liya hai?aap keh dijiye ke to phir 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ کہتے ہیں کہ اسے رسول (صلی اللہ علیہ وآلہ وسلم) نے خود گھڑ لیا ہے، آپ فرما دیجئے: پھر تم اس کی مثل کوئی (ایک) سورت لے آؤ (اور اپنی مدد کے لئے) اللہ کے سوا جنہیں تم بلاسکتے ہو بلا لو اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا پھر بھی یہ لوگ کہتے ہیں کہ : پیغمبر نے اسے اپنی طرف سے گھڑ لیا ہے ؟ کہو کہ : پھر تو تم بھی اس جیسی ایک ہی سورت (گھڑ کر) لے آؤ، اور (اس کام میں مدد لینے کے لیے) اللہ کے سوا جس کسی کو بلا سکو بلا لو، اگر سچے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

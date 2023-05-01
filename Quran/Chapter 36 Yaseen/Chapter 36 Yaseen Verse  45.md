@@ -3224,6 +3224,12 @@ aur un se jab (kabhi) kaha jaata hai ke agle pichle gunaaho (se bacho) ta ke tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اُن سے کہا جاتا ہے کہ تم اس (عذاب) سے ڈرو جو تمہارے سامنے ہے اور جو تمہارے پیچھے ہے تاکہ تم پر رحم کیا جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان سے کہا جاتا ہے کہ : بچو اس (عذاب) سے جو تمہارے سامنے ہے، اور جو تمہارے (مرنے کے) کے بعد آئے گا تاکہ تم پر رحم کیا جائے۔ (تو وہ ذرا کان نہیں دھرتے)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

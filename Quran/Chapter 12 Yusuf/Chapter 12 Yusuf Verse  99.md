@@ -3224,6 +3224,12 @@ jab ye saara gharaana yousuf ke paas pahonch gaya to yousuf ne apne maa baap ko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ (سب اَفرادِ خانہ) یوسف (علیہ السلام) کے پاس آئے (تو) یوسف (علیہ السلام) نے (شہر سے باہر آکر ہزارہا سواریوں، فوجیوں اور لوگوں کے ہمراہ شاہی جلوس کی صورت میں ان کا استقبال کیا اور) اپنے ماں باپ کو تعظیماً اپنے قریب جگہ دی (یا انہیں اپنے گلے سے لگا لیا) اور (خوش آمدید کہتے ہوئے) فرمایا: آپ مصر میں داخل ہو جائیں اگر اللہ نے چاہا (تو) امن و عافیت کے ساتھ (یہیں قیام کریں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب یہ سب لوگ یوسف کے پاس پہنچے تو انہوں نے اپنے والدین کو اپنے پاس جگہ دی، اور سب سے کہا کہ : آپ سب مصر میں داخل ہوجائیں، جہاں انشاء اللہ سب چین سے رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

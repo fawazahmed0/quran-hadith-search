@@ -3224,6 +3224,12 @@ ye qareeb zarya hai us amr ka ke wo log waaqe ko theek taur par zaaher kare ya u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (طریقہ) اس بات سے قریب تر ہے کہ لوگ صحیح طور پر گواہی ادا کریں یا اس بات سے خوفزدہ ہوں کہ (غلط گواہی کی صورت میں) ان کی قََسموں کے بعد (وہی) قَسمیں (زیادہ قریبی ورثاء کی طرف) لوٹائی جائیں گی، اور اللہ سے ڈرتے رہو اور (اس کے احکام کو غور سے) سنا کرو، اور اللہ نافرمان قوم کو ہدایت نہیں دیتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طریقے میں اس بات کی زیادہ امید ہے کہ لوگ (شروع ہی میں) ٹھیک ٹھیک گواہی دیں یا اس بات سے ڈریں کہ (جھوٹی گواہی کی صورت میں) ان کی قسموں کے بعد لوٹا کر دوسری قسمیں لی جائیں گی (جو ہماری تردید کردیں گے) اور اللہ سے ڈرو، اور (جو کچھ اس کی طرف سے کہا گیا ہے اسے قبول کرنے کی نیت سے) سنو۔ اللہ نافرمانوں کو ہدایت نہیں دیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

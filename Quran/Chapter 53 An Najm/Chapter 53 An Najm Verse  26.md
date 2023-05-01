@@ -3224,6 +3224,12 @@ aur bahuth se farishte asmaano mein hai, jin ki sifaarish kuch bhi nafa nahi de 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آسمانوں میں کتنے ہی فرشتے ہیں (کہ کفّار و مشرکین اُن کی عبادت کرتے اور ان سے شفاعت کی امید رکھتے ہیں) جِن کی شفاعت کچھ کام نہیں آئے گی مگر اس کے بعد کہ اللہ جسے چاہتا ہے اور پسند فرماتا ہے اُس کے لئے اِذن (جاری) فرما دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں میں کتنے ہی فرشتے ہیں جن کی سفارش کسی کے کچھ بھی کام نہیں آسکتی، البتہ اس کے بعد ہی کام آسکتی ہے کہ اللہ جس کے لیے چاہے اجازت دیدے، اور اس پر راضی ہوجائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

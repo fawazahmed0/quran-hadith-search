@@ -3224,6 +3224,12 @@ garj us ki tasbih wa taareef karti hai, aur farishte bhi us ke khauf se, wahi aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(بجلیوں اور بادلوں کی) گرج (یا اس پر متعین فرشتہ) اور تمام فرشتے اس کے خوف سے اس کی حمد کے ساتھ تسبیح کرتے ہیں، اور وہ کڑکتی بجلیاں بھیجتا ہے پھر جس پر چاہتا ہے اسے گرا دیتا ہے، اور وہ (کفار قدرت کی ان نشانیوں کے باوجود) اللہ کے بارے میں جھگڑا کرتے ہیں، اور وہ سخت تدبیر و گرفت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بادلوں کی گرج اسی کی تسبیح اور حمد کرتی ہے اور اس کے رعب سے فرشتے بھی (تسبیح میں لگے ہوئے ہیں) اور وہی کڑکتی ہوئی بجلیاں بھیجتا ہے۔ پھر جس پر چاہتا ہے انہیں مصیبت بنا کر گرا دیتا ہے، اور ان (کافروں) کا حال یہ ہے کہ اللہ ہی کے بارے میں بحثیں کر رہے ہیں، حالانکہ اس کی طاقت بڑی زبردست ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

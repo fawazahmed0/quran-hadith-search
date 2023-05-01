@@ -3224,6 +3224,12 @@ phir daud kar aage badne waalo ki qasam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان (فرشتوں) کی قَسم جو لپک کر (دوسروں سے) آگے بڑھ جاتے ہیں۔(br) (یا:- پھر توانائی کی ان لہروں کی قَسم جو رفتار، طاقت اور جاذبیت کے لحاظ سے دوسری لہروں پر سبقت لے جاتی ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر تیزی سے لپکتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

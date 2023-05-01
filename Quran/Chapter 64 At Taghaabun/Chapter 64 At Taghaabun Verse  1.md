@@ -3224,6 +3224,12 @@ Tamam cheez jo aasmanon aur zamin mein hain Allah ki paki biyan kerti hain ussi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہر وہ چیز جو آسمانوں میں ہے اور زمین میں ہے اللہ کی تسبیح کرتی ہے۔ اسی کی ساری بادشاہت ہے اور اسی کے لئے ساری تعریف ہے اور وہ ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین میں جو چیز بھی ہے وہ اللہ کی تسبیح کرتی ہے، اور بادشاہی اسی کی ہے، اور تعریف اسی کی، اور وہ ہر چیز پر پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

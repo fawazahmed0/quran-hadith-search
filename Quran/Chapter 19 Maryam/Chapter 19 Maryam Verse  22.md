@@ -3224,6 +3224,12 @@ pas wo hamal se ho gay, aur isi wajeh se wo yek-so ho kar ek door ki jageh chali
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس مریم نے اسے پیٹ میں لے لیا اور (آبادی سے) الگ ہوکر دور ایک مقام پر جا بیٹھیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ مریم کو اس بچے کا حمل ٹھہر گیا (اور جب ولادت کا وقت قریب آیا) تو وہ اس کو لے کر لوگوں سے الگ ایک دور مقام پر چلی گئیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

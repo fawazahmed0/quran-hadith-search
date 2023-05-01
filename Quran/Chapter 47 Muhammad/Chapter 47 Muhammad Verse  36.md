@@ -3224,6 +3224,12 @@ waaqeyi zindagaaniye dunya to sirf khel koodh hai aur agar tum imaan le aaoge au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بس دنیا کی زندگی تو محض کھیل اور تماشا ہے، اور اگر تم ایمان لے آؤ اور تقوٰی اختیار کرو تو وہ تمہیں تمہارے (اعمال پر کامل) ثواب عطا فرمائے گا اور تم سے تمہارے مال طلب نہیں کرے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ دنیوی زندگی تو بس کھیل تماشا ہے، اور اگر تم ایمان لاؤ اور تقوی اختیار کرو تو اللہ تمہارے اجر تمہیں دے گا، اور تمہارے مال تم سے نہیں مانگے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

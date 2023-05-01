@@ -3224,6 +3224,12 @@ keh dijiye! ke jo badhla main tum se maango wo tumhaare liye hai, mera badhla to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: میں نے (اس اِحسان کا) جو صلہ تم سے مانگا ہو وہ بھی تم ہی کو دے دیا، میرا اجر صرف اللہ ہی کے ذمّہ ہے، اور وہ ہر چیز پر نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو : میں نے اگر اس بات پر تم سے کوئی اجرت مانگی ہو تو وہ تمہاری ہے۔ میرا اجر تو اللہ کے سوا کسی کے ذمے نہیں ہے، اور وہ ہر چیز کا مشاہدہ کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

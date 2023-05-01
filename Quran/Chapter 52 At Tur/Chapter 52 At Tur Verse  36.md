@@ -3224,6 +3224,12 @@ kya un hone hee asmaano aur zameen ko paida kiya hai? balke ye yaqeen na karne w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا انہوں نے ہی آسمانوں اور زمین کو پیدا کیا ہے، (ایسا نہیں) بلکہ وہ (حق بات پر) یقین ہی نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا کیا آسمان اور زمین انہوں نے پیدا کیے ہیں ؟ نہیں، بلکہ اصل بات یہ ہے کہ یہ یقین نہیں رکھتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

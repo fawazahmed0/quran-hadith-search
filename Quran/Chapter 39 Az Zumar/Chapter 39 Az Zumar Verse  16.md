@@ -3224,6 +3224,12 @@ unhe niche upar se aag ke (shule misl) saayebaan (ke) dhaank rahe honge, yahi (a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے لئے اُن کے اوپر (بھی) آگ کے بادل (سائبان بنے) ہوں گے اور ان کے نیچے بھی آگ کے فرش ہوں گے، یہ وہ (عذاب) ہے جس سے اللہ اپنے بندوں کو ڈراتا ہے، اے میرے بندو! بس مجھ سے ڈرتے رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے لوگوں کے لیے ان کے اوپر بھی آگ کے بادل ہیں اور ان کے نیچے بھی ویسے ہی بادل۔ یہ وہی چیز ہے جس سے اللہ اپنے بندوں کو ڈراتا ہے۔ لہذا اے میرے بندو۔ میرا خوف دل میں رکھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

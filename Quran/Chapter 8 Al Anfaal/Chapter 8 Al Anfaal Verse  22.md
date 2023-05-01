@@ -3224,6 +3224,12 @@ beshak budh-tareen qalaayeq, Allah tala ke nazdik wo log hai jo behre hai gonge 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ کے نزدیک جانداروں میں سب سے بدتر وہی بہرے، گونگے ہیں جو (نہ حق سنتے ہیں، نہ حق کہتے ہیں اور حق کو حق) سمجھتے بھی نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ اللہ کے نزدیک بدترین جانور وہ بہرے گونگے لوگ ہیں جو عقل سے کام نہیں لیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jis din tum sab ko us jama hone ke din jama karega wahi din hai haar jeeth ka au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن وہ تمہیں جمع ہونے کے دن (میدانِ حشر میں) اکٹھا کرے گا یہ ہار اور نقصان ظاہر ہونے کا دن ہے۔ اور جو شخص اللہ پر ایمان لاتا ہے اور نیک عمل کرتا ہے تو (اللہ) اس (کے نامۂ اعمال) سے اس کی خطائیں مٹا دے گا اور اسے جنتوں میں داخل فرما دے گا جن کے نیچے سے نہریں بہہ رہی ہیں وہ ان میں ہمیشہ رہنے والے ہوں گے، یہ بہت بڑی کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ دوسری زندگی) اس دن (ہوگی) جب اللہ تمہیں روز حشر میں اکٹھا کرے گا۔ وہ ایسا دن ہوگا جس میں کچھ لوگ دوسروں کو حسرت میں ڈال دیں گے۔ اور جو شخص اللہ پر ایمان لایا ہوگا، اور اس نے نیک عمل کیے ہوں گے، اللہ اس کے گناہوں کو معاف کردے گا، اور اس کو ایسے باغوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی، جن میں وہ ہمیشہ ہمیشہ رہیں گے۔ یہ ہے بڑی کامیابی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur ahle araaf bahuth se aadmiyo ko jin ko ke un ke qayaafa se pehchanenge, puka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اعراف والے ان لوگوں کو آواز دیں گے جن کو وہ ان کی علامتوں سے پہچانتے ہوں گے۔ کہیں گے کہ : نہ تمہاری جمع پونجی تمہارے کچھ کام آئی، اور نہ وہ جنہیں تم بڑا سمجھے بیٹھے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ so hamare tumhare darmiyan Allah kafi hai gawah ke taur par ke hum ko tumhari ib
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ہمارے اور تمہارے درمیان اللہ ہی گواہ کافی ہے کہ ہم تمہاری پرستش سے (یقیناً) بے خبر تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمارے اور تمہارے درمیان اللہ گواہ بننے کے لیے کافی ہے (کہ) ہم تمہاری عبادت سے بالکل بیخبر تھے۔”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

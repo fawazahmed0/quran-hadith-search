@@ -3224,6 +3224,12 @@ pas jab ye aurte apni iddath puri karne ke qareeb pahonch jaaye, to unhe ya to q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ اپنی مقررہ میعاد (کے ختم ہونے) کے قریب پہنچ جائیں تو انہیں بھلائی کے ساتھ (اپنی زوجیت میں) روک لو یا انہیں بھلائی کے ساتھ جدا کردو۔ اور اپنوں میں سے دو عادل مَردوں کو گواہ بنا لو اور گواہی اللہ کے لئے قائم کیا کرو، اِن (باتوں) سے اسی شخص کو نصیحت کی جاتی ہے جو اللہ اور یومِ آخرت پر ایمان رکھتا ہے، اور جو اللہ سے ڈرتا ہے وہ اس کے لئے (دنیا و آخرت کے رنج و غم سے) نکلنے کی راہ پیدا فرما دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب وہ عورتیں اپنی (عدت کی) میعاد کو پہنچنے لگیں تو تم یا تو انہیں بھلے طریقے پر (اپنے نکاح میں) روک رکھو، یا پھر بھلے طریقے سے ان کو الگ کردو، اور اپنے میں سے دو ایسے آدمیوں کو گواہ بنا لو جو عدل والے ہوں۔ اور اللہ کی خاطر سیدھی سیدھی گواہی دو ، لوگو ! یہ وہ بات ہے جس کی نصیحت اس شخص کو کی جارہی ہے جو اللہ پر اور یوم آخرت پر ایمان رکھتا ہو، اور جو کوئی اللہ سے ڈرے گا اللہ اس کے لیے مشکل سے نکلنے کا کوئی راستہ پیدا کردے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

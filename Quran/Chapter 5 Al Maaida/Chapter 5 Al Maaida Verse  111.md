@@ -3224,6 +3224,12 @@ aur jab ke main ne hawaariyyeen ko hukm diya ke tum mujh par aur mere rasool par
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب میں نے حواریوں کے دل میں (یہ) ڈال دیا کہ تم مجھ پر اور میرے پیغمبر (عیسٰی علیہ السلام) پر ایمان لاؤ، (تو) انہوں نے کہا: ہم ایمان لے آئے اور تو گواہ ہو جا کہ ہم یقیناً مسلمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب میں نے حواریوں کے دل میں یہ بات ڈالی کہ : تم مجھ پر اور میرے رسول پر ایمان لاؤ، تو انہوں نے کہا : ہم ایمان لے آئے اور آپ گواہ رہیے کہ ہم فرمانبردار ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

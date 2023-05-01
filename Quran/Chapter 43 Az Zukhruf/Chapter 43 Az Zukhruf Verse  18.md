@@ -3224,6 +3224,12 @@ kya (Allah ki aulaad ladkiya hai) jo zewraath mein pali aur jhagde mein (apni ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا (اللہ اپنے امور میں شراکت و معاونت کے لئے اسے اولاد بنائے گا) جو زیور و زینت میں پرورش پائے اور (نرمیٔ طبع اور شرم و حیاء کے باعث) جھگڑے میں واضح (رائے کا اظہار کرنے والی بھی) نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا (اللہ نے ایسی اولاد پسند کی ہے) جو زیوروں میں پالی پوسی جاتی ہے اور جو بحث مباحثے میں اپنی بات کھل کر بھی نہیں کہہ سکتی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

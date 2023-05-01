@@ -3224,6 +3224,12 @@ aur jo shaqs un se us mauqe par pusht pherega magar haan jo ladai ke liye paitra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص اس دن ان سے پیٹھ پھیرے گا، سوائے اس کے جو جنگ (ہی) کے لئے کوئی داؤ چل رہا ہو یا اپنے (ہی) کسی لشکر سے (تعاون کے لئے) ملنا چاہتا ہو، تو واقعتاً وہ اللہ کے غضب کے ساتھ پلٹا اور اس کا ٹھکانا دوزخ ہے، اور وہ (بہت ہی) برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر کوئی شخص کسی جنگی چال کی وجہ سے ایسا کر رہا ہو یا اپنی کسی جماعت سے جا ملنا چاہتا ہو اس کی بات تو اور ہے، مگر اس کے سوا جو شخص ایسے دن اپنی پیٹھ پھیرے گا تو وہ اللہ کی طرف سے غضب لے کر لوٹے گا اور اس کا ٹھکانا جہنم ہوگا اور وہ بہت برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

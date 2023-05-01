@@ -3224,6 +3224,12 @@ wo kahenge aye hamaare parvardigaar! tu ne hamein do baar maara aur do baar hee 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہیں گے: اے ہمارے رب! تو نے ہمیں دو بار موت دی اور تو نے ہمیں دو بار (ہی) زندگی بخشی، سو (اب) ہم اپنے گناہوں کا اعتراف کرتے ہیں، پس کیا (عذاب سے بچ) نکلنے کی طرف کوئی راستہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہیں گے کہ اے ہمارے پروردگار ! تو نے ہمیں دو مرتبہ موت اور دو مرتبہ زندگی دی، اب ہم اپنے گناہوں کا اعتراف کرتے ہیں، تو کیا (ہمارے دوزخ سے) نکلنے کا کوئی راستہ ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

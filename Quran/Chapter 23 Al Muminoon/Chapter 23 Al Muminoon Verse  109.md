@@ -3224,6 +3224,12 @@ mere bandho ki ek jamaath thi jo baraabar yahi kehti rahi ke aye hamaare parvard
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک میرے بندوں میں سے ایک طبقہ ایسا بھی تھا جو (میرے حضور) عرض کیا کرتے تھے: اے ہمارے رب! ہم ایمان لے آئے ہیں پس تو ہمیں بخش دے اور ہم پر رحم فرما اور تو (ہی) سب سے بہتر رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرے بندوں میں سے ایک جماعت یہ دعا کرتی تھی کہ : اے ہمارے پروردگار ! ہم ایمان لے آئے ہیں، پس ہمیں بخش دیجیے، اور ہم پر رحم فرمایے، اور آپ سب رحم کرنے والوں سے بڑھ کر رحم فرمانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

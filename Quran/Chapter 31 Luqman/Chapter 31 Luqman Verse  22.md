@@ -3224,6 +3224,12 @@ aur jo (shaqs) apne aap ko Allah ke taabe karde aur ho bhi wo nekokaar, yaqian u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص اپنا رخِ اطاعت اللہ کی طرف جھکا دے اور وہ (اپنے عَمل اور حال میں) صاحبِ احسان بھی ہو تو اس نے مضبوط حلقہ کو پختگی سے تھام لیا، اور سب کاموں کا انجام اللہ ہی کی طرف ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص فرمانبردار بن کر اپنا رخ اللہ کی طرف کردے، اور نیک عمل کرنے والا ہو، تو اس نے یقینا بڑا مضبوط کنڈا تھام لیا۔ اور تمام کاموں کا آخری انجام اللہ ہی کے حوالے ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

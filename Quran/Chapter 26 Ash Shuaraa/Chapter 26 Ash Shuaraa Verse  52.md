@@ -3224,6 +3224,12 @@ aur hum ne Mosa(alaihissalaam) ko wahi ki, ke raatho raath mere bandho ko nikaal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے موسٰی (علیہ السلام) کی طرف وحی بھیجی کہ تم میرے بندوں کو راتوں رات (یہاں سے) لے جاؤ بیشک تمہارا تعاقب کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ کے پاس وحی بھیجی کہ : میرے بندوں کو لے کر راتوں رات روانہ ہوجاؤ، تمہارا پیچھا یقینا کیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

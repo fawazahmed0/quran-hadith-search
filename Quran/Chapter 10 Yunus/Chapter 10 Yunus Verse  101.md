@@ -3224,6 +3224,12 @@ aap keh dijiye ke tum ghaur karo, ke kya kya chize aasmaano mein aur zamin mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تم لوگ دیکھو تو (سہی) آسمانوں اور زمین (کی اس وسیع کائنات) میں قدرتِ الٰہیہ کی کیا کیا نشانیاں ہیں اور (یہ) نشانیاں اور (عذابِ الٰہی سے) ڈرانے والے (پیغمبر) ایسے لوگوں کو فائدہ نہیں پہنچا سکتے جو ایمان لانا ہی نہیں چاہتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ان سے کہو کہ : ذرا نظر دوڑاؤ کہ آسمانوں اور زمین کیا کیا چیزیں ہیں ؟ لیکن جن لوگوں کو ایمان لانا ہی نہیں ہے ان کے لیے (زمین و آسمان میں پھیلی ہوئی) نشانیاں اور آگاہ کرنے والے (پیغمبر) کچھ بھی کار آمد نہیں ہوتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

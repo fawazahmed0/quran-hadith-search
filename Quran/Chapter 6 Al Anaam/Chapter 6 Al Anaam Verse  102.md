@@ -3224,6 +3224,12 @@ ye hai Allah ta’ala tumhaara rab! us ke siva koyi ibaadath ke laayeq nahi, har
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی (اللہ) تمہارا پروردگار ہے، اس کے سوا کوئی لائقِ عبادت نہیں، (وہی) ہر چیز کا خالق ہے پس تم اسی کی عبادت کیا کرو اور وہ ہر چیز پر نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگو ! وہ ہے اللہ جو تمہارا پالنے والا ہے، اس کے سوا کوئی معبود نہیں، وہ ہر چیز کا خالق ہے۔ لہذا اس کی عبادت کرو۔ وہ ہر چیز کی نگرانی کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

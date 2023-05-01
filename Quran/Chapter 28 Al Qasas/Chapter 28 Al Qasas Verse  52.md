@@ -3224,6 +3224,12 @@ jis ko hum ne is se pehle kitaab inaayath farmaayi, wo to us par bhi imaan rakht
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جن لوگوں کو ہم نے اس سے پہلے کتاب عطا کی تھی وہ (اسی ہدایت کے تسلسل میں) اس (قرآن) پر (بھی) ایمان رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن کو ہم نے قرآن سے پہلے آسمانی کتابیں دی ہیں، وہ اس (قرآن) پر ایمان لاتے ہیں،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

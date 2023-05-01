@@ -3224,6 +3224,12 @@ aur mujhe un jhutlaane waale aasoda haal logo ko chohd de aur unhe zara si muhul
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ مجھے اور جھٹلانے والے سرمایہ داروں کو (اِنتقام لینے کے لئے) چھوڑ دیں اور انہیں تھوڑی سی مہلت دے دیں (تاکہ اُن کے اَعمالِ بد اپنی اِنتہاء کو پہنچ جائیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہیں جھٹلانے والے جو عیش و عشرت کے مالک بنے ہوئے ہیں، ان کا معاملہ مجھ پر چھوڑ دو ، اور انہیں تھوڑے دن اور مہلت دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

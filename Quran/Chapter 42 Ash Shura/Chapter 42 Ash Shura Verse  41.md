@@ -3224,6 +3224,12 @@ aur jo shaqs apne mazloom hone ke baadh (baraabar ka) badhla le le, to aise logo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یقیناً جو شخص اپنے اوپر ظلم ہونے کے بعد بدلہ لے تو ایسے لوگوں پر (ملامت و گرفت) کی کوئی راہ نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص اپنے اوپر ظلم ہونے کے بعد (برابر کا) بدلہ لے تو ایسے لوگوں پر کوئی الزام نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur unhone Allah ke baaz bandho ko us ka juz tehra diya, yaqinan insaan khullam 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُن (مشرکوں) نے اس کے بندوں میں سے (بعض کو اس کی اولاد قرار دے کر) اس کے جزو بنا دیئے، بیشک انسان صریحاً بڑا ناشکر گزار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان (مشرک) لوگوں نے یہ بات بنائی ہے کہ اللہ کا خود اس کے بندوں میں سے کوئی جزء ہے۔ حقیقت یہ ہے کہ انسان کھلم کھلا ناشکرا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ maa baap aur qeesh wa aqaarib4 ke tarke mein mardu ka hissa bhi hai aur aurto ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مردوں کے لئے اس (مال) میں سے حصہ ہے جو ماں باپ اور قریبی رشتہ داروں نے چھوڑا ہو اور عورتوں کے لئے (بھی) ماں باپ اور قریبی رشتہ داروں کے ترکہ میں سے حصہ ہے۔ وہ ترکہ تھوڑا ہو یا زیادہ (اللہ کا) مقرر کردہ حصہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مردوں کے لیے بھی اس مال میں حصہ ہے جو والدین اور قریب ترین رشتہ داروں نے چھوڑا ہو، اور عورتوں کے لیے بھی اس مال میں حصہ ہے جو والدین اور قریب ترین رشتہ داروں نے چھوڑا ہو، چاہے وہ (ترکہ) تھوڑا ہو یا زیادہ، یہ حصہ (اللہ کی طرف سے) مقرر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

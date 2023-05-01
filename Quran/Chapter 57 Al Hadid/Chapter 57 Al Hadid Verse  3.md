@@ -3224,6 +3224,12 @@ wahi pehle hai aur wahi piche, wahi zaaher hai aur wahi maqfi aur wo har cheez k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی (سب سے) اوّل اور (سب سے) آخر ہے اور (اپنی قدرت کے اعتبار سے) ظاہر اور (اپنی ذات کے اعتبار سے) پوشیدہ ہے، اور وہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی اول بھی ہے اور آخر بھی، ظاہر بھی اور چھپا ہوا بھی، اور وہ ہر چیز کو پوری طرح جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

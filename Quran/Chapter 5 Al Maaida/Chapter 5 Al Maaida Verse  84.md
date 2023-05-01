@@ -3224,6 +3224,12 @@ aur hamaare paas kaun sa uzr hai, ke hum Allah ta’ala par aur jo haq hum ko pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہمیں کیا ہے کہ ہم اللہ پر اور اس حق (یعنی حضرت محمد مصطفیٰ صلی اللہ علیہ وآلہ وسلم اور قرآن مجید) پر جو ہمارے پاس آیا ہے، ایمان نہ لائیں حالانکہ ہم (بھی یہ) طمع رکھتے ہیں کہ ہمارا رب ہمیں نیک لوگوں کے ساتھ (اپنی رحمت و جنت میں) داخل فرما دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم اللہ پر اور جو حق ہمارے پاس آگیا ہے اس پر آخر کیوں ایمان نہ لائیں، اور پھر یہ توقع بھی رکھیں کہ ہمارا رب ہمیں نیک لوگوں میں شمار کرے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

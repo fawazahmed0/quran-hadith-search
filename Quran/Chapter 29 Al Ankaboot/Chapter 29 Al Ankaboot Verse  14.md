@@ -3224,6 +3224,12 @@ aur hum ne Nuh (alaihissalaam) ko un ki khaum ki taraf bheja, wo un mein saade n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے نوح (علیہ السلام) کو ان کی قوم کی طرف بھیجا تو وہ ان میں پچاس برس کم ایک ہزار سال رہے، پھر ان لوگوں کو طوفان نے آپکڑا اس حال میں کہ وہ ظالم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے نوح کو ان کی قوم کے پاس بھیجا تھا، چنانچہ پچاس کم ایک ہزار سال تک وہ ان کے درمیان رہے، پھر ان کو طوفان نے آپکڑا، اور وہ ظالم لوگ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

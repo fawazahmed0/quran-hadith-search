@@ -3224,6 +3224,12 @@ Allah ta’ala wo hai jis ne tumhe paida kiya, phir rozi di, phir maar daalega, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہی ہے جس نے تمہیں پیدا کیا پھر اس نے تمہیں رزق بخشا پھر تمہیں موت دیتا ہے پھر تمہیں زندہ فرمائے گا، کیا تمہارے (خود ساختہ) شریکوں میں سے کوئی ایسا ہے جو ان (کاموں) میں سے کچھ بھی کر سکے، وہ (اللہ) پاک ہے اور ان چیزوں سے برتر ہے جنہیں وہ (اس کا) شریک ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے تمہیں پیدا کیا، پھر اس نے تمہیں رزق دیا، پھر وہ تمہیں موت دیتا ہے پھر تمہیں زندہ کرے گا۔ جن کو تم نے اللہ کا شریک مانا ہوا ہے، کیا ان میں سے کوئی ہے جو ان میں سے کوئی کام کرتا ہو ؟ پاک ہے وہ اور بہت بالا و برتر اس شرک سے جس کا ارتکاب یہ لوگ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

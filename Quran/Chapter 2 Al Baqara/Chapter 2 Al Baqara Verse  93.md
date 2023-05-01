@@ -3224,6 +3224,12 @@ jab hum ne tum se waada liya aur tum par toor ko khada kar diya (aur keh diya) k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم نے تم سے پختہ عہد لیا اور ہم نے تمہارے اوپر طور کو اٹھا کھڑا کیا (یہ فرما کر کہ) اس (کتاب) کو مضبوطی سے تھامے رکھو جو ہم نے تمہیں عطا کی ہے اور (ہمارا حکم) سنو، تو (تمہارے بڑوں نے) کہا: ہم نے سن لیا مگر مانا نہیں، اور ان کے دلوں میں ان کے کفر کے باعث بچھڑے کی محبت رچا دی گئی تھی، (اے محبوب! انہیں) بتا دیں یہ باتیں بہت (ہی) بری ہیں جن کا حکم تمہیں تمہارا (نام نہاد) ایمان دے رہا ہے اگر (تم واقعۃً ان پر) ایمان رکھتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب ہم نے تم سے عہد لیا اور تمہارے اوپر طور کو بلند کردیا (اور یہ کہا کہ) جو کچھ ہم نے تم کو دیا ہے اس کو مضبوطی سے تھامو اور (جو کچھ کہا جائے اسے ہوش سے) سنو۔ کہنے لگے : ہم نے (پہلے بھی) سن لیا تھا، مگر عمل نہیں کیا تھا (اب بھی ایسا ہی کریں گے) اور (دراصل) ان کے کفر کی نحوست سے ان کے دلوں میں بچھڑا بسا ہوا تھا۔ آپ (ان سے) کہیے کہ اگر تم مومن ہو تو کتنی بری ہیں وہ باتیں جو تمہارا ایمان تمہیں تلقین کر رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

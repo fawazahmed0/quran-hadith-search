@@ -3224,6 +3224,12 @@ tumhaari biwiya tumhaari khetiya hai, apni khetiyo mein jis tarah chaaho aao aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہاری عورتیں تمہاری کھیتیاں ہیں پس تم اپنی کھیتیوں میں جیسے چاہو آؤ، اور اپنے لئے آئندہ کا کچھ سامان کرلو، اور اللہ کا تقوٰی اختیار کرو اور جان لو کہ تم اس کے حضور پیش ہونے والے ہو، اور (اے حبیب!) آپ اہلِ ایمان کو خوشخبری سنادیں (کہ اللہ کے حضور ان کی پیشی بہتر رہے گی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہاری بیویاں تمہارے لیے کھیتیاں ہیں لہذا اپنی کھتی میں جہاں سے چاہو جاؤ اور اپنے لئیے (اچھے عمل) آگے بھیجو، اللہ سے ڈرتے رہو، اور یقین رکھو کہ تم اس سے جاکر ملنے والے ہو، اور مومنوں کو خوشخبری سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

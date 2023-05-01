@@ -3224,6 +3224,12 @@ hum ne asmaan wa zameen aur un ke darmiyaan ki chizo ko khelte hoye nahi banaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آسمان اور زمین کو اور جو کچھ ان کے درمیان ہے کھیل تماشے کے طور پر (بے کار) نہیں بنایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے آسمان، زمین اور جو کچھ ان کے درمیان ہے، اس کو اس لیے پیدا نہیں کیا کہ ہم کوئی کھیل کرنا چاہتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

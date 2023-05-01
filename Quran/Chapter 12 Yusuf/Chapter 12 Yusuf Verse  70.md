@@ -3224,6 +3224,12 @@ phir jab unhe un ka samaan asbaab theek thaak kar ke diya to apne bhai ke asbaab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب (یوسف علیہ السلام نے) ان کا سامان انہیں مہیا کر دیا تو (شاہی) پیالہ اپنے بھائی (بنیامین) کی بوری میں رکھ دیا بعد ازاں پکارنے والے نے آواز دی: اے قافلہ والو! (ٹھہرو) یقیناً تم لوگ ہی چور (معلوم ہوتے) ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب یوسف نے ان کا سامان تیار کردیا تو پانی پینے کا پیالہ اپنے (سگے) بھائی کے کجاوے میں رکھوا دیا، پھر ایک منادی نے پکار کر کہا کہ : اے قافلے والو ! تم چور ہو، ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

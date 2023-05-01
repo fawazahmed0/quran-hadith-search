@@ -3224,6 +3224,12 @@ ab aadh ne to be wajah zameen mein sarkashi shuro kardi aur kehne lage ke hum se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جو قومِ عاد تھی سو انہوں نے زمین میں ناحق تکبر (و سرکشی) کی اور کہنے لگے: ہم سے بڑھ کر طاقتور کون ہے؟ اور کیا انہوں نے نہیں دیکھا کہ اللہ جس نے انہیں پیدا فرمایا ہے وہ اُن سے کہیں بڑھ کر طاقتور ہے، اور وہ ہماری آیتوں کا انکار کرتے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر عاد کا قصہ تو یہ ہوا کہ انہوں نے زمین میں ناحق تکبر کا رویہ اختیار کیا، اور کہا کہ : کون ہے جو طاقت میں ہم سے زیادہ ہو۔ بھلا کیا ان کو یہ نہیں سوجھا کہ جس اللہ نے ان کو پیدا کیا ہے وہ طاقت میں ان سے کہیں زیادہ ہے اور وہ ہماری آیتوں کا انکار کرتے رہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

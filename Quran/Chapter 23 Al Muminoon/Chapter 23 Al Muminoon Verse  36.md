@@ -3224,6 +3224,12 @@ nahi nahi, door aur bahuth door hai wo jis ka tum waada diye jaate ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بعید (اَز قیاس) بعید (اَز وقوع) ہیں وہ باتیں جن کا تم سے وعدہ کیا جا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس بات سے تمہیں ڈرایا جارہا ہے وہ تو بہت ہی بعید بات ہے، سمجھ سے بالکل ہی دور۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

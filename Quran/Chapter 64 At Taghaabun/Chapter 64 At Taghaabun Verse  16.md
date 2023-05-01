@@ -3224,6 +3224,12 @@ pas jahaan tak tum se ho sa ke Allah se darte raho aur sunte aur maangte chale j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تم اللہ سے ڈرتے رہو جس قدر تم سے ہوسکے اور (اُس کے احکام) سنو اور اطاعت کرو اور (اس کی راہ میں) خرچ کرو یہ تمہارے لئے بہتر ہوگا، اور جو اپنے نفس کے بخل سے بچا لیا جائے سو وہی لوگ فلاح پانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا جہاں تک تم سے ہوسکے اللہ سے ڈرتے رہو، اور سنو اور مانو اور (اللہ کے حکم کے مطابق) خرچ کرو، یہ تمہارے ہی لیے بہتر ہے، اور جو لوگ اپنے دل کی لالچ سے محفوظ ہوجائیں، وہی فلاح پانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

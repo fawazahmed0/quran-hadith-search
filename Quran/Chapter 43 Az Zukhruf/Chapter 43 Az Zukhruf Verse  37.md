@@ -3224,6 +3224,12 @@ aur wo unhe raah se rokte hai, aur ye isi qayaal mein rehte hai ke ye hidaayath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (شیاطین) انہیں (ہدایت کے) راستہ سے روکتے ہیں اور وہ یہی گمان کئے رہتے ہیں کہ وہ ہدایت یافتہ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے شیاطین ان کو راستے سے روکتے رہتے ہیں، اور وہ سمجھتے ہی کہ ہم ٹھیک راستے پر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

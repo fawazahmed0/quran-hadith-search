@@ -3224,6 +3224,12 @@ aap par hum ne haq ke saath ye kitaab logo ke liye naazil farmaayi hai, pas jo s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے آپ پر لوگوں (کی رہنمائی) کے لئے حق کے ساتھ کتاب اتاری، سو جس نے ہدایت پائی تو اپنے ہی فائدے کے لئے اور جو گمراہ ہوا تو اپنے ہی نقصان کے لئے گمراہ ہوا اور آپ اُن کے ذمّہ دار نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر !) ہم نے لوگوں کے فائدے کے لیے تم پر یہ کتاب برحق نازل کی ہے۔ اب جو شخص راہ راست پر آجائے گا۔ وہ اپنی ہی بھلائی کے لیے آئے گا، اور جو گمراہی اختیار کرے گا، وہ اپنی گمراہی سے اپنا ہی نقصان کرے گا، اور تم اس کے ذمہ دار نہیں ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tere paas jab munaafiq aate hai to kehte hai ke hum us baath ke gawaah hai ke be
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) جب منافق آپ کے پاس آتے ہیں تو کہتے ہیں: ہم گواہی دیتے ہیں کہ آپ یقیناً اللہ کے رسول ہیں، اور اللہ جانتا ہے کہ یقیناً آپ اُس کے رسول ہیں، اور اللہ گواہی دیتا ہے کہ یقیناً منافق لوگ جھوٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب منافق لوگ تمہارے پاس آتے ہیں تو کہتے ہیں : ہم گواہی دیتے ہیں کہ آپ اللہ کے رسول ہیں اور اللہ جانتا ہے کہ آپ واقعی اس کے رسول ہیں، اور اللہ (یہ بھی) گواہی دیتا ہے کہ یہ منافق لوگ جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

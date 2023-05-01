@@ -3224,6 +3224,12 @@ ya jo kuch un se waada kiya hai wo tujhe dikha de, hum un par bhi khudrath rakht
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا ہم آپ کو وہ (عذاب ہی) دکھا دیں جس کا ہم نے اُن سے وعدہ کیا ہے، سو بے شک ہم اُن پر کامل قدرت رکھنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا اگر تمہیں بھی وہ (عذاب) دکھا دیں جس کا ہم نے ان سے وعدہ کیا ہے، تب بھی ہمیں ان پر ہر طرح کی قدرت حاصل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

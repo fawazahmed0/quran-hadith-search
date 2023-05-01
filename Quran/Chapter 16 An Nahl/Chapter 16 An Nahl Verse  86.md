@@ -3224,6 +3224,12 @@ aur jab mushrikeen apne shariko ko dekh lenge, to kahenge aye hamare parvardigaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب مشرک لوگ اپنے (خود ساختہ) شریکوں کو دیکھیں گے تو کہیں گے: اے ہمارے رب! یہی ہمارے شریک تھے جن کی ہم تجھے چھوڑ کر پرستش کرتے تھے، پس وہ (شرکاء) انہیں (جواباً) پیغام بھیجیں گے کہ بیشک تم جھوٹے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے اللہ کے ساتھ شرک کیا تھا، جب وہ اپنے (گھڑے ہوئے) شریکوں کو دیکھیں گے تو کہیں گے کہ : اے ہمارے پروردگار ! یہ ہیں ہمارے (بنائے ہوئے) وہ شریک جن کو ہم تجھے چھوڑ کر پکارا کرتے تھے۔ اس موقع پر وہ (گھڑے ہوئے شریک) ان پر بات پھینک ماریں گے کہ : تم بالکل جھوٹے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yahi jawaab denge ke Allah hee hai, keh dijiye, phir tum kidhar se jaadu kar diy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ فوراً کہیں گے: یہ (سب شانیں) اللہ ہی کے لئے ہیں، (تو) آپ فرمائیں: پھر تمہیں کہاں سے (جادو کی طرح) فریب دیا جا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ضرور یہی کہیں گے کہ : سارا اختیار اللہ کا ہے۔ کہو کہ : پھر کہاں سے تم پر کوئی جادو چل جاتا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

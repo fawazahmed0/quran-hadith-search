@@ -3224,6 +3224,12 @@ ye un amaal ki wajeh se, jo tere haatho ne aage bhej rakhe thein, yaqeen maano k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ تیرے ان اعمال کے باعث ہے جو تیرے ہاتھ آگے بھیج چکے تھے اور بیشک اللہ اپنے بندوں پر بالکل ظلم کرنے والا نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (کہ) یہ سب کچھ تیرے اس کرتوت کا بدلہ ہے جو تو نے اپنے ہاتھوں سے آگے بھیجا تھا، اور یہ بات طے ہے کہ اللہ بندوں پر ظلم ڈھانے والا نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

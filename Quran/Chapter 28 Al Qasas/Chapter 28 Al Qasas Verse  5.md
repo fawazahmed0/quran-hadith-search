@@ -3224,6 +3224,12 @@ phir hamaari chaahath hoyi ke hum un par karam farmaaye jinhe zameen mein be-had
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم چاہتے تھے کہ ہم ایسے لوگوں پر احسان کریں جو زمین میں (حقوق اور آزادی سے محرومی اور ظلم و استحصال کے باعث) کمزور کر دیئے گئے تھے اور انہیں (مظلوم قوم کے) رہبر و پیشوا بنا دیں اور انہیں (ملکی تخت کا) وارث بنا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم یہ چاہتے تھے کہ جن لوگوں کو زمین میں دبا کر رکھا گیا ہے ان پر احسان کریں ان کو پیشوا بنائیں، انہی کو (ملک و مال کا) وارث بنادیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

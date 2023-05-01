@@ -3224,6 +3224,12 @@ Allah hee ruho ko un ki mauth ke waqth aur jin ki mauth nahi aayi unhe un ke nee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ جانوں کو اُن کی موت کے وقت قبض کر لیتا ہے اور اُن (جانوں) کو جنہیں موت نہیں آئی ہے اُن کی نیند کی حالت میں، پھر اُن کو روک لیتا ہے جن پر موت کا حکم صادر ہو چکا ہو اور دوسری (جانوں) کو مقرّرہ وقت تک چھوڑے رکھتا ہے۔ بے شک اس میں اُن لوگوں کے لئے نشانیاں ہیں جو غور و فکر کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ تمام روح کو ان کی موت کے وقت قبض کرلیتا ہے، اور جن کو ابھی موت نہیں آئی ہوتی، ان کو بھی ان کی نیند کی حالت میں (قبض کرلیتا ہے،) پھر جن کے بارے میں اس نے موت کا فیصلہ کرلیا۔ انہیں اپنے پاس روک لیتا ہے، اور دوسری روحوں کو ایک معین وقت تک کے لیے چھوڑ دیتا ہے یقینا اس بات میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو غور وفکر سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

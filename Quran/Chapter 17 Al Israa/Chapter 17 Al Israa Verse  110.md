@@ -3224,6 +3224,12 @@ keh dijiye ke Allah ko Allah keh kar pukaro ya rehmaan keh kar, jis naam se bhi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے کہ اللہ کو پکارو یا رحمان کو پکارو، جس نام سے بھی پکارتے ہو (سب) اچھے نام اسی کے ہیں، اور نہ اپنی نماز (میں قرات) بلند آواز سے کریں اور نہ بالکل آہستہ پڑھیں اور دونوں کے درمیان (معتدل) راستہ اختیار فرمائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : چاہے تم اللہ کو پکارو، یا رحمن کو پکارو، جس نام سے بھی (اللہ کو) پکارو گے (ایک ہی بات ہے) کیونکہ تمام بہترین نام اسی کے ہیں۔ اور تم اپنی نماز نہ بہت اونچی آواز سے پڑھو، اور نہ بہت پست آواز سے، بلکہ ان دونوں کے درمیان (معتدل) راستہ اختیار کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

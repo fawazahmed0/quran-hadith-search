@@ -3224,6 +3224,12 @@ Baap ne yeh daastan sun kar kaha “ dar-asal tumahre nafs ne tumhare liye ek au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یعقوب (علیہ السلام) نے فرمایا: (ایسا نہیں) بلکہ تمہارے نفسوں نے یہ بات تمہارے لئے مرغوب بنا دی ہے، اب صبر (ہی) اچھا ہے، قریب ہے کہ اللہ ان سب کو میرے پاس لے آئے، بیشک وہ بڑا علم والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ یہ بھائی یعقوب (علیہ السلام) کے پاس گئے، اور ان سے وہی بات کہی جو بڑے بھائی نے سکھائی تھی) یعقوب نے (یہ سن کر) کہا : نہیں، بلکہ تمہارے دلوں نے اپنی طرف سے ایک بات بنا لی ہے۔ اب تو میرے لیے صبر ہی بہتر ہے، کچھ بعید نہیں کہ اللہ میرے پاس ان سب کو لے آئے۔ بیشک اس کا علم بھی کامل ہے، حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

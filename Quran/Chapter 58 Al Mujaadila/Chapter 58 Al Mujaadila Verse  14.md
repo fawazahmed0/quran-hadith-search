@@ -3224,6 +3224,12 @@ kya tu ne un logo ko nahi dekha? jihone us khaum se dosti ki jin par Allah ghaza
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے اُن لوگوں کو نہیں دیکھا جو ایسی جماعت کے ساتھ دوستی رکھتے ہیں جن پر اللہ نے غضب فرمایا، نہ وہ تم میں سے ہیں اور نہ اُن میں سے ہیں اور جھوٹی قَسمیں کھاتے ہیں حالانکہ وہ جانتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے ان کو نہیں دیکھا جنہوں نے ایسے لوگوں کو دوست بنایا ہوا ہے جن پر اللہ کا غضب ہے ؟ یہ نہ تو تمہارے ہیں اور نہ ان کے، اور یہ جانتے بوجھتے جھوٹی باتوں پر قسمیں کھا جاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

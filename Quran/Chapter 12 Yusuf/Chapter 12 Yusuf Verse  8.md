@@ -3224,6 +3224,12 @@ jab ke unhone kaha ke yousuf aur us ka bhai banisbat hamare baap ko bahut zyada 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ وقت یاد کیجئے) جب یوسف (علیہ السلام) کے بھائیوں نے کہا کہ واقعی یوسف (علیہ السلام) اور اس کا بھائی ہمارے باپ کو ہم سے زیادہ محبوب ہیں حالانکہ ہم (دس افراد پر مشتمل) زیادہ قوی جماعت ہیں۔ بیشک ہمارے والد (ان کی محبت کی) کھلی وارفتگی میں گم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ اس وقت کا واقعہ ہے) جب یوسف کے ان (سوتیلے) بھائیوں نے (آپس میں) کہا تھا کہ : یقینی طور پر ہمارے والد کو ہمارے مقابلے میں یوسف اور اس کے (حقیقی) بھائی (بنیامین) سے زیادہ محبت ہے، حالانکہ ہم (ان کے لیے) ایک مضبوط جتھ بنے ہوئے ہیں۔ ہمیں یقین ہے کہ ہمارے والد کسی کھلی غلط فہمی میں مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

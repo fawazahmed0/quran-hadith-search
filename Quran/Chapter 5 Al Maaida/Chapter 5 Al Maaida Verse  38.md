@@ -3224,6 +3224,12 @@ chori karne wale mard aur aurath ke hath kat diya karo,ye badla hai us ka jo unh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور چوری کرنے والا (مرد) اور چوری کرنے والی (عورت) سو (تمام تر ضروری عدالتی کارروائی کے بعد) دونوں کے ہاتھ کاٹ دو اس (جرم) کی پاداش میں جو انہوں نے کمایا ہے۔ (یہ) اللہ کی طرف سے عبرت ناک سزا (ہے)، اور اللہ بڑا غالب ہے بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو مرد چوری کرے اور جو عورت چوری کرے، دونوں کے ہاتھ کاٹ دو ، تاکہ ان کو اپنے کیے کا بدلہ ملے، اور اللہ کی طرف سے عبرت ناک سزا ہو۔ اور اللہ صاحب اقتدار بھی ہے، صاحب حکمت بھی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

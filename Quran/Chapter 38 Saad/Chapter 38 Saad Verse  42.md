@@ -3224,6 +3224,12 @@ apna paao maaro, ye nahaane ka thanda aur pine ka paani hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ارشاد ہوا:) تم اپنا پاؤں زمین پر مارو، یہ (پانی کا) ٹھنڈا چشمہ ہے نہانے کے لئے اور پینے کے لئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ہم نے ان سے کہا) اپنا پاؤں زمین پر مارو، لو ! یہ ٹھنڈا پانی ہے نہانے کے لیے بھی اور پینے کے لیے بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ baaz log Allah ke baare mein baghair ilm ke aur baghair hidaayath ke aur baghair
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں میں سے کچھ ایسے بھی ہیں جو اللہ (کی ذات و صفات اور قدرتوں) کے بارے میں جھگڑا کرتے رہتے ہیں بغیر علم و دانش کے اور بغیر کسی ہدایت و دلیل کے اور بغیر کسی روشن کتاب کے (جو آسمان سے اتری ہو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں میں کچھ ایسے ہیں جو اللہ کے بارے میں جھگڑے کرتے ہیں، حالانکہ ان کے پاس نہ کوئی علم ہے نہ ہدایت، اور نہ کوئی روشنی دینے والی کتاب۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

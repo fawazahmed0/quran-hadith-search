@@ -3224,6 +3224,12 @@ tab bhi yahi kahenge ke hamari nazar bandi kardi gayi hai, balke hum logo par ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(تب بھی) یہ لوگ یقیناً (یہ) کہیں گے کہ ہماری آنکھیں (کسی حیلہ و فریب کے ذریعے) باندھ دی گئی ہیں بلکہ ہم لوگوں پر جادو کر دیا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تب بھی یہی کہیں گے کہ ہماری نظر بندی کردی گئی ہے، بلکہ ہم لوگ جادو کے اثر میں آئے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

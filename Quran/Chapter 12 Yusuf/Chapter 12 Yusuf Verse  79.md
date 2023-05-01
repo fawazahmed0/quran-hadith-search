@@ -3224,6 +3224,12 @@ yousuf (alaihissallaam) ne kaha, hum ne jis ke paas apni cheez payi hai us ke si
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یوسف (علیہ السلام) نے کہا: اللہ کی پناہ کہ ہم نے جس کے پاس اپنا سامان پایا اس کے سوا کسی (اور) کو پکڑ لیں تب تو ہم ظالموں میں سے ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یوسف نے کہا : اس (ناانصافی) سے میں اللہ کی پناہ مانگتا ہوں کہ جس شخص کے پاس سے ہماری چیز ملی ہے، اس کو چھوڑ کر کسی اور کو پکڑ لیں۔ اگر ہم ایسا کریں گے تو یقینی طور پر ہم ظالم ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

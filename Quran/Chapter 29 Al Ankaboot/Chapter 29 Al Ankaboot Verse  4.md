@@ -3224,6 +3224,12 @@ kya jo log buraiyya kar rahe hai, unhone ye samajh rakha hai ke wo hamaare qaabo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا جو لوگ برے کام کرتے ہیں یہ گمان کئے ہوئے ہیں کہ وہ ہمارے (قابو) سے باہر نکل جائیں گے؟ کیا ہی برا ہے جو وہ (اپنے ذہنوں میں) فیصلہ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے برے برے کام کیے ہیں، کیا وہ یہ سمجھتے ہیں کہ وہ ہم سے بازی لے جائیں گے ؟ بہت برا اندازہ ہے جو وہ لگا رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ shaytaan ka un par koyi zoor (aur dabaau) na tha, magar is liye ke hum un logo k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور شیطان کا ان پر کچھ زور نہ تھا مگر یہ اس لئے (ہوا) کہ ہم ان لوگوں کو جو آخرت پر ایمان رکھتے ہیں ان لوگوں سے ممتاز کر دیں جو اس کے بارے میں شک میں ہیں، اور آپ کا رب ہر چیز پر نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ابلیس کو ان پر کوئی تسلط نہیں تھا، البتہ ہم (نے اس کو بہکانے کی صلاحیت اس لیے دی تھی کہ) ہم یہ دیکھنا چاہتے تھے کہ کون ہے جو آخرت پر ایمان لاتا ہے اور کون ہے جو اس کے بارے میں شک میں پڑا ہوا ہے۔ اور تمہارا پروردگار ہر چیز پر نگران ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

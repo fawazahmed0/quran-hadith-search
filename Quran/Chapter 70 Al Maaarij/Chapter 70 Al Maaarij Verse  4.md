@@ -3224,6 +3224,12 @@ jis ki taraf farishte aur ruh chadte hai, ek din mein jis ki meqdaar pachaas haz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس (کے عرش) کی طرف فرشتے اور روح الامین عروج کرتے ہیں ایک دن میں، جس کا اندازہ (دنیوی حساب سے) پچاس ہزار برس کا ہے٭o٭ فِی یَومٍ اگر وَاقِعٍ کا صلہ ہو تو معنی ہوگا کہ جس دن (یوم قیامت کو) عذاب واقع ہوگا اس کا دورانیہ 50 ہزار برس کے قریب ہے۔ اور اگر یہ تَعرُجُ کا صلہ ہو تو معنی ہوگا کہ ملائکہ اور اَرواحِ مومنین جو عرشِ اِلٰہی کی طرف عروج کرتی ہیں ان کے عروج کی رفتار 50 ہزار برس یومیہ ہے، وہ پھر بھی کتنی مدت میں منزلِ مقصود تک پہنچتے ہیں۔ واﷲ أعلم بالصواب۔ (یہاں سے نوری سال (light year) کے تصور کا اِستنباط ہوتا ہے۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرشتے اور روح القدس اس کی طرف ایک ایسے دن میں چڑھ کر جاتے ہیں جس کی مقدار پچاس ہزار سال ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

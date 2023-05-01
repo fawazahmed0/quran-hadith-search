@@ -3224,6 +3224,12 @@ tu hee raath ko din mein daakhil karta hai aur din ko raath mein le jaata hai, t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو ہی رات کو دن میں داخل کرتا ہے اور دن کو رات میں داخل کرتا ہے اور تُو ہی زندہ کو مُردہ سے نکالتا ہے اورمُردہ کو زندہ سے نکالتا ہے اور جسے چاہتا ہے بغیر حساب کے (اپنی نوازشات سے) بہرہ اندوز کرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو ہی رات کو دن میں داخل کرتا ہے اور دن کو رات میں داخل کرتا ہے۔ اور تو ہی بےجان چیز میں سے جاندار کو برآمد کرلیتا ہے اور جاندار میں سے بےجان چیز نکال لاتا ہے، اور جس کو چاہتا ہے بےحساب رزق عطا فرماتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

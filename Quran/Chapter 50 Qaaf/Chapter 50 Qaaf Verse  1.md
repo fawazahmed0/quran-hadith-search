@@ -3224,6 +3224,12 @@ khaaaf! bahuth badi shaan waale is Qur’aan ki qasam hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ق (حقیقی معنی اللہ اور رسول صلی اللہ علیہ وآلہ وسلم ہی بہتر جانتے ہیں)، قسم ہے قرآنِ مجید کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ق، قرآن مجید کی قسم ! (ان کافروں نے پیغمبر کو کسی دلیل کی وجہ سے نہیں جھٹلایا)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir (bani israel ki) jamaato ne aapas mein eqtelaaf kiya, pas zaalimo ke liye q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اُن کے درمیان (آپس میں ہی) مختلف فرقے ہو گئے، سو جن لوگوں نے ظلم کیا اُن کے لئے دردناک دن کے عذاب کی خرابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی ان میں سے کئی گروہوں نے اختلاف پیدا کیا، چنانچہ ان ظالموں کے لیے ایک دردناک دن کے عذاب کی وجہ سے بڑی خرابی ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

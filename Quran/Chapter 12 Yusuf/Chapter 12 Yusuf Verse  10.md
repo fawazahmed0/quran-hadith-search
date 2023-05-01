@@ -3224,6 +3224,12 @@ un mein se ek ne kaha yousuf ko qatl to na karo balke ose kisi andhe koye (ki ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان میں سے ایک کہنے والے نے کہا: یوسف (علیہ السلام) کو قتل مت کرو اور اسے کسی تاریک کنویں کی گہرائی میں ڈال دو اسے کوئی راہ گیر مسافر اٹھا لے جائے گا اگر تم (کچھ) کرنے والے ہو (تو یہ کرو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہی میں سے ایک کہنے والے نے کہا : یوسف کو قتل تو نہ کرو، البتہ اگر تمہیں کچھ کرنا ہی ہے تو اسے کسی اندھے کنویں میں پھینک آؤ، تاکہ کوئی قافلہ اسے اٹھا کرلے جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

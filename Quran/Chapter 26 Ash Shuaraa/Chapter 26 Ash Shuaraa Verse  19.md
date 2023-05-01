@@ -3224,6 +3224,12 @@ phir tu apna wo kaam kar gaya, jo kar gaya, aur tu na shukro mein hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (پھر) تم نے اپنا وہ کام کر ڈالا جو تم نے کیا تھا (یعنی ایک قبطی کو قتل کر دیا) اور تم ناشکر گزاروں میں سے ہو (ہماری پرورش اور احسانات کو بھول گئے ہو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو حرکت تم نے کی تھی وہ بھی کر گزرے اور تم بڑے ناشکرے آدمی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

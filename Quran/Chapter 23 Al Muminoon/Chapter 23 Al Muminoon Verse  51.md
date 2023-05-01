@@ -3224,6 +3224,12 @@ aye paighambaro! halaal chize khao aur nek amal karo, tum jo kuch kar rahe ho us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے رُسُلِ (عظام!) تم پاکیزہ چیزوں میں سے کھایا کرو (جیسا کہ تمہارا معمول ہے) اور نیک عمل کرتے رہو، بے شک جو عمل بھی تم کرتے ہو میں اُس سے خوب واقف ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے پیغمبرو ! پاکیزہ چیزوں میں سے (جو چاہو) کھاؤ اور نیک عمل کرو۔ یقین رکھو کہ جو کچھ تم کرتے ہو، مجھے اس کا پورا پورا علم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

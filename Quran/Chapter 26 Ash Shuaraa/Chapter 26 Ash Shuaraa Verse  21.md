@@ -3224,6 +3224,12 @@ phir tum se khauf kha kar main tum mein se bhaag gaya, phir mujhe mere rab ne hu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر میں (اس وقت) تمہارے (دائرہ اختیار) سے نکل گیا جب میں تمہارے (ارادوں) سے خوفزدہ ہوا پھر میرے رب نے مجھے حکمِ (نبوت) بخشا اور (بالآخر) مجھے رسولوں میں شامل فرما دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب مجھے تم لوگوں سے خوف ہوا تو میں تمہارے پاس سے فرار ہوگیا، پھر اللہ نے مجھے حکمت عطا فرمائی، اور پیغمبروں میں شامل فرما دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

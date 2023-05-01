@@ -3224,6 +3224,12 @@ Allah ta’ala likh chuka hai ke beshak main aur mere paighambar ghaalib rahenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے لکھ دیا ہے کہ یقینا میں اور میرے رسول ضرور غالب ہو کر رہیں گے، بیشک اللہ بڑی قوت والا بڑے غلبہ والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے یہ بات لکھ دی ہے کہ میں اور میرے پیغمبر ضرور غالب آئیں گے۔ یقین رکھو کہ اللہ بڑا قوت والا، بڑے اقتدار والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

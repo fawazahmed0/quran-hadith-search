@@ -3224,6 +3224,12 @@ yaqinan jo log khuda tars29 hai jab un ko koyi qatra shitaan ki taraf se aa jaat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے تقوی اختیار کیا ہے، انہیں جب شیطان کی طرف سے کوئی خیال آکر چھوتا بھی ہے تو وہ (اللہ کو) یاد کرلیتے ہیں۔ چنانچہ اچانک ان کی آنکھیں کھل جاتی ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

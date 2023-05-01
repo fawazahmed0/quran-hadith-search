@@ -3224,6 +3224,12 @@ wo log wahaan koyi laghu baath na sunenge, sirf salaam hee salaam sunenge, un ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اس میں کوئی بے ہودہ بات نہیں سنیں گے مگر (ہر طرف سے) سلام (سنائی دے گا)، ان کے لئے ان کا رزق اس میں صبح و شام (میسر) ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اس میں سلامتی کی باتوں کے سوا کوئی لغو بات نہیں سنیں گے۔ اور وہاں ان کا رزق انہیں صبح و شام ملا کرے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

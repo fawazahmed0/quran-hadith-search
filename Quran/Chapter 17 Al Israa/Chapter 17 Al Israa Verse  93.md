@@ -3224,6 +3224,12 @@ ya aap ke apne liye koyi sone ka ghar ho jaaye ya aap aasmaan par chad jaaye aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا آپ کا کوئی سونے کا گھر ہو (جس میں آپ خوب عیش سے رہیں) یا آپ آسمان پر چڑھ جائیں، پھر بھی ہم آپ کے (آسمان میں) چڑھ جانے پر ہرگز ایمان نہیں لائیں گے یہاں تک کہ آپ (وہاں سے) ہمارے اوپر کوئی کتاب اتار لائیں جسے ہم (خود) پڑھ سکیں، فرما دیجئے: میرا رب (ان خرافات میں الجھنے سے) پاک ہے میں تو ایک انسان (اور) اللہ کا بھیجا ہوا (رسول) ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا پھر تمہارے لیے ایک سونے کا گھر پیدا ہوجائے، یا تم آسمان پر چڑھ جاؤ، اور ہم تمہارے چڑھنے کو بھی اس وقت تک نہیں مانیں گے جب تک تم ہم پر ایسی کتاب نازل نہ کردو جسے ہم پڑھ سکیں۔ (اے پیغمبر) کہہ دو کہ : سبحان اللہ ! میں تو ایک بشر ہوں جسے پیغمبر بنا کر بھیجا گیا ہے، اس سے زیادہ کچھ نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

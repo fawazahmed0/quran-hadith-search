@@ -3224,6 +3224,12 @@ jaise ummath nuh aur aadh wa samoodh aur un ke baadh waalo ka (haal hoa) Allah a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قومِ نوح اور عاد اور ثمود اور جو لوگ ان کے بعد ہوئے (ان) کے دستورِ سزا کی طرح، اور اللہ بندوں پر ہرگز زیادتی نہیں چاہتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور تمہارا حال بھی ویسا نہ ہو) جیسا حال نوح (علیہ السلام) کی قوم کا، اور عاد وثمود کا اور ان کے بعد کے لوگوں کا ہوا تھا۔ اور اللہ بندوں پر ظلم کرنا نہیں چاہتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

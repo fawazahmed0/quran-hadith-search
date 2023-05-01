@@ -3224,6 +3224,12 @@ balke qaas osi ko pukaroge, phir jis ke liye tum pukaaroge, agar wo chaahe to us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ایسا ہرگز ممکن نہیں) بلکہ تم (اب بھی) اسی (اللہ) کو ہی پکارتے ہو پھر اگر وہ چاہے تو ان (مصیبتوں) کو دور فرما دیتا ہے جن کے لئے تم (اسے) پکارتے ہو اور (اس وقت) تم ان (بتوں) کو بھول جاتے ہو جنہیں (اللہ کا) شریک ٹھہراتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلکہ اسی کو پکارو گے، پھر جس پریشانی کے لیے تم نے اسے پکارا ہے، اگر وہ چاہے گا تو اسے دور کردے گا، اور جن (دیوتاؤں) کو تم اللہ کے ساتھ شریک ٹھہراتے ہو (اس وقت) ان کو بھول جاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

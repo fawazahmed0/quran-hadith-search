@@ -3224,6 +3224,12 @@ har jandaar mauth ka maza chakne wala hai, hum ba-tareeqe imtehaan tum mein se h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہر جان کو موت کا مزہ چکھنا ہے، اور ہم تمہیں برائی اور بھلائی میں آزمائش کے لئے مبتلا کرتے ہیں، اور تم ہماری ہی طرف پلٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہر جان دار کو موت کا مزہ چکھنا ہے۔ اور ہم تمہیں آزمانے کے لیے بری بھلی حالتوں میں مبتلا کرتے ہیں، اور تم سب ہمارے پاس ہی لوٹا کر لائے جاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ mujhe us ka bhi ilm nahi, mumkin hai ye tumhaari azmaayesh ho, aur ek muqarrara 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں (از خود) یہ نہیں جانتا شاید یہ (تاخیرِ عذاب اور تمہیں دی گئی ڈھیل) تمہارے حق میں آزمائش ہو اور (تمہیں) ایک مقرر وقت تک فائدہ پہنچانا مقصود ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں نہیں جانتا شاید (سزا میں) یہ (تاخیر) تمہارے لیے ایک آزمائش ہے اور کسی خاص وقت تک کے لیے مزے کرنے کا موقع دینا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

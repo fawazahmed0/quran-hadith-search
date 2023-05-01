@@ -3224,6 +3224,12 @@ ya yo kaho ke pehle pehle shirk to hamaare bado ne kiya aur hum un ke baadh un k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا یہ نہ کہہ دو کہ : شرک (کا آغاز) تو بہت پہلے ہمارے باپ دادوں نے کیا تھا، اور ہم ان کے بعد انہی کی اولاد بنے۔ تو کیا آپ ہمیں ان کاموں کی وجہ سے ہلاک کردیں گے جو غلط کار لوگوں نے کیے تھے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

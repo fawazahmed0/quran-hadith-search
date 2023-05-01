@@ -3224,6 +3224,12 @@ yaqinan hum ne insaan ko kaali aur sadi hoyi khan-khanaati mitti se paida farmay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے انسان کی (کیمیائی) تخلیق ایسے خشک بجنے والے گارے سے کی جو (پہلے) سِن رسیدہ (اور دھوپ اور دیگر طبیعیاتی اور کیمیائی اثرات کے باعث تغیر پذیر ہو کر) سیاہ بو دار ہو چکا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے انسان کو سڑے ہوئے گارے کی کھنکھناتی ہوئی مٹی سے پیدا کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

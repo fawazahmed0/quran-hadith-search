@@ -3224,6 +3224,12 @@ ta ke Allah ta’ala saccho ko un ki sacchaayi ka badhla de aur agar chaahe to m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) اس لئے کہ اللہ سچے لوگوں کو ان کی سچائی کا بدلہ دے اور منافقوں کو چاہے تو عذاب دے یا ان کی توبہ قبول فرما لے۔ بیشک اللہ بڑا بخشنے والا بڑا رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ واقعہ اس لیے ہوا) تاکہ اللہ سچوں کو ان کی سچائی کا انعام دے، اور منافقوں کو اگر چاہے تو عذاب دے، یا ان کی توبہ قبول کرلے۔ اللہ یقینا بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

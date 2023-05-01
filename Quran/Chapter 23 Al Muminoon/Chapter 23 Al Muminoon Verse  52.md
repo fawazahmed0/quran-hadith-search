@@ -3224,6 +3224,12 @@ yaqinan tumhara ye deen ek hee deen hai aur mein hee tum sab ka rab hoon, pas tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک یہ تمہاری امت ہے (جو حقیقت میں) ایک ہی امت (ہے) اور میں تمہارا رب ہوں سو مجھ سے ڈرا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ یہی تمہارا دین ہے، (سب کے لیے) ایک ہی دین، اور میں تمہارا پروردگار ہوں، اس لیے دل میں (صرف) میرا رعب رکھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

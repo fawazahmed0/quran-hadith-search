@@ -3224,6 +3224,12 @@ kya unhone asmaan ko apne upar nahi dekha? ke hum ne ose kis tarah banaya hai au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کیا انہوں نے آسمان کی طرف نگاہ نہیں کی جو ان کے اوپر ہے کہ ہم نے اسے کیسے بنایا ہے اور (کیسے) سجایا ہے اور اس میں کوئی شگاف (تک) نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا انہوں نے اپنے اوپر آسمان کو نہیں دیکھا کہ ہم نے اسے کیسے بنایا ہے ؟ اور ہم نے اسے خوبصورتی بخشی ہے، اور اس میں کسی قسم کے رخنے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ so ye hai Allah tala jo tumhara rub haqiqi hai,phir haq ke badh aur kya reh gaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس یہی (عظمت و قدرت والا) اللہ ہی تو تمہارا سچا رب ہے، پس (اس) حق کے بعد سوائے گمراہی کے اور کیا ہوسکتا ہے، سو تم کہاں پھرے جارہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر تو لوگو ! وہی اللہ ہے جو تمہارا مالک برحق ہے، پھر حق واضح ہوجانے کے بعد گمراہی کے سوا اور کیا باقی رہ گیا ؟ اس کے باوجود تمہیں کوئی کہاں الٹ لئے جارہا ہے ؟ ”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

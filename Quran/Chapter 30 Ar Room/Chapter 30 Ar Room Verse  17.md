@@ -3224,6 +3224,12 @@ pas Allah ta’ala ki tasbih pada karo, jab ke tum shaam karo aur jab subaah kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تم اللہ کی تسبیح کیا کرو جب تم شام کرو (یعنی مغرب اور عشاء کے وقت) اور جب تم صبح کرو (یعنی فجر کے وقت)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اللہ کی تسبیح کرو اس وقت بھی جب تمہارے پاس شام آتی ہے، اور اس وقت بھی جب تم پر صبح طلوع ہوتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

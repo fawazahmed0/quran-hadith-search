@@ -3224,6 +3224,12 @@ aur na un logo mein se ho jinhone Allah tala ki ayato ko jhutlaya,kahi aap khasa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ ہرگز ان لوگوں میں سے ہوجانا جو اللہ کی آیتوں کو جھٹلاتے رہے ورنہ تُو خسارہ پانے والوں میں سے ہو جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نیز کبھی ہرگز ان لوگوں میں شامل نہ ہونا، جنہوں نے اللہ کی آیتوں کو جھٹلایا ہے، ورنہ تم ان لوگوں میں شامل ہوجاؤ گے جنہوں نے گھاٹے کا سودا کرلیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

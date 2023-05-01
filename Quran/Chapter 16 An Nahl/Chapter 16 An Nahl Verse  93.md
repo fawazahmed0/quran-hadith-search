@@ -3224,6 +3224,12 @@ agar Allah chaahta tum sab ko ek hee gruh bana deta lekin wo jise chaahe gumraah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ چاہتا تو تم (سب) کو ایک ہی امت بنا دیتا لیکن وہ جسے چاہتا ہے گمراہ ٹھہرا دیتا ہے اور جسے چاہتا ہے ہدایت فرما دیتا ہے، اور تم سے ان کاموں کی نسبت ضرور پوچھا جائے گا جو تم انجام دیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ چاہتا تو تم سب کو ایک ہی امت (یعنی ایک ہی دین کا پیرو) بنا دیتا، لیکن وہ جس کو چاہتا ہے (اس کی ضد کی وجہ سے) گمراہی میں ڈال دیتا ہے، اور جس کو چاہتا ہے ہدایت تک پہنچا دیتا ہے۔ اور تم جو عمل بھی کرتے تھے اس کے بارے میں تم سے ضرور باز پرس ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

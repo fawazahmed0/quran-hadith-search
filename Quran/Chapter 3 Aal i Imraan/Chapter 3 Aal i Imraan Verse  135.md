@@ -3224,6 +3224,12 @@ jab un se koyi na-shaayesta25 kaam ho jaaye ya koyi gunaah kar baithe to fauran 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ) ایسے لوگ ہیں کہ جب کوئی برائی کر بیٹھتے ہیں یا اپنی جانوں پر ظلم کر بیٹھتے ہیں تو اللہ کا ذکر کرتے ہیں پھر اپنے گناہوں کی معافی مانگتے ہیں، اور اللہ کے سوا گناہوں کی بخشش کون کرتا ہے، اور پھر جو گناہ وہ کر بیٹھے تھے ان پر جان بوجھ کر اصرار بھی نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ وہ لوگ ہیں کہ اگر کبھی کوئی بےحیائی کا کام کر بھی بیٹھتے ہیں یا (کسی اور طرح) اپنی جان پر ظلم کر گزرتے ہیں تو فورا اللہ کو یاد کرتے ہیں کہ اور اس کے نتیجے میں اپنے گناہوں کی معافی مانگتے ہیں، اور اللہ کے سوا ہے بھی کون جو گناہوں کی معافی دے ؟ اور یہ اپنے کیے پر جانتے بوجھتے اصرار نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

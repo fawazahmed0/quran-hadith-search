@@ -3224,6 +3224,12 @@ A koly vony pobachatʹ te, shcho yim obitsyano, to diznayutʹsya, chyyi pomichny
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ جب یہ لوگ وہ (عذاب) دیکھ لیں گے جس کا ان سے وعدہ کیا جا رہا ہے تو (اُس وقت) انہیں معلوم ہوگا کہ کون مددگار کے اعتبار سے کمزور تر اور عدد کے اِعتبار سے کم تر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور یہ لوگ نافرمانی کرتے رہیں گے) یہاں تک کہ جب وہ چیز انہیں نظر آجائے گی جس سے انہیں ڈرایا جارہا ہے تو اس وقت انہیں پتہ چل جائے گا کہ کس کے مددگار کمزور ہیں، اور کون تعداد میں کم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ yaqinan un mein se har ek jab un ke ru baru jaega to aap ka rub ose us ke amaal 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک آپ کا رب ان سب کو ان کے اَعمال کا پورا پورا بدلہ دے گا، وہ جو کچھ کر رہے ہیں یقینًا وہ اس سے خوب آگاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یقین رکھو کہ سب لوگوں کا معاملہ یہی ہے کہ تمہارا پروردگار ان کے اعمال کا بدلہ پورا پورا دے گا۔ یقینا وہ ان کے تمام اعمال سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

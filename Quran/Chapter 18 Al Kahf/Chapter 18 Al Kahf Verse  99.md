@@ -3224,6 +3224,12 @@ us din hum unhe aapas mein ek dosre mein gad-mad hote hoye chohd denge aur soor 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم اس وقت (جملہ مخلوقات یا یاجوج اور ماجوج کو) آزاد کر دیں گے وہ (تیز و تند موجوں کی طرح) ایک دوسرے میں گھس جائیں گے اور صور پھونکا جائے گا تو ہم ان سب کو (میدانِ حشر میں) جمع کرلیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس دن ہم ان کی یہ حالت کردیں گے کہ وہ موجوں کی طرح ایک دوسرے سے ٹکرا رہے ہوں گے، اور صور پھونکا جائے گا تو ہم سب کو ایک ساتھ جمع کرلیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne inhe peshwa bana diya ke hamaare hukm se logo ki rehbari kare aur hum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے انہیں (انسانیت کا) پیشوا بنایا وہ (لوگوں کو) ہمارے حکم سے ہدایت کرتے تھے اور ہم نے ان کی طرف اَعمالِ خیر اور نماز قائم کرنے اور زکوٰۃ ادا کرنے (کے احکام) کی وحی بھیجی، اور وہ سب ہمارے عبادت گزار تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان سب کو ہم نے پیشوا بنایا جو ہمارے حکم سے لوگوں کی رہنمائی کرتے تھے، اور ہم نے وحی کے ذریعے انہیں نیکیاں کرنے، نماز قائم کرنے اور زکوٰۃ ادا کرنے کی تاکید کی تھی، اور وہ ہمارے عبادت گزار تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

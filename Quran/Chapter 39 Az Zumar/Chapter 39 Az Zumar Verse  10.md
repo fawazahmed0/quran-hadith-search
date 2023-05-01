@@ -3224,6 +3224,12 @@ keh do ke aye mere imaan waale bandho! apne rab se darte raho, jo is dunya mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(محبوب! میری طرف سے) فرما دیجئے: اے میرے بندو! جو ایمان لائے ہو اپنے رب کا تقوٰی اختیار کرو۔ ایسے ہی لوگوں کے لئے جو اس دنیا میں صاحبانِ احسان ہوئے، بہترین صلہ ہے، اور اللہ کی سرزمین کشادہ ہے، بلاشبہ صبر کرنے والوں کو اُن کا اجر بے حساب انداز سے پورا کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اے میرے ایمان والے بندو ! اپنے پروردگار کا خوف دل میں رکھو۔ بھلائی انہی کی ہے جنہوں نے اس دنیا میں بھلائی کی ہے، اور اللہ کی زمین بہت وسیع ہے۔ جو لوگ صبر سے کام لیتے ہیں، ان کا ثواب انہیں بےحساب دیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

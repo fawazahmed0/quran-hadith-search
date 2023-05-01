@@ -3224,6 +3224,12 @@ phir un ke shirk ka anjaam us ke siva aur kuch bhi na hoga ke wo yo kahenge ke q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان کی (کوئی) معذرت نہ رہے گی بجز اس کے کہ وہ کہیں (گے): ہمیں اپنے رب اللہ کی قَسم ہے! ہم مشرک نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس وقت ان کے پاس کوئی بہانہ نہیں ہوگا، سوائے اس کے کہ وہ کہیں گے : اللہ کی قسم جو ہمارا پروردگار ہے ہم تو مشرک نہیں تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

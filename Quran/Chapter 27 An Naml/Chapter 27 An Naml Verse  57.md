@@ -3224,6 +3224,12 @@ pas hum ne ose aur us ke ahal ko bajuz us ki biwi ke sab ko bacha liya, us ka an
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ہم نے لوط (علیہ السلام) کو اور ان کے گھر والوں کو نجات بخشی سوائے ان کی بیوی کے کہ ہم نے اسے (عذاب کے لئے) پیچھے رہ جانے والوں میں سے مقرر کر لیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ ہم نے لوط اور اس کے گھر والوں کو بچا لیا، سوائے ان کی بیوی کے جس کے بارے میں ہم نے یہ طے کردیا تھا کہ وہ پیچھے رہ جانے والوں میں شامل رہے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

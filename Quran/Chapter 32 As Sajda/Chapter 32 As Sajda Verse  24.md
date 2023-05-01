@@ -3224,6 +3224,12 @@ aur jab un logo ne sabr kiya to hum ne un mein se aise peshwa banaaye, jo hamaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان میں سے جب وہ صبر کرتے رہے کچھ امام و پیشوا بنا دیئے جو ہمارے حکم سے ہدایت کرتے رہے اور وہ ہماری آیتوں پر یقین رکھتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان میں سے کچھ لوگوں کو، جب انہوں نے صبر کیا، ایسے پیشوا بنادیا جو ہمارے حکم سے لوگوں کی رہنمائی کرتے تھے، اور وہ ہماری آیتوں پر یقین رکھتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

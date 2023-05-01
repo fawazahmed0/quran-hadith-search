@@ -3224,6 +3224,12 @@ us din se daro jis din koyi nafs kisi nafs ko kuch fayeda na pahocha sakega, na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس دن سے ڈرو جب کوئی جان کسی دوسری جان کی جگہ کوئی بدلہ نہ دے سکے گی اور نہ اس کی طرف سے (اپنے آپ کو چھڑانے کے لیے) کوئی معاوضہ قبول کیا جائے گا اور نہ اس کو (اِذنِ الٰہی کے بغیر) کوئی سفارش ہی فائدہ پہنچا سکے گی اور نہ (اَمرِِ الٰہی کے خلاف) انہیں کوئی مدد دی جا سکے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس دن سے ڈرو جس دن کوئی شخص بھی کسی کے کچھ کام نہیں آئے گا، نہ کسی سے کسی قسم کا فدیہ قبول کیا جائے گا، نہ اس کو کوئی سفارش فائدہ دے گی اور نہ ان کو کوئی مدد پہنچے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

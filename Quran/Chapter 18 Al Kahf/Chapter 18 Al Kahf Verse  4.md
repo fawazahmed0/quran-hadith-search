@@ -3224,6 +3224,12 @@ aur un logo ko bhi dara de jo kehte hai ke Allah ta’ala aulaad rakhta hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (نیز) ان لوگوں کو ڈرائے جو کہتے ہیں کہ اللہ نے (اپنے لئے) لڑکا بنا رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تاکہ ان لوگوں کو متنبہ کرے جو یہ کہتے ہیں کہ اللہ نے کوئی بیٹا بنا رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

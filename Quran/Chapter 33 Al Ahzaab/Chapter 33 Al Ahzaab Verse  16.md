@@ -3224,6 +3224,12 @@ keh dijiye ke go tum mauth se ya khauf qatl se bhaago, tu ye bhaagna tumhe kuch 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تمہیں فرار ہرگز کوئی نفع نہ دے گا، اگر تم موت یا قتل سے (ڈر کر) بھاگے ہو تو تم تھوڑی سی مدت کے سوا (زندگانی کا) کوئی فائدہ نہ اٹھا سکو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہہ دو کہ : اگر تم موت سے یا قتل سے بھاگ بھی جاؤ تو یہ بھاگنا تمہیں کوئی فائدہ نہیں دے گا، اور اس صورت میں تمہیں (زندگی کا) لطف اٹھانے کا جو موقع دیا جائے گا وہ تھوڑا ہی سا ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

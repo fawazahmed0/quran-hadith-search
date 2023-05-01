@@ -3224,6 +3224,12 @@ kya ye log phir se jahiliyath ka fasila chahte hai,yaqin rakhne wale logo ke liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا یہ لوگ (زمانۂ) جاہلیت کا قانون چاہتے ہیں، اور یقین رکھنے والی قوم کے لئے حکم (دینے) میں اللہ سے بہتر کون ہو سکتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا یہ جاہلیت کا فیصلہ حاصل کرنا چاہتے ہیں ؟ حالانکہ جو لوگ یقین رکھتے ہوں ان کے لیے اللہ سے اچھا فیصلہ کرنے والا کون ہوسکتا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

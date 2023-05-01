@@ -3224,6 +3224,12 @@ ya misl un andhero ke hai jo nihaayath gehre samandar ki tay mein ho, jise upar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا (کافروں کے اعمال) اس گہرے سمندر کی تاریکیوں کی مانند ہیں جسے موج نے ڈھانپا ہوا ہو (پھر) اس کے اوپر ایک اور موج ہو (اور) اس کے اوپر بادل ہوں (یہ تہ در تہ) تاریکیاں ایک دوسرے کے اوپر ہیں، جب (ایسے سمندر میں ڈوبنے والا کوئی شخص) اپنا ہاتھ باہر نکالے تو اسے (کوئی بھی) دیکھ نہ سکے، اور جس کے لئے اللہ ہی نے نورِ (ہدایت) نہیں بنایا تو اس کے لئے (کہیں بھی) نور نہیں ہوتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا پھر ان (اعمال) کی مثال ایسی ہے جیسے کسی گہرے سمندر میں پھیلے ہوئے اندھیرے، کہ سمندر کو ایک موج نے ڈھانپ رکھا ہو، جس کے اوپر ایک اور موج ہو، اور اس کے اوپر بادل، غرض اوپر تلے اندھیرے ہی اندھیرے۔ اگر کوئی اپنا ہاتھ باہر نکالے تو اسے بھی نہ دیکھ پائے۔ اور جس شخص کو اللہ ہی نور عطا نہ کرے، اس کے نصیب میں کوئی نور نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

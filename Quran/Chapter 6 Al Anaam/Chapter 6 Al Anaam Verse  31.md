@@ -3224,6 +3224,12 @@ be-shak qasaare mein pade wo log jinhone Allah se milne ki takzeeb ki, yaha tak 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ایسے لوگ نقصان میں رہے جنہوں نے اللہ کی ملاقات کو جھٹلا دیا یہاں تک کہ جب ان کے پاس اچانک قیامت آپہنچے گی (تو) کہیں گے: ہائے افسوس! ہم پر جو ہم نے اس (قیامت پر ایمان لانے) کے بارے میں (تقصیر) کی، اور وہ اپنی پیٹھوں پر اپنے (گناہوں کے) بوجھ لادے ہوئے ہوں گے، سن لو! وہ بہت برا بوجھ ہے جو یہ اٹھا رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ بڑے خسارے میں ہیں وہ لوگ جنہوں نے اللہ سے جا ملنے کو جھٹلایا ہے، یہاں تک کہ جب قیامت اچانک ان کے سامنے آکھڑی ہوگی تو وہ کہیں گے : ہائے افسوس ! کہ ہم نے اس (قیامت) کے بارے میں بڑی کوتاہی کی۔ اور وہ (اس وقت) اپنی پیٹھوں پر اپنے گناہوں کا بوجھ لادے ہوئے ہوں گے۔ (لہذا) خبردار رہو کہ بہت برا بوجھ ہے جو یہ لوگ اٹھا رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

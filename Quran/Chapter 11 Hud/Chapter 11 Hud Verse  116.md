@@ -3224,6 +3224,12 @@ pas kyo na tum se pehle zamane ke logo mein se aise ahale khair log hoye jo zame
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو تم سے پہلے کی امتوں میں ایسے صاحبانِ فضل و خرد کیوں نہ ہوئے جو لوگوں کو زمین میں فساد انگیزی سے روکتے بجز ان میں سے تھوڑے سے لوگوں کے جنہیں ہم نے نجات دے دی، اور ظالموں نے عیش و عشرت (کے اسی راستے) کی پیروی کی جس میں وہ پڑے ہوئے تھے اور وہ (عادی) مجرم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم سے پہلے جو امتیں گزری ہیں، بھلا ان میں ایسے لوگ کیوں نہ ہوئے جن کے پاس اتنی بچی کھچی سمجھ تو ہوتی کہ وہ لوگوں کو زمین میں فساد مچانے سے روکتے ؟ ہاں تھوڑے سے لوگ تھے جن کو ہم نے (عذاب سے) نجات دی تھی۔ اور جو لوگ ظالم تھے، وہ جس عیش و عشرت میں تھے، اسی کے پیچھے لگے رہے، اور جرائم کا ارتکاب کرتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

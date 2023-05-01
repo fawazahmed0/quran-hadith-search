@@ -3224,6 +3224,12 @@ phir hum apne paighambaro ko aur imaan walo ko bacha lete thein, isi tarah hamar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم اپنے رسولوں کو بچا لیتے ہیں اور ان لوگوں کو بھی جو اس طرح ایمان لے آتے ہیں، (یہ بات) ہمارے ذمۂ کرم پر ہے کہ ہم ایمان والوں کو بچا لیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر (جب عذاب آتا ہے تو) ہم اپنے پیغمبروں کو اور جو لوگ ایمان لے آتے ہیں ان کو نجات دے دیتے ہیں، اسی طرح ہم نے یہ بات اپنے ذمے لے رکھی ہے کہ ہم تمام (دوسرے) مومنوں کو بھی نجات دیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

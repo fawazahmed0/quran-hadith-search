@@ -3224,6 +3224,12 @@ yahood kehte hai ke nasraani haq par nahi, aur nasraani kehte hai ke yahodi haq 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہود کہتے ہیں کہ نصرانیوں کی بنیاد کسی شے (یعنی صحیح عقیدے) پر نہیں اور نصرانی کہتے ہیں کہ یہودیوں کی بنیاد کسی شے پر نہیں، حالانکہ وہ (سب اللہ کی نازل کردہ) کتاب پڑھتے ہیں، اسی طرح وہ (مشرک) لوگ جن کے پاس (سرے سے کوئی آسمانی) علم ہی نہیں وہ بھی انہی جیسی بات کرتے ہیں، پس اللہ ان کے درمیان قیامت کے دن اس معاملے میں (خود ہی) فیصلہ فرما دے گا جس میں وہ اختلاف کرتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہودی کہتے ہیں کہ عیسائیوں (کے مذہب) کی کوئی بنیاد نہیں، اور عیسائی کہتے ہیں کہ یہودیوں (کے مذہب) کی کوئی بنیاد نہیں، حالانکہ یہ سب (آسمانی) کتاب پڑھتے ہیں۔ اسی طرح وہ (مشرکین) جن کے پاس کوئی (آسمانی) علم ہی سرے سے نہیں ہے، انہوں نے بھی ان (اہل کتاب) کی جیسی باتیں کہنی شروع کردی ہیں۔ چنانچہ اللہ ہی قیامت کے دن ان کے درمیان ان باتوں کا فیصلہ کرے گا جن میں یہ اختلاف کرتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

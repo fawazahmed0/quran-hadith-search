@@ -3224,6 +3224,12 @@ aur jis roz Allah ta’ala tamaam khalaayeq ko jama karega (kahega) aye jamaath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس دن وہ ان سب کو جمع فرمائے گا (تو ارشاد ہوگا:) اے گروہِ جنّات (یعنی شیاطین!) بیشک تم نے بہت سے انسانوں کو (گمراہ) کر لیا، اور انسانوں میں سے ان کے دوست کہیں گے: اے ہمارے رب! ہم نے ایک دوسرے سے (خوب) فائدے حاصل کئے اور (اسی غفلت اور مفاد پرستی کے عالم میں) ہم اپنی اس میعاد کو پہنچ گئے جو تو نے ہمارے لئے مقرر فرمائی تھی (مگر ہم اس کے لئے کچھ تیاری نہ کر سکے)۔ اللہ فرمائے گا کہ (اب) دوزخ ہی تمہارا ٹھکانا ہے ہمیشہ اسی میں رہو گے مگر جو اللہ چاہے۔ بیشک آپ کا رب بڑی حکمت والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس دن کا دھیان رکھو) جس دن اللہ ان سب کو گھیر کر اکٹھا کرے گا، اور (شیاطین جنات سے کہے گا کہ) اے جنات کے گروہ ! تم نے انسانوں کو بہت بڑھ چڑھ کر گمراہ کیا۔ اور انسانوں میں سے جو ان کے دوست ہوں گے، وہ کہیں گے : اے ہمارے پروردگار ! ہم ایک دوسرے سے خوب مزے لیتے رہے ہیں۔ اور اب اپنی اس میعاد کو پہنچ گئے ہیں جو آپ نے ہمارے لیے مقرر کی تھی۔ اللہ کہے گا ؛ (اب) آگ تم سب کا ٹھکانا ہے، جس میں تم ہمیشہ رہو گے، الا یہ کہ اللہ کچھ اور چاہے۔ یقین رکھو کہ تمہارے پروردگار کی حکمت بھی کامل ہے، علم بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

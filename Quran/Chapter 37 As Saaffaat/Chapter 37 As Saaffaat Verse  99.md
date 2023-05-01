@@ -3224,6 +3224,12 @@ aur us Ibraheem(alaihissalaam) ne kaha main to hijrath kar ke apne parvardigaar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ابراہیم (علیہ السلام) نے کہا: میں (ہجرت کر کے) اپنے رب کی طرف جانے والا ہوں وہ مجھے ضرور راستہ دکھائے گا (وہ ملکِ شام کی طرف ہجرت فرما گئے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ابراہیم نے کہا : میں اپنے رب کے پاس جارہا ہوں، وہی میری رہنمائی فرمائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

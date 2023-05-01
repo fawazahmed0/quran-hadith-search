@@ -3224,6 +3224,12 @@ aur kaafiro ne kaha ye to bas khud osi ka ghada ghadaaya jhoot hai, jis par aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ کہتے ہیں کہ یہ (قرآن) محض افتراء ہے جسے اس (مدعئ رسالت) نے گھڑ لیا ہے اور اس (کے گھڑنے) پر دوسرے لوگوں نے اس کی مدد کی ہے، بیشک کافر ظلم اور جھوٹ پر (اتر) آئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے، وہ کہتے ہیں کہ : یہ (قرآن) تو کچھ بھی نہیں، بس ایک من گھڑت چیز ہے جو اس شخص نے گھڑ لی ہے، اور اس کام میں کچھ اور لوگ بھی اس کے مددگار بنے ہیں۔ اس طرح (یہ بات کہہ کر) یہ لوگ بڑے ظلم اور کھلے جھوٹ پر اتر آئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

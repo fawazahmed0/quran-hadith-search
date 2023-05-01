@@ -3224,6 +3224,12 @@ un ki saza jo Allah tala se aur us ke rasulo se lade aur zamin mein fasad karte 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ اللہ اور اس کے رسول سے جنگ کرتے ہیں اور زمین میں فساد انگیزی کرتے پھرتے ہیں (یعنی مسلمانوں میں خوں ریزی، رہزنی، ڈاکہ زنی، دہشت گردی اور قتلِ عام کے مرتکب ہوتے ہیں) ان کی سزا یہی ہے کہ وہ قتل کئے جائیں یا پھانسی دیئے جائیں یا ان کے ہاتھ اور ان کے پاؤں مخالف سمتوں سے کاٹے جائیں یا (وطن کی) زمین (میں چلنے پھرنے) سے دور (یعنی ملک بدر یاقید) کر دیئے جائیں۔ یہ (تو) ان کے لئے دنیا میں رسوائی ہے اور ان کے لئے آخرت میں (بھی) بڑا عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اللہ اور اس کے رسول سے لڑائی کرتے اور زمین میں فساد مچاتے پھرتے ہیں، ان کی سزا یہی ہے کہ انہیں قتل کردیا جائے، یا سولی پر چڑھا دیا جائے، یا ان کے ہاتھ پاؤں مخالف سمتوں سے کاٹ ڈالے جائیں، یا انہیں زمین سے دور کردیا جائے یہ تو دنیا میں ان کی رسوائی ہے، اور آخرت میں ان کے لیے زبردست عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

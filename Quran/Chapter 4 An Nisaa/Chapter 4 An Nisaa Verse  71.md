@@ -3224,6 +3224,12 @@ aye musalmaano! apne bachaao ka samaan le lo phir gruh gruh ban kar kooch karo y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اپنی حفاظت کا سامان لے لیا کرو پھر (جہاد کے لئے) متفرق جماعتیں ہو کر نکلو یا سب اکٹھے ہو کر کوچ کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! (دشمن سے مقابلے کے وقت) اپنے بچاؤ کا سامان ساتھ رکھو، پھر الگ الگ دستوں کی شکل میں (جہاد کے لیے) نکلو، یا سب لوگ اکٹھے ہو کر نکل جاؤ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

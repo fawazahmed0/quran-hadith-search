@@ -3224,6 +3224,12 @@ wahi Allah hai jis ke siva koyi maboodh nahi, behetreen naam osi ke hain
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ (اسی کا اسمِ ذات) ہے جس کے سوا کوئی معبود نہیں (گویا تم اسی کا اثبات کرو اور باقی سب جھوٹے معبودوں کی نفی کر دو)، اس کے لئے (اور بھی) بہت خوبصورت نام ہیں (جو اس کی حسین و جمیل صفات کا پتہ دیتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس کے سوا کوئی معبود نہیں، اسی کے اچھے اچھے نام ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

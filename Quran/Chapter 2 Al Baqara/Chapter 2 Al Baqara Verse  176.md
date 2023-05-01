@@ -3224,6 +3224,12 @@ in azaabo ka baayes26 yahi hai ke Allah ta’ala ne sacchi kitaab utaari aur us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس وجہ سے ہے کہ اللہ نے کتاب حق کے ساتھ نازل فرمائی، اور بیشک جنہوں نے کتاب میں اختلاف ڈالا وہ مخالفت میں (حق سے) بہت دور (جا پڑے) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ اس لئے ہوگا کہ اللہ نے حق پر مشتمل کتاب اتاری ہے، اور جن لوگوں نے ایسی کتاب کے بارے میں مخالفت کا رویہ اختیار کیا ہے وہ ضدا ضدی میں بہت دور نکل گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

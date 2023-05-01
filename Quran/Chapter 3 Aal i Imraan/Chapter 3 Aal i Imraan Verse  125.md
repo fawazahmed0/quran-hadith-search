@@ -3224,6 +3224,12 @@ kyo nahi, balke agar tum sabr wa parhezgaari karo aur ye log osi dum tumhaare pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہاں اگر تم صبر کرتے رہو اور پرہیزگاری قائم رکھو اور وہ (کفّار) تم پر اسی وقت (پورے) جوش سے حملہ آور ہو جائیں تو تمہارا رب پانچ ہزار نشان والے فرشتوں کے ذریعے تمہاری مدد فرمائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں ! بلکہ اگر تم صبر اور تقوی اختیار کرو اور وہ لوگ اپنے اسی ریلے میں اچانک تم تک پہنچ جائیں تو تمہارا پروردگار پانچ ہزار فرشتے تمہاری مدد کو بھیج دے گا جنہوں نے اپنی پہچان نمایاں کی ہوئی ہوگی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

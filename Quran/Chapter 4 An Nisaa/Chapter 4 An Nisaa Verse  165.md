@@ -3224,6 +3224,12 @@ hum ne unhe rasool banaya hai khush qabriyaa sunaane waale aur agaah karne waale
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+رسول جو خوشخبری دینے والے اور ڈر سنانے والے تھے (اس لئے بھیجے گئے) تاکہ (ان) پیغمبروں (کے آجانے) کے بعد لوگوں کے لئے اللہ پر کوئی عذر باقی نہ رہے، اور اللہ بڑا غالب حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب رسول وہ تھے جو (ثواب کی) خوشخبری سنانے اور (دوزخ سے) ڈرانے والے بنا کر بھیجے گئے تھے، تاکہ ان رسولوں کے آجانے کے بعد لوگوں کے پاس اللہ کے سامنے کوئی عذر باقی نہ رہے، اور اللہ کا اقتدار بھی کامل ہے، حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

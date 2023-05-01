@@ -3224,6 +3224,12 @@ wo chaahte hai ke Allah ke noor ko apne mu se bhujaade aur Allah apne noor ko ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (منکرینِ حق) چاہتے ہیں کہ وہ اللہ کے نور کو اپنے منہ (کی پھونکوں) سے بجھا دیں، جبکہ اللہ اپنے نور کو پورا فرمانے والا ہے اگرچہ کافر کتنا ہی ناپسند کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ چاہتے ہیں کہ اپنے منہ سے اللہ کے نور کو بجھا دیں، حالانکہ اللہ اپنے نور کی تکمیل کر کے رہے گا، چاہے کافروں کو یہ بات کتنی بری لگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jinhone kufr kiya tha aur hamaari aayato ko aur aqirath ki mulaqaath ko jhut
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے کفر کیا اور ہماری آیتوں کو اور آخرت کی پیشی کو جھٹلایا تو یہی لوگ عذاب میں حاضر کئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا تھا اور ہماری آیتوں کو اور آخرت کا سامنا کرنے کو جھٹلایا تھا، تو ایسے لوگوں کو عذاب میں دھر لیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

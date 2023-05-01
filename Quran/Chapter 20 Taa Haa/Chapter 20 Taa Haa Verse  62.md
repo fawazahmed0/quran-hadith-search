@@ -3224,6 +3224,12 @@ pas ye log aapas ke mashwero mein muqtalif raaye hogaye aur chip kar chup ke chu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+چنانچہ وہ (جادوگر) اپنے معاملہ میں باہم جھگڑ پڑے اور چپکے چپکے سرگوشیاں کرنے لگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر ان کے درمیان اپنی رائے قائم کرنے میں اختلاف ہوگیا، اور وہ چپکے چپکے سرگوشیاں کرنے لگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

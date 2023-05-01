@@ -3224,6 +3224,12 @@ Allah ta’ala tumhe taakidi hukm deta hai ke amaanath waalo ki amaanate unhe pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک اللہ تمہیں حکم دیتا ہے کہ امانتیں اُنہی لوگوں کے سپرد کرو جو ان کے اَہل ہیں، اور جب تم لوگوں پر حکومت کرو تو عدل و انصاف کے ساتھ کیا کرو (یا: اور جب تم لوگوں کے درمیان فیصلہ کرو تو عدل و انصاف کے ساتھ فیصلہ کیا کرو)۔ بے شک اللہ تمہیں کیا ہی اچھی نصیحت فرماتا ہے، بے شک اللہ خوب سننے والا خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) یقینا اللہ تمہیں حکم دیتا ہے کہ تم امانتیں ان کے حق داروں تک پہنچاؤ، اور جب لوگوں کے درمیان فیصلہ کرو تو انصاف کے ساتھ فیصلہ کرو۔ یقین جانو اللہ تم کو جس بات کی نصیحت کرتا ہے وہ بہت اچھی ہوتی ہے۔ بیشک اللہ ہر بات کو سنتا اور ہر چیز کو دیکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

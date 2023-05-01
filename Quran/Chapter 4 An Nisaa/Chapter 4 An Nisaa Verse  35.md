@@ -3224,6 +3224,12 @@ agar tumhe miya biwi ke darmiyaan aapas ki an-ban ka khauf ho to ek munsif mardh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تمہیں ان دونوں کے درمیان مخالفت کا اندیشہ ہو تو تم ایک مُنصِف مرد کے خاندان سے اور ایک مُنصِف عورت کے خاندان سے مقرر کر لو، اگر وہ دونوں (مُنصِف) صلح کرانے کا اِرادہ رکھیں تو اللہ ان دونوں کے درمیان موافقت پیدا فرما دے گا، بیشک اللہ خوب جاننے والا خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہیں میاں بیوی کے درمیان پھوٹ پڑنے کا اندیشہ ہو تو (ان کے درمیان فیصلہ کرانے کے لیے) ایک منصف مرد کے خاندان میں سے اور ایک منصف عورت کے خاندان میں سے بھیج دو ۔ اگر وہ دونوں اصلاح کرانا چاہیں گے تو اللہ دونوں کے درمیان اتفاق پیدا فرما دے گا۔ بیشک اللہ کو ہر بات کا علم اور ہر بات کی خبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

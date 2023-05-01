@@ -3224,6 +3224,12 @@ aur tu farishto ko Allah ke arsh ke irdh girdh halqa baandhe hoye, apne rab ki h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب!) آپ فرشتوں کو عرش کے ارد گرد حلقہ باندھے ہوئے دیکھیں گے جو اپنے رب کی حمد کے ساتھ تسبیح کرتے ہوں گے، اور (سب) لوگوں کے درمیان حق و انصاف کے ساتھ فیصلہ کر دیا جائے گا اور کہا جائے گا کہ کُل حمد اللہ ہی کے لائق ہے جو تمام جہانوں کا پروردگار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم فرشتوں کو دیکھو گے کہ عرش کے گرد حلقہ بنائے ہوئے اپنے پروردگار کی حمد کے ساتھ اس کی تسبیح کر رہے ہوں گے، اور لوگوں کے درمیان برحق فیصلہ کردیا جائے گا، اور کہنے والے کہیں گے کہ : تمام تر تعریف اللہ کی ہے جو سارے جہانوں کا پروردگار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

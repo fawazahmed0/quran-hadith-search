@@ -3224,6 +3224,12 @@ jawaab diya aaj tum par koi malaamat nahi hai, Allah tumhe baqshe, wo sub meherb
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یوسف (علیہ السلام) نے فرمایا: آج کے دن تم پر کوئی ملامت (اور گرفت) نہیں ہے، اللہ تمہیں معاف فرما دے اور وہ سب مہربانوں سے زیادہ مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یوسف بولے : آج تم پر کوئی ملامت نہیں ہوگی، اللہ تمہیں معاف کرے، وہ سارے رحم کرنے والوں سے بڑھ کر رحم کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

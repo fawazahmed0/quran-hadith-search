@@ -3224,6 +3224,12 @@ aur kaho ke aye mere rab! tu baqsh aur rahem kar aur tu sab meherbaano se behtar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ عرض کیجئے: اے میرے رب! تو بخش دے اور رحم فرما اور تو (ہی) سب سے بہتر رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم (اے پیغمبر) یہ کہو کہ : میرے پروردگار ! ہماری خطائیں بخش دے، اور رحم فرمادے، تو سارے رحم کرنے والوں سے بڑھ کر رحم کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

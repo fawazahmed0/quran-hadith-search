@@ -3224,6 +3224,12 @@ hum ne to aap ko khush qabri aur dar sunaane wala (Nabi) bana kar bheja hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آپ کو نہیں بھیجا مگر (اللہ کے اطاعت گزار بندوں کو) خوشخبری سنانے والا اور (بغاوت شعار لوگوں کو) ڈر سنانے والا بنا کر
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ہم نے تمہیں کسی اور کام کے لیے نہیں، بلکہ اس لیے بھیجا ہے کہ تم لوگوں کو خوشخبری دو ، اور خبردار کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

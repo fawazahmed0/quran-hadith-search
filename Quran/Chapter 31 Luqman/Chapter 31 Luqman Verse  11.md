@@ -3224,6 +3224,12 @@ ye hai Allah ki maqlooq, ab tum mujhe us ke siva dosre kisi ki koyi maqlooq to d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اللہ کی مخلوق ہے، پس (اے مشرکو!) مجھے دکھاؤ جو کچھ اللہ کے سوا دوسروں نے پیدا کیا ہو۔ بلکہ ظالم کھلی گمراہی میں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ہے اللہ کی تخلیق ! اب ذرا مجھے دکھاؤ کہ اللہ کے سوا کسی نے کیا پیدا کیا ؟ بات دراصل یہ ہے کہ یہ ظالم لوگ کھلی گمراہی میں مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

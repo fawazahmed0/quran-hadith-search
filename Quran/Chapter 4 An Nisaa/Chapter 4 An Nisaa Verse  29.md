@@ -3224,6 +3224,12 @@ aye imaan waalo! apne aapas ke maal na-jaayez tariqe se math khaao,magar ye ke q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم ایک دوسرے کا مال آپس میں ناحق طریقے سے نہ کھاؤ سوائے اس کے کہ تمہاری باہمی رضا مندی سے کوئی تجارت ہو، اور اپنی جانوں کو مت ہلاک کرو، بیشک اللہ تم پر مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! آپس میں ایک دوسرے کے مال ناحق طریقے سے نہ کھاؤ، الا یہ کہ کوئی تجارت باہمی رضا مندی سے وجود میں آئی ہو (تو وہ جائز ہے) اور اپنے آپ کو قتل نہ کرو۔ یقین جانو اللہ تم پر بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

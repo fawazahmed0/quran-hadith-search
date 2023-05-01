@@ -3224,6 +3224,12 @@ jo shaqs kisi neki ya bhale kaam ki sifaarish kare ose bhi us ka kuch hissa mile
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص کوئی نیک سفارش کرے تو اس کے لئے اس (کے ثواب) سے حصہ (مقرر) ہے، اور جو کوئی بری سفارش کرے تو اس کے لئے اس (کے گناہ) سے حصہ (مقرر) ہے، اور اللہ ہر چیز پر قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص کوئی اچھی سفارش کرتا ہے، اس کو اس میں سے حصہ ملتا ہے، اور جو کوئی بری سفارش کرتا ہے اسے اس برائی میں سے حصہ ملتا ہے، اور اللہ ہر چیز پر نظر رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jawaab diya ke us ki saza yahi hai ke jis ke asbaab mein se paaya jaaye, wahi us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: اس کی سزا یہ ہے کہ جس کے سامان میں سے وہ (پیالہ) برآمد ہو وہ خود ہی اس کا بدلہ ہے (یعنی اسی کو اس کے بدلہ میں رکھ لیا جائے)، ہم ظالموں کو اسی طرح سزا دیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : اس کی سزا یہ ہے کہ جس کے کجاوے میں سے وہ (پیالہ) مل جائے، وہ خود سزا میں دھر لیا جائے۔ جو لوگ ظلم کرتے ہیں، ہم ان کو ایسی ہی سزا دیا کرتے ہیں،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

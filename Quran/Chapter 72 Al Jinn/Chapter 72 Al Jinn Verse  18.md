@@ -3224,6 +3224,12 @@ aur ye ke masjide sirf Allah hee ke liye qaas hai, pas Allah ta’ala ke saath k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ سجدہ گاہیں اللہ کے لئے (مخصوص) ہیں، سو اللہ کے ساتھ کسی اور کی پرستش مت کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : سجدے تو تمام تر اللہ ہی کا حق ہیں۔ اس لیے اللہ کے ساتھ کسی اور کی عبادت مت کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

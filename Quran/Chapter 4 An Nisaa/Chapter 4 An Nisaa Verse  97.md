@@ -3224,6 +3224,12 @@ jo log apni jaano par zulm karne waale hai, jab farishte un ki ruh qabz karte ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جن لوگوں کی روح فرشتے اس حال میں قبض کرتے ہیں کہ وہ (کفر و فسق کے ماحول میں رہ کر) اپنی جانوں پر ظلم کرنے والے ہیں (تو) وہ ان سے دریافت کرتے ہیں کہ تم کس حال میں تھے (تم نے اپنے دین اور ایمان کی حفاظت کی نہ سرزمین کفر و فسق کو چھوڑا)؟ وہ (معذرۃً) کہتے ہیں کہ ہم زمین میں کمزور و بے بس تھے، فرشتے (جواباً) کہتے ہیں: کیا اللہ کی زمین فراخ نہ تھی کہ تم اس میں (کہیں) ہجرت کر جاتے، سو یہی وہ لوگ ہیں جن کا ٹھکانا جہنم ہے، اور وہ بہت ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے اپنی جانوں پر ظلم کیا تھا۔ اور اسی حالت میں فرشتے ان کی روح قبض کرنے آئے تو بولے : تم کس حالت میں تھے ؟ وہ کہنے لگے کہ : ہم تو زمین میں بےبس کردیئے گئے تھے۔ فرشتوں نے کہا : کیا اللہ کی زمین کشادہ نہ تھی کہ تم اس میں ہجرت کرجاتے ؟ لہذا ایسے لوگوں کا ٹھکانا جہنم ہے، اور وہ نہایت برا انجام ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

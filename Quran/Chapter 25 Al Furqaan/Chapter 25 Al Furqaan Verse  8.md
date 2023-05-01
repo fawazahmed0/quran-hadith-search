@@ -3224,6 +3224,12 @@ ya us ke paas koyi qazaana hee daal diya jaata ya us ka koyi baagh hee hota jis 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا اس کی طرف کوئی خزانہ اتار دیا جاتا یا (کم از کم) اس کا کوئی باغ ہوتا جس (کی آمدنی) سے وہ کھایا کرتا اور ظالم لوگ (مسلمانوں) سے کہتے ہیں کہ تم تو محض ایک سحر زدہ شخص کی پیروی کر رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا اس کے اوپر کوئی خزانہ ہی آپڑتا، یا اس کے پاس کوئی باغ ہوتا جس میں سے یہ کھایا کرتا۔ اور یہ ظالم (مسلمانوں سے) کہتے ہیں کہ : تم جس کے پیچھے چل رہے ہو، وہ اور کچھ نہیں، بس ایک شخص ہے جس پر جادو ہوگیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

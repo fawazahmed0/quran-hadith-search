@@ -3224,6 +3224,12 @@ us ne us (farishte) ko asmaan ke khule kinaare par dekha bhi hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک انہوں نے اس (مالکِ عرش کے حُسنِ مطلق) کو (لامکاں کے) روشن کنارے پر دیکھا ہے٭o٭ یہ ترجمہ حضرت عبد اللہ بن عباس، انس بن مالک، عکرمہ، ابو سلمہ، ضحّاک، ابو العالیہ، حسن، کعب الاحبار، شریک بن عبد اللہ اور شعبی و غیرھم رضی اللہ عنھم کے اَقوال پر کیا گیا ہے جنہیں بخاری، مسلم، ترمذی، ابن جریر، بغوی اور کئی ائمہ حدیث نے روایت کیا ہے اور کثیر ائمہ تفسیر نے بھی اسے اختیار کیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ بالکل سچی بات ہے کہ انہوں نے اس فرشتے کو کھلے ہوئے افق پر دیکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

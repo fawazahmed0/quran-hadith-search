@@ -3224,6 +3224,12 @@ wo (nuh) kashti banane lage, un ki khaum ke jo sardar un ke paas se guzarte wo u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نوح (علیہ السلام) کشتی بناتے رہے اور جب بھی ان کی قوم کے سردار اُن کے پاس سے گزرتے ان کا مذاق اڑاتے۔ نوح (علیہ السلام انہیں جوابًا) کہتے: اگر (آج) تم ہم سے تمسخر کرتے ہو تو (کل) ہم بھی تم سے تمسخر کریں گے جیسے تم تمسخر کر رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ وہ کشتی بنانے لگے۔ اور جب بھی ان کی قوم کے کچھ سردار ان کے پاس سے گزرتے تو ان کا مذاق اڑاتے تھے۔ نوح نے کہا کہ : اگر تم ہم پر ہنستے ہو تو جیسے تم ہنس رہے ہو، اسی طرح ہم بھی تم پر ہنستے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

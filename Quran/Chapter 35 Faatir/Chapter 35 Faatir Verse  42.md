@@ -3224,6 +3224,12 @@ aur un kuffaar ne badi zoor daar qasam khaayi thi, ke agar un ke paas koyi daraa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ لوگ اللہ کے ساتھ بڑی پختہ قَسمیں کھایا کرتے تھے کہ اگر اُن کے پاس کوئی ڈر سنانے والا آجائے تو یہ ضرور ہر ایک امّت سے بڑھ کر راہِ راست پر ہوں گے، پھر جب اُن کے پاس ڈر سنانے والے (نبی آخر الزماں صلی اللہ علیہ وآلہ وسلم) تشریف لے آئے تو اس سے اُن کی حق سے بیزاری میں اضافہ ہی ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے پہلے اللہ کی بڑے زوروں میں قسمیں کھائی تھیں کہ اگر ان کے پاس کوئی خبردار کرنے والا (پیغمبر) آیا تو وہ ہر دوسری امت سے زیادہ ہدایت قبول کرنے والے ہوں گے۔ مگر جب ان کے پاس ایک خبردار کرنے والا آگیا تو اس کے آنے سے ان کی حالت میں اور کوئی ترقی نہیں ہوئی، سوائے اس کے کہ یہ (حق کے راستے سے) اور زیادہ بھاگنے لگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

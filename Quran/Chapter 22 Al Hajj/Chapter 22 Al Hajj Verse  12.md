@@ -3224,6 +3224,12 @@ Allah ke siva unhe pukaara karte hai, jo na unhe nuqsaan pahoncha sa ke, na nafa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (شخص) اللہ کو چھوڑ کر اس (بت) کی عبادت کرتا ہے جو نہ اسے نقصان پہنچا سکے اور نہ ہی اسے نفع پہنچا سکے، یہی تو (بہت) دور کی گمراہی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ کو چھوڑ کر ان کی عبادت کرتا ہے جو نہ اسے نقصان پہنچا سکتے ہیں، نہ کوئی فائدہ دے سکتے ہیں۔ یہی تو پرلے درجے کی گمراہی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur moosa(alaihissalaam) ne arz kiya ae hamare rub! tu ne feron ko aur us ke sar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور موسٰی (علیہ السلام) نے کہا: اے ہمارے رب! بیشک تو نے فرعون اور اس کے سرداروں کو دنیوی زندگی میں اسبابِ زینت اور مال و دولت (کی کثرت) دے رکھی ہے، اے ہمارے رب! (کیا تو نے انہیں یہ سب کچھ اس لئے دیا ہے) تاکہ وہ (لوگوں کو کبھی لالچ اور کبھی خوف دلا کر) تیری راہ سے بہکا دیں۔ اے ہمارے رب! تو ان کی دولتوں کو برباد کردے اور ان کے دلوں کو (اتنا) سخت کردے کہ وہ پھر بھی ایمان نہ لائیں حتٰی کہ وہ دردناک عذاب دیکھ لیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور موسیٰ نے کہا : اے ہمارے پروردگار ! آپ نے فرعون اور اس کے سرداروں کو دنیوی زندگی میں بڑی سج دھج اور مال و دولت بخشی ہے، اے ہمارے پروردگار ! ان کے مال و دولت کو تہس نہس کردیجیے، اور ان کے دلوں کو اتنا سخت کردیجیے کہ وہ اس وقت تک ایمان نہ لائیں جب تک دردناک عذاب آنکھوں سے نہ دیکھ لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

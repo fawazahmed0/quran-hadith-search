@@ -3224,6 +3224,12 @@ aur kabira gunaaho se, be hayaaiyo se bachte hai aur ghusse ke waqt (bhi) maaf k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ کبیرہ گناہوں اور بے حیائی کے کاموں سے پرہیز کرتے ہیں اور جب انہیں غصّہ آتا ہے تو معاف کر دیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو بڑے بڑے گناہوں اور بےحیائی کے کاموں سے پرہیز کرتے ہیں اور جب ان کو غصہ آتا ہے تو وہ درگزر سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

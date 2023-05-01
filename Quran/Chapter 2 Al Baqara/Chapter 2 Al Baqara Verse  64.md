@@ -3224,6 +3224,12 @@ lekin tum us ke baadh bhi phir gaye, phir agar Allah ta’ala ka fazl aur us ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اس (عہد اور تنبیہ) کے بعد بھی تم نے روگردانی کی، پس اگر تم پر اللہ کا فضل اور اس کی رحمت نہ ہوتی تو تم یقینا تباہ ہو جاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سب کے باوجود تم دوبارہ (راہ راست سے) پھرگئے چنانچہ اگر اللہ کا فضل اور رحمت تم پر نہ ہوتی تو تم ضرور سخت نقصان اٹھانے والوں میں شامل ہوجاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

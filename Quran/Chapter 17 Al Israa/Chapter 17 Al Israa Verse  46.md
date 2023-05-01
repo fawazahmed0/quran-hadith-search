@@ -3224,6 +3224,12 @@ aur un ke dilo par hum ne parde daal diye hai ke wo ose samjhe aur un ke kaano m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم ان کے دلوں پر (بھی) پردے ڈال دیتے ہیں تاکہ وہ اسے سمجھ (نہ) سکیں اور ان کے کانوں میں بوجھ پیدا کر دیتے ہیں (تاکہ اسے سن نہ سکیں)، اور جب آپ قرآن میں اپنے رب کا تنہا ذکر کرتے ہیں (ان کے بتوں کا نام نہیں آتا) تو وہ نفرت کرتے ہوئے پیٹھ پھیر کر بھاگ کھڑے ہوتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم ان کے دلوں پر ایسا غلاف چڑھا دیتے ہیں کہ وہ اسے سمجھتے نہیں اور ان کے کانوں میں گرانی پیدا کردیتے ہیں۔ اور جب تم قرآن میں تنہا اپنے رب کا ذکر کرتے ہو تو یہ لوگ نفرت کے عالم میں پیٹھ پھیر کر چل دیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

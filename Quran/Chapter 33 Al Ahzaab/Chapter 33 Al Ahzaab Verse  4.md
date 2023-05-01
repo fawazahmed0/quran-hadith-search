@@ -3224,6 +3224,12 @@ kisi aadmi ke sine mein Allah ta’ala ne do dil nahi rakhe aur apni jin biwiyo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے کسی آدمی کے لئے اس کے پہلو میں دو دل نہیں بنائے، اور اس نے تمہاری بیویوں کو جنہیں تم ظِہار کرتے ہوئے ماں کہہ دیتے ہو تمہاری مائیں نہیں بنایا، اور نہ تمہارے منہ بولے بیٹوں کو تمہارے (حقیقی) بیٹے بنایا، یہ سب تمہارے منہ کی اپنی باتیں ہیں، اور اللہ حق بات فرماتا ہے، اور وہی (سیدھا) راستہ دکھاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کسی بھی شخص کے سینے میں دو دل پیدا نہیں کیے اور تم اپنی جن بیویوں کو ماں کی پشت سے تشبیہ دیتے ہو ان کو تمہاری ماں نہیں بنایا اور نہ تمہارے منہ بولے بیٹوں کو تمہارا حقیقی بیٹا قرار دیا ہے۔ یہ تو باتیں ہی باتیں ہیں جو تم اپنے منہ سے کہہ دیتے ہو، اور اللہ وہی بات کہتا ہے جو حق ہو، اور وہی صحیح راستہ بتلاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

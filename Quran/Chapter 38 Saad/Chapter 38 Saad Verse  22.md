@@ -3224,6 +3224,12 @@ jab ye (hazrath) Dawood(alaihissalaam) ke paas pahonche, pas ye un se dar gaye, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب وہ داؤد (علیہ السلام) کے پاس اندر آگئے تو وہ اُن سے گھبرائے، انہوں نے کہا: گھبرائیے نہیں، ہم (ایک) مقدّمہ میں دو فریق ہیں، ہم میں سے ایک نے دوسرے پر زیادتی کی ہے۔ آپ ہمارے درمیان حق و انصاف کے ساتھ فیصلہ کر دیں اور حد سے تجاوز نہ کریں اور ہمیں سیدھی راہ کی طرف رہبری کر دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب وہ داؤد کے پاس پہنچے تو داؤد ان سے گھبرا گئے۔ انہوں نے کہا ڈریے نہیں، ہم ایک جھگڑے کے دو فریق ہیں، ہم میں سے ایک نے دوسرے کے ساتھ زیادتی کی ہے۔ اب آپ ہمارے درمیان ٹھیک ٹھیک فیصلہ کردیجیے اور زیادتی نہ کیجیے، اور ہمیں ٹھیک ٹھیک راستہ بتا دیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

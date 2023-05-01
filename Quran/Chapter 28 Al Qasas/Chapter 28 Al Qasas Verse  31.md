@@ -3224,6 +3224,12 @@ aur ye (bhi awaaz aayi) ke apni laathi daal de, phir jab ose dekha ke wo saanp k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ اپنی لاٹھی (زمین پر) ڈال دو، پھر جب موسٰی (علیہ السلام) نے اسے دیکھا کہ وہ تیز لہراتی تڑپتی ہوئی حرکت کر رہی ہے گویا وہ سانپ ہو، تو پیٹھ پھیر کر چل پڑے اور پیچھے مڑ کر نہ دیکھا، (ندا آئی:) اے موسٰی! سامنے آؤ اور خوف نہ کرو، بیشک تم امان یافتہ لوگوں میں سے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : اپنی لاٹھی نیچے ڈال دو ، پھر ہوا یہ کہ جب انہوں نے اس لاٹھی کو دیکھا کہ وہ اس طرح حرکت کر رہی ہے جیسے وہ سانپ ہو، تو وہ پیٹھ پھیر کر بھاگے، اور مڑ کر بھی نہ دیکھا (ان سے کہا گیا) موسیٰ ! سامنے آؤ، اور ڈرو نہیں، تم بالکل محفوظ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

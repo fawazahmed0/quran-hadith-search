@@ -3224,6 +3224,12 @@ ose unhone rok rakha tha jin ki wo Allah ke siva parastish karti rahi thi, yaqin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس (ملکہ) کو اس (معبودِ باطل) نے (پہلے قبولِ حق سے) روک رکھا تھا جس کی وہ اللہ کے سوا پرستش کرتی رہی تھی۔ بیشک وہ کافروں کی قوم میں سے تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اب تک) اس کو (ایمان لانے سے) اس بات نے روک رکھا تھا کہ وہ اللہ کے بجائے دوسروں کی عبادت کرتی تھی، اور ایک کافر قوم سے تعلق رکھتی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

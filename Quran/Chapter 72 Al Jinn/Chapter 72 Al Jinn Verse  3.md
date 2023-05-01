@@ -3224,6 +3224,12 @@ aur beshak hamaare rab ki shaan badi bulndh hai, na us ne kisi ko (apni) biwi ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ ہمارے رب کی شان بہت بلند ہے، اس نے نہ کوئی بیوی بنا رکھی ہے اور نہ ہی کوئی اولاد
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : ہمارے پروردگار کی بہت اونچی شان ہے، اس نے نہ کوئی بیوی رکھی ہے، اور نہ کوئی بیٹا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

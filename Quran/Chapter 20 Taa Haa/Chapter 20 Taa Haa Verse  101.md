@@ -3224,6 +3224,12 @@ jis mein hamesha hee rahega aur un ke liye qayaamath ke din (bada) bura bojh hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اس (عذاب) میں ہمیشہ (پڑے) رہیں گے، اور ان کے لئے قیامت کے دن بہت ہی بُرا بوجھ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس (کے عذاب) میں وہ ہمیشہ رہیں گے، اور قیامت کے دن ان کے لیے یہ بدترین بوجھ ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

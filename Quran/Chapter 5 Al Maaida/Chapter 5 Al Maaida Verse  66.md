@@ -3224,6 +3224,12 @@ aur agar ye log tauraath wa injeel aur un ki jaanib jo kuch Allah ta’ala ki ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر وہ لوگ تورات اور انجیل اور جو کچھ (مزید) ان کی طرف ان کے رب کی جانب سے نازل کیا گیا تھا (نافذ اور) قائم کردیتے تو (انہیں مالی وسائل کی اس قدر وسعت عطا ہوجاتی کہ) وہ اپنے اوپر سے (بھی) اور اپنے پاؤں کے نیچے سے (بھی) کھاتے (مگر رزق ختم نہ ہوتا)۔ ان میں سے ایک گروہ میانہ رَو (یعنی اعتدال پسند ہے)، اور ان میں سے اکثر لوگ جو کچھ کررہے ہیں نہایت ہی برا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر وہ تورات اور انجیل اور جو کتاب (اب) ان کے پاس ان کے رب کی طرف سے بھیجی گئی ہے اس کی ٹھیک ٹھیک پابندی کرتے تو وہ اپنے اوپر اور اپنے پاؤں کے نیچے ہر طرف سے (اللہ کا رزق) کھاتے۔ (اگرچہ) ان میں ایک جماعت راہ راست پر چلنے والی بھی ہے، مگر ان میں سے بہت سے لوگ ایسے ہی ہیں کہ ان کے اعمال خراب ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir agar ye aap ko kaazib22 kahe to aap farma di jiye ke tumhaara rab badi wasi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر وہ آپ کو جھٹلائیں تو فرما دیجئے کہ تمہارا رب وسیع رحمت والا ہے اور اس کا عذاب مجرم قوم سے نہیں ٹالا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر یہ (کافر) تمہیں جھٹلائیں تو کہہ دو کہ : تمہارا پروردگار بڑی وسیع رحمت کا مالک ہے اور اس کے عذاب کو مجرموں سے ٹلایا نہیں جاسکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

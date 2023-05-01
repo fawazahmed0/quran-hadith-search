@@ -3224,6 +3224,12 @@ Allah ta’ala jo zabardast hai aur hikmath waala hai, isi tarah teri taraf aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی طرح آپ کی طرف اور اُن (رسولوں) کی طرف جو آپ سے پہلے ہوئے ہیں اللہ وحی بھیجتا رہا ہے جو غالب ہے بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) اللہ جو عزیز و حکیم ہے، تم پر اور تم سے پہلے جو (پیغمبر) ہوئے ہیں، ان پر اسی طرح وحی نازل کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur wo aisa hai jis ne tum ko ek shaqs se paida kiya phir ek jageh zyaada rehne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی (اللہ) ہے جس نے تمہیں ایک جان (یعنی ایک خلیہ) سے پیدا فرمایا ہے پھر (تمہارے لئے) ایک جائے اقامت (ہے) اور ایک جائے امانت (مراد رحمِ مادر اور دنیا ہے یا دنیا اور قبر ہے)۔ بیشک ہم نے سمجھنے والے لوگوں کے لئے (اپنی قدرت کی) نشانیاں کھول کر بیان کردی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے تم سب کو ایک جان سے پیدا کیا، پھر ہر شخص کا ایک مستقر ہے، اور ایک امانت رکھنے کی جگہ ۔ ہم نے ساری نشانیاں ایک ایک کرکے کھول دی ہیں، (مگر) ان لوگوں کے لیے جو سمجھ سے کام لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

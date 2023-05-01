@@ -3224,6 +3224,12 @@ jo log asaani mein aur saqti ke mauqe par bhi, Allah ke raaste mein qarch karte 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں جو فراخی اور تنگی (دونوں حالتوں) میں خرچ کرتے ہیں اور غصہ ضبط کرنے والے ہیں اور لوگوں سے (ان کی غلطیوں پر) درگزر کرنے والے ہیں، اور اللہ احسان کرنے والوں سے محبت فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو خوشحالی میں بھی اور بدحالی میں بھی (اللہ کے لیے) مال خرچ کرتے ہیں، اور جو غصے کو پی جانے اور لوگوں کو معاف کردینے کے عادی ہیں۔ اللہ ایسے نیک لوگوں سے محبت کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

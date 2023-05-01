@@ -3224,6 +3224,12 @@ Aakhir-e-kaar humne usey aur uske ghar ko zameen mein dhansa diya, phir koi uske
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھرہم نے اس (قارون) کو اور اس کے گھر کو زمین میں دھنسا دیا، سو اللہ کے سوا اس کے لئے کوئی بھی جماعت (ایسی) نہ تھی جو (عذاب سے بچانے میں) اس کی مدد کرسکتی اور نہ وہ خود ہی عذاب کو روک سکا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ ہم نے اسے اور اس کے گھر کو زمین میں دھنسا دیا، پھر اسے کوئی ایسا گروہ میسر نہ آیا جو اللہ کے مقابلے میں اس کی مدد کرتا اور نہ وہ خود اپنا بچاؤ کرسکا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

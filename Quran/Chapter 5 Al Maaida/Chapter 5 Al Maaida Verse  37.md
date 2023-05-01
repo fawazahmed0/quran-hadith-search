@@ -3224,6 +3224,12 @@ ye chahenge ke dozakh mein se nikal jae, lekin ye hargiz us mein se na nikal sak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ چاہیں گے کہ (کسی طرح) دوزخ سے نکل جائیں جب کہ وہ اس سے نہیں نکل سکیں گے اور ان کے لئے دائمی عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ چاہیں گے کہ آگ سے نکل جائیں، حالانکہ وہ اس سے نکلنے والے نہیں ہیں، اور ان کو ایسا عذاب ہوگا جو قائم رہے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

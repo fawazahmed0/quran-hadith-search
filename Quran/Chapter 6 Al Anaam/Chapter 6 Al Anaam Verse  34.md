@@ -3224,6 +3224,12 @@ aur bahuth se paighambar jo aap se pehle hoye hai un ki bhi takzeeb ki ja chuki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک آپ سے قبل (بھی بہت سے) رسول جھٹلائے گئے مگر انہوں نے جھٹلائے جانے اور اذیت پہنچائے جانے پر صبر کیا حتٰی کہ انہیں ہماری مدد آپہنچی، اور اللہ کی باتوں (یعنی وعدوں کو) کوئی بدلنے والا نہیں، اور بیشک آپ کے پاس (تسکینِ قلب کے لیے) رسولوں کی خبریں آچکی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ تم سے پہلے بہت سے رسولوں کو جھٹلایا گیا ہے۔ پھر جس طرح انہیں جھٹلایا گیا اور تکلیفیں دی گئیں، اس سب پر انہوں نے صبر کیا، یہاں تک کہ ہماری مدد ان کو پہنچ گئی۔ اور کوئی نہیں ہے جو اللہ کی باتوں کو بدل سکے اور (پچھلے) رسولوں کے کچھ واقعات آپ تک پہنچ ہی چکے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

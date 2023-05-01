@@ -3224,6 +3224,12 @@ maahe ramzaan wo hai jis mein Qur’aan utaara gaya jo logo ko hidaayath karne w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+رمضان کا مہینہ (وہ ہے) جس میں قرآن اتارا گیا ہے جو لوگوں کے لئے ہدایت ہے اور (جس میں) رہنمائی کرنے والی اور (حق و باطل میں) امتیاز کرنے والی واضح نشانیاں ہیں، پس تم میں سے جو کوئی اس مہینہ کو پا لے تو وہ اس کے روزے ضرور رکھے اور جو کوئی بیمار ہو یا سفر پر ہو تو دوسرے دنوں (کے روزوں) سے گنتی پوری کرے، اللہ تمہارے حق میں آسانی چاہتا ہے اور تمہارے لئے دشواری نہیں چاہتا، اور اس لئے کہ تم گنتی پوری کر سکو اور اس لئے کہ اس نے تمہیں جو ہدایت فرمائی ہے اس پر اس کی بڑائی بیان کرو اور اس لئے کہ تم شکر گزار بن جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رمضان کا مہینہ وہ ہے جس میں قرآن نازل کیا گیا جو لوگوں کے لئے سراپا ہدایت، اور ایسی روشن نشانیوں کا حامل ہے جو صحیح راستہ دکھاتی اور حق و باطل کے درمیان دو ٹوک فیصلہ کردیتی ہیں، لہذا تم میں سے جو شخص بھی یہ مہینہ پائے وہ اس میں ضرور روزہ رکھے، اور اگر کوئی شخص بیمار ہو یا سفر پر ہو تو وہ دوسرے دنوں میں اتنی ہی تعداد پوری کرلے، اللہ تمہارے ساتھ آسانی کا معاملہ کرنا چاہتا ہے اور تمہارے لئے مشکل پیدا کرنا نہیں چاہتا، تاکہ (تم روزوں کی) گنتی پوری کرلو، اور اللہ نے تمہیں جو راہ دکھائی اس پر اللہ کی تکبیر کہو اور تاکہ تم شکر گزار بنو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

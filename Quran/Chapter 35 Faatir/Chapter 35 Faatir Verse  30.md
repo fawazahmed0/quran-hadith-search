@@ -3224,6 +3224,12 @@ ta ke un ko un ki ujrate puri de aur un ko apne fazl se aur zyaada de, beshak wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اللہ ان کا اجر انہیں پورا پورا عطا فرمائے اور اپنے فضل سے انہیں مزید نوازے، بیشک اللہ بڑا بخشنے والا، بڑا ہی شکر قبول فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ اللہ ان کے پورے اجر ان کو دیدے، اور اپنے فضل سے اور زیادہ بھی دے۔ یقینا وہ بہت بخشنے والا، بڑا قدر دان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

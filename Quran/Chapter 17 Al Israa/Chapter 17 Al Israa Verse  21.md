@@ -3224,6 +3224,12 @@ dekh le ke un mein ek ko ek par hum ne kis tarah fazilath de rakhi hai aur aaqir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+دیکھئے ہم نے ان میں سے بعض کو بعض پر کس طرح فضیلت دے رکھی ہے، اور یقینًا آخرت (دنیا کے مقابلہ میں) درجات کے لحاظ سے (بھی) بہت بڑی ہے اور فضیلت کے لحاظ سے (بھی) بہت بڑی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دیکھو ہم نے کس طرح ان میں سے ایک کو دوسرے پر فضیلت دے رکھی ہے۔ اور یقین رکھو کہ آخرت درجات کے اعتبار سے بہت بڑی ہے، اور فضیلت کے اعتبار سے بھی کہیں زیادہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

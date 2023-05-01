@@ -3224,6 +3224,12 @@ yaqinan tera rub jis ke liye chaahe rozi kushaada kar deta hai aur jis ke liye c
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک آپ کا رب جس کے لئے چاہتاہے رزق کشادہ فرما دیتا ہے اور (جس کے لئے چاہتا ہے) تنگ کر دیتا ہے، بیشک وہ اپنے بندوں (کے اعمال و احوال) کی خوب خبر رکھنے والا خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ تمہارا رب جس کے لیے چاہتا ہے رزق میں وسعت عطا فرما دیتا ہے، اور (جس کے لیے چاہتا ہے) تنگی پیدا کردیتا ہے۔ یقین رکھو کہ وہ اپنے بندوں کے حالات سے اچھی طرح باخبر ہے، انہیں پوری طرح دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

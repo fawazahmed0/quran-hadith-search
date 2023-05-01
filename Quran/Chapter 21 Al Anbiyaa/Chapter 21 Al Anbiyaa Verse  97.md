@@ -3224,6 +3224,12 @@ aur saccha waada qareeb aa lagega, us waqt kaafiro ki nigaahe phati ki phati reh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (قیامت کا) سچا وعدہ قریب ہو جائے گا تو اچانک کافر لوگوں کی آنکھیں کھلی رہ جائیں گی (وہ پکار اٹھیں گے:) ہائے ہماری شومئ قسمت! کہ ہم اس (دن کی آمد) سے غفلت میں پڑے رہے بلکہ ہم ظالم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور سچا وعدہ پورا ہونے کا وقت قریب آجائے گا تو اچانک حالت یہ ہوگی کہ جن لوگوں نے کفر اپنا لیا تھا ان کی آنکھیں پھٹی کی پھٹی رہ جائیں گی (اور وہ کہیں گے کہ :) ہائے ہماری کم بختی ! ہم اس چیز سے بالکل ہی غفلت میں تھے، بلکہ ہم نے بڑے ستم ڈھائے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

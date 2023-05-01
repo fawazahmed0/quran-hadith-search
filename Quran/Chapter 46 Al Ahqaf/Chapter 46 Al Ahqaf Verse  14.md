@@ -3224,6 +3224,12 @@ ye to ahle jannath hai, jo sada osi mein rahenge, un amaal ke badhle jo wo kiya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی لوگ اہلِ جنت ہیں جو اس میں ہمیشہ رہنے والے ہیں۔ یہ ان اعمال کی جزا ہے جو وہ کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جنت والے لوگ ہیں جو ہمیشہ اس میں رہیں گے، یہ ان اعمال کا بدلہ ہوگا جو وہ کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

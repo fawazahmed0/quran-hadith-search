@@ -3224,6 +3224,12 @@ kya aap un se koyi ujrath chahte hai? yaad rakhiye ke aap ke rab ki ujrath bahut
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ ان سے (تبلیغِ رسالت پر) کچھ اجرت مانگتے ہیں؟ (ایسا بھی نہیں ہے) آپ کے تو رب کا اجر (ہی بہت) بہتر ہے اور وہ سب سے بہتر روزی رساں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا (ان کے انکار کی وجہ یہ ہے کہ) تم ان سے کوئی معاوضہ مانگ رہے ہو ؟ تو (یہ بات بھی غلط ہے، اس لیے کہ) تمہارے پروردگار کا دیا ہوا معاوضہ (تمہارے لیے) کہیں بہتر ہے اور وہ بہترین رزق دینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

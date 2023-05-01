@@ -3224,6 +3224,12 @@ aur dunyaawi zindagaani to kuch bhi nahi bajuz lahu wa la-aab5 ke, aur daar aaqi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور دنیوی زندگی (کی عیش و عشرت) کھیل اور تماشے کے سوا کچھ نہیں، اور یقیناً آخرت کا گھر ہی ان لوگوں کے لئے بہتر ہے جو تقویٰ اختیار کرتے ہیں، کیا تم (یہ حقیقت) نہیں سمجھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور دنیوی زندگی تو ایک کھیل تماشے کے سوا کچھ نہیں اور یقین جانو کہ جو لوگ تقوی اختیار کرتے ہیں، ان کے لیے آخرت والا گھر کہیں زیادہ بہتر ہے۔ تو کیا اتنی سی بات تمہاری عقل میں نہیں آتی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

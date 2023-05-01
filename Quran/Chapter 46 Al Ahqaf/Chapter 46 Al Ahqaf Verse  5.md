@@ -3224,6 +3224,12 @@ aur us se bad kar gumraah aur kaun hoga? jo Allah ke siva aiso ko pukaarta hai j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس شخص سے بڑھ کر گمراہ کون ہوسکتا ہے جو اللہ کے سوا ایسے (بتوں) کی عبادت کرتا ہے جو قیامت کے دن تک اسے (سوال کا) جواب نہ دے سکیں اور وہ (بت) ان کی دعاء و عبادت سے (ہی) بے خبر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس شخص سے بڑا گمراہ کون ہوگا جو اللہ کو چھوڑ کر ان (من گھڑت دیوتاؤں) کو پکارے جو قیامت کے دن تک اس کی پکار کا جواب نہیں دے سکتے، اور جن کو ان کی پکار کی خبر تک نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

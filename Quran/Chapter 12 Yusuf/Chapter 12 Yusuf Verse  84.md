@@ -3224,6 +3224,12 @@ phir un se mu pher liya aur kaha haay yousuf! un ki aankhe ba wajeh ranj wa gham
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یعقوب (علیہ السلام) نے ان سے منہ پھیر لیا اور کہا: ہائے افسوس! یوسف (علیہ السلام کی جدائی) پر اور ان کی آنکھیں غم سے سفید ہوگئیں سو وہ غم کو ضبط کئے ہوئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یہ کہہ کر) انہوں نے منہ پھیرلیا، اور کہنے لگے : ہائے یوسف ! اور ان کی دونوں آنکھیں صدمے سے (روتے روتے) سفید پڑگئی تھیں، اور وہ دل ہی دل میں گھٹے جاتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

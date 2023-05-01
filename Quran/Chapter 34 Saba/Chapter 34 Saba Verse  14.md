@@ -3224,6 +3224,12 @@ phir jab hum ne un par mauth ka hukm bhej diya, to un ki qabar jinnaath ko kisi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ہم نے سلیمان (علیہ السلام) پر موت کا حکم صادر فرما دیا تو اُن (جنّات) کو ان کی موت پر کسی نے آگاہی نہ کی سوائے زمین کی دیمک کے جو اُن کے عصا کو کھاتی رہی، پھر جب آپ کا جسم زمین پر آگیا تو جنّات پر ظاہر ہوگیا کہ اگر وہ غیب جانتے ہوتے تو اس ذلّت انگیز عذاب میں نہ پڑے رہتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب ہم نے سلیمان کی موت کا فیصلہ کیا تو ان جنات کو ان کی موت کا پتہ کسی اور نے نہیں بلکہ زمین کے کیڑے نے دیا جو ان کے عصا کو کھا رہا تھا۔ چنانچہ جب وہ گرپڑے تو جنات کو معلوم ہوا کہ اگر وہ غیب کا علم جانتے ہوتے تو اس ذلت والی تکلیف میں مبتلا نہ رہتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

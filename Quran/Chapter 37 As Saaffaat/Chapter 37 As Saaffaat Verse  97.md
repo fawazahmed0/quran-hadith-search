@@ -3224,6 +3224,12 @@ wo kehne lage is ke liye ek makaan banaao aur us dehekti hoyi aag mein ose daal 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہنے لگے: ان کے (جلانے کے) لئے ایک عمارت بناؤ پھر ان کو (اس کے اندر) سخت بھڑکتی آگ میں ڈال دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان لوگوں نے کہا : ابراہیم کے لیے ایک عمارت بناؤ، اور اسے دہکتی ہوئی آگی میں پھینک دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un mein se jab kisi ko ladki hone ki qabar di jaaye to us ka chehra siyah ho jaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان میں سے کسی کو لڑکی (کی پیدائش) کی خبر سنائی جاتی ہے تو اس کا چہرہ سیاہ ہو جاتا ہے اور وہ غصہ سے بھر جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان میں سے کسی کو بیٹی کی (پیدائش) کی خوشخبری دی جاتی ہے تو اس کا چہرہ سیاہ پڑجاتا ہے، اور وہ دل ہی دل میں کڑھتا رہتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

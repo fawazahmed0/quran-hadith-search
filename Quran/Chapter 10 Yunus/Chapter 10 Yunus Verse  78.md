@@ -3224,6 +3224,12 @@ wo log kehne lage kya tum hamare paas is liye aae ho ke hum ko us tareeqe se hat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہنے لگے: (اے موسٰی!) کیا تم ہمارے پاس اس لئے آئے ہو کہ تم ہمیں اس (طریقہ) سے پھیر دو جس پر ہم نے اپنے باپ دادا کو (گامزن) پایا اور زمین (یعنی سرزمینِ مصر) میں تم دونوں کی بڑائی (قائم) رہے؟ اور ہم لوگ تم دونوں کو ماننے والے نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگے : کیا تم ہمارے پاس اس لیے آئے ہو کہ جس طور طریقے پر ہم نے اپنے باپ دادوں کو پایا ہے اس سے ہمیں برگشتہ کردو، اور اس سرزمین میں تم دونوں کی چودہراہٹ قائم ہوجائے ؟ ہم تو تم دونوں کی بات ماننے والے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

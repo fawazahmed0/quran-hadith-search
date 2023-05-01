@@ -3224,6 +3224,12 @@ aisa hargiz nahi, balke (baath ye hai) ke tum (hee) log yatimo ki izzath nahi ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ بات نہیں بلکہ (حقیقت یہ ہے کہ عزت اور مال و دولت کے ملنے پر) تم یتیموں کی قدر و اِکرام نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہرگز ایسا نہیں چاہیے۔ صرف یہی نہیں بلکہ تم یتیم کی عزت نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

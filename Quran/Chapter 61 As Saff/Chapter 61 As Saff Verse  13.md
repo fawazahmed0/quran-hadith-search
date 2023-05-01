@@ -3224,6 +3224,12 @@ aur tumhe ek dosri (nemath) bhi dega, jise tum chaahte ho, wo Allah ki madad aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اس اُخروی نعمت کے علاوہ) ایک دوسری (دنیوی نعمت بھی عطا فرمائے گا) جسے تم بہت چاہتے ہو، (وہ) اللہ کی جانب سے مدد اور جلد ملنے والی فتح ہے، اور (اے نبئ مکرّم!) آپ مومنوں کو خوشخبری سنا دیں (یہ فتحِ مکہ اور فارس و روم کی فتوحات کی شکل میں ظاہر ہوئی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ایک اور چیز تمہیں دے گا جو تمہیں پسند ہے (اور وہ ہے) اللہ کی طرف سے مدد، اور ایک ایسی فتح جو عنقریب حاصل ہوگی، اور (اے پیغمبر) ایمان والوں کو (اس بات کی) خوشخبری سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

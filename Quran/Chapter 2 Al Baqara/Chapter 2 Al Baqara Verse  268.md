@@ -3224,6 +3224,12 @@ shaitaan tumhe faqiri se dhamkaata hai aur be-hayaai ka hukm deta hai aur Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+شیطان تمہیں (اللہ کی راہ میں خرچ کرنے سے روکنے کے لئے) تنگدستی کا خوف دلاتا ہے اور بے حیائی کا حکم دیتا ہے، اور اللہ تم سے اپنی بخشش اور فضل کا وعدہ فرماتا ہے، اور اللہ بہت وسعت والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شیطان تمہیں مفلسی سے ڈراتا ہے اور تمہیں بےحیائی کا حکم دیتا ہے اور اللہ تم سے اپنی مغفرت اور فضل کا وعدہ کرتا ہے۔ اللہ بڑی وسعت والا، ہر بات جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur tum sadko par us gharz se math baitha karo ke Allah par imaan laane waale ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ایسا نہ کیا کرو کہ راستوں پر بیٹھ کر لوگوں کو دھمکیاں دو ، اور جو لوگ اللہ پر ایمان لائے ہیں، ان کو اللہ کے راستے سے روکو، اور اس میں ٹیڑھ پیدا کرنے کی کوشش کرو۔ اور وہ وقت یاد کرو جب تم کم تھے، پھر اللہ نے تمہیں زیادہ کردیا، اور یہ بھی دیکھو کہ فساد مچانے والوں کا انجام کیسا ہوا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

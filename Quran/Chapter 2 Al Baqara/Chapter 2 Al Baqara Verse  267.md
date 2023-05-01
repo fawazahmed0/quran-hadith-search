@@ -3224,6 +3224,12 @@ aye imaan waalo apni paakiza kamaayi mein se aur zameen mein se tumhaare liye ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! ان پاکیزہ کمائیوں میں سے اور اس میں سے جو ہم نے تمہارے لئے زمین سے نکالا ہے (اللہ کی راہ میں) خرچ کیا کرو اور اس میں سے گندے مال کو (اللہ کی راہ میں) خرچ کرنے کا ارادہ مت کرو کہ (اگر وہی تمہیں دیا جائے تو) تم خود اسے ہرگز نہ لو سوائے اس کے کہ تم اس میں چشم پوشی کر لو، اور جان لو کہ بیشک اللہ بے نیاز لائقِ ہر حمد ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو۔ جو کچھ تم نے کمایا ہو اور جو پیداوار ہم نے تمہارے لیے زمین سے نکالی ہو اس کی اچھی چیزوں کا ایک حصہ (اللہ کے راستے میں) خرچ کیا کرو، اور یہ نیت نہ رکھو کہ بس ایسی خراب قسم کی چیزیں (اللہ کے نام پر) دیا کرو گے جو (اگر کوئی دوسرا تمہیں دے تو نفرت کے مارے) تم اسے آنکھیں میچے بغیر نہ لے سکو۔ اور یاد رکھو کہ اللہ ایسا بےنیاز ہے کہ ہر قسم کی تعریف اسی کی طرف لوٹتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur ta ke jo log hamaari nishaaniyo mein jhagadte hai, wo maloom karle ke un ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہماری آیتوں میں جھگڑا کرنے والے جان لیں کہ اُن کے لئے بھاگ نکلنے کی کوئی راہ نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ہماری آیتوں میں جھگڑے ڈالتے ہیں، انہیں پتہ چل جائے کہ ان کے لیے کوئی بچاؤ کی جگہ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ apni jaano aur maalo se Allah ki raah mein jihaad karne waale momin aur baghair 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مسلمانوں میں سے وہ لوگ جو (جہاد سے جی چرا کر) بغیر کسی (عذر) تکلیف کے (گھروں میں) بیٹھ رہنے والے ہیں اور وہ لوگ جو اللہ کی راہ میں اپنے مالوں اور اپنی جانوں سے جہاد کرنے والے ہیں (یہ دونوں درجہ و ثواب میں) برابر نہیں ہوسکتے۔ اللہ نے اپنے مالوں اور اپنی جانوں سے جہاد کرنے والوں کو بیٹھ رہنے والوں پر مرتبہ میں فضیلت بخشی ہے اوراللہ نے سب (ایمان والوں) سے وعدہ (تو) بھلائی کا (ہی) فرمایا ہے، اور اللہ نے جہاد کرنے والوں کو (بہر طور) بیٹھ رہنے والوں پر زبردست اجر (و ثواب) کی فضیلت دی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن مسلمانوں کو کوئی معذوری لاحق نہ ہو اور وہ (جہاد میں جانے کے بجائے گھر میں) بیٹھ رہیں وہ اللہ کے راستے میں اپنے مال و جان سے جہاد کرنے والوں کے برابر نہیں ہیں۔ جو لوگ اپنے مال و جان سے جہاد کرتے ہیں ان کو اللہ نے بیٹھ رہنے والوں پر درجے میں فضیلت دی ہے۔ اور اللہ نے سب سے اچھائی کا وعدہ کر رکھا ہے۔ اور اللہ نے مجاہدین کو بیٹھ رہنے والوں پر فضیلت دے کر بڑا ثواب بخشا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

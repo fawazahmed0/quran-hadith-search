@@ -3224,6 +3224,12 @@ jis roz Allah ta’ala tamaam paighambaro ko jama karega phir irshaad farmayega 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اس دن سے ڈرو) جس دن اللہ تمام رسولوں کوجمع فرمائے گا پھر (ان سے) فرمائے گا کہ تمہیں (تمہاری امتوں کی طرف سے دعوتِ دین کا) کیا جواب دیا گیا تھا؟ وہ (حضورِ الٰہی میں) عرض کریں گے: ہمیں کچھ علم نہیں، بیشک تو ہی غیب کی سب باتوں کا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ دن یاد کرو جب اللہ تمام رسولوں کو جمع کرے گا، اور کہے گا کہ تمہیں کیا جواب دیا گیا تھا ؟ وہ کہیں گے کہ ہمیں کچھ علم نہیں، پوشیدہ باتوں کا تمام تر علم تو آپ ہی کے پاس ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

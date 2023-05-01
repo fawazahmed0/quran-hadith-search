@@ -3224,6 +3224,12 @@ be-aqal logo ko apna maal na de do, jis maal ko Allah ta’ala ne tumhaari guzra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم بے سمجھوں کو اپنے (یا ان کے) مال سپرد نہ کرو جنہیں اللہ نے تمہاری معیشت کی استواری کا سبب بنایا ہے۔ ہاں انہیں اس میں سے کھلاتے رہو اور پہناتے رہو اور ان سے بھلائی کی بات کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ناسمجھ (یتیموں) کو اپنے وہ مال حوالے نہ کرو جن کو اللہ نے تمہارے لیے زندگی کا سرمایہ بنایا ہے، ہاں ان کو ان میں سے کھلاؤ اور پہناؤ اور ان سے مناسب انداز میں بات کرلو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

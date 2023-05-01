@@ -3224,6 +3224,12 @@ yaqinan hum ne aap ki taraf osi tarah wahi ki hai jaise ke Nuh (alaihissalaam) a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) بیشک ہم نے آپ کی طرف (اُسی طرح) وحی بھیجی ہے جیسے ہم نے نوح (علیہ السلام) کی طرف اور ان کے بعد (دوسرے) پیغمبروں کی طرف بھیجی تھی۔ اور ہم نے ابراہیم و اسماعیل اور اسحاق و یعقوب اور (ان کی) اولاد اور عیسٰی اور ایوب اور یونس اور ہارون اور سلیمان (علیھم السلام) کی طرف (بھی) وحی فرمائی، اور ہم نے داؤد (علیہ السلام) کو (بھی) زبور عطا کی تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ہم نے تمہارے پاس اسی طرح وحی بھیجی ہے جیسے نوح اور ان کے بعد دوسرے نبیوں کے پاس بھیجی تھی، اور ہم نے ابراہیم، اسماعیل، اسحاق، یعقوب اور ان کی اولاد کے پاس، اور عیسیٰ ، ایوب، یونس، ہارون اور سلیمان کے پاس بھی وحی بھیجی تھی، اور ہم نے داؤد کو زبور عطا کی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

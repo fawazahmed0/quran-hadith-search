@@ -3224,6 +3224,12 @@ kya ye Qur’aan mein ghaur wa fikr nahi karte? ya un ke dilo par un ke taale la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا یہ لوگ قرآن میں غور نہیں کرتے یا ان کے دلوں پر تالے (لگے ہوئے) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا یہ لوگ قرآن پر غور نہیں کرتے، یا دلوں پر وہ تالے پڑے ہوئے ہیں جو دلوں پر پڑا کرتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye imaan waalo! tum Allah ta’ala ke madadgaar ban jaao, jis tarah hazrath Mar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اللہ کے مددگار بن جاؤ جیسا کہ عیسٰی ابن مریم (علیہما السلام) نے (اپنے) حواریوں سے کہا تھا: اللہ کی (راہ کی) طرف میرے مددگار کون ہیں؟ حواریوں نے کہا: ہم اللہ کے مددگار ہیں۔ پس بنی اسرائیل کا ایک گروہ ایمان لے آیا اور دوسرا گروہ کافر ہوگیا، سو ہم نے اُن لوگوں کی جو ایمان لے آئے تھے اُن کے دشمنوں پر مدد فرمائی پس وہ غالب ہوگئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! تم اللہ (کے دین) کے مددگار بن جاؤ، اسی طرح جیسے عیسیٰ بن مریم (علیہ السلام) نے حواریوں سے کہا تھا کہ : وہ کون ہیں جو اللہ کے واسطے میرے مددگار بنیں ؟ حواریوں نے کہا : ہم اللہ کے (دین کے) مددگار ہیں۔ پھر بنی اسرائیل کا ایک گروہ ایمان لے آیا، اور ایک گروہ نے کفر اختیار کیا، چنانچہ جو لوگ ایمان لائے تھے ہم نے ان کے دشمنوں کے خلاف ان کی مدد کی، نتیجہ یہ ہوا کہ وہ غالب آئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

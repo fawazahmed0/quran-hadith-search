@@ -3224,6 +3224,12 @@ osi ne asmaano ko aur zameen ko adl wa hikmath se payda kiya, osi ne tumhaari su
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی نے آسمانوں اور زمین کو حکمت و مقصد کے ساتھ پیدا فرمایا اور (اسی نے) تمہاری صورتیں بنائیں پھر تمہاری صورتوں کو خوب تر کیا، اور (سب کو) اسی کی طرف لوٹ کر جانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے آسمانوں اور زمین کو برحق پیدا کیا ہے، اور تمہاری صورتیں بنائی ہیں اور تمہاری صورتیں اچھی بنائی ہیں، اور اسی کی طرف آخر کار (سب کو) پلٹ کر جانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

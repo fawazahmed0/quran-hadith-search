@@ -3224,6 +3224,12 @@ pas jab un ke paas Mosa(alaihissalaam) hamaare diye hoye khule maujeze le kar pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب موسٰی (علیہ السلام) ان کے پاس ہماری واضح اور روشن نشانیاں لے کر آئے تو وہ لوگ کہنے لگے کہ یہ تو مَن گھڑت جادو کے سوا (کچھ) نہیں ہے۔ اور ہم نے یہ باتیں اپنے پہلے آباء و اجداد میں (کبھی) نہیں سنی تھیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب موسیٰ ان کے پاس ہماری کھلی ہوئی نشانیاں لے کر پہنچے تو انہوں نے کہا : یہ کچھ نہیں، بس بناوٹی جادو ہے، اور ہم نے یہ بات اپنے پچھلے باپ دادوں میں نہیں سنی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

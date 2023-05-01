@@ -3224,6 +3224,12 @@ aise log jinhe tijaarath aur qareed wa farooqth Allah ke zikr se aur namaaz ke q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اللہ کے اس نور کے حامل) وہی مردانِ (خدا) ہیں جنہیں تجارت اور خرید و فروخت نہ اللہ کی یاد سے غافل کرتی ہے اور نہ نماز قائم کرنے سے اور نہ زکوٰۃ ادا کرنے سے (بلکہ دنیوی فرائض کی ادائیگی کے دوران بھی) وہ (ہمہ وقت) اس دن سے ڈرتے رہتے ہیں جس میں (خوف کے باعث) دل اور آنکھیں (سب) الٹ پلٹ ہو جائیں گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جنہیں کوئی تجارت یا کوئی خریدو فروخت نہ اللہ کی یاد سے غافل کرتی ہے نہ نماز قائم کرنے سے اور نہ زکوٰۃ دینے سے وہ اس دن سے ڈرتے رہتے ہیں جس میں دل اور نگاہیں الٹ پلٹ کر رہ جائیں گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

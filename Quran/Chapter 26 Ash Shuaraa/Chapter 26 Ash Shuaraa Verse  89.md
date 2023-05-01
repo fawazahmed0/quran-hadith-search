@@ -3224,6 +3224,12 @@ lekin fayede wala wahi hoga jo Allah ta’ala ke saamne be ayb dil le kar jaaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر وہی شخص (نفع مند ہوگا) جو اللہ کی بارگاہ میں سلامتی والے بے عیب دل کے ساتھ حاضر ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں جو شخص اللہ کے پاس سلامتی والا دل لے کر آئے گا (اس کو نجات ملے گی)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

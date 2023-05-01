@@ -3224,6 +3224,12 @@ wo khush hote hai, Allah ki nemath aur fazl se aur us se bhi ke Allah ta’ala i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اللہ کی (تجلیّاتِ قُرب کی) نعمت اور (لذّاتِ وصال کے) فضل سے مسرور رہتے ہیں اور اس پر (بھی) کہ اللہ ایمان والوں کا اجر ضائع نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ کی نعمت اور فضل پر بھی خوشی مناتے ہیں اور اس بات پر بھی کہ اللہ مومنوں کا اجر ضائع نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

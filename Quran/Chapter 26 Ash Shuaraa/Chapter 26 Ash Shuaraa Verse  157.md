@@ -3224,6 +3224,12 @@ phir bhi unhone us ki kuche kaat daali, bas wo pashemaan ho gaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر انہوں نے اس کی کونچیں کاٹ ڈالیں (سو اسے ہلاک کر دیا) پھر وہ (اپنے کئے پر) پشیمان ہو گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ انہوں نے اس اونٹنی کی کونچیں کاٹ ڈالیں، اور آخر کار پشیمان ہوئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ bhaag daud na karo, aur jahaan tumhe aasoodgi di gayi thi, waheen waapas lauto a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان سے کہا گیا:) تم جلدی مت بھاگو اور اسی جگہ واپس لوٹ جاؤ جس میں تمہیں آسائشیں دی گئی تھیں اور اپنی (پرتعیش) رہائش گاہوں کی طرف (پلٹ جاؤ) شاید تم سے باز پرس کی جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان سے کہا گیا) بھاگو مت، اور واپس جاؤ، اپنے انہی مکانات اور اسی عیش و عشرت کے سامان کی طرف جس کے مزے تم لوٹ رہے تھے، شاید تم سے کچھ پوچھا جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

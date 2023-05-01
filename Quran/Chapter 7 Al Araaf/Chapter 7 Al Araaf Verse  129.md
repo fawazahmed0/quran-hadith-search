@@ -3224,6 +3224,12 @@ khaum ke log kehne lage ke hum to hamesha musibath hee mein rahe, aap ki tashree
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا کہ : ہمیں تو آپ کے آنے سے پہلے بھی ستایا گیا تھا، اور آپ کے آنے کے بعد بھی (ستایا جارہا ہے) موسیٰ نے کہا : امید رکھو کہ اللہ تمہارے دشمن کو ہلاک کردے گا، اور تمہیں زمین میں اس کا جانشین بنا دے گا، پھر دیکھے گا کہ تم کیسا کام کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

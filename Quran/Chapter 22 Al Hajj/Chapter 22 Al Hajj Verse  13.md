@@ -3224,6 +3224,12 @@ ose pukaarte hai, jis ka nuqsaan us ke nafa se zyaada qareeb hai, yaqinan bure w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اسے پوجتا ہے جس کا نقصان اس کے نفع سے زیادہ قریب ہے، وہ کیا ہی برا مددگار ہے اور کیا ہی برا ساتھی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ایسے (جھوٹے خدا) کو پکارتے ہیں جس کا نقصان اس کے فائدے سے زیادہ قریب ہے۔ ایسا مددگار بھی کتنا برا ہے، اور ایسا ساتھی بھی کتنا برا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

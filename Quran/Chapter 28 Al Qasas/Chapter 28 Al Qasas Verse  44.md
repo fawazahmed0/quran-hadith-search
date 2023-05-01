@@ -3224,6 +3224,12 @@ aur toor ke maghribi jaanib jab ke hum ne Mosa(alaihissalaam) ko hukme ehkaam ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ (اس وقت طُور کے) مغربی جانب (تو موجود) نہیں تھے جب ہم نے موسٰی (علیہ السلام) کی طرف حکمِ (رسالت) بھیجا تھا، اور نہ (ہی) آپ (ان ستّر افراد میں شامل تھے جو وحیِ موسٰی علیہ السلام کی) گواہی دینے والوں میں سے تھے (پس یہ سارا بیان غیب کی خبر نہیں تو اور کیا ہے؟)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم اس وقت (کوہ طور کی) مغربی جانب موجود نہیں تھے جب ہم نے موسیٰ کو احکام سپرد کیے تھے اور نہ تم ان لوگوں میں سے تھے جو اس کا مشاہدہ کر رہے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

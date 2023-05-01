@@ -3224,6 +3224,12 @@ ye sab aise thein ke Allah ta’ala ke ehkaam pahonchaaya karte thein aur Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (پہلے) لوگ اللہ کے پیغامات پہنچاتے تھے اور اس کا خوف رکھتے تھے اور اللہ کے سوا کسی سے نہیں ڈرتے تھے، اور اللہ حساب لینے والا کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پیغمبر وہ لوگ ہیں جو اللہ کے بھیجے ہوئے احکام کو لوگوں تک پہنچاتے ہیں، اور اسی سے ڈرتے ہیں اور اللہ کے سوا کسی سے نہیں ڈرتے۔ اور حساب لینے کے لیے اللہ کو کسی کی ضرورت نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

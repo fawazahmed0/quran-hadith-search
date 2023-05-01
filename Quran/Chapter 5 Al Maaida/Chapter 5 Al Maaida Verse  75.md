@@ -3224,6 +3224,12 @@ Masih ibn Maryam siva paighambar hone ke aur kuch bhi nahi, us se pehle bhi bahu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مسیح ابنِ مریم (علیھما السلام) رسول کے سوا (کچھ) نہیں ہیں (یعنی خدا یا خدا کا بیٹا اور شریک نہیں ہیں)، یقیناً ان سے پہلے (بھی) بہت سے رسول گزر چکے ہیں، اور ان کی والدہ بڑی صاحبِ صدق (ولیّہ) تھیں، وہ دونوں (مخلوق تھے کیونکہ) کھانا بھی کھایا کرتے تھے۔ (اے حبیب!) دیکھئے ہم ان (کی رہنمائی) کے لئے کس طرح آیتوں کو وضاحت سے بیان کرتے ہیں پھر ملاحظہ فرمائیے کہ (اس کے باوجود) وہ کس طرح (حق سے) پھرے جارہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مسیح ابن مریم تو ایک رسول تھے، اس سے زیاد کچھ نہیں، ان سے پہلے (بھی) بہت سے رسول گزر چکے ہیں، اور ان کی ماں صدیقہ تھیں۔ یہ دونوں کھانا کھاتے تھے دیکھو ! ہم ان کے سامنے کس طرح کھول کھول کر نشانیاں واضح کر رہے ہیں۔ پھر یہ بھی دیکھو کہ ان کو اوندھے منہ کہاں لے جایا جارہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

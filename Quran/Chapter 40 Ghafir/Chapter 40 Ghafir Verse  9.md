@@ -3224,6 +3224,12 @@ unhe buraiyo se bhi mehfooz rakh, haq to ye hai ke us din tu ne jise buraiyo se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُن کو برائیوں (کی سزا) سے بچا لے، اور جسے تو نے اُس دن برائیوں (کی سزا) سے بچا لیا سو بے شک تو نے اُس پر رحم فرمایا، اور یہی تو عظیم کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کو ہر طرح کی برائیوں سے محفوظ رکھ اور اس دن جسے تو نے برائیوں سے محفوظ کرلیا اس پر تو نے بڑا رحم فرمایا۔ اور یہی زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

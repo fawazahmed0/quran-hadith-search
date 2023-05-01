@@ -3224,6 +3224,12 @@ pas to un mein us diwaar ke upar chadne ki taaqath thi aur na us mein koyi suraa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان (یاجوج اور ماجوج) میں نہ اتنی طاقت تھی کہ اس پر چڑھ سکیں اور نہ اتنی قدرت پا سکے کہ اس میں سوراخ کر دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ (وہ دیوار ایسی بن گئی کہ) یاجوج ماجوج نہ اس پر چڑھنے کی طاقت رکھتے تھے، اور نہ اس میں کوئی سوراخ بنا سکتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

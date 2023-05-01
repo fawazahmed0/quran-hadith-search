@@ -3224,6 +3224,12 @@ aur hum ne us mein khajuro ke aur angoor ke baghaath paida kar diye aur jin mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اس میں کھجوروں اور انگوروں کے باغات بنائے اور اس میں ہم نے کچھ چشمے بھی جاری کردیئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اس زمین میں کھجوروں اور انگوروں کے باغ پیدا کیے، اور ایسا انتظام کیا کہ اس میں سے پانی کے چشمے پھوٹ نکلے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar tum safar mein ho aur likhne waala na paao to rehen qabza mein rakh liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم سفر پر ہو اور کوئی لکھنے والا نہ پاؤ تو باقبضہ رہن رکھ لیا کرو، پھر اگر تم میں سے ایک کو دوسرے پر اعتماد ہو تو جس کی دیانت پر اعتماد کیا گیا اسے چاہئے کہ اپنی امانت ادا کر دے اور وہ اللہ سے ڈرتا رہے جو اس کا پالنے والا ہے، اور تم گواہی کو چُھپایا نہ کرو، اور جو شخص گواہی چُھپاتا ہے تو یقینا اس کا دل گنہگار ہے، اور اللہ تمہارے اعمال کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم سفر پر ہو اور تمہیں کوئی لکھنے والا نہ ملے تو (ادائیگی کی ضمانت کے طور پر) رہن قبضے میں رکھ لیے جائیں۔ ہاں اگر تم ایک دوسرے پر بھروسہ کرو تو جس پر بھروسہ کیا گیا ہے وہ اپنی امانت ٹھیک ٹھیک ادا کرے اور اللہ سے ڈرے جو اس کا پروردگار ہے۔ اور گواہی کو چھپاؤ، اور جو گواہی کو چھپائے وہ گنہگار دل کا حامل ہے، اور جو عمل بھی تم کرتے ہو اللہ اس سے خوب واقف ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

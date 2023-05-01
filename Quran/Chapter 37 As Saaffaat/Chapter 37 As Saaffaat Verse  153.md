@@ -3224,6 +3224,12 @@ kya Allah ta’ala ne apne liye betiyo ko beto par tarji di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا اس نے بیٹوں کے مقابلہ میں بیٹیوں کو پسند فرمایا ہے (کفّارِ مکّہ کی ذہنیت کی زبان میں انہی کے عقیدے کا ردّ کیا جا رہا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا اللہ نے بیٹوں کے بجائے بیٹیاں پسند کی ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

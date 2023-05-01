@@ -3224,6 +3224,12 @@ lado Allah ki raah mein un se jo tum se ladte hai aur zyaadati na karo, Allah ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کی راہ میں ان سے (دفاعاً) جنگ کرو جو تم پر جنگ مسلط کرتے ہیں (ہاں) مگر حد سے نہ بڑھو، بیشک اللہ حد سے بڑھنے والوں کو پسند نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں سے اللہ کے راستے میں جنگ کرو جو تم سے جنگ کرتے ہیں اور زیادتی نہ کرو، یقین جانو کہ اللہ زیادتی کرنے والوں کو پسند نہیں کرتا،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

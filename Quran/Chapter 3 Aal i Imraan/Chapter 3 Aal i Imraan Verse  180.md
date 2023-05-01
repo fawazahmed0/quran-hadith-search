@@ -3224,6 +3224,12 @@ jinhe Allah ta’ala ne apne fazl se kuch de rakha hai wo us mein apni kanjoosi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اس (مال و دولت) میں سے دینے میں بخل کرتے ہیں جو اللہ نے انہیں اپنے فضل سے عطا کیا ہے وہ ہرگز اس بخل کو اپنے حق میں بہتر خیال نہ کریں، بلکہ یہ ان کے حق میں برا ہے، عنقریب روزِ قیامت انہیں (گلے میں) اس مال کا طوق پہنایا جائے گا جس میں وہ بخل کرتے رہے ہوں گے، اور اللہ ہی آسمانوں اور زمین کا وارث ہے (یعنی جیسے اب مالک ہے ایسے ہی تمہارے سب کے مر جانے کے بعد بھی وہی مالک رہے گا)، اور اللہ تمہارے سب کاموں سے آگاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اس (مال) میں بخل سے کام لیتے ہیں جو انہیں اللہ نے اپنے فضل سے عطا فرمایا ہے وہ ہرگز یہ نہ سمجھیں کہ یہ ان کے لیے کوئی اچھی بات ہے، اس کے برعکس یہ ان کے حق میں بہت بری بات ہے، جس مال میں انہوں نے بخل سے کام لیا ہوگا، قیامت کے دن وہ ان کے گلے کا طوق بنادیا جائے گا۔ اور سارے آسمان اور زمین کی میراث صرف اللہ ہی کے لیے ہے، اور جو عمل بھی تم کرتے ہو اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

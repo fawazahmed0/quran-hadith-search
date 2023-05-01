@@ -3224,6 +3224,12 @@ jis ka iraada sirf us jaldi wali dunya (fauri fayeda) ka hee ho, ose hum yahaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو کوئی صرف دنیا کی خوشحالی (کی صورت میں اپنی محنت کا جلدی بدلہ) چاہتا ہے تو ہم اسی دنیا میں جسے چاہتے ہیں جتنا چاہتے ہیں جلدی دے دیتے ہیں پھر ہم نے اس کے لئے دوزخ بنا دی ہے جس میں وہ ملامت سنتا ہوا (رب کی رحمت سے) دھتکارا ہوا داخل ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص دنیا کے فوری فائدے ہی چاہتا ہے تو ہم جس کے لیے چاہتے ہیں جتنا چاہتے ہیں، اسے یہیں پر جلدی دے دیتے ہیں، پھر اس کے لیے ہم نے جہنم رکھ چھوڑی ہے جس میں وہ ذلیل و خوار ہو کر داخل ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

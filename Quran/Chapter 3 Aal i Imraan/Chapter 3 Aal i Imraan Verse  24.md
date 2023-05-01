@@ -3224,6 +3224,12 @@ us ki wajeh un ka ye kehna hai ke hamein to gine chone chand din hee aag jalayeg
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (روگردانی کی جرات) اس لئے کہ وہ کہتے ہیں کہ ہمیں گنتی کے چند دنوں کے سوا دوزخ کی آگ مَس نہیں کرے گی، اور وہ (اللہ پر) جو بہتان باندھتے رہتے ہیں اس نے ان کو اپنے دین کے بارے میں فریب میں مبتلا کر دیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب اس لیے ہے کہ انہوں نے یہ کہا ہوا ہے کہ ہمیں گنتی کے چند دنوں کے سوا آگ ہرگز نہیں چھوے گی، اور انہوں نے جو جھوٹی باتیں تراش رکھی ہیں انہوں نے ان کے دین کے معاملے میں ان کو دھوکے میں ڈال دیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

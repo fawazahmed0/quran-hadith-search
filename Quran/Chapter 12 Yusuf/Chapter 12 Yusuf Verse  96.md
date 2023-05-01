@@ -3224,6 +3224,12 @@ jab qushqabri dene wale ne pahonch kar un ke mu par wo kurta dala, osi waqt wo p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب خوشخبری سنانے والا آپہنچا اس نے وہ قمیض یعقوب (علیہ السلام) کے چہرے پر ڈال دیا تو اسی وقت ان کی بینائی لوٹ آئی، یعقوب (علیہ السلام) نے فرمایا: کیا میں تم سے نہیں کہتا تھا کہ بیشک میں اللہ کی طرف سے وہ کچھ جانتا ہوں جو تم نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب خوشخبری دینے والا پہنچ گیا تو اس نے (یوسف کی) قمیص ان کے منہ پر ڈال دی، اور فورا ان کی بینائی واپس آگئی۔ انہوں نے (اپنے بیٹوں سے) کہا : کیا میں نے تم سے نہیں کہا تھا کہ اللہ کے بارے میں جتنا میں جانتا ہوں، تم نہیں جانتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur burayi ka badhla osi jaisi burayi hai aur jo maaf karde aur islaah karle, us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور برائی کا بدلہ اسی برائی کی مِثل ہوتا ہے، پھر جِس نے معاف کر دیا اور (معافی کے ذریعہ) اصلاح کی تو اُس کا اجر اللہ کے ذمّہ ہے۔ بیشک وہ ظالموں کو دوست نہیں رکھتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کسی برائی کا بدلہ اسی جیسی برائی ہے۔ پھر بھی جو کوئی معاف کردے، اور اصلاح سے کام لے تو اس کا ثواب اللہ نے ذمے لیا ہے۔ یقینا وہ ظالموں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

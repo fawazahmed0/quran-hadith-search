@@ -3224,6 +3224,12 @@ aur yad karo Mosa (alaihissalaam)ne apni khaom se kaha,ae meri khaom ke logo! Al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت بھی یاد کریں) جب موسٰی (علیہ السلام) نے اپنی قوم سے کہا: اے میری قوم! تم اپنے اوپر (کیا گیا) اللہ کا وہ انعام یاد کرو جب اس نے تم میں انبیاء پیدا فرمائے اور تمہیں بادشاہ بنایا اور تمہیں وہ (کچھ) عطا فرمایا جو (تمہارے زمانے میں) تمام جہانوں میں سے کسی کو نہیں دیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس وقت کا دھیان کرو جب موسیٰ نے اپنی قوم سے کہا تھا کہ : اے میری قوم ! اللہ کی اس نعمت کو یاد کرو جو اس نے تم پر نازل فرمائی ہے کہ اس نے تم میں نبی پیدا کیے، تمہیں حکمران بنایا، اور تمہیں وہ کچھ عطا کیا جو تم سے پہلے دنیا جہان کے کسی فرد کو عطا نہیں کیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

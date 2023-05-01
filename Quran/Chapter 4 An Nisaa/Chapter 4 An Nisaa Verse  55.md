@@ -3224,6 +3224,12 @@ phir un mein se baaz ne to us kitaab ko maana aur baaz us se ruk gaye, aur jahan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ان میں سے کوئی تو اس پر ایمان لے آیا اور ان میں سے کسی نے اس سے روگردانی کی، اور (روگردانی کرنے والے کے لئے) دوزخ کی بھڑکتی آگ کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ان میں سے کچھ ان پر ایمان لائے اور کچھ نے ان سے منہ موڑ لیا۔ اور جہنم ایک بھڑکتی آگ کی شکل میں (ان کافروں کی خبر لینے کے لیے) کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

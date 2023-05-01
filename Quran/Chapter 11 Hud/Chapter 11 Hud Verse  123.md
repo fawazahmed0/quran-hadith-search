@@ -3224,6 +3224,12 @@ zamino aur aasmaano ka ilme ghaib Allah ta’ala hee ko hai, tamaam mamelaath ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آسمانوں اور زمین کا (سب) غیب اللہ ہی کے لئے ہے اور اسی کی طرف ہر ایک کام لوٹایا جاتا ہے سو اس کی عبادت کرتے رہیں اور اسی پر توکل کئے رکھیں، اور تمہارا رب تم سب لوگوں کے اعمال سے غافل نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین میں جتنے پوشیدہ بھید ہیں، وہ سب اللہ کے علم میں ہیں، اور اسی کی طرف سارے معاملات لوٹائے جائیں گے۔ لہذا (اے پیغمبر) اس کی عبادت کرو، اور اس پر بھروسہ رکھو۔ اور تم لوگ جو کچھ کرتے ہو، تمہارا پروردگار اس سے بیخبر نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

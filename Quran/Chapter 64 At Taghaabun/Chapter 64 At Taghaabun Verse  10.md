@@ -3224,6 +3224,12 @@ aur jin logo ne kufr kiya aur hamaari aayato ko jhutlaaya, wahi (sab) jahannami 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہی لوگ دوزخی ہیں (جو) اس میں ہمیشہ رہنے والے ہیں، اور وہ کیا ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اختیار کیا ہوگا، اور ہماری آیتوں کو جھٹلایا ہوگا وہ دوزخ والے ہوں گے جس میں وہ ہمیشہ رہیں گے اور وہ بہت برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

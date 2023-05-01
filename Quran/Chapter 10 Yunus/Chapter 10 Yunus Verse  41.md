@@ -3224,6 +3224,12 @@ aur agar aap ko jhutlate rahe to,ye keh dijiye ke mere liye mera amal aur tumhar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر وہ آپ کو جھٹلائیں تو فرما دیجئے کہ میرا عمل میرے لئے ہے اور تمہارا عمل تمہارے لئے، تم اس عمل سے بری الذمہ ہو جو میں کرتا ہوں اور میں ان اَعمال سے بری الذمہ ہوں جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) اگر یہ تمہیں جھٹلائیں تو (ان سے) کہہ دو کہ : میرا عمل میرے لیے ہے، اور تمہارا عمل تمہارے لیے، جو کام میں کرتا ہوں اس کی ذمہ داری تم پر نہیں ہے اور جو کام تم کرتے ہو اس کی ذمہ داری مجھ پر نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

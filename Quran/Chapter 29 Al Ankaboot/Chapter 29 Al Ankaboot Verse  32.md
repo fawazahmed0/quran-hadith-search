@@ -3224,6 +3224,12 @@ hazrath Ibraheem(alaihissalaam) ne) kaha is mein to Looth(alaihissalaam) hai, fa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ابراہیم (علیہ السلام) نے کہا: اس (بستی) میں تو لوط (علیہ السلام بھی) ہیں، انہوں نے کہا: ہم ان لوگوں کوخوب جانتے ہیں جو (جو) اس میں (رہتے) ہیں ہم لوط (علیہ السلام) کو اور ان کے گھر والوں کو سوائے ان کی عورت کے ضرور بچالیں گے، وہ پیچھے رہ جانے والوں میں سے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابراہیم نے کہا : اس بستی میں تو لوط موجود ہیں۔ فرشتوں نے کہا : ہمیں خوب معلوم ہے کہ اس میں کون ہے۔ ہم انہیں اور ان کے متعلقین کو ضرور بچا لیں گے، سوائے ان کی بیوی کے کہ وہ ان لوگوں میں شامل رہے گی جو پیچھے رہ جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

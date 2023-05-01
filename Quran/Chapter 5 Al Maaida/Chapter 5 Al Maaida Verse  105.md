@@ -3224,6 +3224,12 @@ aye imaan waalo! apni fikr karo jab tum raahe raasth par chal rahe ho, to jo sha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اپنی جانوں کی فکر کرو، تمہیں کوئی گمراہ نقصان نہیں پہنچا سکتا اگر تم ہدایت یافتہ ہو چکے ہو، تم سب کو اللہ ہی کی طرف پلٹنا ہے، پھر وہ تمہیں ان کاموں سے خبردار فرما دے گا جو تم کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! تم اپنی فکر کرو۔ اگر تم صحیح راستے پر ہوگے تو جو لوگ گمراہ ہیں وہ تمہیں کوئی نقصان نہیں پہنچا سکتے۔ اللہ ہی کی طرف تم سب کو لوٹ کر جانا ہے، اس وقت وہ تمہیں بتائے گا کہ تم کیا عمل کرتے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

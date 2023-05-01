@@ -3224,6 +3224,12 @@ itna hee nahi, balke ye to kehte hai ke Qur’aan para gandha qaabo ka majmua ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ (ظالموں نے یہاں تک) کہا کہ یہ (قرآن) پریشان خوابوں (میں دیکھی ہوئی باتیں) ہیں بلکہ اس (رسول صلی اللہ علیہ وآلہ وسلم) نے اسے (خود ہی) گھڑ لیا ہے بلکہ (یہ کہ) وہ شاعر ہے، (اگر یہ سچا ہے) تو یہ (بھی) ہمارے پاس کوئی نشانی لے آئے جیسا کہ اگلے (رسول نشانیوں کے ساتھ) بھیجے گئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہی نہیں بلکہ ان لوگوں نے یہ بھی کہا کہ : یہ (قرآن) بےجوڑ خوابوں کا مجموعہ ہے، بلکہ یہ ان صاحب نے خود گھڑ لیا ہے، بلکہ یہ ایک شاعر ہیں۔ بھلا یہ ہمارے سامنے کوئی نشانی تو لے آئیں جیسے پچھلے پیغمبر (نشانیوں کے ساتھ) بھیجے گئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aaye “Yahya”!(alaihissalaam) meri kitaab ko mazboti se “thaam le” aur hu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے یحیٰی! (ہماری) کتاب (تورات) کو مضبوطی سے تھامے رکھو، اور ہم نے انہیں بچپن ہی سے حکمت و بصیرت (نبوت) عطا فرما دی تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (پھر جب یحی پیدا ہو کر بڑے ہوگئے تو ہم نے ان سے فرمایا) اے یحی ! کتاب کو مضبوطی سے تھام لو۔ اور ہم نے بچپن ہی میں ان کو دانائی بھی عطا کردی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

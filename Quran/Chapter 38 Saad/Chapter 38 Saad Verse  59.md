@@ -3224,6 +3224,12 @@ ye ek khaum hai jo tumhaare saath (aag mein) jaane waali hai, koyi khush aamadee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(دوزخ کے داروغے یا پہلے سے موجود جہنمی کہیں گے:) یہ ایک (اور) فوج ہے جو تمہارے ساتھ (جہنم میں) گھستی چلی آرہی ہے، انہیں کوئی خوش آمدید نہیں، بیشک وہ (بھی) دوزخ میں داخل ہونے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (جب وہ اپنے پیروکاروں کو آتا دیکھیں گے تو ایک دوسرے سے کہیں گے) یہ ایک اور لشکر ہے جو تمہارے ساتھ گھسا چلا آرہا ہے، پھٹکار ہو ان پر، یہ سب آگ میں جلنے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

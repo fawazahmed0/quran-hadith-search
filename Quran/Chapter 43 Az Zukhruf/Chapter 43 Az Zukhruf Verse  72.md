@@ -3224,6 +3224,12 @@ yahi wo bahisht hai ke tum apne amaal ke badhle is ke waaris banaaye gaye ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے پرہیزگارو!) یہ وہ جنت ہے جس کے تم مالک بنا دیئے گئے ہو، اُن (اعمال) کے صلہ میں جو تم انجام دیتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ وہ جنت ہے جس کا تمہیں اپنے اعمال کے بدلے وارث بنادیا گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

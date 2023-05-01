@@ -3224,6 +3224,12 @@ aur jo gunaah karta hai us ka boojh osi par hai,aur Allah ba-qoobi jaanne waala 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص کوئی گناہ کرے تو بس وہ اپنی ہی جان پر (اس کا وبال عائد) کر رہا ہے اور اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص کوئی گناہ کمائے، تو وہ اس کمائی سے خود اپنے آپ کو نقصان پہنچاتا ہے، اور اللہ پورا علم بھی رکھتا ہے، حکمت کا بھی مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

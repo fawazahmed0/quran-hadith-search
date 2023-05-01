@@ -3224,6 +3224,12 @@ ye yaqini amr hai ke tum mujhe jis ki taraf bula rahe ho, wo to na dunya mein pu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سچ تو یہ ہے کہ تم مجھے جس چیز کی طرف بلا رہے ہو وہ نہ تو دنیا میں پکارے جانے کے قابل ہے اور نہ (ہی) آخرت میں اور بے شک ہمارا واپس لوٹنا اللہ ہی کی طرف ہے اور یقیناً حد سے گزرنے والے ہی دوزخی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سچ تو یہ ہے کہ جن چیزوں کی طرف تم مجھے بلا رہے ہو، وہ دعوت کے اہل نہیں ہیں، نہ دنیا میں، نہ آخرت میں اور حقیت یہ ہے کہ ہم سب کو اللہ کی طرف پلٹ کر جانا ہے اور یہ کہ جو لوگ حد سے گذرنے والے ہیں وہ آگ کے باسی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

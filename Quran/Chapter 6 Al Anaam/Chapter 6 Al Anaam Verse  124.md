@@ -3224,6 +3224,12 @@ aur jab un ko koyi ayath pahonchti hai to, yo kehte hai ke hum har-giz imaan na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان کے پاس کوئی نشانی آتی ہے (تو) کہتے ہیں: ہم ہرگز ایمان نہیں لائیں گے یہاں تک کہ ہمیں بھی ویسی ہی (نشانی) دی جائے جیسی اللہ کے رسولوں کو دی گئی ہے۔ اللہ خوب جانتا ہے کہ اسے اپنی رسالت کا محل کسے بنانا ہے۔ عنقریب مجرموں کو اللہ کے حضور ذلت رسید ہوگی اور سخت عذاب بھی (ملے گا) اس وجہ سے کہ وہ مکر (اور دھوکہ دہی) کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان (اہل مکہ) کے پاس (قرآن کی) کوئی آیت آتی ہے تو یہ کہتے ہیں کہ : ہم اس وقت تک ہرگز ایمان نہیں لائیں گے جب تک کہ اس جیسی چیز خود ہمیں نہ دے دی جائے جیسی اللہ کے پیغمبروں کو دی گئی تھی۔ (حالانکہ) اللہ ہی بہتر جانتا ہے کہ وہ اپنی پیغمبری کس کو سپرد کرے۔ جن لوگوں نے (اس قسم کی) مجرمانہ باتیں کی ہیں ان کو اپنی مکاریوں کے بدلے میں اللہ کے پاس جاکر ذلت اور سخت عذاب کا سامنا ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap keh dijiye! ke wahi rahmaan hai, hum to us par imaan la chuke aur osi par ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: وُہی (خدائے) رحمان ہے جس پر ہم ایمان لائے ہیں اور اُسی پر ہم نے بھروسہ کیا ہے، پس تم عنقریب جان لو گے کہ کون شخص کھلی گمراہی میں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : وہ رحمن ہے، ہم اس پر ایمان لائے ہیں، اور اسی پر ہم نے بھروسہ کیا ہے۔ چنانچہ عنقریب تمہیں پتہ چل جائے گا کہ کون ہے جو کھلی گمراہی میں مبتلا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

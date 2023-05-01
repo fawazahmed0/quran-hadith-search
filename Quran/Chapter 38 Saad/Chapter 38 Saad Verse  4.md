@@ -3224,6 +3224,12 @@ aur kaafiro ko is baath par ta’ajjub hoa ke unhee mein se ek unhe daraane waal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے اس بات پر تعجب کیا کہ ان کے پاس اُن ہی میں سے ایک ڈر سنانے والا آگیا ہے۔ اور کفّار کہنے لگے: یہ جادوگر ہے، بہت جھوٹا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان (قریش کے) لوگوں کو اس بات پر تعجب ہوا ہے کہ ایک خبردار کرنے والا انہی میں سے آگیا۔ اور ان کافروں نے یہ کہہ دیا کہ : وہ جھوٹا جادوگر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

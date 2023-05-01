@@ -3224,6 +3224,12 @@ Allah taala farmayega “haan, isi tarah tu hamari aayat ko, jabke woh tere paas
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ارشاد ہوگا: ایسا ہی (ہوا کہ دنیا میں) تیرے پاس ہماری نشانیاں آئیں پس تو نے انہیں بھلا دیا اور آج اسی طرح تو (بھی) بھلا دیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کہے گا : اسی طرح ہماری آیتیں تیرے پاس آئی تھیں، مگر تو نے انہیں بھلا دیا۔ اور آج اسی طرح تجھے بھلا دیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ to feraun ne us rasool ki na-farmaani ki, to hum ne ose saqth (wabaal ki) pakad 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس فرعون نے اس رسول (علیہ السلام) کی نافرمانی کی، سو ہم نے اس کو ہلاکت انگیز گرفت میں پکڑ لیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر فرعون نے رسول کا کہنا نہیں مانا، تو ہم نے اسے ایسی پکڑ میں لے لیا جو اس کے لیے زبردست وبال تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

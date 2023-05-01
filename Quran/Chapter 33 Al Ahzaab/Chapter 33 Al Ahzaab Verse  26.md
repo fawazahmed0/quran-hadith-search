@@ -3224,6 +3224,12 @@ aur jin ahle kitaab ne un se saaz baaz karli thi, unhe (bhi) Allah ta’ala ne u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (بنو قریظہ کے) جن اہلِ کتاب نے (اپنا معاہدۂ اَمن توڑ کر) ان (حملہ آور کفار) کی مدد کی تھی اللہ نے انہیں (بھی) ان کے قلعوں سے اتار دیا اور ان کے دلوں میں (اسلام کا) رعب ڈال دیا تم (ان میں سے) ایک گروہ کو (ان کے جنگی جرائم کی پاداش میں) قتل کرتے ہو اور ایک گروہ کو جنگی قیدی بناتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن اہل کتاب نے ان (دشمنوں) کی مدد کی تھی، انہیں اللہ ان کے قلعوں سے نیچے اتار لایا اور ان کے دلوں میں ایسا رعب ڈال دیا کہ (اے مسلمانوں ! ان میں سے کچھ کو تم قتل کر رہے تھے، اور کچھ کو قیدی بنا رہے تھے۔)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

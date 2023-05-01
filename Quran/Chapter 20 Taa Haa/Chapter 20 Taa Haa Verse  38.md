@@ -3224,6 +3224,12 @@ jab ke hum ne teri maa ko wo elhaam kiya jis ka zikr ab kiya ja raha hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب ہم نے تمہاری والدہ کے دل میں وہ بات ڈال دی جو ڈالی گئی تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب ہم نے تمہاری ماں سے وحی کے ذریعے وہ بات کہی تھی جو اب وحی کے ذریعے (تمہیں) بتائی جارہی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

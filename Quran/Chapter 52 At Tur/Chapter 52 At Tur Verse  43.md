@@ -3224,6 +3224,12 @@ kya Allah ke siva un ka koyi maboodh hai? (har giz nahi) Allah ta’ala un ke sh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا اللہ کے سوا اُن کا کوئی معبود ہے، اللہ ہر اُس چیز سے پاک ہے جسے وہ (اللہ کا) شریک ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا اللہ کے سوا ان کا کوئی اور خدا ہے ؟ پاک ہے اللہ اس شرک سے جو یہ کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

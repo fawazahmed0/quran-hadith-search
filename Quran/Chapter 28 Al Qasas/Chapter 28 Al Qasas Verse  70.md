@@ -3224,6 +3224,12 @@ wahi Allah hai, us ke siva koyi laayeq ibaadath nahi, dunya aur aaqirath mein os
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی اللہ ہے اس کے سوا کوئی معبود نہیں۔ دنیا اور آخرت میں ساری تعریفیں اسی کے لئے ہیں، اور (حقیقی) حکم و فرمانروائی (بھی) اسی کی ہے اور تم اسی کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہی ہے اس کے سوا کوئی عبادت کے لائق نہیں، تعریف اسی کی ہے، دنیا میں بھی اور آخرت میں بھی، اور حکم اسی کا چلتا ہے، اور اسی کی طرف تم سب واپس بھیجے جاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

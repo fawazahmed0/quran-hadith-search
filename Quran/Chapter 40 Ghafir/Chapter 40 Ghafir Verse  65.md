@@ -3224,6 +3224,12 @@ wo zinda hai jis ke siva koyi maboodh nahi, pas tum qaalis osi ki ibaadath karte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی زندہ ہے، اس کے سوا کوئی معبود نہیں، پس تم اس کی عبادت اُس کے لئے طاعت و بندگی کو خالص رکھتے ہوئے کیا کرو، تمام تعریفیں اللہ ہی کے لئے ہیں جو سب جہانوں کا پروردگار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی سدا زندہ ہے، اس کے سوا کوئی معبود نہیں، اس لیے اس کو اس طرح پکارو کہ تمہاری تابع داری خالص اسی کے لیے ہو۔ تمام تعریفیں اللہ کے لیے ہیں جو سارے جہانوں کا پروردگار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

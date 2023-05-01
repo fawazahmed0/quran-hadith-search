@@ -3224,6 +3224,12 @@ beshak ye nasihath hai, pas jo chaahe apne rab ki taraf raah eqtiyaar kare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک یہ (قرآن) نصیحت ہے، پس جو شخص چاہے اپنے رب تک پہنچنے کا راستہ اِختیار کر لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ایک نصیحت کی بات ہے۔ اب جو چاہے، اپنے پروردگار کی طرف جانے والا راستہ اختیار کرلے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

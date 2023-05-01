@@ -3224,6 +3224,12 @@ aur jab un se kaha jaata hai ke Allah ta’ala ne jo ehkaam naazil farmaaye hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان سے کہا جاتا ہے کہ اس (قرآن) کی طرف جسے اللہ نے نازل فرمایا ہے اور رسولِ (مکرّم صلی اللہ علیہ وآلہ وسلم) کی طرف رجوع کرو تو کہتے ہیں: ہمیں وہی (طریقہ) کافی ہے جس پر ہم نے اپنے باپ دادا کو پایا۔ اگرچہ ان کے باپ دادا نہ کچھ (دین کا) علم رکھتے ہوں اور نہ ہی ہدایت یافتہ ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان سے کہا جاتا ہے کہ اللہ نے جو کلام نازل کیا ہے، اس کی طرف اور رسول کی طرف آؤ، تو وہ کہتے ہیں کہ : ہم نے جس (دین پر) اپنے باپ دادوں کو پایا ہے، ہمارے لیے وہی کافی ہے۔ بھلا اگر ان کے باپ دادے ایسے ہوں کہ نہ ان کے پاس کوئی علم ہو، اور نہ کوئی ہدایت تو کیا پھر بھی (یہ انہی کے پیچھے چلتے رہیں گے ؟)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

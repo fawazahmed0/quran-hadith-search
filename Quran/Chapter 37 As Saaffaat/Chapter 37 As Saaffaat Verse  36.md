@@ -3224,6 +3224,12 @@ aur kehte thein ke kya hum apne mabudho ko ek diwaane shaayar ki baath par chohd
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کہتے تھے: کیا ہم ایک دیوانے شاعر کی خاطر اپنے معبودوں کو چھوڑنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہا کرتے تھے کہ : کیا ہم ایسے ہیں کہ ایک دیوانے شاعر کی وجہ سے اپنے معبودوں کو چھوڑ بیٹھیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

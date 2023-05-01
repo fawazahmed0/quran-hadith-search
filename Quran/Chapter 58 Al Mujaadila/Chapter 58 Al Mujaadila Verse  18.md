@@ -3224,6 +3224,12 @@ jis din Allah ta’ala un sab ko utha khada karega, to ye jis tarah tumhaare saa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن اللہ اُن سب کو (دوبارہ زندہ کر کے) اٹھائے گا تو وہ اُس کے حضور (بھی) قَسمیں کھا جائیں گے جیسے تمہارے سامنے قَسمیں کھاتے ہیں اور وہ گمان کرتے ہیں کہ وہ کسی (اچھی) شے (یعنی روِش) پر ہیں۔ آگاہ رہو کہ یہ لوگ جھوٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن اللہ ان سب کو دوبارہ زندہ کرے گا تو اس کے سامنے بھی یہ اسی طرح قسمیں کھائیں گے جیسے تمہارے سامنے کھاتے ہیں، اور یہ سمجھیں گے کہ انہیں کوئی سہارا مل گیا ہے۔ یاد رکھو یہ لوگ بالکل جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

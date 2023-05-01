@@ -3224,6 +3224,12 @@ un ki khaum mein jo mutakabbir sardaar thein un hone ghareeb logo se jo ke un me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی قوم کے سرداروں نے جو بڑائی کے گھمنڈ میں تھے، ان کمزوروں سے پوچھا جو ایمان لے آئے تھے کہ : کیا تمہیں اس بات کا یقین ہے کہ صالح اپنے رب کی طرف سے بھیجے ہوئے پیغمبر ہیں ؟ انہوں نے کہا کہ : بیشک ہم تو اس پیغام پر پورا ایمان رکھتے ہیں جو ان کے ذریعے بھیجا گیا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

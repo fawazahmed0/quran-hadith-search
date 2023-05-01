@@ -3224,6 +3224,12 @@ yaqinan tumhaare liye Rasool Allah (sallallahu alaihi wasalaam) mein umdah namun
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فی الحقیقت تمہارے لئے رسول اللہ (صلی اللہ علیہ وآلہ وسلم کی ذات) میں نہایت ہی حسین نمونۂ (حیات) ہے ہر اُس شخص کے لئے جو اللہ (سے ملنے) کی اور یومِ آخرت کی امید رکھتا ہے اور اللہ کا ذکر کثرت سے کرتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ تمہارے لیے رسول اللہ کی ذات میں ایک بہترین نمونہ ہے ہر اس شخص کے لیے جو اللہ سے اور یوم آخرت سے امید رکھتا ہو، اور کثرت سے اللہ کا ذکر کرتا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

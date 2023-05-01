@@ -3224,6 +3224,12 @@ aye imaan waalo! apni awaaze Nabi(sallallahu alaihiwasallam) ki awaaz se upar na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اپنی آوازوں کو نبیِ مکرّم (صلی اللہ علیہ وآلہ وسلم) کی آواز سے بلند مت کیا کرو اور اُن کے ساتھ اِس طرح بلند آواز سے بات (بھی) نہ کیا کرو جیسے تم ایک دوسرے سے بلند آواز کے ساتھ کرتے ہو (ایسا نہ ہو) کہ تمہارے سارے اعمال ہی (ایمان سمیت) غارت ہو جائیں اور تمہیں (ایمان اور اعمال کے برباد ہوجانے کا) شعور تک بھی نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اپنی آوازیں نبی کی آواز سے بلند مت کیا کرو، اور نہ ان سے بات کرتے ہوئے اس طرح زور سے بولا کرو جیسے تم ایک دوسرے سے زور سے بولتے ہو، کہیں ایسا نہ ہو کہ تمہارے اعمال برباد ہوجائیں، اور تمہیں پتہ بھی نہ چلے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

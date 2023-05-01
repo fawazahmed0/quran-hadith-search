@@ -3224,6 +3224,12 @@ jis par mushk ki muhar hogi, sabqath le jaane waalo ko isi mein sabqath karni ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس کی مُہر کستوری کی ہوگی، اور (یہی وہ شراب ہے) جس کے حصول میں شائقین کو جلد کوشش کر کے سبقت لینی چاہیے (کوئی شرابِ نعمت کا طالب و شائق ہے، کوئی شرابِ قربت کا اور کوئی شرابِ دیدار کا۔ ہر کسی کو اس کے شوق کے مطابق پلائی جائے گی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کی مہر بھی مشک ہی مشک ہوگی۔ اور یہی وہ چیز ہے جس پر للچانے والوں کو بڑھ چڑھ کر للچانا چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

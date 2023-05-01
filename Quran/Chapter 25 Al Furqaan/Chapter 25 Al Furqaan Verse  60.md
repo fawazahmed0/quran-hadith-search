@@ -3224,6 +3224,12 @@ un se jab bhi kaha jaata hai ke rahmaan ko sajda karo, to jawaab dete hai ke rah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان سے کہا جاتا ہے کہ تم رحمان کو سجدہ کرو تو وہ (منکرینِ حق) کہتے ہیں کہ رحمان کیا (چیز) ہے؟ کیا ہم اسی کو سجدہ کرنے لگ جائیں جس کا آپ ہمیں حکم دے دیں اور اس (حکم) نے انہیں نفرت میں اور بڑھا دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان لوگوں سے کہا جاتا ہے کہ رحمن کو سجدہ کرو تو یہ کہتے ہیں کہ : رحمن کیا ہوتا ہے ؟ کیا جسے بھی تم کہہ دو ، ہم اسے سجدہ کیا کریں ؟ اور اس بات سے وہ اور زیادہ بدکنے لگتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

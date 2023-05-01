@@ -3224,6 +3224,12 @@ aap momino ko khush qabri suna di jiye! ke un ke liye Allah ki taraf se bahuth b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اہلِ ایمان کو اس بات کی بشارت دے دیں کہ ان کے لئے اللہ کا بڑا فضل ہے (کہ وہ اس خاتم الانبیاء کی نسبتِ غلامی میں ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم مومنوں کو خوشخبری سنا دو کہ ان پر اللہ کی طرف سے بڑا فضل ہونے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

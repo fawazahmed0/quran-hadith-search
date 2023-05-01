@@ -3224,6 +3224,12 @@ us din munaafiq mard wa aurath imaan waalo se kahenge ke hamaara intezaar to kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن منافق مرد اور منافق عورتیں ایمان والوں سے کہیں گے: ذرا ہم پر (بھی) نظرِ (التفات) کر دو ہم تمہارے نور سے کچھ روشنی حاصل کرلیں۔ ان سے کہا جائے گا: تم اپنے پیچھے پلٹ جاؤ اور (وہاں جاکر) نور تلاش کرو (جہاں تم نور کا انکار کرتے تھے)، تو (اسی وقت) ان کے درمیان ایک دیوار کھڑی کر دی جائے گی جس میں ایک دروازہ ہوگا، اس کے اندر کی جانب رحمت ہوگی اور اس کے باہر کی جانب اُس طرف سے عذاب ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن جب منافق مرد اور منافق عورتیں ایمان والوں سے کہیں گے کہ : ذرا ہمارا انتظار کرلو کہ تمہارے نور سے ہم بھی کچھ روشنی حاصل کرلیں۔ ان سے کہا جائے گا کہ : تم اپنے پیچھے لوٹ جاؤ، پھر نور تلاش کرو۔ پھر ان کے درمیان ایک دیوار حائل کردی جائے گی جس میں ایک دروازہ ہوگا جس کے اندر کی طرف رحمت ہوگی، اور باہر کی طرف عذاب ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

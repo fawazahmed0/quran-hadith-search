@@ -3224,6 +3224,12 @@ koyi gruh apni mauth se na aage badta hai na piche rehta hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کوئی بھی قوم (قانونِ عروج و زوال کی) اپنی مقررہ مدت سے نہ آگے بڑھ سکتی ہے اور نہ پیچھے ہٹ سکتی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کوئی قوم اپنے معین وقت سے نہ پہلے ہلاک ہوتی ہے اور نہ اس سے آگے جاسکتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya aap ne nahi dekha ke, Allah hee ne zameen ki tamaam chize tumhaare liye musa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم نے نہیں دیکھا کہ اللہ نے جو کچھ زمین میں ہے تمہارے لئے مسخر فرما دیا ہے اور کشتیوں کو (بھی) جو اس کے اَمر (یعنی قانون) سے سمندر (و دریا) میں چلتی ہیں، اور آسمان (یعنی خلائی و فضائی کرّوں) کو زمین پر گرنے سے (ایک آفاقی نظام کے ذریعہ) تھامے ہوئے ہے مگر اسی کے حکم سے (جب وہ چاہے گا آپس میں ٹکرا جائیں گے)۔ بیشک اللہ تمام انسانوں کے ساتھ نہایت شفقت فرمانے والا بڑا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ اللہ نے زمین کی ساری چیزیں تمہارے کام میں لگا رکھی ہیں، اور وہ کشتیاں بھی جو اس کے حکم سے سمندر میں چلتی ہیں ؟ اور اس نے آسمان کو اس طرح تھام رکھا ہے کہ وہ اس کی اجازت کے بغیر زمین پر نہیں گر سکتا۔ حقیقت یہ ہے کہ اللہ لوگوں کے ساتھ شفقت کا برتاؤ کرنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

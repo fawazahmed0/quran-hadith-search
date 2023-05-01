@@ -3224,6 +3224,12 @@ aur imaan daaro ne jab (kuffaar ke) lashkaro ko dekha (be saaqta) keh uthe! ke u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اہلِ ایمان نے (کافروں کے) لشکر دیکھے تو بول اٹھے کہ یہ ہے جس کا اللہ اور اس کے رسول نے ہم سے وعدہ فرمایا تھا اور اللہ اور اس کے رسول نے سچ فرمایا ہے، سو اس (منظر) سے ان کے ایمان اور اطاعت گزاری میں اضافہ ہی ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان رکھتے ہیں، جب انہوں نے (دشمن کے) لشکروں کو دیکھا تھا تو انہوں نے یہ کہا تھا کہ : یہ وہی بات ہے جس کا وعدہ اللہ اور اس کے رسول نے ہم سے کیا تھا، اور اللہ اور اس کے رسول نے سچ کہا تھا۔ اور اس واقعے نے ان کے ایمان اور تابع داری کے جذبے میں اور اضافہ کردیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

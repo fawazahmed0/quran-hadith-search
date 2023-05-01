@@ -3224,6 +3224,12 @@ pas unhone un duno ko jhutlaaya, aaqir wo bhi halaak shuda logo mein mil gaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس انہوں نے (بھی) ان دونوں کو جھٹلا دیا سو وہ بھی ہلاک کئے گئے لوگوں میں سے ہو گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح انہوں نے ان دونوں کو جھٹلایا، اور آخر کار وہ بھی ان لوگوں سے جا ملے جنہیں ہلاک کیا گیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

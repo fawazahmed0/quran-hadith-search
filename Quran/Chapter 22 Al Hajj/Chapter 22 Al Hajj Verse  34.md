@@ -3224,6 +3224,12 @@ aur har ummath ke liye hum ne qurbaani ke tariqe muqarrar farmaaye hai, ta ke wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ہر امت کے لئے ایک قربانی مقرر کر دی ہے تاکہ وہ ان مویشی چوپایوں پر جو اللہ نے انہیں عنایت فرمائے ہیں (ذبح کے وقت) اللہ کا نام لیں، سو تمہارا معبود ایک (ہی) معبود ہے پس تم اسی کے فرمانبردار بن جاؤ، اور (اے حبیب!) عاجزی کرنے والوں کو خوشخبری سنا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ہر امت کے لیے قربانی اس غرض کے لیے مقرر کی ہے کہ وہ ان مویشیوں پر اللہ کا نام لیں جو اللہ نے انہیں عطا فرمائے ہیں۔ لہذا تمہارا خدا بس ایک ہی خدا ہے، چنانچہ تم اسی کی فرمانبرداری کرو، اور خوشخبردی سنا دو ان لوگوں کو جن کے دل اللہ کے آگے جھکے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

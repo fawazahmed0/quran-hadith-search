@@ -3224,6 +3224,12 @@ aap keh di jiye ke kya hum Allah ta’ala ke siva aisi cheez ko pukaare ke na wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کیا ہم اللہ کے سوا ایسی چیز کی عبادت کریں جو ہمیں نہ (تو) نفع پہنچا سکے اور نہ (ہی) ہمیں نقصان دے سکے اور اس کے بعد کہ اللہ نے ہمیں ہدایت دے دی ہم اس شخص کی طرح اپنے الٹے پاؤں پھر جائیں جسے زمین میں شیطانوں نے راہ بھلا کر درماندہ و حیرت زدہ کر دیا ہو جس کے ساتھی اسے سیدھی راہ کی طرف بلا رہے ہوں کہ ہمارے پاس آجا (مگر اسے کچھ سوجھتا نہ ہو)، فرما دیں کہ اللہ کی ہدایت ہی (حقیقی) ہدایت ہے، اور (اسی لیے) ہمیں (یہ) حکم دیا گیا ہے کہ ہم تمام جہانوں کے رب کی فرمانبرداری کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ان سے کہو : کیا ہم اللہ کو چھوڑ کر ایسی چیزوں کو پکاریں جو ہمیں نہ کوئی فائدہ پہنچا سکتی ہیں، نہ نقصان اور جب اللہ ہمیں ہدایت دے چکا ہے تو کیا اس کے بعد بھی ہم الٹے پاؤں پھرجائیں ؟ (اور) اس شخص کی طرح (ہوجائیں) جسے شیطان بہکا کر صحرا میں لے گئے ہوں، اور وہ حیرانی کے عالم میں بھٹکتا پھرتا ہو، اس کے کچھ ساتھی ہوں جو اسے ٹھیک راستے کی طرف بلا رہے ہوں کہ ہمارے پاس آجاؤَ کہو کہ : اللہ کی دی ہوئی ہدایت ہی صحیح معنی میں ہدایت ہے، اور ہمیں یہ حکم دیا گیا ہے کہ ہم رب العالمین کے آگے جھک جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

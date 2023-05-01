@@ -3224,6 +3224,12 @@ shahar ke parle kinaare se ek shaqs daudta hoa aaya, aur kehne laga aye Mosa!(al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور شہر کے آخری کنارے سے ایک شخص دوڑتا ہوا آیا اس نے کہا: اے موسٰی! (قومِ فرعون کے) سردار آپ کے بارے میں مشورہ کر رہے ہیں کہ وہ آپ کو قتل کردیں سو آپ (یہاں سے) نکل جائیں بیشک میں آپ کے خیر خواہوں میں سے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس کے بعد یہ ہوا کہ) شہر کے بالکل دور دراز علاقے سے ایک شخص دوڑتا ہوا آیا، اس نے کہا کہ : موسیٰ ! سردار لوگ تمہارے بارے میں مشورے کر رہے ہیں کہ تمہیں قتل کر ڈالیں، اس لیے تم یہاں سے نکل جاؤ، یقین رکھو میں تمہارے خیر خواہوں میں سے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

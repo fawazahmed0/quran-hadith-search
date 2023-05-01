@@ -3224,6 +3224,12 @@ jo aayate Allah ki apne saamne padhi jaati hoyi sune phir bhi ghuroor karta hoa 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو اللہ کی (اُن) آیتوں کو سنتا ہے جو اُس پر پڑھ پڑھ کر سنائی جاتی ہیں پھر (اپنے کفر پر) اصرار کرتا ہے تکبّر کرتے ہوئے، گویا اُس نے انہیں سنا ہی نہیں، تو آپ اسے دردناک عذاب کی بشارت دے دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اللہ کی آیتیں سنتا ہے جبکہ وہ اسے پڑھ کر سنائی جارہی ہوتی ہیں، پھر بھی وہ تکبر کے عالم میں اس طرح (کفر پر) اڑا رہتا ہے جیسے اس نے وہ آیتیں سنی ہی نہیں۔ لہذا ایسے شخص کو دردناک عذاب کی خوشخبری سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

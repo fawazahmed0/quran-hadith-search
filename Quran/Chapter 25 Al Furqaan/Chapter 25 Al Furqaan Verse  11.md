@@ -3224,6 +3224,12 @@ baath ye hai ke ye log qayaamath ko jhoot samajhte hai aur qayaamath ke jhutlaan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ انہوں نے قیامت کو (بھی) جھٹلا دیا ہے، اور ہم نے (ہر) اس شخص کے لئے جو قیامت کو جھٹلاتا ہے (دوزخ کی) بھڑکتی ہوئی آگ تیار کر رکھی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اصل حقیقت یہ ہے کہ ان لوگوں نے قیامت کی گھڑی کو جھٹلایا ہوا ہے، اور جو کوئی قیامت کی گھڑی کو جھٹلائے، اس کے لیے ہم نے بھڑکتی ہوئی آگ تیار کر رکھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

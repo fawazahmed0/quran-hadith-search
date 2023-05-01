@@ -3224,6 +3224,12 @@ aur dua kiya kare ke aye mere parvardigaar mujhe jaha le ja, acchi tarah le ja a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ (اپنے رب کے حضور یہ) عرض کرتے رہیں: اے میرے رب! مجھے سچائی و خوش نودی کے ساتھ داخل فرما اور مجھے سچائی و خوش نودی کے ساتھ باہر لے آ اور مجھے اپنی جانب سے مددگار غلبہ و قوت عطا فرما دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ دعا کرو کہ : یا رب ! مجھے جہاں داخل فرما اچھائی کے ساتھ داخل فرما، اور جہاں سے نکال اچھائی کے ساتھ نکال، اور مجھے خاص اپنے پاس سے ایسا اقتدار عطا فرما جس کے ساتھ (تیری) مدد ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

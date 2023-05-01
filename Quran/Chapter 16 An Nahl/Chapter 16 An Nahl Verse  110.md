@@ -3224,6 +3224,12 @@ jin logo ne fitno mein daale jaane ke baadh hijrath ki phir jihaad kiya aur sabr
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر آپ کا رب ان لوگوں کے لئے جنہوں نے (ظلم و جبر کرنے والے کافروں کے ہاتھوں) آزمائشوں (اور تکلیفوں) میں مبتلا کیے جانے کے بعد ہجرت کی (یعنی اللہ کے لیے اپنے وطن چھوڑ دیے) پھر (دفاعی) جنگیں کیں اور (جنگ و جدال، فتنہ و فساد اور ظلم و جبر کے خلاف) سینہ سپر رہے تو (اے حبیبِ مکرّم!) آپ کا رب اس کے بعد بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر یقین جانو تمہارے پروردگار کا معاملہ یہ ہے کہ جن لوگوں نے فتنے میں مبتلا ہونے کے بعد ہجرت کی، پھر جہاد کیا اور صبر سے کام لیا تو ان باتوں کے بعد تمہارا پروردگار یقینا بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

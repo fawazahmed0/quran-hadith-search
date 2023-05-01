@@ -3224,6 +3224,12 @@ aaya wo Allah jo nigehbaani karne wala hai, har shaqs ki us ke kiye hoye amaal p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ (اللہ) جو ہر جان پر اس کے اعمال کی نگہبانی فرما رہا ہے اور (وہ بت جو کافر) لوگوں نے اللہ کے شریک بنا لئے (ایک جیسے ہو سکتے ہیں؟ ہرگز نہیں)۔ آپ فرما دیجئے کہ ان کے نام (تو) بتاؤ۔ (نادانو!) کیا تم اس (اللہ) کو اس چیز کی خبر دیتے ہو جس (کے وجود) کو وہ ساری زمین میں نہیں جانتا یا (یہ صرف) ظاہری باتیں ہی ہیں (جن کا حقیقت سے کوئی تعلق نہیں) بلکہ (حقیقت یہ ہے کہ) کافروں کے لئے ان کا فریب خوش نما بنا دیا گیا ہے اور وہ (سیدھی) راہ سے روک دیئے گئے ہیں، اور جسے اللہ گمراہ ٹھہرا دے تو اس کے لئے کوئی ہادی نہیں ہو سکتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا بتاؤ کہ ایک طرف وہ ذات ہے جو ہر ہر شخص کے ہر ہر کام کی نگرانی کر رہی ہے، اور دوسری طرف ان لوگوں نے اللہ کے ساتھ شریک مانے ہوئے ہیں ؟ کہو کہ : ذرا ان (خدا کے شریکوں) کے نام تو بتاؤ (اگر کوئی نام لو گے) تو کیا اللہ کو کسی ایسے وجود کی خبر دو گے جس کا دنیا بھر میں اللہ کو بھی پتہ نہیں ہے ؟ یا خالی زبان سے ایسے نام لے لو گے جن کے پیچھے کوئی حقیقت نہیں ؟ حقیقت تو یہ ہے کہ ان کافروں کو اپنی مکارانہ باتیں بڑی خوبصورت لگتی ہیں اور (اس طرح) ان کی ہدایت کے راستے میں رکاوٹ پیدا ہوگئی ہے۔ اور جسے اللہ گمراہی میں پڑا رہنے دے، اسے کوئی راہ پر لانے والا میسر نہیں آسکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

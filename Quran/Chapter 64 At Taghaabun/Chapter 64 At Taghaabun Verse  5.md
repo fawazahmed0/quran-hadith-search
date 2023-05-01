@@ -3224,6 +3224,12 @@ kya tumhaare paas us se pehle ke kaafiro ki qabar nahi pahonchi? jinhone apne am
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تمہیں اُن لوگوں کی خبر نہیں پہنچی جنہوں نے (تم سے) پہلے کفر کیا تھا تو انہوں نے (دنیا میں) اپنے کام کی سزا چکھ لی اور ان کے لئے (آخرت میں بھی) دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تمہارے پاس ان لوگوں کے واقعات نہیں پہنچے جنہوں نے پہلے کفر اختیار کیا تھا، پھر اپنے کاموں کا وبال چکھا، اور (آئندہ) ان کے حصے میں ایک دردناک عذاب ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

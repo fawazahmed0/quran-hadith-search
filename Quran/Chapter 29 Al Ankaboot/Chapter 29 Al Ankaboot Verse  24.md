@@ -3224,6 +3224,12 @@ un ki khaum ka jawaab bajuz us ke kuch na tha ke kehne lage ke, ose maar daalo y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو قومِ ابراہیم کا جواب اس کے سوا کچھ نہ تھا کہ وہ کہنے لگے: تم اسے قتل کر ڈالو یا اسے جلا دو، پھر اللہ نے اسے (نمرود کی) آگ سے نجات بخشی، بیشک اس (واقعہ) میں ان لوگوں کے لئے نشانیاں ہیں جو ایمان لائے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض ابراہیم کی قوم کا جواب اس کے سوا کچھ نہیں تھا کہ انہوں نے کہا : قتل کر ڈالو اس کو یا جلا ڈالو اسے۔ پھر اللہ نے ابراہیم کو آگ سے بچایا۔ یقینا اس واقعے میں ان لوگوں کے لیے بڑی عبرتیں ہیں جو ایمان لاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

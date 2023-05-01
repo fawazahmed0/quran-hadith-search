@@ -3224,6 +3224,12 @@ pas tu unhe jhagadta khelta chohd de, yahaa tak ke ye apne us din se ja mile, ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ انہیں چھوڑ دیجئے کہ وہ اپنی بے ہودہ باتوں اور کھیل تماشے میں پڑے رہیں یہاں تک کہ اپنے اس دن سے آملیں جس کا ان سے وعدہ کیا جا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا تم انہیں چھوڑ دو کہ یہ اپنی بےہودہ باتوں میں منہمک اور کھیل کود میں پڑ رہیں، یہاں تک کہ اپنے اس دن سے جا ملیں جس کا ان سے وعدہ کیا جارہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

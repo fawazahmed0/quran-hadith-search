@@ -3224,6 +3224,12 @@ us buzrug ne kaha main apni in duno ladkiyo mein se ek ko aap ke nikaah mein den
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے (موسٰی علیہ السلام سے) کہا: میں چاہتا ہوں کہ اپنی ان دو لڑکیوں میں سے ایک کا نکاح آپ سے کردوں اس (مَہر) پر کہ آپ آٹھ سال تک میرے پاس اُجرت پر کام کریں، پھر اگر آپ نے دس (سال) پور ے کردیئے تو آپ کی طرف سے (احسان) ہوگا اور میں آپ پر مشقت نہیں ڈالنا چاہتا، اگر اللہ نے چاہا تو آپ مجھے نیک لوگوں میں سے پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے باپ نے کہا : میں چاہتا ہوں کہ اپنی ان دو لڑکیوں میں سے ایک سے تمہارا نکاح کردوں۔ بشرطیکہ تم آٹھ سال تک اجرت پر میرے پاس کام کرو، پھر اگر تم دس سال پورے کردو تو یہ تمہارا اپنا فیصلہ ہوگا، اور میرا کوئی ارادہ نہیں ہے کہ تم پر مشقت ڈالوں، انشاء اللہ تم مجھے ان لوگوں میں سے پاؤ گے جو بھلائی کا معاملہ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

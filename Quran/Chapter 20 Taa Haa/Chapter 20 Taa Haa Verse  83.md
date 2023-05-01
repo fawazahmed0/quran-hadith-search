@@ -3224,6 +3224,12 @@ aye Mosa!(alaihissalaam) tujhe apni khaum se (ghaafil kar ke) kaun si cheez jald
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اے موسٰی! تم نے اپنی قوم سے (پہلے طور پر آجانے میں) جلدی کیوں کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (جب موسیٰ کوہ طور پر اپنے لوگوں سے پہلے چلے آئے تو اللہ نے ان سے کہا) موسیٰ ! تم اپنی قوم سے پہلے جلدی کیوں آگئے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

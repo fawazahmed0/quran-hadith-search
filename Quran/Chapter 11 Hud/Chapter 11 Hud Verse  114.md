@@ -3224,6 +3224,12 @@ din ke duno saro mein namaz barpa rakh aur raath ki kayi saa’ato mein bhi, yaq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ دن کے دونوں کناروں میں اور رات کے کچھ حصوں میں نماز قائم کیجئے۔ بیشک نیکیاں برائیوں کو مٹا دیتی ہیں۔ یہ نصیحت قبول کرنے والوں کے لئے نصیحت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) دن کے دونوں سروں پر اور رات کے کچھ حصوں میں نماز قائم کرو۔ یقینا نیکیاں برائیوں کو مٹا دیتی ہیں، یہ ایک نصیحت ہے ان لوگوں کے لیے جو نصیحت مانیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

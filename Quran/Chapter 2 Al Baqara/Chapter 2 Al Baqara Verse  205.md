@@ -3224,6 +3224,12 @@ jab wo laut kar jaata hai to zameen mein fasaad phailaane ki aur kheti aur nasal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ (آپ سے) پھر جاتا ہے تو زمین میں (ہر ممکن) بھاگ دوڑ کرتا ہے تاکہ اس میں فساد انگیزی کرے اور کھیتیاں اور جانیں تباہ کر دے، اور اللہ فساد کو پسند نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب اٹھ کرجاتا ہے تو زمین میں اس کی دوڑ دھوپ اس لئے ہوتی ہے کہ وہ اس میں فساد مچائے، اور فصلیں اور نسلیں تبارہ کرے، حالانکہ اللہ فساد کو پسند نہیں کرتا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

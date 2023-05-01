@@ -3224,6 +3224,12 @@ aap keh dijiye meri raah yahi hai, main aur mere muttabayeen2 Allah ki taraf bol
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) فرما دیجئے: یہی میری راہ ہے، میں اللہ کی طرف بلاتا ہوں، پوری بصیرت پر (قائم) ہوں، میں (بھی) اور وہ شخص بھی جس نے میری اتباع کی، اور اللہ پاک ہے اور میں مشرکوں میں سے نہیں ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کہہ دو کہ : یہ میرا راستہ ہے، میں بھی پوری بصیرت کے ساتھ اللہ کی طرف بلاتا ہوں، اور جنہوں نے میری پیروی کی ہے وہ بھی، اور اللہ (ہر قسم کے شر سے) پاک ہے، اور میں ان لوگوں میں سے نہیں ہوں جو اللہ کے ساتھ کسی کو شریک ٹھہراتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

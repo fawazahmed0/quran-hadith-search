@@ -3224,6 +3224,12 @@ yahi wo log hai jinhe un se sabr ke badhle, jannath ke bulandh wa baala khaane d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہی لوگوں کو (جنت میں) بلند ترین محلات ان کے صبر کرنے کی جزا کے طور پر بخشے جائیں گے اور وہاں دعائے خیر اور سلام کے ساتھ ان کا استقبال کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ ہیں جنہیں ان کے صبر کے بدلے جنت کے بالاخانے عطا ہوں گے، اور وہاں دعاؤں اور سلام سے ان کا استقبال کیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

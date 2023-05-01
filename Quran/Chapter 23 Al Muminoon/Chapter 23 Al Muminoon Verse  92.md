@@ -3224,6 +3224,12 @@ wo ghaayeb haazir jaanne waala hai aur jo shirk ye karte hai, us se baalaatar ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ) پوشیدہ اور آشکار (سب چیزوں) کا جاننے والا ہے سو وہ ان چیزوں سے بلند و برتر ہے جنہیں یہ شریک ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ جسے تمام چھپی اور کھلی باتوں کا مکمل علم ہے۔ لہذا وہ ان کے شرک سے بہت بلند وبالا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

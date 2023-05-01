@@ -3224,6 +3224,12 @@ jis din wo aa jaegi majaal na hogi ke Allah ki ijazath ke baghair koi baat bhi k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب وہ دن آئے گا کوئی شخص (بھی) اس کی اجازت کے بغیر کلام نہیں کر سکے گا، پھر ان میں بعض بدبخت ہوں گے اور بعض نیک بخت
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب وہ دن آجائے گا تو کوئی اللہ کی اجازت کے بغیر بات نہیں کرسکے گا۔ پھر ان میں کوئی بدحال ہوگا، اور کوئی خوشحال۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

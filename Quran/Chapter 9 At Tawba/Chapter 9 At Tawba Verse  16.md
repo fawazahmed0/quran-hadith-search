@@ -3224,6 +3224,12 @@ kya tum ye samajh baite ho ke tum chod diye jaoge, halaan ke ab tak Allah ne tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم یہ سمجھتے ہو کہ تم (مصائب و مشکلات سے گزرے بغیر یونہی) چھوڑ دیئے جاؤ گے حالانکہ (ابھی) اللہ نے ایسے لوگوں کو متمیّز نہیں فرمایا جنہوں نے تم میں سے جہاد کیا ہے اور (جنہوں نے) اللہ کے سوا اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کے سوا اور اہلِ ایمان کے سوا (کسی کو) محرمِ راز نہیں بنایا، اور اللہ ان کاموں سے خوب آگاہ ہے جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا تم نے یہ سمجھ رکھا ہے کہ تمہیں یونہی چھوڑ دیا جائے گا، حالانکہ ابھی اللہ نے یہ تو دیکھا ہی نہیں کہ تم میں سے کون لوگ جہاد کرتے ہیں، اور اللہ، اس کے رسول اور مومنوں کے سوا کسی اور کو خصوصی رازدار نہیں بناتے ؟ اور تم جو کچھ کرتے ہو اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

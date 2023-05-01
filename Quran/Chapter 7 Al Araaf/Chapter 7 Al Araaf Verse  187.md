@@ -3224,6 +3224,12 @@ ye log aap se qayaamath ke mutaalleq sawaal karte hai ke us ka waqo kab hoga? aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے رسول) لوگ تم سے قیامت کے بارے میں پوچھتے ہیں کہ وہ کب برپا ہوگی ؟ کہہ دو کہ : اس کا علم تو صرف میرے رب کے پاس ہے۔ وہی اسے اپنے وقت پر کھول کر دکھائے گا، کوئی اور نہیں۔ وہ آسمانوں اور زمین میں بڑی بھاری چیز ہے، جب آئے گی تو تمہارے پاس اچانک آجائے گی۔ یہ لوگ تم سے اس طرح پوچھتے ہیں جیسے تم نے اس کی پوری تحقیق کر رکھی ہے۔ کہہ دو کہ : اس کا علم صرف اللہ کے پاس ہے، لیکن اکثر لوگ (اس بات کو) نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

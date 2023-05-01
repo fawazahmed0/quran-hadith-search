@@ -3224,6 +3224,12 @@ so aaj hum sirf teri laash ko najaat denge, taa ke tu un ke liye nishaan ibrath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے فرعون!) سو آج ہم تیرے (بے جان) جسم کو بچالیں گے تاکہ تو اپنے بعد والوں کے لئے (عبرت کا) نشان ہوسکے اور بیشک اکثر لوگ ہماری نشانیوں (کو سمجھنے) سے غافل ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا آج ہم تیرے (صرف) جسم کو بچائیں گے تاکہ تو اپنے بعد کے لوگوں کے لیے عبرت کا نشان بن جائے۔ (کیونکہ) بہت سے لوگ ہماری نشانیوں سے غافل بنے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

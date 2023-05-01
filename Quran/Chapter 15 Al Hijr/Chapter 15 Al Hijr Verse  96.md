@@ -3224,6 +3224,12 @@ jo Allah ke saath dosre maboodh muqarrar karte hai, unhe an-qareeb maloom ho jay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو اللہ کے ساتھ دوسرا معبود بناتے ہیں سو وہ عنقریب (اپنا انجام) جان لیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جنہوں نے اللہ کے ساتھ کوئی اور معبود گھڑ رکھا ہے۔ چنانچہ عنقریب انہیں سب پتہ چل جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ irshad hoa ke ab zamin un par chalis sal tak haraam kardi gai hai,ye qaana badoo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ربّ نے) فرمایا: پس یہ (سرزمین) ان (نافرمان) لوگوں پر چالیس سال تک حرام کر دی گئی ہے، یہ لوگ زمین میں (پریشان حال) سرگرداں پھرتے رہیں گے، سو (اے موسٰی! اب) اس نافرمان قوم (کے عبرت ناک حال) پر افسوس نہ کرنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کہا : اچھا تو وہ سرزمین ان پر چالیس سال تک حرام کردی گئی ہے، یہ (اس دوران) زمین میں بھٹکتے پھریں گے تو (اے موسیٰ) اب تم بھی ان نافرمان لوگوں پر ترس مت کھانا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

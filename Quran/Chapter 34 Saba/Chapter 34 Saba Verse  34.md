@@ -3224,6 +3224,12 @@ aur hum ne to jis basti mein jo bhi agaah karne waala bheja, wahaa ke khush haal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے کسی بستی میں کوئی ڈر سنانے والا نہیں بھیجا مگر یہ کہ وہاں کے خوشحال لوگوں نے (ہمیشہ یہی) کہا کہ تم جو (ہدایت) دے کر بھیجے گئے ہو ہم اس کے مُنکِر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس کسی بستی میں ہم نے کوئی خبردار کرنے والا پیغمبر بھیجا، اس کے خوش حال لوگوں نے یہی کہا کہ : جس پیغام کے ساتھ تمہیں بھیجا گیا ہے ہم اس کو ماننے سے انکار کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

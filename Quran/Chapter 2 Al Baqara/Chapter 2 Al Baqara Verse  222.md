@@ -3224,6 +3224,12 @@ aap se haiz ke baare mein sawaal karte hai, kehdi jiye ke wo gandagi hai, haalat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ سے حیض (ایامِ ماہواری) کی نسبت سوال کرتے ہیں، فرما دیں: وہ نجاست ہے، سو تم حیض کے دنوں میں عورتوں سے کنارہ کش رہا کرو، اور جب تک وہ پاک نہ ہو جائیں ان کے قریب نہ جایا کرو، اور جب وہ خوب پاک ہو جائیں تو جس راستے سے اللہ نے تمہیں اجازت دی ہے ان کے پاس جایا کرو، بیشک اللہ بہت توبہ کرنے والوں سے محبت فرماتا ہے اور خوب پاکیزگی اختیار کرنے والوں سے محبت فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگ آپ سے حیض کے بارے میں پوچھتے ہیں، آپ کہہ دیجیے کہ وہ گندگی ہے لہذا حیض کی حالت میں عورتوں سے الگ رہو، اور جب تک وہ پاک نہ ہوجائیں ان سے قربت (یعنی جماع) نہ کرو، ہاں جب وہ پاک ہوجائیں تو ان کے پاس اسی طریقے سے جاؤ جس طرح اللہ نے تمہیں حکم دیا ہے، بیشک اللہ ان لوگوں سے محبت کرتا ہے جو اس کی طرف کثرت سے رجوع کریں اور ان سے محبت کرتا ہے جو خوب پاک صاف رہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

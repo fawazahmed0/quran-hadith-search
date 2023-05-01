@@ -3224,6 +3224,12 @@ agar Allah ta’ala apne (sab) bandho ki rozi faraagh kar deta, to wo zameen mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ اپنے تمام بندوں کے لئے روزی کشادہ فرما دے تو وہ ضرور زمین میں سرکشی کرنے لگیں لیکن وہ (ضروریات کے) اندازے کے ساتھ جتنی چاہتا ہے اتارتا ہے، بیشک وہ اپنے بندوں (کی ضرورتوں) سے خبردار ہے خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ اپنے تمام بندوں کے لیے رزق کو کھلے طور پر پھیلا دیتا تو وہ زمین میں سرکشی کرنے لگتے، مگر وہ ایک خاص اندازے سے جتنا چاہتا ہے (رزق) اتارتا ہے۔ یقینا وہ اپنے بندوں سے پوری طرح باخبر، ان پر نظر رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

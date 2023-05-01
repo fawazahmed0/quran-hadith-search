@@ -3224,6 +3224,12 @@ Allah ta’ala ne un ke liye saqt azaab tayyaar kar rakha hai, tehqeeq jo kuch y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے اُن کے لئے سخت عذاب تیار فرما رکھا ہے، بیشک وہ برا (کام) ہے جو وہ کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے ان کے لیے سخت عذاب تیار کر رکھا ہے۔ حقیقت یہ ہے کہ بہت برے ہیں وہ کام جو یہ کرتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

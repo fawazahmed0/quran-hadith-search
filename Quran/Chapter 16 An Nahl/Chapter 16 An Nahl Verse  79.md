@@ -3224,6 +3224,12 @@ kya un logo ne parindo ko nahi dekha jo taabe farmaan ho kar faza mein hai jinhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے پرندوں کو نہیں دیکھا جو آسمان کی ہوا میں (قانونِ حرکت و پرواز کے) پابند (ہو کر اڑتے رہتے) ہیں، انہیں اللہ کے (قانون کے) سوا کوئی چیز تھامے ہوئے نہیں ہے۔ بیشک اس (پرواز کے اصول) میں ایمان والوں کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا انہوں نے پرندوں کو نہیں دیکھا کہ وہ آسمان کی فضا میں اللہ کے حکم کے پابند ہیں ؟ انہیں اللہ کے سوا کوئی اور تھامے ہوئے نہیں ہے۔ یقینا اس میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو ایمان رکھتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

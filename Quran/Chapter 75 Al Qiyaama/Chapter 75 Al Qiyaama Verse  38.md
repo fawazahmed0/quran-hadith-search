@@ -3224,6 +3224,12 @@ phir wo laho ka lothda ho gaya, phir Allah ne ose payda kiya aur durusth banaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر وہ (رحم میں جال کی طرح جما ہوا) ایک معلّق وجود بن گیا، پھر اُس نے (تمام جسمانی اَعضاء کی اِبتدائی شکل کو اس وجود میں) پیدا فرمایا، پھر اس نے (انہیں) درست کیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر وہ ایک لوتھڑا بنا، پھر اللہ نے اسے بنایا، اور اسے ٹھیک ٹھاک کیا،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

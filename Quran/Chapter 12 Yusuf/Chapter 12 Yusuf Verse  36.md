@@ -3224,6 +3224,12 @@ us ke saath hee do aur jawaan bhi jail khane mein dakhil hoye, un mein se ek ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے ساتھ دو جوان بھی قید خانہ میں داخل ہوئے۔ ان میں سے ایک نے کہا: میں نے اپنے آپ کو (خواب میں) دیکھا ہے کہ میں (انگور سے) شراب نچوڑ رہا ہوں، اور دوسرے نے کہا: میں نے اپنے آپ کو (خواب میں) دیکھا ہے کہ میں اپنے سر پر روٹیاں اٹھائے ہوئے ہوں، اس میں سے پرندے کھا رہے ہیں۔ (اے یوسف!) ہمیں اس کی تعبیر بتائیے، بیشک ہم آپ کو نیک لوگوں میں سے دیکھ رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یوسف کے ساتھ دو اور نوجوان قید خانے میں داخل ہوئے۔ ان میں سے ایک نے (ایک دن یوسف سے) کہا کہ : میں (خواب میں) اپنے آپ کو دیکھتا ہوں کہ میں شراب نچوڑ رہا ہوں۔ اور دوسرے نے کہا کہ : میں (خواب میں) یوں دیکھتا ہوں کہ میں نے اپنے سر پر روٹی اٹھائی ہوئی ہے (اور) پرندے اس میں سے کھا رہے ہیں۔ ذرا ہمیں اس کی تعبیر بتاؤ، ہمیں تم نیک آدمی نظر آتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

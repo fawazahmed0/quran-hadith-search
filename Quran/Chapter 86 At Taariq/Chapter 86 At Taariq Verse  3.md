@@ -3224,6 +3224,12 @@ wo roushan sitaara hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اس سے مراد) ہر وہ آسمانی کرّہ ہے (خواہ وہ ستارہ ہو یا سیارہ یا اَجرامِ سماوی کا کوئی اور کرّہ) جو چمک کر (فضا کو) روشن کر دیتا ہے٭o٭ النجم الثاقب سے مراد ذاتِ محمد مصطفی صلی اللہ علیہ وآلہ وسلم بھی ہے، جس نے سراجاً منیراً کی شان کے ساتھ آسمانِ رسالت پر چمک کر ظلمت بھری کائنات کو نورِ ایمان سے روشن کر دیا ہے۔ (الشفاء)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چمکتا ہوا ستارا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

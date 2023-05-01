@@ -3224,6 +3224,12 @@ aap keh di jiye ke mujh ko is se mumaaniyath ki gayi hai ke un ki ibaadath karo,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرمادیجئے کہ مجھے اس بات سے روک دیا گیا ہے کہ میں ان (جھوٹے معبودوں) کی عبادت کروں جن کی تم اللہ کے سوا پرستش کرتے ہو۔ فرما دیجئے کہ میں تمہاری خواہشات کی پیروی نہیں کرسکتا اگر ایسے ہو تو میں یقیناً بہک جاؤں اور میں ہدایت یافتہ لوگوں سے (بھی) نہ رہوں (جو کہ ناممکن ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہو کہ : تم اللہ کے سوا جن (جھوٹے خداؤں) کو پکارتے ہو مجھے ان کی عبادت کرنے سے منع کیا گیا ہے۔ کہو کہ : میں تمہاری خواہشات کے پیچھے نہیں چل سکتا۔ اگر میں ایسا کروں تو گمراہ ہوں گا، اور میرا شمار ہدایت یافتہ لوگوں میں نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

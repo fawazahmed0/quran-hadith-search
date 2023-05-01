@@ -3224,6 +3224,12 @@ is kitaab mein Maryam ka bhi waaqea bayaan kar, jab ke wo apne ghar ke logo se a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیبِ مکرّم!) آپ کتاب (قرآن مجید) میں مریم (علیہا السلام) کا ذکر کیجئے، جب وہ اپنے گھر والوں سے الگ ہو کر (عبادت کے لئے خلوت اختیار کرتے ہوئے) مشرقی مکان میں آگئیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کتاب میں مریم کا بھی تذکرہ کرو۔ اس وقت کا تذکرہ جب وہ اپنے گھر والوں سے علیحدہ ہو کر اس جگہ چلی گئیں جو مشرق کی طرف واقع تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

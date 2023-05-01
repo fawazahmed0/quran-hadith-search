@@ -3224,6 +3224,12 @@ ye (Qur’aan) logo ke liye ba-seerath ki baatein aur hidaayath wa rahmath hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (قرآن) لوگوں کے لئے بصیرت و عبرت کے دلائل ہیں اور یقین رکھنے والوں کے لئے ہدایت اور رحمت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ (قرآن) تمام لوگوں کے لیے بصیرتوں کا مجموعہ ہے، اور جو لوگ یقین کریں ان کے لیے منزل تک پہنچانے کا ذریعہ اور سراپا رحمت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

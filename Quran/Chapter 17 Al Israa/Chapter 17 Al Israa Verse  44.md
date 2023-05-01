@@ -3224,6 +3224,12 @@ saatho aasmaan aur zameen aur jo bhi un mein hai osi ki tasbih kar rahe hai, ais
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ساتوں آسمان اور زمین اور وہ سارے موجودات جو ان میں ہیں اللہ کی تسبیح کرتے رہتے ہیں، اور (جملہ کائنات میں) کوئی بھی چیز ایسی نہیں جو اس کی حمد کے ساتھ تسبیح نہ کرتی ہو لیکن تم ان کی تسبیح (کی کیفیت) کو سمجھ نہیں سکتے، بیشک وہ بڑا بُردبار بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ساتوں آسمان اور زمین اور ان کی ساری مخلوقات اس کی پاکی بیان کرتی ہیں، اور کوئی چیز ایسی نہیں ہے جو اس کی حمد کے ساتھ اس کی تسبیح نہ کر رہی ہو، لیکن تم لوگ ان کی تسبیح کو سمجھتے نہیں ہو۔ حقیقت یہ ہے کہ وہ بڑا بردبار، بہت معاف کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

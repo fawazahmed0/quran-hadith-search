@@ -3224,6 +3224,12 @@ aur un ke paas nichi nazro, badi badi aankho waali (hure) hongi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے پہلو میں نگاہیں نیچی رکھنے والی، بڑی خوبصورت آنکھوں والی (حوریں بیٹھی) ہوں گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے پاس وہ بڑی بڑی آنکھوں والی خواتین ہونگی جن کی نگاہیں (اپنے شوہروں پر) مرکوز ہوں گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ unhee ka badhla un ke rab ki taraf se maghfirath hai aur jannate hai, jin ke nic
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں جن کی جزا ان کے رب کی طرف سے مغفرت ہے اور جنتیں ہیں جن کے نیچے نہریں رواں ہیں وہ ان میں ہمیشہ رہنے والے ہیں، اور (نیک) عمل کرنے والوں کا کیا ہی اچھا صلہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ہیں وہ لوگ جن کا صلہ ان کے پروردگار کی طرف سے مغفرت ہے، اور وہ باغات ہیں جن کے نیچے دریا بہتے ہوں گے، جن میں انہین دائمی زندگی حاصل ہوگی، کتنا بہترین بدلہ ہے جو کام کرنے والوں کو ملنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

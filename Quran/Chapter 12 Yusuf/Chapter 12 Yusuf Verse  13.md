@@ -3224,6 +3224,12 @@ Baap ne kaha “tumhara isey le jana mujhey shaaq guzarta hai(troubles me) aur m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: بیشک مجھے یہ خیال مغموم کرتا ہے کہ تم اسے لے جاؤ اور میں (اس خیال سے بھی) خوف زدہ ہوں کہ اسے بھیڑیا کھا جائے اور تم اس (کی حفاظت) سے غافل رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یعقوب نے کہا : تم اسے لے جاؤ گے تو مجھے (اس کی جدائی کا) غم ہوگا۔ اور مجھے یہ اندیشہ بھی ہے کہ کسی وقت جب تم اس کی طرف سے غافل ہو، تو کوئی بھیڑیا اسے کھاجائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

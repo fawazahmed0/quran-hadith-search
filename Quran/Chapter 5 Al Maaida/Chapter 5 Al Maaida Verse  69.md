@@ -3224,6 +3224,12 @@ musalmaan, yahoodi sitaara parasth aur nasraani, koyi ho, jo bhi Allah ta’ala 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک (خود کو) مسلمان (کہنے والے) اور یہودی اور صابی (یعنی ستارہ پرست) اور نصرانی جو بھی (سچے دل سے تعلیماتِ محمدی کے مطابق) اللہ پر اور یومِ آخرت پر ایمان لائے اور نیک عمل کرتے رہے تو ان پر نہ کوئی خوف ہوگا اور نہ وہ غمگین ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حق تو یہ ہے کہ جو لوگ بھی، خواہ وہ مسلمان ہوں یا یہودی یا صابی یا نصرانی، اللہ اور آخرت کے دن پر ایمان لے آئیں گے اور نیک عمل کریں گے ان کو نہ کوئی خوف ہوگا، نہ وہ کسی غم میں مبتلا ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

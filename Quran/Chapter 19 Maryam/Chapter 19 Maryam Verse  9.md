@@ -3224,6 +3224,12 @@ irshaad hoa ke waada isi tarah ho chuka, tere rub ne farma diya hai ke mujh par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرمایا: (تعجب نہ کرو) ایسے ہی ہوگا، تمہارے رب نے فرمایا ہے: یہ (لڑکا پیدا کرنا) مجھ پر آسان ہے اور بیشک میں اس سے پہلے تمہیں (بھی) پیدا کرچکا ہوں اس حالت سے کہ تم (سرے سے) کوئی چیز ہی نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہا : ہاں ! ایسا ہی ہوگا۔ تمہارے رب نے فرمایا ہے کہ یہ تو میرے لیے معمولی بات ہے، اور اس سے پہلے میں نے تمہیں پیدا کیا تھا جب تم کچھ بھی نہیں تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ bajuz apni biwiyo aur milkiyath ki laundiyo ke, yaqinan ye malaamato mein se nah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے اپنی بیویوں کے یا ان باندیوں کے جو ان کے ہاتھوں کی مملوک ہیں، بیشک (احکامِ شریعت کے مطابق ان کے پاس جانے سے) ان پر کوئی ملامت نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سوائے اپنی بیویوں اور ان کنیزوں کے جو ان کی ملکیت میں آچکی ہوں۔ کیونکہ ایسے لوگ قابل ملامت نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

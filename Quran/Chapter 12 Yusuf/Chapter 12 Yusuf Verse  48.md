@@ -3224,6 +3224,12 @@ us ke baad saath saal nihaayat saqt qahath ke ayenge, wo us ghalle ko kha jayeng
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اس کے بعد سات (سال) بہت سخت (خشک سالی کے) آئیں گے وہ اس (ذخیرہ) کو کھا جائیں گے جو تم ان کے لئے پہلے جمع کرتے رہے تھے مگر تھوڑا سا (بچ جائے گا) جو تم محفوظ کر لوگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اس کے بعد تم پر سات سال ایسے آئیں گے جو بڑے سخت ہوں گے، اور جو کچھ ذخیرہ تم نے ان سالوں کے واسطے جمع کر رکھا ہوگا، اس کو کھا جائیں گے، ہاں البتہ تھوڑا سا حصہ جو تم محفوظ کرسکو گے (صرف وہ بچ جائے گا)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

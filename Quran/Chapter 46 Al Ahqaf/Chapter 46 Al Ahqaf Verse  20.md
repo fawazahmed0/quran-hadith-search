@@ -3224,6 +3224,12 @@ aur jis din kaafir jahannam ke sire par laaye jayenge (kaha jayega) tum ne apni 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس دن کافر لوگ آتشِ دوزخ کے سامنے پیش کئے جائیں گے (تو ان سے کہا جائے گا:) تم اپنی لذیذ و مرغوب چیزیں اپنی دنیوی زندگی میں ہی حاصل کر چکے اور ان سے (خوب) نفع اندوز بھی ہو چکے۔ پس آج کے دن تمہیں ذلت کے عذاب کی سزا دی جائے گی اس وجہ سے کہ تم زمین میں ناحق تکبر کیا کرتے تھے اور اس وجہ سے (بھی) کہ تم نافرمانی کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس دن کو یاد کرو جب ان کافروں کو آگ کے سامنے پیش کیا جائے گا (اور کہا جائے گا کہ) تم نے اپنے حصے کی اچھی چیزیں اپنی دنیوی زندگی میں ختم کر ڈالیں اور ان سے خوب مزہ لے لیا، لہذا آج تمہیں بدلے میں ذلت کی سزا ملے گی، کیونکہ تم زمین میں ناحق تکبر کیا کرتے تھے، اور کیونکہ تم نافرمانی کے عادی تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

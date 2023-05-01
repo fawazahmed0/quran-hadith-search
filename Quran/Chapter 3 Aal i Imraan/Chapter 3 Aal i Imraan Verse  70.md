@@ -3224,6 +3224,12 @@ aye ahle kitaab, tum (ba-wajoodh qaayel hone ke phir bhi) daanista, Allah ki aya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اہلِ کتاب! تم اللہ کی آیتوں کا انکار کیوں کر رہے ہو حالانکہ تم خود گواہ ہو (یعنی تم اپنی کتابوں میں سب کچھ پڑھ چکے ہو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے اہل کتاب ! اللہ کی آیتوں کا کیوں انکار کرتے ہو حالانکہ تم خود (ان کے من جانب اللہ ہونے کے) گواہ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

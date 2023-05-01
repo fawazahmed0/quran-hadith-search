@@ -3224,6 +3224,12 @@ aur teen shaqso ke haal par bhi jin ka mamla multawi chod diya gaya tha yaha tak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان تینوں شخصوں پر (بھی نظرِ رحمت فرما دی) جن (کے فیصلہ) کو مؤخر کیا گیا تھا یہاں تک کہ جب زمین باوجود کشادگی کے ان پر تنگ ہوگئی اور (خود) ان کی جانیں (بھی) ان پر دوبھر ہوگئیں اور انہیں یقین ہوگیا کہ اللہ (کے عذاب) سے پناہ کا کوئی ٹھکانا نہیں بجز اس کی طرف (رجوع کے)، تب اللہ ان پر لطف وکرم سے مائل ہوا تاکہ وہ (بھی) توبہ و رجوع پر قائم رہیں، بیشک اللہ ہی بڑا توبہ قبول فرمانے والا، نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان تینوں پر بھی (اللہ نے رحمت کی نظر فرمائی ہے) جن کا فیصلہ ملتوی کردیا گیا تھا، یہاں تک کہ جب ان پر یہ زمین اپنی ساری وسعتوں کے باوجود تنگ ہوگئی، ان کی زندگیاں ان پر دو بھر ہوگئیں، اور انہوں نے سمجھ لیا کہ اللہ (کی پکڑ) سے خود اسی کی پناہ میں آئے بغیر کہیں اور پناہ نہیں مل سکتی، تو پھر اللہ نے ان پر رحم فرمایا، تاکہ وہ آئندہ اللہ ہی سے رجوع کیا کریں۔ یقین جانو اللہ بہت معاف کرنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

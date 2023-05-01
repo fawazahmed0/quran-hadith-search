@@ -3224,6 +3224,12 @@ unhone kaha ke kya aap hamaare paas is waaste aaye hai ke hum sirf Allah hee ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : کیا تم ہمارے پاس اس لیے آئے ہو کہ ہم تنہا اللہ کی عبادت کریں، اور جن (بتوں) کی عبادت ہمارے باپ دادا کرتے آئے ہیں انہیں چھوڑ بیٹھیں ؟ اچھا اگر تم سچے ہو تو لے آؤ ہمارے سامنے وہ (عذاب) جس کی ہمیں دھمکی دے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

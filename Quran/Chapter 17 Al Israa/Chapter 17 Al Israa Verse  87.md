@@ -3224,6 +3224,12 @@ sivaaye aap ke rub ki rehmath ke, yaqinan aap par us ka bada hee fazl hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر یہ کہ آپ کے رب کی رحمت سے (ہم نے اسے قائم رکھا ہے)، بیشک (یہ) آپ پر (اور آپ کے وسیلہ سے آپ کی امّت پر)اس کا بہت بڑا فضل ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن یہ تو تمہارے رب کی طرف سے ایک رحمت ہے (کہ وحی کا سلسلہ جاری ہے) حقیقت یہ ہے کہ تمہارے رب کی طرف سے تم پر جو فضل ہورہا ہے وہ بڑا عظیم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

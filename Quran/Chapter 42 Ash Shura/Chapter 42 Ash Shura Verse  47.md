@@ -3224,6 +3224,12 @@ apne rab ka hukm maan lo, us se pehle ke Allah ki jaanib se wo din aa jaaye jis 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم لوگ اپنے رب کا حکم قبول کر لو قبل اِس کے کہ وہ دن آجائے جو اللہ کی طرف سے ٹلنے والا نہیں ہے، نہ تمہارے لئے اُس دن کوئی جائے پناہ ہوگی اور نہ تمہارے لئے کوئی جائے انکار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لوگو) اپنے پروردگار کی بات اس دن کے آنے سے پہلے پہلے مان لو جسے اللہ کی طرف سے ٹالا نہیں جائے گا، اس دن تمہارے لیے کوئی جائے پناہ نہیں ہوگی، اور نہ تمہارے لیے پوچھ گچھ کا کوئی موقع ہوگا،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

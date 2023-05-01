@@ -3224,6 +3224,12 @@ ab chain se kha pi aur aankhe thandi rakh, agar tujhe koyi insaan nazar pad jaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو تم کھاؤ اور پیو اور (اپنے حسین و جمیل فرزند کو دیکھ کر) آنکھیں ٹھنڈی کرو، پھر اگر تم کسی بھی انسان کو دیکھو تو (اشارے سے) کہہ دینا کہ میں نے (خدائے) رحمان کے لئے (خاموشی کے) روزہ کی نذر مانی ہوئی ہے سو میں آج کسی انسان سے قطعاً گفتگو نہیں کروں گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب کھاؤ، اور پیو، اور آنکھیں ٹھنڈی رکھو۔ اور اگر لوگوں میں سے کسی کو آتا دیکھو تو (اشارے سے) کہہ دینا کہ : آج میں نے خدائے رحمن کے لیے ایک روزے کی منت مانی ہے، اس لیے میں کسی بھی انسان سے بات نہیں کروں گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

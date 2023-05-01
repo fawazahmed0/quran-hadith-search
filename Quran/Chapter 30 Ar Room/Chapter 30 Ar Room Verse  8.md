@@ -3224,6 +3224,12 @@ kya un logo ne apne dil mein ye ghaur nahi kiya? ke Allah ta’ala ne asmaano au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے اپنے مَن میں کبھی غور نہیں کیا کہ اللہ نے آسمانوں اور زمین کو اور جوکچھ ان دونوں کے درمیان ہے پیدا نہیں فرمایا مگر (نظامِ) حق اور مقرّرہ مدت (کے دورانیے) کے ساتھ، اور بیشک بہت سے لوگ اپنے رب کی ملاقات کے مُنکِر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا انہوں نے اپنے دلوں میں غور نہیں کیا ؟ اللہ نے آسمانوں اور زمین کو اور ان کے درمیان پائی جانے والی چیزوں کو بغیر کسی برحق مقصد کے اور کوئی میعاد مقرر کیے بغیر پیدا نہیں کردیا۔ اور بہت سے لوگ ہیں کہ اپنے پروردگار سے جا ملنے کے منکر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

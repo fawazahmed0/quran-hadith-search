@@ -3224,6 +3224,12 @@ aap kehiye ke sab se badi cheez gawaahi dene ke liye kaun hai, aap kahiye ke mer
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان سے دریافت) فرمائیے کہ گواہی دینے میں سب سے بڑھ کر کون ہے؟ آپ (ہی) فرما دیجئے کہ اللہ میرے اور تمہارے درمیان گواہ ہے، اور میری طرف یہ قرآن اس لئے وحی کیا گیا ہے کہ اس کے ذریعے تمہیں اور ہر اس شخص کو جس تک (یہ قرآن) پہنچے ڈر سناؤں۔ کیا تم واقعی اس بات کی گواہی دیتے ہو کہ اللہ کے ساتھ دوسرے معبود (بھی) ہیں؟ آپ فرما دیں: میں (تو اس غلط بات کی) گواہی نہیں دیتا، فرما دیجئے: بس معبود تو وہی ایک ہی ہے اور میں ان (سب) چیزوں سے بیزار ہوں جنہیں تم (اللہ کا) شریک ٹھہراتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو : کون سی چیز ایسی ہے جو (کسی بات کی) گواہی دینے کے لیے سب سے اعلی درجے کی ہو ؟ کہو : اللہ (اور وہی) میرے اور تمہارے درمیان گواہ ہے۔ اور مجھ پر یہ قرآن وحی کے طور پر اس لیے نازل کیا گیا ہے تاکہ اس کے ذریعے میں تمہیں ڈراؤں، اور ان سب کو بھی جنہیں یہ قرآن پہنچے۔ کیا سچ مچ تم یہ گواہی دے سکتے ہو کہ اللہ کے ساتھ اور بھی معبود ہیں ؟ کہہ دو کہ : میں تو ایسی گواہی نہیں دوں گا۔ کہہ دو کہ : وہ تو صرف ایک خدا ہے اور جن جن چیزوں کو تم اس کی خدائی میں شریک ٹھہراتے ہو، میں ان سب سے بیزار ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

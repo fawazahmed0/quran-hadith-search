@@ -3224,6 +3224,12 @@ agar wo (paighambar) tumhe talaaq de de to bahuth jald unhe un ka rab! tumhaare 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر وہ تمہیں طلاق دے دیں تو عجب نہیں کہ اُن کا رب انہیں تم سے بہتر ازواج بدلہ میں عطا فرما دے (جو) فرمانبردار، ایماندار، اطاعت گزار، توبہ شعار، عبادت گزار، روزہ دار، (بعض) شوہر دیدہ اور (بعض) کنواریاں ہوں گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر وہ تمہیں طلاق دے دیں تو ان کے پروردگار کو اس بات میں دیر نہیں لگے گی کہ وہ ان کو (تمہارے) بدلے میں ایسی بیویاں عطا فرما دے جو تم سب سے بہتر ہوں، مسلمان، ایمان والی، طاعت شعار، توبہ کرنے والی، عبادت گزار اور روزہ دار ہوں، چاہے پہلے ان کے شوہر رہے ہوں، یا کنواری ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

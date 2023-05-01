@@ -3224,6 +3224,12 @@ ummid hai ke tumhaara rub tum par rahem kare, haan agar tum phir bhi wahi karne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+امید ہے (اس کے بعد) تمہارا رب تم پر رحم فرمائے گا اور اگر تم نے پھر وہی (سرکشی کا طرزِ عمل اختیار) کیا تو ہم بھی وہی (عذاب دوبارہ) کریں گے، اور ہم نے دوزخ کو کافروں کے لئے قید خانہ بنا دیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عین ممکن ہے کہ (اب) تمہارا رب تم پر رحم کرے۔ لیکن اگر تم پھر وہی کام کرو گے، تو ہم بھی دوبارہ وہی کریں گے، اور ہم نے جہنم کو کافروں کے لیے قید خانہ بنا ہی رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

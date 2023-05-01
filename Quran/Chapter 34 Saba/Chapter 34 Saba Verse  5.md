@@ -3224,6 +3224,12 @@ aur hamaari aayato ko nicha dikhaane ki jinhone koshish ki hai, ye wo log hai ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جنہوں نے ہماری آیتوں میں (مخالفانہ) کوشش کی (ہمیں) عاجز کرنے کے زعم میں انہی لوگوں کے لئے سخت دردناک عذاب کی سزا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ہماری آیتوں کے بارے میں یہ کوشش کی ہے کہ انہیں ناکام بنائیں، ان کے لیے بلا کا دردناک عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

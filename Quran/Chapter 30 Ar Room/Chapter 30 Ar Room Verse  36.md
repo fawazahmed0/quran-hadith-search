@@ -3224,6 +3224,12 @@ aur jab hum logo ko rahmath ka maza chakaate hai, to wo qoob khush ho jaate aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم لوگوں کو رحمت سے لطف اندوز کرتے ہیں تو وہ اس سے خوش ہو جاتے ہیں، اور جب انہیں کوئی تکلیف پہنچتی ہے ان (گناہوں) کے باعث جو وہ پہلے سے کر چکے ہیں تو وہ فوراً مایوس ہو جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہم لوگوں کو رحمت کا مزہ چکھاتے ہیں تو وہ اس پر اترا جاتے ہیں، اور اگر انہیں خود اپنے ہاتھوں کے کرتوت کی وجہ سے کوئی برائی پہنچ جائے تو ذرا سی دیر میں وہ مایوس ہونے لگتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

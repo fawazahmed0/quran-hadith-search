@@ -3224,6 +3224,12 @@ aap se pehle kisi insaan ko bhi hum ne hameshgi nahi di, kya agar aap mar gaye t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آپ سے پہلے کسی اِنسان کو (دنیا کی ظاہری زندگی میں) بقائے دوام نہیں بخشی، تو کیا اگر آپ (یہاں سے) اِنتقال فرما جائیں تو یہ لوگ ہمیشہ رہنے والے ہیں؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم سے پہلے بھی ہمیشہ زندہ رہنا ہم نے کسی فرد بشر کے لیے طے نہیں کیا۔ چنانچہ اگر تمہارا انتقال ہوگیا تو کیا یہ لوگ ایسے ہیں جو ہمیشہ زندہ رہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ta’ala sirf unhee logo ki tauba qubool farmaata hai, jo ba-wajah nadaani
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے صرف انہی لوگوں کی توبہ قبول کرنے کا وعدہ فرمایا ہے جو نادانی کے باعث برائی کر بیٹھیں پھر جلد ہی توبہ کر لیں پس اللہ ایسے لوگوں پر اپنی رحمت کے ساتھ رجوع فرمائے گا، اور اللہ بڑے علم بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے توبہ قبول کرنے کی جو ذمہ داری لی ہے وہ ان لوگوں کے لیے جو نادانی سے کوئی برائی کر ڈالتے ہیں، پھر جلدی ہی توبہ کرلیتے ہیں۔ چنانچہ اللہ ان کی توبہ قبول کرلیتا ہے، اور اللہ ہر بات کو خوب جاننے والا بھی ہے، حکمت والا بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

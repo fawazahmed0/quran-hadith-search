@@ -3224,6 +3224,12 @@ jo (khud bhi) buql kare aur dosro ko (bhi) buql ki taleem de, suno! jo bhi mu ph
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ (خود بھی) بخل کرتے ہیں اور (دوسرے) لوگوں کو (بھی) بخل کی تلقین کرتے ہیں، اور جو شخص (احکامِ الٰہی سے) رُوگردانی کرتا ہے تو بیشک اللہ (بھی) بے پرواہ ہے بڑا قابلِ حمد و ستائِش ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ایسے لوگ ہیں جو کنجوسی کرتے ہیں، اور دوسرے لوگوں کو بھی کنجوسی کی تلقین کرتے ہیں۔ اور جو شخص منہ موڑ لے تو یاد رکھو کہ اللہ ہی ہے جو سب سے بےنیاز ہے، بذات خود قابل تعریف۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye thi qaum aadh jinhone apne rub ki ayato ka inkaar kiya aur us ke rasulo ki na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (قومِ) عاد ہے جنہوں نے اپنے رب کی آیتوں کا انکار کیا اور اپنے رسولوں کی نافرمانی کی اور ہر جابر (و متکبر) دشمنِ حق کے حکم کی پیروی کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ تھے عاد کے لوگ جنہوں نے اپنے پروردگار کی نشانیوں کا انکار کیا، اور اس کے پیغمبروں کی نافرمانی کی، اور ہر ایسے شخص کا حکم مانا جو پرلے درجے کا جابر اور حق کا پکا دشمن تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

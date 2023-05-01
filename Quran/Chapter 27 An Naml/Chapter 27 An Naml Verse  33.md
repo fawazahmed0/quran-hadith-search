@@ -3224,6 +3224,12 @@ un sab ne jawaab diya ke hum taaqath aur quwwath waale aur saqt ladne aur bhidne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: ہم طاقتور اور سخت جنگ جُو ہیں مگر حکم آپ کے اختیار میں ہے سو آپ (خود ہی) غور کر لیں کہ آپ کیا حکم دیتی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : ہم طاقتور اور ڈٹ کر لڑنے والے لوگ ہیں، آگے معاملہ آپ کے سپرد ہے، اب آپ دیکھ لیں کہ کیا حکم دیتی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

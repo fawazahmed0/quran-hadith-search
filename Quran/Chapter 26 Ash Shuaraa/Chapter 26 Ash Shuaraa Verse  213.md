@@ -3224,6 +3224,12 @@ pas tu Allah ke saath kisi aur maboodh ko na pukaar, ke tu bhi saza paane walo m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (اے بندے!) تو اللہ کے ساتھ کسی دوسرے معبود کو نہ پوجا کر ورنہ تو عذاب یافتہ لوگوں میں سے ہو جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اللہ کے ساتھ کوئی معبود نہ مانو، کبھی تم بھی ان لوگوں میں شامل ہوجاؤ جنہیں عذاب ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

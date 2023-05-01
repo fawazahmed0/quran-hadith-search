@@ -3224,6 +3224,12 @@ aap ka rub aisa nahi ke kisi basti ko zulm se halaak kar de aur waha ke log neko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کا رب ایسا نہیں کہ وہ بستیوں کو ظلمًا ہلاک کر ڈالے درآنحالیکہ اس کے باشندے نیکوکار ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارا پروردگار ایسا نہیں ہے کہ بستیوں پر ظلم کر کے انہیں تباہ کر دے جبکہ ان کے باشندے صحیح روشن پر چل رہے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

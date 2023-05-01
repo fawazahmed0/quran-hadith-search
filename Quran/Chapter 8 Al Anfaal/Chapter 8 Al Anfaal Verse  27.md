@@ -3224,6 +3224,12 @@ ae iman walo! tum Allah aur rasol (ke huqoq) mein jaante hoye qayanath math karo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اللہ اور رسول (صلی اللہ علیہ وآلہ وسلم) سے (ان کے حقوق کی ادائیگی میں) خیانت نہ کیا کرو اور نہ آپس کی امانتوں میں خیانت کیا کرو حالانکہ تم (سب حقیقت) جانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ اور رسول سے بےوفائی نہ کرنا، اور نہ جانتے بوجھتے اپنی امانتوں میں خیانت کے مرتکب ہونا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

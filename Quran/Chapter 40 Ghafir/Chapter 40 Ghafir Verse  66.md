@@ -3224,6 +3224,12 @@ aap keh dijiye ke mujhe un ki ibaadath se rok diya gaya hai jinhe tum Allah ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: مجھے منع کیا گیا ہے کہ میں اُن کی پرستش کروں جن بتوں کی تم اللہ کو چھوڑ کر پرستش کرتے ہو جبکہ میرے پاس میرے رب کی جانب سے واضح نشانیاں آچکی ہیں اور مجھے حکم دیا گیا ہے کہ تمام جہانوں کے پروردگار کی فرمانبرداری کروں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! کافروں سے) کہہ دو کہ : مجھے اس بات سے منع کردیا گیا ہے کہ جب میرے پاس میرے رب کی طرف سے کھلی کھلی نشانیاں آچکی ہیں، تو پھر بھی میں ان کی عبادت کروں جنہیں تم اللہ کے بجائے پکارتے ہو۔ اور مجھے یہ حکم دیا گیا ہے کہ میں تمام جہانوں کے پروردگار کے آگے سر جھکا دوں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

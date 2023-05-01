@@ -3224,6 +3224,12 @@ aur wo aisa hai jis ne asmaan se paani barsaaya, phir hum ne us ke zariye se har
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے آسمان کی طرف سے پانی اتارا پھر ہم نے اس (بارش) سے ہر قسم کی روئیدگی نکالی پھر ہم نے اس سے سرسبز (کھیتی) نکالی جس سے ہم اوپر تلے پیوستہ دانے نکالتے ہیں اور کھجور کے گابھے سے لٹکتے ہوئے گچھے اور انگوروں کے باغات اور زیتون اور انار (بھی پیدا کئے جو کئی اعتبارات سے) آپس میں ایک جیسے (لگتے) ہیں اور (پھل، ذائقے اور تاثیرات) جداگانہ ہیں۔ تم درخت کے پھل کی طرف دیکھو جب وہ پھل لائے اور اس کے پکنے کو (بھی دیکھو)، بیشک ان میں ایمان رکھنے والے لوگوں کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ وہی ہے جس نے تمہارے لیے آسمان سے پانی برسایا۔ پھر ہم نے اس کے ذریعے ہر قسم کی کونپلیں اگائیں۔ ان (کونپلوں) سے ہم نے سبزیاں پیدا کیں جن سے ہم تہہ بہ تہہ دانے نکالتے ہیں، اور کھجور کے گابھوں سے پھلوں کے وہ گچھے نکلتے ہیں جو (پھل کے بوجھ سے) جھکے جاتے ہیں، اور ہم نے انگوروں کے باغ اگائے، اور زیتون اور انار۔ جو ایک دوسرے سے ملتے جلتے بھی ہیں، اور ایک دوسرے سے مختلف بھی۔ جب یہ درخت پھل دیتے ہیں تو ان کے پھلوں اور ان کے پکنے کی کیفیت کو غور سے دیکھو۔ لوگو ! ان سب چیزوں میں بڑی نشانیاں ہیں (مگر) ان لوگوں کے لیے جو ایمان لائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

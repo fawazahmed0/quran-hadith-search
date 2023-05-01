@@ -3224,6 +3224,12 @@ aur unhone kaha ke aye hamaare rab! hamaari sar nawisht1 tu hamein roze hisaab s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کہتے ہیں: اے ہمارے رب! روزِ حساب سے پہلے ہی ہمارا حصّہ ہمیں جلد دے دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہتے ہیں کہ : اے ہمارے پروردگار ! ہمار احصہ ہمیں روز حساب سے پہلے ہی جلدی دیدے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

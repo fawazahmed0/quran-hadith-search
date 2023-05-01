@@ -3224,6 +3224,12 @@ ye log ba sabab apne gunaaho ke dubo diye gaye aur jahannam mein pahoncha diye g
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(بالآخر) وہ اپنے گناہوں کے سبب غرق کر دئیے گئے، پھر آگ میں ڈال دئیے گئے، سو وہ اپنے لئے اللہ کے مقابل کسی کو مددگار نہ پا سکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان لوگوں کے گناہوں کی وجہ ہی سے انہیں غرق کیا گیا، پھر آگ میں داخل کیا گیا، اور انہیں اللہ کو چھوڑ کر کوئی حمایتی میسر نہیں آئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

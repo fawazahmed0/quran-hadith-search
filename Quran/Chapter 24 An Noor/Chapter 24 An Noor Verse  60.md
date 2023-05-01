@@ -3224,6 +3224,12 @@ badi budhi aurte jinhe nikaah ki ummid (aur qaahish hee) na rahi ho, wo agar apn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ بوڑھی خانہ نشین عورتیں جنہیں (اب) نکاح کی خواہش نہیں رہی ان پر اس بات میں کوئی گناہ نہیں کہ وہ اپنے (اوپر سے ڈھانپنے والے اضافی) کپڑے اتار لیں بشرطیکہ وہ (بھی) اپنی آرائش کو ظاہر کرنے والی نہ بنیں، اور اگر وہ (مزید) پرہیزگاری اختیار کریں (یعنی زائد اوڑھنے والے کپڑے بھی نہ اتاریں) تو ان کے لئے بہتر ہے، اور اللہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن بڑی بوڑھی عورتوں کو نکاح کی کوئی توقع نہ رہی ہو، ان کے لیے اس میں کوئی گناہ نہیں ہے کہ وہ اپنے (زائد) کپڑے، (مثلا چادریں، نامحرموں کے سامنے) اتار کر رکھ دیں، بشرطیکہ زینت کی نمائش نہ کریں اور اگر وہ احتیاط ہی رکھیں تو ان کے لیے اور زیادہ بہتر ہے۔ اور اللہ سب کچھ سنتا، ہر بات جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

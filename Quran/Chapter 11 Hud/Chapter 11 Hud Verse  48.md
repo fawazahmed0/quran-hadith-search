@@ -3224,6 +3224,12 @@ farma diya gaya ke aye noah hamari jaanib se salamti aur un barkato ke saat utar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرمایا گیا: اے نوح! ہماری طرف سے سلامتی اور برکتوں کے ساتھ (کشتی سے) اتر جاؤ جو تم پر ہیں اور ان طبقات پر ہیں جو تمہارے ساتھ ہیں، اور (آئندہ پھر) کچھ طبقے ایسے ہوں گے جنہیں ہم (دنیوی نعمتوں سے) بہرہ یاب فرمائیں گے پھر انہیں ہماری طرف سے دردناک عذاب آپہنچے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرمایا گیا کہ : اے نوح اب (کشتی سے) اتر جاؤ، ہماری طرف سے وہ سلامتی اور برکتیں لے کر جو تمہارے لیے بھی ہیں اور تمہاری جتنی قومیں ہیں، ان کے لیے بھی۔ اور کچھ قومیں ایسی ہیں جن کو ہم (دنیا میں) لطف اٹھانے کا موقع دیں گے، پھر ان کو ہماری طرف سے ایک دردناک عذاب آپکڑے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

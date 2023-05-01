@@ -3224,6 +3224,12 @@ to kya Allah ke siva kisi aur faisla karne waale ko talaash karoo, halaan ke wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(فرما دیجئے:) کیا میں اللہ کے سوا کسی اور کو حَکَم (و فیصل) تلاش کروں حالاں کہ وہ (اللہ) ہی ہے جس نے تمہاری طرف مفصّل کتاب نازل فرمائی ہے، اور وہ لوگ جن کو ہم نے (پہلے) کتاب دی تھی (دل سے) جانتے ہیں کہ یہ (قرآن) آپ کے رب کی طرف سے (مبنی) برحق اتارا ہوا ہے پس آپ (ان اہلِ کتاب کی نسبت) شک کرنے والوں میں نہ ہوں (کہ یہ لوگ قرآن کا وحی ہونا جانتے ہیں یا نہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان لوگوں سے کہو کہ) کیا میں اللہ کو چھوڑ کر کسی اور کو فیصل بناؤں، حالانکہ اسی نے تمہاری طرف یہ کتاب نازل کرکے بھیجی ہے جس میں سارے (متنازعہ) معاملات کی تفصیل موجود ہے ؟ اور جن لوگوں کو ہم نے پہلے کتاب دی تھی وہ یقین سے جانتے ہیں کہ یہ تمہارے پروردگار کی طرف سے حق لے کر نازل ہوئی ہے۔ لہذا تم شک کرنے والوں میں ہرگز شامل نہ ہونا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

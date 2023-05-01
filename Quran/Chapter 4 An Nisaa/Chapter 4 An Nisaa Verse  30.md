@@ -3224,6 +3224,12 @@ aur jo shaqs ye (na-farmaaniya) sar-kashi aur zulm se karega to an-qareeb hum us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کوئی تعدی اور ظلم سے ایسا کرے گا تو ہم عنقریب اسے (دوزخ کی) آگ میں ڈال دیں گے، اور یہ اللہ پر بالکل آسان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص زیادتی اور ظلم کے طور پر ایسا کرے گا، تو ہم اس کو آگ میں داخل کریں گے، اور یہ بات اللہ کے لیے بالکل آسان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

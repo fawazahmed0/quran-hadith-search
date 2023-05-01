@@ -3224,6 +3224,12 @@ aur us khajoor ke ta ne ko apni taraf hala, ye tere saamne taro taaza pakki khaj
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کھجور کے تنے کو اپنی طرف ہلاؤ وہ تم پر تازہ پکی ہوئی کھجوریں گرا دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کھجور کے تنے کو اپنی طرف ہلاؤ، اس میں سے پکی ہوئی تازہ کھجوریں تم پر جھڑیں گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

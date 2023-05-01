@@ -3224,6 +3224,12 @@ har jaan mauth ka mazaa chakne waali hai aur qayaamath ke din tum apne badhle pu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہر جان موت کا مزہ چکھنے والی ہے، اور تمہارے اجر پورے کے پورے تو قیامت کے دن ہی دئیے جائیں گے، پس جو کوئی دوزخ سے بچا لیا گیا اور جنت میں داخل کیا گیا وہ واقعۃً کامیاب ہو گیا، اور دنیا کی زندگی دھوکے کے مال کے سوا کچھ بھی نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہر جاندار کو موت کا مزہ چکھنا ہے، اور تم سب کو (تمہارے اعمال کے) پورے پورے بدلے قیامت ہی کے دن ملیں گے۔ پھر جس کسی کو دوزخ سے دور ہٹالیا گیا اور جنت میں داخل کردیا گیا وہ صحیح معنی میں کامیاب ہوگیا، اور یہ دنیوی زندگی تو (جنت کے مقابلے میں) دھوکے کے سامان کے سوا کچھ بھی نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

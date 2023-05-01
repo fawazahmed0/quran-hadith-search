@@ -3224,6 +3224,12 @@ un duno firqo ki misaal andhe behre aur dekhne sunne wale jaisi hai, kya ye duno
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(کافر و مسلم) دونوں فریقوں کی مثال اندھے اور بہرے اور (اس کے برعکس) دیکھنے والے اور سننے والے کی سی ہے۔ کیا دونوں کا حال برابر ہے؟ کیا تم پھر (بھی) نصیحت قبول نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان دو گروہوں کی مثال ایسی ہے جیسے ایک اندھا اور بہرا ہو، اور دوسرا دیکھتا بھی ہو، سنتا بھی ہو۔ کیا یہ دونوں اپنے حالات میں برابر ہوسکتے ہیں ؟ کیا پھر بھی تم عبرت حاصل نہیں کرتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

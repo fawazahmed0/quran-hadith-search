@@ -3224,6 +3224,12 @@ kehne laga, aye Mosa!(alaihissalaam) kya tu isi liye ayaa hai ke hamein apne jaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس نے کہا: اے موسٰی! کیا تم ہمارے پاس اس لئے آئے ہو کہ تم اپنے جادو کے ذریعہ ہمیں ہمارے ملک سے نکال دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگا : موسیٰ ! کیا تم اس لیے آئے ہو کہ اپنے جادو کے ذریعے ہمیں اپنی زمین سے نکال باہر کرو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jis ne Allah ke saath dosra maboodh bana liya tha, pas ose saqth azaab mein daal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے اللہ کے ساتھ دوسرا معبود ٹھہرا رکھا تھا سو تم اسے سخت عذاب میں ڈال دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس نے اللہ کے ساتھ کسی اور کو معبود بنا رکھا تھا۔ لہذا اب تم دونوں اسے سخت عذاب میں ڈال دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

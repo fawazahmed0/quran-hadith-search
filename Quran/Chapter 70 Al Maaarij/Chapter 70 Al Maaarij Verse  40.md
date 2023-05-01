@@ -3224,6 +3224,12 @@ pas mujhe qasam hai mashriqo aur maghribo ke rab ki, (ke) hum yaqinan qaadir hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو میں مشارق اور مغارب کے رب کی قَسم کھاتا ہوں کہ بے شک ہم پوری قدرت رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب میں قسم کھاتا ہوں ان تمام مقامات کے مالک کی جہاں سے ستارے نکلتے اور جہاں سے غروب ہوتے ہیں کہ ہم یقینا اس بات پر قادر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

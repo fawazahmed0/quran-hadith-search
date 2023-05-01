@@ -3224,6 +3224,12 @@ jab unhone apna asbaab khola to apna sarmaaya maujood paya jo un ki jaanib lauta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب انہوں نے اپنا سامان کھولا (تو اس میں) اپنی رقم پائی (جو) انہیں لوٹا دی گئی تھی، وہ کہنے لگے: اے ہمارے والد گرامی! ہمیں اور کیا چاہئے؟ یہ ہماری رقم (بھی) ہماری طرف لوٹا دی گئی ہے اور (اب تو) ہم اپنے گھر والوں کے لئے (ضرور ہی) غلہ لائیں گے اور ہم اپنے بھائی کی حفاظت کریں گے اور ایک اونٹ کا بوجھ اور زیادہ لائیں گے، اور یہ (غلہ جو ہم پہلے لائے ہیں) تھوڑی مقدار (میں) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب انہوں نے اپنا سامان کھولا تو دیکھا کہ ان کا مال بھی ان کو لوٹا دیا گیا ہے، وہ کہنے لگے : ابا جان ! ہمیں اور کیا چاہیے ؟ یہ ہمارا مال ہے جو ہمیں لوٹا دیا گیا ہے، اور (اس مرتبہ) ہم اپنے گھر والوں کے لیے اور غلہ لائیں گے، اپنے بھائی کی حٖفاظت کریں گے، اور ایک اونٹ کا بوجھ زیادہ لے کر آئیں گے (اس طرح) یہ زیادہ غلہ بڑی آسانی سے مل جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

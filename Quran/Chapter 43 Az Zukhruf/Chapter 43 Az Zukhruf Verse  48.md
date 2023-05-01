@@ -3224,6 +3224,12 @@ aur hum unhe jo nishaani dikhaate thein wo dosri se badi chadi hoti thi aur hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم انہیں کوئی نشانی نہیں دکھاتے تھے مگر (یہ کہ) وہ اپنے سے پہلی مشابہ نشانی سے کہیں بڑھ کر ہوتی تھی اور (بالآخر) ہم نے انہیں (کئی بار) عذاب میں پکڑا تاکہ وہ باز آجائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم انہیں جو نشانی بھی دکھاتے، وہ پہلی نشانی سے بڑھ چڑھ کر ہوتی تھی، اور ہم نے انہیں عذاب میں بھی پکڑا تاکہ وہ باز آجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

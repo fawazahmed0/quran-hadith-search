@@ -3224,6 +3224,12 @@ keh dijiye ke main tum se is par koyi badhla talab nahi karta aur na main takllu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: میں تم سے اِس (حق کی تبلیغ) پر کوئی معاوضہ طلب نہیں کرتا اور نہ میں تکلف کرنے والوں میں سے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! لوگوں سے) کہہ دو کہ : میں تم سے اس (اسلام کی دعوت) پر کوئی اجرت نہیں مانگتا، اور نہ میں بناوٹی لوگوں میں سے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

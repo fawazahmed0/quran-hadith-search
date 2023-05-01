@@ -3224,6 +3224,12 @@ phir dua karne lage ke aye parvardigaar! main ne khud apne upar zulm kiya, tu mu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام) عرض کرنے لگے: اے میرے رب! بیشک میں نے اپنی جان پر ظلم کیا سو تو مجھے معاف فرما دے پس اس نے انہیں معاف فرما دیا، بیشک وہ بڑا ہی بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگے : میرے پروردگار ! میں نے اپنی جان پر ظلم کرلیا، آپ مجھے معاف فرمادیجیے۔ چنانچہ اللہ نے انہیں معاف کردیا۔ یقینا وہی ہے جو بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

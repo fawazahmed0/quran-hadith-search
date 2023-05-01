@@ -3224,6 +3224,12 @@ main tum se nahi kehta ke mere paas Allah ke khazane hai (suno!) main ghaib ka i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں تم سے (یہ) نہیں کہتا کہ میرے پاس اللہ کے خزانے ہیں (یعنی میں بے حد دولت مند ہوں) اور نہ (یہ کہ) میں (اللہ کے بتائے بغیر) خود غیب جانتا ہوں اور نہ میں یہ کہتا ہوں کہ میں (انسان نہیں) فرشتہ ہوں (میری دعوت کرشماتی دعوؤں پر مبنی نہیں ہے) اور نہ ان لوگوں کی نسبت جنہیں تمہاری نگاہیں حقیر جان رہی ہیں یہ کہتا ہوں کہ اللہ انہیں ہرگز کوئی بھلائی نہ دے گا (یہ اللہ کا امر اور ہر شخص کا نصیب ہے)، اللہ بہتر جانتا ہے جو کچھ ان کے دلوں میں ہے، (اگر ایسا کہوں تو) بیشک میں اسی وقت ظالموں میں سے ہو جاؤں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں تم سے یہ نہیں کہہ رہا ہوں کہ میرے قبضے میں اللہ کے خزانے ہیں، نہ میں غیب کی ساری باتیں جانتا ہوں، اور نہ میں تم سے یہ کہہ رہا ہوں کہ میں کوئی فرشتہ ہوں۔ اور جن لوگوں کو تمہاری نگاہیں حقیر سمجھتی ہیں، ان کے بارے میں بھی میں یہ نہیں کہہ سکتا کہ اللہ انہیں کبھی کوئی بھلائی عطا نہیں کرے گا۔ ان کے دلوں میں جو کچھ ہے اسے اللہ سب سے زیادہ جانتا ہے۔ اگر میں ان کے بارے میں ایسی باتیں کہوں تو میرا شمار یقینا ظالموں میں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

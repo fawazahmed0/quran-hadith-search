@@ -3224,6 +3224,12 @@ aur yo kehne ke baayes ke hum ne Allah ke rasool masih Isa bin Maryam ko qatl ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے اس کہنے (یعنی فخریہ دعوٰی) کی وجہ سے (بھی) کہ ہم نے اللہ کے رسول، مریم کے بیٹے عیسٰی مسیح کو قتل کر ڈالا ہے، حالانکہ انہوں نے نہ ان کو قتل کیا اور نہ انہیں سولی چڑھایا مگر (ہوا یہ کہ) ان کے لئے (کسی کو عیسٰی علیہ السلام کا) ہم شکل بنا دیا گیا، اور بیشک جو لوگ ان کے بارے میں اختلاف کر رہے ہیں وہ یقیناً اس (قتل کے حوالے) سے شک میں پڑے ہوئے ہیں، انہیں (حقیقتِ حال کا) کچھ بھی علم نہیں مگر یہ کہ گمان کی پیروی (کر رہے ہیں)، اور انہوں نے عیسٰی (علیہ السلام) کو یقیناً قتل نہیں کیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہا کہ : ہم نے اللہ کے رسول مسیح ابن مریم کو قتل کردیا تھا، حالانکہ نہ انہوں نے عیسیٰ (علیہ السلام) کو قتل کیا تھا، نہ انہیں سولی دے پائے تھے، بلکہ انہیں اشتباہ ہوگیا تھا۔ اور حقیقت یہ ہے کہ جن لوگوں نے اس بارے میں اختلاف کیا ہے وہ اس سلسلے میں شک کا شکار ہیں، انہیں گمان کے پیچھے چلنے کے سوا اس بات کا کوئی علم حاصل نہیں ہے، اور یہ بالکل یقینی بات ہے کہ وہ عیسیٰ (علیہ السلام) کو قتل نہیں کر پائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

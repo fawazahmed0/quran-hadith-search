@@ -3224,6 +3224,12 @@ wo kahega ke ilaahi! mujhe tu ne andha bana kar kyo uthaaya? halaan ke main to d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہے گا: اے میرے رب! تو نے مجھے (آج) اندھا کیوں اٹھایا حالانکہ میں (دنیا میں) بینا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہے گا کہ : یا رب ! تو نے مجھے اندھا کر کے کیوں اٹھایا، حالانکہ میں تو آنکھوں والا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

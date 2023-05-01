@@ -3224,6 +3224,12 @@ insaan ko jab koyi takleef pahonchti hai to hamein pukaarne lagta hai, phir jab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب انسان کو کوئی تکلیف پہنچتی ہے تو ہمیں پکارتا ہے پھر جب ہم اسے اپنی طرف سے کوئی نعمت بخش دیتے ہیں تو کہنے لگتا ہے کہ یہ نعمت تو مجھے (میرے) علم و تدبیر (کی بنا) پر ملی ہے، بلکہ یہ آزمائش ہے مگر ان میں سے اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر انسان (کا حال یہ ہے کہ جب اس) کو کوئی تکلیف چھو جاتی ہے تو وہ ہمیں پکارتا ہے، اس کے بعد جب ہم اسے اپنی طرف سے کسی نعمت سے نوازتے ہیں تو وہ کہتا ہے کہ : ” یہ تو مجھے (اپنے) ہنر کی وجہ سے ملی ہے “۔ نہیں ! بلکہ یہ آزمائش ہے، لیکن ان میں سے اکثر لوگ نہیں جانتے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

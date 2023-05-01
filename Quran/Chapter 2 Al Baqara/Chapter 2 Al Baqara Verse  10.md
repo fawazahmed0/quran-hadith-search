@@ -3224,6 +3224,12 @@ un ke dilo mein bimari thi Allah ta’ala ne unhe bimari mein mazeed2 bada diya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے دلوں میں بیماری ہے، پس اللہ نے ان کی بیماری کو اور بڑھا دیا اور ان کے لئے دردناک عذاب ہے۔ اس وجہ سے کہ وہ جھوٹ بولتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے دلوں میں روگ ہے چنانچہ اللہ نے ان کے روگ میں اور اضافہ کردیا ہے اور ان کے لئے دردناک سزا تیار ہے، کیونکہ وہ جھوٹ بولا کرتے تھے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

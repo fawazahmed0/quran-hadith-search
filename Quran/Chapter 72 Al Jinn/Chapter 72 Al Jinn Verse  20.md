@@ -3224,6 +3224,12 @@ aap keh dijiye ke main to sirf apne rab hee ko pukaarta hoon aur us ke saath kis
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ میں تو صرف اپنے رب کی عبادت کرتا ہوں اور اس کے ساتھ کسی کو شریک نہیں بناتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : میں تو صرف اپنے پروردگار کی عبادت کرتا ہوں، اور اس کے ساتھ کوئی شریک نہیں مانتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

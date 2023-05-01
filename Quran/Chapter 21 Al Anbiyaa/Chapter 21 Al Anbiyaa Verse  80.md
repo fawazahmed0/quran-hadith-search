@@ -3224,6 +3224,12 @@ aur hum ne ose tumhaare liye libaas banaane ki kaari gari sikhaayi, ta ke ladaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے داؤد (علیہ السلام) کو تمہارے لئے زِرہ بنانے کا فن سکھایا تھا تاکہ وہ تمہاری لڑائی میں تمہیں ضرر سے بچائے، تو کیا تم شکر گزار ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے انہیں تمہارے فائدے کے لیے ایک جنگی لباس (یعنی زرہ) بنانے کی صنعت سکھائی تاکہ وہ تمہیں لڑائی میں ایکد وسرے کی زد سے بچائیں۔ اب بتاؤ کہ کیا تم شکر گزار ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

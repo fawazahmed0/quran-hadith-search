@@ -3224,6 +3224,12 @@ balke hum ne unhe aur un ke baap dadaao ko zindagi ke saro samaan diye, yahaan t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ ہم نے ان کو اور ان کے آباء و اجداد کو (فراخئ عیش سے) بہرہ مند فرمایا تھا یہاں تک کہ ان کی عمریں بھی دراز ہوتی گئیں، تو کیا وہ نہیں دیکھتے کہ ہم (اب اسلامی فتوحات کے ذریعہ ان کے زیرِ تسلّط) علاقوں کو تمام اَطراف سے گھٹاتے چلے جا رہے ہیں، تو کیا وہ (اب) غلبہ پانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلکہ معاملہ یہ ہے کہ ہم نے ان کو اور ان کے آباؤاجداد کو سامان عیش عطا کیا، یہاں تک کہ (اسی حالت میں) ان پر ایک عمر گزر گئی۔ بھلا کیا انہیں یہ نظر نہیں آتا کہ ہم زمین کو اس کے مختلف کناروں سے گھٹاتے چلے آرہے ہیں۔ پھر کیا وہ غالب آجائیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

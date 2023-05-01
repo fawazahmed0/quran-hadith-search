@@ -3224,6 +3224,12 @@ phir ye firqe aapas mein eqtelaaf karne lage, pas kaafiro ke liye, “wail” ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان کے فرقے آپس میں اختلاف کرنے لگے، پس کافروں کے لئے (قیامت کے) بڑے دن کی حاضری سے تباہی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی ان میں سے مختلف گروہوں نے اختلاف ڈال دیا ہے، چنانچہ جس دن یہ ایک زبردست دن کا مشاہدہ کریں گے، اس دن ان کی بڑی تباہی ہوگی جنہوں نے کفر کا ارتکاب کیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

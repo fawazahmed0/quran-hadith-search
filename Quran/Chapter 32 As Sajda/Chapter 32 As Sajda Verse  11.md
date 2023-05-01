@@ -3224,6 +3224,12 @@ keh dijiye! ke tumhe mauth ka farishta fauth karega jo tum par muqarrar kiya gay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ موت کا فرشتہ جو تم پر مقرر کیا گیا ہے تمہاری روح قبض کرتا ہے پھر تم اپنے رب کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : تمہیں موت کا وہ فرشتہ پورا پورا وصول کرلے گا جو تم پر مقرر کیا گیا ہے، پھر تمہیں واپس تمہارے پروردگار کے پاس لے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

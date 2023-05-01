@@ -3224,6 +3224,12 @@ jo shaqs apne gunah ke badh tauba karle aur islah karle tuh Allah tala rehmath k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جو شخص اپنے (اس) ظلم کے بعد توبہ اور اصلاح کرلے تو بیشک اللہ اس پر رحمت کے ساتھ رجوع فرمانے والا ہے۔ یقیناً اللہ بڑا بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جو شخص اپنی ظالمانہ کاروائی سے توبہ کرلے، اور معاملات درست کرلے، تو اللہ اس کی توبہ قبول کرلے گا بیشک اللہ تعالیٰ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

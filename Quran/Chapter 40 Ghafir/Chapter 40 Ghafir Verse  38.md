@@ -3224,6 +3224,12 @@ aur us momin shaqs ne kaha ke aye meri khaum ke logo tum (sab) meri pairvi karo,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس شخص نے کہا جو ایمان لا چکا تھا: اے میری قوم! تم میری پیروی کرو میں تمہیں خیر و ہدایت کی راہ پر لگا دوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص ایمان لے آیا تھا اس نے کہا اے میری قوم میری بات مانو، میں تمہیں ہدایت کے راستے پر لے جاؤں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

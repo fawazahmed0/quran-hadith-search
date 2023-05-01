@@ -3224,6 +3224,12 @@ mujhe to bas yahi hukm diya gaya hai ke main is shahar ke parvardigaar ki ibaada
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(آپ ان سے فرما دیجئے کہ) مجھے تو یہی حکم دیا گیا ہے کہ اس شہرِ (مکّہ) کے رب کی عبادت کروں جس نے اسے عزت و حُرمت والا بنایا ہے اور ہر چیز اُسی کی (مِلک) ہے اور مجھے (یہ) حکم (بھی) دیا گیا ہے کہ میں (اللہ کے) فرمانبرداروں میں رہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے کہہ دو کہ :) مجھے تو یہی حکم ملا ہے کہ میں اس شہر کے رب کی عبادت کروں جس نے اس شہر کو حرمت بخشی ہے، اور ہر چیز کا مالک وہی ہے، اور مجھے یہ حکم ملا ہے کہ میں فرمانبرداروں میں شامل رہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

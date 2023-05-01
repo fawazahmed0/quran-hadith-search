@@ -3224,6 +3224,12 @@ aap unhe khaata, nafa uthaata aur (jhoti) ummido mein mashghool hota chohd dijiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (غمگین نہ ہوں) انہیں چھوڑ دیجئے وہ کھاتے (پیتے) رہیں اور عیش کرتے رہیں اور (ان کی) جھوٹی امیدیں انہیں (آخرت سے) غافل رکھیں پھر وہ عنقریب (اپنا انجام) جان لیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) انہیں ان کی حالت پر چھوڑ دو کہ یہ خوب کھا لیں، مزے اڑا لیں، اور خیالی امیدیں انہیں غفلت میں ڈالے رکھیں، کیونکہ عنقریب انہیں پتہ چل جائے گا (کہ حقیقت کیا تھی) ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

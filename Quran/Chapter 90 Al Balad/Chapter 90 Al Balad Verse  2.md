@@ -3224,6 +3224,12 @@ aur aap us shahar mein muqeem hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) اس لئے کہ آپ اس شہر میں تشریف فرما ہیں٭o٭ یہ ترجمہ ”لا زائدہ“ کے اعتبار سے ہے۔ لا ”نفئ صحیح“ کے لئے ہو تو ترجمہ یوں ہوگا: میں (اس وقت) اس شہر کی قَسم نہیں کھاؤں گا (اے حبیب!) جب آپ اس شہر سے رخصت ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جبکہ (اے پیغمبر) تم اس شہر میں مقیم ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

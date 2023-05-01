@@ -3224,6 +3224,12 @@ ae iman walo tumhe kya ho gaya hai ke jab tum se kaha jata hai ke chalo Allah ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تمہیں کیا ہو گیا ہے کہ جب تم سے کہا جاتا ہے کہ تم اللہ کی راہ میں (جہاد کے لئے) نکلو تو تم بوجھل ہو کر زمین (کی مادی و سفلی دنیا) کی طرف جھک جاتے ہو، کیا تم آخرت کے بدلے دنیا کی زندگی سے راضی ہو گئے ہو؟ سو آخرت (کے مقابلہ) میں دنیوی زندگی کا ساز و سامان کچھ بھی نہیں مگر بہت ہی کم (حیثیت رکھتا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو جو ایمان لائے ہو، تمہیں کیا ہوگیا ہے کہ جب تم سے کہا گیا کہ اللہ کے راستے میں (جہاد کے لیے) کوچ کرو تو تم بوجھ ہو کر زمین سے لگ گئے ؟ کیا تم آخرت کے مقابلے میں دنیوی زندگی پر راضی ہوچکے ہو ؟ (اگر ایسا ہے) تو (یاد رکھو کہ) دنیوی زندی کا مزہ آخرت کے مقابلے میں کچھ بھی نہیں، مگر تھوڑا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

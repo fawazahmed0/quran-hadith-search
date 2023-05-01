@@ -3224,6 +3224,12 @@ un duno waado mein se pehle ke aate hee hum ne tumhare muqaable par apne bandhe 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ان دونوں میں سے پہلی مرتبہ کا وعدہ آپہنچا تو ہم نے تم پر اپنے ایسے بندے مسلّط کر دیئے جو سخت جنگ جُو تھے پھر وہ (تمہاری) تلاش میں (تمہارے) گھروں تک جا گھسے، اور (یہ) وعدہ ضرور پورا ہونا ہی تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب ان دو واقعات میں سے پہلا واقعہ پیش آیا تو ہم نے تمہارے سروں پر اپنے ایسے بندے مسلط کردیے جو سخت جنگجو تھے، اور وہ تمہارے شہروں میں گھس کر پھیل گئے۔ اور یہ ایک ایسا وعدہ تھا جسے پورا ہو کر رہنا ہی تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

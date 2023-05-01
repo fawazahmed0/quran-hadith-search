@@ -3224,6 +3224,12 @@ noon, qasam hai qalam ki aur us ki, jo kuch ke wo (farishte) likhte hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نون (حقیقی معنی اللہ اور رسول صلی اللہ علیہ وآلہ وسلم ہی بہتر جانتے ہیں)، قلم کی قَسم اور اُس (مضمون) کی قَسم جو (فرشتے) لکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ن (اے پیغمبر) قسم ہے قلم کی، اور اس چیز کی جو وہ لکھ رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

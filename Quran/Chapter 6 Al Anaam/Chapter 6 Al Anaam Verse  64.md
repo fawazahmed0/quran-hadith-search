@@ -3224,6 +3224,12 @@ aap keh di jiye ke Allah hee tum ko un se najaath deta hai aur har gham se,tum p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے کہ اللہ ہی تمہیں اس (مصیبت) سے اور ہر تکلیف سے نجات دیتا ہے تم پھر (بھی) شرک کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو : اللہ ہی تمہیں اس مصیبت سے بھی بچاتا ہے اور ہر دوسری تکلیف سے بھی، پھر بھی تم شرک کرتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

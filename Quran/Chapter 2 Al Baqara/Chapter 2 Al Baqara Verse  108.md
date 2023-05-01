@@ -3224,6 +3224,12 @@ kya tum apne rasoal se yahi pochna chaahte ho jo is se pehle Mosa (alaihissalaam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) کیا تم چاہتے ہو کہ تم بھی اپنے رسول (صلی اللہ علیہ وآلہ وسلم) سے اسی طرح سوالات کرو جیسا کہ اس سے پہلے موسیٰ (علیہ السلام) سے سوال کیے گئے تھے، تو جو کوئی ایمان کے بدلے کفر حاصل کرے پس وہ واقعۃً سیدھے راستے سے بھٹک گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم یہ چاہتے ہو کہ اپنے رسول سے اسی قسم کے سوال کرو جیسے پہلے موسیٰ سے کیے جاچکے ہیں ؟ اور جو شخص ایمان کے بدلے کفر اختیار کرے وہ یقینا سیدھے راستے سے بھٹک گیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

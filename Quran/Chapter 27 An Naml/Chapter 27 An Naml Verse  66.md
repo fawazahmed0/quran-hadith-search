@@ -3224,6 +3224,12 @@ balke aaqirath ke baare mein un ka ilm qatam ho chuka hai, balke ye us ki taraf 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ آخرت کے بارے میں ان کا علم (اپنی) انتہاء کو پہنچ کر منقطع ہوگیا، مگر وہ اس سے متعلق محض شک میں ہی (مبتلاء) ہیں، بلکہ وہ اس (کے علمِ قطعی) سے اندھے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلکہ آخرت کے بارے میں ان (کافروں) کا علم بےبس ہو کر رہ گیا ہے، بلکہ وہ اس کے بارے میں شک میں مبتلا ہیں، بلکہ اس سے اندھے ہوچکے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

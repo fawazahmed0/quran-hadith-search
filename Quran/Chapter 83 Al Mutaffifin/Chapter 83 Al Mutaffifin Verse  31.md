@@ -3224,6 +3224,12 @@ aur jab apne waalo ki taraf lauthte, to dil lagiyaa karte thein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اپنے گھر والوں کی طرف لوٹتے تو (مومنوں کی تنگ دستی اور اپنی خوش حالی کا موازنہ کر کے) اِتراتے اور دل لگی کرتے ہوئے پلٹتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب اپنے گھر والوں کے پاس لوٹ کر جاتے تھے، تو دل لگی کرتے ہوئے جاتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

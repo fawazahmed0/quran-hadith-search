@@ -3224,6 +3224,12 @@ hukm diya ke us ke taqth mein kuch pher badal kar do, ta ke maloom ho jaaye ke y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(سلیمان علیہ السلام نے) فرمایا: اس(ملکہ کے امتحان) کے لئے اس کے تخت کی صورت اور ہیئت بدل دو ہم دیکھیں گے کہ آیا وہ (پہچان کی) راہ پاتی ہے یا ان میں سے ہوتی ہے جو سوجھ بوجھ نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلیمان نے (اپنے خدام سے) کہا کہ : اس ملکہ کے تخت کو اس کے لیے اجنبی بنادو ۔ دیکھیں وہ اسے پہچانتی ہے، یا وہ ان لوگوں میں سے ہے جو حقیقت تک نہیں پہنچتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

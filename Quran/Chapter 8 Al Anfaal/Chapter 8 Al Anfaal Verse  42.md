@@ -3224,6 +3224,12 @@ jab ke tum paas wale kinare par thein aur wo door wale kinare par thein aur qafi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب تم (مدینہ کی جانب) وادی کے قریبی کنارے پر تھے اور وہ (کفّار دوسری جانب) دور والے کنارے پر تھے اور (تجارتی) قافلہ تم سے نیچے تھا، اور اگر تم آپس میں (جنگ کے لئے) کوئی وعدہ کر لیتے تو ضرور (اپنے) وعدہ سے مختلف (وقتوں میں) پہنچتے لیکن (اللہ نے تمہیں بغیر وعدہ ایک ہی وقت پر جمع فرما دیا) یہ اس لئے (ہوا) کہ اللہ اس کام کو پورا فرما دے جو ہو کر رہنے والا تھا تاکہ جس شخص کو مرنا ہے وہ حجت (تمام ہونے) سے مرے اور جسے جینا ہے وہ حجت (تمام ہونے) سے جئے (یعنی ہر کسی کے سامنے اسلام اور رسول برحق صلی اللہ علیہ وآلہ وسلم کی صداقت پر حجت قائم ہو جائے)، اور بیشک اللہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ وقت یاد کرو جب تم لوگ وادی کے قریب والے کنارے پر تھے اور وہ لوگ دور والے کنارے پر، اور قافلہ تم سے نیچے کی طرف۔ اور اگر تم پہلے سے (لڑائی کا) وقت آپس میں طے کرتے تو وقت طے کرنے میں تمہارے درمیان ضرور اختلاف ہوجاتا، لیکن یہ واقعہ (کہ پہلے سے طے کیے بغیر لشکر ٹکرا گئے) اس لیے ہوا کہ جو کام ہو کر رہنا تھا، اللہ اسے پورا کر دکھائے، تاکہ جسے برباد ہونا ہو، وہ واضح دلیل دیکھ کر برباد ہو، اور جسے زندہ رہنا ہو وہ واضح دلیل دیکھ کر زندہ رہے، اور اللہ ہر بات سننے والا، ہر چیز جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

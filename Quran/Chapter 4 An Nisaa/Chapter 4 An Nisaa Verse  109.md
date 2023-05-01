@@ -3224,6 +3224,12 @@ haan, to ye ho, tum log ke dunya mein tum ne un ki himaayath ki,lekin Allah ta�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+خبردار! تم وہ لوگ ہو جو دنیا کی زندگی میں ان کی طرف سے جھگڑے۔ پھر کون ایسا شخص ہے جو قیامت کے دن (بھی) ان کی طرف سے اللہ کے ساتھ جھگڑے گا یا کون ہے جو (اس دن بھی) ان پر وکیل ہوگا؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ارے تمہاری بساط یہی تو ہے کہ تم نے دنیوی زندگی میں لوگوں سے جھگڑ کر ان (خیانت کرنے والوں) کی حمایت کرلی۔ بھلا اس کے بعد قیامت کے دن اللہ سے جھگڑ کر کون ان کی حمایت کرے گا، یا کون ان کا وکیل بنے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

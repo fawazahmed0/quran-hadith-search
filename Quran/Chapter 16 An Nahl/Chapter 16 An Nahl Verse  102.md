@@ -3224,6 +3224,12 @@ keh dijiye ke ose aap ki rub ki taraf se jibraeel haq ke saath le kar aye hai, t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اس (قرآن) کو روحُ القدس (جبرئیل علیہ السلام) نے آپ کے رب کی طرف سے سچائی کے ساتھ اتارا ہے تاکہ ایمان والوں کو ثابت قدم رکھے اور (یہ) مسلمانوں کے لئے ہدایت اور بشارت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : یہ (قرآن کریم) تو روح القدس (یعنی جبریل علیہ السلام) تمہارے رب کی طرف سے ٹھیک ٹھیک لے کر آئے ہیں، تاکہ وہ ایمان والوں کو ثابت قدم رکھے، اور مسلمانوں کے لیے ہدایت اور خوشخبری کا سامان ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur Allah ta’ala ne jo chize tum ko di hai un mein se halaal marghoob12 chize 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو حلال پاکیزہ رزق اللہ نے تمہیں عطا فرمایا ہے اس میں سے کھایا کرو اور اللہ سے ڈرتے رہو جس پر تم ایمان رکھتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے تمہیں جو رزق دیا ہے اس میں سے حلال پاکیزہ چیزیں کھاؤ، اور جس اللہ پر تم ایمان رکھتے ہو اس سے ڈرتے رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

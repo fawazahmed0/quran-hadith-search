@@ -3224,6 +3224,12 @@ ye log kehte hai ke hum to sirf chand roz jahannam mein rahenge, un se kaho ke k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (یہود) یہ (بھی) کہتے ہیں کہ ہمیں (دوزخ کی) آگ ہرگز نہیں چھوئے گی سوائے گنتی کے چند دنوں کے، (ذرا) آپ (ان سے) پوچھیں: کیا تم اللہ سے کوئی (ایسا) وعدہ لے چکے ہو؟ پھر تو وہ اپنے وعدے کے خلاف ہرگز نہ کرے گا یا تم اللہ پر یونہی (وہ) بہتان باندھتے ہو جو تم خود بھی نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہودیوں نے کہا ہے کہ ہمیں گنتی کے چند دنوں کے علاوہ آگ ہرگز نہیں چھوئے گی۔ آپ ان سے کہیے کہ کیا تم نے اللہ کی طرف سے کوئی عہد لے رکھا ہے جس کی بنا پر وہ اپنے عہد کی خلاف ورزی نہیں کرسکتا، یا تم اللہ کے ذمے وہ بات لگا رہے ہو جس کا تمہیں کچھ پتہ نہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ namaazo ki hifaazath karo, bil qusoos darmyaan waali namaaz ki aur Allah ta’al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سب نمازوں کی محافظت کیا کرو اور بالخصوص درمیانی نماز کی، اور اللہ کے حضور سراپا ادب و نیاز بن کر قیام کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمام نمازوں کا پورا خیال رکھو، اور (خاص طور پر) بیچ کی نماز کا اور اللہ کے سامنے باادب فرمانبردار بن کر کھڑے ہوا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

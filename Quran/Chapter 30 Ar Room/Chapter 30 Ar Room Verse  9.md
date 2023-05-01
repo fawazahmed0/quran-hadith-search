@@ -3224,6 +3224,12 @@ kya unhone zameen mein chal phir kar, ye nahi dekha ke un se pehle logo ka anjaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ان لوگوں نے زمین میں سَیر و سیاحت نہیں کی تاکہ وہ دیکھ لیتے کہ ان لوگوں کا انجام کیا ہوا جو ان سے پہلے تھے، وہ لوگ اِن سے زیادہ طاقتور تھے، اور انہوں نے زمین میں زراعت کی تھی اور اسے آباد کیا تھا، اس سے کہیں بڑھ کر جس قدر اِنہوں نے زمین کو آباد کیا ہے، پھر ان کے پاس ان کے پیغمبر واضح نشانیاں لے کر آئے تھے، سو اللہ ایسا نہ تھا کہ ان پر ظلم کرتا، لیکن وہ خود ہی اپنی جانوں پر ظلم کر رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا یہ لوگ زمین میں چلے پھرے نہیں ہیں، تاکہ وہ یہ دیکھتے کہ ان سے پہلے جو لوگ تھے ان کا انجام کیسا ہوا ؟ وہ طاقت میں ان سے زیادہ مضبوط تھے، اور انہوں نے زمین کو بھی جوتا تھا، اور جتنا ان لوگوں نے اسے آباد کیا ہے، اس سے زیادہ انہوں نے اس کو آباد کیا تھا، اور ان کے پاس ان کے پیغمبر کھلے کھلے دلائل لے کر آئے تھے، چنانچہ اللہ تو ایسا نہیں تھا کہ ان پر ظلم کرے، لیکن وہ خود اپنی جانوں پر ظلم کرتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

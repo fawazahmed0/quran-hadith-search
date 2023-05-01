@@ -3224,6 +3224,12 @@ kya tu nahi dekh raha ke, Allah ke saamne sajde mein hai sab asmaano waale aur s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم نے نہیں دیکھا کہ اللہ ہی کے لئے (وہ ساری مخلوق) سجدہ ریز ہے جو آسمانوں میں ہے اور جو زمین میں ہے اور سورج (بھی) اور چاند (بھی) اور ستارے (بھی) اور پہاڑ (بھی) اور درخت (بھی) اور جانور (بھی) اور بہت سے انسان (بھی)، اور بہت سے (انسان) ایسے بھی ہیں جن پر (ان کے کفر و شرک کے باعث) عذاب ثابت ہو چکا ہے، اور اللہ جسے ذلیل کر دے تو اسے کوئی عزت دینے والا نہیں ہے۔ بیشک اللہ جو چاہتا ہے کر دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ اللہ کے آگے وہ سب سجدہ کرتے ہیں جو آسمانوں میں ہیں اور وہ سب جو زمین میں ہیں۔ نیز سورج اور چاند، اور ستارے اور پہاڑ، اور درخت اور جانور، اور بہت سے انسان بھی۔ اور بہت سے ایسے بھی ہیں جن پر عذاب طے ہوچکا ہے۔ اور جسے اللہ ذلیل کردے، کوئی نہیں ہے جو اسے عزت دے سکے۔ یقینا اللہ وہی کرتا ہے جو چاہتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

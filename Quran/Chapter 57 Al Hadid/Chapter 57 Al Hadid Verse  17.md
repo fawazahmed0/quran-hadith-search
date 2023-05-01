@@ -3224,6 +3224,12 @@ yaqeen maano ke Allah hee zameen ko us ki mauth ke baadh zinda kar deta hai, hum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جان لو کہ اللہ ہی زمین کو اُس کی مُردنی کے بعد زندہ کرتا ہے، اور بیشک ہم نے تمہارے لئے نشانیاں واضح کر دی ہیں تاکہ تم عقل سے کام لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 خوب سمجھ لو کہ اللہ زمین کو اس کے مردہ ہوجانے کے بعد زندگی بخشتا ہے۔ ہم نے تمہارے لیے نشانیاں کھول کھول کر واضح کردی ہیں، تاکہ تم سمجھ سے کام لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur kisi jaan ko jis ka maarna Allah ne haraam kar diya hai hargiz na-haq qatal 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم کسی جان کو قتل مت کرنا جسے اللہ نے حرام قرار دیا ہے سوائے جائز (قانونی) طریقے کے، اور جو شخص ظلماً قتل کر دیا گیا تو بے شک ہم نے اس کے وارث کو (قانونی ضابطے کے مطابق قصاص کا) اِختیار دیا ہے، لیکن لازم ہے کہ وہ (قصاص کے طور پر) قتل میں حد سے تجاوز نہ کرے، اِس لیے کہ در حقیقت اُسے (قانون کا) تعاون حاصل ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس جان کو اللہ نے حرمت عطا کی ہے، اسے قتل نہ کرو، الا یہ کہ تمہیں (شرعا) اس کا حق پہنچتا ہو۔ اور جو شخص مظلومانہ طور پر قتل ہوجائے تو ہم نے اس کے ولی کو (قصاص کا) اختیار دیا ہے۔ چنانچہ اس پر لازم ہے کہ وہ قتل کرنے میں حد سے تجاوز نہ کرے۔ یقینا وہ اس لائق ہے کہ اس کی مدد کی جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

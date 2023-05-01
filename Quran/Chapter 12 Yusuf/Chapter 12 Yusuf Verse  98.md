@@ -3224,6 +3224,12 @@ kaha accha, main jald hee tumhare liye apne parvardigaar se baqshish maangoonga,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یعقوب (علیہ السلام) نے فرمایا: میں عنقریب تمہارے لئے اپنے رب سے بخشش طلب کروں گا، بیشک وہی بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یعقوب نے کہا : میں عنقریب اپنے پروردگار سے تمہاری بخشش کی دعا کروں گا۔ بیشک وہی ہے جو بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

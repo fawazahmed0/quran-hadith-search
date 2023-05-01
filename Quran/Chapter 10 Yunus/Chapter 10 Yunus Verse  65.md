@@ -3224,6 +3224,12 @@ aur aap ko un ki batein gham mein na dale,tamaam tar ghalba Allah hee ke liye ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) ان کی (عناد و عداوت پر مبنی) گفتگو آپ کو غمگین نہ کرے۔ بیشک ساری عزت و غلبہ اللہ ہی کے لئے ہے (جو جسے چاہتا ہے دیتا ہے)، وہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) یہ لوگ جو باتیں بناتے ہیں وہ تمہیں رنجیدہ نہ کریں، یقین رکھو کہ اقتدار تمام تر اللہ کا ہے، اور وہ ہر بات سننے والا، سب کچھ جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

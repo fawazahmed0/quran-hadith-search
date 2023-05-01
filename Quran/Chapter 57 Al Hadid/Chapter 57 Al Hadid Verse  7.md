@@ -3224,6 +3224,12 @@ Allah par aur us ke rasool par imaan le aao aur us maal mein se qarch karo jis m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) پر ایمان لاؤ اور اس (مال و دولت) میں سے خرچ کرو جس میں اس نے تمہیں اپنا نائب (و امین) بنایا ہے، پس تم میں سے جو لوگ ایمان لائے اور انہوں نے خرچ کیا اُن کے لئے بہت بڑا اَجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ اور اس کے رسول پر ایمان رکھو، اور جس (مال) میں اللہ نے تمہیں قائم مقام بنایا ہے، اس میں سے (اللہ کے راستے میں) خرچ کرو۔ چنانچہ تم میں سے جو لوگ ایمان لائے ہیں، اور انہوں نے (اللہ کے راستے میں) خرچ کیا ہے، ان کے لیے بڑا اجر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

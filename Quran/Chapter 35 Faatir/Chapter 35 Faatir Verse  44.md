@@ -3224,6 +3224,12 @@ aur kya ye log zameen mein chale phire nahi, jis mein dekhte bhaalte ke jo log u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا یہ لوگ زمین میں چلتے پھرتے نہیں ہیں کہ دیکھ لیتے کہ اُن لوگوں کا انجام کیسا ہوا جو اِن سے پہلے تھے حالانکہ وہ اِن سے کہیں زیادہ زورآور تھے، اور اللہ ایسا نہیں ہے کہ آسمانوں میں کوئی بھی چیز اسے عاجز کر سکے اور نہ ہی زمین میں (ایسی کوئی چیز ہے)، بیشک وہ بہت علم والا بڑی قدرت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا ان لوگوں نے زمین میں کبھی سفر نہیں کیا جس سے وہ یہ دیکھتے کہ جو لوگ ان سے پہلے گزرے ہیں، ان کا انجام کیسا ہوا، جبکہ وہ طاقت میں ان سے بہت زیادہ مضبوط تھے ؟ اور اللہ ایسا نہیں ہے کہ آسمانوں یا زمین کی کوئی چیز اسے عاجز کرسکے۔ بیشک وہ علم کا بھی مالک ہے، قدرت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

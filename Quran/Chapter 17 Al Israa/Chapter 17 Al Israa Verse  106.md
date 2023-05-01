@@ -3224,6 +3224,12 @@ Qur’an ko hum ne thoda thoda kar ke is liye utaara hai ke aap ise ba muhullath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور قرآن کو ہم نے جدا جدا کر کے اتارا تاکہ آپ اسے لوگوں پر ٹھہر ٹھہر کر پڑھیں اور ہم نے اسے رفتہ رفتہ (حالات اور مصالح کے مطابق) تدریجاً اتارا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے قرآن کے جدا جدا حصے بنائے، تاکہ تم اسے ٹھہر ٹھہر کر لوگوں کے سامنے پڑھو، اور ہم نے اسے تھوڑا تھوڑا کر کے اتارا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

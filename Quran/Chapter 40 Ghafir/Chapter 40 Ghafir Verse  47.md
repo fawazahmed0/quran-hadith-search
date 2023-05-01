@@ -3224,6 +3224,12 @@ aur jab ke dozakh mein ek dosre se jhagdenge to kamzoor log takabbur waalo se (j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ لوگ دوزخ میں باہم جھگڑیں گے تو کمزور لوگ ان سے کہیں گے جو (دنیا میں) بڑائی ظاہر کرتے تھے کہ ہم تو تمہارے پیروکار تھے سو کیا تم آتشِ دوزخ کا کچھ حصّہ (ہی) ہم سے دور کر سکتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس وقت (کا دھیان رکھو) جب یہ لوگ دوزخ میں ایک دوسرے سے جھگڑ رہے ہوں گے، چنانچہ جو (دنیا میں) کمزور تھے وہ ان لوگوں سے کہیں گے جو بڑے بنے ہوئے تھے کہ ہم تو تمہارے پیچھے چلنے والے لوگ تھے تو کیا تم آگ کا کچھ حصہ ہمارے بدلے خود لے لو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

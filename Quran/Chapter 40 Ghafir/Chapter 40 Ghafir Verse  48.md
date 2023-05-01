@@ -3224,6 +3224,12 @@ wo bade log jawaab denge hum to sabhi is aag mein hai, Allah ta’ala apne bandh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تکبر کرنے والے کہیں گے: ہم سب ہی اسی (دوزخ) میں پڑے ہیں بے شک اللہ نے بندوں کے درمیان حتمی فیصلہ فرما دیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جو بڑے بنے ہوئے تھے کہیں گے کہ ہم سب ہی اس دوزخ میں ہیں اللہ تمام بندوں کے درمیان فیصلہ کرچکا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ sivaaye un logo ke jo tauba kare aur imaan laaye aur nek kaam kare, aise logo ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر جس نے توبہ کر لی اور ایمان لے آیا اور نیک عمل کیا تو یہ وہ لوگ ہیں کہ اللہ جن کی برائیوں کو نیکیوں سے بدل دے گا، اور اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں مگر جو کوئی توبہ کرلے، ایمان لے آئے، اور نیک عمل کرے تو اللہ ایسے لوگوں کی برائیوں کو نیکیوں میں تبدیل کردے گا، اور اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

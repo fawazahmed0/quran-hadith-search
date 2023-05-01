@@ -3224,6 +3224,12 @@ jis gharz se wo log ose sunte hai, un (ki niyyato) se hum qoob agaah hai, jab ye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم خوب جانتے ہیں یہ جس مقصد کے لئے دھیان سے سنتے ہیں جب یہ آپ کی طرف کان لگاتے ہیں اور جب یہ سرگوشیاں کرتے ہیں جب یہ ظالم لوگ (مسلمانوں سے) کہتے ہیں کہ تم تو محض ایک ایسے شخص کی پیروی کر رہے ہو جو سحر زدہ ہے (یعنی اس پر جادو کردیا گیا ہے تو ہم یہ سب کچھ دیکھ اور سن رہے ہوتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمیں خوب معلوم ہے کہ جب یہ لوگ تمہاری بات کان لگا کر سنتے ہیں تو کس لیے سنتے ہیں، اور جب یہ آپس میں سرگوشیاں کرتے ہیں (تو ان باتوں کا بھی ہمیں پورا علم ہے) جب یہ ظالم (اپنی برادری کے مسلمانوں سے) یوں کہتے ہیں کہ : تم تو بس ایک ایسے آدمی کے پیچھے چل پڑے ہو جس پر جادو ہوگیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

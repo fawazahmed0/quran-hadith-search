@@ -3224,6 +3224,12 @@ tamam munafiq mard wa aurath aapas mein ek hee hai,ye bori batho ka hukm dete ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+منافق مرد اور منافق عورتیں ایک دوسرے (کی جنس) سے ہیں۔ یہ لوگ بری باتوں کا حکم دیتے ہیں اور اچھی باتوں سے روکتے ہیں اور اپنے ہاتھ (اللہ کی راہ میں خرچ کرنے سے) بند رکھتے ہیں، انہوں نے اللہ کو فراموش کر دیا تو اللہ نے انہیں فراموش کر دیا، بیشک منافقین ہی نافرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 منافق مرد اور منافق عورتیں سب ایک ہی طرح کے ہیں۔ وہ برائی کی تلقین کرتے ہیں اور بھلائی سے روکتے ہیں، اور اپنے ہاتھوں کو بند رکھتے ہیں۔ انہوں نے اللہ کو بھلا دیا ہے، تو اللہ نے بھی ان کو بھلا دیا۔ بلاشبہ یہ منافق بڑے نافرمان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

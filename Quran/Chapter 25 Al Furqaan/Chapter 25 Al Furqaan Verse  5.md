@@ -3224,6 +3224,12 @@ aur ye bhi kaha ke ye to aglo ke afsaane hai jo us ne likha rakhe hai, bas wahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کہتے ہیں: (یہ قرآن) اگلوں کے افسانے ہیں جن کو اس شخص نے لکھوا رکھا ہے پھر وہ (افسانے) اسے صبح و شام پڑھ کر سنائے جاتے ہیں (تاکہ انہیں یاد کر کے آگے سنا سکے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہتے ہیں کہ : یہ تو پچھلے لوگوں کی لکھی ہوئی کہانیاں ہیں جو اس شخص نے لکھوالی ہیں، اور صبح و شام وہی اس کے سامنے پڑھ کر سنائی جاتی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Inse kaho ke jo koi Jibrael se adawat (dushmani) rakhta ho, usey maloom hona cha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں: جو شخص جبریل کا دشمن ہے (وہ ظلم کر رہا ہے) کیونکہ اس نے (تو) اس (قرآن) کو آپ کے دل پر اللہ کے حکم سے اتارا ہے (جو) اپنے سے پہلے (کی کتابوں) کی تصدیق کرنے والا ہے اور مؤمنوں کے لئے (سراسر) ہدایت اور خوشخبری ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کہہ دو کہ اگر کوئی شخص جبرئیل کا دشمن ہے تو (ہوا کرے) انہوں نے تو یہ کلام اللہ کی اجازت سے تمہارے دل پر اتارا ہے جو اپنے سے پہلے کی کتابوں کی تصدیق کر رہا ہے، اور ایمان والوں کے لیے مجسم ہدایت اور خوشخبری ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

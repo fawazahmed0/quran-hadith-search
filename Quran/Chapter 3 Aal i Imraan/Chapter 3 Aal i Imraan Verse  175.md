@@ -3224,6 +3224,12 @@ ye qabar dene waala sirf shaitaan hee hai, jo apne dosto se daraata hai, tum un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک یہ (مخبر) شیطان ہی ہے جو (تمہیں) اپنے دوستوں سے دھمکاتا ہے، پس ان سے مت ڈرا کرو اور مجھ ہی سے ڈرا کرو اگر تم مومن ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 درحقیقت یہ تو شیطان ہے جو اپنے دوستوں سے ڈراتا ہے، لہذا اگر تم مومن ہو تو ان سے خوف نہ کھاؤ، اور بس میرا خوف رکھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

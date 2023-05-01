@@ -3224,6 +3224,12 @@ ta ke Allah ta’ala un se un ke bure amalo ko door karde aur jo nek kaam unhone
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اللہ اُن کی خطاؤں کو جو انہوں نے کیں اُن سے دور کر دے اور انہیں ان کا ثواب اُن نیکیوں کے بدلہ میں عطا فرمائے جو وہ کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ انہوں نے جو بدترین کام کئے تھے اللہ ان کا کفارہ کردے، اور جو بہترین کام کرتے رہے تھے ان کا ثواب انہیں عطا فرمائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

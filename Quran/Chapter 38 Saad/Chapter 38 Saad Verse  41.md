@@ -3224,6 +3224,12 @@ aur hamaare bandhe Ayyub(alaihissalaam) ka (bhi) zikr kar jab ke us ne apne rab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہمارے بندے ایّوب (علیہ السلام) کا ذکر کیجئے جب انہوں نے اپنے رب کو پکارا کہ مجھے شیطان نے بڑی اذیّت اور تکلیف پہنچائی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہمارے بندے ایوب کو یاد کرو، جب انہوں نے اپنے پروردگار کو پکارا تھا کہ : شیطان مجھے دکھ اور آزار لگا گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

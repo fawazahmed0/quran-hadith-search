@@ -3224,6 +3224,12 @@ hum hee jilaate hai aur hum hee maarte hai aur hamaari hee taraf laut phir kar a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم ہی زندہ رکھتے ہیں اور ہم ہی موت دیتے ہیں اور ہماری ہی طرف پلٹ کر آنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو ہم ہی ہیں جو زندگی بھی دیتے ہیں اور موت بھی اور آخر کار سب کو ہمارے پاس ہی لوٹنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

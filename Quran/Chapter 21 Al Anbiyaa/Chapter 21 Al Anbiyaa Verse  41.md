@@ -3224,6 +3224,12 @@ aur tujh se pehle rasulo ke saath bhi hasi mazaaq kiya gaya, pas hasi karne walo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک آپ سے پہلے بھی رسولوں کے ساتھ مذاق کیا گیا سو ان لوگوں میں سے انہیں جو تمسخر کرتے تھے اسی (عذاب) نے گھیر لیا جس کا وہ مذاق اڑایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم سے پہلے بھی پیغمبروں کا مذاق اڑایا گیا تھا، پھر ان کا مذاق بنانے والوں کو اسی چیز نے آگھیرا جس کا وہ مذاق اڑایا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

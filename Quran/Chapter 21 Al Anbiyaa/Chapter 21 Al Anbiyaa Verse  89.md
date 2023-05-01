@@ -3224,6 +3224,12 @@ aur Zakarya(alaihissalaam) ko yaad karo, jab us ne apne rab se dua ki, ke aye me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور زکریا (علیہ السلام کو بھی یاد کریں) جب انہوں نے اپنے رب کو پکارا: اے میرے رب! مجھے اکیلا مت چھوڑ اور تو سب وارثوں سے بہتر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زکریا کو دیکھو ! جب انہوں نے اپنے پروردگار کو پکارا تھا کہ : یا رب ! مجھے اکیلا نہ چھوڑئیے، اور آپ سب سے بہتر وارث ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

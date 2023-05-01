@@ -3224,6 +3224,12 @@ aur jab hum logo ko us amr ke badh ke un par koi musibath pad chuki ho,kisi nema
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم لوگوں کو تکلیف پہنچنے کے بعد (اپنی) رحمت سے لذت آشنا کرتے ہیں تو فوراً (ہمارے احسان کو بھول کر) ہماری نشانیوں میں ان کا مکر و فریب (شروع) ہو جاتا ہے۔ فرما دیجئے: اللہ مکر کی سزا جلد دینے والا ہے۔ بیشک ہمارے بھیجے ہوئے فرشتے، جو بھی فریب تم کر رہے ہو (اسے) لکھتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انسانوں کا حال یہ ہے کہ جب ان کو پہنچنے والی کسی تکلیف کے بعد ہم ان کو رحمت کا مزہ چکھاتے ہیں تو ذرا سی دیر میں وہ ہماری نشانیوں کے بارے میں چالبازی شروع کردیتے ہیں ۔ کہہ دو کہ :“ اللہ اس سے بھی جلدی کوئی چال چل سکتا ہے یقینا ہمارے فرشتے تمہاری ساری چالبازیوں کو لکھ رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

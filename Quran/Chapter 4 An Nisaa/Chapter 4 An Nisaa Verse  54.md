@@ -3224,6 +3224,12 @@ ya ye logo se hasad karte hai us par jo Allah ta’ala ne apne fazal se unhe diy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا یہ (یہود) لوگوں (سے ان نعمتوں) پر حسد کرتے ہیں جو اللہ نے انہیں اپنے فضل سے عطا فرمائی ہیں، سو واقعی ہم نے ابراہیم (علیہ السلام) کے خاندان کو کتاب اور حکمت عطا کی اور ہم نے انہیں بڑی سلطنت بخشی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا یہ لوگوں سے اس بنا پر حسد کرتے ہیں کہ اللہ نے ان کو اپنا فضل (کیوں) عطا فرمایا ہے ؟ سو ہم نے تو ابراہیم کے خاندان کو کتاب اور حکمت عطا کی تھی اور انہیں بڑی سلطنت دی تھی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

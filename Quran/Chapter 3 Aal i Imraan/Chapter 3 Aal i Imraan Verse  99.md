@@ -3224,6 +3224,12 @@ un ahle kitaab se kaho ke tum Allah ta’ala ki raah se logo ko kyo rokte ho? au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیں: اے اہلِ کتاب! جو شخص ایمان لے آیا ہے تم اسے اللہ کی راہ سے کیوں روکتے ہو؟ تم ان کی راہ میں بھی کجی چاہتے ہو حالانکہ تم (اس کے حق ہونے پر) خود گواہ ہو، اور اللہ تمہارے اعمال سے بے خبر نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اے اہل کتاب ! اللہ کے راستے میں ٹیڑھ پیدا کرنے کی کوشش کر کے ایک مومن کے لیے اس میں کیوں رکاوٹ ڈالتے ہو جبکہ تم خود حقیقت حال کے گواہ ہو ؟ جو کچھ تم کر رہے ہو اللہ اس سے غافل نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

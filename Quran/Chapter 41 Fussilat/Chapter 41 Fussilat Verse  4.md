@@ -3224,6 +3224,12 @@ khush qabri sunaane waala aur daraane waala hai, phir bhi un ki aksariyath ne mu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+خوشخبری سنانے والا ہے اور ڈر سنانے والا ہے، پھر ان میں سے اکثر لوگوں نے رُوگردانی کی سو وہ (اِسے) سنتے ہی نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ قرآن خوشخبری دینے والا بھی ہے، اور خبردار کرنے والا بھی پھر بھی ان میں سے اکثر لوگوں نے منہ موڑ رکھا ہے جس کے نتیجے میں وہ سنتے نہیں ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

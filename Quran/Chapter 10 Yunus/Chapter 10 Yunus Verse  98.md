@@ -3224,6 +3224,12 @@ chuna che koi basti imaan na layi, ke imaan lana us ko naafe hota, sivae yonus(a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر قومِ یونس (کی بستی) کے سوا کوئی اور ایسی بستی کیوں نہ ہوئی جو ایمان لائی ہو اور اسے اس کے ایمان لانے نے فائدہ دیا ہو۔ جب (قومِ یونس کے لوگ نزولِ عذاب سے قبل صرف اس کی نشانی دیکھ کر) ایمان لے آئے تو ہم نے ان سے دنیوی زندگی میں (ہی) رسوائی کا عذاب دور کردیا اور ہم نے انہیں ایک مدت تک منافع سے بہرہ مند رکھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کوئی بستی ایسی کیوں نہ ہوئی کہ ایسے وقت ایمان لے آتی کہ اس کا ایمان اسے فائدہ پہنچا سکتا ؟ البتہ صرف یونس کی قوم کے لوگ ایسے تھے۔ جب وہ ایمان لے آئے تو ہم نے دنیوی زندگی میں رسوائی کا عذاب ان سے اٹھا لیا، اور ان کو ایک مدت تک زندگی کا لطف اٹھانے دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

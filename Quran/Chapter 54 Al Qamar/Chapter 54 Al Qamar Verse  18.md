@@ -3224,6 +3224,12 @@ khaume aadh ne bhi jhutlaaya, pas kaisa hoa mera azaab aur meri daraane waali ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(قومِ) عاد نے بھی (پیغمبروں کو) جھٹلایا تھا سو (اُن پر) میرا عذاب اور میرا ڈرانا کیسا (عبرت ناک) رہا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عاد کی قوم نے بھی تنبیہ کرنے والوں کو جھٹلانے کا رویہ اختیار کیا، پھر دیکھ لو کہ میرا عذاب اور میری تنبیہات کیسی تھیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

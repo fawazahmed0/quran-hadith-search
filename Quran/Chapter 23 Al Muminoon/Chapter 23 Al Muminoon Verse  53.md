@@ -3224,6 +3224,12 @@ phir unhone khud (hee) apne amr (deen) ke aapas mein tukde tukde kar liye, har g
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس انہوں نے اپنے (دین کے) امر کو آپس میں اختلاف کر کے فرقہ فرقہ کر ڈالا، ہر فرقہ والے اسی قدر (دین کے حصہ) سے جو ان کے پاس ہے خوش ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ لوگوں نے اپنے دین میں باہم پھوٹ ڈال کر فرقے بنا لیے، ہر گروہ نے اپنے خیال میں جو طریقہ اختیار کرلیا ہے، اسی پر مگن ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

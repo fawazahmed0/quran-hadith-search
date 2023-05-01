@@ -3224,6 +3224,12 @@ kya qoob dekhne sunne waale honge us din jab ke hamaare saamne haazir honge, lek
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن وہ ہمارے پاس حاضر ہوں گے تو کیسے (کان کھول کر) سنیں گے اور (آنکھیں پھاڑ پھاڑ کر) دیکھیں گے لیکن ظالم لوگ آج کھلی گمراہی میں (غرق) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس روز یہ ہمارے پاس آئیں گے اس دن یہ کتنے سننے والے اور دیکھنے والے بن جائیں گے۔ لیکن یہ ظالم آج کھلی گمراہی میں پڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

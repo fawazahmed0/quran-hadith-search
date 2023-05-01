@@ -3224,6 +3224,12 @@ aur kehnge lage ke abba jaan hum to aapas mein daud mein lag gaye aur yousuf(ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کہنے لگے: اے ہمارے باپ! ہم لوگ دوڑ میں مقابلہ کرنے چلے گئے اور ہم نے یوسف (علیہ السلام) کو اپنے سامان کے پاس چھوڑ دیا تو اسے بھیڑئیے نے کھا لیا، اور آپ (تو) ہماری بات کا یقین (بھی) نہیں کریں گے اگرچہ ہم سچے ہی ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگے : ابا جی ! یقین جانیے، ہم دوڑنے کا مقابلہ کرنے چلے گئے تھے، اور ہم نے یوسف کو اپنے سامان کے پاس چھوڑ دیا تھا، اتنے میں ایک بھیڑیا اسے کھا گیا۔ اور آپ ہماری بات کا یقین نہیں کریں گے، چاہے ہم کتنے ہی سچے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

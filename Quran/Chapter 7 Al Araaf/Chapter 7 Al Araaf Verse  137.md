@@ -3224,6 +3224,12 @@ aur hum ne un logo ko jo ke bil-kul kamzoor shumaar kiye jaate thein us sar-zame
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں کو کمزور سمجھا جاتا تھا، ہم نے انہیں اس سرزمین کے مشرق و مغرب کا وارث بنادیا جس پر ہم نے برکتیں نازل کی تھیں۔ اور بنی اسرائیل کے حق میں تمہارے رب کا کلمہ خیر پورا ہوا، کیونکہ انہوں نے صبر سے کام لیا تھا۔ اور فرعون اور اس کی قوم جو کچھ بناتی چڑھاتی رہی تھی، اس سب کو ہم نے مل یا میٹ کردیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

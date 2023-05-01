@@ -3224,6 +3224,12 @@ Mukhammad — ne batʹko kohosʹ iz vashykh cholovikiv, ale Poslanetsʹ Allaha y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+محمد (صلی اللہ علیہ وآلہ وسلم) تمہارے مَردوں میں سے کسی کے باپ نہیں ہیں لیکن وہ اللہ کے رسول ہیں اور سب انبیاء کے آخر میں (سلسلۂ نبوت ختم کرنے والے) ہیں، اور اللہ ہر چیز کا خوب علم رکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو !) محمد (صلی اللہ علیہ وآلہ وسلم) تم مردوں میں سے کسی کے باپ نہیں ہیں، لیکن وہ اللہ کے رسول ہیں، اور تمام نبیوں میں سب سے آخری نبی ہیں، اور اللہ ہر بات کو خوب جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

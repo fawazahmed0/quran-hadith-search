@@ -3224,6 +3224,12 @@ kya wo jo maqlooq ki awwal dafa paidayish karta hai, phir ose lautayega aur jo t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ وہ کون ہے جو مخلوق کو پہلی بار پیدا فرماتا ہے پھر اسی (عملِ تخلیق) کو دہرائے گا اور جو تمہیں آسمان و زمین سے رزق عطا فرماتا ہے؟ کیا اللہ کے ساتھ کوئی (اور بھی)معبود ہے؟ فرما دیجئے: (اے مشرکو!) اپنی دلیل پیش کرو اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا وہ کون ہے جس نے ساری مخلوق کو پہلی بار پیدا کیا، پھر وہ اس کو دوبارہ پیدا کرے گا، اور جو تمہیں آسمان اور زمین سے رزق فراہم کرتا ہے ؟ کیا (پھر بھی تم کہتے ہو کہ) اللہ کے ساتھ کوئی اور خدا ہے ؟ کہو : لاؤ اپنی کوئی دلیل، اگر تم سچے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

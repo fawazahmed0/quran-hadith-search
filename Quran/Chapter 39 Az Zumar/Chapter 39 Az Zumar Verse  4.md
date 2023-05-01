@@ -3224,6 +3224,12 @@ agar Allah ta’ala ka iraada aulaad hee ka hota, to apni maqlooq mein se jise c
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر اللہ ارادہ فرماتا کہ (اپنے لئے) اولاد بنائے تو اپنی مخلوق میں سے جسے چاہتا منتخب فرما لیتا، وہ پاک ہے، وہی اللہ ہے جو یکتا ہے سب پر غالب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر اللہ یہ چاہتا کہ کسی کو اولاد بنائے تو وہ اپنی مخلوق میں سے جس کو چاہتا منتخب کرلیتا، (لیکن) وہ پاک ہے (اس بات سے کہ اس کی کوئی اولاد ہو) وہ تو اللہ ہے، ایک، اور زبردست اقتدار کا مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

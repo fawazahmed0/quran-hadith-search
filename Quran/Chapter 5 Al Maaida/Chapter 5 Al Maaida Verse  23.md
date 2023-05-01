@@ -3224,6 +3224,12 @@ do shaqso ne jo khuda taras logo mein se thein, jin par Allah tala ka fazl tha, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان (چند) لوگوں میں سے جو (اللہ سے) ڈرتے تھے دو (ایسے) شخص بول اٹھے جن پر اللہ نے انعام فرمایا تھا (اپنی قوم سے کہنے لگے:) تم ان لوگوں پر (بلا خوف حملہ کرتے ہوئے شہر کے) دروازے سے داخل ہو جاؤ، سو جب تم اس (دروازے) میں داخل ہو جاؤ گے تو یقیناً تم غالب ہو جاؤ گے، اور اللہ ہی پر توکل کرو بشرطیکہ تم ایمان والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ (خدا کا) خوف رکھتے تھے، ان میں سے دو مرد جن کو اللہ نے اپنے فضل سے نوازا تھا۔ بول اٹھے کہ : تم ان پر چڑھائی کر کے (شہر کے) دروازے میں گھس جاؤ۔ جب گھس جاؤ گے تو تم ہی غالب رہو گے۔ اور اپنا بھروسہ صرف اللہ پر رکھو، اگر تم واقعی صاحب ایمان ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

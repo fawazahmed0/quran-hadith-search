@@ -3224,6 +3224,12 @@ jo log Allah ta’ala ki aayato aur us ki mulaqaath ko bhulaate hai, wo meri reh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے اللہ کی آیتوں کا اور اس کی ملاقات کا انکار کیا وہ لوگ میری رحمت سے مایوس ہوگئے اور ان ہی لوگوں کے لئے درد ناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے اللہ کی آیتوں کا اور اس سے جاملنے کا انکار کیا ہے، وہ میری رحمت سے مایوس ہوچکے ہیں، اور ان کے لیے دکھ دینے والا عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

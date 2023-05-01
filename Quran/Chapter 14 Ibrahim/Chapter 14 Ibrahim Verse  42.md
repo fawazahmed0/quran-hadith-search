@@ -3224,6 +3224,12 @@ na insaafo ke amaal se Allah ko ghaafil na samajh, wo to unhe us din tak mahulat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کو ان کاموں سے ہرگز بے خبر نہ سمجھنا جو ظالم انجام دے رہے ہیں، بس وہ تو ان (ظالموں) کو فقط اس دن کے لئے مہلت دے رہا ہے جس میں (خوف کے مارے) آنکھیں پھٹی رہ جائیں گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ ہرگز نہ سمجھنا کہ جو کچھ یہ ظالم کر رہے ہیں، اللہ اس سے غافل ہے۔ وہ تو ان لوگوں کو اس دن تک کے لیے مہلت دے رہا ہے جس میں آنکھیں پھٹی کی پھٹی رہ جائیں گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

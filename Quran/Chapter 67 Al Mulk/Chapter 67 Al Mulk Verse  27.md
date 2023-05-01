@@ -3224,6 +3224,12 @@ jab ye log us waadee ko qareeb tar pa lenge, us waqth un kaafiro ke chehre bigad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب اس (دن) کو قریب دیکھ لیں گے تو کافروں کے چہرے بگڑ کر سیاہ ہو جائیں گے، اور (ان سے) کہا جائے گا: یہی وہ (وعدہ) ہے جس کے (جلد ظاہر کیے جانے کے) تم بہت طلب گار تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب وہ اس (قیامت کے عذاب) کو پاس آتا دیکھ لیں گے تو کافروں کے چہرے بگڑ جائیں گے، اور کہا جائے گا کہ : یہ ہے وہ چیز جو تم مانگا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

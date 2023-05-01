@@ -3224,6 +3224,12 @@ un logo ki misaal jinhone apne paalne wale se kufr kiya un ke amaal misl us raaq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جن لوگوں نے اپنے رب سے کفر کیا ہے، ان کی مثال یہ ہے کہ ان کے اعمال (اس) راکھ کی مانند ہیں جس پر تیز آندھی کے دن سخت ہوا کا جھونکا آگیا، وہ ان (اَعمال) میں سے جو انہوں نے کمائے تھے کسی چیز پر قابو نہیں پاسکیں گے۔ یہی بہت دور کی گمراہی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے اپنے رب کے ساتھ کفر کی روش اختیار کی ہے، ان کی حالت یہ ہے کہ ان کے اعمال اس راکھ کی طرح ہیں جسے آندھی طوفان والے دن میں ہوا تیزی سے اڑا لے جائے، انہوں نے جو کچھ کمائی کی ہوگی، اس میں سے کچھ ان کے ہاتھ نہیں آئے گا۔ یہی تو پرلے درجے کی گمراہی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

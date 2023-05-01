@@ -3224,6 +3224,12 @@ mujhe apne marne ke baadh apne qaraabath waalo ka dar hai, meri biwi bhi baajh h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں اپنے (رخصت ہوجانے کے) بعد (بے دین) رشتہ داروں سے ڈرتا ہوں (کہ وہ دین کی نعمت ضائع نہ کر بیٹھیں) اور میری بیوی (بھی) بانجھ ہے سو تو مجھے اپنی (خاص) بارگاہ سے ایک وارث (فرزند) عطا فرما
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مجھے اپنے بعد اپنے چچازاد بھائیوں کا اندیشہ لگا ہوا ہے۔ اور میری بیوی بانجھ ہے، لہذا آپ خاص اپنے پاس سے مجھے ایک ایسا وارث عطا کردیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

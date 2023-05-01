@@ -3224,6 +3224,12 @@ ye kehte hai ke yahood wa nasaara ban jaao, to hidaayath paoge, tum kaho balke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اہلِ کتاب) کہتے ہیں: یہودی یا نصرانی ہو جاؤ ہدایت پا جاؤ گے، آپ فرما دیں کہ (نہیں) بلکہ ہم تو (اس) ابراہیم (علیہ السلام) کا دین اختیار کیے ہوئے ہیں جو ہر باطل سے جدا صرف اللہ کی طرف متوجہ تھے، اور وہ مشرکوں میں سے نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (یہودی اور عیسائی مسلمانوں سے) کہتے ہیں کہ : تم یہودی یا عیسائی ہوجاؤ راہ راست پر آجاؤ گے۔ کہہ دو کہ : نہیں بلکہ (ہم تو) ابراہیم کے دین کی پیروی کریں گے جو ٹھیک ٹھیک سیدھی راہ پر تھے، اور وہ ان لوگوں میں سے نہ تھے جو اللہ کے ساتھ کسی کو شریک ٹھہراتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

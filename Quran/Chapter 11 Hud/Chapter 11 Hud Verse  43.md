@@ -3224,6 +3224,12 @@ us ne jawaab diya ke mein to kisi bade pahaad ki panah mein aa jaonga jo mujhe p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولا: میں (کشتی میں سوار ہونے کے بجائے) ابھی کسی پہاڑ کی پناہ لے لیتا ہوں وہ مجھے پانی سے بچا لے گا۔ نوح (علیہ السلام) نے کہا: آج اللہ کے عذاب سے کوئی بچانے والا نہیں ہے مگر اس شخص کو جس پر وہی (اللہ) رحم فرما دے، اسی اثنا میں دونوں (یعنی باپ بیٹے) کے درمیان (طوفانی) موج حائل ہوگئی سو وہ ڈوبنے والوں میں ہوگیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ بولا : میں ابھی کسی پہاڑ کی پناہ لے لوں گا جو مجھے پانی سے بچا لے گا، نوح نے کہا : آج اللہ کے حکم سے کوئی کسی کو بچانے والا نہیں ہے، سوائے اس کے جس پر وہ ہی رحم فرمادے۔ اس کے بعد ان کے درمیان موج حائل ہوگئی، اور ڈوبنے والوں میں وہ بھی شامل ہوا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

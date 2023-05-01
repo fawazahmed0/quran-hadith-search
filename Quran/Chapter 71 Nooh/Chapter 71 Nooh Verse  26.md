@@ -3224,6 +3224,12 @@ aur (hazrath) Nuh(alaihissalaam) ne kaha ke aye mere paalne waale! tu roye zamee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نوح (علیہ السلام) نے عرض کیا: اے میرے رب! زمین پر کافروں میں سے کوئی بسنے والا باقی نہ چھوڑ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نوح نے یہ بھی کہا کہ : میرے پروردگار ! ان کافروں میں سے کوئی ایک باشندہ بھی زمین پر باقی نہ رکھیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya insaan ye qayaal karta hai ke hum us ki haddiyaa jama karenge hee nahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انسان یہ خیال کرتا ہے کہ ہم اُس کی ہڈیوں کو (جو مرنے کے بعد ریزہ ریزہ ہو کر بکھر جائیں گی) ہرگز اِکٹھا نہ کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا انسان یہ سمجھ رہا ہے کہ ہم اس کی ہڈیوں کو اکٹھا نہیں کرسکیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

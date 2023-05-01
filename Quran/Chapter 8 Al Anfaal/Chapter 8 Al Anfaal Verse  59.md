@@ -3224,6 +3224,12 @@ kafir ye qayal na kare ke wo bhag nikle,yaqinan wo aajiz17 nahi kar sakte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ اس گمان میں ہرگز نہ رہیں کہ وہ سبقت لے گئے (یا وہ منشاء ایزدی پر غالب آ گئے)۔ بے شک وہ (اللہ کی طاقت کو) شکست نہیں دے سکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کافر لوگ ہرگز یہ خیال بھی دل میں نہ لائیں کہ وہ بھاگ نکلے ہیں، یہ یقینی بات ہے کہ وہ (اللہ کو) عاجز نہیں کرسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

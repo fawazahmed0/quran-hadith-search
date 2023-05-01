@@ -3224,6 +3224,12 @@ aur jo log imaan laaye aur unhone nek kaam kiye, hum kisi shaqs ko us ki khudrat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لائے ہیں اور انہوں نے نیک عمل کیے ہیں (یاد رہے کہ) ہم کسی بھی شخص کو اس کی طاقت سے زیادہ کی تکلیف نہیں دیتے۔ تو ایسے لوگ جنت کے باسی ہیں۔ وہ ہمیشہ اس میں رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

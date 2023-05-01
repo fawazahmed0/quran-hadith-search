@@ -3224,6 +3224,12 @@ un ke maal aur un ki aulaad Allah ke haan kuch kaam na ayengi, ye to jahannami h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ (کے عذاب) سے ہرگز نہ ہی اُن کے مال انہیں بچا سکیں گے اور نہ اُن کی اولاد ہی (انہیں بچا سکے گی)، یہی لوگ اہلِ دوزخ ہیں، وہ اس میں ہمیشہ رہنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے مال اور ان کی اولاد اللہ کے مقابلے میں ان کے کچھ کام نہیں آئیں گے۔ یہ دوزخ والے ہیں۔ یہ ہمیشہ اسی میں رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

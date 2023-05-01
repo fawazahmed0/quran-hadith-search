@@ -3224,6 +3224,12 @@ agar aqal-mandh ho (to ghaur karo) haan tum to unhe chaahte ho aur wo tum se muh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آگاہ ہو جاؤ! تم وہ لوگ ہو کہ ان سے محبت رکھتے ہو اور وہ تمہیں پسند (تک) نہیں کرتے حالانکہ تم سب کتابوں پر ایمان رکھتے ہو، اور جب وہ تم سے ملتے ہیں (تو) کہتے ہیں: ہم ایمان لے آئے ہیں، اور جب اکیلے ہوتے ہیں تو تم پر غصے سے انگلیاں چباتے ہیں، فرما دیں: مر جاؤ اپنی گھٹن میں، بیشک اللہ دلوں کی (پوشیدہ) باتوں کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دیکھو تم تو ایسے ہو کہ ان سے محبت رکھتے ہو، مگر وہ تم سے محبت نہیں رکھتے، اور تم تو تمام (آسمانی) کتابوں پر ایمان رکھتے ہو، اور (ان کا حال یہ ہے کہ) وہ جب تم سے ملتے ہیں تو کہتے ہیں کہ ہم (قرآن پر) ایمان لے آئے، اور جب تنہائی میں جاتے ہیں تو تمہارے خلاف غصے کے مارے اپنی انگلیاں چباتے ہیں۔ (ان سے) کہہ دو کہ : اپنے غصے میں خود مر رہو، اللہ سینوں میں چھپی ہوئی باتیں خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

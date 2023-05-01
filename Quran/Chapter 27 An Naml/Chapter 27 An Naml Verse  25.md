@@ -3224,6 +3224,12 @@ ke osi Allah ke liye sajde kare jo asmaano aur zamino ki pushida chizo ko baaher
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس لئے (روکے گئے ہیں) کہ وہ اس اللہ کے حضور سجدہ ریز نہ ہوں جو آسمانوں اور زمین میں پوشیدہ (حقائق اور موجودات) کو باہر نکالتا (یعنی ظاہر کرتا) ہے اور ان (سب) چیزوں کو جانتا ہے جسے تم چھپاتے ہو اور جسے تم آشکار کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ اللہ کو سجدہ نہیں کرتے، جو آسمانوں اور زمین کی چھپی ہوئی چیزوں کو باہر نکال لاتا ہے، اور تم جو کچھ چھپاؤ اور جو کچھ ظاہر کرو، سب کو جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

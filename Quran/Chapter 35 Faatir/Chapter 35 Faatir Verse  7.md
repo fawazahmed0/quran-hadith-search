@@ -3224,6 +3224,12 @@ jo log kaafir hoye un ke liye saqth saza hai aur jo log imaan laaye aur nek amaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کافر لوگوں کے لئے سخت عذاب ہے، اور جو لوگ ایمان لائے اور نیک اعمال کرتے رہے ان کے لئے مغفرت اور بہت بڑا ثواب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا ہے، ان کے لیے شدید عذاب ہے اور جو لوگ ایمان لے آئے ہیں، اور انہوں نے نیک عمل کیے ہیں، ان کے لیے مغفرت ہے اور بڑا اجر۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

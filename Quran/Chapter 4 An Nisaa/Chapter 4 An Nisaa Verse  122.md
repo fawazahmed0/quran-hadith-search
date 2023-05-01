@@ -3224,6 +3224,12 @@ aur jo imaan laaye aur bhale kaam kare hum unhe un jannato mein le jaayenge jin 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے ہم انہیں عنقریب بہشتوں میں داخل کریں گے جن کے نیچے نہریں بہہ رہی ہوں گی وہ ان میں ہمیشہ ہمیشہ رہیں گے۔ (یہ) اللہ کا سچا وعدہ ہے، اور اللہ سے زیادہ بات کا سچا کون ہوسکتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لائے ہی اور انہوں نے نیک عمل کیے ہیں ہم ان کو ایسے باغات میں داخل کریں گے جن کے نیچے نہریں بہتی ہوں گی، یہ ان میں ہمیشہ ہمیشہ رہیں گے۔ یہ اللہ کا سچا وعدہ ہے، اور اللہ سے زیادہ بات کا سچا کون ہوسکتا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

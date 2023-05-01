@@ -3224,6 +3224,12 @@ phir jab jadugar aae to moosa(alaihissalaam)ne un se farmaya ke dalo, jo kuch tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب جادوگر آگئے تو موسٰی (علیہ السلام) نے ان سے کہا: تم (وہ چیزیں میدان میں) ڈال دو جو تم ڈالنا چاہتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب جادوگر آگئے تو موسیٰ نے ان سے کہا : پھینکو جو کچھ تمہیں پھینکنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

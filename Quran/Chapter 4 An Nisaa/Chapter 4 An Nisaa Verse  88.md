@@ -3224,6 +3224,12 @@ tumhe kya ho gaya hai? ke munaafiqo ke baare mein do gruh ho rahe ho? unhe to un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تم منافقوں کے بارے میں دو گروہ کیوں ہو گئے ہو حالاں کہ اللہ نے ان کے اپنے کرتوتوں کے باعث انہیں کفر کی طرف پلٹا دیا ہے؟ کیا تم اس شخص کو راہِ راست پر لانا چاہتے ہو جسے اللہ نے گمراہ ٹھہرا دیا ہے؟ اور (اے مخاطب!) جسے اللہ گمراہ ٹھہرا دے تو اس کے لیے ہرگز کوئی راہِ (ہدایت) نہیں پاسکتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر تمہیں کیا ہوگیا کہ منافقین کے بارے میں تم دو گروہ بن گئے ؟ حالانکہ انہوں نے جیسے کام کیے ہیں ان کی بناء پر اللہ نے ان کو اوندھا کردیا ہے۔ کیا تم یہ چاہتے ہو کہ ایسے شخص کو ہدایت پر لاؤ جسے اللہ (اس کی خواہش کے مطابق) گمراہی میں مبتلا کرچکا ؟ اور جسے اللہ گمراہی میں مبتلا کردے، اس کے لیے تم ہرگز کبھی کوئی بھلائی کا راستہ نہیں پاسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

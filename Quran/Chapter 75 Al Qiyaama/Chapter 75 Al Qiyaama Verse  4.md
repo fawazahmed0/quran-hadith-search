@@ -3224,6 +3224,12 @@ haan zaroor karenge, hum to qaadir hai, ke us ki por por tak durusth karde
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیوں نہیں! ہم تو اس بات پر بھی قادر ہیں کہ اُس کی اُنگلیوں کے ایک ایک جوڑ اور پوروں تک کو درست کر دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیوں نہیں ؟ جبکہ ہمیں اس پر بھی قدرت ہے کہ اس کی انگلیوں کے پور پور کو ٹھیک ٹھیک بنادیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

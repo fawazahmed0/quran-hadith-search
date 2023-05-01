@@ -3224,6 +3224,12 @@ keh dijiye ke tum hamare bare mein jis chiz ka intezar kar rahe ho,wo do bhalaiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں: کیا تم ہمارے حق میں دو بھلائیوں (یعنی فتح اور شہادت) میں سے ایک ہی کا انتظار کر رہے ہو (کہ ہم شہید ہوتے ہیں یا غازی بن کر لوٹتے ہیں)؟ اور ہم تمہارے حق میں (تمہاری منافقت کے باعث) اس بات کا انتظار کر رہے ہیں کہ اللہ اپنی بارگاہ سے تمہیں (خصوصی) عذاب پہنچاتا ہے یا ہمارے ہاتھوں سے۔ سو تم (بھی) انتظار کرو ہم (بھی) تمہارے ساتھ منتظر ہیں (کہ کس کا انتظار نتیجہ خیز ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : تم ہمارے لیے جس چیز کے منتظر ہو، وہ اس کے سوا اور کیا ہے کہ (آخر کار) دو بھلائیوں میں سے ایک نہ ایک بھلائی ہمیں ملے۔ اور ہمیں تمہارے بارے میں انتظار اس کا ہے کہ اللہ تمہیں اپنی طرف سے یا ہمارے ہاتھوں سزا دے۔ بس اب انتظار کرو، ہم بھی تمہارے ساتھ منتظر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

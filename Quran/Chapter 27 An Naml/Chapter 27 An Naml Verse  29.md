@@ -3224,6 +3224,12 @@ wo kehne lagi, aye sardaaro! meri taraf ek ba-waq’ath qath daala gaya hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ملکہ نے) کہا: اے سردارو! میری طرف ایک نامۂ بزرگ ڈالا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (چنانچہ ہدہد نے ایسا ہی کیا اور) ملکہ نے (اپنے درباریوں سے) کہا : قوم کے سردارو ! میرے سامنے ایک باوقار خط ڈالا گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

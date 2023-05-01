@@ -3224,6 +3224,12 @@ yaqinan tumhaare liye un mein accha namona (aur umdah pairvi hai, qaas kar) har 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک تمہارے لئے ان میں بہترین نمونۂ (اِقتداء) ہے (خاص طور پر) ہر اس شخص کے لئے جو اللہ (کی بارگاہ میں حاضری) کی اور یومِ آخرت کی امید رکھتا ہے، اور جو شخص رُوگردانی کرتا ہے تو بیشک اللہ بے نیاز اور لائقِ ہر حمد و ثناء ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) یقینا تمہارے لیے ان لوگوں کے طرز عمل میں بہترین نمونہ ہے، ہر اس شخص کے لیے جو اللہ اور روز آخرت سے امید رکھتا ہو۔ اور جو شخص منہ موڑے تو (وہ یاد رکھے کہ) اللہ سب سے بےنیاز ہے، بذات خود قابل تعریف۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

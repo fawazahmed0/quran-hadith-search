@@ -3224,6 +3224,12 @@ Allah ta’ala ki raah mein qarch karo aur apne haatho halaakath mein na pado, a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کی راہ میں خرچ کرو اور اپنے ہی ہاتھوں خود کو ہلاکت میں نہ ڈالو، اور نیکی اختیار کرو، بیشک اللہ نیکوکاروں سے محبت فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ کے راستے میں مال خرچ کرو، اور اپنے آپ کو خود اپنے ہاتھوں ہلاکت میں نہ ڈالو اور نیکی اختیار کرو، بیشک اللہ نیکی کرنے والوں سے محبت کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

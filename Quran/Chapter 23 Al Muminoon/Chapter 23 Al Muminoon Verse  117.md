@@ -3224,6 +3224,12 @@ jo shaqs Allah ke saath kisi dosre maboodh ko pukaare jis ki koyi daleel us ke p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص اللہ کے ساتھ کسی اور معبود کی پرستش کرتا ہے اس کے پاس اس کی کوئی سند نہیں ہے سو اس کا حساب اس کے رب ہی کے پاس ہے۔ بیشک کافر لوگ فلاح نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص اللہ کے ساتھ کسی اور خدا کو پکارے، جس پر اس کے پاس کسی قسم کی کوئی دلیل نہیں، تو اس کا حساب اس کے پروردگار کے پاس ہے۔ یقین جانو کہ کافر لوگ فلاح نہیں پاسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

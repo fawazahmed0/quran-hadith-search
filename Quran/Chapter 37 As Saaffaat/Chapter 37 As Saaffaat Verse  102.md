@@ -3224,6 +3224,12 @@ phir jab wo (baccha) itni umar ko pahoncha ke us ke saath chale phire, to us (Ib
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ (اسماعیل علیہ السلام) ان کے ساتھ دوڑ کر چل سکنے (کی عمر) کو پہنچ گیا تو (ابراہیم علیہ السلام نے) فرمایا: اے میرے بیٹے! میں خواب میں دیکھتا ہوں کہ میں تجھے ذبح کررہا ہوں سو غور کرو کہ تمہاری کیا رائے ہے۔ (اسماعیل علیہ السلام نے) کہا: ابّاجان! وہ کام (فوراً) کر ڈالیے جس کا آپ کو حکم دیا جا رہا ہے۔ اگر اللہ نے چاہا تو آپ مجھے صبر کرنے والوں میں سے پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب وہ لڑکا ابراہیم کے ساتھ چلنے پھرنے کے قابل ہوگیا تو انہوں نے کہا : بیٹے ! میں خواب میں دیکھتا ہوں کہ تمہیں ذبح کر رہا ہوں، اب سوچ کر بتاؤ، تمہاری کیا رائے ہے ؟ بیٹے نے کہا : ابا جان ! آپ وہی کیجیے جس کا آپ کو حکم دیا جارہا ہے۔ انشاء اللہ آپ مجھے صبر کرنے والوں میں سے پائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

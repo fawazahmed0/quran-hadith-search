@@ -3224,6 +3224,12 @@ jung e badr mein Allah ta’ala ne ayn us waqth tumhaari madad farmaayi thi, jab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے بدر میں تمہاری مدد فرمائی حالانکہ تم (اس وقت) بالکل بے سرو سامان تھے پس اللہ سے ڈرا کرو تاکہ تم شکر گزار بن جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے تو (جنگ) بدر کے موقع پر ایسی حالت میں تمہاری مدد کی تھی جب تم بالکل بےسروسامان تھے۔ لہذا (صرف) اللہ کا خوف دل میں رکھو، تاکہ تم شکر گزار بن سکو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wo yahi kehte rahe ke aye parvardigaar hamaare gunaaho ko baqsh de aur hum se ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کا کہنا کچھ نہ تھا سوائے اس التجا کے کہ اے ہمارے رب! ہمارے گناہ بخش دے اور ہمارے کام میں ہم سے ہونے والی زیادتیوں سے درگزر فرما اور ہمیں (اپنی راہ میں) ثابت قدم رکھ اور ہمیں کافروں پر غلبہ عطا فرما
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے منہ سے جو بات نکلی وہ اس کے سوا نہیں تھی کہ وہ کہہ رہے تھے : ہمارے پروردگار ! ہمارے گناہوں کو بھی اور ہم سے اپنے کاموں میں جو زیادتی ہوئی ہو اس کو بھی معاف فرمادے، ہمیں ثابت قدمی بخش دے، اور کافر لوگوں کے مقابلے میں ہمیں فتح عطا فرمادے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

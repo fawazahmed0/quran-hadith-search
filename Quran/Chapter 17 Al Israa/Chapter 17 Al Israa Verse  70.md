@@ -3224,6 +3224,12 @@ yaqinan hum ne aulad aadam ko badi izzath di aur unhe khushki aur tari ki sawaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے بنی آدم کو عزت بخشی اور ہم نے ان کو خشکی اور تری (یعنی شہروں اور صحراؤں اور سمندروں اور دریاؤں) میں (مختلف سواریوں پر) سوار کیا اور ہم نے انہیں پاکیزہ چیزوں سے رزق عطا کیا اور ہم نے انہیں اکثر مخلوقات پر جنہیں ہم نے پیدا کیا ہے فضیلت دے کر برتر بنا دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ ہم نے آدم کی اولاد کو عزت بخشی ہے، اور انہیں خشکی اور سمندر دونوں میں سواریاں مہیا کی ہیں، اور ان کو پاکیزہ چیزوں کا رزق دیا ہے، اور ان کو اپنی بہت سی مخلوقات پر فضیلت عطا کی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

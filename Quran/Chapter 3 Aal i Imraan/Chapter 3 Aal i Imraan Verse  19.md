@@ -3224,6 +3224,12 @@ beshak Allah ta’ala ke nazdeek deen Islaam hee hai aur ahle kitaab ne apne paa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک دین اللہ کے نزدیک اسلام ہی ہے، اور اہلِ کتاب نے جو اپنے پاس علم آجانے کے بعد اختلاف کیا وہ صرف باہمی حسد و عناد کے باعث تھا، اور جو کوئی اللہ کی آیتوں کا انکار کرے تو بیشک اللہ حساب میں جلدی فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک (معتبر) دین تو اللہ کے نزدیک اسلام ہی ہے، اور جن لوگوں کو کتاب دی گئی تھی انہوں نے الگ راستہ لاعلمی میں نہیں بلکہ علم آجانے کے بعد محض آپس کی ضد کی وجہ سے اختیار کیا اور جو شخص بھی اللہ کی آیتوں کو جھٹلائے تو (اسے یاد رکھنا چاہیے کہ) اللہ بہت جلد حساب لینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye imaan waalo! tum apna wali dosth imaan waalo ke siva aur kisi ko na banaao (
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم غیروں کو (اپنا) راز دار نہ بناؤ وہ تمہاری نسبت فتنہ انگیزی میں (کبھی) کمی نہیں کریں گے، وہ تمہیں سخت تکلیف پہنچنے کی خواہش رکھتے ہیں، بغض تو ان کی زبانوں سے خود ظاہر ہو چکا ہے، اور جو (عداوت) ان کے سینوں نے چھپا رکھی ہے وہ اس سے (بھی) بڑھ کر ہے۔ ہم نے تمہارے لئے نشانیاں واضح کر دی ہیں اگر تمہیں عقل ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اپنے سے باہر کے کسی شخص کو رازدار نہ بناؤ، یہ لوگ تمہاری بدخواہی میں کوئی کسر اٹھا نہیں رکھتے۔ ان کی دلی خواہش یہ ہے کہ تم تکلیف اٹھاؤ، بغض ان کے منہ سے ظاہر ہوچکا ہے اور جو کچھ (عداوت) ان کے سینے چھپائے ہوئے ہیں وہ کہیں زیادہ ہے۔ ہم نے پتے کی باتیں تمہیں کھول کھول کر بتادی ہیں، بشرطیکہ تم سمجھ سے کام لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

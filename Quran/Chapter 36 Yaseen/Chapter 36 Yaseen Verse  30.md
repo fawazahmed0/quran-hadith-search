@@ -3224,6 +3224,12 @@ Afsos bandon ke haal par, jo Rasool bhi unke paas aaya uska woh mazaaq hi udatey
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہائے (اُن) بندوں پر افسوس! اُن کے پاس کوئی رسول نہ آتا تھا مگر یہ کہ وہ اس کا مذاق اڑاتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 افسوس ہے ایسے بندوں کے حال پر۔ ان کے پاس کوئی رسول ایسا نہیں آیا جس کا وہ مذاق نہ اڑاتے رہے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

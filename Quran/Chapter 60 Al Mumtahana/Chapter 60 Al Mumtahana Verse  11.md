@@ -3224,6 +3224,12 @@ aur agar tumhaari koyi biwi tumhaare haath se nikal jaaye aur kaafiro ke paas ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تمہاری بیویوں میں سے کوئی تم سے چھوٹ کر کافروں کی طرف چلی جائے پھر (جب) تم جنگ میں غالب آجاؤ اور مالِ غنیمت پاؤ تو (اس میں سے) ان لوگوں کو جن کی عورتیں چلی گئی تھیں اس قدر (مال) ادا کر دو جتنا وہ (اُن کے مَہر میں)خرچ کر چکے تھے، اور اُس اللہ سے ڈرتے رہو جس پر تم ایمان رکھتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہاری بیویوں میں سے کوئی کافروں کے پاس جاکر تمہارے ہاتھ سے نکل جائے، پھر تمہاری نوبت آئے تو جن لوگوں کی بیویاں جاتی رہی ہیں ان کو اتنی رقم ادا کردو جتنی انہوں نے (اپنی ان بیویوں پر) خرچ کی تھی، اور اللہ سے ڈرتے رہو، جس پر تم ایمان لائے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

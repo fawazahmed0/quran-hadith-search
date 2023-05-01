@@ -3224,6 +3224,12 @@ aur yousuf ke kurte ko jhoot moot ke qoon se qoon aalood bhi kar laye thein, baa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ اس کے قمیض پر جھوٹا خون (بھی) لگا کر لے آئے، (یعقوب علیہ السلام نے) کہا: (حقیقت یہ نہیں ہے) بلکہ تمہارے (حاسد) نفسوں نے ایک (بہت بڑا) کام تمہارے لئے آسان اور خوشگوار بنا دیا (جو تم نے کر ڈالا)، پس (اس حادثہ پر) صبر ہی بہتر ہے، اور اللہ ہی سے مدد چاہتا ہوں اس پر جو کچھ تم بیان کر رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ یوسف کی قمیص پر جھوٹ موٹ کا خون بھی لگا کرلے آئے۔ ان کے والد نے کہا : (حقیقت یہ نہیں ہے) بلکہ تمہارے دلوں نے اپنی طرف سے ایک بات بنا لی ہے۔ اب تو میرے لیے صبر ہی بہتر ہے۔ اور جو باتیں تم بنا رہے ہو، ان پر اللہ ہی کی مدد درکار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

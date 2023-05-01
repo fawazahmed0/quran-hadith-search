@@ -3224,6 +3224,12 @@ aur jin logo ne raahe khuda mein tarke watan kiya, phir wo shaheed kar diye gaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے اللہ کی راہ میں (وطن سے) ہجرت کی پھر قتل کر دیئے گئے یا (راہِ حق کی مصیبتیں جھیلتے جھیلتے) مرگئے تو اللہ انہیں ضرور رزقِ حسن (یعنی اُخروی عطاؤں) کی روزی بخشے گا، اور بیشک اللہ سب سے بہتر رزق دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے اللہ کے راستے میں ہجرت کی، پھر قتل کردیے گئے یا ان کا انتقال ہوگیا تو اللہ انہیں ضرور اچھا رزق دے گا، اور یقین رکھو کہ اللہ ہی بہترین رزق دینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

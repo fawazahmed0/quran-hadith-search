@@ -3224,6 +3224,12 @@ pas jo log dunya ki zindagi ko aaqirath ke badhle bech chuke hai unhe Allah ta�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ان (مومنوں) کو اللہ کی راہ میں (حق کی مدد کے لیے) لڑنا چاہیے جو آخرت کے عوض دنیوی زندگی کو بیچ دیتے ہیں، اور جو کوئی اللہ کی راہ میں جنگ کرے، خواہ وہ (خود) قتل ہو جائے یا غالب آجائے تو ہم (دونوں صورتوں میں) عنقریب اسے عظیم اجر عطا فرمائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اللہ کے راستے میں وہ لوگ لڑیں جو دنیوی زندگی کو آخرت کے بدلے بیچ دیں۔ اور جو اللہ کے راستے میں لڑے گا، پھر چاہے قتل ہوجائے یا غالب آجائے، (ہر صورت میں) ہم اس کو زبردست ثواب عطا کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

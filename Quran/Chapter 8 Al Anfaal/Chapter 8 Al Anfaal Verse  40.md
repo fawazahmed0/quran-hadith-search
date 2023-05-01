@@ -3224,6 +3224,12 @@ aur agar ru-gardani kare tuh yaqin rakhe ke Allah tala tumhara kaar-saaz hai, wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر انہوں نے (اطاعتِ حق سے) روگردانی کی تو جان لو کہ بیشک اللہ ہی تمہارا مولیٰ (یعنی حمایتی) ہے، (وہی) بہتر حمایتی اور بہتر مددگار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر یہ منہ موڑے رکھیں تو یقین جانو کہ اللہ تمہارا رکھوالا ہے، بہترین رکھوالا اور بہترین مددگار۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

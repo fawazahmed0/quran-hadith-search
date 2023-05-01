@@ -3224,6 +3224,12 @@ Allah ta’ala ko qurbaaniyo ke gosht nahi pahonchte, na un ke qoon, balke ose t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہرگز نہ (تو) اللہ کو ان (قربانیوں) کا گوشت پہنچتا ہے اور نہ ان کا خون مگر اسے تمہاری طرف سے تقوٰی پہنچتا ہے، اس طرح (اللہ نے) انہیں تمہارے تابع کر دیا ہے تاکہ تم (وقتِ ذبح) اللہ کی تکبیر کہو جیسے اس نے تمہیں ہدایت فرمائی ہے، اور آپ نیکی کرنے والوں کو خوشخبری سنا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کو نہ ان کا گوشت پہنچتا ہے نہ ان کا خون، لیکن اس کے پاس تمہارا تقوی پہنچتا ہے، اس نے یہ جانور اسی طرح تمہارے تابع بنا دئیے ہیں تاکہ تم اس بات پر اللہ کی تکبیر کرو کہ اس نے تمہیں ہدایت عطا فرمائی، اور جو لوگ خوش اسلوبی سے نیک عمل کرتے ہیں، انہیں خوشخبری سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

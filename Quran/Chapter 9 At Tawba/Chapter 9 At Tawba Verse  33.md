@@ -3224,6 +3224,12 @@ osi ne apne rasol ko hidayath aur sacche deen ke sath bheja hai ke ose aur tamam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی (اللہ) ہے جس نے اپنے رسول (صلی اللہ علیہ وآلہ وسلم) کو ہدایت اور دینِ حق کے ساتھ بھیجا تاکہ اس (رسول صلی اللہ علیہ وآلہ وسلم) کو ہر دین (والے) پر غالب کر دے اگرچہ مشرکین کو برا لگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ ہی تو ہے جس نے اپنے رسول کو ہدایت اور سچا دین دے کر بھیجا ہے، تاکہ اسے ہر دوسرے دین پر غالب کردے، چاہے مشرک لوگوں کو یہ بات کتنی ناپسند ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

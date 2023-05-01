@@ -3224,6 +3224,12 @@ gunaahgaar sirf hulye se hee pehchaan liye jayenge aur un ki peshaaniyo ke baal 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مجرِم لوگ اپنے چہروں کی سیاہی سے پہچان لئے جائیں گے پس انہیں پیشانی کے بالوں اور پاؤں سے پکڑ کر کھینچا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مجرم لوگوں کو ان کی علامتوں سے پہچان لیا جائے گا، پھر انہیں سر کے بالوں اور پاؤں سے پکڑا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

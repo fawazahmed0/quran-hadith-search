@@ -3224,6 +3224,12 @@ apne rub ki raah ki taraf logo ko hikmath aur behetreen nasihath ke saath bulaiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے رسولِ معظّم!) آپ اپنے رب کی راہ کی طرف حکمت اور عمدہ نصیحت کے ساتھ بلائیے اور ان سے بحث (بھی) ایسے انداز سے کیجئے جو نہایت حسین ہو، بیشک آپ کا رب اس شخص کو (بھی) خوب جانتا ہے جو اس کی راہ سے بھٹک گیا اور وہ ہدایت یافتہ لوگوں کو (بھی) خوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اپنے رب کے راستے کی طرف لوگوں کو حکمت کے ساتھ اور خوش اسلوبی سے نصیحت کر کے دعوت دو ، اور (اگر بحث کی نوبت آئے تو) ان سے بحث بھی ایسے طریقے سے کرو جو بہترین ہو۔ یقینا تمہارا پروردگار ان لوگوں کو بھی خوب جانتا ہے جو اس کے راستے سے بھٹک گئے ہیں، اور ان سے بھی خوب واقف ہے جو راہ راست پر قائم ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

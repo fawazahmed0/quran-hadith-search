@@ -3224,6 +3224,12 @@ agar aap un se daryaaft kare ke asmaano aur zameen ko kis ne payda kiya to yaqin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ اُن سے پوچھیں کہ آسمانوں اور زمین کو کِس نے پیدا کیا تو وہ یقیناً کہیں گے کہ انہیں غالب، علم والے (رب) نے پیدا کیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم ان (مشرکوں) سے پوچھو کہ سارے آسمان اور زمین کس نے پیدا کیے ہیں، تو وہ ضرور یہی کہیں گے کہ : انہیں اس ذات نے پیدا کیا ہے جو اقتدار کی بھی مالک ہے، علم کی بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

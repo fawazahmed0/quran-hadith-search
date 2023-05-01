@@ -3224,6 +3224,12 @@ phir darde zeh ose ek khajoor ke-ta ne ke niche le ayaa, boli kaash! main is se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر دردِ زہ انہیں ایک کھجور کے تنے کی طرف لے آیا، وہ (پریشانی کے عالم میں) کہنے لگیں: اے کاش! میں پہلے سے مرگئی ہوتی اور بالکل بھولی بسری ہوچکی ہوتی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر زچگی کے درد نے انہیں ایک کھجور کے درخت کے پاس پہنچا دیا۔ وہ کہنے لگیں : کاش کہ میں اس سے پہلے ہی مرگئی ہوتی، اور مر کر بھولی بسری ہوجاتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

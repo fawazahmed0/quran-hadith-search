@@ -3224,6 +3224,12 @@ aur jis ka un se hum wada kar rahe hai,is mein se kuch thoda sa agar hum aap ko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور خواہ ہم آپ کو اس (عذاب) کا کچھ حصہ (دنیا میں ہی) دکھا دیں جس کا ہم ان سے وعدہ کر رہے ہیں (اور ہم آپ کی حیاتِ مبارکہ میں ایسا کریں گے) یا (اس سے پہلے) ہم آپ کو وفات بخش دیں، تو انہیں (بہر صورت) ہماری ہی طرف لوٹنا ہے، پھر اللہ (خود) اس پر گواہ ہے جو کچھ وہ کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جن باتوں کی ہم نے ان (کافروں کو) دھمکی دی ہوئی ہے، چاہے ان میں سے کوئی بات ہم تمہیں (تمہاری زندگی میں) دکھا دیں، یا (اس سے پہلے) تمہاری روح قبض کرلیں، بہرصورت ان کو آخر میں ہماری طرف ہی لوٹنا ہے، پھر (یہ تو ظاہر ہی ہے کہ) جو کچھ یہ کرتے ہیں، اللہ اس کا پورا پورا مشاہدہ کر رہا ہے۔ (لہذا وہاں ان کو سزا دے گا)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

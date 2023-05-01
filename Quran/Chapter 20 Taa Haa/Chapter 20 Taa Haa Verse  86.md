@@ -3224,6 +3224,12 @@ pas Mosa!(alaihissalaam) saqth ghazabnaak ho kar ranj ke saath waapas laute, aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس موسٰی (علیہ السلام) اپنی قوم کی طرف سخت غضبناک (اور) رنجیدہ ہوکر پلٹ گئے (اور) فرمایا: اے میری قوم! کیا تمہارے رب نے تم سے ایک اچھا وعدہ نہیں فرمایا تھا، کیا تم پر وعدہ (کے پورے ہونے) میں طویل مدت گزر گئی تھی، کیا تم نے یہ چاہا کہ تم پر تمہارے رب کی طرف سے غضب واجب (اور نازل) ہوجائے؟ پس تم نے میرے وعدہ کی خلاف ورزی کی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ موسیٰ غم و غصے میں بھرے ہوئے اپنی قوم کے پاس واپس لوٹے۔ کہنے لگے : میری قوم کے لوگو ! کیا تمہارے پروردگار نے تم سے ایک اچھا وعدہ نہیں کیا تھا ؟ تو کیا تم پر کوئی بہت لمبی مدت گزر گئی تھی، یا تم چاہتے ہی یہ تھے کہ تم پر تمہارے رب کا غضب نازل ہوجائے، اور اس وجہ سے تم نے مجھ سے وعدہ خلافی کی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jis din baaz chehre safed honge aur baaz siyaah, siyaah chehre waalo (se kaha ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن کئی چہرے سفید ہوں گے اور کئی چہرے سیاہ ہوں گے، تو جن کے چہرے سیاہ ہو جائیں گے (ان سے کہا جائے گا:) کیا تم نے ایمان لانے کے بعد کفر کیا؟ تو جو کفر تم کرتے رہے تھے سواس کے عذاب (کا مزہ) چکھ لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن جب کچھ چہرے چمکتے ہوں گے اور کچھ چہرے سیاہ پڑجائیں گے۔ چنانچہ جن لوگوں کے چہرے سیاہ پڑجائیں گے ان سے کہا جائے گا کہ : کیا تم نے اپنے ایمان کے بعد کفر اختیار کرلیا ؟ لو پھر اب مزہ چکھو اس عذاب کا، کیونکہ تم کفر کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

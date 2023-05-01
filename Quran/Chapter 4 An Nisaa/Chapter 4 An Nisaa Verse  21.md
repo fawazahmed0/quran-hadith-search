@@ -3224,6 +3224,12 @@ tum ose kaise le loge, halaan ke tum ek dosre se mil chuke ho aur un aurto ne tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اسے کیسے واپس لے سکتے ہو حالانکہ تم ایک دوسرے سے پہلو بہ پہلو مل چکے ہو اور وہ تم سے پختہ عہد (بھی) لے چکی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آخر تم کیسے (وہ مہر) واپس لے سکتے ہو جبکہ تم ایک دوسرے کے اتنے قریب ہوچکے تھے اور انہوں نے تم سے بڑا بھاری عہد لیا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

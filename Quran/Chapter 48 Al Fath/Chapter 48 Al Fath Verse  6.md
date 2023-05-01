@@ -3224,6 +3224,12 @@ aur ta ke un munaafiq mardo aur munaafiq aurto aur mushrik mardo aur mushrika au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اس لئے بھی کہ ان) منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو عذاب دے جو اللہ کے ساتھ بُری بدگمانیاں رکھتے ہیں، انہی پر بُری گردش (مقرر) ہے، اور ان پر اللہ نے غضب فرمایا اور ان پر لعنت فرمائی اور ان کے لئے دوزخ تیار کی، اور وہ بہت بُرا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تاکہ ان منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو عذاب دے جو اللہ کے ساتھ بدگمانیاں رکھتے ہیں، برائی کا پھیرا انہی پر پڑا ہوا ہے، اور اللہ ان سے ناراض ہے اس نے ان کو اپنی رحمت سے دور کردیا ہے، اور ان کے لیے جہنم تیار کر رکھی ہے، اور وہ بہت ہی برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

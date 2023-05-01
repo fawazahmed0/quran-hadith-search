@@ -3224,6 +3224,12 @@ asmaano aur zameen aur arsh ka rab jo kuch ye bayaan karte hai us se (bahuth) pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آسمانوں اور زمین کا پروردگار، عرش کا مالک پاک ہے اُن باتوں سے جو یہ بیان کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جو آسمانوں اور زمین کا بھی مالک ہے، عرش کا بھی مالک، وہ ان ساری باتوں سے پاک ہے جو یہ بنایا کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

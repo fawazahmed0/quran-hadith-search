@@ -3224,6 +3224,12 @@ jab wo duno darya ke sangam par pahonche wahaan apni machli bhol gaye jisne dary
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو جب وہ دونوں دو دریاؤں کے درمیان سنگم پر پہنچے تو وہ دونوں اپنی مچھلی (وہیں) بھول گئے پس وہ (تلی ہوئی مچھلی زندہ ہوکر) دریا میں سرنگ کی طرح اپنا راستہ بناتے ہوئے نکل گئی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب وہ ان کے سنگھم پر پہنچے تو دونوں اپنی مچھلی کو بھول گئے، اور اس نے سمندر میں ایک سرنگ کی طرح کا راستہ بنا لیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

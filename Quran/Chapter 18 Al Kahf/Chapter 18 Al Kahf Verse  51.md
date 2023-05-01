@@ -3224,6 +3224,12 @@ main ne unhe aasmaano aur zameen ki paidayish ke waqt maujoodh nahi rakha tha au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+میں نے نہ (تو) انہیں آسمانوں اور زمین کی تخلیق پر (معاونت یا گواہی کے لئے) بلایا تھا اور نہ خود ان کی اپنی تخلیق (کے وقت)، اور نہ (ہی) میں ایسا تھا کہ گمراہ کرنے والوں کو (اپنا) دست و بازو بناتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں نے نہ آسمانوں اور زمین کی تخلیق کے وقت ان کو حاضر کیا تھا، نہ خود ان کو پیدا کرتے وقت، اور میں ایسا نہیں ہوں کہ گمراہ کرنے والوں کو دست وبازو بناؤں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

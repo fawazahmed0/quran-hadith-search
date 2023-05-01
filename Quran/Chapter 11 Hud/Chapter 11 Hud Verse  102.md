@@ -3224,6 +3224,12 @@ tere parvardigaar ki pakad ka yahi tariqa hai jab ke wo bastiyo ke rehne wale za
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح آپ کے رب کی پکڑ ہوا کرتی ہے جب وہ بستیوں کی اس حال میں گرفت فرماتا ہے کہ وہ ظالم (بن چکی) ہوتی ہیں۔ بیشک اس کی گرفت دردناک (اور) سخت ہوتی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو بستیاں ظالم ہوتی ہیں، تمہارا رب جب ان کو گرفت میں لیتا ہے تو اس کی پکڑ ایسی ہی ہوتی ہے۔ واقعی اس کی پکڑ بڑی دردناک، بڑی سخت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

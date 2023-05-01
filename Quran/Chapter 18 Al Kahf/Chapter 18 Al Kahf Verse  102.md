@@ -3224,6 +3224,12 @@ kya kaafir ye qayaal kiye baithe hain? ke mere siva wo mere bandho ko apna himaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا کافر لوگ یہ سمجھتے ہیں کہ وہ مجھے چھوڑ کر میرے بندوں کو کار ساز بنا لیں گے، بیشک ہم نے کافروں کے لئے جہنم کی میزبانی کو تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا ہے، کیا وہ پھر بھی یہ سمجھتے ہیں کہ مجھے چھوڑ کر میرے ہی بندوں کو اپنا رکھوالا بنالیں گے ؟ یقین رکھو کہ ہم نے ایسے کافروں کی مہمانی کے لیے دوزخ تیار کر رکھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

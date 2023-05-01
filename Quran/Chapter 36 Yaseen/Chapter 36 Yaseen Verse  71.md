@@ -3224,6 +3224,12 @@ kya wo nahi dekhte ke hum ne apne haatho banaayi hoyi chizo mein se un ke liye c
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے نہیں دیکھا کہ ہم نے اپنے دستِ قدرت سے بنائی ہوئی (مخلوق) میں سے اُن کے لئے چوپائے پیدا کیے تو وہ ان کے مالک ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا انہوں نے یہ نہیں دیکھا کہ ہم نے اپنے ہاتھوں کی بنائی ہوئی چیزوں میں سے ان کے لیے مویشی پیدا کیے، اور یہ ان کے مالک بنے ہوئے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

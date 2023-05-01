@@ -3224,6 +3224,12 @@ aye imaan waalo! Allah ta’ala ne jo paakiza chize tumhaare waaste halaal ki ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! جو پاکیزہ چیزیں اللہ نے تمہارے لئے حلال کی ہیں انہیں (اپنے اوپر) حرام مت ٹھہراؤ اور نہ (ہی) حد سے بڑھو، بیشک اللہ حد سے تجاوز کرنے والوں کو پسند نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ نے تمہارے لیے جو پاکیزہ چیزیں حلال کی ہیں ان کو حرام قرار دنہ دو ، اور حد سے تجاوز نہ کرو۔ یقین جانو کہ اللہ حد سے تجاوز کرنے والوں کو پسند نہیں کرتا۔ ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

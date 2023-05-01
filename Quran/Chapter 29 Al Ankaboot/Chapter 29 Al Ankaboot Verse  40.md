@@ -3224,6 +3224,12 @@ phir to har ek ko hum ne us ke gunaah ke wabaal mein giraftaar kar liya, un mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو ہم نے (ان میں سے) ہر ایک کو اس کے گناہ کے باعث پکڑ لیا، اور ان میں سے وہ (طبقہ بھی) تھا جس پر ہم نے پتھر برسانے والی آندھی بھیجی اوران میں سے وہ (طبقہ بھی) تھا جسے دہشت ناک آواز نے آپکڑا اور ان میں سے وہ (طبقہ بھی) تھا جسے ہم نے زمین میں دھنسا دیا اور ان میں سے (ایک) وہ (طبقہ بھی) تھا جسے ہم نے غرق کر دیا اور ہرگز ایسا نہ تھا کہ اللہ ان پر ظلم کرے بلکہ وہ خود ہی اپنی جانوں پر ظلم کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ان سب کو ان کے گناہوں کی وجہ سے پکڑ میں لیا، چنانچہ ان میں سے کچھ وہ تھے جن پر ہم نے پتھراؤ کرنے والی ہوا بھیجی اور کچھ وہ تھے جن کو ایک چنگھاڑ نے آپکڑا، اور کچھ وہ تھے جن کو ہم نے زمین میں دھنسا دیا، اور کچھ وہ جنہیں ہم نے پانی میں غرق کردیا۔ اور اللہ ایسا نہیں تھا کہ ان پر ظلم کرتا، لیکن یہ لوگ خود اپنی جانوں پر ظلم کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

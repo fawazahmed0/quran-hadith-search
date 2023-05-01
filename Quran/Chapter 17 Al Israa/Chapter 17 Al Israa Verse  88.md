@@ -3224,6 +3224,12 @@ keh dijiye ke agar tamaam insaan aur kul jinnaath mil kar is Qur’an ke misl la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: اگر تمام انسان اور جنّات اس بات پر جمع ہو جائیں کہ وہ اس قرآن کے مثل (کوئی دوسرا کلام بنا) لائیں گے تو (بھی) وہ اس کی مثل نہیں لاسکتے اگرچہ وہ ایک دوسرے کے مددگار بن جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اگر تمام انسان اور جنات اس کام پر اکٹھے بھی ہوجائیں کہ اس قرآن جیسا کلام بنا کرلے آئیں، تب بھی وہ اس جیسا نہیں لاسکیں گے، چاہے وہ ایک دوسرے کی کتنی مدد کرلیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Ibraheem to na yahoodi thein na nasraani thein, balke wo to ek tarfa (qaalis) mu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ابراہیم (علیہ السلام) نہ یہودی تھے اور نہ نصرانی وہ ہر باطل سے جدا رہنے والے (سچے) مسلمان تھے، اور وہ مشرکوں میں سے بھی نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابراہیم نہ یہودی تھے، نہ نصرانی، بلکہ وہ تو سیدھے سیدھے مسلمان تھے، اور شرک کرنے والوں میں کبھی شامل نہیں ہوئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

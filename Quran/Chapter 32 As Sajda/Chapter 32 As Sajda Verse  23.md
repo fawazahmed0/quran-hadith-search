@@ -3224,6 +3224,12 @@ beshak hum ne Mosa(alaihissalaam) ko kitaab di, pas aap ko har giz us ki mulaqaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بے شک ہم نے موسٰی (علیہ السلام) کو کتابِ (تورات) عطا فرمائی، سو تم اُن کی ملاقات کی نسبت شک میں نہ رہو اور ہم نے اسے بنی اسرائیل کے لیے ہدایت بنایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ ہم نے موسیٰ کو کتاب دی تھی، لہذا (اے پیغمبر) تم اس کے ملنے کے بارے میں کسی شک میں نہ رہو۔ اور ہم نے اس کتاب کو بنو اسرائیل کے لیے ہدایت بنایا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

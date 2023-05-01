@@ -3224,6 +3224,12 @@ to apne rab ke hukm ke intezaar mein sabr se kaam le, beshak tu hamaari aankho k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیبِ مکرّم! اِن کی باتوں سے غم زدہ نہ ہوں) آپ اپنے رب کے حکم کی خاطر صبر جاری رکھئے بیشک آپ (ہر وقت) ہماری آنکھوں کے سامنے (رہتے) ہیں٭ اور آپ اپنے رب کی حمد کے ساتھ تسبیح کیجئے جب بھی آپ کھڑے ہوںo٭ اگر ان ظالموں نے نگاہیں پھیر لی ہیں تو کیا ہوا، ہم تو آپ کی طرف سے نگاہیں ہٹاتے ہی نہیں ہیں اور ہم ہر وقت آپ کو ہی تکتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم اپنے پروردگار کے حکم پر جمے رہو، کیونکہ تم ہماری نگاہوں میں ہو، اور جب تم اٹھتے ہو اس وقت اپنے پروردگار کی حمد کے ساتھ اس کی تسبیح کیا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

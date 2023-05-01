@@ -3224,6 +3224,12 @@ un ke rab ne jo kuch unhe ata farmaya hai, ose le rahe honge, wo to us se pehle 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُن نعمتوں کو (کیف و سرور) سے لیتے ہوں گے جو اُن کا رب انہیں (لطف و کرم سے) دیتا ہوگا، بیشک یہ وہ لوگ ہیں جو اس سے قبل (کی زندگی میں) صاحبانِ احسان تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ ان کا پروردگار انہیں جو کچھ دے گا، اسے وصول کر رہے ہوں گے۔ وہ لوگ اس سے پہلے ہی نیک عمل کرنے والے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

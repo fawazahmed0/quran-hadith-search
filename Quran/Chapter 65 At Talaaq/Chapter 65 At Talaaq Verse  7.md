@@ -3224,6 +3224,12 @@ kushaadgi waale ko apni kushaadgi se qarch karna chahiye aur jis par us ke rizq 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+صاحبِ وسعت کو اپنی وسعت (کے لحاظ) سے خرچ کرنا چاہئے، اور جس شخص پر اُس کا رِزق تنگ کر دیا گیا ہو تو وہ اُسی (روزی) میں سے (بطورِ نفقہ) خرچ کرے جو اُسے اللہ نے عطا فرمائی ہے۔ اللہ کسی شخص کو مکلّف نہیں ٹھہراتا مگر اسی قدر جتنا کہ اُس نے اسے عطا فرما رکھا ہے، اللہ عنقریب تنگی کے بعد کشائش پیدا فرما دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہر وسعت رکھنے والا اپنی وسعت کے مطابق نفقہ دے۔ اور جس شخص کے لیے اس کا رزق تنگ کردیا گیا ہو، تو جو کچھ اللہ نے اسے دیا ہے وہ اسی میں سے نفقہ دے، اللہ نے کسی کو جتنا دیا ہے، اس پر اس سے زیادہ کا بوجھ نہیں ڈالتا۔ کوئی مشکل ہو تو اللہ اس کے بعد کوئی آسانی بھی پیدا کردے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

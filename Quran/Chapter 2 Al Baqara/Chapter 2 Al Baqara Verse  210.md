@@ -3224,6 +3224,12 @@ kya logo ko is baath ka intezaar hai ke un ke paas khud Allah ta’ala abr ke sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ اسی بات کے منتظر ہیں کہ بادل کے سائبانوں میں اللہ (کا عذاب) آجائے اور فرشتے بھی (نیچے اتر آئیں) اور (سارا) قصہ تمام ہو جائے، تو سارے کام اللہ ہی کی طرف لوٹائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ (کفار ایمان لانے کے لیے) اس کے سوا کس بات کا انتظار کر رہے ہیں کہ اللہ خود بادل کے سائبانوں میں ان کے سامنے آموجود ہو، اور فرشتے بھی (اس کے ساتھ ہوں) اور سارا معاملہ ابھی چکا دیا جائے ؟ حالانکہ آخر کار سارے معاملات اللہ ہی کی طرف تو لوٹ کر رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

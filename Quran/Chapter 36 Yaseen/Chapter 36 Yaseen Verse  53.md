@@ -3224,6 +3224,12 @@ ye nahi hai magar ek cheeq, ke yeka yek saare ke saare hamaare saamne haazir kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ محض ایک بہت سخت چنگھاڑ ہوگی تو وہ سب کے سب یکایک ہمارے حضور لا کر حاضر کر دیئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کچھ نہیں، بس ایک زور کی آواز ہوگی، جس کے بعد یہ سب کے سب ہمارے سامنے حاضر کردیے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

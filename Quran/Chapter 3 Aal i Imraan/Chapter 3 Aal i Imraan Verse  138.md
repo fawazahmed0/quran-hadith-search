@@ -3224,6 +3224,12 @@ aam logo ke liye to ye (Qur’aan) bayaan hai aur parhezgaaro ke liye hidaayath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ قرآن لوگوں کے لئے واضح بیان ہے اور ہدایت ہے اور پرہیزگاروں کے لئے نصیحت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ تمام لوگوں کے لیے واضح اعلان ہے اور پرہیزگاروں کے لیے ہدایت اور نصیحت۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

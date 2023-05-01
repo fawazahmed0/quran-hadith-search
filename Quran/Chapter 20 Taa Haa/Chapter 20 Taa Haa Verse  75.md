@@ -3224,6 +3224,12 @@ aur jo bhi us ke paas imaan ki haalath mein haazir hoga aur us ne amaal bhi nek 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص اس کے حضور مومن بن کر آئے گا (مزید یہ کہ) اس نے نیک عمل کئے ہوں گے تو ان ہی لوگوں کے لئے بلند درجات ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص اس کے پاس مومن بن کر آئے گا جس نے نیک عمل بھی کیے ہوں گے، تو ایسے ہی لوگوں کے لیے بلند درجات ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

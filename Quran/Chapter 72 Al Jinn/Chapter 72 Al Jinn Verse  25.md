@@ -3224,6 +3224,12 @@ keh dijiye ke mujhe maloom nahi ke jis ka waada tum se kiya jaata hai, wo qareeb
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں: میں نہیں جانتا کہ جس (روزِ قیامت) کا تم سے وعدہ کیا جا رہا ہے وہ قریب ہے یا اس کے لئے میرے رب نے طویل مدت مقرر فرما دی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : مجھے معلوم نہیں ہے کہ جس چیز سے تمہیں ڈرایا جارہا ہے، آیا وہ نزدیک ہے یا میرا پروردگار اس کے لیے کوئی لمبی مدت مقرر فرماتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

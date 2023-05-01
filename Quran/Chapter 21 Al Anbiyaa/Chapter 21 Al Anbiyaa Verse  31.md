@@ -3224,6 +3224,12 @@ aur hum ne zameen mein pahaad bana diye, ta ke wo maqlooq ko hala na sa ke aur h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے زمین میں مضبوط پہاڑ بنا دیئے تاکہ ایسا نہ ہو کہ کہیں وہ (اپنے مدار میں حرکت کرتے ہوئے) انہیں لے کر کانپنے لگے اور ہم نے اس (زمین) میں کشادہ راستے بنائے تاکہ لوگ (مختلف منزلوں تک پہنچنے کے لئے) راہ پاسکیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے زمین میں جمے ہوئے پہاڑ پیدا کیے ہیں تاکہ وہ انہیں لے کر ہلنے نہ پائے، اور اس میں ہم نے چوڑے چوڑے راستے بنائے ہیں، تاکہ وہ منزل تک پہنچ سکیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

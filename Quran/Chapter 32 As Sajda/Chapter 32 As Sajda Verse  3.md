@@ -3224,6 +3224,12 @@ kya ye kehte hai ke is ne ose ghad liya hai (nahi nahi) balke ye tere rab ta’a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا کفار و مشرکین یہ کہتے ہیں کہ اسے اس (رسول) نے گھڑ لیا ہے۔ بلکہ وہ آپ کے رب کی طرف سے حق ہے تاکہ آپ اس قوم کو ڈر سنائیں جن کے پاس آپ سے پہلے کوئی ڈر سنانے والا نہیں آیا تاکہ وہ ہدایت پائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا لوگ یہ کہہ رہے ہیں کہ پیغمبر نے اسے خود گھڑ لیا ہے ؟ نہیں (اے پیغمبر) یہ تو وہ حق ہے جو تمہارے پروردگار کی طرف سے اس لیے آیا ہے کہ تم اس کے ذریعے ان لوگوں کو خبردار کرو جن کے پاس تم سے پہلے کوئی خبردار کرنے والا نہیں آیا، تاکہ وہ صحیح راستے پر آجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

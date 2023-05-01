@@ -3224,6 +3224,12 @@ kehne lage ke kya hum apne jaise do shaqso par imaan laaye? halaan ke khud un ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو انہوں نے (بھی یہی) کہا کہ کیا ہم اپنے جیسے دو بشروں پر ایمان لے آئیں حالانکہ ان کی قوم کے لوگ ہماری پرستش کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ کہنے لگے : کیا ہم اپنے جیسے دو آدمیوں پر ایمان لے آئیں، حالانکہ ان کی قوم ہماری غلامی کر رہی ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

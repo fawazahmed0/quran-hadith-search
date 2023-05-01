@@ -3224,6 +3224,12 @@ aur jab aap ke rab ne Mosa(alaihissalaam) ko awaaz di, ke tu zaalim khaum ke paa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ واقعہ یاد کیجئے) جب آپ کے رب نے موسٰی (علیہ السلام) کو نِدا دی کہ تم ظالموں کی قوم کے پاس جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس وقت کا حال سنو جب تمہارے پروردگار نے موسیٰ کو آواز دے کر کہا تھا کہ : اس ظالم قوم کے پاس جاؤ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar hum us se pehle hee unhe azaab se halaak kar dete, to yaqinan ye keh ut
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم ان لوگوں کو اس سے پہلے (ہی) کسی عذاب کے ذریعہ ہلاک کرڈالتے تو یہ کہتے: اے ہمارے رب! تو نے ہمارے پاس کسی رسول کو کیوں نہ بھیجا کہ ہم تیری آیتوں کی پیروی کرلیتے اس سے قبل کہ ہم ذلیل اور رسوا ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم انہیں اس (قرآن) سے پہلے ان کو کسی عذاب سے ہلاک کردیتے تو یہ لوگ کہتے کہ : ہمارے پروردگار ! آپ نے ہمارے پاس کوئی پیغمبر کیوں نہیں بھیجا، تاکہ ہم ذلیل اور رسوا ہونے سے پہلے آپ کی آیتوں کی پیروی کرتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

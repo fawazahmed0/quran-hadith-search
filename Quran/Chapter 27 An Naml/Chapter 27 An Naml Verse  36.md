@@ -3224,6 +3224,12 @@ pas jab qaasidh (hazrath) Sulaimaan(alaihissalaam) ke paas pahoncha, to aap ne f
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو جب وہ (قاصد) سلیمان (علیہ السلام) کے پاس آیا (تو سلیمان علیہ السلام نے اس سے) فرمایا: کیا تم لوگ مال و دولت سے میری مدد کرنا چاہتے ہو۔ سو جو کچھ اللہ نے مجھے عطا فرمایا ہے اس (دولت) سے بہتر ہے جو اس نے تمہیں عطا کی ہے بلکہ تم ہی ہو جو اپنے تحفہ سے فرحاں (اور) نازاں ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب ایلچی سلیمان کے پاس پہنچا تو انہوں نے کہا : کیا تم مال سے میری امداد کرنا چاہتے ہو ؟ اس کا جواب یہ ہے کہ اللہ نے جو کچھ مجھے دیا ہے وہ اس سے کہیں بہتر ہے جو تمہیں دیا ہے، البتہ تم ہی لوگ اپنے تحفے پر خوش ہوتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

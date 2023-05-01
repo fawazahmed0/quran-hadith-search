@@ -3224,6 +3224,12 @@ jo Allah ki raah se rokte hai aur us mein kaji talaash kar lete hai, yahi aqirat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ (دوسروں کو) اللہ کی راہ سے روکتے ہیں اور اس میں کجی تلاش کرتے ہیں، اور وہی لوگ آخرت کے منکر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اللہ کے راستے سے دوسروں کو روکتے تھے، اور اس میں کجی تلاش کرتے تھے اور آخرت کے تو وہ بالکل ہی منکر تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

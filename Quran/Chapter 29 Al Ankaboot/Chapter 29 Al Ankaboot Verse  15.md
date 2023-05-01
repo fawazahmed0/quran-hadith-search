@@ -3224,6 +3224,12 @@ phir hum ne unhe aur kashti waalo ko najaath di aur is waaqe ko hum ne tamaam ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے نوح (علیہ السلام) کو اور (ان کے ہمراہ) کشتی والوں کو نجات بخشی اور ہم نے اس (کشتی اور واقعہ) کو تمام جہان والوں کے لئے نشانی بنا دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے نوح کو اور کشتی والوں کو بچا لیا، اور ہم نے اس کو دنیا جہان والوں کے لیے ایک عبرت بنادیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

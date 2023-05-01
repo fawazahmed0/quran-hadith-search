@@ -3224,6 +3224,12 @@ jo hamaari aankho ke saamne chal rahi thi, badhla us ki taraf se jis ka kufr kiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو ہماری نگاہوں کے سامنے (ہماری حفاظت میں) چلتی تھی، (یہ سب کچھ) اس (ایک) شخص (نوح علیہ السلام) کا بدلہ لینے کی خاطر تھا جس کا انکار کیا گیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو ہماری نگرانی میں رواں دواں تھی، تاکہ اس (پیغمبر) کا بدلہ لیا جائے جس کی ناقدری کی گئی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

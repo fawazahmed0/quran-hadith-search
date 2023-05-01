@@ -3224,6 +3224,12 @@ aur bil shuba hum ne Mosa(alaihissalaam) ko kitaab di aur un ke hamraah un ke bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے موسٰی (علیہ السلام) کو کتاب عطا فرمائی اور ہم نے ان کے ساتھ (ان کی معاونت کے لئے) ان کے بھائی ہارون (علیہ السلام) کو وزیر بنایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک ہم نے موسیٰ کو کتاب دی تھی، اور ان کے ساتھ ان کے بھائی ہارون کو مددگار کے طور پر مقرر کیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

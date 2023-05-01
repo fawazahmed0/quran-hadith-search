@@ -3224,6 +3224,12 @@ wo kahega ke kaash ke main ne apni is zindagi ke liye kuch peshgi samaan kiya ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہے گا: اے کاش! میں نے اپنی (اس اصل) زندگی کے لئے (کچھ) آگے بھیج دیا ہوتا (جو آج میرے کام آتا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہے گا کہ : کاش ! میں نے اپنی اس زندگی کے لیے کچھ آگے بھیج دیا ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

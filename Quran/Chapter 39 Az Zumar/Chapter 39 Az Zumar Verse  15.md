@@ -3224,6 +3224,12 @@ tum us ke siva jis ki chaaho ibaadath karte raho, keh dijiye ke haqiqi ziya kaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو تم اللہ کے سوا جس کی چاہو پوجا کرو، فرما دیجئے: بے شک نقصان اٹھانے والے وہی لوگ ہیں جنہوں نے قیامت کے دن اپنی جانوں کو اور اپنے گھر والوں کو خسارہ میں ڈالا۔ یاد رکھو یہی کھلا نقصان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب تم اسے چھوڑ کر جس کی چاہو، عبادت کرو۔ کہہ دو کہ : گھاٹے کا سودا کرنے والے تو وہ ہیں جو قیامت کے دن اپنی جانوں اور اپنے گھر والوں سب کو ہرا بیٹھیں گے۔ یاد رکھو کہ کھلا ہوا گھاٹا یہی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

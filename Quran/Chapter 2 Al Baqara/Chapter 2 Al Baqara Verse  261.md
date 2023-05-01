@@ -3224,6 +3224,12 @@ jo log apna maal Allah ta’ala ki raah mein qarch karte hai, un ki misaal us da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ اللہ کی راہ میں اپنے مال خرچ کرتے ہیں ان کی مثال (اس) دانے کی سی ہے جس سے سات بالیاں اگیں (اور پھر) ہر بالی میں سو دانے ہوں (یعنی سات سو گنا اجر پاتے ہیں)، اور اللہ جس کے لئے چاہتا ہے (اس سے بھی) اضافہ فرما دیتا ہے، اور اللہ بڑی وسعت والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اللہ کے راستے میں اپنے مال خرچ کرتے ہیں ان کی مثال ایسی ہے جیسے ایک دانہ سات بالیں اگائے (اور) ہر بالی میں سو دانے ہوں اور اللہ جس کے لیے چاہتا ہے (ثواب میں) کئی گنا اضافہ کردیتا ہے، اللہ بہت وسعت والا (اور) بڑے علم والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

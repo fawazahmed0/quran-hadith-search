@@ -3224,6 +3224,12 @@ tere parvardigaar ki qasam! hum unhe aur shaitano ko jama kar ke zaroor zaroor j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ کے رب کی قسم ہم ان کو اور (جملہ) شیطانوں کو (قیامت کے دن) ضرور جمع کریں گے پھر ہم ان (سب) کو جہنم کے گرد ضرور حاضر کر دیں گے اس طرح کہ وہ گھٹنوں کے بل گرے پڑے ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو قسم ہے تمہارے پروردگار کی ! ہم ان کو اور ان کے ساتھ سارے شیطانوں کو ضرور اکٹھا کریں گے، پھر ان کو دوزخ کے گرد اس طرح لے کر آئیں گے کہ یہ سب گھٹنوں کے بل گرے ہوئے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

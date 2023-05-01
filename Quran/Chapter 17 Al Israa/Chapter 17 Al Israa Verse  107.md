@@ -3224,6 +3224,12 @@ keh dijiye! tum is par imaan lao ya na lao, jinhe is se pehle ilm diya gaya hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تم اس پر ایمان لاؤ یا ایمان نہ لاؤ، بیشک جن لوگوں کو اس سے قبل علمِ (کتاب) عطا کیا گیا تھا جب یہ (قرآن) انہیں پڑھ کر سنایا جاتا ہے وہ ٹھوڑیوں کے بل سجدہ میں گر پڑتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (کافروں سے) کہہ دو کہ : چاہے تم اس پر ایمان لاؤ، یا نہ لاؤ، جب یہ (قرآن) ان لوگوں کے سامنے پڑھا جاتا ہے جن کو اس سے پہلے علم دیا گیا تھا تو وہ ٹھوڑیوں کے بل سجدے میں گرجاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

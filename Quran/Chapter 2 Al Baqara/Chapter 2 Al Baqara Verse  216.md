@@ -3224,6 +3224,12 @@ tum par jihaad farz kiya gaya, go wo tumhe dushwaar44 maaloom ho, mumkin hai ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(فتنہ و فساد کی بیخ کنی اور قیام امن کے لیے دفاعی) قتال تم پر فرض کر دیا گیا ہے حالانکہ وہ تمہیں طبعاً ناگوار ہے، اور ممکن ہے تم کسی چیز کو ناپسند کرو اور وہ (حقیقتاً) تمہارے لئے بہتر ہو، اور (یہ بھی) ممکن ہے کہ تم کسی چیز کو پسند کرو اور وہ (حقیقتاً) تمہارے لئے بری ہو، اور اللہ خوب جانتا ہے اور تم نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم پر (دشمنوں سے) جنگ کرنا فرض کیا گیا ہے، اور وہ تم پر گراں ہے، اور یہ عین ممکن ہے کہ تم ایک چیز کو برا سمجھو حالانکہ وہ تمہارے حق میں بہتر ہو، اور یہ بھی ممکن ہے کہ تم ایک چیز کو پسند کرو، حالانکہ وہ تمہارے حق میں بری ہو، اور (اصل حقیقت تو) اللہ جانتا ہے، اور تم نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

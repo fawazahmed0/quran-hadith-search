@@ -3224,6 +3224,12 @@ aur khaume aadh ki taraf un ke bhai hoodh ko hum ne bheja, us ne kaha meri qaum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ہم نے) قومِ عاد کی طرف ان کے بھائی ہود (علیہ السلام) کو (بھیجا)، انہوں نے کہا: اے میری قوم اللہ کی عبادت کرو اس کے سوا تمہارے لئے کوئی معبود نہیں، تم اللہ پر (شریک رکھنے کا) محض بہتان باندھنے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور قوم عاد کے پاس ہم نے ان کے بھائی ہود کو پیغمبر بنا کر بھیجا انہوں نے کہا : اے میری قوم ! اللہ کی عبادت کرو، اس کے سوا تمہارا کوئی معبود نہیں ہے، تمہاری حقیقت اس کے سوا کچھ نہیں کہ تم نے جھوٹی باتیں تراش رکھی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

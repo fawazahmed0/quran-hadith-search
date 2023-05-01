@@ -3224,6 +3224,12 @@ haq ta’ala ne irshaad farmaaya ke main wo khaana tum logo par naazil karne waa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے فرمایا: بیشک میں اسے تم پر نازل فرماتا ہوں، پھر تم میں سے جو شخص (اس کے) بعد کفر کرے گا تو یقیناً میں اسے ایسا عذاب دوں گا کہ تمام جہان والوں میں سے کسی کو بھی ایسا عذاب نہ دوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کہا کہ : میں بیشک تم پر وہ خوان اتار دوں گا، لیکن اس کے بعد تم میں سے جو شخص بھی کفر کرے گا اس کو میں ایسی سزا دوں گا جو دنیا جہان کے کسی بھی شخص کو نہیں دوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

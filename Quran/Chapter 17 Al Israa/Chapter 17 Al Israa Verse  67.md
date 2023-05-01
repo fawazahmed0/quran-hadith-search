@@ -3224,6 +3224,12 @@ aur samandaro mein musibath pahonchte hee jinhe tum pukaarte thein sab gum ho ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب سمندر میں تمہیں کوئی مصیبت لاحق ہوتی ہے تو وہ (سب بت تمہارے ذہنوں سے) گم ہو جاتے ہیں جن کی تم پرستش کرتے رہتے ہو سوائے اسی (اللہ) کے (جسے تم اس وقت یاد کرتے ہو)، پھر جب وہ (اللہ) تمہیں بچا کر خشکی کی طرف لے جاتا ہے (تو پھر اس سے) رُوگردانی کرنے لگتے ہو، اور انسان بڑا ناشکرا واقع ہوا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب سمندر میں تمہیں کوئی تکلیف پہنچتی ہے تو جن (دیوتاؤں) کو تم پکارا کرتے ہو، وہ سب غائب ہوجاتے ہیں۔ بس اللہ ہی اللہ رہ جاتا ہے۔ پھر جب اللہ تمہیں بچا کر خشکی تک پہنچا دیتا ہے تو تم منہ موڑ لیتے ہو۔ اور انسان بڑا ہی ناشکرا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

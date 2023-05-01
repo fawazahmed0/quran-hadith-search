@@ -3224,6 +3224,12 @@ aur hum ne us ki taraf is baath ka faisla kar diya ke subah hote hote un logo ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے لوط (علیہ السلام) کو اس فیصلہ سے بذریعہ وحی آگاہ کر دیا کہ بیشک اُن کے صبح کرتے ہی اُن لوگوں کی جڑ کٹ جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس طرح) ہم نے لوط تک اپنا یہ فیصلہ پہنچا دیا کہ صبح ہوتے ہی ان لوگوں کی جڑ کاٹ کر رکھ دی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

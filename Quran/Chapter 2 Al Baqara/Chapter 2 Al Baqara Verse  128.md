@@ -3224,6 +3224,12 @@ aye hamaare rub! hamein apna farmabardaar banaale aur hamaari aulaad mein se bhi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! ہم دونوں کو اپنے حکم کے سامنے جھکنے والا بنا اور ہماری اولاد سے بھی ایک امت کو خاص اپنا تابع فرمان بنا اور ہمیں ہماری عبادت (اور حج) کے قواعد بتا دے اور ہم پر (رحمت و مغفرت کی) نظر فرما، بیشک تو ہی بہت توبہ قبول فرمانے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ہمارے پروردگار ! ہم دونوں کو اپنا مکمل فرمانبردار بنا لے اور ہماری نسل سے بھی ایسی امت پیدا کر جو تیری پوری تابع دار ہو اور ہم کو ہماری عبادتوں کے طریقے سکھا دے اور ہماری توبہ قبول فرما لے۔ بیشک تو اور صرف تو ہی معاف کردینے کا خوگر (اور) بڑی رحمت کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

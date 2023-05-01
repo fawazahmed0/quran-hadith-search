@@ -3224,6 +3224,12 @@ ae hamaare rub, hum ne suna ke munaadi35 karne waala ba-awaaz bulandh imaan ki t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! (ہم تجھے بھولے ہوئے تھے) سو ہم نے ایک ندا دینے والے کو سنا جو ایمان کی ندا دے رہا تھا کہ (لوگو!) اپنے رب پر ایمان لاؤ تو ہم ایمان لے آئے۔ اے ہمارے رب! اب ہمارے گناہ بخش دے اور ہماری خطاؤں کو ہمارے (نوشتۂ اعمال) سے محو فرما دے اور ہمیں نیک لوگوں کی سنگت میں موت دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ہمارے پروردگار ! ہم نے ایک منادی کو سنا جو ایمان کی طرف پکار رہا تھا کہ اپنے پروردگار پر ایمان لاؤ، چنانچہ ہم ایمان لے آئے۔ لہذا اے ہمارے پروردگار ! ہماری خاطر ہمارے گناہ بخش دیجیے، ہماری برائیوں کو ہم سے مٹا دیجیے، اور ہمیں نیک لوگوں میں شامل کر کے اپنے پاس بلایئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un ke piche dozakh hai, jo kuch unhone haasil kiya tha, wo unhe kuch bhi nafa na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُن کے (اس عرصۂ حیات کے) بعد دوزخ ہے اور جو (مالِ دنیا) انہوں نے کما رکھا ہے اُن کے کچھ کام نہیں آئے گا اور نہ وہ بت (ہی کام آئیں گے) جنہیں اللہ کے سوا انہوں نے کارساز بنا رکھا ہے، اور اُن کے لئے بہت سخت عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے آگے جہنم ہے اور جو کچھ انہوں نے کمایا ہے نہ وہ ان کے کچھ کام آئے گا اور نہ وہ کام آئیں گے جن کو انہوں نے اللہ کے بجائے اپنا رکھوالا بنا رکھا ہے۔ اور ان کے حصے میں ایک زبردست عذاب آئے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

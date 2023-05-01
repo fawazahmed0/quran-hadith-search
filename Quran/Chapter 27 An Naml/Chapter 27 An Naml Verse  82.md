@@ -3224,6 +3224,12 @@ jab un ke upar azaab ka waada saabith ho jayega, hum zameen se un ke liye ek jaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان پر (عذاب کا) فرمان پورا ہونے کا وقت آجائے گا تو ہم ان کے لئے زمین سے ایک جانور نکالیں گے جو ان سے گفتگو کرے گا کیونکہ لوگ ہماری نشانیوں پر یقین نہیں کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہماری بات پوری ہونے کا وقت ان لوگوں پر آپہنچے گا تو ہم ان کے لیے زمین سے ایک جانور نکالیں گے جو ان سے بات کرے گا کہ لوگ ہماری آیتوں پر یقین نہیں رکھتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

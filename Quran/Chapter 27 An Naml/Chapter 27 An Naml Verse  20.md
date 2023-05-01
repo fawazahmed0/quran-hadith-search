@@ -3224,6 +3224,12 @@ aap ne parindo ka jayeza liya, aur farmaane lage, ye kya baath hai ke main hodh 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور سلیمان (علیہ السلام) نے پرندوں کا جائزہ لیا تو کہنے لگے: مجھے کیا ہوا ہے کہ میں ہدہد کو نہیں دیکھ پا رہا یا وہ (واقعی) غائب ہو گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے (ایک مرتبہ) پرندوں کی حاضری لی تو کہا : کیا بات ہے، مجھے ہدہد نظر نہیں آرہا، کیا وہ کہیں غائب ہوگیا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

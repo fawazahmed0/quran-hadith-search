@@ -3224,6 +3224,12 @@ un ke liye nasihath kahaa hai? khol khol kar bayaan karne waale paighambar un ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اب اُن کا نصیحت ماننا کہاں (مفید) ہو سکتا ہے حالانکہ ان کے پاس واضح بیان فرمانے والے رسول آچکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کو نصیحت کہاں ہوتی ہے ؟ حالانکہ ان کے پاس ایسا پیغمبر آیا ہے جس نے حقیقت کو کھول کر رکھ دیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

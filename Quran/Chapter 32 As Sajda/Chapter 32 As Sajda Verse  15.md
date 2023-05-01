@@ -3224,6 +3224,12 @@ hamaari aayato par wahi imaan laate hai, jinhe jab kabhi un se nasihath ki jaati
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ہماری آیتوں پر وہی لوگ ایمان لاتے ہیں جنہیں اُن (آیتوں) کے ذریعے نصیحت کی جاتی ہے تو وہ سجدہ کرتے ہوئے گر جاتے ہیں اور اپنے رب کی حمد کے ساتھ تسبیح کرتے ہیں اور وہ تکبّر نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہماری آیتوں پر تو وہ لوگ ایمان لاتے ہیں جن کا حال یہ ہے کہ جب انہیں ان آیتوں کے ذریعے نصیحت کی جاتی ہے تو وہ سجدے میں گرپڑتے ہیں، اور اپنے پروردگار کی حمد کے ساتھ اس کی تسبیح کرتے ہیں، اور وہ تکبر نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ teri jaanib jo tere rub ki kitaab wahi ki gayi hai ose padta reh, us ki baato ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ وہ (کلام) پڑھ کر سنائیں جو آپ کے رب کی کتاب میں سے آپ کی طرف وحی کیا گیا ہے، اس کے کلام کو کوئی بدلنے والا نہیں اور آپ اس کے سوا ہرگز کوئی جائے پناہ نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم پر تمہارے پروردگار کی طرف سے وحی کے ذریعے جو کتاب بھیجی گئی ہے، اسے پڑھ کر سنادو۔ کوئی نہیں ہے جو اس کی باتوں کو بدل سکے، اور اسے چھوڑ کر تمہیں ہرگز پناہ کی جگہ نہیں مل سکتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wo jab un ke haan aaye to salaam kiya, Ibraheem(alaihissalaam) ne jawaabe salaam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب وہ (فرشتے) اُن کے پاس آئے تو انہوں نے سلام پیش کیا، ابراہیم (علیہ السلام) نے بھی (جواباً) سلام کہا، (ساتھ ہی دل میں سوچنے لگے کہ) یہ اجنبی لوگ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب وہ ابراہیم کے پاس آئے تو انہوں نے سلام کہا۔ ابراہیم نے بھی سلام کہا۔ (اور دل میں سوچا کہ) یہ کچھ انجان لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hamaare un nabiyo se pucho! jinhe hum ne aap se pehle bheja tha, ke kya hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو رسول ہم نے آپ سے پہلے بھیجے آپ اُن سے پوچھئے کہ کیا ہم نے (خدائے) رحمان کے سوا کوئی اور معبود بنائے تھے کہ اُن کی پرستش کی جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم سے پہلے ہم نے اپنے جو پیغمبر بھیجے ہیں، ان سے پوچھ لو کہ کیا ہم نے خدائے رحمن کے سوا کوئی اور معبود بھی مقرر کیے تھے جن کی عبادت کی جائے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

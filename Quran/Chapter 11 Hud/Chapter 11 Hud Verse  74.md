@@ -3224,6 +3224,12 @@ jab ibraheem ka dar qauf jata raha aur ose basharath bhi pahonch chuki to hum se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ابراہیم (علیہ السلام) سے خوف جاتا رہا اور ان کے پاس بشارت آچکی تو ہمارے (فرشتوں کے) ساتھ قومِ لوط کے بارے میں جھگڑنے لگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب ابراہیم سے گھبراہٹ دور ہوئی، اور ان کو خوشخبری مل گئی تو انہوں نے ہم سے لوط کی قوم کے بارے میں (ناز کے ط ور پر) جھگڑنا شروع کردیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

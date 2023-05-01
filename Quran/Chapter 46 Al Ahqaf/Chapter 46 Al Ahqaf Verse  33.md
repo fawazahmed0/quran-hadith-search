@@ -3224,6 +3224,12 @@ kya wo nahi dekhte ke jis Allah ne asmaano aur zameen ko paida kiya aur un ke pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ نہیں جانتے کہ اللہ جس نے آسمانوں اور زمین کو پیدا فرمایا اور وہ ان کے پیدا کرنے سے تھکا نہیں اس بات پر (بھی) قادر ہے کہ وہ مُردوں کو (دوبارہ) زندہ فرما دے۔ کیوں نہیں! بیشک وہ ہر چیز پر قدرت رکھتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا ان کو یہ سجھائی نہیں دیا کہ وہ اللہ جس نے سارے آسمانوں اور زمین کو پیدا کیا اور ان کو پیدا کرنے سے اس کو ذرا بھی تھکن نہیں ہوئی، وہ یقینا اس بات پر پوری طرح قادر ہے کہ مردوں کو زندہ کردے ؟ اور کیوں نہ ہو ؟ وہ بیشک ہر چیز کی پوری قدرت رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

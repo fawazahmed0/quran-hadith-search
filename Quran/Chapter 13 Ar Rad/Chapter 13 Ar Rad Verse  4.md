@@ -3224,6 +3224,12 @@ aur zameen mein muqtaleef tukde ek dosre se lagte lagaate hai aur anguro ke bagh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور زمین میں (مختلف قسم کے) قطعات ہیں جو ایک دوسرے کے قریب ہیں اور انگوروں کے باغات ہیں اور کھیتیاں ہیں اور کھجور کے درخت ہیں، جھنڈدار اور بغیر جھنڈ کے، ان (سب) کو ایک ہی پانی سے سیراب کیا جاتا ہے، اور (اس کے باوجود) ہم ذائقہ میں بعض کو بعض پر فضیلت بخشتے ہیں، بیشک اس میں عقل مندوں کے لئے (بڑی) نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین میں مختلف قطعے ہیں جو پاس پاس واقعے ہوئے ہیں اور انگور کے باغ اور کھیتیاں اور کھجور کے درخت ہیں، جن میں سے کچھ دہرے تنے والے ہیں، اور کچھ اکہرے تنے والے۔ سب ایک ہی پانی سے سیراب ہوتے ہیں، اور ہم ان میں سے کسی کو ذائقے میں دوسرے پر فوقیت دے دیتے ہیں۔ یقینا ان سب باتوں میں ان لوگوں کے لیے نشانیاں ہیں جو عقل سے کام لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

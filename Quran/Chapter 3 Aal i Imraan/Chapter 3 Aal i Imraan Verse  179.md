@@ -3224,6 +3224,12 @@ jis haal par tum ho osi par Allah imaan waalo ko na chod dega jab tak ke paak au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ مسلمانوں کو ہرگز اس حال پر نہیں چھوڑے گا جس پر تم (اس وقت) ہو جب تک وہ ناپاک کو پاک سے جدا نہ کر دے، اور اللہ کی یہ شان نہیں کہ (اے عامۃ الناس!) تمہیں غیب پر مطلع فرما دے لیکن اللہ اپنے رسولوں سے جسے چاہے (غیب کے علم کے لئے) چن لیتا ہے، سو تم اللہ اور اس کے رسولوں پر ایمان لاؤ، اور اگر تم ایمان لے آؤ اور تقویٰ اختیار کرو تو تمہارے لئے بڑا ثواب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ایسا نہیں کرسکتا کہ مومنوں کو اس حالت پر چھوڑ رکھے جس پر تم لوگ اس وقت ہو، جب تک وہ ناپاک کو پاک سے الگ نہ کردے، اور (دوسری طرف) وہ ایسا بھی نہیں کرسکتا کہ تم کو (براہ راست) غیب کی باتیں بتادے۔ ہاں وہ (جتنا بتانا مناسب سمجھتا ہے اس کے لیے) اپنے پیغمبروں میں سے جس کو چاہتا ہے چن لیتا ہے۔ لہذا تم اللہ اور اس کے رسولوں پر ایمان رکھو، اور اگر ایمان رکھو گے اور تقوی اختیار کرو گے تو زبردست ثواب کے مستحق ہوگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

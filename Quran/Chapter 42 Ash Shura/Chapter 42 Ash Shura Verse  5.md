@@ -3224,6 +3224,12 @@ qareeb hai asmaan upar se phat pade, aur tamaam farishte apne rab ki paaki taree
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قریب ہے آسمانی کرّے اپنے اوپر کی جانب سے پھٹ پڑیں اور فرشتے اپنے رب کی حمد کے ساتھ تسبیح کرتے رہتے ہیں اور اُن لوگوں کے لئے جو زمین میں ہیں بخشش طلب کرتے رہتے ہیں۔ یاد رکھو! اللہ ہی بڑا بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسا لگتا ہے کہ آسمان اوپر سے پھٹ پڑیں گے، اور فرشتے اپنے پروردگار کی حمد کے ساتھ اس کی تسبیح کر رہے ہیں، اور زمین والوں کے لیے استغفار کر رہے ہیں۔ یاد رکھو کہ اللہ ہی ہے جو بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

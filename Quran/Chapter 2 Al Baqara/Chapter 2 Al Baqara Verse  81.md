@@ -3224,6 +3224,12 @@ yaqinan jis ne bhi bore kam kiye aur us ki nafarmaaniyo ne ose gher liya, wo ham
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہاں واقعی جس نے برائی اختیار کی اور اس کے گناہوں نے اس کو ہر طرف سے گھیر لیا تو وہی لوگ دوزخی ہیں، وہ اس میں ہمیشہ رہنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (آگ تمہیں) کیوں نہیں (چھوئے گی) ؟ جو لوگ بھی بدی کماتے ہیں اور ان کی بدی انہیں گھیر لیتی ہے تو ایسے لوگ ہی دوزخ کے باسی ہیں۔ وہ ہمیشہ اس میں رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

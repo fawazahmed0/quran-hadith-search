@@ -3224,6 +3224,12 @@ hum ne to ye baath pichle deen mein bhi nahi suni, kuch nahi, ye to sirf ghadant
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم نے اس (عقیدۂ توحید) کو آخری ملّتِ (نصرانی یا مذہبِ قریش) میں بھی نہیں سنا، یہ صرف خود ساختہ جھوٹ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے تو یہ بات پچھلے دین میں کبھی نہیں سنی۔ اور کچھ نہیں، یہ من گھڑت بات ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

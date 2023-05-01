@@ -3224,6 +3224,12 @@ jo log apni biwiyo se (taalluq na rakhne ki) qasme khaaye, un ke liye chaar mahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان لوگوں کے لئے جو اپنی بیویوں کے قریب نہ جانے کی قسم کھالیں چار ماہ کی مہلت ہے پس اگر وہ (اس مدت میں) رجوع کر لیں تو بیشک اللہ بڑا بخشنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اپنی بیویوں سے ایلاء کرتے ہیں (یعنی ان کے پاس نہ جانے کی قسم کھالیتے ہیں) ان کے لیے چار مہینے کی مہلت ہے چنانچہ اگر وہ (قسم توڑ کر) رجوع کرلیں تو بیشک اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

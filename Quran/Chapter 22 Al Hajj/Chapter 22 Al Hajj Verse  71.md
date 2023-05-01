@@ -3224,6 +3224,12 @@ aur ye Allah ke siva un ki ibaadath kar rahe hai, jis ki koyi khudaayi daleel na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ لوگ اللہ کے سوا ان (بتوں) کی پرستش کرتے ہیں جس کی اُس نے کوئی سند نہیں اتاری اور نہ (ہی) انہیں اس (بت پرستی کے انجام) کا کچھ علم ہے، اور (قیامت کے دن) ظالموں کا کوئی مددگار نہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ اللہ کو چھوڑ کر ان چیزوں کی عبادت کرتے ہیں جن (کے معبود ہونے) کی اللہ نے کوئی دلیل نازل نہیں کی، اور خود ان لوگوں کو بھی اس کے بارے میں کوئی علم حاصل نہیں۔ اور ان ظالموں کا (آخرت میں) کوئی مددگار نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

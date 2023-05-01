@@ -3224,6 +3224,12 @@ un ke liye Allah ta’ala ne saqth azaab tayyaar kar rakha hai, pas Allah se dar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے اُن کے لئے (آخرت میں بھی) سخت عذاب تیار کر رکھا ہے۔ سو اللہ سے ڈرتے رہا کرو اے عقل والو! جو ایمان لے آئے ہو، بیشک اللہ نے تمہاری (ہی) طرف نصیحتِ (قرآن) کو نازل فرمایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور آخرت میں) ہم نے ان کے لیے ایک سخت عذاب تیار کر رکھا ہے۔ لہذا اے عقل والو جو ایمان لے آئے ہو، اللہ سے ڈرتے رہو۔ اللہ نے تمہارے پاس ایک سراپا نصیحت بھیجی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

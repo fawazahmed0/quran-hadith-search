@@ -3224,6 +3224,12 @@ ab bhi agar ye tauba karle aur namaz ke paband ho jae aur zakath dete rahe tuh t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (بھی) اگر وہ توبہ کر لیں اور نماز قائم کریں اور زکوٰۃ ادا کرنے لگیں تو (وہ) دین میں تمہارے بھائی ہیں (سو تمہیں ایک دوسرے کے درمیان پُر اَمن تعلقات استوار کرنے کے لیے الگ سے کسی معاہدے کی ضرورت نہیں) اور ہم (اپنی) آیتیں ان لوگوں کے لیے تفصیل سے بیان کرتے ہیں جو علم و دانش رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اگر یہ توبہ کرلیں، اور نماز قائم کریں اور زکوٰۃ ادا کریں تو یہ تمہارے دینی بھائی بن جائیں گے۔ اور ہم احکام کی یہ تفصیل ان لوگوں کے لیے بیان کر رہے ہیں جو جاننا چاہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

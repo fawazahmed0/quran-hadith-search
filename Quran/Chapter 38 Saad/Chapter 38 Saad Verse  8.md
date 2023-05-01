@@ -3224,6 +3224,12 @@ kya hum sab mein se isi par kalaame ilaahi naazil kiya gaya hai? dar asl ye log 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ہم سب میں سے اسی پر یہ ذکر (یعنی قرآن) اتارا گیا ہے؟ بلکہ وہ میرے ذکر کی نسبت شک میں (گرفتار) ہیں، بلکہ انہوں نے ابھی میرے عذاب کا مزہ نہیں چکھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا یہ نصیحت کی بات ہم سب کو چھوڑ کر اسی شخص پر نازل کی گئی ہے ؟ اصل بات یہ ہے کہ یہ لوگ میری نصیحت کے بارے میں شک میں مبتلا ہیں، بلکہ انہوں نے ابھی میرے عذاب کا مزہ نہیں چکھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

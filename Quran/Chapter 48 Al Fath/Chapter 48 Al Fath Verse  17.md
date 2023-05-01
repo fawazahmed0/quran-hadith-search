@@ -3224,6 +3224,12 @@ andhe par koyi harj nahi hai aur na langde par koyi harj hai aur na bimaar par k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جہاد سے رہ جانے میں) نہ اندھے پر کوئی گناہ ہے اور نہ لنگڑے پر کوئی گناہ ہے اور نہ (ہی) بیمار پر کوئی گناہ ہے، اور جو شخص اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرے گا وہ اسے بہشتوں میں داخل فرما دے گا جن کے نیچے نہریں رواں ہوں گی، اور جو شخص (اطاعت سے) منہ پھیرے گا وہ اسے درد ناک عذاب میں مبتلا کردے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اندھے آدمی پر (جہاد نہ کرنے کا) کوئی گناہ نہیں ہے، نہ لنگڑے آدمی پر کوئی گناہ ہے، اور نہ بیمار آدمی پر گناہ ہے۔ اور جو شخص بھی اللہ اور اس کے رسول کا کہنا مانے، اللہ اس کو ایسی جنتوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی۔ اور جو کوئی منہ موڑے گا، اسے دردناک عذاب دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

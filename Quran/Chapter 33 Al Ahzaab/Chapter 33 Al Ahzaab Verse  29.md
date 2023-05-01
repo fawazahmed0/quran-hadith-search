@@ -3224,6 +3224,12 @@ aur agar tumhaari muraadh Allah aur us ka Rasool (sallallahu alaihi wasalaam) au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم اللہ اور اس کے رسول اور دارِ آخرت کی طلب گار ہو تو بیشک اللہ نے تم میں نیکوکار بیبیوں کے لئے بہت بڑا اَجر تیار فرما رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم اللہ اور اس کے رسول اور عالم آخرت کی طلبگار ہو تو یقین جانو اللہ نے تم میں سے نیک خواتین کے لیے شاندار انعام تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar ye log Allah aur rasol ke diye hoe par khush rehte aur keh dete ke Allah ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا ہی اچھا ہوتا اگر وہ لوگ اس پر راضی ہو جاتے جو ان کو اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) نے عطا فرمایا تھا اور کہتے کہ ہمیں اللہ کافی ہے۔ عنقریب ہمیں اللہ اپنے فضل سے اور اس کا رسول (صلی اللہ علیہ وآلہ وسلم مزید) عطا فرمائے گا۔ بیشک ہم اللہ ہی کی طرف راغب ہیں (اور رسول صلی اللہ علیہ وآلہ وسلم اسی کا واسطہ اور وسیلہ ہے، اس کا دینا بھی اللہ ہی کا دینا ہے۔ اگر یہ عقیدہ رکھتے اور طعنہ زنی نہ کرتے تو یہ بہتر ہوتا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کچھ بھی انہیں اللہ اور اس کے سول نے دے دیا تھا، کیا اچھا ہوتا کہ یہ اس پر راضی رہتے، اور یہ کہتے کہ : اللہ ہمارے لیے کافی ہے، آئندہ اللہ اپنے فضل سے ہمیں نوازے گا، اور اس کا رسول بھی۔ ہم تو اللہ ہی سے لو لگائے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye Nabi!(sallallahu alaihi wasallam) (apni ummath se kaho ke) jab tum apni biwi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبی! (مسلمانوں سے فرما دیں:) جب تم عورتوں کو طلاق دینا چاہو تو اُن کے طُہر کے زمانہ میں انہیں طلاق دو اور عِدّت کو شمار کرو، اور اللہ سے ڈرتے رہو جو تمہارا رب ہے، اور انہیں اُن کے گھروں سے باہر مت نکالو اور نہ وہ خود باہر نکلیں سوائے اس کے کہ وہ کھلی بے حیائی کر بیٹھیں، اور یہ اللہ کی (مقررّہ) حدیں ہیں، اور جو شخص اللہ کی حدود سے تجاوز کرے تو بیشک اُس نے اپنی جان پر ظلم کیا ہے، (اے شخص!) تو نہیں جانتا شاید اللہ اِس کے (طلاق دینے کے) بعد (رجوع کی) کوئی نئی صورت پیدا فرما دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! جب تم لوگ عورتوں کو طلاق دینے لگو تو انہیں ان کی عدت کے وقت طلاق دو ، اور عدت کو اچھی طرح شمار کرو اور اللہ سے ڈرو جو تمہارا پروردگار ہے، ان عورتوں کو ان کے گھروں سے نہ نکالو، اور نہ وہ خود نکلیں الا یہ کہ وہ کسی کھلی بےحیائی کا ارتکاب کریں، اور یہ اللہ کی (مقرر کی ہوئی) حدود ہیں اور جو کوئی اللہ کی (مقرر کی ہوئی) حدود سے آگے نکلے، اس نے خود اپنی جان پر ظلم کیا، تم نہیں جانتے، شاید اللہ اس کے بعد کوئی نئی بات پیدا کردے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

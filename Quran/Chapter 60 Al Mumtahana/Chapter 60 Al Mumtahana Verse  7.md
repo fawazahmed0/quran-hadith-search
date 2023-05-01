@@ -3224,6 +3224,12 @@ kya ajab ke an-qareeb hee Allah ta’ala tum mein aur tumhaare dushmano mein muh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عجب نہیں کہ اللہ تمہارے اور اُن میں سے بعض لوگوں کے درمیان جن سے تمہاری دشمنی ہے (کسی وقت بعد میں) دوستی پیدا کر دے، اور اللہ بڑی قدرت والا ہے، اور اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کچھ بعید نہیں ہے کہ اللہ تمہارے اور جن لوگوں سے تمہاری دشمنی ہے، ان کے درمیان دوستی پیدا کردے، اور اللہ بڑی قدرت والا ہے، اور اللہ بہت بخشنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

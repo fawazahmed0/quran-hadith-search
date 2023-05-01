@@ -3224,6 +3224,12 @@ un se lado jab tak ke fitna na mit jaaye aur Allah ta’ala ka deen ghaalib na a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان سے جنگ کرتے رہو حتیٰ کہ کوئی فتنہ باقی نہ رہے اور دین اللہ ہی کے تابع ہو جائے (یعنی امن و سلامتی اور انسانی تکریم کے تحفظ کا نظام عملاً قائم ہوجائے)، پھر اگر وہ باز آجائیں تو سوائے ظالموں کے کسی پر زیادتی روا نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم ان سے لڑتے رہو یہاں تک کہ فتنہ باقی نہ رہے اور دین اللہ کا ہوجائے پھر اگر وہ باز آجائیں تو (سمجھ لو کہ) تشدد سوائے ظالموں کے کسی پر نہیں ہونا چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

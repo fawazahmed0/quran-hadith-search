@@ -3224,6 +3224,12 @@ YA kazhu tse dlya toho, shchob [cholovik] znav, shcho ya ne zradyla yomu potayem
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یوسف علیہ السلام نے کہا: میں نے) یہ اس لئے (کیا ہے) کہ وہ (عزیزِ مصر جو میرا محسن و مربّی تھا) جان لے کہ میں نے اس کی غیابت میں (پشت پیچھے) اس کی کوئی خیانت نہیں کی اور بیشک اللہ خیانت کرنے والوں کے مکر و فریب کو کامیاب نہیں ہونے دیتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (جب یوسف کو قید خانے میں اس گفتگو کی خبر ملی تو انہوں نے کہا کہ :) یہ سب کچھ میں نے اس لیے کیا تاکہ عزیز کو یہ بات یقین کے ساتھ معلوم ہوجائے کہ میں نے اس کی غیر موجودگی میں اس کے ساتھ کوئی خیانت نہیں کی، اور یہ بھی کہ جو لوگ خیانت کرتے ہیں اللہ ان کے فریب کو چلنے نہیں دیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

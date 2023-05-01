@@ -3224,6 +3224,12 @@ qaroon tha, to khaum Mosa se, lekin un par zulm karne laga tha, hum ne ose (is q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک قارون موسٰی (علیہ السلام) کی قوم سے تھا پھر اس نے لوگوں پر سرکشی کی اور ہم نے اسے اس قدر خزانے عطا کئے تھے کہ اس کی کنجیاں (اٹھانا) ایک بڑی طاقتور جماعت کو دشوار ہوتا تھا، جبکہ اس کی قوم نے اس سے کہا: تُو (خوشی کے مارے) غُرور نہ کر بیشک اللہ اِترانے والوں کو پسند نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قارون موسیٰ کی قوم کا ایک شخص تھا، پھر اس نے انہی پر زیادتی کی ۔ اور ہم نے اسے اتنے خزانے دیے تھے کہ اس کی چابیاں طاقتور لوگوں کی ایک جماعت سے بھی مشکل سے اٹھتی تھیں۔ ایک وقت تھا جب اس کی قوم نے اس سے کہا کہ : اتراؤ نہیں، اللہ اترانے والوں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

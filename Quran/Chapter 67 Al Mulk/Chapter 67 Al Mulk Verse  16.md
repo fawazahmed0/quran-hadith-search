@@ -3224,6 +3224,12 @@ kya tum is baath se be-khauf ho gaye ho ke asmaano waala tumhe zameen mein dhasa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم آسمان والے (رب) سے بے خوف ہو گئے ہو کہ وہ تمہیں زمین میں دھنسا دے (اس طرح) کہ وہ اچانک لرزنے لگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم آسمان والے کی اس بات سے بےخوف ہو بیٹھے ہو کہ وہ تمہیں زمین میں دھنسا دے، تو وہ ایک دم تھر تھرانے لگے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

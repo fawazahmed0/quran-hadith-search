@@ -3224,6 +3224,12 @@ ye wo (log) hai ke jab un se kaha jaata hai ke Allah ke siva koyi maaboodh nahi,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یقیناً وہ ایسے لوگ تھے کہ جب ان سے کہا جاتا کہ اللہ کے سوا کوئی لائقِ عبادت نہیں تو وہ تکبّر کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کا حال یہ تھا کہ جب ان سے یہ کہا جاتا کہ اللہ کے سوا کوئی معبود نہیں تو یہ اکڑ دکھاتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ in chand nau jawaano ne jab ghaar mein panah li to dua ki ke aye hamare pavardig
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ وقت یاد کیجئے) جب چند نوجوان غار میں پناہ گزیں ہوئے تو انہوں نے کہا: اے ہمارے رب! ہمیں اپنی بارگاہ سے رحمت عطا فرما اور ہمارے کام میں راہ یابی (کے اسباب) مہیا فرما
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس وقت کا ذکر ہے جب ان نوجوانوں نے غار میں پناہ لی تھی اور (اللہ تعالیٰ سے دعا کرتے ہوئے) کہا تھا کہ : اے ہمارے پروردگار ہم پر خاص اپنے پاس سے رحمت نازل فرمایے، اور ہماری اس صورت حال میں ہمارے لیے بھلائی کا راستہ مہیا فرما دیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

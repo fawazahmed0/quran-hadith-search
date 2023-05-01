@@ -3224,6 +3224,12 @@ us se bad kar zaalim kaun hoga jo Allah par jhot baandhe, ye log apne parvardiga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس سے بڑھ کر ظالم کون ہو سکتا ہے جو اللہ پر جھوٹا بہتان باندھتا ہے، ایسے ہی لوگ اپنے رب کے حضور پیش کئے جائیں گے اور گواہ کہیں گے: یہی وہ لوگ ہیں جنہوں نے اپنے رب پر جھوٹ بولا تھا، جان لو کہ ظالموں پر اللہ کی لعنت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس شخص سے بڑا ظالم کون ہوگا جو اللہ پر جھوٹ باندھے ؟ ایسے لوگوں کی ان کے رب کے پاس پیشی ہوگی، اور گواہی دینے والے کہیں گے کہ : یہ ہیں وہ لوگ جنہوں نے اپنے پروردگار پر جھوٹی باتیں لگائی تھیں۔ سب لوگ سن لیں کہ اللہ کی لعنت ہے ان ظالموں پر۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

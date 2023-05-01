@@ -3224,6 +3224,12 @@ ye bade log un kamzuro ko jawaab denge ke kya tumhaare paas hidaayath aa chukne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+متکبرّ لوگ کمزوروں سے کہیں گے: کیا ہم نے تمہیں ہدایت سے روکا اس کے بعد کہ وہ تمہارے پاس آچکی تھی، بلکہ تم خود ہی مُجرم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو بڑے بنے ہوئے تھے ان سے کہیں گے جنہیں کمزور سمجھا گیا تھا کہ : کیا ہم نے تمہیں ہدایت سے روکا تھا جبکہ وہ تمہارے پاس آچکی تھی ؟ اصل بات یہ ہے کہ تم خود مجرم تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

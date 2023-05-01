@@ -3224,6 +3224,12 @@ To tumne unka mazaaq bana liye, yahan tak ke unki zidd ne tumhein yeh bhi bhula 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو تم ان کا تمسخر کیا کرتے تھے یہاں تک کہ انہوں نے تمہیں میری یاد بھی بھلا دی اور تم (صرف) ان کی تضحیک ہی کرتے رہتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو تم نے ان لوگوں کا مذاق بنایا تھا۔ یہاں تک کہ ان ہی (کے ساتھ چھیڑ چھاڑ) نے تمہیں میری یاد تک سے غافل کردیا، اور تم ان کی ہنسی اڑاتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

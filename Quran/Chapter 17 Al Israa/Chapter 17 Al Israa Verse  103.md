@@ -3224,6 +3224,12 @@ aaqir feraun ne poqta iraada kar liya ke unhe zameen se hee uqed de, to hum ne k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (فرعون نے) ارادہ کیا کہ ان کو (یعنی موسٰی علیہ السلام اور ان کی قوم کو) سر زمینِ (مصر) سے اکھاڑ کر پھینک دے پس ہم نے اسے اور جو اس کے ساتھ تھے سب کو غرق کردیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر فرعون نے یہ ارادہ کیا تھا کہ ان سب (بنو اسرائیل) کو اس سرزمین سے اکھاڑ پھینکے، لیکن ہم نے اسے اور جتنے لوگ اس کے ساتھ تھے، ان سب کو غرق کردیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur un ke ird girdh un ke nau umr ghulaam chal phir rahe honge, goya ke wo moti 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نوجوان (خدمت گزار) اُن کے اِردگرد گھومتے ہوں گے، گویا وہ غلاف میں چھپائے ہوئے موتی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے اردگرد نوجوان پھر رہے ہوں گے جو انہی (کی خدمت) کے لیے مخصوص ہوں گے، ایسے (خوبصورت) جیسے چھپا کر رکھے ہوئے موتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

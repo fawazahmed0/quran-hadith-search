@@ -3224,6 +3224,12 @@ paighambar momino par khud un se bhi zyaada haq rakhne waale hai aur paighambar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ نبیِ (مکرّم) مومنوں کے ساتھ اُن کی جانوں سے زیادہ قریب اور حق دار ہیں اور آپ کی اَزواجِ (مطہّرات) اُن کی مائیں ہیں، اور خونی رشتہ دار اللہ کی کتاب میں (دیگر) مومنین اور مہاجرین کی نسبت (تقسیمِ وراثت میں) ایک دوسرے کے زیادہ حق دار ہیں سوائے اس کے کہ تم اپنے دوستوں پر احسان کرنا چاہو، یہ حکم کتابِ (الٰہی) میں لکھا ہوا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایمان والوں کے لیے یہ نبی ان کی اپنی جانوں سے بھی زیادہ قریب تر ہیں، اور ان کی بیویاں ان کی مائیں ہیں۔ اس کے باوجود اللہ کی کتاب کے مطابق پیٹ کے رشتہ دارو دوسرے مومنوں اور مہاجرین کے مقابلے میں ایک دوسرے پر (میراث کے معاملے میں) زیادہ حق رکھتے ہیں الا یہ کہ تم اپنے دوستوں (کے حق میں کوئی وصیت کر کے ان) کے ساتھ کوئی نیکی کرلو۔ یہ بات کتاب میں لکھی ہوئی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

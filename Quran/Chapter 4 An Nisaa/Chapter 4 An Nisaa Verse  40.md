@@ -3224,6 +3224,12 @@ beshak Allah ta’ala ek zarra baraabar zulm nahi karta aur agar neki ho to ose 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ ذرّہ برابر بھی ظلم نہیں کرتا، اور اگر کوئی نیکی ہو تو اسے دوگنا کر دیتا ہے اور اپنے پاس سے بڑا اجر عطا فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ذرہ برابر بھی کسی پر ظلم نہیں کرتا، اور اگر کوئی نیکی ہو تو اسے کئی گنا کردیتا ہے، اور خود اپنے پاس سے عظیم ثواب دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

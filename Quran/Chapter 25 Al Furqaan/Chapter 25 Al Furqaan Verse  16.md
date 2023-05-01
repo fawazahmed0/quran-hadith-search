@@ -3224,6 +3224,12 @@ wo jo chaahenge un ke liye wahaan maujoodh hoga, hamesha rehne waale, ye to aap 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے لئے ان (جنتوں) میں وہ (سب کچھ میسّر) ہوگا جو وہ چاہیں گے (اس میں) ہمیشہ رہیں گے، یہ آپ کے رب کے ذمۂ (کرم) پر مطلوبہ وعدہ ہے (جو پورا ہو کر رہے گا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہاں انہیں ہمیشہ ہمیشہ بستے ہوئے ہر وہ چیز ملے گی جو وہ چاہیں گے۔ یہ وہ ذمہ دارانہ وعدہ ہے جو تمہارے رب نے اپنے اوپر لازم کرلیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

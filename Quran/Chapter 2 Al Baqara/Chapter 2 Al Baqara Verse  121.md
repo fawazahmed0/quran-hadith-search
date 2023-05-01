@@ -3224,6 +3224,12 @@ jinhe hum ne kitaab di hai aur wo ose padne ke haq ke saath padte hai, wo is kit
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ایسے لوگ بھی ہیں) جنہیں ہم نے کتاب دی وہ اسے اس طرح پڑھتے ہیں جیسے پڑھنے کا حق ہے، وہی لوگ اس (کتاب) پر ایمان رکھتے ہیں، اور جو اس کا انکار کر رہے ہیں سو وہی لوگ نقصان اٹھانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں کو ہم نے کتاب دی، جبکہ وہ اس کی تلاوت اس طرح کرتے ہوں جیسا اس کی تلاوت کا حق ہے، تو وہ لوگ ہی (درحقیقت) اس پر ایمان رکھتے ہیں۔ اور جو اس کا انکار کرتے ہوں تو ایسے لوگ ہی نقصان اٹھانے والے ہیں ْ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

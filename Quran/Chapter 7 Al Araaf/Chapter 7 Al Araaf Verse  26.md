@@ -3224,6 +3224,12 @@ aye aadam(alaihissalaam) ki aulaad hum ne tumhaare liye libaas paida kiya jo tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے آدم کے بیٹو اور بیٹیو ! ہم نے تمہارے لیے لباس نازل کیا ہے جو تمہارے جسم کے ان حصوں کو چھپا سکے جن کا کھولنا برا ہے، اور جو خوشنمائی کا ذریعہ بھی ہے۔ اور تقوی کا جو لباس ہے وہ سب سے بہتر ہے۔ یہ سب اللہ کی نشانیوں کا حصہ ہے، جن کا مقصد یہ ہے کہ لوگ سبق حاصل کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

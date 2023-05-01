@@ -3224,6 +3224,12 @@ aur jis ki nisbat yousuf ka gumaan tha ke un duno mein se ye choot jayega, us se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یوسف (علیہ السلام) نے اس شخص سے کہا جسے ان دونوں میں سے رہائی پانے والا سمجھا کہ اپنے بادشاہ کے پاس میرا ذکر کر دینا (شاید اسے یاد آجائے کہ ایک اور بے گناہ بھی قید میں ہے) مگر شیطان نے اسے اپنے بادشاہ کے پاس (وہ) ذکر کرنا بھلا دیا نتیجۃً یوسف (علیہ السلام) کئی سال تک قید خانہ میں ٹھہرے رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان دونوں میں سے جس کے بارے میں ان کا گمان تھا کہ وہ رہا ہوجائے گا، اس سے یوسف نے کہا کہ : اپنے آقا سے میرا بھی تذکرہ کردینا۔ پھر ہوا یہ کہ شیطان نے اس کو یہ بات بھلا دی کہ وہ اپنے آقا سے یوسف کا تذکرہ کرتا۔ چنانچہ وہ کئی برس قید خانے میں رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

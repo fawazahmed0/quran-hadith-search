@@ -3224,6 +3224,12 @@ un mein se koi mar jae tuh aap us ke janaze ki hargiz namaz na pade aur na us ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کبھی بھی ان (منافقوں) میں سے جو کوئی مر جائے اس (کے جنازے) پر نماز نہ پڑھیں اور نہ ہی آپ اس کی قبر پر کھڑے ہوں (کیونکہ آپ کا کسی جگہ قدم رکھنا بھی رحمت و برکت کا باعث ہوتا ہے اور یہ آپ کی رحمت و برکت کے حق دار نہیں ہیں)۔ بیشک انہوں نے اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کے ساتھ کفر کیا اور وہ نافرمان ہونے کی حالت میں ہی مر گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ان (منافقین) میں سے جو کوئی مرجائے، تو تم اس پر کبھی نماز (جنازہ) مت پڑھنا، اور نہ اس کی قبر پر کھڑے ہونا یقین جانو یہ وہ لوگ ہیں جنہوں نے اللہ اور اس کے رسول کے ساتھ کفر کا رویہ اپنایا، اور اس حالت میں مرے ہیں کہ وہ نافرمان تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

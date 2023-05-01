@@ -3224,6 +3224,12 @@ aur tum mein se aage badne wale aur piche hatne wale bhi hamare ilm mein hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم اُن کو بھی جانتے ہیں جو تم سے پہلے گزر چکے اور بیشک ہم بعد میں آنے والوں کو بھی جانتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم میں سے جو آگے نکل گئے ہیں، ان کو بھی ہم جانتے ہیں اور جو پیچھے رہ گئے ہیں ان سے بھی ہم واقف ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

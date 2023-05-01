@@ -3224,6 +3224,12 @@ jis din us khazane ko atishe dozakh mein tapaya jaega phir us se un ki peshaniya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن اس (سونے، چاندی اور مال) پر دوزخ کی آگ میں تاپ دی جائے گی پھر اس (تپے ہوئے مال) سے ان کی پیشانیاں اور ان کے پہلو اور ان کی پیٹھیں داغی جائیں گی، (اور ان سے کہا جائے گا) کہ یہ وہی (مال) ہے جو تم نے اپنی جانوں (کے مفاد) کے لئے جمع کیا تھا سو تم (اس مال کا) مزہ چکھو جسے تم جمع کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن اس دولت کو جہنم کی آگ میں تپایا جائے گا، پھر اس سے ان لوگوں کی پیشانیوں اور ان کی کروٹیں اور ان کی پیٹھیں داغی جائیں گی، (اور کہا جائے گا کہ) یہ ہے وہ خزانہ جو تم نے اپنے لیے جمع کیا تھا، اب چکھو اس خزانے کا مزہ جو تم جوڑ جوڑ کر رکھا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

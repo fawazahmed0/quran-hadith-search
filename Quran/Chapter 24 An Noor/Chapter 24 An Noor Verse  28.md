@@ -3224,6 +3224,12 @@ agar wahaan tumhe koyi bhi na mil sake to phir ijaazath mile baghair andar na ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر تم ان (گھروں) میں کسی شخص کو موجود نہ پاؤ تو تم ان کے اندر مت جایا کرو یہاں تک کہ تمہیں (اس بات کی) اجازت دی جائے اور اگر تم سے کہا جائے کہ واپس چلے جاؤ تو تم واپس پلٹ جایا کرو، یہ تمہارے حق میں بڑی پاکیزہ بات ہے، اور اللہ ان کاموں سے جو تم کرتے ہو خوب آگاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم ان گھروں میں کسی کو نہ پاؤ تب بھی ان میں اس وقت تک داخل نہ ہو جب تک تمہیں اجازت نہ دے دی جائے۔ اور اگر تم سے کہا جائے کہ : واپس چلے جاؤ۔ تو واپس چلے جاؤ۔ یہی تمہارے لیے پاکیزہ ترین طریقہ ہے، اور تم جو عمل بھی کرتے ہو اللہ کو اس کا پورا پورا علم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

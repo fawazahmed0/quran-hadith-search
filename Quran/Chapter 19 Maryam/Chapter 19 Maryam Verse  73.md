@@ -3224,6 +3224,12 @@ jab un ke saamne hamaari roushan aayate tilaawath ki jaati hai, to kaafir musalm
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان پر ہماری روشن آیتیں تلاوت کی جاتی ہیں تو کافر لوگ ایمان والوں سے کہتے ہیں: (اسی دنیا میں دیکھ لو! ہم) دونوں گروہوں میں سے کس کی رہائش گاہ بہتر اور مجلس خوب تر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان کے سامنے ہماری کھلی کھلی آیتیں تلاوت کی جاتی ہیں، تو کافر لوگ مومنوں سے کہتے ہیں کہ : بتاؤ، ہم دونوں فریقوں میں سے کس کا مقام زیادہ بہتر ہے، اور کس کی مجلس زیادہ اچھی ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ta ke tum un ki peet par jam kar sawaar hoa karo phir apne rab ki nemath ko yaad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ تم ان کی پشتوں (یا نشستوں) پر درست ہو کر بیٹھ سکو، پھر تم اپنے رب کی نعمت کو یاد کرو، جب تم سکون سے اس (سواری کی نشست) پر بیٹھ جاؤ تو کہو: پاک ہے وہ ذات جس نے اِس کو ہمارے تابع کر دیا حالانکہ ہم اِسے قابو میں نہیں لا سکتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ تم ان کی پشت پر چڑھو، پھر جب ان پر چڑھ کر بیٹھ جاؤ تو اپنے پروردگار کی نعمت کو یاد کرو، اور یہ کہو کہ : پاک ہے وہ ذات جس نے اس سواری کو ہمارے بس میں دے دیا، ورنہ ہم میں سے یہ طاقت نہیں تھی کہ اس کو قابو میں لاسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

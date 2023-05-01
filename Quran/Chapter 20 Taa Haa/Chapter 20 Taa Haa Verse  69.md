@@ -3224,6 +3224,12 @@ aur tere daaye haath mein jo hai, ose daal de ke un ke tamaam kaarigari ko wo ni
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم (اس لاٹھی کو) جو تمہارے داہنے ہاتھ میں ہے (زمین پر) ڈال دو وہ اس (فریب) کو نگل جائے گی جو انہوں نے (مصنوعی طور پر) بنا رکھا ہے۔ جو کچھ انہوں نے بنا رکھا ہے (وہ تو) فقط جادوگر کا فریب ہے، اور جادوگر جہاں کہیں بھی آئے گا فلاح نہیں پائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو (لاٹھی) تمہارے دائیں ہاتھ میں ہے، اسے (زمین پر) ڈال دو ، ان لوگوں نے جو کاریگری کی ہے، وہ اس سب کو نگل جائے گی، ان کی ساری کاریگری ایک جادوگر کے کرتب کے سوا کچھ نہیں، اور جادوگر چاہے کہیں چلا جائے، اسے فلاح نصیب نہیں ہوتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

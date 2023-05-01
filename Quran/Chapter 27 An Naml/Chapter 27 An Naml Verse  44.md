@@ -3224,6 +3224,12 @@ us se kaha gaya ke mahal mein chali chalo, jise dekha ke ye samajh kar ke ye hau
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس (ملکہ) سے کہا گیا: اس محل کے صحن میں داخل ہو جا (جس کے نیچے نیلگوں پانی کی لہریں چلتی تھیں)، پھر جب ملکہ نے اس (مزیّن بلوریں فرش) کو دیکھا تو اسے گہرے پانی کا تالاب سمجھا اور اس نے (پائینچے اٹھا کر) اپنی دونوں پنڈلیاں کھول دیں، سلیمان (علیہ السلام) نے فرمایا: یہ تو محل کا شیشوں جڑا صحن ہے، اس (ملکہ) نے عرض کیا: اے میرے پروردگار! (میں اسی طرح فریبِ نظر میں مبتلا تھی) بیشک میں نے اپنی جان پر ظلم کیا اور اب میں سلیمان (علیہ السلام) کی معیّت میں اس اللہ کی فرمانبردار ہو گئی ہوں جو تمام جہانوں کا رب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سے کہا گیا کہ : اس محل میں داخل ہوجاؤ اس نے جو دیکھا تو یہ سمجھی کہ یہ پانی ہے، اس لیے اس نے (پائینچے چڑھا کر) اپنی پنڈلیاں کھول دیں۔ سلیمان نے کہا کہ : یہ تو محل ہے جو شیشوں کی وجہ سے شفاف نظر آرہا ہے۔ ملکہ بول اٹھی : میرے پروردگار ! حقیقت یہ ہے کہ میں نے (اب تک) اپنی جان پر ظلم کیا ہے اور اب میں نے سلیمان کے ساتھ رب العالمین کی فرمانبرداری قبول کرلی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur wo apne liye jo na pasand rakhte hai Allah ke liye saabith karte hai aur un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ اللہ کے لئے وہ کچھ مقرر کرتے ہیں جو (اپنے لئے) ناپسند کرتے ہیں اور ان کی زبانیں جھوٹ بولتی ہیں کہ ان کے لئے بھلائی ہے، (ہرگز نہیں!) حقیقت یہ ہے کہ ان کے لئے دوزخ ہے اور یہ (دوزخ میں) سب سے پہلے بھیجے جائیں گے (اور اس میں ہمیشہ کے لئے چھوڑ دیئے جائیں گے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے اللہ کے لیے وہ چیزیں گھڑ رکھی ہیں جنہیں خود ناپسند کرتے ہیں، پھر بھی ان کی زبانیں (اپنی) جھوٹی تعریف کرتی رہتی ہیں کہ ساری بھلائی انہی کے حصے میں ہے۔ لازمی بات ہے کہ (ایسے رویے کی وجہ سے) ان کے حصے میں تو دوزخ ہے، اور انہیں اسی میں پڑا رہنے دیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

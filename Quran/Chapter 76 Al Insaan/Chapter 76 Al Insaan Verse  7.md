@@ -3224,6 +3224,12 @@ jo nazar puri karte hai aur us din se darte hai jis ki buraayi chaaro taraf phai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ بندگانِ خاص وہ ہیں) جو (اپنی) نذریں پوری کرتے ہیں اور اس دن سے ڈرتے ہیں جس کی سختی خوب پھیل جانے والی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جو اپنی منتیں پوری کرتے ہیں، اور اس دن کا خوف دل میں رکھتے ہیں جس کے برے اثرات ہر طرف پھیلے ہوئے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

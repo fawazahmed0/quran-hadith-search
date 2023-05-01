@@ -3224,6 +3224,12 @@ phir un ke baadh aise na qalaf paida hoye, ke unhone namaaz zaaye kardi aur nafs
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان کے بعد وہ ناخلف جانشین ہوئے جنہوں نے نمازیں ضائع کردیں اور خواہشاتِ (نفسانی) کے پیرو ہوگئے تو عنقریب وہ آخرت کے عذاب (دوزخ کی وادئ غی) سے دوچار ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ان کے بعد ایسے لوگ ان کی جگہ آئے جنہوں نے نمازوں کو برباد کیا، اور اپنی نفسانی خواہشات کے پیچھے چلے۔ چنانچہ ان کی گمراہی بہت جلد ان کے سامنے آجائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

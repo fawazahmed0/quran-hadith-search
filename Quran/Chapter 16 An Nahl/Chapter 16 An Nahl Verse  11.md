@@ -3224,6 +3224,12 @@ osi se wo tumhaare liye kheti aur zaitoon aur khajoor aur angoor aur har qism ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُسی پانی سے تمہارے لئے کھیت اور زیتون اور کھجور اور انگور اور ہر قسم کے پھل (اور میوے) اگاتا ہے، بیشک اِس میں غور و فکر کرنے والے لوگوں کے لئے نشانی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی سے اللہ تمہارے لیے کھیتیاں، زیتون، کھجور کے درخت، انگور اور ہر قسم کے پھل اگاتا ہے۔ حقیقت یہ ہے کہ ان سب باتوں میں ان لوگوں کے لیے بڑی نشانی ہے جو سوچتے سمجھتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

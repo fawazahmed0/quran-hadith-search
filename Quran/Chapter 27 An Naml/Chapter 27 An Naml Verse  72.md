@@ -3224,6 +3224,12 @@ jawaab di jiye! ke shaayad baaz wo cheeze jin ki tum jaldi macha rahe ho, tum se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کچھ بعید نہیں کہ اس (عذاب) کا کچھ حصہ تمہارے نزدیک ہی آپہنچا ہو جسے تم بہت جلد طلب کر رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : کچھ بعید نہیں ہے کہ جس عذاب کی تم جلدی مچا رہے ہو، اس کا کچھ حصہ تمہارے بالکل پاس آلگا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jab ye qaafila juda hoa to un ke waalid ne kaha ke mujhe to yousuf ki qushbo aa 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب قافلہ (مصر سے) روانہ ہوا ان کے والد (یعقوب علیہ السلام) نے (کنعان میں بیٹھے ہی) فرما دیا: بیشک میں یوسف کی خوشبو پا رہا ہوں اگر تم مجھے بڑھاپے کے باعث بہکا ہوا خیال نہ کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یہ قافلہ (مصر سے کنعان کی طرف) روانہ ہوا تو ان کے والد نے (کنعان میں آس پاس کے لوگوں سے) کہا کہ : اگر تم مجھے یہ نہ کہو کہ بوڑھا سٹھیا گیا ہے، تو مجھے تو یوسف کی خوشبو آرہی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

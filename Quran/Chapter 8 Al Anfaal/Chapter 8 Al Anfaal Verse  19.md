@@ -3224,6 +3224,12 @@ agar tum log faisla chahte ho tuh wo faisla tumhare samne aa maujod hoa aur agar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے کافرو!) اگر تم نے فیصلہ کن فتح مانگی تھی تو یقیناً تمہارے پاس (حق کی) فتح آچکی اور اگر تم (اب بھی) باز آجاؤ تو یہ تمہارے حق میں بہتر ہے، اور اگر تم پھر یہی (شرارت) کرو گے (تو) ہم (بھی) پھر یہی (سزا) دیں گے اور تمہارا لشکر تمہیں ہرگز کفایت نہ کرسکے گا اگرچہ کتنا ہی زیادہ ہو اور بیشک اللہ مومنوں کے ساتھ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے کافرو) اگر تم فیصلہ چاہتے تھے، تو لو ! اب فیصلہ تمہارے سامنے آگیا ہے۔ اب اگر تم باز آجاؤ تو یہ تمہارے ہی لیے بہتر ہوگا، اور اگر تم پھر وہی کام کرو گے (جو اب تک کرتے رہے ہو) تو ہم بھی پھر وہی کام کریں گے (جو اب کیا ہے) ۔ اور تمہارا جتھا تمہارے کچھ کام نہیں آئے گا، چاہے وہ کتنا زیادہ ہو اور یاد رکھو کہ اللہ مومنوں کے ساتھ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

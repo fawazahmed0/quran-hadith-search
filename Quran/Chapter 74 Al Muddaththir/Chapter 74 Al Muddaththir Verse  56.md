@@ -3224,6 +3224,12 @@ aur wo us waqt nasihath haasil karenge, jab Allah ta’ala chaahe, wo osi laayeq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ لوگ (اِسے) یاد نہیں رکھیں گے مگر جب اللہ چاہے گا، وُہی تقوٰی (و پرہیزگاری) کا مستحق ہے اور مغفرت کا مالک ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ نصیحت حاصل کریں گے نہیں، الا یہ کہ اللہ ہی ایسا چاہے۔ وہی اس بات کا اہل ہے کہ اس سے ڈرا جائے اور وہی اس کا اہل ہے کہ لوگوں کی مغفرت کرے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

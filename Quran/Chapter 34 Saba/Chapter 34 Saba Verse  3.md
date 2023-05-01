@@ -3224,6 +3224,12 @@ kuffaar kehte hai ke hum par qayaamath nahi ayegi, aap(sallallahu alaihi wasalla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ کہتے ہیں کہ ہم پر قیامت نہیں آئے گی، آپ فرما دیں: کیوں نہیں؟ میرے عالم الغیب رب کی قسم وہ تم پر ضرور آئے گی، اس سے نہ آسمانوں میں ذرّہ بھر کوئی چیز غائب ہوسکتی ہے اور نہ زمین میں اور نہ ہی اس ذرّے سے کوئی چھوٹی (چیز ہے) اور نہ ہی کوئی بڑی مگر (اس کی تفصیل بھی) روشن کتاب (یعنی لوحِ محفوظ) میں (لکھی ہوئی) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے وہ کہتے ہیں کہ : ہم پر قیامت نہیں آئے گی، کہہ دو : کیوں نہیں آئے گی ؟ میرے عالم الغیب پروردگار کی قسم ! وہ تم پر ضرور آکر رہے گی۔ کوئی ذرہ برابر چیز اس کی نظر سے دور نہیں ہوتی۔ نہ آسمانوں میں، نہ زمین میں اور نہ اس سے چھوٹی کوئی چیز ایسی ہے نہ بڑی جو ایک کھلی کتاب (یعنی لوح محفوظ) میں درج نہ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

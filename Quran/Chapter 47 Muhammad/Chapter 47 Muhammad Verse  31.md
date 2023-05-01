@@ -3224,6 +3224,12 @@ yaqinan hum tumhaara imtehaan karenge ta ke tum mein se jihaad karne waalo aur s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم ضرور تمہاری آزمائش کریں گے یہاں تک کہ تم میں سے (ثابت قدمی کے ساتھ) جہاد کرنے والوں اور صبر کرنے والوں کو (بھی) ظاہر کر دیں اور تمہاری (منافقانہ بزدلی کی مخفی) خبریں (بھی) ظاہر کر دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم ضرور تمہیں آزمائش میں ڈالیں گے، تاکہ ہم یہ دیکھ لیں کہ تم میں سے کون ہیں جو مجاہد اور ثابت قدم رہنے والے ہیں، اور تاکہ تمہارے حالات کی جانچ پڑتال کرلیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

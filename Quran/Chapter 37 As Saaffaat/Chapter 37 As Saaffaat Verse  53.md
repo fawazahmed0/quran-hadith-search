@@ -3224,6 +3224,12 @@ kya jab ke hum mar kar mitthi aur haddi ho jayenge, kya us waqt hum jaza diye ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا جب ہم مر جائیں گے اور ہم مٹی اور ہڈیاں ہو جائیں گے تو کیا ہمیں (اس حال میں) بدلہ دیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا جب ہم مٹی اور ہڈیوں میں تبدیل ہوجائیں گے تو کیا واقعی ہمیں (اپنے کاموں کا) بدلہ دیا جائے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

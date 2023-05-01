@@ -3224,6 +3224,12 @@ beshak Allah ta’ala hee ke paas qayaamath ka ilm hai, wahi baarish naazil farm
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ ہی کے پاس قیامت کا علم ہے، اور وہی بارش اتارتا ہے، اور جو کچھ رحموں میں ہے وہ جانتا ہے، اور کوئی شخص یہ نہیں جانتا کہ وہ کل کیا (عمل) کمائے گا، اور نہ کوئی شخص یہ جانتا ہے کہ وہ کِس سرزمین پر مرے گا، بیشک اللہ خوب جاننے والا ہے، خبر رکھنے والا ہے (یعنی علیم بالذّات ہے اور خبیر للغیر ہے، اَز خود ہر شے کا علم رکھتا ہے اور جسے پسند فرمائے باخبر بھی کر دیتا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقیناً (قیامت کی) گھڑی کا علم اللہ ہی کے پاس ہے، وہی بارش برساتا ہے، اور وہی جانتا ہے کہ ماؤں کے پیٹ میں کیا ہے، اور کسی متنفس کو یہ پتہ نہیں ہے کہ وہ کل کیا کمائے گا اور نہ کسی متنفس کو یہ پتہ ہے کہ کونسی زمین میں اسے موت آئے گی۔ بیشک اللہ ہر چیز کا مکمل علم رکھنے والا، ہر بات سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

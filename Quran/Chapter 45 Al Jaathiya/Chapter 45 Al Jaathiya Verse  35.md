@@ -3224,6 +3224,12 @@ ye is liye hai ke tum ne Allah ta’ala ki aayato ki hasi udaayi thi aur dunya k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس وجہ سے (ہے) کہ تم نے اللہ کی آیتوں کو مذاق بنا رکھا تھا اور دنیوی زندگی نے تمہیں دھوکہ میں ڈال دیا تھا، سو آج نہ تو وہ اُس (دوزخ) سے نکالے جائیں گے اور نہ اُن سے توبہ کے ذریعے (اللہ کی) رضاجوئی قبول کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب اس لیے کہ تم نے اللہ کی آیتوں کو مذاق بنایا تھا اور دنیوی زندگی نے تمہیں دھوکے میں ڈال دیا تھا۔ چنانچہ آج ایسے لوگوں کو نہ وہاں سے نکالا جائے گا، اور نہ ان سے معافی مانگنے کو کہا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jo kuch Allah ta’ala ne tujhe de rakha hai, us mein se aaqirath ke ghar ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تو اس (دولت) میں سے جو اللہ نے تجھے دے رکھی ہے آخرت کا گھر طلب کر، اور دنیا سے (بھی) اپنا حصہ نہ بھول اور تو (لوگوں سے ویسا ہی) احسان کر جیسا احسان اللہ نے تجھ سے فرمایا ہے اور ملک میں (ظلم، ارتکاز اور استحصال کی صورت میں) فساد انگیزی (کی راہیں) تلاش نہ کر، بیشک اللہ فساد بپا کرنے والوں کو پسند نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے تمہیں جو کچھ دے رکھا ہے اس کے ذریعے آخرت والا گھر بنانے کی کوشش کرو۔ اور دنیا میں سے بھی اپنے حصے کو نظر انداز نہ کرو۔ اور جس طرح اللہ نے تم پر احسان کیا ہے تم بھی (دوسروں پر) احسان کرو۔ اور زمین میں فساد مچانے کی کوشش نہ کرو۔ یقین جانو اللہ فساد مچانے والوں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ haan jo imaan laaye aur nek amaal kare us ke liye to badhle mein bhalaayi hain, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص ایمان لے آئے گا اور نیک عمل کرے گا تو اس کے لئے بہتر جزا ہے اور ہم (بھی) اس کے لئے اپنے احکام میں آسان بات کہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ جو کوئی ایمان لائے گا، اور نیک عمل کرے گا تو وہ بدلے کے طور پر اچھے انجام کا مستحق ہوگا، اور ہم بھی اس کو اپنا حکم دیتے وقت آسانی کی بات کہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

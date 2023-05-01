@@ -3224,6 +3224,12 @@ kya aap ne nahi dekha ke Allah ta’ala ne paakiza baat ki misaal kis tarah baya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے نہیں دیکھا، اللہ نے کیسی مثال بیان فرمائی ہے کہ پاکیزہ بات اس پاکیزہ درخت کی مانند ہے جس کی جڑ (زمین میں) مضبوط ہے اور اس کی شاخیں آسمان میں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ اللہ نے کلمہ طیبہ کی کیسی مثال بیان کی ہے ؟ وہ ایک پاکیزہ درخت کی طرح ہے جس کی جڑ (زمین میں) مضبوطی سے جمی ہوئی ہے، اور اس کی شاخیں آسمان میں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Kahin aisa na ho ke baad mein koi shaks kahey “ Afsos meri us taqsir(negligenc
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ایسا نہ ہو) کہ کوئی شخص کہنے لگے: ہائے افسوس! اس کمی اور کوتاہی پر جو میں نے اللہ کے حقِ (طاعت) میں کی اور میں یقیناً مذاق اڑانے والوں میں سے تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہیں ایسا نہ ہو کہ کسی شخص کو یہ کہنا پڑے کہ : ” ہائے افسوس میری اس کوتاہی پر جو میں نے اللہ کے معاملے میں برتی ! اور سی بات یہ کہ میں تو (اللہ تعالیٰ کے احکام کا) مذاق اڑانے والوں میں شامل ہوگیا تھا۔ “
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

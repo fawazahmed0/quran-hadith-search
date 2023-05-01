@@ -3224,6 +3224,12 @@ pus us ki saza mein Allah ne unke dilo mein nifaq dal diya Allah se milne ke din
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اس نے ان کے دلوں میں نفاق کو (ان کے اپنے بخل کا) انجام بنا دیا اس دن تک کہ جب وہ اس سے ملیں گے اس وجہ سے کہ انہوں نے اللہ سے اپنے کئے ہوئے عہد کی خلاف ورزی کی اور اس وجہ سے (بھی) کہ وہ کذب بیانی کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نتیجہ یہ کہ اللہ نے سزا کے طور پر نفاق ان کے دلوں میں اس دن تک کے لیے جما دیا ہے جس دن وہ اللہ سے جاکر ملیں گے، کیونکہ انہوں نے اللہ سے جو وعدہ کیا تھا، اس کی خلاف ورزی کی، اور کیونکہ وہ جھوٹ بولا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

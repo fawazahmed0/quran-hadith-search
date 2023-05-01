@@ -3224,6 +3224,12 @@ puchiye ke ye bhi bata do ke agar Allah ta’ala tum par hamesha qayaamath tak d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: ذرا یہ (بھی) بتاؤ کہ اگر اللہ تمہارے اوپر روزِ قیامت تک ہمیشہ دن طاری فرما دے (تو) اللہ کے سوا کون معبود ہے جو تمہیں رات لا دے کہ تم اس میں آرام کر سکو، کیا تم دیکھتے نہیں ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو : ذرا یہ بتلاؤ کہ اگر اللہ تم پر دن کو ہمیشہ کے لیے قیامت کے دن تک مسلط کردے تو اللہ کے سوا کونسا معبود ہے جو تمہیں وہ رات لاکر دیدے جس میں تم سکون حاصل کرسکو ؟ بھلا کیا تمہیں کچھ سجھائی نہیں دیتا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

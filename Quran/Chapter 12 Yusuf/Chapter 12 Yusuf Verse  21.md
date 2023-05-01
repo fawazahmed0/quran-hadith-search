@@ -3224,6 +3224,12 @@ misr walo mein se jis ne ose qarida tha us ne apni biwi se kaha ke ise bahuth iz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور مصر کے جس شخص نے اسے خریدا تھا (اس کا نام قطفیر تھا اور وہ بادشاہِ مصر ریان بن ولید کا وزیر خزانہ تھا اسے عرف عام میں عزیزِ مصر کہتے تھے) اس نے اپنی بیوی (زلیخا) سے کہا: اسے عزت و اکرام سے ٹھہراؤ! شاید یہ ہمیں نفع پہنچائے یا ہم اسے بیٹا بنا لیں، اور اس طرح ہم نے یوسف (علیہ السلام) کو زمین (مصر) میں استحکام بخشا اور یہ اس لئے کہ ہم اسے باتوں کے انجام تک پہنچنا (یعنی علمِ تعبیرِ رؤیا) سکھائیں، اور اللہ اپنے کام پر غالب ہے لیکن اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مصر کے جس آدمی نے انہیں خریدا، اس نے اپنی بیوی سے کہا کہ : اس کو عزت سے رکھنا۔ مجھے ایسا لگتا ہے کہ یہ ہمیں فائدہ پہنچائے گا، یا پھر ہم اسے بیٹا بنالیں گے، اس طرح ہم نے اس سرزمین میں یوسف کے قدم جمائے تاکہ انہیں باتوں کا صحیح مطلب نکالنا سکھائیں، اور اللہ کو اپنے کام پر پورا قابو حاصل ہے، لیکن بہت سے لوگ نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

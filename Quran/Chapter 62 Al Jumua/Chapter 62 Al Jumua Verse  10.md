@@ -3224,6 +3224,12 @@ phir jab namaaz ho chuke to zameen mein phail jaao aur Allah ka fazl talaash kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب نماز ادا ہوچکے تو زمین میں منتشر ہو جاؤ اور (پھر) اللہ کا فضل (یعنی رزق) تلاش کرنے لگو اور اللہ کو کثرت سے یاد کیا کرو تاکہ تم فلاح پاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب نماز پوری ہوجائے تو زمین میں منتشر ہوجاؤ، اور اللہ کا فضل تلاش کرو۔ اور اللہ کو کثرت سے یاد کرو تاکہ تمہیں فلاح نصیب ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

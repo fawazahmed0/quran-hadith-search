@@ -3224,6 +3224,12 @@ un par un ke rab ki nawaazishe aur rehmate hai aur yahi log hidaayath yaafta hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی وہ لوگ ہیں جن پر ان کے رب کی طرف سے پے در پے نوازشیں ہیں اور رحمت ہے، اور یہی لوگ ہدایت یافتہ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جن پر ان کے پروردگار کی طرف سے خصوصی عنایتیں ہیں، اور رحمت ہے اور یہی لوگ ہیں جو ہدایت پر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

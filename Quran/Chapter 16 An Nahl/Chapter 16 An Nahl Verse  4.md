@@ -3224,6 +3224,12 @@ us ne insaan ko nutfe se paida kiya, phir wo sarih jhagdaalo ban baitha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُسی نے انسان کو ایک تولیدی قطرہ سے پیدا فرمایا، پھر بھی وہ (اللہ کے حضور مطیع ہونے کی بجائے) کھلا جھگڑالو بن گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے انسان کو نطفے سے پیدا کیا، پھر دیکھتے ہی دیکھتے وہ کھلم کھلا جھگڑے پر آمادہ ہوگیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

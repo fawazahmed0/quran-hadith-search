@@ -3224,6 +3224,12 @@ kehne lage ke ise jala do aur apne khudaao ki madad karo, agar tumhe kuch karna 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: اس کو جلا دو اور اپنے (تباہ حال) معبودوں کی مدد کرو اگر تم (کچھ) کرنے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ (ایک دوسرے سے) کہنے لگے : آگ میں جلا ڈالو اس شخص کو، اور اپنے خداؤں کی مدد کرو، اگر تم میں کچھ کرنے کا دم خم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

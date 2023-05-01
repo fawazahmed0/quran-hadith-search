@@ -3224,6 +3224,12 @@ un ke muh se ye bath niklegi “ subhanAllah” aur un ka bahmi salaam ye hoga �
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(نعمتوں اور بہاروں کو دیکھ کر) ان (جنتوں) میں ان کی دعا (یہ) ہوگی: ”اے اللہ! تو پاک ہے“ اور اس میں ان کی آپس میں دعائے خیر (کا کلمہ) ”سلام“ ہوگا (یا اللہ تعالیٰ اور فرشتوں کی طرف سے ان کے لئے کلمۂ استقبال ”سلام“ ہوگا) اور ان کی دعا (ان کلمات پر) ختم ہوگی کہ ”تمام تعریفیں اللہ کے لئے ہیں جو سب جہانوں کا پروردگار ہے“
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس میں (داخلے کے وقت) ان کی پکار یہ ہوگی کہ :“ یا اللہ ! تیری ذات ہر عیب سے پاک ہے ” اور ایک دوسرے کے خیر مقدم کے لیے جو لفظ وہ بولیں گے، وہ سلام ہوگا، اور ان کی آخری پکار یہ ہوگی :“ تمام تعریفیں اللہ کی ہیں جو سارے جہانوں کا پروردگار ہے ”۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

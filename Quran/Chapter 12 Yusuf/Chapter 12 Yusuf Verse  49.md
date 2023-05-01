@@ -3224,6 +3224,12 @@ us ke baad jo saal ayega us mein logo par qoob baarish barsaai jaegi aur us mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اس کے بعد ایک سال ایسا آئے گا جس میں لوگوں کو (خوب) بارش دی جائے گی اور (اس سال اس قدر پھل ہوں گے کہ) لوگ اس میں (پھلوں کا) رس نچوڑیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اس کے بعد ایک سال ایسا آئے گا جس میں لوگوں پر خوب بارش ہوگی، اور وہ اس میں انگور کا شیرہ نچوڑیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

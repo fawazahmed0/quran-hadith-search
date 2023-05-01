@@ -3224,6 +3224,12 @@ aur ye log jab aap ke paas aaye jo hamaari aayato par imaan rakhte hai to (yo) k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب آپ کے پاس وہ لوگ آئیں جو ہماری آیتوں پرایمان رکھتے ہیں تو آپ (ان سے شفقتًا) فرمائیں کہ تم پر سلام ہو تمہارے رب نے اپنی ذات (کے ذمّہ کرم) پر رحمت لازم کرلی ہے، سو تم میں سے جو شخص نادانی سے کوئی برائی کر بیٹھے پھر اس کے بعد توبہ کرلے اور (اپنی) اصلاح کر لے تو بیشک وہ بڑا بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تمہارے پاس وہ لوگ آئیں جو ہماری آیتوں پر ایمان رکھتے ہیں تو ان سے کہو : سلامتی ہو تم پر ! تمہارے پروردگار نے اپنے اوپر رحمت کا یہ معاملہ کرنا لازم کرلیا ہے کہ اگر تم میں سے کوئی نادانی سے کوئی برا کام کر بیٹھے، پھر اس کے بعد توبہ کرلے اور اپنی اصلاح کرلے تو اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

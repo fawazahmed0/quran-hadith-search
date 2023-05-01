@@ -3224,6 +3224,12 @@ aur jufth1 aur taaq2 ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جفت کی قَسم اور طاق کی قَسم٭o٭ جفت (جوڑا) سے مراد کل مخلوق ہے جو جوڑوں کی صورت میں پیدا کی گئی ہے، اور طاق (فرد و تنہا) سے مراد خالق ہے جو وحدہ لا شریک ہے۔ یا شَفع یومِ نحر (قربانی) اور وَتر یومِ عرفہ (حج) ہے، یا شَفع سے مراد دنیا کے شب و روز ہیں اور وَتر سے مراد یومِ قیامت ہے جس کی کوئی شب نہ ہوگی۔ یا شَفع سے مراد سال بھر کی عام جفت راتیں ہیں اور وَتر سے مراد سال بھر کی برکت والی طاق راتیں ہیں، مثلاً شبِ معراج، شبِ برات اور شبِ قدر وغیرہ جو پے در پے رجب، شعبان اور رمضان میں آتی ہیں۔ یا شَفع سے مراد حضرت آدم علیہ السلام اور حضرت حواء علیہا السلام کا پہلا جوڑا ہے اور وَتر سے مراد تنہا حضرت آدم علیہ السلام، جن سے تخلیقِ انسانیت کی ابتداء ہوئی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جفت کی اور طاق کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

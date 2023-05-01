@@ -3224,6 +3224,12 @@ halan ke kisi shaqs ka iman lana Allah ke hukm ke baghir mumkin nahi aur Allah t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کسی شخص کو (اَز خود یہ) قدرت نہیں کہ وہ بغیر اِذنِ الٰہی کے ایمان لے آئے۔ وہ (یعنی اللہ تعالی) کفر کی گندگی انہی لوگوں پر ڈالتا ہے جو (حق کو سمجھنے کے لئے) عقل سے کام نہیں لیتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کسی بھی شخص کے لیے یہ ممکن نہیں ہے کہ وہ اللہ کی اجازت کے بغیر مومن بن جائے، اور جو لوگ عقل سے کام نہیں لیتے، اللہ ان پر گندگی مسلط کردیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

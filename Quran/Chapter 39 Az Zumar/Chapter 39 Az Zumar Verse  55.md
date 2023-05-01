@@ -3224,6 +3224,12 @@ aur pairvi karo, us behetreen cheez ki, jo tumhaari taraf tumhaare parvardigaar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس بہترین (کتاب) کی پیروی کرو جو تمہارے رب کی طرف سے تمہاری جانب اتاری گئی ہے قبل اِس کے کہ تم پر اچانک عذاب آجائے اور تمہیں خبر بھی نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے پروردگار کی طرف سے تمہارے پاس جو بہترین باتیں نازل کی گئی ہیں، ان کی پیروی کرو، قبل اس کے کہ تم پر اچانک عذاب آجائے، اور تمہیں پتہ بھی نہ چلے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

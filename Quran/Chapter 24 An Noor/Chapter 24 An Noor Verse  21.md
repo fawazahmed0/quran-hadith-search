@@ -3224,6 +3224,12 @@ imaan waalo! shaitaan ke qadam ba qadam na chalo, jo shaqs shaitaani qadmo ki pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! شیطان کے راستوں پر نہ چلو، اور جو شخص شیطان کے نقوشِ قدم پر چلتا ہے تو وہ یقیناً بے حیائی اور برے کاموں (کے فروغ) کا حکم دیتا ہے، اور اگر تم پر اللہ کا فضل اور اس کی رحمت نہ ہوتی تو تم میں سے کوئی شخص بھی کبھی (اس گناہِ تہمت کے داغ سے) پاک نہ ہو سکتا لیکن اللہ جسے چاہتا ہے پاک فرما دیتا ہے، اور اللہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! تم شیطان کے پیچھے نہ چلو، اور اگر کوئی شخص شیطان کے پیچھے چلے، تو شیطان تو ہمیشہ بےحیائی اور بدی کی تلقین کرے گا۔ اور اگر تم پر اللہ کا فضل اور رحمت نہ ہوتی تو تم میں سے کوئی بھی کبھی پاک صاف نہ ہوتا، لیکن اللہ جس کو چاہتا ہے پاک صاف کردیتا ہے۔ اور اللہ ہر بات سنتا، ہر چیز جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

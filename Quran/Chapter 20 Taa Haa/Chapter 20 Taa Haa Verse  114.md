@@ -3224,6 +3224,12 @@ pas Allah aali shaan wala saccha aur haqiqi baadh-shaah hai, tu Qur’aan padne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اللہ بلند شان والا ہے وہی بادشاہِ حقیقی ہے، اور آپ قرآن (کے پڑھنے) میں جلدی نہ کیا کریں قبل اس کے کہ اس کی وحی آپ پر پوری اتر جائے، اور آپ (رب کے حضور یہ) عرض کیا کریں کہ اے میرے رب! مجھے علم میں اور بڑھا دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسی ہی اونچی شان ہے اللہ کی، جو سلطنت کا حقیقی مالک ہے۔ اور (اے پیغمبر) جب قرآن وحی کے ذریعے نازل ہورہا ہو تو اس کے مکمل ہونے سے پہلے قرآن پڑھنے میں جلدی نہ کیا کرو۔ اور یہ دعا کرتے رہا کرو کہ : میرے پروردگار ! مجھے علم میں اور ترقی عطا فرما۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

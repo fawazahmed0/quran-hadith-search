@@ -3224,6 +3224,12 @@ aise ke goya wo waha kabhi abaad hee na thein, agah raho ke qaum e samood ne apn
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+گویا وہ کبھی ان میں بسے ہی نہ تھے، یاد رکھو! (قومِ) ثمود نے اپنے رب سے کفر کیا تھا۔ خبردار! (قومِ) ثمود کے لئے (رحمت سے) دوری ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جیسے کبھی وہاں بسے ہی نہ تھے۔ یاد رکھو کہ ثمود نے اپنے رب کے ساتھ کفر کا معاملہ کیا تھا، یاد رکھو کہ بربادی ثمود ہی کی ہوئی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

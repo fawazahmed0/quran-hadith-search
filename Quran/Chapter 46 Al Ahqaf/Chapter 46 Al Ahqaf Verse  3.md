@@ -3224,6 +3224,12 @@ hum ne asmaano aur zameen aur un duno ke darmiyaan ki tamaam chizo ko behetreen 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آسمانوں کو اور زمین کو اور اس (مخلوقات) کو جو ان کے درمیان ہے پیدا نہیں کیا مگر حکمت اور مقررہ مدّت (کے تعیّن) کے ساتھ، اور جنہوں نے کفر کیا ہے انہیں جس چیز سے ڈرایا گیا اسی سے رُوگردانی کرنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے آسمانوں اور زمین کو اور ان کے درمیان کی چیزوں کو کسی برحق مقصد کے بغیر اور کسی متعین میعاد کے بغیر پیدا نہیں کردیا۔ اور جن لوگوں نے کفر اپنا لیا ہے وہ اس چیز سے منہ موڑے ہوئے ہیں جس سے انہیں خبردار کیا گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

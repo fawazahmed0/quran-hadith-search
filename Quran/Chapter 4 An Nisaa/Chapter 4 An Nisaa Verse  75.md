@@ -3224,6 +3224,12 @@ bhala kya wajeh hai ke tum Allah ki raah mein aur un na-tawaa mardu,aurto aur na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (مسلمانو!) تمہیں کیا ہوگیا ہے کہ تم اللہ کی راہ میں (مظلوموں کی آزادی اور اُن کے خلاف ہونے والی دہشت گردی کے خاتمے کے لیے) جنگ نہیں کرتے حالانکہ کمزور، مظلوم اور مقہور مرد، عورتیں اور بچے (ظلم و ستم سے تنگ آ کر اپنی آزادی کے لیے) پکارتے ہیں: اے ہمارے رب! ہمیں اس بستی سے نکال لے جہاں کے (مؤثر اور طاقت ور) لوگ ظالم ہیں اور کسی کو اپنی بارگاہ سے ہمارا کارساز مقرر فرما دے اور کسی کو اپنی بارگاہ سے ہمارا مددگار بنا دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے مسلمانو) تمہارے پاس کیا جواز ہے کہ اللہ کے راستے میں اور ان بےبس مردوں، عورتوں اور بچوں کی خاطر نہ لڑو جو یہ دعا کر رہے ہیں کہ : اے ہمارے پروردگار ! ہمیں اس بستی سے نکال لایئے جس کے باشندے ظلم توڑ رہے ہیں، اور ہمارے لیے اپنی طرف سے کوئی حامی پیدا کردیجیے، اور ہمار لیے اپنی طرف سے کوئی مددگار کھڑا کردیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

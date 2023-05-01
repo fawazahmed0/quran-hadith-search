@@ -3224,6 +3224,12 @@ yaqeen maano ke asmaano aur zameen ki poshida batein Allah qoob jaanta hai aur j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ آسمانوں اور زمین کے سب غیب جانتا ہے، اور اللہ جو عمل بھی تم کرتے ہو اسے خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 واقعہ یہ ہے کہ اللہ آسمانوں اور زمین کی ہر پوشیدہ بات کو خوب جانتا ہے، اور جو کچھ تم کرتے ہو اللہ اسے اچھی طرح دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

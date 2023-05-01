@@ -3224,6 +3224,12 @@ aur us aurath se saza is tarah door ho sakti hai ke wo chaar martaba Allah ki qa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اسی طرح) یہ بات اس (عورت) سے (بھی) سزا کو ٹال سکتی ہے کہ وہ چار مرتبہ اللہ کی قسم کھا کر (خود) گواہی دے کہ وہ (مرد اس تہمت کے لگانے میں) جھوٹا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور عورت سے (زنا کی) سزا دور کرنے کا راستہ یہ ہے کہ وہ چار مرتبہ اللہ کی قسم کھا کر یہ گواہی دے کہ اس کا شوہر (اس الزام میں) جھوٹا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

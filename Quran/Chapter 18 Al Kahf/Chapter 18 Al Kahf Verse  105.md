@@ -3224,6 +3224,12 @@ yahi wo log hain jinhone apne parvardigaar ki aayato aur us ki mulaqaath se kufr
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی وہ لوگ ہیں جنہوں نے اپنے رب کی نشانیوں کا اور (مرنے کے بعد) اس سے ملاقات کا انکار کردیا ہے سو ان کے سارے اعمال اکارت گئے پس ہم ان کے لئے قیامت کے دن کوئی وزن اور حیثیت (ہی) قائم نہیں کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہی لوگ ہیں جنہوں نے اپنے مالک کی آیتوں کا اور اس کے سامنے پیش ہونے کا انکار کیا، اس لیے ان کا سارا کیا دھرا غارت ہوگیا۔ چنانچہ قیامت کے دن ہم ان کا کوئی وزن شمار نہیں کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

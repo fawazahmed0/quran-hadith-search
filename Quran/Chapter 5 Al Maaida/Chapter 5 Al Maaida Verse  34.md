@@ -3224,6 +3224,12 @@ haan jo log us se pehle tauba karle ke tum un par qaabo pa lo,tuh yaqin mano ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر جن لوگوں نے، قبل اس کے کہ تم ان پر قابو پا جاؤ، توبہ کرلی، سو جان لو کہ اللہ بہت بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں وہ لوگ اس سے مستثنی ہیں جو تمہارے ان کو قابو میں لانے سے پہلے ہی توبہ کرلیں ایسی صورت میں یہ جان رکھو کہ اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

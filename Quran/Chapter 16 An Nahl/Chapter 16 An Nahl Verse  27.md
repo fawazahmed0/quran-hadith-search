@@ -3224,6 +3224,12 @@ phir qayamath waale din bhi Allah ta’ala unhe ruswa karega aur farmayega ke me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر وہ اُنہیں قیامت کے دن رسوا کرے گا اور ارشاد فرمائے گا: میرے وہ شریک کہاں ہیں جن کے حق میں تم (مومنوں سے) جھگڑا کرتے تھے؟ وہ لوگ جنہیں علم دیا گیا ہے کہیں گے: بیشک آج کافروں پر (ہر قسم کی) رسوائی اور بربادی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر قیامت کے دن اللہ انہیں رسوا کرے گا، اور ان سے پوچھے گا کہ : کہاں ہیں وہ میرے شریک جن کی خاطر تم (مسلمانوں سے) جھگڑا کیا کرتے تھے ؟ جن لوگوں کو علم عطا ہوا ہے وہ (اس دن) کہیں گے کہ : بڑی رسوائی اور بدحالی مسلط ہے آج ان کافروں پر۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

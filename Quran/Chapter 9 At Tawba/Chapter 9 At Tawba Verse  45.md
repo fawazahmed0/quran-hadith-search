@@ -3224,6 +3224,12 @@ ye ijazath tuh tujh se wahi talab karte hai jinhe na Allah par iman hai na aqira
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ سے (جہاد میں شریک نہ ہونے کی) رخصت صرف وہی لوگ چاہیں گے جو اللہ پر اور یومِ آخرت پر ایمان نہیں رکھتے اور ان کے دل شک میں پڑے ہوئے ہیں سو وہ اپنے شک میں حیران و سرگرداں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم سے اجازت تو وہ لوگ مانگتے ہیں جو اللہ اور یوم آخرت پر ایمان نہیں رکھتے، اور ان کے دل شک میں پڑے ہوئے ہیں، اور وہ اپنے شک کی وجہ سے ڈانواڈول ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

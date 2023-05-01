@@ -3224,6 +3224,12 @@ asmaano aur zameen mein jo kuch hai sab Allah ta’ala hee ka hai aur Allah ta�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (سب) اللہ ہی کا ہے جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے اور اللہ ہر چیز کا احاطہ فرمائے ہوئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین میں جو کچھ ہے اللہ ہی کا ہے، اور اللہ نے ہر چیز کو (اپنی قدرت کے) احاطے میں لیا ہوا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

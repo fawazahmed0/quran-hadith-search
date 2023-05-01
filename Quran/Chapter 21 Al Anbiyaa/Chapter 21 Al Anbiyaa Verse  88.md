@@ -3224,6 +3224,12 @@ to hum ne us ki pukaar sun li aur ose gham se najaath de di aur hum imaan waalo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ہم نے ان کی دعا قبول فرما لی اور ہم نے انہیں غم سے نجات بخشی، اور اسی طرح ہم مومنوں کو نجات دیا کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر ہم نے ان کی دعا قبول کی، اور انہیں گھٹن سے نجات عطا کی۔ اور اسی طرح ہم ایمان رکھنے والوں کو نجات دیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

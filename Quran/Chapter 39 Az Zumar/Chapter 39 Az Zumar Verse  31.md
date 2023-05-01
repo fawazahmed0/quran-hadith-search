@@ -3224,6 +3224,12 @@ phir tum sab ke sab qayaamath ke din apne rab ke saamne jhagdoge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر بلاشبہ تم لوگ قیامت کے دن اپنے رب کے حضور باہم جھگڑا کروگے*o* ایک گروہ دوسرے کو کہے گا کہ ہمیں مقامِ نبوّت اور شانِ رسالت کو سمجھنے سے تم نے روکا تھا، وہ کہیں گے: نہیں تم خود ہی بدبخت اور گمراہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر تم سب قیامت کے دن اپنے پروردگار کے پاس اپنا مقدمہ پیش کرو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur un logo ko us shaqs ka haal pad kar sunaiye ke jis ko hum ne apni aayate di,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے رسول) ان کو اس شخص کا واقعہ پڑھ کر سناؤ جس کو ہم نے اپنی آیتیں عطا فرمائیں مگر وہ ان کو بالکل چھوڑ نکلا، پھر شیطان اس کے پیچھے لگا، جس کا نتیجہ یہ ہوا کہ وہ گمراہ لوگوں میں شامل ہوگیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

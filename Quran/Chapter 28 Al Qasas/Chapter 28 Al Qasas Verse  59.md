@@ -3224,6 +3224,12 @@ tera rab kisi ek basti ko bhi us waqt tak halaak nahi karta, jab tak ke un ki ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کا رب بستیوں کو تباہ کرنے والا نہیں ہے یہاں تک کہ وہ اس کے بڑے مرکزی شہر (capital) میں پیغمبر بھیج دے جو ان پر ہماری آیتیں تلاوت کرے، اور ہم بستیوں کو ہلاک کرنے والے نہیں ہیں مگر اس حال میں کہ وہاں کے مکین ظالم ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارا پروردگار ایسا نہیں ہے کہ وہ بستیاں یونہی ہلاک کر ڈالے جب تک اس نے ان بستیوں کے مرکزی مقام پر کوئی رسول نہ بھیجا ہو، جو ان کو ہماری آیتیں پڑھ کر سنائے، اور ہم بستیوں کو اس وقت تک ہلاک کرنے والے نہیں ہیں جب تک ان کے باشندے ظالم نہ بن جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

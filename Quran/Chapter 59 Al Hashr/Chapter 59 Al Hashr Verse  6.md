@@ -3224,6 +3224,12 @@ aur un ka jo maal Allah ta’ala ne apne rasool ke haath lagaya hai, jis par na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو (اَموالِ فَے) اللہ نے اُن سے (نکال کر) اپنے رسول (صلی اللہ علیہ وآلہ وسلم) پر لَوٹا دیئے تو تم نے نہ تو اُن (کے حصول) پر گھوڑے دوڑائے تھے اور نہ اونٹ، ہاں! اللہ اپنے رسولوں کو جِس پر چاہتا ہے غلبہ و تسلّط عطا فرما دیتا ہے، اور اللہ ہر چیز پر بڑی قدرت رکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے اپنے رسول کو ان کا جو مال بھی فیئ کے طور پر دلوایا۔ اس کے لیے تم نے نہ اپنے گھوڑے دوڑائے، نہ اونٹ، لیکن اللہ اپنے پیغمبروں کو جس پر چاہتا ہے، تسلط عطا فرما دیتا ہے۔ اور اللہ ہر چیز پر پوری قدرت رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

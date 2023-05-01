@@ -3224,6 +3224,12 @@ aap keh dijiye! ke mujhe hukm diya gaya hai ke Allah ta’ala ki is tarah ibaada
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: مجھے حکم دیا گیا ہے کہ میں اللہ کی عبادت، اپنی طاعت و بندگی کو اس کے لئے خالص رکھتے ہوئے سر انجام دوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : مجھے تو حکم دیا گیا ہے کہ میں اللہ کی اس طرح عبادت کروں کہ میری بندگی خالص اسی کے لیے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

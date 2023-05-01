@@ -3224,6 +3224,12 @@ aye imaan walo apni qairaath ko ehsaan jataa kar aur eza pahochaa kar barbaadh n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اپنے صدقات (بعد ازاں) احسان جتا کر اور دُکھ دے کر اس شخص کی طرح برباد نہ کر لیا کرو جو مال لوگوں کے دکھانے کے لئے خرچ کرتا ہے اور نہ اللہ پر ایمان رکھتا ہے اور نہ روزِ قیامت پر، اس کی مثال ایک ایسے چکنے پتھر کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو پھر اس پر زوردار بارش ہو تو وہ اسے (پھر وہی) سخت اور صاف (پتھر) کر کے ہی چھوڑ دے، سو اپنی کمائی میں سے ان (ریاکاروں) کے ہاتھ کچھ بھی نہیں آئے گا، اور اللہ کافر قوم کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو اپنے صدقات کو احسان جتلا کر اور تکلیف پہنچا کر اس شخص کی طرح ضائع مت کرو جو اپنا مال لوگوں کو دکھانے کے لیے خرچ کرتا ہے اور اللہ اور یوم آخرت پر ایمان نہیں رکھتا۔ چنانچہ اس کی مثال ایسی ہے جیسے ایک چکنی چٹان پر مٹی جمی ہو، پھر اس پر زور کی بارش پڑے اور اس (مٹی کو بہا کر چٹان) کو (دوبارہ) چکنی بنا چھوڑے۔ ایسے لوگوں نے جو کمائی کی ہوتی ہے وہ ذرا بھی ان کے ہاتھ نہیں لگتی، اور اللہ (ایسے) کافروں کو ہدایت تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

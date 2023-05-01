@@ -3224,6 +3224,12 @@ aur un ke paas jab Allah ta’ala ki kitaab un ki kitaab ko saccha karne waali a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان کے پاس اللہ کی طرف سے وہ کتاب (قرآن) آئی جو اس کتاب (تورات) کی (اصلاً) تصدیق کرنے والی ہے جو ان کے پاس موجود تھی، حالانکہ اس سے پہلے وہ خود (نبی آخر الزمان حضرت محمد صلی اللہ علیہ وآلہ وسلم اور ان پر اترنے والی کتاب قرآن کے وسیلے سے) کافروں پر فتح یابی (کی دعا) مانگتے تھے، سو جب ان کے پاس وہی نبی (حضرت محمد صلی اللہ علیہ وآلہ وسلم اپنے اوپر نازل ہونے والی کتاب قرآن کے ساتھ) تشریف لے آیا جسے وہ (پہلے ہی سے) پہچانتے تھے تو اسی کے منکر ہو گئے، پس (ایسے دانستہ) انکار کرنے والوں پر اللہ کی لعنت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان کے پاس اللہ کی طرف سے وہ کتاب آئی (یعنی قرآن) جو اس (تورات) کی تصدیق بھی کرتی ہے جو پہلے سے ان کے پاس ہے (تو ان کا طرز عمل دیکھو) باوجودیکہ یہ خود شروع میں کافروں (یعنی بت پرستوں) کے خلاف (اس کتاب کے حوالے سے) اللہ سے فتح کی دعائیں مانگا کرتے تھے۔ مگر جب وہ چیز ان کے پاس آگئی جسے انہوں نے پہچان بھی لیا، تو اس کا انکار کر بیٹھے۔ پس پھٹکار ہے اللہ کی ایسے کافروں پر۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

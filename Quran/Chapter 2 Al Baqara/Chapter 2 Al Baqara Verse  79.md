@@ -3224,6 +3224,12 @@ un logo ke liye wayl15 hai jo apne haatho ki likhi hoyi kitaab ko Allah ta’ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ایسے لوگوں کے لئے بڑی خرابی ہے جو اپنے ہی ہاتھوں سے کتاب لکھتے ہیں، پھر کہتے ہیں کہ یہ اللہ کی طرف سے ہے تاکہ اس کے عوض تھوڑے سے دام کما لیں، سو ان کے لئے اس (کتاب کی وجہ) سے ہلاکت ہے جو ان کے ہاتھوں نے تحریر کی اور اس (معاوضہ کی وجہ) سے تباہی ہے جو وہ کما رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا تباہی ہے ان لوگوں کی جو اپنے ہاتھوں سے کتاب لکھتے ہیں، پھر (لوگوں سے) کہتے ہیں کہ یہ اللہ کی طرف سے ہے، تاکہ اس کے ذریعے تھوڑی سی آمدنی کما لیں۔ پس تباہی ہے ان لوگوں پر اس تحریر کی وجہ سے بھی جو ان کے ہاتھوں نے لکھی، اور تباہی ہے ان پر اس آمدنی کی وجہ سے بھی جو وہ کماتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

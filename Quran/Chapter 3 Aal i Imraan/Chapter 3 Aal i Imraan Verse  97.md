@@ -3224,6 +3224,12 @@ jis mein khuli khuli nishaaniya hai, muqaame Ibraheem hai, us mein jo aa jaaye, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس میں کھلی نشانیاں ہیں (ان میں سے ایک) ابراہیم (علیہ السلام) کی جائے قیام ہے، اور جو اس میں داخل ہوگیا امان پا گیا، اور اللہ کے لئے لوگوں پر اس گھر کا حج فرض ہے جو بھی اس تک پہنچنے کی استطاعت رکھتا ہو، اور جو (اس کا) منکر ہو تو بیشک اللہ سب جہانوں سے بے نیاز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس میں روشن نشانیاں ہیں، مقام ابراہیم ہے، اور جو اس میں داخل ہوتا ہے امن پا جاتا ہے۔ اور لوگوں میں سے جو لوگ اس تک پہنچنے کی استطاعت رکھتے ہوں ان پر اللہ کے لیے اس گھر کا حج کرنا فرض ہے، اور اگر کوئی انکار کرے تو اللہ دنیا جہان کے تمام لوگوں سے بےنیاز ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

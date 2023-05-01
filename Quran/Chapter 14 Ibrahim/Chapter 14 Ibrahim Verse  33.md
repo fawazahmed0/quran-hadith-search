@@ -3224,6 +3224,12 @@ osi ne tumhare liye suraj chaand ko musaqqar kar diya hai ke baraabar hee chal r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس نے تمہارے فائدہ کے لئے سورج اور چاند کو (باقاعدہ ایک نظام کا) مطیع بنا دیا جو ہمیشہ (اپنے اپنے مدار میں) گردش کرتے رہتے ہیں، اور تمہارے (نظامِ حیات کے) لئے رات اور دن کو بھی (ایک نظام کے) تابع کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہاری خاطر سورج اور چاند کو اس طرح کام پر لگایا کہ وہ مسلسل سفر میں ہیں، اور تمہاری خاطر رات اور دن کو بھی کام پر لگایا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

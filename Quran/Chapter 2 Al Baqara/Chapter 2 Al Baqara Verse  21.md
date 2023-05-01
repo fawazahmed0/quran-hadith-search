@@ -3224,6 +3224,12 @@ aye logo! apne us rub ki ibaadath karo jis ne tumhe aur tum se pehle ke logo ko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! اپنے رب کی عبادت کرو جس نے تمہیں پیدا کیا اور ان لوگوں کو (بھی) جو تم سے پیشتر تھے تاکہ تم پرہیزگار بن جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو اپنے اس پروردگار کی عبادت کرو جس نے تمہیں اور ان لوگوں کو پیدا کیا جو تم سے پہلے گزرے ہیں تاکہ تم متقی بن جاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hazrath Mosa (alaihissalam) ne jab apni khaum se kaha ke Allah ta’ala tumh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ واقعہ بھی یاد کرو) جب موسیٰ (علیہ السلام) نے اپنی قوم سے فرمایا کہ بیشک اللہ تمہیں حکم دیتا ہے کہ ایک گائے ذبح کرو، (تو) وہ بولے: کیا آپ ہمیں مسخرہ بناتے ہیں؟ موسیٰ (علیہ السلام) نے فرمایا: اللہ کی پناہ مانگتا ہوں (اس سے) کہ میں جاہلوں میں سے ہو جاؤں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وقت یاد کرو) جب موسیٰ نے اپنی قوم سے کہا تھا کہ اللہ تمہیں حکم دیتا ہے کہ تم ایک گائے ذبح کرو۔ وہ کہنے لگے کہ کیا آپ ہمارا مذاق بناتے ہیں موسیٰ نے کہا : میں اس بات سے اللہ کی پناہ مانگتا ہوں کہ میں (ایسے) نادانوں میں شامل ہوں (جو مذاق میں جھوٹ بولیں)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

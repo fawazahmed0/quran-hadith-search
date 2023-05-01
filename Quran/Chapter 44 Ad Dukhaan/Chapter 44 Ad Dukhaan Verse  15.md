@@ -3224,6 +3224,12 @@ hum azaab ko thoda door kar denge to tum phir apni osi haalath par aa jaoge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم تھوڑا سا عذاب دور کیے دیتے ہیں (مگر) تم یقیناً (وہی کفر) دہرانے لگو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اچھا) ہم عذاب کو کچھ عرصے تک ہٹا دیتے ہیں۔ یقین ہے کہ تم پھر اسی حالت پر لوٹ آؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap ne farmaya! phir to tum aur tumhaare baap dada sabhi yaqinan quli gumraahi m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ابراہیم علیہ السلام نے) فرمایا: بیشک تم اور تمہارے باپ دادا (سب) صریح گمراہی میں تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابراہیم نے کہا : حقیقت یہ ہے کہ تم بھی اور تمہارے باپ دادے بھی کھلی گمراہی میں مبتلا رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

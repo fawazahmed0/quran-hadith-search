@@ -3224,6 +3224,12 @@ haan jo shaqs wasiyath karne waale ki jaanib daari ya gunaah ki wasiyath kar den
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اگر کسی شخص کو وصیّت کرنے والے سے (کسی کی) طرف داری یا (کسی کے حق میں) زیادتی کا اندیشہ ہو پھر وہ ان کے درمیان صلح کرادے تو اس پر کوئی گناہ نہیں، بیشک اللہ نہایت بخشنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں اگر کسی شخص کو یہ اندیشہ ہو کہ کوئی وصیت کرنے والا بےجا طرف داری یا گناہ کا ارتکاب کر رہا ہے، اور وہ متعلقہ آدمیوں کے درمیان صلح کرا دے تو اس پر کوئی گناہ نہیں بیشک اللہ تعالیٰ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

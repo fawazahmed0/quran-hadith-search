@@ -3224,6 +3224,12 @@ bil aaqir adl ke taqaaze ke mutaabiq, cheeq ne pakad liya aur hum ne inhe kudaa 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس سچے وعدہ کے مطابق انہیں خوفناک آواز نے آپکڑا سو ہم نے انہیں خس و خاشاک بنا دیا، پس ظالم قوم کے لئے (ہماری رحمت سے) دوری و محرومی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ اس سچے وعدے کے مطابق ان کو ایک چنگھاڑ نے آپکڑا اور ہم نے انہیں کوڑا کرکٹ بنا کر رکھ دیا۔ پھٹکار ہے ایسے ظالم لوگوں پر۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

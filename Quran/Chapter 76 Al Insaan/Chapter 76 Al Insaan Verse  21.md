@@ -3224,6 +3224,12 @@ un ke jismo par sabz baareek aur mote reshmi kapde honge aur unhe chaandi ke kan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان (کے جسموں) پر باریک ریشم کے سبز اور دبیز اطلس کے کپڑے ہوں گے، اور انہیں چاندی کے کنگن پہنائے جائیں گے اور ان کا ربّ انہیں پاکیزہ شراب پلائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے اوپر باریک ریشم کا سبز لباس اور دبیز ریشم کے کپڑے ہوں گے، اور انہیں چاندی کے کنگنوں سے آراستہ کیا جائے گا، اور ان کا پروردگار انہیں نہایت پاکیزہ شراب پلائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

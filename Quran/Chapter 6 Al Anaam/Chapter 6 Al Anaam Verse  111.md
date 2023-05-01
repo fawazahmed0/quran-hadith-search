@@ -3224,6 +3224,12 @@ aur agar hum un ke paas farishto ko bhej dete aur un se murde baatein karne lagt
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم ان کی طرف فرشتے اتار دیتے اور ان سے مُردے باتیں کرنے لگتے اور ہم ان پر ہر چیز (آنکھوں کے سامنے) گروہ در گروہ جمع کر دیتے وہ تب بھی ایمان نہ لاتے سوائے اس کے جو اللہ چاہتا اور ان میں سے اکثر لوگ جہالت سے کام لیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر بالفرض ہم ان کے پاس فرشتے بھیج دیتے، اور مردے ان سے باتیں کرنے لگتے، اور (ان کی مانگی ہوئی) ہر چیز ہم کھلی آنکھوں ان کے سامنے لاکر کے رکھ دیتے تب بھی یہ ایمان لانے والے نہیں تھے، الا یہ کہ اللہ ہی چاہتا (کہ انہیں زبردستی ایمان پر مجبور کردے تو بات دوسری تھی، مگر ایسا ایمان نہ مطلوب ہے نہ معتبر) لیکن ان میں سے اکثر لوگ جہالت کی باتیں کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

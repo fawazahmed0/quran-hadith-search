@@ -3224,6 +3224,12 @@ pas aaj tum se koyi (bhi) kisi ke liye (bhi kisi qism ke) nafa nuqsaan ka maalik
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آج کے دن تم میں سے کوئی نہ ایک دوسرے کے نفع کا مالک ہے اور نہ نقصان کا، اور ہم ظالموں سے کہیں گے: دوزخ کے عذاب کا مزہ چکھو جسے تم جھٹلایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا آج تم میں سے کوئی نہ کسی کو کوئی فائدہ پہنچانے کا اختیار رکھتا ہے، نہ نقصان پہنچانے کا۔ اور جن لوگوں نے ظلم کی روش اختیار کی تھی، ان سے ہم کہیں گے کہ : اس آگ کا مزہ چکھو جس کو تم جھٹلایا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

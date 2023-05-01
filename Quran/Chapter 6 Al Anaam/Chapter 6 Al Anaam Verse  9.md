@@ -3224,6 +3224,12 @@ aur agar hum us ko farishta tajweez karte to hum us ko aadmi hee banaate aur ham
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم رسول کو فرشتہ بناتے تو اسے بھی آدمی ہی (کی صورت) بناتے اور ہم ان پر(تب بھی) وہی شبہ وارد کردیتے جو شبہ (و التباس) وہ (اب) کر رہے ہیں (یعنی اس کی بھی ظاہری صورت دیکھ کر کہتے کہ یہ ہماری مثل بشر ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم فرشتے ہی کو پیغمبر بناتے، تب بھی اسے کسی مرد ہی (کی شکل میں) بناتے، اور ان کو پھر ہم اسی شبہ میں ڈال دیتے جس میں اب مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

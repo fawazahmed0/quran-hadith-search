@@ -3224,6 +3224,12 @@ tu apni laathi daal de, Mosa(alaihissalaam) ne jab ose haltha-jhulta dekha, is t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے موسٰی!) اپنی لاٹھی (زمین پر) ڈال دو، پھر جب (موسٰی نے لاٹھی کو زمین پر ڈالنے کے بعد) اسے دیکھا کہ سانپ کی مانند تیز حرکت کر رہی ہے تو (فطری رد ِعمل کے طور پر) پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر (بھی) نہ دیکھا، (ارشاد ہوا): اے موسٰی! خوف نہ کرو بیشک پیغمبر میرے حضور ڈرا نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ذرا اپنی لاٹھی کو نیچے پھینکو۔ پھر جب انہوں نے لاٹھی کو دیکھا کہ وہ اس طرح حرکت کر رہی ہے جیسے وہ کوئی سانپ ہو تو وہ پیٹھ پھیر کر بھاگے، اور پیچھے مڑ کر بھی نہ دیکھا۔ (ارشاد ہوا) موسیٰ ! ڈرو نہیں، جن کو پیغمبر بنایا جاتا ہے ان کو میرے حضور کوئی اندیشہ نہیں ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

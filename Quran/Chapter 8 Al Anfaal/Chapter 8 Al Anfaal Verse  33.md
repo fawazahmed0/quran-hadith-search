@@ -3224,6 +3224,12 @@ aur Allah tala aisa na karega ke un mein aap ke hote hoe un ko azaab de aur Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (درحقیقت بات یہ ہے کہ) اللہ کی یہ شان نہیں کہ ان پر عذاب فرمائے درآنحالیکہ (اے حبیب مکرم!) آپ بھی ان میں (موجود) ہوں، اور نہ ہی اللہ ایسی حالت میں ان پر عذاب فرمانے والا ہے کہ وہ (اس سے) مغفرت طلب کر رہے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) اللہ ایسا نہیں ہے کہ ان کو اس حالت میں عذاب دے جب تم ان کے درمیان موجود ہو، اور اللہ اس حالت میں بھی ان کو عذاب دینے والا نہیں ہے جب وہ استغفار کرتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

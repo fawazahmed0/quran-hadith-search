@@ -3224,6 +3224,12 @@ ye log aap ko is wahi se jo hum ne aap par utaari hai behkaana chaahte, ke aap u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کفار تو یہی چاہتے تھے کہ آپ کو اس (حکمِ الٰہی) سے پھیر دیں جس کی ہم نے آپ کی طرف وحی فرمائی ہے تاکہ آپ اس (وحی) کے سوا ہم پر کچھ اور (باتوں) کو منسوب کر دیں اور تب آپ کو اپنا دوست بنا لیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جو وحی ہم نے تمہارے پاس بھیجی ہے، یہ (کافر) لوگ تمہیں فتنے میں ڈال کر اس سے ہٹانے لگے تھے، تاکہ تم اس کے بجائے کوئی اور بات ہمارے نام پر گھڑ کر پیش کرو، اور اس صورت میں یہ تمہیں اپنا گہرا دوست بنا لیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye hadein Allah ta’ala ki muqarrar ki hoi hai aur jo Allah ta’ala ki aur us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اللہ کی (مقرر کردہ) حدیں ہیں، اور جو کوئی اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی فرمانبرداری کرے اسے وہ بہشتوں میں داخل فرمائے گا جن کے نیچے نہریں رواں ہیں ان میں ہمیشہ رہیں گے، اور یہ بڑی کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اللہ کی مقرر کی ہوئی حدود ہیں، اور جو شخص اللہ اور اس کے رسول کی اطاعت کرے گا، وہ اس کو ایسے باغات میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی، ایسے لوگ ہمیشہ ان (باغات) میں رہیں گے، اور یہ زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

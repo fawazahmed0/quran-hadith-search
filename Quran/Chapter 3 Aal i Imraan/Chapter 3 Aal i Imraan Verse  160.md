@@ -3224,6 +3224,12 @@ agar Allah ta’ala tumhaari madad kare to tum par koyi ghaalib nahi aa sakta au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر اللہ تمہاری مدد فرمائے تو تم پر کوئی غالب نہیں آسکتا، اور اگر وہ تمہیں بے سہارا چھوڑ دے تو پھر کون ایسا ہے جو اس کے بعد تمہاری مدد کر سکے، اور مؤمنوں کو اللہ ہی پر بھروسہ رکھنا چاہئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر اللہ تمہاری مدد کرے تو کوئی تم پر غالب آنے والا نہیں، اور اگر وہ تمہیں تنہا چھوڑ دے تو کون ہے جو اس کے بعد تمہاری مدد کرے ؟ اور مومنوں کو چاہیے کہ وہ اللہ ہی پر بھروسہ رکھیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

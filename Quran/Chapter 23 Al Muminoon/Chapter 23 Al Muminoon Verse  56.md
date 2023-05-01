@@ -3224,6 +3224,12 @@ wo un ke liye bhalaiyyo mein jaldi kar rahe hai (nahi nahi) balke ye samajhte he
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو ہم ان کے لئے بھلائیوں (کی فراہمی) میں جلدی کر رہے ہیں، (ایسا نہیں) بلکہ انہیں شعور ہی نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو ان کو بھلائیاں پہنچانے میں جلدی دکھا رہے ہیں ؟ نہیں، بلکہ ان کو حقیقت کا شعور نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ to hum ne un ki taraf wahi bheji, ke tu hamaari aankho ke saamne hamaari wahi ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے ان کی طرف وحی بھیجی کہ تم ہماری نگرانی میں اور ہمارے حکم کے مطابق ایک کشتی بناؤ سو جب ہمارا حکمِ (عذاب) آجائے اور تنور (بھر کر پانی) ابلنے لگے تو تم اس میں ہر قسم کے جانوروں میں سے دو دو جوڑے (نر و مادہ) بٹھا لینا اور اپنے گھر والوں کو بھی (اس میں سوار کر لینا) سوائے ان میں سے اس شخص کے جس پر فرمانِ (عذاب) پہلے ہی صادر ہو چکا ہے، اور مجھ سے ان لوگوں کے بارے میں کچھ عرض بھی نہ کرنا جنہوں نے (تمہارے انکار و استہزاء کی صورت میں) ظلم کیا ہے، وہ (بہر طور) ڈبو دیئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہم نے ان کے پاس وحی بھیجی کہ : تم ہماری نگرانی میں اور ہماری وحی کے مطابق کشتی بناؤ۔ پھر جب ہمارا حکم آجائے، اور تنور ابل پڑے۔ تو ہر قسم کے جانوروں میں سے ایک ایک جوڑا لے کر اسے بھی اس کشتی میں سوار کرلینا۔ اور اپنے گھر والوں کو بھی، سوائے ان کے جن کے خلاف پہلے ہی حکم صادر ہوچکا ہے۔ اور ان ظالموں کے بارے میں مجھ سے کوئی بات نہ کرنا، یہ بات طے ہے کہ یہ سب غرق کیے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ta ke wo har us shaqs ko aagah kar de, jo zinda hai aur kaafiro par hujjath saab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ وہ اس شخص کو ڈر سنائیں جو زندہ ہو اور کافروں پر فرمانِ حجت ثابت ہو جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ ہر اس شخص کو خبردار کرے جو زندہ ہو، اور تاکہ کفر کرنے والوں پر حجت پوری ہوجائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

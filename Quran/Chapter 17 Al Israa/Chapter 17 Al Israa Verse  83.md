@@ -3224,6 +3224,12 @@ aur insaan par jab hum apna in’aam karte hai to wo mu mod leta hai aur karwat 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم انسان پر (کوئی) انعام فرماتے ہیں تو وہ (شکر سے) گریز کرتا اور پہلو تہی کر جاتا ہے اور جب اسے کوئی تکلیف پہنچ جاتی ہے تو مایوس ہو جاتا ہے (گویا نہ شاکر ہے نہ صابر)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہم انسان کو کوئی نعمت دیتے ہیں تو وہ منہ موڑ لیتا ہے، اور پہلو بدل لیتا ہے، اور اگر اس کو کوئی برائی چھو جائے تو مایوس ہو بیٹھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

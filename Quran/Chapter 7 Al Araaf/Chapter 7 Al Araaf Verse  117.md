@@ -3224,6 +3224,12 @@ aur hum ne Mosa ko hukm diya ke apna asa daal di jiye, so asa ka daalna tha ke u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ کو وحی کے ذریعے حکم دیا کہ تم اپنی لاٹھی ڈال دو ۔ بس پھر کیا تھا، اس نے دیکھتے ہی دیکھتے وہ ساری چیزیں نگلنی شروع کردیں جو انہوں نے جھوٹ موٹ بنائی تھیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya main ose chohd kar aiso ko maaboodh banaao, ke agar (Allah) rahmaan mujhe ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا میں اس (اللہ) کو چھوڑ کر ایسے معبود بنا لوں کہ اگر خدائے رحمان مجھے کوئی تکلیف پہنچانا چاہے تو نہ مجھے اُن کی سفارش کچھ نفع پہنچا سکے اور نہ وہ مجھے چھڑا ہی سکیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا اسے چھوڑ کر میں ایسوں کو معبود مانوں کہ اگر خدائے رحمن مجھے کوئی نقصان پہنچانے کا ارادہ کرلے تو ان کی سفارش میرے کسی کام نہ آئے، اور نہ وہ مجھے چھڑا سکیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

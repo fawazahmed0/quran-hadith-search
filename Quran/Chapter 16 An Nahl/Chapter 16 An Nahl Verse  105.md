@@ -3224,6 +3224,12 @@ jhoot iftera to wahi baandhte hai jinhe Allah ta’ala ki ayato par imaan nahi h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جھوٹی افترا پردازی (بھی) وہی لوگ کرتے ہیں جو اللہ کی آیتوں پر ایمان نہیں لاتے اور وہی لوگ جھوٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ پر جھوٹ تو (پیغمبر نہیں) وہ لوگ باندھتے ہیں جو اللہ کی آیات پر ایمان نہیں رکھتے، اور وہی حقیقت میں جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

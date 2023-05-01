@@ -3224,6 +3224,12 @@ jo log un musalmano par tana zani karte hai jo dil qol kar qairath karte hai aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ برضا و رغبت خیرات دینے والے مومنوں پر (ان کے) صدقات میں (ریاکاری و مجبوری کا) الزام لگاتے ہیں اور ان (نادار مسلمانوں) پر بھی (عیب لگاتے ہیں) جو اپنی محنت و مشقت کے سوا (کچھ زیادہ مقدور) نہیں پاتے سو یہ (ان کے جذبۂ اِنفاق کا بھی) مذاق اڑاتے ہیں، اللہ انہیں ان کے تمسخر کی سزا دے گا اور ان کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ منافق وہی ہیں) جو خوشی سے صدقہ کرنے والے مومنوں کو بھی طعنے دیتے ہیں، اور ان لوگوں کو بھی جنہیں اپنی محنت (کی آمدنی) کے سوا کچھ میسر نہیں ہے اس لیے وہ ان کا مذاق اڑاتے ہیں، اللہ ان کا مذاق اڑاتا ہے، اور ان کے لیے دردناک عذاب تیار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

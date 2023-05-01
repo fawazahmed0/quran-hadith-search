@@ -3224,6 +3224,12 @@ jo log imaan laye aur jinhone nek kaam bhi kiye un ke liye khush haali hai aur b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ ایمان لائے اور نیک عمل کرتے رہے ان کے لئے (آخرت میں) عیش و مسرت ہے اور عمدہ ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (غرض) جو لوگ ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں، ان کے حصے میں خوش حالی بھی ہے اور بہترین انجام بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

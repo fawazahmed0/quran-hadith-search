@@ -3224,6 +3224,12 @@ balke kuffaar ghuroor aur muqaalifath mein pade hoye hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ کافر لوگ (ناحق) حمیّت و تکبّر میں اور (ہمارے نبی صلی اللہ علیہ وآلہ وسلم کی) مخالفت و عداوت میں (مبتلا) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ جن لوگوں نے کفر اپنا لیا ہے، وہ کسی اور وجہ سے نہیں، بلکہ اس لیے اپنایا ہے کہ وہ بڑائی کے گھمنڈ اور ہٹ دھرمی میں مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

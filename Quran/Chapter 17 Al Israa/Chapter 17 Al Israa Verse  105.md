@@ -3224,6 +3224,12 @@ aur hum ne is Qur’an ko haq ke saath utaara aur ye bhi haq ke saath utra, hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور حق کے ساتھ ہی ہم نے اس (قرآن) کو اتارا ہے اور حق ہی کے ساتھ وہ اترا ہے، اور (اے حبیبِ مکرّم!) ہم نے آپ کو خوشخبری سنانے والا اور ڈر سنانے والا ہی بنا کر بھیجا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اس قرآن کو حق ہی کے ساتھ نازل کیا ہے، اور حق ہی کے ساتھ یہ اترا ہے۔ اور (اے پیغمبر) ہم نے تمہیں کسی اور کام کے لیے نہیں، بلکہ صرف اس لیے بھیجا ہے کہ تم (فرمانبرداروں کو) خوشخبری دو اور (نافرمانوں کو) خبردار کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

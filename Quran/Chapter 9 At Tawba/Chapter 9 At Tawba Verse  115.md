@@ -3224,6 +3224,12 @@ aur Allah aisa nahi karta ke kisi khaom ko hidayath kar ke badh mein gumrah kard
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کی شان نہیں کہ وہ کسی قوم کو گمراہ کر دے اس کے بعد کہ اس نے انہیں ہدایت سے نواز دیا ہو، یہاں تک کہ وہ ان کے لئے وہ چیزیں واضح فرما دے جن سے انہیں پرہیزکرنا چاہئے، بیشک اللہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ ایسا نہیں ہے کہ کسی قوم کو ہدایت دینے کے بعد گمراہ کردے جب تک اس نے ان پر یہ بات واضح نہ کردی ہو کہ انہیں کن باتوں سے بچنا ہے۔ یقین رکھو کہ اللہ ہر چیز کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

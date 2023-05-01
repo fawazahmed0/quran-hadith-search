@@ -3224,6 +3224,12 @@ agar ye kaafir tum par ghalba pa le to tumhe sangsaar kar denge, ya tumhe phir a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اگر انہوں نے تم (سے آگاہ ہو کر تم) پر دسترس پالی تو تمہیں سنگسار کر ڈالیں گے یا تمہیں (جبرًا) اپنے مذہب میں پلٹا لیں گے اور (اگر ایسا ہو گیا تو) تب تم ہرگز کبھی بھی فلاح نہیں پاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیونکہ اگر ان (شہر کے) لوگوں کو تمہاری خبر مل گئی تو یہ تمہیں پتھراؤ کر کے ہلاک کر ڈالیں گے، یا تمہیں اپنے دین میں واپس آنے کے لیے مجبور کریں گے، اور ایسا ہوا تو تمہیں کبھی فلاح نہیں مل سکے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur baraabar nahi do darya, ye mitha hai jo pyaas bujaata hai, peene mein khush 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور دو سمندر (یا دریا) برابر نہیں ہو سکتے، یہ (ایک) شیریں، پیاس بجھانے والا ہے، اس کا پینا خوشگوار ہے اور یہ (دوسرا) کھاری، سخت کڑوا ہے، اور تم ہر ایک سے تازہ گوشت کھاتے ہو، اور زیور (جن میں موتی، مرجان اور مونگے وغیرہ سب شامل ہیں) نکالتے ہو، جنہیں تم پہنتے ہو اور تُو اس میں کشتیوں (اور جہازوں) کو دیکھتا ہے جو (پانی کو) پھاڑتے چلے جاتے ہیں تاکہ تم (بحری تجارت کے راستوں سے) اس کا فضل تلاش کر سکو اور تاکہ تم شکرگزار ہو جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور دو دریا برابر نہیں ہوتے۔ ایک ایسا میٹھا ہے کہ اس سے پیاس بجھتی ہے، جو پینے میں خوشگوار ہے اور دوسرا کڑوا نمکین۔ اور ہر ایک سے تم (مچھلیوں کا) تازہ گوشت کھاتے ہو، اور وہ زیور نکالتے ہو جو تمہارے پہننے کے کام آتا ہے۔ اور تم کشتیوں کو دیکھتے ہو کہ وہ اس (دریا) میں پانی کو پھاڑتی ہوئی چلتی ہیں، تاکہ تم اللہ کا فضل تلاش کرو، اور تاکہ شکر گزار بنو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

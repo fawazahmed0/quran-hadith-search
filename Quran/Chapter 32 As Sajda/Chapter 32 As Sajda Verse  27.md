@@ -3224,6 +3224,12 @@ kya ye nahi dekhte ke hum paani ko banjar (ghair abaadh) zameen ki taraf baha ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا انہوں نے نہیں دیکھا کہ ہم پانی کو بنجَر زمین کی طرف بہا لے جاتے ہیں، پھر ہم اس سے کھیت نکالتے ہیں جس سے ان کے چوپائے (بھی) کھاتے ہیں اور وہ خود بھی کھاتے ہیں، تو کیا وہ دیکھتے نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا انہوں نے نہیں دیکھا کہ ہم پانی کو کھینچ کر خشک زمین کی طرف لے جاتے ہیں، پھر اس سے وہ کھیتی نکالتے ہیں جس سے ان کے چوپائے بھی کھاتے ہیں، اور وہ خود بھی۔ تو کیا انہیں کچھ سجھائی نہیں دیتا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

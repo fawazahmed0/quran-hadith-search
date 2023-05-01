@@ -3224,6 +3224,12 @@ un kaafiro ne qayaal kiya hai ke dubaara zinda na kiye jayenge, aap keh dijiye k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کافر لوگ یہ خیال کرتے ہیں کہ وہ (دوبارہ) ہرگز نہ اٹھائے جائیں گے۔ فرما دیجئے: کیوں نہیں، میرے رب کی قسم! تم ضرور اٹھائے جاؤ گے پھر تمہیں بتا دیا جائے گا جو کچھ تم نے کیا تھا، اور یہ اللہ پر بہت آسان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا ہے، وہ یہ دعوی کرتے ہیں کہ انہیں کبھی دوبارہ زندہ نہیں کیا جائے گا۔ کہہ دو : کیوں نہیں ؟ میرے پروردگار کی قسم ! تمہیں ضرور زندہ کیا جائے گا، پھر تمہیں بتایا جائے گا کہ تم نے کیا کچھ کیا تھا، اور یہ اللہ کے لیے معمولی سی بات ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

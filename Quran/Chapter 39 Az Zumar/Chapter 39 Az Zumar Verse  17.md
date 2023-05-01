@@ -3224,6 +3224,12 @@ aur jin logo ne taghooth ki ibaadath se parhez kiya aur (hama tan) Allah ta’al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ بتوں کی پرستش کرنے سے بچے رہے اور اللہ کی طرف جھکے رہے، ان کے لئے خوشخبری ہے، پس آپ میرے بندوں کو بشارت دے دیجئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے اس بات سے پرہیز کیا ہے کہ وہ طاغوت کی عبادت کرنے لگیں اور انہوں نے اللہ سے لوگ لگائی ہے خوشی کی خبر انہی کے لیے، لہذا میرے ان بندوں کو خوشی کی خبر سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

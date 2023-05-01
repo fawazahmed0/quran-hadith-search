@@ -3224,6 +3224,12 @@ beshak hum ne unhe isi tarah azmaa liya, jis tarah hum ne baagh waalo ko azmaaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک ہم ان (اہلِ مکہ) کی (اُسی طرح) آزمائش کریں گے جس طرح ہم نے (یمن کے) ان باغ والوں کو آزمایا تھا جب انہوں نے قَسم کھائی تھی کہ ہم صبح سویرے یقیناً اس کے پھل توڑ لیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ان (مکہ والوں) کو اسی طرح آزمائش میں ڈالا ہے جیسے (ایک) باغ والوں کو اس وقت آزمائش میں ڈالا تھا جب انہوں نے قسم کھائی تھی کہ صبح ہوتے ہی ہم اس باغ کا پھل توڑ لیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ paighambar ko aur dosre musalmano ko jaez nahi ke mushrikin ke liye maghfirath k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نبی (صلی اللہ علیہ وآلہ وسلم) اور ایمان والوں کی شان کے لائق نہیں کہ مشرکوں کے لئے دعائے مغفرت کریں اگرچہ وہ قرابت دار ہی ہوں اس کے بعد کہ ان کے لئے واضح ہو چکا کہ وہ (مشرکین) اہلِ جہنم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ بات نہ تو نبی کو زیب دیتی ہے اور نہ دوسرے مومنوں کو کہ وہ مشرکین کے لیے مغفرت کی دعا کریں، چاہے وہ رشتہ دار ہی کیوں نہ ہوں، جبکہ ان پر یہ بات پوری طرح واضح ہوچکی ہے کہ وہ دوزخی لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ose qayaamath ke din duhra azaab kiya jayega aur wo zillath wa qaari ke saath ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس کے لئے قیامت کے دن عذاب دو گنا کر دیا جائے گا اور وہ اس میں ذلت و خواری کے ساتھ ہمیشہ رہے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قیامت کے دن اس کا عذاب بڑھا بڑھا کر دگنا کردیا جائے گا، اور وہ ذلیل ہو کر اس عذاب میں ہمیشہ ہمیشہ رہے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

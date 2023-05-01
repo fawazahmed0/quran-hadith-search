@@ -3224,6 +3224,12 @@ beshak un logo par tuh rah ilzam hai aur unhi par hai jo bawajod daulath mandh h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(الزام کی) راہ تو فقط ان لوگوں پر ہے جو آپ سے رخصت طلب کرتے ہیں حالانکہ وہ مال دار ہیں، وہ اس بات سے خوش ہیں کہ وہ پیچھے رہ جانے والی عورتوں اور معذوروں کے ساتھ رہیں اور اللہ نے ان کے دلوں پر مہر لگا دی ہے، سو وہ جانتے ہی نہیں (کہ حقیقی سود و زیاں کیا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الزام تو ان لوگوں پر ہے جو مال دار ہونے کے باوجود تم سے اجازت مانگتے ہیں۔ وہ اس بات پر خوش ہیں کہ وہ پیچھے رہنے والی عورتوں میں شامل ہوگئے۔ اور اللہ نے ان کے دلوں پر مہر لگا دی ہے، اس لیے انہیں حقیقت کا پتہ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

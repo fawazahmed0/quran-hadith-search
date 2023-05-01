@@ -3224,6 +3224,12 @@ jin logo ne zulm bardaasht karne ke baadh Allah ki raah mein tarke watan kiya ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جنہوں نے اللہ کی راہ میں ہجرت کی اس کے بعد کہ ان پر (طرح طرح کے) ظلم توڑے گئے تو ہم ضرور انہیں دنیا (ہی) میں بہتر ٹھکانا دیں گے، اور آخرت کا اجر تو یقیناً بہت بڑا ہے، کاش! وہ (اس راز کو) جانتے ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے دوسروں کے ظلم سہنے کے بعد اللہ کی خاطر اپنا وطن چھوڑا ہے، یقین رکھو کہ انہیں ہم دنیا میں بھی اچھی طرح بسائیں گے، اور آخرت کا اجر تو یقینا سب سے بڑا ہے۔ کاش کہ یہ لوگ جان لیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

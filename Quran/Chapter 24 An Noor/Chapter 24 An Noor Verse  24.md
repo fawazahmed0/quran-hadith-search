@@ -3224,6 +3224,12 @@ jab ke un ke muqaable mein un ki zabaane aur un ke haath paao, un ke amaal ki ga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن (خود) ان کی زبانیں اور ان کے ہاتھ اور ان کے پاؤں انہی کے خلاف گواہی دیں گے کہ جو کچھ وہ کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن خود ان کی زبانیں ان کے ہاتھ اور ان کے پاؤں ان کے خلاف اس کرتوت کی گواہی دیں گے جو وہ کرتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

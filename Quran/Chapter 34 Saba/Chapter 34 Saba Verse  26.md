@@ -3224,6 +3224,12 @@ unhe qabar di jiye ke hum sab ko hamaara rab jama kar ke hum mein sacche faisle 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: ہم سب کو ہمارا رب (روزِ قیامت) جمع فرمائے گا پھر ہمارے درمیان حق کے ساتھ فیصلہ فرمائے گا، اور وہ خوب فیصلہ فرمانے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : ہمارا پروردگار ہم سب کو جمع کرے گا، پھر ہمارے درمیان برحق فیصلہ کرے گا، اور وہی ہے جو خوب فیصلے کرنے والا، مکمل علم کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

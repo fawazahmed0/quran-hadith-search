@@ -3224,6 +3224,12 @@ mujhe un bulandh qadar farishto ki (baath cheeth ka) koyi ilm hee nahi, jab ke w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مجھے تو (اَزخود) عالمِ بالا کی جماعتِ (ملائکہ) کی کوئی خبر نہ تھی جب وہ (تخلیقِ آدم کے بارے میں) بحث و تمحیص کر رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مجھے عالم بالا کی باتوں کا کچھ علم نہیں تھا جب وہ (فرشتے) سوال و جواب کر رہے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

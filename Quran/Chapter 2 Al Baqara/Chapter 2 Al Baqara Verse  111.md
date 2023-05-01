@@ -3224,6 +3224,12 @@ ye kehte hai ke jannath mein yahood wa nasara ke siva aur koi na jayega, ye sirf
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اہلِ کتاب) کہتے ہیں کہ جنت میں ہرگز کوئی بھی داخل نہیں ہوگا سوائے اس کے کہ وہ یہودی ہو یا نصرانی، یہ ان کی باطل امیدیں ہیں، آپ فرما دیں کہ اگر تم (اپنے دعوے میں) سچے ہو تو اپنی (اس خواہش پر) سند لاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (یعنی یہودی اور عیسائی) کہتے ہیں کہ : جنت میں سوائے یہودیوں یا عیسائیوں کے کوئی بھی ہرگز داخل نہیں ہوگا۔ یہ محض ان کی آرزوئیں ہیں۔ آپ ان سے کہیے کہ اگر تم (اپنے اس دعوے میں) سچے ہو تو اپنی کوئی دلیل لے کر آؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur wahi hai jis ne baghaath paida kiye, wo bhi jo tattiyo par chadaaye jaate ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے برداشتہ اور غیر برداشتہ (یعنی بیلوں کے ذریعے اوپر چڑھائے گئے اور بغیر اوپر چڑھائے گئے) باغات پیدا فرمائے اور کھجور (کے درخت) اور زراعت جس کے پھل گوناگوں ہیں اور زیتون اور انار (جو شکل میں) ایک دوسرے سے ملتے جلتے ہیں اور (ذائقہ میں) جداگانہ ہیں (بھی پیدا کئے)۔ جب (یہ درخت) پھل لائیں تو تم ان کے پھل کھایا (بھی) کرو اور اس (کھیتی اور پھل) کے کٹنے کے دن اس کا (اللہ کی طرف سے مقرر کردہ) حق (بھی) ادا کر دیا کرو اور فضول خرچی نہ کیا کرو، بیشک وہ بے جا خرچ کرنے والوں کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے باغات پیدا کیے جن میں سے کچھ (بیل دار ہیں جو) سہاروں سے اوپر چڑھائے جاتے ہیں، اور کچھ سہاروں کے بغیر بلند ہوتے ہیں، اور نخلستان اور کھیتیاں، جن کے ذائقے الگ الگ ہیں، اور زیتون اور انار، جو ایک دوسرے سے ملتے جلتے بھی ہیں، اور ایک دوسرے سے مختلف بھی۔ جب یہ درخت پھل دیں تو ان کے پھلوں کو کھانے میں استعمال کرو، اور جب ان کی کٹائی کا دن آئے تو اللہ کا حق ادا کرو، اور فضول خرچی نہ کرو۔ یاد رکھو، وہ فضول خرچ لوگوں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

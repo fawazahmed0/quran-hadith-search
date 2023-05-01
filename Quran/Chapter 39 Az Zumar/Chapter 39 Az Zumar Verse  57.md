@@ -3224,6 +3224,12 @@ ya kahe ke agar Allah mujhe hidaayath karta to main bhi paarsa logo mein hota
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا کہنے لگے کہ اگر اللہ مجھے ہدایت دیتا تو میں ضرور پرہیزگاروں میں سے ہوتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا کوئی یہ کہے کہ : اگر مجھے اللہ ہدایت دیتا تو میں بھی متقی لوگوں میں شامل ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

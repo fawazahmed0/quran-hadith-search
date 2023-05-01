@@ -3224,6 +3224,12 @@ asmaano aur zameen mein jo hai, osi Allah ka hai, aur jo us ke paas hai wo us ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کوئی آسمانوں اور زمین میں ہے اسی کا (بندہ و مملوک) ہے، اور جو (فرشتے) اس کی قربت میں (رہتے) ہیں وہ نہ تو اس کی عبادت سے تکبّر کرتے ہیں اور نہ وہ (اس کی طاعت بجا لاتے ہوئے) تھکتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین میں جو لوگ بھی ہیں، اللہ کے ہیں۔ اور جو (فرشتے) اللہ کے پاس ہیں، وہ نہ اس کی عبادت سے سرکشی کرتے ہیں، نہ تھکتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

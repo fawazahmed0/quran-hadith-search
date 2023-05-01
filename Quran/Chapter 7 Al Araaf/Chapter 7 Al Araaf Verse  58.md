@@ -3224,6 +3224,12 @@ aur jo sutri sar-zameen hoti hai us ki paida-waar to Allah ke hukm se qoob nikal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو زمین اچھی ہوتی ہے اس کی پیداوار تو اپنے رب کے حکم سے نکل آتی ہے اور جو زمین خراب ہوگئی ہو اس سے ناقص پیداوار کے سوا کچھ نہیں نکلتا۔ اسی طرح ہم نے نشانیوں کے مختلف رخ دکھاتے رہتے ہیں، (مگر) ان لوگوں کے لیے جو قدردانی کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

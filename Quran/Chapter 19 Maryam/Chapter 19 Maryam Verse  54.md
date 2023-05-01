@@ -3224,6 +3224,12 @@ is kitaab mein Ismail(alaihissalaam) ka waaqea bhi bayaan kar, wo bada hee waade
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ (اس) کتاب میں اسماعیل (علیہ السلام) کا ذکر کریں، بیشک وہ وعدہ کے سچے تھے اور صاحبِ رسالت نبی تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کتاب میں اسماعیل کا بھی تذکرہ کرو۔ بیشک وہ وعدے کے سچے تھے اور رسول اور نبی تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

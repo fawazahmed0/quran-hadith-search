@@ -3224,6 +3224,12 @@ kisi aise insaan ko jise Allah ta’ala kitaab wa hikmath aur nabuwath de, ye la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کسی بشر کو یہ حق نہیں کہ اللہ اسے کتاب اور حکمت اور نبوت عطا فرمائے پھر وہ لوگوں سے یہ کہنے لگے کہ تم اللہ کو چھوڑ کر میرے بندے بن جاؤ بلکہ (وہ تو یہ کہے گا) تم اللہ والے بن جاؤ اس سبب سے کہ تم کتاب سکھاتے ہو اور اس وجہ سے کہ تم خود اسے پڑھتے بھی ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ کسی بشر کا کام نہیں کہ اللہ تو اسے کتاب اور حکمت اور نبوت عطا کرے، اور وہ اس کے باوجود لوگوں سے کہے کہ اللہ کو چھوڑ کر میرے بندے بن جاؤ۔ اس کے بجائے (وہ تو یہی کہے گا کہ) اللہ والے بن جاؤ، کیونکہ تم جو کتاب پڑھاتے رہے ہو اور جو کچھ پڑھتے رہے ہو، اس کا یہی نتیجہ ہونا چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

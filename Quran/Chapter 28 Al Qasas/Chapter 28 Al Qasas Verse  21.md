@@ -3224,6 +3224,12 @@ pas Mosa(alaihissalaam) wahaan se khauf zada ho kar dekhte bhaalte nikal khade h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو موسٰی (علیہ السلام) وہاں سے خوف زدہ ہو کر (مددِ الٰہی کا) انتظار کرتے ہوئے نکل کھڑے ہوئے، عرض کیا: اے رب! مجھے ظالم قوم سے نجات عطا فرما
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ موسیٰ ڈرتے ڈرتے، حالات کا جائزہ لیتے شہر سے نکل کھڑے ہوئے۔ کہنے لگے : میرے پروردگار ! مجھے ظالم لوگوں سے بچا لے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

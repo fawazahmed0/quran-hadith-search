@@ -3224,6 +3224,12 @@ aap ne jawaab diya, balke us kaam ko un ke bade ne kiya hai, tum apne khudaao se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ نے فرمایا: بلکہ یہ (کام) ان کے اس بڑے (بت) نے کیا ہوگا تو ان (بتوں) سے ہی پوچھو اگر وہ بول سکتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابراہیم نے کہا : نہیں، بلکہ یہ حرکت ان کے اس بڑے سردار نے کی ہے، اب انہی بتوں سے پوچھ لو، اگر یہ بولتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

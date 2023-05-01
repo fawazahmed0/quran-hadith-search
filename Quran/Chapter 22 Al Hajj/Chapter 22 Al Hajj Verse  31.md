@@ -3224,6 +3224,12 @@ Allah ki tawheed ko maante hoye, us ke saath kisi ko shareek na karte hoye, suno
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+صرف اللہ کے ہوکر رہو اس کے ساتھ (کسی کو) شریک نہ ٹھہراتے ہوئے، اور جو کوئی اللہ کے ساتھ شرک کرتاہے تو گویا وہ (ایسے ہے جیسے) آسمان سے گر پڑے پھر اس کو پرندے اچک لے جائیں یا ہوا اس کو کسی دور کی جگہ میں نیچے جا پھینکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ تم یکسوئی کے ساتھ اللہ کی طرف رخ کیے ہوئے ہو، اس کے ساتھ کسی کو شریک نہ مانتے ہو۔ اور جو شخص اللہ کے ساتھ کسی کو شریک ٹھہرائے تو گویا وہ آسمان سے گرپڑا۔ پھر یا تو پرندے اسے اچک لے جائیں، یا ہوا اسے کہیں دور دراز کی جگہ لا پھینکے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

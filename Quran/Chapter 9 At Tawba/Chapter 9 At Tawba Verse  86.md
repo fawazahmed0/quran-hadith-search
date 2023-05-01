@@ -3224,6 +3224,12 @@ jab koi surath utari jati hai ke Allah par iman lao aur us ke rasol ke sath mil 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب کوئی (ایسی) سورت نازل کی جاتی ہے کہ تم اللہ پر ایمان لاؤ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی معیت میں جہاد کرو تو ان میں سے دولت اور طاقت والے لوگ آپ سے رخصت چاہتے ہیں اور کہتے ہیں: آپ ہمیں چھوڑ دیں ہم (پیچھے) بیٹھے رہنے والوں کے ساتھ ہو جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب کوئی سورت یہ حکم لے کر نازل ہوتی ہے کہ : اللہ پر ایمان لاؤ، اور اس کے رسول کی رفاقت میں جہاد کرو، تو ان (منافقوں) میں سے وہ لوگ جو صاحب استطاعت ہیں، تم سے اجازت مانگتے ہیں، اور کہتے ہیں کہ ہمیں بھی ان لوگوں میں شامل ہونے دیجیے جو (گھر میں) بیٹھے رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum ne (hazrath) Moosa ko kitaab di aur un ke piche aur rasool bheje aur hum ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے موسیٰ (علیہ السلام) کو کتاب (تورات) عطا کی اور ان کے بعد ہم نے پے در پے (بہت سے) پیغمبر بھیجے، اور ہم نے مریم (علیھا السلام) کے فرزند عیسیٰ (علیہ السلام) کو (بھی) روشن نشانیاں عطا کیں اور ہم نے پاک روح کے ذریعے ان کی تائید (اور مدد) کی، تو کیا (ہوا) جب بھی کوئی پیغمبر تمہارے پاس وہ (احکام) لایا جنہیں تمہارے نفس پسند نہیں کرتے تھے تو تم (وہیں) اکڑ گئے اور بعضوں کو تم نے جھٹلایا اور بعضوں کو تم قتل کرنے لگے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بیشک ہم نے موسیٰ کو کتاب دی، اور اس کے بعد پے درپے رسول بھیجے۔ اور ہم نے عیسیٰ ابن مریم کو کھلی کھلی نشانیاں دیں اور روح القدس سے ان کی تائید کی۔ پھر یہ آخر کیا معاملہ ہے کہ جب کبھی کوئی رسول تمہارے پاس کوئی ایسی بات لے کر آیا جو تمہاری نفسانی خواہشات کو پسند نہیں تھی تو تم اکڑ گئے ؟ چنانچہ بعض (انبیاء) کو تم نے جھٹلایا، اور بعض کو قتل کرتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

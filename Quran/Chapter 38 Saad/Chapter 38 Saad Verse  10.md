@@ -3224,6 +3224,12 @@ ya kya asmaan wa zameen aur un ke darmiyaan ki har cheez ki badshaahath unhee ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا اُن کے پاس آسمانوں اور زمین کی اور جو کچھ اِن دونوں کے درمیان ہے اس کی بادشاہت ہے؟ (اگر ہے) تو انہیں چاہئے کہ رسّیاں باندھ کر (آسمان پر) چڑھ جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا پھر آسمانوں اور زمین اور ان کے درمیان ہر چیز کی بادشاہت ان کے قبضے میں ہے ؟ پھر تو انہیں چاہیے کہ رسیاں تان کر اوپر چڑھ جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

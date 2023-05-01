@@ -3224,6 +3224,12 @@ keh dijiye! ke mera rab jis ke liye chaahe rozi kushaada kar deta hai aur tang b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: میرا رب جس کے لئے چاہتا ہے رِزق کشادہ فرما دیتا ہے اور (جس کے لئے چاہتا ہے) تنگ کر دیتا ہے لیکن اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : میرا پروردگار ! جس کے لیے چاہتا ہے رزق کی فراوانی کردیتا ہے اور (جس کے لیے چاہتا ہے) تنگی کردیتا ہے، لیکن اکثر لوگ اس بات کو سمجھتے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

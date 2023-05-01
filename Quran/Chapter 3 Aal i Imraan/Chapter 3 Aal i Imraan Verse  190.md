@@ -3224,6 +3224,12 @@ asmaano aur zameen ki paidaayish mein aur raath din ke her pher mein yaqinan aqa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک آسمانوں اور زمین کی تخلیق میں اور شب و روز کی گردش میں عقلِ سلیم والوں کے لئے (اللہ کی قدرت کی) نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک آسمانوں اور زمین کی تخلیق میں اور رات دن کے بارے بارے آنے جانے میں ان عقل والوں کے لیے بڑی نشانیاں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

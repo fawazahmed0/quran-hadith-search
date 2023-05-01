@@ -3224,6 +3224,12 @@ lekin unhone phir kaha ke aye hamaare parvardigaar! hamaare safar door daraaz ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو وہ کہنے لگے: اے ہمارے رب! ہماری منازلِ سفر کے درمیان فاصلے پیدا کر دے، اور انہوں نے اپنی جانوں پر ظلم کیا تو ہم نے انہیں (عبرت کے) فسانے بنا دیا اور ہم نے انہیں ٹکڑے ٹکڑے کر کے منتشر کر دیا۔ بیشک اس میں بہت صابر اور نہایت شکر گزار شخص کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر وہ کہنے لگے کہ : ہمارے پروردگار ! ہمارے سفر کی منزلوں کے درمیان دور دور کے فاصلے پیدا کردے، اور یوں انہوں نے اپنی جانوں پر ستم ڈھایا، جس کے نتیجے میں ہم نے انہیں افسانہ ہی افسانہ بنادیا، اور انہیں ٹکڑے ٹکڑے کر کے بالکل تتر بتر کردیا۔ یقینا اس واقعے میں ہر اس شخص کے لیے بڑی نشانیاں ہیں جو صبر و شکر کا خوگر ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

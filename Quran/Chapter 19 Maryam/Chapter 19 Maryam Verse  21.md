@@ -3224,6 +3224,12 @@ us ne kaha baath to yahi hai, lekin tere parvardigaar ka irshaad hai ke wo mujh 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جبرائیل علیہ السلام نے) کہا: (تعجب نہ کر) ایسے ہی ہوگا، تیرے رب نے فرمایا ہے: یہ (کام) مجھ پر آسان ہے، اور (یہ اس لئے ہوگا) تاکہ ہم اسے لوگوں کے لئے نشانی اور اپنی جانب سے رحمت بنادیں، اور یہ امر (پہلے سے) طے شدہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرشتے نے کہا : ایسے ہی ہوجائے گا۔ تمہارے رب نے فرمایا ہے کہ : یہ میرے لیے ایک معمولی بات ہے۔ اور ہم یہ کام اس لیے کریں گے تاکہ اس لڑکے کو لوگوں کے لیے (اپنی قدرت کی) ایک نشانی بنائیں۔ اور اپنی طرف سے رحمت کا مظاہرہ کریں اور یہ بات پوری طرح طے ہوچکی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

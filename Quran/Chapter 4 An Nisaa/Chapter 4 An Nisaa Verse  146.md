@@ -3224,6 +3224,12 @@ haan jo tauba karle aur islaah karle aur Allah ta’ala par kaamil yaqeen rakhe 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر وہ لوگ جنہوں نے توبہ کر لی وہ سنور گئے اورانہوں نے اللہ سے مضبوط تعلق جوڑ لیا اور انہوں نے اپنا دین اللہ کے لئے خالص کر لیا تو یہ مؤمنوں کی سنگت میں ہوں گے اور عنقریب اللہ مومنوں کو عظیم اجر عطا فرمائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ جو لوگ توبہ کرلیں گے، اپنی اصلاح کرلیں گے، اللہ کا سہارا مضبوطی سے تھام لیں گے اور اپنے دین کو خالص اللہ کے لیے بنالیں گے تو ایسے لوگ مومنوں کے ساتھ شامل ہوجائیں گے، اور اللہ مومنوں کو ضرور اجر عظیم عطا کرے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

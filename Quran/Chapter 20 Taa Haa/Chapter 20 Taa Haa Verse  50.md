@@ -3224,6 +3224,12 @@ jawaab diya ke hamaara rab wo hai, jis ne har ek ko us ki qaas surath , shakl in
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) فرمایا: ہمارا رب وہی ہے جس نے ہر چیز کو (اس کے لائق) وجود بخشا پھر (اس کے حسبِ حال) اس کی رہنمائی کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : ہمارا رب وہ ہے جس نے ہر چیز کو وہ بناوٹ عطا کی جو اس کے مناسب تھی، پھر (اس کی) رہنمائی بھی فرمائی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

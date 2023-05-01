@@ -3224,6 +3224,12 @@ wahi hai jis ne asmaano aur zameen aur un ke darmiyaan ki sab chizo ko che din m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے آسمانی کرّوں اور زمین کو اور اس (کائنات) کو جو ان دونوں کے درمیان ہے چھ اَدوار میں پیدا فرمایا٭ پھر وہ (حسبِ شان) عرش پر جلوہ افروز ہوا (وہ) رحمان ہے، (اے معرفتِ حق کے طالب!) تو اس کے بارے میں کسی باخبر سے پوچھ (بے خبر اس کا حال نہیں جانتے)o٭ (ستۃ اَیّام سے مراد چھ اَدوارِ تخلیق ہیں، معروف معنٰی میں چھ دن نہیں کیونکہ یہاں تو خود زمین اور جملہ آسمانی کرّوں، کہکشاؤں، ستاروں، سیاروں اور خلاؤں کی پیدائش کا زمانہ بیان ہو رہا ہے، اس وقت رات اور دن کا وجود کہاں تھا؟)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ذات جس نے چھ دن میں سارے آسمان اور زمین اور ان کے درمیان کی چیزیں پیدا کیں، پھر اس نے عرش پر استواء فرمایا وہ رحمن ہے، اس لیے اس کی شان کسی جاننے والے سے پوچھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

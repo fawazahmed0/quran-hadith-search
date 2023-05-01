@@ -3224,6 +3224,12 @@ unhone kaha nahi balke hum tere paas wo cheez laye hai jis mein ye log shak shub
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: (ایسا نہیں) بلکہ ہم آپ کے پاس وہ (عذاب) لے کر آئے ہیں جس میں یہ لوگ شک کرتے رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : نہیں، بلکہ ہم آپ کے پاس وہ (عذاب) لے کر آئے ہیں جس میں یہ لوگ شک کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

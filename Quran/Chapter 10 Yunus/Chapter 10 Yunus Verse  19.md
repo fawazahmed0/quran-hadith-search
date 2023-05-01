@@ -3224,6 +3224,12 @@ aur tamam log ek hee ummath ke thein,phir unhone eqtelaf paida kar liya aur agar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور سارے لوگ (ابتداء) میں ایک ہی جماعت تھے پھر(باہم اختلاف کر کے) جدا جدا ہو گئے، اور اگر آپ کے رب کی طرف سے ایک بات پہلے سے طے نہ ہوچکی ہوتی (کہ عذاب میں جلد بازی نہیں ہوگی) تو ان کے درمیان ان باتوں کے بارے میں فیصلہ کیا جا چکا ہوتا جن میں وہ اختلاف کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (شروع میں) تمام انسان کسی اور دین کے نہیں، صرف ایک ہی دین کے قائل تھے، پھر بعد میں وہ آپس میں اختلاف کرکے الگ الگ ہوئے۔ اور اگر تمہارے پروردگار کی طرف سے ایک بات پہلے سے طے نہ ہوچکی ہوتی تو جس معاملے میں یہ لوگ اختلاف کر رہے ہیں، اس کا فیصلہ (دنیا ہی میں) کردیا جاتا ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

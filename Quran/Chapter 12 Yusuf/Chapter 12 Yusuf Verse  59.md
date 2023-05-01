@@ -3224,6 +3224,12 @@ jab unhe un ka asbaab muhiya kar diya to kaha ke tum mere paas apne us bhai ko b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب یوسف (علیہ السلام) نے ان کا سامان (زاد و متاع) انہیں مہیا کر دیا (تو) فرمایا: اپنے پدری بھائی (بنیامین) کو میرے پاس لے آؤ، کیا تم نہیں دیکھتے کہ میں (کس قدر) پورا ناپتا ہوں اور میں بہترین مہمان نواز (بھی) ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یوسف نے ان کا سامان تیار کردیا تو ان سے کہا کہ (آئندہ) اپنے باپ شریک بھائی کو بھی میرے پاس لے کر آنا۔ کیا تم یہ نہیں دیکھ رہے ہو کہ میں پیمانہ بھر بھر کردیتا ہوں، اور میں بہترین مہمان نواز بھی ہوں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

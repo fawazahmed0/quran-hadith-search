@@ -3224,6 +3224,12 @@ ye ba sabab un kamo ke jo tumhare hatho ne pehle hee bhej rakha hai,beshak Allah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (عذاب) ان (اعمالِ بد) کے بدلہ میں ہے جو تمہارے ہاتھوں نے آگے بھیجے اور اللہ ہرگز بندوں پر ظلم فرمانے والا نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ ان اعمال کا بدلہ ہے جو تم نے اپنے ہاتھوں آگے بھیج رکھے تھے، اور یہ بات طے ہے کہ اللہ بندوں پر ظلم کرنے والا نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

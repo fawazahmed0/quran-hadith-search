@@ -3224,6 +3224,12 @@ jab ke sidrah ko chupaaye leti thi, wo cheez jo us par chaa rahi thi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب نورِ حق کی تجلیّات سِدرَۃ (المنتہٰی) کو (بھی) ڈھانپ رہی تھیں جو کہ (اس پر) سایہ فگن تھیں٭o٭ یہ معنی بھی امام حسن بصری رضی اللہ عنہ و دیگر ائمہ کے اقوال پر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس وقت اس بیر کے درخت پر وہ چیزیں چھائی ہوئی تھیں جو بھی اس پر چھائی ہوئی تھیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

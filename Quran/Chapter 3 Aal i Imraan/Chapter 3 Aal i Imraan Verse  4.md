@@ -3224,6 +3224,12 @@ is se pehle, logo ko hidaayath karne waali bana kar aur Qur’aan bhi osi ne uta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جیسے) اس سے قبل لوگوں کی رہنمائی کے لئے (کتابیں اتاری گئیں) اور (اب اسی طرح) اس نے حق اور باطل میں امتیاز کرنے والا (قرآن) نازل فرمایا ہے، بیشک جو لوگ اللہ کی آیتوں کا انکار کرتے ہیں ان کے لئے سنگین عذاب ہے، اور اللہ بڑا غالب انتقام لینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اس سے پہلے لوگوں کے لیے مجسم ہدایت بن کر آئی تھیں، اور اسی نے حق و باطل کو پرکھنے کا معیار نازل کیا۔ ۔ بیشک جن لوگوں نے اللہ کی آیتوں کا انکار کیا ہے ان کے لیے سخت عذاب ہے، اور اللہ زبردست اقتدار کا مالک اور برائی کا بدلہ دینے والا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

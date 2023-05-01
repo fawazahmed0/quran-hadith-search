@@ -3224,6 +3224,12 @@ ye hamaara atya, ab tu ehsaan kar ya rok rakh, kuch hisaab nahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ارشاد ہوا:) یہ ہماری عطا ہے (خواہ دوسروں پر) احسان کرو یا (اپنے تک) روکے رکھو (دونوں حالتوں میں) کوئی حساب نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور ان سے کہا تھا کہ) یہ ہمارا عطیہ ہے، اب تمہیں اختیار ہے کہ احسان کر کے کسی کو کچھ دو ، یا اپنے پاس رکھو، تم پر کسی حساب کی ذمہ داری نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

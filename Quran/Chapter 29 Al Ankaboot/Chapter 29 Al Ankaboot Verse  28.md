@@ -3224,6 +3224,12 @@ aur hazrath Looth (alaihissalaam) ka bhi zikr karo, jab ke unhone apni khaum se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوط (علیہ السلام) کو (یاد کریں) جب انہوں نے اپنی قوم سے کہا: بیشک تم بڑی بے حیائی کا ارتکاب کرتے ہو، اقوامِ عالم میں سے کسی ایک (قوم) نے (بھی) اس (بے حیائی) میں تم سے پہل نہیں کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے لو ط کو بھیجا جبکہ اس نے اپنی قوم سے کہا : حقیقت یہ ہے کہ تم ایسی بےحیائی کا کام کرتے ہو جو تم سے پہلے دنیا جہان والوں میں سے کسی نے نہیں کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

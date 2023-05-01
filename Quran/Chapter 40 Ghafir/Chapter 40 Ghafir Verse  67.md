@@ -3224,6 +3224,12 @@ wo wahi hai jis ne tumhe mitthi se, phir nutfe se phir qoon ke luthde se payda k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے تمہاری (کیمیائی حیات کی ابتدائی) پیدائش مٹی سے کی پھر (حیاتیاتی ابتداء) ایک نطفہ (یعنی ایک خلیہ) سے، پھر رحم مادر میں معلّق وجود سے، پھر (بالآخر) وہی تمہیں بچہ بنا کر نکالتا ہے پھر (تمہیں نشو و نما دیتا ہے) تاکہ تم اپنی جوانی کو پہنچ جاؤ۔ پھر (تمہیں عمر کی مہلت دیتا ہے) تاکہ تم بوڑھے ہو جاؤ اور تم میں سے کوئی (بڑھاپے سے) پہلے ہی وفات پا جاتا ہے اور (یہ سب کچھ اس لئے کیاجاتا ہے) تاکہ تم (اپنی اپنی) مقررّہ میعاد تک پہنچ جاؤ اور اِس لئے (بھی) کہ تم سمجھ سکو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے تمہیں مٹی سے پیدا کیا، پھر نطفے سے، پھر جمے ہوئے خون سے۔ پھر وہ تمہیں بچے کی شکل میں باہر لاتا ہے، پھر (وہ تمہاری پرورش کرتا ہے) تاکہ تم اپنی بھر پور طاقت کو پہنچ جاؤ اور پھر بوڑھے ہوجاؤ اور تم میں سے کچھ وہ بھی ہیں جو اس سے پہلے ہی وفات پا جاتے ہیں اور تاکہ تم ایک مقرر میعاد تک پہنچو اور تاکہ تم عقل سے کام لو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

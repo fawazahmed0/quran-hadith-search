@@ -3224,6 +3224,12 @@ aur jo kuch tumhara gird wa pesh walo mein aur jo kuch madine walo mein aise mun
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (مسلمانو!) تمہارے گرد و نواح کے دیہاتی گنواروں میں بعض منافق ہیں اور بعض باشندگانِ مدینہ بھی، یہ لوگ نفاق پر اڑے ہوئے ہیں، آپ انہیں (اب تک) نہیں جانتے، ہم انہیں جانتے ہیں (بعد میں حضور صلی اللہ علیہ وآلہ وسلم کو بھی جملہ منافقین کا علم اور معرفت عطا کر دی گئی)۔ عنقریب ہم انہیں دو مرتبہ (دنیا ہی میں) عذاب دیں گے٭ پھر وہ (قیامت میں) بڑے عذاب کی طرف پلٹائے جائیں گےo٭ ایک بار جب ان کی پہچان کرا دی گئی اور حضور صلی اللہ علیہ وآلہ وسلم نے خطبۂ جمعہ کے دوران ان منافقین کو نام لے لے کر مسجد سے نکال دیا، یہ پہلا عذاب بصورتِ ذلت و رسوائی تھا؛ اور دوسرا عذاب بصورتِ ہلاکت و مُقاتلہ ہوا جس کا حکم بعد میں آیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے ارد گرد جو دیہاتی ہیں، ان میں بھی منافق لوگ موجود ہیں، اور مدینہ کے باشندوں میں بھی۔ یہ لوگ منافقت میں (اتنے) ماہر ہوگئے ہیں (کہ) تم انہیں نہیں جانتے، انہیں ہم جانتے ہیں۔ ان کو ہم دو مرتبہ سزا دیں گے۔ پھر ان کو ایک زبردست عذاب کی طرف دھکیل دیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

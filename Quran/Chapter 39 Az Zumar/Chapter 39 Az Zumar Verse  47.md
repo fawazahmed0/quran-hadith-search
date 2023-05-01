@@ -3224,6 +3224,12 @@ agar zulm karne waalo ke paas wo sab kuch ho, jo roye zameen par hai aur us ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ظالموں کو وہ سب کا سب (مال و متاع) میسر ہو جائے جو روئے زمین میں ہے اور اُس کے ساتھ اس کے برابر (اور بھی مل جائے) تو وہ اسے قیامت کے دن بُرے عذاب (سے نجات پانے) کے بدلے میں دے ڈالیں گے، اور اللہ کی طرف سے اُن کے لئے وہ (عذاب) ظاہر ہوگا جس کا وہ گمان بھی نہیں کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ظلم کا ارتکاب کیا ہے، اگر ان کے پاس وہ سب کچھ ہو جو زمین میں ہے، اور اس کے ساتھ اتنا ہی اور بھی، تو قیامت کے دن بد ترین عذاب سے بچنے کے لیے وہ سب فدیہ کے طور پر دینے لگیں گے، اور اللہ کی طرف سے وہ کچھ ان کے سامنے آجائے گا جس کا انہیں گمان بھی نہیں تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

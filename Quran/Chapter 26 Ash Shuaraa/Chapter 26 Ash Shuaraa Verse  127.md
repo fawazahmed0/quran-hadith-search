@@ -3224,6 +3224,12 @@ main us par tum se koyi ujrath talab nahi karta, mera sawaab to tamaam jahaan ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں تم سے اس (تبلیغِ حق) پر کوئی معاوضہ نہیں مانگتا ، میرا اجر تو فقط تمام جہانوں کے رب کے ذمہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں تم سے اس کام پر کسی قسم کی کوئی اجرت نہیں مانگتا، میرا اجر تو صرف اس ذات نے اپنے ذمے لے رکھا ہے جو سارے دنیا جہان کی پرورش کرتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

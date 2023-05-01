@@ -3224,6 +3224,12 @@ yahaa tak ke jab bilkul jahannam ke paas aa jayenge, un par un ke kaan aur un ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ جب وہ دوزخ تک پہنچ جائیں گے تو اُن کے کان اور اُن کی آنکھیں اور اُن (کے جسموں) کی کھالیں اُن کے خلاف گواہی دیں گی اُن اعمال پر جو وہ کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ جب وہ اس (آگ) کے پاس پہنچ جائیں گے تو ان کے کان، ان کی آنکھیں اور ان کی کھالیں ان کے خلاف گواہی دیں گی کہ وہ کیا کچھ کرتے رہے ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

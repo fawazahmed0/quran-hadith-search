@@ -3224,6 +3224,12 @@ keh dijiye ke aye yahodiyo! agar tumhaara dawa hai ke tum Allah ke dosth ho, dos
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیجئے: اے یہودیو! اگر تم یہ گمان کرتے ہو کہ سب لوگوں کو چھوڑ کر تم ہی اللہ کے دوست (یعنی اولیاء) ہو تو موت کی آرزو کرو (کیونکہ اس کے اولیاء کو تو قبر و حشر میں کوئی پریشانی نہیں ہوگی) اگر تم (اپنے خیال میں) سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ان سے) کہو کہ : اے لوگو جو یہودی بن گئے ہو، اگر تمہارا دعوی یہ ہے کہ سارے لوگوں کو چھوڑ کر تم ہی اللہ کے دوست ہو تو موت کی تمنا کرو اگر تم سچے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur un par apne amaal ki buraiya khul gayi aur jis ka wo mazaaq uda rahe thein u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُن کے لئے وہ سب برائیاں ظاہر ہو جائیں گی جو وہ انجام دیتے تھے اور وہ (عذاب) انہیں گھیر لے گا جِس کا وہ مذاق اڑایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس موقع پر) انہوں نے جو اعمال کیے تھے، ان کی برائیاں کھل کر ان کے سامنے آجائیں گی، اور جس چیز کا وہ مذاق اڑاتے تھے، وہی ان کو آگھیرے گی،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

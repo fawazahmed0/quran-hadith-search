@@ -3224,6 +3224,12 @@ sivae un ke jo sabr karte hai aur nek kaamo mein lage rehte hai unhi logo ke liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے ان لوگوں کے جنہوں نے صبر کیا اور نیک عمل کرتے رہے، (تو) ایسے لوگوں کے لئے مغفرت اور بڑا اجر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں ! مگر جو لوگ صبر سے کام لیتے ہیں، اور نیک عمل کرتے ہیں وہ ایسے نہیں ہیں، ان کو مغفرت اور بڑا اجر نصیب ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ keh di jiye ke Allah ta’ala ka hukm maano, rasool Allah ki ita’ath karo, phi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: تم اللہ کی اطاعت کرو اور رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرو، پھر اگر تم نے (اطاعت) سے رُوگردانی کی تو (جان لو) رسول (صلی اللہ علیہ وآلہ وسلم) کے ذمہ وہی کچھ ہے جو ان پر لازم کیا گیا اور تمہارے ذمہ وہ ہے جو تم پر لازم کیا گیا ہے، اور اگر تم ان کی اطاعت کرو گے تو ہدایت پا جاؤ گے، اور رسول (صلی اللہ علیہ وآلہ وسلم) پر (احکام کو) صریحاً پہنچا دینے کے سوا (کچھ لازم) نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان سے) کہو کہ : اللہ کا حکم مانو اور رسول کے فرمانبردار بنو، پھر بھی اگر تم نے منہ پھیرے رکھا تو رسول پر تو اتنا ہی بوجھ ہے جس کی ذمہ داری ان پر ڈالی گئی ہے، اور جو بوجھ تم پر ڈالا گیا ہے، اس کے ذمہ داری تم خود ہو۔ اگر تم ان کی فرمانبرداری کرو گے تو ہدایت پاجاؤ گے، اور رسول کا فرض اس سے زیادہ نہیں ہے کہ وہ صاف صاف بات پہنچا دیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

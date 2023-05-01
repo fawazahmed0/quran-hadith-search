@@ -3224,6 +3224,12 @@ aur tu to hum hee jaisa ek insaan hai aur hum to tujhe jhoot bolne waalo mein se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم فقط ہمارے جیسے بشر ہی تو ہو اور ہم تمہیں یقیناً جھوٹے لوگوں میں سے خیال کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہاری حقیقت اس کے سوا کچھ بھی نہیں کہ تم ہم جیسے ہی ایک انسان ہو اور ہم تمہیں پورے یقین کے ساتھ جھوٹا سمجھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

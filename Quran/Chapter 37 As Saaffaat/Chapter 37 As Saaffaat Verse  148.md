@@ -3224,6 +3224,12 @@ pas wo imaan laaye aur hum ne unhe ek zamaane tak aysh wa ishrath di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو (آثارِ عذاب کو دیکھ کر) وہ لوگ ایمان لائے تو ہم نے انہیں ایک وقت تک فائدہ پہنچایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر وہ ایمان لے آئے تھے اس لیے ہم نے انہیں ایک زمانے تک زندگی سے فائدہ اٹھانے کا موقع دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

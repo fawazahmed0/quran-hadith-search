@@ -3224,6 +3224,12 @@ ye is liye ke wo Allah ki naazil karda cheez se na khush hoye, pas Allah ta’al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس وجہ سے کہ انہوں نے اس (کتاب) کو ناپسند کیا جو اللہ نے نازل فرمائی تو اس نے ان کے اعمال اکارت کر دیئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس لیے کہ انہوں نے اس بات کو ناپسند کیا جو اللہ نے نازل کی تھی، چنانچہ اللہ نے ان کے اعمال ضائع کردیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

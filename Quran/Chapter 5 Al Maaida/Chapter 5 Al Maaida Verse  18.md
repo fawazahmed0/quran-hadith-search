@@ -3224,6 +3224,12 @@ yahod wa nasara kehte hai ke hum Allah ke bete aur us ke dosth hai,aap keh dijiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہود اور نصارٰی نے کہا: ہم اللہ کے بیٹے اور اس کے محبوب ہیں۔ آپ فرما دیجئے: (اگر تمہاری بات درست ہے) تو وہ تمہارے گناہوں پر تمہیں عذاب کیوں دیتا ہے؟ بلکہ (حقیقت یہ ہے کہ) جن (مخلوقات) کو اللہ نے پیدا کیا ہے تم (بھی) ان (ہی) میں سے بشر ہو (یعنی دیگر طبقاتِ انسانی ہی کی مانند ہو)، وہ جسے چاہے بخشش سے نوازتا ہے اور جسے چاہے عذاب سے دوچار کرتا ہے، اور آسمانوں اور زمین اور وہ (کائنات) جو دونوں کے درمیان ہے (سب) کی بادشاہی اللہ ہی کے لئے ہے اور (ہر ایک کو) اسی کی طرف پلٹ کر جانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہود و نصاری کہتے ہیں کہ : ہم اللہ کے بیٹے اور اس کے چہیتے ہیں (ان سے) کہو کہ پھر اللہ تمہارے گناہوں کی وجہ سے تمہیں سزا کیوں دیتا ہے ؟ نہیں ! بلکہ تم انہی انسانوں کی طرح انسان ہو جو اس نے پیدا کیے ہیں۔ وہ جس کو چاہتا ہے بخش دیتا ہے اور جس کو چاہتا ہے عذاب دیتا ہے۔ آسمانوں اور زمین پر اور ان کے درمیان جو کچھ موجود ہے اس پر تنہا ملکیت اللہ ہی کی ہے، اور اسی کی طرف (سب کو) لوٹ کر جانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

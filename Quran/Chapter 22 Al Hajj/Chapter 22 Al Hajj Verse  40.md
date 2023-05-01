@@ -3224,6 +3224,12 @@ ye wo hai jinhe na haq apne gharo se nikala gaya, sirf un ke us qaul par ke hama
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) وہ لوگ ہیں جو اپنے گھروں (وطن) سے ناحق نکالے گئے صرف اس بنا پر کہ وہ کہتے تھے کہ ہمارا رب اللہ ہے، اور اگر اللہ انسانی طبقات میں سے بعض کو بعض کے ذریعے (قیامِ اَمن کی جدوجہد کی صورت میں) ہٹاتا نہ رہتا تو خانقاہیں اور گرجے اور کلیسے اور مسجدیں (یعنی تمام ادیان کے مذہبی مراکز اور عبادت گاہیں) مسمار اور ویران کر دی جاتیں جن میں کثرت سے اللہ کے نام کا ذکر کیا جاتا ہے، اور جو شخص اللہ (کے دین) کی مدد کرتا ہے یقینًا اللہ اس کی مدد فرماتا ہے۔ بے شک اللہ ضرور (بڑی) قوت والا (سب پر) غالب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جنہیں صرف اتنی بات پر اپنے گھروں سے ناحق نکالا گیا ہے کہ انہوں نے یہ کہا تھا کہ ہمارا پروردگار اللہ ہے۔ اور اگر اللہ لوگوں کے ایک گروہ (کے شر) کو دوسرے کے ذریعے دفع نہ کرتا رہتا تو خانقاہیں اور کلیسا اور عبادت گا ہیں اور مسجدیں جن میں اللہ کا کثرت سے ذکر کیا جاتا ہے، سب مسمار کردی جاتیں۔ اور اللہ ضرور ان لوگوں کی مدد کرے گا جو اس (کے دین) کی مدد کریں گے۔ بلاشبہ اللہ بڑی قوت والا، بڑے اقتدار والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

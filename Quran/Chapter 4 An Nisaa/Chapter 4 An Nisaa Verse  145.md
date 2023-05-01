@@ -3224,6 +3224,12 @@ munafiq to yaqinan jahannam ke sab se niche ke tabqe mein jayenge, na mumkin hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک منافق لوگ دوزخ کے سب سے نچلے درجے میں ہوں گے اور آپ ان کے لئے ہرگز کوئی مددگار نہ پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ منافقین جہنم کے سب سے نچلے طبقے میں ہوں گے، اور ان کے لیے تم کوئی مددگار نہیں پاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

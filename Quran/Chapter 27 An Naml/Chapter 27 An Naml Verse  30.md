@@ -3224,6 +3224,12 @@ jo Sulaimaan ki taraf se hai aur jo baqshish karne waale meherbaan Allah ke naam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک وہ (خط) سلیمان (علیہ السلام) کی جانب سے (آیا) ہے اور وہ اللہ کے نام سے شروع (کیا گیا) ہے جو بے حد مہربان بڑا رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ سلیمان کی طرف سے آیا ہے اور وہ اللہ کے نام سے شروع کیا گیا ہے جو رحمن و رحیم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

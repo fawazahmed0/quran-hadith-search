@@ -3224,6 +3224,12 @@ aur baaz log aise bhi hai jo lagho baatho ko mol lete hai, ke be-ilmi ke saath l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں میں سے کچھ ایسے بھی ہیں جو بیہودہ کلام خریدتے ہیں تاکہ بغیر سوجھ بوجھ کے لوگوں کو اللہ کی راہ سے بھٹکا دیں اور اس (راہ) کا مذاق اڑائیں، ان ہی لوگوں کے لئے رسوا کن عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کچھ لوگ وہ ہیں جو اللہ سے غافل کرنے والی باتوں کے خریدار بنتے ہیں۔ تاکہ ان کے ذریعے لوگوں کو بےسمجھے بوجھے اللہ کے راستے سے بھٹکائیں، اور اس کا مذاق اڑائیں۔ ان لوگوں کو وہ عذاب ہوگا جو ذلیل کر کے رکھ دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

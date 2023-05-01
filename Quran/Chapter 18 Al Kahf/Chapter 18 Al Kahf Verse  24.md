@@ -3224,6 +3224,12 @@ magar saath hee Insha’Allah keh lena, aur jab bhi bhule apne parvardigaar ki y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر یہ کہ اگر اللہ چاہے (یعنی اِن شاء اللہ کہہ کر) اور اپنے رب کا ذکر کیا کریں جب آپ بھول جائیں اور کہیں: امید ہے میرا رب مجھے اس سے (بھی) قریب تر ہدایت کی راہ دکھا دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں (یہ کہو کہ) اللہ چاہے گا تو (کرلوں گا) اور جب کبھی بھول جاؤ تو اپنے رب کو یاد کرلو، اور کہو : مجھے امید ہے کہ میرا رب کسی ایسی بات کی طرف رہنمائی کردے جو ہدایت میں اس سے بھی زیادہ قریب ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

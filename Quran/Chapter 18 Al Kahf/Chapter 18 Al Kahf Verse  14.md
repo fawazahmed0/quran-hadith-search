@@ -3224,6 +3224,12 @@ hum ne un ke dil mazbooth kar diye thein, jab ke ye ut khade hoye aur kehne lage
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان کے دلوں کو (اپنے ربط و نسبت سے) مضبوط و مستحکم فرما دیا، جب وہ (اپنے بادشاہ کے سامنے) کھڑے ہوئے تو کہنے لگے: ہمارا رب تو آسمانوں اور زمین کا رب ہے ہم اس کے سوا ہرگز کسی (جھوٹے) معبود کی پرستش نہیں کریں گے (اگر ایسا کریں تو) اس وقت ہم ضرور حق سے ہٹی ہوئی بات کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان کے دل خوب مضبوط کردیے تھے۔ یہ اس وقت کا ذکر ہے جب وہ اٹھے، اور انہوں نے کہا کہ : ہمارا پروردگار وہ ہے جو تمام آسمانوں اور زمین کا مالک ہے۔ ہم اس کے سوا کسی کو معبود بنا کر ہرگز نہیں پکاریں گے۔ اگر ہم ایسا کریں گے تو ہم یقینا انتہائی لغو بات کہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

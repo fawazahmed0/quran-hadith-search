@@ -3224,6 +3224,12 @@ us se bad kar zaalim kaun hai, jise Allah ta’ala ki aayato se waaz kiya gaya, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس شخص سے بڑھ کر ظالم کون ہو سکتا ہے جسے اس کے رب کی آیتوں کے ذریعے نصیحت کی جائے پھر وہ اُن سے منہ پھیر لے، بیشک ہم مُجرموں سے بدلہ لینے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس سے بڑا ظالم کون ہوگا جس کو اپنے پروردگار کی آیتوں کے ذریعے نصیحت کی گئی، تو اس نے ان سے منہ موڑ لیا۔ ہم یقینا ایسے مجرموں سے بدلہ لے کر رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jab Moosa (alaihissalaam) ne apni khaum ke liye paani maanga, to hum ne kaha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت بھی یا دکرو) جب موسیٰ (علیہ السلام) نے اپنی قوم کے لئے پانی مانگا تو ہم نے فرمایا: اپنا عصا اس پتھر پر مارو، پھر اس (پتھر) سے بارہ چشمے پھوٹ پڑے، واقعۃً ہر گروہ نے اپنا اپنا گھاٹ پہچان لیا، (ہم نے فرمایا:) اللہ کے (عطا کردہ) رزق میں سے کھاؤ اور پیو لیکن زمین میں فساد انگیزی نہ کرتے پھرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وہ وقت بھی یاد کرو) جب موسیٰ نے اپنی قوم کے لئے پانی مانگا تو ہم نے کہا اپنی لاٹھی پتھر پر مارو “ چنانچہ اس (پتھر) سے بارہ چشمے پھوٹ نکلے ہر ایک قبیلے نے اپنے پانی لینے کی جگہ معلوم کرلی (ہم نے کہا) اللہ کا دیا ہوا رزق کھاؤ، اور زمین میں فساد مچاتے مت پھرنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

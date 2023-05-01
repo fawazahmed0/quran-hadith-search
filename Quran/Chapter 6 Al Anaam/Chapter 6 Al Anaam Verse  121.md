@@ -3224,6 +3224,12 @@ aur aise jaanwaro mein se math khaao jin par Allah ka naam na liya gaya ho aur y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اس (جانور کے گوشت) سے نہ کھایا کرو جس پر (ذبح کے وقت) اللہ کا نام نہ لیا گیا ہو اور بیشک وہ (گوشت کھانا) گناہ ہے، اور بیشک شیاطین اپنے دوستوں کے دلوں میں (وسوسے) ڈالتے رہتے ہیں تاکہ وہ تم سے جھگڑا کریں اور اگر تم ان کے کہنے پر چل پڑے (تو) تم بھی مشرک ہو جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس جانور پر اللہ کا نام نہ لیا گیا ہو، اس میں سے مت کھاؤ، اور ایسا کرنا سخت گناہ ہے۔ (مسلمانو) شیاطین اپنے دوستوں کو ورغلاتے رہتے ہیں تاکہ وہ تم سے بحث کریں۔ اور اگر تم نے ان کی بات مان لی تو تم یقینا مشرک ہوجاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

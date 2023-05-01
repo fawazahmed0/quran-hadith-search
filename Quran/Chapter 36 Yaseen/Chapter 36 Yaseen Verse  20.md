@@ -3224,6 +3224,12 @@ aur ek shaqs (us) shahar ke aaqri hisse se dauta hoa aya, kehne laga ke aye meri
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور شہر کے پرلے کنارے سے ایک آدمی دوڑتا ہوا آیا، اس نے کہا: اے میری قوم! تم پیغمبروں کی پیروی کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور شہر کے پرلے علاقے سے ایک شخص دوڑتا ہوا آیا۔ اس نے کہا : اے میری قوم کے لوگو ! ان رسولوں کا کہنا مان لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

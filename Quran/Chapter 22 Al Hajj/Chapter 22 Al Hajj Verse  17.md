@@ -3224,6 +3224,12 @@ beshak ahle imaan aur yahoodi aur saabi aur nasraani aur majusi aur mushrikeen, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ ایمان لائے اور جو لوگ یہودی ہوئے اور ستارہ پرست اور نصارٰی (عیسائی) اور آتش پرست اور جو مشرک ہوئے، یقیناً اللہ قیامت کے دن ان (سب) کے درمیان فیصلہ فرما دے گا۔ بیشک اللہ ہر چیز کا مشاہدہ فرما رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلاشبہ مومن ہوں یا یہودی، صابی ہوں یا نصرانی اور مجوسی، یا وہ جنہوں نے شرک اختیار کیا ہے، اللہ قیامت کے دن ان سب کے درمیان فیصلہ کرے گا۔ یقینا اللہ ہر چیز کا گواہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

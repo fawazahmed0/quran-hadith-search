@@ -3224,6 +3224,12 @@ jab sab ke sab aa pahonchenge, to Allah ta’ala farmaayega ke tum ne meri aayat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ جب وہ سب (مقامِ حساب پر) آپہنچیں گے تو ارشاد ہوگا کیا تم (بغیر غور و فکر کے) میری آیتوں کو جھٹلاتے تھے حالانکہ تم (اپنے ناقص) علم سے انہیں کاملاً جان بھی نہیں سکے تھے یا (تم خود ہی بتاؤ) اس کے علاوہ اور کیا (سبب) تھا جو تم (حق کی تکذیب) کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ جب سب آجائیں گے تو اللہ کہے گا کہ : کیا تم نے میری آیتوں کو پوری طرح سمجھے بغیر ہی جھٹلا دیا تھا، یا کیا کرتے رہے تھے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

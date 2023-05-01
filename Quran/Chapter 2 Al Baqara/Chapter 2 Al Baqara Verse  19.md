@@ -3224,6 +3224,12 @@ ya asmaani barsaath ki tarah jis mein andheriya aur garaj aur bijli ho, mauth se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا ان کی مثال اس بارش کی سی ہے جو آسمان سے برس رہی ہے جس میں اندھیریاں ہیں اور گرج اور چمک (بھی) ہے تو وہ کڑک کے باعث موت کے ڈر سے اپنے کانوں میں انگلیاں ٹھونس لیتے ہیں، اور اللہ کافروں کو گھیرے ہوئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا پھر (ان منافقوں کی مثال ایسی ہے جیسے آسمان سے برستی ایک بارش ہو، جس میں اندھیریاں بھی ہوں اور گرج بھی اور چمک بھی۔ وہ کڑکوں کی آواز پر موت کے خوف سے اپنی انگلیاں اپنے کانوں میں دے لیتے ہیں۔ اور اللہ نے کافروں کو گھیرے میں لے رکھا ہے)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

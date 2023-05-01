@@ -3224,6 +3224,12 @@ jise chaahe apni rahmath mein dakhil karle aur zaalimo ke liye us ne dardnaak az
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ جسے چاہتا ہے اپنی رحمت (کے دائرے) میں داخل فرما لیتا ہے، اور ظالموں کے لئے اس نے دردناک عذاب تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جس کو چاہتا ہے اپنی رحمت میں داخل کرلیتا ہے، اور یہ جو ظالم لوگ ہیں ان کے لیے اس نے دردناک عذاب تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

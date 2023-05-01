@@ -3224,6 +3224,12 @@ badshah ne pocha aye aurton! us waqt ka sahih waaqea kya hai jab tum daao fareb 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بادشاہ نے (زلیخا سمیت عورتوں کو بلا کر) پوچھا: تم پر کیا بیتا تھا جب تم (سب) نے یوسف (علیہ السلام) کو ان کی راست روی سے بہکانا چاہا تھا (بتاؤ وہ معاملہ کیا تھا)؟ وہ سب (بہ یک زبان) بولیں: اللہ کی پناہ! ہم نے (تو) یوسف (علیہ السلام) میں کوئی برائی نہیں پائی۔ عزیزِ مصر کی بیوی (زلیخا بھی) بول اٹھی: اب تو حق آشکار ہو چکا ہے (حقیقت یہ ہے کہ) میں نے ہی انہیں اپنی مطلب براری کے لئے پھسلانا چاہا تھا اور بیشک وہی سچے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بادشاہ نے (ان عورتوں کو بلا کر ان سے) کہا : تمہارا کیا قصہ تھا جب تم نے یوسف کو ورغلا نے کی کوشش کی تھی ؟ ان سب عورتوں نے کہا کہ : حاشا للہ ! ہم کو ان میں ذرا بھی کوئی برائی معلوم نہیں ہوئی۔ عزیز کی بیوی نے کہا کہ : اب تو حق بات سب پر کھل ہی گئی ہے۔ میں نے ہی ان کو ورغلانے کی کوشش کی تھی، اور حقیقت یہ ہے کہ وہ بالکل سچے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

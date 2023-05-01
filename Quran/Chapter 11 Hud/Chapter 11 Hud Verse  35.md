@@ -3224,6 +3224,12 @@ kya ye kehte hai ke ise khud isi ne ghad liya hai? tu jawaab de, ke agar main ne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) کیا یہ لوگ کہتے ہیں کہ پیغمبر نے اس (قرآن) کو خود گھڑ لیا ہے، فرما دیجئے: اگر میں نے اسے گھڑ لیا ہے تو میرے جرم (کا وبال) مجھ پر ہوگا اور میں اس سے بری ہوں جو جرم تم کر رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا (عرب کے یہ کافر) لوگ کہتے ہیں کہ محمد (صلی اللہ علیہ وآلہ وسلم) نے یہ قرآن اپنی طرف سے گھڑ لیا ہے ؟ (اے پیغمبر) کہہ دو کہ : اگر میں نے اسے گھڑا ہوگا تو میرے جرم کا وبال مجھی پر ہوگا، اور جو جرم تم کر رہے ہو، میں اس کا ذمہ دار نہیں ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

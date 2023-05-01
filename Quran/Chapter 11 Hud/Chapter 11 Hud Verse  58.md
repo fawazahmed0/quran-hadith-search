@@ -3224,6 +3224,12 @@ aur jab hamara hukm aa pahoncha to hum ne hoodh ko aur us ke musalmaan sathiyo k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہمارا حکمِ (عذاب) آپہنچا (تو) ہم نے ہود (علیہ السلام) کو اور ان کے ساتھ ایمان والوں کو اپنی رحمت کے باعث بچا لیا، اور ہم نے انہیں سخت عذاب سے نجات بخشی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (آخر کار) جب ہمارا حکم آگیا تو ہم نے اپنی رحمت کے ذریعے ہود کو اور جو لوگ ان کے ساتھ ایمان لائے تھے، ان کو بچا لیا، اور انہیں ایک سخت عذاب سے نجات دے دی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

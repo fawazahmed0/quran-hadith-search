@@ -3224,6 +3224,12 @@ un mein se jise tu chaahe door rakh de aur jise chaahe apne paas rakh le aur aga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب! آپ کو اختیار ہے) ان میں سے جِس (زوجہ) کو چاہیں (باری میں) مؤخّر رکھیں اور جسے چاہیں اپنے پاس (پہلے) جگہ دیں، اور جن سے آپ نے (عارضی) کنارہ کشی اختیار فرما رکھی تھی آپ انہیں (اپنی قربت کے لئے) طلب فرما لیں تو آپ پر کچھ مضائقہ نہیں، یہ اس کے قریب تر ہے کہ ان کی آنکھیں (آپ کے دیدار سے) ٹھنڈی ہوں گی اور وہ غمگین نہیں رہیں گی اور وہ سب اس سے راضی رہیں گی جو کچھ آپ نے انہیں عطا فرما دیا ہے، اور اللہ جانتا ہے جو کچھ تمہارے دلوں میں ہے، اور اللہ خوب جاننے والا بڑا حِلم والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان بیویوں میں سے تم جس کی باری چاہو ملتوی کردو، اور جس کو چاہو، اپنے پاس رکھو، اور جن کو تم نے الگ کردیا ہو ان میں سے اگر کسی کو واپس بلانا چاہو تو اس میں بھی تمہارے لیے کوئی گناہ نہیں ہے۔ اس طریقے میں اس بات کی زیادہ توقع ہے کہ ان سب کی آنکھیں ٹھنڈی رہیں گی، اور انہیں رنج نہیں ہوگا اور تم انہیں جو کچھ دے دو گے اس پر وہ سب کی سب راضی رہیں گی۔ اور اللہ ان سب باتوں کو جانتا ہے جو تمہارے دلوں میں ہیں اور اللہ علم اور حلم کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

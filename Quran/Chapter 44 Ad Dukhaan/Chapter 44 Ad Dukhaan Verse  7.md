@@ -3224,6 +3224,12 @@ jo rab hai asmaano ka aur zameen ka aur jo kuch un ke darmiyaan hai agar tum yaq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آسمانوں اور زمین کا اور جو کچھ اِن کے درمیان ہے (اُس کا) پروردگار ہے، بشرطیکہ تم یقین رکھنے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو سارے آسمانوں اور زمین کا اور ان کے درمیان ہر چیز کا رب ہے، اگر تم واقعی یقین کرنے والے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

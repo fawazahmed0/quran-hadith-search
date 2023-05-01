@@ -3224,6 +3224,12 @@ aur agar tujhe kisi khaum ki qiyanath ka darr ho, to barabari ki halath mein unk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ کو کسی قوم سے خیانت کا اندیشہ ہو تو ان کا عہد ان کی طرف برابری کی بنیاد پر پھینک دیں۔ بیشک اللہ دغابازوں کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہیں کسی قوم سے بدعہدی کا اندیشہ ہو تو تم وہ معاہدہ ان کی طرف صاف سیدھے طریقے سے پھینک دو ، یاد رکھو کہ اللہ بد عہدی کرنے والوں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

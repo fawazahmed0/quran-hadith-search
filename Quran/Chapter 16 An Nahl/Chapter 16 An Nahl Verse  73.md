@@ -3224,6 +3224,12 @@ aur wo Allah ta’ala ke siwa un ki ibaadath karte hai jo aasmaano aur zameen se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ کے سوا ان (بتوں) کی پرستش کرتے ہیں جو آسمانوں اور زمین سے ان کے لئے کسی قدر رزق دینے کے بھی مالک نہیں ہیں اور نہ ہی کچھ قدرت رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ اللہ کو چھوڑ کر ان چیزوں کی عبادت کرتے ہیں جو ان کو آسمانوں اور زمین میں سے کسی طرح کا رزق دینے کا نہ کوئی اختیار رکھتی ہیں نہ رکھ سکتی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

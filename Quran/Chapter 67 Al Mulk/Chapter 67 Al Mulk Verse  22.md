@@ -3224,6 +3224,12 @@ accha wo shaqs zyaada hidaayath waala hai jo apne mu ke bal aundha ho kar chale 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ شخص جو منہ کے بل اوندھا چل رہا ہے زیادہ راہِ راست پر ہے یا وہ شخص جو سیدھی حالت میں صحیح راہ پر گامزن ہے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا جو شخص اپنے منہ کے بل اوندھا چل رہا ہو، وہ منزل تک زیادہ پہنچنے والا ہوگا یا وہ جو ایک سیدھے راستے پر سیدھا سیدھا چل رہا ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

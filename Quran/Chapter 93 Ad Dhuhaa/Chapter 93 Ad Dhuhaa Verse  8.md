@@ -3224,6 +3224,12 @@ aur tujhe na-daar pa kar tawangar nahi bana diya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس نے آپ کو (وصالِ حق کا) حاجت مند پایا تو اس نے (اپنی لذت دید سے نواز کر ہمیشہ کے لئے ہر طلب سے) بے نیاز کر دیا۔ یا- اور اس نے آپ کو (جواد و کریم) پایا تو اس نے (آپ کے ذریعے) محتاجوں کو غنی کر دیا۔٭o٭ ان تینوں تراجم میں یَتِیماً کو فَاٰوٰی کا، ضآلًّا کو فَھَدٰی کا اور عائِلًا کو فَاَغنٰی کا مفعولِ مقدم قرار دیا ہے۔ (ملاحظہ ہو: التفسیر الکبیر، القرطبی، البحر المحیط، روح البیان، الشفاء اور شرح خفاجی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہیں نادار پایا تو غنی کردیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

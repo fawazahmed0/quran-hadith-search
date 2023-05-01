@@ -3224,6 +3224,12 @@ sivaaye un ke jo us khaum se taalluq rakhte ho jin se tumhaara maaheda ho chuka 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے اُن لوگوں کے جو ایسی قوم سے جا ملے ہوں کہ تمہارے اور ان کے درمیان معاہدۂ (اَمان موجود) ہو یا وہ (حوصلہ ہار کر) تمہارے پاس اس حال میں آجائیں کہ ان کے سینے (اس بات سے) تنگ آچکے ہوں کہ وہ تم سے لڑیں یا اپنی قوم سے لڑیں، اور اگر اللہ چاہتا تو (ان کے دلوں کو ہمت دیتے ہوئے) یقینا انہیں تم پر غالب کر دیتا تو وہ تم سے ضرور لڑتے، پس اگر وہ تم سے کنارہ کشی کر لیں اور تمہارے ساتھ جنگ نہ کریں اور تمہاری طرف صلح (کا پیغام) بھیجیں تو اللہ نے تمہارے لیے (بھی صلح جوئی کی صورت میں) ان پر (دست درازی کی) کوئی راہ نہیں بنائی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں وہ لوگ اس حکم سے مستثنی ہیں جو کسی ایسی قوم سے جا ملیں جن کے اور تمہارے درمیان کوئی (صلح کا) معاہدہ ہے، یا وہ لوگ جو تمہارے پاس اس طرح آئیں کہ ان کے دل تمہارے خلاف جنگ کرنے سے بھی بیزار ہوں، اور اپنی قوم کے خلاف جنگ کرنے سے بھی اور اگر اللہ چاہتا تو انہیں تم پر مسلط کردیتا تو وہ تم سے ضرور جنگ کرتے۔ چنانچہ اگر وہ تم سے کنارہ کشی کرتے ہوئے تم سے جنگ نہ کریں، اور تم کو امن کی پیشکش کردیں تو اللہ نے تم کو ان کے خلاف کسی کاروائی کا کوئی حق نہیں دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

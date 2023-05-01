@@ -3224,6 +3224,12 @@ kya aap ne unhe nahi dekha? jin ka daawah to ye hai ke jo kuch aap par aur jo ku
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے اِن (منافقوں) کو نہیں دیکھا جو (زبان سے) دعوٰی کرتے ہیں کہ وہ اس (کتاب یعنی قرآن) پر ایمان لائے جوآپ کی طرف اتارا گیا اور ان (آسمانی کتابوں) پر بھی جو آپ سے پہلے اتاری گئیں (مگر) چاہتے یہ ہیں کہ اپنے مقدمات (فیصلے کے لئے) شیطان (یعنی احکامِ الٰہی سے سرکشی پر مبنی قانون) کی طرف لے جائیں حالانکہ انہیں حکم دیا جا چکا ہے کہ اس کا (کھلا) انکار کر دیں، اور شیطان تویہی چاہتا ہے کہ انہیں دور دراز گمراہی میں بھٹکاتا رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کیا تم نے ان لوگوں کو نہیں دیکھا جو دعوی یہ کرتے ہیں کہ وہ اس کلام پر بھی ایمان لے آئے ہیں جو تم پر نازل کیا گیا ہے اور اس پر بھی جو تم سے پہلے نازل کیا گیا تھا، (لیکن) ان کی حالت یہ ہے کہ وہ اپنا مقصد فیصلے کے لیے طاغوت کے پاس لے جانا چاہتے ہیں ؟ حالانکہ ان کو حکم یہ دیا گیا تھا کہ وہ اس کا کھل کر انکار کریں۔ اور شیطان چاہتا ہے کہ انہیں بھٹکا کر پرلے درجے کی گمراہی میں مبتلا کردے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

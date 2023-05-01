@@ -3224,6 +3224,12 @@ aur wo paak daaman bibi jis ne apni ismath ki hifazath ki, hum ne us ke andar ap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُس (پاکیزہ) خاتون (مریم علیھا السلام) کو بھی (یاد کریں) جس نے اپنی عفت کی حفاظت کی پھر ہم نے اس میں اپنی روح پھونک دی اور ہم نے اسے اور اس کے بیٹے (عیسٰی علیہ السلام) کو جہان والوں کے لئے (اپنی قدرت کی) نشانی بنا دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس خاتون کو دیکھو جس نے اپنی عصمت کی حفاظت کی تھی، پھر ہم نے اس کے اندر اپنی روح پھونکی، اور انہیں اور ان کے بیٹے کو دنیا جہان کے لوگوں کے لیے ایک نشانی بنادیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

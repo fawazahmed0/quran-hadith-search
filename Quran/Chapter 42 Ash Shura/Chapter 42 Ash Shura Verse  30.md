@@ -3224,6 +3224,12 @@ tumhe jo kuch musibate pahonchti hai, wo tumhaare apne haatho ke kartooth ka bad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو مصیبت بھی تم کو پہنچتی ہے تو اُس (بد اعمالی) کے سبب سے ہی (پہنچتی ہے) جو تمہارے ہاتھوں نے کمائی ہوتی ہے حالانکہ بہت سی(کوتاہیوں) سے تو وہ درگزر بھی فرما دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہیں جو کوئی مصیبت پہنچتی ہے وہ تمہارے اپنے ہاتھوں کیے ہوئے کاموں کی وجہ سے پہنچتی ہے، اور بہت سے کاموں سے تو وہ درگزر ہی کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

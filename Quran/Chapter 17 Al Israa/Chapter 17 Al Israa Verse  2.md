@@ -3224,6 +3224,12 @@ hum ne moosa ko kitaab di aur ose bani israel ke liye hidaayat bana diya ke tum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے موسٰی (علیہ السلام) کو کتاب (تورات) عطا کی اور ہم نے اسے بنی اسرائیل کے لئے ہدایت بنایا (اور انہیں حکم دیا) کہ تم میرے سوا کسی کو کار ساز نہ ٹھہراؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ کو کتاب دی تھی اور اس کو بنی اسرائیل کے لیے اس ہدایت کا ذریعہ بنایا تھا کہ تم میرے سوا کسی اور کو اپنا کارساز قرار نہ دینا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

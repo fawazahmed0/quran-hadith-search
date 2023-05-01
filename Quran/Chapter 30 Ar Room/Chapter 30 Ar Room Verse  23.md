@@ -3224,6 +3224,12 @@ aur (bhi) us ki (khudrath ki) nishaani tumhaari raatho aur din ki neend mein hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس کی نشانیوں میں سے رات اور دن میں تمہارا سونا اور اس کے فضل (یعنی رزق) کو تمہارا تلاش کرنا (بھی) ہے۔ بیشک اس میں ان لوگوں کے لئے نشانیاں ہیں جو (غور سے) سنتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کی نشانیوں کا ایک حصہ تمہارا رات اور دن کے وقت سونا اور اللہ کا فضل تلاش کرنا ہے۔ یقینا اس میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو بات سنتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

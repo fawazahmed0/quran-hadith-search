@@ -3224,6 +3224,12 @@ aur jo shaqs Allah ke bulaane waale ka kaha na maanega, pas wo zameen mein kahi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص اللہ کی طرف بلانے والے (رسول صلی اللہ علیہ وآلہ وسلم) کی بات قبول نہیں کرے گا تو وہ زمین میں (بھاگ کر اللہ کو) عاجز نہیں کر سکے گا اور نہ ہی اس کے لئے اللہ کے سوا کوئی مددگار ہوں گے۔ یہی لوگ کھلی گمراہی میں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو کوئی اللہ کے داعی کی بات نہ مانے تو وہ ساری زمین میں کہیں بھی جاکر اللہ کو عاجز نہیں کرسکتا، اور اللہ کے سوا اس کو کسی قسم کے رکھوالے بھی نہیں ملیں گے۔ ایسے لوگ کھلی گمراہی میں مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

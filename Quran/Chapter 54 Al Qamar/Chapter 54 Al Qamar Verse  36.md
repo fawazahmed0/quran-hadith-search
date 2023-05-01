@@ -3224,6 +3224,12 @@ yaqinan (Looth (alaihissalaam) ne unhe hamaari pakad se daraaya tha, lekin unhon
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک لُوط (علیہ السلام) نے انہیں ہماری پکڑ سے ڈرایا تھا پھر اُن لوگوں نے اُن کے ڈرانے میں شک کرتے ہوئے جھٹلایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوط نے لوگوں کو ہماری پکڑ سے ڈرایا تھا، لیکن وہ ساری تنبیہات میں میکھ نکالتے رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

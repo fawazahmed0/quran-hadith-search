@@ -3224,6 +3224,12 @@ aur un se jab kabhi kaha jata hai ke Allah ta’ala ki utaari hoyi kitaab ki taa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان (کافروں) سے کہا جاتا ہے کہ جو اللہ نے نازل فرمایا ہے اس کی پیروی کرو تو کہتے ہیں: (نہیں) بلکہ ہم تو اسی (روش) پر چلیں گے جس پر ہم نے اپنے باپ دادا کو پایا ہے، اگرچہ ان کے باپ دادا نہ کچھ عقل رکھتے ہوں اور نہ ہی ہدایت پر ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان (کافروں) سے کہا جاتا ہے کہ اس کلام کی پیروی کرو جو اللہ نے اتارا ہے تو وہ کہتے ہیں کہ نہیں ! ہم تو ان باتوں کی پیروی کریں گے جن پر ہم نے اپنے باپ دادوں کو پایا ہے۔ بھلا کیا اس صورت میں بھی (ان کو یہی چاہیے) جب ان کے باپ دادے (دین کی) ذرا بھی سمجھ نہ رکھتے ہوں، اور انہوں نے کوئی (آسمانی) ہدایت بھی حاصل نہ کی ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

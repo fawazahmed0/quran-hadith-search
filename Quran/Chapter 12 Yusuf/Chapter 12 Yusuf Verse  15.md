@@ -3224,6 +3224,12 @@ phir jab ose le chale aur sub ne mil kar thaan liya ke ise ghair abaad gehre koy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ اسے لے گئے اور سب اس پر متفق ہوگئے کہ اسے تاریک کنویں کی گہرائی میں ڈال دیں تب ہم نے اس کی طرف وحی بھیجی: (اے یوسف! پریشان نہ ہونا ایک وقت آئے گا) کہ تم یقینًا انہیں ان کا یہ کام جتلاؤ گے اور انہیں (تمہارے بلند رتبہ کا) شعور نہیں ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ جب وہ ان کو ساتھ لے گئے، اور انہوں نے یہ طے کر ہی رکھا تھا کہ انہیں ایک اندھے کنویں میں ڈال دیں گے، (چنانچہ ڈال بھی دیا) تو ہم نے یوسف پر وحی بھیجی کہ (ایک وقت آئے گا جب) تم ان سب کو جتلاؤ گے کہ انہوں نے یہ کیا کام کیا تھا۔ اور اس وقت انہیں پتہ بھی نہ ہوگا (کہ تم کون ہو ؟)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

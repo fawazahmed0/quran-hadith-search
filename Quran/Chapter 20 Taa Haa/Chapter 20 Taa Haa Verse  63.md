@@ -3224,6 +3224,12 @@ kehne lage ye duno, mahez jaadu gar hai aur in ka puqta iraada hai ke apne jaadu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کہنے لگے: یہ دونوں واقعی جادوگر ہیں جو یہ ارادہ رکھتے ہیں کہ تمہیں جادو کے ذریعہ تمہاری سر زمین سے نکال باہر کریں اور تمہارے مثالی مذہب و ثقافت کو نابود کردیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (آخر کار) انہوں نے کہا کہ : یقینی طور پر یہ دونوں (یعنی موسیٰ اور ہارون) جادوگر ہیں جو یہ چاہتے ہیں کہ اپنے جادو کے زور پر تم لوگوں کو تمہاری سرزمین سے نکال باہر کریں، اور تمہارے بہترین (دینی) طریقے کا خاتمہ ہی کر ڈالیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

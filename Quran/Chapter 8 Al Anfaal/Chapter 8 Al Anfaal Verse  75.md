@@ -3224,6 +3224,12 @@ aur jo log us ke baadh iman lae aur hijrath ki aur tumhare sath ho kar jihad kiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اس کے بعد ایمان لائے اور انہوں نے راہِ حق میں (قربانی دیتے ہوئے) گھر بار چھوڑ دیئے اور (عدل و انصاف اور امن و سلامتی کے نوزائدہ نظام کو متزلزل کرنے والے حملہ آور اور جارِح دشمنوں کے خلاف) تمہارے ساتھ مل کر (دفاعی) جہاد کیا تو وہ لوگ (بھی) تم ہی میں سے ہیں، اور اللہ کی کتاب میں رشتے دار (صلہ رحمی اور وراثت کے لحاظ سے) ایک دوسرے کے زیادہ حق دار ہیں، بیشک اللہ ہر چیز کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جنہوں نے بعد میں ایمان قبول کیا، اور ہجرت کی، اور تمہارے ساتھ جہاد کیا تو وہ بھی تم میں شامل ہیں۔ اور (ان میں سے) جو لوگ (پرانے مہاجرین کے) رشتہ دار ہیں، وہ اللہ کی کتاب میں ایک دوسرے (کی میراث کے دوسروں سے) زیادہ حق دار ہیں۔ یقینا اللہ ہر چیز کا پورا پورا علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

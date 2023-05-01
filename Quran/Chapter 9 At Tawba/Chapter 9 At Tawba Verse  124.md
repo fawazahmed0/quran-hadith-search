@@ -3224,6 +3224,12 @@ aur jab koi surath nazil ki jati hai tuh baaz munafiqin kehte hai ke is surath n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب بھی کوئی سورت نازل کی جاتی ہے تو ان (منافقوں) میں سے بعض (شرارتاً) یہ کہتے ہیں کہ تم میں سے کون ہے جسے اس (سورت) نے ایمان میں زیادتی بخشی ہے، پس جو لوگ ایمان لے آئے ہیں سو اس (سورت) نے ان کے ایمان کو زیادہ کردیا اور وہ (اس کیفیتِ ایمانی پر) خوشیاں مناتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب کبھی کوئی سورت نازل کی جاتی ہے تو انہی (منافقین) میں وہ لوگ ہیں جو کہتے ہیں کہ : اس (سورت) نے تم میں سے کس کے ایمان میں اضافہ کیا ہے ؟ اب جہاں تک ان لوگوں کا تعلق ہے جو (واقعی) ایمان لائے ہیں، ان کے ایمان میں تو اس سورت نے واقعی اضافہ کیا ہے، اور وہ (اس پر) خوش ہوتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

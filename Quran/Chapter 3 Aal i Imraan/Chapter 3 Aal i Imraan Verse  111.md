@@ -3224,6 +3224,12 @@ ye tumhe sataane ke siva aur zyaada kuch zarar nahi pahocha sakte, agar ladaayi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ لوگ ستانے کے سوا تمہارا کچھ نہیں بگاڑ سکیں گے، اور اگر یہ تم سے جنگ کریں تو تمہارے سامنے پیٹھ پھیر جائیں گے، پھر ان کی مدد (بھی) نہیں کی جائے گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ تھوڑا بہت ستانے کے سوا تمہیں کوئی نقصان ہرگز نہیں پہنچا سکیں گے، اور اگر وہ تم سے لڑیں گے بھی تو تمہیں پیٹھ دکھا جائیں گے، پھر انہیں کوئی مدد بھی نہیں پہنچے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

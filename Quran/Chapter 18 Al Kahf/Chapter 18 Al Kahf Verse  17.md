@@ -3224,6 +3224,12 @@ aap dekhenge ke aaftaab ba-waqte tulo un ke ghaar se dayi jaanib ko jhuk jaata h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ دیکھتے ہیں جب سورج طلوع ہوتا ہے تو ان کے غار سے دائیں جانب ہٹ جاتا ہے اور جب غروب ہونے لگتا ہے تو ان سے بائیں جانب کترا جاتا ہے اور وہ اس غار کے کشادہ میدان میں (لیٹے) ہیں، یہ (سورج کا اپنے راستے کو بدل لینا) اللہ کی (قدرت کی بڑی) نشانیوں میں سے ہے، جسے اللہ ہدایت فرما دے سو وہی ہدایت یافتہ ہے، اور جسے وہ گمراہ ٹھہرا دے تو آپ اس کے لئے کوئی ولی مرشد (یعنی راہ دکھانے والا مددگار) نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وہ غار ایسا تھا کہ) تم سورج کو نکلتے وقت دیکھتے تو وہ ان کے غار سے دائیں طرف ہٹ کر نکل جاتا، اور جب غروب ہوتا تو ان سے بائیں طرف کترا کر چلا جاتا، اور وہ اس غار کے ایک کشادہ حصے میں (سوئے ہوئے) تھے۔ یہ سب کچھ اللہ کی نشانیوں میں سے ایک نشانی ہے۔ جسے اللہ ہدایت دیدے، وہی ہدایت پاتا ہے، اور جسے وہ گمراہ کردے اس کا تمہیں ہرگز کوئی مددگار نہیں مل سکتا جو اسے راستے پر لائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

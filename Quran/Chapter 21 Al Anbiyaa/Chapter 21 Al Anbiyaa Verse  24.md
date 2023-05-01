@@ -3224,6 +3224,12 @@ kya un logo ne Allah ke siva aur maboodh bana rakhe hai, un se kehdo laao apni d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ان (کافروں) نے اسے چھوڑ کر اور معبود بنا لئے ہیں؟ فرما دیجئے: اپنی دلیل لاؤ، یہ (قرآن) ان لوگوں کا ذکر ہے جو میرے ساتھ ہیں اور ان کا (بھی) ذکر ہے جو مجھ سے پہلے تھے بلکہ ان میں سے اکثر لوگ حق کو نہیں جانتے اِس لئے وہ اِس سے رُوگردانی کئے ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا اسے چھوڑ کر انہوں نے دوسرے خدا بنا رکھے ہیں ؟ (اے پیغمبر) ان سے کہو کہ : لاؤ اپنی دلیل ! یہ (قرآن) بھی موجود ہے جس میں میرے ساتھ والوں کے لیے نصیحت ہے، اور وہ (کتابیں) بھی موجود ہیں جن میں مجھ سے پہلے لوگوں کے لیے نصیحت تھی۔ لیکن واقعہ یہ ہے کہ ان میں سے اکثر لوگ حق بات کا یقین نہیں کرتے، اس لیے منہ موڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

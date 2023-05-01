@@ -3224,6 +3224,12 @@ aur asmaan wa zameen ki har har cheez ko bhi us ne apni taraf se tumhaare liye t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُس نے تمہارے لئے جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، سب کو اپنی طرف سے (نظام کے تحت) مسخر کر دیا ہے، بیشک اس میں اُن لوگوں کے لئے نشانیاں ہیں جو غور و فکر کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین میں جو کچھ ہے اس سب کو اس نے اپنی طرف سے تمہارے کام میں لگا رکھا ہے۔ یقینا اس میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو غور و فکر سے کام لیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

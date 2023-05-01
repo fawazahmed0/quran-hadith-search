@@ -3224,6 +3224,12 @@ aur pehle log pichle logo se kahenge ke phir tum ko hum par koyi fauqiyath nahi,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور پہلے آنے والے بعد میں آنے والوں سے کہیں گے : تو پھر تم کو ہم پر کوئی فوقیت تو حاصل نہ ہوئی۔ لہذا جو کمائی تم خود کرتے رہے ہو اس کے بدلے عذاب کا مزہ چکھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

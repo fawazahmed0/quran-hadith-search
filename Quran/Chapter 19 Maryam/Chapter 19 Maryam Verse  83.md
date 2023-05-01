@@ -3224,6 +3224,12 @@ kya tu ne nahi dekha ke hum kaafiro ke paas shaitaano ko bhejte hain, jo unhe qo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے نہیں دیکھا کہ ہم نے شیطانوں کو کافروں پر بھیجا ہے وہ انہیں ہر وقت (اسلام کی مخالفت پر) اکساتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کیا تمہیں یہ معلوم نہیں ہے کہ ہم نے کافروں پر شیاطین چھوڑ رکھے ہیں جو انہیں برابر اکساتے رہتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

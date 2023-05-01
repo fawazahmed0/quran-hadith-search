@@ -3224,6 +3224,12 @@ aur wo waqt bhi yaad karne ke qaabil hai jis roz hum un tamaam qalaayeq ko jama 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس دن ہم سب کو جمع کریں گے پھر ہم ان لوگوں سے کہیں گے جو شرک کرتے تھے: تمہارے وہ شریک کہاں ہیں جنہیں تم (معبود) خیال کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن (کو یاد رکھو) جب ہم ان سب کو اکٹھا کریں گے، پھر جن لوگوں نے شرک کیا ہوگا ان سے پوچھیں گے کہ : کہاں ہیں تمہارے وہ معبود جن کے بارے میں تم یہ دعوی کرتے تھے کہ وہ خدائی میں اللہ کے شریک ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

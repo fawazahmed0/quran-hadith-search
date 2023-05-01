@@ -3224,6 +3224,12 @@ jin se aap ne ehado paiman kar liya,phir bhi wo apne ehado paimaan ko tud dete h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (بنو نضیر اور بنو قریظہ کے وہ) لوگ ہیں جن سے آپ نے (بارہا باہمی امن اور ریاستی حفاظت کا) عہد لیا، پھر وہ ہر بار (کفار مکہ کی مدینہ پر جارحیت کے دوران انہیں جنگی ساز و سامان اور معلومات کی فراہمی کے ذریعے) اپنا عہد توڑ ڈالتے ہیں اور وہ (اس برائی سے) نہیں بچتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ وہ ہیں جن سے تم نے عہد لے رکھا ہے، اس کے باوجود یہ ہر مرتبہ اپنے عہد کو توڑ دیتے ہیں اور ذرا نہیں ڈرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

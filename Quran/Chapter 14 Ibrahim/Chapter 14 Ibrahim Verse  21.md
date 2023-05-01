@@ -3224,6 +3224,12 @@ sab ke sab Allah ke saamne ru ba ru khade honge, us waqt kamzoor log badaai walo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (روزِ محشر) اللہ کے سامنے سب (چھوٹے بڑے) حاضر ہوں گے تو (پیروی کرنے والے) کمزور لوگ (طاقتور) متکبروں سے کہیں گے: ہم تو (عمر بھر) تمہارے تابع رہے تو کیا تم اللہ کے عذاب سے بھی ہمیں کسی قدر بچا سکتے ہو؟ وہ (اُمراء اپنے پیچھے لگنے والے غریبوں سے) کہیں گے: اگر اللہ ہمیں ہدایت کرتا تو ہم تمہیں بھی ضرور ہدایت کی راہ دکھاتے (ہم خود بھی گمراہ تھے سو تمہیں بھی گمراہ کرتے رہے)۔ ہم پر برابر ہے خواہ (آج) ہم آہ و زاری کریں یا صبر کریں ہمارے لئے کوئی راہِ فرار نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ سب لوگ اللہ کے آگے پیش ہوں گے۔ پھر جو لوگ (دنیا میں) کمزور تھے، وہ بڑائی بگھارنے والوں سے کہیں گے کہ : ہم تو تمہارے پیچھے چلنے والے لوگ تھے، تو کیا اب تم ہمیں اللہ کے عذاب سے بچا لو گے ؟ وہ کہیں گے : اگر اللہ نے ہمیں ہدایت دی ہوتی تو ہم بھی تمہیں ہدایت دے دیتے۔ چاہے ہم چیخیں چلائیں یا صبر کریں، دونوں صورتیں ہمارے لیے برابر ہیں، ہمارے لیے چھٹکارے کا کوئی راستہ نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

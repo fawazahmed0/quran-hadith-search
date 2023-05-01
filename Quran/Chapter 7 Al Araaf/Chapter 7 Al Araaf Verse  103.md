@@ -3224,6 +3224,12 @@ phir un ke baadh hum ne Mosa ko apne dalaayel de kar feraun aur us ke umara9 ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے ان سب کے بعد موسیٰ کو اپنی نشانیوں کے ساتھ فرعون اور اس کے سرداروں کے پاس بھیجا تو انہوں نے (بھی) ان (نشانیوں) کی ظالمانہ ناقدری کی۔ اب دیکھو کہ ان مفسدوں کا انجام کیسا ہوا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

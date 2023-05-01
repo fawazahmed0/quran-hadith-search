@@ -3224,6 +3224,12 @@ agar tum aurto ko baghair haath lagaaye aur baghair meher muqarrar kiye talaaq d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم پر اس بات میں (بھی) کوئی گناہ نہیں کہ اگر تم نے (اپنی منکوحہ) عورتوں کو ان کے چھونے یا ان کے مہر مقرر کرنے سے بھی پہلے طلاق دے دی ہے تو انہیں (ایسی صورت میں) مناسب خرچہ دے دو، وسعت والے پر اس کی حیثیت کے مطابق (لازم) ہے اور تنگ دست پر اس کی حیثیت کے مطابق، (بہر طور) یہ خرچہ مناسب طریق پر دیا جائے، یہ بھلائی کرنے والوں پر واجب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم پر اس میں بھی کوئی گناہ نہیں ہے کہ تم عورتوں کو ایسے وقت طلاق دو جبکہ ابھی تم نے ان کو چھوا بھی نہ ہو، اور نہ ان کے لیے کوئی مہر مقرر کیا ہو، اور (ایسی صورت میں) ان کو کوئی تحفہ دو ، خوشحال شخص اپنی حیثیت کے مطابق اور غریب آدمی اپنی حیثیت کے مطابق بھلے طریقے سے یہ تحفہ دے۔ یہ نیک آدمیوں پر ایک لازمی حق ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

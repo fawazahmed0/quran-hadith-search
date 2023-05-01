@@ -3224,6 +3224,12 @@ aur jo log kaafir hai un ke liye dozakh ki aag hai, na to un ki qazaa hee ayegi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے کفر کیا ان کے لئے دوزخ کی آگ ہے، نہ ان پر (موت کا) فیصلہ کیا جائے گا کہ مر جائیں اور نہ ان سے عذاب میں سے کچھ کم کیا جائے گا، اسی طرح ہم ہر نافرمان کو بدلہ دیا کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر کی روش اپنا لی ہے ان کے لیے دوزخ کی آگ ہے، نہ تو ان کا کام تمام کیا جائے گا کہ وہ مر ہی جائیں، اور نہ ان سے دوزخ کا عذاب ہلکا کیا جائے گا۔ ہر ناشکرے کافر کو ہم ایسی ہی سزا دیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

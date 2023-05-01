@@ -3224,6 +3224,12 @@ aur hum ne dunya mein un ki muqtalif jamaate kar di, baaz un mein nek thein aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے دنیا میں ان کو مختلف جماعتوں میں بانٹ دیا۔ چنانچہ ان میں نیک لوگ بھی تھے اور کچھ دوسری طرح کے لوگ بھی۔ اور ہم نے انہیں اچھے اور برے ھالات سے آزمایا، تاکہ وہ (راہ راست کی طرف) لوٹ آئیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

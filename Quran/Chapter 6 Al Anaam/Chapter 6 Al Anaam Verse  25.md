@@ -3224,6 +3224,12 @@ aur un mein baaz aise hai ke aap ki taraf kaan lagaate hai, aur hum ne un ke dil
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان میں کچھ وہ (بھی) ہیں جو آپ کی طرف کان لگائے رہتے ہیں اور ہم نے ان کے دلوں پر (ان کی اپنی بدنیتی کے باعث) پردے ڈال دیئے ہیں سو (اب ان کے لئے) ممکن نہیں کہ وہ اس (قرآن) کو سمجھ سکیں اور (ہم نے) ان کے کانوں میں ڈاٹ دے دی ہے، اور اگر وہ تمام نشانیوں کو (کھلا بھی) دیکھ لیں تو (بھی) اس پر ایمان نہیں لائیں گے۔ حتیٰ کہ جب آپ کے پاس آتے ہیں، آپ سے جھگڑا کرتے ہیں (اس وقت) کافر لوگ کہتے ہیں کہ یہ (قرآن) پہلے لوگوں کی جھوٹی کہانیوں کے سوا (کچھ) نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان میں سے کچھ لوگ ایسے ہیں جو تمہاری بات کان لگا کر سنتے ہیں، مگر (چونکہ یہ سننا طلب حق کے بجائے ضد پر اڑے رہنے کے لیے ہوتا ہے، اس لیے) ہم نے ان کے دلوں پر ایسے پردے ڈال دیئے ہیں کہ وہ اس کو سمجھتے نہیں ہیں، اور ان کے کانوں میں بہرا پن پیدا کردیا ہے۔ اور اگر وہ ایک ایک کر کے ساری نشانیاں دیکھ لیں تب بھی وہ ان پر ایمان نہیں لائیں گے۔ انتہا یہ ہے کہ جب تمہارے پاس جھگڑا کرنے کے لیے آتے ہیں تو یہ کافر لوگ یوں کہتے ہیں کہ یہ (قرآن) پچھلے سلوں کی داستانوں کے سوا کچھ نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

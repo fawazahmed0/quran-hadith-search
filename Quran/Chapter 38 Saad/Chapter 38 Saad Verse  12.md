@@ -3224,6 +3224,12 @@ un se pehle bhi khaum nuh aur aadh aur meqo waale faraun ne jhutlaaya tha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اِن سے پہلے قومِ نوح نے اور عاد نے اور بڑی مضبوط حکومت والے (یا میخوں سے اذیّت دینے والے) فرعون نے (بھی) جھٹلایا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے پہلے نوح کی قوم، قوم عاد اور میخوں والے فرعون نے بھی پیغمبروں کو جھٹلایا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

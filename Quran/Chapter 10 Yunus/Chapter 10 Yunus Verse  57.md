@@ -3224,6 +3224,12 @@ ae logo! tumhare paas tumhare rub ki taraf se ek aisi chiz aai hai jo nasihath h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! بیشک تمہارے پاس تمہارے رب کی طرف سے نصیحت اور ان (بیماریوں) کی شفاء آگئی ہے جو سینوں میں (پوشیدہ) ہیں اور ہدایت اور اہلِ ایمان کے لئے رحمت (بھی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگو تمہارے پاس ایک ایسی چیز آئی ہے جو تمہارے پروردگار کی طرف سے ایک نصیحت ہے، اور دلوں کی بیماریوں کے لیے شفا ہے، اور ایمان والوں کے لیے ہدایت اور رحمت کا سامان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

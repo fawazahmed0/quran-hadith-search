@@ -3224,6 +3224,12 @@ kya unhone is baath par nazar nahi ki, ke jis Allah ne aasmaan wa zameen ko paid
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے نہیں دیکھا کہ جس اللہ نے آسمانوں اور زمین کو پیدا فرمایا ہے (وہ) اس بات پر (بھی) قادر ہے کہ وہ ان لوگوں کی مثل (دوبارہ) پیدا فرما دے اور اس نے ان کے لئے ایک وقت مقرر فرما دیا ہے جس میں کوئی شک نہیں، پھر بھی ظالموں نے انکار کردیا ہے مگر (یہ) ناشکری ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا انہیں اتنی سی بات نہیں سوجھی کہ وہ اللہ جس نے سارے آسمانوں اور زمین کو پیدا کیا ہے، وہ اس بات پر قادر ہے کہ ان جیسے آدمی پھر سے پیدا کردے ؟ اور اس نے ان کے لیے ایک ایسی میعاد مقرر کر رکھی ہے جس (کے آنے) میں ذرا بھی شک نہیں ہے۔ پھر بھی یہ ظالم انکار کے سوا کسی بات پر راضی نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

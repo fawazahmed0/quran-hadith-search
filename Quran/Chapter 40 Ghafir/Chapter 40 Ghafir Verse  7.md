@@ -3224,6 +3224,12 @@ arsh ke uthaane waale aur us ke aas paas ke (farishte) apne rab ki tasbih hamdh 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو (فرشتے) عرش کو اٹھائے ہوئے ہیں اور جو اُس کے اِرد گِرد ہیں وہ (سب) اپنے رب کی حمد کے ساتھ تسبیح کرتے ہیں اور اس پر ایمان رکھتے ہیں اور اہلِ ایمان کے لئے دعائے مغفرت کرتے ہیں (یہ عرض کرتے ہیں کہ) اے ہمارے رب! تو (اپنی) رحمت اور علم سے ہر شے کا احاطہ فرمائے ہوئے ہے، پس اُن لوگوں کو بخش دے جنہوں نے توبہ کی اور تیرے راستہ کی پیروی کی اور انہیں دوزخ کے عذاب سے بچا لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ (فرشتے) جو عرش کو اٹھائے ہوئے ہیں، اور جو اس کے گرد موجود ہیں، وہ سب اپنے پروردگار کی حمد کے ساتھ اس کی تسبیح کرتے رہتے ہیں، اور اس پر ایمان رکھتے ہیں، اور جو لوگ ایمان لے آئیں ہیں ان کے لیے مغفرت کی دعا کرتے ہیں (کہ): اے ہمارے پروردگار ! تیری رحمت اور علم ہر چیز پر حاوی ہے، اس لیے جن لوگوں نے توبہ کرلی ہے اور تیرے راستے پر چل پڑے ہیں، ان کی بخشش فرما دے اور انہیں دوزخ کے عذاب سے بچا لے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

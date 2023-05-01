@@ -3224,6 +3224,12 @@ ab farishto ne kaha aye looth! hum tere parvardigaar ke bheje hoye hai, na mumki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(تب فرشتے) کہنے لگے: اے لوط! ہم آپ کے رب کے بھیجے ہوئے ہیں۔ یہ لوگ تم تک ہرگز نہ پہنچ سکیں گے، پس آپ اپنے گھر والوں کو رات کے کچھ حصہ میں لے کر نکل جائیں اور تم میں سے کوئی مڑ کر (پیچھے) نہ دیکھے مگر اپنی عورت کو (ساتھ نہ لینا)، یقینًا اسے (بھی) وہی (عذاب) پہنچنے والا ہے جو انہیں پہنچے گا۔ بیشک ان (کے عذاب) کا مقررہ وقت صبح (کا) ہے، کیا صبح قریب نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اب) فرشتوں نے (لوط سے) کہا : اے لوط ! ہم تمہارے پروردگار کے بھیجے ہوئے فرشتے ہیں۔ یہ (کافر) لوگ ہرگز تم تک رسائی حاصل نہیں کرسکیں گے۔ لہذا تم رات کے کسی حصے میں اپنے گھر والوں کو لے کر بستی سے روانہ ہوجاؤ، اور تم میں سے کوئی پیچھے مڑ کر بھی نہ دیکھے۔ ہاں مگر تمہاری بیوی (تمہارے ساتھ نہیں جائے گی) اس پر بھی وہی مصیبت آنے والی ہے جو اور لوگوں پر آرہی ہے۔ یقین رکھو کہ ان (پر عذاب نازل کرنے) کے لیے صبح کا وقت مقرر ہے۔ کیا صبح بالکل نزدیک نہیں آگئی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

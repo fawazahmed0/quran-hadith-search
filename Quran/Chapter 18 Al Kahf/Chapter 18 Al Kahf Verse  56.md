@@ -3224,6 +3224,12 @@ hum to apne rasulo ko sirf is liye bhejhte hain ke wo khush qabriya suna de aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم رسولوں کو نہیں بھیجا کرتے مگر (لوگوں کو) خوشخبری سنانے والے اور ڈر سنانے والے (بنا کر)، اور کافر لوگ (ان رسولوں سے) بیہودہ باتوں کے سہارے جھگڑا کرتے ہیں تاکہ اس (باطل) کے ذریعہ حق کو زائل کردیں اور وہ میری آیتوں کو اور اس (عذاب) کو جس سے وہ ڈرائے جاتے ہیں ہنسی مذاق بنا لیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم پیغمبروں کو صرف اس لیے بھیجتے ہیں کہ وہ (مومنوں کو) خوشخبری دیں، اور (کافروں کو عذاب سے) متنبہ کریں۔ اور جن لوگوں نے کفر اپنا لیا ہے وہ باطل کا سہارا لے کر جھگڑا کرتے ہیں، تاکہ اس کے ذریعے حق کو ڈگمگا دیں، اور انہوں نے میری آیتوں کو اور انہیں جو تنبیہ کی گئی تھی اس کو مذاق بنا رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

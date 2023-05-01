@@ -3224,6 +3224,12 @@ wo badi ghabraahat (bhi) unhe ghamgeen na kar sakegi aur farishte unhe haatho ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(روزِ قیامت کی) سب سے بڑی ہولناکی (بھی) انہیں رنجیدہ نہیں کرے گی اور فرشتے ان کا استقبال کریں گے (اور کہیں گے:) یہ تمہارا (ہی) دن ہے جس کا تم سے وعدہ کیا جاتا رہا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کو وہ (قیامت کی) سب سے بڑی پریشانی غمگین نہیں کرے گی، اور فرشتے ان کا (یہ کہہ کر) استقبال کریں گے (کہ) یہ تمہارا وہ دن ہے جس کا تم سے وعدہ کیا جاتا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

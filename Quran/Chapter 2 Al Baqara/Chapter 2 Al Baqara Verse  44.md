@@ -3224,6 +3224,12 @@ kya logo ko bhalaiyyo ka hukm karte ho? aur khud apne aap ko bhool jaate ho, ba-
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم دوسرے لوگوں کو نیکی کا حکم دیتے ہو اور اپنے آپ کو بھول جاتے ہو حالانکہ تم (اللہ کی) کتاب (بھی) پڑھتے ہو، تو کیا تم نہیں سوچتے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم (دوسرے) لوگوں کو تو نیکی کا حکم دیتے ہو اور خود اپنے آپ کو بھول جاتے ہو ؟ حالانکہ تم کتاب کی تلاوت بھی کرتے ہو ! کیا تمہیں اتنی بھی سمجھ نہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

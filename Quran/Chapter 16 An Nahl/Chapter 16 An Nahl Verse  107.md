@@ -3224,6 +3224,12 @@ ye is liye ke unhone dunya ki zindagi ko aqirath se zyada mehboob rakha, yaqinan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس وجہ سے کہ انہوں نے دنیوی زندگی کو آخرت پر عزیز رکھا اور اس لئے کہ اللہ کافروں کی قوم کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس لیے کہ ایسے لوگوں نے دنیا کی زندگی کو آخرت کے مقابلے میں زیادہ محبوب سمجھا، اور اس لیے کہ اللہ ایسے ناشکرے لوگوں کو ہدایت تک نہیں پہنچایا کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

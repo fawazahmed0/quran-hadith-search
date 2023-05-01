@@ -3224,6 +3224,12 @@ aur ye ke namaaz ki paabandi karo aur us se daro aur wahi hai jis ke paas tum sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (بھی حکم ہوا ہے) کہ تم نماز قائم رکھو اور اس سے ڈرتے رہو اور وہی اللہ ہے جس کی طرف تم (سب) جمع کئے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (حکم دیا گیا ہے) کہ : نماز قائم کرو، اور اس (کی نافرمانی) سے ڈرتے رہو، اور وہی ہے جس کی طرف تم سب کو اکٹھا کر کے لے جایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

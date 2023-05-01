@@ -3224,6 +3224,12 @@ ye Allah ko chohd kar un ki ibaadath karte hai, jo na to unhe koyi nafa de sa ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (کفار) اللہ کے سوا ان (بتوں) کی عبادت کرتے ہیں جو انہیں نہ (تو) نفع پہنچا سکتے ہیں اور نہ (ہی) انہیں نقصان پہنچا سکتے ہیں، اور کافر اپنے رب (کی نافرمانی) پر (ہمیشہ شیطان کا) مددگار ہوتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ ہیں کہ اللہ کو چھوڑ کر ایسی چیزوں کی عبادت کر رہے ہیں جو نہ ان کو کوئی فائدہ پہنچاتی ہیں، نہ نقصان، اور کافر انسان نے اپنے پروردگار ہی کی مخالفت پر کمر باندھ رکھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

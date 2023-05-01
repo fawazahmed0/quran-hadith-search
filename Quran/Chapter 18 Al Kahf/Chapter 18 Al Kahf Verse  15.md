@@ -3224,6 +3224,12 @@ ye hai hamaari khaum jis ne us ke siva aur maboodh bana rakhe hai, un ki khudaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ ہماری قوم کے لوگ ہیں جنہوں نے اس کے سوا کئی معبود بنا لئے ہیں، تو یہ ان (کے معبود ہونے) پر کوئی واضح سند کیوں نہیں لاتے؟ سو اُس سے بڑھ کر ظالم کون ہوگا جو اللہ پر جھوٹا بہتان باندھتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ہماری قوم کے لوگ ہیں جنہوں نے اس پروردگار کو چھوڑ کر دوسرے معبود بنا رکھے ہیں۔ (اگر ان کا عقیدہ صحیح ہے تو) وہ اپنے معبودوں کے ثبوت میں کوئی واضح دلیل کیوں پیش نہیں کرتے ؟ بھلا اس شخص سے زیادہ ظالم کون ہوگا جو اللہ پر جھوٹ باندھے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

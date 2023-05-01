@@ -3224,6 +3224,12 @@ us aurath ne yousuf ki taraf ka qasd kiya aur us yousuf us ka qasd karte, agar w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یوسف علیہ السلام نے انکار کر دیا) اور بیشک اس (زلیخا) نے (تو) ان کا ارادہ کر (ہی) لیا تھا، (شاید) وہ بھی اس کا قصد کر لیتے اگر انہوں نے اپنے رب کی روشن دلیل کو نہ دیکھا ہوتا۔٭ اس طرح (اس لئے کیا گیا) کہ ہم ان سے تکلیف اور بے حیائی (دونوں) کو دور رکھیں، بیشک وہ ہمارے چنے ہوئے (برگزیدہ) بندوں میں سے تھےo٭ (یا انہوں نے بھی اس کو طاقت سے دور کرنے کا قصد کر لیا تھا۔ اگر وہ اپنے رب کی روشن دلیل کو نہ دیکھ لیتے تو اپنے دفاع میں سختی کر گزرتے اور ممکن ہے اس دوران ان کا قمیض آگے سے پھٹ جاتا جو بعد ازاں ان کے خلاف شہادت اور وجہ تکلیف بنتا، سو اﷲ کی نشانی نے انہیں سختی کرنے سے روک دیا۔)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس عورت نے تو واضح طور پر یوسف (کے ساتھ برائی) کا ارادہ کرلیا تھا، اور یوسف کے دل میں بھی اس عورت کا خیال آچلا تھا، اگر وہ اپنے رب کی دلیل کو نہ دیکھ لیتے، ہم نے ایسا اس لیے کیا تاکہ ان سے برائی اور بےحیائی کا رخ پھیر دیں۔ بیشک وہ ہمارے منتخب بندوں میں سے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

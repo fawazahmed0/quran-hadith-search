@@ -3224,6 +3224,12 @@ yahaan tak ke jab hamara hukm aa pahoncha aur tannuur3 ubalne laga, hum ne kaha 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ جب ہمارا حکمِ (عذاب) آپہنچا اور تنور (پانی کے چشموں کی طرح) جوش سے ابلنے لگا (تو) ہم نے فرمایا: (اے نوح!) اس کشتی میں ہر جنس میں سے (نر اور مادہ) دو عدد پر مشتمل جوڑا سوار کر لو اور اپنے گھر والوں کو بھی (لے لو) سوائے ان کے جن پر (ہلاکت کا) فرمان پہلے صادر ہو چکا ہے اور جو کوئی ایمان لے آیا ہے (اسے بھی ساتھ لے لو)، اور چند (لوگوں) کے سوا ان کے ساتھ کوئی ایمان نہیں لایا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ جب ہمارا حکم آگیا اور تنور ابل پڑا، تو ہم نے (نوح سے) کہا کہ : اس کشتی میں ہر قسم کے جانوروں میں سے دو دو کے جوڑے سوار کرلو اور تمہارے گھر والوں میں سے جن کے بارے میں پہلے کہا جا چکا ہے (کہ وہ کفر کی وجہ سے غرق ہوں گے) ان کو چھوڑ کر باقی گھر والوں کو بھی، اور جتنے لوگ ایمان لائے ہیں ان کو بھی (ساتھ لے لو) اور تھوڑے ہی سے لوگ تھے جو ان کے ساتھ ایمان لائے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

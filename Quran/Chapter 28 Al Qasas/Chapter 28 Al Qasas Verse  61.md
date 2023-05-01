@@ -3224,6 +3224,12 @@ kya wo shaqs jis se hum ne nek waada kiya hai, jise wo qat’an paane waala hai,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ شخص جس سے ہم نے کوئی (آخرت کا) اچھا وعدہ فرمایا ہو پھر وہ اسے پانے والا ہو جائے، اس (بدنصیب) کی مثل ہو سکتا ہے جسے ہم نے دنیوی زندگی کے سامان سے نوازا ہو پھر وہ (کفرانِ نعمت کے باعث) روزِ قیامت (عذاب کے لئے) حاضر کئے جانے والوں میں سے ہو جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا بتاؤ کہ جس شخص سے ہم نے اچھا سا وعدہ کر رکھا ہے اور وہ اس وعدے کو پاکر رہے گا، کیا وہ اس جیسا ہوسکتا ہے جسے ہم نے دنیوی زندگی کی پونجی کے کچھ مزے دے دیے ہیں، پھر وہ ان لوگوں میں شامل ہونے والا ہے جو قیامت کے دن دھر لیے جائیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

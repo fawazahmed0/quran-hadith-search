@@ -3224,6 +3224,12 @@ aur jab ke un logo ne kaha ke aye Allah! agar ye Qur’an aap ki taraf se waqei 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب انہوں نے (طعناً) کہا: اے اللہ! اگر یہی (قرآن) تیری طرف سے حق ہے تو (اس کی نافرمانی کے باعث) ہم پر آسمان سے پتھر برسا دے یا ہم پر کوئی دردناک عذاب بھیج دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور ایک وقت وہ تھا) جب انہوں نے کہا تھا کہ : یا اللہ ! اگر یہ (قرآن) ہی وہ حق ہے جو تیری طرف سے آیا ہے تو ہم پر آسمان سے پتھروں کی بارش برسا دے، یا ہم پر کوئی اور تکلیف دہ عذاب ڈال دے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar aap un se daryaaft kare ke asmaan wa zameen ka khaaliq kaun hai? to ye zaro
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ ان سے دریافت کریں کہ آسمانوں اور زمین کو کس نے پیدا کیا۔ تو وہ ضرور کہہ دیں گے کہ اللہ نے، آپ فرما دیجئے: تمام تعریفیں اللہ ہی کے لئے ہیں بلکہ ان میں سے اکثر لوگ نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم ان سے پوچھو کہ وہ کون ہے جس نے آسمانوں اور زمین کو پیدا کیا ہے ؟ تو وہ ضرور یہ کہیں گے کہ : اللہ ! کہو : الحمدللہ ! اس کے باوجود ان میں سے اکثر لوگ سمجھ سے کام نہیں لیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

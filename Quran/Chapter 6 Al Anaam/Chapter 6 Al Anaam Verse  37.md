@@ -3224,6 +3224,12 @@ aur ye log kehte hai ke un par koyi maujeza kyo nahi naazil kiya gaya un ki rab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے کہا کہ اس (رسول صلی اللہ علیہ وآلہ وسلم) پراس کے رب کی طرف سے (ہروقت ساتھ رہنے والی) کوئی نشانی کیوں نہیں اتاری گئی؟ فرما دیجئے: بیشک اللہ اس بات پر (بھی) قادر ہے کہ وہ (ایسی) کوئی نشانی اتار دے لیکن ان میں سے اکثر لوگ (اس کی حکمتوں کو) نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ کہتے ہیں کہ (اگر یہ نبی ہیں تو) ان پر ان کے پروردگار کی طرف سے کوئی نشانی کیوں نہیں اتاری گئی ؟ تم (ان سے) کہو کہ اللہ بیشک اس بات پر قادر ہے کہ کوئی نشانی نازل کردے، لیکن ان میں سے ا کثر لوگ (اس کا انجام) نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur us ki nishaaniyo mein se hai ke tumhaari hee jins se biwiya paida ki ta ke t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (بھی) اس کی نشانیوں میں سے ہے کہ اس نے تمہارے لئے تمہاری ہی جنس سے جوڑے پیدا کئے تاکہ تم ان کی طرف سکون پاؤ اور اس نے تمہارے درمیان محبت اور رحمت پیدا کر دی، بیشک اس (نظامِ تخلیق) میں ان لوگوں کے لئے نشانیاں ہیں جو غور و فکر کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کی ایک نشانی یہ ہے کہ اس نے تمہارے لیے تم میں سے بیویاں پیدا کیں، تاکہ تم ان کے پاس جاکر سکون حاصل کرو، اور تمہارے درمیان محبت اور رحمت کے جذبات رکھ دیے، یقینا اس میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو غور و فکر سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

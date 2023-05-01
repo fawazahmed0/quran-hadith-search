@@ -3224,6 +3224,12 @@ tum mein se ek jamaath aisi honi chaahiye jo bhalaayi ki taraf bulaaye aur nek k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم میں سے ایسے لوگوں کی ایک جماعت ضرور ہونی چاہئے جو لوگوں کو نیکی کی طرف بلائیں اور بھلائی کا حکم دیں اور برائی سے روکیں، اور وہی لوگ بامراد ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے درمیان ایک جماعت ایسی ہونی چاہیے جس کے افراد (لوگوں کو) بھلائی کی طرف بلائیں، نیکی کی تلقین کریں، اور برائی سے روکیں۔ ایسے ہی لوگ ہیں جو فلاح پانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

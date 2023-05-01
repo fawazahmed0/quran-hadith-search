@@ -3224,6 +3224,12 @@ Maryam ne apne bacche ki taraf ishaara kiya, sab kehne lage ke lo, bhala hum goo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو مریم نے اس (بچے) کی طرف اشارہ کیا، وہ کہنے لگے: ہم اس سے کس طرح بات کریں جو (ابھی) گہوارہ میں بچہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر مریم نے اس بچے کی طرف اشارہ کیا۔ لوگوں نے کہا : بھلا ہم اس سے کیسے بات کریں جو ابھی پالنے میں پڑا ہوا بچہ ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

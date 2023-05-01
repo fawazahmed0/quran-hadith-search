@@ -3224,6 +3224,12 @@ ta ke (aye musalmaano) tum Allah aur us ke rasool par imaan laao aur us ki madad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ (اے لوگو!) تم اللہ اور اس کے رسول پر ایمان لاؤ اور آپ (صلی اللہ علیہ وآلہ وسلم کے دین) کی مدد کرو اور آپ (صلی اللہ علیہ وآلہ وسلم) کی بے حد تعظیم و تکریم کرو، اور (ساتھ) اللہ کی صبح و شام تسبیح کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ (اے لوگو) تم اللہ اور اس کے رسول پر ایمان لاؤ، اور اس کی مدد کرو، اور اس کی تعظیم کرو، اور صبح و شام اللہ کی تسبیح کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

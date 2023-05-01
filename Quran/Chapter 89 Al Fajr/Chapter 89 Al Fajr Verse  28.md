@@ -3224,6 +3224,12 @@ tu apne rab ki taraf laut chal, is tarah ke tu us se raazi, wo tujh se khush
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو اپنے رب کی طرف اس حال میں لوٹ آکہ تو اس کی رضا کا طالب بھی ہو اور اس کی رضا کا مطلوب بھی (گویا اس کی رضا تیری مطلوب ہو اور تیری رضا اس کی مطلوب)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اپنے پروردگار کی طرف اس طرح لوٹ کر آجا کہ تو اس سے راضی ہو، اور وہ تجھ سے راضی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

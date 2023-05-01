@@ -3224,6 +3224,12 @@ is liye jo shaqs aap ke paas is ilm ke aa jaane ke baadh bhi aap se us mein jhag
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ کے پاس علم آجانے کے بعد جو شخص عیسٰی (علیہ السلام) کے معاملے میں آپ سے جھگڑا کرے تو آپ فرما دیں کہ آجاؤ ہم (مل کر) اپنے بیٹوں کو اور تمہارے بیٹوں کو اور اپنی عورتوں کو اور تمہاری عورتوں کو اور اپنے آپ کو بھی اور تمہیں بھی (ایک جگہ پر) بلا لیتے ہیں، پھر ہم مباہلہ (یعنی گڑگڑا کر دعا) کرتے ہیں اور جھوٹوں پر اللہ کی لعنت بھیجتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہارے پاس (حضرت عیسیٰ (علیہ السلام) کے واقعے کا) جو صحیح علم آگیا ہے اس کے بعد بھی جو لوگ اس معاملے میں تم سے بحث کریں تو ان سے کہہ دو کہ :“ آؤ ہم اپنے بیٹوں کو بلائیں اور تم اپنے بیٹوں کو، اور ہم اپنی عورتوں کو اور تم اپنی عورتوں کو، اور ہم اپنے لوگوں کو اور تم اپنے لوگوں کو، پھر ہم سب ملکر اللہ کے سامنے گڑ گڑائیں، اور جو جھوٹے ہوں ان پر اللہ کی لعنت بھیجیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ balke sub se zyaada dunya ki zindagi ka harees aye Nabi! aap inhee ko payenge, y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ انہیں یقیناً سب لوگوں سے زیادہ جینے کی ہوس میں مبتلا پائیں گے اور (یہاں تک کہ) مشرکوں سے بھی زیادہ، ان میں سے ہر ایک چاہتا ہے کہ کاش اسے ہزار برس کی عمر مل جائے، اگر اسے اتنی عمر مل بھی جائے، تو بھی یہ اسے عذاب سے بچانے والی نہیں ہو سکتی، اور اللہ ان کے اعمال کو خوب دیکھ رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (بلکہ) یقینا تم ان لوگوں کو پاؤ گے کہ انہیں زندہ رہنے کی حرص دوسرے تمام انسانوں سے زیادہ ہے، یہاں تک کہ مشرکین سے بھی زیادہ۔ ان میں کا ایک ایک شخص یہ چاہتا ہے کہ ایک ہزار سال عمر پائے، حالانکہ کسی کا بڑی عمر پالینا اسے عذاب سے دور نہیں کرسکتا۔ اور یہ جو عمل بھی کرتے ہیں اللہ اسے اچھی طرح دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

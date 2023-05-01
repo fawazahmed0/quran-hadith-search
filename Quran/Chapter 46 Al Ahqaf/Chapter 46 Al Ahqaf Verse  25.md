@@ -3224,6 +3224,12 @@ jo apne rab ke hukm se har cheez ko halaak kar degi, pas wo aise ho gaye ke baju
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جو) اپنے پروردگار کے حکم سے ہر شے کو تباہ و برباد کر دے گی پس وہ ایسے (تباہ) ہو گئے کہ ان کے (مِسمار) گھروں کے سوا کچھ نظر ہی نہیں آتا تھا۔ ہم مجرم لوگوں کو اِس طرح سزا دیا کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اپنے پروردگار کے حکم سے ہر چیز کو تہس نہس کر ڈالے گی، غرض ان کی حالت یہ ہوگئی کہ ان کے گھروں کے سوا کچھ نظر نہیں آتا تھا۔ ایسے مجرم لوگوں کو ہم ایسی ہی سزا دیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur aurto ko un ke meher raazi khushi se de do, haan agar wo khud apni khushi se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور عورتوں کو ان کے مَہر خوش دلی سے ادا کیا کرو، پھر اگر وہ اس (مَہر) میں سے کچھ تمہارے لئے اپنی خوشی سے چھوڑ دیں تو تب اسے (اپنے لئے) سازگار اور خوشگوار سمجھ کر کھاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور عورتوں کو ان کے مہر خوشی سے د یا کرو۔ ہاں ! اگر وہ خود اس کا کچھ حصہ خوش دلی سے چھوڑ دیں تو اسے خوشگواری اور مزے سے کھالو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

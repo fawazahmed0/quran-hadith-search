@@ -3224,6 +3224,12 @@ aur hum ne isi tarah aap ki taraf apni kitaab naazil farmaayi hai, pas jinhe hum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے آپ کی طرف کتاب اتاری، تو جن (حق شناس) لوگوں کو ہم نے (پہلے سے) کتاب عطا کر رکھی تھی وہ اس (کتاب) پر ایمان لاتے ہیں، اور اِن (اہلِ مکّہ) میں سے (بھی) ایسے ہیں جو اس پر ایمان لاتے ہیں، اور ہماری آیتوں کا اِنکار کافروں کے سوا کوئی نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) اسی طرح ہم نے تم پر کتاب نازل کی ہے، اس لیے جن لوگوں کو ہم نے کتاب دی ہے، وہ اس پر ایمان لاتے ہیں، اور ان (بت پرستوں) میں سے بھی کچھ لوگ ہیں جو اس پر ایمان لارہے ہیں، اور ہماری آیتوں کا انکار صرف وہی لوگ کرتے ہیں جو کافر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

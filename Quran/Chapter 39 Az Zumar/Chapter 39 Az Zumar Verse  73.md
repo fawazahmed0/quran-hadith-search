@@ -3224,6 +3224,12 @@ aur jo log apne rab se darte thein, un ke gruh ke gruh jannath ki taraf rawaana 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اپنے رب سے ڈرتے رہے انہیں (بھی) جنّت کی طرف گروہ در گروہ لے جایا جائے گا، یہاں تک کہ جب وہ اس (جنّت) کے پاس پہنچیں گے اور اُس کے دروازے (پہلے ہی) کھولے جا چکے ہوں گے تو اُن سے وہاں کے نگران (خوش آمدید کرتے ہوئے) کہیں گے: تم پر سلام ہو، تم خوش و خرّم رہو سو ہمیشہ رہنے کے لئے اس میں داخل ہو جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جنہوں نے اپنے پروردگار سے تقویٰ کا معاملہ رکھا تھا انہیں جنت کی طرف گروہوں کی شکل میں لے جایا جائے گا یہاں تک کہ جب وہ اس کے پاس پہنچیں گے جبکہ اس کے دروازے ان کے لیے پہلے سے کھولے جا چکے ہوں گے (تو وہ عجیب عالم ہوگا۔) اور اس کے محافظ ان سے کہیں گے کہ : سلام ہو آپ پر، خوب رہے آپ لوگ ! اب اس جنت میں ہمیشہ ہمیشہ رہنے کے لیے آ جائیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

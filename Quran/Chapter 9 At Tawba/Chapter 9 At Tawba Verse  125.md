@@ -3224,6 +3224,12 @@ aur jin ke dilo mein rog hai us surath ne un mein un ki gandagi ke sath aur gand
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں کے دلوں میں بیماری ہے تو اس (سورت) نے ان کی خباثتِ (کفر و نفاق) پر مزید پلیدی (اور خباثت) بڑھا دی اور وہ اس حالت میں مرے کہ کافر ہی تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رہے وہ لوگ جن کے دلوں میں روگ ہے تو اس سورت نے ان کی گندگی میں کچھ اور گندگی کا اضافہ کردیا ہے، اور ان کو موت بھی کفر ہی کی حالت میں آتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

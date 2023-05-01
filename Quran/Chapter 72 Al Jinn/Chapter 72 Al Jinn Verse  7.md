@@ -3224,6 +3224,12 @@ aur (insaano) ne bhi tum jino ki tarah gumaan kar liya tha ke Allah kisi ko na b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے گروہِ جنات!) وہ انسان بھی ایسا ہی گمان کرنے لگے جیسا گمان تم نے کیا کہ اللہ (مرنے کے بعد) ہرگز کسی کو نہیں اٹھائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : جیسا گمان تم لوگوں کا تھا، انسانوں نے بھی یہی گمان کیا تھا کہ اللہ کسی کو بھی مرنے کے بعد دوسری زندگی نہیں دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

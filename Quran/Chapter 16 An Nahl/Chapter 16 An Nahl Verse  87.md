@@ -3224,6 +3224,12 @@ us din wo sab (aajiz ho kar) Allah ke saamne ita’ath ka iqraar pesh karenge au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (مشرکین) اس دن اللہ کے حضور عاجزی و فرمانبرداری ظاہر کریں گے اور ان سے وہ سارا بہتان جاتا رہے گا جو یہ باندھا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ اس دن اللہ کے سامنے فرمانبرداری کے بول بولنے لگیں گے، اور جو بہتان وہ باندھا کرتے تھے اس کا انہیں کوئی سراغ نہیں ملے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

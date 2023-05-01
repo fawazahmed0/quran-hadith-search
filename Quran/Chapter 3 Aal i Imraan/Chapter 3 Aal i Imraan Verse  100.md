@@ -3224,6 +3224,12 @@ aye imaan waalo! agar tum ahle kitaab ki kisi jamaath ki baatein manoge, to wo t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اگر تم اہلِ کتاب میں سے کسی گروہ کا بھی کہنا مانو گے تو وہ تمہارے ایمان (لانے) کے بعد پھر تمہیں کفر کی طرف لوٹا دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اگر تم اہل کتاب کے ایک گروہ کی بات مان لو گے تو وہ تمہارے ایمان لانے کے بعد تم کو دوبارہ کافر بان کر چھوڑیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

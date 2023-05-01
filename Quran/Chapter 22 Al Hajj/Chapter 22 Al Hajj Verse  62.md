@@ -3224,6 +3224,12 @@ ye sab is liye ke Allah hee haq hai aur us ke siva jise bhi ye pukaarte hai, wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس لئے کہ اللہ ہی حق ہے اور بیشک وہ (کفار) اس کے سوا جو کچھ (بھی) پوجتے ہیں وہ باطل ہے اور یقیناً اللہ ہی بہت بلند بہت بڑا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس لیے کہ اللہ ہی حق ہے اور یہ لوگ اسے چھوڑ کر جن چیزوں کی عبادت کرتے ہیں، وہ سب باطل ہیں اور اللہ ہی وہ ہے جس کی شان بھی اونچی ہے، رتبہ بھی بڑا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

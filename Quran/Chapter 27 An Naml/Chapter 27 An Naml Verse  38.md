@@ -3224,6 +3224,12 @@ aap ne farmaya, aye sardaro tum mein se koyi hai jo un ke musalmaan ho kar pahon
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(سلیمان علیہ السلام نے) فرمایا: اے دربار والو! تم میں سے کون اس (ملکہ) کا تخت میرے پاس لا سکتا ہے قبل اس کے کہ وہ لوگ فرمانبردار ہو کر میرے پاس آجائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلیمان نے کہا : اے اہل دربار ! تم میں سے کون ہے جو اس عورت کا تخت ان کے تابع دار بن کر آنے سے پہلے ہی میرے پاس لے آئے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

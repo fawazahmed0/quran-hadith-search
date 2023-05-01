@@ -3224,6 +3224,12 @@ kya aap ne nahi dekha ke aap ke rab ne saaye ko kis tarah phaila diya hai? agar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے اپنے رب (کی قدرت) کی طرف نگاہ نہیں ڈالی کہ وہ کس طرح (دوپہر تک) سایہ دراز کرتا ہے اور اگر وہ چاہتا تو اسے ضرور ساکن کر دیتا پھر ہم نے سورج کو اس (سایہ) پر دلیل بنایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے اپنے پروردگار (کی قدرت) کو نہیں دیکھا کہ وہ کس طرح سائے کو پھیلا تا ہے ؟ اور اگر وہ چاہتا تو اسے ایک جگہ ٹھہرا دیتا۔ پھر ہم نے سورج کو اس کے لیے رہنما بنادیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

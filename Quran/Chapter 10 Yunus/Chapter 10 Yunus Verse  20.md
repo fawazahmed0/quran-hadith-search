@@ -3224,6 +3224,12 @@ aur ye log yo kehte hai ke un par un ke rub ki janib se koi nishani kyo nahi naz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (اب اسی مہلت کی وجہ سے) کہتے ہیں کہ اس (رسول صلی اللہ علیہ وآلہ وسلم) پر ان کے رب کی طرف سے کوئی (فیصلہ کن) نشانی کیوں نازل نہیں کی گئی، آپ فرما دیجئے: غیب تو محض اللہ ہی کے لئے ہے، سو تم انتظار کرو میں بھی تمہارے ساتھ انتظار کرنے والوں میں سے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ کہتے ہیں کہ :“ اس نبی پر اس کے رب کی طرف سے کوئی نشانی کیوں نازل نہیں کی گئ ؟” تو (اے پیغمبر ! تم جواب میں) کہہ دو کہ :“ غیب کی باتیں تو صرف اللہ کے اختیار میں ہیں۔ لہذا تم انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں ۔”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

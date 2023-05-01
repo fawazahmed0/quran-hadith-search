@@ -3224,6 +3224,12 @@ ye tuh khana nashin12 aurto ka sath dene par reech13 gae aur un ke dilo par muha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے یہ پسند کیا کہ وہ پیچھے رہ جانے والی عورتوں، بچوں اور معذوروں کے ساتھ ہو جائیں اور ان کے دلوں پر مُہر لگا دی گئی ہے سو وہ کچھ نہیں سمجھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس بات سے خوش ہیں کہ پیچھے رہنے والی عورتوں میں شامل ہوجائیں، اور ان کے دلوں پر مہر لگا دی گئی ہے، چنانچہ وہ نہیں سمجھتے (کہ وہ کیا کر رہے ہیں) ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

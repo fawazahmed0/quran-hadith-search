@@ -3224,6 +3224,12 @@ ye kehte hai ke Allah ta’ala ki aulaad ha (nahi balke) wo paak hai, zameen wa 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کہتے ہیں: اللہ نے اپنے لئے اولاد بنائی ہے، حالانکہ وہ (اس سے) پاک ہے، بلکہ جو کچھ آسمانوں اور زمین میں ہے (سب) اسی کی (خَلق اور مِلک) ہے، (اور) سب کے سب اس کے فرماں بردار ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ لوگ کہتے ہیں کہ اللہ نے کوئی بیٹا بنایا ہوا ہے۔ (حالانکہ) اس کی ذات (اس قسم کی چیزوں سے) پاک ہے، بلکہ آسمانوں اور زمین میں جو کچھ ہے اسی کا ہے۔ سب کے سب اس کے فرمانبردار ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

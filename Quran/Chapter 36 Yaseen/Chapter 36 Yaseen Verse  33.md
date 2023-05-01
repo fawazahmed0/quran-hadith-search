@@ -3224,6 +3224,12 @@ aur un ke liye ek nishaani (khushk) zameen hai jis ko hum ne zinda kar diya aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُن کے لئے ایک نشانی مُردہ زمین ہے، جِسے ہم نے زندہ کیا اور ہم نے اس سے (اناج کے) دانے نکالے، پھر وہ اس میں سے کھاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے لیے ایک نشانی وہ زمین ہے جو مردہ پڑی ہوئی تھی، ہم نے اسے زندگی عطا کی، اور اس نے غلہ نکالا، جس کی خوراک یہ کھاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

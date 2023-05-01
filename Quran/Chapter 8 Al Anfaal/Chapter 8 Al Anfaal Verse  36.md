@@ -3224,6 +3224,12 @@ bila shak ye kafir log apne malo ko is liye qarch kar rahe hai ke Allah ki rah s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک کافر لوگ اپنا مال و دولت (اس لئے) خرچ کرتے ہیں کہ (اس کے اثر سے) وہ (لوگوں کو) اللہ (کے دین) کی راہ سے روکیں، سو ابھی وہ اسے خرچ کرتے رہیں گے پھر (یہ خرچ کرنا) ان کے حق میں پچھتاوا (یعنی حسرت و ندامت) بن جائے گا پھر وہ (گرفتِ الٰہی کے ذریعے) مغلوب کر دیئے جائیں گے، اور جن لوگوں نے کفر اپنا لیا ہے وہ دوزخ کی طرف ہانکے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا ہے وہ اپنے مال اس کام کے لیے خرچ کر رہے ہیں کہ لوگوں کو اللہ کے راستے سے روکیں۔ نتیجہ یہ ہوگا کہ یہ لوگ خرچ تو کریں گے، مگر پھر یہ سب کچھ ان کے لیے حسرت کا سبب بن جائے گا، اور آخر کار یہ مغلوب ہوجائیں گے۔ اور (آخرت میں) ان کافر لوگوں کو جہنم کی طرف اکٹھا کر کے لایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

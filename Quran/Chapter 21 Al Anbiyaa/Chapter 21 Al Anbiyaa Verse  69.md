@@ -3224,6 +3224,12 @@ hum ne farma diya aaye aag! tu thandi pad ja aur Ibraheem(alaihissalaam) ke liye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم نے فرمایا: اے آگ! تو ابراہیم پر ٹھنڈی اور سراپا سلامتی ہو جا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (چنانچہ انہوں نے ابراہیم کو آگ میں ڈال دیا اور) ہم نے کہا : اے آگ ! ٹھندی ہوجا، اور ابراہیم کے لیے سلامتی بن جا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jin logo ne kufr kiya aur Allah ki raah se rokne lage aur us hurmath waali masji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جن لوگوں نے کفر کیا ہے اور (دوسروں کو) اللہ کی راہ سے اور اس مسجدِ حرام (کعبۃ اللہ) سے روکتے ہیں جسے ہم نے سب لوگوں کے لئے یکساں بنایا ہے اس میں وہاں کے باسی اور پردیسی (میں کوئی فرق نہیں)، اور جو شخص اس میں ناحق طریقہ سے کج روی (یعنی مقررہ حدود و حقوق کی خلاف ورزی) کا ارادہ کرے ہم اسے دردناک عذاب کا مزہ چکھائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک وہ لوگ (سزا کے لائق ہیں) جنہوں نے کفر اپنا لیا ہے اور جو دوسروں کو اللہ کے راستے سے اور اس مسجد حرام سے روکتے ہیں جسے ہم نے لوگوں کے لیے ایسا بنایا ہے کہ اس میں وہاں کے باشندے اور باہر سے آنے والے سب برابر ہیں۔ اور جو کوئی شخص اس میں ظلم کر کے ٹیڑھی راہ نکالے گا، ہم اسے دردناک عذاب کا مزہ چکھائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

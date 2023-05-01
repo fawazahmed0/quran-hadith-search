@@ -3224,6 +3224,12 @@ Isa (alaihissalaam) bhi sirf bandha hee hai jis par hum ne ehsaan kiya aur ose b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (عیسٰی علیہ السلام) محض ایک (برگزیدہ) بندہ تھے جن پر ہم نے انعام فرمایا اور ہم نے انہیں بنی اسرائیل کے لئے (اپنی قدرت کا) نمونہ بنایا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ (یعنی عیسیٰ (علیہ السلام)) تو بس ہمارے ایک بندے تھے جن پر ہم نے انعام کیا تھا، اور بنی اسرائیل کے لیے ان کو ایک نمونہ بنایا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

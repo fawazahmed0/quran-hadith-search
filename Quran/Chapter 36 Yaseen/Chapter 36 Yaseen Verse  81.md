@@ -3224,6 +3224,12 @@ jis ne asmaano aur zameen ko paida kiya hai, kya wo un jaiso ke paida karne par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا وہ جس نے آسمانوں اور زمین کو پیدا فرمایا ہے اس بات پر قادر نہیں کہ ان جیسی تخلیق (دوبارہ) کردے، کیوں نہیں، اور وہ بڑا پیدا کرنے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا جس ذات نے آسمانوں اور زمین کو پیدا کیا ہے، کیا وہ اس بات پر قادر نہیں ہے کہ ان جیسوں کو (دوبارہ) پیدا کرسکے ؟ کیوں نہیں ؟ جبکہ وہ سب کچھ پیدا کرنے کی پوری مہارت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum ne har insaan ko apne maa baap ke saath accha sulook karne ki nasihath ki ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے انسان کو اس کے والدین سے نیک سلوک کا حکم فرمایا اور اگر وہ تجھ پر (یہ) کوشش کریں کہ تو میرے ساتھ اس چیز کو شریک ٹھہرائے جس کا تجھے کچھ بھی علم نہیں تو ان کی اطاعت مت کر، میری ہی طرف تم (سب) کو پلٹنا ہے سو میں تمہیں ان (کاموں) سے آگاہ کردوں گا جو تم (دنیا میں) کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے انسان کو حکم دیا ہے کہ وہ اپنے والدین کے ساتھ اچھا سلوک کرے۔ اور اگر وہ تم پر زور ڈالیں کہ تم میرے ساتھ کسی ایسے (معبود) کو شریک ٹھہراؤ جس کے بارے میں تمہارے پاس کوئی دلیل نہیں ہے، تو ان کا کہنا مت مانو میری ہی طرف تم سب کو لوٹ کر آنا ہے، اس وقت میں تمہیں بتاؤں گا کہ تم کیا کرتے رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

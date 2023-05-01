@@ -3224,6 +3224,12 @@ aur zameen aur pahaad utha liye jayenge aur ek hee chot mein reza reza kar diye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور زمین اور پہاڑ (اپنی جگہوں سے) اٹھا لئے جائیں گے، پھر وہ ایک ہی بار ٹکرا کر ریزہ ریزہ کر دیے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین اور پہاڑوں کو اٹھا کر ایک ہی ضرب میں ریزہ ریزہ کردیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

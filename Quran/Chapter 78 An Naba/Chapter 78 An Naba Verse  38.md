@@ -3224,6 +3224,12 @@ jis din ruh aur farishte sa-fe baandh kar khade honge, to koyi kalaam na kar sak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن جبرائیل (روح الامین) اور (تمام) فرشتے صف بستہ کھڑے ہوں گے، کوئی لب کشائی نہ کر سکے گا، سوائے اس شخص کے جسے خدائے رحمان نے اِذنِ (شفاعت) دے رکھا تھا اور اس نے (زندگی میں تعلیماتِ اسلام کے مطابق) بات بھی درست کہی تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن ساری روحیں اور فرشتے قطاریں بنا کر کھڑے ہوں گے، اس دن سوائے اس کے کوئی نہیں بول سکے گا۔ جسے خدائے رحمن نے اجازت دی ہو، اور وہ بات بھی ٹھیک کہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

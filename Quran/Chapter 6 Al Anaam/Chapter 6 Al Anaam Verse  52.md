@@ -3224,6 +3224,12 @@ aur un logo ko na nikaale jo subaah wa shaam apne parvardigaar ki ibaadath karte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ ان (شکستہ دل اور خستہ حال) لوگوں کو (اپنی صحبت و قربت سے) دور نہ کیجئے جو صبح و شام اپنے رب کو صرف اس کی رضا چاہتے ہوئے پکارتے رہتے ہیں، ان کے (عمل و جزا کے) حساب میں سے آپ پر کوئی چیز (واجب) نہیں اور نہ آپ کے حساب میں سے کوئی چیز ان پر (واجب) ہے (اگر) پھر بھی آپ انہیں (اپنے لطف و کرم سے) دور کردیں تو آپ حق تلفی کرنے والوں میں سے ہوجائیں گے (جوآپ کے شایانِ شان نہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں کو اپنی مجلس سے نہ نکالنا جو صبح و شام اپنے پروردگار کو اس کی خوشنودی حاصل کرنے کے لیے پکارتے رہتے ہیں۔ ان کے حساب میں جو اعمال ہیں ان میں سے کسی کی ذمہ داری تم پر نہیں ہے، اور تمہارے حساب میں جو اعمال ہیں ان میں سے کسی کی ذمہ داری ان پر نہیں ہے جس کی وجہ سے تم انہیں نکال باہر کرو، اور ظالموں میں شامل ہوجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

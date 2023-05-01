@@ -3224,6 +3224,12 @@ Yomu skazaly: «Uviydy do rayu!» Vin skazav: «O, yakby miy narod tilʹky znav
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اسے کافروں نے شہید کر دیا تو اسے) کہا گیا: (آ) بہشت میں داخل ہوجا، اس نے کہا: اے کاش! میری قوم کو معلوم ہو جاتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (آخر کار بستی والوں نے اس کو قتل کردیا اور اللہ تعالیٰ کی طرف سے اس سے) کہا گیا کہ : جنت میں داخل ہوجاؤ اس نے (جنت کی نعمتیں دیکھ کر) کہا کہ : کاش ! میری قوم کو معلوم ہوجائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

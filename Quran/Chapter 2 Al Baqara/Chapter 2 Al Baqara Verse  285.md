@@ -3224,6 +3224,12 @@ rasool imaan laaya us cheez par jo us ki taraf Allah ta’ala ki jaanib se utri 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ) رسول (صلی اللہ علیہ وآلہ وسلم) اس پر ایمان لائے (یعنی اس کی تصدیق کی) جو کچھ ان پر ان کے رب کی طرف سے نازل کیا گیا اور اہلِ ایمان نے بھی، سب ہی (دل سے) اللہ پر اور اس کے فرشتوں پر اور اس کی کتابوں پر اور اس کے رسولوں پر ایمان لائے، (نیز کہتے ہیں:) ہم اس کے پیغمبروں میں سے کسی کے درمیان بھی (ایمان لانے میں) فرق نہیں کرتے، اور (اللہ کے حضور) عرض کرتے ہیں: ہم نے (تیرا حکم) سنا اور اطاعت (قبول) کی، اے ہمارے رب! ہم تیری بخشش کے طلب گار ہیں اور (ہم سب کو) تیری ہی طرف لوٹنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ رسول (یعنی حضرت محمد (صلی اللہ علیہ وآلہ وسلم) اس چیز پر ایمان لائے ہیں جو ان کی طرف ان کے رب کی طرف سے نازل کی گئی ہے اور (ان کے ساتھ) تمام مسلمان بھی، یہ سب اللہ پر، اس کے فرشتوں پر اس کی کتابوں پر اور اس کے رسولوں پر ایمان لائے ہیں (وہ کہتے ہیں کہ) ہم اس کے رسولوں کے درمیان کوئی تفریق نہیں کرتے (کہ کسی پر ایمان لائیں، کسی پر نہ لائیں) اور وہ یہ کہتے ہیں کہ : ہم نے (اللہ اور رسول کے احکام کو توجہ سے) سن لیا ہے، اور ہم خوشی سے (ان کی) تعمیل کرتے ہیں۔ اے ہمارے پروردگار ہم آپ کی مغفرت کے طلبگار ہیں، اور آپ ہی کی طرف ہمیں لوٹ کرجانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

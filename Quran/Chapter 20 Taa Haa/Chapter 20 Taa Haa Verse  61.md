@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ne un se kaha, tumhaari shaamath aa chuki, Allah ta’ala pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+موسٰی (علیہ السلام) نے ان (جادوگروں) سے فرمایا: تم پر افسوس (خبردار!) اللہ پر جھوٹا بہتان مت باندھنا ورنہ وہ تمہیں عذاب کے ذریعے تباہ و برباد کردے گا اور واقعی وہ شخص نامراد ہوا جس نے (اللہ پر) بہتان باندھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے ان (جادوگروں سے) کہا : افسوس ہے تم پر ! اللہ پر بہتان نہ باندھو ورنہ وہ ایک سخت عذاب سے تمہیں مل یا میٹ کردے گا، اور جو کوئی بہتان باندھتا ہے، نامراد ہوتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

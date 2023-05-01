@@ -3224,6 +3224,12 @@ phir bhi agar ye mu mode rahe, to aap par sirf khol kar tableegh kar dena hee ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو اگر (پھر بھی) وہ رُوگردانی کریں تو (اے نبئ معظم!) آپ کے ذمہ تو صرف (میرے پیغام اور احکام کو) صاف صاف پہنچا دینا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر یہ (کافر) منہ موڑے رہیں تو (اے پیغمبر) تمہاری ذمہ داری صرف اتنی ہے کہ واضح طریقے پر پیغام پہنچا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

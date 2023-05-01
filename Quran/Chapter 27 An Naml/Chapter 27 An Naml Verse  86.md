@@ -3224,6 +3224,12 @@ kya wo dekh nahi rahe hai ke hum ne raath ko is liye banaya hai ke wo us mein ar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے نہیں دیکھا کہ ہم نے رات بنائی تاکہ وہ اس میں آرام کرسکیں اور دن کو (امورِ حیات کی نگرانی کے لئے) روشن (یعنی اشیاء کو دِکھانے اور سُجھانے والا) بنایا، بیشک اس میں ان لوگوں کے لئے نشانیاں ہیں جو ایمان رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا انہوں نے دیکھا نہیں کہ ہم نے رات اس لیے بنائی ہے کہ وہ اس میں سکون حاصل کریں، اور دن اس طرح بنایا ہے کہ اس میں چیزیں دکھائی دیں ؟ یقینا اس میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو ایمان لاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

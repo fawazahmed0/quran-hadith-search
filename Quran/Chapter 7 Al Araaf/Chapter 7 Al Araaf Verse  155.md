@@ -3224,6 +3224,12 @@ aur Mosa(alaihissalaam) ne sattar aadmi apni khaum mein se hamaare waqte mu-ayya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور موسیٰ نے اپنی قوم کے ستر آدمی منتخب کیے، تاکہ انہیں ہمارے طے کیے ہوئے وقت پر (کوہ طور) لائیں۔ پھر جب انہیں زلزلے نے آپکڑا تو موسیٰ نے کہا : میرے پروردگار ! اگر آپ چاہتے تو ان کو اور خود مجھ کو بھی پہلے ہی ہلاک کردیتے، کیا ہم میں سے کچھ بیوقوفوں کی حرکت کی وجہ سے آپ ہم سب کو ہلاک کردیں گے ؟ (ظاہر ہے کہ نہیں۔ لہذا پتہ چلا کہ) یہ واقعہ آپ کی طرف سے صرف ایک امتحان ہے جس کے ذریعے آپ جس کو چاہیں گمراہ کردیں، اور جس کو چاہیں ہدایت دے دیں۔ آپ ہی ہمارے رکھوالے ہیں۔ اس لیے ہمیں معاف کردیجیے، اور ہم پر رحم فرمایے۔ بیشک آپ سارے معاف کرنے والوں سے بہتر معاف کرنے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

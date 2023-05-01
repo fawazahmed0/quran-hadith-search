@@ -3224,6 +3224,12 @@ hum ne apni amaanath ko asmaano par zameen par aur pahaado par pesh kiya, lekin 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے (اِطاعت کی) امانت آسمانوں اور زمین اور پہاڑوں پر پیش کی تو انہوں نے اس (بوجھ) کے اٹھانے سے انکار کر دیا اور اس سے ڈر گئے اور انسان نے اسے اٹھا لیا، بیشک وہ (اپنی جان پر) بڑی زیادتی کرنے والا (ادائیگئ امانت میں کوتاہی کے انجام سے) بڑا بے خبر و نادان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے یہ امانت آسمانوں اور زمین اور پہاڑوں پر پیش کی، تو انہوں نے اس کے اٹھانے سے انکار کیا، اور اس سے ڈر گئے، اور انسان نے اس کا بوجھ اٹھا لیا۔ حقیقت یہ ہے کہ وہ بڑا ظالم، بڑا نادان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

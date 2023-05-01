@@ -3224,6 +3224,12 @@ aur aye meri qaum walo ye Allah ki bheji hoyi ontni hai jo tumhare liye ek mauje
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اے میری قوم! یہ اللہ کی (خاص طریقہ سے پیدا کردہ) اونٹنی ہے (جو) تمہارے لئے نشانی ہے سو اسے چھوڑے رکھو (یہ) اللہ کی زمین میں کھاتی پھرے اور اسے کوئی تکلیف نہ پہنچانا ورنہ تمہیں قریب (واقع ہونے والا) عذاب آپکڑے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اے میری قوم ! یہ اللہ کی اونٹنی تمہارے لیے ایک نشانی بن کر آئی ہے۔ لہذا اس کو آزاد چھوڑ دو کہ یہ اللہ کی زمین میں کھاتی پھرے، اور اس کو برے ارادے سے چھونا بھی نہیں، کہیں ایسا نہ ہو کہ تمہیں عنقریب آنے والا عذاب آپکڑے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

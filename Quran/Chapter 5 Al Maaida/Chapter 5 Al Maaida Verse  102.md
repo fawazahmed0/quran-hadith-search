@@ -3224,6 +3224,12 @@ aisi baatein tum se pehle aur logo ne bhi pochi thi phir un baatho ke munkir ho 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک تم سے پہلے ایک قوم نے ایسی (ہی) باتیں پوچھی تھیں، (جب وہ بیان کر دی گئیں) پھر وہ ان کے منکر ہوگئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم سے پہلے ایک قوم نے اس قسم کے سوالات کیے تھے، پھر ان (کے جو جوابات دیے گئے ان) سے منکر ہوگئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

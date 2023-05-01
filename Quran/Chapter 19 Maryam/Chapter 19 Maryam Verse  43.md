@@ -3224,6 +3224,12 @@ mere meherbaan baap aap dekhiye mere paas wo ilm ayaa hai jo aap ke paas ayaa he
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے ابّا! بیشک میرے پاس (بارگاہِ الٰہی سے) وہ علم آچکا ہے جو تمہارے پاس نہیں آیا تم میری پیروی کرو میں تمہیں سیدھی راہ دکھاؤں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابا جان ! میرے پاس ایک ایسا علم آیا ہے جو آپ کے پاس نہیں آیا، اس لیے میری بات مان لیجیے، میں آپ کو سیدھا راستہ بتلا دوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

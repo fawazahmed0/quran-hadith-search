@@ -3224,6 +3224,12 @@ accha Allah tumhara bojh halka karta hai,wo qoob janta hai ke tum mein na-tawaan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اب اللہ نے تم سے (اپنے حکم کا بوجھ) ہلکا کر دیا اسے معلوم ہے کہ تم میں (کسی قدر) کمزوری ہے سو (اب تخفیف کے بعد حکم یہ ہے کہ) اگر تم میں سے (ایک) سو (آدمی) ثابت قدم رہنے والے ہوں (تو) وہ دو سو (کفار) پر غالب آئیں گے اور اگر تم میں سے (ایک) ہزار ہوں تو وہ اللہ کے حکم سے دو ہزار (کافروں) پر غالب آئیں گے، اور اللہ صبر کرنے والوں کے ساتھ ہے (یہ مومنوں کے لئے ہدف ہے کہ میدانِ جہاد میں ان کے جذبۂ ایمانی کا اثر کم سے کم یہ ہونا چاہیئے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لو اب اللہ نے تم سے بوجھ ہلکا کردیا، اور اس کے علم میں ہے کہ تمہارے اندر کچھ کمزوری ہے۔ لہذا (اب حکم یہ ہے کہ) اگر تمہارے ثابت قدم رہنے والے سو آدمی ہوں تو وہ دو سو پر غالب آجائیں گے، اور اگر تمہارے ایک ہزار آدمی ہوں تو وہ اللہ کے حکم سے دو ہزار پر غالب آجائیں گے، اور اللہ ثابت قدم رہنے والوں کے ساتھ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

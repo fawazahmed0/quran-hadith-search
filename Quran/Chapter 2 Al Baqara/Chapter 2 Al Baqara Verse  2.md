@@ -3224,6 +3224,12 @@ is kitaab (ke Allah ki kitaab hone) mein koyi shak nahi, parhezgaaro1 ko raah di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) وہ عظیم کتاب ہے جس میں کسی شک کی گنجائش نہیں، (یہ) پرہیزگاروں کے لئے ہدایت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ کتاب ایسی ہے کہ اس میں کوئی شک نہیں یہ ہدایت ہے ان ڈر رکھنے والوں کے لئے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

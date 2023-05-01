@@ -3224,6 +3224,12 @@ aise logo par jo ke imaan rakhte ho aur nek kaam karte ho, us cheez mein koyi gu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان لوگوں پر جو ایمان لائے اور نیک عمل کرتے رہے اس (حرام) میں کوئی گناہ نہیں جو وہ (حکمِ حرمت اترنے سے پہلے) کھا پی چکے ہیں جب کہ وہ (بقیہ معاملات میں) بچتے رہے اور (دیگر اَحکامِ اِلٰہی پر) ایمان لائے اور اَعمالِ صالحہ پر عمل پیرا رہے، پھر (اَحکامِ حرمت کے آجانے کے بعد بھی ان سب حرام اَشیاء سے پرہیز کرتے رہے اور (اُن کی حرمت پر صدقِ دل سے ایمان لائے، پھر صاحبانِ تقویٰ ہوئے اور (بالآخر) صاحبانِ اِحسان (یعنی اللہ کے خاص محبوب و مقرب و نیکوکار بندے) بن گئے، اور اللہ اِحسان والوں سے محبت فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ایمان لے آئے ہیں، اور نیکی پر کار بند رہے ہیں، انہوں نے پہلے جو کچھ کھایا پیا ہے، اس کی وجہ سے ان پر کوئی گناہ نہیں ہے، بشرطیکہ وہ آئندہ ان گناہوں سے بچتے رہیں، اور ایمان رکھیں اور نیک عمل کرتے رہیں، پھر (جن چیزوں سے آئندہ روکا جائے ان سے) بچا کریں، اور ایمان پر قائم رہیں اور اس کے بعد بھی تقوی اور احسان کو اپنائیں۔ اللہ احسان پر عمل کرنے والوں سے محبت کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

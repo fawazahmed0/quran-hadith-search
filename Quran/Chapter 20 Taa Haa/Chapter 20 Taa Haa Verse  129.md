@@ -3224,6 +3224,12 @@ agar tere rab ki baath pehle hee se muqarrar shuda aur waqte mu’ayyan karda na
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ کے رب کی جانب سے ایک بات پہلے سے طے نہ ہو چکی ہوتی اور (ان کے عذاب کے لئے قیامت کا) وقت مقرر نہ ہوتا تو (ان پر عذاب کا ابھی اترنا) لازم ہو جاتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہارے رب کی طرف سے ایک بات پہلے ہی طے نہ کردی گئی ہوتی، اور (اس کے نتیجے میں عذاب کی) ایک میعاد مقرر نہ ہوتی، تو لازمی طور پر عذاب (ان کو) چمٹ چکا ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

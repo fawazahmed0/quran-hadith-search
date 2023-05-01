@@ -3224,6 +3224,12 @@ kaha ke aye mere rab mujhe baqsh de aur mujhe aisa mulk ata farma jo mere siva k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عرض کیا: اے میرے پروردگار! مجھے بخش دے، اور مجھے ایسی حکومت عطا فرما کہ میرے بعد کسی کو میسّر نہ ہو، بیشک تو ہی بڑا عطا فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگے کہ : میرے پروردگار ! میری بخشش فرما دے، اور مجھے ایسی سلطنت بخش دے جو میرے بعد کسی اور کے لیے مناسب نہ ہو۔ بیشک تیری، اور صرف تیری ہی ذات وہ ہے جو اتنی سخی داتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

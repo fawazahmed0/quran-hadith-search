@@ -3224,6 +3224,12 @@ aye imaan waalo! baath yahi hai ke sharaab aur juwwa aur thaan15 aur faal nikaal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! بیشک شراب اور جُوا اور (عبادت کے لئے) نصب کئے گئے بُت اور (قسمت معلوم کرنے کے لئے) فال کے تیر (سب) ناپاک شیطانی کام ہیں۔ سو تم ان سے (کلیتاً) پرہیز کرو تاکہ تم فلاح پا جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! شراب، جوا، بتوں کے تھان اور جوے کے تیرے یہ سب ناپاک شیطانی کام ہیں، لہذا ان سے بچو، تاکہ تمہیں فلاح حاصل ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

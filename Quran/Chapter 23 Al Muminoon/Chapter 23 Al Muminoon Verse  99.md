@@ -3224,6 +3224,12 @@ yahaan tak ke jab un mein se kisi ko mauth aane lagti hai, to kehta hai, aye mer
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ جب ان میں سے کسی کو موت آجائے گی (تو) وہ کہے گا: اے میرے رب! مجھے (دنیا میں) واپس بھیج دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ جب ان میں سے کسی پر موت آکھڑی ہوگی تو وہ کہے گا کہ : میرے پروردگار ! مجھے واپس بھیج دیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

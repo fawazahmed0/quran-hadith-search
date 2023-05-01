@@ -3224,6 +3224,12 @@ aur beshak hum ne ose un ke darmiyaan tarah tarah se bayaan kiya, ta ke wo nasih
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم اس (بارش) کو ان کے درمیان (مختلف شہروں اور وقتوں کے حساب سے) گھماتے (رہتے) ہیں تاکہ وہ غور و فکر کریں پھر بھی اکثر لوگوں نے بجز ناشکری کے (کچھ) قبول نہ کیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے لوگوں کے فائدے کے لیے اس (پانی) کی الٹ پھیر کر رکھی ہے، تاکہ وہ سبق حاصل کریں۔ لیکن اکثر لوگ ناشکری کے سوا ہر بات سے انکاری ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

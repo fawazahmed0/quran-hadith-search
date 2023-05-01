@@ -3224,6 +3224,12 @@ deen ke baare mein koyi zabardasti nahi, hidaayath zalaalath se roushan ho chuki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+دین میں کوئی زبردستی نہیں، بیشک ہدایت گمراہی سے واضح طور پر ممتاز ہو چکی ہے، سو جو کوئی معبودانِ باطلہ کا انکار کر دے اور اللہ پر ایمان لے آئے تو اس نے ایک ایسا مضبوط حلقہ تھام لیا جس کے لئے ٹوٹنا (ممکن) نہیں، اور اللہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دین کے معاملے میں کوئی زبردستی نہیں ہے، ہدایت کا راستہ گمراہی سے ممتاز ہو کر واضح ہوچکا، اس کے بعد جو شخص طاغوت کا انکار کر کے اللہ پر ایمان لے آئے گا، اس نے ایک مضبوط کنڈا تھام لیا جس کے ٹوٹنے کا کوئی امکان نہیں، اور اللہ خوب سننے والا، سب کچھ جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur log hamaari raah mein mashaqqate bardaasht karte hai, hum unhe apni raahe za
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ہمارے حق میں جہاد (یعنی مجاہدہ) کرتے ہیں تو ہم یقینا انہیں اپنی (طرف سَیر اور وصول کی) راہیں دکھا دیتے ہیں، اور بے شک اللہ صاحبانِ احسان کو اپنی معیّت سے نوازتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ہماری خاطر کوشش کی ہے، ہم انہیں ضرور بالضرور اپنے راستوں پر پہنچائیں گے، اور یقینا اللہ نیکی کرنے والوں کے ساتھ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

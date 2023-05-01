@@ -3224,6 +3224,12 @@ jo shaqs izzath haasil karna chaahta ho, to Allah ta’ala hee ki saari izzath h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص عزت چاہتا ہے تو اللہ ہی کے لئے ساری عزت ہے، پاکیزہ کلمات اسی کی طرف چڑھتے ہیں اور وہی نیک عمل (کے مدارج) کو بلند فرماتا ہے، اور جو لوگ بری چالوں میں لگے رہتے ہیں ان کے لئے سخت عذاب ہے اور ان کا مکر و فریب نیست و نابود ہو جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص عزت حاصل کرنا چاہتا ہو، تو تمام تر عزت اللہ کے قبضے میں ہے۔ پاکیزہ کلمہ اسی کی طرف چڑھتا ہے اور نیک عمل اس کو اوپر اٹھاتا ہے۔ اور جو لوگ بری بری مکاریاں کر رہے ہیں، ان کو سخت عذاب ہوگا، اور ان کی مکاری ہی ہے جو مل یا میٹ ہوجائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

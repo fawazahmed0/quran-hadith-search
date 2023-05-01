@@ -3224,6 +3224,12 @@ aur kehte hai agar Allah chahta to hum un ki ibaadath na karte, unhe us ki kuch 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کہتے ہیں کہ اگر رحمان چاہتا تو ہم اِن (بتوں) کی پرستش نہ کرتے، انہیں اِس کا (بھی) کچھ علم نہیں ہے وہ محض اَٹکل سے جھوٹی باتیں کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہتے ہیں کہ : اگر خدائے رحمن چاہتا تو ہم ان (فرشتوں) کی عبادت نہ کرتے۔ ان کو اس بات کی حقیقت کا ذرا بھی علم نہیں ہے اور ان کا کام اس کے سوا کچھ نہیں کہ اندازوں کے تیر چلاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar un bastiyo ke rehne waale imaan le aate aur parhezgaari eqtiyaar karte,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر یہ بستیوں والے ایمان لے آتے اور تقوی اختیار کرلیتے تو ہم ان پر آسمان اور زمین دونوں طرف سے برکتوں کے دروازے کھول دیتے۔ لیکن انہوں نے (حق کو) جھٹلایا، اس لیے ان کی مسلسل بدعملی کی پاداش میں ہم نے ان کو اپنی پکڑ میں لے لیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

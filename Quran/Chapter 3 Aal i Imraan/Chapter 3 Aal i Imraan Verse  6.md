@@ -3224,6 +3224,12 @@ wo maa ke pet mein tumhaari surate jis taraah ki chaahta hai banaata hai, us ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جو (ماؤں کے) رحموں میں تمہاری صورتیں جس طرح چاہتا ہے بناتا ہے، اس کے سوا کوئی لائقِ پرستش نہیں (وہ) بڑا غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جو ماؤں کے پیٹ میں جس طرح چاہتا ہے تمہاری صورتیں بناتا ہے، اس کے سوا کوئی معبود نہیں، وہ زبردست اقتدار کا بھی مالک ہے، اعلی درجے کی حکمت کا بھی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

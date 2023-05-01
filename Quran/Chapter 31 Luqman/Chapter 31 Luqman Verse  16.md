@@ -3224,6 +3224,12 @@ pyaare bete! agar koyi cheez raayi ke daane ke baraabar ho, phir wo (bhi) qaah k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(لقمان نے کہا:) اے میرے فرزند! اگر کوئی چیز رائی کے دانہ کے برابر ہو، پھر خواہ وہ کسی چٹان میں (چھُپی) ہو یا آسمانوں میں یا زمین میں (تب بھی) اللہ اسے (روزِ قیامت حساب کے لئے) موجود کر دے گا۔ بیشک اللہ باریک بین (بھی) ہے آگاہ و خبردار (بھی) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لقمان نے یہ بھی کہا) بیٹا ! اگر کوئی چیز رائی کے دانے کے برابر بھی ہو، اور وہ کسی چٹان میں ہو، یا آسمانوں میں یا زمین میں، تب بھی اللہ اسے حاضر کردے گا۔ یقین جانو اللہ بڑا باریک بیں، بہت باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

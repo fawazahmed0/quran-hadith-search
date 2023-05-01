@@ -3224,6 +3224,12 @@ har giz nahi, agar tum yaqini taur par jaan lo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہاں ہاں! کاش تم (مال و زَر کی ہوس اور اپنی غفلت کے انجام کو) یقینی علم کے ساتھ جانتے (تو دنیا میں کھو کر آخرت کو اس طرح نہ بھولتے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہرگز نہیں ! اگر تم یقینی علم کے ساتھ یہ بات جانتے ہوتے (تو ایسا نہ کرتے)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

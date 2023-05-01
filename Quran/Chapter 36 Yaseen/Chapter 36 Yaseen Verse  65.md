@@ -3224,6 +3224,12 @@ hum aaj ke din un ke mu par muhre laga denge aur un ke haath hum se baatein kare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آج ہم اُن کے مونہوں پر مُہر لگا دیں گے اور اُن کے ہاتھ ہم سے باتیں کریں گے اور اُن کے پاؤں اُن اعمال کی گواہی دیں گے جو وہ کمایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آج کے دن ہم ان کے منہ پر مہر لگادیں گے، اور ان کے ہاتھ ہم سے بات کریں گے، اور ان کے پاؤں گواہی دیں گے کہ وہ کیا کمائی کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya unhone zameen mein chal phir kar apne se pehlo ka anjaam nahi dekha? jo un s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کیا انہوں نے زمین میں سیر و سیاحت نہیں کی کہ وہ دیکھتے کہ اُن لوگوں کا انجام کیسا ہوا جو اُن سے پہلے گزر گئے، وہ اِن لوگوں سے (تعداد میں بھی) بہت زیادہ تھے اور طاقت میں (بھی) سخت تر تھے اور نشانات کے لحاظ سے (بھی) جو (وہ) زمین میں چھوڑ گئے ہیں (کہیں بڑھ کر تھے) مگر جو کچھ وہ کمایا کرتے تھے اُن کے کسی کام نہ آیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا انہوں نے زمین میں چل پھر کر نہیں دیکھا کہ ان سے پہلے جو لوگ تھے، ان کا انجام کیسا ہوا وہ ان سے تعداد میں زیادہ تھے، اور طاقت میں بھی ان سے بڑھے ہوئے تھے، اور ان یادگاروں میں بھی جو وہ زمین میں چھوڑ کر گئے ہیں۔ پھر بھی جو کچھ وہ کماتے تھے، وہ ان کے کچھ کام نہیں آیا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jaha unhe koyi qabar aman ki ya khauf ki mili unhone ose mashoor karna shuro kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان کے پاس کوئی خبر امن یا خوف کی آتی ہے تو وہ اسے پھیلا دیتے ہیں اور اگر وہ (بجائے شہرت دینے کے) اسے رسول (صلی اللہ علیہ وآلہ وسلم) اور اپنے میں سے صاحبانِ امر کی طرف لوٹادیتے تو ضرور ان میں سے وہ لوگ جو (کسی) بات کانتیجہ اخذ کرسکتے ہیں اس (خبر کی حقیقت) کو جان لیتے، اگر تم پر اللہ کا فضل اور اس کی رحمت نہ ہوتی تو یقیناً چند ایک کے سوا تم (سب) شیطان کی پیروی کرنے لگتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان کو کوئی بھی خبر پہنچتی ہے، چاہے وہ امن کی ہو یا خوف پیدا کرنے والی، تو یہ لوگ اسے (تحقیق کے بغیر) پھیلانا شروع کردیتے ہیں۔ اور اگر یہ اس (خبر) کو رسول کے پاس یا اصحاب اختیار کے پاس لے جاتے تو ان میں سے جو لوگ اس کی کھوج نکالنے والے ہیں وہ اس کی حقیقت معلوم کرلیتے۔ اور (مسلمانو) اگر اللہ کا فضل اور اس کی رحمت تم پر نہ ہوتی تو تھوڑے سے لوگوں کو چھوڑ کر باقی سب شیطان کے پیچھے لگ جاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

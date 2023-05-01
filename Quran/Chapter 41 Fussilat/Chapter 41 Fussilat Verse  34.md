@@ -3224,6 +3224,12 @@ neki aur badhi baraabar nahi hoti, buraayi ko bhalaayi se dafa karo, phir wahi j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نیکی اور بدی برابر نہیں ہو سکتے، اور برائی کو بہتر (طریقے) سے دور کیا کرو سو نتیجتاً وہ شخص کہ تمہارے اور جس کے درمیان دشمنی تھی گویا وہ گرم جوش دوست ہو جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نیکی اور بدی برابر نہیں ہوتی، تم بدی کا دفاع ایسے طریقے سے کرو جو بہترین ہو نتیجہ یہ ہوگا کہ جس کے اور تمہارے درمیان دشمنی تھی، وہ دیکھتے ہی دیکھتے ایسا ہوجائے گا جیسے وہ (تمہارا) جگری دوست ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

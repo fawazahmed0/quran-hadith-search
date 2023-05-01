@@ -3224,6 +3224,12 @@ Allah ta’ala tumhe nasihath karta hai ke phir kabi bhi aisa kaam na karna agar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ تم کو نصیحت فرماتا ہے کہ پھر کبھی بھی ایسی بات (عمر بھر) نہ کرنا اگر تم اہلِ ایمان ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ تمہیں نصیحت کرتا ہے کہ پھر کبھی ایسا نہ کرنا، اگر واقعی تم مومن ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas Allah ki taareef hai jo asmaano aur zameen aur tamaam jahaan ka paalanhaar h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اللہ ہی کے لئے ساری تعریفیں ہیں جو آسمانوں کا رب ہے اور زمین کا مالک ہے، سب جہانوں کا پروردگار (بھی) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض تعریف تمام تر اللہ کی ہے جو سارے آسمانوں کا بھی مالک ہے، زمین کا بھی مالک، اور تمام جہانوں کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Ek aisa rasool jo tumko Allah ki saaf saaf hadaayat deney wali aayaat sunataa ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اور) رسول (صلی اللہ علیہ وآلہ وسلم) کو (بھی بھیجا ہے) جو تم پر اللہ کی واضح آیات پڑھ کر سناتے ہیں تاکہ اُن لوگوں کو جو ایمان لائے ہیں اور نیک اعمال کرتے ہیں تاریکیوں سے نکال کر روشنی کی طرف لے جائے، اور جو شخص اللہ پر ایمان رکھتا ہے اور نیک عمل کرتا ہے وہ اسے ان جنتوں میں داخل فرمائے گا جن کے نیچے سے نہریں رواں ہیں وہ ان میں ہمیشہ رہنے والے ہیں، بیشک اللہ نے اُس کے لئے نہایت عمدہ رزق (تیار کر) رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یعنی وہ رسول جو تمہارے سامنے روشنی دینے والی اللہ کی آیتیں پڑھ کر سناتے ہیں، تاکہ جو لوگ ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں ان کو اندھیروں سے نکال کر روشنی میں لے آئیں، اور جو شخص اللہ پر ایمان لے آئے، اور نیک عمل کرے، اللہ اس کو ایسے باغات میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی، جہاں جنتی لوگ ہمیشہ ہمیشہ رہیں گے۔ اللہ نے ایسے شخص کے لیے بہترین رزق طے کردیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

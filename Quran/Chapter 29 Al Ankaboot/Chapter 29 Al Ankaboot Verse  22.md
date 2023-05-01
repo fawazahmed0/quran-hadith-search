@@ -3224,6 +3224,12 @@ tum na to zameen mein Allah ta’ala ko aajiz kar sakte ho, na asmaan mein, Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نہ تم (اللہ کو) زمین میں عاجز کرنے والے ہو اور نہ آسمان میں اور نہ تمہارے لئے اللہ کے سوا کوئی دوست ہے اور نہ مددگار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم نہ زمین میں (اللہ کو) عاجز کرسکتے ہو، اور نہ آسمان میں، اور اللہ کے سوا تمہارا نہ کوئی رکھوالا ہے، اور نہ کوئی مددگار۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

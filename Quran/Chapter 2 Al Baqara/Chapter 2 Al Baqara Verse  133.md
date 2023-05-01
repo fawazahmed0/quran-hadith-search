@@ -3224,6 +3224,12 @@ kya (hazrath) Yaqub ke inteqaal ke waqth tum maujod thein? jab unhone apni aulaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم (اس وقت) حاضر تھے جب یعقوب (علیہ السلام) کو موت آئی، جب انہوں نے اپنے بیٹوں سے پوچھا: تم میرے (انتقال کے) بعد کس کی عبادت کرو گے؟ تو انہوں نے کہا: ہم آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسماعیل اور اسحٰق (علیھم السلام) کے معبود کی عبادت کریں گے جو معبودِ یکتا ہے، اور ہم (سب) اسی کے فرماں بردار رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا اس وقت تم خود موجود تھے جب یعقوب کی موت کا وقت آیا تھا۔ جب انہوں نے اپنے بیٹوں سے کہا تھا کہ تم میرے بعد کس کی عبادت کرو گے ؟ ان سب نے کہا تھا کہ : ہم اسی ایک خدا کی عبادت کریں گے جو آپ کا معبود ہے اور آپ کے باپ دادوں ابراہیم، اسماعیل اور اسحاق کا معبود ہے۔ اور ہم صرف اسی کے فرمانبردار ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

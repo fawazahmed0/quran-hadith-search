@@ -3224,6 +3224,12 @@ unhone jawaab diya ke hum jaisi (zoor aawar) jamaath ki maujodgi mein bhi agar o
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: اگر اسے بھیڑیا کھا جائے حالانکہ ہم ایک قوی جماعت بھی (موجود) ہوں تو ہم تو بالکل ناکارہ ہوئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ بولے : ہم ایک مضبوط جتھے کی شکل میں ہیں، اگر پھر بھی بھیڑیا اسے کھاجائے تو ہم تو بالکل ہی گئے گزرے ہوئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

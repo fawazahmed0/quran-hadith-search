@@ -3224,6 +3224,12 @@ Allah ta’ala hawaaye chalaata hai, wo abr ko uthaati hai, phir Allah ta’ala 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہی ہے جو ہواؤں کو بھیجتا ہے تو وہ بادل کو ابھارتی ہیں پھر وہ اس (بادل) کو فضائے آسمانی میں جس طرح چاہتا ہے پھیلا دیتا ہے پھر اسے (متفرق) ٹکڑے (کر کے تہ بہ تہ) کر دیتا ہے، پھر تم دیکھتے ہو کہ بارش اس کے درمیان سے نکلتی ہے، پھر جب اس (بارش) کو اپنے بندوں میں سے جنہیں چاہتا ہے پہنچا دیتا ہے تو وہ فوراً خوش ہو جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ہی وہ ہے جو ہوائیں بھیجتا ہے، چنانچہ وہ بادل کو اٹھاتی ہیں، پھر وہ اس (بادل) کو جس طرح چاہتا ہے آسمان میں پھیلا دیتا ہے، اور اسے کئی تہوں (والی گھٹا) میں تبدیل کردیتا ہے۔ تب تم دیکھتے ہو کہ اس کے درمیان سے بارش برس رہی ہے۔ چنانچہ جب وہ اپنے بندوں میں سے جن کو چاہتا ہے وہ بارش پہنچاتا ہے تو وہ اچانک خوشی منانے لگتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

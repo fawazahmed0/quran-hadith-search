@@ -3224,6 +3224,12 @@ be-shak Allah ta’ala, daana ko, ghutliyo ko phaadne waala hai, wo jaandaar ko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ دانے اور گٹھلی کو پھاڑ نکالنے والا ہے وہ مُردہ سے زندہ کو پیدا فرماتا ہے اور زندہ سے مُردہ کو نکالنے والا ہے، یہی (شان والا) تو اللہ ہے پھر تم کہاں بہکے پھرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک اللہ ہی دانے اور گٹھلی کو پھاڑنے والا ہے۔ وہ جاندار چیزوں کو بےجان چیزوں سے نکال لاتا ہے، اور وہی بےجان چیزوں کو جاندار چیزوں سے نکالنے والا ہے۔ لوگو ! وہ ہے اللہ پھر کوئی تمہیں بہکا کر کس اوندھی طرف لئے جارہا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

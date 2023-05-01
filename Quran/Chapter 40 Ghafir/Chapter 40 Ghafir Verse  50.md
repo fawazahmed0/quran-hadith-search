@@ -3224,6 +3224,12 @@ wo jawaab denge ke kya tumhaare paas tumhaare rasool maujeze le kar nahi aaye th
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہیں گے: کیا تمہارے پاس تمہارے پیغمبر واضح نشانیاں لے کر نہیں آئے تھے، وہ کہیں گے: کیوں نہیں، (پھر داروغے) کہیں گے: تم خود ہی دعا کرو اور کافروں کی دعا (ہمیشہ) رائیگاں ہی ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ کہیں گے کہ کیا تمہارے پاس تمہارے پیغمبر کھلی کھلی نشانیاں لے کر آتے نہیں رہے تھے ؟۔ دوزخی جواب دیں گے۔ کہ بیشک (آتے تو رہے تھے) وہ کہیں گے۔ پھر تو تم ہی دعا کرو، اور کافروں کی دعا کا کوئی انجام اکارت جانے کے سوا نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

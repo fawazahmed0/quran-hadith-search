@@ -3224,6 +3224,12 @@ aur jab aap un logo ko dekhe jo hamaari ayaath mein ayb joyi kar rahe hai to un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تم ایسے لوگوں کو دیکھو جو ہماری آیتوں میں (کج بحثی اور استہزاء میں) مشغول ہوں تو تم ان سے کنارہ کش ہوجایا کرو یہاں تک کہ وہ کسی دوسری بات میں مشغول ہوجائیں، اور اگر شیطان تمہیں (یہ بات) بھلا دے تو یاد آنے کے بعد تم (کبھی بھی) ظالم قوم کے ساتھ نہ بیٹھا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم ان لوگوں کو دیکھو جو ہماری آیتوں کو برا بھلا کہنے میں لگے ہوئے ہیں، تو ان سے اس وقت تک کے لیے الگ ہوجاؤ جب تک وہ کسی اور بات میں مشغول نہ ہوجائیں۔ اور اگر کبھی شیطان تمہیں یہ بات بھلا دے تو یاد آنے کے بعد ظالم لوگوں کے ساتھ نہ بیٹھو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

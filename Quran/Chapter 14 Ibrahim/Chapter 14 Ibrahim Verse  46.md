@@ -3224,6 +3224,12 @@ ye apni apni chaale chal rahe hai aur Allah ko unki tamaam chaalo ka ilm hai aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے (دولت و اقتدار کے نشہ میں بدمست ہو کر) اپنی طرف سے بڑی فریب کاریاں کیں جبکہ اللہ کے پاس ان کے ہر فریب کا توڑ تھا، اگرچہ ان کی مکّارانہ تدبیریں ایسی تھیں کہ ان سے پہاڑ بھی اکھڑ جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ لوگ اپنی ساری چالیں چل چکے تھے، اور ان کی ساری چالوں کا توڑ اللہ کے پاس تھا، چاہے ان کی چالیں ایسی کیوں نہ ہوں جن سے پہاڑ بھی اپنی جگہ سے ہل جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

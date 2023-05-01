@@ -3224,6 +3224,12 @@ kya un logo ka jo bure kaam karte hai, ye gumaan hai ke hum unhe un logo jaisa k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ لوگ جنہوں نے برائیاں کما رکھی ہیں یہ گمان کرتے ہیں کہ ہم انہیں اُن لوگوں کی مانند کر دیں گے جو ایمان لائے اور نیک اعمال کرتے رہے (کہ) اُن کی زندگی اور ان کی موت برابر ہو جائے۔ جو دعوٰی (یہ کفّار) کر رہے ہیں نہایت برا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے برے برے کاموں کا ارتکاب کیا ہے، کیا وہ یہ سمجھے ہوئے ہیں کہ انہیں ہم ان لوگوں کے برابر کردیں گے جو ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں جس کے نتیجے میں ان کا جینا اور مرنا ایک ہی جیسا ہوجائے ؟ کتنی بری بات ہے جو یہ طے کیے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

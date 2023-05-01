@@ -3224,6 +3224,12 @@ kya aap ne ose bhi dekha? jis ne apni qaahish nafs ko apna maboodh bana rakha ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے اس شخص کو دیکھا جس نے اپنی نفسانی خواہش کو معبود بنا رکھا ہے اور اللہ نے اسے علم کے باوجود گمراہ ٹھہرا دیا ہے اور اس کے کان اور اس کے دل پر مُہر لگا دی ہے اور اس کی آنکھ پر پردہ ڈال دیا ہے، پھر اُسے اللہ کے بعد کون ہدایت کر سکتا ہے، سو کیا تم نصیحت قبول نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر کیا تم نے اسے بھی دیکھا جس نے اپنا خدا اپنی نفسانی خواہش کو بنا لیا ہے، اور علم کے باوجود اللہ نے اسے گمراہی میں ڈال دیا، اور اس کے کان اور دل پر مہر لگا دی، اور اس کی آنکھ پر پردہ ڈال دیا۔ اب اللہ کے بعد کون ہے جو اسے راستے پر لائے ؟ کیا پھر بھی تم لوگ سبق نہیں لیتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

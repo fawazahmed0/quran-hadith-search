@@ -3224,6 +3224,12 @@ aye hamaare paalne waale, tu jise jahannam mein daale, yaqinan tu ne ose ruswa k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! بیشک تو جسے دوزخ میں ڈال دے تو تُو نے اسے واقعۃً رسوا کر دیا، اور ظالموں کے لئے کوئی مددگار نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ہمارے رب ! آپ جس کسی کو دوزخ میں داخل کردیں، اسے آپ نے یقینا رسوا ہی کردیا، اور ظالموں کو کسی قسم کے مددگار نصیب نہ ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

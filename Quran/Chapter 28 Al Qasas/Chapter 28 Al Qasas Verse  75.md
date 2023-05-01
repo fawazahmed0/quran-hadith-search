@@ -3224,6 +3224,12 @@ aur hum har ummath mein se ek gawaah alag kar lenge, ke apni dalile pesh karo, p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم ہر امت سے ایک گواہ نکالیں گے پھر ہم (کفار سے) کہیں گے کہ تم اپنی دلیل لاؤ تو وہ جان لیں گے کہ سچ بات اللہ ہی کی ہے اور ان سے وہ سب (باتیں) جاتی رہیں گی جو وہ جھوٹ باندھا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم ہر امت میں سے ایک گواہی دینے والا نکال لائیں گے، پھر کہیں گے کہ : لاؤ اپنی دلیل ! اس وقت ان کو پتہ چل جائے گا کہ سچی بات اللہ ہی کی تھی اور وہ ساری باتیں جو انہوں نے گھڑ رکھی تھیں، سب گم ہو کر رہ جائیں گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

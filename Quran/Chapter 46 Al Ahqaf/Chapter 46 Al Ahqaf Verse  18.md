@@ -3224,6 +3224,12 @@ wo log hai jin par (Allah ke azaab ka) waada saadeq aa gaya, in jinnaath aur ins
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی وہ لوگ ہیں جن کے بارے میں فرمانِ (عذاب) ثابت ہو چکا ہے بہت سی امتوں میں جو ان سے پہلے گزر چکی ہیں جنّات کی (بھی) اور انسانوں کی (بھی)، بیشک وہ (سب) نقصان اٹھانے والے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جن کے بارے میں جنات اور انسانوں کے ان گروہوں سمیت جو ان سے پہلے گزرے ہیں، (عذاب کی) بات طے ہوچکی ہے۔ حقیقت یہ ہے کہ یہ سب بڑا نقصان اٹھانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

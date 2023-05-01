@@ -3224,6 +3224,12 @@ itne mein un duno aurto mein se ek un ki taraf sharm wa haya se chalti hoyi aayi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (تھوڑی دیر بعد) ان کے پاس ان دونوں میں سے ایک (لڑکی) آئی جو شرم و حیاء (کے انداز) سے چل رہی تھی۔ اس نے کہا: میرے والد آپ کو بلا رہے ہیں تاکہ وہ آپ کو اس (محنت) کا معاوضہ دیں جو آپ نے ہمارے لئے (بکریوں کو) پانی پلایا ہے۔ سو جب موسٰی (علیہ السلام) ان (لڑکیوں کے والد شعیب علیہ السلام) کے پاس آئے اور ان سے (پچھلے) واقعات بیان کئے تو انہوں نے کہا: آپ خوف نہ کریں آپ نے ظالم قوم سے نجات پا لی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تھوڑی دیر بعد ان دونوں عورتوں میں سے ایک ان کے پاس شرم و حیا کے ساتھ چلتی ہوئی آئی، کہنے لگی : میرے والد آپ کو بلا رہے ہیں، تاکہ آپ کو اس بات کا انعام دیں کہ آپ نے ہماری خاطر جانوروں کو پانی پلایا ہے، چنانچہ جب وہ عورتوں کے والد کے پاس پہنچے اور ان کو ساری سرگزشت سنائی، تو انہوں نے کہا : کوئی اندیشہ نہ کرو، تم ظالم لوگوں سے بچ آئے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

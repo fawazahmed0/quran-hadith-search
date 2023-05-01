@@ -3224,6 +3224,12 @@ aye logo! tumhaare paas tumhaare rab ki taraf se haq le kar rasool aa gaya hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! بیشک تمہارے پاس یہ رسول (صلی اللہ علیہ وآلہ وسلم) تمہارے رب کی طرف سے حق کے ساتھ تشریف لایا ہے، سو تم (ان پر) اپنی بہتری کے لئے ایمان لے آؤ اور اگر تم کفر (یعنی ان کی رسالت سے انکار) کرو گے تو (جان لو وہ تم سے بے نیاز ہے کیونکہ) جو کچھ آسمانوں اور زمین میں ہے یقیناً (وہ سب) اللہ ہی کا ہے اور اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! یہ رسول تمہارے آپس تمہارے پر ورگار کی طرف سے حق لے کر آگئے ہیں اب (ان پر) ایمان لے آؤ، کہ تمہاری بہتری اسی میں ہے، اور اگر (اب بھی) تم نے کفر کی راہ اپنائی تو (خوب سمجھ لو کہ) تمام آسمانوں اور زمین میں جو کچھ ہے اللہ ہی کا ہے، اور اللہ علم اور حکمت دونوں کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jin logo ne neki ki hai un ke waste qoobi hai aur mazeed bar’aa bhi, aur un ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایسے لوگوں کے لئے جو نیک کام کرتے ہیں نیک جزا ہے بلکہ (اس پر) اضافہ بھی ہے، اور نہ ان کے چہروں پر (غبار اور) سیاہی چھائے گی اور نہ ذلت و رسوائی، یہی اہلِ جنت ہیں، وہ اس میں ہمیشہ رہنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے بہتر کام کیے ہیں، بہترین حالت انہی کے لیے ہے اور اس سے بڑھ کر کچھ اور بھی نیز ان کے چہروں پر نہ کبھی سیاہی چھائے گی، نہ ذلت۔ وہ جنت کے باسی ہیں، وہ اس میں ہمیشہ رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

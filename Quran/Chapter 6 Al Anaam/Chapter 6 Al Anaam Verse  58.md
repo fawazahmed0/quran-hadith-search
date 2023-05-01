@@ -3224,6 +3224,12 @@ aap keh di jiye ke agar mere paas wo cheez hoti jis ka tum taqaaza kar rahe ho t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان سے) فرما دیں: اگر وہ (عذاب) میرے پاس ہوتا جسے تم جلدی چاہتے ہو تو یقیناً میرے اور تمہارے درمیان کام تمام ہوچکا ہوتا۔ اور اللہ ظالموں کو خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : جس چیز کی تم جلدی مچا رہے ہو، اگر وہ میرے پاس ہوتی تو میرے اور تمہارے درمیان فیصلہ ہوچکا ہوگا۔ اور اللہ ظالموں کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

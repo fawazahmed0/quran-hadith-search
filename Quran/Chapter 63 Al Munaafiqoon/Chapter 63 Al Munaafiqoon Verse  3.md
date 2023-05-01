@@ -3224,6 +3224,12 @@ ye us sabab se hai ke ye imaan la kar phir kaafir ho gaye, pas un ke dilo par mu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اِس وجہ سے کہ وہ (زبان سے) ایمان لائے پھر (دل سے) کافر رہے تو اُن کے دلوں پر مُہر لگا دی گئی سو وہ (کچھ) نہیں سمجھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ساری باتیں اس وجہ سے ہیں کہ یہ (شروع میں بظاہر) ایمان لے آئے پھر انہوں نے کفر اپنا لیا اس لیے ان کے دلوں پر مہر لگا دی گئی، نتیجہ یہ کہ یہ لوگ (حق بات) سمجھتے ہی نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

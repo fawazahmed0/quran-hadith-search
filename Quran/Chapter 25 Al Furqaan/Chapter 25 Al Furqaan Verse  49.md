@@ -3224,6 +3224,12 @@ ta ke us ke zariye se murda shahar ko zinda karde aur ose hum apni maqluqaath me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اس کے ذریعے ہم (کسی بھی) مُردہ شہر کو زندگی بخشیں اور (مزید یہ کہ) ہم یہ (پانی) اپنے پیدا کئے ہوئے بہت سے چوپایوں اور (بادیہ نشین) انسانوں کو پلائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ ہم اس کے ذریعے مردہ زمین کو زندگی بخشیں، اور اپنی مخلوق میں سے بہت سے مویشیوں اور انسانوں کو اس سے سیراب کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

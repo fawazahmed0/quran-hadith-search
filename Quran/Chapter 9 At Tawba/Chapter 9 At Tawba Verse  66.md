@@ -3224,6 +3224,12 @@ tum bahane na banao,yaqinan tum apne iman ke badh be’iman ho gae,agar hum tum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اب) تم معذرت مت کرو، بیشک تم اپنے ایمان (کے اظہار) کے بعد کافر ہو گئے ہو، اگر ہم تم میں سے ایک گروہ کو معاف بھی کر دیں (تب بھی) دوسرے گروہ کو عذاب دیں گے اس وجہ سے کہ وہ مجرم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بہانے نہ بناؤ، تم ایمان کا اظہار کرنے کے بعد کفر کے مرتکب ہوچکے ہو۔ اگر ہم تم میں سے ایک گروہ کو معافی دے بھی دیں تو دوسرے گروہ کو ضرور سزا دیں گے۔ کیونکہ وہ مجرم لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur ose aisi jageh se rozi deta hai jis ka ose gumaan bhi na ho aur jo shaqs All
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسے ایسی جگہ سے رِزق عطا فرماتا ہے جہاں سے اس کا گمان بھی نہیں ہوتا، اور جو شخص اللہ پر توکل کرتا ہے تو وہ (اللہ) اسے کافی ہے، بیشک اللہ اپنا کام پورا کرلینے والا ہے، بیشک اللہ نے ہر شے کے لئے اندازہ مقرر فرما رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسے ایسی جگہ سے رزق عطا کرے گا جہاں سے اسے گمان بھی نہیں ہوگا۔ اور جو کوئی اللہ پر بھروسہ کرے، تو اللہ اس (کا کام بنانے) کے لیے کافی ہے۔ یقین رکھو کہ اللہ اپنا کام پورا کر کے رہتا ہے۔ (البتہ) اللہ نے ہر چیز کا ایک اندازہ مقرر کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

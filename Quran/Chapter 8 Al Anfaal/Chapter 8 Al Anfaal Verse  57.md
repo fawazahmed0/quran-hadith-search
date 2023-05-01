@@ -3224,6 +3224,12 @@ pas jab kabhi tu ladaayi mein un par ghalib aa jae,unhe aisi mar maar ke un ke p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو اگر آپ انہیں (میدانِ) جنگ میں پا لیں تو ان کے ساتھ (وہ) سلوک کریں کہ اس کے ذریعے آپ ان کے پچھلوں کو (بھی) راہِ فرار اختیار کرنے پر مجبور کر دیں تاکہ انہیں نصیحت حاصل ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اگر کبھی یہ لوگ جنگ میں تمہارے ہاتھ لگ جائیں تو ان کو سامان عبرت بنا کر ان لوگوں کو بھی تتر بتر کر ڈالو جو ان کے پیچھے ہیں، تاکہ وہ یاد رکھیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

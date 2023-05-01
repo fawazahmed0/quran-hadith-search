@@ -3224,6 +3224,12 @@ Aur yeh tumhara kya haal hai ke jab tumpar museebat aa padi to tum kehne lagey y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا جب تمہیں ایک مصیبت آپہنچی حالانکہ تم اس سے دو چند (دشمن کو) پہنچا چکے تھے تو تم کہنے لگے کہ یہ کہاں سے آپڑی؟ فرما دیں: یہ تمہاری اپنی ہی طرف سے ہے بیشک اللہ ہر چیز پر خوب قدرت رکھتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب تمہیں ایک ایسی مسیبت پہنچی جس سے دگنی تم (دشمن کو) پہنچا چکے تھے تو کیا تم ایسے موقع پر یہ کہتے ہو کہ یہ مصیبت کہاں سے آگئی ؟ کہہ دو کہ : یہ خود تمہاری طرف سے آئی ہے۔ بیشک اللہ ہر چیز پر قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

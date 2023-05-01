@@ -3224,6 +3224,12 @@ na ye log dunya mein Allah ko hara sake aur na un ka koi himayati Allah ke siva 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ لوگ (اللہ کو) زمین میں عاجز کر سکنے والے نہیں اور نہ ہی ان کے لئے اللہ کے سوا کوئی مددگار ہیں۔ ان کے لئے عذاب دوگنا کر دیا جائے گا (کیونکہ) نہ وہ (حق بات) سننے کی طاقت رکھتے تھے اور نہ (حق کو) دیکھ ہی سکتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے لوگ روئے زمین پر کہیں بھی اللہ سے بچ کر نہیں نکل سکتے، اور اللہ کے سوا انہیں کوئی یارومددگار میسر نہیں آسکتے۔ ان کو دگنا عذاب دیا جائے گا۔ یہ (حق بات کو نفرت کی وجہ سے) نہ سن سکتے تھے، اور ان کو (حق) سجھائی دیتا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

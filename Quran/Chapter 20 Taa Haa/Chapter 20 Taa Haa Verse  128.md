@@ -3224,6 +3224,12 @@ kya un ki rehbari us baath ne bhi nahi ki, ke hum ne un se pehle bahuth si basti
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہیں (اس بات نے) ہدایت نہ دی کہ ہم نے ان سے پہلے کتنی ہی امتوں کو ہلاک کر دیا جن کی رہائش گاہوں میں (اب) یہ لوگ چلتے پھرتے ہیں، بیشک اس میں دانش مندوں کے لئے (بہت سی) نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر کیا ان لوگوں کو اس بات نے بھی کوئی ہدایت کا سبق نہیں دیا کہ ان سے پہلے کتنی نسلیں تھیں جنہیں ہم نے ہلاک کردیا، جن کی بستیوں میں یہ لوگ چلتے پھرتے بھی ہیں ؟ یقینا جن لوگوں کے پاس عقل ہے، ان کے لیے اس بات میں عبرت کے بڑے سامان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kaash ke aap dekhte jab ke gunehgaar log apne rab ta’ala ke saamne sar jhukaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ دیکھیں (تو ان پر تعجب کریں) کہ جب مُجرِم لوگ اپنے رب کے حضور سر جھکائے ہوں گے اور (کہیں گے:) اے ہمارے رب! ہم نے دیکھ لیا اور ہم نے سُن لیا، پس (اب) ہمیں (دنیا میں) واپس لوٹا دے کہ ہم نیک عمل کر لیں بیشک ہم یقین کرنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کاش تم وہ منظر دیکھو جب یہ مجرم لوگ اپنے رب کے سامنے سرجھکائے ہوئے (کھڑے) ہوں گے (کہہ رہے ہوں گے کہ) ہمارے پروردگار ! ہماری آنکھیں اور ہمارے کان کھل گئے، اس لیے ہمیں (دنیا میں) دوبارہ بھیج دیجیے، تاکہ ہم نیک عمل کریں۔ ہمیں اچھی طرح یقین آچکا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ shaitaan to yo chaahta hai ke sharaab aur juwwe ke zariye se tumhaare aapas mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+شیطان یہی چاہتا ہے کہ شراب اور جوئے کے ذریعے تمہارے درمیان عداوت اور کینہ ڈلوا دے اور تمہیں اللہ کے ذکر سے اور نماز سے روک دے۔ کیا تم (ان شرانگیز باتوں سے) باز آؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شیطان تو یہی چاہتا ہے کہ شراب اور جوے کے ذریعے تمہارے درمیان دشمنی اور بغض کے بیج ڈال دے، اور تمہیں اللہ کی یاد اور نماز سے روک دے۔ اب بتاؤ کہ کیا تم (ان چیزوں سے) باز آجاؤ گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ke dushmano ki saza yahi dozakh ki aag hai, jis mein un ka hameshgi ka gha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ دوزخ اللہ کے دشمنوں کی جزا ہے، اُن کے لئے اِس میں ہمیشہ رہنے کا گھر ہے، یہ اُس کا بدلہ ہے جو وہ ہماری آیتوں کا انکار کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہی ہے سزا اللہ کے دشمنوں کی جو آگ کی صورت میں ہوگی، اسی میں ان کا دائمی ٹھکانا ہوگا جو اس بات کا بدلہ ہوگا کہ وہ ہماری آیتوں کا انکار کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

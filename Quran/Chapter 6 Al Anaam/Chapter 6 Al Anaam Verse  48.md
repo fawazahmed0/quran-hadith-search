@@ -3224,6 +3224,12 @@ aur hum paighambaro ko sirf is waaste bheja karte hai ke wo bashaarath de aur da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم پیغمبروں کو نہیں بھیجتے مگر خوشخبری سنانے والے اور ڈر سنانے والے بنا کر، سو جو شخص ایمان لے آیا اور (عملاً) درست ہوگیا تو ان پرنہ کوئی خوف ہوگا اور نہ ہی وہ غمگین ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم پیغمبروں کو اسی لیے تو بھیجتے ہیں کہ وہ (نیکیوں پر) خوشخبری سنائیں (اور نافرمانی پر اللہ کے عذاب سے) ڈرائیں۔ چنانچہ جو لوگ ایمان لے آئے اور اپنی اصلاح کرلی، ان کو نہ کوئی خوف ہوگا، اور نہ وہ غمگین ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

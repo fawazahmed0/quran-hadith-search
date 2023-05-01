@@ -3224,6 +3224,12 @@ beshak jin logo ne kufr kiya, unhe ye awaaz di jayegi ke yaqinan Allah ka tum pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک جنہوں نے کفر کیا انہیں پکار کر کہا جائے گا: (آج) تم سے اللہ کی بیزاری، تمہاری جانوں سے تمہاری اپنی بیزاری سے زیادہ بڑھی ہوئی ہے، جبکہ تم ایمان کی طرف بلائے جاتے تھے مگر تم انکار کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اختیار کیا ہے، ان سے پکار کر کہا جائے گا کہ : (آج) تمہیں جتنی بیزار اپنے آپ سے ہو رہی ہے اس سے زیادہ بیزاری اللہ کو اس وقت ہوتی تھی جب تمہیں ایمان دعوت دی جاتی تھی اور تم انکار کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye wo logo jo imaan laaye ho! Allah se darte raha karo aur us ke rasool par ima
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اللہ کا تقوٰی اختیار کرو اور اُس کے رسولِ (مکرّم صلی اللہ علیہ وآلہ وسلم) پر ایمان لے آؤ وہ تمہیں اپنی رحمت کے دو حصّے عطا فرمائے گا اور تمہارے لئے نور پیدا فرما دے گا جس میں تم (دنیا اور آخرت میں) چلا کرو گے اور تمہاری مغفرت فرما دے گا، اور اللہ بہت بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ سے ڈرو، اور اس کے پیغمبر پر ایمان لاؤ تاکہ وہ تمہیں اپنی رحمت کے دو حصے عطا فرمائے، اور تمہارے لیے وہ نور پیدا کرے جس کے ذریعے تم چل سکو، اور تمہاری بخشش فرمادے۔ اور اللہ بہت بخشنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

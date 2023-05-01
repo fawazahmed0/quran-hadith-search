@@ -3224,6 +3224,12 @@ qarib hai ke bijli un ki aankhe ochak le jaaye, jab un ke liye roushni karti hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یوں لگتا ہے کہ بجلی ان کی بینائی اُچک لے جائے گی، جب بھی ان کے لئے (ماحول میں) کچھ چمک ہوتی ہے تو اس میں چلنے لگتے ہیں اور جب ان پر اندھیرا چھا جاتا ہے تو کھڑے ہو جاتے ہیں، اور اگر اللہ چاہتا تو ان کی سماعت اور بصارت بالکل سلب کر لیتا، بیشک اللہ ہر چیز پر قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسا لگتا ہے کہ بجلی ان کی آنکھوں کو اچک لے جائے گی جب بھی ان کے لئے روشنی کردیتی ہے وہ اس (روشنی) میں چل پڑتے ہیں اور جب وہ ان پر اندھیرا کردیتی ہے تو وہ کھڑے رہ جاتے ہیں اور اگر اللہ چاہتا تو ان کے سننے اور دیکھنے کی طاقتیں چھین لیتا، بیشک اللہ ہر چیز پر قدرت رکھتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

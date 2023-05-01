@@ -3224,6 +3224,12 @@ Baap ne jawab diya “kya main uske maamle mein tumpar waisa hi bharosa karoon j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یعقوب (علیہ السلام) نے فرمایا: کیا میں اس کے بارے میں (بھی) تم پر اسی طرح اعتماد کر لوں جیسے اس سے قبل میں نے اس کے بھائی (یوسف علیہ السلام) کے بارے میں تم پر اعتماد کر لیا تھا؟ تو اللہ ہی بہتر حفاظت فرمانے والا ہے اور وہی سب مہربانوں سے زیادہ مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 والد نے کہا : کیا میں اس کے بارے میں تم پر ویسا ہی بھروسہ کروں جیسا اسکے بھائی (یوسف) کے بارے میں تم پر پہلے کیا تھا ؟ خیر ! اللہ سب سے بڑھ کر نگہبان ہے، اور وہ سب سے بڑھ کر رحم فرمانے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

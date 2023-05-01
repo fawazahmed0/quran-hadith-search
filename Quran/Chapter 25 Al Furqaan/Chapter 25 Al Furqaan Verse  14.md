@@ -3224,6 +3224,12 @@ Sʹohodni ne klychte na sebe odniyeyi zahybeli, klychte yikh bahato
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان سے کہا جائے گا:) آج (صرف) ایک ہی ہلاکت کو نہ پکارو بلکہ بہت سی ہلاکتوں کو پکارو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس وقت ان سے کہا جائے گا کہ) آج تم موت کو صرف ایک بار نہ پکارو، بلکہ بار بار موت کو پکارتے ہی رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

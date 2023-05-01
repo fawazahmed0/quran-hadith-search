@@ -3224,6 +3224,12 @@ unhone Allah ke hamsar bana liye ke logo ko Allah ki raah se behkaaye, aap keh d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے اللہ کے لئے شریک بنا ڈالے تاکہ وہ (لوگوں کو) اس کی راہ سے بہکائیں۔ فرما دیجئے: تم (چند روزہ) فائدہ اٹھا لو بیشک تمہارا انجام آگ ہی کی طرف (جانا) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے اللہ کے ساتھ (اس کی خدائی میں) کچھ شریک بنا لیے، تاکہ لوگوں کو اس کے راستے سے گمراہ کریں۔ ان سے کہو کہ : (تھوڑے سے) مزے اڑا لو، کیونکہ آخر کار تمہیں جانا دوزخ ہی کی طرف ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

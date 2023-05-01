@@ -3224,6 +3224,12 @@ jis waqt moosa ne apni khaom se kaha ke Allah ke wo ehsaanaath yaad karo jo us n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کیجئے) جب موسٰی (علیہ السلام) نے اپنی قوم سے کہا: تم اپنے اوپر اللہ کے (اس) انعام کو یاد کرو جب اس نے تمہیں آلِ فرعون سے نجات دی جو تمہیں سخت عذاب پہنچاتے تھے اور تمہارے لڑکوں کو ذبح کر ڈالتے تھے اور تمہاری عورتوں کو زندہ چھوڑ دیتے تھے، اور اس میں تمہارے رب کی جانب سے بڑی بھاری آزمائش تھی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ وقت یاد کرو جب موسیٰ نے اپنی قوم سے کہا تھا کہ : اللہ نے تم پر جو انعام کیا ہے، اسے یاد رکھو کہ اس نے تمہیں فرعون کے لوگوں سے نجات دی، جو تمہیں بدترین تکلیفیں پہنچاتے تھے، اور تمہارے بیٹوں کو ذبح کر ڈالتے، اور تمہاری عورتوں کو زندہ رکھتے تھے، اور ان تمام واقعات میں تمہارے پروردگار کی طرف سے تمہارا زبردست امتحان تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

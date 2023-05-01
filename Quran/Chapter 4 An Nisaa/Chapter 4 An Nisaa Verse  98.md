@@ -3224,6 +3224,12 @@ magar jo mardh, aurte aur bacche be-bas hai, jinhe na to kisi chaaraye-kaar ki t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے ان واقعی مجبور و بے بس مردوں اور عورتوں اور بچوں کے، جو نہ کسی تدبیر پر قدرت رکھتے ہیں اور نہ (وہاں سے نکلنے کا) کوئی راستہ جانتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ وہ بےبس مرد، عورتیں اور بچے (اس انجام سے مستثنی ہیں) جو (ہجرت کی) کوئی تدبیر نہیں کرسکتے اور نہ (نکلنے کا) کوئی راستہ پاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

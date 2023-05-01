@@ -3224,6 +3224,12 @@ albatta ye apne boojh dholenge aur apne bujho ke saath hee aur boojh bhi, aur jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ یقیناً اپنے (گناہوں کے) بوجھ اٹھائیں گے اور اپنے بوجھوں کے ساتھ کئی (دوسرے) بوجھ (بھی اپنے اوپر لادے ہوں گے) اور ان سے روزِ قیامت ان (بہتانوں) کی ضرور پرسش کی جائے گی جو وہ گھڑا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ اپنے گناہوں کے بوجھ بھی ضرور اٹھائیں گے اور اپنے بوجھ کے ساتھ کچھ اور بوجھ بھی۔ اور یہ لوگ جتنے جھوٹ گھڑا کرتے تھے، قیامت کے دن ان سے سب کی باز پرس ضرور کی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

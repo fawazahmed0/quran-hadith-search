@@ -3224,6 +3224,12 @@ jo log Allah ta’ala ke mazboath ehadh ko tod dete hai aur Allah tala ne jin ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ نافرمان وہ لوگ ہیں) جو اللہ کے عہد کو اس سے پختہ کرنے کے بعد توڑتے ہیں، اور اس (تعلق) کو کاٹتے ہیں جس کو اللہ نے جوڑنے کا حکم دیا ہے اور زمین میں فساد بپا کرتے ہیں، یہی لوگ نقصان اٹھانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جو اللہ سے کئے ہوئے عہد کو پختہ کرنے کے بعد بھی توڑ دیتے ہیں اور جن رشتوں کو اللہ نے جوڑنے کا حکم دیا ہے انہیں کاٹ ڈالتے ہیں اور زمین میں فساد مچاتے ہیں ایسے ہی لوگ بڑا نقصان اٹھانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

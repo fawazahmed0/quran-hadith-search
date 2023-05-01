@@ -3224,6 +3224,12 @@ lekin jo nek baqth kiye gaye wo jannath mein honge jaha hamesha rahenge jab tak 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ نیک بخت ہوں گے (وہ) جنت میں ہوں گے وہ اس میں ہمیشہ رہیں گے جب تک آسمان اور زمین (جو اس وقت ہوں گے) قائم رہیں مگر یہ کہ جو آپ کا رب چاہے، یہ وہ عطا ہوگی جو کبھی منقطع نہ ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ خوشحال ہوں گے وہ جنت میں ہوں گے جس میں وہ ہمیشہ ہمیشہ رہیں گے، جب تک آسمان اور زمین قائم ہیں، الا یہ کہ تمہارے رب ہی کو کچھ اور منظور ہو۔ یہ ایک ایسی عطا ہوگی جو کبھی ختم ہونے میں نہیں آئے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

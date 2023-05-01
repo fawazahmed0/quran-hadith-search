@@ -3224,6 +3224,12 @@ us ne jawaab diya ke mere eqtiyaar mein mere parvardigaar ne jo de rakha hai, wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ذوالقرنین نے) کہا: مجھے میرے رب نے اس بارے میں جو اختیار دیا ہے (وہ) بہتر ہے، تم اپنے زورِ بازو (یعنی محنت و مشقت) سے میری مدد کرو، میں تمہارے اور ان کے درمیان ایک مضبوط دیوار بنا دوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ذوالقرنین نے کہا : اللہ نے مجھے جو اقتدار عطا فرمایا ہے، وہی (میرے لیے) بہتر ہے۔ لہذا تم لوگ (ہاتھ پاؤں کی) طاقت سے میری مدد کرو، تو میں تمہارے اور ان کے درمیان ایک مضبوط دیوار بنا دوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

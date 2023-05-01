@@ -3224,6 +3224,12 @@ ek qawi haykal jin kehne laga, aap apni is majlis se uthe, us se pehle hee pehle
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایک قوی ہیکل جِن نے عرض کیا: میں اسے آپ کے پاس لاسکتا ہوں قبل اس کے کہ آپ اپنے مقام سے اٹھیں اور بیشک میں اس (کے لانے) پر طاقتور (اور) امانت دار ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایک قوی ہیکل جن نے کہا : آپ اپنی جگہ سے اٹھے بھی نہ ہوں گے کہ میں اس سے پہلے ہی اسے آپ کے پاس لے آؤں گا، اور یقین رکھیے کہ میں اس کام کی پوری طاقت رکھتا ہوں (اور) امانت دار بھی ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

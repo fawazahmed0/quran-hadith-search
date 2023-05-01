@@ -3224,6 +3224,12 @@ aur ye ke qayaamath qat’an aane waali hai, jis mein koyi shak wa shuba nahi au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک قیامت آنے والی ہے اس میں کوئی شک نہیں اور یقیناً اللہ ان لوگوں کو زندہ کر کے اٹھا دے گا جو قبروں میں ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس لیے کہ قیامت کی گھڑی آنے والی ہے، جس میں کوئی شک نہیں ہے، اور اس لیے کہ اللہ ان سب لوگوں کو دوبارہ زندہ کرے گا جو قبروں میں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

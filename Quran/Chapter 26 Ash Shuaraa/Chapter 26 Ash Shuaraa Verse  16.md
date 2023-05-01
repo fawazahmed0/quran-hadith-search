@@ -3224,6 +3224,12 @@ tum duno feraun ke paas ja kar kaho ke bila shuba hum rabbul aalameen ke bheje h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تم دونوں فرعون کے پاس جاؤ اور کہو: ہم سارے جہانوں کے پروردگار کے (بھیجے ہوئے) رسول ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب تم فرعون کے پاس جاؤ اور کہو کہ : ہم دونوں رب العالمین کے پیغمبر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

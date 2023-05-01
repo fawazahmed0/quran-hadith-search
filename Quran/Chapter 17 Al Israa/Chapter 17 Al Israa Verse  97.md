@@ -3224,6 +3224,12 @@ Allah jis ki rehnumaai kare wo to hidaayath yaafta hai aur jise wo raah se bhatk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ جسے ہدایت فرما دے تو وہی ہدایت یافتہ ہے، اور جسے وہ گمراہ ٹھہرا دے تو آپ ان کے لئے اس کے سوا مددگار نہیں پائیں گے، اور ہم انہیں قیامت کے دن اوندھے منہ اٹھائیں گے اس حال میں کہ وہ اندھے، گونگے اور بہرے ہوں گے، ان کا ٹھکانا دوزخ ہے، جب بھی وہ بجھنے لگے گی ہم انہیں (عذاب دینے کے لئے) اور زیادہ بھڑکا دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جسے اللہ ہدایت دے، وہی صحیح راستے پر ہوتا ہے، اور جن لوگوں کو وہ گمراہی میں مبتلا کردے، تو اس کے سوا تمہیں ان کے کوئی مددگار نہیں مل سکتے۔ اور ہم انہیں قیامت کے دن منہ کے بل اس طرح اکٹھا کریں گے کہ وہ اندھے، گونگے اور بہرے ہوں گے۔ ان کا ٹھکانا جہنم ہوگا۔ جب کبھی اس کی آگ دھیمی ہونے لگے گی، ہم اسے اور زیادہ بھڑکا دیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

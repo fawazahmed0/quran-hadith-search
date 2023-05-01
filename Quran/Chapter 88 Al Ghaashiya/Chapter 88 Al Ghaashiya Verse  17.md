@@ -3224,6 +3224,12 @@ kya ye oonto ko nahi dekhte ke wo kis tarah paida kiye gaye hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(منکرین تعجب کرتے ہیں کہ جنت میں یہ سب کچھ کیسے بن جائے گا! تو) کیا یہ لوگ اونٹ کی طرف نہیں دیکھتے کہ وہ کس طرح (عجیب ساخت پر) بنایا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو کیا یہ لوگ اونٹوں کو نہیں دیکھتے کہ انہیں کیسے پیدا کیا گیا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

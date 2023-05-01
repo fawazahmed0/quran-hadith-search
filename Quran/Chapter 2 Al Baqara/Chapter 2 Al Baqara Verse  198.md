@@ -3224,6 +3224,12 @@ tum par apne rub ka fazl talaash karne mein koyi gunaah nahi, jab tum arfaath se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم پر اس بات میں کوئی گناہ نہیں اگر تم (زمانۂ حج میں تجارت کے ذریعے) اپنے رب کا فضل (بھی) تلاش کرو، پھر جب تم عرفات سے واپس آؤ تو مشعرِ حرام (مُزدلفہ) کے پاس اللہ کا ذکر کیا کرو اور اس کا ذکر اس طرح کرو جیسے اس نے تمہیں ہدایت فرمائی، اور بیشک اس سے پہلے تم بھٹکے ہوئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم پر اس بات میں کوئی گناہ نہیں ہے کہ تم (حج کے دوران تجارت یا مزدوری کے ذریعے) اپنے پروردگار کا فضل تلاش کرو پھر جب تم عرفات سے روانہ ہو تو مشعر حرام کے پاس (جو مزدلفہ میں واقع ہے) اللہ کا ذکر کرو، اور اس کا ذکر اسی طرح کرو جس طرح اس نے تمہیں ہدایت کی ہے جبکہ اس سے پہلے تم بالکل ناواقف تھتے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

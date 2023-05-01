@@ -3224,6 +3224,12 @@ un par to is dunya mein bhi laanat chup kaadhi gayi, aur qayamat ke din bhi bora
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس دنیا میں (بھی) لعنت ان کے پیچھے لگا دی گئی اور قیامت کے دن (بھی ان کے پیچھے رہے گی)، کتنا برا عطیہ ہے جو انہیں دیا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور پھٹکار اس دنیا میں بھی ان کے پیچھے لگا دی گئی ہے، اور قیامت کے دن بھی۔ یہ بدترین صلہ ہے جو کسی کو دیا جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

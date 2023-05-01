@@ -3224,6 +3224,12 @@ Kya tumhare kuffar kuch un logon se behtar hain? Ya aasmani kitaabon mein tumhar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے قریشِ مکہ!) کیا تمہارے کافر اُن (اگلے) لوگوں سے بہتر ہیں یا تمہارے لئے (آسمانی) کتابوں میں نجات لکھی ہوئی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تمہارے یہ کافر لوگ ان سے اچھے ہیں، یا تمہارے لیے (خدا کی) کتابوں میں کوئی بےگناہی کا پروانہ لکھا ہوا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jab koi surath nazil ki jati hai tuh ek dosre ko dekhne lagte hai ke tum ko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اورجب بھی کوئی سورت نازل کی جاتی ہے تو وہ ایک دوسرے کی طرف دیکھتے ہیں، (اور اشاروں سے پوچھتے ہیں) کہ کیا تمہیں کوئی دیکھ تو نہیں رہا پھر وہ پلٹ جاتے ہیں۔ اللہ نے ان کے دلوں کو پلٹ دیا ہے کیونکہ یہ وہ لوگ ہیں جو سمجھ نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب کبھی کوئی سورت نازل ہوتی ہے تو یہ ایک دوسرے کی طرف دیکھتے ہیں (اور اشاروں میں ایک دوسرے سے کہتے ہیں) کہ کیا کوئی تمہیں دیکھ تو نہیں رہا ؟ پھر وہاں سے اٹھ کر چلے جاتے ہیں۔ اللہ نے ان کا دل پھیر دیا ہے، کیونکہ وہ ایسے لوگ ہیں کہ سمجھ سے کام نہیں لیتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

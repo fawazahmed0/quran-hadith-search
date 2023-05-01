@@ -3224,6 +3224,12 @@ tum apne rub se isteghfaar karo aur us ki taraf tauba karo, yaqeen mano ke mera 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اپنے رب سے مغفرت مانگو پھر اس کے حضور (صدقِ دل سے) توبہ کرو، بیشک میرا رب نہایت مہربان محبت فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم اپنے رب سے معافی مانگو، پھر اسی کی طرف رجوع کرو، یقین رکھو کہ میرا رب بڑا مہربان، بہت محبت کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

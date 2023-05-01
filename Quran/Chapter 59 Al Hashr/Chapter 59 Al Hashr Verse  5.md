@@ -3224,6 +3224,12 @@ tum ne khajuro ke jo daraqth kaat daale ya jinhe tum ne un ki jado par baaqi reh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مومنو! یہود بنو نَضیر کے محاصرہ کے دوران) جو کھجور کے درخت تم نے کاٹ ڈالے یا تم نے انہیں اُن کی جڑوں پر کھڑا چھوڑ دیا تو (یہ سب) اللہ ہی کے حکم سے تھا اور اس لئے کہ وہ نافرمانوں کو ذلیل و رسوا کرے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم نے کھجور کے جو درخت کاٹے، یا انہیں اپنی جڑوں پر کھڑا رہنے دیا، تو یہ سب کچھ اللہ کے حکم سے تھا، اور اس لیے تھا تاکہ اللہ نافرمانوں کو رسوا کرے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

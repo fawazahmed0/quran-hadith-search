@@ -3224,6 +3224,12 @@ aur ye Qur’an aisa nahi ke Allah (ki wahi)ke baghair (apne hee se)ghad liya ga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ قرآن ایسا نہیں ہے کہ اسے اللہ (کی وحی) کے بغیر گھڑ لیا گیا ہو لیکن (یہ) ان (کتابوں) کی تصدیق (کرنے والا) ہے جو اس سے پہلے (نازل ہوچکی) ہیں اور جو کچھ (اللہ نے لوح میں یا احکامِ شریعت میں) لکھا ہے اس کی تفصیل ہے، اس (کی حقانیت) میں ذرا بھی شک نہیں (یہ) تمام جہانوں کے رب کی طرف سے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ قرآن ایسا نہیں ہے کہ اسے کسی نے اپنی طرف سے گھڑ لیا ہو، اللہ نے نہ اتارا ہو بلکہ یہ (وحی کی) ان باتوں کی تصدیق کرتا ہے جو اس سے پہلے آچکی ہیں، اور اللہ نے جو باتیں (لوح محفوظ میں) لکھ رکھی ہیں، ان کی تفصیل بیان کرتا ہے، اس میں ذرا شک کی گنجائش نہیں ہے۔ یہ اس ذات کی طرف سے ہے جو تمام جہانوں کی پرورش کرتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

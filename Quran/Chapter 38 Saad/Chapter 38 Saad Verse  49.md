@@ -3224,6 +3224,12 @@ ye nasihath hai aur yaqeen maano ke parhezgaaro ki badi acchi jageh hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (وہ) ذکر ہے (جس کا بیان اس سورت کی پہلی آیت میں ہے)، اور بے شک پرہیزگاروں کے لئے عمدہ ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب کچھ ایک نصیحت کا پیغام ہے، اور یقین جانو کہ جو لوگ تقوی اختیار کرتے ہیں، آخری ٹھکانے کی بہترین انہی کے حصے میں آئے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

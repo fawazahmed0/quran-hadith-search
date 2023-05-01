@@ -3224,6 +3224,12 @@ kya tu ne nahi dekha ke Allah ta’ala ne aasmaano ko aur zameen ko behetreen ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے سننے والے!) کیا تو نے نہیں دیکھا کہ بیشک اللہ نے آسمانوں اور زمین کو حق (پر مبنی حکمت) کے ساتھ پیدا فرمایا۔ اگر وہ چاہے (تو) تمہیں نیست و نابود فرما دے اور (تمہاری جگہ) نئی مخلوق لے آئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تمہیں یہ بات نظر نہیں آتی کہ اللہ نے آسمانوں اور زمین کو برحق مقصد سے پیدا کیا ہے۔ اگر وہ چاہے تو تم سب کو فنا کردے، اور ایک نئی مخلوق وجود میں لے آئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

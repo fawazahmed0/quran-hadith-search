@@ -3224,6 +3224,12 @@ agar ye (sacche) moboodh hote tu jahannam mein dakhil na hote aur sab ke sab, os
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر یہ (واقعۃً) معبود ہوتے تو جہنم میں داخل نہ ہوتے، اور وہ سب اس میں ہمیشہ رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر یہ وقعی خدا ہوتے تو اس (جہنم) میں نہ جاتے۔ اور سب کے سب اس میں ہمیشہ رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

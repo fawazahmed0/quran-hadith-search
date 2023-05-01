@@ -3224,6 +3224,12 @@ aur hum ne tum jaise behetro ko halaak kar diya hai, pas koyi hai nasihath lene 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے تمہارے (بہت سے) گروہوں کو ہلاک کر ڈالا، سو کیا کوئی نصیحت حاصل کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے ہم مشرب لوگوں کو ہم پہلے ہی ہلاک کرچکے ہیں۔ اب بتاؤ ہے کوئی جو نصیحت حاصل کرے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

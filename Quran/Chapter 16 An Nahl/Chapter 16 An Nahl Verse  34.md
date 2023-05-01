@@ -3224,6 +3224,12 @@ pas un ke bure amaal ke natije unhe mil gaye aur jis ki hasi udaate thein us ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو جو اَعمال انہوں نے کئے تھے انہی کی سزائیں ان کو پہنچیں اور اسی (عذاب) نے انہیں آگھیرا جس کا وہ مذاق اڑایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس لیے ان کے برے اعمال کا وبال ان پر پڑا، اور جس چیز کا وہ مذاق اڑایا کرتے تھے، اسی نے ان کو آکر گھیر لیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

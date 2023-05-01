@@ -3224,6 +3224,12 @@ aur jab naadim hoye aur maloom hoa ke waqeyi wo log gumraahi mein pad gaye to ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب اپنے کیے پر پچھتائے، اور سمجھ گئے کہ وہ گمراہ ہوگئے ہیں تو کہنے لگے : اگر اللہ نے ہم پر رحم نہ فرمایا، اور ہماری بخشش نہ کی تو یقینا ہم برباد ہوجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

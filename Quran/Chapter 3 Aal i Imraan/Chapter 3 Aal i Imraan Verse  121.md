@@ -3224,6 +3224,12 @@ aye nabi! us waqth ko bhi yaad karo, jab subaah hee subaah aap apne ghar se nika
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کیجئے) جب آپ صبح سویرے اپنے درِ دولت سے روانہ ہو کر مسلمانوں کو (غزوۂ احد کے موقع پر اہلِ مکہ کی جارح فوجوں کے خلاف دفاعی) جنگ کے لئے مورچوں پر ٹھہرا رہے تھے، اور اللہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغبر ! جنگ احد کا وہ وقت یاد کرو) جب تم صبح کے وقت اپنے گھر سے نکل کر مسلمانوں کو جنگ کے ٹھکانوں پر جما رہے تھے، اور اللہ سب کچھ سننے جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

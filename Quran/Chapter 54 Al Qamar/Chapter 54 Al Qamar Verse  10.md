@@ -3224,6 +3224,12 @@ pas us ne apne rab se dua ki, ke main be bas hoon, tu meri madad kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو انہوں نے اپنے رب سے دعا کی کہ میں (اپنی قوم کے مظالم سے) عاجز ہوں پس تو انتقام لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر انہوں نے اپنے پروردگار کو پکارا کہ : میں بےبس ہوچکا ہوں، اب آپ ہی بدلہ لیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

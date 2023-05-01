@@ -3224,6 +3224,12 @@ aap kahiye ke bas puri hujjath Allah hee ki rahi, phir agar wo chaahta to tum su
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے کہ دلیلِ محکم تو اللہ ہی کی ہے، پس اگر وہ (تمہیں مجبور کرنا) چاہتا تو یقیناً تم سب کو (پابندِ) ہدایت فرما دیتا٭o٭ وہ حق و باطل کا فرق اور دونوں کا انجام سمجھانے کے بعد ہر ایک کو آزادی سے اپنا راستہ اختیار کرنے کا موقع دیتا ہے، تاکہ ہر شخص اپنے کئے کا خود ذمہ دار ٹھہرے اور اس پر جزا و سزا کا حق دار قرار پائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہو کہ : ایسی دلیل تو اللہ ہی کی ہے جو (دلوں تک) پہنچنے والی ہو۔ چنانچہ اگر وہ چاہتا تو تم سب کو (زبردستی) ہدایت پر لے آتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

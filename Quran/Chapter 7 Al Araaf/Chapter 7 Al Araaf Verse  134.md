@@ -3224,6 +3224,12 @@ aur jab un par koyi azaab waaqe hota, to yo kehte ke aye Mosa! hamaare liye apne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان پر عذاب آپڑتا تو وہ کہتے : اے موسیٰ ! تمہارے پاس اللہ کا جو عہد ہے، اس کا واسطہ دے کر ہمارے لیے اپنے رب سے دعا کردو (کہ یہ عذاب ہم سے دور ہوجائے) اور اگر واقعی تم نے ہم پر سے یہ عذاب ہٹا دیا تو ہم تمہاری مان لیں گے، اور بنی اسرائیل کو ضرور تمہارے ساتھ بھیج دیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

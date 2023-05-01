@@ -3224,6 +3224,12 @@ kya pas wo shaqs jo apne parvardigaar ki taraf se daleel par ho, us shaqs jaisa 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کیا وہ شخص جو اپنے رب کی طرف سے واضح دلیل پر (قائم) ہو ان لوگوں کی مثل ہو سکتا ہے جن کے برے اعمال ان کے لئے آراستہ کر کے دکھائے گئے ہیں اور وہ اپنی نفسانی خواہشات کے پیچھے چل رہے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب بتاؤ کہ جو لوگ اپنے پروردگار کی طرف سے ایک روشن راستے پر ہوں، کیا وہ ان جیسے ہوسکتے ہیں جن کی بدکاری ہی ان کے لیے خوشنما بنادی گئی ہو، اور وہ اپنی نفسانی خواہشات کے پیچھے چلتے ہوں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

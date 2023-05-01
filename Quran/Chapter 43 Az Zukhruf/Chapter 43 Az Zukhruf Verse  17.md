@@ -3224,6 +3224,12 @@ Aur haal yeh hai ke jis aulad ko yeh log us khuda e Rehman ki taraf mansoob kart
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حالانکہ جب ان میں سے کسی کو اُس (کے گھر میں بیٹی کی پیدائش) کی خبر دی جاتی ہے جسے انہوں نے (خدائے) رحمان کی شبیہ بنا رکھا ہے تو اس کا چہرہ سیاہ ہو جاتا ہے اور غم و غصّہ سے بھر جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حالانکہ ان میں سے کسی کو جب اس (بیٹی) کی (ولادت) خوشخبری دی جاتی ہے جو اس نے خدائے رحمن کی طرف منسوب کر رکھی ہے تو اس کا چہرہ سیاہ پڑجاتا ہے، اور وہ دل ہی دل میں گھٹتا رہتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

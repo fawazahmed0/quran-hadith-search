@@ -3224,6 +3224,12 @@ main aise logo ko apne ehkaam se bargashta hee rakhonga jo dunya mein takabbur k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں اپنی نشانیوں سے ان لوگوں کو برگشتہ رکھوں گا جو زمین میں ناحق تکبر کرتے ہیں، اور وہ اگر ہر طرح کی نشانیاں دیکھ لیں تو ان پر ایمان نہیں لائیں گے۔ اور اگر انہیں ہدایت کا سیدھا راستہ نظر آئے تو اس کو اپنا طریقہ نہیں بنائیں گے، اور اگر گمراہی کا راستہ نظر آجائے تو اس کو اپنا طریقہ بنالیں گے۔ یہ سب کچھ اس لیے ہے کہ انہوں نے ہماری نشانیوں کو جھٹلایا، اور ان سے بالکل بےپرواہ ہوگئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

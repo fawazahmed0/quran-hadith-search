@@ -3224,6 +3224,12 @@ us ki nishaaniyo mein se khush qabriya dene waali hawaao ko chalaana bhi hai, is
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس کی نشانیوں میں سے یہ (بھی) ہے کہ وہ (بارش کی) خوشخبری سنانے والی ہواؤں کو بھیجتا ہے تاکہ تمہیں (بارش کے ثمرات کی صورت میں) اپنی رحمت سے بہرہ اندوز فرمائے اور تاکہ (ان ہواؤں کے ذریعے) جہاز (بھی) اس کے حکم سے چلیں۔ اور (یہ سب) اس لئے ہے کہ تم اس کا فضل (بصورتِ زراعت و تجارت) تلاش کرو اور شاید تم (یوں) شکرگزار ہو جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس (اللہ کی قدرت) کی ایک نشانی یہ ہے کہ وہ ہوائیں بھیجتا ہے جو (بارش کی) خوشخبری لے کر آتی ہیں، اور اس لیے بھیجتا ہے تاکہ تمہیں اپنی رحمت کا کچھ مزہ چکھائے اور تاکہ کشتیاں اس کے حکم سے پانی میں چلیں، اور تم اس کا فضل تلاش کرو، اور شکر ادا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

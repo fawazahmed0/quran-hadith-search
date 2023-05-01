@@ -3224,6 +3224,12 @@ aur tum un se us hadh tak lado ke un mein fasaade aqida13 na rahe, aur deen Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے اہلِ حق!) تم ان (ظلم و طاغوت کے سرغنوں) کے ساتھ (قیام امن کے لئے) جنگ کرتے رہو یہاں تک کہ کوئی فتنہ (باقی) نہ رہ جائے اور سب دین (یعنی نظامِ بندگی و زندگی) اللہ ہی کا ہو جائے، پھر اگر وہ باز آجائیں تو بیشک اللہ اس (عمل) کو جو وہ انجام دے رہے ہیں، خوب دیکھ رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (مسلمانو) ان کافروں سے لڑتے رہو، یہاں تک کہ فتنہ باقی نہ رہے، اور دین پورے کا پورا اللہ کا ہوجائے۔ پھر اگر یہ باز آجائیں تو ان کے اعمال کو اللہ خوب دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

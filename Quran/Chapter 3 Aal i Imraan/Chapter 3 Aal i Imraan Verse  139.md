@@ -3224,6 +3224,12 @@ tum na susti karo aur na ghamgeen ho, tum hee ghaalib rahoge, agar tum imaandaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم ہمت نہ ہارو اور نہ غم کرو اور تم ہی غالب آؤ گے اگر تم (کامل) ایمان رکھتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) تم نہ تو کمزور پڑو، اور نہ غمگین رہو، اگر تم واقعی مومن رہو تو تم ہی سربلند ہوگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

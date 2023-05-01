@@ -3224,6 +3224,12 @@ us ne kaha aye mere sardaaro! tum mere is maamle mein mujhe mashwera do, main ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ملکہ نے) کہا: اے دربار والو! تم مجھے میرے (اس) معاملہ میں مشورہ دو، میں کسی کام کا قطعی فیصلہ کرنے والی نہیں ہوں یہاں تک کہ تم میرے پاس حاضر ہو کر (اس اَمر کے موافق یا مخالف) گواہی دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ملکہ نے کہا : قوم کے سردارو ! جو مسئلہ میرے سامنے آیا ہے اس میں مجھے فیصلہ کن مشورہ دو۔ میں کسی مسئلے کا حتمی فیصلہ اس وقت تک نہیں کرتی جب تک تم میرے پاس موجود نہ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

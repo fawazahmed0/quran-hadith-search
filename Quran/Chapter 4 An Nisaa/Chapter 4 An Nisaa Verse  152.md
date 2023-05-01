@@ -3224,6 +3224,12 @@ aur jo log Allah par aur us ke tamaam paighambaro par imaan laate hai aur un mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اللہ اور اس کے (سب) رسولوں پر ایمان لائے اور ان (پیغمبروں) میں سے کسی کے درمیان (ایمان لانے میں) فرق نہ کیا تو عنقریب وہ انہیں ان کے اجر عطا فرمائے گا، اور اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اللہ پر اور اس کے رسولوں پر ایمان لائیں، اور ان میں سے کسی کے درمیان فرق نہ کریں تو اللہ ایسے لوگوں کو ان کا اجر عطا کرے گا، اور اللہ بہت معاف کرنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

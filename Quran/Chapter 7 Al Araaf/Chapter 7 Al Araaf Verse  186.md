@@ -3224,6 +3224,12 @@ jis ko Allah ta’ala gumraah kar de us ko koyi raah par nahi la sakta aur Allah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس کو اللہ گمراہ کردے اس کو کوئی ہدایت نہیں سے سکتا، اور ایسے لوگوں کو اللہ (بےیارومددگار) چھوڑ دیتا ہے کہ وہ اپنی سرکشی میں بھٹکتے پھریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur din raath aur suraj chaandh bhi (osi ki) nishaaniyo mein se hai, tum suraj k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور رات اور دن اور سورج اور چاند اُس کی نشانیوں میں سے ہیں، نہ سورج کو سجدہ کیا کرو اور نہ ہی چاند کو، اور سجدہ صرف اللہ کے لئے کیا کرو جس نے اِن (سب) کو پیدا فرمایا ہے اگر تم اسی کی بندگی کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی کی نشانیوں میں سے ہیں یہ رات اور دن اور سورج اور چاند۔ نہ سورج کو سجدہ کرو نہ چاند کو اور سجدہ اس اللہ کو کرو جس نے انہیں پیدا کیا ہے۔ اگر واقعی تمہیں اسی کی عبادت کرتے ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

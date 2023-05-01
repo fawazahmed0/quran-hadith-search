@@ -3224,6 +3224,12 @@ aur hum kisi na kisi tarah tumhaari azmaayesh zaroor karenge, dushman ke darr se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم ضرور بالضرور تمہیں آزمائیں گے کچھ خوف اور بھوک سے اور کچھ مالوں اور جانوں اور پھلوں کے نقصان سے، اور (اے حبیب!) آپ (ان) صبر کرنے والوں کو خوشخبری سنا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور دیکھو ہم تمہیں آزمائیں گے ضرور، (کبھی) خوف سے اور (کبھی) بھوک سے (کبھی) مال و جان اور پھلوں میں کمی کر کے اور جو لوگ (ایسے حالات میں) صبر سے کام لیں ان کو خوشخبری سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

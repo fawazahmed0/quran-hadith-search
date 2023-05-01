@@ -3224,6 +3224,12 @@ ye is liye ke ahle kitaab jaan le ke Allah ke fazl ke kisi hisse par bhi unhe eq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ بیان اِس لئے ہے) کہ اہلِ کتاب جان لیں کہ وہ اللہ کے فضل پر کچھ قدرت نہیں رکھتے اور (یہ) کہ سارا فضل اللہ ہی کے دستِ قدرت میں ہے وہ جِسے چاہتا ہے عطا فرماتا ہے، اور اللہ فضل والا عظمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ اہل کتاب کو معلوم ہوجائے کہ اللہ کے فضل میں سے کسی چیز پر انہیں کوئی اختیار نہیں ہے، اور یہ کہ فضل تمام تر اللہ کے ہاتھ میں ہے جو وہ جس کو چاہتا ہے عطا فرماتا ہے، اور اللہ فضل عظیم کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ qabees aurte qabees mardo ke laayeq hai aur qabees mard qabees aurto ke laayeq h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ناپاک عورتیں ناپاک مردوں کے لئے (مخصوص) ہیں اور پلید مرد پلید عورتوں کے لئے ہیں، اور (اسی طرح) پاک و طیب عورتیں پاکیزہ مردوں کے لئے (مخصوص) ہیں اور پاک و طیب مرد پاکیزہ عورتوں کے لئے ہیں (سو تم رسول اللہ صلی اللہ علیہ وآلہ وسلم کی پاکیزگی و طہارت کو دیکھ کر خود سوچ لیتے کہ اللہ نے ان کے لئے زوجہ بھی کس قدر پاکیزہ و طیب بنائی ہوگی)، یہ (پاکیزہ لوگ) ان (تہمتوں) سے کلیتًا بری ہیں جو یہ (بدزبان) لوگ کہہ رہے ہیں، ان کے لئے (تو) بخشائش اور عزت و بزرگی والی عطا (مقدر ہو چکی) ہے (تم ان کی شان میں زبان درازی کر کے کیوں اپنا منہ کالا اور اپنی آخرت تباہ و برباد کرتے ہو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 گندی عورتیں گندے مردوں کے لائق ہیں، اور گندے مرد گندی عورتوں کے لائق۔ اور پاکباز عورتیں پاکباز مردوں کے لائق ہیں، اور پاکباز مرد پاکباز عورتوں کے لائق ۔ یہ (پاکباز مرد اور عورتیں) ان باتوں سے بالکل مبرا ہیں جو یہ لوگ بنا رہے ہیں۔ ان (پاکبازوں) کے حصے میں تو مغفرت ہے اور باعزت رزق۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

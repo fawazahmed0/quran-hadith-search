@@ -3224,6 +3224,12 @@ so jab unhone dala to moosa(alaihissalaam)ne farmaya ke ye jo kuch tum lae ho ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب انہوں نے (اپنی رسیاں اور لاٹھیاں) ڈال دیں تو موسٰی (علیہ السلام) نے کہا: جو کچھ تم لائے ہو (یہ) جادو ہے، بیشک اللہ ابھی اسے باطل کر دے گا، یقیناً اللہ مفسدوں کے کام کو درست نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب انہوں نے (اپنی لاٹھیوں اور رسیوں کو) پھینکا (اور وہ سانپ بن کر چلتی ہوئی نظر آئیں) تو موسیٰ نے کہا کہ : یہ جو کچھ تم نے دکھایا ہے جادو ہے۔ اللہ ابھی اس کو مل یا میٹ کیے دیتا ہے۔ اللہ فسادیوں کا کام بننے نہیں دیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

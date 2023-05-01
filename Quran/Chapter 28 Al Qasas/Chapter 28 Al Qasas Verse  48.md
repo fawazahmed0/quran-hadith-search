@@ -3224,6 +3224,12 @@ phir jab un ke paas hamaari taraf se haq aa pahoncha to kehte hai ke, ye wo kyo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ان کے پاس ہمارے حضور سے حق آپہنچا (تو) وہ کہنے لگے کہ اس (رسول) کو ان (نشانیوں) جیسی (نشانیاں) کیوں نہیں دی گئیں جو موسٰی (علیہ السلام) کو دی گئیں تھیں؟ کیا انہوں نے ان (نشانیوں) کا انکار نہیں کیا تھا جو اس سے پہلے موسٰی (علیہ السلام) کو دی گئی تھیں؟ وہ کہنے لگے کہ دونوں (قرآن اور تورات) جادو ہیں (جو) ایک دوسرے کی تائید و موافقت کرتے ہیں، اور انہوں نے کہا کہ ہم (ان) سب کے منکر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب ان کے پاس ہماری طرف سے حق آگیا تو کہنے لگے کہ : اس پیغمبر کو اس جیسی چیز کیوں نہیں دی گئی جیسی موسیٰ (علیہ السلام) کو دی گئی تھی ؟ حالانکہ جو چیز موسیٰ کو دی گئی تھی کیا انہوں نے پہلے ہی اس کا انکار نہیں کردیا تھا ؟ انہوں نے کہا تھا کہ : یہ دونوں جادو ہیں جو ایک دوسرے کی تائید کرتے ہیں، اور ہم ان میں سے ہر ایک کے منکر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

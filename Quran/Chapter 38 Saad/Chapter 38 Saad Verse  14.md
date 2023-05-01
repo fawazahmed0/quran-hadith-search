@@ -3224,6 +3224,12 @@ un mein se ek bhi aisa na tha, jis ne rasulo ki takzeeb na ki ho, pas meri saza 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اِن میں سے) ہر ایک گروہ نے رسولوں کو جھٹلایا تو (اُن پر) میرا عذاب واجب ہو گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان میں سے کوئی ایسا نہیں تھا جس نے پیغمبروں کو نہ جھٹلایا ہو، اس لیے میرا عذاب بجا طور پر نازل ہو کر رہا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

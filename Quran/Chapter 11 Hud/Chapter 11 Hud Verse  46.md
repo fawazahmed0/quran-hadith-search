@@ -3224,6 +3224,12 @@ Allah tala ne farmaya aye noah yaqinan wo tere gharane se nahi hai, us ke kaam b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ارشاد ہوا: اے نوح! بیشک وہ تیرے گھر والوں میں شامل نہیں کیونکہ اس کے عمل اچھے نہ تھے، پس مجھ سے وہ سوال نہ کیا کرو جس کا تمہیں علم نہ ہو، میں تمہیں نصیحت کئے دیتا ہوں کہ کہیں تم نادانوں میں سے (نہ) ہو جانا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے فرمایا : اے نوح ! یقین جانو وہ تمہارے گھر والوں میں سے نہیں ہے، وہ تو ناپاک عمل کا پلندہ ہے۔ لہذا مجھ سے ایسی چیز نہ مانگو جس کی تمہیں خبر نہیں، میں تمہیں نصیحت کرتا ہوں کہ تم نادانوں میں شامل نہ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

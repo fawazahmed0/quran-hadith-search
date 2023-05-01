@@ -3224,6 +3224,12 @@ magar jab hazrath Isa(alaihissalaam) ne un ka kufr mehsoos kar liya, to kehne la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب عیسٰی (علیہ السلام) نے ان کا کفر محسوس کیا تو اس نے کہا: اللہ کی طرف کون لوگ میرے مددگار ہیں؟ تو اس کے مخلص ساتھیوں نے عرض کیا: ہم اللہ (کے دین) کے مددگار ہیں، ہم اللہ پر ایمان لائے ہیں، اور آپ گواہ رہیں کہ ہم یقیناً مسلمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب عیسیٰ نے محسوس کیا کہ وہ کفر پر آمادہ ہیں، تو انہوں نے (اپنے پیرؤوں سے) کہا : کون کون لوگ ہیں جو اللہ کی راہ میں میرے مددگار ہوں ؟ حواریوں نے کہا : ہم اللہ (کے دین) کے مددگار ہیں، ہم اللہ پر ایمان لاچکے ہیں، اور آپ گواہ رہیے کہ ہم فرمانبردار ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

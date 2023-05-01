@@ -3224,6 +3224,12 @@ hum ne baitullah ko logo ke liye sawaab aur aman wa amaan ki jagah banaaya, tum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کرو) جب ہم نے اس گھر (خانہ کعبہ) کو لوگوں کے لئے رجوع (اور اجتماع) کا مرکز اور جائے امان بنا دیا، اور (حکم دیا کہ) ابراہیم (علیہ السلام) کے کھڑے ہونے کی جگہ کو مقامِ نماز بنا لو، اور ہم نے ابراہیم اور اسماعیل (علیھما السلام) کو تاکید فرمائی کہ میرے گھر کو طواف کرنے والوں اور اعتکاف کرنے والوں اور رکوع و سجود کرنے والوں کے لئے پاک (صاف) کر دو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب ہم نے بیت اللہ کو لوگوں کے لیے ایسی جگہ بنایا جس کی طرف وہ لوٹ لوٹ کر جائیں اور جو سراپا امن ہو۔ اور تم مقام ابراہیم کو نماز پڑھنے کی جگہ بنا لو۔ اور ہم نے ابراہیم اور اسماعیل کو یہ تاکید کی کہ : تم دونوں میرے گھر کو ان لوگوں کے لیے پاک کرو جو (یہاں) طواف کریں اور اعتکاف میں بیٹھیں اور رکوع اور سجدہ بجا لائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

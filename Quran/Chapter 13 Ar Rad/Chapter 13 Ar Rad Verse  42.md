@@ -3224,6 +3224,12 @@ un se pehle logo ne bhi apni makkari mein kami na ki thi, lekin tamaam tadbire A
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ان لوگوں نے بھی مکر و فریب کیا تھا جو ان سے پہلے ہو گزرے ہیں سو ان سب تدبیروں کو توڑنا (بھی) اللہ کے اختیار میں ہے۔ وہ خوب جانتا ہے جو کچھ ہر شخص کما رہا ہے، اور کفّار جلد ہی جان لیں گے کہ آخرت کا گھر کس کے لئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ان سے پہلے گزرے ہیں، چالیں انہوں نے بھی چلی تھیں، لیکن چال تو تمام تر اللہ ہی کی چلتی ہے۔ کوئی بھی شخص جو کچھ کرتا ہے، سب اسے معلوم ہے، اور کافروں کو عنقریب پتہ لگ جائے گا کہا صلی وطن کا نیک انجام کس کے حصے میں آتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

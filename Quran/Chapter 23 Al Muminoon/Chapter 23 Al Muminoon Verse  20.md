@@ -3224,6 +3224,12 @@ aur wo daraqth jo toor seena pahaad se nikalta hai, jo tel nikaalta hai aur khaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ درخت (زیتون بھی ہم نے پیدا کیا ہے) جو طورِ سینا سے نکلتا ہے (اور) تیل اور کھانے والوں کے لئے سالن لے کر اگتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ درخت بھی پیدا کیا جو طور سینا سے نکلتا ہے جو اپنے ساتھ تیل لے کر اور کھانے والوں کے لیے سالن لے کر اگتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

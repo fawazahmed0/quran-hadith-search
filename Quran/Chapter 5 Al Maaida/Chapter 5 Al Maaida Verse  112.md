@@ -3224,6 +3224,12 @@ wo waqt yaad ke qaabil hai jab ke hawaariyo ne arz kiya ke aye Isa bin Maryam! k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ بھی یاد کرو) جب حواریوں نے کہا: اے عیسٰی ابن مریم! کیا تمہارا رب ایسا کر سکتا ہے کہ ہم پر آسمان سے (کھانے کا) خوان اتار دے، (تو) عیسٰی (علیہ السلام) نے (جواباً) کہا: (لوگو!) اللہ سے ڈرو اگر تم صاحبِ ایمان ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور ان کے اس واقعے کا بھی ذکر سنو) جب حواریوں نے کہا تھا کہ : اے عیسیٰ ابن مریم ! کیا آپ کا پروردگار ایسا کرسکتا ہے کہ ہم پر آسمان سے (کھانے کا) ایک دستر خوان اتارے ؟ عیسیٰ نے کہا : اللہ سے ڈرو اگر تم مومن ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

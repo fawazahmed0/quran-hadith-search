@@ -3224,6 +3224,12 @@ keh di jiye ke main Qur’aan ke pahonchaane par tum se koyi badhla nahi chahta,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیجئے کہ میں تم سے اس (تبلیغ) پر کچھ بھی معاوضہ نہیں مانگتا مگر جو شخص اپنے رب تک (پہنچنے کا) راستہ اختیار کرنا چاہتا ہے (کرلے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : میں اس کام پر تم سے کوئی اجرت نہیں مانگتا ہاں جو شخص یہ چاہے کہ اپنے رب تک پہنچنے کا راستہ اختیار کرلے (تو یہی میری اجرت ہے)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

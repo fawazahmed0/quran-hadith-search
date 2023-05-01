@@ -3224,6 +3224,12 @@ wo darmiyaan mein hee mu-allaq dag maga rahe hai, na pure un ki taraf na sahi ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس (کفر اور ایمان) کے درمیان تذبذب میں ہیں نہ ان (کافروں) کی طرف ہیں اور نہ ان (مؤمنوں) کی طرف ہیں، اورجسے اللہ گمراہ ٹھہرا دے تو آپ ہرگز اس کے لئے کوئی (ہدایت کی) راہ نہ پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ کفر و ایمان کے درمیان ڈانواڈول ہیں، نہ پورے طور پر ان (مسلمانوں) کی طرف ہیں، نہ ان (کافروں) کی طرف۔ اور جسے اللہ گمراہی میں ڈال دے، تمہیں اس کے لیے ہدایت پر آنے کا کوئی راستہ ہرگز نہیں مل سکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Rubb ne farmaya “Aey Iblis, tujhey kya cheez usko sajda karne se maanay hui ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اللہ نے) ارشاد فرمایا: اے ابلیس! تجھے کس نے اس (ہستی) کو سجدہ کرنے سے روکا ہے جسے میں نے خود اپنے دستِ (کرم) سے بنایا ہے، کیا تو نے (اس سے) تکبّر کیا یا تو (بزعمِ خویش) بلند رتبہ (بنا ہوا) تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کہا : ابلیس ! جس کو میں نے اپنے ہاتھوں سے پیدا کیا، اس کو سجدہ کرنے سے تجھے کس چیز نے روکا ہے ؟ کیا تو نے تکبر سے کام لیا ہے، یا تو کوئی بہت اونچی ہستیوں میں سے ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

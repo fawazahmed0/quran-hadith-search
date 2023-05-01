@@ -3224,6 +3224,12 @@ aur jab hum ne tum se waada liya ke aapas mein qoon na bahaana(qatal na karna)au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم نے تم سے (یہ) پختہ عہد (بھی) لیا کہ تم (آپس میں) ایک دوسرے کا خون نہیں بہاؤ گے اور نہ اپنے لوگوں کو (اپنے گھروں اور بستیوں سے نکال کر) جلاوطن کرو گے پھر تم نے (اس امر کا) اقرار کر لیا اور تم (اس کی) گواہی (بھی) دیتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یاد کرو) جب ہم نے تم سے پکا عہد لیا تھا کہ : تم ایک دوسرے کا خون نہیں بہاؤ گے اور اپنے آدمیوں کو اپنے گھروں سے نہیں نکالو گے، پھر تم نے اقرار کیا تھا اور تم خود اس کے گواہ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

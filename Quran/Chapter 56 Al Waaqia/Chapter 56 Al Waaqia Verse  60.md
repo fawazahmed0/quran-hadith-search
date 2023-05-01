@@ -3224,6 +3224,12 @@ hum hee ne tum mein mauth ko mutayyan kar diya hai aur hum us se haare hoye nahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم ہی نے تمہارے درمیان موت کو مقرّر فرمایا ہے اور ہم (اِس کے بعد پھر زندہ کرنے سے بھی) عاجز نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے ہی تمہارے درمیان موت کے فیصلے کر رکھے ہیں اور کوئی نہیں ہے جو ہمیں اس بات سے عاجز کرسکے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

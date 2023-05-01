@@ -3224,6 +3224,12 @@ unhone kaha koyi haraj nahi, hum to apne rab ki taraf lautne wale hai hee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: (اس میں) کوئی نقصان نہیں، بیشک ہم اپنے رب کی طرف پلٹنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جادوگروں نے کہا : ہمارا کچھ نہیں بگڑے گا، ہمیں یقین ہے کہ ہم لوٹ کر اپنے پروردگار کے پاس چلے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

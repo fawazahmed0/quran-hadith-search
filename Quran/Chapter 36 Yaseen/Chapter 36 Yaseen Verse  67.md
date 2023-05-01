@@ -3224,6 +3224,12 @@ aur agar hum chaahte to un ki jageh hee par un ki surte masq1 kar dete, phir na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم چاہتے تو اُن کی رہائش گاہوں پر ہی ہم ان کی صورتیں بگاڑ دیتے پھر نہ وہ آگے جانے کی قدرت رکھتے اور نہ ہی واپس لوٹ سکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم چاہیں تو ان کی اپنی جگہ پر بیٹھے بیٹھے ان کی صورتیں اس طرح مسخ کردیں کہ یہ نہ آگے بڑھ سکیں، اور نہ پیچھے لوٹ سکیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

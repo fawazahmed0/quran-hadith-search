@@ -3224,6 +3224,12 @@ aur (un ke liye) jo un ke baadh aaye, jo kahenge ke aye hamaare parvardigaar ham
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ لوگ (بھی) جو اُن (مہاجرین و انصار) کے بعد آئے (اور) عرض کرتے ہیں: اے ہمارے رب! ہمیں بخش دے اور ہمارے ان بھائیوں کو بھی، جو ایمان لانے میں ہم سے آگے بڑھ گئے اور ہمارے دلوں میں ایمان والوں کے لئے کوئی کینہ اور بغض باقی نہ رکھ۔ اے ہمارے رب! بیشک تو بہت شفقت فرمانے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یہ مال فیئ) ان لوگوں کا بھی حق ہے جو ان (مہاجرین اور انصار) کے بعد آئے۔ وہ یہ کہتے ہیں کہ : اے ہمارے پروردگار ! ہماری بھی مغفرت فرمایئے، اور ہمارے ان بھائیوں کی بھی جو ہم سے پہلے ایمان لاچکے ہیں، اور ہمارے دلوں میں ایمان لانے والوں کے لیے کوئی بغض نہ رکھیے۔ اے ہمارے پروردگار ! آپ بہت شفیق، بہت مہربان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

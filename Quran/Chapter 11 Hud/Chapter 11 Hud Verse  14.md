@@ -3224,6 +3224,12 @@ phir agar wo tumhari is baat ko qubol na kare to tum yaqin se jaan lo ke ye Qur�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مسلمانو!) سو اگر وہ تمہاری بات قبول نہ کریں تو یقین رکھو کہ قرآن فقط اللہ کے علم سے اتارا گیا ہے اور یہ کہ اس کے سوا کوئی معبود نہیں، پس کیا (اب) تم اسلام پر (ثابت قدم) رہو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے بعد اگر یہ تمہاری بات قبول نہ کریں تو (اے لوگو) یقین کرلو کہ یہ وحی صرف اللہ کے علم سے اتری ہے، اور یہ کہ اللہ کے سوا کوئی عبادت کے لائق نہیں ہے۔ تو کیا اب تم فرمانبردار بنو گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jab tumhaari do jamaate pasth himmati ka iraada kar chuki thi, Allah ta’ala un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب تم میں سے (بنو سلمہ خزرج اور بنوحارثہ اوس) دو گروہوں کا ارادہ ہوا کہ بزدلی کر جائیں، حالانکہ اللہ ان دونوں کا مدد گار تھا، اور ایمان والوں کو اللہ ہی پر بھروسہ کرنا چاہئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب تمہی میں کے دو گروہوں نے یہ سوچا تھا کہ وہ ہمت ہار بیٹھیں، حالانکہ اللہ ان کا حامی و ناصر تھا، اور مومنوں کو اللہ ہی پر بھروسہ رکھنا چاہیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

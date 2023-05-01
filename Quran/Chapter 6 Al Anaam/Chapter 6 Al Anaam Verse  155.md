@@ -3224,6 +3224,12 @@ aur ye ek kitaab hai jis ko hum ne bheja badi qair wa barkath waali, so us ka it
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (قرآن) برکت والی کتاب ہے جسے ہم نے نازل فرمایا ہے سو (اب) تم اس کی پیروی کیا کرو اور (اللہ سے) ڈرتے رہو تاکہ تم پر رحم کیا جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اسی طرح) یہ برکت والی کتاب ہے جو ہم نے نازل کی ہے۔ لہذا اس کی پیروی کرو، اور تقوی اختیار کرو، تاکہ تم پر رحمت ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

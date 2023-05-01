@@ -3224,6 +3224,12 @@ jab ke (dushman) tumhaare paas upar se aur niche se chad aaye aur jab ke aankhe 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب وہ (کافر) تمہارے اوپر (وادی کی بالائی مشرقی جانب) سے اور تمہارے نیچے (وادی کی زیریں مغربی جانب) سے چڑھ آئے تھے اور جب (ہیبت سے تمہاری) آنکھیں پھر گئی تھیں اور (دہشت سے تمہارے) دل حلقوم تک آپہنچے تھے اور تم (خوف و امید کی کیفیت میں) اللہ کی نسبت مختلف گمان کرنے لگے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد کرو جب وہ تم پر تمہارے اوپر سے بھی چڑھ آئے تھے اور تمہارے نیچے سے بھی اور جب آنکھیں پتھرا گئی تھیں، اور کلیجے منہ کو آگئے تھے، اور تم اللہ کے بارے میں طرح طرح کی باتیں سوچنے لگے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

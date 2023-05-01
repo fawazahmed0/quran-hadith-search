@@ -3224,6 +3224,12 @@ keh dijiye, ke har ek anjaam ka muntazir hai, pas tum bhi intezaar mein raho, ab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: ہر کوئی منتظر ہے، سو تم انتظار کرتے رہو، پس تم جلد ہی جان لوگے کہ کون لوگ راہِ راست والے ہیں اور کون ہدایت یافتہ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ان سے) کہہ دو کہ : (ہم) سب انتظار کر رہے ہیں، لہذا تم بھی انتظار کرو، کیونکہ عنقریب تمہیں پتہ چل جائے گا کہ سیدھے راستے والے لوگ کون ہیں، اور کون ہیں جو ہدایت پاگئے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

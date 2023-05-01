@@ -3224,6 +3224,12 @@ qabar daar! tum wo log ho, ke Allah ki raah mein qarch karne ke liye bulaaye jaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یاد رکھو! تم وہ لوگ ہو جنہیں اللہ کی راہ میں خرچ کرنے کے لئے بلایا جاتا ہے تو تم میں سے بعض ایسے بھی ہیں جو بُخل کرتے ہیں، اور جو کوئی بھی بُخل کرتا ہے وہ محض اپنی جان ہی سے بخل کرتا ہے، اور اللہ بے نیاز ہے اور تم (سب) محتاج ہو، اور اگر تم (حکمِ الٰہی سے) رُوگردانی کرو گے تو وہ تمہاری جگہ بدل کر دوسری قوم کو لے آئے گا پھر وہ تمہارے جیسے نہ ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دیکھو ! تم ایسے ہو کہ تمہیں اللہ کے راستے میں خرچ کرنے کے لیے بلایا جاتا ہے تو تم میں سے کچھ لوگ ہیں جو بخل سے کام لیتے ہیں، اور جو شخص بھی بخل کرتا ہے وہ خود اپنے آپ ہی سے بخل کرتا ہے۔ اور اللہ بےنیاز ہے، اور تم ہو جو محتاج ہو۔ اور اگر تم منہ موڑو گے تو وہ تمہاری جگہ دوسری قوم پیدا کردے گا، پھر وہ تم جیسے نہیں ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

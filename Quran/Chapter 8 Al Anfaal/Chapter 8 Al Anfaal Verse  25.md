@@ -3224,6 +3224,12 @@ aur tum aise wabal se bacho! ke jo qaas-kar sirf unhi logo par waqe na hoga jo t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس فتنہ سے ڈرو جو خاص طور پر صرف ان لوگوں ہی کو نہیں پہنچے گا جو تم میں سے ظالم ہیں (بلکہ اس ظلم کا ساتھ دینے والے اور اس پر خاموش رہنے والے بھی انہی میں شریک کر لئے جائیں گے)، اور جان لو کہ اللہ عذاب میں سختی فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ڈرو اس وبال سے جو تم میں سے صرف ان لوگوں پر نہیں پڑے گا جنہوں نے ظلم کیا ہوگا اور جان رکھو کہ اللہ کا عذاب بڑا سخت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

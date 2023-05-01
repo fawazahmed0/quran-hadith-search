@@ -3224,6 +3224,12 @@ aur hum ne madyan walo ki taraf un ke bhai shoib ko bheja, us ne kaha aye meri q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ہم نے اہلِ) مدین کی طرف ان کے بھائی شعیب (علیہ السلام کو بھیجا)، انہوں نے کہا: اے میری قوم! اللہ کی عبادت کرو تمہارے لئے اس کے سوا کوئی معبود نہیں ہے، اور ناپ اور تول میں کمی مت کیا کرو بیشک میں تمہیں آسودہ حال دیکھتا ہوں اور میں تم پر ایسے دن کے عذاب کا خوف (محسوس) کرتا ہوں جو (تمہیں) گھیر لینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مدین کی طرف ہم نے ان کے بھائی شعیب کو پیغمبر بنا کر بھیجا انہوں نے (ان سے) کہا کہ : اے میری قوم ! اللہ کی عبادت کرو، اس کے سوا تمہارا کوئی معبود نہیں ہے۔ اور ناپ تول میں کمی مت کیا کرو۔ میں دیکھ رہا ہوں کہ تم لوگ خوشحال ہو۔ اور مجھے تم پر ایک ایسے دن کے عذاب کا خوف ہے جو تمہیں چاروں طرف سے گھیر لے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

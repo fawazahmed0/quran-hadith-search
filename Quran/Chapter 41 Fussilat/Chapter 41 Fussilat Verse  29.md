@@ -3224,6 +3224,12 @@ aur kaafir log kahenge aye hamaare rab! hamein jino insaano ( ke wo duno fareeq)
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے کفر کیا ہے کہیں گے: اے ہمارے رب! ہمیں جنّات اور انسانوں میں سے وہ دونوں دِکھا دے جنہوں نے ہمیں گمراہ کیا ہے ہم انہیں اپنے قدموں کے نیچے (روند) ڈالیں تاکہ وہ سب سے زیادہ ذِلّت والوں میں ہو جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کافر لوگ کہیں گے کہ : اے ہمارے پروردگار ! ہمیں ان جنات اور انسانوں دونوں کی صورت دکھائیے جنہوں نے ہمیں گمراہ کیا تھا، تاکہ ہم انہیں اپنے پاؤں تلے ایسا روندیں کہ وہ خوب ذلیل ہوں ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

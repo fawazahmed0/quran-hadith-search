@@ -3224,6 +3224,12 @@ unhone arz kiya ke hum ne Allah hee par tawakkal kiya,ae hamare parvardigar! hum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو انہوں نے عرض کیا: ہم نے اللہ ہی پر توکل کیا ہے، اے ہمارے رب! تو ہمیں ظالم لوگوں کے لئے نشانہء ستم نہ بنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر انہوں نے کہا : اللہ ہی پر ہم نے بھروسہ کرلیا ہے، اے ہمارے پروردگار ہمیں ان ظالم لوگوں کے ہاتھوں آزمائش میں نہ ڈالیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

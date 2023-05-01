@@ -3224,6 +3224,12 @@ aur us ki nishaaniyo mein se ek ye (bhi) hai ke wo tumhe daraane aur ummid waar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس کی نشانیوں میں سے یہ (بھی) ہے کہ وہ تمہیں ڈرانے اور امید دلانے کے لئے بجلی دکھاتا ہے اور آسمان سے (بارش کا) پانی اتارتا ہے پھر اس سے زمین کو اس کی مُردنی کے بعد زندہ و شاداب کر دیتا ہے، بیشک اس میں ان لوگوں کے لئے نشانیاں ہیں جو عقل سے کام لیتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس کی ایک نشانی یہ ہے کہ وہ تمہیں بجلی کی چمک دکھاتا ہے جس سے ڈر بھی لگتا ہے اور امید بھی ہوتی ہے۔ اور آسمان سے پانی برساتا ہے، جس کے ذریعے وہ زمین کو اس کے مردہ ہوجانے کے بعد زندگی بخشتا ہے، یقینا اس میں ان لوگوں کے لیے بڑی نشانیاں ہیں جو عقل سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya tujhe malom nahi ke Allah tala hee ke liye zamin wa asman ki bad’shahath h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے انسان!) کیا تو نہیں جانتا کہ آسمانوں اور زمین کی (ساری) بادشاہت اللہ ہی کے لئے ہے، وہ جسے چاہتا ہے عذاب دیتا ہے اور جسے چاہتا ہے بخش دیتا ہے، اور اللہ ہر چیز پر خوب قدرت رکھتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نہیں جانتے کہ آسمانوں اور زمین کی حکمرانی صرف اللہ کے پاس موجود ہے ؟ وہ جس کو چاہے عذاب دے، اور جس کو چاہے بخش دے، اور اللہ ہر چیز پر پوری قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

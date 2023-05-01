@@ -3224,6 +3224,12 @@ aur jis din Allah ke dushman dozakh ki taraf laaye jayenge aur un (sab) ko jama 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس دن اللہ کے دشمنوں کو دوزخ کی طرف جمع کر کے لایا جائے گا پھر انہیں روک روک کر (اور ہانک کر) چلایا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس دن کا دھیان رکھو جب اللہ کے دشمنوں کو جمع کر کے آگ کی طرف لے جایا جائے گا، چنانچہ انہیں ٹولیوں میں بانٹ دیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

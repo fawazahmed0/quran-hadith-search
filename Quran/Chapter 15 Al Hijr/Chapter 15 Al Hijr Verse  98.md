@@ -3224,6 +3224,12 @@ aap apne parvardigaar ki tasbih aur hamd bayaan karte rahe aur sajda karne walo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ حمد کے ساتھ اپنے رب کی تسبیح کیا کریں اور سجود کرنے والوں میں (شامل) رہا کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو (اس کا علاج یہ ہے کہ) تم اپنے پروردگار کی حمد کے ساتھ اس کی تسبیح کرتے رہو، اور سجدہ بجا لانے والوں میں شامل رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

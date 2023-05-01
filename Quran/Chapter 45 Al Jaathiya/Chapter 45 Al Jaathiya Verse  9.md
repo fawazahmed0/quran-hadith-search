@@ -3224,6 +3224,12 @@ wo jab hamaari aayato mein se kisi aayath ki qabar pa leta hai to us ki hasi uda
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اسے ہماری (قرآنی) آیات میں سے کسی چیز کا (بھی) علم ہو جاتا ہے تو اسے مذاق بنا لیتا ہے، ایسے ہی لوگوں کے لئے ذلّت انگیز عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہماری آیتوں میں سے کوئی آیت ایسے شخص کے علم میں آتی ہے تو وہ اس کا مذاق بناتا ہے، ایسے لوگوں کو وہ عذاب ہوگا جو ذلیل کر کے رکھ دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

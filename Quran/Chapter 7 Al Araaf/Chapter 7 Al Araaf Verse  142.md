@@ -3224,6 +3224,12 @@ aur hum ne Mosa se tees raatho ka waada kiya aur das raath mazeedh se un tees ra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ سے تیس راتوں کا وعدہ ٹھہرایا (کہ ان راتوں میں کوہ طور پر آکر اعتکاف کریں) پھر دس راتیں مزید بڑھا کر ان کی تکمیل کی اور اس طرح ان کے رب کی ٹھہرائی ہوئی میعاد کل چالیس راتیں ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ : میرے پیچھے تم میری قوم میں میرے قائم مقام بن جانا، تمام معامات درست رکھنا اور مفسد لوگوں کے پیچھے نہ چلنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ya unhe jama kar deta hai, bete bhi aur betiya bhi aur jise chaahe baanjh kar de
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا انہیں بیٹے اور بیٹیاں (دونوں) جمع فرماتا ہے اور جسے چاہتا ہے بانجھ ہی بنا دیتا ہے، بیشک وہ خوب جاننے والا بڑی قدرت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا پھر ان کو ملا جلا کر لڑکے بھی دیتا اور لڑکیاں بھی اور جس کو چاہتا ہے بانجھ بنا دیتا ہے۔ یقینا وہ علم کا بھی مالک ہے قدرت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

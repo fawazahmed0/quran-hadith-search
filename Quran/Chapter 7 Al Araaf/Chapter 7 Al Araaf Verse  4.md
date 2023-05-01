@@ -3224,6 +3224,12 @@ aur bahuth bastiyo ko hum ne tabaah kar diya aur un par hamaara azaab raath ke w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کتنی ہی بستیاں ہیں جن کو ہم نے ہلاک کیا۔ چنانچہ ان کے پاس ہمارا عذاب راتوں رات آگیا، یا ایسے وقت آیا جب وہ دوپہر کو آرام کر رہے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

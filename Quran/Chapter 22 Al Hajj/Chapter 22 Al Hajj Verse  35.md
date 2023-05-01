@@ -3224,6 +3224,12 @@ unhe, ke jab Allah ka zikr kiya jaaye, unke dil tharra jaate hai, unhe jo buraay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) وہ لوگ ہیں کہ جب اللہ کا ذکر کیا جاتا ہے (تو) ان کے دل ڈرنے لگتے ہیں اور جو مصیبتیں انہیں پہنچتی ہیں ان پر صبر کرتے ہیں اور نماز قائم رکھنے والے ہیں اور جو کچھ ہم نے انہیں عطا فرمایا ہے اس میں سے خرچ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن کا حال یہ ہے کہ جب ان کے سامنے اللہ کا ذکر کیا جاتا ہے تو ان کے دلوں پر رعب طاری ہوجاتا ہے، اور جو اپنے اوپر پڑنے والی ہر مصیبت پر صبر کرنے والے ہیں، اور نماز قائم کرنے والے ہیں، اور جو رزق ہم نے انہیں دیا ہے، اس میں سے (اللہ کے راستے میں) خرچ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

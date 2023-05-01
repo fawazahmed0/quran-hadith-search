@@ -3224,6 +3224,12 @@ jin par baath aa chuki wo jawaab denge ke aye hamaare parvardigaar ye wahi hai j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ لوگ جن پر (عذاب کا) فرمان ثابت ہو چکا کہیں گے: اے ہمارے رب! یہی وہ لوگ ہیں جن کو ہم نے گمراہ کیا تھا ہم نے انہیں (اسی طرح) گمراہ کیا تھا جس طرح ہم (خود) گمراہ ہوئے تھے، ہم ان سے بیزاری ظاہر کرتے ہوئے تیری طرف متوجہ ہوتے ہیں اور وہ (درحقیقت) ہماری پرستش نہیں کرتے تھے (بلکہ اپنی نفسانی خواہشات کے پجاری تھے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن کے خلاف (اللہ کی) بات پوری ہوچکی ہوگی، وہ کہیں گے : اے ہمارے پروردگار ! یہ لوگ جن کو ہم نے گمراہ کیا تھا، ہم نے ان کو اسی طرح گمراہ کیا جیسے ہم خود گمراہ ہوئے، ہم آپ کے سامنے ان سے دست بردار ہوتے ہیں، یہ ہماری عبادت نہیں کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

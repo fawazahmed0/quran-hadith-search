@@ -3224,6 +3224,12 @@ aur un duno ke darmiyaan ek aad hogi aur araaf2 ke upar bahuth se aadmi honge, w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان دونوں گروہوں (یعنی جنتیوں اور دوزخیوں) کے درمیان ایک آڑ ہوگی اور اعراف پر (یعنی اس آڑ کی بلندیوں پر) کچھ لوگ ہوں گے جو ہر گروہ کے لوگوں کو ان کی علامتوں سے پہچانتے ہوں گے۔ اور وہ جنت والوں کو آواز دے کر کہیں گے کہ : سلام ہو تم پر۔ وہ (اعراف والے) خود تو اس میں داخل نہیں ہوئے ہوں گے، البتہ اشتیاق کے ساتھ امید لگائے ہوئے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

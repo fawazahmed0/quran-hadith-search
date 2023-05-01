@@ -3224,6 +3224,12 @@ bulandh darjo waala arsh ka maalik, wo apne bandho mein se jis par chaahta hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+درجات بلند کرنے والا، مالکِ عرش، اپنے بندوں میں سے جس پر چاہتا ہے روح (یعنی وحی) اپنے حکم سے القاء فرماتا ہے تاکہ وہ (لوگوں کو) اکٹھا ہونے والے دن سے ڈرائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اونچے درجوں والا، عرش کا مالک ہے۔ وہ اپنے بندوں سے جس پر چاہتا ہے اپنے حکم سے روح (یعنی وحی) نازل کردیتا ہے تاکہ ملاقات کے اس دن سے (لوگوں کو) خبردار کرے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur insaan ko jab kabhi koyi takleef pahonchti hai, to wo qoob rujo ho kar apne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب انسان کو کوئی تکلیف پہنچتی ہے تو وہ اپنے رب کو اسی کی طرف رجوع کرتے ہوئے پکارتا ہے، پھر جب (اللہ) اُسے اپنی جانب سے کوئی نعمت بخش دیتا ہے تو وہ اُس (تکلیف) کو بھول جاتا ہے جس کے لئے وہ پہلے دعا کیا کرتا تھا اور (پھر) اللہ کے لئے (بتوں کو) شریک ٹھہرانے لگتا ہے تاکہ (دوسرے لوگوں کو بھی) اس کی راہ سے بھٹکا دے، فرما دیجئے: (اے کافر!) تو اپنے کُفر کے ساتھ تھوڑا سا (ظاہری) فائدہ اٹھا لے، تو بے شک دوزخیوں میں سے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب انسان کو کوئی تکلیف چھو جاتی ہے تو وہ اپنے پروردگار کو اسی سے لو لگا کر پکارتا ہے، پھر جب وہ انسان کو اپنی طرف سے کوئی نعمت بخش دیتا ہے تو وہ اس (تکلیف) کو بھول جاتا ہے جس کے لیے پہلے اللہ کو پکار رہا تھا، اور اللہ کے لیے شریک گھڑ لیتا ہے، جس کے نتیجے میں دوسروں کو بھی اللہ کے راستے سے بھٹکاتا ہے۔ کہہ دو کہ : کچھ دن اپنے کفر کے مزے اڑالے، یقینا تو دوزخ والوں میں شامل ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

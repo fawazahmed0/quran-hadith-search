@@ -3224,6 +3224,12 @@ so jise us ka naame amaal us ke daaye haath mein diya jayega, to wo kehne lagega
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو وہ شخص جس کا نامۂ اَعمال اس کے دائیں ہاتھ میں دیا جائے گا تو وہ (خوشی سے) کہے گا: آؤ میرا نامۂ اَعمال پڑھ لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جس کسی کو اس کا اعمال نامہ اس کے دائیں ہاتھ میں دیا جائے گا۔ وہ کہے گا کہ : لوگو ! لو یہ میرا اعمال نامہ پڑھو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

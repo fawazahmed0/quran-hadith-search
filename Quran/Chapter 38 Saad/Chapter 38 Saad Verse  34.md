@@ -3224,6 +3224,12 @@ aur hum ne Sulaimaan(alaihissalaam) ki azmaayesh ki aur un ke taqth par ek jism 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بے شک ہم نے سلیمان (علیہ السلام) کی (بھی) آزمائش کی اور ہم نے اُن کے تخت پر ایک (عجیب الخلقت) جسم ڈال دیا پھر انہوں نے اللہ کی طرف رجوع کیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ بھی واقعہ ہے کہ ہم نے سلیمان کی ایک آزمائش کی تھی اور ان کی کرسی پر ایک دھڑ لا کر ڈال دیا تھا۔ پھر انہوں نے (اللہ سے) رجوع کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

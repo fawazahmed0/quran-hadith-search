@@ -3224,6 +3224,12 @@ aur hum ne bani israel ko darya se paar kar diya,phir un ke piche piche feron ap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم بنی اسرائیل کو دریا کے پار لے گئے پس فرعون اوراس کے لشکر نے سرکشی اور ظلم و تعدّی سے ان کا تعاقب کیا، یہاں تک کہ جب اسے (یعنی فرعون کو) ڈوبنے نے آلیا وہ کہنے لگا: میں اس پر ایمان لے آیا کہ کوئی معبود نہیں سوائے اس (معبود) کے جس پر بنی اسرائیل ایمان لائے ہیں اور میں (اب) مسلمانوں میں سے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے بنو اسرائیل کو سمندر پار کرادیا، تو فرعون اور اس کے لشکر نے بھی ظلم اور زیادتی کی نیت سے ان کا پیچھا کیا، یہاں تک کہ جب ڈوبنے کا انجام اس کے سر پر آپہنچا تو کہنے لگا : میں مان گیا کہ جس خدا پر بنو اسرائیل ایمان لائے ہیں اس کے سوا کوئی معبود نہیں، اور میں بھی فرمانبرداروں میں شامل ہوتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

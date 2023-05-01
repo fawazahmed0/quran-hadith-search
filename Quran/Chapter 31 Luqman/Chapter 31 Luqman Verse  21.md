@@ -3224,6 +3224,12 @@ aur jab un se kaha jaata hai ke Allah ki utaari hoyi wahi ki taabedaari karo, to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان سے کہا جاتا ہے کہ تم اس (کتاب) کی پیروی کرو جو اللہ نے نازل فرمائی ہے تو کہتے ہیں (نہیں) بلکہ ہم تو اس (طریقہ) کی پیروی کریں گے جس پر ہم نے اپنے باپ دادا کو پایا، اور اگرچہ شیطان انہیں عذابِ دوزخ کی طرف ہی بلاتا ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان سے کہا جاتا ہے کہ : اس چیز کی اتباع کرو جو اللہ نے اتاری ہے۔ تو وہ کہتے ہیں : نہیں، بلکہ ہم تو اس طریقے کے پیچھے چلیں گے جس پر ہم نے اپنے باپ داداوں کو پایا ہے۔ بھلا اگر شیطان ان (باپ دادوں) کو بھڑکتی آگ کے عذاب کی طرف بلاتا رہا ہو، کیا تب بھی (وہ انہی کے پیچھے چلیں گے ؟)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ki tasbeeh kar rahi hai har woh cheez jo aasmano mein hai aur har wo cheez
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ہر چیز) جو آسمانوں میں ہے اور جو زمین میں ہے اللہ کی تسبیح کرتی ہے (جو حقیقی) بادشاہ ہے، (ہر نقص و عیب سے) پاک ہے، عزت و غلبہ والا ہے بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین میں جو چیز بھی ہے وہ اللہ کی تسبیح کرتی ہے جو بادشاہ ہے بڑے تقدس کا مالک ہے جس کا اقتدار بھی کامل ہے جس کی حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

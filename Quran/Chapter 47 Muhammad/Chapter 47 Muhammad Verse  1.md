@@ -3224,6 +3224,12 @@ jin logo ne kufr kiya aur Allah ki raah se roka, Allah ne un ke amaal barbaadh k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جن لوگوں نے کفر کیا اور (دوسروں کو) اللہ کی راہ سے روکا (تو) اللہ نے ان کے اعمال (اخروی اجر کے لحاظ سے) برباد کر دیئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اختیار کرلیا ہے اور دوسروں کو اللہ کے راستے سے روکا ہے، اللہ نے ان کے اعمال اکارت کردیے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

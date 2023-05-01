@@ -3224,6 +3224,12 @@ jab tum ghanimate lene jaane lagoge, to jhat se ye piche chohde hoye log kehne l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب تم (خیبر کے) اَموالِ غنیمت کو حاصل کرنے کی طرف چلو گے تو (سفرِ حدیبیہ میں) پیچھے رہ جانے والے لوگ کہیں گے: ہمیں بھی اجازت دو کہ ہم تمہارے پیچھے ہو کر چلیں۔ وہ چاہتے ہیں کہ اللہ کے فرمان کو بدل دیں۔ فرما دیجئے: تم ہرگز ہمارے پیچھے نہیں آسکتے اسی طرح اللہ نے پہلے سے فرما دیا تھا۔ سو اب وہ کہیں گے: بلکہ تم ہم سے حسد کرتے ہو، بات یہ ہے کہ یہ لوگ (حق بات کو) بہت ہی کم سمجھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) جب تم غنیمت کے مال لینے کے لیے چلو گے تو یہ (حدیبیہ کے سفر سے) پیچھے رہنے والے تم سے کہیں گے کہ : ہمیں بھی اپنے ساتھ چلنے دو ۔ وہ چاہیں گے کہ اللہ کی بات کو بدل دیں۔ تم کہہ دینا کہ : تم ہرگز ہمارے ساتھ نہیں چلو گے۔ اللہ نے پہلے سے یوں ہی فرما رکھا ہے۔ اس پر وہ کہیں گے کہ : دراصل آپ لوگ ہم سے حسد رکھتے ہیں۔ نہیں ! بلکہ حقیقت یہ ہے کہ یہ لوگ خود ہی ایسے ہیں کہ بہت کم بات سمجھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum ne isi tarah is Qur’aan ko waazeh ayato mein utaara hai, jise Allah chaahe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے اس (پورے قرآن) کو روشن دلائل کی صورت میں نازل فرمایا ہے اور بیشک اللہ جسے ارادہ فرماتا ہے ہدایت سے نوازتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اس (قرآن) کو کھلی کھلی نشانیوں کی صورت میں اسی طرح اتارا ہے، اور اللہ جس کو چاہتا ہے، ہدایت دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ rahe samoodh, so hum ne un ki bhi rehbari ki, phir bhi unhone hidaayath par andh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو قومِ ثمود تھی، سو ہم نے انہیں راہِ ہدایت دکھائی تو انہوں نے ہدایت کے مقابلہ میں اندھا رہنا ہی پسند کیا تو انہیں ذِلّت کے عذاب کی کڑک نے پکڑ لیا اُن اعمال کے بدلے جو وہ کمایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رہے ثمود، تو ہم نے انہیں سیدھا راستہ دکھایا تھا۔ لیکن انہوں نے سیدھا راستہ اختیار کرنے کے مقابلے میں اندھا رہنے کو زیادہ پسند کیا، چنانچہ انہوں نے جو کمائی کر رکھی تھی، اس کی وجہ سے ان کو ایسے عذاب کے کڑ کے نے آپکڑا جو سراپا ذلت تھا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

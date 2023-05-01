@@ -3224,6 +3224,12 @@ un se tum jung karo,Allah tala inhe tumhare hatho azaab dega,unhe zalil wa ruswa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم ان سے جنگ کرو (جنہوں نے حدیبیہ کا معاہدۂ اَمن توڑ کر پھر حالتِ جنگ کا آغاز کیا)، اللہ تمہارے ہاتھوں انہیں (ان کی عہد شکنی اور اَمن دشمنی کے باعث) عذاب دے گا اور انہیں رسوا کرے گا اور اُن (سے مقابلہ کرنے) پر تمہاری مدد فرمائے گا اور ایمان والوں کے سینوں کو شفا بخشے گا (جن پر محاربینِ مکہ کے سرغنوں کی طرف سے ظلم و تشدد کیا جاتا رہا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے جنگ کرو تاکہ اللہ تمہارے ہاتھوں سے ان کو سزا دلوائے، انہیں رسوا کرے، ان کے خلاف تمہاری مدد کرے، اور مومنوں کے دل ٹھنڈے کردے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

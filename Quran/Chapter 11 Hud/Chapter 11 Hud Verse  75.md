@@ -3224,6 +3224,12 @@ yaqinan ibraheem bahuth tahammul6 wale, narm dil aur Allah ki janib jhukne wale 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ابراہیم (علیہ السلام) بڑے متحمل مزاج، آہ و زاری کرنے والے ہر حال میں ہماری طرف رجوع کر نے والے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ ابراہیم بڑے بردبار، (اللہ کی یاد میں) بڑی آہیں بھرنے والے (اور) ہر وقت ہم سے لو لگائے ہوئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo log imaan laye aur nek amal kiye, wo un jannato mein daakhil kiye jayenge jin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے وہ جنتوں میں داخل کئے جائیں گے جن کے نیچے سے نہریں بہہ رہی ہیں (وہ) ان میں اپنے رب کے حکم سے ہمیشہ رہیں گے، (ملاقات کے وقت) اس میں ان کا دعائیہ کلمہ ”سلام“ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لائے تھے، اور انہوں نے نیک عمل کیے تھے، انہیں ایسے باغات میں داخل کیا جائے گا جن کے نیچے نہریں بہتی ہوں گی، اپنے پروردگار کے حکم سے وہ ان (باغوں) میں ہمیشہ رہیں گے۔ وہ آپس میں ایک دوسرے کا استقبال سلام سے کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

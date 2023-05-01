@@ -3224,6 +3224,12 @@ ye is liye ke unhone un logo se jinhone Allah ki naazil karda wahi ko bura samjh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس لئے کہ انہوں نے ان لوگوں سے کہا جو اللہ کی نازل کردہ کتاب کو ناپسند کرتے تھے کہ ہم بعض امور میں تمہاری پیروی کریں گے، اور اللہ ان کے خفیہ مشورہ کرنے کو خوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب اس لیے ہوا کہ جو لوگ اللہ کی نازل کی ہوئی باتوں کو ناپسند کرتے ہیں، ان (منافقوں) نے ان سے یہ کہا ہے کہ : بعض معاملات میں ہم تمہاری بات مانیں گے۔ اور اللہ ان کی خفیہ باتوں کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

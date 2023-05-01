@@ -3224,6 +3224,12 @@ qasam hai chaasht ke waqt ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قَسم ہے چاشت کے وقت کی (جب آفتاب بلند ہو کر اپنا نور پھیلاتا ہے)۔(br) (یا:- قَسم ہے وقتِ چاشت (کی طرح آپ کے آفتابِ رِسالت کے بلند ہونے) کی (جس کے نور نے گمراہی کے اندھیروں کو اجالے سے بدل دیا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) قسم ہے چڑھتے دن کی روشنی کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

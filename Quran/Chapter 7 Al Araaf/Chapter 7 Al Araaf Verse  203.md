@@ -3224,6 +3224,12 @@ aur jab aap koyi maujeza un ke saamne zaaher nahi karte to wo log kehte hai ke a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جب تم ان کے سامنے (ان کا منہ مانگا) معجزہ پیش نہیں کرتے تو یہ کہتے ہیں کہ : تم نے یہ معجزہ خود اپنی پسند سے کیوں نہ پیش کردیا ؟ کہہ دو کہ : میں تو اسی بات کا اتباع کرتا ہوں جو میرے رب کی طرف سے وحی کے ذریعے مجھ تک پہنچائی جاتی ہے۔ ۔ یہ (قرآن) تمہارے رب کی طرف سے بصیرتوں کا مجموعہ ہے، اور جو لوگ ایمان لائیں ان کے لیے ہدایت اور رحمت ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

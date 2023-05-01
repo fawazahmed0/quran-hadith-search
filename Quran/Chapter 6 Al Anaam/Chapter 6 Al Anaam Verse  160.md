@@ -3224,6 +3224,12 @@ jo shaqs nek kaam karega us ko us ke das gunaah milenge aur jo shaqs bura kaam k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو کوئی ایک نیکی لائے گا تو اس کے لئے (بطورِ اجر) اس جیسی دس نیکیاں ہیں، اور جو کوئی ایک گناہ لائے گا تو اس کو اس جیسے ایک (گناہ) کے سوا سزا نہیں دی جائے گی اور وہ ظلم نہیں کئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو شخص کوئی نیکی لے کر آئے گا اس کے لیے اس جیسی دس نیکیوں کا ثوب ہے اور جو شخص کوئی بدی لے کر آئے گا، تو اس کو صرف اسی ایک بدی کی سزا دی جائے گی، اور ان پر کوئی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

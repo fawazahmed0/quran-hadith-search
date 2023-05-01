@@ -3224,6 +3224,12 @@ tera parvardigaar bahuth hee baqshish waala aur meherbaani waala hai, wo agar un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کا رب بڑا بخشنے والا صاحبِ رحمت ہے، اگر وہ ان کے کئے پر ان کا مؤاخذہ فرماتا تو ان پر یقیناً جلد عذاب بھیجتا، بلکہ ان کے لئے (تو) وقتِ وعدہ (مقرر) ہے (جب وہ وقت آئے گا تو) اس کے سوا ہرگز کوئی جائے پناہ نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارا پروردگار بہت بخشنے والا، بڑا رحمت والا ہے۔ جو کمائی انہوں نے کی ہے، اگر وہ اس کی وجہ سے انہیں پکڑنے پر آتا تو ان کو جلد ہی عذاب دے دیتا، لیکن ان کے لیے ایک وقت مقرر ہے، جس سے بچنے کے لیے انہیں کوئی پناہ گاہ نہیں ملے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

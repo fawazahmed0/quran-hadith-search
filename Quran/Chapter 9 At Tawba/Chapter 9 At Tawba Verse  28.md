@@ -3224,6 +3224,12 @@ ae iman walo! beshak mushrik bilkul hee na pak hai,wo is sal ke badh masjid hara
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! مشرکین تو سراپا نجاست ہیں سو وہ اپنے اس سال کے بعد (یعنی فتحِ مکہ کے بعد 9 ھ سے) مسجدِ حرام کے قریب نہ آنے پائیں، اور اگر تمہیں (تجارت میں کمی کے باعث) مفلسی کا ڈر ہے تو (گھبراؤ نہیں) عنقریب اللہ اگر چاہے گا تو تمہیں اپنے فضل سے مال دار کر دے گا، بیشک اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! مشرک لوگ تو سراپا ناپاکی ہیں، لہذا وہ اس سال کے بعد مسجد حرام کے قریب بھی نہ آنے پائیں، اور (مسلمانو) اگر تم کو مفلسی کا اندیشہ ہو تو اگر اللہ چاہے گا تو تمہیں اپنے فضل سے (مشرکین سے) بےنیاز کردے گا۔ بیشک اللہ کا علم بھی کامل ہے، حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

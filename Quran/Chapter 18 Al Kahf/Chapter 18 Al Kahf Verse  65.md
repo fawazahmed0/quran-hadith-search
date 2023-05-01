@@ -3224,6 +3224,12 @@ pas hamaare bandho mein se ek bandhe ko paaya, jise hum ne apne paas ki qaas reh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو دونوں نے (وہاں) ہمارے بندوں میں سے ایک (خاص) بندے (خضر علیہ السلام) کو پا لیا جسے ہم نے اپنی بارگاہ سے (خصوصی) رحمت عطا کی تھی اور ہم نے اسے علم لدنی (یعنی اسرار و معارف کا الہامی علم) سکھایا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تب انہیں ہمارے بندوں میں سے ایک بندہ ملا جس کو ہم نے اپنی خصوصی رحمت سے نوازا تھا، اور خاص اپنی طرف سے ایک علم سکھایا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

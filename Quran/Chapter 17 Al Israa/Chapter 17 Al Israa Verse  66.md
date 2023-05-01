@@ -3224,6 +3224,12 @@ tumhara parvardigaar wo hai jo tumhaare liye darya mein kashtiya chalata hai ta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہارا رب وہ ہے جو سمندر (اور دریا) میں تمہارے لئے (جہاز اور) کشتیاں رواں فرماتا ہے تاکہ تم (اندرونی و بیرونی تجارت کے ذریعہ) اس کا فضل (یعنی رزق) تلاش کرو، بیشک وہ تم پر بڑا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہارا پروردگار وہ ہے جو تمہارے لیے سمندر میں کشتیاں لے چلتا ہے، تاکہ تم اس کا فضل تلاش کرو۔ یقینا وہ تمہارے ساتھ بڑی رحمت کا معاملہ کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo log nek amal layenge, unhe us se behtar badhla milega aur wo us din ki ghabra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو شخص (اس دن) نیکی لے کر آئے گا اس کے لئے اس سے بہتر (جزا) ہوگی اور وہ لوگ اس دن گھبراہٹ سے محفوظ و مامون ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کوئی نیکی لے کر آئے گا اسے اس سے بہتر بدلہ ملے گا۔ اور ایسے لوگ اس دن ہر قسم کی گھبراہٹ سے محفوظ ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur unhe un do shaqso ki misaal bhi suna de, jin mien se ek ko hum ne do baagh a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ ان سے ان دو شخصوں کی مثال بیان کریں جن میں سے ایک کے لئے ہم نے انگور کے دو باغات بنائے اور ہم نے ان دونوں کو تمام اَطراف سے کھجور کے درختوں کے ساتھ ڈھانپ دیا اور ہم نے ان کے درمیان (سرسبز و شاداب) کھیتیاں اگا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ان لوگوں کے سامنے ان دو آدمیوں کی مثال پیش کرو۔ جن میں سے ایک کو ہم نے انگوروں کے دو باغ دے رکھے تھے، اور ان کو کھجور کے درختوں سے گھیرا ہوا تھا، اور ان دونوں باغوں کے درمیان کھیتی لگائی ہوئی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

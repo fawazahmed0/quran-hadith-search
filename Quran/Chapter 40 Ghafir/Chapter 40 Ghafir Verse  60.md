@@ -3224,6 +3224,12 @@ aur tumhaare rab ka farmaan (sar sadh ho chuka) hai ke mujh se dua karo, main tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تمہارے رب نے فرمایا ہے: تم لوگ مجھ سے دعا کیا کرو میں ضرور قبول کروں گا، بے شک جو لوگ میری بندگی سے سرکشی کرتے ہیں وہ عنقریب دوزخ میں ذلیل ہو کر داخل ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے پروردگار نے کہا ہے کہ مجھے پکارو، میں تمہاری دعائیں قبول کروں گا بیشک جو لوگ تکبر کی بنا پر میری عبادت سے منہ موڑتے ہیں، وہ ذلیل ہو کر جہنم میں داخل ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

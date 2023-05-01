@@ -3224,6 +3224,12 @@ keh dijiye! ke tamaam sifaarish ka muqtaar Allah hee hai, tamaam asmaano aur zam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: سب شفاعت (کا اِذن) اللہ ہی کے اختیار میں ہے (جو اس نے اپنے مقرّبین کے لئے مخصوص کر رکھا ہے)، آسمانوں اور زمین کی سلطنت بھی اسی کی ہے، پھر تم اسی کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : ” سفارش تو ساری کی ساری اللہ ہی کے اختیار میں ہے۔ اسی کے قبضے میں آسمانوں اور زمین کی بادشاہی ہے، پھر اسی کی طرف تمہیں لوٹایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar madine ke atraaf se un par (lashkar) daakhil kiye jaate, phir un se fit
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ان پر مدینہ کے اَطراف و اَکناف سے فوجیں داخل کر دی جاتیں پھر اِن (نِفاق کا عقیدہ رکھنے والوں) سے فتنۂ (کفر و شرک) کا سوال کیا جاتا تو وہ اس (مطالبہ) کو بھی پورا کر دیتے، اور تھوڑے سے توقّف کے سوا اس میں تاخیر نہ کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر دشمن مدینے میں چاروں طرف سے آگھسے، پھر ان سے فساد میں شامل ہونے کو کہا جائے تو یہ اس میں ضرور شامل ہوجائیں گے، اور (اس وقت) گھروں میں تھوڑے ہی ٹھہریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur bhi bahuth si cheeze tarah tarah ke rang roop ki us ne tumhaare liye zameen 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (حیوانات، نباتات اور معدنیات وغیرہ میں سے بقیہ) جو کچھ بھی اس نے تمہارے لئے زمین میں پیدا فرمایا ہے جن کے رنگ (یعنی جنسیں، نوعیں، قسمیں، خواص اور منافع) الگ الگ ہیں (سب تمہارے لئے مسخر ہیں)، بیشک اس میں نصیحت قبول کرنے والے لوگوں کے لئے نشانی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی طرح وہ ساری رنگ برنگ کی چیزیں جو اس نے تمہاری خاطر زمین میں پھیلا رکھی ہیں، وہ بھی اس کے حکم سے کام پر لگی ہوئی ہیں۔ بیشک ان سب میں ان لوگوں کے لیے نشانی ہے جو سبق حاصل کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

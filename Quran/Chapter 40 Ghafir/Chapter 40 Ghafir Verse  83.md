@@ -3224,6 +3224,12 @@ pas jab kabhi un ke paas un ke rasool khuli nishaaniya le kar aaye, to ye apne p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب اُن کے پیغمبر اُن کے پاس واضح نشانیاں لے کر آئے تو اُن کے پاس جو (دنیاوی) علم و فن تھا وہ اس پر اِتراتے رہے اور (اسی حال میں) انہیں اُس (عذاب) نے آگھیرا جس کا وہ مذاق اڑایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب ان کے پیغمبر ان کے پاس کھلی کھلی دلیلیں لے کر آئے تب بھی وہ اپنے اس علم پر ہی ناز کرتے رہے جو ان کے پاس تھا، اور جس چیز کا وہ مذاق اڑایا کرتے تھے، اسی نے ان کو آگھیرا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

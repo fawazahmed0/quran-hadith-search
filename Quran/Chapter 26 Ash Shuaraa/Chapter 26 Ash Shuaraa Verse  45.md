@@ -3224,6 +3224,12 @@ ab (hazrath) Mosa(alaihissalaam) ne bhi apni laathi maidaan mein daal di, jis ne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر موسٰی (علیہ السلام) نے اپنا ڈنڈا ڈال دیا تو وہ (اژدھا بن کر) فوراً ان چیزوں کو نگلنے لگا جو انہوں نے فریب کاری سے (اپنی اصل حقیقت سے) پھیر رکھی تھیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب موسیٰ نے اپنا عصا زمین پر ڈالا تو اچانک اس نے (اژدھا بن کر) اس تماشے کو نگلنا شروع کردیا جو وہ جھوٹ موٹ بنا رہے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

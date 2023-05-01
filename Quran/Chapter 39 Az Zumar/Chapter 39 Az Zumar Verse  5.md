@@ -3224,6 +3224,12 @@ nihaayath acchi tadhbeer se, us ne asmaano aur zameen ko banaya, wo raath ko din
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُس نے آسمانوں اور زمین کو صحیح تدبیر کے ساتھ پیدا فرمایا۔ وہ رات کو دن پر لپیٹتا ہے اور دن کو رات پر لپیٹتا ہے اور اسی نے سورج اور چاند کو (ایک نظام میں) مسخّر کر رکھا ہے، ہر ایک (ستارہ اور سیّارہ) مقرّر وقت کی حد تک (اپنے مدار میں) چلتا ہے، خبردار! وہی (پورے نظام پر) غالب، بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے سارے آسمان اور زمین برحق پیدا کیے ہیں۔ وہ رات کو دن پر لپیٹ دیتا ہے اور دن کو رات پر لپیٹ دیتا، اور اس نے سورج اور چاند کو کام پر لگا یا ہوا ہے۔ ہر ایک کسی معین مدت تک کے لیے رواں دواں ہے۔ یاد رکھو وہ بڑے اقتدار کا مالک، بہت بخشنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

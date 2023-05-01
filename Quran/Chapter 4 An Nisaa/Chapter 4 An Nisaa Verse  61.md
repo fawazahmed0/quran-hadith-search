@@ -3224,6 +3224,12 @@ un se jab kabhi kaha jaaye ke Allah ta’ala ke naazil karda kalaam ki aur rasoo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان سے کہا جاتا ہے کہ اللہ کے نازل کردہ (قرآن) کی طرف اور رسول(صلی اللہ علیہ وآلہ وسلم) کی طرف آجاؤ تو آپ منافقوں کو دیکھیں گے کہ وہ آپ (کی طرف رجوع کرنے) سے گریزاں رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان سے کہا جاتا ہے کہ آؤ اس حکم کی طرف جو اللہ نے اتارا ہے اور آؤ رسول کی طرف، تو تم ان منافقوں کو دیکھو گے کہ وہ تم سے پوری طرح منہ موڑ بیٹھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

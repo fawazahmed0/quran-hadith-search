@@ -3224,6 +3224,12 @@ so qasam hai tere parvardigaar ki! ye momin nahi so sakte jab tak ke tamaam aapa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (اے حبیب!) آپ کے رب کی قسم یہ لوگ مسلمان نہیں ہوسکتے یہاں تک کہ وہ اپنے درمیان واقع ہونے والے ہر اختلاف میں آپ کو حاکم بنالیں پھر اس فیصلہ سے جو آپ صادر فرما دیں اپنے دلوں میں کوئی تنگی نہ پائیں اور (آپ کے حکم کو) بخوشی پوری فرمانبرداری کے ساتھ قبول کر لیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نہیں، (اے پیغمبر) تمہارے پروردگار کی قسم ! یہ لوگ اس وقت تک مومن نہیں ہوسکتے جب تک یہ اپنے باہمی جھگڑوں میں تمہیں فیصل نہ بنائیں، پھر تم جو کچھ فیصلہ کرو اس کے بارے میں اپنے دلوں میں کوئی تنگی محسوس نہ کریں، اور اس کے آگے مکمل طور پر سر تسلیم خم کردیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

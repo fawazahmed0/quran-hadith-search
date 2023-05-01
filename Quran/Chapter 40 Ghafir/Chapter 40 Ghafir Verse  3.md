@@ -3224,6 +3224,12 @@ gunaah ka baqshne waala aur tauba ka qubool farmaane waala, saqt azaab waala, in
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+گناہ بخشنے والا (ہے) اور توبہ قبول فرمانے والا (ہے)، سخت عذاب دینے والا (ہے)، بڑا صاحبِ کرم ہے۔ اُس کے سوا کوئی معبود نہیں، اسی کی طرف (سب کو) لوٹنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو گناہ کو معاف کرنے والا، توبہ قبول کرنے والا، سخت سزا دینے والا، بڑی طاقت کا مالک ہے۔ اس کے سوا کوئی عبادت کے لائق نہیں اسی کی طرف سب کو لوٹ کر جانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

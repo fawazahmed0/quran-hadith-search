@@ -3224,6 +3224,12 @@ Aakhir e kaar inki ahad shikani (breaking the covenant) ki wajah se, aur is waja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (انہیں جو سزائیں ملیں وہ) ان کی اپنی عہد شکنی پر اور آیاتِ الٰہی سے انکار (کے سبب) اور انبیاء کو ان کے ناحق قتل کر ڈالنے (کے باعث)، نیز ان کی اس بات (کے سبب) سے کہ ہمارے دلوں پر غلاف (چڑھے ہوئے) ہیں، (حقیقت میں ایسا نہ تھا) بلکہ اللہ نے ان کے کفر کے باعث ان کے دلوں پر مُہر لگا دی ہے، سو وہ چند ایک کے سوا ایمان نہیں لائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ان کے ساتھ جو کچھ ہوا، وہ اس لیے کہ انہوں نے اپنا عہد توڑا، اللہ کی آیتوں کا انکار کیا، انبیاء کو ناحق قتل کیا، اور یہ کہا کہ ہمارے دلوں پر غلاف چڑھا ہوا ہے۔ حالانکہ حقیقت یہ ہے کہ ان کے کفر کی وجہ سے اللہ نے ان کے دلوں پر مہر لگا دی ہے، اس لیے وہ تھوڑی سی باتوں کے سوا کسی بات پر ایمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

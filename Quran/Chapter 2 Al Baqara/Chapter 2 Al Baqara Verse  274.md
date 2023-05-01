@@ -3224,6 +3224,12 @@ jo log apne maalo ko raath din chupe khule qarch karte hai un ke liye un ke rab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ (اللہ کی راہ میں) شب و روز اپنے مال پوشیدہ اور ظاہر خرچ کرتے ہیں تو ان کے لئے ان کے رب کے پاس ان کا اجر ہے اور (روزِ قیامت) ان پر نہ کوئی خوف ہوگا اور نہ وہ رنجیدہ ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ اپنے مال دن رات خاموشی سے بھی اور علانیہ بھی خرچ کرتے ہیں وہ اپنے پروردگار کے پاس اپنا ثواب پائیں گے، اور نہ انہیں کوئی خوف لاحق ہوگا، نہ کوئی غم پہنچے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

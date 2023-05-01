@@ -3224,6 +3224,12 @@ Allah ta’ala ne (hazrath)Aadam(alaihissalam) se farmaya tum in ke naam batado,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے فرمایا: اے آدم! (اب تم) انہیں ان اشیاء کے ناموں سے آگاہ کرو، پس جب آدم (علیہ السلام) نے انہیں ان اشیاء کے ناموں سے آگاہ کیا تو (اللہ نے) فرمایا: کیا میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کی (سب) مخفی حقیقتوں کو جانتا ہوں، اور وہ بھی جانتا ہوں جو تم ظاہر کرتے ہو اور جو تم چھپاتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کہا آدم تم ان کو ان چیزوں کے نام بتادو چنانچہ جب اس نے ان کے نام ان کو بتادیئے تو اللہ نے (فرشتوں سے) کہا کیا میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کے بھید جانتا ہوں ؟ اور جو کچھ تم ظاہر کرتے ہو اور جو کچھ چھپاتے ہو مجھے اس سب کا علم ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

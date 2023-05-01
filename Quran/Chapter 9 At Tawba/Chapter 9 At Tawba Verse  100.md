@@ -3224,6 +3224,12 @@ aur jo muhajirin aur ansar sabeq aur muqaddam hai aur jitne log eqlas ke sath un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور مہاجرین اور ان کے مددگار (انصار) میں سے سبقت لے جانے والے، سب سے پہلے ایمان لانے والے اور درجۂ احسان کے ساتھ اُن کی پیروی کرنے والے، اللہ ان (سب) سے راضی ہوگیا اور وہ (سب) اس سے راضی ہوگئے اور اس نے ان کے لئے جنتیں تیار فرما رکھی ہیں جن کے نیچے نہریں بہہ رہی ہیں، وہ ان میں ہمیشہ ہمیشہ رہنے والے ہیں، یہی زبردست کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مہاجرین اور انصار میں سے جو لوگ پہلے ایمان لائے، اور جنہوں نے نیکی کے ساتھ ان کی پیروی کی، اللہ ان سب سے راضی ہوگیا ہے، اور وہ اس سے راضی ہیں، اور اللہ نے ان کے لیے ایسے باغات تیار کر رکھے ہیں جن کے نیچے نہریں بہتی ہیں، جن میں وہ ہمیشہ ہمیشہ رہیں گے۔ یہی بڑی زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

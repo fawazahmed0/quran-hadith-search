@@ -3224,6 +3224,12 @@ ke tu ose sanduq mein bandh kar ke darya mein chohd de, pas darya ose kinaare la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کہ تم اس (موسٰی علیہ السلام) کو صندوق میں رکھ دو پھر اس (صندوق) کو دریا میں ڈال دو پھر دریا اسے کنارے کے ساتھ آلگائے گا، اسے میرا دشمن اور اس کا دشمن اٹھا لے گا، اور میں نے تجھ پر اپنی جناب سے (خاص) محبت کا پرتَو ڈال دیا ہے (یعنی تیری صورت کو اس قدر پیاری اور من موہنی بنا دیا ہے کہ جو تجھے دیکھے گا فریفتہ ہو جائے گا)، اور (یہ اس لئے کیا) تاکہ تمہاری پرورش میری آنکھوں کے سامنے کی جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ اس (بچے) کو صندوق میں رکھو، پھر اس صندوق کو دریا میں ڈال دو ۔ پھر دریا کو چھوڑ دو کہ وہ اسے ساحل کے پاس لاکر ڈال دے، جس کے نتیجے میں ایک ایسا شخص اس (بچے) کو اٹھالے گا جو میرا بھی دشمن ہوگا، اور اس کا بھی دشمن۔ اور میں نے اپنی طرف سے تم پر ایک محبوبیت نازل کردی تھی۔ اور یہ سب اس لیے کیا تھا کہ تم میری نگرانی میں پرورش پاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

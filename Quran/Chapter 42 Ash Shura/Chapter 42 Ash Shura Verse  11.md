@@ -3224,6 +3224,12 @@ wo asmaano aur zameen ka payda karne waala hai, us ne tumhaare liye tumhaari jin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آسمانوں اور زمین کو عدم سے وجود میں لانے والا ہے، اسی نے تمہارے لئے تمہاری جنسوں سے جوڑے بنائے اور چوپایوں کے بھی جوڑے بنائے اور تمہیں اسی (جوڑوں کی تدبیر) سے پھیلاتا ہے، اُس کے مانند کوئی چیز نہیں ہے اور وہی سننے والا دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ آسمانوں اور زمین کا پیدا کرنے والا ہے۔ اس نے تمہارے لیے تمہاری ہی جنس سے جوڑے پیدا کیے ہیں، اور مویشیوں کے بھی جوڑے بنائے ہیں۔ اسی ذریعے سے وہ تمہاری نسل چلاتا ہے۔ کوئی چیز اس کے مثل نہیں ہے، اور وہی ہے جو ہر بات سنتا، سب کچھ دیکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

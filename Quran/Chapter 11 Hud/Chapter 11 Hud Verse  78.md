@@ -3224,6 +3224,12 @@ aur us ki qaum daudti hoyi us ke paas aa pahonchi, wo to pehle hee se badh-kaari
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(سو وہی ہوا جس کا انہیں اندیشہ تھا) اور لوط (علیہ السلام) کی قوم (مہمانوں کی خبر سنتے ہی) ان کے پاس دوڑتی ہوئی آگئی، اور وہ پہلے ہی برے کام کیا کرتے تھے۔ لوط (علیہ السلام) نے کہا: اے میری (نافرمان) قوم! یہ میری (قوم کی) بیٹیاں ہیں یہ تمہارے لئے (بطریقِ نکاح) پاکیزہ و حلال ہیں سو تم اللہ سے ڈرو اور میرے مہمانوں میں (اپنی بے حیائی کے باعث) مجھے رسوا نہ کرو! کیا تم میں سے کوئی بھی نیک سیرت آدمی نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کی قوم کے لوگ ان کے پاس دوڑتے ہوئے آئے، اور اس سے پہلے وہ برے کام کیا ہی کرتے تھے۔ لوط نے کہا : اے میری قوم کے لوگو ! یہ میری بیٹیاں موجود ہیں، یہ تمہارے لیے کہیں زیادہ پاکیزہ ہیں اس لیے اللہ سے ڈرو اور میرے مہمانوں کے معاملے میں مجھے رسوا نہ کرو۔ کیا تم میں کوئی ایک بھی بھلا آدمی نہیں ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

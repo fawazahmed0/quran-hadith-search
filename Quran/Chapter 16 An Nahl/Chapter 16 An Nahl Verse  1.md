@@ -3224,6 +3224,12 @@ Allah ta’ala ka hukm aa pahoncha, ab us ki jaldi na machaao, tamaam paaki us k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ کا وعدہ (قریب) آپہنچا سو تم اس کے چاہنے میں عجلت نہ کرو۔ وہ پاک ہے اور وہ ان چیزوں سے برتر ہے جنہیں کفار (اس کا) شریک ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کا حکم آن پہنچا ہے، لہذا اس کے لیے جلدی نہ مچاؤ ۔ جو شرک یہ لوگ کر رہے ہیں، وہ اس سے پاک اور بہت بالا و برتر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

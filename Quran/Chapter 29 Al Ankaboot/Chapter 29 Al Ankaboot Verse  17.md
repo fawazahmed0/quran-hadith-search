@@ -3224,6 +3224,12 @@ to tum Allah ta’ala ke siva butho ki puja paat kar rahe ho, aur jhuti baatein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم تو اللہ کے سوا بتوں کی پوجا کرتے ہو اور محض جھوٹ گھڑتے ہو، بیشک تم اللہ کے سوا جن کی پوجا کرتے ہو وہ تمہارے لئے رزق کے مالک نہیں ہیں پس تم اللہ کی بارگاہ سے رزق طلب کیا کرو اور اسی کی عبادت کیا کرو اور اسی کا شکر بجا لایا کرو، تم اسی کی طرف پلٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کچھ تم کرتے ہو وہ یہ ہے کہ اللہ کو چھوڑ کر تم بتوں کو پوجتے ہو، اور جھوٹی باتیں گھڑتے ہو، یقین جانو کہ اللہ کو چھوڑ کر جن جن کی تم عبادت کرتے ہو، وہ تمہیں رزق دینے کا کوئی اختیار نہیں رکھتے، اس لیے رزق اللہ کے پاس تلاش کرو، اور اس کی عبادت کرو، اور اس کا شکر ادا کرو۔ اسی کے پاس تمہیں واپس لوٹایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

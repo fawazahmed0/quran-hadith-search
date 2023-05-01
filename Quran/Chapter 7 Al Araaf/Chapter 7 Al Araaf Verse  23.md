@@ -3224,6 +3224,12 @@ duno ne kaha aye hamaare rab! hum ne apna bada nuqsaan kiya aur agar tu hamaari 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دونوں بول اٹھے کہ : اے ہمارے پروردگار ! ہم اپنی جانوں پر ظلم کر گزرے ہیں، اور اگر آپ نے ہمیں معاف نہ فرمایا اور ہم پر رحم نہ کیا تو یقینا ہم نامراد لوگوں میں شامل ہوجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

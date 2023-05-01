@@ -3224,6 +3224,12 @@ aur us se pehle Mosa(alaihissalaam) ki kitaab peshwa aur rehmath thi aur ye kita
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس سے پہلے موسٰی (علیہ السلام) کی کتاب (تورات) پیشوا اور رحمت تھی، اور یہ کتاب (اس کی) تصدیق کرنے والی ہے، عربی زبان میں ہے تاکہ ان لوگوں کو ڈرائے جنہوں نے ظلم کیا ہے اور نیکوکاروں کے لئے خوشخبری ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس سے پہلے موسیٰ کی کتاب رہنما اور رحمت بن کر آچکی ہے، اور یہ (قرآن) وہ کتاب ہے جو عربی زبان میں ہوتے ہوئے اس کو سچا بتارہی ہے تاکہ ان ظالموں کو خبردار کرے، اور نیک کام کرنے والوں کے لیے خوشخبری بن جائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

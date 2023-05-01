@@ -3224,6 +3224,12 @@ aur baz ahale dehaath mein aise bhi hai jo Allah tala par aur qayamath ke din pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بادیہ نشینوں میں (ہی) وہ شخص (بھی) ہے جو اللہ پر اور یومِ آخرت پر ایمان رکھتا ہے اور جو کچھ (راہِ خدا میں) خرچ کرتاہے اسے اللہ کے حضور تقرب اور رسول (صلی اللہ علیہ وآلہ وسلم) کی (رحمت بھری) دعائیں لینے کا ذریعہ سمجھتا ہے، سن لو! بیشک وہ ان کے لئے باعثِ قربِ الٰہی ہے، جلد ہی اللہ انہیں اپنی رحمت میں داخل فرما دے گا۔ بیشک اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہی دیہاتیوں میں وہ بھی جو اللہ اور یوم آخرت پر ایمان رکھتے ہیں، اور جو کچھ (اللہ کے نام پر) خرچ کرتے ہیں اس کو اللہ کے پاس قرب کے درجے حاصل کرنے اور رسول کی دعائیں لینے کا ذریعہ سمجھتے ہیں۔ ہاں یہ ان کے لیے یقینا تقرب کا ذریعہ ہے۔ اللہ ان کو اپنی رحمت میں داخل کرے گا۔ بیشک اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

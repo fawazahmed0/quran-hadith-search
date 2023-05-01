@@ -3224,6 +3224,12 @@ misl un logo ke jo tum se pehle thein,tum mein se wo zyada quwwath wale thein au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے منافقو! تم) ان لوگوں کی مثل ہو جو تم سے پہلے تھے۔ وہ تم سے بہت زیادہ طاقتور اور مال و اولاد میں کہیں زیادہ بڑھے ہوئے تھے۔ پس وہ اپنے (دنیوی) حصے سے فائدہ اٹھا چکے سو تم (بھی) اپنے حصے سے (اسی طرح) فائدہ اٹھا رہے ہو جیسے تم سے پہلے لوگوں نے (لذّتِ دنیا کے) اپنے مقررہ حصے سے فائدہ اٹھایا تھا نیز تم (بھی اسی طرح) باطل میں داخل اور غلطاں ہو جیسے وہ باطل میں داخل اور غلطاں تھے۔ ان لوگوں کے اعمال دنیا اور آخرت میں برباد ہو گئے اور وہی لوگ خسارے میں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (منافقو) تم انہی لوگوں کی طرح ہو جو تم سے پہلے ہوگزرے ہیں۔ وہ طاقت میں تم سے مضبوط تر اور مال اور اولاد میں تم سے کہیں زیادہ تھے۔ چنانچہ انہوں نے اپنے حصے کے مزے اڑا لیے، پھر تم نے اسی طرح اپنے حصے کے مزے اڑائے، جیسے تم سے پہلے لوگوں نے اپنے حصے کے مزے اڑائے تھے، اور تم بھی ویسی ہی بےہودہ باتوں میں پڑے جیسے وہ پڑے تھے۔ یہ وہ لوگ تھے جن کے اعمال دنیا اور آخرت میں غارت ہوگئے، اور یہی وہ لوگ تھے جنہوں نے خسارے کا سودا کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

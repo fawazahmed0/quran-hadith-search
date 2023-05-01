@@ -3224,6 +3224,12 @@ un logo ne Allah ko chod kar apne aalimo aur darwesho ko rub banaya hai aur mary
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے اللہ کے سوا اپنے عالموں اور زاہدوں کو رب بنا لیا تھا اور مریم کے بیٹے مسیح (علیہ السلام) کو (بھی) حالانکہ انہیں بجز اس کے (کوئی) حکم نہیں دیا گیا تھا کہ وہ اکیلے ایک (ہی) معبود کی عبادت کریں، جس کے سوا کوئی معبود نہیں، وہ ان سے پاک ہے جنہیں یہ شریک ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے اللہ کی بجائے اپنے احبار (یعنی یہودی علماء) اور راہبوں (یعنی عیسائی درویشوں) کو خدا بنا لیا ہے۔ اور مسیح ابن مریم کو بھی، حالانکہ ان کو ایک خدا کے سوا کسی کی عبادت کرنے کا حکم نہیں دیا گیا تھا۔ اس کے سوا کوئی خدا نہیں۔ وہ ان کی مشرکانہ باتوں سے بالکل پاک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

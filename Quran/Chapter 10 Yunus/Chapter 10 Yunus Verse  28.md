@@ -3224,6 +3224,12 @@ aur wo din bhi qabil e zikr hai,jis roz hum un sub ko jama karenge,phir mushriki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اورجس دن ہم ان سب کو جمع کریں گے پھر ہم مشرکوں سے کہیں گے: تم اور تمہارے شریک (بتانِ باطل) اپنی اپنی جگہ ٹھہرو۔ پھر ہم ان کے درمیان پھوٹ ڈال دیں گے۔ اور ان کے (اپنے گھڑے ہوئے) شریک (ان سے) کہیں گے کہ تم ہماری عبادت تو نہیں کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یاد رکھو) وہ دن جب ہم ان سب کو اکٹھا کریں گے پھر جن لوگوں نے شرک کیا تھا، ان سے کہیں گے کہ :“ ذرا اپنی جگہ ٹھہرو، تم بھی اور وہ بھی جن کو تم نے اللہ کا شریک مانا تھا۔” پھر ان کے درمیان (عابد اور معبود کا) جو رشتہ تھا، ہم وہ ختم کردیں گے، اور ان کے وہ شریک کہیں گے کہ :“ تم ہماری عبادت تو نہیں کرتے تھے ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

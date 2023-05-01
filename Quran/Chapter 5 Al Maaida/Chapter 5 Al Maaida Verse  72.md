@@ -3224,6 +3224,12 @@ be-shak wo log kaafir ho gaye jin ka qaul hai ke Masih ibn Maryam hee Allah hai,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+درحقیقت ایسے لوگ کافر ہوگئے ہیں جنہوں نے کہا کہ اللہ ہی مسیح ابنِ مریم (علیہما السلام) ہے حالانکہ مسیح (علیہ السلام) نے (تو یہ) کہا تھا: اے بنی اسرائیل! تم اللہ کی عبادت کرو جو میرا (بھی) ربّ ہے اور تمہارا (بھی) ربّ ہے۔ بیشک جو اللہ کے ساتھ شرک کرے گا تو یقیناً اللہ نے اس پر جنت حرام فرما دی ہے اور اس کا ٹھکانا دوزخ ہے، اور ظالموں کے لئے کوئی بھی مدد گار نہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ لوگ یقینا کافر ہوچکے ہیں جنہوں نے یہ کہا ہے کہ اللہ مسیح ابن مریم ہی ہے۔ حالانکہ مسیح نے تو یہ کہا تھا کہ : اے بنی اسرائیل اللہ کی عبادت کرو جو میرا بھی پروردگار ہے اور تمہارا بھی پروردگار۔ یقین جا نو کہ جو شخص اللہ کے ساتھ کسی کو شریک ٹھہرائے، اللہ نے اس کے لیے جنت حرام کردی ہے اور اس کا ٹھکانا جہنم ہے، اور جو لوگ (یہ) ظلم کرتے ہیں ان کو کسی قسم کے یارومددگار میسر نہیں آئیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

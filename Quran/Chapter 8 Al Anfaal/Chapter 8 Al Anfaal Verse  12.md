@@ -3224,6 +3224,12 @@ us waqt ko yad karo jab ke aap ka rub farishto ko hukm deta tha ke main tumhara 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم! اپنے اعزاز کا وہ منظر بھی یاد کیجیے) جب آپ کے رب نے (غزوۂ بدر کے موقع پر) فرشتوں کو پیغام بھیجا کہ (اَصحابِ رسول کی مدد کے لیے) میں (بھی) تمہارے ساتھ ہوں، سو تم (بشارت و نصرت کے ذریعے) ایمان والوں کو ثابت قدم رکھو، میں ابھی (جنگ جُو) کافروں کے دلوں میں (لشکر محمدی کا) رعب و ہیبت ڈالے دیتا ہوں، سو تم (غزوۂ بدر کے دوران جارح کافروں کی) گردنوں کے اوپر سے ضرب لگانا اور (ان کی سازشوں اور جنگی حربوں کے جواب میں) ان کے ایک ایک جوڑ کو توڑ دینا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ وقت جب تمہارا رب فرشتوں کو وحی کے ذریعے حکم دے رہا تھا کہ : میں تمہارے ساتھ ہوں، اب تم مومنوں کے قدم جماؤ میں کافروں کے دلوں میں رعب طاری کردوں گا، پھر تم گردنوں کے اوپر وار کرو، اور ان کی انگلیوں کے ہر ہر جوڑ پر ضرب لگاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

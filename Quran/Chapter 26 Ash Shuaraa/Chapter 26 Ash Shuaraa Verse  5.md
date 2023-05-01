@@ -3224,6 +3224,12 @@ aur un ke paas rahmaan ki taraf se jo bhi nayi nasihath aayi, ye us se ru gardaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے پاس (خدائے) رحمان کی جانب سے کوئی نئی نصیحت نہیں آتی مگر وہ اس سے رُوگرداں ہو جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان کا حال تو یہ ہے کہ) ان کے پاس خدائے رحمن کی طرف سے کوئی نئی نصیحت آتی ہے، یہ اس سے منہ موڑ لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

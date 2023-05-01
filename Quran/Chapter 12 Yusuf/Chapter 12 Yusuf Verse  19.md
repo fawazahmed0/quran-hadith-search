@@ -3224,6 +3224,12 @@ aur ek qafila aya aur unhone apne paani laane wale ko bheja, us ne apna dool lat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ادھر) راہ گیروں کا ایک قافلہ آپہنچا تو انہوں نے اپنا پانی بھرنے والا بھیجا سو اس نے اپنا ڈول (اس کنویں میں) لٹکایا، وہ بول اٹھا: خوشخبری ہو یہ ایک لڑکا ہے، اور انہوں نے اسے قیمتی سامانِ تجارت سمجھتے ہوئے چھپا لیا، اور اللہ ان کاموں کو جو وہ کر رہے تھے خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (دوسری طرف جس جگہ انہوں نے یوسف کو کنویں میں ڈالا تھا، وہاں) ایک قافلہ آیا۔ قافلے کے لوگوں نے ایک آدمی پانی لانے کے لیے بھیجا، اور اس نے اپنا ڈول (کنویں میں) ڈالا تو (وہاں یوسف (علیہ السلام) کو دیکھ کر) پکار اٹھا : لو خوشخبری سنو ! یہ تو ایک لڑکا ہے۔ اور قافلے والوں نے انہیں ایک تجارت کا مال سمجھ کر چھپالیا، اور جو کچھ وہ کر رہے تھے، اللہ کو اس کا پورا علم تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

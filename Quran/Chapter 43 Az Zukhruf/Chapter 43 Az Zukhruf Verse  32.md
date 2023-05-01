@@ -3224,6 +3224,12 @@ kya aap ke rab ki rahmath ko ye taqseem karte hai? hum ne hee un ki zindagaani d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ کے رب کی رحمت‎ ‎کو یہ لوگ تقسیم کرتے ہیں؟ ہم اِن کے درمیان دنیوی زندگی میں ان کے ‏‏(اَسبابِ) معیشت کو تقسیم کرتے ہیں اور ہم ہی ان میں سے بعض کو بعض پر (وسائل و دولت میں) ‏درجات کی فوقیت دیتے ہیں، (کیا ہم یہ اس لیے کرتے ہیں) کہ ان میں سے بعض (جو امیر ہیں) بعض ‏‏(غریبوں) کا مذاق اڑائیں (یہ غربت کا تمسخر ہے کہ تم اس وجہ سے کسی کو رحمت‏‎ ‎کا حق دار ہی نہ ‏سمجھو)، اور آپ کے رب کی رحمت اُس (دولت) سے بہتر ہے جسے وہ جمع کرتے (اور گھمنڈ کرتے) ‏ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا یہ لوگ ہیں جو تمہارے پروردگار کی رحمت تقسیم کریں گے ؟ دنیوی زندگی میں ان کی روزی کے ذرائع بھی ہم نے ہی ان کے درمیان تقسیم کر رکھے ہیں اور ہم نے ہی ان میں سے ایک کو دوسرے پر درجات میں فوقیت دی ہے، تاکہ وہ ایک دوسرے سے کام لے سکیں۔ اور تمہارے پروردگار کی رحمت تو اس (دولت) سے کہیں بہتر چیز ہے جو یہ جمع کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

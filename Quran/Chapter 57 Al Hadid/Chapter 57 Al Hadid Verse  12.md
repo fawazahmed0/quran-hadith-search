@@ -3224,6 +3224,12 @@ Us din jabke tum momin mardon aur auraton ko dekhoge ke unka noor unke aagey aag
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) جس دن آپ (اپنی امّت کے) مومن مَردوں اور مومن عورتوں کو دیکھیں گے کہ اُن کا نور اُن کے آگے اور اُن کی دائیں جانب تیزی سے چل رہا ہوگا (اور اُن سے کہا جائے گا:) تمہیں بشارت ہو آج (تمہارے لئے) جنتیں ہیں جن کے نیچے سے نہریں رواں ہیں (تم) ہمیشہ ان میں رہو گے، یہی بہت بڑی کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن جب تم مومن مردوں اور مومن عورتوں کو دیکھو گے کہ ان کا نور ان کے سامنے اور ان کے دائیں جانب دوڑ رہا ہوگا (اور ان سے کہا جائے گا کہ) آج تمہیں خوشخبری ہے ان باغات کی جن کے نیچے نہریں بہتی ہیں، جن میں تم ہمیشہ ہمیشہ رہو گے۔ یہی ہے جو بڑی زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

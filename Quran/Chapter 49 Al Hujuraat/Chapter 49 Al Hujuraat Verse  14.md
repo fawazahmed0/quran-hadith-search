@@ -3224,6 +3224,12 @@ dehaati log kehte hai ke hum imaan laaye, aap keh dijiye ke dar haqiqath tum ima
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+دیہاتی لوگ کہتے ہیں کہ ہم ایمان لائے ہیں، آپ فرما دیجئے: تم ایمان نہیں لائے، ہاں یہ کہو کہ ہم اسلام لائے ہیں اور ابھی ایمان تمہارے دلوں میں داخل ہی نہیں ہوا، اور اگر تم اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرو تو وہ تمہارے اعمال (کے ثواب میں) سے کچھ بھی کم نہیں کرے گا، بیشک اللہ بہت بخشنے والا بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ دیہاتی کہتے ہیں کہ : ہم ایمان لے آئے ہیں۔ ان سے کہو کہ : تم ایمان تو نہیں لائے، البتہ یہ کہو کہ ہم نے ہتھیار ڈال دیے ہیں، اور ایمان ابھی تمہارے دلوں میں داخل نہیں ہوا۔ اور اگر تم واقعی اللہ اور اس کے رسول کی اطاعت کرو گے تو اللہ تمہارے اعمال (کے ثواب) میں ذرا بھی کمی نہیں کرے گا۔ یقینا اللہ بہت بخشنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

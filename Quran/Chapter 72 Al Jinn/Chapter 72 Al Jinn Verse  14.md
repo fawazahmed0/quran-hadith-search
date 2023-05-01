@@ -3224,6 +3224,12 @@ haan hum mein baaz to musalmaan hai aur baaz be insaaf hai, pas jo farmabardaar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ ہم میں سے (بعض) فرماں بردار بھی ہیں اور ہم میں سے (بعض) ظالم بھی ہیں، پھر جو کوئی فرمانبردار ہوگیا تو ایسے ہی لوگوں نے بھلائی طلب کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : ہم میں سے کچھ تو مسلمان ہوگئے ہیں، اور ہم میں سے (اب بھی) کچھ ظالم ہیں۔ چنانچہ جو اسلام لاچکے ہیں، انہوں نے ہدایت کا راستہ ڈھونڈ لیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur kya un ko nahi dikhlai deta ke ye log har saal ek bar ya do bar kisi na kisi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ نہیں دیکھتے کہ وہ ہر سال میں ایک بار یا دو بار مصیبت میں مبتلا کئے جاتے ہیں پھر (بھی) وہ توبہ نہیں کرتے اور نہ ہی وہ نصیحت پکڑتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا یہ لوگ دیکھتے نہیں کہ وہ ہر سال ایک دو مرتبہ کسی آزمائش میں مبتلا ہوتے ہیں، پھر بھی نہ وہ توبہ کرتے ہیں، اور نہ کوئی سبق حاصل کرتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

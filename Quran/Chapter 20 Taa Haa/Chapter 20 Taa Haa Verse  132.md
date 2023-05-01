@@ -3224,6 +3224,12 @@ apne gharaane ke logo par namaaz ki taakid rakh aur khud bhi us par jama reh, hu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ اپنے گھر والوں کو نماز کا حکم فرمائیں اور اس پر ثابت قدم رہیں، ہم آپ سے رزق طلب نہیں کرتے (بلکہ) ہم آپ کو رزق دیتے ہیں، اور بہتر انجام پرہیزگاری کا ہی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنے گھر والوں کو نماز کا حکم دو ، اور خود بھی اس پر ثابت قدم رہو۔ ہم تم سے رزق نہیں چاہتے رزق تو ہم تمہیں دیں گے اور بہتر انجام تقوی ہی کا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

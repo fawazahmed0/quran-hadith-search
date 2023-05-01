@@ -3224,6 +3224,12 @@ yahi wo anmbiya hai jin par Allah ta’ala ne fazl wa karam kiya, jo aulaad aada
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں جن پر اللہ نے انعام فرمایا ہے زمرۂ انبیاء میں سے آدم (علیہ السلام) کی اولاد سے ہیں اور ان (مومنوں) میں سے ہیں جنہیں ہم نے نوح (علیہ السلام) کے ساتھ کشتی میں (طوفان سے بچا کر) اٹھا لیا تھا، اور ابراہیم (علیہ السلام) کی اور اسرائیل (یعنی یعقوب علیہ السلام) کی اولاد سے ہیں اور ان (منتخب) لوگوں میں سے ہیں جنہیں ہم نے ہدایت بخشی اور برگزیدہ بنایا، جب ان پر (خدائے) رحمان کی آیتوں کی تلاوت کی جاتی ہے وہ سجدہ کرتے ہوئے اور (زار و قطار) روتے ہوئے گر پڑتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آدم کی اولاد میں سے یہ وہ نبی ہیں جن پر اللہ نے انعام فرمایا، اور ان میں سے کچھ ان لوگوں کی اولاد میں سے ہیں جن کو ہم نے نوح کے ساتھ (کشتی میں) سوار کیا تھا، اور کچھ ابراہیم اور اسرائیل (یعقوب (علیہ السلام)) کی اولاد میں سے ہیں۔ اور یہ سب ان لوگوں میں سے ہیں جن کو ہم نے ہدایت دی، اور (اپنے دین کے لیے) منتخب کیا۔ جب ان کے سامنے خدائے رحمن کی آیتوں کی تلاوت کی جاتی تو یہ روتے ہوئے سجدے میں گرجاتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

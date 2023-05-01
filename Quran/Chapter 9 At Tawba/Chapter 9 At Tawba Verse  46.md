@@ -3224,6 +3224,12 @@ agar un ka irada jihad ke liye nikalne ka hota tuh wo us safar ke liye saman ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر انہوں نے (واقعی جہاد کے لئے) نکلنے کا ارادہ کیا ہوتا تو وہ اس کے لئے (کچھ نہ کچھ) سامان تو ضرور مہیا کر لیتے لیکن (حقیقت یہ ہے کہ ان کے کذب و منافقت کے باعث) اللہ نے ان کا (جہاد کے لئے) کھڑے ہونا (ہی) ناپسند فرمایا سو اس نے انہیں (وہیں) روک دیا اور ان سے کہہ دیا گیا کہ تم (جہاد سے جی چرا کر) بیٹھ رہنے والوں کے ساتھ بیٹھے رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر ان کا ارادہ نکلنے کا ہوتا تو اس کے لیے انہوں نے کچھ نہ کچھ تیاری کی ہوتی۔ لیکن اللہ نے ان کا اٹھنا پسند ہی نہیں کیا، اس لیے انہیں سست پڑا رہنے دیا، اور کہہ دیا گیا کہ جو (اپاہج ہونے کی وجہ سے) بیٹھے ہیں، ان کے ساتھ تم بھی بیٹھ رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

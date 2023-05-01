@@ -3224,6 +3224,12 @@ khud Nabi ne kaha aye rab! insaaf ke saath faisla farma aur hamara rab bada mehe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ہمارے حبیب نے) عرض کیا: اے میرے رب! (ہمارے درمیان) حق کے ساتھ فیصلہ فرما دے، اور ہمارا رب بے حد رحم فرمانے والا ہے، اسی سے مدد طلب کی جاتی ہے ان (دل آزار) باتوں پر جو (اے کافرو!) تم بیان کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (آخرکار) پیغمبر نے کہا کہ : اے میرے پروردگار ! حق کا فیصلہ کردیجیے، اور ہمارا پروردگار بڑٰی رحمت والا ہے، اور جو باتیں تم بناتے ہو، ان کے مقابلے میں اسی کی مدد درکار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

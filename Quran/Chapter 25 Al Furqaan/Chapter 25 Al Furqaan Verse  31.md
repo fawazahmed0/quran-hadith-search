@@ -3224,6 +3224,12 @@ aur isi tarah hum ne har Nabi ke dushman baaz gunehgaaro ko bana diya hai aur te
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے ہر نبی کے لئے جرائم شعار لوگوں میں سے (ان کے) دشمن بنائے تھے (جو ان کے پیغمبرانہ مشن کی مخالفت کرتے اور اس طرح حق اور باطل قوتوں کے درمیان تضاد پیدا ہوتا جس سے انقلاب کے لئے سازگار فضا تیار ہو جاتی تھی)، اور آپ کا رب ہدایت کرنے اور مدد فرمانے کے لئے کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اسی طرح مجرم لوگوں کو ہر نبی کا دشمن بنایا ہے۔ اور تمہارا پروردگار ہدایت دینے اور مدد کرنے کے لیے کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

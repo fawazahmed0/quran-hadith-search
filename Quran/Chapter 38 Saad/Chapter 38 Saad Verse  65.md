@@ -3224,6 +3224,12 @@ keh dijiye! ke main to sirf qabardaar karne waala ho aur bajuz Allah waahedh gha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: میں تو صرف ڈر سنانے والا ہوں، اور اللہ کے سوا کوئی معبود نہیں جو یکتا سب پر غالب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کہہ دو کہ : میں تو ایک خبردار کرنے والا ہوں، اور اس اللہ کے سوا کوئی عبادت کے لائق نہیں جو ایک ہے، جو سب پر غالب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

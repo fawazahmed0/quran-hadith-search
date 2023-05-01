@@ -3224,6 +3224,12 @@ ye (sar ta pa) hidaayath hai, aur jin logo ne apne rab ki aayato ko na maana un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (قرآن) ہدایت ہے، اور جن لوگوں نے اپنے رب کی آیات کے ساتھ کفر کیا اُن کے لئے سخت ترین دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ (قرآن) سراپا ہدایت ہے اور جن لوگوں نے اپنے پروردگار کی آیتوں کا انکار کیا ہے، ان کے لیے بلا کا دردناک عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

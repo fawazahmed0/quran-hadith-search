@@ -3224,6 +3224,12 @@ ye kehne lagi, main tujh se rehmaan ki panaah maangti hoon, agar tu kuch bhi All
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(مریم علیہا السلام نے) کہا: بیشک میں تجھ سے (خدائے) رحمان کی پناہ مانگتی ہوں اگر تو (اللہ سے) ڈرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مریم نے کہا : میں تم سے خدائے رحمن کی پناہ مانگتی ہوں۔ اگر تم میں خدا کا خوف ہے (تو یہاں سے ہٹ جاؤ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur yaad karo jab ke hum ne aap se farma diya ke aap ke rub ne logo ko gher liya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کیجئے) جب ہم نے آپ سے فرمایا کہ بیشک آپ کے رب نے (سب) لوگوں کو (اپنے علم و قدرت کے) احاطہ میں لے رکھا ہے، اور ہم نے تو (شبِ معراج کے) اس نظّارہ کو جو ہم نے آپ کو دکھایا لوگوں کے لئے صرف ایک آزمائش بنایا ہے (ایمان والے مان گئے اور ظاہر بین الجھ گئے) اور اس درخت (شجرۃ الزقوم) کو بھی جس پر قرآن میں لعنت کی گئی ہے، اور ہم انہیں ڈراتے ہیں مگر یہ (ڈرانا بھی) ان میں کوئی اضافہ نہیں کرتا سوائے اور بڑی سرکشی کے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغبر) وہ وقت یاد کرو جب ہم نے تم سے کہا تھا کہ تمہارا پروردگار (اپنے علم سے) تمام لوگوں کا احاطہ کیے ہوئے ہے۔ اور ہم نے جو نظارہ تمہیں دکھایا ہے، اس کو ہم نے (کافر) لوگوں کے لیے ایک فتنہ بنادیا۔ نیز اس درخت کو بھی جس پر قرآن میں لعنت آئی ہے۔ اور ہم تو ان کو ڈراتے رہتے ہیں، لیکن اس سے ان کی سخت سرکشی ہی میں اضافہ ہورہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

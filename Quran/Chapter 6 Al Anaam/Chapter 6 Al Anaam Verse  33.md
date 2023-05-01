@@ -3224,6 +3224,12 @@ hum qoob jaante hai ke aap ko un ke aqwaal maghmoom6 karte hai, so ye log aap ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) بیشک ہم جانتے ہیں کہ وہ (بات) یقیناً آپ کو رنجیدہ کررہی ہے کہ جو یہ لوگ کہتے ہیں، پس یہ آپ کو نہیں جھٹلا رہے لیکن (حقیقت یہ ہے کہ) ظالم لوگ اللہ کی آیتوں سے ہی انکار کررہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے رسول) ہمیں خوب معلوم ہے کہ یہ لوگ جو باتیں کرتے ہیں ان سے تمہیں رنج ہوتا ہے، کیونکہ دراصل یہ تمہیں نہیں جھٹلاتے، بلکہ یہ ظالم اللہ کی آیتوں کا انکار کرتے ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

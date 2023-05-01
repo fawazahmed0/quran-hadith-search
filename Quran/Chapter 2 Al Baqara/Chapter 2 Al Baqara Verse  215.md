@@ -3224,6 +3224,12 @@ aap se pochte hai ke wo kya qarch kare? aap kehdi jiye ke jo maal tum qarch karo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ سے پوچھتے ہیں کہ (اللہ کی راہ میں) کیا خرچ کریں، فرما دیں: جس قدر بھی مال خرچ کرو (درست ہے)، مگر اس کے حق دار تمہارے ماں باپ ہیں اور قریبی رشتہ دار ہیں اور یتیم ہیں اور محتاج ہیں اور مسافر ہیں، اور جو نیکی بھی تم کرتے ہو بیشک اللہ اسے خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگ آپ سے پوچھتے ہیں کہ وہ (اللہ کی خوشنودی کے لیے) کیا خرچ کریں ؟ آپ کہہ دیجیے کہ جو مال بھی تم خرچ کرو وہ والدین، قریبی رشتہ داروں، یتیموں، مسکینوں اور مسافروں کے لیے ہونا چاہیے، اور تم بھلائی کا جو کام بھی کرو، اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

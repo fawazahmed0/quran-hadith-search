@@ -3224,6 +3224,12 @@ ta ke aap aise logo ko daraaye jin ke baap daade nahi daraaye gaye thein, so (is
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ آپ اس قوم کو ڈر سنائیں جن کے باپ دادا کو (بھی) نہیں ڈرایا گیا سو وہ غافل ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ تم ان لوگوں کو خبردار کرو جن کے باپ دادوں کو پہلے خبردار نہیں کیا گیا تھا، اس لیے وہ غفلت میں پڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

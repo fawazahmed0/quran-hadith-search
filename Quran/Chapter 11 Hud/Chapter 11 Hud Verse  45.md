@@ -3224,6 +3224,12 @@ noah alaihissalaam ne apne parvardigaar ko pukara aur kaha ke mere rub mera beta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نوح (علیہ السلام) نے اپنے رب کو پکارا اور عرض کیا: اے میرے رب! بیشک میرا لڑکا (بھی) تو میرے گھر والوں میں داخل تھا اور یقینًا تیرا وعدہ سچا ہے اور تو سب سے بڑا حاکم ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نوح نے اپنے پروردگار کو پکارا اور کہا کہ : اے میرے پروردگار ! میرا بیٹا میرے گھر ہی کا ایک فرد ہے، اور بیشک تیرا وعدہ سچا ہے، اور تو سارے حاکموں سے بڑھ کر حاکم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas qaroon puri araayesh ke saath apni khaum ke majme mein nikla, to dunyaawi zi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر وہ اپنی قوم کے سامنے (پوری) زینت و آرائش (کی حالت) میں نکلا۔ (اس کی ظاہری شان و شوکت کو دیکھ کر) وہ لوگ بول اٹھے جو دنیوی زندگی کے خواہش مند تھے: کاش! ہمارے لئے (بھی) ایسا (مال و متاع) ہوتا جیسا قارون کو دیا گیا ہے، بیشک وہ بڑے نصیب والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر (ایک دن) وہ اپنی قوم کے سامنے آن بان کے ساتھ نکلا۔ جو لوگ دنیوی زندگی کے طلب گار تھے، وہ کہنے لگے : اے کاش ! ہمارے پاس بھی وہ چیزیں ہوتیں جو قارون کو عطا کی گئی ہیں۔ یقینا وہ بڑے نصیبوں والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

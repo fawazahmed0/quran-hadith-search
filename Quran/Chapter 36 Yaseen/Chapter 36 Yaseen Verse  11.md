@@ -3224,6 +3224,12 @@ bas aap to sirf aise shaqs ko dara sakte hai jo nasihath par chale aur rahmaan s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ تو صرف اسی شخص کو ڈر سناتے ہیں جو نصیحت کی پیروی کرتا ہے اور خدائے رحمان سے بن دیکھے ڈرتا ہے، سو آپ اسے بخشش اور بڑی عزت والے اجر کی خوشخبری سنا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم تو صرف ایسے شخص کو خبردار کرسکتے ہو جو نصیحت پر چلے، اور خدائے رحمن کو دیکھے بغیر اس سے ڈرے۔ چنانچہ ایسے شخص کو تم مغفرت اور باعزت اجر کی خوشخبری سنا دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

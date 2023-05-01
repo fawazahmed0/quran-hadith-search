@@ -3224,6 +3224,12 @@ kash ke tuh dekhta jab ke farishte kafiro ki roh qabz karte hai un ke muh par au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ (وہ منظر) دیکھیں (تو بڑا تعجب کریں) جب فرشتے کافروں کی جان قبض کرتے ہیں وہ ان کے چہروں اور ان کی پشتوں پر (ہتھوڑے) مارتے جاتے ہیں اور (کہتے ہیں کہ دوزخ کی) آگ کا عذاب چکھ لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم دیکھتے (تو وہ عجیب منظر تھا) جب فرشتے ان کافروں کی روح قبض کر رہے تھے، ان کے چہروں اور پشت پر مارتے جاتے تھے (اور کہتے جاتے تھے کہ) اب جلنے کے عذاب کا مزہ (بھی) چکھنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ meri aayate to tumhaare saamne padi jaati thi, phir bhi tum apni ediyo ke bal ul
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک میری آیتیں تم پر پڑھ پڑھ کر سنائی جاتی تھیں تو تم ایڑیوں کے بل الٹے پلٹ جایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میری آیتیں تم کو پڑھ کر سنائی جاتی تھیں تو تم الٹے پاؤں مڑ جاتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

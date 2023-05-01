@@ -3224,6 +3224,12 @@ beshak aap ka rab un chizo ko bhi jaanta hai, jinhe un ke sine chupa rahe hai au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک آپ کا رب ان (باتوں) کو ضرور جانتا ہے جو ان کے سینے (اندر) چھپائے ہوئے ہیں اور (ان باتوں کو بھی) جو یہ آشکار کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یقین رکھو کہ تمہارا پروردگار وہ ساری باتیں بھی جانتا ہے جو ان کے سینے چھپائے ہوئے ہیں، اور وہ باتیں بھی جو وہ علانیہ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Tilʹky teper! A pered tsym ty chynyv neposlukh i buv odnym iz tykh, yaki poshyr
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(جواب دیا گیا کہ) اب (ایمان لاتا ہے)؟ حالانکہ تو پہلے (مسلسل) نافرمانی کرتا رہا ہے اور تو فساد بپا کرنے والوں میں سے تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (جواب دیا گیا کہ) اب ایمان لاتا ہے ؟ حالانکہ اس سے پہلے نافرمانی کرتا رہا، اور مسلسل فساد ہی مچاتا رہا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

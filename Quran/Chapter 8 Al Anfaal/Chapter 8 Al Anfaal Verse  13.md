@@ -3224,6 +3224,12 @@ ye is bath ki saza hai ke unhone Allah ki aur us ke rasol ki muqalifath ki aur j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اس لئے کہ انہوں نے اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی مخالفت کی، اور جو شخص اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی مخالفت کرے تو بیشک اللہ (اسے) سخت عذاب دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اس لیے کہ انہوں نے اللہ اور اس کے رسول سے دشمنی مول لی ہے، اور اگر کوئی شخص اللہ اور اس کے رسول سے دشمنی مول لیتا ہے، تو یقینا اللہ کا عذاب بڑا سخت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

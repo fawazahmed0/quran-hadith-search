@@ -3224,6 +3224,12 @@ unhone kaha, kya (waqei) tu hee yousuf (alaihissallaam) hai, jawaab diya ke haan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: کیا واقعی تم ہی یوسف ہو؟ انہوں نے فرمایا: (ہاں) میں یوسف ہوں اور یہ میرا بھائی ہے بیشک اللہ نے ہم پر احسان فرمایا ہے، یقیناً جو شخص اللہ سے ڈرتا اور صبر کرتا ہے تو بیشک اللہ نیکوکاروں کا اجر ضائع نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس پر) وہ بول اٹھے : ارے کیا تم ہی یوسف ہو ؟ یوسف نے کہا : میں یوسف ہوں، اور یہ میرا بھائی ہے۔ اللہ نے ہم پر بڑا احسان فرمایا ہے۔ حقیقت یہ ہے کہ جو شخص تقوی اور صبر سے کام لیتا ہے، تو اللہ نیکی کرنے والوں کا اجر ضائع نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

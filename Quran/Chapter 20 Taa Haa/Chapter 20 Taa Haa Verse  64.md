@@ -3224,6 +3224,12 @@ to tum bhi apna koyi daao utha na rakho, phir saf bandhi kar ke aao, jo aaj ghaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(انہوں نے باہم فیصلہ کیا) پس تم (جادو کی) اپنی ساری تدابیر جمع کر لو پھر قطار باندھ کر (اکٹھے ہی) میدان میں آجاؤ، اور آج کے دن وہی کامیاب رہے گا جو غالب آجائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا اپنی ساری تدبیریں پختہ کرلو، پھر صف باندھ کر آؤ، اور یقین رکھو کہ آج جو غالب آجائے گا، فلاح اسی کو حاصل ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

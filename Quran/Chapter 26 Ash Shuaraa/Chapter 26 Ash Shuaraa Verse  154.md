@@ -3224,6 +3224,12 @@ to, tu hum jaisa hee insaan hai, agar tu saccho se hai, to koyi maujeza le aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم تو محض ہمارے جیسے بشر ہو، پس تم کوئی نشانی لے آؤ اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمہاری حقیقت اس کے سوا کچھ بھی نہیں کہ تم ہم جیسے ہی ایک انسان ہو۔ لہذا اگر سچے ہو تو کوئی نشانی لے کر آؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

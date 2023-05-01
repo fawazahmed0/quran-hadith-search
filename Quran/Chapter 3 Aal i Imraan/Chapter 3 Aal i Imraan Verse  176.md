@@ -3224,6 +3224,12 @@ kufr mein aage badne waale log tujhe ghamnaak na kare, yaqeen maano ke ye Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے غمگسارِ عالم!) جو لوگ کفر (کی مدد کرنے) میں بہت تیزی کرتے ہیں وہ آپ کو غمزدہ نہ کریں، وہ اللہ (کے دین) کا کچھ نہیں بگاڑ سکتے اور اللہ چاہتا ہے کہ ان کے لئے آخرت میں کوئی حصہ نہ رکھے اور ان کے لئے زبردست عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جو لوگ کفر میں ایک دوسرے سے بڑھ کر تیزی دکھا رہے ہیں، وہ تمہیں صدمے میں نہ ڈالیں، یقین رکھو وہ اللہ کا ذرا بھی نقصان نہیں کرسکتے، اللہ یہ چاہتا ہے کہ آخرت میں ان کوئی حصہ نہ رکھے، اور ان کے لیے زبردست عذاب (تیار) ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

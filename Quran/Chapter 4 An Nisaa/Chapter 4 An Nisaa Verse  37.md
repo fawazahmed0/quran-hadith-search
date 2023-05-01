@@ -3224,6 +3224,12 @@ jo log khud baqili karte hai aur dusro ko bhi baqili karne ko kehte hai aur Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ (خود بھی) بخل کرتے ہیں اور لوگوں کو (بھی) بخل کا حکم دیتے ہیں اور اس (نعمت) کو چھپاتے ہیں جواللہ نے انہیں اپنے فضل سے عطا کی ہے، اور ہم نے کافروں کے لئے ذلت انگیز عذاب تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے لوگ جو خود بھی کنجوسی کرتے ہیں اور دوسروں کو بھی کنجوسی کی تلقین کرتے ہیں، اور اللہ نے ان کو اپنے فضل سے جو کچھ دے رکھا ہے اسے چھپاتے ہیں، اور ہم نے ایسے ناشکروں کے لیے زلیل کردینے والا عذاب تیار رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

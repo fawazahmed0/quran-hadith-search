@@ -3224,6 +3224,12 @@ phir un mein, khud un mein se (hee) rasool bhi bheja ke tum sab Allah ki ibaadat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو ہم نے ان میں (بھی) انہی میں سے رسول بھیجا کہ تم اللہ کی عبادت کرو اور اس کے سوا تمہارا کوئی معبود نہیں ہے، تو کیا تم نہیں ڈرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے درمیان انہی میں کے ایک شخص کو رسول بنا کر بھیجا۔ (جس نے کہا) کہ : اللہ کی عبادت کرو، اس کے سوا تمہارا کوئی معبود نہیں ہے۔ بھلا کیا تم ڈرتے نہیں ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

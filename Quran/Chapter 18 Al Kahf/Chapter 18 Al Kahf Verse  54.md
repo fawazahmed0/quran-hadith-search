@@ -3224,6 +3224,12 @@ hum ne is Qur’an mein har har tariqe se tamaam ki tamaam misaale logo ke liye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے اس قرآن میں لوگوں کے لئے ہر طرح کی مثال کو (انداز بدل بدل کر) بار بار بیان کیا ہے، اور انسان جھگڑنے میں ہر چیز سے بڑھ کر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے لوگوں کے فائدے کے لیے اس طرح قرآن میں طرح طرح سے ہر قسم کے مضامین بیان کیے ہیں، اور انسان ہے کہ جھگڑا کرنے میں ہر چیز سے بڑھ گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

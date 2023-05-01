@@ -3224,6 +3224,12 @@ Allah ta’ala ne kaafiro par laanath ki hai aur un ke liye bhadakti hoyi aag ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ نے کافروں پر لعنت فرمائی ہے اور اُن کے لِئے (دوزخ کی) بھڑکتی آگ تیار کر رکھی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس میں کوئی شک نہیں کہ اللہ نے کافروں کو رحمت سے دور کردیا ہے اور ان کے لیے بھڑکتی ہوئی آگ تیار کی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

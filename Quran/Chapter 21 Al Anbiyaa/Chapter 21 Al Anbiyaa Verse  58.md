@@ -3224,6 +3224,12 @@ pas us ne un sab ke tukde tukde kar diye, haan sirf bade budh ko chohd diya, ye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ابراہیم (علیہ السلام) نے ان (بتوں) کو ٹکڑے ٹکڑے کر ڈالا سوائے بڑے (بُت) کے تاکہ وہ لوگ اس کی طرف رجوع کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ابراہیم نے ان کے بڑے بت کے سوا سارے بتوں کو ٹکڑے ٹکڑے کردیا، تاکہ وہ لوگ اس کی طرف رجوع کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap un ke baare mein gham na kare aur un ke daao ghaath se tang dil na ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیبِ مکرّم!) آپ ان (کی باتوں) پر غم زدہ نہ ہوا کریں اور نہ اس مکر و فریب کے باعث جو وہ کر رہے ہیں تنگ دلی میں (مبتلاء) ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم ان لوگوں پر غم نہ کرو، اور یہ جس مکاری کا مظاہرہ کر رہے ہیں، ان کی وجہ سے گھٹن محسوس نہ کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

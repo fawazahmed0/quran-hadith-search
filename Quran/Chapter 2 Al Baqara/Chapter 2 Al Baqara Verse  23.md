@@ -3224,6 +3224,12 @@ hum ne jo kuch apne bande par utara hai us mein agar tumhe shak ho aur tum sacch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم اس (کلام) کے بارے میں شک میں مبتلا ہو جو ہم نے اپنے (برگزیدہ) بندے پر نازل کیا ہے تو اس جیسی کوئی ایک سورت ہی بنا لاؤ، اور (اس کام کے لئے بیشک) اللہ کے سوا اپنے (سب) حمائتیوں کو بلا لو اگر تم (اپنے شک اور انکار میں) سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم اس (قرآن) کے بارے میں ذرا بھی شک میں ہو جو ہم نے اپنے بندے (محمد (صلی اللہ علیہ وآلہ وسلم) پر اتارا ہے تو اس جیسی کوئی ایک سورت ہی بنا لاؤ۔ اور اگر سچے ہو تو اللہ کے سوا اپنے تمام مدد گاروں کو بلالو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

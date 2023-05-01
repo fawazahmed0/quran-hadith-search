@@ -3224,6 +3224,12 @@ osi ko pukaarna haq hai, jo log auro ko us ke siva pukaarte hai, wo un (ki pukaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی کے لئے حق (یعنی توحید) کی دعوت ہے، اور وہ (کافر) لوگ جو اس کے سوا (معبودانِ باطلہ یعنی بتوں) کی عبادت کرتے ہیں، وہ انہیں کسی چیز کا جواب بھی نہیں دے سکتے۔ ان کی مثال تو صرف اس شخص جیسی ہے جو اپنی دونوں ہتھیلیاں پانی کی طرف پھیلائے (بیٹھا) ہو کہ پانی (خود) اس کے منہ تک پہنچ جائے اور (یوں تو) وہ (پانی) اس تک پہنچنے والا نہیں، اور (اسی طرح) کافروں کا (بتوں کی عبادت اور ان سے) دعا کرنا گمراہی میں بھٹکنے کے سوا کچھ نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس سے دعا کرنا برحق ہے۔ اور اس کو چھوڑ کر یہ لوگ جن (دیوتاؤں) کو پکارتے ہیں وہ ان کی دعاؤں کا کوئی جواب نہیں دیتے، البتہ ان کی مثال اس شخص کی سی ہے جو پانی کی طرف اپنے دونوں ہاتھ پھیلا کر یہ چاہے کہ پانی خود اس کے منہ تک پہنچ جائے، حالانکہ وہ کبھی خود منہ تک نہیں پہنچ سکتا۔ اور (بتوں سے) کافروں کے دعا کرنے کا نتیجہ اس کے سوا کچھ نہیں کہ وہ بھٹکتی ہی پھرتی رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

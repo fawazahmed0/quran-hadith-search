@@ -3224,6 +3224,12 @@ unhone kaha accha hum us ke baap ko us ki baabath phuslayenge aur puri koshish k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: ہم اس کے بھیجنے سے متعلق اس کے باپ سے ضرور تقاضا کریں گے اور ہم یقیناً (ایسا) کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ بولے : ہم اس کے والد کو اس کے بارے میں بہلانے کی کوشش کریں گے (کہ وہ اسے ہمارے ساتھ بھیج دیں) اور ہم ایسا ضرور کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo Allah ta’ala ka zikr khade aur baite aur apni karwato par lete hoye karte h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں جو (سراپا نیاز بن کر) کھڑے اور (سراپا ادب بن کر) بیٹھے اور (ہجر میں تڑپتے ہوئے) اپنی کروٹوں پر (بھی) اللہ کو یاد کرتے رہتے ہیں اور آسمانوں اور زمین کی تخلیق (میں کارفرما اس کی عظمت اور حُسن کے جلووں) میں فکر کرتے رہتے ہیں، (پھر اس کی معرفت سے لذت آشنا ہو کر پکار اٹھتے ہیں:) اے ہمارے رب! تو نے یہ (سب کچھ) بے حکمت اور بے تدبیر نہیں بنایا، تو (سب کوتاہیوں اور مجبوریوں سے) پاک ہے پس ہمیں دوزخ کے عذاب سے بچا لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اٹھتے بیٹھتے اور لیٹے ہوئے (ہر حال میں) اللہ کو یاد کرتے ہیں، اور آسمانوں اور زمین کی تخلیق پر غور کرتے ہیں، (اور انہیں دیکھ کر بول اٹھتے ہیں کہ) اے ہمارے پروردگار ! آپ نے یہ سب کچھ بےمقصد پیدا نہیں کیا۔ آپ (ایسے فضول کام سے) پاک ہیں، پس ہمیں دوزخ کے عذاب سے بچا لیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

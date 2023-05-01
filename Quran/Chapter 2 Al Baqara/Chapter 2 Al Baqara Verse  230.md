@@ -3224,6 +3224,12 @@ phir agar us ko (tisri baar) talaaq dede, to ab us ke liye halaal nahi jab tak k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر اس نے (تیسری مرتبہ) طلاق دے دی تو اس کے بعد وہ اس کے لئے حلال نہ ہوگی یہاں تک کہ وہ کسی اور شوہر کے ساتھ نکاح کر لے، پھر اگر وہ (دوسرا شوہر) بھی طلاق دے دے تو اب ان دونوں (یعنی پہلے شوہر اور اس عورت) پر کوئی گناہ نہ ہوگا اگر وہ (دوبارہ رشتۂ زوجیت میں) پلٹ جائیں بشرطیکہ دونوں یہ خیال کریں کہ (اب) وہ حدودِ الٰہی قائم رکھ سکیں گے، یہ اللہ کی (مقرر کردہ) حدود ہیں جنہیں وہ علم والوں کے لئے بیان فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اگر شوہر (تیسری) طلاق دیدے تو وہ (مطلقہ عورت) اس کے لیے اس وقت تک حلال نہیں ہوگی جب تک وہ کسی اور شوہر سے نکاح نہ کرے، ہاں اگر وہ (دوسرا شوہر بھی) اسے طلاق دیدے تو ان دونوں پر کوئی گناہ نہیں کہ وہ ایک دوسرے کے پاس (نیا نکاح کر کے) دوبارہ واپس آجائیں، بشرطیکہ انہیں یہ غالب گمان ہو کہ اب وہ اللہ کی حدود قائم رکھیں گے، اور یہ سب اللہ کی حدود ہیں جو وہ ان لوگوں کے لیے واضح کر رہا ہے جو سمجھ رکھتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ bil aaqir hum ne un par ek tez wa tundh aandhi man’hoos dino mein bhej di, ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو ہم نے اُن پر منحوس دنوں میں خوفناک تیز و تُند آندھی بھیجی تاکہ ہم انہیں دنیوی زندگی میں ذِلت کے عذاب کا مزہ چکھائیں، اور آخرت کا عذاب تو سب سے زیادہ ذِلت انگیز ہوگا اور اُن کی کوئی مدد نہ کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہم نے کچھ منحوس دنوں میں ان پر آندھی کی شکل میں ہوا بھیجی تاکہ انہیں دنیوی زندگی میں رسوائی کے عذاب کا مزہ چکھائیں اور آخرت کا عذاب اس سے بھی زیادہ رسوا کرنے والا ہے۔ اور ان کو کوئی مدد میسر نہیں آئے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

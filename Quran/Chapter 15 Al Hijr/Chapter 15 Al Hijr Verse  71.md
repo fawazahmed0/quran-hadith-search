@@ -3224,6 +3224,12 @@ Lut ne aajiz hokar kaha “agar tumhein kuch karna hi hai to yeh meri betiyan ma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لوط (علیہ السلام) نے کہا: یہ میری (قوم کی) بیٹیاں ہیں اگر تم کچھ کرنا چاہتے ہو (تو بجائے بدکرداری کے ان سے نکاح کر لو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوط نے کہا : اگر تم میرے کہنے پر عمل کرو تو یہ میری بیٹیاں (جو تمہارے نکاح میں ہیں، تمہارے پاس) موجود ہی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

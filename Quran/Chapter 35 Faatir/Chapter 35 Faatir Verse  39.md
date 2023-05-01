@@ -3224,6 +3224,12 @@ wahi aisa hai jis ne tum ko zameen mein abaadh kiya, so jo shaqs kufr karega us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے تمہیں زمین میں (گزشتہ اقوام کا) جانشین بنایا، پس جس نے کفر کیا سو اس کا وبالِ کفر اسی پر ہوگا، اور کافروں کے حق میں ان کا کفر اُن کے رب کے حضور سوائے ناراضگی کے اور کچھ نہیں بڑھاتا، اور کافروں کے حق میں ان کا کفر سوائے نقصان کے کسی (بھی) اور چیز کا اضافہ نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے تمہیں زمین میں (پچھلے لوگوں کا) جانشین بنایا۔ اب جو شخص کفر کرے گا تو اس کا کفر اسی پر پڑے گا۔ اور کافروں کے لیے ان کا کفر ان کے پروردگار کے پاس غضب کے سوا کسی اور چیز میں اضافہ نہیں کرتا، اور کافروں کو ان کے کفر سے خسارے کے سوا کسی چیز میں ترقی حاصل نہیں ہوتی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

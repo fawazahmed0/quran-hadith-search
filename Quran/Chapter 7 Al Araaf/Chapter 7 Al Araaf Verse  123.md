@@ -3224,6 +3224,12 @@ feraun kehne laga ke tum Mosa par imaan laaye ho baghair is ke, ke main tum ko i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرعون بولا : تم میرے اجازت دینے سے پہلے ہی اس شخص پر ایمان لے آئے۔ یہ ضرور کوئی سازش ہے جو تم نے اس شہر میں ملی بھگت کر کے بنائی ہے، تاکہ تم یہاں کے رہنے والوں کو یہاں سے نکال باہر کرو۔ اچھا تو تمہیں ابھی پتہ چل جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

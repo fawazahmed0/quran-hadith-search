@@ -3224,6 +3224,12 @@ kya meri aayate tumhaare saamne tilaawath nahi ki jaati thi? phir bhi tum unhe j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان سے کہا جائے گا:) کیا تم پر میری آیتیں پڑھ پڑھ کر نہیں سنائی جاتی تھیں پھر تم انہیں جھٹلایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان سے کہا جائے گا کہ) کیا میری آیتیں تمہیں پڑھ کر سنائی نہیں جاتی تھیں ؟ اور تم ان کو جھٹلایا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

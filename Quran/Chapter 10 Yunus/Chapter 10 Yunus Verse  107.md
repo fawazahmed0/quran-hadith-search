@@ -3224,6 +3224,12 @@ aur agar tum ko Allah koi taklif pahonchaye to bajoz us ke aur koi us ko door ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ تمہیں کوئی تکلیف پہنچائے تو اس کے سوا کوئی اسے دور کرنے والا نہیں اور اگر وہ تمہارے ساتھ بھلائی کا ارادہ فرمائے تو کوئی اس کے فضل کو ردّ کرنے والا نہیں۔ وہ اپنے بندوں میں سے جسے چاہتا ہے اپنا فضل پہنچاتا ہے، اور وہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہیں اللہ کوئی تکلیف پہنچا دے تو اس کے سوا کوئی نہیں ہے جو اسے دور کردے، اور اگر وہ تمہیں کوئی بھلائی پہنچانے کا ارادہ کرلے تو کوئی نہیں ہے جو اس کے فضل کا رخ پھیر دے۔ وہ اپنا فضل اپنے بندوں میں سے جس کو چاہتا ہے پہنچا دیتا ہے، اور وہ بہت بخشنے والا بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

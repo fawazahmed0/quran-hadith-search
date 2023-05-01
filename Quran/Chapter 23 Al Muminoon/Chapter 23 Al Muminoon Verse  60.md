@@ -3224,6 +3224,12 @@ aur jo log dete hai, jo kuch dete hai aur un ke dil kap kapaate hai ke wo apne r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ (اللہ کی راہ میں اتنا کچھ) دیتے ہیں جتنا وہ دے سکتے ہیں اور (اس کے باوجود) ان کے دل خائف رہتے ہیں کہ وہ اپنے رب کی طرف پلٹ کر جانے والے ہیں (کہیں یہ نامقبول نہ ہو جائے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ جو عمل بھی کرتے ہیں، اسے کرتے وقت ان کے دل اس بات سے سہمے ہوتے ہیں کہ انہیں اپنے پروردگار کے پاس واپس جانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

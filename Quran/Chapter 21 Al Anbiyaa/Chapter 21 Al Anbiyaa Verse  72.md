@@ -3224,6 +3224,12 @@ aur hum ne ose Ishaaq(alaihissalaaam) ata farmaya aur Yaqoob(alaihissalaam) us p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے انہیں (فرزند) اسحاق (علیہ السلام) بخشا اور (پوتا) یعقوب (علیہ السلام ان کی دعا سے) اضافی بخشا، اور ہم نے ان سب کو صالح بنایا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے ان کو انعام کے طور پر اسحاق اور یعقوب عطا کیے، اور ان میں سے ہر ایک کو ہم نے نیک بنایا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

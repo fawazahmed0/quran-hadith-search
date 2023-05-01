@@ -3224,6 +3224,12 @@ keh dijiye ke dekho to sahih agar, Allah ta’ala tum par raath hee raath qayaam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: ذرا اتنا بتاؤ کہ اگر اللہ تمہارے اوپر روزِ قیامت تک ہمیشہ رات طاری فرما دے (تو) اللہ کے سوا کون معبود ہے جو تمہیں روشنی لا دے۔ کیا تم (یہ باتیں) سنتے نہیں ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہو : ذرا یہ بتلاؤ کہ اگر اللہ تم پر رات کو ہمیشہ کے لیے قیامت کے دن تک مسلط رکھے تو اللہ کے سوا کونسا معبود ہے جو تمہارے پاس روشنی لے کر آئے ؟ بھلا کیا تم سنتے نہیں ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

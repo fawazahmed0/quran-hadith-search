@@ -3224,6 +3224,12 @@ aap keh dijiye! ke aye Allah! asmaano aur zameen ke paida karne waale, chupe khu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ عرض کیجئے: اے اللہ! آسمانوں اور زمین کو عدم سے وجود میں لانے والے! غیب اور ظاہر کا علم رکھنے والے! تو ہی اپنے بندوں کے درمیان اُن (امور) کا فیصلہ فرمائے گا جن میں وہ اختلاف کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو :” اے اللہ ! اے آسمانوں اور زمین کو پیدا کرنے والے، ہر غائب و حاضر کے جاننے والے ! تو ہی اپنے بندوں کے درمیان ان باتوں کا فیصلہ کرے گا جن میں وہ اختلاف کرتے رہے ہیں “۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

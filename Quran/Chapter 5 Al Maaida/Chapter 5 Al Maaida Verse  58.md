@@ -3224,6 +3224,12 @@ aur jab tum namaz ke liye pukarte ho tuh wo ose hasi khel tehra lete hai,ye is w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تم نماز کے لئے (لوگوں کو بصورتِ اذان) پکارتے ہو تو یہ (لوگ) اسے ہنسی اور کھیل بنا لیتے ہیں۔ یہ اس لئے کہ وہ ایسے لوگ ہیں جو (بالکل) عقل ہی نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم نماز کے لیے (لوگوں کو) پکارتے ہو تو وہ اس (پکار) کو مذاق اور کھیل کا نشانہ بناتے ہیں۔ یہ سب (حرکتیں) اس وجہ سے ہیں کہ ان لوگوں کو عقل نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

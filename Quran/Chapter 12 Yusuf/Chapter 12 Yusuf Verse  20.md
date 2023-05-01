@@ -3224,6 +3224,12 @@ aur unhone ose bahuth hee halki qimath par ginti ke chand dirhamo par hee bech d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یوسف (علیہ السلام) کے بھائیوں نے (جو موقع پر آگئے تھے اسے اپنا بھگوڑا غلام کہہ کر انہی کے ہاتھوں) بہت کم قیمت گنتی کے چند درہموں کے عوض بیچ ڈالا کیونکہ وہ راہ گیر اس (یوسف علیہ السلام کے خریدنے) کے بارے میں (پہلے ہی) بے رغبت تھے (پھر راہ گیروں نے اسے مصر لے جا کر بیچ دیا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (پھر) انہوں نے یوسف کو بہت کم قیمت میں بیچ دیا جو گنتی کے چند درہموں کی شکل میں تھی، اور ان کو یوسف سے کوئی دلچسپی نہیں تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

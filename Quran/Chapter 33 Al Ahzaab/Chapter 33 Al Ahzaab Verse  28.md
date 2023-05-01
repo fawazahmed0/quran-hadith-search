@@ -3224,6 +3224,12 @@ aye Nabi! (sallallahu alaihi wasalaam)apni biwiyo se kehdo ke agar tum zindagaan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبیِ (مکرَّم!) اپنی اَزواج سے فرما دیں کہ اگر تم دنیا اور اس کی زینت و آرائش کی خواہش مند ہو تو آؤ میں تمہیں مال و متاع دے دوں اور تمہیں حسنِ سلوک کے ساتھ رخصت کر دوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! اپنی بیویوں سے کہو کہ : اگر تم دنیوی زندگی اور اس کی زینت چاہتی ہو تو آؤ، میں تمہیں کچھ تحفے دے کر خوبصورتی کے ساتھ رخصت کردوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo log imaan laaye Allah unhe bhi zaaher kar ke rahega aur munafiqo ko bhi zaahe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ضرور ایسے لوگوں کو ممتاز فرما دے گا جو (سچے دل سے) ایمان لائے ہیں اور منافقوں کو (بھی) ضرور ظاہر کر دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ تعالیٰ ضرور معلوم کر کے رہے گا کہ کون لوگ ایمان لائے ہیں اور وہ ضرور معلوم کر کے رہے گا کہ کون لوگ منافق ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

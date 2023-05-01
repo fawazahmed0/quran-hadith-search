@@ -3224,6 +3224,12 @@ aur jis basti ko hum ne halaak kar diya, us par laazim hai ke wahaan ke log pala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس بستی کو ہم نے ہلاک کر ڈالا ناممکن ہے کہ اس کے لوگ (مرنے کے بعد) ہماری طرف پلٹ کر نہ آئیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس کسی بستی (کے لوگوں) کو ہم نے ہلاک کیا ہے، اس کے لیے ناممکن ہے کہ وہ پلٹ کر (دنیا میں) آجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

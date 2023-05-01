@@ -3224,6 +3224,12 @@ kaafiro ke liye dunya ki zindagi qoob zinatdaar36 ki gayi hai, wo imaan waalo se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کافروں کے لئے دنیا کی زندگی خوب آراستہ کر دی گئی ہے اور وہ ایمان والوں سے تمسخر کرتے ہیں، اور جنہوں نے تقویٰ اختیار کیا وہ قیامت کے دن ان پر سربلند ہوں گے، اور اللہ جسے چاہتا ہے بے حساب نوازتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا ہے، ان کے لیے دنیوی زندگی بڑی دلکش بنادی گئی ہے، اور وہ اہل ایمان کا مذاق اڑاتے ہیں، حالانکہ جنہوں نے تقوی اختیار کیا ہے وہ قیامت کے دن ان سے کہیں بلند ہوں گے، اور اللہ جس کو چاہتا ہے بےحساب رزق دیتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

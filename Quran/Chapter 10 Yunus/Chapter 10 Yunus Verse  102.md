@@ -3224,6 +3224,12 @@ so wo log sirf un logo ke se waqeaath ka intezaar kar rahe hai jo un se pehle gu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو کیا یہ لوگ انہی لوگوں (کے بُرے دنوں) جیسے دِنوں کا انتظار کر رہے ہیں جو ان سے پہلے گزر چکے ہیں؟ فرما دیجئے کہ تم (بھی) انتظار کرو میں (بھی) تمہارے ساتھ انتظار کرنے والوں میں سے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا بتاؤ کہ یہ لوگ (ایمان لانے کے لیے) اس کے سوا کس بات کا انتظار کر رہے ہیں کہ اس طرح کے دن یہ بھی دیکھیں جیسے ان سے پہلے کے لوگوں نے دیکھے تھے ؟ کہہ دو کہ : اچھا تم انتظار کرو، میں بھی تمہارے ساتھ منتظر ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

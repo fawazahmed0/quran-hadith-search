@@ -3224,6 +3224,12 @@ us din (gehre) dosth bhi ek dosre ke dushman ban jayenge sivaaye parhezgaaro ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سارے دوست و احباب اُس دن ایک دوسرے کے دشمن ہوں گے سوائے پرہیزگاروں کے (انہی کی دوستی اور ولایت کام آئے گی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن تمام دوست ایک دوسرے کے دشمن ہوں گے، سوائے متقی لوگوں کے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

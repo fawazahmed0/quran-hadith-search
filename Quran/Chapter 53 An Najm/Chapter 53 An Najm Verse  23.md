@@ -3224,6 +3224,12 @@ dar asal ye sirf naam hai, jo tum ne aur tumhaare baap dadaao ne, un ke rakh liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر (حقیقت یہ ہے کہ) وہ (بت) محض نام ہی نام ہیں جو تم نے اور تمہارے باپ دادا نے رکھ لئے ہیں۔ اللہ نے ان کی نسبت کوئی دلیل نہیں اتاری، وہ لوگ محض وہم و گمان کی اور نفسانی خواہشات کی پیروی کر رہے ہیں حالانکہ اُن کے پاس اُن کے رب کی طرف سے ہدایت آچکی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی حقیقت اس کے سوا کچھ نہیں ہے کہ یہ کچھ نام ہیں جو تم نے اور تمہارے باپ دادوں نے رکھ لیے ہیں، اللہ نے ان کے حق میں کوئی ثبوت نازل نہیں کیا، درحقیقت یہ (کافر) لوگ محض وہم و گمان اور نفسانی خواہشات کے پیچھے چل رہے ہیں، حالانکہ ان کے پروردگار کی طرف سے ان کے پاس ہدایت آچکی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

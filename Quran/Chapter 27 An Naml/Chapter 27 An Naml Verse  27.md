@@ -3224,6 +3224,12 @@ Sulaiman ne kaha, ab hum dekhenge ke tu ne sach kaha hai ya tu jhuta hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(سلیمان علیہ السلام نے) فرمایا: ہم ابھی دیکھتے ہیں کیا تو سچ کہہ رہا ہے یا توجھوٹ بولنے والوں سے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلیمان نے کہا : ہم ابھی دیکھ لیتے ہیں کہ تم نے سچ کہا ہے یا جھوٹ بولنے والوں میں تم بھی شامل ہوگئے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

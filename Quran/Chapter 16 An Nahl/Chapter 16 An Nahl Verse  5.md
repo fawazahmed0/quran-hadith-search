@@ -3224,6 +3224,12 @@ osi ne chau paaye paida kiye jin mein tumhaare liye garmi ke libaas hai aur bhi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُسی نے تمہارے لئے چوپائے پیدا فرمائے، ان میں تمہارے لئے گرم لباس ہے اور (دوسرے) فوائد ہیں اور ان میں سے بعض کو تم کھاتے (بھی) ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور چوپائے اسی نے پیدا کیے جن میں تمہارے لیے سردی سے بچاؤ کا سامان ہے، اور اس کے علاوہ بہت سے فائدے ہیں، اور انہی میں سے تم کھاتے بھی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

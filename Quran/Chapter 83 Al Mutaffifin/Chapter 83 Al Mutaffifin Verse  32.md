@@ -3224,6 +3224,12 @@ aur jab unhe dekhte to kehte yaqinan ye log gumraah (be-raah) hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب یہ (مغرور لوگ) ان (کمزور حال مومنوں) کو دیکھتے تو کہتے: یقیناً یہ لوگ راہ سے بھٹک گئے ہیں (یعنی یہ دنیا گنوا بیٹھے ہیں اور آخرت تو ہے ہی فقط افسانہ)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان (مومنوں) کو دیکھتے تو کہتے کہ یہ لوگ یقینا گمراہ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

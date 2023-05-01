@@ -3224,6 +3224,12 @@ un ko paakiza baath ki rehnumaayi kar di gayi aur qaabile sadh tareef raah ki hi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہیں (دنیا میں) پاکیزہ قول کی ہدایت کی گئی اور انہیں (اسلام کے) پسندیدہ راستہ کی طرف رہنمائی کی گئی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وجہ یہ ہے کہ) ان لوگوں کی رسائی پاکیزہ بات (یعنی کلمہ توحید) تک ہوگئی تھی، اور وہ اس خدا کے راستے تک پہنچ گئے تھے جو ہر تعریف کا مستحق ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

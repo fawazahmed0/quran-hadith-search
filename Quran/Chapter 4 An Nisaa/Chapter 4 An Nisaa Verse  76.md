@@ -3224,6 +3224,12 @@ jo log imaan laaye hai wo to Allah ta’ala ki raah mein jihaad karte hai aur ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ ایمان لائے وہ اللہ کی راہ میں (ظلم و استحصال کے خاتمے اور امن کی بحالی کے لیے) جنگ کرتے ہیں اورجنہوں نے کفر کیا وہ شیطان کی راہ میں (طاغوتی مقاصد کے لئے) جنگ کرتے ہیں، پس (اے مؤمنو!) تم شیطان کے دوستوں (یعنی انسانیت کے دشمنوں) سے لڑو، بیشک شیطان کا داؤ کمزور ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ایمان لائے ہوئے ہیں وہ اللہ کے راستے میں لڑتے ہیں، اور جن لوگوں نے کفر اپنا لیا ہے وہ طاغوت کے راستے میں لڑتے ہیں۔ لہذا (اے مسلمانو) تم شیطان کے دوستوں سے لڑو۔ (یاد رکھو کہ) شیطان کی چالیں درحقیقت کمزور ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

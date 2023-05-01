@@ -3224,6 +3224,12 @@ aur jis din hum har ummath mein se gawah khada karenge phir kaafiro ko na ijaaza
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس دن ہم ہر اُمت سے (اس کے نبی کو اس کے اعمال پر) گواہ بنا کر اٹھائیں گے پھر کافر لوگوں کو (کوئی عذر پیش کرنے کی) اجازت نہیں دی جائے گی اور نہ (اس وقت) ان سے توبہ و رجوع کا مطالبہ کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس دن کو یاد رکھو جب ہم ہر ایک امت میں سے ایک گواہ کھڑا کریں گے۔ پھر جن لوگوں نے کفر اپنایا تھا انہیں (عذر پیش کرنے کی) اجازت نہیں دی جائے گی، اور نہ ان سے یہ فرمائش کی جائے گی کہ وہ توبہ کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

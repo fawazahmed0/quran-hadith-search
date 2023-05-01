@@ -3224,6 +3224,12 @@ kya tu ne un logo ko nahi dekha, jinhe kaana phosi se rok diya gaya tha, wo phir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے اُن لوگوں کو نہیں دیکھا جنہیں سرگوشیوں سے منع کیا گیا تھا پھر وہ لوگ وہی کام کرنے لگے جس سے روکے گئے تھے اور وہ گناہ اور سرکشی اور نافرمانئ رسول (صلی اللہ علیہ وآلہ وسلم) سے متعلق سرگوشیاں کرتے ہیں اور جب آپ کے پاس حاضر ہوتے ہیں تو آپ کو اُن (نازیبا) کلمات کے ساتھ سلام کرتے ہیں جن سے اللہ نے آپ کو سلام نہیں فرمایا اور اپنے دلوں میں کہتے ہیں کہ (اگر یہ رسول سچے ہیں تو) اللہ ہمیں اِن (باتوں) پر عذاب کیوں نہیں دیتا جو ہم کہتے ہیں؟ انہیں دوزخ (کا عذاب) ہی کافی ہے، وہ اسی میں داخل ہوں گے، اور وہ بہت ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے ان لوگوں کو نہیں دیکھا جنہیں سرگوشی کرنے سے منع کردیا گیا تھا، پھر بھی وہ وہی کام کرتے ہیں جس سے انہیں منع کیا گیا تھا ؟ اور وہ ایک دوسرے کے ساتھ ایسی سرگوشیاں کرتے ہیں جو گناہ، زیادتی اور رسول کی نافرمانی پر مشتمل ہوتی ہیں۔ اور (اے پیغمبر) جب وہ تمہارے پاس آتے ہیں تو تمہیں ایسے طریقے سے سلام کرتے ہیں جس سے اللہ نے تمہیں سلام نہیں کیا، اور اپنے دلوں میں کہتے ہیں کہ : ہم جو کچھ کہہ رہے ہیں اس پر اللہ ہمیں سزا کیوں نہیں دے دیتا ؟ جہنم ہی ان (کی خبر لینے) کے لیے کافی ہے، وہ اسی میں جا پہنچیں گے، اور وہ پہنچنے کی بہت بری جگہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir un logo ne us ontni ke paao kaat dale, us par saaleh ne kaha ke accha tum a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر انہوں نے اسے (کونچیں کاٹ کر) ذبح کر ڈالا، صالح (علیہ السلام) نے کہا: (اب) تم اپنے گھروں میں (صرف) تین دن (تک) عیش کرلو، یہ وعدہ ہے جو (کبھی) جھوٹا نہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ انہوں نے اس کو مار ڈالا، چنانچہ صالح نے کہا کہ : تم اپنے گھروں میں تین دن اور مزے کرلو، (اس کے بعد عذاب آئے گا اور) یہ ایسا وعدہ ہے جسے کوئی جھوٹا نہیں کرسکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

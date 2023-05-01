@@ -3224,6 +3224,12 @@ jo log imaan laaye aur unhone nek amaal kiye, unhe Allah ta’ala yaqinan aise b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ ان لوگوں کو جو ایمان لائے اور نیک اعمال کرتے رہے بہشتوں میں داخل فرمائے گا جن کے نیچے نہریں جاری ہوں گی، اور جن لوگوں نے کفر کیا اور (دنیوی) فائدے اٹھا رہے ہیں اور (اس طرح) کھا رہے ہیں جیسے چوپائے (جانور) کھاتے ہیں سو دوزخ ہی ان کا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ جو لوگ ایمان لائے ہیں اور انہوں نے نیک عمل کیے ہیں، اللہ ان کو ایسے باغات میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی۔ اور جنہوں نے کفر اپنا لیا ہے وہ (یہاں تو) مزے اڑا رہے ہیں، اور اسی طرح کھا رہے ہیں جیسے چوپائے کھاتے ہیں، اور جہنم ان کا آخری ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

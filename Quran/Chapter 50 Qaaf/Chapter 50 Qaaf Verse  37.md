@@ -3224,6 +3224,12 @@ is mein har saahebe dil ke liye ibrath hai aur us ke liye jo dil se mutawajjeh h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک اِس میں یقیناً اِنتباہ اور تذکّر ہے اُس شخص کے لیے جو صاحبِ دل ہے (یعنی غفلت سے دوری اور قلبی ‏بیداری رکھتا ہے) یا کان لگا کر سُنتا ہے (یعنی توجہ کو یکسو اور غیر سے منقطع رکھتا ہے) اور وہ (ہمہ وقت ‏اللہ کی نشانیوں کا) مشاہدہ کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا اس میں اس شخص کے لیے بڑی نصیحت کا سامان ہے جس کے پاس دل ہو، یا جو حاضر دماغ بن کر کان دھرے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

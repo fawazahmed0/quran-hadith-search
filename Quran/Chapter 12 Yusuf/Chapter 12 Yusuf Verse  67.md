@@ -3224,6 +3224,12 @@ aur (yaqoob alaihissallaam) ne kaha aye mere baccho! tum sub ek darwaaze se na j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرمایا: اے میرے بیٹو! (شہر میں) ایک دروازے سے داخل نہ ہونا بلکہ مختلف دروازوں سے (تقسیم ہو کر) داخل ہونا، اور میں تمہیں اللہ (کے اَمر) سے کچھ نہیں بچا سکتا کہ حکم (تقدیر) صرف اللہ ہی کے لئے ہے۔ میں نے اسی پر بھروسہ کیا ہے اور بھروسہ کرنے والوں کو اسی پر بھروسہ کرنا چاہئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ساتھ ہی یہ بھی) کہا کہ : میرے بیٹو ! تم سب ایک دروازے سے (شہر میں) داخل نہ ہونا، بلکہ مختلف دروازوں سے داخل ہونا میں اللہ کی مشیت سے تمہیں بچا سکتا، حکم اللہ کے سوا کسی کا نہیں چلتا۔ اسی پر میں نے بھروسہ کر رکھا ہے، اور جن جن کو بھروسہ کرنا ہو، انہیں چاہیے کہ اسی پر بھروسہ کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

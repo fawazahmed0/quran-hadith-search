@@ -3224,6 +3224,12 @@ sivaaye us paighambar ke jise wo pasand karle, lekin us ke bhi aage piche pehre 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے اپنے پسندیدہ رسولوں کے (اُنہی کو مطلع علی الغیب کرتا ہے کیونکہ یہ خاصۂ نبوت اور معجزۂ رسالت ہے)، تو بے شک وہ اس (رسول صلی اللہ علیہ وآلہ وسلم) کے آگے اور پیچھے (علمِ غیب کی حفاظت کے لئے) نگہبان مقرر فرما دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سوائے کسی پیغبر کے جسے اس نے (اس کام کے لیے) پسند فرما لیا ہو۔ ایسی صورت میں وہ اس پیغمبر کے آگے اور پیچھے کچھ محافظ لگا دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

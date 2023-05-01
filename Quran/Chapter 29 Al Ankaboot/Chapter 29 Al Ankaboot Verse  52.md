@@ -3224,6 +3224,12 @@ keh dijiye ke mujh mein aur tum mein Allah ta’ala gawaah hona kaafi hai, wo as
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیجئے: میرے اور تمہارے درمیان اللہ ہی گواہ کافی ہے۔ وہ جو کچھ آسمانوں اور زمین میں ہے (سب کا حال) جانتا ہے، اور جو لوگ باطل پر ایمان لائے اور اللہ کا انکار کیا وہی نقصان اٹھانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : میرے اور تمہارے درمیان گواہی دینے کے لیے اللہ کافی ہے، اسے ان تمام چیزوں کا علم ہے جو آسمانوں اور زمین میں موجود ہیں۔ اور جو لوگ باطل پر ایمان لائے ہیں، اور اللہ کا انکار کیا ہے، وہی ہیں جو سخت نقصان اٹھانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

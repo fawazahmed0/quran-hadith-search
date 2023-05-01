@@ -3224,6 +3224,12 @@ isi tarah hum ne aap ki taraf arabi Qur’aan ki wahi ki hai, ta ke aap makke wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے آپ کی طرف عربی زبان میں قرآن کی وحی کی تاکہ آپ مکّہ والوں کو اور اُن لوگوں کو جو اِس کے اِردگرد رہتے ہیں ڈر سنا سکیں، اور آپ جمع ہونے کے اُس دن کا خوف دلائیں جس میں کوئی شک نہیں ہے۔ (اُس دن) ایک گروہ جنت میں ہوگا اور دوسرا گروہ دوزخ میں ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی طرح ہم نے یہ عربی قرآن تم پر وحی کے ذریعے بھیجا ہے، تاکہ تم مرکزی بستی (مکہ) اور اس کے ارد گرد والوں کو اس دن سے خبردار کرو جس میں سب کو جمع کیا جائے گا، جس کے آنے میں کوئی شک نہیں ہے۔ ایک گروہ جنت میں جائے گا اور ایک گروہ بھڑکتی ہوئی آگ میں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

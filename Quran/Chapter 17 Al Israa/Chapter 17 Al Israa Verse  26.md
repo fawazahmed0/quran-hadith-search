@@ -3224,6 +3224,12 @@ aur rishtedaaro ka aur miskino aur musaafiro ka haq adaa karte raho, aur israaf 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور قرابت داروں کو ان کا حق ادا کرو اور محتاجوں اور مسافروں کو بھی (دو) اور (اپنا مال) فضول خرچی سے مت اڑاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور رشتہ دار کو اس کا حق دو ، اور مسکین اور مسافر کو (ان کا حق) اور اپنے مال کو بےہودہ کاموں میں نہ اڑاؤ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

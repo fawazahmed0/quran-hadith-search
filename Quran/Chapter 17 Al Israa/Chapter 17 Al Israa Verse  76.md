@@ -3224,6 +3224,12 @@ ye to aap ke qadam us sar zameen se uqaadne hee lage thein ke aap ko us se nikaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کفار یہ بھی چاہتے تھے کہ آپ کے قدم سرزمینِ (مکّہ) سے اکھاڑ دیں تاکہ وہ آپ کو یہاں سے نکال سکیں اور (اگر بالفرض ایسا ہو جاتا تو) اس وقت وہ (خود بھی) آپ کے پیچھے تھوڑی سی مدت کے سوا ٹھہر نہ سکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے علاوہ یہ لوگ اس فکر میں بھی ہیں کہ اس سرزمین (مکہ) سے تمہارے قدم اکھاڑ دیں، تاکہ تمہیں یہاں سے نکال کر باہر کریں۔ اور اگر ایسا ہوا تو یہ بھی تمہارے بعد زیادہ دیر یہاں نہیں ٹھہر سکیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

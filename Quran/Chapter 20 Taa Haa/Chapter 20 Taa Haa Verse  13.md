@@ -3224,6 +3224,12 @@ aur main ne tujhe muntaqab kar liya hai, ab jo wahi ki jaaye ose kaan laga kar s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں نے تمہیں (اپنی رسالت کے لئے) چن لیا ہے پس تم پوری توجہ سے سنو جو تمہیں وحی کی جا رہی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں نے تمہیں (نبوت کے لیے) منتخب کیا ہے۔ لہذا جو بات وحی کے ذریعے کہی جارہی ہے اسے غور سے سنو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

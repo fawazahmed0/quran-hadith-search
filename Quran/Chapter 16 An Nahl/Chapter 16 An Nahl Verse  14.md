@@ -3224,6 +3224,12 @@ aur darya bhi osi ne tumhaare bus mein kar diye hai ke tum us mein se (nikla hoa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے (فضا و بر کے علاوہ) بحر (یعنی دریاؤں اور سمندروں) کو بھی مسخر فرما دیا تاکہ تم اس میں سے تازہ (و پسندیدہ) گوشت کھاؤ اور تم اس میں سے موتی (وغیرہ) نکالو جنہیں تم زیبائش کے لئے پہنتے ہو، اور (اے انسان!) تُو کشتیوں (اور جہازوں) کو دیکھتا ہے جو (دریاؤں اور سمندروں کا) پانی چیرتے ہوئے اس میں چلے جاتے ہیں، اور (یہ سب کچھ اس لئے کیا) تاکہ تم (دور دور تک) اس کا فضل (یعنی رزق) تلاش کرو اور یہ کہ تم شکر گزار بن جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جس نے سمندر کو کام پر لگایا، تاکہ تم اس سے تازہ گوشت کھاؤ اور اس سے وہ زیورات نکالو جو تم پہنتے ہو۔ اور تم دیکھتے ہو کہ اس میں کشتیاں پانی کو چیرتی ہوئی چلتی ہیں، تاکہ تم اللہ کا فضل تلاش کرو، اور تاکہ شکر گزار بنو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

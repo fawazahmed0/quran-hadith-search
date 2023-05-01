@@ -3224,6 +3224,12 @@ aur hamare bheje hoye paighambar ibraheem ke paas khush qabri le kar pahonche au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہمارے فرستادہ فرشتے ابراہیم (علیہ السلام) کے پاس خوشخبری لے کر آئے، انہوں نے سلام کہا، ابراہیم (علیہ السلام) نے بھی (جوابًا) سلام کہا، پھر (آپ علیہ السلام نے) دیر نہ کی یہاں تک کہ (ان کی میزبانی کے لئے) ایک بھنا ہوا بچھڑا لے آئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہمارے فرشتے (انسانی شکل میں) ابراہیم کے پاس (بیٹا پیدا ہونے کی) خوشخبری لے کر آئے۔ انہوں نے سلام کہا، ابراہیم نے بھی سلام کہا، پھر ابراہیم کو کچھ دیر نہیں گزری تھی کہ وہ (ان کی مہمانی کے لیے) ایک بھنا ہوا بچھڑا لے آئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

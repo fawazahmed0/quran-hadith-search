@@ -3224,6 +3224,12 @@ beshak hum ne tumhaari taraf bhi, tum par gawaahi dene waala rasool bhej diya ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک ہم نے تمہاری طرف ایک رسول (صلی اللہ علیہ وآلہ وسلم) بھیجا ہے جو تم پر (اَحوال کا مشاہدہ فرما کر) گواہی دینے والا ہے، جیسا کہ ہم نے فرعون کی طرف ایک رسول کو بھیجا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (جھٹلانے والو !) یقین جانو ہم نے تمہارے پاس تم پر گواہ بننے والا ایک رسول اسی طرح بھیجا ہے، جیسے ہم نے فرعون کے پاس ایک رسول بھیجا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

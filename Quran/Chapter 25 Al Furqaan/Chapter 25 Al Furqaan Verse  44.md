@@ -3224,6 +3224,12 @@ kya aap isi qayaal mein hai ke un mein se aksar sunte ya samajhte hai, wo to nar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ یہ خیال کرتے ہیں کہ ان میں سے اکثر لوگ سنتے یا سمجھتے ہیں؟ (نہیں) وہ تو چوپایوں کی مانند (ہو چکے) ہیں بلکہ ان سے بھی بدتر گمراہ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا تمہارا خیال یہ ہے کہ ان میں سے اکثر لوگ سنتے یا سمجھتے ہیں ؟ نہیں ! ان کی مثال تو بس چار پاؤں کے جانوروں کی سی ہے، بلکہ یہ ان سے زیادہ راہ سے بھٹکے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

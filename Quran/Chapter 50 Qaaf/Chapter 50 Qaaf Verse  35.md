@@ -3224,6 +3224,12 @@ ye wahaa jo chaahe unhe milega (balke) hamaare paas aur bhi zyaada hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اِس (جنت) میں اُن کے لئے وہ تمام نعمتیں (موجود) ہوں گی جن کی وہ خواہش کریں گے اور ہمارے حضور میں ایک نعمت مزید بھی ہے (یا اور بھی بہت کچھ ہے، سو عاشق مَست ہوجائیں گے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان (جنتیوں) کو وہ سب کو کچھ ملے گا جو وہاں وہ چاہیں گے، اور ہمارے پاس کچھ اور زیادہ بھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

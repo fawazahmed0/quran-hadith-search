@@ -3224,6 +3224,12 @@ ose hum ne aglo pichlo ke liye ibrath ka sabab bana diya aur parhezgaaro ke liye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ہم نے اس (واقعہ) کو اس زمانے اور اس کے بعد والے لوگوں کے لئے (باعثِ) عبرت اور پرہیزگاروں کے لئے (مُوجبِ) نصیحت بنا دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے اس واقعے کو اس زمانے کے اور اس کے بعد کے لوگوں کے لئے عبرت اور ڈرنے والوں کے لئے نصیحت کا سامان بنادیا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

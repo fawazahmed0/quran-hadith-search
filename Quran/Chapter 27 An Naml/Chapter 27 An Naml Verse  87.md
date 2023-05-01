@@ -3224,6 +3224,12 @@ jis din soor phonka jayega, to sab ke sab asmaano waale aur zameen waale ghabra 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس دن صُور پھونکا جائے گا تو وہ (سب لوگ) گھبرا جائیں گے جو آسمانوں میں ہیں اور جو زمین میں ہیں مگر جنہیں اللہ چاہے گا (نہیں گھبرائیں گے)، اور سب اس کی بارگاہ میں عاجزی کرتے ہوئے حاضر ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس دن صور پھونکا جائے گا، تو آسمانوں اور زمین کے سب رہنے والے گھبرا اٹھیں گے۔ سوائے ان کے جنہیں اللہ چاہے۔ اور سب اس کے پاس جھکے ہوئے حاضر ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

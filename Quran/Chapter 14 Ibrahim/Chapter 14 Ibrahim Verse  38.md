@@ -3224,6 +3224,12 @@ aye hamare parvardigaar! tu qoob jaanta hai jo hum chipaae aur jo zaaher kare, z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! بیشک تو وہ (سب کچھ) جانتا ہے جو ہم چھپاتے ہیں اور جو ہم ظاہر کرتے ہیں، اور اللہ پر کوئی بھی چیز نہ زمین میں پوشیدہ ہے اور نہ ہی آسمان میں (مخفی ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ہمارے رب ! ہم جو کام چھپ کر کرتے ہیں، وہ بھی آپ کے علم میں ہیں، اور جو کام علانیہ کرتے ہیں، وہ بھی۔ اور اللہ سے نہ زمین کی کوئی چیز چھپی ہوئی ہے، نہ آسمان کی کوئی چیز۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

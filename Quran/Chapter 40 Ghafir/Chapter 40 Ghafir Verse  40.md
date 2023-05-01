@@ -3224,6 +3224,12 @@ jis ne koyi gunaah kiya, ose us ke gunaaho ke baraabar hee badhla diya jayega au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے برائی کی تو اسے بدلہ نہیں دیا جائے گا مگر صرف اسی قدر، اور جس نے نیکی کی، خواہ مرد ہو یا عورت اور مومن بھی ہو تو وہی لوگ جنّت میں داخل ہوں گے انہیں وہاں بے حساب رِزق دیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس شخص نے کوئی برائی کی ہوگی، اسے اسی کے برابر بدلہ دیا جائے گا، اور جس نے نیک کام کیا ہوگا، چاہے وہ مرد ہو یا عورت جبکہ وہ مومن ہو تو ایسے لوگ جنت میں داخل ہوں گے وہاں انہیں بےحساب رزق دیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

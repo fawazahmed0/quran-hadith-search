@@ -3224,6 +3224,12 @@ us ne jawaab diya ke aye meri qaum ke logo! zara batao to agar main apne rub ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+صالح (علیہ السلام) نے کہا: اے میری قوم! ذرا سوچو تو سہی اگر میں اپنے رب کی طرف سے روشن دلیل پر (قائم) ہوں اور مجھے اس کی جانب سے (خاص) رحمت نصیب ہوئی ہے، (اس کے بعد اس کے احکام تم تک نہ پہنچا کر) اگر میں اس کی نافرمانی کر بیٹھوں تو کون شخص ہے جو اللہ (کے عذاب) سے بچانے میں میری مدد کرسکتا ہے؟ پس سوائے نقصان پہنچانے کے تم میرا (اور) کچھ نہیں بڑھا سکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 صالح نے کہا : اے میری قوم ! ذرا مجھے یہ بتاؤ کہ اگر میں اپنے پروردگار کی طرف سے آئی ہوئی ایک روشن ہدایت پر قائم ہوں، اور اس نے مجھے خاص اپنے پاس سے ایک رحمت (یعنی نبوت) عطا فرمائی ہے، پھر بھی اگر میں اس کی نافرمانی کروں تو کون ہے جو مجھے اللہ (کی پکڑ) سے بچا لے ؟ لہذا تم (میرے فرائض سے روک رک) بربادی میں مبتلا کرنے کے سوا مجھے اور کیا دے رہے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

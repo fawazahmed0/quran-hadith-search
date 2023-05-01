@@ -3224,6 +3224,12 @@ aur soor phook diya jayega, pas asmaano aur zameen waale sab be hosh ho kar gir 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور صُور پھونکا جائے گا تو سب لوگ جو آسمانوں میں ہیں اور جو زمین میں ہیں بے ہوش ہو جائیں گے سوائے اُس کے جسے اللہ چاہے گا، پھر اس میں دوسرا صُور پھونکا جائے گا، سو وہ سب اچانک دیکھتے ہوئے کھڑے ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور صور پھونکا جائے گا تو آسمانوں اور زمین میں جتنے ہیں وہ سب بےہوش ہوجائیں گے، سوائے اس کے جسے اللہ چاہے، پھر دوسری بار پھونکا جائے تو وہ سب لوگ پل بھر میں کھڑے ہو کر دیکھنے لگیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ insaan kehta hai ke jab main mar jaonga to kya phir zinda kar ke nikaala jaonga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انسان کہتا ہے: کیا جب میں مرجاؤں گا تو عنقریب زندہ کر کے نکالا جاؤں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (کافر) انسان یہ کہتا ہے کہ : جب میں مرچکا ہوں گا تو کیا واقعی اس وقت مجھے زندہ کر کے نکالا جائے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

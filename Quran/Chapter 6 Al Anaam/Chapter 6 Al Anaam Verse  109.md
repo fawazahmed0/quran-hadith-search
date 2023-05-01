@@ -3224,6 +3224,12 @@ aur un logo ne qasmo mein bada zoor laga kar Allah ta’ala ki qasam khaayi ke a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بڑے تاکیدی حلف کے ساتھ اللہ کی قَسم کھاتے ہیں کہ اگر ان کے پاس کوئی (کھلی) نشانی آجائے تو وہ اس پر ضرور ایمان لے آئیں گے۔ (ان سے) کہہ دو کہ نشانیاں توصرف اللہ ہی کے پاس ہیں، اور (اے مسلمانو!) تمہیں کیا خبر کہ جب وہ نشانی آجائے گی (تو) وہ (پھر بھی) ایمان نہیں لائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں نے بڑی زور دار قسمیں کھائی ہیں کہ اگر ان کے پاس واقعی کوئی نشانی (یعنی ان کا مطلوب معجزہ) آگئی تو یہ یقینا ضرور اس پر ایمان لے آئیں گے (ان سے) کہو کہ : ساری نشانیاں اللہ کے قبضے میں ہیں۔ اور (مسلمانو) تمہیں کیا پتہ کہ اگر وہ (معجزے) آبھی گئے تب بھی یہ ایمان نہیں لائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

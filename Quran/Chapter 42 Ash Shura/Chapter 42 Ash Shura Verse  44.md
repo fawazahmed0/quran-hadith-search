@@ -3224,6 +3224,12 @@ aur jise Allah ta’ala behka de, us ka us ke baadh koyi chaara saaz nahi aur tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جسے اللہ گمراہ ٹھہرا دے تو اُس کے لئے اُس کے بعد کوئی کارساز نہیں ہوتا، اور آپ ظالموں کو دیکھیں گے کہ جب وہ عذابِ (آخرت) دیکھ لیں گے (تو) کہیں گے: کیا (دنیا میں) پلٹ جانے کی کوئی سبیل ہے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جسے اللہ گمراہ کردے تو اس کے بعد کوئی نہیں ہے جو اس کا مددگار بنے۔ اور جب ظالموں کو عذاب نظر آجائے تو تم انہیں یہ کہتا ہوا دیکھیں گے کہ : کیا واپس جانے کا بھی کوئی راستہ ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

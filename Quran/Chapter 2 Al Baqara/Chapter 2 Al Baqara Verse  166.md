@@ -3224,6 +3224,12 @@ jis waqth peshwa24 log apne taabedaro25 se bezaar ho jayenge aur azaab ko apni a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اور) جب وہ (پیشوایانِ کفر) جن کی پیروی کی گئی اپنے پیروکاروں سے بے زار ہوں گے اور (وہ سب اللہ کا) عذاب دیکھ لیں گے اور سارے اسباب ان سے منقطع ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب وہ (پیشوا) جن کے پیچھے یہ لوگ چلتے رہے ہیں، اپنے پیروکاروں سے مکمل بےتعلقی کا اعلان کریں گے اور یہ سب لوگ عذاب کو اپنی آنکھوں کے سامنے دیکھ لیں گے، اور ان کے تمام باہمی رشتے کٹ کر رہ جائیں گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

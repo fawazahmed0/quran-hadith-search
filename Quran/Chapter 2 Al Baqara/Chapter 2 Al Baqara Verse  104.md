@@ -3224,6 +3224,12 @@ aye imaan waalo tum Nabi (sallallahu’alaihi’wasallam) ko ra’eena19 na kaha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! (نبی اکرم صلی اللہ علیہ وآلہ وسلم کو اپنی طرف متوجہ کرنے کے لئے) رَاعِنَا مت کہا کرو بلکہ (ادب سے) اُنْظُرْنَا (ہماری طرف نظرِ کرم فرمائیے) کہا کرو اور (ان کا ارشاد) بغور سنتے رہا کرو، اور کافروں کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایمان والو ! (رسول اللہ (صلی اللہ علیہ وآلہ وسلم) سے مخاطب ہوکر) راعنا نہ کہا کرو، اور انظرنا کہہ دیا کرو۔ اور سنا کرو۔ اور کافروں کے لیے دردناک عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

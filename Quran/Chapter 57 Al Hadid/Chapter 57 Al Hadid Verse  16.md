@@ -3224,6 +3224,12 @@ kya ab tak imaan waalo ke liye waqt nahi aaya, ke un ke dil zikre ilaahi se aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ایمان والوں کے لئے (ابھی) وہ وقت نہیں آیا کہ اُن کے دل اللہ کی یاد کے لئے رِقّت کے ساتھ جھک جائیں اور اس حق کے لئے (بھی) جو نازل ہوا ہے اور اُن لوگوں کی طرح نہ ہو جائیں جنہیں اس سے پہلے کتاب دی گئی تھی پھر ان پر مدّت دراز گزر گئی تو اُن کے دل سخت ہوگئے، اور ان میں بہت سے لوگ نافرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ایمان لے آئے ہیں، کیا ان کے لیے اب بھی وقت نہیں آیا کہ ان کے دل اللہ کے ذکر کے لیے اور جو حق اترا ہے اس کے لیے پسیج جائیں ؟ اور وہ ان لوگوں کی طرح نہ بنیں جن کو پہلے کتاب دی گئی تھی، پھر ان پر ایک لمبی مدت گزر گئی، اور ان کے دل سخت ہوگئے، اور (آج) ان میں سے بہت سے نافرمان ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

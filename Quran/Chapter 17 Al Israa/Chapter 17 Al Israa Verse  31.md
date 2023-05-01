@@ -3224,6 +3224,12 @@ aur muflisi ke khauf se apni aulaado ko na maar daalo, un ko aur tum ko hum hee 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اپنی اولاد کو مفلسی کے خوف سے قتل مت کرو، ہم ہی انہیں (بھی) روزی دیتے ہیں اور تمہیں بھی، بیشک ان کو قتل کرنا بہت بڑا گناہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنی اولاد کو مفلسی کے خوف سے قتل نہ کرو۔ ہم انہیں بھی رزق دیں گے، اور تمہیں بھی۔ یقین جانو کہ ان کو قتل کرنا بڑی بھاری غلطی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

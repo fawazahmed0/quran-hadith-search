@@ -3224,6 +3224,12 @@ Allah ta’ala to aisa ba-barkath hai, ke agar chaahe to aap ko bahuth se aise b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بڑی برکت والا ہے اگر چاہے تو آپ کے لئے (دنیا ہی میں) اس سے (کہیں) بہتر باغات بنا دے جن کے نیچے سے نہریں رواں ہوں اور آپ کے لئے عالی شان محلات بنا دے (مگر نبوت و رسالت کے لئے یہ شرائط نہیں ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بڑی شان ہے اس (اللہ) کی جو اگر چاہے تو تمہیں ان سب سے کہیں بہتر چیز، (ایک باغ کے بجائے) بہت سے باغات دیدے جن کے نیچے نہریں بہتی ہوں، اور تمہیں بہت سے محلات کا مالک بنا دے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

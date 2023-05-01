@@ -3224,6 +3224,12 @@ bani israel ke kaafiro par (hazrath) Dawood(alaihissalaam) aur (hazarth) Isa bin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بنی اسرائیل میں سے جن لوگوں نے کفر کیا تھا انہیں داؤد اور عیسٰی ابن مریم (علیھما السلام) کی زبان پر (سے) لعنت کی جا چکی (ہے)۔ یہ اس لئے کہ انہوں نے نافرمانی کی اور حد سے تجاوز کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بنو اسرائیل کے جو لوگ کافر ہوئے ان پر داؤد اور عیسیٰ ابن مریم کی زبان سے لعنت بھیجی گئی تھی یہ سب اس لیے ہوا کہ انہوں نے نافرمانی کی تھی، اور وہ حد سے گزر جایا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

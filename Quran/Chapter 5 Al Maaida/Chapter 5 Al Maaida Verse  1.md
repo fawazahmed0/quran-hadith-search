@@ -3224,6 +3224,12 @@ ae iman walo! ahado paima1 pure karo,tumhare liye maweshi chaupae halal kiye gae
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! (اپنے) عہد پورے کرو۔ تمہارے لئے چوپائے جانور (یعنی مویشی) حلال کر دیئے گئے (ہیں) سوائے ان (جانوروں) کے جن کا بیان تم پر آئندہ کیا جائے گا (لیکن) جب تم اِحرام کی حالت میں ہو، شکار کو حلال نہ سمجھنا۔ بیشک اللہ جو چاہتا ہے حکم فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! معاہدوں کو پورا کرو۔ تمہارے لیے وہ چوپائے حلال کردیے گئے ہیں جو مویشیوں میں داخل (یا ان کے مشابہ) ہوں۔ سوائے ان کے جن کے بارے میں تمہیں پڑھ کر سنایا جائے گا بشرطیکہ جب تم احرام کی حالت میں ہو اس وقت شکار کو حلال نہ سمجھو۔ اللہ جس چیز کا ارادہ کرتا ہے اس کا حکم دیتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

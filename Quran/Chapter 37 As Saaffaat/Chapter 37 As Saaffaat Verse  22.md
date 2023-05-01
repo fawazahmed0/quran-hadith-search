@@ -3224,6 +3224,12 @@ zaalimo ko aur un ke hum raahiyo ko aur (jin) jin ki wo Allah ke alaawa parastis
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُن (سب) لوگوں کو جمع کرو جنہوں نے ظلم کیا اور ان کے ساتھیوں اور پیروکاروں کو (بھی) اور اُن (معبودانِ باطلہ) کو (بھی) جنہیں وہ پوجا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (فرشتوں سے کہا جائے گا کہ) گھیر لاؤ ان سب کو جنہوں نے ظلم کیا تھا، اور ان کے ساتھیوں کو بھی اور ان کو بھی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur us ke (saare) phal gher liye gaye, pas wo apne us qarch par jo us ne us mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اس تکبّر کے باعث) اس کے (سارے) پھل (تباہی میں) گھیر لئے گئے تو صبح کو وہ اس پونجی پر جو اس نے اس (باغ کے لگانے) میں خرچ کی تھی کفِ افسوس ملتا رہ گیا اور وہ باغ اپنے چھپروں پر گرا پڑا تھا اور وہ (سراپا حسرت و یاس بن کر) کہہ رہا تھا: ہائے کاش! میں نے اپنے رب کے ساتھ کسی کو شریک نہ ٹھہرایا ہوتا (اور اپنے اوپر گھمنڈ نہ کیا ہوتا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (پھر ہوا یہ کہ) اس کی ساری دولت عذاب کے گھیرے میں آگئی، اور صبح ہوئی تو اس حالت میں کہ اس نے باغ پر جو کچھ خرچ کیا تھا، وہ اس پر ہاتھ ملتا رہ گیا، جبکہ اس کا باغ اپنی ٹٹیوں پر گرا پڑا تھا، اور وہ کہہ رہا تھا : کاش ! میں نے اپنے رب کے ساتھ کسی کو شریک نہ مانا ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

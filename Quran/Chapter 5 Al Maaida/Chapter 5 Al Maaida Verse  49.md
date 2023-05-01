@@ -3224,6 +3224,12 @@ aap un ke mamlath mein khuda ki nazil karda wahi ke mutabiq hee hukm kiya ki jiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب! ہم نے یہ حکم کیا ہے کہ) آپ ان کے درمیان اس (فرمان) کے مطابق فیصلہ فرمائیں جو اللہ نے نازل فرمایا ہے اور ان کی خواہشات کی پیروی نہ کریں اور آپ ان سے بچتے رہیں کہیں وہ آپ کو ان بعض (احکام) سے جو اللہ نے آپ کی طرف نازل فرمائے ہیں پھیر (نہ) دیں، پھر اگر وہ (آپ کے فیصلہ سے) روگردانی کریں تو آپ جان لیں کہ بس اللہ ان کے بعض گناہوں کے باعث انہیں سزا دینا چاہتا ہے، اور لوگوں میں سے اکثر نافرمان (ہوتے) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ہم حکم دیتے ہیں) کہ تم ان لوگوں کے درمیان اسی حکم کے مطابق فیصلہ کرو جو اللہ نے نازل کیا ہے اور ان کی خواہشات کی پیروی نہ کرو، اور ان کی اس بات سے بچ کر رہو کہ وہ تمہیں فتنے میں ڈال کر کسی ایسے حکم سے ہٹا دیں جو اللہ نے تم پر نازل کیا ہو۔ اس پر اگر وہ منہ موڑیں تو جان رکھو کہ اللہ نے ان کے بعض گناہوں کی وجہ سے ان کو مصیبت میں مبتلا کرنے کا ارادہ کر رکھا ہے۔ اور ان لوگوں میں سے بہت سے فاسق ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

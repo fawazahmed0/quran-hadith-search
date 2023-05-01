@@ -3224,6 +3224,12 @@ aap kahiye ke wo kaun hai jo tum ko asman aur zamin se rizkh pahochata hai,ya wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان سے) فرما دیجئے: تمہیں آسمان اور زمین (یعنی اوپر اور نیچے) سے رزق کون دیتا ہے، یا (تمہارے) کان اور آنکھوں (یعنی سماعت و بصارت) کا مالک کون ہے، اور زندہ کو مُردہ (یعنی جاندار کو بے جان) سے کون نکالتا ہے اور مُردہ کو زندہ (یعنی بے جان کو جاندار) سے کون نکالتا ہے، اور (نظام ہائے کائنات کی) تدبیر کون فرماتا ہے؟ سو وہ کہہ اٹھیں گے کہ اللہ، تو آپ فرمائیے: پھرکیا تم (اس سے) ڈرتے نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان مشرکوں سے) کہو کہ :“ کون ہے جو تمہیں آسمان اور زمین سے رزق پہنچاتا ہے ؟ یا بھلا کون ہے جو سننے اور دیکھنے کی قوتوں کا مالک ہے ؟ اور کون ہے جو جاندار کو بےجان سے اور بےجان کو جاندار سے باہر نکال لاتا ہے ؟ اور کون ہے جو ہر کام کا انتظام کرتا ہے ؟” تو یہ لوگ کہیں گے کہ :“ اللہ ! تو تم ان سے کہو :“ کیا پھر بھی تم اللہ سے نہیں ڈرتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

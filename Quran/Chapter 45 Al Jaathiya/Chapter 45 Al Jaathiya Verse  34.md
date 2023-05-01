@@ -3224,6 +3224,12 @@ aur keh diya gaya ke aaj hum tumhe bhula denge jaise ke tum ne apne is din se mi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اُن سے) کہا جائے گا: آج ہم تمہیں بھلائے دیتے ہیں جِس طرح تم نے اپنے اِس دن کی پیشی کو بھلا دیا تھا اور تمہارا ٹھکانا دوزخ ہے اور تمہارے لئے کوئی بھی مددگار نہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان سے کہا جائے گا کہ : آج ہم تمہیں اسی طرح بھلا دیں گے جیسے تم نے یہ بات بھلا ڈالی تھی کہ تمہیں اپنے اس دن کا سامنا کرنا ہوگا اور تمہارا ٹھکانا آگ ہے، اور تمہیں کسی قسم کے مددگار میسر نہیں آئیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ main ne dekha ke un ki badshaahath ek aurath kar rahi hai, jise har qism ki chee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+میں نے (وہاں) ایک ایسی عورت کو پایا ہے جو ان (یعنی ملکِ سبا کے باشندوں) پر حکومت کرتی ہے اور اسے (ملکیت و اقتدار میں) ہر ایک چیز بخشی گئی ہے اور اس کے پاس بہت بڑا تخت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں نے وہاں ایک عورت کو پایا جو ان لوگوں پر بادشاہت کر رہی ہے، اور اس کو ہر طرح کا سازوسامان دیا گیا ہے، اور اس کا ایک شاندار تخت بھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

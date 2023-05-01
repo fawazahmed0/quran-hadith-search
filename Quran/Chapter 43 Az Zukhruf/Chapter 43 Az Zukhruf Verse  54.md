@@ -3224,6 +3224,12 @@ us ne apni khaum ko bhaylaaya phuslaaya aur unhone osi ki maan li, yaqinan ye sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اُس نے (اِن باتوں سے) اپنی قوم کو بے وقوف بنا لیا، سو اُن لوگوں نے اُس کا کہنا مان لیا، بیشک وہ لوگ ہی نافرمان قوم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح اس نے اپنی قوم کو بیوقوف بنایا اور انہوں نے اس کا کہنا مان لیا۔ حقیقت یہ ہے کہ وہ سب گنہگار لوگ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar ye tum mein mil kar nikalte bhi tuh tumhare liye sivae fasad ke aur koi chi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر وہ تم میں (شامل ہو کر) نکل کھڑے ہوتے تو تمہارے لئے محض شر و فساد ہی بڑھاتے اور تمہارے درمیان (بگاڑ پیدا کرنے کے لئے) دوڑ دھوپ کرتے وہ تمہارے اندر فتنہ بپا کرنا چاہتے ہیں اور تم میں (اب بھی) ان کے (بعض) جاسوس موجود ہیں، اور اللہ ظالموں سے خوب واقف ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر یہ لوگ تمہارے ساتھ نکل کھڑے ہوتے تو سوائے فساد پھیلانے کے تمہارے درمیان کوئی اور اضافہ نہ کرتے، اور تمہارے لیے فتنہ پیدا کرنے کی کوشش میں تمہاری صفوں کے درمیان دوڑے دوڑے پھرتے۔ اور خود تمہارے درمیان ایسے لوگ موجود ہیں جو ان کے مطلب کی باتیں خوب سنتے ہیں۔ اور اللہ ان ظالموں کو اچھی طرح جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

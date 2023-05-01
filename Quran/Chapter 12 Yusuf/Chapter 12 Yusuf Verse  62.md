@@ -3224,6 +3224,12 @@ apne khidmat gaaro se kaha ke un ki ponji unhee ki boriyo mein rakh do ke jab la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یوسف (علیہ السلام) نے اپنے غلاموں سے فرمایا: ان کی رقم (جو انہوں نے غلہ کے عوض اد اکی تھی واپس) ان کی بوریوں میں رکھ دو تاکہ جب وہ اپنے گھر والوں کی طرف لوٹیں تو اسے پہچان لیں (کہ یہ رقم تو واپس آگئی ہے) شاید وہ (اسی سبب سے) لوٹ کر آجائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یوسف نے اپنے نوکروں سے کہہ دیا کہ وہ ان (بھائیوں) کا مال (جس کے بدلے انہوں نے غلہ خریدا ہے) انہی کے کجاووں میں رکھ دیں، تاکہ جب یہ اپنے گھر والوں کے پاس واپس پہنچیں تو اپنے مال کو پہچان لیں۔ شاید (اس احسان کی وجہ سے) وہ دوبارہ آئیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

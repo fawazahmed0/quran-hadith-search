@@ -3224,6 +3224,12 @@ phir hum unhe bhi qoob jaante hain, jo jahannam ke daaqile ke zyaada sazawaar ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم ان لوگوں کو خوب جانتے ہیں جو دوزخ میں جھونکے جانے کے زیادہ سزاوار ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر یہ بات ہم ہی خوب جانتے ہیں کہ وہ کون لوگ ہیں جو سب سے پہلے اس دوزخ میں جھونکے جانے کے زیادہ مستحق ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

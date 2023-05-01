@@ -3224,6 +3224,12 @@ apne haath ko apne girebaan mein daal, wo baghair kisi qism ke roog ke chamakta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اپنا ہاتھ اپنے گریبان میں ڈالو وہ بغیر کسی عیب کے سفید چمک دار ہوکر نکلے گا اور خوف (دور کرنے کی غرض) سے اپنا بازو اپنے (سینے کی) طرف سکیڑ لو، پس تمہارے رب کی جانب سے یہ دو دلیلیں فرعون اور اس کے درباریوں کی طرف (بھیجنے اور مشاہدہ کرانے کے لئے) ہیں، بیشک وہ نافرمان لوگ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اپنا ہاتھ گریبان میں ڈالو، وہ کسی بیماری کے بغیر چمکتا ہوا نکلے گا، اور ڈر دور کرنے کے لیے اپنا بازو اپنے جسم سے لپٹا لینا اب یہ دو زبردست دلیلیں ہیں جو تمہارے پروردگار کی طرف سے فرعون اور اس کے درباریوں کے پاس بھیجی جارہی ہیں۔ وہ بڑے نافرمان لوگ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

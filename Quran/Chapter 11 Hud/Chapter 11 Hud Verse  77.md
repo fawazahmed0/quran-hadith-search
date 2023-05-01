@@ -3224,6 +3224,12 @@ jab hamare bheje hoye farishte looth ke paas pahonche to, wo un ki wajeh se bahu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہمارے فرستادہ فرشتے لوط (علیہ السلام) کے پاس آئے (تو) وہ ان کے آنے سے پریشان ہوئے اور ان کے باعث (ان کی) طاقت کمزور پڑ گئی اور کہنے لگے: یہ بہت سخت دن ہے (فرشتے نہایت خوب رُو تھے اور حضرت لوط علیہ السلام کو اپنی قوم کی بری عادت کا علم تھا سو ممکنہ فتنہ کے اندیشہ سے پریشان ہوئے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہمارے فرشتے لوط کے پاس پہنچے تو وہ ان کی وجہ سے گھبرائے، ان کا دل پریشان ہوا اور وہ کہنے لگے کہ : آج کا یہ دن بہت کٹھن ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

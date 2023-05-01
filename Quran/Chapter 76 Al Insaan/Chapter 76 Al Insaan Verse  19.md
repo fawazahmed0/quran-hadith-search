@@ -3224,6 +3224,12 @@ aur un ke ird gird ghumte phirte honge, wo kamsin bacche jo hamesha rehne waale 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے اِرد گرد ایسے (معصوم) بچے گھومتے رہیں گے، جو ہمیشہ اسی حال میں رہیں گے، جب آپ انہیں دیکھیں گے تو انہیں بکھرے ہوئے موتی گمان کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے سامنے (خد مت کے لیے) ایسے لڑکے گردش میں ہوں گے جو ہمیشہ لڑکے ہی رہیں گے۔ جب تم انہیں دیکھو گے تو یہ محسوس کرو گے کہ وہ موتی ہیں جو بکھیر دیے گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

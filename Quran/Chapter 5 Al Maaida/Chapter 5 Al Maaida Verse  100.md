@@ -3224,6 +3224,12 @@ aap farma dijiye ke na-paak aur paak baraabar nahi, go aap ko napaak ki kasrath 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: پاک اور ناپاک (دونوں) برابر نہیں ہو سکتے (اے مخاطب!) اگرچہ تمہیں ناپاک (چیزوں) کی کثرت بھلی لگے۔ پس اے عقلمند لوگو! تم (کثرت و قلت کا فرق دیکھنے کی بجائے) اللہ سے ڈرا کرو تاکہ تم فلاح پا جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے رسول ! لوگوں سے) کہہ دو کہ ناپاک اور پاکیزہ چیزیں برابر نہیں ہوتیں، چاہے تمہیں ناپاک چیزوں کی کثرت اچھی لگتی ہو۔ لہذا اے عقل والو ! اللہ سے ڈرتے رہو تاکہ تمہیں فلاح حاصل ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum ne Nuh (alaihissalaam) ko un ki khaum ki taraf bheja to unhone farmaaya aye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے نوح کو ان کی قوم کے پاس بھیجا چنانچہ انہوں نے کہا : اے میری قوم کے لوگو ! اللہ کی عبادت کرو، اس کے سوا تمہارا کوئی معبود نہیں ہے۔ یقین جانو مجھے سخت اندیشہ ہے کہ تم پر ایک زبردست دن کا عذاب نہ آکھڑا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

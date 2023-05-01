@@ -3224,6 +3224,12 @@ hum aap ke saamne Mosa(alaihissalaam) aur feraun ka sahih waaqea bayaan karte ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) ہم آپ پر موسٰی (علیہ السلام) اور فرعون کے حقیقت پر مبنی حال میں سے ان لوگوں کے لئے کچھ پڑھ کر سناتے ہیں جو ایمان رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم ایمان والے لوگوں کے فائدے کے لیے تمہیں موسیٰ اور فرعون کے کچھ حالات ٹھیک ٹھیک پڑھ کر سناتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

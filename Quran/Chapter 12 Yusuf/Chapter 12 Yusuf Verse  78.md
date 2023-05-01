@@ -3224,6 +3224,12 @@ unhone kaha ke aye azize misr! us ke waalid bahuth badi umr ke bil kul budhe sha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: اے عزیزِ مصر! اس کے والد بڑے معمر بزرگ ہیں، آپ اس کی جگہ ہم میں سے کسی کو پکڑ لیں، بیشک ہم آپ کو احسان کرنے والوں میں پاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اب) وہ کہنے لگے کہ : اے عزیز ! اس کا ایک بہت بوڑھا باپ ہے، اس لیے اس کی جگہ ہم میں سے کسی کو اپنے پاس رکھ لیجیے، ہم آپ کو ان لوگوں میں سے سمجھتے ہیں جو احسان کیا کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

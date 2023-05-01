@@ -3224,6 +3224,12 @@ aur Allah ta’ala ko apni qasmo ka (is tarah) nishaana na banaao ke bhalaayi au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اپنی قَسموں کے باعث اللہ (کے نام) کو (لوگوں کے ساتھ) نیکی کرنے اور پرہیزگاری اختیار کرنے اور لوگوں میں صلح کرانے میں آڑ مت بناؤ، اور اللہ خوب سننے والا بڑا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ (کے نام) کو اپنی قسموں میں اس غرض سے استعمال نہ کرو کہ اس کے ذریعے نیکی اور تقوی کے کاموں اور لوگوں کے درمیان صلح صفائی کرانے سے بچ سکو اور اللہ سب کچھ سنتا جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

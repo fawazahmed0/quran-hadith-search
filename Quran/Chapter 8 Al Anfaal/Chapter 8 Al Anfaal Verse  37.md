@@ -3224,6 +3224,12 @@ ta ke Allah tala napaak ko paak se alag karde aur na-pako ko ek dosre se milade,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اللہ (تعالیٰ) ناپاک کو پاکیزہ سے جدا فرما دے اور ناپاک (یعنی نجاست بھرے کرداروں) کو ایک دوسرے کے اوپر تلے رکھ دے پھر سب کو اکٹھا ڈھیر بنا دے گا پھر اس (ڈھیر) کو دوزخ میں ڈال دے گا، یہی لوگ خسارہ اٹھانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ اللہ ناپاک (لوگوں) کو پاک (لوگوں) سے الگ کردے، اور ایک ناپاک کو دوسرے ناپاک پر رکھ کر سب کا ایک ڈھیر بنائے، اور اس ڈھیر کو جہنم میں ڈال دے۔ یہی لوگ ہیں جو سراسر خسارے میں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

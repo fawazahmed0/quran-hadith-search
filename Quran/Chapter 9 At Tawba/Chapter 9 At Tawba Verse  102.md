@@ -3224,6 +3224,12 @@ aur kuch aur log hai jo apni khata ke eqrari hai,jinhone mile jhole amal kiye th
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور دوسرے وہ لو گ کہ (جنہوں نے) اپنے گناہوں کا اعتراف کر لیا ہے انہوں نے کچھ نیک عمل اور دوسرے برے کاموں کو (غلطی سے) ملا جلا دیا ہے، قریب ہے کہ اللہ ان کی توبہ قبول فرمالے، بیشک اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کچھ لوگ وہ ہیں جنہوں نے اپنی کوتاہیوں کا اعتراف کرلیا ہے۔ انہوں نے ملے جلے عمل کیے ہیں، کچھ نیک کام، اور کچھ برے۔ امید ہے کہ اللہ ان کی توبہ قبول کرلے گا۔ یقینا اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur kaafir kehte hai ke is par is ke rub ki taraf se koi nishani (maujeza) kyo n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ کہتے ہیں کہ اس (رسول) پر ان کے رب کی طرف سے کوئی نشانی کیوں نہیں اتاری گئی؟ (اے رسولِ مکرّم!) آپ تو فقط (نافرمانوں کو انجامِ بد سے) ڈرانے والے اور (دنیا کی) ہر قوم کے لئے ہدایت بہم پہنچانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے وہ کہتے ہیں کہ : بھلا ان پر (یعنی آنحضرت (صلی اللہ علیہ وآلہ وسلم) پر) ان کے رب کی طرف سے کوئی معجزہ کیوں نہیں اتارا گیا ؟ (اے پیغمبر) بات یہ ہے کہ تم تو صرف خطرے سے ہوشیار کرنے والے ہو، اور ہر قوم کے لیے کوئی نہ کوئی ایسا شخص ہوا ہے جو ہدایت کا راستہ دکھائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur unhone kaha kya jab hum zameen mein ral mil jaayenge, kya phir nayi paydayis
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کفار کہتے ہیں کہ جب ہم مٹی میں مِل کر گم ہوجائیں گے تو (کیا) ہم اَز سرِ نَو پیدائش میں آئیں گے، بلکہ وہ اپنے رب سے ملاقات ہی کے مُنکِر ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ کہتے ہیں کہ : کیا جب ہم زمین میں رل کر کھو جائیں گے، تو کیا اس وقت ہم کسی نئے جنم میں پیدا ہوں گے ؟ بات دراصل یہ ہے کہ یہ لوگ اپنے پروردگار سے جاملنے کا انکار کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

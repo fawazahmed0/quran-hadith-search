@@ -3224,6 +3224,12 @@ kya tu ne ose bhi dekha jis ne hamaari aayato se kufr kiya aur kaha ke mujhe to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے اس شخص کو دیکھا ہے جس نے ہماری آیتوں سے کفر کیا اور کہنے لگا: مجھے (قیامت کے روز بھی اسی طرح) مال و اولاد ضرور دیئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا تم نے اس شخص کو بھی دیکھا جس نے ہماری آیتوں کو ماننے سے انکار کیا، اور یہ کہا ہے کہ : مجھے مال اور اولاد (آخرت میں بھی) ضرور ملیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

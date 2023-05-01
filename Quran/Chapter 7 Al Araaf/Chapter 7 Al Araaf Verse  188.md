@@ -3224,6 +3224,12 @@ aap farma di jiye ke main khud apni zaate qaas ke liye kisi nafa eqtiyaar nahi r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : جب تک اللہ نہ چاہے میں خود اپنے آپ کو بھی کوئی نفع یا نقصان پہنچانے کا اختیار نہیں رکھتا، اور اگر مجھے غیب کا علم ہوتا تو میں اچھی اچھی چیزیں خوب جمع کرتا، اور مجھے کبھی کوئی تکلیف ہی نہ پہنچتی میں تو بس ایک ہوشیار کرنے والا اور خوشخبری سنانے والا ہوں، ان لوگوں کے لیے جو میری بات مانیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

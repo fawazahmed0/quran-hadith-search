@@ -3224,6 +3224,12 @@ Sözü edilen o mallar, göçmen yoksullar içindir. Onlar ki, yurtlarından ç�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(مذکورہ بالا مالِ فَے) نادار مہاجرین کے لئے (بھی) ہے جو اپنے گھروں اور اپنے اموال (اور جائیدادوں) سے باہر نکال دیئے گئے ہیں، وہ اللہ کا فضل اور اس کی رضاء و خوشنودی چاہتے ہیں اور (اپنے مال و وطن کی قربانی سے) اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی مدد کرتے ہیں، یہی لوگ ہی سچے مؤمن ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (نیز یہ مال فیئ) ان حاجت مند مہاجرین کا حق ہے جنہیں اپنے گھروں اور اپنے مالوں سے بےدخل کیا گیا ہے۔ وہ اللہ کی طرف سے فضل اور اس کی خوشنودی کے طلب گار ہیں، اور اللہ اور اس کے رسول کی مدد کرتے ہیں۔ یہی لوگ ہیں جو راست باز ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

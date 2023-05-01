@@ -3224,6 +3224,12 @@ tum hamaari di hoyi paakiza rozi khaao aur us mein hadh se aage na bado, warna t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اور تم سے فرمایا:) ان پاکیزہ چیزوں میں سے کھاؤ جن کی ہم نے تمہیں روزی دی ہے اور اس میں حد سے نہ بڑھو ورنہ تم پر میرا غضب واجب ہو جائے گا، اور جس پر میرا غضب واجب ہوگیا سو وہ واقعی ہلاک ہوگیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو پاکیزہ رزق ہم نے تمہیں عطا کیا ہے اس میں سے کھاؤ، اور اس میں سرکشی نہ کرو جس کے نتیجے میں تم پر میرا غضب نازل ہوجائے۔ اور جس کسی پر میرا غضب نازل ہوجاتا ہے وہ تباہی میں گر کر رہتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

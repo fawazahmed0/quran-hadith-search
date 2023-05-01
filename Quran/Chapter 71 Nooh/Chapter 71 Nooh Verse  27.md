@@ -3224,6 +3224,12 @@ agar tu unhe chohd dega to (yaqinan) ye tere aur bandho ko (bhi) gumraah kar den
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک اگر تو اُنہیں (زندہ) چھوڑے گا تو وہ تیرے بندوں کو گمراہ کرتے رہیں گے، اور وہ بدکار (اور) سخت کافر اولاد کے سوا کسی کو جنم نہیں دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر آپ ان کو باقی رکھیں گے تو یہ آپ کے بندوں کو گمراہ کریں گے، اور ان سے جو اولاد پیدا ہوگی وہ بدکار اور کافر ہی پیدا ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

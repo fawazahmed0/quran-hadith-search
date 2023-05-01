@@ -3224,6 +3224,12 @@ aur hum ne aise bahuth se jin aur insaan dozakh ke liye paida kiye jin ke dil ai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے جنات اور انسانوں میں سے بہت سے لوگ جہنم کے لیے پیدا کیے۔ ان کے پاس دل ہیں جن سے وہ سمجھتے نہیں، ان کے پاس آنکھیں ہیں جن سے وہ دیکھتے نہیں، ان کے پاس کان ہیں جن سے وہ سنتے نہیں۔ وہ لوگ چوپایوں کی طرح ہیں، بلکہ وہ ان سے بھی زیادہ بھٹکے ہوئے ہیں۔ یہی لوگ ہیں جو غفلت میں پڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

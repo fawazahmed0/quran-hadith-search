@@ -3224,6 +3224,12 @@ aur jab unhe un ke rab ke kalaam ki aayate sunaayi jaati hai, to wo andhe behre 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ) وہ لوگ ہیں کہ جب انہیں ان کے رب کی آیتوں کے ذریعے نصیحت کی جاتی ہے تو ان پر بہرے اور اندھے ہو کر نہیں گر پڑتے (بلکہ غور و فکر بھی کرتے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب انہیں اپنے رب کی آیات کے ذریعے نصیحت کی جاتی ہے تو وہ ان پر بہرے اور اندھے بن کر نہیں گرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jise un par lagataar saath raath aur aat din tak (Allah ne) musallath kar rakha,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے اس (آندھی) کو ان پر مسلسل سات راتیں اور آٹھ دن مسلّط رکھا، سو تُو ان لوگوں کو اس (عرصہ) میں (اس طرح) مرے پڑے دیکھتا (تو یوں لگتا) گویا وہ کھجور کے گرے ہوئے درختوں کی کھوکھلی جڑیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جسے اللہ نے ان پر سات رات اور آٹھ دن لگاتار مسلط رکھا۔ چنانچہ تم (اگر وہاں ہوتے تو) دیکھتے کہ وہ لوگ وہاں کھجور کے کھوکھلے تنوں کی طرح پچھاڑے ہوئے پڑے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

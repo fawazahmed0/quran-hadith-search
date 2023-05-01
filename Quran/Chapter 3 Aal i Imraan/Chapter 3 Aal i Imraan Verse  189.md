@@ -3224,6 +3224,12 @@ asmaano aur zameen ki badshaahi Allah hee ke liye hai aur Allah ta’ala har che
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور سب آسمانوں اور زمین کی بادشاہی اللہ ہی کے لئے ہے اور اللہ ہر چیز پر قادر ہے (سو تم اپنا دھیان اور توکّل اسی پر رکھو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آسمانوں اور زمین کی سلطنت صرف اللہ کی ہے، اور اللہ ہر چیز پر مکمل قدرت رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

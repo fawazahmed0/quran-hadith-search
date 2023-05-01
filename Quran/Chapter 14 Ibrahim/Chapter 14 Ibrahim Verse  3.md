@@ -3224,6 +3224,12 @@ jo aaqirath ke muqaable mein dunyawi zindagi ko pasand rakhte hai aur Allah ki r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) وہ لوگ ہیں جو دنیوی زندگی کو آخرت کے مقابلہ میں زیادہ پسند کرتے ہیں اور (لوگوں کو) اللہ کی راہ سے روکتے ہیں اور اس (دینِ حق) میں کجی تلاش کرتے ہیں۔ یہ لوگ دور کی گمراہی میں (پڑ چکے) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ لوگ جو آخرت کے مقابلے میں دنیا کی زندگی کو پسند کرتے ہیں، اور دوسروں کو اللہ کے راستے پر آنے سے روکتے ہیں، اور اس میں ٹیڑھ تلاش کرتے رہتے ہیں۔ وہ پرلے درجے کی گمراہی میں مبتلا ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

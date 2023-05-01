@@ -3224,6 +3224,12 @@ aye imaan waalo tumhaari baaz biwiya aur baaz bacche, tumhaare dushman hai, pas 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! بیشک تمہاری بیویوں اور تمہاری اولاد میں سے بعض تمہارے دشمن ہیں پس اُن سے ہوشیار رہو۔ اور اگر تم صرفِ نظر کر لو اور درگزر کرو اور معاف کر دو تو بیشک اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! تمہاری بیویوں اور تمہاری اولاد میں سے کچھ تمہارے دشمن ہیں، اس لیے ان سے ہوشیار رہو۔ اور اگر تم معاف کردو اور درگزر کرو، اور بخش دو تو اللہ بہت بخشنے والا، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

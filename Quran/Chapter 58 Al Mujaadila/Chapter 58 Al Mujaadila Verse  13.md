@@ -3224,6 +3224,12 @@ kya tum apni sargoshi se pehle sadqa nikaalne se dar gaye? pas jab tum ne ye na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا (بارگاہِ رسالت صلی اللہ علیہ وآلہ وسلم میں) تنہائی و رازداری کے ساتھ بات کرنے سے قبل صدقات و خیرات دینے سے تم گھبرا گئے؟ پھر جب تم نے (ایسا) نہ کیا اور اللہ نے تم سے باز پرس اٹھا لی (یعنی یہ پابندی اٹھا دی) تو (اب) نماز قائم رکھو اور زکوٰۃ ادا کرتے رہو اور اللہ اور اُس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت بجا لاتے رہو، اور اللہ تمہارے سب کاموں سے خوب آگاہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم اس بات سے ڈر گئے کہ اپنی تنہائی کی بات سے پہلے صدقات دیا کرو ؟ اب جبکہ تم ایسا نہیں کرسکے، اور اللہ نے تمہیں معاف کردیا تو تم نماز قائم کرتے ہو، اور زکوٰۃ دیتے رہو، اور اللہ اور اس کے رسول کی فرمانبرداری کرتے رہو۔ اور جو کام بھی تم کرتے ہو اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

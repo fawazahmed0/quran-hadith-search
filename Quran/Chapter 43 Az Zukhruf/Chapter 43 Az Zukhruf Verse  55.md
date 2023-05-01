@@ -3224,6 +3224,12 @@ phir jab unhone hamein ghussa dilaaya to hum ne un se inteqaam liya aur sab ko d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب انہوں نے (موسٰی علیہ السلام کی شان میں گستاخی کر کے) ہمیں شدید غضبناک کر دیا (تو) ہم نے اُن سے بدلہ لے لیا اور ہم نے اُن سب کو غرق کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب انہوں نے ہمیں ناراض کردیا تو ہم نے ان سے انتقام لیا اور ان سب کو غرق کردیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

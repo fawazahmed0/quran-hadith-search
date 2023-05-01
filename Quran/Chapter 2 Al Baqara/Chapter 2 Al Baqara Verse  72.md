@@ -3224,6 +3224,12 @@ jab tum ne ek shaqs ko qatal kar daala, phir us mein eqtelaaf karne lage aur tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تم نے ایک شخص کو قتل کر دیا پھر تم آپس میں اس (کے الزام) میں جھگڑنے لگے، اور اللہ (وہ بات) ظاہر فرمانے والا تھا جسے تم چھپا رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یاد کرو) جب تم نے ایک شخص کو قتل کردیا تھا، اور اس کے بعد اس کا الزام ایک دوسرے پر ڈال رہے تھے، اور اللہ کو وہ راز نکال باہر کرنا تھا جو تم چھپائے ہوئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

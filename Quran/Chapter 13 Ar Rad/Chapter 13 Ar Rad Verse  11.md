@@ -3224,6 +3224,12 @@ us ke phairedaar insaan ke aage piche muqarrar hai jo Allah ke hukm se us ki nig
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ہر) انسان کے لئے یکے بعد دیگرے آنے والے (فرشتے) ہیں جو اس کے آگے اور اس کے پیچھے اللہ کے حکم سے اس کی نگہبانی کرتے ہیں۔ بیشک اللہ کسی قوم کی حالت کو نہیں بدلتا یہاں تک کہ وہ لوگ اپنے آپ میں خود تبدیلی پیدا کر ڈالیں، اور جب اللہ کسی قوم کے ساتھ (اس کی اپنی بداعمالیوں کی وجہ سے) عذاب کا ارادہ فرما لیتا ہے تو اسے کوئی ٹال نہیں سکتا، اور نہ ہی ان کے لئے اللہ کے مقابلہ میں کوئی مددگار ہوتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہر شخص کے آگے اور پیچھے وہ نگران (فرشتے) مقرر ہیں جو اللہ کے حکم سے باری باری اس کی حفاظت کرتے ہیں یقین جانو کہ اللہ کسی قوم کی حالت اس وقت تک نہیں بدلتا جب تک وہ خود اپنے حالات میں تبدیلی نہ لے آئے۔ اور جب اللہ کسی قوم پر کوئی آفت لانے کا ارادہ کرلیتا ہے تو اس کا ٹالنا ممکن نہیں، اور ایسے لوگوں کا خود اس کے سوا کوئی رکھوالا نہیں ہوسکتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

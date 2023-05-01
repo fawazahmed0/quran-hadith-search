@@ -3224,6 +3224,12 @@ ta ke un ke apne rab ke paighaam pahoncha dene ka ilm ho jaaye, Allah ta’ala n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اللہ (اس بات کو) ظاہر فرما دے کہ بے شک ان (رسولوں) نے اپنے رب کے پیغامات پہنچا دئیے، اور (اَحکاماتِ اِلٰہیہ اور علومِ غیبیہ میں سے) جو کچھ ان کے پاس ہے اللہ نے (پہلے ہی سے) اُس کا اِحاطہ فرما رکھا ہے، اور اُس نے ہر چیز کی گنتی شمار کر رکھی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تاکہ اللہ جان لے کہ انہوں نے اپنے پروردگار کے پیغامات پہنچا دیے ہیں، اور وہ ان کے سارے حالات کا احاطہ کیے ہوئے ہے، اور اس نے ہر ہر چیز کی پوری طرح گنتی کر رکھی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

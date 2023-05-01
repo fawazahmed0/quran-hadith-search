@@ -3224,6 +3224,12 @@ ye wo log hai jinhone gumraahi ko hidaayath ke badle aur azaab ko maghfirath ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی وہ لوگ ہیں جنہوں نے ہدایت کے بدلے گمراہی خریدی اور مغفرت کے بدلے عذاب، کس چیز نے انہیں (دوزخ کی) آگ پر صبر کرنے والا بنا دیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جنہوں نے ہدایت کے بدلے گمراہی اور مغفرت کے بدلے عذاب کی خریداری کرلی ہے۔ چنانچہ (اندازہ کرو کہ) یہ دوزخ کی آگ سہنے کے لیے کتنے تیار ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

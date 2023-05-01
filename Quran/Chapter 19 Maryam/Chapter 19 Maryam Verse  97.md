@@ -3224,6 +3224,12 @@ hum ne is Qur’an ko teri zabaan mein bahuth hee asaan kar diya hai, ke tu is k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو بیشک ہم نے اس (قرآن) کو آپ کی زبان میں ہی آسان کر دیا ہے تاکہ آپ اس کے ذریعہ پرہیزگاروں کو خوشخبری سنا سکیں اور اس کے ذریعہ جھگڑالو قوم کو ڈر سنا سکیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ (اے پیغمبر) ہم نے اس قرآن کو تمہاری زبان میں آسان بنادیا ہے تاکہ تم اس کے ذریعے متقی لوگوں کو خوشخبردی دو ، اور اسی کے ذریعے ان لوگوں کو ڈراؤ جو ضد کی وجہ سے جھگڑے پر آمادہ ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

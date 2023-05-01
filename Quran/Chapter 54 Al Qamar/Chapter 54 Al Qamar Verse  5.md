@@ -3224,6 +3224,12 @@ aur kaamil aqal ki baath hai, lekin un darauni baatho ne bhi kuch fayda na diya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ قرآن) کامل دانائی و حکمت ہے کیا پھر بھی ڈر سنانے والے کچھ فائدہ نہیں دیتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دل میں اتر جانے والی دانائی کی باتیں تھیں، پھر بھی یہ تنبیہات (ان پر) کچھ کارگر نہیں ہو رہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

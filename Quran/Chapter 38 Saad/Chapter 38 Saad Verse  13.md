@@ -3224,6 +3224,12 @@ aur samoodh ne aur khaum looth ne aur aika ke rehne waalo ne bhi, yahi (bade) la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ثمود نے اور قومِ لوط نے اور اَیکہ (بَن) کے رہنے والوں نے (یعنی قومِ شعیب نے) بھی (جھٹلایا تھا)، یہی وہ بڑے لشکر تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور قوم ثمود، اور لوط کی قوم اور ایکہ والوں نے بھی۔ وہ تھے مخالف گروہ کے لوگ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

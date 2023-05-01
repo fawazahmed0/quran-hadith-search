@@ -3224,6 +3224,12 @@ aur Allah ta’ala ne aadam ko tamaam naam sikhaa kar un chizo ko farishto ke sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے آدم (علیہ السلام) کو تمام (اشیاء کے) نام سکھا دیئے پھر انہیں فرشتوں کے سامنے پیش کیا، اور فرمایا: مجھے ان اشیاء کے نام بتا دو اگر تم (اپنے خیال میں) سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آدم کو (اللہ نے) سارے نام سکھادیئے پھر ان کو فرشتوں کے سامنے پیش کیا اور (ان سے) کہا اگر تم سچے ہو تو مجھے ان چیزوں کے نام بتلاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

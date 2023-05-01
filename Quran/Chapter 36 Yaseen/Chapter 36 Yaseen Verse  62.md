@@ -3224,6 +3224,12 @@ shaytaan ne to tum mein se bahuth saari maqlooq ko beh ka diya, kya tum aqal nah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بے شک اس نے تم میں سے بہت سی خلقت کو گمراہ کر ڈالا، پھر کیا تم عقل نہیں رکھتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ شیطان نے تم میں سے ایک بڑی خلقت کو گمراہ کر ڈالا۔ تو کیا تم سمجھتے نہیں تھے۔ ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

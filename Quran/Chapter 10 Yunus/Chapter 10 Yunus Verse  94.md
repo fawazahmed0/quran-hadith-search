@@ -3224,6 +3224,12 @@ phir agar aap us ki taraf se shak mein ho jis ko hum ne aap ke paas bheja hai to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے سننے والے!) اگر تو اس (کتاب) کے بارے میں ذرا بھی شک میں مبتلا ہے جو ہم نے (اپنے رسول صلی اللہ علیہ وآلہ وسلم کی وساطت سے) تیری طرف اتاری ہے تو (اس کی حقانیت کی نسبت) ان لوگوں سے دریافت کرلے جو تجھ سے پہلے (اللہ کی) کتاب پڑھ رہے ہیں۔ بیشک تیری طرف تیرے رب کی جانب سے حق آگیا ہے، سو تُو شک کرنے والوں میں سے ہرگز نہ ہوجانا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر (اے پیغمبر) اگر (بالفرض محال) تمہیں اس کلام میں ذرا بھی شک ہو جو ہم نے تم پر نازل کیا ہے تو ان لوگوں سے پوچھو جو تم سے پہلے سے (آسمانی) کتاب پڑھتے ہیں۔ یقین رکھو کہ تمہارے پاس تمہارے پروردگار کی طرف سے حق ہی آیا ہے۔ لہذا تم کبھی بھی شک کرنے والوں میں شامل نہ ہونا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

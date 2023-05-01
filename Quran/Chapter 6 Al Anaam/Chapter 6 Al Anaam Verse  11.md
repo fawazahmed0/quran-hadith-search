@@ -3224,6 +3224,12 @@ aap farma dijiye ke zara zameen mein chalo phiro, phir dekh lo ke takzeeb karne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرمادیجئے کہ تم زمین پر چلو پھرو، پھر (نگاہِ عبرت سے) دیکھو کہ (حق کو) جھٹلانے والوں کا انجام کیسا ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان کافروں سے) کہو کہ : ذرا زمین میں چلو پھرو، پھر دیکھو کہ (پیغمبروں کو) جھٹلانے والوں کا کیسا انجام ہوا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

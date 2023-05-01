@@ -3224,6 +3224,12 @@ ya khud aap ke liye hee koyi baagh ho khajuro aur anguro ka aur us ke darmiyaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا آپ کے پاس کھجوروں اور انگوروں کا کوئی باغ ہو تو آپ اس کے اندر بہتی ہوئی نہریں جاری کردیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا پھر تمہارے لیے کھجوروں اور انگوروں کا ایک باغ پیدا ہوجائے، اور تم اس کے بیچ بیچ میں زمین کو پھاڑ کر نہریں جاری کردو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

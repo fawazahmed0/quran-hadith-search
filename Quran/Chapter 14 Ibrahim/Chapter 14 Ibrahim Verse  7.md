@@ -3224,6 +3224,12 @@ aur jab tumhare parvardigaar ne tumhe agaah kar diya ke agar tum shukr guzaari k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کرو) جب تمہارے رب نے آگاہ فرمایا کہ اگر تم شکر ادا کرو گے تو میں تم پر (نعمتوں میں) ضرور اضافہ کروں گا اور اگر تم ناشکری کرو گے تو میرا عذاب یقیناً سخت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت بھی جب تمہارے پروردگار نے اعلان فرما دیا تھا کہ اگر تم نے واقعی شکر ادا کیا تو میں تمہیں اور زیادہ دوں گا، اور اگر تم نے ناشکری کی تو یقین جانو، میرا عذاب بڑا سخت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

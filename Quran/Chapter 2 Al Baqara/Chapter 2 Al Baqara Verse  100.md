@@ -3224,6 +3224,12 @@ ye log jab kabhi koyi ehadh karte hai to un ki ek na ek jamaath ose tod deti hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا (ایسا نہیں کہ) جب بھی انہوں نے کوئی عہد کیا تو ان میں سے ایک گروہ نے اسے توڑ کر پھینک دیا، بلکہ ان میں سے اکثر ایمان ہی نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ آخر کیا معاملہ ہے کہ ان لوگوں نے جب کوئی عہد کیا، ان کے ایک گروہ نے اسے ہمیشہ توڑ پھینکا ؟ بلکہ ان میں سے اکثر لوگ ایمان لاتے ہی نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

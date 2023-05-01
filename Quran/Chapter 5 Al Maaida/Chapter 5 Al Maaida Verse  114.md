@@ -3224,6 +3224,12 @@ Isa bin Maryam ne dua ki ke aye Allah aye hamaare parvardigaar! hum par asmaan s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عیسٰی ابن مریم (علیہ السلام) نے عرض کیا: اے اللہ! اے ہمارے رب! ہم پر آسمان سے خوانِ (نعمت) نازل فرما دے کہ (اس کے اترنے کا دن) ہمارے لئے عید ہوجائے ہمار ے اگلوں کے لئے (بھی) اور ہمارے پچھلوں کے لئے (بھی) اور (وہ خوان) تیری طرف سے نشانی ہو، اور ہمیں رزق عطا کر اور تو سب سے بہتر رزق دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (چنانچہ) عیسیٰ ابن مریم نے درخواست کی کہ : یا اللہ ! ہم پر آسمان سے ایک خوان اتار دیجیے جو ہمارے لیے اور ہمارے اگلوں اور پچھلوں کے لیے ایک خوشی کا موقع بن جائے، اور آپ کی طرف سے ایک نشانی ہو۔ اور ہمیں یہ نعمت عطا فرما ہی دیجیے، اور آپ سب سے بہتر عطا فرمانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

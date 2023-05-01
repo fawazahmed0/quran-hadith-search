@@ -3224,6 +3224,12 @@ un ki chaahato aur un ke darmiyaan pardah haayal kar diya gaya, jaise ke us se p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے اور ان کی خواہشات کے درمیان رکاوٹ ڈال دی گئی جیسا کہ پہلے اُن کے مثل گروہوں کے ساتھ کیا گیا تھا۔ بیشک وہ دھوکہ میں ڈالنے والے شک میں مبتلا تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس وقت یہ جس (ایمان) کی آرزو کریں گے اس کے اور ان کے درمیان ایک آڑ کردی جائے گی، جیسا کہ ان جیسے جو لوگ ان سے پہلے ہوئے ہیں ان کے ساتھ بھی یہی معاملہ ہوگا۔ حقیقت یہ ہے کہ یہ سب ایسے شک میں پڑے ہوئے تھے جس نے انہیں دھوکے میں ڈال رکھا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ta’ala ek misaal bayaan farmaata hai ke ek ghulaam hai dosre ki milkiyat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے ایک مثال بیان فرمائی ہے (کہ) ایک غلام ہے (جو کسی کی) ملکیت میں ہے (خود) کسی چیز پر قدرت نہیں رکھتا اور (دوسرا) وہ شخص ہے جسے ہم نے اپنی طرف سے عمدہ روزی عطا فرمائی ہے سو وہ اس میں سے پوشیدہ اور ظاہر خرچ کرتا ہے، کیا وہ برابر ہو سکتے ہیں، سب تعریفیں اللہ کے لئے ہیں، بلکہ ان میں سے اکثر (بنیادی حقیقت کو بھی) نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ایک مثال دیتا ہے کہ ایک طرف ایک غلام ہے جو کسی کی ملکیت میں ہے، اس کو کسی چیز پر کوئی اختیار نہیں، اور دوسری طرف وہ شخص ہے جس کو ہم نے اپنے پاس سے عمدہ رزق عطا کیا ہے، اور وہ اس میں سے پوشیدہ طور پر بھی اور کھلے بندوں بھی خوب خرچ کرتا ہے۔ کیا یہ دونوں برابر ہوسکتے ہیں ؟ ساری تعریفیں اللہ کی ہیں، لیکن ان میں سے اکثر لوگ (ایسی صاف بات بھی) نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

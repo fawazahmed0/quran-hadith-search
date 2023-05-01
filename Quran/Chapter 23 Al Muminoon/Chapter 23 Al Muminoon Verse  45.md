@@ -3224,6 +3224,12 @@ phir hum ne Mosa(alaihissalaam) ko aur us ke bhai Haroon(alaihissalaam) ko apni 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے موسٰی (علیہ السلام) اور ان کے بھائی ہارون (علیہ السلام) کو اپنی نشانیاں اور روشن دلیل دے کر بھیجا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے موسیٰ اور ان کے بھائی ہارون کو اپنی نشانیوں اور واضح ثبوت کے ساتھ بھیجا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

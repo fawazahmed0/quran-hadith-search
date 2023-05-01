@@ -3224,6 +3224,12 @@ hum ne un ki na shukri ka ye badhla unhe diya, hum aisi saqth saza bade bade na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ ہم نے انہیں ان کے کفر و ناشکری کا بدلہ دیا، اور ہم بڑے ناشکرگزار کے سوا (کسی کو ایسی) سزا نہیں دیتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سزا ہم نے ان کو اس لیے دی کہ انہوں نے ناشکری کی روش اختیار کی تھی، اور ایسی سزا ہم کسی اور کو نہیں، بڑے بڑے ناشکروں ہی کو دیا کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

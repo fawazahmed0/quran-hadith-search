@@ -3224,6 +3224,12 @@ us din un ke chehre aag mein ulat pulat kiye jayenge (hasrath wa afsoos se) kahe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جِس دن ان کے مُنہ آتشِ دوزخ میں (بار بار) الٹائے جائیں گے (تو) وہ کہیں گے: اے کاش! ہم نے اللہ کی اطاعت کی ہوتی اور ہم نے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کی ہوتی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن ان کے چہروں کو آگ میں الٹا پلٹا جائے گا، وہ کہیں گے کہ : اے کاش ! ہم نے اللہ کی اطاعت کرلی ہوتی اور رسول کا کہنا مان لیا ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

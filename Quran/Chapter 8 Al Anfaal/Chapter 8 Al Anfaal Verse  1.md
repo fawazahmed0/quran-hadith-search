@@ -3224,6 +3224,12 @@ ye log aap se ghanimato ka hukm daryaft karte hai,aap farma dijiye ke ye ghanima
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے نبئ مکرّم!) آپ سے اَموالِ غنیمت کی نسبت سوال کرتے ہیں۔ فرما دیجئے: اَموالِ غنیمت کے مالک اللہ اور رسول (صلی اللہ علیہ وآلہ وسلم) ہیں۔ سو تم اللہ سے ڈرو اور اپنے باہمی معاملات کو درست رکھا کرو اور اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کیا کرو اگر تم ایمان والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) لوگ تم سے مال غنیمت کے بارے میں پوچھتے ہیں۔ کہہ دو کہ مال غنیمت (کے بارے میں فیصلے) کا اختیار اللہ اور رسول کو حاصل ہے۔ لہذا تم اللہ سے ڈرو، اور آپس کے تعلقات درست کرلو، اور اللہ اور اس کے رسول کی اطاعت کرو، اگر تم واقعی مومن ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

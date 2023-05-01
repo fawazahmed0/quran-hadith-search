@@ -3224,6 +3224,12 @@ wo aise hai jo tauba karne wale ibadath karne wale,hamd karne wale,roza rakhne w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ مومنین جنہوں نے اللہ سے اُخروی سودا کر لیا ہے) توبہ کرنے والے، عبادت گذار، (اللہ کی) حمد و ثنا کرنے والے، دنیوی لذتوں سے کنارہ کش روزہ دار، (خشوع و خضوع سے) رکوع کرنے والے، (قربِ الٰہی کی خاطر) سجود کرنے والے، نیکی کاحکم کرنے والے اور برائی سے روکنے والے اور اللہ کی (مقرر کردہ) حدود کی حفاظت کرنے والے ہیں، اور ان اہلِ ایمان کو خوشخبری سنا دیجئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (جنہوں نے یہ کامیاب سودا کیا ہے وہ کون ہیں ؟) توبہ کرنے والے ! اللہ کی بندگی کرنے والے ! اس کی حمد کرنے والے ! روزے رکھنے والے ! رکوع میں جھکنے والے ! سجدے گزرنے والے ! نیکی کی تلقین کرنے والے، اور برائی سے روکنے والے، اور اللہ کی قائم کی ہوئی حدوں کی حفاظت کرنے والے، (اے پیغمبر) ایسے مومنوں کو خوشخبری دے دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

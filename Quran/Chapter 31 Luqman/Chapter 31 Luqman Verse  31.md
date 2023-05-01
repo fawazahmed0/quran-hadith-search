@@ -3224,6 +3224,12 @@ kya tum us par ghaur nahi karte ke darya mein kashtiya Allah ke fazl se chal rah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے نہیں دیکھا کہ کشتیاں سمندر میں اللہ کی نعمت سے چلتی ہیں تاکہ وہ تمہیں اپنی کچھ نشانیاں دکھا دے۔ بیشک اس میں ہر بڑے صابر و شاکر کے لئے نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے نہیں دیکھا کہ کشتیاں سمندر میں اللہ کی مہربانی سے چلتی ہیں، تاکہ وہ تمہیں اپنی کچھ نشانیاں دکھائے ؟ یقینا اس میں ہر اس شخص کے لیے بہت سی نشانیاں ہیں جو صبر کا پکا، اعلی درجے کا شکر گزار ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ab bila shuba tumhaare paas tumhaare rab ki jaanib se haq bini ke zaraaye pahonc
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک تمہارے پاس تمہارے رب کی جانب سے (ہدایت کی) نشانیاں آچکی ہیں پس جس نے (انہیں نگاہِ بصیرت سے) دیکھ لیا تو (یہ) اس کی اپنی ذات کے لئے (فائدہ مند) ہے، اور جو اندھا رہا تو اس کا وبال (بھی) اسی پر ہے، اور میں تم پر نگہبان نہیں ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان لوگوں سے کہو کہ) تمہارے پاس تمہارے پروردگار کی طرف سے بصیرت کے سامان پہنچ چکے ہیں۔ اب جو شخص آنکھیں کھول کر دیکھے گا، وہ اپنا ہی بھلا کرے گا، اور جو شخص اندھا بن جائے گا، وہ اپنا ہی نقصان کرے گا۔ اور مجھے تمہاری حفاظت کی ذمہ داری نہیں سونپی گئی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

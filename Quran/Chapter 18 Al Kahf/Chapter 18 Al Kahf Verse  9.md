@@ -3224,6 +3224,12 @@ kya tu apne qayaal mein ghaar aur katbe walo ko hamaari nishaaniyo mein se koyi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے یہ خیال کیا ہے کہ کہف و رقیم (یعنی غار اور لوحِ غار یا وادئ رقیم) والے ہماری (قدرت کی) نشانیوں میں سے (کتنی) عجیب نشانی تھے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تمہارا یہ خیال ہے کہ غار اور رقیم والے لوگ ہماری نشانیوں میں سے کچھ (زیادہ) عجیب چیز تھے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

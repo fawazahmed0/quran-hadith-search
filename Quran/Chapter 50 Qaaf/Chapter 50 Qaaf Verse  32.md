@@ -3224,6 +3224,12 @@ ye hai jis ka tum se waada kiya jaata tha, har us shaqs ke liye jo ruju karne wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اور اُن سے ارشاد ہوگا): یہ ہے وہ جس کا تم سے وعدہ کیا گیا تھا (کہ) ہر توبہ کرنے والے (اپنے دین اور ایمان کی) حفاظت کرنے والے کے لئے (ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور کہا جائے گا کہ) یہ ہے وہ چیز جس کا تم سے یہ وعدہ کیا جاتا تھا کہ وہ ہر اس شخص کے لیے ہے جو اللہ سے خوب لو لگائے ہوئے ہو، (اور) اپنی نگرانی رکھنے والا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

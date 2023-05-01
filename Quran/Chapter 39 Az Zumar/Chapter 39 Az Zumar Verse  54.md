@@ -3224,6 +3224,12 @@ tum (sab) apne parvardigaar ki taraf jhuk pado aur us ki hukm bardaari kiye jaao
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اپنے رب کی طرف توبہ و انابت اختیار کرو اور اس کے اطاعت گزار بن جاؤ قبل اِس کے کہ تم پر عذاب آجائے پھر تمہاری کوئی مدد نہیں کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم اپنے پروردگار سے لو لگاؤ، اور اس کے فرماں بردار بن جاؤ قبل اس کے کہ تمہارے پاس عذاب آپہنچے، پھر تمہاری مدد نہیں کی جائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

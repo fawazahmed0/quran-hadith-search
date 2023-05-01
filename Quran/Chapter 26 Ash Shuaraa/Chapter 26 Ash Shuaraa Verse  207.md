@@ -3224,6 +3224,12 @@ to jo kuch bhi ye baratte rahe, us mein se kuch bhi fayeda na pahoncha sakega
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(تو) وہ چیزیں (ان سے عذاب کو دفع کرنے میں) کیا کام آئیں گی جن سے وہ فائدہ اٹھاتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو عیش کا جو سامان ان کو دیا جاتا رہا وہ انہیں (عذاب کے وقت) کیا فائدہ پہنچا سکتا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

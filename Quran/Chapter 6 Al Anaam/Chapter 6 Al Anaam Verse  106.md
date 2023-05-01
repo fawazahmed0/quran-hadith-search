@@ -3224,6 +3224,12 @@ aap khud us tareeq par chalte rahiye jis ki wahi aap ke rab ta’ala ki taraf se
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ اس (قرآن) کی پیروی کیجئے جو آپ کی طرف آپ کے رب کی جانب سے وحی کیا گیا ہے، اللہ کے سوا کوئی معبود نہیں، اور آپ مشرکوں سے کنارہ کشی کر لیجئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغبر) تم پر تمہارے پروردگار کی طرف سے جو وحی بھیجی گئی ہے، تم اسی کی پیروی کرو، اس کے سوا کوئی معبود نہیں ہے، اور جو لوگ اللہ کے ساتھ شرک کرتے ہیں ان سے بےپرواہ ہوجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

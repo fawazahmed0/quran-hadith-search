@@ -3224,6 +3224,12 @@ beshak wa shuba Allah ta’ala har us cheez ko jise wo log chupaate hai aur jise
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ بات حق و ثابت ہے کہ اللہ جانتا ہے جو کچھ وہ چھپاتے ہیں اور جو کچھ وہ ظاہر کرتے ہیں، بیشک وہ سرکشوں متکبّروں کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ظاہر بات ہے کہ اللہ وہ باتیں بھی جانتا ہے جو وہ چھپ کر کرتے ہیں، اور وہ بھی جو وہ علی الاعلان کرتے ہیں۔ وہ یقینا گھمنڈ کرنے والوں کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

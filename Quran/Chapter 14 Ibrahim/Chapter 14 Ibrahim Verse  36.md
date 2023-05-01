@@ -3224,6 +3224,12 @@ aye mere paalne wale mabood unhone bahuth se logo ko raah se bhatka diya hai, pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے رب! ان (بتوں) نے بہت سے لوگوں کو گمراہ کر ڈالا ہے۔ پس جس نے میری پیروی کی وہ تو میرا ہوگا اور جس نے میری نافرمانی کی تو بیشک تُو بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرے پروردگار ! ان بتوں نے لوگوں کی بڑی تعداد کو گمراہ کیا ہے۔ لہذا جو کوئی میری راہ پر چلے، وہ تو میرا ہے، اور جو میرا کہنا نہ مانے، تو (اس کا معاملہ میں آپ پر چھوڑتا ہوں) آپ بہت بخشنے والے بڑے مہربان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

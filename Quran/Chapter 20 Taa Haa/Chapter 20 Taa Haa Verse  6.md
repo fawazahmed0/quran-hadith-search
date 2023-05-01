@@ -3224,6 +3224,12 @@ jis ki milkiyath asmaano aur zameen aur un duno ke darmiyaan aur (kurrahe qaak1)
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(پس) جو کچھ آسمانوں (کی بالائی نوری کائناتوں اور خلائی مادی کائناتوں) میں ہے اور جو کچھ زمین میں ہے اور جو کچھ ان دونوں کے درمیان (فضائی اور ہوائی کرّوں میں) ہے اور جو کچھ سطح ارضی کے نیچے آخری تہہ تک ہے سب اسی کے (نظام اور قدرت کے تابع) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آسمانوں اور زمین میں جو کچھ ہے اور ان کے درمیان جو کچھ ہے وہ سب بھی اسی کی ملکیت ہے، اور زمین کی تہوں کے نیچے جو کچھ ہے وہ بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

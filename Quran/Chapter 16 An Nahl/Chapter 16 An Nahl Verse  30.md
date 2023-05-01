@@ -3224,6 +3224,12 @@ aur parhezgaaro se pocha jaata hai ke tumhaare parvardigaar ne kya naazil farmay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور پرہیزگار لوگوں سے کہا جائے کہ تمہارے رب نے کیا نازل فرمایا ہے؟ وہ کہتے ہیں: (دنیا و آخرت کی) بھلائی (اتاری ہے)، ان لوگوں کے لئے جو نیکی کرتے رہے اس دنیا میں (بھی) بھلائی ہے، اور آخرت کا گھر تو ضرور ہی بہتر ہے، اور پرہیزگاروں کا گھر کیا ہی خوب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (دوسری طرف) متقی لوگوں سے پوچھا گیا کہ : تمہارے پروردگار نے کیا چیز نازل کی ہے ؟ تو انہوں نے کہا : خیر ہی خیر اتاری ہے۔ (اسی طرح) جن لوگوں نے نیکی کی روش اختیار کی ہے، ان کے لیے اس دنیا میں بھی بہتری ہے، اور آخرت کا گھر تو ہے ہی سراپا بہتری، یقینا متقیوں کا گھر بہترین ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

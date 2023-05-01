@@ -3224,6 +3224,12 @@ kaha ke wo log bhi mere piche hee piche hain, aur main ne aye rab ! teri taraf j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) عرض کیا: وہ لوگ بھی میرے پیچھے آرہے ہیں اور میں نے (غلبۂ شوق و محبت میں) تیرے حضور پہنچنے میں جلدی کی ہے اے میرے رب! تاکہ تو راضی ہو جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : وہ میرے پیچھے پیچھے آیا ہی چاہتے ہیں، اور پروردگار ! میں آپ کے پاس اس لیے جلدی آگیا تاکہ آپ خوش ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

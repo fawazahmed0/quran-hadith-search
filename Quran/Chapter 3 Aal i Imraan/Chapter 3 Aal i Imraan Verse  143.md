@@ -3224,6 +3224,12 @@ jung se pehle to tum shahaadath ki aarzo mein thein, ab ose apni aankho se apne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم تو اس کا سامنا کرنے سے پہلے (شہادت کی) موت کی تمنا کیا کرتے تھے، سو اب تم نے اسے اپنی آنکھوں کے سامنے دیکھ لیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم تو خود موت کا سامنا کرنے سے پہلے (شہادت کی) موت کی تمنا کیا کرتے تھے۔ چنانچہ اب تم نے کھلی آنکھوں اسے دیکھ لیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

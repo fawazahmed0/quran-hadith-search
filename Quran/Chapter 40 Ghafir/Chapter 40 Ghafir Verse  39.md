@@ -3224,6 +3224,12 @@ aye meri khaum! ye hayaath dunya, mata faani hai (yaqeen maano ke qaraar) aur ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میری قوم! یہ دنیا کی زندگی بس (چند روزہ) فائدہ اٹھانے کے سوا کچھ نہیں اور بے شک آخرت ہی ہمیشہ رہنے کا گھر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے میری قوم ! یہ دنیوی زندگی تو بس تھوڑا سا مزہ ہے۔ اور یقین جانو کہ آخرت ہی رہنے بسنے کا اصل گھر ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

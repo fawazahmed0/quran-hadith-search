@@ -3224,6 +3224,12 @@ tum ne aisi baath ko sunte hee kyo na keh diya ke hamein aisi baath mu se nikaal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تم نے یہ (بہتان) سنا تھا تو تم نے (اسی وقت) یہ کیوں نہ کہہ دیا کہ ہمارے لئے یہ (جائز ہی) نہیں کہ ہم اسے زبان پر لے آئیں (بلکہ تم یہ کہتے کہ اے اللہ!) تو پاک ہے (اس بات سے کہ ایسی عورت کو اپنے حبیب مکرم صلی اللہ علیہ وآلہ وسلم کی محبوب زوجہ بنا دے)، یہ بہت بڑا بہتان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس وقت تم نے یہ بات سنی تھی، اسی وقت تم نے یہ کیوں نہیں کہا کہ : ہمیں کوئی حق نہیں پہنچتا کہ ہم یہ بات منہ سے نکالیں، یا اللہ ! آپ کی ذات ہر عیب سے پاک ہے، یہ تو بڑا زبردست بہتان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

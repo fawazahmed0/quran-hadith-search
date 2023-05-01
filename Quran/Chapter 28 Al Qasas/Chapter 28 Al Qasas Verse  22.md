@@ -3224,6 +3224,12 @@ aur jab madyan ki taraf mutawajjeh hoye, to kehne lage mujhe ummid hai ke mera r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ مَديَن کی طرف رخ کر کے چلے (تو) کہنے لگے: امید ہے میرا رب مجھے (منزلِ مقصود تک پہنچانے کے لئے) سیدھی راہ دکھا دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب انہوں نے مدین کی طرف رخ کیا تو کہا کہ : مجھے پوری امید ہے کہ میرا پروردگار مجھے سیدھے راستے پر ڈال دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

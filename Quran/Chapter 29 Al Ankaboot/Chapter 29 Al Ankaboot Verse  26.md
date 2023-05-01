@@ -3224,6 +3224,12 @@ pas Ibraheem(alaihissalaam) par hazrath Looth (alaihissalaam) imaan laaye aur ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر لوط (علیہ السلام) ان پر (یعنی ابراہیم علیہ السلام پر) ایمان لے آئے اور انہوں نے کہا: میں اپنے رب کی طرف ہجرت کرنے والا ہوں۔ بیشک وہ غالب ہے حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر لوط ان پر ایمان لائے اور ابراہیم نے کہا کہ : میں اپنے پروردگار کی طرف ہجرت کر کے جارہا ہوں وہی ہے جس کا اقتدار بھی کامل ہے، حکمت بھی کامل
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

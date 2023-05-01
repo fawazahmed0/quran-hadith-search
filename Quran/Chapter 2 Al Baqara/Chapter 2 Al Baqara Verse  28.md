@@ -3224,6 +3224,12 @@ tum Allah ke saath kaise kufr karte ho? halaan ke tum murda thein us ne tumhe ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم کس طرح اللہ کا انکار کرتے ہو حالانکہ تم بے جان تھے اس نے تمہیں زندگی بخشی، پھر تمہیں موت سے ہمکنار کرے گا اور پھر تمہیں زندہ کرے گا، پھر تم اسی کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم اللہ کے ساتھ کفر کا طرز عمل آخر کیسے اختیار کرلیتے ہو حالانکہ تم بےجان تھے اسی نے تمہیں زندگی بخشی پھر وہی تمہیں موت دے گا پھر وہی تم کو (دوبارہ) زندہ کرے گا اور پھر تم اسی کے پاس لوٹ کر جاؤ گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

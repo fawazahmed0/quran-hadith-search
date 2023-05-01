@@ -3224,6 +3224,12 @@ tum mein se jo mard, aurath be nikaah ke ho, un ka nikaah kardo aur apne nek baq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اپنے مردوں اور عورتوں میں سے ان کا نکاح کر دیا کرو جو (عمرِ نکاح کے باوجود) بغیر ازدواجی زندگی کے (رہ رہے) ہوں اور اپنے باصلاحیت غلاموں اور باندیوں کا بھی (نکاح کر دیا کرو)، اگر وہ محتاج ہوں گے (تو) اللہ اپنے فضل سے انہیں غنی کر دے گا، اور اللہ بڑی وسعت والا بڑے علم والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم میں سے جن (مردوں یا عورتوں) کا اس وقت نکاح نہ ہو، ان کا بھی نکاح کراؤ، اور تمہارے غلاموں اور باندیوں میں سے جو نکاح کے قابل ہوں، ان کا بھی۔ اگر وہ تنگ دست ہوں تو اللہ اپنے فضل سے انہیں بےنیاز کردے گا۔ اور اللہ بہت وسعت والا ہے، سب کچھ جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

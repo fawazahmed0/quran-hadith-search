@@ -3224,6 +3224,12 @@ al gharz aaj tum se na fidya (aur na badhla) qubool kiya jayega aur na kaafiro s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آج کے دن (اے منافقو!) تم سے کوئی معاوضہ قبول نہیں کیا جائے گا اور نہ ہی اُن سے جنھوں نے کفر کیا تھا اور تم (سب) کا ٹھکانا دوزخ ہے، اور یہی (ٹھکانا) تمہارا مولا (یعنی ساتھی) ہے، اور وہ نہایت بری جگہ ہے (کیونکہ تم نے اُن کو مولا ماننے سے انکار کر دیا تھا جہاں سے تمہیں نورِ ایمان اور بخشش کی خیرات ملنی تھے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ آج نہ تم سے کوئی فدیہ قبول کیا جائے گا اور نہ ان لوگوں سے جنہوں نے (کھلے بندوں) کفر اختیار کیا تھا۔ تمہارا ٹھکانا دوزخ ہے، وہی تمہاری رکھوالی ہے اور یہ بہت برا انجام ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

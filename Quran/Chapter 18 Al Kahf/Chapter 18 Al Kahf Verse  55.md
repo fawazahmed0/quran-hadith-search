@@ -3224,6 +3224,12 @@ logo ke paas hidaayath aa chukne ke baadh unhe imaan laane aur apne rub se isteg
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں کو جبکہ ان کے پاس ہدایت آچکی تھی کسی نے (اس بات سے) منع نہیں کیا تھا کہ وہ ایمان لائیں اور اپنے رب سے مغفرت طلب کریں سوائے اس (انتظار) کے کہ انہیں اگلے لوگوں کا طریقہ (ہلاکت) پیش آئے یا عذاب ان کے سامنے آجائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب لوگوں کے پاس ہدایت آچکی تو اب انہیں ایمان لانے اور اپنے رب سے معافی مانگنے سے اس (مطالبے) کے سوا کوئی اور چیز نہیں روک رہی کہ ان کے ساتھ بھی پچھلے لوگوں جیسے واقعات پیش آجائیں، یا عذاب ان کے بالکل سامنے آکھڑا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

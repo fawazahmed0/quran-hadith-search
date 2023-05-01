@@ -3224,6 +3224,12 @@ aur mere bandho se keh dijiye ke wo bahuth hee acchi baath mu se nikala kare kyo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ میرے بندوں سے فرما دیں کہ وہ ایسی باتیں کیا کریں جو بہتر ہوں، بیشک شیطان لوگوں کے درمیان فساد بپا کرتا ہے، یقینا شیطان انسان کا کھلا دشمن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میرے (مومن) بندوں سے کہہ دو کہ وہی بات کہا کریں جو بہترین ہو۔ درحقیقت شیطان لوگوں کے درمیان فساد ڈالتا ہے۔ شیطان یقینی طور پر انسان کا کھلا دشمن ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

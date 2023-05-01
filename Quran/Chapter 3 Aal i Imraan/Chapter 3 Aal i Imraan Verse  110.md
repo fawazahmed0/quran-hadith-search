@@ -3224,6 +3224,12 @@ tum behetreen ummath ho, jo logo ke liye hee paida ki gayi hai, ke tum nek baath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم بہترین اُمّت ہو جو سب لوگوں (کی رہنمائی) کے لئے ظاہر کی گئی ہے، تم بھلائی کا حکم دیتے ہو اور برائی سے منع کرتے ہو اور اللہ پر ایمان رکھتے ہو، اور اگر اہلِ کتاب بھی ایمان لے آتے تو یقیناً ان کے لئے بہتر ہوتا، ان میں سے کچھ ایمان والے بھی ہیں اور ان میں سے اکثر نافرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مسلمانو) تم وہ بہترین امت ہو جو لوگوں کے فائدے کے لیے وجود میں لائی گئی ہے، تم نیکی کی تلقین کرتے ہو، برائی سے روکتے ہو اور اللہ پر ایمان رکھتے ہو۔ اگر اہل کتاب ایمان لے آتے تو یہ ان کے حق میں کہیں بہتر ہوتا، ان میں سے کچھ تو مومن ہیں، مگر ان کی اکثریت نافرمان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ main ne aaj unhe un ke us sabr ka badhla de diya hai, ke wo qaatir qaah apni mur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک آج میں نے انہیں ان کے صبر کا جو وہ کرتے رہے (یہ) صلہ عطا فرمایا ہے کہ وہ کامیاب ہو گئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے جس طرح صبر سے کام لیا تھا، آج میں نے انہیں اس کا یہ بدلہ دیا ہے کہ انہوں نے اپنی مراد پالی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

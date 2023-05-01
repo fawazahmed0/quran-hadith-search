@@ -3224,6 +3224,12 @@ ya, ye kehte hai ke, ose junoon hai? balke wo to un ke paas haq laaya hai, haan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا یہ کہتے ہیں کہ اس (رسول صلی اللہ علیہ وآلہ وسلم) کو جنون (لاحق) ہو گیا ہے، (ایسا ہر گز نہیں) بلکہ وہ ان کے پاس حق لے کر تشریف لائے ہیں اور ان میں سے اکثر لوگ حق کو پسند نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا ان کا کہنا ہے کہ ان (پیغمبر) کو جنون لاحق ہوگیا ہے ؟ نہیں، بلکہ (اصل وجہ یہ ہے کہ) یہ پیغمبر ان کے پاس حق لے کر آئے ہیں، اور ان میں سے اکثر لوگ حق کو پسند نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

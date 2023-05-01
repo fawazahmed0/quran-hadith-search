@@ -3224,6 +3224,12 @@ aur jab hum kisi ayath ki jageh dosri ayath badal dete hai aur jo kuch Allah ta�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم کسی آیت کی جگہ دوسری آیت بدل دیتے ہیں اور اللہ (ہی) بہتر جانتا ہے جو (کچھ) وہ نازل فرماتا ہے (تو) کفار کہتے ہیں کہ آپ تو بس اپنی طرف سے گھڑنے والے ہیں، بلکہ ان میں سے اکثر لوگ (آیتوں کے اتارنے اور بدلنے کی حکمت) نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہم ایک آیت کو دوسری آیت سے بدلتے ہیں۔ اور اللہ ہی بہتر جانتا ہے کہ وہ کیا نازل کرے تو یہ (کافر) کہتے ہیں کہ : تم تو اللہ پر جھوٹ باندھنے والے ہو۔ حالانکہ ان میں سے اکثر لوگ حقیقت کا علم نہیں رکھتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya tum baal (naami buth) ko pukaarte ho? aur sab se behtar khaaliq ko chohd det
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم بَعل (نامی بُت) کو پوجتے ہو اور سب سے بہتر خالق کو چھوڑ دیتے ہو؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم بعل (نامی بت) کو پوجتے ہو، اور اس کو چھوڑ دیتے ہو جو سب سے بہتر تخلیق کرنے والا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

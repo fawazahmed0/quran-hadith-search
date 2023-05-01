@@ -3224,6 +3224,12 @@ us ne asmaano ko baghair sutoon ke paida kiya hai, tum unhe dekh rahe ho aur us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس نے آسمانوں کو بغیر ستونوں کے بنایا (جیسا کہ) تم انہیں دیکھ رہے ہو اور اس نے زمین میں اونچے مضبوط پہاڑ رکھ دیئے تاکہ تمہیں لے کر (دورانِ گردش) نہ کانپے اور اُس نے اس میں ہر قسم کے جانور پھیلا دیئے اور ہم نے آسمان سے پانی اتارا اور ہم نے اس میں ہر قسم کی عمدہ و مفید نباتات اگا دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے آسمانوں کو ایسے ستونوں کے بغیر پیدا کیا جو تمہیں نظر آسکیں۔ اور زمین میں پہاڑوں کے لنگر ڈال دیے ہیں، تاکہ وہ تمہیں لے کر ڈگمگائے نہیں، اور اس میں ہر قسم کے جانور پھیلا دئیے ہیں۔ اور ہم نے آسمان سے پانی برسایا، پھر اس (زمین) میں ہر قابل قدر قسم کی نباتات اگائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

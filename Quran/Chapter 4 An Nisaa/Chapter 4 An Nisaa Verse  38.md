@@ -3224,6 +3224,12 @@ aur jo log apna maal logo ke dikhaawe ke liye qarch karte hai aur Allah ta’ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اپنے مال لوگوں کے دکھاوے کے لئے خرچ کرتے ہیں اور نہ اللہ پر ایمان رکھتے ہیں اور نہ یومِ آخرت پر، اور شیطان جس کا بھی ساتھی ہوگیا تو وہ برا ساتھی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ لوگ جو اپنے مال لوگوں کو دکھانے کے لیے خرچ کرتے ہیں، اور نہ اللہ پر ایمان رکھتے ہیں، نہ روز آخرت پر، اور شیطان جس کا ساتھی بن جائے تو وہ بدترین ساتھی ہوتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

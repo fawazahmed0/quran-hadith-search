@@ -3224,6 +3224,12 @@ aasmaano ka, zameen ka aur jo kuch un ke darmiyaan hain, sab ka rab wahi hai, to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ) آسمانوں اور زمین کا اور جو کچھ ان دو کے درمیان ہے (سب) کا رب ہے پس اس کی عبادت کیجئے اور اس کی عبادت میں ثابت قدم رہئے، کیا آپ اس کا کوئی ہم نام جانتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ آسمانوں اور زمین کا بھی مالک ہے، اور جو مخلوقات ان کے درمیان ہیں، ان کا بھی، لہذا تم اس کی عبادت کرو، اور اس کی عبادت پر جمے رہو۔ کیا تمہارے علم میں کوئی اور ہے جو اس جیسی صفات رکھتا ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur ibrahim ka apne baap ke liye dua e maghfirath mangna,wo sirf wade ke sabab s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ابراہیم (علیہ السلام) کا اپنے باپ (یعنی چچا آزر، جس نے آپ کو پالا تھا) کے لئے دعائے مغفرت کرنا صرف اس وعدہ کی غرض سے تھا جو وہ اس سے کر چکے تھے، پھر جب ان پر یہ ظاہر ہوگیا کہ وہ اللہ کا دشمن ہے تو وہ اس سے بے زار ہوگئے (اس سے لاتعلق ہوگئے اور پھر کبھی اس کے حق میں دعا نہ کی)۔ بیشک ابراہیم (علیہ السلام) بڑے دردمند (گریہ و زاری کرنے والے اور) نہایت بردبار تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ابراہیم نے اپنے باپ کے لیے جو مغفرت کی دعا مانگی تھی، اس کی وجہ اس کے سوا کچھ نہیں تھی کہ انہوں نے اس (باپ) سے ایک وعدہ کرلیا تھا۔ پھر جب ان پر یہ بات واضح ہوگئی کہ وہ اللہ کا دشمن ہے، تو وہ اس سے دستبردار ہوگئے۔ حقیقت یہ ہے کہ ابراہیم بڑی آہیں بھرنے والے، بڑے بردبار تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

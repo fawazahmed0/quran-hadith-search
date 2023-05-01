@@ -3224,6 +3224,12 @@ pas agar ye log is baath par imaan na laaye, to kya aap un ke piche isi ranj mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) تو کیا آپ ان کے پیچھے شدتِ غم میں اپنی جانِ (عزیز بھی) گھلا دیں گے اگر وہ اس کلامِ (ربّانی) پر ایمان نہ لائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب (اے پیغمبر) اگر لوگ (قرآن کی) اس بات پر ایمان نہ لائیں تو ایسا لگتا ہے جیسے تم افسوس کر کر کے ان کے پیچھے اپنی جان کو گھلا بیٹھو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

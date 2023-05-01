@@ -3224,6 +3224,12 @@ har shaqs ek na ek taraf mutawajje ho raha hai, tum nekiyo ki taraf daudo, jahaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہر ایک کے لئے توجہ کی ایک سمت (مقرر) ہے وہ اسی کی طرف رُخ کرتا ہے پس تم نیکیوں کی طرف پیش قدمی کیا کرو، تم جہاں کہیں بھی ہوگے اللہ تم سب کو جمع کر لے گا، بیشک اللہ ہر چیز پر خوب قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہر گروہ کی ایک سمت ہے جس کی طرف وہ رخ کرتا ہے ،۔ لہذا تم نیک کاموں میں ایک دوسرے سے آگے بڑھنے کی کوشش کرو۔ تم جہاں بھی ہوگے اللہ تم سب کو (اپنے پاس) لے آئے گا۔ یقینا اللہ ہر چیز پر قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

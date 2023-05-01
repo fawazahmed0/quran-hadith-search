@@ -3224,6 +3224,12 @@ beto ne kaha wallah! aap hamesha yousuf ki yaad hee mein lage rahenge yaha tak k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے: اللہ کی قسم! آپ ہمیشہ یوسف (علیہ السلام ہی) کو یاد کرتے رہیں گے یہاں تک کہ آپ قریب مرگ ہو جائیں گے یا آپ وفات پا جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے بیٹے کہنے لگے : اللہ کی قسم ! آپ یوسف کو یاد کرنا نہیں چھوڑیں گے، یہاں تک کہ بالکل گھل کر رہ جائیں گے، یا ہلاک ہو بیٹھیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

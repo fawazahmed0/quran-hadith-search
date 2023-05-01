@@ -3224,6 +3224,12 @@ jab Allah akele ka zikr kiya jaaye to un logo ke dil nafrath karne lagte hai, jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تنہا اللہ ہی کا ذکر کیا جاتا ہے تو اُن لوگوں کے دل گھٹن اور کراہت کا شکار ہو جاتے ہیں جو آخرت پر یقین نہیں رکھتے، اور جب اللہ کے سوا اُن بتوں کا ذکر کیا جاتا ہے (جنہیں وہ پوجتے ہیں) تو وہ اچانک خوش ہو جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب کبھی تنہا اللہ کا ذکر کیا جاتا ہے تو جو لوگ آخرت پر ایمان نہیں رکھتے ان کے دل بیزار ہوجاتے ہیں اور جب اس کے سوا دوسروں کا ذکر کیا جاتا ہے تو یہ لوگ خوشی سے کھل اٹھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

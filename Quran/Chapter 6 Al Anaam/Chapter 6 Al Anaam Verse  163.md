@@ -3224,6 +3224,12 @@ us ka koyi shareek nahi aur mujh ko isi ka hukm hoa hai aur main sab maanne waal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس کا کوئی شریک نہیں اور اسی کا مجھے حکم دیا گیا ہے اور میں (جمیع مخلوقات میں) سب سے پہلا مسلمان ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کا کوئی شریک نہیں ہے، اسی بات کا مجھے حکم دیا گیا ہے، اور میں اس کے آگے سب سے پہلے سرجھکانے والا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

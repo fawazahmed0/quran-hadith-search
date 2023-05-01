@@ -3224,6 +3224,12 @@ pas jin logo ne zulm kiya hai, unhe bhi un ke saathiyo ke hisse ke misl, hissa m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ان ظالموں کے لئے (بھی) حصۂ عذاب مقرّر ہے ان کے (پہلے گزرے ہوئے) ساتھیوں کے حصۂ عذاب کی طرح، سو وہ مجھ سے جلدی طلب نہ کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب تو جن لوگوں نے ظلم کیا ہے ان کی بھی ایسی ہی باری آئے گی جیسے ان کے (پچھلے) ساتھیوں کی باری آئی تھی، اس لیے وہ مجھ سے جلدی (عذاب لانے) کا مطالبہ نہ کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

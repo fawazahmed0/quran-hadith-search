@@ -3224,6 +3224,12 @@ to kya tum us se be khauf ho gaye ho ke tumhe khushki ki taraf (le ja kar zameen
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم اس بات سے بے خوف ہو گئے ہو کہ وہ تمہیں خشکی کے کنارے پر ہی (زمین میں) دھنسا دے یا تم پر پتھر برسانے والی آندھی بھیج دے پھر تم اپنے لئے کوئی کارساز نہ پاسکو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو کیا تمہیں اس بات کا کوئی ڈر نہیں رہا کہ اللہ تمہیں خشکی ہی کے ایک حصے میں دھنسا دے، یا تم پر پتھر برسانے والی آندھی بھیج دے، اور پھر تمہیں اپنا کوئی رکھوالا نہ ملے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

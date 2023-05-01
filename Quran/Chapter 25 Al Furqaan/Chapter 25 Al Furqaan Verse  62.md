@@ -3224,6 +3224,12 @@ aur osi ne raath aur din ko ek dosre ke piche aane jaane wala banaya, us shaqs k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ذات ہے جس نے رات اور دن کو ایک دوسرے کے پیچھے گردش کرنے والا بنایا اس کے لئے جو غور و فکر کرنا چاہے یا شکر گزاری کا ارادہ کرے (ان تخلیقی قدرتوں میں نصیحت و ہدایت ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جس نے رات اور دن کو ایسا بنایا کہ وہ ایک دوسرے کے پیچھے چلے آتے ہیں (مگر یہ ساری باتیں) اس شخص کے لیے (کارآمد ہیں) جو نصیحت حاصل کرنے کا ارادہ رکھتا ہو یا شکر بجا لانا چاہتا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar Allah ta’ala ka fazl wa karam tum par na hota, (to tum par mashaqqath uta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم پر اللہ کا فضل اور اس کی رحمت نہ ہوتی (تو تم ایسے حالات میں زیادہ پریشان ہوتے) اور بیشک اللہ بڑا ہی توبہ قبول فرمانے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم پر اللہ کا فضل اور اس کی رحمت نہ ہوتی اور یہ بات نہ ہوتی کہ اللہ کثرت سے توبہ قبول کرنے والا حکمت والا ہے (تو خود سوچ لو کہ تمہارا کیا بنتا ؟)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

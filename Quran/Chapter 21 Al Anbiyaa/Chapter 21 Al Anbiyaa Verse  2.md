@@ -3224,6 +3224,12 @@ un ke paas un ke rab ki taraf se jo bhi nayi nayi nasihath aati hai, ose wo khel
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کے پاس ان کے رب کی جانب سے جب بھی کوئی نئی نصیحت آتی ہے تو وہ اسے یوں (بے پرواہی سے) سنتے ہیں گویا وہ کھیل کود میں لگے ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب کبھی ان کے پروردگار کی طرف سے نصیحت کی کوئی نئی بات ان کے پاس آتی ہے تو وہ اسے مذاق بنا بنا کر اس حالت میں سنتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

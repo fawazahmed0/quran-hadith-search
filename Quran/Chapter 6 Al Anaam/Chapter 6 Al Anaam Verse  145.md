@@ -3224,6 +3224,12 @@ aap keh di jiye ke jo kuch ehkaam ba-zariye wahi mere paas aaye, un mein to main
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ میری طرف جو وحی بھیجی گئی ہے اس میں تو میں کسی (بھی) کھانے والے پر (ایسی چیز کو) جسے وہ کھاتا ہو حرام نہیں پاتا سوائے اس کے کہ وہ مُردار ہو یا بہتا ہوا خون ہو یا سؤر کا گوشت ہو کیو نکہ یہ ناپاک ہے یا نافرمانی کا جانور جس پر ذبح کے وقت غیر اللہ کا نام بلند کیا گیا ہو۔ پھر جو شخص (بھوک کے باعث) سخت لاچار ہو جائے نہ تو نافرمانی کر رہا ہو اور نہ حد سے تجاوز کر رہا ہو تو بیشک آپ کا رب بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ان سے) کہو کہ : جو وحی مجھ پر نازل کی گئی ہے اس میں تو میں کوئی ایسی چیز نہیں پاتا جس کا کھانا کسی کھانے والے کے لیے حرام ہو الا یہ کہ وہ مردار ہو، یا بہتا ہوا خون ہو، یا سور کا گوشت ہو، کیونکہ وہ ناپاک ہے، یا جو ایسا گناہ کا جانور ہو جس پر اللہ کے سوا کسی اور کا نام پکارا گیا ہو۔ ہاں جو شخص (ان چیزوں میں سے کسی کے کھانے پر) انتہائی مجبور ہوجائے جبکہ وہ نہ لذت حاصل کرنے کی غرض سے ایسا کر رہا ہو، اور نہ ضرورت کی حد سے آگے بڑھے، تو بیشک اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

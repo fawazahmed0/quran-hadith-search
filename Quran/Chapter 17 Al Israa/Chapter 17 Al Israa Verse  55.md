@@ -3224,6 +3224,12 @@ aasmaano wa zameen mein jo bhi hai aap ka rub sub ko ba-qoobi jaanta hai, hum ne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کا رب ان کو خوب جانتا ہے جو آسمانوں اور زمین میں (آباد) ہیں، اور بیشک ہم نے بعض انبیاء کو بعض پر فضیلت بخشی اور ہم نے داؤد (علیہ السلام) کو زبور عطا کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارا پروردگار ان سب کو جانتا ہے جو آسمانوں میں ہیں اور جو زمین میں ہیں۔ اور ہم نے کچھ نبیوں کو دوسرے نبیوں پر فضیلت دی ہے، اور ہم نے داؤد کو زبور عطا کی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

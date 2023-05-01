@@ -3224,6 +3224,12 @@ aap keh dijiye! ke main to tumhee jaisa insaan ho, mujh par wahi naazil ki jaati
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجیے: (اے کافرو!) بس میں (ظاہراً) آدمی ہونے میں تو تم ہی جیسا ہوں (پھر مجھ سے اور میری دعوت سے اس قدر کیوں گریزاں ہو؟) میری طرف یہ وحی بھیجی گئی ہے کہ تمہارا معبود فقط معبودِ یکتا ہی ہے! پس تم اسی کی طرف سیدھے متوجہ رہو اور اس سے مغفرت چاہو، اور مشرکوں کے لیے ہلاکت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کہہ دو کہ میں تو تم ہی جیسا ایک انسان ہوں۔ (البتہ) مجھ پر یہ وحی نازل ہوتی ہے کہ تمہارا خدا بس ایک ہی خدا ہے۔ لہذا تم اپنا رخ سیدھا اسی کی طرف رکھو، اور اسی سے مغفرت مانگو۔ اور بڑی تباہی ہے ان مشرکوں کے لیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

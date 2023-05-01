@@ -3224,6 +3224,12 @@ hum ne to is Qur’an mein har har tarah bayaan farma diya ke log samajh jaaye l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے اس قرآن میں (حقائق اور نصائح کو) انداز بدل کر بار بار بیان کیا ہے تاکہ لوگ نصیحت حاصل کریں، مگر (منکرین کا عالم یہ ہے کہ) اس سے ان کی نفرت ہی مزید بڑھتی جاتی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے اس قرآن میں طرح طرح سے وضاحتیں کی ہیں، تاکہ لوگ ہوش میں آئیں، مگر یہ لوگ ہیں کہ اس سے ان کے بدکنے ہی میں اور اضافہ ہورہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar mushriko mein se koi tujh se panah talab kare tuh,tu ose panah de de,yaha t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر مشرکوں میں سے کوئی بھی آپ سے پناہ کا خواست گار ہو تو اسے پناہ دے دیں تاآنکہ وہ اللہ کا کلام سنے پھر آپ اسے اس کی جائے امن تک پہنچا دیں، یہ اس لئے کہ وہ لوگ (حق کا) علم نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر مشرکین میں سے کوئی تم سے پناہ مانگے تو اسے اس وقت تک پناہ دو جب تک وہ اللہ کا کلام سن لے۔ پھر اسے اس کی امن کی جگہ پہنچا دو ۔ یہ اس لئے کہ یہ ایسے لوگ ہیں جنہیں علم نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

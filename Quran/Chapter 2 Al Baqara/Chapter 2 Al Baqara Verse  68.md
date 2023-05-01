@@ -3224,6 +3224,12 @@ unhone ne kaha aye Mosa! dua ki jiye ke Allah ta’ala hamaare liye is ki maahiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(تب) انہوں نے کہا: آپ ہمارے لئے اپنے رب سے دعا کریں کہ وہ ہم پر واضح کر دے کہ (وہ) گائے کیسی ہو؟ (موسیٰ علیہ السلام نے) کہا: بیشک وہ فرماتا ہے کہ وہ گائے نہ تو بوڑھی ہو اور نہ بالکل کم عمر (اَوسَر)، بلکہ درمیانی عمر کی (راس) ہو، پس اب تعمیل کرو جس کا تمہیں حکم دیا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا کہ آپ ہماری خاطر اپنے رب سے درخواست کیجئے کہ ہمیں صاف صاف بتائے کہ وہ گائے کیسی ہو ؟ اس نے کہا : اللہ فرماتا ہے کہ وہ ایسی گائے ہو کہ نہ بہت بوڑھی ہو نہ بالکل بچی (بلکہ) ان دونوں کے بیچ بیچ میں ہو۔ بس اب جو حکم تمہیں دیا گیا ہے اس پر عمل کرلو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

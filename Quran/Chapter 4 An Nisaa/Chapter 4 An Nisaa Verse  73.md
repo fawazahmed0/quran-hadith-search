@@ -3224,6 +3224,12 @@ aur agar tumhe Allah ta’ala ka koyi fazal mil jaaye to us tarah ke goya tum me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تمہیں اللہ کی جانب سے کوئی نعمت نصیب ہو جائے تو (پھر) یہی (منافق افسوس کرتے ہوئے) ضرور (یوں) کہے گا گویا تمہارے اور اس کے درمیان کچھ دوستی ہی نہ تھی کہ اے کاش! میں ان کے ساتھ ہوتا تو میں بھی بڑی کامیابی حاصل کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ کی طرف سے کوئی فضل (یعنی فتح اور مال غنیمت) تمہارے ہاتھ آئے تو وہ کہے گا گویا تمہارے اور اس کے درمیان کبھی کوئی دوستی تو تھی ہی نہیں۔ کہ کاش میں بھی ان لوگوں کے ساتھ ہوتا تو بہت کچھ میرے بھی ہاتھ لگ جاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

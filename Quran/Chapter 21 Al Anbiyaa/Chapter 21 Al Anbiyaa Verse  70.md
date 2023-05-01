@@ -3224,6 +3224,12 @@ go unhone Ibraheem(alaihissalaam) ka bura chaaha, lekin hum ne unhe na kaam bana
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے ابراہیم (علیہ السلام) کے ساتھ بری چال کا ارادہ کیا تھا مگر ہم نے انہیں بری طرح ناکام کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان لوگوں نے ابراہیم کے لیے برائی کا منصوبہ بنایا تھا، مگر نتیجہ یہ ہوا کہ ہم نے انہی کو بری طرح ناکام کردیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

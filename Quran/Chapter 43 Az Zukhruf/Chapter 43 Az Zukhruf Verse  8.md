@@ -3224,6 +3224,12 @@ pas hum ne un se zyaada zoor aawaro ko tabaah kar daala aur aglo ki misaal guzar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اِن (کفّارِ مکہ) سے زیادہ زور آور لوگوں کو ہلاک کر دیا اور اگلے لوگوں کا حال (کئی جگہ پہلے) گزر چکا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جو لوگ ان (مکہ والوں) سے کہیں زیادہ زور آور تھے ہم نے انہیں ہلاک کردیا، اور ان پچھلے لوگوں کا حال پیچھے گزر چکا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jawaab diya ke un ka ilm mere rab ke haan kitaab mein maujoodh hai, na to mera r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسٰی علیہ السلام نے) فرمایا: ان کا علم میرے رب کے پاس کتاب میں (محفوظ) ہے، نہ میرا رب بھٹکتا ہے اور نہ بھولتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : ان کا علم میرے رب کے پاس ایک کتاب میں محفوظ ہے۔ میرے رب کو نہ کوئی غلطی لگتی ہے، نہ وہ بھولتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo kuch Sulaimaan(alaihissalaam) chaahte, wo jinnaath tayyaar kar dete, maslan q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (جنّات) ان کے لئے جو وہ چاہتے تھے بنا دیتے تھے۔ اُن میں بلند و بالا قلعے اور مجسّمے اور بڑے بڑے لگن تھے جو تالاب اور لنگر انداز دیگوں کی مانند تھے۔ اے آلِ داؤد! (اللہ کا) شکر بجا لاتے رہو، اور میرے بندوں میں شکرگزار کم ہی ہوئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جنات سلیمان کے لیے جو وہ چاہتے بنادیا کرتے تھے، اونچی اونچی عمارتیں، تصویریں حوض جیسے بڑے بڑے لگن اور زمین میں جمی ہوئی دیگیں۔ اے داؤد کے خاندان والو ! تم ایسے عمل کیا کرو جن سے شکر ظاہر ہو۔ اور میرے بندوں میں کم لوگ ہیں جو شکر گزار ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

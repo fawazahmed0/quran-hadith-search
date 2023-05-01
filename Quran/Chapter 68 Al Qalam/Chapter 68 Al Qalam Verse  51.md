@@ -3224,6 +3224,12 @@ aur qareeb hai ke kaafir apni tez nigaaho se aap ko phusla de, jab kabhi Qur’a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بے شک کافر لوگ جب قرآن سنتے ہیں تو ایسے لگتا ہے کہ آپ کو اپنی (حاسدانہ بد) نظروں سے نقصان پہنچانا چاہتے ہیں اور کہتے ہیں کہ یہ تو دیوانہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا ہے جب وہ نصیحت کی یہ بات سنتے ہیں تو ایسا لگتا ہے کہ یہ اپنی (تیز تیز) آنکھوں سے تمہیں ڈگمگا دیں گے، اور وہ کہتے ہیں کہ یہ شخص تو دیوانہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

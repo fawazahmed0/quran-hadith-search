@@ -3224,6 +3224,12 @@ aap keh di jiye ke mujh ko mere rab ne ek sidha raasta bata diya hai ke wo ek de
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: بیشک مجھے میرے رب نے سیدھے راستے کی ہدایت فرما دی ہے، (یہ) مضبوط دین (کی راہ ہے اور یہی) اللہ کی طرف یک سو اور ہر باطل سے جدا ابراہیم (علیہ السلام) کی ملت ہے، اور وہ مشرکوں میں سے نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) کہہ دو کہ میرے پروردگار نے مجھے ایک سیدھے راستے پر لگا دیا ہے جو کجی سے پاک دین ہے، ابراہیم کا دین۔ جنہوں نے پوری طرح یکسو ہو کر اپنا رخ صرف اللہ کی طرف کیا ہوا تھا، اور وہ شرک کرنے والوں میں سے نہیں تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

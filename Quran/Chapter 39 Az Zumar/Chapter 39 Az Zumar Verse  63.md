@@ -3224,6 +3224,12 @@ asmaano aur zameen ki konjiyo ka maalik wahi hai, jin jin logo ne Allah ki aayat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی کے پاس آسمانوں اور زمین کی کُنجیاں ہیں، اور جن لوگوں نے اللہ کی آیتوں کے ساتھ کفر کیا وہی لوگ ہی خسارہ اٹھانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سارے آسمانوں اور زمین کی کنجیاں اسی کے پاس ہیں، اور جنہوں نے اللہ کی آیتوں کا انکار کیا ہے گھاٹے میں رہنے والے وہی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

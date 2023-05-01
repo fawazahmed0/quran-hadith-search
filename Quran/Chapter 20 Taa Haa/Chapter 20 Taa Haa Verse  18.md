@@ -3224,6 +3224,12 @@ jawaab diya ke ye meri laathi hai, jis par main tek lagaata hoon aur jis se main
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: یہ میری لاٹھی ہے، میں اس پر ٹیک لگاتا ہوں اور میں اس سے اپنی بکریوں کے لئے پتے جھاڑتا ہوں اور اس میں میرے لئے کئی اور فائدے بھی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : یہ میری لاٹھی ہے، میں اس کا سہارا لیتا ہوں، اور اس سے اپنی بکریوں پر (درخت سے) پتے جھاڑتا ہوں، اور اس سے میری دوسری ضروریات بھی پوری ہوتی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

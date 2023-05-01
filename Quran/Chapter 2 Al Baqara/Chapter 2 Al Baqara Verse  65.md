@@ -3224,6 +3224,12 @@ aur yaqinan tumhe un logo ka ilm bhi hai jo tum mein se hafte ke baare mein hadh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے یہود!) تم یقیناً ان لوگوں سے خوب واقف ہو جنہوں نے تم میں سے ہفتہ کے دن (کے احکام کے بارے میں) سرکشی کی تھی تو ہم نے ان سے فرمایا کہ تم دھتکارے ہوئے بندر بن جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم اپنے لوگوں کو اچھی طرح جانتے ہو جو سنیچر (سبت) کے معاملے میں حد سے گزر گئے تھے چنانچہ ہم نے ان سے کہا تھا کہ تم دھتکارے ہوئے بندر بن جاؤ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

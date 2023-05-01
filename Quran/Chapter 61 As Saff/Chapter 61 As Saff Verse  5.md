@@ -3224,6 +3224,12 @@ aur (yaad karo) jab ke Mosa(alaihissalaam) ne apni khaum se kaha aye meri khaum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب! وہ وقت یاد کیجئے) جب موسٰی (علیہ السلام) نے اپنی قوم سے کہا: اے میری قوم! تم مجھے اذیت کیوں دیتے ہو حالانکہ تم جانتے ہو کہ میں تمہاری طرف اللہ کا بھیجا ہوا (رسول) ہوں۔ پھر جب انہوں نے کج روی جاری رکھی تو اللہ نے اُن کے دلوں کو ٹیڑھا کر دیا، اور اللہ نافرمان لوگوں کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب موسیٰ نے اپنی قوم سے کہا تھا کہ : اے میری قوم کے لوگو ! تم مجھے تکلیف کیوں پہنچاتے ہو، حالانکہ تم جانتے ہو کہ میں تمہارے پاس اللہ کا پیغمبر بن کر آیا ہوں ؟ پھر جب انہوں نے ٹیڑھ اختیار کی تو اللہ نے ان کے دلوں کو ٹیڑھا کردیا، اور اللہ نافرمان لوگوں کو ہدایت تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

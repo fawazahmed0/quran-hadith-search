@@ -3224,6 +3224,12 @@ keh dijiye ke mujhe tumhaare kisi nuqsaan, na-fe ka eqtiyaar nahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ میں تمہارے لئے نہ تو نقصان (یعنی کفر) کا مالک ہوں اور نہ بھلائی (یعنی ایمان) کا (گویا حقیقی مالک اللہ ہے میں تو ذریعہ اور وسیلہ ہوں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : نہ تمہارا کوئی نقصان میرے اختیار میں ہے، اور نہ کوئی بھلائی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

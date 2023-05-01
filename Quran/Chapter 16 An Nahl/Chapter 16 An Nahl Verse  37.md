@@ -3224,6 +3224,12 @@ go aap un ki hidaayath ke qwaahish mandH rahe hai, lekin Allah ta’ala ose hida
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر آپ ان کے ہدایت پر آجانے کی شدید طلب رکھتے ہیں تو (آپ اپنی طبیعتِ مطہرہ پر اس قدر بوجھ نہ لائیں) بیشک اللہ جسے گمراہ ٹھہرا دیتا ہے اسے ہدایت نہیں فرماتا اور ان کے لئے کوئی مددگار نہیں ہوتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) اگر تمہیں یہ حرص ہے کہ یہ لوگ ہدایت پر آجائیں، تو حقیقت یہ ہے کہ اللہ جن کو (ان کے عناد کی وجہ سے) گمراہ کردیتا ہے ان کو ہدایت تک نہیں پہنچاتا، اور ایسے لوگوں کو کسی قسم کے مددگار بھی میسر نہیں آتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

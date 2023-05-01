@@ -3224,6 +3224,12 @@ ye log un musalmaano (ke kisi aur gunaah ka) badhla nahi le rahe thein sivaaye u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہیں ان (مومنوں) کی طرف سے اور کچھ (بھی) ناگوار نہ تھا سوائے اس کے کہ وہ اللہ پر ایمان لے آئے تھے جو غالب (اور) لائقِ حمد و ثنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ ایمان والوں کو کسی اور بات کی نہیں، صرف اس بات کی سزا دے رہے تھے کہ وہ اس اللہ پر ایمان لے آئے تھے جو بڑے اقتدار والا، بہت قابل تعریف ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

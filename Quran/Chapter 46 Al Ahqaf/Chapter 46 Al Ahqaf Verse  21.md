@@ -3224,6 +3224,12 @@ aur aadh ke bhai ko yaad karo jab ke us ne apni khaum ko ahqaaf1 mein daraaya au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب!) آپ قومِ عاد کے بھائی (ہود علیہ السلام) کا ذکر کیجئے، جب انہوں نے (عُمان اور مَہرہ کے درمیان یمن کی ایک وادی) اَحقاف میں اپنی قوم کو (اَعمالِ بد کے نتائج سے) ڈرایا حالانکہ اس سے پہلے اور اس کے بعد (بھی کئی) ڈرانے والے (پیغمبر) گزر چکے تھے کہ تم اللہ کے سوا کسی اور کی پرستش نہ کرنا، مجھے ڈر ہے کہ کہیں تم پر بڑے (ہولناک) دن کا عذاب (نہ) آجائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور قوم عاد کے بھائی (حضرت ہود (علیہ السلام)) کا تذکرہ کرو، جب انہوں نے اپنی قوم کو خم دار ٹیلوں کی سرزمین میں خبردار کیا تھا۔ اور ایسے خبردار کرنے والے ان سے پہلے گزر چکے ہیں، اور ان کے بعد بھی، کہ : اللہ کے سوا کسی کی عبادت نہ کرو، مجھے تم پر ایک زبردست دن کے عذاب کا اندیشہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

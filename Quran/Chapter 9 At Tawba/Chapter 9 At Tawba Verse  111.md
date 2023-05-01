@@ -3224,6 +3224,12 @@ bilshuba Allah tala ne musalmano se un ki jano ko aur un ke malo ko us bath ke e
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک اللہ نے اہلِ ایمان سے ان کی جانیں اور ان کے مال، ان کے لیے (وعدۂ) جنّت کے عوض خرید لیے ہیں، (اب) وہ اللہ کی راہ میں (اِنسانی حرمت کے تحفظ اور معاشرے میں قیامِ اَمن کے اعلیٰ تر مقاصد کے لیے) جنگ کرتے ہیں، سو وہ (دورانِ جنگ) قتل کرتے ہیں اور (خود بھی) قتل کیے جاتے ہیں۔ (اللہ نے) اپنے ذمۂ کرم پر پختہ وعدہ (لیا) ہے، تَورات میں (بھی) انجیل میں (بھی) اور قرآن میں (بھی)، اور کون اپنے وعدہ کو اللہ سے زیادہ پورا کرنے والا ہے، سو (ایمان والو!) تم اپنے سودے پر خوشیاں مناؤ جس کے عوض تم نے (جان و مال کو) بیچا ہے، اور یہی تو زبردست کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 واقعہ یہ ہے کہ اللہ نے مومنوں سے ان کی جانیں اور ان کے مال اس بات کے بدلے خرید لیے ہیں کہ جنت انہی کی ہے۔ وہ اللہ کے راستے میں جنگ کرتے ہیں، جس کے نتیجے میں مارتے بھی ہیں، اور مرتے بھی ہیں۔ یہ ایک سچا وعدہ ہے جس کی ذمہ داری اللہ نے تورات اور انجیل میں بھی لی ہے، اور قرآن میں بھی۔ اور کون ہے جو اللہ سے زیادہ اپنے عہد کو پورا کرنے والا ہو ؟ لہذا اپنے اس سودے پر خوشی مناؤ جو تم نے اللہ سے کرلیا ہے۔ اور یہی بڑی زبردست کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

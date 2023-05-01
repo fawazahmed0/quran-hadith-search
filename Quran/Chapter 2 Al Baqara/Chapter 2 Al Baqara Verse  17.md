@@ -3224,6 +3224,12 @@ un ki misaal us shaqs ki si hai jis ne aag jalaayi, pus aas pas ki chize roushni
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کی مثال ایسے شخص کی مانند ہے جس نے (تاریک ماحول میں) آگ جلائی اور جب اس نے گرد و نواح کو روشن کر دیا تو اللہ نے ان کا نور سلب کر لیا اور انہیں تاریکیوں میں چھوڑ دیا اب وہ کچھ نہیں دیکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی مثال اس شخص کی سی ہے جس نے ایک آگ روشن کی پھر جب اس (آگ نے) اس کے ماحول کو روشن کردیا تو اللہ نے ان کا نور سلب کرلیا اور انہیں اندھیروں میں چھوڑ دیا کہ انہیں کچھ سجھائی نہیں دیتا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

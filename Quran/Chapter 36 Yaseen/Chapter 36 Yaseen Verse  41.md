@@ -3224,6 +3224,12 @@ aur un ke liye ek nishaani (ye bhi) hai ke hum ne un ki nasl ko bhari hoyi kasht
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ایک نشانی اُن کے لئے یہ (بھی) ہے کہ ہم نے ان کے آباء و اجداد کو (جو ذُریّت آدم تھے) بھری کشتیِ (نوح) میں سوار کر (کے بچا) لیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے لیے ایک اور نشانی یہ ہے کہ ہم نے ان کی اولاد کو بھری ہوئی کشتی میں سوار کیا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

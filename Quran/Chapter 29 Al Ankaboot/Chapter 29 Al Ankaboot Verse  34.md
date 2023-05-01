@@ -3224,6 +3224,12 @@ hum us basti waalo par aasmaani azaab naazil karne waale hai, is wajeh se ke ye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم اس بستی کے باشندوں پر آسمان سے عذاب نازل کرنے والے ہیں اس وجہ سے کہ وہ نافرمانی کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس بستی کے باشندے جو بدکاریاں کرتے رہے ہیں، ان کی وجہ سے ہم ان پر آسمان سے عذاب نازل کرنے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

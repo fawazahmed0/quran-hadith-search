@@ -3224,6 +3224,12 @@ Qur’aan hai arabi mein jis mein koyi kaji nahi ho sakta hai, ke wo parhezgaari
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قرآن عربی زبان میں ہے (جو سب زبانوں سے زیادہ صاف اور بلیغ ہے) جس میں ذرا بھی کجی نہیں ہے تاکہ وہ تقوٰی اختیار کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ عربی قرآن جس میں کوئی ٹیڑھ نہیں، تاکہ لوگ تقوی اختیار کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

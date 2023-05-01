@@ -3224,6 +3224,12 @@ aur ye log is se dosro ko bhi rokte hai aur khud bhi us se door door rehte hai, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (دوسروں کو) اس (نبی کی اتباع اور قرآن) سے روکتے ہیں اور (خود بھی) اس سے دور بھاگتے ہیں، اور وہ محض اپنی ہی جانوں کو ہلاک کررہے ہیں اور وہ (اس ہلاکت کا) شعور (بھی) نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ دوسروں کو بھی اس (قرآن) سے روکتے ہیں، اور خود بھیا س سے دور رہتے ہیں۔ اور (اس طرح) وہ اپنی جانوں کے سوا کسی اور کو ہلاکت میں نہیں ڈال رہے، لیکن ان کو احساس نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

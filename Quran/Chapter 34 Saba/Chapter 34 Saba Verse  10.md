@@ -3224,6 +3224,12 @@ aur hum ne Dawoodh(alaihissalaam) par apna fazl kiya hai, aye pahaado! us ke saa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے داؤد (علیہ السلام) کو اپنی بارگاہ سے بڑا فضل عطا فرمایا، (اور حکم فرمایا:) اے پہاڑو! تم اِن کے ساتھ مل کر خوش اِلحانی سے (تسبیح) پڑھا کرو، اور پرندوں کو بھی (مسخّر کر کے یہی حکم دیا)، اور ہم نے اُن کے لئے لوہا نرم کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور واقعہ یہ ہے کہ ہم نے داؤد کو خاص اپنے پاس سے فضل عطا کیا تھا۔ اے پہاڑو ! تم بھی تسبیح میں ان کے ساتھ ہم آواز بن جاؤ، اور اے پرندو ! تم بھی۔ اور ہم نے ان کے لیے لوہے کو نرم کردیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ keh dijiye! mere paas to, pas wahi ki jaati hai, ke tum sab ka maboodh ek hee ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے کہ میری طرف تو یہی وحی کی جاتی ہے کہ تمہارا معبود فقط ایک (ہی) معبود ہے، تو کیا تم اسلام قبول کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : مجھ پر تو یہی وحی آتی ہے کہ تمہارا خدا بس ایک ہی خدا ہے۔ تو کیا تم اطاعت قبول کرتے ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

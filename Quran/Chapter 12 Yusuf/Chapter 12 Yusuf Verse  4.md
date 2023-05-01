@@ -3224,6 +3224,12 @@ jab ke yousuf ne apne baap se zikr kiya ke abba jaan main ne gyara sitaro ko aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ قصّہ یوں ہے) جب یوسف (علیہ السلام) نے اپنے باپ سے کہا: اے میرے والد گرامی! میں نے (خواب میں) گیارہ ستاروں کو اور سورج اور چاند کو دیکھا ہے، میں نے انہیں اپنے لئے سجدہ کرتے ہوئے دیکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ اس وقت کی بات ہے) جب یوسف نے اپنے والد (یعقوب (علیہ السلام)) سے کہا تھا کہ : ابا جان ! میں نے (خواب میں) گیارہ ستاروں اور سورج اور چاند کو دیکھا ہے۔ میں نے دیکھا ہے کہ یہ سب مجھے سجدہ کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ logo ko us din se hushyaar karde jab ke un ke paas azaab aa jayega aur zaalim ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ لوگوں کو اس دن سے ڈرائیں جب ان پر عذاب آپہنچے گا تو وہ لوگ جو ظلم کرتے رہے ہوں گے کہیں گے: اے ہمارے رب! ہمیں تھوڑی دیر کے لئے مہلت دے دے کہ ہم تیری دعوت کو قبول کر لیں اور رسولوں کی پیروی کر لیں۔ (ان سے کہا جائے گا) کہ کیا تم ہی لوگ پہلے قسمیں نہیں کھاتے رہے کہ تمہیں کبھی زوال نہیں آئے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم لوگوں کو اس دن سے خبردار کرو جب عذاب ان پر آن پڑے گا، تو اس وقت یہ ظالم کہیں گے کہ : اے ہمارے پروردگار ! ہمیں تھوڑی سی مدت کے لیے اور مہلت دے دیجیے تاکہ ہم آپ کی دعوت قبول کرلیں، اور پیغمبروں کی پیرویں کریں۔ (اس وقت ان سے کہا جائے گا کہ :) ارے کیا تم لوگوں نے قسمیں کھا کھا کر پہلے یہ نہیں کہا تھا کہ تم پر کوئی زوال نہیں آسکتا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

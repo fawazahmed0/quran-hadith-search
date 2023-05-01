@@ -3224,6 +3224,12 @@ Moosa ne jawaab diya ke ye to tujhe ilm ho chuka hai ke aasmaan wa zameen ke par
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+موسٰی (علیہ السلام) نے فرمایا: تو (دل سے) جانتا ہے کہ ان نشانیوں کو کسی اور نے نہیں اتارا مگر آسمانوں اور زمین کے رب نے عبرت و بصیرت بنا کر، اور میں تو یہی خیال کرتا ہوں کہ اے فرعون! تو ہلاکت زدہ ہو (تو جلدی ہلاک ہوا چاہتا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : تمہیں خوب معلوم ہے کہ یہ ساری نشانیاں کسی اور نے نہیں، آسمانوں اور زمین کے پروردگار نے بصیرت پیدا کرنے کے لیے نازل کی ہیں۔ اور اے فرعون ! تمہارے بارے میں میرا گمان یہ ہے کہ تمہاری بربادی آنے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

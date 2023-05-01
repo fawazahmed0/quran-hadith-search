@@ -3224,6 +3224,12 @@ dekhe to sahih aap ke liye kya kya misaale bayaan karte hai, pas wo bahek rahe h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) دیکھئے (یہ لوگ) آپ کے لئے کیسی (کیسی) تشبیہیں دیتے ہیں پس یہ گمراہ ہو چکے، اب راہِ راست پر نہیں آسکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دیکھو انہوں نے تم پر کیسی کیسی پھبتیاں چست کی ہیں۔ یہ راہ سے بھٹک چکے ہیں۔ چنانچہ یہ راستے پر نہیں آسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

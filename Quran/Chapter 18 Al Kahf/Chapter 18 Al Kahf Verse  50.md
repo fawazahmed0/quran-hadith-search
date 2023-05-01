@@ -3224,6 +3224,12 @@ aur jab hum ne farishto ko hum diya ke tum aadam ko sajda karo to iblees ke siva
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کیجئے) جب ہم نے فرشتوں سے فرمایا کہ تم آدم (علیہ السلام) کو سجدۂ (تعظیم) کرو سو ان (سب) نے سجدہ کیا سوائے ابلیس کے، وہ (ابلیس) جنّات میں سے تھا تو وہ اپنے رب کی طاعت سے باہر نکل گیا، کیا تم اس کو اور اس کی اولاد کو مجھے چھوڑ کر دوست بنا رہے ہو حالانکہ وہ تمہارے دشمن ہیں، یہ ظالموں کے لئے کیا ہی برا بدل ہے (جو انہوں نے میری جگہ منتخب کیا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب ہم نے فرشتوں سے کہا تھا کہ : آدم کے آگے سجدہ کرو۔ چنانچہ سب نے سجدہ کیا، سوائے ابلیس کے وہ جنات میں سے تھا، چنانچہ اس نے اپنے رب کے حکم کی نافرمانی کی۔ کیا پھر بھی تم میرے بجائے اسے اور اس کی ذریت کو اپنا رکھوالا بناتے ہو۔ حالانکہ وہ سب تمہارے دشمن ہیں ؟ (اللہ تعالیٰ کا) کتنا برا متبادل ہے جو ظالموں کو ملا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

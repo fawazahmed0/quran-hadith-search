@@ -3224,6 +3224,12 @@ aye rasool jo kuch bhi aap ki taraf aap ke rab ki jaanib se naazil kiya gaya hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے (برگزیدہ) رسول! جو کچھ آپ کی طرف آپ کے رب کی جانب سے نازل کیا گیا ہے (وہ سارا لوگوں کو) پہنچا دیجئے، اور اگر آپ نے (ایسا) نہ کیا تو آپ نے اس (ربّ) کا پیغام پہنچایا ہی نہیں، اور اللہ (مخالف) لوگوں سے آپ (کی جان) کی (خود) حفاظت فرمائے گا۔ بیشک اللہ کافروں کو راہِ ہدایت نہیں دکھاتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے رسول ! جو کچھ تمہارے رب کی طرف سے تم پر نازل کیا گیا ہے اس کی تبلیغ کرو۔ اور اگر ایسا نہیں کرو گے تو (اس کا مطلب یہ ہوگا کہ) تم نے اللہ کا پیغام نہیں پہنچایا۔ اور اللہ تمہیں لوگوں (کی سازشوں) سے بچائے گا۔ یقین رکھو کہ اللہ کافر لوگوں کو ہدایت نہیں دیتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

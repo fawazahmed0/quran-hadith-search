@@ -3224,6 +3224,12 @@ un se pehle ke logo ne bhi makar kiya tha (aaqir) Allah ne (un ke mansubo) ki im
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اُن لوگوں نے (بھی) فریب کیا جو اِن سے پہلے تھے تو اللہ نے اُن (کے مکر و فریب) کی عمارت کو بنیادوں سے اکھاڑ دیا تو ان کے اوپر سے ان پر چھت گر پڑی اور ان پر اس طرف سے عذاب آپہنچا جس کا اُنہیں کچھ خیال بھی نہ تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے پہلے کے لوگوں نے بھی مکر کے منصوبے بنائے تھے۔ پھر ہوا یہ کہ (منصوبوں کی) جو عمارتیں انہوں نے تعمیر کی تھیں، اللہ تعالیٰ نے انہیں جڑ بنیاد سے اکھاڑ پھینکا، پھر ان کے اوپر سے چھت بھی ان پر آگری، اور ان پر عذاب ایسی جگہ سے آدھمکا جس کا انہیں احساس تک نہیں تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

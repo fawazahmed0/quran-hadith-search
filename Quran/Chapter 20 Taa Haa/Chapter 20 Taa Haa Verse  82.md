@@ -3224,6 +3224,12 @@ haan beshak main unhe baqsh dene waala hoon jo tauba kare, imaan laaye, nek amal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک میں بہت زیادہ بخشنے والا ہوں اس شخص کو جس نے توبہ کی اور ایمان لایا اور نیک عمل کیا پھر ہدایت پر (قائم) رہا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ بھی حقیقت ہے کہ جو شخص توبہ کرے، ایمان لائے، اور نیک عمل کرے، پھر سیدھے راستے پر قائم رہے تو میں اس کے لیے بہت بخشنے والا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

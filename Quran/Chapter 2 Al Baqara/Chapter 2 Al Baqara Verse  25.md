@@ -3224,6 +3224,12 @@ aur imaan waalo aur nek amal karne waalo ko un jannato ki khush qabryaa do, jin 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب!) آپ ان لوگوں کو خوشخبری سنا دیں جو ایمان لائے اور نیک عمل کرتے رہے کہ ان کے لئے (بہشت کے) باغات ہیں جن کے نیچے نہریں بہتی ہیں، جب انہیں ان باغات میں سے کوئی پھل کھانے کو دیا جائے گا تو (اس کی ظاہری صورت دیکھ کر) کہیں گے: یہ تو وہی پھل ہے جو ہمیں (دنیا میں) پہلے دیا گیا تھا، حالانکہ انہیں (صورت میں) ملتے جلتے پھل دیئے گئے ہوں گے، ان کے لئے جنت میں پاکیزہ بیویاں (بھی) ہوں گی اور وہ ان میں ہمیشہ رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لائے ہیں اور انہوں نے نیک عمل کئے ہیں ان کو خوشخبری دے دو کہ ان کے لئے ایسے باغات (تیار) ہیں جن کے نیچے نہریں بہتی ہوں گی جب کبھی ان کو ان (باغات) میں سے کوئی پھل رزق کے طور پر دیا جائے گا تو وہ کہیں گے ” یہ تو وہی ہے جو ہمیں پہلے بھی دیا گیا تھا “ اور انہیں وہ رزق ایسا ہی دیا جائے گا جو دیکھنے میں ملتا جلتا ہوگا اور ان کے لئے وہاں پاکیزہ بیویاں ہوں گی اور وہ ان (باغات) میں ہمیشہ ہمیشہ رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Zakarya (alaihissalaam) kehne lage mere rub! mere haan ladka kaise hoga, jab ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(زکریا علیہ السلام نے) عرض کیا: اے میرے رب! میرے ہاں لڑکا کیسے ہو سکتا ہے درآنحالیکہ میری بیوی بانجھ ہے اور میں خود بڑھاپے کے باعث (انتہائی ضعف میں) سوکھ جانے کی حالت کو پہنچ گیا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زکریا نے کہا : میرے پروردگار ! میرے یہاں لڑکا کس طرح پیدا ہوگا جبکہ میری بیوی بانجھ ہے، اور میں بڑھاپے سے اس حال کو پہنچ گیا ہوں کہ میرا جسم سوکھ چکا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

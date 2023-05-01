@@ -3224,6 +3224,12 @@ haan wo log jo apne rab se darte rahe, un ke liye baala khaane hai, jin ke upar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لیکن جو لوگ اپنے رب سے ڈرتے ہیں ان کے لئے (جنت میں) بلند محلات ہوں گے جن کے اوپر (بھی) بالاخانے بنائے گئے ہوں گے، اُن کے نیچے سے نہریں رواں ہوں گی۔ یہ اللہ کا وعدہ ہے، اللہ وعدہ کی خلاف ورزی نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ جنہوں نے اپنے پروردگار کا خوف دل میں رکھا ہے ان کے لیے اوپر تلے بنی ہوئی اونچی اونچی عمارتیں ہیں، جن کے نیچے نہریں بہتی ہیں۔ یہ اللہ کا وعدہ ہے۔ اللہ کبھی وعدے کی خلاف ورزی نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

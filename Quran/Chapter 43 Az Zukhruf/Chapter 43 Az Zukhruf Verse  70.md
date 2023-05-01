@@ -3224,6 +3224,12 @@ tum aur tumhaari biwiya hasshaash basshaash (raazi khushi) jannath mein chale ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم اور تمہارے ساتھ جڑے رہنے والے ساتھی٭ (سب) جنت میں داخل ہو جاؤ (جنت کی نعمتوں، راحتوں اور لذّتوں کے ساتھ) تمہاری تکریم کی جائے گیo٭ مفسرین کرام نے آیتِ کریمہ میں اَزوَاجُکُم کا معنی بیویوں کے علاوہ ”قریبی ساتھی“ بھی کیا ہے جیسے امام قرطبی نے تفسیر ”الجامع لاحکام القرآن (16: 111)“ میں، امام ابن کثیر نے ”تفسیر القرآن العظیم (4 : 134)“ میں، اور امام شوکانی نے تفسیر ”فتح القدیر (4 : 563)“ میں یہ معنی بیان کیا ہے۔ اسی بناء پر یہاں اَزوَاج کا معنی بیویوں کی بجائے ”ساتھ جڑے رہنے والے ساتھی“ کیا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم بھی اور تمہاری بیویاں بھی، خوشی سے چمکتے چہروں کے ساتھ جنت میں داخل ہوجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

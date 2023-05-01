@@ -3224,6 +3224,12 @@ so wo log un ko jhutlate rahe,pas hum ne un ko aur jo un ke sath kashti mein the
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر آپ کی قوم نے آپ کو جھٹلایا پس ہم نے انہیں اور جو ان کے ساتھ کشتی میں تھے (عذابِ طوفان سے) نجات دی اور ہم نے انہیں (زمین میں) جانشین بنادیا اور ان لوگوں کو غرق کردیا جنہوں نے ہماری آیتوں کو جھٹلایا تھا، سو آپ دیکھئے کہ ان لوگوں کا انجام کیسا ہوا جو ڈرائے گئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ ان لوگوں نے نوح کو جھٹلایا اور نتیجہ یہ ہوا کہ ہم نے نوح کو اور جو لوگ ان کے ساتھ کشتی میں تھے انہیں بچا لیا، اور ان کو کافروں کی جگہ زمین میں بسایا، اور جن لوگوں نے ہماری نشانیوں کو جھٹلایا تھا، انہیں (طوفان میں) غرق کردیا۔ اب دیکھو کہ جن لوگوں کو خبردار کیا گیا تھا ان کا انجام کیسا ہوا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

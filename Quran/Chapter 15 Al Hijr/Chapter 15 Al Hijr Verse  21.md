@@ -3224,6 +3224,12 @@ aur jitni bhi cheeze hai un sub ke khazaane hamare paas hai aur hum har cheez ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (کائنات) کی کوئی بھی چیز ایسی نہیں ہے مگر یہ کہ ہمارے پاس اس کے خزانے ہیں اور ہم اسے صرف معیّن مقدار کے مطابق ہی اتارتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کوئی (ضرورت کی) چیز ایسی نہیں ہے جس کے ہمارے پاس خزانے موجود نہ ہوں، مگر ہم اس کو ایک معین مقدار میں اتارتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

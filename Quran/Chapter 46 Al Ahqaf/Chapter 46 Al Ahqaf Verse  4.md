@@ -3224,6 +3224,12 @@ aap keh dijiye, bhala dekho to jinhe tum Allah ke siva pukaarte ho, mujhe bhi to
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ مجھے بتاؤ تو کہ جن (بتوں) کی تم اللہ کے سوا عبادت کرتے ہو مجھے دکھاؤ کہ انہوں نے زمین میں کیا چیز تخلیق کی ہے یا (یہ دکھا دو کہ) آسمانوں (کی تخلیق) میں ان کی کوئی شراکت ہے۔ تم میرے پاس اس (قرآن) سے پہلے کی کوئی کتاب یا (اگلوں کے) علم کا کوئی بقیہ حصہ (جو منقول چلا آرہا ہو ثبوت کے طور پر) پیش کرو اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم ان سے کہو کہ : کیا تم نے ان چیزوں پر کبھی غور کیا ہے جن کو تم اللہ کے سوا پکارتے ہو ؟ مجھے دکھاؤ تو سہی کہ انہوں نے زمین کی کونسی چیز پیدا کی ہے ؟ یا آسمانوں (کی تخلیق) میں ان کا کوئی حصہ ہے ؟ میرے پاس کوئی ایسی کتاب لاؤ جو اس قرآن سے پہلے کی ہو، یا پھر کوئی روایت جس کی بنیاد علم پر ہو۔ اگر تم واقعی سچے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

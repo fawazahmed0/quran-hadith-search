@@ -3224,6 +3224,12 @@ hum ne aap se pehle jitne rasool bheje sab ke sab khaana bhi khaate thein aur ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے آپ سے پہلے رسول نہیں بھیجے مگر (یہ کہ) وہ کھانا (بھی) یقیناً کھاتے تھے اور بازاروں میں بھی (حسبِ ضرورت) چلتے پھرتے تھے اور ہم نے تم کو ایک دوسرے کے لئے آزمائش بنایا ہے، کیا تم (آزمائش پر) صبر کرو گے؟ اور آپ کا رب خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ہم نے تم سے پہلے جتنے پیغمبر بھیجے، وہ سب ایسے تھے کہ کھانا بھی کھاتے تھے اور بازاروں میں بھی چلتے پھرتے تھے، اور ہم نے تم لوگوں کو ایک دوسرے کی آزمائش کا ذریعہ بنایا ہے۔ بتاؤ کیا صبر کرو گے ؟ اور تمہارا پروردگار ہر بات دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

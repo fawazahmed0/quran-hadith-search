@@ -3224,6 +3224,12 @@ aur khajoor aur angoor ke daraqto ke phalo se tum sharaab bana lete ho aur umdaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کھجور اور انگور کے پھلوں سے تم شکّر اور (دیگر) عمدہ غذائیں بناتے ہو، بیشک اس میں اہلِ عقل کے لئے نشانی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کھجور کے پھلوں اور انگوروں سے بھی (ہم تمہیں ایک مشروب عطا کرتے ہیں) جس سے تم شراب بھی بناتے ہو، اور پاکیزہ رزق بھی بیشک اس میں بھی ان لوگوں کے لیے نشانی ہے جو عقل سے کام لیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aaj har nafs ko us ki kamaayi ka badhla diya jayega, aaj (kisi qism ka) zulm nah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آج کے دن ہر جان کو اس کی کمائی کا بدلہ دیا جائے گا، آج کوئی نا انصافی نہ ہوگی، بے شک اللہ بہت جلد حساب لینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آج کے دن ہر شخص کو اس کے کیے کا بدلہ دیا جائے گا آج کوئی ظلم نہیں ہو گا۔ یقینا اللہ بہت جلد حساب لینے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un ki to yahi saza hai ke un par Allah ta’ala ki aur farishto ki aur tamaam lo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایسے لوگوں کی سزا یہ ہے کہ ان پر اللہ کی اور فرشتوں کی اور تمام انسانوں کی لعنت پڑتی رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایسے لوگوں کی سزا یہ ہے کہ ان پر اللہ کی، فرشتوں کی اور تمام انسانوں کی پھٹکار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

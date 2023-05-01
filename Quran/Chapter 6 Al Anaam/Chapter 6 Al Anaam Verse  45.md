@@ -3224,6 +3224,12 @@ phir zaalim logo ki jad, kat gayi aur Allah ta’ala ka shukr hai jo tamaam aala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ظلم کرنے والی قوم کی جڑ کاٹ دی گئی، اور تمام تعریفیں اللہ ہی کے لئے ہیں جو سارے جہانوں کا پروردگار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طرح جن لوگوں نے ظلم کیا تھا ان کی جڑ کاٹ کر رکھ دی گئی، اور تمام تعریفیں اللہ کی ہیں جو تمام جہانوں کا پروردگار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

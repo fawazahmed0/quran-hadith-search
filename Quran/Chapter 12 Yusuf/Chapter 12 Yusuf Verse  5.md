@@ -3224,6 +3224,12 @@ yaqoob alaihissalaam ne kaha pyare bacche! apne is qaab ka zikr apne bhaiyyo se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: اے میرے بیٹے! اپنا یہ خواب اپنے بھائیوں سے بیان نہ کرنا، ورنہ وہ تمہارے خلاف کوئی پُر فریب چال چلیں گے۔ بیشک شیطان انسان کا کھلا دشمن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : بیٹا ! اپنا یہ خواب اپنے بھائیوں کو نہ بتانا، کہیں ایسا نہ ہو کہ وہ تمہارے لیے کوئی سازش تیار کریں، کیونکہ شیطان انسان کا کھلا دشمن ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

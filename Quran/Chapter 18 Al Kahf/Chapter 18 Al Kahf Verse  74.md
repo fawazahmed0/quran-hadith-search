@@ -3224,6 +3224,12 @@ phir duno chale, yahaan tak ke ek ladke ko paaya, us ne ose maar daala, Mosa(ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر وہ دونوں چل دیئے یہاں تک کہ دونوں ایک لڑکے سے ملے تو (خضر علیہ السلام نے) اسے قتل کر ڈالا، موسٰی (علیہ السلام) نے کہا: کیا آپ نے بے گناہ جان کو بغیر کسی جان (کے بدلہ) کے قتل کر دیا ہے، بیشک آپ نے بڑا ہی سخت کام کیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ دونوں پھر روانہ ہوگئے، یہاں تک کہ ان کی ملاقات ایک لڑکے سے ہوئی تو ان صاحب نے اسے قتل کر ڈالا۔ موسیٰ بول اٹھے : ارے کیا آپ نے ایک پاکیزہ جان کو ہلاک کردیا، جبکہ اس نے کسی کی جان نہیں لی تھی، جس کا بدلہ اس سے لیا جائے ؟ یہ تو آپ نے بہت ہی برا کام کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

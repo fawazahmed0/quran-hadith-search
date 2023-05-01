@@ -3224,6 +3224,12 @@ unhone kaha ke main to apni pareshaniyo aur ranj ki faryaad Allah hee se kar rah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے فرمایا: میں تو اپنی پریشانی اور غم کی فریاد صرف اللہ کے حضور کرتا ہوں اور میں اللہ کی طرف سے وہ کچھ جانتا ہوں جو تم نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یعقوب نے کہا : میں اپنے رنج و غم کی فریاد (تم سے نہیں) صرف اللہ سے کرتا ہوں، اور اللہ کے بارے میں جتنا میں جانتا ہوں، تم نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

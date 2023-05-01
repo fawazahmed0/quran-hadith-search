@@ -3224,6 +3224,12 @@ aur apni nigaahe hargiz un cheezo ki taraf na daudaana, jo hum ne un mein se muq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ دنیوی زندگی میں زیب و آرائش کی ان چیزوں کی طرف حیرت و تعجب کی نگاہ نہ فرمائیں جو ہم نے (کافر دنیاداروں کے) بعض طبقات کو (عارضی) لطف اندوزی کے لئے دے رکھی ہیں تاکہ ہم ان (ہی چیزوں) میں ان کے لئے فتنہ پیدا کر دیں، اور آپ کے رب کی (اخروی) عطا بہتر اور ہمیشہ باقی رہنے والی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور دنیوی زندگی کی اس بہار کی طرف آنکھیں اٹھا کر بھی نہ دیکھو جو ہم نے ان (کافروں) میں سے مختلف لوگوں کو مزے اڑانے کے لیے دے رکھی ہے، تاکہ ہم ان کو اس کے ذریعے آزمائیں۔ اور تمہارے رب کا رزق سب سے بہتر اور سب سے زیادہ دیرپا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar aap us waqt dekhe jab ke ye dozakh ke paas khade kiye jaaye to kahenge,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر آپ (انہیں اس وقت) دیکھیں جب وہ آگ (کے کنارے) پر کھڑے کئے جائیں گے تو کہیں گے: اے کاش! ہم (دنیا میں) پلٹا دیئے جائیں تو (اب) ہم اپنے رب کی آیتوں کو (کبھی) نہیں جھٹلائیں گے اور ایمان والوں میں سے ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (بڑا ہولناک نظارہ ہوگا) اگر تم وہ وقت دیکھو جب ان کو دوزخ پر کھڑا کیا جائے گا، اور یہ کہیں گے : اے کاش ! ہمیں واپس (دنیا میں) بھیج دیا جائے، تاکہ اس بار ہم اپنے پروردگار کی نشانیوں کو نہ جھٹلائیں اور ہمارا شمار مومنوں میں ہوجائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

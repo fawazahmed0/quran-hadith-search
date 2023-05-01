@@ -3224,6 +3224,12 @@ kaafiro ko un ke maal aur un ki aulaad Allah ke haan kuch kaam na ayengi, ye to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یقینا جن لوگوں نے کفر کیا ہے نہ ان کے مال انہیں اللہ (کے عذاب) سے کچھ بچا سکیں گے اور نہ ان کی اولاد، اور وہی لوگ جہنمی ہیں، جو اس میں ہمیشہ رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس کے برعکس) جن لوگوں نے کفر اپنا لیا ہے، اللہ کے مقابلے میں نہ ان کے مال ان کے کچھ کام آئیں گے، نہ اولاد، وہ دوزخی لوگ ہیں، اسی میں وہ ہمیشہ رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

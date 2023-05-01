@@ -3224,6 +3224,12 @@ ye to Allah ta’ala ko chohd kar sirf aurto ko pukaarte hai aur dar asal ye sir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (مشرکین) اللہ کے سوا محض زنانی چیزوں ہی کی پرستش کرتے ہیں اور یہ فقط سرکش شیطان ہی کی پوجا کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کو چھوڑ کر جن سے یہ دعائیں مانگ رہے ہیں وہ صرف چند زنانیاں ہیں، اور جس کو یہ پکار رہے ہیں وہ اس سرکش شیطان کے سوا کوئی نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

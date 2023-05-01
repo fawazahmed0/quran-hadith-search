@@ -3224,6 +3224,12 @@ Woh bola “mere Rubb, jaisa tu nay mujhey behkaya usi tarah ab main zameen mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ابلیس نے کہا: اے پروردگار! اس سبب سے جو تو نے مجھے گمراہ کیا میں (بھی) یقیناً ان کے لئے زمین میں (گناہوں اور نافرمانیوں کو) خوب آراستہ و خوش نما بنا دوں گا اور ان سب کو ضرور گمراہ کر کے رہوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگا : یا رب ! چونکہ تو نے مجھے گمراہ کیا ہے، اس لیے اب میں قسم کھاتا ہوں کہ ان انسانوں کے لیے دنیا میں دلکشی پیدا کروں گا۔ اور ان سب کو گمراہ کر کے رہوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

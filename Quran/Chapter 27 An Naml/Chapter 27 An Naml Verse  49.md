@@ -3224,6 +3224,12 @@ unhone aapas mein badi qasme kha kha kar ahad kiya ke raath hee ko saaleh aur us
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان سرغنوں نے) کہا: تم آپس میں اللہ کی قسم کھا کر عہد کرو کہ ہم ضرور رات کو صالح (علیہ السلام) اور اس کے گھر والوں پر قاتلانہ حملہ کریں گے پھر ان کے وارثوں سے کہہ دیں گے کہ ہم ان کی ہلاکت کے موقع پر حاضر ہی نہ تھے اور بیشک ہم سچے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے (آپس میں ایک دوسرے سے) کہا : سب ملکر اللہ کی قسم کھاؤ کہ ہم صالح اور اس کے گھر والوں پر رات کے وقت حملہ کریں گے، پھر اس کے وارث سے کہہ دیں گے کہ ہم ان گھر والوں کی ہلاکت کے وقت موجود ہی نہ تھے۔ اور یقین جانو ہم بالکل سچے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

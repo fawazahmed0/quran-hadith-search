@@ -3224,6 +3224,12 @@ aur isi tarah aadmiyo aur jaanwaro aur chau paayo mein bhi baaz aise hai, ke un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انسانوں اور جانوروں اور چوپایوں میں بھی اسی طرح مختلف رنگ ہیں، بس اللہ کے بندوں میں سے اس سے وہی ڈرتے ہیں جو (ان حقائق کا بصیرت کے ساتھ) علم رکھنے والے ہیں، یقیناً اللہ غالب ہے بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انسانوں اور جانوروں اور چوپایوں میں بھی ایسے ہیں جن کے رنگ مختلف ہیں۔ اللہ سے اس کے بندوں میں سے وہی ڈرتے ہیں جو علم رکھنے والے ہیں۔ یقینا اللہ صاحب اقتدار بھی ہے، بہت بخشنے والا بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

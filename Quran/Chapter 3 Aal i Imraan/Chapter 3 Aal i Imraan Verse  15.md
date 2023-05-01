@@ -3224,6 +3224,12 @@ aap keh dijiye! main tumhe is se bahuth hee behtar cheez bataao? taqwa waalo ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) آپ فرما دیں: کیا میں تمہیں ان سب سے بہترین چیز کی خبر دوں؟ (ہاں) پرہیزگاروں کے لئے ان کے رب کے پاس (ایسی) جنتیں ہیں جن کے نیچے نہریں بہتی ہیں وہ ان میں ہمیشہ رہیں گے (ان کے لئے) پاکیزہ بیویاں ہوں گی اور (سب سے بڑی بات یہ کہ) اللہ کی طرف سے خوشنودی نصیب ہوگی، اور اللہ بندوں کو خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کیا میں تمہیں وہ چیزیں بتاؤں جو ان سب سے کہیں بہتر ہیں ؟ جو لوگ تقوی اختیار کرتے ہیں ان کے لیے ان کے رب کے پاس وہ باغات ہیں جن کے نیچے نہریں بہتی ہیں، جن میں وہ ہمیشہ رہیں گے، اور پاکیزہ بیویاں ہیں، اور اللہ کی طرف سے خوشنودی ہے۔ اور تمام بندوں کو اللہ اچھی طرح دیکھ رہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

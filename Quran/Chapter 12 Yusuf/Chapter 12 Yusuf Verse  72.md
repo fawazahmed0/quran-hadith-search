@@ -3224,6 +3224,12 @@ jawaab diya ke shaahi paimaana gom hai, jo ose le aye ose ek oont ke boojh ka gh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (درباری ملازم) بولے: ہمیں بادشاہ کا پیالہ نہیں مل رہا اور جو کوئی اسے (ڈھونڈ کر) لے آئے اس کے لئے ایک اونٹ کا غلہ (انعام) ہے اور میں اس کا ذمہ دار ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا کہ : ہمیں بادشاہ کا پیمانہ نہیں مل رہا ِ اور جو شخص اسے لاکر دے گا، اس کو ایک اونٹ کا بوجھ (انعام میں) ملے گا، اور میں اس (انعام کے دلوانے) کی ذمہ داری لیتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

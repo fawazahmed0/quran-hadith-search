@@ -3224,6 +3224,12 @@ jab wo unhee raasto se jin ka hukm un ke waalid ne unhe diya tha gaye, kuch na t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ (مصر میں) داخل ہوئے جس طرح ان کے باپ نے انہیں حکم دیا تھا، وہ (حکم) انہیں اللہ (کی تقدیر) سے کچھ نہیں بچا سکتا تھا مگر یہ یعقوب (علیہ السلام) کے دل کی ایک خواہش تھی جسے اس نے پورا کیا، اور (اس خواہش و تدبیر کو لغو بھی نہ سمجھنا، تمہیں کیا خبر!) بیشک یعقوب (علیہ السلام) صاحبِ علم تھے اس وجہ سے کہ ہم نے انہیں علمِ (خاص) سے نوازا تھا مگر اکثر لوگ (ان حقیقتوں کو) نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب وہ (بھائی) اسی طرح (مصر میں) داخل ہوئے جس طرح ان کے والد نے کہا تھا، تو یہ عمل اللہ کی مشیت سے ان کو ذڑا بھی بچانے والا نہیں تھا، لیکن یعقوب کے دل میں ایک خواہش تھی جو انہوں نے پوری کرلی۔ بیشک وہ ہمارے سکھائے ہوئے علم کے حامل تھے، لیکن اکثر لوگ (معاملے کی حقیقت) نہیں جانتے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

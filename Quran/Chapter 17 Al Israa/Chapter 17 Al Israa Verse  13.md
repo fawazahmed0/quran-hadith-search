@@ -3224,6 +3224,12 @@ hum ne har insaan ki buraayi bhalaayi ko us ke gale laga diya hai aur ba-roze qa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ہر انسان کے اعمال کا نوشتہ اس کی گردن میں لٹکا دیا ہے، اور ہم اس کے لئے قیامت کے دن (یہ) نامۂ اعمال نکالیں گے جسے وہ (اپنے سامنے) کھلا ہوا پائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہر شخص (کے عمل) کا انجام ہم نے اس کے اپنے گلے سے چمٹا دیا ہے۔ اور قیامت کے دن ہم (اس کا) اعمال نامہ ایک تحریر کی شکل میں نکال کر اس کے سامنے کردیں گے جسے وہ کھلا ہوا دیکھے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

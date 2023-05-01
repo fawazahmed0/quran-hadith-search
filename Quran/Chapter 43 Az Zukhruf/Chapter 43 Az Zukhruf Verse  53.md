@@ -3224,6 +3224,12 @@ accha is par sone ke kangan kyo nahi aa pade ya us ke saath paraa baandh kar far
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (اگر یہ سچا رسول ہے تو) اِس پر (پہننے کے لئے) سونے کے کنگن کیوں نہیں اتارے جاتے یا اِس کے ساتھ فرشتے جمع ہو کر (پے در پے) کیوں نہیں آجاتے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا (اگر یہ پیغبر ہے تو) اس پر سونے کے کنگن کیوں نہیں ڈالے گئے ؟ یا پھر اس کے ساتھ فرشتے پر باندھے ہوئے کیوں نہ آئے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

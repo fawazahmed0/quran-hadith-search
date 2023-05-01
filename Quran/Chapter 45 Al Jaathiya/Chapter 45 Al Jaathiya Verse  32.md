@@ -3224,6 +3224,12 @@ aur jab kabi kaha jaata ke Allah ka waada yaqinan saccha hai aur qayaamath ke aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب کہا جاتا تھا کہ اللہ کا وعدہ سچا ہے اور قیامت (کے آنے) میں کوئی شک نہیں ہے تو تم کہتے تھے کہ ہم نہیں جانتے قیامت کیا ہے، ہم اُسے وہم و گمان کے سوا کچھ نہیں سمجھتے اور ہم (اِس پر) یقین کرنے والے نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم سے کہا جاتا تھا کہ اللہ کا وعدہ سچا ہے، اور قیامت وہ حقیقت ہے جس میں کوئی بھی شک نہیں ہے، تو تم یہ کہتے تھے کہ : ہم نہیں جانتے کہ قیامت کیا ہوتی ہے ؟ اس کے بارے میں ہم جو کچھ خیال کرتے ہیں، بس ایک گمان سا ہوتا ہے، اور ہمیں یقین بالکل نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

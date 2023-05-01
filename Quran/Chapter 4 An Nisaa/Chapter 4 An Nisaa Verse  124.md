@@ -3224,6 +3224,12 @@ jo imaan waala ho mardh ho ya aurath aur wo nek amaal kare,yaqinan aise log jann
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کوئی نیک اعمال کرے گا (خواہ) مرد ہو یا عورت درآنحالیکہ وہ مومن ہے پس وہی لوگ جنت میں داخل ہوں گے اوران کی تِل برابر (بھی) حق تلفی نہیں کی جائے گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص نیک کام کرے گا، چاہے وہ مرد ہو یا عورت، بشرطیکہ مومن ہو، تو ایسے لوگ جنت میں داخل ہوں گے، اور کھجور کی گٹھلی کے شگاف برابر بھی ان پر ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

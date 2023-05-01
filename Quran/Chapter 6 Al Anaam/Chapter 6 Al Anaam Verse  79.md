@@ -3224,6 +3224,12 @@ main apna rukh us ki taraf karta hoon, ji ne asmaano aur zameen ko paida kiya ek
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک میں نے اپنا رُخ (ہر سمت سے ہٹا کر) یکسوئی سے اس (ذات) کی طرف پھیر لیا ہے جس نے آسمانوں اور زمین کو بے مثال پیدا فرمایا ہے اور (جان لو کہ) میں مشرکوں میں سے نہیں ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں نے تو پوری طرح یکسو ہو کر اپنا رخ اس ذات کی طرف کرلیا ہے جس نے آسمانوں اور زمین کو پیدا کیا ہے، اور میں شرک کرنے والوں میں سے نہیں ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jab Maryam ke bete Isa(alaihissalaam) ne kaha, aye (meri khaum) bani israel!
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت بھی یاد کیجئے) جب عیسٰی بن مریم (علیہما السلام) نے کہا: اے بنی اسرائیل! بیشک میں تمہاری طرف اللہ کا بھیجا ہوا (رسول) ہوں، اپنے سے پہلی کتاب تورات کی تصدیق کرنے والا ہوں اور اُس رسولِ (معظّم صلی اللہ علیہ وآلہ وسلم کی آمد آمد) کی بشارت سنانے والا ہوں جو میرے بعد تشریف لا رہے ہیں جن کا نام (آسمانوں میں اس وقت) احمد (صلی اللہ علیہ وآلہ وسلم) ہے، پھر جب وہ (رسولِ آخر الزماں صلی اللہ علیہ وآلہ وسلم) واضح نشانیاں لے کر اُن کے پاس تشریف لے آئے تو وہ کہنے لگے: یہ تو کھلا جادو ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب عیسیٰ بن مریم نے کہا تھا کہ : اے بنو اسرائیل میں تمہارے پاس اللہ کا ایسا پیغمبر بن کر آیا ہوں کہ مجھ سے پہلے جو تورات (نازل ہوئی) تھی، میں اس کی تصدیق کرنے والا ہوں، اور اس رسول کی خوشخبری دینے والا ہوں جو میرے بعد آئے گا، جس کا نام احمد ہے۔ پھر جب وہ ان کے پاس کھلی کھلی نشانیاں لے کر آئے تو وہ کہنے لگے کہ : یہ تو کھلا ہوا جادو ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

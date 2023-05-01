@@ -3224,6 +3224,12 @@ aur wo bani israel ki taraf rasool hoga, ke main tumhaare paas tumhaare rab ki n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ بنی اسرائیل کی طرف رسول ہو گا (ان سے کہے گا) کہ بیشک میں تمہارے پاس تمہارے رب کی جانب سے ایک نشانی لے کر آیا ہوں میں تمہارے لئے مٹی سے پرندے کی شکل جیسا (ایک پُتلا) بناتا ہوں پھر میں اس میں پھونک مارتا ہوں سو وہ اللہ کے حکم سے فوراً اڑنے والا پرندہ ہو جاتا ہے، اور میں مادرزاد اندھے اور سفید داغ والے کو شفایاب کرتا ہوں اور میں اللہ کے حکم سے مُردے کو زندہ کر دیتا ہوں، اور جو کچھ تم کھا کر آئے ہو اور جو کچھ تم اپنے گھروں میں جمع کرتے ہو میں تمہیں (وہ سب کچھ) بتا دیتا ہوں، بیشک اس میں تمہارے لئے نشانی ہے اگر تم ایمان رکھتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسے بنی اسرائیل کے پاس رسول بنا کر بھیجے گا (جو لوگوں سے یہ کہے گا) کہ : میں تمہارے پاس تمہارے رب کی طرف سے ایک نشانی لے کر آیا ہوں، (اور وہ نشانی یہ ہے) کہ میں تمہارے سامنے گارے سے پرندے جیسی ایک شکل بناتا ہوں، پھر اس میں پھونک مارتا ہوں، تو وہ اللہ کے حکم سے پرندہ بن جاتا ہے، اور میں اللہ کے حکم سے مادر زاد اندھے اور کوڑھی کو تندرست کردیتا ہوں، اور مردوں کو زندہ کردیتا ہوں، اور تم لوگ جو کچھ اپنے گھروں میں کھاتے یا ذخیرہ کر کے رکھتے ہو میں وہ سب بتادیتا ہوں۔ اگر تم ایمان لانے والے ہو تو ان تمام باتوں میں تمہارے لیے (کافی) نشانی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap keh dijiye! ke main koyi bilkul anookha payghambar to nahi, na mujhe ye malo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ میں (انسانوں کی طرف) کوئی پہلا رسول نہیں آیا (کہ مجھ سے قبل رسالت کی کوئی مثال ہی نہ ہو) اور میں اَزخود (یعنی محض اپنی عقل و درایت سے) نہیں جانتا کہ میرے ساتھ کیا سلوک کیا جائے گا اور نہ وہ جو تمہارے ساتھ کیا جائے گا، (میرا علم تو یہ ہے کہ) میں صرف اس وحی کی پیروی کرتا ہوں جو میری طرف بھیجی جاتی ہے (وہی مجھے ہر شے کا علم عطا کرتی ہے) اور میں تو صرف (اس علم بالوحی کی بنا پر) واضح ڈر سنانے والا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ : میں پیغمبروں میں کوئی انوکھا پیغمبر نہیں ہوں، مجھے معلوم نہیں ہے کہ میرے ساتھ کیا کیا جائے گا اور نہ یہ معلوم ہے کہ تمہارے ساتھ کیا ہوگا ؟ میں کسی اور چیز کی نہیں، صرف اس وحی کی پیروی کرتا ہوں جو مجھے بھیجی جاتی ہے۔ اور میں تو صرف ایک واضح انداز سے خبردار کرنے والا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

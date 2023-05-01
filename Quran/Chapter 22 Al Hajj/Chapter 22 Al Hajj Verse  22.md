@@ -3224,6 +3224,12 @@ ye jab bhi wahaan ke gham se nikal bhaagne ka iraada karenge, waheen lauta diye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ جب بھی شدّتِ تکلیف سے وہاں سے نکلنے کا ارادہ کریں گے (تو) اس میں واپس لوٹا دیئے جائیں گے اور (ان سے کہا جائے گا:) سخت آگ کے عذاب کا مزہ چکھو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب کبھی تکلیف سے تنگ آکر وہ اس سے نکلنا چاہیں گے تو انہیں پھر اسی میں لوٹا دیا جائے گا، کہ چکھو جلتی آگ کا مزہ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

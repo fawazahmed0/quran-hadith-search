@@ -3224,6 +3224,12 @@ aur yaqinan tum mein baaz wo bhi hai jo pas-wa-pesh karte hai, phir agar tumhe k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یقیناً تم میں سے بعض ایسے بھی ہیں جو (عمداً سستی کرتے ہوئے) دیر لگاتے ہیں، پھر اگر (جنگ میں) تمہیں کوئی مصیبت پہنچے تو (شریک نہ ہونے والا شخص) کہتا ہے کہ بیشک اللہ نے مجھ پراحسان فرمایا کہ میں ان کے ساتھ (میدانِ جنگ میں) حاضر نہ تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یقینا تم میں کوئی ایسا بھی ضرور ہوگا جو (جہاد میں جانے سے) سستی دکھائے گا، پھر اگر (جہاد کے دوران) تم پر کوئی مصیبت آجائے تو وہ کہے گا کہ اللہ نے مجھ پر بڑا انعام کیا کہ میں ان لوگوں کے ساتھ موجود نہیں تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

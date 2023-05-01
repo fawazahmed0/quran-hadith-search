@@ -3224,6 +3224,12 @@ aap yo hee kahiye ke kya tumhare shurka mein koi aisa hai jo pehli bar bhi paida
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان سے دریافت) فرمائیے کہ کیا تمہارے (بنائے ہوئے) شریکوں میں سے کوئی ایسا ہے جو تخلیق کی ابتداء کرے پھر (زندگی کے معدوم ہوجانے کے بعد) اسے دوبارہ لوٹائے؟ آپ فرما دیجئے کہ اللہ ہی (حیات کو عدم سے وجود میں لاتے ہوئے) آفرینش کا آغاز فرماتا ہے پھر وہی اس کا اعادہ (بھی) فرمائے گا، پھر تم کہاں بھٹکتے پھرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہو کہ :“ جن کو تم اللہ کے ساتھ شریک مانتے ہو، کیا ان میں کوئی ایسا ہے جو مخلوقات کو پہلی بار پیدا کرے، پھر (ان کی موت کے بعد) انہیں دوبارہ پھر پیدا کردے ؟” کہو کہ :“ اللہ ہے جو مخلوقات کو پہلی بار پیدا کرتا ہے، پھر ان (کی موت کے بعد) انہیں دوبارہ پھر پیدا کردے گا۔ پھر آخر کوئی تمہیں کہاں اوندھے منہ لئے جارہا ہے ؟”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

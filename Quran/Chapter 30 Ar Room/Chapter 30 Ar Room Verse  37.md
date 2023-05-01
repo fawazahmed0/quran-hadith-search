@@ -3224,6 +3224,12 @@ kya unhone ye nahi dekha ke Allah ta’ala jise chaahe kushaada rozi deta hai au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے نہیں دیکھا کہ اللہ جس کے لئے چاہتا ہے رزق کشادہ فرما دیتا ہے اور (جس کے لئے چاہتا ہے) تنگ کر دیتا ہے۔ بیشک اس میں ان لوگوں کے لئے نشانیاں ہیں جو ایمان رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا انہوں نے یہ نہیں دیکھا کہ اللہ جس کے لیے چاہتا ہے رزق کشادہ کردیتا ہے اور (جس کے لیے چاہے) تنگ کردیتا ہے۔ اس میں یقینا ان لوگوں کے لیے بڑی نشانیاں ہیں جو ایمان لائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

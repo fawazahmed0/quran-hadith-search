@@ -3224,6 +3224,12 @@ aap ne farmaya ke Allah ka farmaan hai ke wo gaaye kaam karne waali zameen mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(موسیٰ علیہ السلام نے کہا:) اللہ تعالیٰ فرماتا ہے (وہ کوئی گھٹیا گائے نہیں بلکہ) یقینی طور پر ایسی (اعلیٰ) گائے ہو جس سے نہ زمین میں ہل چلانے کی محنت لی جاتی ہو اور نہ کھیتی کو پانی دیتی ہو، بالکل تندرست ہو اس میں کوئی داغ دھبہ بھی نہ ہو، انہوں نے کہا: اب آپ ٹھیک بات لائے (ہیں)، پھر انہوں نے اس کو ذبح کیا حالانکہ وہ ذبح کرتے معلوم نہ ہوتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : اللہ فرماتا ہے کہ وہ ایسی گائے ہو جو کام میں جت کر زمین نہ گا ہتی ہو، اور نہ کھیتی کو پانی دیتی ہو، پوری طرح صحیح سالم ہو جس میں کوئی داغ نہ ہو۔ انہوں نے کہا : ہاں ! اب آپ ٹھیک ٹھیک پتہ لے کر آئے۔ اس کے بعد انہوں نے اسے ذبح کیا، جبکہ لگتا نہیں تھا کہ وہ کر پائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

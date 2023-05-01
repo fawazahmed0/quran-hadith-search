@@ -3224,6 +3224,12 @@ main apne nafs ki paakizgi bayaan nahi karta, beshak nafs to buraai par ubhaarne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں اپنے نفس کی برات (کا دعوٰی) نہیں کرتا، بیشک نفس تو برائی کا بہت ہی حکم دینے والا ہے سوائے اس کے جس پر میرا رب رحم فرما دے۔ بیشک میرا رب بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں یہ دعوی نہیں کرتا کہ میرا نفس بالکل پاک صاف ہے، واقعہ یہ ہے کہ نفس تو برائی کی تلقین کرتا ہی رہتا ہے، ہاں میرا رب رحم فرمادے تو بات اور ہے (کہ اس صورت میں نفس کا کوئی داؤ نہیں چلتا) بیشک میرا رب بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

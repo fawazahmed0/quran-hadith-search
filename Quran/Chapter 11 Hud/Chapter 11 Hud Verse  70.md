@@ -3224,6 +3224,12 @@ ab jo dekha ke un ke to haath bhi us ki taraf nahi pahonch rahe to un se ajnabiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب (ابراہیم علیہ السلام نے) دیکھا کہ ان کے ہاتھ اس (کھانے) کی طرف نہیں بڑھ رہے تو انہیں اجنبی سمجھا اور (اپنے) دل میں ان سے کچھ خوف محسوس کرنے لگے، انہوں نے کہا: آپ مت ڈریئے! ہم قومِ لوط کی طرف بھیجے گئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مگر جب دیکھا کہ ان کے ہاتھ اس (بچھڑے) کی طرف نہیں بڑھ رہے، تو وہ ان سے کھٹک گئے، اور ان کی طرف سے دل میں خوف محسوس کیا۔ فرشتوں نے کہا : ڈریے نہیں، ہمیں (آپ کو بیٹے کی خوشخبری سنانے اور) لوط کی قوم کے پاس بھیجا گیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

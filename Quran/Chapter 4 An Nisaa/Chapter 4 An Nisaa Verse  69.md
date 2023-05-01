@@ -3224,6 +3224,12 @@ aur jo bhi Allah ta’ala ki aur rasool(sallalahualaihiwasallam) ki farmabardaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کوئی اللہ اور رسول(صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرے تو یہی لوگ (روزِ قیامت) ان (ہستیوں) کے ساتھ ہوں گے جن پر اللہ نے (خاص) انعام فرمایا ہے جو کہ انبیاء، صدیقین، شہداءاور صالحین ہیں، اور یہ بہت اچھے ساتھی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اللہ اور رسول کی اطاعت کریں گے تو وہ ان کے ساتھ ہوں گے جن پر اللہ نے انعام فرمایا ہے، یعنی انبیاء، صدیقین، شہداء اور صالحین۔ اور وہ کتنے اچھے ساتھی ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

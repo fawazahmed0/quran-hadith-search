@@ -3224,6 +3224,12 @@ phir main ne un kaafiro ko pakad liya, so mera azaab kaisa hoa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر میں نے ان کافروں کو (عذاب میں) پکڑ لیا سو میرا انکار (کیا جانا) کیسا (عبرت ناک) ثابت ہوا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جن لوگوں نے انکار کی روش اپنائی تھی میں نے انہیں پکڑ میں لے لیا۔ اب دیکھو کہ میری سزا کیسی (ہولناک) تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

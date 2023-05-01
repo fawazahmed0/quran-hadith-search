@@ -3224,6 +3224,12 @@ yaqinan teri taraf bhi aur tujh se pehle (ke tamaam nabiyo) ki taraf bhi wahi ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فی الحقیقت آپ کی طرف (یہ) وحی کی گئی ہے اور اُن (پیغمبروں) کی طرف (بھی) جو آپ سے پہلے (مبعوث ہوئے) تھے کہ (اے انسان!) اگر تُو نے شرک کیا تو یقیناً تیرا عمل برباد ہو جائے گا اور تُو ضرور نقصان اٹھانے والوں میں سے ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ حقیقت ہے کہ تم سے اور تم سے پہلے تمام پیغمبروں سے وحی کے ذریعے یہ بات کہہ دی گئی تھی کہ اگر تم نے شرک کا ارتکاب کیا تو تمہارا کیا کرایا سب غارت ہوجائے گا۔ اور تم یقین طور پر سخت نقصان اٹھانے والوں میں شامل ہوجاؤ گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

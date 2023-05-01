@@ -3224,6 +3224,12 @@ hum ne Mosa(alaihissalaam) ki taraf wahi naazil farmaayi ke tu raato raath mere 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے موسٰی (علیہ السلام) کی طرف وحی بھیجی کہ میرے بندوں کو راتوں رات لے کر نکل جاؤ، سو ان کے لئے دریا میں (اپنا عصا مار کر) خشک راستہ بنا لو، نہ (فرعون کے) آپکڑنے کا خوف کرو اور نہ (غرق ہونے کا) اندیشہ رکھو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ پر وحی بھیجی کہ : تم میرے بندوں کو لے کر راتوں رات روانہ ہوجاؤ پھر ان کے لیے سمندر میں ایک خشک راستہ اس طرح نکال لینا کہ نہ تمہیں (دشمن کے) آپکڑنے کا اندیشہ رہے، اور نہ کوئی اور خوف ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

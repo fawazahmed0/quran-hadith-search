@@ -3224,6 +3224,12 @@ hum to hidaayath ki baath sunte hee us par imaan laa chuke aur jo bhi apne rab p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ جب ہم نے (کتابِ) ہدایت کو سنا تو ہم اس پر ایمان لے آئے، پھر جو شخص اپنے رب پر ایمان لاتا ہے تو وہ نہ نقصان ہی سے خوف زدہ ہوتا ہے اور نہ ظلم سے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : جب ہم نے ہدایت کی بات سن لی تو ہم اس پر ایمان لے آئے۔ چنانچہ جو کوئی اپنے پروردگار پر ایمان لے آئے تو اس کو نہ کسی گھاٹے کا اندیشہ ہوگا، اور نہ کسی زیادتی کا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

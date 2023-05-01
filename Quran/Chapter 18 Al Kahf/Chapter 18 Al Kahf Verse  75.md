@@ -3224,6 +3224,12 @@ wo kehne lage ke main ne tum se nahi kaha tha ke tum mere hum raah reh kar hargi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(خضرعلیہ السلام نے) کہا: کیا میں نے آپ سے نہیں کہا تھا کہ آپ میرے ساتھ رہ کر ہرگز صبر نہ کر سکیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : کیا میں نے آپ سے نہیں کہا تھا کہ آپ میرے ساتھ رہنے پر صبر نہیں کرسکیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

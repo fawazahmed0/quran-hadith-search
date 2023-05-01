@@ -3224,6 +3224,12 @@ Allah tala bhi un se mazaaq karta hai aur unhe un ki sarkashi3 aur behkaawe mein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ انہیں ان کے مذاق کی سزا دیتا ہے اور انہیں ڈھیل دیتا ہے (تاکہ وہ خود اپنے انجام تک جا پہنچیں) سو وہ خود اپنی سرکشی میں بھٹک رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ ان سے مذاق (کا معاملہ) کرتا ہے اور انہیں ایسی ڈھیل دیتا ہے کہ وہ اپنی سرکشی میں بھٹکتے رہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

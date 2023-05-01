@@ -3224,6 +3224,12 @@ us jannath ki sifath jis ka parhezgaaro se waada kiya gaya hai, ye hai ke us mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس جنّت کا پرہیزگاروں سے وعدہ کیا گیا ہے اس کی صفت یہ ہے کہ اس میں (ایسے) پانی کی نہریں ہوں گی جس میں کبھی (بو یا رنگت کا) تغیّر نہ آئے گا، اور (اس میں ایسے) دودھ کی نہریں ہوں گی جس کا ذائقہ اور مزہ کبھی نہ بدلے گا، اور (ایسے) شرابِ (طہور) کی نہریں ہوں گی جو پینے والوں کے لئے سراسر لذّت ہے، اور خوب صاف کئے ہوئے شہد کی نہریں ہوں گی، اور ان کے لئے اس میں ہر قسم کے پھل ہوں گے اور ان کے رب کی جانب سے (ہر طرح کی) بخشائش ہوگی، (کیا یہ پرہیزگار) ان لوگوں کی طرح ہو سکتا ہے جو ہمیشہ دوزخ میں رہنے والے ہیں اور جنہیں کھولتا ہوا پانی پلایا جائے گا تو وہ ان کی آنتوں کو کاٹ کر ٹکڑے ٹکڑے کر دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 متقی لوگوں سے جس جنت کا وعدہ کیا گیا ہے، اس کا حال یہ ہے کہ اس میں ایسے پانی کی نہریں ہیں جو خراب ہونے والا نہیں، ایسے دودھ کی نہریں ہیں جس کا ذائقہ نہیں بدلے گا، ایسی شراب کی نہریں ہیں جو پینے والوں کے لیے سراپا لذت ہوگی، اور ایسے شہد کی نہریں ہیں جو نتھرا ہوا ہوگا، اور ان جنتیوں کے لیے وہاں ہر قسم کے پھل ہوں گے، اور ان کے پروردگار کی طرف سے مغفرت ! کیا یہ لوگ ان جیسے ہوسکتے ہیں جو ہمیشہ دوزخ میں رہیں گے، اور انہیں گرم پانی پلایا جائے گا، چنانچہ وہ ان کی آنتوں کو ٹکڑے ٹکڑے کردے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap dekhenge ke un mein aksar gunaah ke kaamo ki taraf aur zulm wa zyaadati ki t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ ان میں بکثرت ایسے لوگ دیکھیں گے جو گناہ اور ظلم اور اپنی حرام خوری میں بڑی تیزی سے کوشاں ہوتے ہیں۔ بیشک وہ جو کچھ کررہے ہیں بہت برا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان میں سے بہت سوں کو تم دیکھو گے کہ وہ گناہ، ظلم اور حرام خوری میں لپک لپک کر آگے بڑھتے ہیں سچ تو یہ ہے کہ جو حرکتیں یہ کرتے ہیں وہ نہایت بری ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

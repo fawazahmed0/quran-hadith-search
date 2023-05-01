@@ -3224,6 +3224,12 @@ ye wo log hai ke in ka dilo ka bhed Allah ta’ala par ba-qoobi roushan hai,aap 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ (منافق اور مُفسِد) لوگ ہیں کہ اللہ ان کے دلوں کی ہر بات کو خوب جانتا ہے، پس آپ ان سے اِعراض برتیں اور انہیں نصیحت کرتے رہیں اور ان سے ان کے بارے میں مؤثر گفتگو فرماتے رہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ ہیں کہ اللہ ان کے دلوں کی ساری باتیں خوب جانتا ہے۔ لہذا تم انہیں نظر انداز کردو، انہیں نصیحت کر، اور ان سے خود ان کے بارے میں ایسی بات کہتے رہو جو دل میں اتر جانے والی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

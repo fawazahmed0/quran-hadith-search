@@ -3224,6 +3224,12 @@ tamaam taarifo ke laayeq asmaan wa zameen mein sirf wahi hai, tisre peher ko aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ساری تعریفیں آسمانوں اور زمین میں اسی کے لئے ہیں اور (تم تسبیح کیا کرو) سہ پہر کو بھی (یعنی عصر کے وقت) اور جب تم دوپہر کرو (یعنی ظہر کے وقت)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی کی حمد ہوتی ہے آسمانوں میں بھی اور زمین میں بھی۔ اور سورج ڈھلنے کے وقت بھی (اس کی تسبیح کرو) اور اس وقت بھی جب تم پر ظہر کا وقت آتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

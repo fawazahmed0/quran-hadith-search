@@ -3224,6 +3224,12 @@ hum ne raath aur din ko apni khudrath ki nishaaniya banaayi hai, raath ki nishaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے رات اور دن کو (اپنی قدرت کی) دو نشانیاں بنایا پھر ہم نے رات کی نشانی کو تاریک بنایا اور ہم نے دن کی نشانی کو روشن بنایا تاکہ تم اپنے رب کا فضل (رزق) تلاش کر سکو اور تاکہ تم برسوں کا شمار اور حساب معلوم کر سکو، اور ہم نے ہر چیز کو پوری تفصیل سے واضح کر دیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے رات اور دن کو دو نشانیوں کے طور پر پیدا کیا ہے۔ پھر رات کی نشانی کو تو اندھیری بنادیا، اور دن کی نشانی کو روشن کردیا، تاکہ تم اپنے رب کا فضل تلاش کرسکو۔ اور تاکہ تمہیں سالوں کی گنتی اور (مہینوں کا) حساب معلوم ہوسکے۔ اور ہم نے ہر چیز کو الگ الگ واضح کردیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

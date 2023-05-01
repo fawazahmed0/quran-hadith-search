@@ -3224,6 +3224,12 @@ aur mujhe kya ho gaya hai ke main us ki ibaadath na karo, jis ne mujhe paida kiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور مجھے کیا ہے کہ میں اس ذات کی عبادت نہ کروں جس نے مجھے پیدا فرمایا ہے اور تم (سب) اسی کی طرف لوٹائے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بھلا میں اس ذات کی عبادت کیوں نہ کروں جس نے مجھے پیدا کیا ہے ؟ اور اسی کی طرف تم سب کو واپس بھیجا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

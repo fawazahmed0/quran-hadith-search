@@ -3224,6 +3224,12 @@ pus unhe chahiye ke bahuth kam hase aur bahuth zyada roe,badle mein us ke jo ye 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس انہیں چاہیئے کہ تھوڑا ہنسیں اور زیادہ روئیں (کیونکہ آخرت میں انہیں زیادہ رونا ہے) یہ اس کا بدلہ ہے جو وہ کماتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب یہ لوگ (دنیا میں) تھوڑا بہت ہنس لیں، اور پھر (آخرت میں) خوب روتے رہیں، کیونکہ جو کچھ کمائی یہ کرتے رہے ہیں، اس کا یہی بدلہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

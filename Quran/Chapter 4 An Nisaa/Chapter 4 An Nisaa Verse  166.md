@@ -3224,6 +3224,12 @@ jo kuch aap ki taraf utaara hai us ki baabath khud Allah ta’ala gawaahi deta h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب! کوئی آپ کی نبوت پر ایمان لائے یا نہ لائے) مگر اللہ (خود اس بات کی) گواہی دیتا ہے کہ جو کچھ اس نے آپ کی طرف نازل فرمایا ہے، اسے اپنے علم سے نازل فرمایا ہے اور فرشتے (بھی آپ کی خاطر) گواہی دیتے ہیں، اور اللہ کا گواہ ہونا (ہی) کافی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ کافر لوگ مانیں یا نہ مانیں) لیکن اللہ نے جو کچھ تم پر نازل کیا ہے اس کے بارے میں وہ خود گواہی دیتا ہے کہ اس نے اسے اپنے علم سے نازل کیا ہے اور فرشتے بھی گواہی دیتے ہیں، اور (یوں تو) اللہ کی گواہی ہی بالکل کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye log aap se azaab ki jaldi kar rahe hai, agar meri taraf se muqarrar kiya hoa,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ لوگ آپ سے عذاب میں جلدی چاہتے ہیں، اور اگر (عذاب کا) وقت مقرر نہ ہوتا تو ان پر عذاب آچکا ہوتا، اور وہ (عذاب یا وقتِ عذاب) ضرور انہیں اچانک آپہنچے گا اور انہیں خبر بھی نہ ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ تم سے عذاب کی جلدی مچا رہے ہیں، اگر (عذاب کا) ایک معین وقت نہ ہوتا تو ان پر ضرور عذاب آجاتا اور وہ آئے گا ضرور (مگر) اتنا اچانک کہ ان کو پتہ بھی نہیں چلے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

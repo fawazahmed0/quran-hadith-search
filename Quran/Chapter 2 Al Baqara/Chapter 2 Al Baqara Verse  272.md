@@ -3224,6 +3224,12 @@ unhe hidaayath par la khada karna tere zimme nahi balke hidaayath Allah ta’ala
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان کا ہدایت یافتہ ہو جانا آپ کے ذمہ نہیں بلکہ اللہ ہی جسے چاہتا ہے ہدایت سے نوازتا ہے، اور تم جو مال بھی خرچ کرو سو وہ تمہارے اپنے فائدے میں ہے، اور اللہ کی رضاجوئی کے سوا تمہارا خرچ کرنا مناسب ہی نہیں ہے، اور تم جو مال بھی خرچ کرو گے (اس کا اجر) تمہیں پورا پورا دیا جائے گا اور تم پر کوئی ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ان (کافروں) کو راہ راست پر لے آنا آپ کی ذمہ داری نہیں ہے، لیکن اللہ جس کو چاہتا ہے راہ راست پر لے آتا ہے۔ اور جو مال بھی تم خرچ کرتے ہو وہ خود تمہارے فائدے کے لیے ہوتا ہے جبکہ تم اللہ کی خوشنودی طلب کرنے کے سوا کسی اور غرض سے خرچ نہیں کرتے۔ اور جو مال بھی تم خرچ کرو گے تمہیں پورا پورا دیا جائے گا اور تم پر ذرا بھی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

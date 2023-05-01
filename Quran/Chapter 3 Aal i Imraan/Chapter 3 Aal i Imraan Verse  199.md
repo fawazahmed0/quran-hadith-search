@@ -3224,6 +3224,12 @@ yaqinan ahle kitaab mein se baaz aise bhi hai jo Allah ta’ala par imaan laate 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک کچھ اہلِ کتاب ایسے بھی ہیں جو اللہ پر ایمان رکھتے ہیں اور اس کتاب پر بھی (ایمان لاتے ہیں) جو تمہاری طرف نازل کی گئی ہے اور جو ان کی طرف نازل کی گئی تھی اور ان کے دل اللہ کے حضور جھکے رہتے ہیں اور اللہ کی آیتوں کے عوض قلیل دام وصول نہیں کرتے، یہ وہ لوگ ہیں جن کا اجر ان کے رب کے پاس ہے، بیشک اللہ حساب میں جلدی فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور بیشک اہل کتاب میں بھی ایسے لوگ موجود ہیں جو اللہ کے آگے عجز و نیاز کا مظاہرہ کرتے ہوئے اللہ پر بھی ایمان رکھتے ہیں، اس کتاب پر بھی جو تم پر نازل کی گئی ہے اور اس پر بھی جو ان پر نازل کی گئی تھی، اور اللہ کی آیتوں کو تھوڑی سی قیمت لے کر بیچ نہیں ڈالتے۔ یہ وہ لوگ ہیں جو اپنے پروردگار کے پاس اپنے اجر کے مستحق ہیں۔ بیشک اللہ حساب جلد چکانے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

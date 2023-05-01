@@ -3224,6 +3224,12 @@ Allah hee ke liye zameen aur aasmaano sub maqlooq khushi aur na khushi se sajda 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کوئی (بھی) آسمانوں اور زمین میں ہے وہ تو اللہ ہی کے لئے سجدہ کرتا ہے (بعض) خوشی سے اور (بعض) مجبوراً اور ان کے سائے (بھی) صبح و شام (اسی کو سجدہ کرتے ہیں، تو پھر ان کافروں نے اللہ کو چھوڑ کر بتوں کی سجدہ ریزی کیوں شروع کر لی ہے؟)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ اللہ ہی ہے جس کو آسمانوں اور زمین کی ساری مخلوقات سجدہ کرتی ہیں، کچھ خوشی سے، کچھ مجبوری سے، اور ان کے سائے بھی صبح و شام اس کے آگے سجدہ ریز ہوتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

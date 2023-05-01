@@ -3224,6 +3224,12 @@ ab aap unhe isi behes mubaahese aur khel koodh mein chohd di jiye yahaa tak ke u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ انہیں چھوڑ دیجئے، بے کار بحثوں میں پڑے رہیں اور لغو کھیل کھیلتے رہیں حتٰی کہ اپنے اس دن کو پا لیں گے جس کا اُن سے وعدہ کیا جا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) انہیں اپنے حال پر چھوڑ دو کہ یہ ان باتوں میں ڈوبے رہیں، اور ہنسی کھیل کرتے رہیں، یہاں تک کہ وہ اپنے اس دن سے جاملیں جس کا ان سے وعدہ کیا جارہا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

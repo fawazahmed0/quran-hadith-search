@@ -3224,6 +3224,12 @@ jin logo ne kufr kiya aur Allah ta’ala ki raah se auro ko roka wo yaqinan gumr
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جنہوں نے کفر کیا (یعنی نبوتِ محمدی صلی اللہ علیہ وآلہ وسلم کی تکذیب کی) اور (لوگوں کو) اللہ کی راہ سے روکا، یقینا وہ (حق سے) بہت دور کی گمراہی میں جا بھٹکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ جن لوگوں نے کفر اپنا لیا ہے اور لوگوں کو اللہ کے راستے سے روکا ہے وہ بھٹک کر گمراہی میں بہت دور نکل گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

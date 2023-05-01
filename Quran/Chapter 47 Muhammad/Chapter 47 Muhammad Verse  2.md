@@ -3224,6 +3224,12 @@ aur jo log imaan laaye aur acche kaam kiye aur us par bhi imaan laaye jo Muhamma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے اور اس (کتاب) پر ایمان لائے جو محمد (صلی اللہ علیہ وآلہ وسلم) پر نازل کی گئی ہے اور وہی ان کے رب کی جانب سے حق ہے اللہ نے ان کے گناہ ان (کے نامۂ اعمال) سے مٹا دیئے اور ان کا حال سنوار دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لے آئے ہیں اور انہوں نے نیک عمل کیے ہیں، اور ہر اس بات کو دل سے مانا ہے جو محمد (صلی اللہ علیہ وآلہ وسلم) پر نازل کی گئی ہے۔ اور وہی حق ہے جو ان کے پروردگار کی طرف سے آیا ہے۔ اللہ نے ان کی برائیوں کو معاف کردیا ہے اور ان کی حالت سنوار دی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

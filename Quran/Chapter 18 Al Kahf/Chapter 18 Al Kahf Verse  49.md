@@ -3224,6 +3224,12 @@ aur naame amaal saamne rakh diye jaayenge, pas tu dekhega ke gunehgaar us ki teh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ہر ایک کے سامنے) اَعمال نامہ رکھ دیا جائے گا سو آپ مجرموں کو دیکھیں گے (وہ) ان (گناہوں اور جرموں) سے خوفزدہ ہوں گے جو اس (اَعمال نامہ) میں درج ہوں گے اور کہیں گے: ہائے ہلاکت! اس اَعمال نامہ کو کیا ہوا ہے اس نے نہ کوئی چھوٹی (بات) چھوڑی ہے اور نہ کوئی بڑی (بات)، مگر اس نے (ہر ہر بات کو) شمار کر لیا ہے اور وہ جو کچھ کرتے رہے تھے (اپنے سامنے) حاضر پائیں گے، اور آپ کا رب کسی پر ظلم نہ فرمائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اعمال کی) کتاب سامنے رکھ دی جائے گی۔ چنانچہ تم مجرموں کو دیکھو گے کہ وہ اس کے مندرجات سے خوف زدہ ہیں، اور کہہ رہے ہیں کہ : ہائے ہماری بربادی ! یہ کیسی کتاب ہے جس نے ہمارا کوئی چھوٹا بڑا عمل ایسا نہیں چھوڑا جس کا پورا احاطہ نہ کرلیا ہو۔ اور وہ اپنا سارا کیا دھرا اپنے سامنے موجود پائیں گے۔ اور تمہارا پروردگار کسی پر کوئی ظلم نہیں کرے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

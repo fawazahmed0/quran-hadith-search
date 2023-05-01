@@ -3224,6 +3224,12 @@ aur jahannami kahenge, kya baath hai ke wo log hamein dikhaayi nahi dete jinhe h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کہیں گے: ہمیں کیا ہوگیا ہے ہم (اُن) اشخاص کو (یہاں) نہیں دیکھتے جنہیں ہم برے لوگوں میں شمار کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ (ایک دوسرے سے) کہیں گے : کیا بات ہے کہ ہمیں وہ لوگ (یہاں دوزخ میں) نظر نہیں آرہے جنہیں ہم برے لوگوں میں شمار کرتے تھے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jab farishto ne kaha aye Maryam, Allah ta’ala ne tujhe barguzida kar liya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب فرشتوں نے کہا: اے مریم! بیشک اللہ نے تمہیں منتخب کر لیا ہے اور تمہیں پاکیزگی عطا کی ہے اور تمہیں آج سارے جہان کی عورتوں پر برگزیدہ کر دیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اب اس وقت کا تذکرہ سنو) جب فرشتوں نے کہا تھا کہ : اے مریم ! بیشک اللہ نے تمہیں چن لیا ہے، تمہیں پاکیزگی عطا کی ہے اور دنیا جہان کی ساری عورتوں میں تمہیں منتخب کرکے فضیلت بخشی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

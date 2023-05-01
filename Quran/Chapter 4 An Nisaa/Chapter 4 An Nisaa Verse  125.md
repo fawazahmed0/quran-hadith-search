@@ -3224,6 +3224,12 @@ ba-etebaar deen20 ke us se accha kaun hai? jo apne ko Allah ke taabe karde aur h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور دین اختیار کرنے کے اعتبار سے اُس شخص سے بہتر کون ہو سکتا ہے جس نے اپنا رُوئے نیاز اللہ کے لئے جھکا دیا اور وہ صاحبِ احسان بھی ہوا، اور وہ دینِ ابراہیم (علیہ السلام) کی پیروی کرتا رہا جو (اللہ کے لئے) یک سُو (اور) راست رَو تھے، اور اللہ نے ابراہیم (علیہ السلام) کو اپنا مخلص دوست بنا لیا تھا (سو وہ شخص بھی حضرت ابراہیم علیہ السلام کی نسبت سے اللہ کا دوست ہو گیا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس سے بہتر کس کا دین ہوگا جس نے اپنے چہرے (سمیت سارے وجود) کو اللہ کے آگے جھکا دیاہو، جبکہ وہ نیکی کا خوگر بھی ہو، اور جس نے سیدھے سچے ابراہیم کے دین کی پیروی کی ہو، اور (یہ معلوم ہی ہے کہ) اللہ نے ابراہیم کو اپنا خاص دوست بنا لیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

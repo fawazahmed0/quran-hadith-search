@@ -3224,6 +3224,12 @@ to kya ye qayaamath ka intezaar kar rahe hai, ke wo un ke paas achaanak aa jaaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو اب یہ (منکر) لوگ صرف قیامت ہی کا انتظار کر رہے ہیں کہ وہ ان پر اچانک آپہنچے؟ سو واقعی اس کی نشانیاں (قریب) آپہنچی ہیں، پھر انہیں ان کی نصیحت کہاں (مفید) ہوگی جب (خود) قیامت (ہی) آپہنچے گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب کیا یہ (کافر) لوگ قیامت ہی کا انتظار کر رہے ہیں کہ وہ یکایک ان پر آن پڑے ؟ (اگر ایسا ہے) تو اس کی علامتیں تو آچکی ہیں۔ پھر جب وہ آہی جائے گی تو اس وقت ان کے لیے نصیحت ماننے کا موقع کہاں سے آئے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jise hum buda karte hai, ose paydayishi haalath ki taraf phir ulat dete hai,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم جسے طویل عمر دیتے ہیں اسے قوت و طبیعت میں واپس (بچپن یا کمزوری کی طرف) پلٹا دیتے ہیں، پھر کیا وہ عقل نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم جس شخص کو لمبی عمر دیتے ہیں اسے تخلیقی اعتبار سے الٹ ہی دیتے ہیں۔ کیا پھر بھی انہیں عقل نہیں آتی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ duno darwaaze ki taraf daude aur us aurath ne yousuf ka kurta piche ki taraf se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور دونوں دروازے کی طرف (آگے پیچھے) دوڑے اور اس (زلیخا) نے ان کا قمیض پیچھے سے پھاڑ ڈالا اور دونوں نے اس کے خاوند (عزیزِ مصر) کو دروازے کے قریب پا لیا وہ (فورًا) بول اٹھی کہ اس شخص کی سزا جو تمہاری بیوی کے ساتھ برائی کا ارادہ کرے اور کیا ہو سکتی ہے سوائے اس کے کہ وہ قید کر دیا جائے یا (اسے) درد ناک عذاب دیا جائے۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور دونوں آگے پیچھے دروازے کی طرف دوڑے، اور (اس کشمکش میں) اس عورت نے ان کی قمیص کو پیچھے کی طرف سے پھاڑ ڈالا۔ اتنے میں دونوں نے اس عورت کے شوہر کو دروازے پر کھڑا پایا۔ اس عورت نے فورا (بات بنانے کے لیے اپنے شوہر سے) کہا کہ : جو کوئی تمہاری بیوی کے ساتھ برائی کا ارادہ کرے، اس کی سزا اس کے سوا اور کیا ہے کہ اسے قید کردیا جائے، یا کوئی اور دردناک سزا دی جائے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

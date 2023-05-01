@@ -3224,6 +3224,12 @@ aur kahenge aye hamaare rab! hum ne apne sardaaro aur apne bado ki maani, jinhon
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کہیں گے: اے ہمارے رب! بیشک ہم نے اپنے سرداروں اور اپنے بڑوں کا کہا مانا تھا تو انہوں نے ہمیں (سیدھی) راہ سے بہکا دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہیں گے کہ : اے ہمارے پروردگار ! حقیقت یہ ہے کہ ہم نے اپنے سرداروں اور اپنے بڑوں کا کہنا مانا، اور انہوں نے ہمیں راستے سے بھٹکا دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

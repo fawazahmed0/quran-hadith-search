@@ -3224,6 +3224,12 @@ nabi ke hath mein qaidi nahi chahiye jab tak ke mulk mein acchi qoon rezi ki jun
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کسی نبی کو یہ سزاوار نہیں کہ اس کے لئے (کافر) قیدی ہوں جب تک کہ وہ زمین میں ان (فتنہ پرور اور دہشت گرد محاربین) کا اچھی طرح خون نہ بہا لے۔ تم لوگ دنیا کا مال و اسباب چاہتے ہو، اور اللہ آخرت (کی بھلائی) چاہتا ہے، اور اللہ خوب غالب حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ بات کسی نبی کے شایان شان نہیں ہے کہ اس کے پاس قیدی رہیں جب تک کہ وہ زمین میں (دشمنوں کا) خون اچھی طرح نہ بہا چکا ہو (جس سے ان کا رعب پوری طرح ٹوٹ جائے) تم دنیا کا سازوسامان چاہتے ہو اور اللہ (تمہارے لیے) آخرت (کی بھلائی) چاہتا ہے اور اللہ صاحب اقتدار بھی ہے، صاحب حکمت بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

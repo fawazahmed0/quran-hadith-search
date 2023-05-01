@@ -3224,6 +3224,12 @@ jis tarah hum ne tum mein tum hee mein se rasaol bheja jo hamaari aayate tumhaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی طرح ہم نے تمہارے اندر تمہیں میں سے (اپنا) رسول بھیجا جو تم پر ہماری آیتیں تلاوت فرماتا ہے اور تمہیں (نفسًا و قلبًا) پاک صاف کرتا ہے اور تمہیں کتاب کی تعلیم دیتا ہے اور حکمت و دانائی سکھاتا ہے اور تمہیں وہ (اَسرارِ معرفت و حقیقت) سکھاتا ہے جو تم نہ جانتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ انعام ایسا ہی ہے) جیسے ہم نے تمہارے درمیان تم ہی میں سے ایک رسول بھیجا جو تمہارے سامنے ہماری آیتوں کی تلاوت کرتا ہے اور تمہیں پاکیزہ بناتا ہے، اور تمہیں کتاب اور حکمت کی تعلیم دیتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

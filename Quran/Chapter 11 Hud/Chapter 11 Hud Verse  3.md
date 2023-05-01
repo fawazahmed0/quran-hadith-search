@@ -3224,6 +3224,12 @@ ye ke Allah ke siva kisi ki ibadath math karo, main tum ko Allah ki taraf se dar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ تم اپنے رب سے مغفرت طلب کرو پھر تم اس کے حضور (صدقِ دل سے) توبہ کرو وہ تمہیں وقتِ معین تک اچھی متاع سے لطف اندوز رکھے گا اور ہر فضیلت والے کو اس کی فضیلت کی جزا دے گا (یعنی اس کے اَعمال و ریاضت کی کثرت کے مطابق اَجر و درجات عطا فرمائے گا)، اور اگر تم نے روگردانی کی تو میں تم پر بڑے دن کے عذاب کا خوف رکھتا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (ہدایت دیتا) کہ : اپنے پروردگار سے گناہوں کی معافی مانگو، پھر اس کی طرف رجوع کرو۔ وہ تمہیں ایک مقرر وقت تک (زندگی سے) اچھا لطف اٹھانے کا موقع دے گا، اور ہر اس شخص کو جس نے زیادہ عمل کیا ہوگا، اپنی طرف سے زیادہ اجر دے گا۔ اور اگر تم نے منہ موڑا تو مجھے تم پر ایک بڑے دن کے عذاب کا اندیشہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

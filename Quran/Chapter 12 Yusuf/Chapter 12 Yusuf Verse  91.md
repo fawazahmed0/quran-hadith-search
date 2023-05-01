@@ -3224,6 +3224,12 @@ unhone kaha Allah ki qasam Allah ta’ala ne tujhe hum par bartari di hai aur ye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بول اٹھے: اللہ کی قسم! بیشک اللہ نے آپ کو ہم پر فضیلت دی ہے اور یقیناً ہم ہی خطاکار تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : اللہ کی قسم ! اللہ نے تم کو ہم پر ترجیح دی ہے، اور ہم یقینا خطا کار تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

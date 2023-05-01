@@ -3224,6 +3224,12 @@ kya ye insaan itna bhi yaad nahi rakhta ke hum ne ose is se pehle paida kiya, ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انسان یہ بات یاد نہیں کرتا کہ ہم نے اس سے پہلے (بھی) اسے پیدا کیا تھا جبکہ وہ کوئی چیز ہی نہ تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا اس انسان کو یہ بات یاد نہیں آتی کہ ہم نے اسے شروع میں اس وقت پیدا کیا تھا جب وہ کچھ بھی نہیں تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

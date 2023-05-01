@@ -3224,6 +3224,12 @@ Allah ta’ala misaal bayaan farma raha hai, ek wo shaqs jis mein bahuth se baah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے ایک مثال بیان فرمائی ہے ایسے (غلام) شخص کی جس کی ملکیت میں کئی ایسے لوگ شریک ہوں جو بداخلاق بھی ہوں اور باہم جھگڑالو بھی۔ اور (دوسری طرف) ایک ایسا شخص ہو جو صرف ایک ہی فرد کا غلام ہو، کیا یہ دونوں (اپنے) حالات کے لحاظ سے یکساں ہوسکتے ہیں؟ (ہرگز نہیں) ساری تعریفیں اللہ ہی کے لئے ہیں، بلکہ ان میں سے اکثر لوگ (حقیقتِ توحید کو) نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے ایک مثال یہ دی ہے کہ ایک (غلام) شخص ہے جس کی ملکیت میں کئی لوگ شریک ہیں جن کے درمیان آپس میں کھینچ تان بھی ہے اور دوسرا (غلام) شخص وہ ہے جو پورے کا پورا ایک ہی آدمی کی ملکیت ہے۔ کیا ان دونوں کی حالت ایسی جیسی ہوسکتی ہے ؟ الحمدللہ (اس مثال سے بات بالکل واضح ہوگئی) لیکن ان میں سے اکثر لوگ سمجھتے نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

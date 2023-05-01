@@ -3224,6 +3224,12 @@ kya un logo ne jin ke dilo mein bimaari hai, ye samajh rakha hai ke Allah un ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ لوگ جن کے دلوں میں (نفاق کی) بیماری ہے یہ گمان کرتے ہیں کہ اللہ ان کے کینوں اور عداوتوں کو ہرگز ظاہر نہ فرمائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں کے دلوں میں (نفاق کا) روگ ہے، کیا وہ یہ سمجھتے ہیں کہ ان کے چھپے ہوئے کینوں کو اللہ کبھی ظاہر نہیں کرے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

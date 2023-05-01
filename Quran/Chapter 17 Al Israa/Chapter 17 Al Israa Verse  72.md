@@ -3224,6 +3224,12 @@ aur jo koyi is jahaan mein andha raha wo aaqirath mein bhi andha aur raaste se b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص اس (دنیا) میں (حق سے) اندھا رہا سو وہ آخرت میں بھی اندھا اور راہِ (نجات) سے بھٹکا رہے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص دنیا میں اندھا بنا رہا، وہ آخرت میں بھی اندھا، بلکہ راستے سے اور زیادہ بھٹکا ہوا رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

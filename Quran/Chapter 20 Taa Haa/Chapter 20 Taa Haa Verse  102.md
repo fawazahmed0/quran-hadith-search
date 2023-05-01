@@ -3224,6 +3224,12 @@ jis din soor phuka jayega aur gunehgaaro ko hum us din (dehshat ki wajeh se) nee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن صور پھونکا جائے گا اور اس دن ہم مجرموں کو یوں جمع کریں گے کہ ان کے جسم اور آنکھیں (شدّتِ خوف اور اندھے پن کے باعث) نیلگوں ہوں گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن صور پھونکا جائے گا، اور اس دن ہم سارے مجرموں کو گھیر کر اس طرح جمع کریں گے کہ وہ نیلے پڑے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

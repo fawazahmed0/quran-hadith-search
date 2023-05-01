@@ -3224,6 +3224,12 @@ kya ye log koyi fareb karna chahte hai? to yaqeen karle ke fareb khurda kaafir h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ (آپ سے) کوئی چال چلنا چاہتے ہیں، تو جن لوگوں نے کفر کیا ہے وہ خود ہی اپنے دامِ فریب میں پھنسے جا رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا یہ کوئی مکر کرنا چاہتے ہیں ؟ تو درحقیقت جو کافر ہیں، مکر تو انہی پر پڑے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

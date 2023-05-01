@@ -3224,6 +3224,12 @@ yaqinan us shaqs ko junoon hai, pas tum ose ek waqte muqarrar tak dheel do
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ شخص تو سوائے اس کے اور کچھ نہیں کہ اسے دیوانگی (کا عارضہ لاحق ہو گیا) ہے سو تم ایک عرصہ تک اس کا انتظار کرو (دیکھو آگے کیا کرتا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (رہا یہ شخص، تو) یہ اور کچھ نہیں ایک ایسا آدمی ہے جسے جنون لاحق ہوگیا ہے، اس لیے کچھ وقت تک اس کا انتظار کر کے دیکھ لو (کہ شاید اپنے حواس میں آجائے)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

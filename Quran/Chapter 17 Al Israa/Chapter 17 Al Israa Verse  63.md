@@ -3224,6 +3224,12 @@ irshaad hoa ke ja un mein se jo bhi tera taabedaar ho jayega to tum sab ki saza 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے فرمایا: جا (تجھے مہلت ہے) پس ان میں سے جو بھی تیری پیروی کرے گا تو بیشک دوزخ (ہی) تم سب کی پوری پوری سزا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کہا : جا پھر ان میں سے جو تیرے پیچھے چلے گا تو جہنم ہی تم سب کی سزا ہوگی، مکمل اور بھرپور سزا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

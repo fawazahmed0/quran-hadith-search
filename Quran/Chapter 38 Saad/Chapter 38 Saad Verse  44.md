@@ -3224,6 +3224,12 @@ aur apne haath mein tinko ka ek muttha (jhaado) le kar maar de aur qasam ka qila
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے ایوب!) تم اپنے ہاتھ میں (سَو) تنکوں کی جھاڑو پکڑ لو اور (اپنی قسم پوری کرنے کے لئے) اس سے (ایک بار اپنی زوجہ کو) مارو اور قسم نہ توڑو، بے شک ہم نے اسے ثابت قدم پایا، (ایّوب علیہ السلام) کیا خوب بندہ تھا، بے شک وہ (ہماری طرف) بہت رجوع کرنے والا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ہم نے ان سے یہ بھی کہا کہ) اپنے ہاتھ میں تنکوں کا ایک مٹھا لو، اور اس سے مار دو ، اور اپنی قسم مت توڑو۔ حقیقت یہ ہے کہ ہم نے انہیں بڑا صبر کرنے والا پایا، وہ بہترین بندے تھے، واقعہ وہ اللہ سے خوب لو لگائے ہوئے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

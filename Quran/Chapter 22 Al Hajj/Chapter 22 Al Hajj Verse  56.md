@@ -3224,6 +3224,12 @@ us din sirf Allah hee ki baadh-shaahath hogi, wahi un mein faisle farmaayega, im
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حکمرانی اس دن صرف اللہ ہی کی ہوگی۔ وہی ان کے درمیان فیصلہ فرمائے گا، پس جو لوگ ایمان لائے اور نیک عمل کرتے رہے (وہ) نعمت کے باغات میں (قیام پذیر) ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بادشاہی اس دن اللہ کی ہوگی، وہ ان کے درمیان فیصلہ کرے گا، چنانچہ جو لوگ ایمان لائے ہیں، اور انہوں نے نیک عمل کیے ہیں، وہ نعمتوں کے باغات میں ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

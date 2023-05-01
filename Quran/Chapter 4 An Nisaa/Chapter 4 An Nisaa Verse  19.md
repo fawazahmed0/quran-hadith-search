@@ -3224,6 +3224,12 @@ imaan waalo! tumhe halaal nahi ke zabar-dasti aurto ko wirse mein le baitho unhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تمہارے لئے یہ حلال نہیں کہ تم زبردستی عورتوں کے وارث بن جاؤ، اور انہیں اس غرض سے نہ روک رکھو کہ جو مال تم نے انہیں دیا تھا اس میں سے کچھ (واپس) لے جاؤ سوائے اس کے کہ وہ کھلی بدکاری کی مرتکب ہوں، اور ان کے ساتھ اچھے طریقے سے برتاؤ کرو، پھر اگر تم انہیں نا پسند کرتے ہو تو ممکن ہے کہ تم کسی چیز کو ناپسند کرو اور اللہ اس میں بہت سی بھلائی رکھ دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! یہ بات تمہارے لیے حلال نہیں ہے کہ تم زبردستی عورتوں کے مالک بن بیٹھو، اور ان کو اس غرض سے مقید مت کرو کہ تم نے جو کچھ ان کو دیا ہے اس کا کچھ حصہ لے اڑو، الا یہ کہ وہ کھلی بےحیائی کا ارتکاب کریں، اور ان کے ساتھ بھلے انداز میں زندگی بسر کرو، اور اگر تم انہیں پسند نہ کرتے ہو تو یہ عین ممکن ہے کہ تم کسی چیز کو ناپسند کرتے ہو اور اللہ نے اس میں بہت کچھ بھلائی رکھ دی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

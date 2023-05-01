@@ -3224,6 +3224,12 @@ sun rakho! yaqinan sacche momino ke dushmano ko khud Allah ta’ala hata deta ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ صاحبِ ایمان لوگوں سے (دشمنوں کا فتنہ و شر) دور کرتا رہتا ہے۔ بیشک اللہ کسی خائن (اور) ناشکرے کو پسند نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک اللہ ان لوگوں کا دفاع کرے گا جو ایمان لے آئے ہیں، یقین جانو کہ اللہ کسی دغا باز ناشکرے کو پسند نہیں کرتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

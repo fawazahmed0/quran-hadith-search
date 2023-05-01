@@ -3224,6 +3224,12 @@ aur unhe bahuth hee qareeb aane waali (qayaamath) se agaah kar dijiye, jab ke di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ ان کو قریب آنے والی آفت کے دن سے ڈرائیں جب ضبطِ غم سے کلیجے منہ کو آئیں گے۔ ظالموں کے لئے نہ کوئی مہربان دوست ہوگا اور نہ کوئی سفارشی جس کی بات مانی جائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر !) ان لوگوں کو ایک ایسی مصیبت کے دن سے ڈراؤ جو قریب آنے والی ہے، جب لوگوں کے کلیجے گھٹ گھٹ کر منہ کو آجائیں گے، ظالموں کا نہ کوئی دوست ہوگا اور نہ کوئی ایسا سفارشی جس کی بات مانی جائے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

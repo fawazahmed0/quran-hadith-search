@@ -3224,6 +3224,12 @@ pas (aye paighambar!) tum aisa sabr karo jaisa sabr aali himmath rasulo ne kiya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) پس آپ صبر کئے جائیں جس طرح (دوسرے) عالی ہمّت پیغمبروں نے صبر کیا تھا اور آپ ان (منکروں) کے لئے (طلبِ عذاب میں) جلدی نہ فرمائیں، جس دن وہ اس (عذابِ آخرت) کو دیکھیں گے جس کا ان سے وعدہ کیا جا رہا ہے تو (خیال کریں گے) گویا وہ (دنیا میں) دن کی ایک گھڑی کے سوا ٹھہرے ہی نہیں تھے، (یہ اللہ کی طرف سے) پیغام کا پہنچایا جانا ہے، نافرمان قوم کے سوا دیگر لوگ ہلاک نہیں کئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 غرض (اے پیغمبر) تم اسی طرح صبر کیے جاؤ جیسے اولوالعزم پیغمبروں نے صبر کیا ہے، اور ان کے معاملے میں جلدی نہ کرو۔ جس دن یہ لوگ وہ چیز دیکھ لیں گے جس سے انہیں ڈرایا جارہا ہے اس دن (انہیں) یوں محسوس ہوگا جیسے وہ (دنیا میں) دن کی ایک گھڑی سے زیادہ نہیں رہے۔ یہ ہے وہ پیغام جو پہنچا دیا گیا ہے۔ اب برباد تو وہی لوگ ہوں گے جو نافرمان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

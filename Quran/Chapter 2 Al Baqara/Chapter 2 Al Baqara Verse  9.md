@@ -3224,6 +3224,12 @@ wo Allah ta’ala ko aur imaan walo ko dhoka dete hai lekin dar asl wo khud apne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ اللہ کو (یعنی رسول صلی اللہ علیہ وآلہ وسلم کو)٭ اور ایمان والوں کو دھوکہ دینا چاہتے ہیں مگر (فی الحقیقت) وہ اپنے آپ کو ہی دھوکہ دے رہے ہیں اور انہیں اس کا شعور نہیں ہےo٭ اس مقام پر مضاف محذوف ہے جو کہ رسول ہے یعنی یُخٰدِعُونَ اﷲَ کہہ کر مراد یُخٰدِعُونَ رَسُولَ اﷲِ لیا گیا ہے۔ اکثر ائمہ تفسیر نے یہ معنی بیان کیا ہے۔ بطور حوالہ ملاحظہ فرمائیں : تفسیر القرطبی، البیضاوی، البغوی، النسفی، الکشاف، المظھری، زاد المسیر، الخازن وغیرہ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ کو اور ان لوگوں کو جو (واقعی) ایمان لاچکے ہیں دھوکا دیتے ہیں اور (حقیقت تو یہ ہے کہ) وہ اپنے سوا کسی اور کو دھوکا نہیں دے رہے لیکن انہیں اس بات کا احساس نہیں ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur dunya mein zyaada log aise hai ke agar aap un ka kehna maanne lage to wo aap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تو زمین میں (موجود) لوگوں کی اکثریت کا کہنا مان لے تو وہ تجھے اللہ کی راہ سے بھٹکا دیں گے۔ وہ (حق و یقین کی بجائے) صرف وہم و گمان کی پیروی کرتے ہیں اور محض غلط قیاس آرائی (اور دروغ گوئی) کرتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم زمین میں بسنے والوں کی اکثریت کے پیچھے چلو گے تو وہ تمہیں اللہ کے راستے سے گمراہ کر ڈالیں گے۔ وہ تو وہم و گمان کے سوا کسی چیز کے پیچھے نہیں چلتے، اور ان کا کام اس کے سوا کچھ نہیں کہ خیالی اندازے لگاتے رہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

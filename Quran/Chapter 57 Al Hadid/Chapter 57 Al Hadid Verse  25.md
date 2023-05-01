@@ -3224,6 +3224,12 @@ yaqinan hum ne apne payghambaro ko khuli dalile de kar bheja aur un ke saath kit
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم نے اپنے رسولوں کو واضح نشانیوں کے ساتھ بھیجا اور ہم نے اُن کے ساتھ کتاب اور میزانِ عدل نازل فرمائی تاکہ لوگ انصاف پر قائم ہو سکیں، اور ہم نے (معدنیات میں سے) لوہا مہیّا کیا اس میں (آلاتِ حرب و دفاع کے لئے) سخت قوّت اور لوگوں کے لئے (صنعت سازی کے کئی دیگر) فوائد ہیں اور (یہ اس لئے کیا) تاکہ اللہ ظاہر کر دے کہ کون اُس کی اور اُس کے رسولوں کی (یعنی دینِ اسلام کی) بِن دیکھے مدد کرتا ہے، بیشک اللہ (خود ہی) بڑی قوت والا بڑے غلبہ والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ ہم نے اپنے پیغمبروں کو کھلی ہوئی نشانیاں دے کر بھیجا، اور ان کے ساتھ کتاب بھی اتاری، اور ترازو بھی، تاکہ لوگ انصاف پر قائم رہیں، اور ہم نے لوہا اتارا جس میں جنگی طاقت بھی ہے اور لوگوں کے لیے دوسرے فائدے بھی، اور یہ اس لیے تاکہ اللہ جان لے کہ کون ہے جو اس کو دیکھے بغیر اس (کے دین) کی اور اس کے پیغمبروں کی مدد کرتا ہے۔ یقین رکھو کہ اللہ بڑی قوت کا، بڑے اقتدار کا مالک ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Allah ta’ala adl ka bhalaayi ka aur qaraabat’daaro ko dene ka hum deta hai a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ (ہر ایک کے ساتھ) عدل اور احسان کا حکم فرماتا ہے اور قرابت داروں کو دیتے رہنے کا اور بے حیائی اور برے کاموں اور سرکشی و نافرمانی سے منع فرماتا ہے، وہ تمہیں نصیحت فرماتا ہے تاکہ تم خوب یاد رکھو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک اللہ انصاف کا، احسان کا، اور رشتہ داروں کو (ان کے حقوق) دینے کا حکم دیتا ہے، اور بےحیائی، بدی اور ظلم سے روکتا ہے۔ وہ تمہیں نصیحت کرتا ہے تاکہ تم نصیحت قبول کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

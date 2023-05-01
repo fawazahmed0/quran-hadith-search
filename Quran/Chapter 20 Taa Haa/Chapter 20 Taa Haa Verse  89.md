@@ -3224,6 +3224,12 @@ kya ye gumraah log ye bhi nahi dekhte ke wo to un ki baath ka jawaab bhi nahi de
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا کیا وہ (اتنا بھی) نہیں دیکھتے تھے کہ وہ (بچھڑا) انہیں کسی بات کا جواب (بھی) نہیں دے سکتا اور نہ ان کے لئے کسی نقصان کا اختیار رکھتا ہے اور نہ نفع کا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا انہیں یہ نظر نہیں آرہا تھا کہ وہ نہ ان کی بات کا جواب دیتا تھا اور نہ ان کو کوئی نقصان یا نفع پہنچا سکتا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

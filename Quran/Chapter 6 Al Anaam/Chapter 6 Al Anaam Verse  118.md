@@ -3224,6 +3224,12 @@ so jis jaanwar par Allah ta’ala ka naam liya jaaye us mein se khaao! agar tum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو تم اس (ذبیحہ) سے کھایا کرو جس پر (ذبح کے وقت) اللہ کا نام لیا گیا ہو اگر تم اس کی آیتوں پر ایمان رکھنے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہر اس (حلال) جانور میں سے کھاؤ جس پر اللہ کا نام لیا گیا ہو، اگر تم واقعی اس کی آیتوں پر ایمان رکھتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

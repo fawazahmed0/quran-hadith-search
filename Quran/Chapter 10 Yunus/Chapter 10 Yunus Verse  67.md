@@ -3224,6 +3224,12 @@ wo aisa hai jis ne tumhare liye rath banai ta ke tum us mein araam karo aur din 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے تمہارے لئے رات بنائی تاکہ تم اس میں آرام کرو اور دن کو روشن بنایا (تاکہ تم اس میں کام کاج کر سکو)۔ بیشک اس میں ان لوگوں کے لئے نشانیاں ہیں جو (غور سے) سنتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے تمہارے لیے رات بنائی، تاکہ تم اس میں سکون حاصل کرو، اور دن کو ایسا بنایا جو تمہیں دیکھنے کی صلاحیت دے، اس میں یقینا ان لوگوں کے لیے نشانیاں ہیں جو غور سے سنتے ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

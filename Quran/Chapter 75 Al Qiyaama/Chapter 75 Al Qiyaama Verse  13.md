@@ -3224,6 +3224,12 @@ aaj insaan ko us ke aage bheje hoye aur piche chohde hoye se agaah kiya jayega
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُس دن اِنسان اُن (اَعمال) سے خبردار کیا جائے گا جو اُس نے آگے بھیجے تھے اور جو (اَثرات اپنی موت کے بعد) پیچھے چھوڑے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن ہر انسان کو جتلا دیا جائے گا کہ اس نے کیا کچھ آگے بھیجا ہے، اور کیا کچھ پیچھے چھوڑا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

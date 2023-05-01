@@ -3224,6 +3224,12 @@ un kaafiro se pucho to ke aya un ka paida karna zyaada dushwaar hai ya (un ka) j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اِن سے پوچھئے کہ کیا یہ لوگ تخلیق کئے جانے میں زیادہ سخت (اور مشکل) ہیں یا وہ چیزیں جنہیں ہم نے (آسمانی کائنات میں) تخلیق فرمایا ہے، بیشک ہم نے اِن لوگوں کو چپکنے والے گارے سے پیدا کیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب ذرا ان (کافروں) سے پوچھو کہ ان کی تخلیق زیادہ مشکل ہے یا ہماری پیدا کی ہوئی دوسری مخلوقات کی ؟ ان کو تو ہم نے لیس دار گارے سے پیدا کیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

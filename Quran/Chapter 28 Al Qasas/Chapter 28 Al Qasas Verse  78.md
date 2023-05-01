@@ -3224,6 +3224,12 @@ qaroon ne kaha ye sab kuch mujhe meri samajh ki bina par hee diya gaya hai, kya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہنے لگا: (میں یہ مال معاشرے اور عوام پر کیوں خرچ کروں) مجھے تویہ مال صرف اس (کسبی) علم و ہنر کی بنا پر دیا گیا ہے جو میرے پاس ہے۔ کیا اسے یہ معلوم نہ تھا کہ اللہ نے واقعۃً اس سے پہلے بہت سی ایسی قوموں کو ہلاک کر دیا تھا جو طاقت میں اس سے کہیں زیادہ سخت تھیں اور (مال و دولت اور افرادی قوت کے) جمع کرنے میں کہیں زیادہ (آگے) تھیں، اور (بوقتِ ہلاکت) مجرموں سے ان کے گناہوں کے بارے میں (مزید تحقیق یا کوئی عذر اور سبب) نہیں پوچھا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگا : یہ سب کچھ تو مجھے خود اپنے علم کی وجہ سے ملا ہے۔ بھلا کیا اسے اتنا بھی علم نہیں تھا کہ اللہ نے اس سے پہلی نسلوں کے ایسے ایسے لوگوں کو ہلاک کر ڈالا تھا جو طاقت میں بھی اس سے زیادہ مضبوط تھے اور جن کی جمعیت بھی زیادہ تھی۔ اور مجرموں سے ان کے گناہوں کے بارے میں پوچھا بھی نہیں جاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

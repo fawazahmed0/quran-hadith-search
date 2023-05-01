@@ -3224,6 +3224,12 @@ aur (neez) Ismail ko aur Yas’aa ko aur Yonus ko aur Looth ko aur har ek ko tam
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسمٰعیل اور الیسع اور یونس اور لوط (علیھم السلام کو بھی ہدایت سے شرف یاب فرمایا)، اور ہم نے ان سب کو (اپنے زمانے کے) تمام جہان والوں پر فضیلت بخشی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نیز اسماعیل، الیسع، یونس اور لوط کو بھی۔ اور ان سب کو ہم نے دنیا جہان کے لوگوں پر فضیلت بخشی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

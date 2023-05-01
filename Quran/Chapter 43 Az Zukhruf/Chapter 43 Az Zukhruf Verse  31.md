@@ -3224,6 +3224,12 @@ aur kehne lage ye Qur’aan un duno bastiyo mein se kisi bade aadmi par kyo na n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کہنے لگے: یہ قرآن (مکّہ اور طائف کی) دو بستیوں میں سے کسی بڑے آدمی (یعنی کسی وڈیرے، سردار اور مال دار) پر کیوں نہیں اتارا گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہنے لگے کہ : یہ قرآن دوبستیوں میں سے کسی بڑے آدمی پر کیوں نازل نہیں کیا گیا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

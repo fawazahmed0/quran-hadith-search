@@ -3224,6 +3224,12 @@ jis ne tamaam chizo ke jode banaaye aur tumhaare liye kashtiyaa banayi aur chau 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس نے تمام اقسام و اصناف کی مخلوق پیدا کی اور تمہارے لئے کشتیاں اور بحری جہاز بنائے اور چوپائے بنائے جن پر تم (بحر و بر میں) سوار ہوتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس نے ہر طرح کے جوڑے پیدا کیے اور تمہاری وہ کشتیاں اور چوپائے بنائے جن پر تم سواری کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

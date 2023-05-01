@@ -3224,6 +3224,12 @@ aap dekhenge ke jin logo ke dilo mein bimari hai,wo daud daud kar un mein ghus r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو آپ ایسے لوگوں کو دیکھیں گے جن کے دلوں میں (نفاق اور ذہنوں میں غلامی کی) بیماری ہے کہ وہ ان (یہود و نصارٰی) میں (شامل ہونے کے لئے) دوڑتے ہیں، کہتے ہیں: ہمیں خوف ہے کہ ہم پر کوئی گردش (نہ) آجائے (یعنی ان کے ساتھ ملنے سے شاید ہمیں تحفظ مل جائے)، تو بعید نہیں کہ اللہ (واقعۃً مسلمانوں کی) فتح لے آئے یا اپنی طرف سے کوئی امر (فتح و کامرانی کا نشان بنا کر بھیج دے) تو یہ لوگ اس (منافقانہ سوچ) پر جسے یہ اپنے دلوں میں چھپائے ہوئے ہیں شرمندہ ہوکر رہ جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جن لوگوں کے دلوں میں (نفاق کا) روگ ہے، تم انہیں دیکھتے ہو کہ وہ لپک لپک کر ان میں گھستے ہیں، کہتے ہیں : ہمیں ڈر ہے کہ ہم پر کوئی مصیبت کا چکر آپڑے گا لیکن) کچھ بعید نہیں کہ اللہ (مسلمانوں کو) فتح عطا فرمائے یا اپنی طرف سے کوئی اور بات ظاہر کردے اور اس وقت یہ لوگ اس بات پر پچھتائیں جو انہوں نے اپنے دلوں میں چھپا رکھی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

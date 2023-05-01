@@ -3224,6 +3224,12 @@ hameshgi waali jannato mein jin ka ghaayebaana waada, Allah meherbaan ne apne ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایسے سدا بہار باغات میں (رہیں گے) جن کا (خدائے) رحمان نے اپنے بندوں سے غیب میں وعدہ کیا ہے، بیشک اس کا وعدہ پہنچنے ہی والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان کا داخلہ) ایسے ہمیشہ باقی رہنے والے باغات میں (ہوگا) جن کا خدائے رحمن نے اپنے بندوں سے ان کے دیکھے بغیر وعدہ کر رکھا ہے۔ یقینا اس کا وعدہ ایسا ہے کہ یہ اس تک ضرور پہنچیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

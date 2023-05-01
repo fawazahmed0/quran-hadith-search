@@ -3224,6 +3224,12 @@ aye imaan waalo! Allah se darte raho aur har shaqs dekh (bhaal) le ke kal (qayaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اللہ سے ڈرتے رہو اور ہر شخص کو دیکھتے رہنا چاہئیے کہ اس نے کل (قیامت) کے لئے آگے کیا بھیجا ہے، اور تم اللہ سے ڈرتے رہو، بیشک اللہ اُن کاموں سے باخبر ہے جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اللہ سے ڈرو، اور ہر شخص یہ دیکھے کہ اس نے کل کے لیے کیا آگے بھیجا ہے۔ اور اللہ سے ڈرو۔ یقین رکھو کہ جو کچھ تم کرتے ہو، اللہ اس سے پوری طرح باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

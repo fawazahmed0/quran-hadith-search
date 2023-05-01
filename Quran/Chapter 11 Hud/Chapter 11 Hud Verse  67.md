@@ -3224,6 +3224,12 @@ aur zalimo ko bade zoor ki chinghaad ne aa dabocha phir to wo apne gharo mein au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ظالم لوگوں کو ہولناک آواز نے آپکڑا، سو انہوں نے صبح اس طرح کی کہ اپنے گھروں میں (مُردہ حالت میں) اوندھے پڑے رہ گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ظلم کا راستہ اپنایا تھا، ان کو ایک چنگھاڑ نے آپکڑا، جس کے نتیجے میں وہ اپنے گھروں میں اس طرح اوندھے پڑے رہ گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

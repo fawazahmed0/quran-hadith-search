@@ -3224,6 +3224,12 @@ phir duno chale yahaan tak ke ek kashti mein sawaar hoye, to us ne kashti ke taq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس دونوں چل دیئے یہاں تک کہ جب دونوں کشتی میں سوار ہوئے (تو خضر علیہ السلام نے) اس (کشتی) میں شگاف کر دیا، موسٰی (علیہ السلام) نے کہا: کیا آپ نے اسے اس لئے (شگاف کر کے) پھاڑ ڈالا ہے کہ آپ کشتی والوں کو غرق کردیں، بیشک آپ نے بڑی عجیب بات کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ دونوں روانہ ہوگئے، یہاں تک کہ جب دونوں ایک کشتی میں سوار ہوئے تو ان صاحب نے کشتی میں چھید کردیا۔ موسیٰ بولے : ارے کیا آپ نے اس میں چھید کردیا تاکہ سارے کشتی والوں کو ڈبو ڈالیں ؟ یہ تو آپ نے بڑا خوفناک کام کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

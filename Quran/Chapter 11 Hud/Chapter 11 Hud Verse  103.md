@@ -3224,6 +3224,12 @@ yaqinan us mein un logo ke liye nishaane ibrath hai jo qayamath ke azaab se dart
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ان (واقعات) میں اس شخص کے لئے عبرت ہے جو آخرت کے عذاب سے ڈرتا ہے۔ یہ (روزِ قیامت) وہ دن ہے جس کے لئے سارے لوگ جمع کئے جائیں گے اور یہی وہ دن ہے جب سب کو حاضر کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان ساری باتوں میں اس شخص کے لیے بڑی عبرت ہے جو آخرت کے عذاب سے ڈرتا ہو۔ وہ ایسا دن ہوگا جس کے لیے تمام لوگوں کو اکٹھا کیا جائے گا، اور وہ ایسا دن ہوگا جسے سب کے سب کھلی آنکھوں دیکھیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

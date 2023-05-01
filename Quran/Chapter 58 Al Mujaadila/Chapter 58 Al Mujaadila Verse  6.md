@@ -3224,6 +3224,12 @@ jis din Allah ta’ala un sab ko uthayega, phir unhe un ke kiye hoye amal se aga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن اللہ ان سب لوگوں کو (دوبارہ زندہ کر کے) اٹھائے گا پھر انہیں اُن کے اعمال سے آگاہ فرمائے گا، اللہ نے (ان کے) ہر عمل کو شمار کر رکھا ہے حالانکہ وہ اسے بھول (بھی) چکے ہیں، اور اللہ ہر چیز پر مطّلع (اور آگاہ) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن جب اللہ ان سب کو دوبارہ زندہ کرے گا، پھر انہیں بتائے گا کہ انہوں نے کیا کچھ کیا تھا۔ اللہ نے اسے گن گن کر محفوظ رکھا ہے، اور یہ اسے بھول گئے ہیں۔ اور اللہ ہر چیز کا گواہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ farishto mein se aur insaano mein se paighaam pahonchaane waalo ko Allah hee cha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ فرشتوں میں سے (بھی) اور انسانوں میں سے (بھی اپنا) پیغام پہنچانے والوں کو منتخب فرما لیتا ہے۔ بیشک اللہ خوب سننے والا خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ فرشتوں میں سے بھی اپنا پیغام پہنچانے والے منتخب کرتا ہے اور انسانوں میں سے بھی۔ یقینا اللہ ہر بات سنتا ہر چیز دیکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

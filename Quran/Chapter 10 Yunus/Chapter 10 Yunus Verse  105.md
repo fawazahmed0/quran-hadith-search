@@ -3224,6 +3224,12 @@ aur ye ke apna rukh ek so ho kar (us) deen ki taraf kar lena aur kabhi mushriko 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ آپ ہر باطل سے بچ کر (یک سُو ہو کر) اپنا رخ دین پر قائم رکھیں اور ہرگز شرک کرنے والوں میں سے نہ ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (مجھ سے) یہ (کہا گیا ہے) کہ : اپنا رخ یکسوئی کے ساتھ اس دین کی طرف قائم رکھنا، اور ہرگز ان لوگوں میں شامل نہ ہونا جو اللہ کے ساتھ کسی کو شریک مانتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

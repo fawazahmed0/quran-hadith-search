@@ -3224,6 +3224,12 @@ jo log musalmaano mein be hayaayi phailaane ke aarzu mandh rehte hai, un ke liye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ اس بات کو پسند کرتے ہیں کہ مسلمانوں میں بے حیائی پھیلے ان کے لئے دنیا اور آخرت میں دردناک عذاب ہے، اور اللہ (ایسے لوگوں کے عزائم کو) جانتا ہے اور تم نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یاد رکھو کہ جو لوگ یہ چاہتے ہیں کہ ایمان والوں میں بےحیائی پھیلے، ان کے لیے دنیا اور آخرت میں دردناک عذاب ہے۔ اور اللہ جانتا ہے اور تم نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

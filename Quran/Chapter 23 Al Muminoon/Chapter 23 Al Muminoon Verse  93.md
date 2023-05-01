@@ -3224,6 +3224,12 @@ aap dua kare ke aye mere parvardigaar! agar tu mujhe wo dikhaaye jis ka waada un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (دعا) فرمائیے کہ اے میرے رب! اگر تو مجھے وہ (عذاب) دکھانے لگے جس کا ان سے وعدہ کیا جا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) دعا کرو کہ : میرے پروردگار ! جس عذاب کی دھمکی ان (کافروں) کو دی جارہی ہے، اگر آپ اسے میری آنکھوں کے سامنے لے آئیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas is ke baadh bhi jo palat jaaye, wo yaqinan pure na-farmaan hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اب پوری نسل آدم کے لئے تنبیہاً فرمایا:) پھر جس نے اس (اقرار) کے بعد روگردانی کی پس وہی لوگ نافرمان ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے بعد بھی جو لوگ (ہدایت سے) منہ موڑیں گے تو ایسے لوگ نافرمان ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

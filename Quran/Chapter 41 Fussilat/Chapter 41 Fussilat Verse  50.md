@@ -3224,6 +3224,12 @@ aur jo musibath ose pahonch chuki hai, us ke baadh agar hum ose kisi rehmath ka 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم اسے اپنی جانب سے رحمت (کا مزہ) چکھا دیں اُس تکلیف کے بعد جو اُسے پہنچ چکی تھی تو وہ ضرور کہنے لگتا ہے کہ یہ تو میرا حق تھا اور میں نہیں سمجھتا کہ قیامت برپا ہونے والی ہے اور اگر میں اپنے رب کی طرف لوٹایا بھی جاؤں تو بھی اس کے حضور میرے لئے یقیناً بھلائی ہوگی سو ہم ضرور کفر کرنے والوں کو اُن کاموں سے آگاہ کر دیں گے جو انہوں نے انجام دیئے اور ہم انہیں ضرور سخت ترین عذاب (کا مزہ) چکھا دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو تکلیف اسے پہنچتی تھی اگر اس کے بعد ہم اسے اپنی طرف سے کسی رحمت کا مزہ چکھا دیں تو وہ لازم یہ کہے گا کہ : یہ تو میرا حق تھا اور میں نہیں سمجھتا کہ قیامت آنے والی ہے، اور اگر مجھے اپنے رب کے پاس واپس بھیجا بھی گیا تو مجھے یقین ہے کہ اس کے پاس بھی مجھے خوش حالی ہی ضرور ملے گی۔ اب ہم ان کافروں کو یہ ضرور جتلائیں گے کہ انہوں نے کیا عمل کیے ہیں اور انہیں ایک سخت عذاب کا مزہ ضرور چکھائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

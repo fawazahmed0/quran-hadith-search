@@ -3224,6 +3224,12 @@ un logo ka picha karne se haare dil ho kar bait na raho! agar tumhe be-araami ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم (دشمن) قوم کی تلاش میں سستی نہ کرو۔ اگر تمہیں (پیچھا کرنے میں) تکلیف پہنچتی ہے تو انہیں بھی (تو ایسی ہی) تکلیف پہنچتی ہے جیسی تکلیف تمہیں پہنچ رہی ہے حالانکہ تم اللہ سے (اجر و ثواب کی) وہ امیدیں رکھتے ہو جو اُمیدیں وہ نہیں رکھتے۔ اور اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم ان لوگوں (یعنی کافر دشمن) کا پیچھا کرنے میں کمزوری نہ دکھاؤ، اگر تمہیں تکلیف پہنچی ہے تو ان کو بھی اسی طرح تکلیف پہنچی ہے جیسے تمہیں پہنچی ہے۔ اور تم اللہ سے اس بات کے امیدوار ہو جس کے وہ امیدوار نہیں۔ اور اللہ علم کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya ajab hai ke hamaara rab hamein is se behtar badhla de de, hum to ab apne rab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+امید ہے ہمارا رب ہمیں اس کے بدلہ میں اس سے بہتر دے گا، بے شک ہم اپنے رب کی طرف رجوع کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا بعید ہے کہ ہمارا پروردگار ہمیں اس باغ کے بدلے اس سے اچھا عطا فرمادے۔ بیشک ہم اپنے پروردگار کی طرف رجوع کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

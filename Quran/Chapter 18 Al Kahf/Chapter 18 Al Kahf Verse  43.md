@@ -3224,6 +3224,12 @@ us ki himaayat mein koyi jamaath na uthi ke Allah se us ka koyi bachaao karti au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس کے لئے کوئی گروہ (بھی) ایسا نہ تھا جو اللہ کے مقابلے میں اس کی مدد کرتا اور نہ وہ خود (ہی اس تباہی کا) بدلہ لینے کے قابل تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسے کوئی ایسا جتھ میسر نہ آیا جو اللہ کو چھوڑ کر اس کی مدد کرتا، اور نہ وہ خود اس قابل تھا کہ اپنا دفاع کرسکے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

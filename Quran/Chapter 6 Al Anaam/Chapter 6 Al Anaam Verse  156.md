@@ -3224,6 +3224,12 @@ kahi tum log yo na kaho ke kitaab to sirf hum se pehle jo do firqe thein un par 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(قرآن اس لئے نازل کیا ہے) کہ تم کہیں یہ (نہ) کہو کہ بس (آسمانی) کتاب تو ہم سے پہلے صرف دو گروہوں (یہود و نصارٰی) پر اتاری گئی تھی اور بیشک ہم ان کے پڑھنے پڑھانے سے بے خبر تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ کتاب ہم نے اس لیے نازل کی کہ) کبھی تم یہ کہنے لگو کہ کتاب تو ہم سے پہلے دو گروہوں (یہود و نصاری) پر نازل کی گئی تھی، اور جو کچھ وہ پڑھتے پڑھاتے تھے، ہم تو اس سے بالکل بیخبر تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

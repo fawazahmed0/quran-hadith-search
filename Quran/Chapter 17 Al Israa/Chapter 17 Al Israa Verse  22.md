@@ -3224,6 +3224,12 @@ Allah ke saath kisi aur ko maboodh na tehra, ke aaqirash tu, bure haalo be kas h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے سننے والے!) اللہ کے ساتھ دوسرا معبود نہ بنا (ورنہ) تو ملامت زدہ (اور) بے یار و مددگار ہو کر بیٹھا رہ جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ کے ساتھ کسی اور کو معبود نہ بناؤ، ورنہ تم قابل ملامت (اور) بےیارومددگار ہو کر بیٹھ رہو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

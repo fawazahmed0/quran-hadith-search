@@ -3224,6 +3224,12 @@ ye (azaab) tumhe is liye hai ke jab sirf akele Allah ka zikr kiya jaata to tum i
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان سے کہا جائے گا: نہیں) یہ (دائمی عذاب) اس وجہ سے ہے کہ جب اللہ کو تنہا پکارا جاتا تھا تو تم انکار کرتے تھے اور اگر اس کے ساتھ (کسی کو) شریک ٹھہرایا جاتا تو تم مان جاتے تھے، پس (اب) اللہ ہی کا حکم ہے جو (سب سے) بلند و بالا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (جواب دیا جائے گا کہ :) تمہاری یہ حالت اس لیے ہے کہ اللہ کو تنہا پکارا جاتا تھا تو تم انکار کرتے تھے، اور اگر اس کے ساتھ کسی اور کو شریک ٹھہرایا جاتا تھا تو تم مان لیتے تھے۔ اب تو فیصلہ اللہ ہی کا ہے جس کی شان بہت اونچی، جس کی ذات بہت بڑی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

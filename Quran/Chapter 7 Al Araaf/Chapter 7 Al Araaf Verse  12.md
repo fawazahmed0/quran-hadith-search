@@ -3224,6 +3224,12 @@ haq ta’ala ne faramaaya tu jo sajda nahi karta, to tujh ko is se kaun amr maan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کہا : جب میں نے تجھے حکم دے دیا تھا تو تجھے سجدہ کرنے سے کس چیز نے روکا ؟ وہ بولا : میں اس سے بہتر ہوں۔ تو نے مجھے آگ سے پیدا کیا، اور اس کو مٹی سے پیدا کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

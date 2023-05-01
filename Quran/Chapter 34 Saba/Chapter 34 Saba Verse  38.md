@@ -3224,6 +3224,12 @@ aur jo log hamaari aayato ke muqaable ki tago dao2mein lage rehte hai, yahi hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ہماری آیتوں میں (مخالفانہ) کوشش کرتے ہیں (ہمیں) عاجز کرنے کے گمان میں، وہی لوگ عذاب میں حاضر کئے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ہماری آیتوں کے بارے میں یہ کوشش کرتے ہیں کہ ان کو ناکام بنائیں، ان کو عذاب میں دھر لیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

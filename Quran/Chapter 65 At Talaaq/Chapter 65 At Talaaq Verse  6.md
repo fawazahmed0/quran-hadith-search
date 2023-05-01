@@ -3224,6 +3224,12 @@ tum apni taaqath ke mutaabiq jahaa tum rehte ho, wahaa un (talaaq waali) aurto k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم اُن (مطلّقہ) عورتوں کو وہیں رکھو جہاں تم اپنی وسعت کے مطابق رہتے ہو اور انہیں تکلیف مت پہنچاؤ کہ اُن پر (رہنے کا ٹھکانا) تنگ کر دو، اور اگر وہ حاملہ ہوں تو اُن پر خرچ کرتے رہو یہاں تک کہ وہ اپنا بچہ جَن لیں، پھر اگر وہ تمہاری خاطر (بچے کو) دودھ پلائیں تو انہیں اُن کا معاوضہ ادا کرتے رہو، اور آپس میں (ایک دوسرے سے) نیک بات کا مشورہ (حسبِ دستور) کر لیا کرو، اور اگر تم باہم دشواری محسوس کرو تو اسے (اب کوئی) دوسری عورت دودھ پلائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان عورتوں کو اپنی حیثیت کے مطابق اسی جگہ رہائش مہیا کرو جہاں تم رہتے ہو اور انہیں تنگ کرنے کے لیے انہیں ستاؤ نہیں، اور اگر وہ حاملہ ہوں تو ان کو اس وقت تک نفقہ دیتے رہو جب تک وہ اپنے پیٹ کا بچہ جن لیں۔ پھر اگر وہ تمہارے لیے بچے کو دودھ پلائیں تو انہیں ان کی اجرت ادا کرو، اور (اجرت مقرر کرنے کے لیے) آپس میں بھلے طریقے سے بات طے کرلیا کرو، اور اگر تم ایک دوسرے کے لیے مشکل پیدا کرو گے تو اسے کوئی اور عورت دودھ پلائے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

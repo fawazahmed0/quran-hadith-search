@@ -3224,6 +3224,12 @@ kya ye osi baath ka intezaar kar rahe hai ke un ke paas farishte aa jaaye ya ter
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اور کس چیز کا انتظار کر رہے ہیں سوائے اِس کے کہ ِان کے پاس فرشتے آجائیں یا آپ کے رب کا حکمِ (عذاب) آپہنچے، یہی کچھ ان لوگوں نے (بھی) کیا تھا جو اِن سے پہلے تھے، اور اللہ نے اُن پر ظلم نہیں کیا تھا لیکن وہ خود ہی اپنی جانوں پر ظلم کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ (کافر) لوگ اب (ایمان لانے کے لیے) اس کے سوا کس بات کے منتظر ہیں کہ ان کے پاس فرشتے آکھڑے ہوں، یا (قیامت یا عذاب کی صورت میں) تمہارے پروردگار کا حکم ہی آجائے۔ جو امتیں ان سے پہلے گزری ہیں، انہوں نے بھی ایسا ہی کیا تھا۔ اور اللہ نے ان پر کوئی ظلم نہیں کیا، لیکن وہ خود اپنی جانوں پر ظلم ڈھاتے رہے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

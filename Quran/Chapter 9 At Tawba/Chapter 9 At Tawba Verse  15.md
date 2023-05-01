@@ -3224,6 +3224,12 @@ aur un ke dil ka gham wa ghussa door karega aur wo jis ki taraf chahta hai rehma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے دلوں کا غم و غصہ دور فرمائے گا اور جس کی چاہے گا توبہ قبول فرمائے گا، اور اللہ بڑے علم والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے دل کی کڑھن دور کردے، اور جس کی چاہے توبہ قبول کرلے اور اللہ کا علم بھی کامل ہے، حکمت بھی کامل
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

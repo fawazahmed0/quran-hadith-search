@@ -3224,6 +3224,12 @@ aur un ka qaul lene ke liye hum ne un ke saro par toor pahaad la khada kar diya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (جب یہود تورات کے احکام سے پھر انکاری ہوگئے تو) ہم نے ان سے (پختہ) عہد لینے کے لئے (کوہِ) طور کو ان کے اوپر اٹھا (کر معلّق کر) دیا، اور ہم نے ان سے فرمایا کہ تم (اس شہر کے) دروازے (یعنی بابِ ایلیاء) میں سجدۂ (شکر) کرتے ہوئے داخل ہونا، اور ہم نے ان سے (مزید) فرمایا کہ ہفتہ کے دن (مچھلی کے شکار کی ممانعت کے حکم) میں بھی تجاوز نہ کرنا اور ہم نے ان سے بڑا تاکیدی عہد لیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے کوہ طور کو ان پر بلند کر کے ان سے عہد لیا تھا، اور ہم نے ان سے کہا تھا کہ (شہر کے) دروازے میں جھکے ہوئے سروں کے ساتھ داخل ہونا، اور ان سے کہا تھا کہ تم سینچر کے دن کے بارے میں حد سے نہ گزرنا اور ہم نے ان سے بہت پکا عہد لیا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

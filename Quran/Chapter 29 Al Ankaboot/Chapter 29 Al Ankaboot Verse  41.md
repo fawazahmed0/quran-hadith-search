@@ -3224,6 +3224,12 @@ jin logo ne Allah ta’ala ke siva aur kaar saaz muqarrar kar rakhe hai, un ki m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایسے (کافر) لوگوں کی مثال جنہوں نے اللہ کو چھوڑ کر اوروں (یعنی بتوں) کو کارساز بنا لیا ہے مکڑی کی داستان جیسی ہے جس نے (اپنے لئے جالے کا) گھر بنایا، اور بیشک سب گھروں سے زیادہ کمزور مکڑی کا گھر ہے، کاش! وہ لوگ (یہ بات) جانتے ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے اللہ کو چھوڑ کر دوسرے رکھوالے بنا رکھے ہیں، ان کی مثال مکڑی کی سی ہے، جس نے کوئی گھر بنا لیا ہو، اور کھلی بات ہے کہ تمام گھروں میں سب سے کمزور گھر مکڑی کا ہوتا ہے۔ کاش کہ یہ لوگ جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur apne rab ki baqshish ki taraf aur us jannath ki taraf daudo jis ka arz asmaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اپنے رب کی بخشش اور اس جنت کی طرف تیزی سے بڑھو جس کی وسعت میں سب آسمان اور زمین آجاتے ہیں، جو پرہیزگاروں کے لئے تیار کی گئی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنے رب کی طرف سے مغفرت اور وہ جنت حاصل کرنے کے لیے ایک دوسرے سے بڑھ کر تیزی دکھاؤ جس کی چوڑائی اتنی ہے کہ اس میں تمام آسمان اور زمین سما جائیں۔ وہ ان پرہیزگاروں کے لیے تیار کی گئی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

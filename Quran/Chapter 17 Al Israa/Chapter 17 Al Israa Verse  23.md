@@ -3224,6 +3224,12 @@ aur tera parvardigaar saaf saaf hukm de chuka hai ke tum us ke siva kisi aur ki 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کے رب نے حکم فرما دیا ہے کہ تم اللہ کے سوا کسی کی عبادت مت کرو اور والدین کے ساتھ حسنِ سلوک کیا کرو، اگر تمہارے سامنے دونوں میں سے کوئی ایک یا دونوں بڑھاپے کو پہنچ جائیں تو انہیں ”اُف“ بھی نہ کہنا اور انہیں جھڑکنا بھی نہیں اور ان دونوں کے ساتھ بڑے ادب سے بات کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے پروردگار نے یہ حکم دیا ہے کہ اس کے سوا کسی کی عبادت نہ کرو، اور والدین کے ساتھ اچھا سلوک کرو۔ اگر والدین میں سے کوئی ایک یا دونوں تمہارے پاس بڑھاپے کو پہنچ جائیں تو انہیں اف تک نہ کہو، اور نہ انہیں جھڑکو۔ بلکہ ان سے عزت کے ساتھ بات کیا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

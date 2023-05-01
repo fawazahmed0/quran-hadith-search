@@ -3224,6 +3224,12 @@ osi ne tumhe payda kiya hai, so tum mein se baaze to kaafir hai aur baaz imaan w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے تمہیں پیدا کیا، پس تم میں سے (کوئی) کافر ہو گیا، اور تم میں سے (کوئی) مومن ہوگیا، اور اللہ اُن کاموں کو جو تم کرتے ہو خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے تمہیں پیدا کیا، پھر تم میں سے کوئی کافر ہے، اور کوئی مومن، اور جو کچھ تم کرتے ہو، اللہ اسے خوب دیکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

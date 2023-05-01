@@ -3224,6 +3224,12 @@ aye Nabi!(sallallahu alaihi wasallam) kaafiro aur munaafiqo se jihaad karo aur u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبیِ (مکرّم!) آپ (ان) کافروں اور منافقوں سے جہاد کیجیے (جنہوں نے آپ کے خلاف جارحیت، فتنہ و فساد اور سازشوں کا آغاز کر رکھا ہے) اور اُن پر سختی فرمائیے، اور ان کا ٹھکانا جہنم ہے، اور وہ کیا ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! کافروں اور منافقوں سے جہاد کرو اور ان کے مقابلے میں سخت ہوجاؤ۔ اور ان کا ٹھکانا جہنم ہے اور وہ بہت برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

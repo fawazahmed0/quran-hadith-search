@@ -3224,6 +3224,12 @@ kya phir jab wo aa hee padega,us par iman laoge, haan ab mana! halan ke tum is k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا جس وقت وہ (عذاب) واقع ہوجائے گا تو تم اس پر ایمان لے آؤ گے، (اس وقت تم سے کہا جائے گا:) اب (ایمان لا رہے ہو؟ اس وقت کوئی فائدہ نہیں) حالانکہ تم (استہزاءً) اسی (عذاب) میں جلدی چاہتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا جب وہ عذاب آہی پڑے گا، تب اسے مانو گے ؟ (اس وقت تو تم سے یہ کہا جائے گا کہ) اب مانے ؟ حالانکہ تم ہی (اس کا انکار کر کے) اس کی جلدی مچایا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

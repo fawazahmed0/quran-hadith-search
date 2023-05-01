@@ -3224,6 +3224,12 @@ agar hum chaahte, to un ki aankhe be noor kar dete, phir ye raste ki taraf daudt
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم چاہتے تو اُن کی آنکھوں کے نشان تک مِٹا دیتے پھر وہ راستے پر دوڑتے تو کہاں دیکھ سکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم چاہیں تو (یہیں دنیا میں ان کی آنکھیں مل یا میٹ کردیں، پھر یہ راستے (کی تلاش) میں بھاگے پھریں، لیکن انہیں کہاں کچھ سجھائی دے گا۔ ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

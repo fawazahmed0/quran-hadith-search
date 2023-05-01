@@ -3224,6 +3224,12 @@ aap ke rub ne shehadh ki maqqi ke dil mein ye baath daal di ke, pahaado mein dar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کے رب نے شہد کی مکھی کے دل میں (خیال) ڈال دیا کہ تو بعض پہاڑوں میں اپنے گھر بنا اور بعض درختوں میں اور بعض چھپروں میں (بھی) جنہیں لوگ (چھت کی طرح) اونچا بناتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہارے پروردگار نے شہد کی مکھی کے دل میں یہ بات ڈال دی کہ : تو پہاڑوں میں، اور درختوں میں اور لوگ جو چھتریاں اٹھاتے ہیں ان میں اپنے گھر بنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

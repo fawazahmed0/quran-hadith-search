@@ -3224,6 +3224,12 @@ jab mere bande mere baare mein aap se sawaal kare, to aap kehde ke main bahut he
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب!) جب میرے بندے آپ سے میری نسبت سوال کریں تو (بتا دیا کریں کہ) میں نزدیک ہوں، میں پکارنے والے کی پکار کا جواب دیتا ہوں جب بھی وہ مجھے پکارتا ہے، پس انہیں چاہئے کہ میری فرمانبرداری اختیار کریں اور مجھ پر پختہ یقین رکھیں تاکہ وہ راہِ (مراد) پاجائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) جب میرے بندے آپ سے میرے بارے میں پوچھیں تو (آپ ان سے کہہ دیجیے کہ) میں اتنا قریب ہوں کہ جب کوئی مجھے پکارتا ہے تو میں پکارنے والے کی پکار سنتا ہوں لہذا وہ بھی میری بات دل سے قبول کریں، اور مجھ پر ایمان لائیں، تاکہ وہ راہ راست پر آجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

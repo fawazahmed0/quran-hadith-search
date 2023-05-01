@@ -3224,6 +3224,12 @@ aur pukaar pukaar kar kahenge ke aaye maalik! tera rab hamaara kaam hee tamaam k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (داروغۂ جہنّم کو) پکاریں گے: اے مالک! آپ کا رب ہمیں موت دے دے (تو اچھا ہے)۔ وہ کہے گا کہ تم (اب اِسی حال میں ہی) ہمیشہ رہنے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ (دوزخ کے فرشتے سے) پکار کر کہیں گے کہ : اے مالک ! تمہارا پروردگار ہمارا کام ہی تمام کردے۔ وہ کہے گا کہ تمہیں اسی حال میں رہنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

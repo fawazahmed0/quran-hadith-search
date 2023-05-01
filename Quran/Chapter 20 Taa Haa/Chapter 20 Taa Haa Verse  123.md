@@ -3224,6 +3224,12 @@ farmaya tum duno yahaan se utar jaao, tum aapas mein ek dosre ke dushman ho, ab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ارشاد ہوا: تم یہاں سے سب کے سب اتر جاؤ، تم میں سے بعض بعض کے دشمن ہوں گے، پھر جب میری جانب سے تمہارے پاس کوئی ہدایت (وحی) آجائے سو جو شخص میری ہدایت کی پیروی کرے گا تو وہ نہ (دنیا میں) گمراہ ہوگا اور نہ (آخرت میں) بدنصیب ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے فرمایا : تم دونوں کے دونوں یہاں سے نیچے اتر جاؤ، تم ایک دوسرے کے دشمن ہوگے پھر اگر تمہیں میری طرف سے کوئی ہدایت پہنچے تو جو کوئی میری ہدایت کی پیروی کرے گا، وہ نہ گمراہ ہوگا، اور نہ کسی مشکل میں گرفتار ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

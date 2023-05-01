@@ -3224,6 +3224,12 @@ osi ne zameen phaila kar bhicha di hai aur us mein pahaad aur nehre paida kardi 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جس نے (گولائی کے باوجود) زمین کو پھیلایا اور اس میں پہاڑ اور دریا بنائے، اور ہر قسم کے پھلوں میں (بھی) اس نے دو دو (جنسوں کے) جوڑے بنائے (وہی) رات سے دن کو ڈھانک لیتا ہے، بیشک اس میں تفکر کرنے والوں کے لئے (بہت) نشانیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ذات ہے جس نے یہ زمین پھیلائی، اس میں پہاڑ اور دریا بنائے، اور اس میں ہر قسم کے پھلوں کے دو دو جوڑے پیدا کیے۔ وہ دن کو رات کی چادر اڑھا دیتا ہے۔ حقیقت یہ ہے کہ ان ساری باتوں میں ان لوگوں کے لیے نشانیاں ہیں جو غور و فکر کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

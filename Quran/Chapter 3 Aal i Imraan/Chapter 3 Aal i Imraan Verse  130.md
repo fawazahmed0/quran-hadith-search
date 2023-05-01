@@ -3224,6 +3224,12 @@ aye imaan waalo! bada chada kar soodh na khaao aur Allah ta’ala se daro ta ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! دو گنا اور چوگنا کر کے سود مت کھایا کرو، اور اللہ سے ڈرا کرو تاکہ تم فلاح پاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! کئی گنا بڑھا چڑھا کر سود مت کھاؤ، اور اللہ سے ڈرو تاکہ تمہیں فلاح حاصل ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

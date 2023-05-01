@@ -3224,6 +3224,12 @@ main ne ose aur us ki khaum ko Allah ta’ala ko chohd kar suraj ko sajda karte 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+میں نے اسے اور اس کی قوم کو اللہ کی بجائے سورج کو سجدہ کرتے پایا ہے اور شیطان نے ان کے اَعمالِ (بد) ان کے لئے خوب خوش نما بنا دیئے ہیں اور انہیں (توحید کی) راہ سے روک دیا ہے سو وہ ہدایت نہیں پا رہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں نے اس عورت اور اس کی قوم کو پایا ہے کہ وہ اللہ کو چھوڑ کر سورج کے آگے سجدے کرتے ہیں، اور شیطان نے ان کو یہ سمجھا دیا ہے کہ ان کے اعمال بہت اچھے ہیں، چنانچہ اس نے انہیں صحیح راستے سے روک رکھا ہے اور اس طرح وہ ہدایت سے اتنے دور ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

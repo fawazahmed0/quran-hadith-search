@@ -3224,6 +3224,12 @@ agar hum insan ko apni kisi nemath ka zaayeqa chaka kar phir ose us se lele to w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم انسان کو اپنی جانب سے رحمت کا مزہ چکھاتے ہیں پھر ہم اسے (کسی وجہ سے) اس سے واپس لے لیتے ہیں تو وہ نہایت مایوس (اور) ناشکرگزار ہو جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہم انسان کو اپنی طرف سے کسی رحمت کا مزہ چکھاتے دیتے ہیں، پھر وہ اس سے واپس لے لیتے ہیں تو وہ مایوس (اور) ناشکرا بن جاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

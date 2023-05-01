@@ -3224,6 +3224,12 @@ ye hai tere parvardigaar ki us meherbaani ka zikr jo usne apne bandhe zakarya pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ آپ کے رب کی رحمت کا ذکر ہے (جو اس نے) اپنے (برگزیدہ) بندے زکریا (علیہ السلام) پر (فرمائی تھی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ تذکرہ ہے اس رحمت کا جو تمہارے پروردگار نے اپنے بندے زکریا پر کی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

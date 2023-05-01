@@ -3224,6 +3224,12 @@ aur jab Allah ka bandha us ki ibaadath ke liye khada hoa to qareeb tha ke wo bhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ جب اللہ کے بندے (محمد صلی اللہ علیہ وآلہ وسلم) اس کی عبادت کرنے کھڑے ہوئے تو وہ ان پر ہجوم در ہجوم جمع ہو گئے (تاکہ ان کی قرات سن سکیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : جب اللہ کا بندہ اس کی عبادت کرنے کے لیے کھڑ اہوا تو ایسا معلوم ہوا جیسے یہ لوگ اس پر ٹوٹے پڑ رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

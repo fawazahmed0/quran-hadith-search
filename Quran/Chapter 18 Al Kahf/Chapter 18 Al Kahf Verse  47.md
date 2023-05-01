@@ -3224,6 +3224,12 @@ aur jis din hum pahaado ko chalaayenge aur zameen ko, tu saaf kholi hoyi dekhega
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ دن (قیامت کا) ہوگا جب ہم پہاڑوں کو (ریزہ ریزہ کر کے فضا میں) چلائیں گے اور آپ زمین کو صاف میدان دیکھیں گے (اس پر شجر، حجر اور حیوانات و نباتات میں سے کچھ بھی نہ ہوگا) اور ہم سب انسانوں کو جمع فرمائیں گے اور ان میں سے کسی کو (بھی) نہیں چھوڑیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس دن کا دھیان رکھو) جس دن ہم پہاڑوں کو چلائیں گے۔ اور تم زمین کو دیکھو گے کہ وہ کھلی پڑی ہے، اور ہم ان سب کو گھیر کر اکٹھا کردیں گے، اور ان میں سے کسی ایک کو بھی نہیں چھوڑیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

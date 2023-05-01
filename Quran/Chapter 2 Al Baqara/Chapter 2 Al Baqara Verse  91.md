@@ -3224,6 +3224,12 @@ aur jab un se kaha jaata hai ke Allah ta’ala ki utaari hoyi kitaab par imaan l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان سے کہا جاتا ہے: اس (کتاب) پر ایمان لاؤ جسے اللہ نے (اب) نازل فرمایا ہے، (تو) کہتے ہیں: ہم صرف اس (کتاب) پر ایمان رکھتے ہیں جو ہم پر نازل کی گئی، اور وہ اس کے علاوہ کا انکار کرتے ہیں، حالانکہ وہ (قرآن بھی) حق ہے (اور) اس (کتاب) کی (بھی) تصدیق کرتا ہے جو ان کے پاس ہے، آپ (ان سے) دریافت فرمائیں کہ پھر تم اس سے پہلے انبیاء کو کیوں قتل کرتے رہے ہو اگر تم (واقعی اپنی ہی کتاب پر) ایمان رکھتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان سے کہا جاتا ہے کہ اللہ نے جو کلام اتارا ہے اس پر ایمان لے آؤ، تو وہ کہتے ہیں کہ ہم تو (صرف) اسی کلام پر ایمان رکھیں گے جو ہم پر نازل کیا گیا، (یعنی تورات) اور وہ اس کے سوا (دوسری آسمانی کتابوں) کا انکار کرتے ہیں، حالانکہ وہ بھی حق ہیں (اور) جو کتاب ان کے پاس ہے وہ اس کی تصدیق بھی کرتی ہیں۔ (اے پیغمبر) تم ان سے کہو کہ اگر تم واقعی (تورات) پر ایمان رکھتے تھے تو اللہ کے نبیوں کو پہلے زمانے میں کیوں قتل کرتے رہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

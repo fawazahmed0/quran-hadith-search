@@ -3224,6 +3224,12 @@ us par salaam hain, jis din wo paida hoa, aur jis din wo mare, aur jis din wo zi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یحیٰی پر سلام ہو ان کے میلاد کے دن اور ان کی وفات کے دن اور جس دن وہ زندہ اٹھائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اللہ تعالیٰ کی طرف سے) سلام ہے ان پر اس دن بھی جس روز وہ پیدا ہوئے، اس دن بھی جس روز انہیں موت آئے گی، اور اس دن بھی جس روز انہیں زندہ کر کے دوبارہ اٹھایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

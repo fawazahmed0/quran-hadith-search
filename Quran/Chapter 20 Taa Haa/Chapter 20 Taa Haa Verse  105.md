@@ -3224,6 +3224,12 @@ wo aap se pahaado ko nisbath sawaal karte hai, to aap kehde, ke unhe mera rab re
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ سے یہ لوگ پہاڑوں کی نسبت سوال کرتے ہیں، سو فرمادیجئے: میرا رب انہیں ریزہ ریزہ کر کے اڑا دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگ تم سے پہاڑوں کے بارے میں پوچھتے ہیں (کہ قیامت میں ان کا کیا بنے گا ؟) جواب میں کہہ دو کہ میرا پروردگار ان کو دھول کی طرح اڑا دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

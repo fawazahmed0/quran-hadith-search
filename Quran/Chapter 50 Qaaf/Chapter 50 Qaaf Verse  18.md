@@ -3224,6 +3224,12 @@ Koi lafz us ki zubaan se nahin nikalta jisey mehfooz karne ke liye ek hazir baas
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ مُنہ سے کوئی بات نہیں کہنے پاتا مگر اس کے پاس ایک نگہبان (لکھنے کے لئے) تیار رہتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انسان کوئی لفظ زبان سے نکال نہیں پاتا، مگر اس پر ایک نگران مقرر ہوتا ہے، ہر وقت (لکھنے کے لیے) تیار۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

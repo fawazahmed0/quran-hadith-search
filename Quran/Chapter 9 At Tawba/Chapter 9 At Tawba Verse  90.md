@@ -3224,6 +3224,12 @@ badh ye nashino14 mein se uzr wale log hazir hoe,ke unhe ruqsath de di jae aur w
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور صحرا نشینوں میں سے کچھ بہانہ ساز (معذرت کرنے کے لئے دربارِ رسالت صلی اللہ علیہ وآلہ وسلم میں) آئے تاکہ انہیں (بھی) رخصت دے دی جائے، اور وہ لوگ جنہوں نے (اپنے دعویٰ ایمان میں) اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) سے جھوٹ بولا تھا (جہاد چھوڑ کر پیچھے) بیٹھے رہے، عنقریب ان میں سے ان لوگوں کو جنہوں نے کفر کیا دردناک عذاب پہنچے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور دیہاتیوں میں سے بھی بہانہ باز لوگ آئے کہ ان کو (جہاد سے) چھٹی دی جائے، اور (اس طرح) جن لوگوں نے اللہ اور اس کے رسول سے جھوٹ بولا تھا، وہ سب بیٹھ رہے۔ ان میں سے جنہوں نے کفر (مستقل طور پر) اپنا لیا ہے، ان کو دردناک عذاب ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

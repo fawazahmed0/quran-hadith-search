@@ -3224,6 +3224,12 @@ aur jab ibn maryam ki misaal bayaan ki gayi to us se teri khaum (khushi se) chee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب (عیسٰی) ابنِ مریم (علیہما السلام) کی مثال بیان کی جائے تو اس وقت آپ کی قوم (کے لوگ) اس سے (خوشی کے مارے) ہنستے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب (عیسیٰ) ابن مریم کی مثال دی گئی تو تمہاری قوم کے لوگ یکایک شور مچانے لگے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

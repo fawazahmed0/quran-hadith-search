@@ -3224,6 +3224,12 @@ bhalaayi ke maangne se, insaan thakta nahi aur agar ose koyi takleef pahonch jaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انسان بھلائی مانگنے سے نہیں تھکتا اور اگر اسے برائی پہنچ جاتی ہے تو بہت ہی مایوس، آس و امید توڑ بیٹھنے والا ہو جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انسان کا حال یہ ہے کہ وہ بھلائی مانگنے سے نہیں تھکتا اور اگر اسے کوئی برائی چھو جائے تو ایسا مایوس ہوجاتا ہے کہ ہر امید چھوڑ بیٹھتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

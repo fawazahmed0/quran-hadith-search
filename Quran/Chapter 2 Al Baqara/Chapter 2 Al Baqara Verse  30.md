@@ -3224,6 +3224,12 @@ aur jab tere rub ne farishto se kaha ke main zameen mein qalifa banaane wala hoo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت یاد کریں) جب آپ کے رب نے فرشتوں سے فرمایا کہ میں زمین میں اپنا نائب بنانے والا ہوں، انہوں نے عرض کیا: کیا تُو زمین میں کسی ایسے شخص کو (نائب) بنائے گا جو اس میں فساد انگیزی کرے گا اور خونریزی کرے گا؟ حالانکہ ہم تیری حمد کے ساتھ تسبیح کرتے رہتے ہیں اور (ہمہ وقت) پاکیزگی بیان کرتے ہیں، (اللہ نے) فرمایا: میں وہ کچھ جانتا ہوں جو تم نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس وقت کا تذکرہ سنو) جب تمہارے پروردگار نے فرشتوں سے کہا کہ میں زمین میں ایک خلیفہ بنانے والا ہوں وہ کہنے لگے۔ کیا آپ زمین میں ایسی مخلوق پیدا کریں گے جو اس میں فساد مچائے اور خون خرابہ کرے حالانکہ ہم آپ کی تسبیح اور حمد و تقدیس میں لگے ہوئے ہیں اللہ نے کہا : میں وہ باتیں جانتا ہوں جو تم نہیں جانتے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

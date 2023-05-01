@@ -3224,6 +3224,12 @@ ye hai, aur jo koyi Allah ki hurmato ki taazeem kare, us ke apne liye, us ke rab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی (حکم) ہے، اور جو شخص اللہ (کی بارگاہ) سے عزت یافتہ چیزوں کی تعظیم کرتا ہے تو وہ اس کے رب کے ہاں اس کے لئے بہتر ہے، اور تمہارے لئے (سب) مویشی (چوپائے) حلال کر دیئے گئے ہیں سوائے ان کے جن کی ممانعت تمہیں پڑھ کر سنائی گئی ہے سو تم بتوں کی پلیدی سے بچا کرو اور جھوٹی بات سے پرہیز کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ ساری باتیں یاد رکھو، اور جو شخص ان چیزوں کی تعظیم کرے گا جن کو اللہ نے حرمت دی ہے تو اس کے حق میں یہ عمل اس کے پروردگار کے نزدیک بہت بہتر ہے۔ سارے مویشی تمہارے لیے حلال کردیے گئے ہیں، سوائے ان جانوروں کے جن کی تفصیل تمہیں پڑھ کر سنا دی گئی ہے۔ لہذا بتوں کی گندگی اور جھوٹٰ بات سے اس طرح بچ کر رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

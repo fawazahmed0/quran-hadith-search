@@ -3224,6 +3224,12 @@ kya unhone zameen par nazre nahi daali? ke hum ne us mein har tarah ke nafees jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کیا انہوں نے زمین کی طرف نگاہ نہیں کی کہ ہم نے اس میں کتنی ہی نفیس چیزیں اگائی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا انہوں نے زمین کو نہیں دیکھا کہ ہم نے اس میں ہر نفیس قسم کی کتنی چیزیں اگائی ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

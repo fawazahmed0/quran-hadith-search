@@ -3224,6 +3224,12 @@ hum ne isi tarah tumhe aadil ummath banaya hai ta ke tum logo par gawaah ho jaao
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے مسلمانو!) اسی طرح ہم نے تمہیں (اعتدال والی) بہتر امت بنایا تاکہ تم لوگوں پر گواہ بنو اور (ہمارا یہ برگزیدہ) رسول (صلی اللہ علیہ وآلہ وسلم) تم پر گواہ ہو، اور آپ پہلے جس قبلہ پر تھے ہم نے صرف اس لئے مقرر کیا تھا کہ ہم (پرکھ کر) ظاہر کر دیں کہ کون (ہمارے) رسول (صلی اللہ علیہ وآلہ وسلم) کی پیروی کرتا ہے (اور) کون اپنے الٹے پاؤں پھر جاتا ہے، اور بیشک یہ (قبلہ کا بدلنا) بڑی بھاری بات تھی مگر ان پر نہیں جنہیں اللہ نے ہدایت (و معرفت) سے نوازا، اور اللہ کی یہ شان نہیں کہ تمہارا ایمان (یونہی) ضائع کردے، بیشک اللہ لوگوں پر بڑی شفقت فرمانے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (مسلمانو) اسی طرح تو ہم نے تم کو ایک معتدل امت بنایا ہے تاکہ تم دوسرے لوگوں پر گواہ بنو، اور رسول تم پر گواہ بنے اور جس قبلے پر تم پہلے کار بند تھے، اسے ہم نے کسی اور وجہ سے نہیں، بلکہ صرف یہ دیکھنے کے لیے مقرر کیا تھا کہ کون رسول کا حکم مانتا ہے اور کون الٹے پاؤں پھرجاتا ہے ؟ اور اس میں شک نہیں کہ یہ بات تھی بڑی مشکل، لیکن ان لوگوں کے لیے (ذرا بھی مشکل نہ ہوئی) جن کو اللہ نے ہدایت دے دی تھی۔ اور اللہ تعالیٰ ایسا نہیں کہ تمہارے ایمان کو ضائع کردے۔ درحقیقت اللہ لوگوں پر بہت شفقت کرنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

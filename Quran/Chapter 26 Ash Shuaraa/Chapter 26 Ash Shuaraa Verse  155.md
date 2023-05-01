@@ -3224,6 +3224,12 @@ aap ne farmaya ye hai oontni paani pine ki, ek baari is ki aur ek muqarrara din 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(صالح علیہ السلام نے) فرمایا: (وہ نشانی) یہ اونٹنی ہے پانی کا ایک وقت اس کے لئے (مقرر) ہے اور ایک مقررہ دن تمہارے پانی کی باری ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 صالح نے کہا : (لو) یہ اونٹنی ہے۔ پانی پینے کے لیے ایک باری اس کی ہوگی، اور ایک معین دن میں ایک باری تمہاری۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

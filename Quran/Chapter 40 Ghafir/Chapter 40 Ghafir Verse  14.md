@@ -3224,6 +3224,12 @@ tum Allah ko pukaarte raho, us ke liye deen ko qaalis kar ke, go kaafir bura maa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس تم اللہ کی عبادت اس کے لئے طاعت و بندگی کو خالص رکھتے ہوئے کیا کرو، اگرچہ کافروں کو ناگوار ہی ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے لوگو !) اللہ کو اس طرح پکارو کہ تمہاری تابعداری خالص اسی کے لیے ہو چاہے کافروں کو کتنا برا لگے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un logo jaise na bano jo itrate hoe aur logo mein khud numai karte hoe apne ghar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ایسے لوگوں کی طرح نہ ہو جاؤ جو اپنے گھروں سے اِتراتے ہوئے اور لوگوں کو دکھلاتے ہوئے نکلے تھے اور (جو لوگوں کو) اللہ کی راہ سے روکتے تھے، اور اللہ ان کاموں کو جو وہ کر رہے ہیں (اپنے علم و قدرت کے ساتھ) احاطہ کئے ہوئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں کی طرح نہ ہوجانا جو اپنے گھروں سے اکڑتے ہوئے اور لوگوں کو اپنی شان دکھاتے ہوئے نکلے تھے، اور دوسروں کو اللہ کے راستے سے روک رہے تھے۔ اور اللہ نے لوگوں کے سارے اعمال کو (اپنے علم کے) احاطے میں لیا ہوا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

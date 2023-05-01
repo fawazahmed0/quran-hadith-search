@@ -3224,6 +3224,12 @@ abba jaan! mujhe qauf laga hoa hai ke kahi aap par koyi azaab e ilaahi na aa pad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے ابّا! بیشک میں اس بات سے ڈرتا ہوں کہ تمہیں (خدائے) رحمان کا عذاب پہنچے اور تم شیطان کے ساتھی بن جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابا جان ! مجھے اندیشہ ہے کہ خدائے رحمن کی طرف سے آپ کو کوئی عذاب نہ آپکڑے، جس کے نتیجے میں آپ شیطان کے ساتھی بن کر رہ جائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

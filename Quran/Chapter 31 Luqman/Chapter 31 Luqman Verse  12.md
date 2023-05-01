@@ -3224,6 +3224,12 @@ aur hum ne yaqinan luqmaan ko hikmath di thi, ke tu Allah ta’ala ka shukr kar,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے لقمان کو حکمت و دانائی عطا کی، (اور اس سے فرمایا) کہ اللہ کا شکر ادا کرو اور جو شکر کرتا ہے وہ اپنے ہی فائدہ کے لئے شکر کرتا ہے، اور جو ناشکری کرتا ہے تو بیشک اللہ بے نیاز ہے (خود ہی) سزاوارِ حمد ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے لقمان کو دانائی عطا کی تھی، (اور ان سے کہا تھا) کہ اللہ کا شکر کرتے رہو۔ اور جو کوئی اللہ کا شکر ادا کرتا ہے وہ خود اپنے فائدے کے لیے شکر کرتا ہے اور اگر کوئی ناشکری کرے تو اللہ بڑا بےنیاز ہے، بذات خود قابل تعریف۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ke tu mere piche na aaya, kya tu bhi mere farmaan ka na farmaan ban baitha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(مزید یہ کہ تمہیں کس نے منع کیا کہ انہیں سختی سے روکنے میں) تم میرے طریقے کی پیروی نہ کرو، کیا تم نے میری نافرمانی کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ تم میرے پیچھے چلے آتے ؟ بھلا کیا تم نے میری بات کی خلاف ورزی کی ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

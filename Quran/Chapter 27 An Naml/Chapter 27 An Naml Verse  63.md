@@ -3224,6 +3224,12 @@ kya wo jo tumhe khushki aur tari ki tarikiyo mein raah dikhata hai aur jo apni r
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ وہ کون ہے جو تمہیں خشک و تر (یعنی زمین اور سمندر) کی تاریکیوں میں راستہ دکھاتا ہے اور جو ہواؤں کو اپنی (بارانِ) رحمت سے پہلے خوشخبری بنا کر بھیجتا ہے؟ کیا اللہ کے ساتھ کوئی (اور بھی) معبود ہے؟ اللہ ان (معبودانِ باطلہ) سے برتر ہے جنہیں وہ شریک ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا وہ کون ہے جو خشکی اور سمندر کے اندھیروں میں تمہیں راستہ دکھاتا ہے اور جو اپنی رحمت (کی بارش) سے پہلے ہوائیں بھیجتا ہے جو تمہیں (بارش کی) خوشخبری دیتی ہیں ؟ کیا (پھر بھی تم کہتے ہو کہ) اللہ کے ساتھ کوئی اور خدا ہے ؟ (نہیں ! بلکہ) اللہ اس شرک سے بہت بالا و برتر ہے جس کا ارتکاب یہ لوگ کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

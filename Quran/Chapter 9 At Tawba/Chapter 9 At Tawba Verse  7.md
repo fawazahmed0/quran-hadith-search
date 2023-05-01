@@ -3224,6 +3224,12 @@ mushriko ke liye ahad, Allah aur us ke rasol ke nazdik kaise reh sakta hai sivae
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(بھلا) مشرکوں کے لئے اللہ کے ہاں اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کے ہاں کوئی عہد کیوں کر ہو سکتا ہے؟ سوائے ان لوگوں کے جن سے تم نے مسجدِ حرام کے پاس (حدیبیہ میں) معاہدہ کیا ہے سو جب تک وہ تمہارے ساتھ (عہد پر) قائم رہیں تم ان کے ساتھ قائم رہو۔ بیشک اللہ پرہیزگاروں کو پسند فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان مشرکین سے اللہ اور اس کے رسول کے ساتھ کوئی معاہدہ کیسے باقی رہ سکتا ہے ؟ البتہ جن لوگوں سے تم نے مسجد حرام کے قریب معاہدہ کیا ہے، جب تک وہ تمہارے ساتھ سیدھے رہیں، تم بھی ان کے ساتھ سیدھے رہو۔ بیشک اللہ متقی لوگوں کو پسند کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

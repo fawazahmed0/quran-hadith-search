@@ -3224,6 +3224,12 @@ jo kuch un ke aage piche hain, ose Allah hee jaanta hai, maqlooq ka ilm us par h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ ان (سب چیزوں) کو جانتا ہے جو ان کے آگے ہیں اور جو ان کے پیچھے ہیں اور وہ (اپنے) علم سے اس (کے علم) کا احاطہ نہیں کرسکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ لوگوں کی ساری اگلی پچھلی باتوں کو جانتا ہے، اور وہ اس کے علم کا احاطہ نہیں کرسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

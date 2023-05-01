@@ -3224,6 +3224,12 @@ unhone apni qasmo ko dhaal bana rakha hai, pas Allah ki raah se ruk gaye, beshak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے اپنی قَسموں کو ڈھال بنا رکھا ہے پھر یہ (لوگوں کو) اللہ کی راہ سے روکتے ہیں، بیشک وہ بہت ہی برا (کام) ہے جو یہ لوگ کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے اپنی قسموں کو ایک ڈھال بنا رکھا ہے۔ پھر یہ لوگ دوسروں کو اللہ کے راستے سے روکتے ہیں۔ حقیقت یہ ہے کہ بہت ہی برے ہیں وہ کام جو یہ لوگ کرتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jaisa ke aap ke rub ne aap ke ghar se haq ke sath aap ko rawana kiya aur musalma
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) جس طرح آپ کا رب آپ کو آپ کے گھر سے حق کے (عظیم مقصد) کے ساتھ (جہاد کے لئے) باہر نکال لایا حالانکہ مسلمانوں کا ایک گروہ (اس پر) ناخوش تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مال غنیمت کی تقسیم کا) یہ معاملہ کچھ ایسا ہی ہے جیسے تمہارے رب نے تمہیں اپنے گھر سے حق کی خاطر نکالا، جبکہ مسلمانوں کے ایک گروہ کو یہ بات ناپسند تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

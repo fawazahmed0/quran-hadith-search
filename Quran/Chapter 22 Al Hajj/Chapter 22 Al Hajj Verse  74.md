@@ -3224,6 +3224,12 @@ unhone Allah ke martabe ke mutaabiq us ki qadar jaani hee nahi, Allah ta’ala b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان (کافروں) نے اللہ کی قدر نہ کی جیسی اس کی قدر کرنا چاہئے تھی۔ بیشک اللہ بڑی قوت والا (ہر چیز پر) غالب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان لوگوں نے اللہ کی ٹھیک ٹھیک قدر ہی نہیں پہچانی۔ حقیقت یہ ہے کہ اللہ قوت کا بھی مالک ہے، اقتدار کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

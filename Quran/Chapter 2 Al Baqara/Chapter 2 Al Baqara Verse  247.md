@@ -3224,6 +3224,12 @@ aur unhe un ke nabi ne faramaaya ke Allah ta’ala ne taalooth ko tumhaara badsh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان سے ان کے نبی نے فرمایا: بیشک اللہ نے تمہارے لئے طالوت کو بادشاہ مقرّر فرمایا ہے، تو کہنے لگے کہ اسے ہم پر حکمرانی کیسے مل گئی حالانکہ ہم اس سے حکومت (کرنے) کے زیادہ حق دار ہیں اسے تو دولت کی فراوانی بھی نہیں دی گئی، (نبی نے) فرمایا: بیشک اللہ نے اسے تم پر منتخب کر لیا ہے اور اسے علم اور جسم میں زیادہ کشادگی عطا فرما دی ہے، اور اللہ اپنی سلطنت (کی امانت) جسے چاہتا ہے عطا فرما دیتا ہے، اور اللہ بڑی وسعت والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے نبی نے ان سے کہا کہ : اللہ نے تمہارے لیے طالوت کو بادشاہ بنا کر بھیجا ہے۔ کہنے لگے : بھلا اس کو ہم پر بادشاہت کرنے کا حق کہاں سے آگیا ؟ ہم اس کے مقابلے میں بادشاہت کے زیادہ مستحق ہیں، اور اس کو تو مالی وسعت بھی حاصل نہیں۔ نبی نے کہا : اللہ نے ان کو تم پر فضیلت دے کر چنا ہے اور انہیں علم اور جسم میں (تم سے) زیادہ وسعت عطا کی ہے، اور اللہ اپنا ملک جس کو چاہتا ہے دیتا ہے، اور اللہ بڑی وسعت اور بڑا علم رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

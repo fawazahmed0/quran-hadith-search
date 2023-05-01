@@ -3224,6 +3224,12 @@ beja qarch karne waale shaitaano ke bhai hai aur shaitaan apne parvardigaar ka b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک فضول خرچی کرنے والے شیطان کے بھائی ہیں، اور شیطان اپنے رب کا بڑا ہی ناشکرا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین جانو کہ جو لوگ بےہودہ کاموں میں مال اڑاتے ہیں، وہ شیطان کے بھائی ہیں، اور شیطان اپنے پروردگار کا بڑا ناشکرا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

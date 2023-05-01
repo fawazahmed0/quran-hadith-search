@@ -3224,6 +3224,12 @@ jis ne aap par haq ke saath is kitaab ko naazil farmaaya hai, jo apne se pehle k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) اُسی نے (یہ) کتاب آپ پر حق کے ساتھ نازل فرمائی ہے (یہ) اُن (سب کتابوں) کی تصدیق کرنے والی ہے جو اِس سے پہلے اتری ہیں اور اُسی نے تورات اور اِنجیل (بھی) نازل فرمائی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے تم پر وہ کتاب نازل کی ہے جو حق پر مشتمل ہے جو اپنے سے پہلی کتابوں کی تصدیق کرتی ہے اور اسی نے تورات اور انجیل اتاریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

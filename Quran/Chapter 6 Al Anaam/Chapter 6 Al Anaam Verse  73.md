@@ -3224,6 +3224,12 @@ aur wahi hai jis ne asmaano aur zameen ko bar-haq paida kiya aur jis waqth Allah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی (اللہ) ہے جس نے آسمانوں اور زمین کو حق (پر مبنی تدبیر) کے ساتھ پیدا فرمایا ہے اور جس دن وہ فرمائے گا: ہوجا، تو وہ (روزِ محشر بپا) ہو جائے گا۔ اس کا فرمان حق ہے، اور اس دن اسی کی بادشاہی ہوگی جب (اسرافیل کے ذریعے صور میں پھونک ماری جائے گے، (وہی) ہر پوشیدہ اور ظاہر کا جاننے والا ہے، اور وہی بڑا حکمت والا خبردار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ذات ہے جس نے آسمانوں اور زمین کو برحق پیدا کیا ہے، اور جس دن وہ (روز قیامت سے) کہے گا کہ : تو ہوجا تو وہ ہوجائے گا۔ اس کا قول برحق ہے۔ اور جس دن صورت پھونکا جائے گا، اس دن بادشاہی اسی کی ہوگی وہ غائب و حاضر ہر چیز کو جاننے والا ہے، اور وہی بڑی حکمت والا، پوری طرح باخبر ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

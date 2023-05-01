@@ -3224,6 +3224,12 @@ Allah tala ne paighambar ke haal par tawajje farmai aur muhajirin aur ansaar ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یقیناً اللہ نے نبی (معظم صلی اللہ علیہ وآلہ وسلم) پر رحمت سے توجہ فرمائی اور ان مہاجرین اور انصار پر (بھی) جنہوں نے (غزوۂ تبوک کی) مشکل گھڑی میں (بھی) آپ (صلی اللہ علیہ وآلہ وسلم) کی پیروی کی اس (صورتِ حال) کے بعد کہ قریب تھا کہ ان میں سے ایک گروہ کے دل پھر جاتے، پھر وہ ان پر لطف و رحمت سے متوجہ ہوا، بیشک وہ ان پر نہایت شفیق، نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ اللہ نے رحمت کی نظر فرمائی ہے نبی پر ان مہاجرین اور انصار پر جنہوں نے ایسی مشکل کی گھڑی میں نبی کا ساتھ دیا، جبکہ قریب تھا کہ ان میں سے ایک گروہ کے دل ڈگمگا جائیں، پھر اللہ نے ان کے حال پر توجہ فرمائی۔ یقینا وہ ان کے لیے بہت شفیق، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar wo sulah ki taraf jhoke tuh,tu bhi sulah ki taraf jhuk ja aur Allah par bha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر (تمہارے ساتھ نبرد آزما) وہ (کفار) صلح و آشتی کے لیے جھکیں تو آپ بھی اس کی طرف مائل ہو جائیں اور اللہ پر بھروسہ رکھیں۔ بے شک وہی خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر وہ لوگ صلح کی طرف جھکیں تو تم بھی اس کی طرف جھک جاؤ اور اللہ پر بھروسہ رکھو، یقین جانو وہی ہے جو ہر بات سنتا، سب کچھ جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum nahi jaante ke zameen waalo ke saath kisi buraayi ka iraada kiya gaya hai ya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ ہم نہیں جانتے کہ (ہماری بندش سے) ان لوگوں کے حق میں جو زمین میں ہیں کسی برائی کا اِرادہ کیا گیا ہے یا ان کے رب نے ان کے ساتھ بھلائی کا اِرادہ فرمایا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : ہمیں یہ پتہ نہیں تھا کہ آیا زمین والوں سے کوئی برا معاملہ کرنے کا ارادہ کیا گیا ہے یا ان کے پروردگار نے ان کو راہ راست دکھانے کا ارادہ فرمایا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

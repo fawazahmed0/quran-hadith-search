@@ -3224,6 +3224,12 @@ gharz jab duno muti ho gaye aur us ne (baap ne) us ko (bete ko) peshaani ke bal 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب دونوں (رضائے الٰہی کے سامنے) جھک گئے (یعنی دونوں نے مولا کے حکم کو تسلیم کرلیا) اور ابراہیم (علیہ السلام) نے اسے پیشانی کے بل لِٹا دیا (اگلا منظر بیان نہیں فرمایا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ (وہ عجیب منظر تھا) جب دونوں نے سر جھکا دیا، اور باپ نے بیٹے کو پیشانی کے بل گرایا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

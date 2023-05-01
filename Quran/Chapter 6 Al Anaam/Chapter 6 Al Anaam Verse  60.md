@@ -3224,6 +3224,12 @@ aur wo aisa hai ke raath mein tumhaari roh ko (ek gona) qabz kar deta hai aur jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہی ہے جو رات کے وقت تمہاری روحیں قبض فرما لیتا ہے اور جو کچھ تم دن کے وقت کماتے ہو وہ جانتا ہے پھر وہ تمہیں دن میں اٹھا دیتا ہے تاکہ (تمہاری زندگی کی) معینّہ میعاد پوری کر دی جائے پھر تمہارا پلٹنا اسی کی طرف ہے، پھر وہ (روزِ محشر) تمہیں ان (تمام اعمال) سے آگاہ فرما دے گا جو تم (اس زندگانی میں) کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہی ہے جو رات کے وقت (نیند میں) تمہاری روح (ایک حد تک) قبض کرلیتا ہے اور دن بھر میں تم نے جو کچھ کیا ہوتا ہے، اسے خوب جانتا ہے، پھر اس (نئے دن) میں تمہیں زندگی دیتا ہے، تاکہ (تمہاری عمر کی) مقررہ مدت پوری ہوجائے۔ پھر اسی کے پاس تم کو لوٹ کر جانا ہے۔ اس وقت وہ تمہیں بتائے گا کہ تم کیا کیا کرتے تھے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

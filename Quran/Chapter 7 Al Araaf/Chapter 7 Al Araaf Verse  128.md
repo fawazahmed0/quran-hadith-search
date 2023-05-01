@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ne apni khaum se farmaaya Allah ta’ala ka sahaara haasil k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے اپنی قوم سے کہا : اللہ سے مدد مانگو اور صبر سے کام لو۔ یقین رکھو کہ زمین اللہ کی ہے، وہ اپنے بندوں میں سے جسے چاہتا ہے اس کا وارث بنا دیتا ہے۔ اور آخری انجام پرہیزگاروں ہی کے حق میں ہوتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

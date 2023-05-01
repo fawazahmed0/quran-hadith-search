@@ -3224,6 +3224,12 @@ jis din zameen is zameen ke siva aur hee badal di jayegi aur aasmaan bhi aur sab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن (یہ) زمین دوسری زمین سے بدل دی جائے گی اور جملہ آسمان بھی بدل دیئے جائیں گے اور سب لوگ اللہ کے رُوبرو حاضر ہوں گے جو ایک ہے سب پر غالب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن جب یہ زمین ایک دوسری زمین سے بدل دی جائے گی، اور آسمان بھی (بدل جائیں گے) اور سب کے سب خدائے واحد وقہار کے سامنے پیش ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

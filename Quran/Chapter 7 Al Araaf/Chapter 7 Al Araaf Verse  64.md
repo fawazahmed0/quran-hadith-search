@@ -3224,6 +3224,12 @@ so wo log unki takzeeb hee karte rahe to hum ne Nuh (alaihissalaam) ko aur un ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی انہوں نے نوح کو جھٹلایا، چنانچہ ہم نے ان کو اور کشتی میں ان کے ساتھیوں کو نجات دی۔ اور ان سب لوگوں کو غرق کردیا جنہوں نے ہماری نشانیوں کو جھٹلایا تھا۔ یقینا وہ اندھے لوگ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

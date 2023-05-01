@@ -3224,6 +3224,12 @@ ja un ki taraf waapas laut ja, hum un (ke muqaable) par wo lashkar layenge, jin 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو ان کے پاس (تحفہ سمیت) واپس پلٹ جا سو ہم ان پر ایسے لشکروں کے ساتھ (حملہ کرنے) آئیں گے جن سے انہیں مقابلہ (کی طاقت) نہیں ہوگی اور ہم انہیں وہاں سے بے عزت کر کے اس حال میں نکالیں گے کہ وہ (قیدی بن کر) رسوا ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کے پاس واپس جاؤ، کیونکہ اب ہم ان کے پاس ایسے لشکر لے کر پہنچیں گے جن کے مقابلے کی ان میں تاب نہیں ہوگی، اور انہیں وہاں سے اس طرح نکالیں گے کہ وہ ذلیل ہوں گے، اور ماتحت بن کر رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

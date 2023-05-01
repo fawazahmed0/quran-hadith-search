@@ -3224,6 +3224,12 @@ aur agar hum ose koi nemath chakaye us saqti ke badh jo ose pahoch choki thi to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم اسے (کوئی) نعمت چکھاتے ہیں اس تکلیف کے بعد جو اسے پہنچ چکی تھی تو ضرور کہہ اٹھتا ہے کہ مجھ سے ساری تکلیفیں جاتی رہیں، بیشک وہ بڑا خوش ہونے والا (اور) فخر کرنے والا (بن جاتا) ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اسے کوئی تکلیف پہنچنے کے بعد ہم اسے نعمتوں کا مزہ چکھا دیں تو وہ کہتا ہے کہ ساری برائیاں مجھ سے دور ہوگئیں۔ (اس وقت) وہ اترا کر شیخیاں بگھارنے لگتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

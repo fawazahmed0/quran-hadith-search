@@ -3224,6 +3224,12 @@ kya tum ye samajh baithe ho ke tum jannath mein chale jaoge, halaan ke ab tak Al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم یہ گمان کئے ہوئے ہو کہ تم (یونہی) جنت میں چلے جاؤ گے؟ حالانکہ ابھی اللہ نے تم میں سے جہاد کرنے والوں کو پرکھا ہی نہیں ہے اور نہ ہی صبر کرنے والوں کو جانچا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا تم یہ سمجھتے ہو کہ (یونہی) جنت کے اندر جاپہنچو گے ؟ حالانکہ ابھی تک اللہ نے تم میں سے ان لوگوں کو جانچ کر نہیں دیکھا جو جہاد کریں، اور نہ ان کو جانچ کر دیکھا ہے جو ثابت قدم رہنے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

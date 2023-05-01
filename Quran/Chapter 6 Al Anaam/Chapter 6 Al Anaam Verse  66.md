@@ -3224,6 +3224,12 @@ aur aap ki khaum us ki takzeeb karti hai halaan ke wo yaqini hai, aap keh di jiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کی قوم نے اس (قرآن) کو جھٹلا ڈالا حالانکہ وہ سراسر حق ہے۔ فرما دیجئے: میں تم پر نگہبان نہیں ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغبر) تمہاری قوم نے اس (قرآن) کو جھٹلایا ہے، حالانکہ وہ بالکل حق ہے۔ تم کہہ دو کہ : مجھ کو تمہاری ذمہ داری نہیں سونپی گئی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

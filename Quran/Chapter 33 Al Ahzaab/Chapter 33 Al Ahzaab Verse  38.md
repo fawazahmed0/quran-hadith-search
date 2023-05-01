@@ -3224,6 +3224,12 @@ jo chize Allah ta’ala ne apne Nabi ke liye muqarrar ki hai, un mein Nabi par k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نبی (صلی اللہ علیہ وآلہ وسلم) پر اس کام (کی انجام دہی) میں کوئی حرج نہیں ہے جو اللہ نے ان کے لئے فرض فرما دیا ہے، اللہ کا یہی طریقہ و دستور اُن لوگوں میں (بھی رہا) ہے جو پہلے گزر چکے، اور اللہ کا حکم فیصلہ ہے جو پورا ہوچکا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نبی کے لیے اس کام میں اعتراض کی کوئی بات نہیں ہوتی جو اللہ نے اس کے لیے طے کردیا ہو۔ یہی اللہ کی وہ سنت ہے جس پر ان (انبیاء) کے معاملے میں بھی عمل ہوتا آیا ہے جو پہلے گزر چکے ہیں۔ اور اللہ کا فیصلہ نپا تلا مقدر ہوتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jab hazrath Mosa(alaihissalaam) ne muddath puri karli aur apne ghar waalo ko le 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب موسٰی (علیہ السلام) نے مقررہ مدت پوری کر لی اور اپنی اہلیہ کو لے کر چلے (تو) انہوں نے طور کی جانب سے ایک آگ دیکھی (وہ شعلۂ حسنِ مطلق تھا جس کی طرف آپ کی طبیعت مانوس ہوگئی)، انہوں نے اپنی اہلیہ سے فرمایا: تم (یہیں) ٹھہرو میں نے آگ دیکھی ہے۔ شاید میں تمہارے لئے اس (آگ) سے کچھ (اُس کی) خبر لاؤں (جس کی تلاش میں مدتوں سے سرگرداں ہوں) یا آتشِ (سوزاں) کی کوئی چنگاری (لادوں) تاکہ تم (بھی) تپ اٹھو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جب موسیٰ نے وہ مدت پوری کرلی، اور اپنی اہلیہ کو لے کر چلے تو انہوں نے کوہ طور کی طرف سے ایک آگ دیکھی۔ انہوں نے اپنے گھر والوں سے کہا : ٹھہرو ! میں نے ایک آگ دیکھی ہے، شاید میں وہاں سے تمہارے پاس کوئی خبر لے آؤں، یا آگ کا کوئی انگارہ اٹھا لاؤں تاکہ تم گرمائی حاصل کرسکو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

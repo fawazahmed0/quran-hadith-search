@@ -3224,6 +3224,12 @@ aur sone ke bhi aur ye sab kuch yo hee sa dunya ki zindagi ka fayda hai aur aaqi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (چاندی کے اوپر) سونے اور جواہرات کی آرائش بھی (کر دیتے)، اور یہ سب کچھ دنیوی زندگی کی عارضی اور حقیر متاع ہے، اور آخرت (کا حُسن و زیبائش) آپ کے رب کے پاس ہے (جو) صرف پرہیزگاروں کے لئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلکہ انہیں سونا بنا دیتے، اور حقیقت یہ ہے کہ یہ سب کچھ بھی نہیں، صرف دنیوی زندگی کا سامان ہے۔ اور آخرت تمہارے پروردگار کے نزدیک پرہیزگاروں کے لیے ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un sab ne kaha, aap ise aur is ke bhai ko muhullath di jiye aur tamaam shehro me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ بولے کہ تو اسے اور اس کے بھائی (ہارون کے حکمِ سزا سنانے) کو مؤخر کر دے اور (تمام) شہروں میں (جادوگروں کو بلانے کے لئے) ہرکارے بھیج دے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : ان کو اور ان کے بھائی کو کچھ مہلت دیجیے، اور تمام شہروں میں ہر کارے بھیج دیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

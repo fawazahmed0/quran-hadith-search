@@ -3224,6 +3224,12 @@ yaqinan Allah ta’ala kisi misaal ke bayaan karne se nahi sharmaata, qwaah macc
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ اس بات سے نہیں شرماتا کہ (سمجھانے کے لئے) کوئی بھی مثال بیان فرمائے (خواہ) مچھر کی ہو یا (ایسی چیز کی جو حقارت میں) اس سے بھی بڑھ کر ہو، تو جو لوگ ایمان لائے وہ خوب جانتے ہیں کہ یہ مثال ان کے رب کی طرف سے حق (کی نشاندہی) ہے، اور جنہوں نے کفر اختیار کیا وہ (اسے سن کر یہ) کہتے ہیں کہ ایسی تمثیل سے اللہ کو کیا سروکار؟ (اس طرح) اللہ ایک ہی بات کے ذریعے بہت سے لوگوں کو گمراہ ٹھہراتا ہے اور بہت سے لوگوں کو ہدایت دیتا ہے اور اس سے صرف انہی کو گمراہی میں ڈالتا ہے جو (پہلے ہی) نافرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک اللہ اس بات سے نہیں شرماتا کہ وہ (کسی بات کو واضح کرنے کے لئے) کوئی بھی مثال دے، چاہے وہ مچھر (جیسی معمولی چیز) کی ہو، یا کسی ایسی چیز کی جو مچھر سے بھی زیادہ (معمولی) ہو اب جو لوگ مومن ہیں وہ خوب جانتے ہیں کہ یہ مثال ایک حق بات ہے جو ان کے پروردگار کی طرف سے آئی ہے۔ البتہ جو لوگ کافر ہیں وہ یہی کہتے ہیں کہ بھلا اس (حقیر) مثال سے اللہ کا کیا مطلب ہے ؟ (اس طرح) اللہ اس مثال سے بہت سے لوگوں کو گمراہی میں مبتلا کرتا ہے اور بہت سوں کو ہدایت دیتا ہے (مگر) وہ گمراہ انہی کو کرتا ہے جو نافرمان ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

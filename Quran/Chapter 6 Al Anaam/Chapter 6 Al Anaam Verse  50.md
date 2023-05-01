@@ -3224,6 +3224,12 @@ aap keh di jiye ke na to main tum se ye kehta ho ke mere paas Allah ke qazaane h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ (ان کافروں سے) فرما دیجئے کہ میں تم سے (یہ) نہیں کہتا کہ میرے پاس اللہ کے خزانے ہیں اور نہ میں اَز خود غیب جانتا ہوں اور نہ میں تم سے (یہ) کہتا ہوں کہ میں فرشتہ ہوں، میں تو صرف اسی (حکم) کی پیروی کرتا ہوں جو میری طرف وحی کیا جاتاہے۔ فرما دیجئے: کیا اندھا اور بینا برابر ہوسکتے ہیں؟ سو کیا تم غور نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر !) ان سے کہو : میں تم سے یہ نہیں کہتا کہ میرے پاس اللہ کے خزانے ہیں اور نہ میں غیب کا (پورا) علم رکھتا ہوں، اور نہ میں تم سے یہ کہتا ہوں کہ میں فرشتہ ہوں میں تو صرف اس وحی کی اتباع کرتا ہوں جو مجھ پر نازل کی جاتی ہے۔ کہو کہ : کیا ایک اندھا اور دوسر ا بینائی رکھنے والا دونوں برابر ہوسکتے ہیں ؟ پھر کیا تم غور نہیں کرتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

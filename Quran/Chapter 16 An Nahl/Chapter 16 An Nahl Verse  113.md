@@ -3224,6 +3224,12 @@ un ke paas unhee mein se rasool pahoncha, phir bhi unhone ose jhutlaya, pas unhe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ان کے پاس انہی میں سے ایک رسول آیا تو انہوں نے اسے جھٹلایا پس انہیں عذاب نے آپکڑا اور وہ ظالم ہی تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کے پاس انہی میں سے ایک پیغمبر آیا تھا، مگر انہوں نے اس کو جھٹلایا، چنانچہ جب انہوں نے ظلم اپنا لیا تو ان کو عذاب نے آپکڑا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur ahle jannath ahle dozakh ko pukarenge ke hum se jo hamaare rab ne waada farm
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جنت کے لوگ دوزخ والوں سے پکار کر کہیں گے کہ : ہمارے پروردگار نے ہم سے جو وعدہ کیا تھا، ہم نے اسے بالکل سچا پایا ہے۔ اب تم بتاؤ کہ تمہارے پروردگار نے جو عدہ کیا تھا، کیا تم نے بھی اسے سچا پایا ؟ وہ جواب میں کہیں گے کہ : ہاں اتنے میں ایک منادی ان کے درمیان پکارے گا کہ : اللہ کی لعنت ہے ان ظالموں پر۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye ek aisi kitab hai ke is ki ayate muhakkam ki gayi hai phir saaf saaf bayaan k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ کہ اللہ کے سوا تم کسی کی عبادت مت کرو، بیشک میں تمہارے لئے اس (اللہ) کی جانب سے ڈر سنانے والا اور بشارت دینے والا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (یہ کتاب پیغمبر کو حکم دیتی ہے کہ وہ لوگوں سے یہ کہیں) کہ اللہ کے سوا کسی کی عبادت نہ کرو، میں اس کی طرف سے تمہیں آگاہ کرنے والا اور خوشخبری سنانے والا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

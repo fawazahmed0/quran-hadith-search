@@ -3224,6 +3224,12 @@ aye aulaad aadam! agar tumhaare paas paighambar aaye jo tum hee mein se ho jo me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور اللہ نے انسان کو پیدا کرتے وقت ہی یہ تنبیہ کردی تھی کہ) اے آدم کے بیٹو اور بیٹیو ! اگر تمہارے پاس تم ہی میں سے کچھ پیغمبر آئیں جو تمہیں میری آیتیں پڑھ کر سنائیں، تو جو لوگ تقوی اختیار کریں گے اور اپنی اصلاح کرلیں گے، ان پر نہ کوئی خوف طاری ہوگا اور نہ وہ غمگین ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

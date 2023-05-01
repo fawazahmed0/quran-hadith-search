@@ -3224,6 +3224,12 @@ aye logo! tumhaare paas tumhaare rab ki taraf se sanadh aur daleel aa pahonchi a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے لوگو! بے شک تمہارے پاس تمہارے رب کی جانب سے (ذاتِ محمدی ﷺ کی صورت میں ذاتِ حق جل مجدہ، کی سب سے زیادہ مضبوط، کامل اور واضح) دلیلِ قاطع آگئی ہے اور ہم نے تمہاری طرف (اسی کے ساتھ قرآن کی صورت میں) واضح اور روشن نُور (بھی) اتار دیا ہے۔ (یہی نبی اور یہی قرآن ہمیشہ کے لیے کافی ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے لوگو ! تمہارے پاس تمہارے پروردگار کی طرف سے کھلی دلیل آچکی ہے، اور ہم نے تمہارے پاس ایک ایسی روشنی بھیج دی ہے جو راستے کی پوری وضاحت کرنے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

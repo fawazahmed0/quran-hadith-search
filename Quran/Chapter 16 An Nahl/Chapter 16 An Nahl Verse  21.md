@@ -3224,6 +3224,12 @@ murde hai, zinda nahi, unhe to ye bhi sha’oor nahi ke kab uthaaye jayenge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ) مُردے ہیں زندہ نہیں، اور (انہیں اتنا بھی) شعور نہیں کہ (لوگ) کب اٹھائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ بےجان ہیں، ان میں زندگی نہیں، اور ان کو اس بات کا بھی احساس نہیں ہے کہ ان لوگوں کو کب زندہ کر کے اٹھایا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

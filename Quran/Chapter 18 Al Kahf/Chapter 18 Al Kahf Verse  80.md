@@ -3224,6 +3224,12 @@ aur us ladke ke maa baap imaan waale thein, hamein khauf hoa ke kaheen ye unhe a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ جو لڑکا تھا تو اس کے ماں باپ صاحبِ ایمان تھے پس ہمیں اندیشہ ہوا کہ یہ (اگر زندہ رہا تو کافر بنے گا اور) ان دونوں کو (بڑا ہو کر) سرکشی اور کفر میں مبتلا کر دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لڑکے کا معاملہ یہ تھا کہ اس کے ماں باپ مومن تھے، اور ہمیں اس بات کا اندیشہ تھا کہ یہ لڑکا ان دونوں کو سرکشی اور کفر میں نہ پھنسا دے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

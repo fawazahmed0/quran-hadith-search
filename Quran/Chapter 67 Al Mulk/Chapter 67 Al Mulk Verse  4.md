@@ -3224,6 +3224,12 @@ phir duhra kar do do baar dekh le, teri nigaah teri taraf zaleel wa (aajiz) ho k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم پھر نگاہِ (تحقیق) کو بار بار (مختلف زاویوں اور سائنسی طریقوں سے) پھیر کر دیکھو، (ہر بار) نظر تمہاری طرف تھک کر پلٹ آئے گی اور وہ (کوئی بھی نقص تلاش کرنے میں) ناکام ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بار بار نظر دوڑاؤ، نتیجہ یہی ہوگا کہ نظر تھک ہار کر تمہارے پاس نامراد لوٹ آئے گی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

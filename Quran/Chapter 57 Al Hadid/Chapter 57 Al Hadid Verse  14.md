@@ -3224,6 +3224,12 @@ ye chilla chilla kar un se kahenge ke kya hum tumhaare saath na thein, wo kaheng
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (منافق) اُن (مومنوں) کو پکار کر کہیں گے: کیا ہم (دنیا میں) تمہاری سنگت میں نہ تھے؟ وہ کہیں گے: کیوں نہیں! لیکن تم نے اپنے آپ کو (منافقت کے) فتنہ میں مبتلا کر دیا تھا اور تم (ہمارے لئے برائی اور نقصان کے) منتظر رہتے تھے اور تم (نبوّتِ محمدی صلی اللہ علیہ وآلہ وسلم اور دینِ اسلام میں) شک کرتے تھے اور باطل امیدوں نے تمہیں دھوکے میں ڈال دیا، یہاں تک کہ اللہ کا اَمرِ (موت) آپہنچا اور تمہیں اللہ کے بارے میں دغا باز (شیطان) دھوکہ دیتا رہا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ مومنوں کو پکاریں گے کہ : کیا ہم تمہارے ساتھ نہیں تھے ؟ مومن کہیں گے کہ : ہاں تھے تو سہی، لیکن تم نے خود اپنے آپ کو فتنے میں ڈال لیا، اور انتظار میں رہے، شک میں پڑے رہے، اور جھوٹی آرزوؤں نے تمہیں دھوکے میں ڈالے رکھا، یہاں تک کہ اللہ کا حکم آگیا اور وہ بڑا دھوکے باز (یعنی شیطان) تمہیں اللہ کے بارے میں دھوکا ہی دیتا رہا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

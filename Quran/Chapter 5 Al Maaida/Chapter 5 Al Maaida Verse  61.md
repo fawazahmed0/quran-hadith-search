@@ -3224,6 +3224,12 @@ aur jab tumhaare paas aate hai to kehte hai ke hum imaan laaye, halaan ke wo kuf
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب وہ(منافق) تمہارے پاس آتے ہیں (تو) کہتے ہیں: ہم ایمان لے آئے ہیں حالانکہ وہ (تمہاری مجلس میں) کفر کے ساتھ ہی داخل ہوئے اور اسی (کفر) کے ساتھ ہی نکل گئے، اور اللہ ان (باتوں) کو خوب جانتا ہے جنہیں وہ چھپائے پھرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یہ تمہارے پاس آتے ہیں تو کہتے ہیں کہ ہم ایمان لے آئے ہیں، حالانکہ یہ کفر لے کر ہی آئے تھے، اور اسی کفر کو لے کر باہر نکلے ہیں، اور اللہ خوب جانتا ہے کہ یہ کیا کچھ چھپاتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

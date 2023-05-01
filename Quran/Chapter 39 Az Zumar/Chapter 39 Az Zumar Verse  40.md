@@ -3224,6 +3224,12 @@ ke kis par ruswa karne waala azaab aata hai aur kis par daayimi maar aur hameshg
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(کہ) کس پر عذاب آتا ہے جو اسے رسوا کر دے گا اور اس پر ہمیشہ قائم رہنے والا عذاب اترے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ کس پر وہ عذاب آتا ہے جو اسے رسوا کر کے رکھ دے گا، اور کس پر وہ عذاب نازل ہوتا ہے جو ہمیشہ جم کر رہے گا۔ “
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

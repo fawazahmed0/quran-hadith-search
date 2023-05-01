@@ -3224,6 +3224,12 @@ aap kahiye ke aao main tum ko wo cheez pad kar sunaao jin (yaani jin ki muqaalif
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: آؤ میں وہ چیزیں پڑھ کر سنا دوں جو تمہارے رب نے تم پر حرام کی ہیں (وہ) یہ کہ تم اس کے ساتھ کسی چیز کو شریک نہ ٹھہراؤ اور ماں باپ کے ساتھ اچھا سلوک کرو، اور مفلسی کے باعث اپنی اولاد کو قتل مت کرو۔ ہم ہی تمہیں رزق دیتے ہیں اور انہیں بھی (دیں گے)، اور بے حیائی کے کاموں کے قریب نہ جاؤ (خواہ) وہ ظاہر ہوں اور (خواہ) وہ پوشیدہ ہوں، اور اس جان کو قتل نہ کرو جسے (قتل کرنا) اللہ نے حرام کیا ہے بجز حق (شرعی) کے (یعنی قانون کے مطابق ذاتی دفاع کی خاطر اور فتنہ و فساد اور دہشت گردی کے خلاف لڑتے ہوئے)، یہی وہ (امور) ہیں جن کا اس نے تمہیں تاکیدی حکم دیا ہے تاکہ تم عقل سے کام لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان سے) کہو کہ : آؤ، میں تمہیں پڑھ کر سناؤں کہ تمہارے پروردگار نے (درحقیقت) تم پر کونسی باتیں حرام کی ہیں۔ وہ یہ ہیں کہ اس کے ساتھ کسی کو شریک نہ ٹھہراؤ، اور ماں باپ کے ساتھ اچھا سلوک کرو، اور غربت کی وجہ سے اپنے بچوں کو قتل نہ کرو۔ ہم تمہیں بھی رزق دیں گے اور ان کو بھی۔ اور بےحیائی کے کاموں کے پاس بھی نہ پھٹکو، چاہے وہ بےحیائی کھلی ہوئی ہو یا چھپی ہوئی، اور جس جان کو اللہ نے حرمت عطا کی ہے اسے کسی برحق وجہ کے بغیر قتل نہ کرو۔ لوگو ! یہ ہیں وہ باتیں جن کی اللہ نے تاکید کی ہے تاکہ تمہیں کچھ سمجھ آئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

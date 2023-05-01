@@ -3224,6 +3224,12 @@ aur jo log imaan laaye aur unhone mutaabiq sunnath kaam kiye, hum un ke tamaam g
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے تو ہم ان کی ساری خطائیں ان (کے نامۂ اعمال) سے مٹا دیں گے اور ہم یقیناً انہیں اس سے بہتر جزا عطا فرما دیں گے جو عمل وہ (فی الواقع) کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ ایمان لے آئے ہیں اور انہوں نے نیک عمل کیے ہیں، ہم ان کی خطاؤں کو ضرور ان سے جھاڑ دیں گے، اور جو عمل وہ کرتے رہے ہیں، ان کا بہترین بدلہ انہیں ضرور دیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

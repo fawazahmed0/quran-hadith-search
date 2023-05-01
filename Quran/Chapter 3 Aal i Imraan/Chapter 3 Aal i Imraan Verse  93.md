@@ -3224,6 +3224,12 @@ tauraath ke nuzool se pehle(hazrath) Yaqoob(alaihissalaam) ne jis cheez ko apne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تورات کے اترنے سے پہلے بنی اسرائیل کے لئے ہر کھانے کی چیز حلال تھی سوائے ان (چیزوں) کے جو یعقوب (علیہ السلام) نے خود اپنے اوپر حرام کر لی تھیں، فرما دیں: تورات لاؤ اور اسے پڑھو اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تورات کے نازل ہونے سے پہلے کھانے کی تمام چیزیں (جو مسلمانوں کے لیے حلال ہیں) بنی اسرائیل کے لیے (بھی) حلال تھیں، سوائے اس چیز کے جو اسرائیل (یعنی یعقوب (علیہ السلام)) نے اپنے اوپر حرام کرلی تھی۔ (اے پیغمبر ! یہودیوں سے) کہہ دو کہ : اگر تم سچے ہو تو تورات لے کر آؤ اور اس کی تلاوت کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

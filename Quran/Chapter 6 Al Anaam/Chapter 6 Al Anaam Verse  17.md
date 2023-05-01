@@ -3224,6 +3224,12 @@ aur agar tujh ko Allah ta’ala koyi takleef pahonchaye to us ko door karne waal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ تجھے کوئی تکلیف پہنچائے تو اس کے سوا اسے کوئی دور کرنے والا نہیں، اور اگر وہ تجھے کوئی بھلائی پہنچائے تو وہ ہر چیز پر خوب قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر اللہ تمہیں کوئی تکلیف پہنچائے تو خود اس کے سوا اسے دور کرنے والا کوئی نہیں، اور اگر وہ تمہیں کوئی بھلائی پہنچائے تو وہ ہر چیز پر قدرت رکھتا ہی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

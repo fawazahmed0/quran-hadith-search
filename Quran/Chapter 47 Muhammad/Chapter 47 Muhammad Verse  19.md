@@ -3224,6 +3224,12 @@ so (aye Nabi! (sallallahu alaihi wasallam) aap yaqeen karle ke Allah ke siva koy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جان لیجیے کہ اللہ کے سوا کوئی معبود نہیں اور آپ (اظہارِ عبودیت اور تعلیمِ امت کی خاطر اللہ سے) معافی مانگتے رہا کریں کہ کہیں آپ سے (اپنی شان اقدس اور خصوصی عظمت و رِفعت کے تناظر میں) خلافِ اَولیٰ فعل صادر نہ ہو جائے* اور مومن مردوں اور مومن عورتوں کے لیے بھی طلبِ مغفرت (یعنی ان کی شفاعت) فرماتے رہا کریں (یہی ان کا سامان بخشش ہے)، اور (اے لوگو!) اللہ (دنیا میں) تمہارے چلنے پھرنے کے ٹھکانے اور (آخرت میں) تمہارے ٹھہرنے کی منزلیں (سب) جانتا ہےo٭ (حالانکہ وہ فعل اپنی جگہ شرعاً بالکل جائز بلکہ مستحسن ہو گا مگر آپ صلی اﷲ علیہ وآلہ وسلم کا مقام و مرتبہ اور عظمت و رِفعت محض جواز اور استحسان کے مراتب سے بھی بہت بلند اور اَرفع و اَعلیٰ ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) یقین جانو کہ اللہ کے سوا کوئی عبادت کے لائق نہیں ہے، اور اپنے قصور پر بھی بخشش کی دعا مانگتے رہو، اور مسلمان مردوں اور عورتوں کی بخشش کی بھی، اور اللہ تم سب کی نقل و حرکت اور تمہاری قیام گاہ کو خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

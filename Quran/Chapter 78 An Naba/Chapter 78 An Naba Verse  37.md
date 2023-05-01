@@ -3224,6 +3224,12 @@ Us nihayat meharban khuda ki taraf se jo zameen aur aasmaano ka aur inke darmiya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وہ) آسمانوں اور زمین کا اور جو کچھ ان دونوں کے درمیان ہے (سب) کا پروردگار ہے، بڑی ہی رحمت والا ہے (مگر روزِ قیامت اس کے رعب و جلال کا عالم یہ ہوگا کہ) اس سے بات کرنے کا (مخلوقات میں سے) کسی کو (بھی) یارا نہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی پروردگار کی طرف سے جو سارے آسمانوں اور زمین اور ان کے درمیان ہر چیز کا مالک، بہت مہربان ہے ! کسی کی مجال نہیں ہے کہ اس کے سامنے بول سکے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

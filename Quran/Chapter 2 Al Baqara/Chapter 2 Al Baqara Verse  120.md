@@ -3224,6 +3224,12 @@ aap se yahod wa nasaara har giz raazi nahi honge jab tak ke aap un ke maz’hab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہود و نصارٰی آپ سے (اس وقت تک) ہرگز خوش نہیں ہوں گے جب تک آپ ان کے مذہب کی پیروی اختیار نہ کر لیں، آپ فرما دیں کہ بیشک اللہ کی (عطا کردہ) ہدایت ہی (حقیقی) ہدایت ہے، (امت کی تعلیم کے لئے فرمایا:) اور اگر (بفرضِ محال) آپ نے اس علم کے بعد جو آپ کے پاس (اللہ کی طرف سے) آچکا ہے، ان کی خواہشات کی پیروی کی تو آپ کے لئے اللہ سے بچانے والا نہ کوئی دوست ہوگا اور نہ کوئی مددگار
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہود و نصاری تم سے اس وقت تک ہرگز راضی نہیں ہوں گے جب تک تم ان کے مذہب کی پیروی نہیں کرو گے۔ کہہ دو کہ حقیقی ہدایت تو اللہ ہی کی ہدایت ہے۔ اور تمہارے پاس (وحی کے ذریعے) جو علم آگیا ہے اگر کہیں تم نے اس کے بعد بھی ان لوگوں کی خواہشات کی پیروی کرلی تو تمہیں اللہ سے بچانے کے لیے نہ کوئی حمایتی ملے گا نہ کوئی مددگار۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

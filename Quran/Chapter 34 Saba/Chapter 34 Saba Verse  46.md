@@ -3224,6 +3224,12 @@ keh dijiye ke main tumhe sirf ek hee baath ki nasihath karta hoon ke tum Allah k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: میں تمہیں بس ایک ہی (بات کی) نصیحت کرتا ہوں کہ تم اللہ کے لئے (روحانی بیداری اور انتباہ کے حال میں) قیام کرو، دو دو اور ایک ایک، پھر تفکّر کرو (یعنی حقیقت کا معاینہ اور مراقبہ کرو تو تمہیں مشاہدہ ہو جائے گا) کہ تمہیں شرفِ صحبت سے نوازنے والے (رسولِ مکرّم صلی اللہ علیہ وآلہ وسلم) ہرگز جنون زدہ نہیں ہیں وہ تو سخت عذاب (کے آنے) سے پہلے تمہیں (بروقت) ڈر سنانے والے ہیں (تاکہ تم غفلت سے جاگ اٹھو)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ان سے کہو کہ : میں تمہیں صرف ایک بات کی نصیحت کرتا ہوں اور وہ یہ کہ تم چاہے دو دو مل کر اور چاہے اکیلے اکیلے اللہ کی خاطر اٹھ کھڑے ہو۔ پھر (انصاف سے) سوچو (توفورا سمجھ میں آجائے گا کہ) تمہارے اس ساتھی (یعنی محمد (صلی اللہ علیہ وآلہ وسلم) میں جنون کی کوئی بات بھی تو نہیں ہے۔ وہ تو ایک سخت عذاب کے آنے سے پہلے تمہیں خبردار کررہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

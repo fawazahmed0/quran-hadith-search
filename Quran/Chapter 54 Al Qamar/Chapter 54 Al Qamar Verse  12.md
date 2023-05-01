@@ -3224,6 +3224,12 @@ aur zameen se chashmo ko jaari kar diya, pas us kaam ke liye jo muqaddar kiya ga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے زمین سے چشمے جاری کر دیئے، سو (زمین و آسمان کا) پانی ایک ہی کام کے لئے جمع ہو گیا جو (اُن کی ہلاکت کے لئے) پہلے سے مقرر ہو چکا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور زمین کو پھاڑ کر چشموں میں تبدیل کردیا۔ اور اس طرح (دونوں قسم کا) سارا پانی اس کام کے لیے مل گیا جو مقدر ہوچکا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

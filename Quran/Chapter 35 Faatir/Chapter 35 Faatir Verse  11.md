@@ -3224,6 +3224,12 @@ logo! Allah ta’ala ne tumhe mitthi se, phir nutfe se paida kiya hai, phir tumh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ہی نے تمہیں مٹی (یعنی غیر نامی مادّہ) سے پیدا فرمایا پھر ایک تولیدی قطرہ سے، پھر تمہیں جوڑے جوڑے بنایا، اور کوئی مادّہ حاملہ نہیں ہوتی اور نہ بچہ جنتی ہے مگر اس کے علم سے، اور نہ کسی دراز عمر شخص کی عمر بڑھائی جاتی ہے اور نہ اس کی عمر کم کی جاتی ہے مگر (یہ سب کچھ) لوحِ (محفوظ) میں ہے، بیشک یہ اللہ پر بہت آسان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے تمہیں مٹی سے پیدا کیا، پھر نطفے سے، پھر تمہیں جوڑے جوڑے بنادیا۔ اور کسی مادہ کو جو کوئی حمل ہوتا ہے، اور جو کچھ وہ جنتی ہے وہ سب اللہ کے علم سے ہوتا ہے۔ اور کسی عمر رسیدہ کو جتنی عمر دی جاتی ہے، اور اس کی عمر میں جو کوئی کمی ہوتی ہے، وہ سب ایک کتاب میں درج ہے۔ حقیقت یہ ہے کہ یہ سب کچھ اللہ کے لیے بہت آسان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

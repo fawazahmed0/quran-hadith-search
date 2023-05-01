@@ -3224,6 +3224,12 @@ ya koi aisi qalqath jo tumhaare dilo mein bahuth hee saqt maloom ho phir wo ye p
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا کوئی ایسی مخلوق جو تمہارے خیال میں (ان چیزوں سے بھی) زیادہ سخت ہو (کہ اس میں زندگی پانے کی بالکل صلاحیت ہی نہ ہو)، پھر وہ (اس حال میں) کہیں گے کہ ہمیں کون دوبارہ زندہ کرے گا؟ فرما دیجئے: وہی جس نے تمہیں پہلی بار پیدا فرمایا تھا، پھر وہ (تعجب اور تمسخر کے طور پر) آپ کے سامنے اپنے سر ہلا دیں گے اور کہیں گے: یہ کب ہوگا؟ فرما دیجئے: امید ہے جلد ہی ہو جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا کوئی اور ایسی مخلوق بن جاؤ جس کے بارے میں تم دل میں سوچتے ہو کہ (اس کا زندہ ہونا) اور بھی مشکل ہے، (پھر بھی تمہیں زندہ کردیا جائے گا) اب وہ کہیں گے کہ : کون ہمیں دوبارہ زندہ کرے گا ؟ کہہ دو کہ : وہی زندہ کرے گا جس نے تمہیں پہلی بار پیدا کیا تھا۔ پھر وہ تمہارے سامنے سر ہلا ہلا کر کہیں گے کہ : ایسا کب ہوگا ؟ کہہ دینا کہ : کیا بعید ہے کہ وہ وقت قریب ہی آگیا ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

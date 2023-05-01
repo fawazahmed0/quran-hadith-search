@@ -3224,6 +3224,12 @@ aur jab us ki aayate un ke paas padi jaati hai, to wo keh dete hai, ke is ke ham
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان پر (قرآن) پڑھ کر سنایا جاتا ہے تو وہ کہتے ہیں: ہم اس پر ایمان لائے بیشک یہ ہمارے رب کی جانب سے حق ہے، حقیقت میں تو ہم اس سے پہلے ہی مسلمان (یعنی فرمانبردار) ہوچکے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب وہ ان کو پڑھ کر سنایا جاتا ہے تو کہتے ہیں کہ : ہم اس پر ایمان لائے، یقینا یہ برحق کلام ہے جو ہمارے پروردگار کی طرف سے آیا ہے۔ ہم تو اس سے پہلے بھی اسے مانتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

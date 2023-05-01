@@ -3224,6 +3224,12 @@ jo shaqs nek kaam karega, wo apne nafe ke liye aur jo bura kaam karega, us ka wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے نیک عمل کیا تو اُس نے اپنی ہی ذات کے (نفع کے) لئے (کیا) اور جِس نے گناہ کیا سو (اُس کا وبال بھی) اسی کی جان پر ہے، اور آپ کا رب بندوں پر ظلم کرنے والا نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو کوئی نیک عمل کرتا ہے، وہ اپنے ہے فائدے کے لیے کرتا ہے اور جو کوئی برائی کرتا ہے، وہ اپنے ہی نقصان کے لیے کرتا ہے اور تمہارا پروردگار بندوں پر ظلم کرنے والا نہیں ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

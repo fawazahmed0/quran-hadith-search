@@ -3224,6 +3224,12 @@ tu unhe us ranj wa afsoos ke din ka dar sunaade, jab ke kaam anjaam ko pahoncha 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ انہیں حسرت (و ندامت) کے دن سے ڈرائیے جب (ہر) بات کا فیصلہ کردیا جائے گا، مگر وہ غفلت (کی حالت) میں پڑے ہیں اور ایمان لاتے ہی نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) ان کو اس پچھتاوے کے دن سے ڈرایے جب ہر بات کا آخری فیصلہ ہوجائے گا، جبکہ یہ لوگ (اس وقت) غفلت میں ہیں، اور ایمان نہیں لارہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

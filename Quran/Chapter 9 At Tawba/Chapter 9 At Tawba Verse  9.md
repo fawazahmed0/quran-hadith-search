@@ -3224,6 +3224,12 @@ unhone Allah ki ayato ko bahuth kam qimath par bhech diya aur us ki rah se ruka,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے آیاتِ الٰہی کے بدلے (دنیوی مفاد کی) تھوڑی سی قیمت حاصل کر لی پھر اس (کے دین) کی راہ سے (لوگوں کو) روکنے لگے، بیشک بہت ہی برا کام ہے جو وہ کرتے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے اللہ کی آیتوں کے بدلے (دنیا کی) تھوڑی سی قیمت لے لینا پسند کرلیا ہے۔ اور اس کے نتیجے میں لوگوں کو اللہ کے راستے سے روکا ہے۔ واقعہ یہ ہے کہ ان کے کرتوت بہت برے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

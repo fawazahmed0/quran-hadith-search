@@ -3224,6 +3224,12 @@ jinhe ye log Allah ke siva pukaarte hai wo shifa’ath karne ka etiyaar nahi rak
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن کی یہ (کافر لوگ) اللہ کے سوا پرستش کرتے ہیں وہ (تو) شفاعت کا (کوئی) اختیار نہیں رکھتے مگر (ان کے برعکس شفاعت کا اختیار ان کو حاصل ہے) جنہوں نے حق کی گواہی دی اور وہ اسے (یقین کے ساتھ) جانتے بھی تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ اسے چھوڑ کر جن معبودوں کو پکارتے ہیں، انہیں کوئی سفارش کرنے کا اختیار نہیں ہوگا، ہاں البتہ جن لوگوں نے حق بات کی گواہی دی ہو، اور انہیں اس کا علم بھی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

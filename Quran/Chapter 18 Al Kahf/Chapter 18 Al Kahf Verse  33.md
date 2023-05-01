@@ -3224,6 +3224,12 @@ duno baagh apna phal qoob laaye aur us mein kisi tarah ki kami na ki aur hum ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ دونوں باغ (کثرت سے) اپنے پھل لائے اور ان کی (پیداوار) میں کوئی کمی نہ رہی اور ہم نے ان دونوں (میں سے ہر ایک) کے درمیان ایک نہر (بھی) جاری کر دی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دونوں باغ پورا پورا پھل دیتے تھے، اور کوئی باغ پھل دینے میں کوئی کمی نہیں چھوڑتا تھا، اور ان دونوں کے درمیان ہم نے ایک نہر جاری کردی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

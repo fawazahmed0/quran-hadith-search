@@ -3224,6 +3224,12 @@ kya insaan ko itna bhi maloom nahi ke hum ne ose nutfe se paida kiya hai? phir y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انسان نے یہ نہیں دیکھا کہ ہم نے اسے ایک تولیدی قطرہ سے پیدا کیا، پھر بھی وہ کھلے طور پر سخت جھگڑالو بن گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کیا انسان نے یہ نہیں دیکھا کہ ہم نے اسے نطفے سے پیدا کیا تھا ؟ پھر اچانک وہ کھلم کھلا جھگڑا کرنے والا بن گیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur ta ke us ki taraf un logo ke quloob maayel ho jaaye jo aaqirath par yaqeen n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ) اس لئے کہ ان لوگوں کے دل اس (فریب) کی طرف مائل ہو جائیں جو آخرت پر ایمان نہیں رکھتے اور (یہ) کہ وہ اسے پسند کرنے لگیں اور (یہ بھی) کہ وہ (انہی اعمالِ بد کا) ارتکاب کرنے لگیں جن کے وہ خود (مرتکب) ہو رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وہ انبیاء کے دشمن چکنی چپڑی باتیں اس لیے بناتے تھے) تاکہ جو لوگ آخرت پر ایمان نہیں رکھتے، ان کے دل ان باتوں کی طرف خوب مائل ہوجائیں اور وہ ان میں مگن رہیں، اور ساری وہ حرکتیں کریں جو وہ کرنے والے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

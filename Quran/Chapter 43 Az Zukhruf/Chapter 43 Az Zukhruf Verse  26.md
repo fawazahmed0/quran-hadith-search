@@ -3224,6 +3224,12 @@ aur jab ke Ibraheem(alaihissalaam) ne apne waalid se aur apni khaum se farmaaya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ابراہیم (علیہ السلام) نے اپنے (حقیقی چچا مگر پرورش کی نسبت سے) باپ اور اپنی قوم سے فرمایا: بیشک میں اُن سب چیزوں سے بیزار ہوں جنہیں تم پوجتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب ابراہیم نے اپنے باپ اور اپنی قوم سے کہا تھا کہ : میں ان چیزوں سے بیزار ہوں جن کی تم عبادت کرتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

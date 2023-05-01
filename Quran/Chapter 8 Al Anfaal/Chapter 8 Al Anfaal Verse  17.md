@@ -3224,6 +3224,12 @@ so tum ne unhe qatl nahi kiya lekin Allah tala ne un ko qatl kiya aur aap ne qaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے سپاہیانِ لشکرِ اسلام!) ان (جارِح) کافروں کو تم نے قتل نہیں کیا بلکہ اللہ نے انہیں قتل کر دیا، اور (اے حبیبِ محتشم!) جب آپ نے (ان پر سنگ ریزے) مارے تھے (وہ) آپ نے نہیں مارے تھے بلکہ (وہ تو) اللہ نے مارے تھے، اور یہ (اس لئے) کہ وہ اہلِ ایمان کو اپنی طرف سے اچھے انعامات سے نوازے، بیشک اللہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ (مسلمانو ! حقیقت میں) تم نے ان (کافروں کو) قتل نہیں کیا تھا، بلکہ انہیں اللہ نے قتل کیا تھا، اور (اے پیغمبر) جب تم نے ان پر (مٹی) پھینکی تھی تو وہ تم نے نہیں، بلکہ اللہ نے پھینکی تھی اور (تمہارے ہاتھوں یہ کام اس لیے کرایا تھا) تاکہ اس کے ذریعے اللہ مومنوں کو بہترین اجر عطا کرے۔ بیشک اللہ ہر بات کو سننے والا، ہر چیز کو جاننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

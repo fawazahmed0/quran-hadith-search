@@ -3224,6 +3224,12 @@ kya hum un logo ko jo imaan laaye aur nek amal kiye, un ke baraabar kar denge jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ہم اُن لوگوں کو جو ایمان لائے اور اعمالِ صالحہ بجا لائے اُن لوگوں جیسا کر دیں گے جو زمین میں فساد بپا کرنے والے ہیں یا ہم پرہیزگاروں کو بدکرداروں جیسا بنا دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ایمان لائے ہیں، اور جنہوں نے نیک عمل کیے ہیں کیا ہم ان کو ایسے لوگوں کے برابر کردیں جو زمین میں فساد مچاتے ہیں ؟ یا ہم پرہیزگاروں کو بدکاروں کے برابر کردیں گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

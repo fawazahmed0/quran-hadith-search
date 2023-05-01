@@ -3224,6 +3224,12 @@ aur ye log kehte hai ke ye wada kab hoga? agar tum sacche ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (طعنہ زنی کے طور پر) کہتے ہیں کہ یہ وعدۂ (عذاب) کب (پورا) ہوگا (مسلمانو! بتاؤ) اگر تم سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ (کافر) لوگ (مسلمانوں سے مذاق اڑانے کے لیے) کہتے ہیں کہ : اگر تم سچے ہو تو (اللہ کی طرف سے عذاب کا) یہ وعدہ کب پورا ہوگا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ un par shaytaan ne ghalba haasil kar liya hai aur unhe Allah ka zikr bhula diya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُن پر شیطان نے غلبہ پا لیا ہے سو اُس نے انہیں اللہ کا ذکر بھلا دیا ہے، یہی لوگ شیطان کا لشکر ہیں۔ جان لو کہ بیشک شیطانی گروہ کے لوگ ہی نقصان اٹھانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان پر شیطان نے پوری طرح قبضہ جما کر انہیں اللہ کی یاد سے غافل کردیا ہے۔ یہ شیطان کا گروہ ہے۔ یاد رکھو شیطان کا گروہ ہی نامراد ہونے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

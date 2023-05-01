@@ -3224,6 +3224,12 @@ keh dijiye ke asmaano walo mein se zameen waalo mein se sivaaye Allah ke koyi gh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرمادیجئے کہ جو لوگ آسمانوں اور زمین میں ہیں (اَز خود) غیب کا علم نہیں رکھتے سوائے اللہ کے (وہ عالم بالذّات ہے) اور نہ ہی وہ یہ خبر رکھتے ہیں کہ وہ (دوبارہ زندہ کر کے) کب اٹھائے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : اللہ کے سوا آسمانوں اور زمین میں کسی کو بھی غیب کا علم نہیں ہے۔ اور لوگوں کو یہ بھی پتہ نہیں ہے کہ انہیں کب دوبارہ زندہ کیا جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

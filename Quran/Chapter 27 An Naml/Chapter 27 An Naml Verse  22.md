@@ -3224,6 +3224,12 @@ kuch zyaada der na guzri thi ke aakar us ne kaha main ek aisi cheez ki qabar lay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس وہ تھوڑی ہی دیر (باہر) ٹھہرا تھا کہ اس نے (حاضر ہو کر) عرض کیا: مجھے ایک ایسی بات معلوم ہوئی ہے جس پر (شاید) آپ مطلع نہ تھے اور میں آپ کے پاس (ملکِ) سبا سے ایک یقینی خبر لایا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہدہد نے زیادہ دیر نہیں لگائی اور (آکر) کہا کہ : میں نے ایسی معلومات حاصل کی ہیں جن کا آپ کو علم نہیں ہے، اور میں ملک سبا سے آپ کے پاس ایک یقینی خبر لے کر آیا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

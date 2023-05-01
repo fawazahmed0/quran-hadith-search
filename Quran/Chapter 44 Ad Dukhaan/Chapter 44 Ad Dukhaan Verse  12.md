@@ -3224,6 +3224,12 @@ kahenge ke aye hamaare rab! ye aafath hum se door kar, hum imaan qubool karte ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اس وقت کہیں گے:) اے ہمارے رب! تو ہم سے (اس) عذاب کو دور کر دے، بیشک ہم ایمان لاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس وقت یہ لوگ کہیں گے کہ) اے ہمارے پروردگار ہم سے یہ عذاب دور کر دیجئے، ہم ضرور ایمان لے آئیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

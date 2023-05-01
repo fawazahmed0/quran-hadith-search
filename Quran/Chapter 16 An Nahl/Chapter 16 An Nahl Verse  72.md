@@ -3224,6 +3224,12 @@ Allah ta’ala ne tumhaare liye tum mein se hee tumhari biwiya paida ki, aur tum
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے تم ہی میں سے تمہارے لئے جوڑے پیدا فرمائے اور تمہارے جوڑوں (یعنی بیویوں) سے تمہارے لئے بیٹے اور پوتے/ نواسے پیدا فرمائے اور تمہیں پاکیزہ رزق عطا فرمایا، تو کیا پھر بھی وہ (حق کو چھوڑ کر) باطل پر ایمان رکھتے ہیں اور اللہ کی نعمت سے وہ ناشکری کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے تم ہی میں سے تمہارے لیے بیویاں بنائی ہیں، اور تمہاری بیویوں سے تمہارے لیے بیٹے اور پوتے پیدا کیے ہیں، اور تمہیں اچھی اچھی چیزوں میں سے رزق فراہم کیا ہے۔ کیا پھر بھی یہ لوگ بےبنیاد باتوں پر ایمان لاتے اور اللہ کی نعمتوں کی ناشکری کرتے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

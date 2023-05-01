@@ -3224,6 +3224,12 @@ hum ne un par koi zulm nahi kiya balke khud unhone hee apne upar zulm kiya aur u
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ان پر ظلم نہیں کیا تھا لیکن انہوں نے (خود ہی) اپنی جانوں پر ظلم کیا، سو ان کے وہ جھوٹے معبود جنہیں وہ اللہ کے سوا پوجتے تھے ان کے کچھ کام نہ آئے، جب آپ کے رب کا حکمِ (عذاب) آیا، اور وہ (دیوتا) تو صرف ان کی ہلاکت و بربادی میں ہی اضافہ کر سکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان پر ہم نے کوئی ظلم نہیں کیا، بلکہ انہوں نے خود اپنی جانوں پر ظلم کیا تھا، جس کا نتیجہ یہ ہوا کہ جب تمہارے پروردگار کا حکم آیا تو جن معبودوں کو وہ اللہ کے بجائے پکارا کرتے تھے، وہ ان کے ذرا بھی کام نہ آئے، اور انہوں نے ان کو تباہی کے سوا اور کچھ نہیں دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

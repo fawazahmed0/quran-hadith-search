@@ -3224,6 +3224,12 @@ aur jab hum ne farishto se kaha ke aadam ko sajda karo, to iblees ke siva sub ne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ وقت بھی یاد کریں) جب ہم نے فرشتوں سے فرمایا کہ آدم (علیہ السلام) کو سجدہ کرو تو سب نے سجدہ کیا سوائے ابلیس کے، اس نے انکار اور تکبر کیا اور (نتیجۃً) کافروں میں سے ہو گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس وقت کا تذکرہ سنو) جب ہم نے فرشتوں سے کہا کہ آدم کو سجدہ کرو چنانچہ سب نے سجدہ کیا سوائے ابلیس کے کہ اس نے انکار کیا اور متکبرانہ رویہ اختیار کیا اور کافروں میں شامل ہوگیا،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

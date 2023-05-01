@@ -3224,6 +3224,12 @@ aur kaafiro ke amaal misl us chamakti hoyi reth ke hai, jo chatel maidaan mein h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافروں کے اعمال چٹیل میدان میں سراب کی مانند ہیں جس کو پیاسا پانی سمجھتا ہے۔ یہاں تک کہ جب اس کے پاس آتا ہے تو اسے کچھ (بھی) نہیں پاتا (اسی طرح اس نے آخرت میں) اللہ کو اپنے پاس پایا مگر اللہ نے اس کا پورا حساب (دنیا میں ہی) چکا دیا تھا، اور اللہ جلد حساب کرنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (دوسری طرف) جن لوگوں نے کفر اپنا لیا ہے ان کے اعمال کی مثال ایسی ہے جیسے ایک چٹیل صحرا میں ایک سراب ہو جسے پیاسا آدمی پانی سمجھ بیٹھتا ہے، یہاں تک کہ جب اس کے پاس پہنچتا ہے تو معلوم ہوتا ہے کہ وہ کچھ بھی نہیں تھا اور اس کے پاس اللہ کو پاتا ہے، چنانچہ اللہ اس کا پورا پورا حساب چکا دیتا ہے۔ اور اللہ بہت جلدی حساب لے لیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

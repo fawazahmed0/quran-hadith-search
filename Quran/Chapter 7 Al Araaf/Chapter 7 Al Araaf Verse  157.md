@@ -3224,6 +3224,12 @@ jo log aise rasool nabi ummi ka itteba karte hai jin ko wo log apne paas tauraat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اس رسول یعنی نبی امی کے پیچھے چلیں جس کا ذکر وہ اپنے پاس تورات اور انجیل میں لکھا ہوا پائیں گے جو انہیں اچھی باتوں کا حکم دے گا، برائیوں سے روکے گا، اور ان کے لیے پاکیزہ چیزوں کو حلال اور گندی چیزوں کو حرام قرار دے گا، اور ان پر سے وہ بوجھ اور گلے کے وہ طوق اتار دے گا جو ان پر لدے ہوئے تھے۔ چنانچہ جو لوگ اس (نبی) پر ایمان لائیں گے اس کی تعظیم کریں گے اس کی مدد کریں گے، اور اس کے ساتھ جو نور اتارا گیا ہے اس کے پیچھے چلیں گے تو وہی لوگ فلاح پانے والے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

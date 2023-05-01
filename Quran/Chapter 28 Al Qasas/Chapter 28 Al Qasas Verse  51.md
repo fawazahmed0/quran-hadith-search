@@ -3224,6 +3224,12 @@ aur hum baraabar pay dar pay logo ke liye apna kalaam bhejte rahe, ta ke wo nasi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور درحقیقت ہم ان کے لئے پے در پے (قرآن کے) فرمان بھیجتے رہے تاکہ وہ نصیحت قبو ل کریں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور واقعہ یہ ہے کہ ہم ان کے فائدے کے لیے ایک کے بعد ایک (نصیحت کی) بات بھیجتے رہے ہیں، تاکہ وہ متنبہ ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

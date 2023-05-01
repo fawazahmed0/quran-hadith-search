@@ -3224,6 +3224,12 @@ wo aisa hai jis ne tum ko mitthi se banaaya, phir ek waqth mu-ayyan kiya aur (do
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اللہ) وہی ہے جس نے تمہیں مٹی کے گارے سے پیدا فرمایا (یعنی کرّۂ اَرضی پر حیاتِ انسانی کی کیمیائی ابتداء اس سے کی)۔ پھر اس نے (تمہاری موت کی) میعاد مقرر فرما دی، اور (انعقادِ قیامت کا) معیّنہ وقت اسی کے پاس (مقرر) ہے پھر (بھی) تم شک کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ذات ہے جس نے تم کو گیلی مٹی سے پیدا کیا، پھر (تمہاری زندگی کی) ایک میعاد مقرر کردی، اور (دوبارہ زندہ ہونے کی) ایک متعین میعاد اسی کے پاس ہے پھر بھی تم شک میں پڑے ہوئے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

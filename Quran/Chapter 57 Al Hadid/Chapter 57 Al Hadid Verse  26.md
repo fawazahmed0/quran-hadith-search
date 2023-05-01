@@ -3224,6 +3224,12 @@ beshak hum ne Nuh(alaihissalaam) aur Ibraheem(alaihissalaam) ko (paighambar bana
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے نوح اور ابراہیم علیہما السلام کو بھیجا اور ہم نے دونوں کی اولاد میں رسالت اور کتاب مقرر فرما دی تو ان میں سے (بعض) ہدایت یافتہ ہیں، اور ان میں سے اکثر لوگ نافرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے نوح کو اور ابراہیم کو پیغمبر بنا کر بھیجا، اور ان دونوں کی اولاد میں نبوت اور کتاب کا سلسلہ جاری کیا۔ پھر ان میں سے کچھ تو ہدایت پر آگئے، اور ان میں سے بہت سے لوگ نافرمان رہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

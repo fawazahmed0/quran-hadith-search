@@ -3224,6 +3224,12 @@ aur aye shaqs! apne rab ki yaad kiya kar, apne dil mein aajizi ke saath aur khau
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنے رب کا صبح و شام ذکر کیا کرو، اپنے دل میں بھی، عاجزی اور خوف کے (جذبات کے) ساتھ اور زبان سے بھی، آواز بہت بلند کیے بغیر ! اور ان لوگوں میں شامل نہ ہوجانا جو غفلت میں پڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

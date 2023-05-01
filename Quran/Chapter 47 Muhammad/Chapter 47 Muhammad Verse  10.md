@@ -3224,6 +3224,12 @@ kya un logo ne zameen mein chal phir kar us ka muayina nahi kiya, ke un se pehle
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا انہوں نے زمین میں سفر و سیاحت نہیں کی کہ وہ دیکھ لیتے کہ ان لوگوں کا انجام کیسا ہوا جو ان سے پہلے تھے۔ اللہ نے ان پر ہلاکت و بربادی ڈال دی۔ اور کافروں کے لئے اسی طرح کی بہت سی ہلاکتیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ان لوگوں نے زمین میں چل پھر کر نہیں دیکھا کہ ان لوگوں کا انجام کیسا ہوا جو ان سے پہلے گزرے ہیں ؟ اللہ نے ان پر تباہی ڈالی، اور کافروں کے لیے اسی جیسے انجام مقدر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

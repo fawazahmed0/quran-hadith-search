@@ -3224,6 +3224,12 @@ jis ne tumhaare liye zameen ko farsh aur asmaan ko chath banaya aur asmaan se pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے تمہارے لئے زمین کو فرش اور آسمان کو عمارت بنایا اور آسمانوں کی طرف سے پانی برسایا پھر اس کے ذریعے تمہارے کھانے کے لئے (انواع و اقسام کے) پھل پیدا کئے، پس تم اللہ کے لئے شریک نہ ٹھہراؤ حالانکہ تم (حقیقتِ حال) جانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (وہ پروردگار) جس نے تمہارے لئے زمین کو بچھونا بنایا، اور آسمان کو چھت اور آسمان سے پانی برسایا، پھر اس کے ذریعے تمہارے رزق کے طور پر پھل نکالے، لہذا اللہ کے ساتھ شریک نہ ٹھہراؤ جبکہ تم (یہ سب باتیں) جانتے ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

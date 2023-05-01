@@ -3224,6 +3224,12 @@ kya unko ye qabar nahi ke Allah hee apne bandu ki tauba qubol karta hai aur wahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ نہیں جانتے کہ بیشک اللہ ہی تو اپنے بندوں سے (ان کی) توبہ قبول فرماتا ہے اور صدقات (یعنی زکوٰۃ و خیرات اپنے دستِ قدرت سے) وصول فرماتا ہے اور یہ کہ اللہ ہی بڑا توبہ قبول فرمانے والا نہایت مہربان ہے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا ان کو یہ معلوم نہیں کہ اللہ ہی ہے جو اپنے بندوں کی توبہ بھی قبول کرتا ہے اور صدقات بھی قبول کرتا ہے، اور یہ کہ اللہ بہت معاف کرنے والا، بڑا مہربان ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

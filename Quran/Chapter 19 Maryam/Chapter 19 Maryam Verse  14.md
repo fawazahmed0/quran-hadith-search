@@ -3224,6 +3224,12 @@ aur apne maa baap se nek sulook karne wala tha, wo sarkash aur gunehgaar na tha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اپنے ماں باپ کے ساتھ بڑی نیکی (اور خدمت) سے پیش آنے والے (تھے) اور (عام لڑکوں کی طرح) ہرگز سرکش و نافرمان نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنے والدین کے خدمت گزار ! نہ وہ سرکش تھے، نہ نافرمان۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

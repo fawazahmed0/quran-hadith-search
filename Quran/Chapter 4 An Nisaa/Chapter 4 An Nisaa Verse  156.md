@@ -3224,6 +3224,12 @@ aur un ke kufr ke baayes aur Maryam par bahuth bada buhtaan baandhne ke baayes
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (مزید یہ کہ) ان کے (اس) کفر اور قول کے باعث جو انہوں نے مریم (علیہا السلام) پر زبردست بہتان لگایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس لیے کہ انہوں نے کفر کا راستہ اختیار کیا، اور مریم پر بڑے بھاری بہتان کی بات کہی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

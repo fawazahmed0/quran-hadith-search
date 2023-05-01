@@ -3224,6 +3224,12 @@ kyo nahi (mu-aaqeza hoga) albatta jo shaqs apna qaraar pura kare aur parhezgaari
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہاں جو اپنا وعدہ پورا کرے اور تقویٰ اختیار کرے (اس پر واقعی کوئی مؤاخذہ نہیں) سو بیشک اللہ پرہیز گاروں سے محبت فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا پکڑ کیوں نہیں ہوگی ؟ (قاعدہ یہ ہے کہ) جو اپنے عہد کو پورا کرے گا اور گناہ سے بچے گا تو اللہ ایسے پرہیزگاروں سے محبت کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

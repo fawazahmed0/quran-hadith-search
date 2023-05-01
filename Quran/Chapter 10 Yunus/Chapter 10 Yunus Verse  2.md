@@ -3224,6 +3224,12 @@ kya un logo ko is bath se tajjub hoa ke hum ne un mein se ek shaqs ke pas wahi b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا یہ بات لوگوں کے لئے تعجب خیز ہے کہ ہم نے انہی میں سے ایک مردِ (کامل) کی طرف وحی بھیجی کہ آپ (بھولے بھٹکے ہوئے) لوگوں کو (عذابِ الٰہی کا) ڈر سنائیں اور ایمان والوں کو خوشخبری سنائیں کہ ان کے لئے ان کے رب کی بارگاہ میں بلند پایہ (یعنی اونچا مرتبہ) ہے، کافر کہنے لگے: بیشک یہ شخص تو کھلا جادوگر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا لوگوں کے لیے یہ تعجب کی بات ہے کہ ہم نے خود انہی میں کے ایک شخص پر وحی نازل کی ہے کہ :“ لوگوں کو (اللہ کی خلاف ورزی سے) ڈراؤ، اور جو لوگ ایمان لے آئے ہیں، ان کو خوشخبری دو کہ ان کے رب کے نزدیک ان کا صحیح معنی میں بڑا پایہ ہے ” (مگر جب اس نے لوگوں کو یہ پیغام دیا تو) کافروں نے کہا کہ یہ تو کھلا جادو گر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar tum ba-wajoodh tumhaare paas daleele aa jaane ke bhi phisal jaao to jaan lo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس اگر تم اس کے بعد بھی لغزش کرو جب کہ تمہارے پاس واضح نشانیاں آچکیں تو جان لو کہ اللہ بہت غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جو روشن دلائل تمہارے پاس آچکے ہیں، اگر تم ان کے بعد بھی (راہ راست سے) پھسل گئے تو یاد رکھو کہ اللہ اقتدار میں بھی کامل ہے، حکمت میں بھی کامل
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

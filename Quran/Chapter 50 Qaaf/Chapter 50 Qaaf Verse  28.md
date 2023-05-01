@@ -3224,6 +3224,12 @@ haq ta’ala farmayega, bas mere saamne jhagde ki baath math karo, main to pehle
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ارشاد ہوگا: تم لوگ میرے حضور جھگڑا مَت کرو حالانکہ میں تمہاری طرف پہلے ہی (عذاب کی) وعید بھیج چکا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ تعالیٰ کہے گا کہ : تم میرے سامنے جھگڑے نہ کرو، اور میں تو پہلے ہی تمہارے پاس عذاب کی دھمکی بھیج چکا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

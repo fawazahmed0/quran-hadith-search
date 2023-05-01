@@ -3224,6 +3224,12 @@ aur kaafiro ne kaha ke hum hargiz na to is Qur’aan ko maane, na is se pehle ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ کہتے ہیں کہ ہم اس قرآن پر ہرگز ایمان نہیں لائیں گے اور نہ اس (وحی) پر جو اس سے پہلے اتر چکی، اور اگر آپ دیکھیں جب ظالم لوگ اپنے رب کے حضور کھڑے کئے جائیں گے (تو کیا منظر ہوگا) کہ ان میں سے ہر ایک (اپنی) بات پھیر کر دوسرے پر ڈال رہا ہوگا، کمزور لوگ متکبّروں سے کہیں گے: اگر تم نہ ہوتے تو ہم ضرور ایمان لے آتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا ہے وہ کہتے ہیں کہ : ہم نہ تو اس قرآن پر کبھی ایمان لائیں گے اور نہ ان (آسمانی کتابوں) پر جو اس سے پہلے ہوئی ہیں۔ اور اگر تم اس وقت کا منظر دیکھو جب یہ ظالم لوگ اپنے پروردگار کے سامنے کھڑے کییے جائیں گے تو یہ ایک دوسرے پر بات ڈال رہے ہوں گے۔ جن لوگوں کو (دنیا میں) کمزور سمجھا گیا تھا وہ ان سے کہیں گے جو بڑے بنے ہوئے تھے کہ : اگر تم نہ ہوتے تو ہم ضرور مومن بن جاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ne jawaab diya agar ab is ke baadh main aap se kisi cheez ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+موسٰی (علیہ السلام) نے کہا: اگر میں اس کے بعد آپ سے کسی چیز کی نسبت سوال کروں تو آپ مجھے اپنے ساتھ نہ رکھیئے گا، بیشک میری طرف سے آپ حدِ عذر کو پہنچ گئے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ بولے : اگر اب میں آپ سے کوئی بات پوچھوں تو آپ مجھے اپنے ساتھ نہ رکھیے۔ یقینا آپ میری طرف سے عذر کی حد کو پہنچ گئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

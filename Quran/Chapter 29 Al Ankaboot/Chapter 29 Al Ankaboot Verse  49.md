@@ -3224,6 +3224,12 @@ balke ye (Qur’aan) to roushan aayate hai jo ahle ilm ke sino mein mehfooz hai,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ وہ (قرآن ہی کی) واضح آیتیں ہیں جو ان لوگوں کے سینوں میں (محفوظ) ہیں جنہیں (صحیح) علم عطا کیا گیا ہے، اور ظالموں کے سوا ہماری آیتوں کا کوئی انکار نہیں کرتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت تو یہ ہے کہ یہ قرآن ایسی نشانیوں کا مجموعہ ہے جو ان لوگوں کے سینوں میں بالکل واضح ہیں جنہیں علم عطا کیا گیا ہے اور ہماری آیتوں کا انکار صرف وہی لوگ کرتے ہیں جو ظالم ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

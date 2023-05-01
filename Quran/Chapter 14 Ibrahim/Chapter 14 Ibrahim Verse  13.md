@@ -3224,6 +3224,12 @@ kaafiro ne apne rasulo se kaha ke hum tumhe mulk badar kar denge ya tum phir se 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کافر لوگ اپنے پیغمبروں سے کہنے لگے: ہم بہرصورت تمہیں اپنے ملک سے نکال دیں گے یا تمہیں ضرور ہمارے مذہب میں لوٹ آنا ہوگا، تو ان کے رب نے ان کی طرف وحی بھیجی کہ ہم ظالموں کو ضرور ہلاک کر دیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے کفر اپنا لیا تھا، انہوں نے اپنے پیغمبروں سے کہا کہ : ہم تمہیں اپنی سرزمین سے نکال کر رہیں گے، ورنہ تمہیں ہمارے دین میں واپس آنا پڑے گا۔ چنانچہ ان کے پروردگار نے ان پر وحی بھیجی کہ : یقین رکھو، ہم ان ظالموں کو ہلاک کردیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

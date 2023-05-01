@@ -3224,6 +3224,12 @@ aur gunehgaar jahannam ko dekh kar samajh lenge ke wo isi mein jhonke jaane waal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور مجرم لوگ آتشِ دوزخ کو دیکھیں گے تو جان لیں گے کہ وہ یقیناً اسی میں گرنے والے ہیں اور وہ اس سے گریز کی کوئی جگہ نہ پاسکیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مجرم لوگ آگ کو دیکھیں گے تو سمجھ جائیں گے کہ انہیں اسی میں گرنا ہے، اور اس سے بچ نکلنے کا کوئی راستہ نہیں پائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

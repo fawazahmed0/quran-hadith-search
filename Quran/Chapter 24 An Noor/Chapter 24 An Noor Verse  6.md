@@ -3224,6 +3224,12 @@ jo log apni biwiyo par badh-kaari ki tuhmath lagaaye aur un ka koyi gawaah bajuz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اپنی بیویوں پر (بدکاری کی) تہمت لگائیں اور ان کے پاس سوائے اپنی ذات کے کوئی گواہ نہ ہوں تو ایسے کسی بھی ایک شخص کی گواہی یہ ہے کہ (وہ خود) چار مرتبہ اللہ کی قَسم کھا کر گواہی دے کہ وہ (الزام لگانے میں) سچا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ اپنی بیویوں پر تہمت لگائیں اور خود اپنے سوا ان کے پاس کوئی اور گواہ نہ ہوں تو ایسے کسی شخص کو جو گواہی دینی ہوگی وہ یہ ہے کہ وہ چار مرتبہ اللہ کی قسم کھا کر یہ بیان دے کہ وہ (بیوی پر لگائے ہوئے الزام میں) یقینا سچا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

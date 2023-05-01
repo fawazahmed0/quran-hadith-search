@@ -3224,6 +3224,12 @@ kaafiro se keh dijiye! ke tum an-qareeb maghloob kiye jaoge aur jahannam ki tara
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کافروں سے فرما دیں: تم عنقریب مغلوب ہو جاؤ گے اور جہنم کی طرف ہانکے جاؤ گے، اور وہ بہت ہی برا ٹھکانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا ہے ان سے کہہ دو کہ تم مغلوب ہوگئے اور تمہیں جمع کر کے جہنم کی طرف لے جایا جائے گا، اور وہ بہت برا بچھونا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ baaz yahood kalimaath ko un ki theek jagah se her pher kar dete hai aur kehte ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور کچھ یہودی (تورات کے) کلمات کو اپنے (اصل) مقامات سے پھیر دیتے ہیں اور کہتے ہیں: ہم نے سن لیا اور نہیں مانا، اور (یہ بھی کہتے ہیں:) سنیئے! (معاذ اللہ!) آپ سنوائے نہ جائیں، اور اپنی زبانیں مروڑ کر دین میں طعنہ زنی کرتے ہوئے”رَاعِنَا“ کہتے ہیں، اور اگر وہ لوگ (اس کی جگہ) یہ کہتے کہ ہم نے سنا اور ہم نے اطاعت کی اور (حضور! ہماری گزارش) سنئے اور ہماری طرف نظرِ (کرم) فرمائیے تو یہ اُن کے لئے بہتر ہوتا اور (یہ قول بھی) درست اور مناسب ہوتا، لیکن اللہ نے ان کے کفر کے باعث ان پر لعنت کی سو تھوڑے لوگوں کے سوا وہ ایمان نہیں لاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہودیوں میں سے کچھ وہ ہیں جو (تورات) کے الفاظ کو ان کے موقع محل سے ہٹا ڈالتے ہیں، اور اپنی زبانوں کو توڑ مروڑ کر اور دین میں طعنہ زنی کرتے ہوئے کہتے ہیں : سمعنا وعصینا۔ اور اسمع غیر مسمع۔ اور راعنا۔ حالانکہ اگر وہ یہ کہتے کہ : سمعنا واطعنا اور اسمع وانظرنا۔ تو ان کے لیے بہتر اور راست بازی کا راستہ ہوتا لیکن ان کے کفر کی وجہ سے اللہ نے ان پر پھٹکار ڈال رکھی ہے، اس لیے تھوڑے سے لوگوں کے سوا وہ ایمان نہیں لاتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

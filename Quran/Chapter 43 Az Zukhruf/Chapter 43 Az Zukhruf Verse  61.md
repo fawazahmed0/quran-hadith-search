@@ -3224,6 +3224,12 @@ aur yaqinan Isa(alaihissalaam) qayaamath ki alaamath hai, pas tum (qayaamath) ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک وہ (عیسٰی علیہ السلام جب آسمان سے نزول کریں گے تو قربِ) قیامت کی علامت ہوں گے، پس تم ہرگز اس میں شک نہ کرنا اور میری پیروی کرتے رہنا، یہ سیدھا راستہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یقین رکھو کہ وہ (یعنی عیسیٰ (علیہ السلام)) قیامت کی ایک نشانی ہیں۔ اس لیے تم اس میں شک نہ کرو، اور میری بات مانو، یہی سیدھا راستہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

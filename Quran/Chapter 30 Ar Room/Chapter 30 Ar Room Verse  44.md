@@ -3224,6 +3224,12 @@ kufr karne waalo par un ke kufr ka wabaal hoga aur nek kaam karne waale apni hee
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے کفر کیا تو اس کا (وبالِ) کفر اسی پر ہے اور جو نیک عمل کرے سو یہ لوگ اپنے لئے (جنّت کی) آرام گاہیں درست کر رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس نے کفر کیا ہے اس کا کفر اسی پر پڑے گا، اور جن لوگوں نے نیک عمل کیا ہے، وہ اپنے لیے ہی راستہ بنا رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

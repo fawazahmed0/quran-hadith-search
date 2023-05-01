@@ -3224,6 +3224,12 @@ bajuz un mushriko ke jin se tumhara maaheda ho chuka hai aur unhone tumhe zara s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے ان مشرکوں کے جن سے تم نے معاہدہ کیا تھا پھر انہوں نے تمہارے ساتھ (اپنے عہد کو پورا کرنے میں) کوئی کمی نہیں کی اور نہ تمہارے مقابلہ پر کسی کی مدد (یا پشت پناہی) کی سو تم ان کے عہد کو ان کی مقررہ مدت تک ان کے ساتھ پورا کرو، بیشک اللہ پرہیزگاروں کو پسند فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ (مسلمانو) جن مشرکین سے تم نے معاہدہ کیا، پھر ان لوگوں نے تمہارے ساتھ عہد میں کوئی کوتاہی نہیں کی، اور تمہارے خلاف کسی کی مدد بھی نہیں کی، تو ان کے ساتھ کئے ہوئے معاہدے کی مدت کو پورا کرو۔ بیشک اللہ احتیاط کرنے والوں کو پسند کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ ye saare ke saare yek-sa nahi, balke in ahle kitaab mein ek jamaath (haq par) qa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ سب برابر نہیں ہیں، اہلِ کتاب میں سے کچھ لوگ حق پر (بھی) قائم ہیں وہ رات کی ساعتوں میں اللہ کی آیات کی تلاوت کرتے ہیں اور سر بسجود رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لیکن) سارے اہل کتاب ایک جیسے نہیں ہیں، اہل کتاب ہی میں وہ لوگ بھی ہیں جو (راہ راست پر) قائم ہیں، جو رات کے اوقات میں اللہ کی آیتوں کی تلاوت کرتے ہیں اور جو (اللہ کے آگے) سجدہ ریز ہوتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

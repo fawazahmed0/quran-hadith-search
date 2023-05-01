@@ -3224,6 +3224,12 @@ hum unhe go kuch yo hee sa fayeda de de, lekin (bil aaqir) hum unhe nihaayath be
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم انہیں (دنیا میں) تھوڑا سا فائدہ پہنچائیں گے پھر ہم انہیں بے بس کر کے سخت عذاب کی طرف لے جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم انہیں کچھ مزے اڑانے کا موقع دے رہے ہیں، پھر ہم انہیں ایک سخت عذاب کی طرف کھینچ کرلے جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

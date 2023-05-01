@@ -3224,6 +3224,12 @@ aye musalmaano! tumhaare maal aur tumhaari aulaad tumhe Allah ke zikr se ghaafil
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تمہارے مال اور تمہاری اولاد (کہیں) تمہیں اللہ کی یاد سے ہی غافل نہ کر دیں، اور جو شخص ایسا کرے گا تو وہی لوگ نقصان اٹھانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! تمہاری دولت اور تمہاری اولاد تمہیں اللہ کی یاد سے غافل نہ کرنے پائیں۔ اور جو لوگ ایسا کریں گے، وہ بڑے گھاٹے کا سودا کرنے والے ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

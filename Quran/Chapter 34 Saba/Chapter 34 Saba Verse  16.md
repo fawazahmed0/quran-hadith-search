@@ -3224,6 +3224,12 @@ lekin unhone ru gardaani ki to hum ne un par zoor ke sailaab (ka paani) bhej diy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر انہوں نے (طاعت سے) مُنہ پھیر لیا تو ہم نے ان پر زور دار سیلاب بھیج دیا اور ہم نے اُن کے دونوں باغوں کو دو (ایسے) باغوں سے بدل دیا جن میں بدمزہ پھل اور کچھ جھاؤ اور کچھ تھوڑے سے بیری کے درخت رہ گئے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی انہوں نے (ہدایت سے) منہ موڑ لیا، اس لیے ہم نے ان پر بندو الا سیلاب چھوڑ دیا، اور ان کے دونوں طرف کے باغوں کو ایسے دو باغوں میں تبدیل کردیا جو بدمزہ پھلوں، جھاؤ کے درختوں اور تھوڑی سی بیریوں پر مشتمل تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

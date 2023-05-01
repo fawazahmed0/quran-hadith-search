@@ -3224,6 +3224,12 @@ lekin hamaare azaab ko dekh lene ke baadh un ke imaan ne unhe nafa na diya, Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اُن کا ایمان لانا اُن کے کچھ کام نہ آیا جبکہ انہوں نے ہمارے عذاب کو دیکھ لیا تھا، اللہ کا (یہی) دستور ہے جو اُس کے بندوں میں گزرتا چلا آرہا ہے اور اس مقام پر کافروں نے (ہمیشہ) سخت نقصان اٹھایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن جب ہمارا عذاب انہوں نے دیکھ لیا تھا تو اس کے بعد ان کا ایمان لانا انہیں فائدہ نہیں پہنچا سکتا تھا، خبر دار رہو کہ اللہ تعالیٰ کا یہی معمول ہے جو اس کے بندوں میں پہلے سے چلا آتا ہے۔ اور اس موقع پر کافروں نے سخت نقصان اٹھایا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

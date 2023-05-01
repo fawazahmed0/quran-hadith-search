@@ -3224,6 +3224,12 @@ har ek ko hum bahum2 pahonchaaye jaate hai, inhe bhi aur unhe bhi, tere parvardi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہم ہر ایک کی مدد کرتے ہیں ان (طالبانِ دنیا) کی بھی اور ان (طالبانِ آخرت) کی بھی (اے حبیبِ مکرّم! یہ سب کچھ) آپ کے رب کی عطا سے ہے، اور آپ کے رب کی عطا (کسی کے لئے) ممنوع اور بند نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) جہاں تک (دنیا میں) تمہارے رب کی عطا کا تعلق ہے ہم ان کو بھی اس سے نوازتے ہیں، اور ان کو بھی اور (دنیا میں) تمہارے رب کی عطا کسی کے لیے بند نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

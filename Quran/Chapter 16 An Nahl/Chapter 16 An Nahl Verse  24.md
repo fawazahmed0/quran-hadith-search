@@ -3224,6 +3224,12 @@ un se jab daryaaft kiya jaata hai ke tumhaare parvardigaar ne kya naazil farmaya
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب اُن سے پوچھا جاتا ہے کہ تمہارے رب نے کیا نازل فرمایا ہے؟ (تو) وہ کہتے ہیں: اگلی قوموں کے جھوٹے قصے (اتارے ہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ان سے کہا گیا کہ : تمہارے رب نے کیا بات نازل کی ہے ؟ تو انہوں نے کہا کہ : گزرے ہوئے لوگوں کے افسانے !۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

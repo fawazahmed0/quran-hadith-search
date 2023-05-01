@@ -3224,6 +3224,12 @@ hazrath Looth(alaihissalaam) ne dua ki ke parvardigaar! is mufsidh khaum par mer
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لوط (علیہ السلام) نے عرض کیا: اے رب! تو فساد انگیزی کرنے والی قوم کے خلاف میری مدد فرما
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوط نے کہا : میرے پروردگار ! ان مفسد لوگوں کے مقابلے میں میری مدد فرمایے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

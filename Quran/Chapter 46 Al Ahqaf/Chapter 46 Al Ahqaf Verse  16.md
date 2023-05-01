@@ -3224,6 +3224,12 @@ yahi wo log hai jin ke nek amaal to hum qubool farma lete hai aur jin ke badh-am
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی وہ لوگ ہیں ہم جن کے نیک اعمال قبول کرتے ہیں اوران کی کوتاہیوں سے درگزر فرماتے ہیں، (یہی) اہلِ جنت ہیں۔ یہ سچا وعدہ ہے جو ان سے کیا جا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں جن سے ہم ان کے بہترین اعمال قبول کریں گے، اور ان کی خطاؤں سے درگزر کریں گے (جس کے نتیجے میں) وہ جنت والوں میں شامل ہوں گے، اس سچے وعدے کی بدولت جو ان سے کیا جاتا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

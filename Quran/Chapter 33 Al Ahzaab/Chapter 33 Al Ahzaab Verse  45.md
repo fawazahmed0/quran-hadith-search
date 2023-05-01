@@ -3224,6 +3224,12 @@ aye Nabi!( sallallahu alaihi wasallam) yaqinan hum ne hee aap ko (rasool bana ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبیِ (مکرّم!) بیشک ہم نے آپ کو (حق اور خَلق کا) مشاہدہ کرنے والا اور (حُسنِ آخرت کی) خوشخبری دینے والا اور (عذابِ آخرت کا) ڈر سنانے والا بنا کر بھیجا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! بیشک ہم نے تمہیں ایسا بنا کر بھیجا ہے کہ تم گواہی دینے والے، خوشخبری سنانے والے اور خبردار کرنے والے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

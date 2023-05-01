@@ -3224,6 +3224,12 @@ bole hum ne ek nau jawaan ko un ka tazkera karte hoye suna tha, jise Ibraheem(al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(کچھ) لوگ بولے: ہم نے ایک نوجوان کا سنا ہے جو ان کا ذکر (انکار و تنقید سے) کرتا ہے اسے ابراہیم کہا جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کچھ لوگوں نے کہا : ہم نے ایک نوجوان کو سنا ہے کہ وہ ان بتوں کے بارے میں باتیں بنایا کرتا ہے، اسے ابراہیم کہتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap ke rub ki taraf se ye saraasar haq hai, qabardaar aap shak karne waalo mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے سننے والے!) حق تیرے رب کی طرف سے ہے سو تو ہرگز شک کرنے والوں میں سے نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حق وہی ہے جو تمہارے پروردگار کی طرف سے آیا ہے، لہذا شک کرنے والوں میں ہرگز شامل نہ ہوجانا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

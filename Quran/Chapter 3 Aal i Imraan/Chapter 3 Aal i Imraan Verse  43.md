@@ -3224,6 +3224,12 @@ aye Maryam! tu apne rab ki ita’ath kar aur sajda kar aur ruko karne waalo ke s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے مریم! تم اپنے رب کی بڑی عاجزی سے بندگی بجا لاتی رہو اور سجدہ کرو اور رکوع کرنے والوں کے ساتھ رکوع کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے مریم ! تم اپنے رب کی عبادت میں لگی رہو، اور سجدہ کرو اور رکوع کرنے والوں کے ساتھ رکوع بھی کیا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

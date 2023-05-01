@@ -3224,6 +3224,12 @@ aur jin logo ne parhezgaari ki, unhe Allah ta’ala un ki kamyaabi ke saath bach
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ ایسے لوگوں کو جنہوں نے پرہیزگاری اختیار کی ہے اُن کی کامیابی کے ساتھ نجات دے گا نہ انہیں کوئی برائی پہنچے گی اور نہ ہی وہ غمگین ہوں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے تقوی اختیار کیا ہے، اللہ ان کو نجات دے کر ان کی مراد کو پہنچا دے گا، انہیں کوئی تکلیف چھوے گی بھی نہیں، اور نہ انہیں کسی بات کا غم ہوگا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

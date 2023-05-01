@@ -3224,6 +3224,12 @@ ye Allah ka hukm hai jo us ne tumhaari taraf utaara hai aur jo shaqs Allah se da
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ اللہ کا امر ہے جو اس نے تمہاری طرف نازل فرمایا ہے۔ اور جو شخص اللہ سے ڈرتا ہے وہ اُس کے چھوٹے گناہوں کو اس (کے نامۂ اعمال) سے مٹا دیتا ہے اور اَجر و ثواب کو اُس کے لئے بڑا کر دیتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اللہ کا حکم ہے جو اس نے تم پر اتارا ہے، اور جو کوئی اللہ سے ڈرے گا، اللہ اس کے گناہوں کو معاف کردے گا، اور اس کو زبردست ثواب دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

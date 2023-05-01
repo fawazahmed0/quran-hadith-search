@@ -3224,6 +3224,12 @@ tumhaari madad mein(pure) baqeel hai, phir jab khauf wa dehshath ka mauqa aa jaa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمہارے حق میں بخیل ہو کر (ایسا کرتے ہیں)، پھر جب خوف (کی حالت) پیش آجائے تو آپ دیکھیں گے کہ وہ آپ کی طرف تکتے ہوں گے (اور) ان کی آنکھیں اس شخص کی طرح گھومتی ہوں گی جس پر موت کی غشی طاری ہو رہی ہو، پھر جب خوف جاتا رہے تو تمہیں تیز زبانوں کے ساتھ طعنے دیں گے (آزردہ کریں گے، ان کا حال یہ ہے کہ) مالِ غنیمت پر بڑے حریص ہیں۔ یہ لوگ (حقیقت میں) ایمان ہی نہیں لائے، سو اللہ نے ان کے اعمال ضبط کر لئے ہیں اور یہ اللہ پر آسان تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اور وہ بھی) تمہارے ساتھ لالچ رکھتے ہوئے چنانچہ جب خطرے کا موقع آجاتا ہے تو وہ تمہاری طرف چکرائی ہوئی آنکھوں سے اس طرح دیکھتے ہیں جیسے کسی پر موت کی غشی طاری ہورہی ہو۔ پھر جب خطرہ دور ہوجاتا ہے تو تمہارے سامنے مال کی حرص میں تیز تیز زبانیں چلاتے ہیں۔ یہ لوگ ہرگز ایمان نہیں لائے ہیں، اس لیے اللہ نے ان کے اعمال ضائع کردیے ہیں، اور یہ بات اللہ کے لیے بہت آسان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

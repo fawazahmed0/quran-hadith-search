@@ -3224,6 +3224,12 @@ beshak raath ka uthna dil jamyi ke liye intehaayi munaasib hai aur baath ko bahu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک رات کا اُٹھنا (نفس کو) سخت پامال کرتا ہے اور (دِل و دِماغ کی یک سُوئی کے ساتھ) زبان سے سیدھی بات نکالتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک رات کے وقت اٹھنا ہی ایسا عمل ہے جس سے نفس اچھی طرح کچلا جاتا ہے، اور بات بھی بہتر طریقے پر کہی جاتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

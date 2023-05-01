@@ -3224,6 +3224,12 @@ hum aap ke samne behetreen bayaan pesh karte, is wajeh se ke hum ne aap ki jaani
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) ہم آپ سے ایک بہترین قصہ بیان کرتے ہیں اس قرآن کے ذریعہ جسے ہم نے آپ کی طرف وحی کیا ہے، اگرچہ آپ اس سے قبل (اس قصہ سے) بے خبر تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ہم نے تم پر یہ قرآن جو وحی کے ذریعے بھیجا ہے اس کے ذریعے ہم تمہیں ایک بہترین واقعہ سناتے ہیں، جبکہ تم اس سے پہلے اس (واقعے سے) بالکل بیخبر تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

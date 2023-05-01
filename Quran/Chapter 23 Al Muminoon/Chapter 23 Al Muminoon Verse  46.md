@@ -3224,6 +3224,12 @@ feraun aur us ke lashkaro ki taraf, pas unhone takabbur kiya aur thein hee wo sa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرعون اور اس (کی قوم) کے سرداروں کی طرف تو انہوں نے بھی تکبّر و رعونت سے کام لیا اور وہ بھی (بڑے) ظالم و سرکش لوگ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فرعون اور اس کے سرداروں کے پاس تو انہوں نے گھمنڈ کا مظاہرہ کیا، اور وہ بڑے تکبر والے لوگ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

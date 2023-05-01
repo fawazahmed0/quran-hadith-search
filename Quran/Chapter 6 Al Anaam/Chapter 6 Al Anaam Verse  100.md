@@ -3224,6 +3224,12 @@ aur logo ne shayateen ko Allah ta’ala ka shareek qaraar de rakha hai, halaan k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کافروں نے جِنّات کو اللہ کا شریک بنایا حالانکہ اسی نے ان کو پیدا کیا تھا اورانہوں نے اللہ کے لئے بغیر علم (و دانش) کے لڑکے اور لڑکیاں (بھی) گھڑ لیں۔ وہ ان (تمام) باتوں سے پاک اور بلند و بالا ہے جو یہ (اس سے متعلق) کرتے پھرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں نے جنات کو اللہ کے ساتھ خدائی میں شریک قرر دے لیا، حالانکہ اللہ نے ہی ان کو پیدا کیا ہے۔ اور سمجھ بوجھ کے بغیر اس کے لیے بیٹے اور بیٹیاں تراش لیں۔ حالانکہ اللہ کے بارے میں جو باتیں یہ بناتے ہیں وہ ان سب سے پاک اور بالاوبرتر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

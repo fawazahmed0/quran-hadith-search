@@ -3224,6 +3224,12 @@ aur jab tere parvardigaar ne farishto se farmaya ke main ek insaan ko kaali aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ واقعہ یاد کیجئے) جب آپ کے رب نے فرشتوں سے فرمایا کہ میں سِن رسیدہ (اور) سیاہ بودار، بجنے والے گارے سے ایک بشری پیکر پیدا کرنے والا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت یاد کرو جب تمہارے پروردگار نے فرشتوں سے کہا تھا کہ : میں گارے کی کھنکھناتی ہوئی مٹی سے ایک بشر کو پیدا کرنے والا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

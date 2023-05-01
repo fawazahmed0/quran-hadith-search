@@ -3224,6 +3224,12 @@ ye aap ke paas jo koyi misaal layenge, hum us ka saccha jawaab aur umdah taujih1
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (کفار) آپ کے پاس کوئی (ایسی) مثال (سوال اور اعتراض کے طور پر) نہیں لاتے مگر ہم آپ کے پاس (اس کے جواب میں) حق اور (اس سے) بہتر وضاحت کا بیان لے آتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب کبھی یہ لوگ تمہارے پاس کوئی انوکھی بات لے کر آتے ہیں، ہم تمہیں (اس کا) ٹھیک ٹھیک) جواب اور زیادہ وضاحت کے ساتھ عطا کردیتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

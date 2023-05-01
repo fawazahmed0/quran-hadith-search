@@ -3224,6 +3224,12 @@ unhone kaha ke agar us ne chori ki (to koyi ta’ajjub ki baath nahi) us ka bhai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+انہوں نے کہا: اگر اس نے چوری کی ہے (تو کوئی تعجب نہیں) بیشک اس کا بھائی (یوسف) بھی اس سے پہلے چوری کر چکا ہے، سو یوسف (علیہ السلام) نے یہ بات اپنے دل میں (چھپائی) رکھی اور اسے ان پر ظاہر نہ کیا، (دل میں ہی) کہا: تمہارا حال نہایت برا ہے، اور اللہ خوب جانتا ہے جو کچھ تم بیان کر رہے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (بہرحال) وہ بھائی بولے کہ : اگر اس (بنیامین) نے چوری کی ہے تو (کچھ تعجب نہیں، کیونکہ) اس کا ایک بھائی اس سے پہلے بھی چوری کرچکا ہے۔ اس پر یوسف نے ان پر ظاہر کیے بغیر چپکے سے (دل میں) کہا کہ : تم تو اس معاملے میں کہیں زیادہ برے ہو۔ اور جو بیان تم دے رہے ہو، اللہ اس کی حقیقت خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

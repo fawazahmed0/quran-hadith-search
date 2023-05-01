@@ -3224,6 +3224,12 @@ haan wo ab tumhare samne Allah ki qasme kha jayenge jab tum un ke paas wapas jao
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اب وہ تمہارے لئے اللہ کی قسمیں کھائیں گے جب تم ان کی طرف پلٹ کر جاؤ گے تاکہ تم ان سے درگزر کرو، پس تم ان کی طرف التفات ہی نہ کرو بیشک وہ پلید ہیں اور ان کا ٹھکانا جہنم ہے یہ اس کا بدلہ ہے جو وہ کمایا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب تم ان کے پاس واپس جاؤ گے تو یہ لوگ تمہارے سامنے اللہ کی قسمیں کھائیں گے، تاکہ تم ان سے درگزر کرو۔ لہذا تم بھی ان سے درگزر کرلینا۔ یقین جانو یہ سراپا گندگی ہیں، اور جو کمائی یہ کرتے رہے ہیں، اس کے نتیجے میں ان کا ٹھکانا جہنم ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

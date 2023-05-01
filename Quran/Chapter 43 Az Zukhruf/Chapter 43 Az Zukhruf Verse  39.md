@@ -3224,6 +3224,12 @@ aur jab ke tum zaalim teher chuke to tumhe aaj hargiz tum sab ka azaab mein shar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آج کے دن تمہیں (یہ آرزو کرنا) سود مند نہیں ہوگا جبکہ تم (عمر بھر) ظلم کرتے رہے، (آج) تم سب عذاب میں شریک ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور آج جب تم ظلم کرچکے ہو تو تمہیں یہ بات ہرگز کوئی فائدہ نہیں پہنچائے گی کہ تم عذاب میں ایک دوسرے کے شریک ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ misl halath ferauniyo aur unse pehle ke logo ke,ke unhone apne rub ki batein jhu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (عذاب بھی) قومِ فرعون اور ان سے پہلے کے لوگوں کے دستور کی مانند ہے، انہوں نے (بھی) اپنے رب کی نشانیوں کو جھٹلایا تھا سو ہم نے ان کے گناہوں کے باعث انہیں ہلاک کر ڈالا اور ہم نے فرعون والوں کو (دریا میں) غرق کر دیا اور وہ سب کے سب ظالم تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس معاملے میں بھی ان کا حال) ایسا ہی ہوا جیسا فرعون کی قوم اور ان سے پہلے لوگوں کا حال ہوا تھا۔ انہوں نے اپنے رب کی نشانیوں کو جھٹلایا، نتیجہ یہ ہوا کہ ہم نے ان کے گناہوں کی وجہ سے انہیں ہلاک کردیا، اور فرعون کی قوم کو غرق کردیا، اور یہ سب ظالم لوگ تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

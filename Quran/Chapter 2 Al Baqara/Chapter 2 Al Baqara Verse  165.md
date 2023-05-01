@@ -3224,6 +3224,12 @@ baaz log aise bhi hai jo Allah ke shareek auro ko tehra kar un se aisi muhabbath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور لوگوں میں بعض ایسے بھی ہیں جو اللہ کے غیروں کو اللہ کا شریک ٹھہراتے ہیں اور ان سے”اللہ سے محبت“ جیسی محبت کرتے ہیں، اور جو لوگ ایمان والے ہیں وہ (ہر ایک سے بڑھ کر) اللہ سے بہت ہی زیادہ محبت کرتے ہیں، اور اگر یہ ظالم لوگ اس وقت کو دیکھ لیں جب (اُخروی) عذاب ان کی آنکھوں کے سامنے ہوگا (توجان لیں) کہ ساری قوتوں کا مالک اللہ ہے اور بیشک اللہ سخت عذاب دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس کے باوجود) لوگوں میں کچھ وہ بھی ہیں جو اللہ کے علاوہ دوسروں کو اس کی خدائی میں اس طرح شریک قرار دیتے ہیں کہ ان سے ایسی محبت رکھتے ہیں جیسے اللہ کی محبت (رکھنی چاہیے) اور جو لوگ ایمان لاچکے ہیں وہ اللہ ہی سے سب سے زیادہ محبت رکھتے ہیں، اور کاش کہ یہ ظالم جب (دنیا میں) کوئی تکلیف دیکھتے ہیں اسی وقت یہ سمجھا لیا کریں کہ تمام تر طاقت اللہ ہی کو حاصل ہے اور یہ کہ اللہ کا عذاب (آخرت میں) اس وقت بڑا سخت ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

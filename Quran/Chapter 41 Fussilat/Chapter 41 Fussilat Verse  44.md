@@ -3224,6 +3224,12 @@ aur agar hum ose ajami zabaan ka Qur’aan banaate to, kehte ke is ki aayate saa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم اس (کتاب) کو عجمی زبان کا قرآن بنا دیتے تو یقیناً یہ کہتے کہ اِس کی آیتیں واضح طور پر بیان کیوں نہیں کی گئیں، کیا کتاب عجمی ہے اور رسول عربی ہے (اِس لئے اے محبوبِ مکرّم! ہم نے قرآن بھی آپ ہی کی زبان میں اتار دیا ہے۔) فرما دیجئے: وہ (قرآن) ایمان والوں کے لئے ہدایت (بھی) ہے اور شفا (بھی) ہے اور جو لوگ ایمان نہیں رکھتے اُن کے کانوں میں بہرے پن کا بوجھ ہے وہ اُن کے حق میں نابینا پن (بھی) ہے (گویا) وہ لوگ کسی دور کی جگہ سے پکارے جاتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم اس (قرآن) کو عجمی قرآن بناتے تو یہ لوگ کہتے کہ : اس کی آیتیں کھول کھول کر کیوں نہیں بیان کی گئیں ؟ یہ کیا بات ہے کہ قرآن عجمی ہے اور پیغمبر عربی ؟ کہہ دو کہ جو لوگ ایمان لائیں، ان کے لیے یہ ہدایت اور شفا کا سامان ہے اور جو ایمان نہیں لاتے، ان کے کانوں میں ڈاٹ لگی ہوئی ہے اور یہ (قرآن) ان کے لیے اندھیرے میں بھٹکنے کا سامان ہے۔ ایسے لوگوں کو کسی دور دراز جگہ سے پکارا جا رہا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tum sub waalid sahab ki qidmath mein waapas jao aur kaho ke abba ji! aap ke saah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم اپنے باپ کی طرف لوٹ جاؤ پھر (جا کر) کہو: اے ہمارے باپ! بیشک آپ کے بیٹے نے چوری کی ہے (اس لئے وہ گرفتار کر لیا گیا) اور ہم نے فقط اسی بات کی گواہی دی تھی جس کا ہمیں علم تھا اور ہم غیب کے نگہبان نہ تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جاؤ۔ اپنے والد کے پاس واپس جاؤ، اور ان سے کہو کہ : ابا جان ! آپ کے بیٹے نے چوری کرلی تھی اور ہم نے وہی بات کہی ہے جو ہمارے علم میں آئی ہے، اور غیب کی نگہبانی تو ہمارے بس میں نہیں تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

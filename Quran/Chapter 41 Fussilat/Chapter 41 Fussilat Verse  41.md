@@ -3224,6 +3224,12 @@ jin logo ne apne paas Qur’aan pahonch jaane ke ba-wajoodh us se kufr kiya (wo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک جنہوں نے قرآن کے ساتھ کفر کیا جبکہ وہ اُن کے پاس آچکا تھا (تویہ اُن کی بد نصیبی ہے)، اور بے شک وہ (قرآن) بڑی باعزت کتاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک (ان لوگوں نے بہت برا کیا ہے) جنہوں نے نصیحت کی اس کتاب کا انکار کیا جبکہ وہ ان کے پاس آچکی تھی، حالانکہ وہ بڑی عزت والی کتاب ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

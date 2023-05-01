@@ -3224,6 +3224,12 @@ ya bhook waale din khaana khilaana
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا بھوک والے دن (یعنی قحط و اَفلاس کے دور میں غریبوں اور محروم المعیشت لوگوں کو) کھانا کھلانا ہے (یعنی ان کے معاشی تعطل اور ابتلاء کو ختم کرنے کی جدّ و جہد کرنا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا پھر کسی بھوک والے دن میں کھانا کھلا دینا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

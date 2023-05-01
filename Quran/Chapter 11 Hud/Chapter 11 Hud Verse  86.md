@@ -3224,6 +3224,12 @@ Allah ta’ala ka halaal kiya hoa jo bach rahe, tumhare liye bahuth hee behtar h
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو اللہ کے دیئے میں بچ رہے (وہی) تمہارے لئے بہتر ہے اگر تم ایمان والے ہو، اور میں تم پر نگہبان نہیں ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم میری بات مانو تو (لوگوں کا حق ان کو دینے کے بعد) جو کچھ اللہ کا دیا بچ رہے، وہ تمہارے حق میں کہیں بہتر ہے، اور (اگر نہ مانو تو) میں تم پر پہرہ دار مقرر نہیں ہوا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

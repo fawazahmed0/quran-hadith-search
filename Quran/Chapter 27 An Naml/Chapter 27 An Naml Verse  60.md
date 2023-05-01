@@ -3224,6 +3224,12 @@ bhala bataao to? ke asmaano aur zameen ko kis ne paida kiya? kis ne asmaan se ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ وہ کون ہے جس نے آسمانوں اور زمین کو پیدا فرمایا اور تمہارے لئے آسمانی فضا سے پانی اتارا، پھر ہم نے اس (پانی) سے تازہ اور خوش نما باغات اُگائے؟ تمہارے لئے ممکن نہ تھا کہ تم ان (باغات) کے درخت اُگا سکتے۔ کیا اللہ کے ساتھ کوئی (اور بھی) معبود ہے؟ بلکہ یہ وہ لوگ ہیں جو (راہِ حق سے) پرے ہٹ رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا وہ کون ہے جس نے آسمانوں اور زمین کو پیدا کیا، اور تمہارے لیے آسمان سے پانی اتارا ؟ پھر ہم نے اس پانی سے بارونق باغ اگائے، تمہارے بس میں نہیں تھا کہ تم ان کے درختوں کو اگا سکتے۔ کیا (پھر بھی تم کہتے ہو کہ) اللہ کے ساتھ کوئی اور خدا ہے ؟ نہیں ! بلکہ ان لوگوں نے راستے سے منہ موڑ رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aapas mein ek dosre ko bure kaamo se jo wo karte thein, rokte na thein, jo kuch 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اور اس لعنت کا ایک سبب یہ بھی تھا کہ) وہ جو برا کام کرتے تھے ایک دوسرے کو اس سے منع نہیں کرتے تھے۔ بیشک وہ کام برے تھے جنہیں وہ انجام دیتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جس بدی کا ارتکاب کرتے تھے، اس سے ایک دوسرے کو منع نہیں کرتے تھے۔ حقیقت یہ ہے کہ ان کا طرز عمل نہایت برا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

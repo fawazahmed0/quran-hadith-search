@@ -3224,6 +3224,12 @@ Allah ki itaat karo aur Rasool ki itaat karo lekin agar tum itaat se mooh moadte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم اللہ کی اطاعت کرو اور رسول (صلی اللہ علیہ وآلہ وسلم) کی اطاعت کرو، پھر اگر تم نے رُوگردانی کی تو (یاد رکھو) ہمارے رسول (صلی اللہ علیہ وآلہ وسلم) کے ذمّہ صرف واضح طور پر (احکام کو) پہنچا دینا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم اللہ کی فرمانبرداری کرو، اور رسول کی فرمانبرداری کرو۔ پھر اگر تم نے منہ موڑا تو ہمارے رسول کی ذمہ داری صرف یہ ہے کہ وہ صاف صاف بات پہنچا دے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

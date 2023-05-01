@@ -3224,6 +3224,12 @@ agar tum ne acche kaam kiye to khud apne hee fayde ke liye aur agar tum ne burai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تم بھلائی کرو گے تو اپنے (ہی) لئے بھلائی کرو گے، اور اگر تم برائی کرو گے تو اپنی (ہی) جان کے لئے، پھر جب دوسرے وعدہ کی گھڑی آئی (تو اور ظالموں کو تم پر مسلّط کر دیا) تاکہ (مار مار کر) تمہارے چہرے بگاڑ دیں اور تاکہ مسجدِ اقصٰی میں (اسی طرح) داخل ہوں جیسے اس میں (حملہ آور لوگ) پہلی مرتبہ داخل ہوئے تھے اور تاکہ جس (مقام) پر غلبہ پائیں اسے تباہ و برباد کر ڈالیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم اچھے کام کرو گے تو اپنے ہی فائدے کے لیے کرو گے، اور برے کام کرو گے تو بھی وہ تمہارے لیے ہی برا ہوگا۔ چنانچہ جب دوسرے واقعے کی میعاد آئی (تو ہم نے دوسرے دشمنوں کو تم پر مسلط کردیا) تاکہ وہ تمہارے چہروں کو بگاڑ ڈالیں، اور تاکہ وہ مسجد میں اسی طرح داخل ہوں جیسے پہلے لوگ داخل ہوئے تھے، اور جس جس چیز پر ان کا زور چلے، اس کو تہس نہس کر کے رکھ دیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jab tum apni aurto ko talaaq do aur wo apni iddath puri karle to unhe unke q
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب تم عورتوں کو طلاق دو اور وہ اپنی عدت (پوری ہونے) کو آپہنچیں تو جب وہ شرعی دستور کے مطابق باہم رضامند ہو جائیں تو انہیں اپنے (پرانے یا نئے) شوہروں سے نکاح کرنے سے مت روکو، اس شخص کو اس امر کی نصیحت کی جاتی ہے جو تم میں سے اللہ پراور یومِ قیامت پر ایمان رکھتا ہو، یہ تمہارے لئے بہت ستھری اور نہایت پاکیزہ بات ہے، اور اللہ جانتا ہے اور تم (بہت سی باتوں کو) نہیں جانتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب تم نے عوررتوں کو طلاق دے دی ہو اور وہ اپنی عدت کو پہنچ جائیں تو (اے میکے والو) انہیں اس بات سے منع نہ کرو کہ وہ اپنے (پہلے) شوہروں سے (دوبارہ) نکاح کریں، بشرطیکہ وہ بھلائی کے ساتھ ایک دوسرے سے راضی ہوگئے ہوں۔ ان باتوں کی نصیحت تم میں سے ان لوگوں کو کی جارہی ہے جو اللہ اور یوم آخرت پر ایمان رکھتے ہوں۔ یہی تمہارے لیے زیادہ ستھرا اور پاکیزہ طریقہ ہے، اللہ جانتا ہے اور تم نہیں جانتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

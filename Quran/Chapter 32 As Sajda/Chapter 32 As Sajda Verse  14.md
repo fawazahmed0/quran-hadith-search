@@ -3224,6 +3224,12 @@ ab tum apne us din ki mulaqaath ke faramosh kar dene ka maza chaku, hum ne bhi t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (اب) تم مزہ چکھو کہ تم نے اپنے اس دن کی پیشی کو بھلا رکھا تھا، بیشک ہم نے تم کو بھلا دیا ہے اور اپنے ان اعمال کے بدلے جو تم کرتے رہے تھے دائمی عذاب چکھتے رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب (جہنم کا) مزہ چکھو کیونکہ تم نے اپنے اس دن کا سامنا کرنے کو بھلا ڈالا تھا۔ ہم نے (بھی) تمہیں بھلا دیا ہے۔ جو کچھ تم کرتے رہے ہو، اس کے بدلے اب ہمیشہ کے عذاب کا مزہ چکھتے رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

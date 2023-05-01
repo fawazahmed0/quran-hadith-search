@@ -3224,6 +3224,12 @@ yaqinan Allah ta’ala ne us aurath ki baath suni, jo tujh se apne shuhar ke baa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ نے اس عورت کی بات سن لی ہے جو آپ سے اپنے شوہر کے بارے میں تکرار کر رہی تھی اور اللہ سے فریاد کر رہی تھی، اور اللہ آپ دونوں کے باہمی سوال و جواب سن رہا تھا، بیشک اللہ خوب سننے والا خوب دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) اللہ نے اس عورت کی بات سن لی ہے جو تم سے اپنے شوہر کے بارے میں بحث کر رہی ہے، اور اللہ سے فریاد کرتی جاتی ہے۔ اور اللہ تم دونوں کی گفتگو سن رہا ہے۔ یقینا اللہ سب کچھ سننے دیکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

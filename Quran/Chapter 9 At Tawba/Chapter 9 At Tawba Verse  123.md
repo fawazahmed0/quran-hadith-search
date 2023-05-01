@@ -3224,6 +3224,12 @@ ae iman walo! un kuffar se lado jo tumhare aas paas hai aur un ko tumhare andar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم کافروں میں سے ایسے لوگوں سے جنگ کرو جو تمہارے قریب ہیں (یعنی جو جنگ میں تمہارے مدِ مقابل ہیں اور تمہارے خلاف براہِ راست جارحیت میں ملوث ہیں۔ اس کے برعکس جو لوگ تم سے دور اپنے گھروں میں ہیں یا اپنے کام کاج میں مصروف ہیں انہیں چھوڑ دو، انہیں قتل کرنے کی اِجازت نہیں ہے)، اور (جہاد ایسا اور اس وقت ہو کہ) وہ تمہارے اندر (طاقت و شجاعت اور دفاعی صلاحیت کی) سختی پائیں، اور جان لو کہ اللہ پرہیزگاروں کے ساتھ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! ان کافروں سے لڑو جو تم سے قریب ہیں۔ اور ہونا یہ چاہیے کہ وہ تمہارے اندر سختی محسوس کریں۔ اور یقین رکھو کہ اللہ متقیوں کے ساتھ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

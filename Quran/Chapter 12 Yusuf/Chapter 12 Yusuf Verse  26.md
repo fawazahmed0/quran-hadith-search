@@ -3224,6 +3224,12 @@ yousuf ne kaha ye aurath hee mujhe phusla rahi thi, aur aurath ke qabile hee ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یوسف (علیہ السلام) نے کہا: (نہیں بلکہ) اس نے خود مجھ سے مطلب براری کے لئے مجھے پھسلانا چاہا اور (اتنے میں خود) اس کے گھر والوں میں سے ایک گواہ نے (جو شیر خوار بچہ تھا) گواہی دی کہ اگر اس کا قمیض آگے سے پھٹا ہوا ہے تو یہ سچی ہے اور وہ جھوٹوں میں سے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یوسف نے کہا : یہ خود تھیں جو مجھے ورغلا رہی تھیں، اور اس عورت کے خاندان ہی میں سے ایک گواہی دینے والے نے یہ گواہی دی کہ : اگر یوسف کی قمیص سامنے کی طرف سے پھٹی ہو تو عورت سچ کہتی ہے، اور وہ جھوٹے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

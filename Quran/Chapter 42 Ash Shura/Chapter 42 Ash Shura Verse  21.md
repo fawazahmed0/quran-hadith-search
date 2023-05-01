@@ -3224,6 +3224,12 @@ kya un logo ne aise (Allah ke) shareek (muqarrar kar rakhe) hai jinhone aise ehk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا اُن کے لئے کچھ (ایسے) شریک ہیں جنہوں نے اُن کے لئے دین کا ایسا راستہ مقرر کر دیا ہو جس کا اللہ نے حکم نہیں دیا تھا، اور اگر فیصلہ کا فرمان (صادر) نہ ہوا ہوتا تو اُن کے درمیان قصہ چکا دیا جاتا، اور بیشک ظالموں کے لئے دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا ان (کافروں) کے کچھ ایسے شریک ہیں جنہوں نے ان کے لیے ایسا دین طے کردیا ہے جس کی اللہ نے اجازت نہیں دی ہے ؟ اور اگر (اللہ کی طرف سے) فیصلہ کن بات طے شدہ نہ ہوتی تو ان کا معاملہ چکا دیا گیا ہوتا۔ اور یقین رکھو کہ ان ظالموں کے لیے بڑا دردناک عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

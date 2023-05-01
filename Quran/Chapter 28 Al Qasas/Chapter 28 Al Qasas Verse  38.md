@@ -3224,6 +3224,12 @@ feraun kehne laga aye darbaariyo, main to apne siva kisi ko tumhara maboodh nahi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرعون نے کہا: اے درباریو! میں تمہارے لئے اپنے سوا کوئی دوسرا معبود نہیں جانتا۔ اے ہامان! میرے لئے گارے کو آگ لگا (کر کچھ اینٹیں پکا) دے، پھر میرے لئے (ان سے) ایک اونچی عمارت تیار کر، شاید میں (اس پر چڑھ کر) موسٰی کے خدا تک رسائی پا سکوں، اور میں تو اس کو جھوٹ بولنے والوں میں گمان کرتا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور فرعون بولا : اے دربار والو ! میں تو اپنے سوا تمہارے کسی اور خدا سے واقف نہیں ہوں۔ ہامان ! تم ایسا کرو کہ میرے لیے گارے کو آگ دے کر پکواؤ، اور میرے لیے ایک اونچی عمارت بناؤ، تاکہ میں اس پر سے موسیٰ کے خدا کو جھانک کر دیکھوں، اور میں تو پورے یقین کے ساتھ یہ سمجھا ہوں کہ یہ شخص جھوٹا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

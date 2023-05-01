@@ -3224,6 +3224,12 @@ yaqinan Allah ta’ala momino se khush ho gaya jab ke wo daraqth ta le tujh se b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ مومنوں سے راضی ہو گیا جب وہ (حدیبیہ میں) درخت کے نیچے آپ سے بیعت کر رہے تھے، سو جو (جذبۂ صِدق و وفا) ان کے دلوں میں تھا اللہ نے معلوم کر لیا تو اللہ نے ان (کے دلوں) پر خاص تسکین نازل فرمائی اور انہیں ایک بہت ہی قریب فتحِ (خیبر) کا انعام عطا کیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا اللہ ان مومنوں سے بڑا خوش ہوا جب وہ درخت کے نیچے تم سے بیعت کر رہے تھے اور ان کے دلوں میں جو کچھ تھا وہ بھی اللہ کو معلوم تھا۔ اس لیے اس نے ان پر سکینت اتار دی، اور ان کو انعام میں ایک قریبی فتح عطا فرما دی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

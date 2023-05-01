@@ -3224,6 +3224,12 @@ phir kya baath hai ke jab un par un ke kartooth ke baayes koyi musibath aa padti
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (اس وقت) ان کی حالت کیا ہوگی جب اپنی کارستانیوں کے باعث ان پر کوئی مصیبت آن پڑے تو اللہ کی قَسمیں کھاتے ہوئے آپ کی خدمت میں حاضر ہوں (اور یہ کہیں) کہ ہم نے تو صرف بھلائی اور باہمی موافقت کا ہی ارادہ کیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اس وقت ان کا کیا حال بنتا ہے جب خود اپنے ہاتھوں کے کرتوت کی وجہ سے ان پر کوئی مصیبت آپڑتی ہے ؟ اس وقت یہ آپ کے پاس اللہ کی قسمیں کھاتے ہوئے آتے ہیں کہ ہمارا مقصد بھلائی کرنے اور ملاپ کرادینے کے سوا کچھ نہ تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

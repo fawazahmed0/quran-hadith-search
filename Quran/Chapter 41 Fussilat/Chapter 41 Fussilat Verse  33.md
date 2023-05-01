@@ -3224,6 +3224,12 @@ aur us se zyaada acchi baath waala kaun hai jo Allah ki taraf bulaaye aur nek ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس شخص سے زیادہ خوش گفتار کون ہو سکتا ہے جو اللہ کی طرف بلائے اور نیک عمل کرے اور کہے: بے شک میں (اللہ عزّوجل اور رسول صلی اللہ علیہ وآلہ وسلم کے) فرمانبرداروں میں سے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس شخص سے بہتر بات کس کی ہوگی جو اللہ کی طرف دعوت دے، اور نیک عمل کرے، اور یہ کہے کہ میں فرماں برداروں میں شامل ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ dunya aur aaqirath ke umoor ko, aur tujh se yatimo ke baare mein bhi sawaal kart
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(تمہارا غور و فکر) دنیا اور آخرت (دونوں کے معاملات) میں (رہے)، اور آپ سے یتیموں کے بارے میں دریافت کرتے ہیں، فرما دیں: ان (کے معاملات) کا سنوارنا بہتر ہے، اور اگر انہیں (نفقہ و کاروبار میں) اپنے ساتھ ملا لو تو وہ بھی تمہارے بھائی ہیں، اور اللہ خرابی کرنے والے کو بھلائی کرنے والے سے جدا پہچانتا ہے، اور اگر اللہ چاہتا تو تمہیں مشقت میں ڈال دیتا، بیشک اللہ بڑا غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دنیا کے بارے میں بھی اور آخرت کے بارے میں بھی۔ اور لوگ آپ سے یتیموں کے بارے میں پوچھتے ہیں، آپ کہہ دیجیے کہ ان کی بھلائی چاہنا نیک کام ہے، اور اگر تم ان کے ساتھ مل جل کر رہو تو (کچھ حرج نہیں کیونکہ) وہ تمہارے بھائی ہی تو ہیں، اور اللہ خوب جانتا ہے کہ کون معاملات بگاڑنے والا ہے اور کون سنوارنے والا، اور اگر اللہ چاہتا تو تمہیں مشکل میں ڈال دیتا۔ یقینا اللہ کا اقتدار بھی کامل ہے، حکمت بھی کامل۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

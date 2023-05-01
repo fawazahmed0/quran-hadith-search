@@ -3224,6 +3224,12 @@ kehde ke agar sacche ho to, tum bhi Allah ke paas se koyi aisi kitaab le aao, jo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیں کہ تم اللہ کے حضور سے کوئی (اور) کتاب لے آؤ جو ان دونوں سے زیادہ ہدایت والی ہو (تو) میں اس کی پیروی کروں گا اگر تم (اپنے الزامات میں) سچے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ان سے) کہو : اچھا اگر تم سچے ہو تو اللہ کے پاس سے کوئی کتاب اور ایسی کتاب لے آؤ جو ان دونوں سے زیادہ ہدایت پر مشتمل ہو، میں اس کی اتباع کرلوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

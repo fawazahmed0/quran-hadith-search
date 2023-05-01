@@ -3224,6 +3224,12 @@ pas duno ka anjaam ye hoa ke aatish (dozakh) mein hamesha ke liye gaye aur zaali
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ان دونوں کا انجام یہ ہوگا کہ وہ دونوں دوزخ میں ہوں گے ہمیشہ اسی میں رہیں گے، اور ظالموں کی یہی سزا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ان دونوں کا انجام یہ ہے کہ وہ دونوں دوزخ میں ہوں گے جہاں وہ ہمیشہ رہیں گے، اور یہی ظلم کرنے والوں کی سزا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

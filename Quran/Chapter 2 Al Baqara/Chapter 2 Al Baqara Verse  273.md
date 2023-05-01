@@ -3224,6 +3224,12 @@ sadqaath ke mustaheq sirf wo ghurba hai jo Allah ki raah mein rok diye gaye, jo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(خیرات) ان فقراءکا حق ہے جو اللہ کی راہ میں (کسبِ معاش سے) روک دیئے گئے ہیں وہ (امورِ دین میں ہمہ وقت مشغول رہنے کے باعث) زمین میں چل پھر بھی نہیں سکتے ان کے (زُھداً) طمع سے باز رہنے کے باعث نادان (جو ان کے حال سے بے خبر ہے) انہیں مالدار سمجھے ہوئے ہے، تم انہیں ان کی صورت سے پہچان لو گے، وہ لوگوں سے بالکل سوال ہی نہیں کرتے کہ کہیں (مخلوق کے سامنے) گڑگڑانا نہ پڑے، اور تم جو مال بھی خرچ کرو تو بیشک اللہ اسے خوب جانتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (مالی امداد کے بطور خاص) مستحق وہ فقرا ہیں جنہوں نے اپنے آپ کو اللہ کی راہ میں اس طرح مقید کر رکھا ہے کہ وہ (معاش کی تلاش کے لیے) زمین میں چل پھر نہیں سکتے۔ چونکہ وہ اتنے پاک دامن ہیں کہ کسی سے سوال نہیں کرتے، اس لیے ناواقف آدمی انہیں مال دار سمجھتا ہے، تم ان کے چہرے کی علامتوں سے ان (کی اندرونی حالت) کو پہچان سکتے ہو (مگر) وہ لوگوں سے لگ لپٹ کر سوال نہیں کرتے۔ اور تم جو مال بھی خرچ کرتے ہو اللہ اسے خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

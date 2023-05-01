@@ -3224,6 +3224,12 @@ beshak hum ne is Qur’aan mein logo ke saamne kul misaale bayaan kardi hai, aap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور درحقیقت ہم نے لوگوں (کے سمجھانے) کے لئے اس قرآن میں ہر طرح کی مثال بیان کر دی ہے، اور اگر آپ ان کے پاس کوئی (ظاہری) نشانی لے آئیں تب بھی یہ کافر لوگ ضرور (یہی) کہہ دیں گے کہ آپ محض باطل و فریب کار ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حقیقت یہ ہے کہ ہم نے اس قرآن میں لوگوں (کو سمجھانے) کی خاطر ہر قسم کی باتیں بیان کی ہیں۔ اور (اے پیغمبر) ان کا حال یہ ہے کہ تم ان کے پاس کوئی بھی نشانی لے آؤ، یہ کافر لوگ پھر بھی یہی کہیں گے کہ تم کچھ بھی نہیں، بالکل غلط کار ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

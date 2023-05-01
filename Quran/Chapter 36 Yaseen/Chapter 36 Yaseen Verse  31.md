@@ -3224,6 +3224,12 @@ kya unhone nahi dekha ke un ke pehle bahuth si khaumo ko hum ne ghaarath kar diy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا اِنہوں نے نہیں دیکھا کہ ہم نے اِن سے پہلے کتنی ہی قومیں ہلاک کر ڈالیں، کہ اب وہ لوگ ان کی طرف پلٹ کر نہیں آئیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا انہوں نے نہیں دیکھا کہ ان سے پہلے ہم کتنی قوموں کو اس طرح ہلاک کرچکے ہیں کہ وہ ان کے پاس لوٹ کر نہیں آتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

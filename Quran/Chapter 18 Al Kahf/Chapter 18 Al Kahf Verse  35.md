@@ -3224,6 +3224,12 @@ aur ye apne baagh mein gaya aur tha apne jaan par zulm karne wala, kehne laga ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (اسے لے کر) اپنے باغ میں داخل ہوا (تکبّر کی صورت میں) اپنی جان پر ظلم کرتے ہوئے کہنے لگا: میں یہ گمان (ہی) نہیں کرتا کہ یہ باغ تباہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ اپنی جان پر ستم ڈھاتا ہوا اپنے باغ میں داخل ہوا۔ کہنے لگا : میں نہیں سمجھتا کہ یہ باغ کبھی بھی تباہ ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

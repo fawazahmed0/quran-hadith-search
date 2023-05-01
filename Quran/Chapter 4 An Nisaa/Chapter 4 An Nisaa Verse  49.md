@@ -3224,6 +3224,12 @@ kya aap ne unhe nahi dekha jo apni paakizgi aur sataayesh10 khud karte hai? balk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے ایسے لوگوں کو نہیں دیکھا جو خود کو پاک ظاہر کرتے ہیں، بلکہ اللہ ہی جسے چاہتا ہے پاک فرماتا ہے اور ان پر ایک دھاگے کے برابر بھی ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے ان لوگوں کو نہیں دیکھا جو اپنے آپ کو بڑا پاکیزہ بتاتے ہیں ؟ حالانکہ پاکیزگی تو اللہ جس کو چاہتا ہے عطا کرتا ہے، اور (اس عطا میں) ان پر ایک دھاگے کے برابر بھی ظلم نہیں ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

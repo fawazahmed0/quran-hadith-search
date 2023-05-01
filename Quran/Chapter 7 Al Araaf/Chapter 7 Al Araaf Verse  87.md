@@ -3224,6 +3224,12 @@ aur agar tum mein se kuch log is hukm par, jis ko de kar mujh ko bheja gaya, ima
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم میں سے ایک گروہ اس پیغام پر ایمان لے آیا ہے جو میرے ذریعے بھیجا گیا ہے اور دوسرا گروہ ایمان نہیں لایا، تو ذرا اس وقت تک صبر کرو جب تک اللہ ہمارے درمیان فیصلہ کردے۔ اور وہی سب سے بہتر فیصلہ کرنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

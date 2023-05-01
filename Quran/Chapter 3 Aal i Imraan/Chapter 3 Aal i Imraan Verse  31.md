@@ -3224,6 +3224,12 @@ keh dijiye! agar tum Allah ta’ala se muhabbath rakhte ho to meri tabedaari kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیب!) آپ فرما دیں: اگر تم اللہ سے محبت کرتے ہو تو میری پیروی کرو تب اللہ تمہیں (اپنا) محبوب بنا لے گا اور تمہارے لئے تمہارے گناہ معاف فرما دے گا، اور اللہ نہایت بخشنے والا مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! لوگوں سے) کہہ دو کہ اگر تم اللہ سے محبت رکھتے ہو تو میری اتباع کرو، اللہ تم سے محبت کرے گا اور تمہاری خاطر تمہارے گناہ معاف کردے گا۔ اور اللہ بہت معاف کرنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

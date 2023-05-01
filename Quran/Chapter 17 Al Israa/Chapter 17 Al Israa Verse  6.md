@@ -3224,6 +3224,12 @@ phir hum ne un par tumhaara ghalba de kar tumhaare din phere aur maal aur aulaad
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے ان کے اوپر غلبہ کو تمہارے حق میں پلٹا دیا اور ہم نے اموال و اولاد (کی کثرت) کے ذریعے تمہاری مدد فرمائی اور ہم نے تمہیں افرادی قوت میں (بھی) بڑھا دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے تمہیں یہ موقع دیا کہ تم پلٹ کر ان پر غالب آؤ، اور تمہارے مال و دولت اور اولاد میں اضافہ کیا، اور تمہاری نفری پہلے سے زیادہ بڑھا دی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

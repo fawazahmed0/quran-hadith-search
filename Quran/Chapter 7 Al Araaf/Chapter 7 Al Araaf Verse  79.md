@@ -3224,6 +3224,12 @@ us waqt Saaleh (alaihissalaam) un se mu mod kar chale aur farmaane lage ke aye m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس موقع پر صالح ان سے منہ موڑ کر چل دیے، اور کہنے لگے : اے میری قوم ! میں نے تمہیں اپنے رب کا پیغام پہنچایا اور تمہاری خیر خواہی کی، مگر (افسوس کہ) تم خیر خواہوں کو پسند ہی نہیں کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

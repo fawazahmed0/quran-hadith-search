@@ -3224,6 +3224,12 @@ un logo ki tarah, jo un se kuch hee pehle guzre hai, jinhone apne kaam ka wabaal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اُن کا حال) اُن لوگوں جیسا ہے جو اُن سے پہلے زمانۂ قریب میں ہی اپنی شامتِ اعمال کا مزہ چکھ چکے ہیں (یعنی بدر میں مشرکینِ مکہ، اور یہود میں سے بنو نضیر، بنو قینقاع و بنو قریظہ وغیرہ)، اور ان کے لئے (آخرت میں بھی) دردناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کی حالت ان لوگوں کی سی ہے جو ان سے کچھ ہی پہلے اپنے کرتوت کا مزہ چکھ چکے ہیں۔ اور ان کے لیے دردناک عذاب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

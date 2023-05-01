@@ -3224,6 +3224,12 @@ un ke bayaan mein aql walo ke liye yaqinan nasihath aur ibrath hai, ye Qur’aan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ان کے قصوں میں سمجھ داروں کے لئے عبرت ہے، یہ (قرآن) ایسا کلام نہیں جو گھڑ لیا جائے بلکہ (یہ تو) ان (آسمانی کتابوں) کی تصدیق ہے جو اس سے پہلے (نازل ہوئی) ہیں اور ہر چیز کی تفصیل ہے اور ہدایت ہے اور رحمت ہے اس قوم کے لئے جو ایمان لے آئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقینا ان کے واقعات میں عقل و ہوش رکھنے والوں کے لیے بڑا عبرت کا سامان ہے۔ یہ کوئی ایسی بات نہیں ہے جو جھوٹ موٹ گھڑ لی گئی ہو، بلکہ اس سے پہلے جو کتابیں آچکی ہیں ان کی تصدیق ہے، اور ہر بات کی وضاحت اور جو لوگ ایمان لائیں ان کے لیے ہدایت اور رحمت کا سامان۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

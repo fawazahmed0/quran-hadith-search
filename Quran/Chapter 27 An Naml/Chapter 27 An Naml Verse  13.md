@@ -3224,6 +3224,12 @@ pas jab un ke paas aankhe khol dene waale hamaare maujeze pahonche to wo kehne l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب ان کے پاس ہماری نشانیاں واضح اور روشن ہو کر پہنچ گئیں تو وہ کہنے لگے کہ یہ کھلا جادو ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہوا یہ کہ جب ان کے پاس ہماری نشانیاں اس طرح پہنچیں کہ وہ آنکھیں کھولنے والی تھیں تو انہوں نے کہا کہ : یہ تو کھلا ہوا جادو ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

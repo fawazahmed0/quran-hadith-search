@@ -3224,6 +3224,12 @@ balke unhe ta’ajjub maloom hoa ke un ke paas un hee mein se ek agaah karne waa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ اُن لوگوں نے تعجب کیا کہ اُن کے پاس اُنہی میں سے ایک ڈر سنانے والا آگیا ہے، سو کافر کہتے ہیں: یہ عجیب بات ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلکہ انہوں نے اس بات پر حیرت کا اظہار کیا ہے کہ کوئی (آخرت سے) ڈرانے والا خود انہی میں سے (کیسے) آگیا، چنانچہ ان کافروں نے یہ کہا ہے کہ : یہ تو بڑی عجیب بات ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

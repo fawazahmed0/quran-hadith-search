@@ -3224,6 +3224,12 @@ wahi Allah hai jis ke siva koyi maboodh nahi, badshaah nihaayath paak, sab aibo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی اللہ ہے جس کے سوا کوئی معبود نہیں، (حقیقی) بادشاہ ہے، ہر عیب سے پاک ہے، ہر نقص سے سالم (اور سلامتی دینے والا) ہے، امن و امان دینے والا (اور معجزات کے ذریعے رسولوں کی تصدیق فرمانے والا) ہے، محافظ و نگہبان ہے، غلبہ و عزّت والا ہے، زبردست عظمت والا ہے، سلطنت و کبریائی والا ہے، اللہ ہر اُس چیز سے پاک ہے جسے وہ اُس کا شریک ٹھہراتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ وہی ہے جس کے سوا کوئی معبود نہیں ہے، جو بادشاہ ہے، تقدس کا مالک ہے، سلامتی دینے والا ہے، امن بخشنے والا ہے، سب کا نگہبان ہے، بڑے اقتدار والا ہے، ہر خرابی کی اصلاح کرنے والا ہے، بڑائی کا مالک ہے۔ پاک ہے اللہ اس شرک سے جو یہ لوگ کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

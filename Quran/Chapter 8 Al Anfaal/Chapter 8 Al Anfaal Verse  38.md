@@ -3224,6 +3224,12 @@ aap un kafiro se keh dijiye ke agar ye log baz aa jae tuh un ke sare gunah jo pe
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ کفر کرنے والوں سے فرما دیں: اگر وہ (اپنے کافرانہ اَفعال سے) باز آجائیں تو ان کے وہ (گناہ) بخش دیئے جائیں گے جو پہلے گزر چکے ہیں، اور اگر وہ پھر وہی کچھ کریں گے تو یقیناً اگلوں (کے عذاب در عذاب) کا طریقہ گزر چکا ہے (ان کے ساتھ بھی وہی کچھ ہوگا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) جن لوگوں نے کفر اپنا لیا ہے ان سے کہہ دو کہ : اگر وہ باز آجائیں تو پہلے ان سے جو کچھ ہوا ہے اسے معاف کردیا جائے گا۔ اور اگر وہ پھر وہی کام کریں گے تو پچھلے لوگوں کے ساتھ جو معاملہ ہوا، وہ (ان کے سامنے) گزر ہی چکا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

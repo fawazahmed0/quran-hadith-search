@@ -3224,6 +3224,12 @@ borayi ke saath awaaz bulandh karne ko Allah ta’ala pasand nahi farmaata magar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ کسی (کی) بری بات کا بآوازِ بلند (ظاہراً و علانیۃً) کہنا پسند نہیں فرماتا سوائے اس کے جس پر ظلم ہوا ہو (اسے ظالم کا ظلم آشکار کرنے کی اجازت ہے)، اور اللہ خوب سننے والا جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ اس بات کو پسند نہیں کرتا کہ کسی کی برائی علانیہ زبان پر لائی جائے، الا یہ کہ کسی پر ظلم ہوا ہو۔ اور اللہ سب کچھ سنتا، ہر بات جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

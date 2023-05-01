@@ -3224,6 +3224,12 @@ aur hum logo ke naam dunya mein bhi nek haali likh de aur aaqirath mein bhi hum 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہمارے لیے اس دنیا میں بھی بھلائی لکھ دیجیے اور آخرت میں بھی۔ ہم (اس غرض کے لیے) آپ ہی سے رجوع کرتے ہیں۔ اللہ نے فرمایا : اپنا عذاب تو میں اسی پر نازل کرتا ہوں جس پر چاہتا ہوں۔ اور جہاں تک میری رحمت کا تعلق ہے وہ ہر چیز پر چھائی ہوئی ہے۔ چنانچہ میں یہ رحمت (مکمل طور پر) ان لوگوں کے لیے لکھوں گا جو تقوی اختیار کریں، اور زکوٰۃ ادا کریں، اور جو ہماری آیتوں پر ایمان رکھیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

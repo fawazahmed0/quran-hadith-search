@@ -3224,6 +3224,12 @@ us se bad kar zaalim kaun hai, jo Allah ta’ala par jhoot bole? aur saccha deen
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو اس شخص سے بڑھ کر ظالم کون ہے جو اللہ پر جھوٹ باندھے اور سچ کو جھٹلائے جبکہ وہ اس کے پاس آچکا ہو، کیا کافروں کا ٹھکانا دوزخ میں نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اب بتاؤ کہ اس شخص سے بڑا ظالم کون ہوگا جو اللہ پر جھوٹ باندھے، اور جب سچی بات اس کے پاس آئے تو وہ اس کو جھٹلا دے ؟ کیا جہنم میں ایسے کافروں کا ٹھکانا نہیں ہوگا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

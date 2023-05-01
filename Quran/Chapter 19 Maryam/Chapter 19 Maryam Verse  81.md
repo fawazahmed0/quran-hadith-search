@@ -3224,6 +3224,12 @@ unhone Allah ke siva dosre maaboodh bana rakhe ha, ke wo un ke liye baayise izza
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور انہوں نے اللہ کے سوا (کئی اور) معبود بنا لئے ہیں تاکہ وہ ان کے لئے باعثِ عزت ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان لوگوں نے اللہ کے سوا دوسرے معبود اس لیے بنا رکھے ہیں تاکہ وہ ان کی پشت پناہی کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

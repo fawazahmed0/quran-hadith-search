@@ -3224,6 +3224,12 @@ yaqinan feraun ne zameen mein sarkashi kar rakhi thi aur wahaan ke logo ko gruh 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک فرعون زمین میں سرکش و متکبّر (یعنی آمرِ مطلق) ہوگیا تھا اور اس نے اپنے (ملک کے) باشندوں کو (مختلف) فرقوں (اور گروہوں) میں بانٹ دیا تھا اس نے ان میں سے ایک گروہ (یعنی بنی اسرائیل کے عوام) کو کمزور کردیا تھا کہ ان کے لڑکوں کو (ان کے مستقبل کی طاقت کچلنے کے لئے) ذبح کر ڈالتا اور ان کی عورتوں کو زندہ چھوڑ دیتا (تاکہ مَردوں کے بغیر ان کی تعداد بڑھے اور ان میں اخلاقی بے راہ روی کا اضافہ ہو)، بیشک وہ فساد انگیز لوگوں میں سے تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 واقعہ یہ ہے کہ فرعون نے زمین میں سرکشی اختیار کر رکھی تھی، اور اس نے وہاں کے باشندوں کو الگ الگ گروہوں میں تقسیم کردیا تھا جن میں سے ایک گروہ کو اس نے اتنا دبا کر رکھا ہوا تھا کہ ان کے بیٹوں کو ذبح کردیتا۔ اور ان کی عورتوں کو زندہ چھوڑ دیتا تھا۔ حقیقت یہ ہے کہ وہ ان لوگوں میں سے تھا جو فساد پھیلایا کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

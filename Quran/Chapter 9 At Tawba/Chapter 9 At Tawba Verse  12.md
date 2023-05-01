@@ -3224,6 +3224,12 @@ agar ye log ahado paiman ke badh bhi apni qasmo ko tud de aur tumhare deen mein 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر وہ (تم سے کیے گئے) اپنے معاہدہ کے بعد اپنے عہد توڑ دیں اور (معاہدۂ اَمن سے اِنحراف کر کے قتل عام اور پُر تشدد کارروائیوں کے ذریعے حالتِ جنگ بحال کرنے اور ریاستی اَمن کے لیے سخت خطرات پیدا کرنے کے ساتھ سرِ عام) تمہارے دین میں طعنہ زنی کریں تو (اس صورت میں) تم (فتنہ و فساد اور دہشت گردی کا اِمکان ختم کرنے کے لیے) محاربت کے ان سرغنوں سے (پیشگی دفاعی) جنگ کرو، بے شک ان کی قَسموں کا کوئی اعتبار نہیں ہے (یہ دفاعی اقدام اس لیے کرو) کہ وہ (اپنی فتنہ پروری سے) باز آ جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ان لوگوں نے اپنا عہد دے دینے کے بعد اپنی قسمیں توڑ ڈالی ہوں اور تمہارے دین کو طعنے دئیے ہوں، تو ایسے کفر کے سربراہوں سے اس نیت سے جنگ کرو کہ وہ باز آجائیں۔ کیونکہ یہ ایسے لوگ ہیں کہ ان کی قسموں کی کوئی حقیقت نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

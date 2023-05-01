@@ -3224,6 +3224,12 @@ aur elaan karde ke haq aa chuka aur na haq na boodh ho gaya, yaqinan baatil tha 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرما دیجئے: حق آگیا اور باطل بھاگ گیا، بیشک باطل نے زائل و نابود ہی ہو جانا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہو کہ : حق آن پہنچا، اور باطل مٹ گیا، اور یقینا باطل ایسی ہی چیز ہے جو مٹنے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

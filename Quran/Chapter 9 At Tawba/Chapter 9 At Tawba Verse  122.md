@@ -3224,6 +3224,12 @@ aur musalmano ko ye na chahiye ke sub ke sub nikal khade ho,so aisa kyo na kiya 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ تو ہو نہیں سکتا کہ سارے کے سارے مسلمان (ایک ساتھ) نکل کھڑے ہوں، تو ان میں سے ہر ایک گروہ (یا قبیلہ) کی ایک جماعت کیوں نہ نکلے کہ وہ لوگ دین میں تفقہ (یعنی خوب فہم و بصیرت) حاصل کریں اور وہ اپنی قوم کو ڈرائیں جب وہ ان کی طرف پلٹ کر آئیں تاکہ وہ (گناہوں اور نافرمانی کی زندگی سے) بچیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مسلمانوں کے لیے یہ بھی مناسب نہیں ہے کہ وہ (ہمیشہ) سب کے سب (جہاد کے لیے) نکل کھڑے ہوں۔ لہذا ایسا کیوں نہ ہو کہ ان کی ہر بڑی جماعت میں سے ایک گروہ (جہاد کے لیے) نکلا کرے، تاکہ (جو لوگ جہاد میں نہ گئے ہوں وہ دین کی سمجھ بوجھ حاصل کرنے کے لیے محنت کریں، اور جب ان کی قوم کے لوگ (جو جہاد میں گئے ہیں) ان کے پاس واپس آئیں تو یہ ان کو متنبہ کریں، تاکہ وہ (گناہوں سے) بچ کر رہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

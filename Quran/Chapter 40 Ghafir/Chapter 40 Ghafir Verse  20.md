@@ -3224,6 +3224,12 @@ aur Alalh ta’ala theek theek faisla kar dega, us ke siva jinhe ye log pukaarte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ حق کے ساتھ فیصلہ فرماتا ہے، اور جن (بتوں) کو یہ لوگ اللہ کے سوا پوجتے ہیں وہ کچھ بھی فیصلہ نہیں کر سکتے، بے شک اللہ ہی سننے والا، دیکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ برحق فیصلے کرتا ہے اور اسے چھوڑ کر جن (جھوٹے خداؤں) کو یہ پکارتے ہیں، وہ کسی چیز کا فیصلہ نہیں کرسکتے۔ یقیناً اللہ ہی ہے جو ہر بات سنتا، سب کچھ دیکھتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

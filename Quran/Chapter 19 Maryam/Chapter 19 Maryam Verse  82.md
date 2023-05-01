@@ -3224,6 +3224,12 @@ lekin aisa hargiz hona nahi, wo to un ki puja se munkir ho jayenge aur ulthe un 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہرگز (ایسا) نہیں ہے، عنقریب وہ (معبودانِ باطلہ خود) ان کی پرستش کا انکار کر دیں گے اور ان کے دشمن ہوجائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ سب غلط بات ہے ! وہ تو ان کی عبادت ہی کا انکار کردیں گے، اور الٹے ان کے مخالف ہوجائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

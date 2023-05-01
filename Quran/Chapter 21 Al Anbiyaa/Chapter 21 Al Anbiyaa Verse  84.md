@@ -3224,6 +3224,12 @@ to hum ne us ki sun li aur jo dukh unhe tha, ose door kar diya aur us ko ahlo ay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تو ہم نے ان کی دعا قبول فرما لی اور انہیں جو تکلیف (پہنچ رہی) تھی سو ہم نے اسے دور کر دیا اور ہم نے انہیں ان کے اہل و عیال (بھی) عطا فرمائے اور ان کے ساتھ اتنے ہی اور (عطا فرما دیئے)، یہ ہماری طرف سے خاص رحمت اور عبادت گزاروں کے لئے نصیحت ہے (کہ اللہ صبر و شکر کا اجر کیسے دیتا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے ان کی دعا قبول کی، اور انہیں جو تکلیف لاحق تھی، اسے دور کردیا اور ان کو ان کے گھر والے بھی دیے، اور ان کے ساتھ اتنے ہی لوگ اور بھی تاکہ ہماری طرف سے رحمت کا مظاہرہ ہو، اور عبادت کرنے والوں کو ایک یادگار سبق ملے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

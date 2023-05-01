@@ -3224,6 +3224,12 @@ jab ke un ke amaal ko shaitan un he zinatdar dikha raha tha aur keh raha tha ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب شیطان نے ان (کافروں) کے لئے ان کے اَعمال خوش نما کر دکھائے اور اس نے (ان سے) کہا: آج لوگوں میں سے کوئی تم پر غالب نہیں (ہو سکتا) اور بیشک میں تمہیں پناہ دینے والا (مددگار) ہوں۔ پھر جب دونوں فوجوں نے ایک دوسرے کو (مقابل) دیکھ لیا تو وہ الٹے پاؤں بھاگ گیا اور کہنے لگا: بیشک میں تم سے بے زار ہوں، یقیناً میں وہ (کچھ) دیکھ رہا ہوں جو تم نہیں دیکھتے، بیشک میں اللہ سے ڈرتا ہوں، اور اللہ سخت عذاب دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور وہ وقت (بھی قابل ذکر ہے) جب شیطان نے ان (کافروں) کو یہ سمجھایا تھا کہ ان کے اعمال بڑے خوشنما ہیں اور یہ کہا تھا کہ : آج انسانوں میں کوئی نہیں ہے جو تم پر غالب آسکے، اور میں تمہاری کوئی ذمہ داری نہیں لے سکتا، مجھے جو کچھ نظر آرہا ہے وہ تمہیں نظر نہیں آرہا۔ مجھے اللہ سے ڈر لگ رہا ہے اور اللہ کا عذاب بڑا سخت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

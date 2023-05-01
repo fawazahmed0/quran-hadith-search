@@ -3224,6 +3224,12 @@ yaqinan jo kuffaar apne kufr mein hee mar jaaye un par Allah ta’ala ki, farish
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جنہوں نے (حق کو چھپا کر) کفر کیا اور اس حال میں مرے کہ وہ کافر ہی تھے ان پر اللہ کی اور فرشتوں کی اور سب لوگوں کی لعنت ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک وہ لوگ جنہوں نے کفر اختیار کیا اور کافر ہونے کی حالت ہی میں مرے، ان پر اللہ کی اور فرشتوں کی اور سارے انسانوں کی لعنت ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

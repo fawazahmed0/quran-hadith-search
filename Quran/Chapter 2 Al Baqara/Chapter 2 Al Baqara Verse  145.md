@@ -3224,6 +3224,12 @@ aur aap agar che ahale kitab ko tamaam dalile de di, lekin wo aap ke qible ki pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اوراگر آپ اہلِ کتاب کے پاس ہر ایک نشانی (بھی) لے آئیں تب بھی وہ آپ کے قبلہ کی پیروی نہیں کریں گے اور نہ آپ ہی ان کے قبلہ کی پیروی کرنے والے ہیں اور وہ آپس میں بھی ایک دوسرے کے قبلہ کی پیروی نہیں کرتے، (امت کی تعلیم کے لئے فرمایا:) اور اگر (بفرضِ محال) آپ نے (بھی) اپنے پاس علم آجانے کے بعد ان کی خواہشات کی پیروی کی تو بیشک آپ (اپنی جان پر) زیادتی کرنے والوں میں سے ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں کو کتاب دی گئی تھی اگر تم ان کے پاس ہر قسم کی نشانیاں لے آؤ تب بھی یہ تمہارے قبلے کی پیروی نہیں کریں گے۔ اور نہ تم ان کے قبلے پر عمل کرنے والے ہو، نہ یہ ایک دوسرے کے قبلے پر عمل کرنے والے ہیں اور جو علم تمہارے پاس آچکا ہے اس کے بعد اگر کہیں تم نے ان کی خواہشات کی پیروی کرلی تو اس صورت میں یقینا تمہارا شمار ظالموں میں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

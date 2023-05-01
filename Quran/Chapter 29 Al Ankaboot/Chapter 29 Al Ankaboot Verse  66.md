@@ -3224,6 +3224,12 @@ ta ke hamaari di hoyi nemato se mukarte rahe aur baratte rahe, abhi abhi pata ch
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تاکہ اس (نعمتِ نجات) کی ناشکری کریں جو ہم نے انہیں عطا کی اور (کفر کی زندگی کے حرام) فائدے اٹھاتے رہیں۔ پس وہ عنقریب (اپنا انجام) جان لیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کرلیں یہ لوگ ناشکری اس نعمت کی جو ہم نے ان کو دی ہے، اور اڑالیں کچھ مزے۔ پھر وہ وقت دور نہیں جب انہیں سب پتہ چل جائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

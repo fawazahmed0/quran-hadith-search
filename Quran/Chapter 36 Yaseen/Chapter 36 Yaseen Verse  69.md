@@ -3224,6 +3224,12 @@ na to hum ne is paighambar ko sher sikhaaye aur na ye is ke laayeq hai, wo to si
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے اُن کو (یعنی نبیِ مکرّم صلی اللہ علیہ وآلہ وسلم کو) شعر کہنا نہیں سکھایا اور نہ ہی یہ اُن کے شایانِ شان ہے۔ یہ (کتاب) تو فقط نصیحت اور روشن قرآن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے (اپنے) ان (پیغمبر) کو نہ شاعری سکھائی ہے، اور نہ وہ ان کے شایان شان ہے۔ یہ تو بس ایک نصیحت کی بات ہے، اور ایسا قرآن جو حقیقت کو کھول کھول کر بیان کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

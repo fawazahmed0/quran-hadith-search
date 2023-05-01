@@ -3224,6 +3224,12 @@ aye mere khaid khane ke sathiyo! kya mutafarriq kayi ek parvardigaar behtar hai?
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے میرے قید خانہ کے دونوں ساتھیو! (بتاؤ) کیا الگ الگ بہت سے معبود بہتر ہیں یا ایک اللہ جو سب پر غالب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے میرے قید خانے کے ساتھیو ! کیا بہت سے متفرق رب بہتر ہیں، یا وہ ایک اللہ جس کا اقتدار سب پر چھایا ہوا ہے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar tujhe un se mu pher lena pade, apni rub ki us rehmath ki justajo mein j
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم (اپنی تنگ دستی کے باعث) ان (مستحقین) سے گریز کرنا چاہتے ہو اپنے رب کی جانب سے رحمت (خوش حالی) کے انتظار میں جس کی تم توقع رکھتے ہو تو ان سے نرمی کی بات کہہ دیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر کبھی تمہیں ان (رشتہ داروں، مسکینوں اور مسافروں) سے اس لیے منہ پھیرنا پڑے کہ تمہیں اللہ کی متوقع رحمت کا انتظار ہو تو ایسے میں ان کے ساتھ نرمی سے بات کرلیا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur yahood par hum ne tamaam naqun waale jaanwar haraam kar diye thein aur gaaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہودیوں پر ہم نے ہر ناخن والا (جانور) حرام کر دیا تھا اور گائے اور بکری میں سے ہم نے ان پر دونوں کی چربی حرام کر دی تھی سوائے اس (چربی) کے جو دونوں کی پیٹھ میں ہو یا اوجھڑی میں لگی ہو یا جو ہڈی کے ساتھ ملی ہو۔ یہ ہم نے ان کی سرکشی کے باعث انہیں سزا دی تھی اور یقینا ہم سچے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہودیوں پر ہم نے ہر ناخن والے جانور کو حرام کردیا تھا، اور گائے اور بکری کے اجزاء میں سے ان کی چربیاں ہم نے حرام کی تھیں، البتہ جو چربی ان کی پشت پر یا آنتوں پر لگی ہو، یا جو کسی ہڈی سے ملی ہوئی ہو وہ مستثنی تھی۔ یہ ہم نے ان کو ان کی سرکشی کی سزا دی تھی۔ اور پورا یقین رکھو کہ ہم سچے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ osi jageh Zakariya (alaihissalaam) ne apne rab se dua ki, kaha ke aye mere parva
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی جگہ زکریا (علیہ السلام) نے اپنے رب سے دعا کی، عرض کیا: میرے مولا! مجھے اپنی جناب سے پاکیزہ اولاد عطا فرما، بیشک تو ہی دعا کا سننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس موقع پر زکریا نے اپنے رب سے دعا کی، کہنے لگے : یا رب مجھے خاص اپنے پاس سے پاکیزہ اولاد عطا فرمادے۔ بیشک تو دعا کا سننے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tumhe bahuth jald maalom ho jaega ke kis par azaab aata hai jo ose ruswa kare au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو تم عنقریب جان لوگے کہ کس پر (دنیا میں ہی) عذاب آتا ہے جو اسے ذلیل و رسوا کر دے گا اور (پھر آخرت میں بھی کس پر) ہمیشہ قائم رہنے والا عذاب اترتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عنقریب تمہیں پتہ چل جائے گا کہ کس پر وہ عذاب آرہا ہے جو اسے رسوا کر کے رکھ دے گا، اور کس پر وہ قہر نازل ہونے والا ہے جو کبھی ٹل نہیں سکے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

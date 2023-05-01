@@ -3224,6 +3224,12 @@ ye log aise thein ke hum ne un ko kitaab aur hikmath aur nabuwath ata ki thi, so
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہی) وہ لوگ ہیں جنہیں ہم نے کتاب اور حکمِ (شریعت) اور نبوّت عطا فرمائی تھی۔ پھر اگر یہ لوگ (یعنی کفّار) ان باتوں سے انکار کر دیں تو بیشک ہم نے ان (باتوں) پر (ایمان لانے کے لیے) ایسی قوم کو مقرر کردیا ہے جو ان سے انکار کرنے والے نہیں (ہوں گے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ لوگ تھے جن کو ہم نے کتاب، حکمت اور نبوت عطا کی تھی۔ اب اگر یہ (عرب کے) لوگ اس (نبوت) کا انکار کریں تو (کچھ پرواہ نہ کرو، کیونکہ) اس کے ماننے کے لیے ہم نے ایسے لوگ مقرر کردیئے ہیں جو اس کے منکر نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

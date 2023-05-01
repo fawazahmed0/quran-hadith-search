@@ -3224,6 +3224,12 @@ agar ye baath na hoti ke unhe un ke apne haatho aage bheje hoye amaal ki wajeh s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ہم کوئی رسول نہ بھیجتے) اگر یہ بات نہ ہوتی کہ جب انہیں کوئی مصیبت پہنچے ان کے اعمالِ بد کے باعث جو انہوں نے خود انجام دیئے تو وہ یہ نہ کہنے لگیں کہ اے ہمارے رب! تو نے ہماری طرف کوئی رسول کیوں نہ بھیجا تاکہ ہم تیری آیتوں کی پیروی کرتے اور ہم ایمان والوں میں سے ہوجاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تاکہ جب ان لوگوں پر ان کے ہاتھوں کے کرتوت کی وجہ سے کوئی مصیبت آئی تو وہ یہ نہ کہہ سکیں کہ : ہمارے پروردگار ! آپ نے ہمارے پاس کوئی رسول کیوں نہیں بھیجا کہ ہم آپ کی آیتوں کی پیروی کرتے اور ایمان والوں میں بھی شامل ہوجاتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

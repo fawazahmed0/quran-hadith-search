@@ -3224,6 +3224,12 @@ jab hamara hukm (azaab) aa pahoncha hum ne shoib ko aur un ke saath (tamaam) mom
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہمارا حکمِ (عذاب) آپہنچا تو ہم نے شعیب (علیہ السلام) کو اور ان کے ساتھ ایمان والوں کو اپنی رحمت کے باعث بچالیا اور ظالموں کو خوفناک آواز نے آپکڑا، سو انہوں نے صبح اس حال میں کی کہ اپنے گھروں میں (مردہ حالت) میں اوندھے پڑے رہ گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (آخر کار) جب ہمارا حکم آپہنچا تو ہم نے شعیب کو اور ان کے ساتھ جو ایمان لائے تھے، ان کو اپنی خاص رحمت سے بچا لیا، اور جن لوگوں نے ظلم کیا تھا انہیں ایک چنگھاڑ نے آپکڑا، اور وہ اپنے گھروں میں اس طرح اوندھے منہ گرے رہ گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap keh dijiye! ke kya tum us (Allah) ka inkaar karte ho aur tum us ke shareek m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: کیا تم اس (اللہ) کا انکار کرتے ہو جس نے زمین کو دو دِن (یعنی دو مدّتوں) میں پیدا فرمایا اور تم اُس کے لئے ہمسر ٹھہراتے ہو، وہی سارے جہانوں کا پروردگار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : کیا تم واقعی اس ذات کے ساتھ کفر کا معاملہ کرتے ہو جس نے زمین کو دو دن میں پیدا کیا اور اس کے ساتھ دوسروں کو شریک ٹھہراتے ہو ؟ وہ ذات تو سارے جہانوں کی پرورش کرنے والی ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

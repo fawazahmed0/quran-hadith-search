@@ -3224,6 +3224,12 @@ agar logo ke gunah par Allah ta’ala un ki giraft karta to roye zameen par ek b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ لوگوں کو ان کے ظلم کے عوض (فوراً) پکڑ لیا کرتا تو اس (زمین) پر کسی جاندار کو نہ چھوڑتا لیکن وہ انہیں مقررہ میعاد تک مہلت دیتا ہے، پھر جب ان کا مقرر وقت آپہنچتا ہے تو وہ نہ ایک گھڑی پیچھے ہو سکتے ہیں اور نہ آگے بڑھ سکتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ لوگوں کو ان کے ظلم کی وجہ سے (فورا) اپنی پکڑ میں لیتا تو روئے زمین پر کوئی جاندار باقی نہ چھوڑتا، لیکن وہ ان کو ایک معین وقت تک مہلت دیتا ہے۔ پھر جب ان کا وہ معین وقت آجائے گا تو وہ گھڑی بھر بھی اس سے آگے پیچھے نہیں ہوسکیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

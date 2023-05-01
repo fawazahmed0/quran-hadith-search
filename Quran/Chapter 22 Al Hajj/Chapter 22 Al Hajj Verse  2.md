@@ -3224,6 +3224,12 @@ jis din tum ose dekh loge, har doodh pilaane waali apne doodh peete bacche ko bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس دن تم اسے دیکھو گے ہر دودھ پلانے والی (ماں) اس (بچی) کو بھول جائے گی جسے وہ دودھ پلا رہی تھی اور ہر حمل والی عورت اپنا حمل گرا دے گی اور (اے دیکھنے والے!) تو لوگوں کو نشہ (کی حالت) میں دیکھے گا حالانکہ وہ (فی الحقیقت) نشہ میں نہیں ہوں گے لیکن اللہ کا عذاب (ہی اتنا) سخت ہوگا (کہ ہر شخص حواس باختہ ہو جائے گا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس دن وہ تمہیں نظر آجائے گا اس دن ہر دودھ پلانے والی اس بچے (تک) کو بھول بیٹھے گی، جس کو اس نے دودھ پلایا اور ہر حمل والی اپنا حمل گرا بیٹھے گی، اور لوگ تمہیں یوں نظر آئیں گے کہ وہ نشے میں بدحواس ہیں، حالانکہ وہ نشے میں نہیں ہوں گے، بلکہ اللہ کا عذاب بڑا سخت ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

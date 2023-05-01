@@ -3224,6 +3224,12 @@ aur aap un logo se us basti waalo ka jo ke daryaae (shor) ke qareeb abaadh thein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان سے اس بستی کے بارے میں پوچھو جو سمندر کے کنارے آباد تھی، جب وہ سبت (سینچر) کے معاملے میں زیادتیاں کرتے تھے۔ جب ان (کے سمندر) کی مچھلیاں سینچر کے دن تو اچھل اچھل کر سامنے آتی تھیں، اور جب وہ سینچر کا دن نہ منا رہے ہوتے تو وہ نہیں آتی تھیں۔ اس طرح ان کی مسلسل نافرمانیوں کی وجہ سے ہم انہیں آزماتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ agar hum chahte to har shaqs ko hidaayath naseeb farma dete, lekin meri ye baath
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر ہم چاہتے تو ہم ہر نفس کو اس کی ہدایت (اَز خود ہی) عطا کر دیتے لیکن میری طرف سے (یہ) فرمان ثابت ہو چکا ہے کہ میں ضرور سب (مُنکر) جنّات اور انسانوں سے دوزخ کو بھر دوں گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ہم چاہتے تو ہر شخص کو (پہلے ہی) اس کی ہدایت دے دیتے، لیکن وہ بات جو میری طرف سے کہی گئی تھی، طے ہوچکی ہے کہ : میں جہنم کو جنات اور انسانوں سب سے ضرور بھر دوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

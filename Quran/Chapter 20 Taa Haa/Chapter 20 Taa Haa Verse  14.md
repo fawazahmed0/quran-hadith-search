@@ -3224,6 +3224,12 @@ beshak main hee Allah hoon, mere siva ibaadath ke laayeq aur koyi nahi, pas tu m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک میں ہی اللہ ہوں میرے سوا کوئی معبود نہیں سو تم میری عبادت کیا کرو اور میری یاد کی خاطر نماز قائم کیا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ میں ہی اللہ ہوں۔ میرے سوا کوئی معبود نہیں ہے، اس لیے میری عبادت کرو، اور مجھے یاد رکھنے کے لیے نماز قائم کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

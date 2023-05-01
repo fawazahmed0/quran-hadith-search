@@ -3224,6 +3224,12 @@ aur mera bhai Haroon(alaihissalaam) mujh se bahuth zyaada fasih zabaan wala hai,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میرے بھائی ہارون (علیہ السلام)، وہ زبان میں مجھ سے زیادہ فصیح ہیں سو انہیں میرے ساتھ مددگار بنا کر بھیج دے کہ وہ میری تصدیق کر سکیں میں اس بات سے (بھی) ڈرتا ہوں کہ (وہ) لوگ مجھے جھٹلائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میرے بھائی ہارون کی زبان مجھ سے زیادہ صاف ہے۔ اس لیے ان کو بھی میرے ساتھ مددگار بنا کر بھیج دیجیے کہ وہ میری تائید کریں۔ مجھے اندیشہ ہے کہ وہ لوگ مجھے جھٹلائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

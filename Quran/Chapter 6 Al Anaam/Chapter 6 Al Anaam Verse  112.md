@@ -3224,6 +3224,12 @@ aur isi tarah hum ne har nabi ke dushman bahuth se shaitaan paida kiye thein, ku
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے ہر نبی کے لئے انسانوں اور جِنّوں میں سے شیطانوں کو دشمن بنا دیا جو ایک دوسرے کے دل میں ملمع کی ہوئی (چکنی چپڑی) باتیں (وسوسہ کے طور پر) دھوکہ دینے کے لئے ڈالتے رہتے ہیں، اور اگر آپ کا ربّ (انہیں جبراً روکنا) چاہتا (تو) وہ ایسا نہ کر پاتے، سو آپ انہیں (بھی) چھوڑ دیں اور جو کچھ وہ بہتان باندھ رہے ہیں (اسے بھی)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (جس طرح یہ لوگ ہمارے نبی سے دشمنی کر رہے ہیں) اسی طرح ہم نے ہر (پچھلے) نبی کے لیے کوئی نہ کوئی دشمن پیدا کیا تھا، یعنی انسانوں اور جنات میں سے شیطان قسم کے لوگ، جو دھوکا دینے کی خاطر ایک دوسرے کو بڑی چکنی چپڑی باتیں سکھاتے رہتے تھے۔ اور اگر اللہ چاہتا تو وہ ایسا نہ کرسکتے۔ لہذا ان کو اپنی افترا پردازیوں میں پڑا رہنے دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

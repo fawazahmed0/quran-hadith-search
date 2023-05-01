@@ -3224,6 +3224,12 @@ aur jo inkaar kar ke hamaari aayato ko jhut laaye, wo jahannami hai aur hamesha 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ کفر کریں گے اور ہماری آیتوں کو جھٹلائیں گے تو وہی دوزخی ہوں گے، وہ اس میں ہمیشہ رہیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو لوگ کفر کا ارتکاب کریں گے اور ہماری آیتوں کو جھٹلائیں گے وہ دوزخ والے لوگ ہیں جہاں وہ ہمیشہ رہیں گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

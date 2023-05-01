@@ -3224,6 +3224,12 @@ hum ne ibn Maryam aur us ke waaleda ko, ek nishaani banaya aur un duno ko buland
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے ابن مریم (عیسٰی علیہ السلام) کو اور ان کی ماں کو اپنی (زبردست) نشانی بنایا اور ہم نے ان دونوں کو ایک (ایسی) بلند زمین میں سکونت بخشی جو بآسائش و آرام رہنے کے قابل (بھی) تھی اور وہاں آنکھوں کے (نظارے کے) لئے بہتے پانی (یعنی نہریں، آبشاریں اور چشمے بھی) تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مریم کے بیٹے (عیسیٰ (علیہ السلام)) کو اور ان کی ماں کو ہم نے ایک نشانی بنایا، اور ان دونوں کو ایک ایسی بلندی پر پناہ دی جو ایک پرسکون جگہ تھی، اور جہاں صاف ستھرا پانی بہتا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

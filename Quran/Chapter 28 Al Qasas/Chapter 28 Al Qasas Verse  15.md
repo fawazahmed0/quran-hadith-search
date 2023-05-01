@@ -3224,6 +3224,12 @@ aur Mosa(alaihissalaam) ek aise waqt shahar mein aaye jab ke shahar ke log ghafl
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور موسٰی (علیہ السلام) شہرِ (مصر) میں داخل ہوئے اس حال میں کہ شہر کے باشندے (نیند میں) غافل پڑے تھے، تو انہوں نے اس میں دو مَردوں کو باہم لڑتے ہوئے پایا یہ (ایک) تو ان کے (اپنے) گروہ (بنی اسرائیل) میں سے تھا اور یہ (دوسرا) ان کے دشمنوں (قومِ فرعون) میں سے تھا، پس اس شخص نے جو انہی کے گروہ میں سے تھا آپ سے اس شخص کے خلاف مدد طلب کی جو آپ کے دشمنوں میں سے تھا پس موسٰی (علیہ السلام) نے اسے مکّا مارا تو اس کا کام تمام کردیا، (پھر) فرمانے لگے: یہ شیطان کا کام ہے (جو مجھ سے سرزَد ہوا ہے)، بیشک وہ صریح بہکانے والا دشمن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (ایک دن) وہ شہر میں ایسے وقت داخل ہوئے جب اس کے باشندے غفلت میں تھے تو انہوں نے دیکھا کہ وہاں دو آمی لڑ رہے ہیں، ایک تو ان کی اپنی برادری کا تھا، اور دوسرا ان کی دشمن قوم کا۔ اب جو شخص ان کی برادری کا تھا، اس نے انہیں ان کی دشمن قوم کے آدمی کے مقابلے میں مدد کے لیے پکارا، اس پر موسیٰ نے اس کو ایک مکا مارا جس نے اس کا کام تمام کردیا۔ (پھر) انہوں نے (پچھتا کر) کہا کہ : یہ تو کوئی شیطان کی کاروائی ہے۔ حقیقت یہ ہے کہ وہ ایک کھلا دشمن ہے جو غلط راستے پر ڈال دیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

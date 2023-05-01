@@ -3224,6 +3224,12 @@ magar jo koyi ek aadh baath uchak le bhaage to (fauran hee) us ke piche dahekta 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+مگر جو (شیطان) ایک بار جھپٹ کر (فرشتوں کی کوئی بات) اُچک لے تو چمکتا ہوا انگارہ اُس کے پیچھے لگ جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 البتہ جو کوئی کچھ اچک لے جائے تو ایک روشن شعلہ اس کا پیچھا کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

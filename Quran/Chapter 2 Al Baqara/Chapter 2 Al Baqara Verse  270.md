@@ -3224,6 +3224,12 @@ tum jitna kuch qarch karo yaani qayraath aur jo kuch nazar maano ose Allah ta’
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم جو کچھ بھی خرچ کرو یا تم جو مَنّت بھی مانو تو اللہ اسے یقینا جانتا ہے، اور ظالموں کے لئے کوئی مددگار نہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم جو کوئی خرچ کرو یا کوئی منت مانو اللہ اسے جانتا ہے۔ اور ظالموں کو کسی طرح کے مددگار میسر نہیں آئیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

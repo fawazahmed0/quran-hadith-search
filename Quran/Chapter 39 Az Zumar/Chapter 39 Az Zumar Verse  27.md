@@ -3224,6 +3224,12 @@ aur yaqinan hum ne is Qur’aan mein logo ke liye har qism ki misaale bayaan kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور درحقیقت ہم نے لوگوں کے (سمجھانے کے) لئے اس قرآن میں ہر طرح کی مثال بیان کر دی ہے تاکہ وہ نصیحت حاصل کر سکیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ ہم نے اس قرآن میں لوگوں کی خاطر ہر قسم کی مثالیں بیان کی ہیں، تاکہ لوگ سبق حاصل کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

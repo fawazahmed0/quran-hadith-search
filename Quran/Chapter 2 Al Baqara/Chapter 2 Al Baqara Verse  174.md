@@ -3224,6 +3224,12 @@ be shak jo log Allah ta’ala ki utaari hoyi kitaab chupaate hai aur ose thodi t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ کتابِ (تورات کی ان آیتوں) کو جو اللہ نے نازل فرمائی ہیں چھپاتے ہیں اور اس کے بدلے حقیر قیمت حاصل کرتے ہیں، وہ لوگ سوائے اپنے پیٹوں میں آگ بھرنے کے کچھ نہیں کھاتے اور اللہ قیامت کے روز ان سے کلام تک نہیں فرمائے گا اور نہ ہی ان کو پاک کرے گا، اور ان کے لئے درد ناک عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ جو لوگ اللہ کی نازل کی ہوئی کتاب کو چھپاتے ہیں اور اس کے بدلے تھوڑی سی قیمت وصول کرلیتے ہیں وہ اپنے پیٹ میں آگ کے سوا کچھ نہیں بھر رہے، قیامت کے دن اللہ ان سے کلام بھی نہیں کرے گا، اور نہ ان کو پاک کرے گا، اور ان کے لیے دردناک عذاب ہے ،
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

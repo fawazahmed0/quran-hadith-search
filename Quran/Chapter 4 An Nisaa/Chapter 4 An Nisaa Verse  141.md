@@ -3224,6 +3224,12 @@ ye log tumhaare anjaame kaar ka intezaar karte rehte hai, phir agar tumhe Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (منافق) جو تمہاری (فتح و شکست کی) تاک میں رہتے ہیں، پھر اگر تمہیں اللہ کی طرف سے فتح نصیب ہو جائے تو کہتے ہیں: کیا ہم تمہارے ساتھ نہ تھے؟ اور اگر کافروں کو (ظاہری فتح میں سے) کچھ حصہ مل گیا تو (ان سے) کہتے ہیں: کیا ہم تم پر غالب نہیں ہو گئے تھے اور (اس کے باوجود) کیا ہم نے تمہیں مسلمانوں (کے ہاتھوں نقصان) سے نہیں بچایا؟ پس اللہ تمہارے درمیان قیامت کے دن فیصلہ فرمائے گا، اور اللہ کافروں کو مسلمانوں پر (غلبہ پانے کی) ہرگز کوئی راہ نہ دے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے مسلمانو) یہ وہ لوگ ہیں جو تمہارے (انجام کے) انتظار میں بیٹھے رہتے ہیں۔ چنانچہ اگر تمہیں اللہ کی طرف سے فتح ملے تو (تم سے) کہتے ہیں کہ : کیا ہم تمہارے ساتھ نہ تھے ؟ اور اگر کافروں کو (فتح) نصیب ہو تو (ان سے) کہتے ہیں کہ : کیا ہم نے تم پر قابو نہیں پالیا تھا ؟ اور کیا (اس کے باوجود) ہم نے تمہیں مسلمانوں سے نہیں بچایا ؟ بس اب تو تو اللہ ہی قیامت کے دن تمہارے اور ان کے درمیان فیصلہ کرے گا، اور اللہ کافروں کے لیے مسلمانوں پر غالب آنے کا ہرگز کوئی راستہ نہیں رکھے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wahi Allah hai jis ke siva koyi maboodh nahi, chupe khule ka janne waala meherba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی اللہ ہے جس کے سوا کوئی معبود نہیں، پوشیدہ اور ظاہر کو جاننے والا ہے، وہی بے حد رحمت فرمانے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ وہی ہے جس کے سوا کوئی معبود نہیں۔ وہ چھپی اور کھلی ہر بات کو جاننے والا ہے۔ وہی ہے جو سب پر مہربان ہے، بہت مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

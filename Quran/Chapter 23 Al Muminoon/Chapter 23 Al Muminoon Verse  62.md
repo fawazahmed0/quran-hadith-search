@@ -3224,6 +3224,12 @@ hum kisi nafs ko us ki taaqath se zyaada takleef nahi dete aur hamaare paas aisi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم کسی جان کو تکلیف نہیں دیتے مگر اس کی استعداد کے مطابق اور ہمارے پاس نوشتۂ (اَعمال موجود) ہے جو سچ سچ کہہ دے گا اور ان پر ظلم نہیں کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم کسی شخص کو اس کی طاقت سے زیادہ کسی کام کی ذمہ داری نہیں دیتے، اور ہمارے پاس ایک کتاب ہے جو (سب کا حال) ٹھیک ٹھیک بول دے گی، اور ان پر کوئی ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

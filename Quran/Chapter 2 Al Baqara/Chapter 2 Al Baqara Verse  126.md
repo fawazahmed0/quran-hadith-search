@@ -3224,6 +3224,12 @@ jab Ibraheem ne kaha, aye parvardigaar! tu is jagah ko aman waala shahar bana au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ابراہیم (علیہ السلام) نے عرض کیا: اے میرے رب! اسے امن والا شہر بنا دے اور اس کے باشندوں کو طرح طرح کے پھلوں سے نواز (یعنی) ان لوگوں کو جو ان میں سے اللہ پر اور یومِ آخرت پر ایمان لائے، (اللہ نے) فرمایا: اور جو کوئی کفر کرے گا اس کو بھی زندگی کی تھوڑی مدت (کے لئے) فائدہ پہنچاؤں گا پھر اسے (اس کے کفر کے باعث) دوزخ کے عذاب کی طرف (جانے پر) مجبور کر دوں گا اور وہ بہت بری جگہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (وہ وقت بھی یاد کرو) جب ابراہیم نے کہا تھا کہ : اے میرے پروردگار ! اس کو ایک پر امن شہر بنا دیجیے اور اس کے باشندوں میں سے جو اللہ اور یوم آخرت پر ایمان لائیں انہیں قسم قسم کے پھلوں سے رزق عطا فرمایے۔ اللہ نے کہا : اور جو کفر اختیار کرے گا اس کو بھی میں کچھ عرصے کے لیے لطف اٹھانے کا موقع دوں گا، (مگر) پھر اسے دوزخ کے عذاب کی طرف کھینچ لے جاؤں گا۔ اور وہ بدترین ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

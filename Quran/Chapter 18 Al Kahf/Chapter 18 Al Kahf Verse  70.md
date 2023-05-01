@@ -3224,6 +3224,12 @@ us ne kaha accha, agar aap mere saath hee chalne par israar karte hain, to yaad 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(خضرعلیہ السلام نے) کہا: پس اگر آپ میرے ساتھ رہیں تو مجھ سے کسی چیز کی بابت سوال نہ کریں یہاں تک کہ میں خود آپ سے اس کا ذکر کردوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : اچھا ! اگر آپ میرے ساتھ چلتے ہیں تو جب تک میں خود ہی آپ سے کسی بات کا تذکرہ شروع نہ کروں، آپ مجھ سے کسی بھی چیز کے بارے میں سوال نہ کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

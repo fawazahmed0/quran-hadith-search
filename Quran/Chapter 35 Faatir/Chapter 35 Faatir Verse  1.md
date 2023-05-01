@@ -3224,6 +3224,12 @@ us Allah ke liye tamaam taarife sazawaar hai jo (ibteda’an) asmaano aur zameen
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تمام تعریفیں اللہ ہی کے لئے ہیں جو آسمانوں اور زمین (کی تمام وسعتوں) کا پیدا فرمانے والا ہے، فرشتوں کو جو دو دو اور تین تین اور چار چار پَروں والے ہیں، قاصد بنانے والا ہے، اور تخلیق میں جس قدر چاہتا ہے اضافہ (اور توسیع) فرماتا رہتا ہے، بیشک اللہ ہر چیز پر بڑا قادر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمام تر تعریف اللہ کی ہے جو آسمانوں اور زمین کا پیدا کرنے والا ہے، جس نے ان فرشتوں کو پیغام لے جانے کے لیے مقرر کیا ہے، جو دو دو، تین تین اور چار چار پروں والے ہیں۔ وہ پیدائش میں جتنا چاہتا ہے اضافہ کردیتا ہے۔ بیشک اللہ ہر چیز کی قدرت رکھنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

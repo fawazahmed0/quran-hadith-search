@@ -3224,6 +3224,12 @@ haan (haan) beshak tere paas meri aayate pahonch chuki thi, jinhe tu ne jhutlaay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(رب فرمائے گا:) ہاں، بے شک میری آیتیں تیرے پاس آئی تھیں، سو تُو نے انہیں جھٹلا دیا، اور توُ نے تکبّر کیا اور تُو کافروں میں سے ہوگیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (تجھے ہدایت) کیوں نہیں (دی گئی ؟) میری آیتیں تیرے پاس آچکی تھیں، پھر تو نے انہیں جھٹلا دیا، اور بڑائی کے گھمنڈ میں پڑگیا، اور کافروں میں شامل رہا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

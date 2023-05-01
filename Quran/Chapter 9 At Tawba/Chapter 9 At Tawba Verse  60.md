@@ -3224,6 +3224,12 @@ sadqe sirf faqiro ke liye hai aur miskino ke liye aur un ke wasool karne walo ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک صدقات (زکوٰۃ) محض غریبوں اور محتاجوں اور ان کی وصولی پر مقرر کئے گئے کارکنوں اور ایسے لوگوں کے لئے ہیں جن کے دلوں میں اسلام کی الفت پیدا کرنا مقصود ہو اور (مزید یہ کہ) انسانی گردنوں کو (غلامی کی زندگی سے) آزاد کرانے میں اور قرض داروں کے بوجھ اتارنے میں اور اللہ کی راہ میں اور مسافروں پر (زکوٰۃ کا خرچ کیا جانا حق ہے)۔ یہ (سب) اللہ کی طرف سے فرض کیا گیا ہے، اور اللہ خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 صدقات تو دراصل حق ہے فقیروں کا، مسکینوں کا اور ان اہلکاروں کا جو صدقات کی وصولی پر مقرر ہوتے ہیں۔ اور ان کا جن کی دلداری مقصود ہے۔ نیز انہیں غلاموں کو آزاد کرنے میں اور قرض داروں کے قرضے ادا کرنے میں اور اللہ کے راستے میں اور مسافروں کی مدد میں خرچ کیا جائے۔ یہ ایک فریضہ ہے اللہ کی طرف سے اور اللہ علم کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ us se pehle to aap koyi kitaab padte na thein aur na kisi kitaab ko apne haath s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے حبیب!) اس سے پہلے آپ کوئی کتاب نہیں پڑھا کرتے تھے اور نہ ہی آپ اسے اپنے ہاتھ سے لکھتے تھے ورنہ اہلِ باطل اسی وقت ضرور شک میں پڑ جاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم اس سے پہلے نہ کوئی کتاب پڑھتے تھے، اور نہ کوئی کتاب اپنے ہاتھ سے لکھتے تھے۔ اگر ایسا ہوتا تو باطل والے میں میخ نکال سکتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

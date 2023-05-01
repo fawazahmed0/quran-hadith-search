@@ -3224,6 +3224,12 @@ wo kehne lage ke apne rub se aur dua ki jiye ke hamein us ki mazeed maahiyath ba
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اب) انہوں نے کہا: آپ ہمارے لئے اپنے رب سے درخواست کیجئے کہ وہ ہم پر واضح فرما دے کہ وہ کون سی گائے ہے؟ (کیونکہ) ہم پر گائے مشتبہ ہو گئی ہے، اور یقیناً اگر اللہ نے چاہا تو ہم ضرور ہدایت یافتہ ہو جائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے (پھر) کہا کہ آپ ہماری خاطر اپنے رب سے درخواست کیجئے کہ ہمیں صاف صاف بتائے کہ وہ گائے کیسی ہو ؟ اس گائے نے تو ہمیں شبہ میں ڈال دیا ہے اور اللہ نے چاہا تو ہم ضرور اس کا پتہ لگالیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

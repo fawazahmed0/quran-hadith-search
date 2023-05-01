@@ -3224,6 +3224,12 @@ osi ki wasiyath Ibraheem aur Yaqub ne apni aulaad ko ki, ke hamaare baccho! Alla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ابراہیم (علیہ السلام) نے اپنے بیٹوں کو اسی بات کی وصیت کی اور یعقوب (علیہ السلام) نے بھی (یہی کہا:) اے میرے لڑکو! بیشک اللہ نے تمہارے لئے (یہی) دین (اسلام) پسند فرمایا ہے سو تم (بہرصورت) مسلمان رہتے ہوئے ہی مرنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی بات کی ابراہیم نے اپنے بیٹوں کو وصیت کی، اور یعقوب نے بھی (اپنے بیٹوں کو) کہ : اے میرے بیٹو ! اللہ نے یہ دین تمہارے لیے منتخب فرما لیا ہے، لہذا تمہیں موت بھی آئے تو اس حالت میں آئے کہ تم مسلم ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

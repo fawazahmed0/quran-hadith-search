@@ -3224,6 +3224,12 @@ aur apne aap ko unhee ke saath rakha kar jo apne parvardigaar ko subah shaam puk
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے میرے بندے!) تو اپنے آپ کو ان لوگوں کی سنگت میں جمائے رکھا کر جو صبح و شام اپنے رب کو یاد کرتے ہیں اس کی رضا کے طلب گار رہتے ہیں (اس کی دید کے متمنی اور اس کا مکھڑا تکنے کے آرزو مند ہیں) تیری (محبت اور توجہ کی) نگاہیں ان سے نہ ہٹیں، کیا تو (ان فقیروں سے دھیان ہٹا کر) دنیوی زندگی کی آرائش چاہتا ہے، اور تو اس شخص کی اطاعت (بھی) نہ کر جس کے دل کو ہم نے اپنے ذکر سے غافل کردیا ہے اور وہ اپنی ہوائے نفس کی پیروی کرتا ہے اور اس کا حال حد سے گزر گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنے آپ کو استقامت سے ان لوگوں کے ساتھ رکھو جو صبح و شام اپنے رب کو اس لیے پکارتے ہیں کہ وہ اس کی خوشنودی کے طلبگار ہیں۔ اور تمہاری آنکھیں دنیوی زندگی کی خوبصورتی کی تلاش میں ایسے لوگوں سے ہٹنے نہ پائیں۔ اور کسی ایسے شخص کا کہنا نہ مانو جس کے دل کو ہم نے اپنی یاد سے غافل کر رکھا ہے، اور جو اپنی خواہشات کے پیچھے پڑا ہوا، اور جس کا معاملہ حد سے گزر چکا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ hum jab kisi cheez ka iraada karte hai to sirf hamara ye keh dena hota hai ke ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ہمارا فرمان تو کسی چیز کے لئے صرف اِسی قدر ہوتا ہے کہ جب ہم اُس (کو وجود میں لانے) کا ارادہ کرتے ہیں تو ہم اُسے فرماتے ہیں: ”ہو جا“ پس وہ ہو جاتی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہم کسی چیز کو پیدا کرنے کا ارادہ کرتے ہیں تو ہماری طرف سے صرف اتنی بات ہوتی ہے کہ ہم اسے کہتے ہیں : ہوجا۔ بس وہ ہوجاتی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aap se daryafth karte hai ke un ke liye kya kuch halal hai? aap keh dijiye ke ta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لوگ آپ سے سوال کرتے ہیں کہ ان کے لئے کیا چیزیں حلال کی گئی ہیں، آپ (ان سے) فرما دیں کہ تمہارے لئے پاک چیزیں حلال کر دی گئی ہیں اور وہ شکاری جانور جنہیں تم نے شکار پر دوڑاتے ہوئے یوں سدھا لیا ہے کہ تم انہیں (شکار کے وہ طریقے) سکھاتے ہو جو تمہیں اللہ نے سکھائے ہیں، سو تم اس (شکار) میں سے (بھی) کھاؤ جو وہ (شکاری جانور) تمہارے لئے (مار کر) روک رکھیں اور (شکار پر چھوڑتے وقت) اس (شکاری جانور) پر اللہ کا نام لیا کرو اور اللہ سے ڈرتے رہو۔ بیشک اللہ حساب میں جلدی فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لوگ تم سے پوچھتے ہیں کہ ان کے لیے کون سی چیزیں حلال ہیں ؟ کہہ دو کہ : تمہارے لیے تمام پاکیزہ چیزیں حلال کی گئی ہیں۔ اور جن شکاری جانوروں کو تم نے اللہ کے بتائے ہوئے طریقے کے مطابق سکھا سکھا کر (شکار کے لیے) سدھا لیا ہو، وہ جس جانور کو (شکار کر کے) تمہارے لیے روک رکھیں، اس میں سے تم کھا سکتے ہو، اور اس پر اللہ کا نام لیا کرو، اور اللہ سے ڈرتے رہو، اللہ جلد حساب لینے والا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

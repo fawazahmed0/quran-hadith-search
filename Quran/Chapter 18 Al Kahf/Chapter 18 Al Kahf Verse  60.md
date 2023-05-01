@@ -3224,6 +3224,12 @@ jab ke Mosa(alaihissalaam) ne apne nau jawaan se kaha, ke main to chalta hee rah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (وہ واقعہ بھی یاد کیجئے) جب موسٰی (علیہ السلام) نے اپنے (جواں سال ساتھی اور) خادم (یوشع بن نون علیہ السلام) سے کہا: میں (پیچھے) نہیں ہٹ سکتا یہاں تک کہ میں دو دریاؤں کے سنگم کی جگہ تک پہنچ جاؤں یا مدتوں چلتا رہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اس وقت کا ذکر سنو) جب موسیٰ نے اپنے نوجوان (شاگرد) سے کہا تھا کہ : میں اس وقت تک اپنا سفر جاری رکھوں گا جب تک دو سمندروں کے سنگھم پر نہ پہنچ جاؤں، ورنہ برسوں چلتا رہوں گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

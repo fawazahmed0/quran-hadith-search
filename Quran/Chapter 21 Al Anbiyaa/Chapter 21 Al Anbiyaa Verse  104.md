@@ -3224,6 +3224,12 @@ jis din hum asmaan ko, yo lapet lenge jaise taumaar1 mein auraaq lapet diye jaat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس دن ہم (ساری) سماوی کائنات کو اس طرح لپیٹ دیں گے جیسے لکھے ہوئے کاغذات کو لپیٹ دیا جاتا ہے، جس طرح ہم نے (کائنات کو) پہلی بار پیدا کیا تھا ہم (اس کے ختم ہو جانے کے بعد) اسی عملِ تخلیق کو دہرائیں گے۔ یہ وعدہ پورا کرنا ہم نے لازم کر لیا ہے۔ ہم (یہ اعادہ) ضرور کرنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن (کا دھیان رکھو) جب ہم آسمان کو اس طرح لپیٹ دیں گے جیسے کاغذوں کے طومار میں تحریریں لپیٹ دی جاتی ہیں۔ جس طرح ہم نے پہلے بار تخلیق کی ابتدا کی تھی، اسی طرح ہم اسے دوبارہ پیدا کردیں گے۔ یہ ایک وعدہ ہے جسے پورا کرنے کا ہم نے ذمہ لیا ہے۔ ہمیں یقینا یہ کام کرنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur hum ne Moosa (alaihissalaam) ko tumhaari hidaayath ke liye kitaab aur maujiz
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہم نے موسیٰ (علیہ السلام) کو کتاب اور حق و باطل میں فرق کرنے والا (معجزہ) عطا کیا تاکہ تم راہِ ہدایت پاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (یاد کرو) جب ہم نے موسیٰ کو کتاب دی، اور حق و باطل میں تمیز کا معیار (بخشا) تاکہ تم راہ راست پر آؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

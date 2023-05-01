@@ -3224,6 +3224,12 @@ un mein se baaz an-pad aise bhi hai jo kitaab ke sirf zaaheri alfaaz ko hee jaan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان (یہود) میں سے (بعض) ان پڑھ (بھی) ہیں جنہیں (سوائے سنی سنائی جھوٹی امیدوں کے) کتاب (کے معنی و مفہوم) کا کوئی علم ہی نہیں وہ (کتاب کو) صرف زبانی پڑھنا جانتے ہیں یہ لوگ محض وہم و گمان میں پڑے رہتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان میں سے کچھ لوگ ان پڑھ ہیں جو کتاب (تورات) کا علم تو رکھتے نہیں، البتہ کچھ آرزوئیں پکائے بیٹھے ہیں، اور ان کا کام بس یہ ہے کہ وہم و گمان باندھتے رہتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur agar Allah tala un mein koi qobi dekhta, tuh un ko sunne ki taufiq de deta a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر اللہ ان میں کچھ بھی خیر (کی طرف رغبت) جانتا تو انہیں (ضرور) سنا دیتا، اور (ان کی حالت یہ ہے کہ) اگر وہ انہیں (حق) سنا دے تو وہ (پھر بھی) روگردانی کر لیں اور وہ (حق سے) گریز ہی کرنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر اللہ کے علم میں ان کے اندر کوئی بھلائی ہوتی تو وہ ان کو سننے کی توفیق دے دیتا، لیکن اب (جبکہ ان میں بھلائی نہیں ہے) اگر ان کو سننے کی توفیق دے بھی دے تو وہ منہ موڑ کر بھاگ جائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

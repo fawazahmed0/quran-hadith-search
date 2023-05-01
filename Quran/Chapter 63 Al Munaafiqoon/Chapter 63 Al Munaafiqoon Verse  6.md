@@ -3224,6 +3224,12 @@ un ke haq mein aap ka isteghfaar karna aur na karna duno barabar hai, Allah ta�
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اِن (بدبخت گستاخانِ رسول صلی اللہ علیہ وآلہ وسلم) کے حق میں برابر ہے کہ آپ اُن کے لئے استغفار کریں یا آپ ان کے لئے استغفار نہ کریں، اللہ ان کو (تو) ہرگز نہیں بخشے گا (کیونکہ یہ آپ پر طعنہ زنی کرنے والے اور آپ سے بے رخی اور تکبّر کرنے والے لوگ ہیں)۔ بیشک اللہ نافرمان لوگوں کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) ان کے حق میں دونوں باتیں برابر ہیں، چاہے تم ان کے لیے مغفرت کی دعا کرو یا نہ کرو، اللہ انہیں ہرگز نہیں بخشے گا، یقین جانو اللہ ایسے نافرمان لوگوں کو ہدایت تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

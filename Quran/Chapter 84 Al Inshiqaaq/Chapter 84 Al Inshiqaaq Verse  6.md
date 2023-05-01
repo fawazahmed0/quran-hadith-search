@@ -3224,6 +3224,12 @@ aye insaan! tu apne rab se milne tak, ye koshish aur tamaam kaam, mehnate kar ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے انسان! تو اپنے رب تک پہنچنے میں سخت مشقتیں برداشت کرتا ہے بالآخر تجھے اسی سے جا ملنا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے انسان ! تو اپنے پروردگار کے پاس پہنچنے تک مسلسل کسی محنت میں لگا رہے گا، یہاں تک کہ اس سے جا ملے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

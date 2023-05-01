@@ -3224,6 +3224,12 @@ ke tu puri puri zirhe bana aur judo mein andaza rakh, tum sab nek kaam kiya karo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اور ارشاد فرمایا) کہ کشادہ زرہیں بناؤ اور (ان کے) حلقے جوڑنے میں اندازے کو ملحوظ رکھو اور (اے آلِ داوؤد!) تم لوگ نیک عمل کرتے رہو، میں اُن (کاموں) کو جو تم کرتے ہو خوب دیکھنے والا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ پوری پوری زرہیں بناؤ، اور کڑیاں جوڑنے میں توازن سے کام لو اور تم سب لوگ نیک عمل کرو۔ تم جو عمل بھی کرتے ہو میں اسے دیکھ رہا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

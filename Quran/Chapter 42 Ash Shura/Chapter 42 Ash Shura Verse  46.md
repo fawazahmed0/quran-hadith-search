@@ -3224,6 +3224,12 @@ un ke koyi madagaar nahi, jo Allah ta’ala se alag un ki imdaad kar sake aur ji
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُن (کافروں) کے لئے کوئی حمایتی نہیں ہوں گے جو اللہ کے مقابل اُن کی مدد کر سکیں، اور جسے اللہ گمراہ ٹھہرا دیتا ہے تو اس کے لئے (ہدایت کی) کوئی راہ نہیں رہتی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان کو ایسے کوئی مددگار میسر نہیں آئیں گے جو اللہ کو چھوڑ کر ان کی کوئی مدد کریں۔ اور جسے اللہ گمراہ کردے، اس کے لیے بچاؤ کا کوئی راستہ نہیں ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

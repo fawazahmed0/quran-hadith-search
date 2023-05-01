@@ -3224,6 +3224,12 @@ wo apne kaamo ke liye (kisi ke aage) jawaab deh nahi aur sab (us ke aage) jawaab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس سے اس کی بازپرس نہیں کی جا سکتی وہ جو کچھ بھی کرتا ہے، اور ان سے (ہر کام کی) بازپرس کی جائے گی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ جو کچھ کرتا ہے اس کا کسی کو جواب دہ نہیں ہے، اور ان سب کو جواب دہی کرنی ہوگی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

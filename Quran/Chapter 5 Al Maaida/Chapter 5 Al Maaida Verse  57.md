@@ -3224,6 +3224,12 @@ musalmano! un logo ko dosth na banao jo tumhare deen ko hasi khel banae hoe hai 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! ایسے لوگوں میں سے جنہیں تم سے پہلے کتاب دی گئی تھی، ان کو جو تمہارے دین کو ہنسی اور کھیل بنائے ہوئے ہیں اور کافروں کو دوست مت بناؤ، اور اللہ سے ڈرتے رہو بشرطیکہ تم (واقعی) صاحبِ ایمان ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! جن لوگوں کو تم سے پہلے کتاب دی گئی تھی ان میں سے ایسے لوگوں کو جنہوں نے تمہارے دین کو مذاق اور کھیل بنا رکھا ہے اور کافروں کو یارومددگار نہ بناؤ، اور اگر تم واقعی صاحب ایمان ہو تو اللہ سے ڈرتے رہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

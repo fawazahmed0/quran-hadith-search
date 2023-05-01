@@ -3224,6 +3224,12 @@ aur hum ne asmaan ko tatool kar dekha to ose saqth chaukidaaro aur saqth shulo s
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ کہ ہم نے آسمانوں کو چھوا، اور انہیں سخت پہرہ داروں اور (اَنگاروں کی طرح) جلنے اور چمکنے والے ستاروں سے بھرا ہوا پایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ : ہم نے آسمان کو ٹٹولنا چاہا تو ہم نے پایا کہ وہ بڑے سخت پہرے داروں اور شعلوں سے بھرا ہوا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

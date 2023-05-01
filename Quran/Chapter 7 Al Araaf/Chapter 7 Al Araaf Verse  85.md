@@ -3224,6 +3224,12 @@ aur hum ne madyan ki taraf un ke bhai Shoib (alaihissalaam) ko bheja, unhone far
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مدین کی طرف ہم نے ان کے بھائی شعیب کو بھیجا۔ انہوں نے کہا : اے میری قوم کے لوگو ! اللہ کی عبادت کرو۔ اس کے سوا تمہارا کوئی معبود نہیں ہے۔ تمہارے پاس تمہارے پروردگار کی طرف سے ایک روشن دلیل آچکی ہے۔ لہذا ناپ تول پورا پورا کیا کرو۔ اور جو چیزیں لوگوں کی ملکیت میں ہیں ان میں ان کی حق تلفی نہ کرو۔ اور زمین میں اس کی اصلاح کے بعد فساد برپا نہ کرو۔ لوگو ! یہی طریقہ تمہارے لیے بھلائی کا ہے، اگر تم میری بات مان لو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

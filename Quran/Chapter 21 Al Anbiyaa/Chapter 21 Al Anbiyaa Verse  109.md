@@ -3224,6 +3224,12 @@ phir agar ye mu mod le, to keh dijiye ke main ne tumhe yek-sa taur par qabardaar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اگر وہ رُوگردانی کریں تو فرما دیجئے: میں نے تم سب کو یکساں طور پر باخبر کر دیا ہے، اور میں (از خود) نہیں جانتا کہ وہ (عذاب) نزدیک ہے یا دور جس کا تم سے وعدہ کیا جا رہا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر یہ لوگ منہ موڑیں تو کہہ دو کہ : میں نے تمہیں علی الاعلان خبردار کردیا ہے۔ اور مجھے یہ معلوم نہیں ہے کہ جس (سزا) کا تم سے وعدہ کیا جارہا ہے، وہ قریب ہے یا دور۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

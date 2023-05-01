@@ -3224,6 +3224,12 @@ jo us ke siva kuch aur chaahe, wahi hadh se tajaawuz kar jaane waale hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جو شخص ان (حلال عورتوں) کے سوا کسی اور کا خواہش مند ہوا تو ایسے لوگ ہی حد سے تجاوز کرنے والے (سرکش) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں جو اس کے علاوہ کوئی اور طریقہ اختیار کرنا چاہیں تو ایسے لوگ حد سے گزرے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

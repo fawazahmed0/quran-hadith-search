@@ -3224,6 +3224,12 @@ aur us se zyada be-insaaf kaun hoga jo Allah ta’ala par jhoot buhtaan baandhe 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس سے بڑا ظالم کون ہوسکتا ہے جس نے اللہ پر جھوٹا بہتان باندھا یا اس نے اس کی آیتوں کو جھٹلایا؟ بیشک ظالم لوگ فلاح نہیں پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس شخص سے بڑھ کر ظالم کون ہوسکتا ہے جو اللہ پر جھوٹا بہتان باندھے، یا اللہ کی آیتوں کو جھٹلائے ؟ یقین رکھو کہ ظالم لوگ فلاح نہیں پاسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ us waqt azeez misr ki biwi ne kaha yahi hai jin ke baare mein tum mujhe taane de
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(زلیخا کی تدبیر کامیاب ہوگئی تب) وہ بولی: یہی وہ (پیکرِ نور) ہے جس کے بارے میں تم مجھے ملامت کرتی تھیں اور بیشک میں نے ہی (اپنی خواہش کی شدت میں) اسے پھسلانے کی کوشش کی مگر وہ سراپا عصمت ہی رہا، اور اگر (اب بھی) اس نے وہ نہ کیا جو میں اسے کہتی ہوں تو وہ ضرور قید کیا جائے گا اور وہ یقینًا بے آبرو کیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عزیز کی بیوی نے کہا : اب دیکھو ! یہ ہے وہ شخص جس کے بارے میں تم نے مجھے طعنے دیے تھے۔ یہ بات واقعی سچ ہے کہ میں نے اپنا مطلب نکالنے کے لیے اس پر ڈورے ڈالے، مگر یہ بچ نکلا، اور اگر یہ میرے کہنے پر عمل نہیں کرے گا، تو اسے قید ضرور کیا جائے گا، اور یہ ذلیل ہو کر رہے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

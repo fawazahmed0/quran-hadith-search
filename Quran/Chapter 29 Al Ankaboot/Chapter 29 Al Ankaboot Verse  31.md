@@ -3224,6 +3224,12 @@ aur jab hamaare bheje hoye farishte hazrath Ibraheem(alaihissalaam) ke paas bash
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ہمارے بھیجے ہوئے (فرشتے) ابراہیم (علیہ السلام) کے پاس خوشخبری لے کر آئے (تو) انہوں نے (ساتھ) یہ (بھی) کہا کہ ہم اس بستی کے مکینوں کو ہلاک کرنے والے ہیں کیونکہ یہاں کے باشندے ظالم ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب ہمارے بھیجے ہوئے فرشتے ابراہیم کے پاس (ان کے بیٹا ہونے کی) خوشخبری لے کر پہنچے تو انہوں نے کہا کہ : ہم اس بستی والوں کو ہلاک کرنے والے ہیں۔ حقیقت یہ ہے کہ اس کے باشندے بڑے ظالم بنے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

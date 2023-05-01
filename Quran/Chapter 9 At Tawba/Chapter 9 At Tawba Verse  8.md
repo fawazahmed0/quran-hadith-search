@@ -3224,6 +3224,12 @@ un ke wado ka kya etebar,un ka agar tum par ghalba ho jae tuh, na ye qarabatdari
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(بھلا ان سے عہد کی پاس داری کی توقع) کیونکر ہو! ان کا حال تو یہ ہے کہ اگر تم پر غلبہ پا جائیں تو نہ تمہارے حق میں کسی قرابت (یا سفارتی ضابطے) کا لحاظ کریں اور نہ کسی عہد کا، وہ (خوش کن الفاظ بول کر) تمہیں اپنے مونہہ سے تو راضی رکھتے ہیں جب کہ ان کے دل (ان باتوں سے) انکار کرتے ہیں اور ان میں سے اکثر نافرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لیکن دوسرے مشرکین کے ساتھ) کیسے معاہدہ برقرار رہ سکتا ہے جبکہ ان کا حال یہ ہے کہ اگر کبھی تم پر غالب آجائیں تو تمہارے معاملے میں نہ کسی رشتہ داری کا خیال کریں، اور نہ کسی معاہدے کا ؟ یہ تمہیں اپنی زبانی باتوں سے راضی کرنا چاہتے ہیں، حالانکہ ان کے دل انکار کرتے ہیں اور ان میں سے اکثر لوگ نافرمان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

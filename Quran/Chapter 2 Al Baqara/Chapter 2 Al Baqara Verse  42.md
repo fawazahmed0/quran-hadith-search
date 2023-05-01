@@ -3224,6 +3224,12 @@ aur haq ko bastil ke ssath qalath malath na karo aur na, haq ko chipaao, tumhe t
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور حق کی آمیزش باطل کے ساتھ نہ کرو اور نہ ہی حق کو جان بوجھ کر چھپاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور حق کو باطل کے ساتھ گڈ مڈ نہ کرو، اور نہ حق بات کو چھپاؤ جبکہ (اصل حقیقت) تم اچھی طرح جانتے ہو
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

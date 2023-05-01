@@ -3224,6 +3224,12 @@ wo wahi hai ke jin ki dunyawi zindagi ki tamaam tar koshishe bekaar ho gayi aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ وہ لوگ ہیں جن کی ساری جد و جہد دنیا کی زندگی میں ہی برباد ہوگئی اور وہ یہ خیال کرتے ہیں کہ ہم بڑے اچھے کام انجام دے رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ وہ لوگ ہیں کہ دنیوی زندگی میں ان کی ساری دوڑ دھوپ سیدھے راستے سے بھٹکی رہی، اور وہ سمجھتے رہے کہ وہ بہت اچھا کام کر رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

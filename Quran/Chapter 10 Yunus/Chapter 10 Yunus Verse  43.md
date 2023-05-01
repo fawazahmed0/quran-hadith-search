@@ -3224,6 +3224,12 @@ aur un mein baaz aise hai ke aap ko tak6 rahe hai,phir kya aap andho ko rasta di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان میں سے بعض وہ ہیں جو (ظاہراً) آپ کی طرف دیکھتے ہیں، کیا آپ اندھوں کو راہ دکھا دیں گے خواہ وہ کچھ بصارت بھی نہ رکھتے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان میں سے کچھ وہ ہیں جو تمہاری طرف دیکھتے ہیں (مگر دل میں انصاف نہ ہونے کی وجہ سے وہ اندھوں جیسے ہیں) تو کیا تم اندھوں کو راستہ دکھاؤ گے، چاہے انہیں کچھ بھی سجھائی نہ دیتا ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

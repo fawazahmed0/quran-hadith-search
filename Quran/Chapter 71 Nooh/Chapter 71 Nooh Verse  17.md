@@ -3224,6 +3224,12 @@ aur tum ko zameen se ek (qaas ehtemaam se) ugaaaya hai (aur payda kiya hai)
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اللہ نے تمہیں زمین سے سبزے کی مانند اُگایا٭o٭ اَرضی زندگی میں پودوں کی طرح حیاتِ اِنسانی کی اِبتداء اور نشو و نما بھی کیمیائی اور حیاتیاتی مراحل سے گزرتے ہوئے تدریجاً ہوئی، اِسی لئے اِسے اَنبَتَکُم مِّنَ الاَرضِ نَبَاتًا کے بلیغ اِستعارہ کے ذریعے بیان کیا گیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ نے تمہیں زمین سے بہترین طریقے پر اگایا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

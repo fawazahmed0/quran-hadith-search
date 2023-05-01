@@ -3224,6 +3224,12 @@ unhone jawaab diya ke aye meri qaum ke logo! kya tumhare nazdik mere qabile ke l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+شعیب (علیہ السلام) نے کہا: اے میری قوم! کیا میرا کنبہ تمہارے نزدیک اللہ سے زیادہ معزز ہے، اور تم نے اسے (یعنی اللہ تعالیٰ کو گویا) اپنے پس پشت ڈال رکھا ہے۔ بیشک میرا رب تمہارے (سب) کاموں کو احاطہ میں لئے ہوئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شعیب نے کہا : اے میری قوم ! کیا تم پر میرے خاندان کا دباؤ اللہ سے زیادہ ہے ؟ اور اس کو تم نے بالکل ہی پس پشت ڈال رکھا ہے۔ یقین جانو کہ جو کچھ تم کر رہے ہو، میرا پروردگار اس سب کا پورا احاطہ کیے ہوئے ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

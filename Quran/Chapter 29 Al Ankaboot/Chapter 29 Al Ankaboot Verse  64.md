@@ -3224,6 +3224,12 @@ aur dunya ki ye zindagaani to mahaz khel tamaasha hai, albatta aaqirath ke ghar 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اے لوگو!) یہ دنیا کی زندگی کھیل اور تماشے کے سوا کچھ نہیں ہے، اور حقیقت میں آخرت کا گھر ہی (صحیح) زندگی ہے۔ کاش! وہ لوگ (یہ راز) جانتے ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ دنیوی زندگی کھیل کود کے سوا کچھ بھی نہیں اور حقیقت یہ ہے کہ دار آخرت ہی اصل زندگی ہے، اگر یہ لوگ جانتے ہوتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

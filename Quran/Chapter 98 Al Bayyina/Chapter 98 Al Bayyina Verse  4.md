@@ -3224,6 +3224,12 @@ ahle kitaab apne paas zaaher daleel aa jaane ke baadh hee (eqtelaaf mein pad kar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان) اہل کتاب میں (نبی آخر الزماں صلی اللہ علیہ وآلہ وسلم کی نبوت و رسالت پر ایمان لانے اور آپ کی شانِ اقدس کو پہچاننے کے بارے میں پہلے) کوئی پھوٹ نہ پڑی تھی مگر اس کے بعد کہ جب (بعثتِ محمدی صلی اللہ علیہ وآلہ وسلم کی) روشن دلیل ان کے پاس آگئی (تو وہ باہم بٹ گئے کوئی ان پر ایمان لے آیا اور کوئی حسد کے باعث منکر و کافر ہوگیا)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو اہل کتاب تھے، انہوں نے جدا راستہ اسی کے بعد اختیار کیا جب ان کے پاس روشن دلیل آچکی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

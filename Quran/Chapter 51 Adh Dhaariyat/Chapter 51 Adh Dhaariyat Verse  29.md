@@ -3224,6 +3224,12 @@ pas un ki biwi aage badi aur hayrath mein aa kar apne mu par haath maar kar kaha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر اُن کی بیوی (سارہ) حیرت و حسرت کی آواز نکالتے ہوئے متوجہ ہوئیں اور تعجّب سے اپنے ماتھے پر ہاتھ مارا اور کہنے لگی: (کیا) بوڑھیا بانجھ عورت (بچہ جنے گی؟)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس پر ان کی بیوی زور سے بولتی ہوئی آئیں، اور انہوں نے اپنا چہرہ پیٹ لیا اور کہنے لگیں (کیا) ایک بانجھ بڑھیا (بچہ جنے گی ؟)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

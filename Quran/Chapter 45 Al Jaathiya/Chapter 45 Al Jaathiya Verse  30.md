@@ -3224,6 +3224,12 @@ pas lekin jo log imaan laaye aur unhone nek kaam kiye to un ko un ka rab apni re
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جو لوگ ایمان لائے اور نیک اعمال کرتے رہے تو اُن کا رب انہیں اپنی رحمت میں داخل فرما لے گا، یہی تو واضح کامیابی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جو لوگ ایمان لائے ہیں اور انہوں نے نیک عمل کیے ہیں ان کو تو ان کا پروردگار اپنی رحمت میں داخل کرے گا۔ یہی کھلی ہوئی کامیابی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

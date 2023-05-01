@@ -3224,6 +3224,12 @@ aur tabedaar log kehne lagenge, kaash hum dunya ki taraf dobaara jaaye, to hum b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یہ بے زاری دیکھ کر مشرک) پیروکار کہیں گے: کاش! ہمیں (دنیا میں جانے کا) ایک موقع مل جائے تو ہم (بھی) ان سے بے زاری ظاہر کردیں جیسے انہوں نے (آج) ہم سے بے زاری ظاہر کی ہے، یوں اللہ انہیں ان کے اپنے اعمال انہی پر حسرت بنا کر دکھائے گا، اور وہ (کسی صورت بھی) دوزخ سے نکلنے نہ پائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جنہوں نے ان (پیشواؤں) کی پیروی کی تھی وہ کہیں گے کہ کاش ہمیں ایک مرتبہ پھر (دنیا میں) لوٹنے کا موقع دے دیا جائے تو ہم بھی ان (پیشواؤں) سے اسی طرح بےتعلقی کا اعلان کریں جیسے انہوں نے ہم سے بےتعلقی کا اعلان کیا ہے۔ اس طرح اللہ انہیں دکھا دے گا کہ ان کے اعمال (آج) ان کے لیے حسرت ہی حسرت بن چکے ہیں اور اب وہ کسی صورت دوزخ سے نکلنے والے نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

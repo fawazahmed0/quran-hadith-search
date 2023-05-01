@@ -3224,6 +3224,12 @@ pus agar Allah tala aap ko in ki kisi jamath ki taraf lauta kar wapas le aae phi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس (اے حبیب!) اگر اللہ آپ کو (غزوۂ تبوک سے فارغ ہونے کے بعد) ان (منافقین) میں سے کسی گروہ کی طرف دوبارہ واپس لے جائے اور وہ آپ سے (آئندہ کسی اور غزوہ کے موقع پر جہاد کے لئے) نکلنے کی اجازت چاہیں تو ان سے فرما دیجئے گا کہ (اب) تم میرے ساتھ کبھی بھی ہرگز نہ نکلنا اور تم میرے ساتھ ہو کر کبھی بھی ہرگز دشمن سے جنگ نہ کرنا (کیونکہ) تم پہلی مرتبہ (جہاد چھوڑ کر) پیچھے بیٹھے رہنے سے خوش ہوئے تھے سو (اب بھی) پیچھے بیٹھے رہ جانے والوں کے ساتھ بیٹھے رہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) اس کے بعد اگر اللہ تمہیں ان میں سے کسی گروہ کے پاس واپس لے آئے، اور یہ (کسی اور جہاد میں) نکلنے کے لیے تم سے اجازت مانگیں تو ان سے کہہ دینا کہ : اب تم میرے ساتھ کبھی نہیں چل سکو گے، اور میرے ساتھ ملکر کسی دشمن سے کبھی نہیں لڑ سکو گے۔ تم نے پہلی بار بیٹھے رہنے کو پسند کیا تھا، لہذا اب بھی انہی کے ساتھ بیٹھ رہو جن کو (کسی معذوری کی وجہ سے) پیچھے رہنا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

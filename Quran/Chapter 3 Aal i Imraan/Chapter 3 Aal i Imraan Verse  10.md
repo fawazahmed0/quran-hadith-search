@@ -3224,6 +3224,12 @@ kaafiro ko un ke maal aur un ki aulaad Allah ta’ala (ke azaab) se chodaane mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جنہوں نے کفر کیا نہ ان کے مال انہیں اللہ (کے عذاب) سے کچھ بھی بچا سکیں گے اور نہ ان کی اولاد، اور وہی لوگ دوزخ کا ایندھن ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ جن لوگوں نے کفر اپنا لیا ہے اللہ کے مقابلے میں نہ ان کی دولت ان کے کچھ کام آئے گی، نہ ان کی اولاد اور وہی ہیں جو آگ کا ایندھن بن کر رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir hurmath wale mahino ke guzarte hee mushriko ko jahan pao qatl karo unhe gir
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب حرمت والے مہینے گزر جائیں تو تم (حسب اعلان جن) مشرکوں (نے تمہارے خلاف پہلے ہی سے جنگ شروع کر دی ہے، میدان جنگ میں ان) کو جہاں کہیں پاؤ قتل کر دو یا اُنہیں گرفتار کر لو اور انہیں قید کر دو اور (انہیں پکڑنے اور گھیرنے کے لیے) ہر گھات کی جگہ ان کی تاک میں بیٹھو، پس اگر وہ (قیدی بنا لیے جانے کے بعد) توبہ کر لیں اور نماز قائم کریں اور زکوٰۃ ادا کرنے لگیں تو (انہیں قید سے رہائی دیتے ہوئے) ان کا راستہ چھوڑ دو (کیونکہ اس صورت میں بھی معاہدۂ امن کی طرح جنگ کا جواز ختم ہوجائے گا)۔ بے شک اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب حرمت والے مہینے گزر جائیں تو ان مشرکین کو (جنہوں نے تمہارے ساتھ بدعہدی کی تھی) جہاں بھی پاؤ قتل کر ڈالو، اور انہیں پکڑو، انہیں گھیرو، اور انہیں پکڑنے کے لیے ہر گھات کی جگہ تاک لگا کر بیٹھو۔ ہاں اگر وہ توبہ کرلیں اور نماز قائم کریں اور زکوٰۃ ادا کریں تو ان کا راستہ چھوڑ دو ۔ یقینا اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

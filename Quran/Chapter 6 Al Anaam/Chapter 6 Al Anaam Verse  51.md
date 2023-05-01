@@ -3224,6 +3224,12 @@ aur aise logo ko daraaye jo is baath se andesha rakhte hai ke apne rab ke paas a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ اس (قرآن) کے ذریعے ان لوگوں کو ڈر سنائیے جو اپنے رب کے پاس اس حال میں جمع کئے جانے سے خوف زدہ ہیں کہ ان کے لئے اس کے سوا نہ کوئی مددگار ہو اور نہ (کوئی) سفارشی تاکہ وہ پرہیزگار بن جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اے پیغمبر) تم اس وحی کے ذریعے ان لوگوں کو خبردار کرو جو اس بات کا خوف رکھتے ہیں کہ ان کو ان کے پروردگار کے پاس ایسی حالت میں جمع کر کے لایا جائے گا کہ اس کے سوا نہ ان کا کوئی یارومددگار ہوگا، نہ کوئی سفارشی تاکہ وہ لوگ تقوی اختیار کرلیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

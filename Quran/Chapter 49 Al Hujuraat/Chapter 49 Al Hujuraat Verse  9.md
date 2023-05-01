@@ -3224,6 +3224,12 @@ aur agar musalmaano ki do jamaate aapas mein lad pade to un mein mel milaap kara
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر مسلمانوں کے دو گروہ آپس میں لڑائی کریں تو اُن کے درمیان صلح کرا دیا کرو، پھر اگر ان میں سے ایک (گروہ) دوسرے پر زیادتی اور سرکشی کرے تو اس (گروہ) سے لڑو جو زیادتی کا مرتکب ہو رہا ہے یہاں تک کہ وہ (قیام امن کے) حکم اِلٰہی کی طرف لوٹ آئے، پھر اگر وہ رجوع کر لے تو دونوں کے درمیان عدل کے ساتھ صلح کرا دو اور انصاف سے کام لو، بیشک اللہ انصاف کرنے والوں کو بہت پسند فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر مسلمانوں کے دو گروہ آپس میں لڑ پڑیں تو ان کے درمیان صلح کراؤ۔ پھر اگر ان میں سے ایک گروہ دوسرے کے ساتھ زیادتی کرے تو اس گروہ سے لڑو جو زیادتی کر رہا ہو، یہاں تک کہ وہ اللہ کے حکم کی طرف لوٹ آئے۔ چنانچہ اگر وہ لوٹ آئے، تو ان کے درمیان انصاف کے ساتھ صلح کرادو، اور (ہر معاملے میں) انصاف سے کام لیا کرو، بیشک اللہ انصاف کرنے والوں سے محبت کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

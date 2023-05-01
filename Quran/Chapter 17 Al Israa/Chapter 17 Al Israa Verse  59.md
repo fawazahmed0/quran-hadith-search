@@ -3224,6 +3224,12 @@ hamein nishanaath (maujizaath) ke naazil karne se rook sirf isi ki hai, ke agle 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم کو (اب بھی ان کے مطالبہ پر) نشانیاں بھیجنے سے (کسی چیز نے) منع نہیں کیا سوائے اس کے کہ ان ہی (نشانیوں) کو پہلے لوگوں نے جھٹلا دیا تھا (سو اس کے بعد وہ فوراً تباہ و برباد کر دیئے گئے اور کوئی مہلت باقی نہ رہی، اے حبیب! ہم آپ کی بِعثت کے بعد آپ کی قوم سے یہ معاملہ نہیں کرنا چاہتے)، اور ہم نے قومِ ثمود کو (صالح علیہ السلام کی) اونٹنی (کی) کھلی نشانی دی تھی تو انہوں نے اس پر ظلم کیا، اور ہم نشانیاں نہیں بھیجا کرتے مگر (عذاب کی آمد سے قبل آخری بار) خوفزدہ کرنے کے لئے (پھر جب اس نشانی کا انکار ہو جاتا ہے تو اسی وقت تباہ کن عذاب بھیج دیا جاتا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم کو نشانیاں (یعنی کفار کے مانگے ہوئے معجزات) بھیجنے سے کسی اور چیز نے نہیں، بلکہ اس بات نے روکا ہے کہ پچھلے لوگ ایسی نشانیوں کو جھٹلا چکے ہیں۔ اور ہم نے قوم ثمود کو اونٹنی دی تھی جو آنکھیں کھولنے کے لیے کافی تھی، مگر انہوں نے اس کے ساتھ ظلم کیا۔ اور ہم نشانیاں ڈرانے ہی کے لیے بھیجتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

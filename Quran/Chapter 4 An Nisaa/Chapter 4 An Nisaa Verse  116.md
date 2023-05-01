@@ -3224,6 +3224,12 @@ ose Allah ta’ala qatan na baqshega ke us ke saath shareek muqarrar kiya jaaye,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ اس (بات) کو معاف نہیں کرتا کہ اس کے ساتھ کسی کو شریک ٹھہرایا جائے اور جو (گناہ) اس سے نیچے ہے جس کے لئے چاہے معاف فرما دیتا ہے، اور جو کوئی اللہ کے ساتھ شرک کرے وہ واقعی دور کی گمراہی میں بھٹک گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک اللہ اس بات کو نہیں بخشتا کہ اس کے ساتھ کسی کو شریک ٹھہرایا جائے، اور اس سے کمتر ہر گناہ کی جس کے لیے چاہتا ہے بخشش کردیتا ہے۔ اور جو شخص اللہ کے ساتھ کسی کو شریک ٹھہرایات ہے، وہ راہ راست سے بھٹک کر بہت دور جا گرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

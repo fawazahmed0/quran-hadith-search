@@ -3224,6 +3224,12 @@ hum ne moosa ko nau maujeze bilkul saaf saaf ata farmaaye, tu khud hee bani isra
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے موسٰی (علیہ السلام) کو نو روشن نشانیاں دیں تو آپ بنی اسرائیل سے پوچھیئے جب (موسٰی علیہ السلام) ان کے پاس آئے تو فرعون نے ان سے کہا: میں تو یہی خیال کرتا ہوں کہ اے موسٰی! تم سحر زدہ ہو (تمہیں جادو کر دیا گیا ہے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ کو نو کھلی کھلی نشانیاں دی تھیں۔ اب بنو اسرائیل سے پوچھ لو کہ جب وہ ان لوگوں کے پاس گئے تو فرعون نے ان سے کہا کہ : اے موسیٰ ! تمہارے بارے میں میرا تو خیال یہ ہے کہ کسی نے تم پر جادو کردیا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

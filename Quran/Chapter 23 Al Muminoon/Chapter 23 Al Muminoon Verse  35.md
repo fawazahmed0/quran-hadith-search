@@ -3224,6 +3224,12 @@ kya ye tumhe is baath ka waada karta hai, ke jab tum mar kar sirf qaak aur haddi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا یہ (شخص) تم سے یہ وعدہ کر رہا ہے کہ جب تم مر جاؤ گے اور تم مٹی اور (بوسیدہ) ہڈیاں ہو جاؤ گے تو تم (دوبارہ زندہ ہو کر) نکالے جاؤ گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا بتاؤ یہ شخص تمہیں ڈراتا ہے کہ جب تم مرجاؤ گے، اور مٹی اور ہڈیوں میں تبدیل ہوجاؤ گے تو تمہیں دوبارہ زمین سے نکالا جائے گا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

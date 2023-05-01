@@ -3224,6 +3224,12 @@ aye hamare parvardigaar! mujhe baqsh de aur mere maa baap ko bhi baqsh aur digar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ہمارے رب! مجھے بخش دے اور میرے والدین کو (بخش دے)٭اور دیگر سب مومنوں کو بھی، جس دن حساب قائم ہوگاo٭ (یہاں حضرت ابراہیم علیہ السلام کے حقیقی والد تارخ کی طرف اشارہ ہے، یہ کافر و مشرک نہ تھے بلکہ دینِ حق پر تھے۔ آزر دراصل آپ کا چچا تھا، اس نے آپ علیہ السلام کو آپ علیہ السلام کے والد کی وفات کے بعد پالا تھا، اس لئے اسے عرفاً باپ کہا گیا ہے، وہ مشرک تھا اور آپ کو اس کے لئے دعائے مغفرت سے روک دیا گیا تھا جبکہ یہاں حقیقی والدین کے لئے دعائے مغفرت کی جا رہی ہے۔ یہ دعا اللہ تعالیٰ کو اس قدر پسند آئی کہ اسے امتِ محمدی (صلی اللہ علیہ وآلہ وسلم) کی نمازوں میں بھی برقرار رکھ دیا گیا۔
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن میری بھی مغفرت فرمائیے میرے والدین کی بھی، اور ان سب کی بھی جو ایمان رکھتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

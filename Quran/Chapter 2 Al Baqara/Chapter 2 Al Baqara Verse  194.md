@@ -3224,6 +3224,12 @@ hurmath waale mahine hurmath waale mahino ke badhle hai, aur hurmate adle badle 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+حرمت والے مہینے کے بدلے حرمت والا مہینہ ہے اور (دیگر) حرمت والی چیزیں ایک دوسرے کا بدل ہیں، پس اگر تم پر کوئی زیادتی کرے تم بھی اس پر زیادتی کرو مگر اسی قدر جتنی اس نے تم پر کی، اور اللہ سے ڈرتے رہو اور جان لو کہ اللہ ڈرنے والوں کے ساتھ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حرمت والے مہینے کا بدلہ حرمت والا مہینہ ہے، اور حرمتوں پر بھی بدلے کے احکام جاری ہوتے ہیں چنانچہ اگر کوئی شخص تم پر کوئی زیادتی کرے تو تم بھی ویسی ہی زیادتی اس پر کرو جیسی زیادتی اس نے تم پر کی ہو، اور اللہ سے ڈرتے رہو، اور اچھی طرح سمجھ لو کہ اللہ انہی کا ساتھی ہے جو اس کا خوف دل میں رکھتے ہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

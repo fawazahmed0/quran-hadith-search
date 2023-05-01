@@ -3224,6 +3224,12 @@ wo kehte hai ke Allah aulad rakhta hai,Subhanallah! wo to kisi ka muhtaaj nahi,o
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہتے ہیں: اللہ نے (اپنے لئے) بیٹا بنا لیا ہے (حالانکہ) وہ اس سے پاک ہے، وہ بے نیاز ہے۔ جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب اسی کی مِلک ہے، تمہارے پاس اس (قولِ باطل) کی کوئی دلیل نہیں، کیا تم اللہ پر وہ (بات) کہتے ہو جسے تم (خود بھی) نہیں جانتے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (کچھ) لوگوں نے کہہ دیا کہ اللہ اولاد رکھتا ہے، پاک ہے اس کی ذات، وہ ہر چیز سے بےنیاز ہے۔ آسمانوں اور زمین میں جو کچھ ہے اسی کا ہے۔ تمہارے پاس اس بات کی ذرا بھی کوئی دلیل نہیں ہے، کیا تم اللہ کے ذمے وہ بات لگاتے ہو جس کا تمہیں کوئی علم نہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur unhone kaha ke ye kaisa rasool hai? ke khana khaata hai aur bazaaro mein cha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ کہتے ہیں کہ اس رسول کو کیا ہوا ہے، یہ کھانا کھاتا ہے اور بازاروں میں چلتا پھرتا ہے۔ اس کی طرف کوئی فرشتہ کیوں نہیں اتارا گیا کہ وہ اس کے ساتھ (مل کر) ڈر سنانے والا ہوتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہتے ہیں کہ یہ کیسا رسول ہے جو کھانا بھی کھاتا ہے، اور بازاروں میں بھی چلتا پھرتا ہے ؟ اس کے پاس کوئی فرشتہ کیوں نہیں بھیجا گیا جو اس کے ساتھ رہ کر لوگوں کو ڈراتا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

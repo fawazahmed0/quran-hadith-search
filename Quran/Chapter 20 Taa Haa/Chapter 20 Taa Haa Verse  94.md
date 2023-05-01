@@ -3224,6 +3224,12 @@ Haroon(alaihissalaam) ne kaha, aye mere maa jaaye bhai! Meri daadi na pakad aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ہارون علیہ السلام نے) کہا: اے میری ماں کے بیٹے! آپ نہ میری داڑھی پکڑیں اور نہ میرا سر، میں (سختی کرنے میں) اس بات سے ڈرتا تھا کہ کہیں آپ یہ (نہ) کہیں کہ تم نے بنی اسرائیل کے درمیان فرقہ بندی کردی ہے اور میرے قول کی نگہداشت نہیں کی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہارون نے کہا : میرے ماں کے بیٹے ! میری داڑھی نہ پکڑو، اور نہ میرا سر۔ حقیقت میں مجھے یہ اندیشہ تھا کہ تم یہ کہو گے کہ تم نے بنی اسرائیل میں تفرقہ ڈال دیا، اور میری بات کا پاس نہیں کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

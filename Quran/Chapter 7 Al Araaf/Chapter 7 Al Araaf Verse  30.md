@@ -3224,6 +3224,12 @@ baaz logo ko Allah ne hidaayath di hai aur baaz par gumraahi saabith ho gayi hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (تم میں سے) ایک گروہ کو تو اللہ نے ہدایت تک پہنچا دیا ہے، اور ایک گروہ وہ ہے جس پر گمراہی مسلط ہوگئی ہے، کیونکہ ان لوگوں نے اللہ کے بجائے شیطانوں کو دوست بنا لیا ہے، اور سمجھ یہ رہے ہیں کہ وہ سیدھے راستے پر ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

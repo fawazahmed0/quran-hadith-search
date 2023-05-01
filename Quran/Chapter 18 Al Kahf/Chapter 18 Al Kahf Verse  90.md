@@ -3224,6 +3224,12 @@ yahaan tak ke jab suraj nikalne ki jageh tak pahoncha to ose ek aisi khaum par n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہاں تک کہ وہ طلوعِ آفتاب (کی سمت آبادی) کے آخری کنارے پر جا پہنچا، وہاں اس نے سورج (کے طلوع کے منظر) کو ایسے محسوس کیا (جیسے) سورج (زمین کے اس خطہ پر آباد) ایک قوم پر اُبھر رہا ہو جس کے لئے ہم نے سورج سے (بچاؤ کی خاطر) کوئی حجاب تک نہیں بنایا تھا (یعنی وہ لوگ بغیر لباس اور مکان کے غاروں میں رہتے تھے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہاں تک کہ جب وہ سورج کے طلوع ہونے کی جگہ پہنچے تو انہوں نے دیکھا کہ وہ ایک ایسی قوم پر طلوع ہورہا ہے جسے ہم نے اس (کی دھوپ) سے بچنے کے لیے کوئی اوٹ مہیا نہیں کی تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

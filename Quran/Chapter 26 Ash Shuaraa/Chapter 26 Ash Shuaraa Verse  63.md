@@ -3224,6 +3224,12 @@ hum ne Mosa(alaihissalaam) ki taraf wahi bheji ke darya par apni laathi maar, pa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر ہم نے موسٰی (علیہ السلام) کی طرف وحی بھیجی کہ اپنا عصا دریا پر مارو، پس دریا (بارہ حصوں میں) پھٹ گیا اور ہر ٹکڑا زبردست پہاڑ کی مانند ہو گیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ ہم نے موسیٰ کے پاس وحی بھیجی کہ اپنی لاٹھی سمندر پر مارو۔ بس پھر سمندر پھٹ گیا، اور ہر حصہ ایک بڑے پہاڑ کی طرح کھڑا ہوگیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

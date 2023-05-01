@@ -3224,6 +3224,12 @@ Kaytesya pered Nym, biytesya Yoho, zvershuyte molytvu y ne budʹte odnymy z baha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی کی طرف رجوع و اِنابت کا حال رکھو اور اس کا تقوٰی اختیار کرو اور نماز قائم کرو اور مشرکوں میں سے مت ہو جاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (فطرت کی پیروی) اس طرح (کرو) کہ تم نے اسی (اللہ) سے لو لگا رکھی ہو اور اس سے ڈرتے رہو، اور نماز قائم کرو اور ان لوگوں کے ساتھ شامل نہ ہو جو شرک کا ارتکاب کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

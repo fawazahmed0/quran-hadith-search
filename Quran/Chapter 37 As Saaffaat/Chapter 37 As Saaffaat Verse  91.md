@@ -3224,6 +3224,12 @@ aap (chup chupa te) un ke maboodho ke paas gaye aur farmaane lage, tum khaate ky
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر (ابراہیم علیہ السلام) ان کے معبودوں (یعنی بتوں) کے پاس خاموشی سے گئے اور اُن سے کہا: کیا تم کھاتے نہیں ہو؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے بعد یہ ان کے بنائے ہوئے معبودوں (یعنی بتوں) میں جا گھسے (اور ان سے) کہا : کیا تم کھاتے نہیں ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

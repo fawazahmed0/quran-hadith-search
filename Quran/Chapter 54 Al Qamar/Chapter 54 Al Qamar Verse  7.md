@@ -3224,6 +3224,12 @@ ye jhuki aankho, qabro se is tarah nikal khade honge, ke goya wo phayla hoa tadd
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اپنی آنکھیں جھکائے ہوئے قبروں سے نکل پڑیں گے گویا وہ پھیلی ہوئی ٹڈیاں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس دن یہ اپنی آنکھیں جھکائے قبروں سے اس طرح نکل کھڑے ہوں گے جیسے ہر طرف پھیلی ہوئی ٹڈیاں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

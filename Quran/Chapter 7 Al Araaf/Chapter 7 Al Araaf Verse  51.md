@@ -3224,6 +3224,12 @@ jinhone dunya mein apne deen ko lahu wa la-aab bana rakha tha aur jin ko dunyaaw
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جنہوں نے اپنے دین کو کھیل تماشا بنا رکھا تھا، اور جن کو دنیوی زندگی نے دھوکے میں ڈال دیا تھا۔ چنانچہ آج ہم بھی ان کو اسی طرح بھلا دیں گے جیسے وہ اس بات کو بھلائے بیٹھے تھے کہ انہیں اس دن کا سامنا کرنا ہے اور جیسے وہ ہماری آیتوں کا کھلم کھلا انکار کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

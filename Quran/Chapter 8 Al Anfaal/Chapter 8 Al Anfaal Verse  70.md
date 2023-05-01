@@ -3224,6 +3224,12 @@ ae Nabi! apne haath-ta-le19 ke qaidiyo se kehdo ke agar Allah tala tumhare dilo 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے نبی! آپ ان سے جو آپ کے ہاتھوں میں قیدی ہیں فرما دیجئے: اگر اللہ نے تمہارے دلوں میں بھلائی جان لی تو تمہیں اس (مال) سے بہتر عطا فرمائے گا جو (فدیہ میں) تم سے لیا جا چکا ہے اور تمہیں بخش دے گا، اور اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی ! تم لوگوں کے ہاتھوں میں جو قیدی ہیں (اور جنہوں نے مسلمان ہونے کا ارادہ ظاہر کیا ہے) ان سے کہہ دو کہ : اگر اللہ تمہارے دلوں میں بھلائی دیکھے گا جو مال تم سے (فدیہ میں) لیا گیا ہے اس سے بہتر تمہیں دیدے گا اور تمہاری بخشش کردے گا، اور اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

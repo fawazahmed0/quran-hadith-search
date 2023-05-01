@@ -3224,6 +3224,12 @@ aur jo log hidaayath yaafta hai Allah ne unhe hidaayath mein aur bada diya hai a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جن لوگوں نے ہدایت پا لی ہے، اللہ ان کی ہدایت کو اور زیادہ فرما دیتا ہے اور انہیں ان کے مقامِ تقوٰی سے سرفراز فرماتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جن لوگوں نے ہدایت کا راستہ اختیار کیا ہے اللہ نے انہیں ہدایت میں اور ترقی دی ہے، اور انہیں ان کے حصے کا تقوی عطا فرمایا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

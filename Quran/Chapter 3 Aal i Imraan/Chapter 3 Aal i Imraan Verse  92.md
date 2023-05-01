@@ -3224,6 +3224,12 @@ jab tak tum apni pasandida16 cheez se Allah ta’la ki raah mein qarch na karoge
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تم ہرگز نیکی کو نہیں پہنچ سکو گے جب تک تم (اللہ کی راہ میں) اپنی محبوب چیزوں میں سے خرچ نہ کرو، اور تم جو کچھ بھی خرچ کرتے ہو بیشک اللہ اسے خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تم نیکی کے مقام تک اس وقت تک ہرگز نہیں پہنچو گے جب تک ان چیزوں میں سے (اللہ کے لیے) خرچ نہ کرو جو تمہیں محبوب ہیں۔ اور جو کچھ بھی تم خرچ کرو، اللہ اسے خوب جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

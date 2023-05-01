@@ -3224,6 +3224,12 @@ Skazhy: «O raby Moyi, yaki porushyly mezhi na shkodu sobi! Ne vtrachayte nadiyi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آپ فرما دیجئے: اے میرے وہ بندو جنہوں نے اپنی جانوں پر زیادتی کر لی ہے! تم اللہ کی رحمت سے مایوس نہ ہونا، بے شک اللہ سارے گناہ معاف فرما دیتا ہے، وہ یقینا بڑا بخشنے والا، بہت رحم فرمانے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہہ دو کہ : ” اے میرے وہ بندو ! جنہوں نے اپنی جانوں پر زیادتی کر رکھی ہے، اللہ کی رحمت سے مایوس نہ ہو۔ یقین جانو اللہ سارے کے سارے گناہ معاف کردیتا ہے۔ یقینا وہ بہت بخشنے والا بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

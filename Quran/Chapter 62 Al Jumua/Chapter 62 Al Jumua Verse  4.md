@@ -3224,6 +3224,12 @@ ye Allah ka fazl hai, jise chaahe apna fazl de aur Allah ta’ala bahuth bade fa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ (یعنی اس رسول صلی اللہ علیہ وآلہ وسلم کی آمد اور اِن کا فیض و ہدایت) اللہ کا فضل ہے وہ جسے چاہتا ہے اس سے نوازتا ہے، اوراللہ بڑے فضل والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ اللہ کا فضل ہے وہ جسے چاہتا ہے دیتا ہے، اور اللہ بڑے فضل والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

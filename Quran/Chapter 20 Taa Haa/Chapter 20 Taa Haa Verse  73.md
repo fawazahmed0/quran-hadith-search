@@ -3224,6 +3224,12 @@ hum (is ummeed se) apne parvardigaar par imaan laaye ke wo hamaari qataaye maaf 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک ہم اپنے رب پر ایمان لائے ہیں تاکہ وہ ہماری خطائیں بخش دے اور اسے بھی (معاف فرما دے) جس جادوگری پر تو نے ہمیں مجبور کیا تھا، اور اللہ ہی بہتر ہے اور ہمیشہ باقی رہنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم تو اپنے رب پر ایمان لاچکے ہیں، تاکہ وہ ہمارے گناہوں کو بھی بخش دے، اور جادو کے اس کام کو بھی جس پر تم نے ہمیں مجبور کیا۔ اور اللہ ہی سب سے اچھا اور ہمیشہ باقی رہنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

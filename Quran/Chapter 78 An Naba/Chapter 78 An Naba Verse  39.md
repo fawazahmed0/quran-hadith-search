@@ -3224,6 +3224,12 @@ ye din haq hai, ab jo chaahe apne rab ke paas (nek amaal kar ke) thikaana bana l
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہ روزِ حق ہے، پس جو شخص چاہے اپنے رب کے حضور (رحمت و قربت کا) ٹھکانا بنا لے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ دن ہے جو برحق ہے۔ اب جو چاہے وہ اپنے پروردگار کے پاس ٹھکانا بنا رکھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

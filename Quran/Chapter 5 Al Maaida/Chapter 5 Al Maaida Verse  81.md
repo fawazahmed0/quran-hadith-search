@@ -3224,6 +3224,12 @@ agar unhe Allah ta’ala par aur nabi par aur jo naazil kiya gaya hai us par ima
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر وہ اللہ پر اور نبی (آخرالزماں صلی اللہ علیہ وآلہ وسلم) پر اور اس (کتاب) پر جو ان کی طرف نازل کی گئی ہے ایمان لے آتے تو ان (دشمنانِ اسلام) کو دوست نہ بناتے، لیکن ان میں سے اکثر لوگ نافرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر یہ لوگ اللہ پر اور نبی پر اور جو کلام ان پر نازل ہوا ہے اس پر ایمان رکھتے تو ان (بت پرستوں) کو دوست نہ بناتے، لیکن (بات یہ ہے کہ) ان میں زیادہ تعداد ان کی ہے جو نافرمان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ phir un ke baadh aise log un ke jaanasheen hoye ke kitaab ko un se haasil kiya, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ان کے بعد ان کی جگہ ایسے جانشین آئے جو کتاب (یعنی تورات) کے وارث بنے، مگر ان کا حال یہ تھا کہ اس ذلیل دنیا کا سازو سامان (رشوت میں) لیتے، اور یہ کہتے کہ : ہماری بخشش ہوجائے گی۔ حالانکہ اگر اسی جیسا سازوسامان دوبارہ ان کے پاس آتا تو وہ اسے بھی (رشوت میں) لے لیتے۔ کیا ان سے کتاب میں مذکور یہ عہد نہیں لیا گیا تھا کہ وہ اللہ کی طرف حق کے سوا کوئی بات منسوب نہ کریں ؟ اور اس (کتاب) میں جو کچھ لکھا تھا وہ انہوں نے باقاعدہ پڑھا بھی تھا۔ اور آخرت والا گھر ان لوگوں کے لیے کہیں بہتر ہے جو تقوی اختیار کرتے ہیں۔ (اے یہود) کیا پھر بھی تم عقل سے کام نہیں لیتے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

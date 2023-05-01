@@ -3224,6 +3224,12 @@ jin ki aankhe meri yaad se parde mein thi aur (amr haq) sun bhi nahi sakte thein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ لوگ جن کی آنکھیں میری یاد سے حجابِ (غفلت) میں تھیں اور وہ (میرا ذکر) سن بھی نہ سکتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن کی آنکھوں پر (دنیا میں) میری نصیحت کی طرف سے پردہ پڑا ہوا تھا، اور جو سننے کی صلاحیت نہیں رکھتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

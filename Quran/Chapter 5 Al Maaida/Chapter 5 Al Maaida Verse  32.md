@@ -3224,6 +3224,12 @@ isi wajeh se hum ne bani israel par ye likh diya ke jo shaqs kisi ko baghair us 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی وجہ سے ہم نے بنی اسرائیل پر (نازل کی گئی تورات میں یہ حکم) لکھ دیا (تھا) کہ جس نے کسی شخص کو بغیر قصاص کے یا زمین میں فساد انگیزی (کی سزا) کے بغیر (ناحق) قتل کر دیا تو گویا اس نے (معاشرے کے) تمام لوگوں کو قتل کر ڈالا اور جس نے اسے (ناحق مرنے سے بچا کر) زندہ رکھا تو گویا اس نے (معاشرے کے) تمام لوگوں کو زندہ رکھا (یعنی اس نے حیاتِ انسانی کا اجتماعی نظام بچا لیا)، اور بیشک ان کے پاس ہمارے رسول واضح نشانیاں لے کر آئے پھر (بھی) اس کے بعد ان میں سے اکثر لوگ یقیناً زمین میں حد سے تجاوز کرنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسی وجہ سے ہم نے بنی اسرائیل کو یہ فرمان لکھ دیا تھا کہ جو کوئی کسی کو قتل کرے، جبکہ یہ قتل نہ کسی اور جان کا بدلہ لینے کے لیے ہو اور نہ کسی کے زمین میں فساد پھیلانے کی وجہ سے ہو، تو یہ ایسا ہے جیسے اس نے تمام انسانوں کو قتل کردیا اور جو شخص کسی کی جان بچالے تو یہ ایسا ہے جیسے اس نے تمام انسانوں کی جان بچالی۔ اور واقعہ یہ ہے کہ ہمارے پیغمبر ان کے پاس کھلی کھلی ہدایات لے کر آئے، مگر اس کے بعد بھی ان میں سے بہت سے لوگ زمین میں زیادتیاں ہی کرتے رہے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jo log imaan rakhte hai aur apne imaan ko shirk ke saath maqlooth nahi karte ais
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو لوگ ایمان لائے اور اپنے ایمان کو (شرک کے) ظلم کے ساتھ نہیں ملایا انہی لوگوں کے لئے امن (یعنی اُخروی بے خوفی) ہے اور وہی ہدایت یافتہ ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (حقیقت تو یہ ہے کہ) جو لوگ ایمان لے آئے ہیں اور انہوں نے اپنے ایمان کے ساتھ کسی ظلم کا شائبہ بھی آنے نہیں دیا امن اور چین تو بس انہی کا حق ہے، اور وہی ہیں جو صحیح راستے پر پہنچ چکے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

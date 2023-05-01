@@ -3224,6 +3224,12 @@ wahi hai jis ne ahle kitaab mein se kaafiro ko un ke gharo se pehle hashr ke waq
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے اُن کافر کتابیوں کو (یعنی بنو نضیر کو) پہلی جلاوطنی میں گھروں سے (جمع کر کے مدینہ سے شام کی طرف) نکال دیا۔ تمہیں یہ گمان (بھی) نہ تھا کہ وہ نکل جائیں گے اور انہیں یہ گمان تھا کہ اُن کے مضبوط قلعے انہیں اللہ (کی گرفت) سے بچا لیں گے پھر اللہ (کے عذاب) نے اُن کو وہاں سے آلیا جہاں سے وہ گمان (بھی) نہ کرسکتے تھے اور اس (اللہ) نے اُن کے دلوں میں رعب و دبدبہ ڈال دیا وہ اپنے گھروں کو اپنے ہاتھوں اور اہلِ ایمان کے ہاتھوں ویران کر رہے تھے۔ پس اے دیدۂ بینا والو! (اس سے) عبرت حاصل کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے اہل کتاب میں سے کافر لوگوں کو ان کے گھروں سے پہلے اجتماع کے موقع پر نکال دیا۔ (مسلمانو) تمہیں یہ خیال بھی نہیں تھا کہ وہ نکلیں گے، اور وہ بھی یہ سمجھے ہوئے تھے کہ ان کے قلعے انہیں اللہ سے بچا لیں گے۔ پھر اللہ ان کے پاس ایسی جگہ سے آیا جہاں ان کا گمان بھی نہیں تھا، اور اللہ نے ان کے د لوں میں رعب ڈال دیا کہ وہ اپنے گھروں کو خود اپنے ہاتھوں سے بھی اور مسلمانوں کے ہاتھ سے بھی اجاڑ رہے تھے۔ لہذا اے آنکھوں والو ! عبرت حاصل کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

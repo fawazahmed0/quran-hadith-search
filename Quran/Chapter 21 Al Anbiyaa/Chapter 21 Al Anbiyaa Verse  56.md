@@ -3224,6 +3224,12 @@ aap ne farmaya, nahi, dar haqiqath tum sab ka parvardigaar to wo hai jo asmaano 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ابراہیم علیہ السلام نے) فرمایا: بلکہ تمہارا رب آسمانوں اور زمین کا رب ہے جس نے ان (سب) کو پیدا فرمایا اور میں اس (بات) پر گواہی دینے والوں میں سے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابراہیم نے کہا : نہیں، بلکہ تمہارا پروردگار وہ ہے جو تمام آسمانوں اور زمین کا مالک ہے، جس نے یہ ساری چیزیں پیدا کی ہیں، اور لوگو میں اس بات پر گواہی دیتا ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

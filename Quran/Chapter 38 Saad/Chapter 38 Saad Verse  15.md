@@ -3224,6 +3224,12 @@ unhe sirf ek cheeq ka intezaar hai jis mein koyi tawaqquf (aur dheel) nahi hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ سب لوگ ایک نہایت سخت آواز (چنگھاڑ) کا انتظار کر رہے ہیں جس میں کچھ بھی توقّف نہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (کہ) یہ لوگ (بھی) بس ایک ایسی چنگھاڑ کا انتظار کر رہے ہیں جس میں کوئی وقفہ نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

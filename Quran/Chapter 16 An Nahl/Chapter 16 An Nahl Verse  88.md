@@ -3224,6 +3224,12 @@ jinhone kufr kiya aur Allah ki raah se roka hum unhe azaab par azaab badaate jay
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جن لوگوں نے کفر کیا اور (دوسروں کو) اللہ کی راہ سے روکتے رہے ہم ان کے عذاب پر عذاب کا اضافہ کریں گے اس وجہ سے کہ وہ فساد انگیزی کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جن لوگوں نے کفر اپنا لیا تھا، اور دوسروں کو اللہ کے راستے سے روکا تھا، ان کے عذاب پر ہم مزید عذاب کا اضافہ کرتے رہیں گے، کیونکہ وہ فساد مچایا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

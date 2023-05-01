@@ -3224,6 +3224,12 @@ ya tum ne hum se kuch qasme li hai? jo qayaamath tak baaqi rahe, ke tumhaare liy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا تمہارے لئے ہمارے ذِمّہ کچھ (ایسے) پختہ عہد و پیمان ہیں جو روزِ قیامت تک باقی رہیں (جن کے ذریعے ہم پابند ہوں) کہ تمہارے لئے وہی کچھ ہوگا جس کا تم (اپنے حق میں) فیصلہ کرو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یا تم نے ہم سے قیامت کے دن تک باقی رہنے والی قسمیں لے رکھی ہیں کہ تمہیں وہی کچھ ملے گا جو تم طے کرو گے ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

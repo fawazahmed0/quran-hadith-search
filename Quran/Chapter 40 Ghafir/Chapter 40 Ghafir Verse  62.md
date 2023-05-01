@@ -3224,6 +3224,12 @@ yahi Allah hai tum sab ka rab, har cheez ka khaaliq, us ke siva koyi maboodh nah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یہی اللہ تمہارا رب ہے جو ہر چیز کا خالق ہے، اس کے سوا کوئی معبود نہیں، پھر تم کہاں بھٹکتے پھرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ ہے اللہ جو تمہارا پروردگار ہے، ہر چیز کا پیدا کرنے والا، اس کے سوا کوئی معبود نہیں ہے۔ پھر کہاں سے کوئی چیز تمہیں اوندھا چلا دیتی ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

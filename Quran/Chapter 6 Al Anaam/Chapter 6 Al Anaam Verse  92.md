@@ -3224,6 +3224,12 @@ aur ye bhi aisi hee kitaab hai jis ko hum ne naazil kiya hai jo badi barkath waa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور یہ (وہ) کتاب ہے جسے ہم نے نازل فرمایا ہے، بابرکت ہے، جو کتابیں اس سے پہلے تھیں ان کی (اصلاً) تصدیق کرنے والی ہے۔ اور (یہ) اس لئے (نازل کی گئی ہے) کہ آپ (اولاً) سب (انسانی) بستیوں کے مرکز (مکّہ) والوں کو اور (ثانیاً ساری دنیا میں) اس کے ارد گرد والوں کو ڈر سنائیں، اور جو لوگ آخرت پر ایمان رکھتے ہیں اس پر وہی ایمان لاتے ہیں اور وہی لوگ اپنی نماز کی پوری حفاظت کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (اسی طرح) یہ بڑی برکت والی کتاب ہے جو ہم نے اتاری ہے، پچھلی آسمانی ہدایات کی تصدیق کرنے والی ہے، تاکہ تم اس کے ذریعے بستیوں کے مرکز (یعنی مکہ) اور اس کے اردگرد کے لوگوں کو خبردار کرو۔ اور جو لوگ آخرت پر ایمان رکھتے ہیں وہ اس پر بھی ایمان رکھتے ہیں، اور وہ اپنی نماز کی پوری پوری نگہداشت کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

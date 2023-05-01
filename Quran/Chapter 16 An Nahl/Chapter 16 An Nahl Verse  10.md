@@ -3224,6 +3224,12 @@ wahi tumhaare fayede ke liye aasmaan se paani barsaata hai jise tum pite bhi ho 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے تمہارے لئے آسمان کی جانب سے پانی اتارا، اس میں سے (کچھ) پینے کا ہے اور اسی میں سے (کچھ) شجر کاری کا ہے (جس سے نباتات، سبزے اور چراگاہیں شاداب ہوتی ہیں) جن میں تم (اپنے مویشی) چراتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے آسمان سے پانی برسایا جس سے تمہیں پینے کی چیزیں حاصل ہوتی ہیں، اور اسی سے وہ درخت اگتے ہیں جن سے تم مویشیوں کو چراتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

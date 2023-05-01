@@ -3224,6 +3224,12 @@ aur jab un par mauje saayebaano ki tarah cha jaati hai to wo (nihaayath) quloos 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب سمندر کی موج (پہاڑوں، بادلوں یا) سائبانوں کی طرح ان پر چھا جاتی ہے تو وہ (کفّار و مشرکین) اللہ کو اسی کے لئے اطاعت کو خالص رکھتے ہوئے پکارنے لگتے ہیں، پھر جب وہ انہیں بچا کر خشکی کی طرف لے جاتا ہے تو ان میں سے چند ہی اعتدال کی راہ (یعنی راہِ ہدایت) پر چلنے والے ہوتے ہیں، ہماری آیتوں کا کوئی انکار نہیں کرتا سوائے ہر بڑے عہد شکن اور بڑے ناشکرگزار کے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب موجیں سائبانوں کی طرح ان پر چڑھ آتی ہیں تو وہ اللہ کو اس طرح پکارتے ہیں کہ اس وقت ان کا اعتقاد خالص اسی پر ہوتا ہے۔ پھر جب وہ ان کو بچا کر خشکی پر لے آتا ہے تو ان میں سے کچھ ہیں جو راہ راست پر رہتے ہیں (باقی پھر شرک کرنے لگتے ہیں) اور ہماری آیتوں کا انکار وہی شخص کرتا ہے جو پکا بدعہد، پرلے درجے کا ناشکر ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

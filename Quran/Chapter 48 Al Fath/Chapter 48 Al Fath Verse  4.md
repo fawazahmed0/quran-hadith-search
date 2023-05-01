@@ -3224,6 +3224,12 @@ wahi hai jis ne musalmaano ke dilo mein sukoon (aur itmenaan) daal diya, ta ke a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی ہے جس نے مومنوں کے دلوں میں تسکین نازل فرمائی تاکہ ان کے ایمان پر مزید ایمان کا اضافہ ہو، اور آسمانوں اور زمین کے سارے لشکر اللہ ہی کے لئے ہیں، اور اللہ خوب جاننے والا، بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہی ہے جس نے ایمان والوں کے دلوں میں سکینت اتار دی، تاکہ ان کے ایمان میں مزید ایمان کا اضافہ ہو۔ اور آسمانوں اور زمین کے تمام لشکر اللہ ہی کے ہیں، اور اللہ علم کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

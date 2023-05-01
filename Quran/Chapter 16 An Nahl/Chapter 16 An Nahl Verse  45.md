@@ -3224,6 +3224,12 @@ badh-tareen daao-pech karne waale kya us baath se be-khauf ho gaye hai ke Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ بُرے مکر و فریب کرنے والے لوگ اس بات سے بے خوف ہو گئے ہیں کہ اللہ انہیں زمین میں دھنسا دے یا (کسی) ایسی جگہ سے ان پر عذاب بھیج دے جس کا انہیں کوئی خیال بھی نہ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو کیا وہ لوگ جو برے برے منصوبے بنا رہے ہیں اس بات سے بالکل بےخوف ہوگئے ہیں کہ اللہ انہیں زمین میں دھنسا دے، یا ان پر عذاب ایسی جگہ سے آپڑے کہ انہیں احساس تک نہ ہو ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

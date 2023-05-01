@@ -3224,6 +3224,12 @@ rasool ke zimme to sirf pahonchaana hai, aur Allah ta’ala sab jaanta hai, jo k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+رسول (صلی اللہ علیہ وآلہ وسلم) پر (احکام کاملاً) پہنچا دینے کے سوا (کوئی اور ذمہ داری) نہیں، اور اللہ وہ (سب) کچھ جانتا ہے جو تم ظاہر کرتے ہو اور جو تم چھپاتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رسول پر سوائے تبلیغ کرنے کے کوئی اور ذمہ داری نہیں ہے۔ اور جو کچھ تم کھلے بندوں کرتے ہو اور جو کچھ چھپاتے ہو، اللہ ان سب باتوں کو جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

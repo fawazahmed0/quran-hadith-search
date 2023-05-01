@@ -3224,6 +3224,12 @@ kya aap ne unhe nahi dekha jinhe ek hissa kitaab ka diya gaya hai, wo apne aapas
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے ان لوگوں کو نہیں دیکھا جنہیں (علمِ) کتاب میں سے ایک حصہ دیا گیا وہ کتابِ الٰہی کی طرف بلائے جاتے ہیں تاکہ وہ (کتاب) ان کے درمیان (نزاعات کا) فیصلہ کر دے تو پھر ان میں سے ایک طبقہ منہ پھیر لیتا ہے اور وہ روگردانی کرنے والے ہی ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے ان لوگوں کو نہیں دیکھا جنہیں کتاب کا ایک حصہ دیا گیا تھا کہ انہیں اللہ کی کتاب کی طرف دعوت دی جاتی ہے تاکہ وہ ان کے درمیان فیصلہ کرے، اس کے باوجود ان میں سے ایک گروہ منہ موڑ کر انحراف کرجاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

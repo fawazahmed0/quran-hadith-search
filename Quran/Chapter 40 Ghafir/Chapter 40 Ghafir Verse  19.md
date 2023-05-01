@@ -3224,6 +3224,12 @@ wo aankho ki qayaanath ko aur sino ki poshida baatho ko (qoob) jaanta hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ خیانت کرنے والی نگاہوں کو جانتا ہے اور (ان باتوں کو بھی) جو سینے (اپنے اندر) چھپائے رکھتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ آنکھوں کی چوری کو بھی جانتا ہے، اور ان باتوں کو بھی جن کو سینوں نے چھپا رکھا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

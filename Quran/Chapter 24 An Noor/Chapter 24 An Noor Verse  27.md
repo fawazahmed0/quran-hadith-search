@@ -3224,6 +3224,12 @@ aye imaan waalo! apne gharo ke siva aur gharo mein na jaao jab tak ke ijaazath n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اپنے گھروں کے سوا دوسرے گھروں میں داخل نہ ہوا کرو، یہاں تک کہ تم ان سے اجازت لے لو اور ان کے رہنے والوں کو (داخل ہوتے ہی) سلام کہا کرو، یہ تمہارے لئے بہتر (نصیحت) ہے تاکہ تم (اس کی حکمتوں میں) غور و فکر کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اپنے گھروں کے سوا دوسرے گھروں میں اس وقت تک داخل نہ ہو جب تک اجازت نہ لے لو، اور ان میں بسنے والوں کو سلام نہ کرلو۔ یہی طریقہ تمہارے لیے بہتر ہے، امید ہے کہ تم خیال رکھو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

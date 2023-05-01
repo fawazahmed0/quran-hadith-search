@@ -3224,6 +3224,12 @@ aur paanchwi dafa kahe ke us par Allah ta’ala ka ghazab ho, agar us ka qaawind
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور پانچویں مرتبہ یہ (کہے) کہ اس پر (یعنی مجھ پر) اللہ کا غضب ہو اگر یہ (مرد اس الزام لگانے میں) سچا ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور پانچویں مرتبہ یہ کہے کہ : اگر وہ سچا ہو تو مجھ پر اللہ کا غضب نازل ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur jo shaqs Allah ta’ala ki aur us ke rasool(sallallahualaihiwasallam) ki na-
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کوئی اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی نافرمانی کرے اور اس کی حدود سے تجاوز کرے اسے وہ دوزخ میں داخل کرے گا جس میں وہ ہمیشہ رہے گا، اور اس کے لئے ذلّت انگیز عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص اللہ اور اس کے رسول کی نافرمانی کرے گا اور اس کی مقرر کی ہوئی حدود سے تجاوز کرے گا، اسے اللہ دوزخ میں داخل کرے گا جس میں وہ ہمیشہ رہے گا، اور اس کو ایسا عذاب ہوگا جو ذلیل کر کے رکھ دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

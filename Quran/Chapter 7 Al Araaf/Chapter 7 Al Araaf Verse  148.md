@@ -3224,6 +3224,12 @@ aur Mosa (alaihissalaam) ki khaum ne un ke baadh apne zewaro ka ek bachda mabood
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور موسیٰ کی قوم نے ان کے جانے کے بعد اپنے زیوروں سے ایک بچھڑا بنا لیا (بچھڑا کیا تھا ؟) ایک بےجان جسم جس سے بیل کی سی آواز نکلتی تھی۔ بھلا کیا انہوں نے اتنا بھی نہیں دیکھا کہ وہ نہ ان سے بات کرسکتا ہے، اور نہ انہیں کوئی راستہ بتاسکتا ہے ؟ (مگر) اسے معبود بنا لیا، اور (خود اپنی جانوں کے لیے) ظالم بن بیٹھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

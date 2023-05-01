@@ -3224,6 +3224,12 @@ un rasulo ne kaha ke tumhaari nahusath tumhaare saath hee lagi hoyi hai, kya is 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(پیغمبروں نے) کہا: تمہاری نحوست تمہارے ساتھ ہے، کیا یہ نحوست ہے کہ تمہیں نصیحت کی گئی، بلکہ تم لوگ حد سے گزر جانے والے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رسولوں نے کہا : تمہاری نحوست خود تمہارے ساتھ لگی ہوئی ہے۔ کیا یہ باتیں اس لیے کر رہے ہو کہ تمہیں نصیحت کی بات پہنچائی گئی ہے ؟ اصل بات یہ ہے کہ تم خود حد سے گزرے ہوئے لوگ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

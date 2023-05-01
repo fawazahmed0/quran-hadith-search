@@ -3224,6 +3224,12 @@ kya ye kehte hai ke is Nabi ne (Qur’aan) khud ghad liya hai, waaqeya ye hai ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+یا وہ کہتے ہیں کہ اس (رسول) نے اس (قرآن) کو اَزخود گھڑ لیا ہے، (ایسا نہیں) بلکہ وہ (حق کو) مانتے ہی نہیں ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہاں کیا وہ یہ کہتے ہیں کہ : ان صاحب نے یہ (قرآن) خود گھڑ لیا ہے ؟ نہیں، بلکہ یہ (ضد میں) ایمان نہیں لارہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jin ki ye haalath hai ke musalmaano ko chohd kar kaafiro ko dosth banaate phirte
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(یہ) ایسے لوگ (ہیں) جو مسلمانوں کی بجائے (جارح) کافروں کو (اپنا) حلیف سمجھتے ہیں۔ کیا یہ ان کے پاس عزت تلاش کرتے ہیں؟ پس عزت تو ساری اللہ (تعالٰی) کے لئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ منافق جو مسلمانوں کے بجائے کافروں کو دوست بناتے ہیں، کیا وہ ان کے پاس عزت تلاش کر رہے ہیں ؟ حالانکہ عزت تو ساری کی ساری اللہ ہی کی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

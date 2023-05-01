@@ -3224,6 +3224,12 @@ aur yaad karo jab nabi ne apni baaz aurto se ek poshida baath kahi, pas jab us n
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب نبئ (مکرّم صلی اللہ علیہ وآلہ وسلم) نے اپنی ایک زوجہ سے ایک رازدارانہ بات ارشاد فرمائی، پھر جب وہ اُس (بات) کا ذکر کر بیٹھیں اور اللہ نے نبی (صلی اللہ علیہ وآلہ وسلم) پر اسے ظاہر فرما دیا تو نبی (صلی اللہ علیہ وآلہ وسلم) نے انہیں اس کا کچھ حصہ جِتا دیا اور کچھ حصہ (بتانے) سے چشم پوشی فرمائی، پھر جب نبی (صلی اللہ علیہ وآلہ وسلم) نے انہیں اِس کی خبر دے دی (کہ آپ راز اِفشاء کر بیٹھی ہیں) تو وہ بولیں: آپ کو یہ کس نے بتا دیا ہے؟ نبی (صلی اللہ علیہ وآلہ وسلم) نے فرمایا کہ مجھے بڑے علم والے بڑی آگاہی والے (رب) نے بتا دیا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یاد کرو جب نبی نے اپنی کسی بیوی سے راز کے طور پر ایک بات کہی تھی۔ پھر جب اس بیوی نے وہ بات کسی اور کو بتلا دی، اور اللہ نے یہ بات نبی پر ظاہر کردی تو اس نے اس کا کچھ حصہ جتلا دیا اور کچھ حصے کو ٹال گئے۔ پھر جب انہوں نے اس بیوی کو وہ بات جتلائی تو وہ کہنے لگیں کہ : آپ کو یہ بات کس نے بتائی ؟ نبی نے کہا کہ : مجھے اس نے بتائی جو بڑے علم والا، بہت باخبر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ osi ne to tumhaare liye apne fazl wa karam se din raath muqarrar kar diye hai, k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس نے اپنی رحمت سے تمہارے لئے رات اور دن کو بنایا تاکہ تم رات میں آرام کرو اور (دن میں) اس کا فضل (روزی) تلاش کرسکو اور تاکہ تم شکر گزار بنو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یہ تو اسی نے اپنی رحمت سے تمہارے لیے رات بھی بنائی ہے اور دن بھی، تاکہ تم اس میں سکون حاصل کرو، اور اس میں اللہ کا فضل تلاش کرو، اور تاکہ تم شکر ادا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

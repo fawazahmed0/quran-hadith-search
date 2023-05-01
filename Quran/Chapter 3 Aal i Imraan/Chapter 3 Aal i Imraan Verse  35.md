@@ -3224,6 +3224,12 @@ jab Imran ki biwi ne kaha ke aye mere rab! mere pet mein jo kuch hai ose main ne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (یاد کریں) جب عمران کی بیوی نے عرض کیا: اے میرے رب! جو میرے پیٹ میں ہے میں اسے (دیگر ذمہ داریوں سے) آزاد کر کے خالص تیری نذر کرتی ہوں سو تو میری طرف سے (یہ نذرانہ) قبول فرما لے، بیشک تو خوب سننے خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (چنانچہ اللہ کے دعا سننے کا وہ واقعہ یاد کرو) جب عمران کی بیوی نے کہا تھا کہ : یا رب ! میں نے نذر مانی ہے کہ میرے پیٹ میں جو بچہ ہے میں اسے ہر کام سے آزاد کر کے تیرے لیے وقف رکھوں گی۔ میری اس نذر کو قبول فرما۔ بیشک تو سننے والا ہے، ہر چیز کا علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

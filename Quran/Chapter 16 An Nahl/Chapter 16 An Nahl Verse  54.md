@@ -3224,6 +3224,12 @@ aur jahaan us ne wo musibath tum se dafa kardi tum mein se kuch log apne rub ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب اللہ اس تکلیف کو تم سے دور فرما دیتا ہے تو تم میں سے ایک گروہ اس وقت اپنے رب سے شرک کرنے لگتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے بعد جب وہ تم سے تکلیف دور کردیتا ہے تو تم میں سے ایک گروہ اچانک اپنے پروردگار کے ساتھ شرک شروع کردیتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

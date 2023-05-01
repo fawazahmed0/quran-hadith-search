@@ -3224,6 +3224,12 @@ imaan walo ko Allah ta’ala pakki baath ke saath mazboot rakhta hai, dunya ki z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ایمان والوں کو (اس) مضبوط بات (کی برکت) سے دنیوی زندگی میں بھی ثابت قدم رکھتا ہے اور آخرت میں (بھی)۔ اور اللہ ظالموں کو گمراہ ٹھہرا دیتا ہے۔ اور اللہ جو چاہتا ہے کر ڈالتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو لوگ ایمان لائے ہیں، اللہ ان کو اس مضبوط بات پر دنیا کی زندگی میں جماؤ عطا کرتا ہے اور آخرت میں بھی، اور ظالم لوگوں کو اللہ بھٹکا دیتا ہے، اور اللہ (اپنی حکمت کے مطابق) جو چاہتا ہے کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

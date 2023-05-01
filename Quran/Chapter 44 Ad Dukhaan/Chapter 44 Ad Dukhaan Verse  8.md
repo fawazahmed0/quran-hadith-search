@@ -3224,6 +3224,12 @@ koyi maboodh nahi us ke siva, wahi jilaata hai aur maarta hai wahi tumhaara rab 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اُس کے سوا کوئی معبود نہیں، وہی زندگی دیتا اور موت دیتا ہے (وہ) تمہارا (بھی) رب ہے اور تمہارے اگلے آباء و اجداد کا (بھی) رب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس کے سوا کوئی معبود نہیں ہے، وہ زندگی بھی دیتا ہے، اور موت بھی، وہ تمہارا بھی رب ہے اور تمہارے پہلے گزرے ہوئے باپ دادوں کا بھی رب
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

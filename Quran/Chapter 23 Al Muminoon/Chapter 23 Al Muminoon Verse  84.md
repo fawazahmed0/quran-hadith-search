@@ -3224,6 +3224,12 @@ pochiye to sahih, ke zameen aur us ki kul cheeze kis ki hai? batlaao agar jaante
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان سے) فرمائیے کہ زمین اور جو کوئی اس میں (رہ رہا) ہے (سب) کس کی مِلک ہے، اگر تم (کچھ) جانتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! ذرا ان سے) کہو کہ : یہ ساری زمین اور اس میں بسنے والے کس کی ملکیت ہیں ؟ بتاؤ اگر جانتے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

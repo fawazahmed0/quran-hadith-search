@@ -3224,6 +3224,12 @@ be-shak jo log Allah ta’ala ke ahadh aur apni qasmo ko thodi qimath par bech d
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ اللہ کے عہد اور اپنی قَسموں کا تھوڑی سی قیمت کے عوض سودا کر دیتے ہیں یہی وہ لوگ ہیں جن کے لئے آخرت میں کوئی حصہ نہیں اور نہ قیامت کے دن اللہ ان سے کلام فرمائے گا اور نہ ہی ان کی طرف نگاہ فرمائے گا اور نہ انہیں پاکیزگی دے گا اور ان کے لئے دردناک عذاب ہو گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اس کے برخلاف) جو لوگ اللہ سے کیے ہوئے عہد اور اپنی کھائی ہوئی قسموں کا سودا کر کے تھوڑی سی قیمت حاصل کرلیتے ہیں ان کا آخرت میں کوئی حصہ نہیں ہوگا، اور قیامت کے دن نہ اللہ ان سے بات کرے گا، نہ انہیں (رعایت کی نظر سے) دیکھے گا، نہ انہیں پاک کرے گا، اور ان کا حصہ تو بس عذاب ہوگا، انتہائی دردناک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

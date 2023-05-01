@@ -3224,6 +3224,12 @@ jab imaan walo se milte hai to apni imaandari zaaher karte hai aur jab aapas mei
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (ان کا حال تو یہ ہو چکا ہے کہ) جب اہلِ ایمان سے ملتے ہیں (تو) کہتے ہیں: ہم (بھی تمہاری طرح حضرت محمد صلی اللہ علیہ وآلہ وسلم پر) ایمان لے آئے ہیں، اور جب آپس میں ایک دوسرے کے ساتھ تنہائی میں ہوتے ہیں (تو) کہتے ہیں: کیا تم ان (مسلمانوں) سے (نبی آخر الزمان صلی اللہ علیہ وآلہ وسلم کی رسالت اور شان کے بارے میں) وہ باتیں بیان کر دیتے ہو جو اللہ نے تم پر (تورات کے ذریعے) ظاہر کی ہیں تاکہ اس سے وہ تمہارے رب کے حضور تمہیں پر حجت قائم کریں، کیا تم (اتنی) عقل (بھی) نہیں رکھتے؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب یہ لوگ ان (مسلمانوں) سے ملتے ہیں جو پہلے ایمان لاچکے ہیں تو (زبان سے) کہہ دیتے ہیں کہ ہم (بھی) ایمان لے آئے ہیں، اور جب یہ ایک دوسرے کے ساتھ تنہائی میں جاتے ہیں تو (آپس میں ایک دوسرے سے) کہتے ہیں کہ : کیا تم ان (مسلمانوں) کو وہ باتیں بتاتے ہو جو اللہ نے تم پر کھولی ہیں تاکہ یہ (مسلمان) تمہارے پروردگار کے پاس جاکر انہیں تمہارے خلاف دلیل کے طور پر پیش کریں ؟ کیا تمہیں اتنی بھی عقل نہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

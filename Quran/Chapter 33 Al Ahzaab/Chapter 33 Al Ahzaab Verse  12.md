@@ -3224,6 +3224,12 @@ aur us waqt munaafiq aur wo log jin ke dilo mein (shak ka) rog tha, kehne lage A
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب منافق لوگ اور وہ لوگ جن کے دلوں میں (کمزورئ عقیدہ اور شک و شبہ کی) بیماری تھی، یہ کہنے لگے کہ ہم سے اللہ اور اس کے رسول نے صرف دھوکہ اور فریب کے لئے (فتح کا) وعدہ کیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یاد کرو جب منافقین اور وہ لوگ جن کے دلوں میں روگ ہے، یہ کہہ رہے تھے کہ : اللہ اور اس کے رسول نے ہم سے جو وعدہ کیا ہے وہ دھوکے کے سوا کچھ نہیں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

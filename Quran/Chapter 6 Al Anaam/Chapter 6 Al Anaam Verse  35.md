@@ -3224,6 +3224,12 @@ aur agar aap ko un ka, eraaz, gira guzarta hai to agar aap ko ye khudrath hai ke
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ پر ان کی رُوگردانی شاق گزر رہی ہے (اور آپ بہر صورت ان کے ایمان لانے کے خواہش مند ہیں) تو اگر آپ سے (یہ) ہو سکے کہ زمین میں (اترنے والی) کوئی سرنگ یا آسمان میں (چڑھنے والی) کوئی سیڑھی تلاش کرلیں پھر (انہیں دکھانے کے لیے) ان کے پاس کوئی (خاص) نشانی لے آئیں (وہ تب بھی ایمان نہیں لائیں گے)، اور اگر اللہ چاہتا تو ان کو ہدایت پر ضرور جمع فرما دیتا پس آپ (اپنی رحمت و شفقت کے بے پایاں جوش کے باعث ان کی بدبختی سے) بے خبر نہ ہوجائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر ان لوگوں کا منہ موڑے رہنا تمہیں بہت بھاری معلوم ہورہا ہے تو اگر تم زمین کے اندر (جانے کے لیے) کوئی سرنگ یا آسمان میں (چڑھنے کے لیے) کوئی سیڑھی ڈھونڈ سکتے ہو تو ان کے پاس (ان کا منہ مانگا یہ) معجزہ لے آؤ۔ اور اگر اللہ چاہتا تو ان سب کو ہدایت پر جمع کردیتا۔ لہذا تم نادانوں میں ہرگز شامل نہ ہونا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

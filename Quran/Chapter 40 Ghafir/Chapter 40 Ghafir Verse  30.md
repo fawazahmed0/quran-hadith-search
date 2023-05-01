@@ -3224,6 +3224,12 @@ us momin ne kaha aye meri khaum (ke logo) mujhe to andesha hai ke tum par bhi wa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس شخص نے کہا جو ایمان لا چکا تھا: اے میری قوم! میں تم پر (بھی اگلی) قوموں کے روزِ بد کی طرح (عذاب) کا خوف رکھتا ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص ایمان لے آیا تھا اس نے کہا : اے میری قوم ! مجھے ڈر ہے کہ تم پر ویسا ہی دن نہ آجائے جیسا بہت سے گروہوں پر آچکا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

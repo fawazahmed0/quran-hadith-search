@@ -3224,6 +3224,12 @@ aye imaan waalo un logo! jaise na ban jaao, jinhone Mosa(alaihissalaam) ko takle
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم اُن لوگوں کی طرح نہ ہوجانا جنہوں نے موسٰی (علیہ السلام) کو (گستاخانہ کلمات کے ذریعے) اذیت پہنچائی، پس اللہ نے انہیں اُن باتوں سے بے عیب ثابت کردیا جو وہ کہتے تھے، اور وہ (موسٰی علیہ السلام) اللہ کے ہاں بڑی قدر و منزلت والے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! ان لوگوں کی طرح نہ بن جانا جنہوں نے موسیٰ کو ستایا تھا، پھر اللہ نے ان کو ان باتوں سے بری کردیا جو ان لوگوں نے بنائی تھیں اور وہ اللہ کے نزدیک بڑے رتبے والے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

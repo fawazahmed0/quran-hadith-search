@@ -3224,6 +3224,12 @@ Allah ta’ala tumhe saza de kar kya karega? agar tum shukr guzaari karte raho a
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ تمہیں عذاب دے کر کیا کرے گا اگر تم شکر گزار بن جاؤ اور ایمان لے آؤ، اور اللہ (ہر حق کا) قدر شناس ہے (ہر عمل کا) خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم شکر گزار بنو اور (صحیح معنی میں) ایمان لے آؤ تو اللہ تمہیں عذاب دے کر آخر کیا کرے گا ؟ اللہ بڑا قدردان ہے (اور) سب کے حالات کا پوری طرح علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

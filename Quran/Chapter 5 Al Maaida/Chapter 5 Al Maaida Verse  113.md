@@ -3224,6 +3224,12 @@ wo bole ke hum ye chaahte hai ke us mein se khaaye aur hamaare dilo ko pura itme
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہنے لگے: ہم (تو صرف) یہ چاہتے ہیں کہ اس میں سے کھائیں اور ہمارے دل مطمئن ہو جائیں اور ہم (مزید یقین سے) جان لیں کہ آپ نے ہم سے سچ کہا ہے اور ہم اس (خوانِ نعمت کے اترنے) پر گواہ ہو جائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : ہم چاہتے ہیں کہ اس خوان سے کھانا کھائیں، اور اس کے ذریعے ہمارے دل پوری طرح مطمئن ہوجائیں، اور ہمیں (پہلے سے زیادہ یقین کے ساتھ) یہ معلوم ہوجائے کہ آپ نے ہم سے جو کچھ کہا ہے وہ سچ ہے، اور ہم اس پر گواہی دینے والوں میں شامل ہوجائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

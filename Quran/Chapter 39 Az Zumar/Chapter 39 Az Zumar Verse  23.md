@@ -3224,6 +3224,12 @@ Allah ta’ala ne behetreen kalaam naazil farmaya hai, jo aisi kitaab hai, ke aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ ہی نے بہترین کلام نازل فرمایا ہے، جو ایک کتاب ہے جس کی باتیں (نظم اور معانی میں) ایک دوسرے سے ملتی جلتی ہیں (جس کی آیتیں) بار بار دہرائی گئی ہیں، جس سے اُن لوگوں کے جسموں کے رونگٹے کھڑے ہوجاتے ہیں جو اپنے رب سے ڈرتے ہیں، پھر اُن کی جلدیں اور دل نرم ہو جاتے ہیں (اور رِقّت کے ساتھ) اللہ کے ذکر کی طرف (محو ہو جاتے ہیں)۔ یہ اللہ کی ہدایت ہے وہ جسے چاہتا ہے اس کے ذریعے رہنمائی فرماتا ہے۔ اور اللہ جسے گمراہ کر دیتا (یعنی گمراہ چھوڑ دیتا) ہے تو اُس کے لئے کوئی ہادی نہیں ہوتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے بہترین کلام نازل فرمایا ہے، ایک ایسی کتاب جس کے مضامین ایک دوسرے سے ملتے جلتے ہیں، جس کی باتیں بار بار دہرائی گئی ہیں۔ وہ لوگ جن کے دلوں میں اپنے پروردگار کا رعب ہے ان کی کھالیں اس سے کانپ اٹھتی ہیں، پھر ان کے جسم اور ان کے دل نرم ہو کر اللہ کی یاد کی طرف متوجہ ہوجاتے ہیں۔ یہ اللہ کی ہدایت ہے جس کے ذریعے وہ جس کو چاہتا ہے راہ راست پر لے آتا ہے، اور جسے اللہ راستے سے بھٹکا دے، اسے کوئی راستے پر لانے والا نہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

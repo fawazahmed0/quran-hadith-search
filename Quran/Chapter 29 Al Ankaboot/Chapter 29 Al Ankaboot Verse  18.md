@@ -3224,6 +3224,12 @@ aur agar tum jhutlaao to tum se pehle ki ummato ne bhi jhutlaya hai, rasool ke z
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر تم نے (میری باتوں کو) جھٹلایا تو یقیناً تم سے پہلے (بھی) کئی امتیں (حق کو) جھٹلا چکی ہیں، اور رسول پر واضح طریق سے (احکام) پہنچا دینے کے سوا (کچھ لازم) نہیں ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تم مجھے جھٹلا رہے ہو تو تم سے پہلے بہت سی قومیں جھٹلانے کی روش اختیار کرچکی ہیں، اور رسول پر اس کے سوا کوئی ذمہ داری نہیں ہوتی کہ وہ صاف صاف بات پہنچا دے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

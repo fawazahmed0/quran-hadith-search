@@ -3224,6 +3224,12 @@ aye imaan waalo Allah ta’ala se itna daro jitna us se darna chaahiye aur dekho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اللہ سے ڈرا کرو جیسے اس سے ڈرنے کا حق ہے اور تمہاری موت صرف اسی حال پر آئے کہ تم مسلمان ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! دل میں اللہ کا ویسا ہی خوف رکھو جیسا خوف رکھنا اس کا حق ہے، اور خبردار ! تمہیں کسی اور حالت میں موت نہ آئے، بلکہ اسی حالت میں آئے کہ تم مسلمان ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

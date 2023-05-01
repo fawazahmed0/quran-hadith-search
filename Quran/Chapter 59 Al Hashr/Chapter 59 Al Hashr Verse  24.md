@@ -3224,6 +3224,12 @@ wahi Allah hai payda karne waala, wajoodh baqshne waala, surath banaane waala, o
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہی اللہ ہے جو پیدا فرمانے والا ہے، عدم سے وجود میں لانے والا (یعنی ایجاد فرمانے والا) ہے، صورت عطا فرمانے والا ہے۔ (الغرض) سب اچھے نام اسی کے ہیں، اس کے لئے وہ (سب) چیزیں تسبیح کرتی ہیں جو آسمانوں اور زمین میں ہیں، اور وہ بڑی عزت والا ہے بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ اللہ وہی ہے جو پیدا کرنے والا ہے، وجود میں لانے والا ہے صورت بنانے والا ہے، اسی کے سب سے اچھے نام ہیں۔ آسمانوں اور زمین میں جتنی چیزیں ہیں وہ اس کی تسبیح کرتی ہیں، اور وہی ہے جو اقتدار کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

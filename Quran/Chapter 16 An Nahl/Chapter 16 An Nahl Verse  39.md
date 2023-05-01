@@ -3224,6 +3224,12 @@ is liye bhi ke ye log jis cheez mein eqtelaaf karte thein ose Allah ta’ala saa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(مُردوں کا اٹھایا جانا اس لئے ہے) تاکہ ان کے لئے وہ (حق) بات واضح کر دے جس میں وہ لوگ اختلاف کرتے ہیں اور یہ کہ کافر لوگ جان لیں کہ حقیقت میں وہی جھوٹے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (دوبارہ زندہ کرنے کا یہ وعدہ اللہ نے اس لیے کیا ہے) تاکہ وہ لوگوں کے سامنے ان باتوں کو اچھی طرح واضح کردے جن میں وہ اختلاف کر رہے ہیں اور تاکہ کافر لوگ جان لیں کہ وہ جھوٹے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

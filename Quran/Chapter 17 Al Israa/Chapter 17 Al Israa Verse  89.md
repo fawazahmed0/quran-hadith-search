@@ -3224,6 +3224,12 @@ hum ne to is Qur’an mein logo ke samajhne ke liye har tarah se tamaam misaale 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک ہم نے اس قرآن میں لوگوں کے لئے ہر طرح کی مثال (مختلف طریقوں سے) بار بار بیان کی ہے مگر اکثر لوگوں نے (اسے) قبول نہ کیا (یہ) سوائے ناشکری کے (اور کچھ نہیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے انسانوں کی بھلائی کے لیے اس قرآن میں ہر قسم کی حکمت کی باتیں طرح طرح سے بیان کی ہیں، پھر بھی اکثر لوگ انکار کے سوا کسی اور بات پر راضی نہیں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jab us ke saamne hamaari aayate padi jaati hai to keh deta hai ke ye to aglo ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جب اس پر ہماری آیتیں تلاوت کی جائیں (تو) کہتا ہے: یہ (تو) پہلے لوگوں کے اَفسانے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب اس کے سامنے ہماری آیتیں پڑھ کر سنائی جاتی ہیں تو وہ کہتا ہے کہ یہ پچھلے لوگوں کی کہانیاں ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

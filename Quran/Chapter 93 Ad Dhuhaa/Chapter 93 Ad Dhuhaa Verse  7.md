@@ -3224,6 +3224,12 @@ aur tujhe raah bhula pa kar hidaayath nahi di
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس نے آپ کو اپنی محبت میں خود رفتہ و گم پایا تو اس نے مقصود تک پہنچا دیا۔ یا- اور اس نے آپ کو بھٹکی ہوئی قوم کے درمیان (رہنمائی فرمانے والا) پایا تو اس نے (انہیں آپ کے ذریعے) ہدایت دے دی۔٭
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تمہیں راستے سے ناواقف پایا تو راستہ دکھایا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

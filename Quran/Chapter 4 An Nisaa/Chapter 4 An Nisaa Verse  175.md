@@ -3224,6 +3224,12 @@ pas jo log Allah ta’ala par imaan laaye aur ose mazbooth pakad liya unhe to wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس جو لوگ اللہ پر ایمان لائے اور اس (کے دامن) کو مضبوطی سے پکڑے رکھا تو عنقریب (اللہ) انہیں اپنی (خاص) رحمت اور فضل میں داخل فرمائے گا، اور انہیں اپنی طرف (پہنچنے کا) سیدھا راستہ دکھائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جو لوگ اللہ پر ایمان لائے ہیں اور انہوں نے اسی کا سہارا تھام لیا ہے، اللہ ان کو اپنے فضل اور رحمت میں داخل کرے گا اور انہیں اپنے پاس آنے کے لیے سیدھے راستے تک پہنچائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

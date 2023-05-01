@@ -3224,6 +3224,12 @@ Allah ta’ala aur us ke farishte is Nabi(sallallahu alaihi wasallam) par rehmat
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ اور ا س کے (سب) فرشتے نبیِ (مکرمّ صلی اللہ علیہ وآلہ وسلم) پر درود بھیجتے رہتے ہیں، اے ایمان والو! تم (بھی) اُن پر درود بھیجا کرو اور خوب سلام بھیجا کرو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیشک اللہ اور اس کے فرشتے نبی پر درود بھیجتے ہیں۔ اے ایمان والو ! تم بھی ان پر درود بھیجو، اور خوب سلام بھیجا کرو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

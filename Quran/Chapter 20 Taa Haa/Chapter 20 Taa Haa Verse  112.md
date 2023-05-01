@@ -3224,6 +3224,12 @@ aur jo nek amaal kare aur imaan wala bhi ho, to na ose be insaafi ka khatka hoga
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو شخص نیک عمل کرتا ہے اور وہ صاحبِ ایمان بھی ہے تو اسے نہ کسی ظلم کا خوف ہوگا اور نہ نقصان کا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس نے نیک عمل کیے ہوں گے جبکہ وہ مومن بھی ہو تو اسے نہ کسی زیادتی کا اندیشہ ہوگا، نہ کسی حق تلفی کا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

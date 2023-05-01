@@ -3224,6 +3224,12 @@ aur (haan) jo meri yaad se rugardaani karega, us ki zindagi tangi mein rahegi au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جس نے میرے ذکر (یعنی میری یاد اور نصیحت) سے روگردانی کی تو اس کے لئے دنیاوی معاش (بھی) تنگ کردیا جائے گا اور ہم اسے قیامت کے دن (بھی) اندھا اٹھائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو میری نصیحت سے منہ موڑے گا تو اس کو بڑی تنگ زندگی ملے گی، اور قیامت کے دن ہم اسے اندھا کر کے اٹھائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

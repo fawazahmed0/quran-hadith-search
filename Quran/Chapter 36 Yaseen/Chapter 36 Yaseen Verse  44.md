@@ -3224,6 +3224,12 @@ lekin hum apni taraf se rahmath karte hai aur ek muddath tak ke liye unhe fayde 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سوائے ہماری رحمت کے اور (یہ) ایک مقررہ مدّت تک کا فائدہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیکن یہ سب ہماری طرف سے ایک رحمت ہے، اور ایک معین وقت تک (زندگی کا) مزہ اٹھانے کا موقع ہے۔ (جو انہیں دیا جارہا ہے)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

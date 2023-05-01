@@ -3224,6 +3224,12 @@ tum se ye to kabhi na ho sakega ke apni tamaam biwiyo mein har taraah adl karo, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم ہرگز اس بات کی طاقت نہیں رکھتے کہ (ایک سے زائد) بیویوں کے درمیان (پورا پورا) عدل کر سکو اگرچہ تم کتنا بھی چاہو۔ پس (ایک کی طرف) پورے میلان طبع کے ساتھ (یوں) نہ جھک جاؤ کہ دوسری کو (درمیان میں) لٹکتی ہوئی چیز کی طرح چھوڑ دو۔ اور اگر تم اصلاح کر لو اور (حق تلفی و زیادتی سے) بچتے رہو تو اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور عورتوں کے درمیان مکمل برابری رکھتا تو تمہارے بس میں نہیں، چاہے تم ایسا چاہتے بھی ہو۔ البتہ کسی ایک طرف پورے پورے نہ جھک جاؤ کہ دوسری کو ایسا بنا کر چھوڑ دو جیسے کوئی بیچ میں لٹکی ہوئی چیز اور اگر تم اصلاح اور تقوی سے کام لو گے تو یقین رکھو کہ اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

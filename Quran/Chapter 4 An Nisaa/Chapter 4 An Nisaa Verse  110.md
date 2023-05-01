@@ -3224,6 +3224,12 @@ jo shaqs koyi buraayi kare ya apni jaan par zulm kare phir Allah se isteghfaar k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو کوئی برا کام کرے یا اپنی جان پر ظلم کرے پھر اللہ سے بخشش طلب کرے وہ اللہ کو بڑا بخشنے والا نہایت مہربان پائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جو شخص کوئی کر گزرے یا اپنی جان پر ظلم کر بیٹھے، پھر اللہ سے معافی مانگ لے تو وہ اللہ کو بہت بخشنے والا، بڑا مہربان پائے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

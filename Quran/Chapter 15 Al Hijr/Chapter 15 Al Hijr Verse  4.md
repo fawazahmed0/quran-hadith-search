@@ -3224,6 +3224,12 @@ kisi basti ko hum ne halaak nahi kiya magar ye ke us ke liye muqarrara navishta1
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے کوئی بھی بستی ہلاک نہیں کی مگر یہ کہ اُس کے لئے ایک معلوم نوشتۂ (قانون) تھا (جس کی انہوں نے خلاف ورزی کی اور اپنے انجام کو جا پہنچے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے جس کسی بستی کو ہلاک کیا تھا، اس کے لیے ایک معین وقت لکھا ہوا تھا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

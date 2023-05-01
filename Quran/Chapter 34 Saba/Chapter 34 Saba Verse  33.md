@@ -3224,6 +3224,12 @@ Woh dabay huey log un baday banne walon se kahenge, ‘Nahin, balke shab-o-roz k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر کمزور لوگ متکبرّوں سے کہیں گے: بلکہ (تمہارے) رات دن کے مَکر ہی نے (ہمیں روکا تھا) جب تم ہمیں حکم دیتے تھے کہ ہم اللہ سے کفر کریں اور ہم اس کے لئے شریک ٹھہرائیں، اور وہ (ایک دوسرے سے) ندامت چھپائیں گے جب وہ عذاب دیکھ لیں گے اور ہم کافروں کی گردنوں میں طوق ڈال دیں گے، اور انہیں اُن کے کئے کا ہی بدلہ دیا جائے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جنہیں کمزور سمجھا گیا تھا وہ ان سے کہیں گے جو بڑے بنے ہوئے تھے کہ : نہیں، یہ تمہاری رات دن کی مکاری ہی تو تھی (جس نے ہمیں روکا تھا) جب تم ہمیں تاکید کرتے تھے کہ ہم اللہ سے کفر کا معاملہ کریں، اور اس کے ساتھ (دوسروں کو) شریک مانیں۔ اور یہ سب جب عذاب کو دیکھ لیں گے تو اپنا پچھتاوا چھپا رہے ہوں گے۔ اور جن جن لوگوں نے کفر اختیار کیا تھا ہم ان سب کے گلوں میں طوق ڈال دیں گے۔ ان کو کسی اور بات کا نہیں، انہی اعمال کا بدلہ دیا جائے گا جو وہ کیا کرتے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

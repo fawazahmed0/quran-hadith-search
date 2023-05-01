@@ -3224,6 +3224,12 @@ us ne kaha badshaah jab kisi basti mein ghuste hai to ose ujaad dete hai aur wah
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ملکہ نے) کہا: بیشک جب بادشاہ کسی بستی میں داخل ہوتے ہیں تواسے تباہ و برباد کر دیتے ہیں اور وہاں کے باعزت لوگوں کو ذلیل و رسوا کر ڈالتے ہیں اور یہ (لوگ بھی) اسی طرح کریں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ملکہ بولی : حقیقت یہ ہے کہ بادشاہ لوگ جب کسی بستی میں گھس آتے ہیں تو اسے خراب کر ڈالتے ہیں، اور اس کے باعزت باشندوں کو ذلیل کر کے چھوڑتے ہیں، اور یہی کچھ یہ لوگ بھی کریں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

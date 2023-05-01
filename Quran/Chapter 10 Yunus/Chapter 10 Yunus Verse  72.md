@@ -3224,6 +3224,12 @@ phir bhi agar tum eraaz hee kiye jao to main ne tum se koi maweza to nahi manga,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سو اگر تم نے (میری نصیحت سے) منہ پھیر لیا ہے تو میں نے تم سے کوئی معاوضہ تو نہیں مانگا، میرا اجر تو صرف اللہ (کے ذمۂ کرم) پر ہے اور مجھے یہ حکم دیا گیا ہے کہ میں (اس کے حکم کے سامنے) سرِ تسلیم خم کئے رکھوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر تم نے منہ موڑے رکھا تو میں نے تم سے اس (تبلیغ) پر کوئی اجرت تو نہیں مانگی میرا اجر کسی اور نے نہیں، اللہ نے ذمے لیا ہے، اور مجھے یہ حکم دیا گیا ہے کہ میں فرمانبردار لوگوں میں شامل رہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ tumhe agar bhalaayi mile, to ye na-khush hote hai, haan agar boraayi pahoche to 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تمہیں کوئی بھلائی پہنچے تو انہیں بری لگتی ہے اور تمہیں کوئی رنج پہنچے تو وہ اس سے خوش ہوتے ہیں، اور اگر تم صبر کرتے رہو اور تقوٰی اختیار کئے رکھو تو ان کا فریب تمہیں کوئی نقصان نہیں پہنچا سکے گا، جو کچھ وہ کر رہے ہیں بیشک اللہ اس پر احاطہ فرمائے ہوئے ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تمہیں کوئی بھلائی مل جائے تو ان کو برا لگتا ہے، اور اگر تمہیں کوئی گزند پہنچے تو یہ اس سے خوش ہوتے ہیں، اگر تم صبر اور تقوی سے کام لو تو ان کی چالیں تمہیں کوئی نقصان نہیں پہنچائیں گی۔ جو کچھ یہ کر رہے ہیں وہ سب اللہ کے (علم اور قدرت کے) احاطے میں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ kya beto ke liye to Allah ne tumhe chaant liya aur khud apne liye farishto ko la
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے مشرکو! خود سوچو!) بھلا تمہیں تو تمہارے رب نے بیٹوں کے لئے چن لیا ہے اور (اپنے لئے) اس نے فرشتوں کو بیٹیاں بنا لیا ہے، بیشک تم (اپنے ہی گھڑے ہوئے خیالات کے پیمانہ پر) بڑی سخت بات کہتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا تمہارے رب نے تمہیں تو بیٹے دینے کے لیے چن لیا ہے، اور خود اپنے لیے فرشتوں کو بیٹیاں بنا لیا ہے ؟ حقیقت یہ ہے کہ تم لوگ بڑی سنگین بات کہہ رہے ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

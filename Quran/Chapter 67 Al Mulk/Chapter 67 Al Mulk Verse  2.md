@@ -3224,6 +3224,12 @@ jis ne mauth aur hayaath ko is liye paida kiya, tumhe azmaaye, ke tum mein se ac
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جس نے موت اور زندگی کو (اِس لئے) پیدا فرمایا کہ وہ تمہیں آزمائے کہ تم میں سے کون عمل کے لحاظ سے بہتر ہے، اور وہ غالب ہے بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جس نے موت اور زندگی اس لیے پیدا کی تاکہ وہ تمہیں آزمائے کہ تم میں سے کون عمل میں زیادہ بہتر ہے، اور وہی ہے جو مکمل اقتدار کا مالک، بہت بخشنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

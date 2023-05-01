@@ -3224,6 +3224,12 @@ un ke nabi ne unhe phir kaha ke us ki badshaahi ki zaaheri nishaani ye hai ke tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ان کے نبی نے ان سے فرمایا: اس کی سلطنت (کے مِن جانِبِ اللہ ہونے) کی نشانی یہ ہے کہ تمہارے پاس صندوق آئے گا اس میں تمہارے رب کی طرف سے سکونِ قلب کا سامان ہوگا اور کچھ آلِ موسٰی اور آلِ ہارون کے چھوڑے ہوئے تبرکات ہوں گے اسے فرشتوں نے اٹھایا ہوا ہوگا، اگر تم ایمان والے ہو تو بیشک اس میں تمہارے لئے بڑی نشانی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ان سے ان کے نبی نے یہ بھی کہا کہ : طالوت کی بادشاہت کی علامت یہ ہے کہ تمہارے پاس وہ صندوق (واپس) آجائے گا جس میں تمہارے پروردگار کی طرف سے سکینت کا سامان ہے، اور موسیٰ اور ہارون نے جو اشیاء چھوڑی تھیں ان میں سے کچھ باقی ماندہ چیزیں ہیں۔ اسے فرشتے اٹھائے ہوئے لائیں گے اگر تم مومن ہو تو تمہارے لیے اس میں بڑی نشانی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

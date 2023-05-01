@@ -3224,6 +3224,12 @@ beshak jo log Allah aur us ke rasool ki muqaalifath karte hai, wo zaleel kiye ja
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک جو لوگ اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) سے عداوت رکھتے ہیں وہ اسی طرح ذلیل کئے جائیں گے جس طرح اُن سے پہلے لوگ ذلیل کئے جاچکے ہیں اور بیشک ہم نے واضح آیتیں نازل فرما دی ہیں، اور کافروں کے لئے ذِلت انگیز عذاب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یقین رکھو کہ جو لوگ اللہ اور اس کے رسول کی مخالفت کرتے ہیں، وہ ایسے ہی ذلیل ہوں گے جیسے ان سے پہلے لوگ ذلیل ہوئے تھے اور ہم نے کھلی کھلی آیتیں نازل کردی ہیں اور کافروں کے لیے ایسا عذاب ہے جو خوار کر کے رکھ دے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

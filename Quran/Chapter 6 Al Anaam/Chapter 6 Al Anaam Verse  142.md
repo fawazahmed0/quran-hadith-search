@@ -3224,6 +3224,12 @@ aur maweshi mein oonche qadh ke aur chote qadh ke (paida kiye) jo kuch Allah ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (اس نے) بار برداری کرنے والے (بلند قامت) چوپائے اور زمین پر (ذبح کے لئے یا چھوٹے قد کے باعث) بچھنے والے (مویشی پیدا فرمائے)، تم اس (رزق) میں سے (بھی بطریقِ ذبح) کھایا کرو جو اللہ نے تمہیں بخشا ہے اور شیطان کے راستوں پر نہ چلا کرو، بیشک وہ تمہارا کھلا دشمن ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور چوپایوں میں سے اللہ نے وہ جانور بھی پیدا کیے ہیں جو بوجھ اٹھاتے ہیں اور وہ بھی جو زمین سے لگے ہوئے ہوتے ہیں۔ اللہ نے جو رزق تمہیں دیا ہے، اس میں سے کھاؤ اور شیطان کے نقش قدم پر نہ چلو۔ یقین جانو، وہ تمہارے لیے ایک کھلا دشمن ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

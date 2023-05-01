@@ -3224,6 +3224,12 @@ yousuf ke bhai aaye, aur yousuf ke paas gaye to us ne unhe pehchaan liya aur unh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (قحط کے زمانہ میں) یوسف (علیہ السلام) کے بھائی (غلہ لینے کے لئے مصر) آئے تو ان کے پاس حاضر ہوئے پس یوسف (علیہ السلام) نے انہیں پہچان لیا اور وہ انہیں نہ پہچان سکے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (جب قحط پڑا تو) یوسف کے بھائی آئے، اور ان کے پاس پہنچے۔ تو یوسف نے انہیں پہچان لیا، اور وہ یوسف کو نہیں پہچانے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

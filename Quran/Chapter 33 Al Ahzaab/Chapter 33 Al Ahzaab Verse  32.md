@@ -3224,6 +3224,12 @@ aye Nabi (sallallahu alaihi wasallam) ki biwiyo! tum aam aurto ki tarah nahi ho,
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے اَزواجِ پیغمبر! تم عورتوں میں سے کسی ایک کی بھی مِثل نہیں ہو، اگر تم پرہیزگار رہنا چاہتی ہو تو (مَردوں سے حسبِ ضرورت) بات کرنے میں نرم لہجہ اختیار نہ کرنا کہ جس کے دل میں (نِفاق کی) بیماری ہے (کہیں) وہ لالچ کرنے لگے اور (ہمیشہ) شک اور لچک سے محفوظ بات کرنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے نبی کی بیویو ! اگر تم تقوی اختیار کرو تو تم عام عورتوں کی طرح نہیں ہو۔ لہذا تم نزاکت کے ساتھ بات مت کیا کرو، کبھی کوئی ایسا شخص بیجا لالچ کرنے لگے جس کے دل میں روگ ہوتا ہے، اور بات وہ کہو جو بھلائی والی ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

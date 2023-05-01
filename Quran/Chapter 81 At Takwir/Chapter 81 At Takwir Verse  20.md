@@ -3224,6 +3224,12 @@ jo quwwath waala hai, arsh waale (Allah) ke nazdeek bulandh martaba hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+جو (دعوتِ حق، تبلیغِ رسالت اور روحانی استعداد میں) قوت و ہمت والے ہیں (اور) مالکِ عرش کے حضور بڑی قدر و منزلت (اور جاہ و عظمت) والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو قوت والا ہے، جس کا عرش والے کے پاس بڑا رتبہ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

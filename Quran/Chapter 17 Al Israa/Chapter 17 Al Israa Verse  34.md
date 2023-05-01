@@ -3224,6 +3224,12 @@ aur yateem ke maal ke qareeb bhi na jaao, bajuz us tariqe ke jo bahuth hee behta
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم یتیم کے مال کے (بھی) قریب تک نہ جانا مگر ایسے طریقہ سے جو (یتیم کے لئے) بہتر ہو یہاں تک کہ وہ اپنی جوانی کو پہنچ جائے, اور وعدہ پورا کیا کرو، بیشک وعدہ کی ضرور پوچھ گچھ ہوگی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یتیم کے مال کے پاس بھی نہ پھٹکو، مگر ایسے طریقے سے جو (اس کے حق میں) بہترین ہو، یہاں تک کہ وہ اپنی پختگی کو پہنچ جائے، اور عہد کو پورا کرو، یقین جانو کہ عہد کے بارے میں (تمہاری) باز پرس ہونے والی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

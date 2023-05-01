@@ -3224,6 +3224,12 @@ ye kya baath hai ke tum aurto ko chohd kar mardo ke paas shehwath se aate ho? ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم اپنی نفسانی خواہش پوری کرنے کے لئے عورتوں کو چھوڑ کر مَردوں کے پاس جاتے ہو بلکہ تم جاہل لوگ ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا یہ کوئی یقین کرنے کی بات ہے کہ تم اپنی جنسی خواہش کے لیے عورتوں کو چھوڑ کر مردوں کے پاس جاتے ہو ؟ حقیقت یہ ہے کہ تم بڑی جہالت کے کام کرنے والے لوگ ہو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur feraun ne apni khaum mein munaadi karaayi aur kaha aye meri khaum! kya misr 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرعون نے اپنی قوم میں (فخر سے) پکارا (اور) کہا: اے میری قوم! کیا ملکِ مصر میرے قبضہ میں نہیں ہے اور یہ نہریں جو میرے (محلّات کے) نیچے سے بہہ رہی ہیں (کیا میری نہیں ہیں؟) سو کیا تم دیکھتے نہیں ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور فرعون نے اپنی قوم کے درمیان پکار کر کہا کہ : اے میری قوم ! کیا مصر کی سلطنت میرے قبضے میں نہیں ہے ؟ اور (دیکھو) یہ دریا میرے نیچے بہہ رہے ہیں۔ کیا تمہیں دکھائی نہیں دیتا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

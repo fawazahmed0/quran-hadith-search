@@ -3224,6 +3224,12 @@ feraun ne kaha aye hamaan mere liye ek bala khaana bana, shaayad ke main asmaan 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور فرعون نے کہا: اے ہامان! تو میرے لئے ایک اونچا محل بنا دے تاکہ میں (اس پر چڑھ کر) راستوں پر جا پہنچوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور فرعون نے (اپنے وزیر سے) کہا کہ اے ہامان ! میرے لیے ایک اونچی عمارت بنادو تاکہ میں ان راستوں تک پہنچوں
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ wo to sirf ek zoor ki cheeq thi, ke yeka yek wo sab ke sab bujh buja gaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان کا عذاب) ایک سخت چنگھاڑ کے سوا اور کچھ نہ تھا، بس وہ اُسی دم (مر کر کوئلے کی طرح) بُجھ گئے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ تو بس ایک ہی چنگھاڑ تھی جس سے وہ ایک دم بجھ کر رہ گئے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

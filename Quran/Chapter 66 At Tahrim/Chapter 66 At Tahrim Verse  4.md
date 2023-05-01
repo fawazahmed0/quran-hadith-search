@@ -3224,6 +3224,12 @@ aye Nabi(sallallahu alaihi wasallam) ki duno biwiyo!) agar tum duno Allah ke saa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر تم دونوں اللہ کی بارگاہ میں توبہ کرو (تو تمہارے لئے بہتر ہے) کیونکہ تم دونوں کے دل (ایک ہی بات کی طرف) جھک گئے ہیں، اگر تم دونوں نے اس بات پر ایک دوسرے کی اعانت کی (تو یہ نبی مکرّم صلی اللہ علیہ وآلہ وسلم کے لئے باعثِ رنج ہوسکتا ہے) سو بیشک اللہ ہی اُن کا دوست و مددگار ہے، اور جبریل اور صالح مومنین بھی اور اس کے بعد (سارے) فرشتے بھی (اُن کے) مددگار ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے نبی کی بیویو) اگر تم اللہ کے حضور توبہ کرلو (تو یہی مناسب ہے) کیونکہ تم دونوں کے د ل مائل ہوگئے ہیں، اور اگر نبی کے مقابلے میں تم نے ایک دوسری کی مدد کی، تو (یاد رکھو کہ) ان کا ساتھی اللہ ہے اور جبریل ہیں اور نیک مسلمان ہیں، اور اس کے علاوہ فرشتے ان کے مددگار ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

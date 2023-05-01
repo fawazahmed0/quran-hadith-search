@@ -3224,6 +3224,12 @@ jaisa aale feraun ka haal hoa, aur un ka jo un se pehle thein, unhone hamaari aa
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(ان کا بھی) قومِ فرعون اور ان سے پہلی قوموں جیسا طریقہ ہے، جنہوں نے ہماری آیتوں کو جھٹلایا تو اللہ نے ان کے گناہوں کے باعث انہیں پکڑ لیا، اور اللہ سخت عذاب دینے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان کا حال فرعون اور ان سے پہلے کے لوگوں کے معاملے جیسا ہے۔ انہوں نے ہماری آیتوں کو جھٹلایا، چنانچہ اللہ نے ان کو ان کے گناہوں کی وجہ سے پکڑ میں لے لیا، اور اللہ کا عذاب بڑا سخت ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur isi tarah tujhe tera parvardigaar barguzida karega aur tujhe mamela fehmi (y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اسی طرح تمہارا رب تمہیں (بزرگی کے لئے) منتخب فرما لے گا اور تمہیں باتوں کے انجام تک پہنچنا (یعنی خوابوں کی تعبیر کا علم) سکھائے گا اور تم پر اور اولادِ یعقوب پر اپنی نعمت تمام فرمائے گا جیسا کہ اس نے اس سے قبل تمہارے دونوں باپ (یعنی پردادا اور دادا) ابراہیم اور اسحاق (علیھما السلام) پر تمام فرمائی تھی۔ بیشک تمہارا رب خوب جاننے والا بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی طرح تمہارا پروردگار تمہیں (نبوت کے لیے) منتخب کرے گا، اور تمہیں تمام باتوں کا صحیح مطلب نکالنا سکھائے گا (جس میں خوابوں کی تعبیر کا علم بھی داخل ہے) اور تم پر اور یعقوب کی اولاد پر اپنی نعمت اسی طرح پوری کرے گا جیسے اس نے اس سے پہلے تمہارے ماں باپ پر اور ابراہیم اور اسحاق پر پوری کی تھی۔ یقینا تمہارا پروردگار علم کا بھی مالک ہے، حکمت کا بھی مالک۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

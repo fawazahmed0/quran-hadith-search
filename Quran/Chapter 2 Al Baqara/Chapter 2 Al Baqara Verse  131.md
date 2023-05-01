@@ -3224,6 +3224,12 @@ jab kabhi bhi unhe un ke rub ne kaha farmabardaar ho ja, unhone kaha main ne rab
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جب ان کے رب نے ان سے فرمایا: (میرے سامنے) گردن جھکا دو، تو عرض کرنے لگے: میں نے سارے جہانوں کے رب کے سامنے سرِ تسلیم خم کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب ان کے پروردگار نے ان سے کہا کہ : سر تسلیم خم کردو ! تو وہ (فورا) بولے : میں نے رب العالمین کے (ہر حکم کے) آگے سر جھکا دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ pas aap sabr kare, yaqinan Allah ka waada saccha hai, aap ko wo log halka (be’
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس آپ صبر کیجئے، بیشک اللہ کا وعدہ سچا ہے، جو لوگ یقین نہیں رکھتے کہیں (ان کی گمراہی کا غم اور ہدایت کی فکر) آپ کو کمزور ہی نہ کر دیں۔ (اے جانِ جہاں! ان کے کفر کو غمِ جاں نہ بنا لیں)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لہذا (اے پیغمبر) تم صبر سے کام لو، یقین جانو اللہ کا وعدہ سچا ہے اور ایسا ہرگز نہ ہونا چاہیے کہ جو لوگ یقین نہیں کرتے ان کی وجہ سے تم ڈھیلے پڑجاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

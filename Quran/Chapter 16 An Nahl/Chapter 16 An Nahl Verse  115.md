@@ -3224,6 +3224,12 @@ tum par sirf murdaar aur qoon aur suwwar ka gosht aur jis cheez par Allah ke siv
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس نے تم پر صرف مردار اور خون اور خنزیر کا گوشت اور وہ (جانور) جس پر ذبح کرتے وقت غیر اللہ کا نام پکارا گیا ہو، حرام کیا ہے، پھر جو شخص حالتِ اضطرار (یعنی انتہائی مجبوری کی حالت) میں ہو، نہ (طلبِ لذت میں احکامِ الٰہی سے) سرکشی کرنے والا ہو اور نہ (مجبوری کی حد سے) تجاوز کرنے والا ہو، تو بیشک اللہ بڑا بخشنے والا نہایت مہربان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس نے تو تمہارے لیے بس مردار، خون، خنزیر کا گوشت اور وہ جانور حرام کیا ہے جس پر اللہ کے سوا کسی اور کا نام پکارا گیا ہو۔ البتہ جو شخص بھوک سے بالکل بےتاب ہو، لذت حاصل کرنے کے لیے نہ کھائے، اور (ضرورت کی) حد سے آگے نہ بڑھے تو اللہ بہت بخشنے والا، بڑا مہربان ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

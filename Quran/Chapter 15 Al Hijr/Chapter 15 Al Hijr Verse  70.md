@@ -3224,6 +3224,12 @@ wo bole kya hum ne tujhe dunya bhar (ki theke daari) se mana nahi kar rakha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ (بد مست لوگ) بولے: (اے لوط!) کیا ہم نے تمہیں دنیا بھر کے لوگوں (کی حمایت) سے منع نہیں کیا تھا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہنے لگے : کیا ہم نے آپ کو پہلے ہی دنیا جہان کے لوگوں (کو مہمان بنانے) سے منع نہیں کر رکھا تھا ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aye meri qaum ke logo! tum apne paalne wale se apni taqsiro5 ki maafi talab karo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اے لوگو! تم اپنے رب سے (گناہوں کی) بخشش مانگو پھر اس کی جناب میں (صدقِ دل سے) رجوع کرو، وہ تم پر آسمان سے موسلادھار بارش بھیجے گا اور تمہاری قوت پر قوت بڑھائے گا اور تم مجرم بنتے ہوئے اس سے روگردانی نہ کرنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے میری قوم ! اپنے پروردگار سے گناہوں کی معافی مانگو، پھر اس کی طرف رجوع کرو، وہ تم پر آسمان سے موسلا دھار بارشیں برسائے گا، اور تمہاری موجودہ قوت میں مزید قوت کا اضافہ کرے گا، اور مجرم بن کر منہ نہ موڑو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

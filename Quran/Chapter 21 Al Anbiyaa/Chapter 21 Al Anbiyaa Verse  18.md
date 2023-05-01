@@ -3224,6 +3224,12 @@ balke hum sach ko jhoot par phek maarte hai, pas sach jhoot ka sar tood deta hai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بلکہ ہم حق سے باطل پر پوری قوت کے ساتھ چوٹ لگاتے ہیں سو حق اسے کچل دیتا ہے پس وہ (باطل) ہلاک ہو جاتا ہے، اور تمہارے لئے ان باتوں کے باعث تباہی ہے جو تم بیان کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلکہ ہم تو حق بات کو باطل پر کھینچ مارتے ہیں، جو اس کا سر توڑ ڈالتا ہے، اور وہ ایک دم مل یا میٹ ہوجاتا ہے۔ اور جو باتیں تم بنا رہے ہو، ان کی وجہ سے خرابی تمہاری ہی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

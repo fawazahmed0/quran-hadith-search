@@ -3224,6 +3224,12 @@ aur Dawood(alaihissalaam) aur Sulaiman(alaihissalaam) ko yaad ki jiye, jab ke wo
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور داؤد اور سلیمان (علیہما السلام کا قصہ بھی یاد کریں) جب وہ دونوں کھیتی (کے ایک مقدمہ) میں فیصلہ کرنے لگے جب ایک قوم کی بکریاں اس میں رات کے وقت بغیر چرواہے کے گھس گئی تھیں (اور اس کھیتی کو تباہ کر دیا تھا)، اور ہم ان کے فیصلہ کا مشاہدہ فرما رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور داؤد اور سلیمان (کو بھی ہم نے حکمت اور علم عطا کیا تھا) جب وہ دونوں ایک کھیت کے جھگڑے کا فیصلہ کر رہے تھے، کیونکہ کچھ لوگوں کی بکریاں رات کے وقت اس کھیت میں جا گھسی تھیں۔ اور ان لوگوں کے بارے میں جو فیصلہ ہوا اسے ہم خود دیکھ رہے تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

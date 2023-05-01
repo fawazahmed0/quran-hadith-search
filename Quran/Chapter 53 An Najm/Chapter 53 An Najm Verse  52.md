@@ -3224,6 +3224,12 @@ aur us se pehle khaum nuh ko, yaqinan wo bade zaalim aur sarkash thein
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اس سے پہلے قومِ نوح کو (بھی ہلاک کیا)، بیشک وہ بڑے ہی ظالم اور بڑے ہی سرکش تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اس سے پہلے نوح کی قوم کو بھی (ہلاک کیا) ۔ بیشک وہ سب سے زیادہ ظالم اور سرکش تھے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

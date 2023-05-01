@@ -3224,6 +3224,12 @@ aur samoodh (ke qisse) mein bhi (ibrath) hai jab un se kaha gaya ke tum kuch din
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور (قومِ) ثمود (کی ہلاکت) میں بھی (عبرت کی نشانی ہے) جبکہ اُن سے کہا گیا کہ تم ایک معیّنہ وقت تک فائدہ اٹھا لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ثمود میں بھی (ایسی ہی نشانی تھی) جب ان سے کہا گیا تھا کہ : تھوڑے وقت تک مزے اڑا لو۔ (پھر سیدھے نہ ہوئے تو عذاب آئے گا)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

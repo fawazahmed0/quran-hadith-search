@@ -3224,6 +3224,12 @@ agar wo tum par kahi qaabo paa le to wo tumhaare (khule) dushman ho jaaye aur bu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر وہ تم پر قدرت پا لیں تو (دیکھنا) وہ تمہارے (کھلے) دشمن ہوں گے اور وہ اپنے ہاتھ اور اپنی زبانیں تمہاری طرف برائی کے ساتھ دراز کریں گے اور آرزو مند ہوں گے کہ تم (کسی طرح) کافر ہوجاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تم ان کے ہاتھ آجاؤ تو وہ تمہارے دشمن بن جائیں گے اور اپنے ہاتھ اور زبانیں پھیلا پھیلا کر تمہارے ساتھ برائی کریں گے، اور ان کی خواہش یہ ہے کہ تم کافر بن جاؤ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

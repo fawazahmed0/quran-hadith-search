@@ -3224,6 +3224,12 @@ us ne jawaab siye ke mujhe wo cheez dikhaayi di jo unhe dikhaayi nahi di, to mai
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس نے کہا: میں نے وہ چیز دیکھی جو ان لوگوں نے نہیں دیکھی تھی سو میں نے اُس فرستادہ (فرشتے) کے نقش قدم سے (جو آپ کے پاس آیا تھا) ایک مٹھی (مٹی کی) بھر لی پھر میں نے اسے (بچھڑے کے قالب میں) ڈال دیا اور اسی طرح میرے نفس نے مجھے (یہ بات) بھلی کر دکھائی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہ بولا : میں نے ایک ایسی چیز دیکھ لی تھی جو دوسروں کو نظر نہیں آئی تھی۔ اس لیے میں نے رسول کے نقش قدم سے ایک مٹھی اٹھالی، اور اسے (بچھڑے پر) ڈال دیا۔ اور میرے دل نے مجھے کچھ ایسا ہی سمجھایا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

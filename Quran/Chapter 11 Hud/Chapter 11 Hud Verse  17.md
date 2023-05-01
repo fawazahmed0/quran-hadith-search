@@ -3224,6 +3224,12 @@ kya wo shaqs jo apne rub ke paas ki dalil par ho aur us ke saath Allah ki taraf 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ شخص جو اپنے رب کی طرف سے روشن دلیل پر ہے اور اللہ کی جانب سے ایک گواہ (قرآن) بھی اس شخص کی تائید و تقویت کے لئے آگیا ہے اور اس سے قبل موسٰی (علیہ السلام) کی کتاب (تورات) بھی جو رہنما اور رحمت تھی (آچکی ہو) یہی لوگ اس (قرآن) پر ایمان لاتے ہیں، کیا (یہ) اور (کافر) فرقوں میں سے وہ شخص جو اس (قرآن) کا منکر ہے (برابر ہوسکتے ہیں) جبکہ آتشِ دوزخ اس کا ٹھکانا ہے، سو (اے سننے والے!) تجھے چاہئے کہ تو اس سے متعلق ذرا بھی شک میں نہ رہے، بیشک یہ (قرآن) تیرے رب کی طرف سے حق ہے لیکن اکثر لوگ ایمان نہیں لاتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا بتاؤ کہ وہ شخص (ان کے برابر کیسے ہوسکتا ہے) جو اپنے رب کی طرف سے آئی ہوئی روشن ہدایت (یعنی قرآن) پر قائم ہو، جس کے پیچھے اس کی حقانیت کا ایک ثبوت تو خود اسی میں آیا ہے، اور اس سے پہلے موسیٰ کی کتاب بھی (اس کی حقانیت کا ثبوت ہے) جو لوگوں کے لیے قابل اتباع اور باعث رحمت تھی۔ ایسے لوگ اس (قرآن پر) ایمان رکھتے ہیں۔ اور ان گروہوں میں سے جو شخص اس کا انکار کرے، تو دوزخ ہی اس کی طے شدہ جگہ ہے۔ لہذا اس (قرآن) کے بارے میں شک میں نہ پڑو۔ یقین رکھو کہ یہ حق ہے جو تمہارے پروردگار کی طرف سے آیا ہے، لیکن اکثر لوگ ایمان نہیں لارہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

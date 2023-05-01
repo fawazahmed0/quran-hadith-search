@@ -3224,6 +3224,12 @@ phir un tamaam nishaniyo ko dekh lene ke baad bhi unhe yahi maslihath maloom hoy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر انہیں (یوسف علیہ السلام کی پاک بازی کی) نشانیاں دیکھ لینے کے بعد بھی یہی مناسب معلوم ہوا کہ اسے ایک مدت تک قید کر دیں (تاکہ عوام میں اس واقعہ کا چرچا ختم ہو جائے)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ان لوگوں نے (یوسف کی پاکدامنی کی) بہت سی نشانیاں دیکھ لینے کے بعد بھی مناسب یہی سمجھا کہ انہیں ایک مدت تک قید خانے بھیج دیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

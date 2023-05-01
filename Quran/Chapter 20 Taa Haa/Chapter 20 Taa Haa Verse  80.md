@@ -3224,6 +3224,12 @@ aye bani israel! dekho hum ne tumhe tumhaare dushman se najaath di aur tum se ko
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے بنی اسرائیل! (دیکھو) بیشک ہم نے تمہیں تمہارے دشمن سے نجات بخشی اور ہم نے تم سے (کوہِ) طور کی داہنی جانب (آنے کا) وعدہ کیا اور (وہاں) ہم نے تم پر من و سلوٰی اتارا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے بنی اسرائیل ! ہم نے تمہیں تمہارے دشمن سے نجات دی، اور تم سے کوہ طور کے دائیں جانب آنے کا وعدہ ٹھہرایا، اور تم پر من وسلوی نازل کیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

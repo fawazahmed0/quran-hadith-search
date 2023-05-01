@@ -3224,6 +3224,12 @@ kya aap ne un ki taraf nazar nahi dali jinhone Allah ki nemath ke badle na shukr
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا آپ نے ان لوگوں کو نہیں دیکھا جنہوں نے اللہ کی نعمتِ (ایمان) کو کفر سے بدل ڈالا اور انہوں نے اپنی قوم کو تباہی کے گھر میں اتار دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم نے ان لوگوں کو نہیں دیکھا جنہوں نے اللہ کی نعمت کو کفر سے بدل ڈالا، اور اپنی قوم کو تباہی کے گھر میں لا اتار۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

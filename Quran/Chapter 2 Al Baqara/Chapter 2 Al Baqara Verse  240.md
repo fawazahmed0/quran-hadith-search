@@ -3224,6 +3224,12 @@ jo log tum mein se fauth ho jaaye aur biwiya chohd jaaye wo wasiyath kar jaaye k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور تم میں سے جو لوگ فوت ہوں اور (اپنی) بیویاں چھوڑ جائیں ان پر لازم ہے کہ (مرنے سے پہلے) اپنی بیویوں کے لئے انہیں ایک سال تک کا خرچہ دینے (اور) اپنے گھروں سے نہ نکالے جانے کی وصیّت کر جائیں، پھر اگر وہ خود (اپنی مرضی سے) نکل جائیں تو دستور کے مطابق جو کچھ بھی وہ اپنے حق میں کریں تم پر اس معاملے میں کوئی گناہ نہیں، اور اللہ بڑا غالب بڑی حکمت والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم میں سے جو لوگ وفات پاجائیں اور اپنے پیچھے بیویاں چھوڑ جائیں تو وہ اپنی بیویوں کے حق میں یہ وصیت کر جایا کریں کہ ایک سال تک وہ (ترکے سے نفقہ وصول کرنے کا) فائدہ اٹھائیں گی اور ان کو (شوہر کے گھر سے) نکالا نہیں جائے گا ہاں اگر وہ خود نکل جائیں تو اپنے حق میں قاعدے کے مطابق وہ جو کچھ بھی کریں اس میں تم پر کوئی گناہ نہیں ہوگا۔ اور اللہ صاحب اقتدار بھی ہے، صاحب حکمت بھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ qasam hai fajr ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس صبح کی قَسم (جس سے ظلمتِ شب چھٹ گئی)٭o٭ مراد ہر روز کی صبح یا نمازِ فجر ہے یا بطورِ خاص ماہ ذی الحجہ کی پہلی صبح یا یکم محرم کی صبح ہے یا عید الاضحٰی کی صبح۔ اس سے مراد سیدنا محمد مصطفی صلی اللہ علیہ وآلہ وسلم کی ذاتِ گرامی بھی ہے جن کی بعثت سے شبِ ظلمت کا خاتمہ ہوا اور صبحِ ایمان پھوٹی
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قسم ہے فجر کے وقت کی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

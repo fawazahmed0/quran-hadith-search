@@ -3224,6 +3224,12 @@ aur hum ne Sulaimaan(alaihissalaam) ke liye hawa ko musaqqar kar diya, ke subah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور سلیمان (علیہ السلام) کے لئے (ہم نے) ہوا کو (مسخّر کر دیا) جس کی صبح کی مسافت ایک مہینہ کی (راہ) تھی اور اس کی شام کی مسافت (بھی) ایک ماہ کی راہ ہوتی، اور ہم نے اُن کے لئے پگھلے ہوئے تانبے کا چشمہ بہا دیا، اور کچھ جنّات (ان کے تابع کردیئے) تھے جو اُن کے رب کے حکم سے اُن کے سامنے کام کرتے تھے، اور (فرما دیا تھا کہ) ان میں سے جو کوئی ہمارے حکم سے پھرے گا ہم اسے دوزخ کی بھڑکتی آگ کا عذاب چکھائیں گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور سلیمان کے لیے ہم نے ہوا کو تابع بنادیا تھا۔ اس کا صبح کا سفر بھی ایک مہینے کی مسافت کا ہوتا تھا، اور شام کا سفر بھی ایک مہینے کی مسافت کا اور ہم نے ان کے لیے تانبے کا چشمہ بہا دیا تھا۔ اور جنات میں سے کچھ وہ تھے جو اپنے پروردگار کے حکم سے ان کے آگے کام کرتے تھے اور (ہم نے ان پر یہ بات واضح کردی تھی کہ) ان میں سے کوئی ہمارے حکم سے ہٹ کر ٹیڑھا راستہ اختیار کرے گا، اسے ہم بھڑکتی ہوئی آگ کا مزہ چکھائیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

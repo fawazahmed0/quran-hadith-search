@@ -3224,6 +3224,12 @@ na main un se rozi chahta hoon, na meri ye chaahath hai ke ye mujhe khilaaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نہ میں اُن سے رِزق (یعنی کمائی) طلب کرتا ہوں اور نہ اس کا طلب گار ہوں کہ وہ مجھے (کھانا) کھلائیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں ان سے کسی قسم کا رزق نہیں چاہتا، اور نہ یہ چاہتا ہوں کہ وہ مجھے کھلائیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ jab aap unhe dekh le to un ke jism aap ko khush numa maloom ho, ye jab baatein k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے بندے!) جب تو انہیں دیکھے تو اُن کے جسم (اور قد و قامت) تجھے بھلے معلوم ہوں، اور اگر وہ باتیں کریں تو اُن کی گفتگو تُو غور سے سنے (یعنی تجھے معقول دکھائی دیں، مگر حقیقت یہ ہے کہ) وہ لوگ گویا دیوار کے سہارے کھڑی کی ہوئی لکڑیاں ہیں، وہ ہر اونچی آواز کو اپنے اوپر (بَلا اور آفت) سمجھتے ہیں، وہی (منافق تمہارے) دشمن ہیں سو اُن سے بچتے رہو، اللہ انہیں غارت کرے وہ کہاں بہکے پھرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جب تم ان کو دیکھو تو ان کے ڈیل ڈول تمہیں بہت اچھے لگیں، اور اگر وہ بات کریں تو تم ان کی باتیں سنتے رہ جاؤ، ان کی مثال ایسی ہے جیسے یہ لکڑیاں ہیں جو کسی سہارے سے لگا رکھی ہیں، یہ ہر چیخ پکار کو اپنے خلاف سمجھتے ہیں۔ یہی ہیں جو (تمہارے) دشمن ہیں، اس لیے ان سے ہوشیار رہو۔ اللہ کی مار ہو ان پر۔ یہ کہاں اوندھے چلے جارہے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

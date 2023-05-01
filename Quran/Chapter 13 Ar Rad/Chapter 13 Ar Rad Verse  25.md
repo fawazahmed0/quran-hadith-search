@@ -3224,6 +3224,12 @@ aur jo Allah ke ahad ko us ki mazboti ke baad tod dete hai aur jin cheezo ke jod
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جو لوگ اللہ کا عہد اس کے مضبوط کرنے کے بعد توڑ دیتے ہیں اور ان تمام (رشتوں اور حقوق) کو قطع کر دیتے ہیں جن کے جوڑے رکھنے کا اللہ نے حکم فرمایا ہے اور زمین میں فساد انگیزی کرتے ہیں انہی لوگوں کے لئے لعنت ہے اور ان کے لئے برا گھر ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (دوسری طرف) جو لوگ اللہ سے کیے ہوئے عہد کو مضبوطی سے باندھنے کے بعد توڑتے ہیں اور جن رشتوں کو اللہ نے جوڑے رکھنے کا حکم دیا ہے، انہیں کاٹ ڈالتے ہیں، اور زمین میں فساد مچاتے ہیں، تو ایسے لوگوں کے حصے میں لعنت آتی ہے، اور اصلی وطن میں برا انجام انہی کا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

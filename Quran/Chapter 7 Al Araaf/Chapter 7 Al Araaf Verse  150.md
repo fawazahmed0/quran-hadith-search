@@ -3224,6 +3224,12 @@ aur jab Mosa (alaihissalaam) apni khaum ki taraf waapas aaye, ghussa aur ranj me
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب موسیٰ غصے اور رنج میں بھرے ہوئے اپنی قوم کے پاس واپس آئے تو انہوں نے کہا : تم نے میرے بعد میری کتنی بری نمائندگی کی۔ کیا تم نے اتنی جلد بازی سے کام لیا کہ اپنے رب کے حکم کا بھی انتظار نہیں ؟ اور (یہ کہہ کر) انہوں نے تختیاں پھینک دیں۔ اور اپنے بھائی (ہارون (علیہ السلام)) کا سر پکڑ کر ان کو اپنی طرف کھینچنے لگے۔ وہ بولے : اے میری ماں کے بیٹے ! یقین جانیے کہ ان لوگوں نے مجھے کمزور سمجھا۔ اور قریب تھا کہ مجھے قتل ہی کردیتے۔ اب آپ دشمنوں کو مجھ پر ہنسنے کا موقع نہ دیجیے، اور مجھے ان ظالم لوگوں میں شمار نہ کیجیے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

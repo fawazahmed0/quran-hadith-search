@@ -3224,6 +3224,12 @@ aur kaafiro aur munaafiqo ka kehna na maaniye! aur jo eza (un ki taraf se pahonc
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور آپ کافروں اور منافقوں کا (یہ) کہنا (کہ ہمارے ساتھ مذہبی سمجھوتہ کر لیں ہرگز) نہ مانیں اور اُن کی ایذاء رسانی سے درگزر فرمائیں، اور اللہ پر بھروسہ (جاری) رکھیں، اور اللہ ہی (حق و باطل کی معرکہ آرائی میں) کافی کارساز ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کافروں اور منافقوں کی بات نہ مانو اور ان کی طرف سے جو تکلیف پہنچے اس کی پرواہ نہ کرو، اور اللہ پر بھروسہ رکھو اور اللہ رکھوالا بننے کے لیے کافی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

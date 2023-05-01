@@ -3224,6 +3224,12 @@ aur agar har jaan jis ne zulm (shirk) kiya hai, ke paas itna ho ke sari zamin bh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر ہر ظالم شخص کی ملکیت میں وہ (ساری دولت) ہو جو زمین میں ہے تو وہ یقیناً اسے (اپنی جان چھڑانے کے لئے) عذاب کے بدلہ میں دے ڈالے، اور (ایسے لوگ) جب عذاب کو دیکھیں گے تو اپنی ندامت چھپائے پھریں گے اور ان کے درمیان انصاف کے ساتھ فیصلہ کردیا جائے گا اور ان پر ظلم نہیں ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جس جس شخص نے ظلم کا ارتکاب کیا ہے، اگر اس کے پاس روئے زمین کی ساری دولت بھی ہوگی تو وہ اپنی جان چھڑانے کے لیے اس کی پیشکش کردے گا، اور جب وہ عذاب کو آنکھوں سے دیکھ لیں گے تو اپنی شرمندگی کو چھپانا چاہیں گے، اور ان کا فیصلہ انصاف کے ساتھ ہوگا، اور ان پر ظلم نہیں ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

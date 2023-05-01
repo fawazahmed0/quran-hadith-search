@@ -3224,6 +3224,12 @@ yaqinan hum ne Mosa(alaihissalaam) ko kitaab di thi, so us mein bhi eqtelaaf kiy
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بے شک ہم نے موسٰی (علیہ السلام) کو کتاب عطا فرمائی تو اس میں (بھی) اختلاف کیا گیا، اور اگر آپ کے رب کی طرف سے فرمان پہلے صادر نہ ہو چکا ہوتا تو اُن کے درمیان فیصلہ کر دیا جاتا اور بے شک وہ اس (قرآن) کے بارے میں (بھی) دھوکہ دینے والے شک میں (مبتلاء) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے موسیٰ کو بھی کتاب دی تھی، پھر اس میں بھی اختلاف ہوا۔ اور اگر تمہارے پروردگار کی طرف سے ایک بات پہلے ہی طے نہ کردی گئی ہوتی، تو ان لوگوں کا معاملہ چکا ہی دیا گیا ہوتا۔ اور حقیقت یہ ہے کہ یہ لوگ ایسے شک میں پڑے ہوئے ہیں جس نے ان کو خلجان میں ڈال رکھا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

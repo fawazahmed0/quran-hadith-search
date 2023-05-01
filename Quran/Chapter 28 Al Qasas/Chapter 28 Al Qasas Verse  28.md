@@ -3224,6 +3224,12 @@ Mosa(alaihissalaam) ne kaha khair to ye baath mere aur aap ke darmiyaan puqta ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+موسٰی (علیہ السلام) نے کہا: یہ (معاہدہ) میرے اور آپ کے درمیان (طے) ہوگیا، دو میں سے جو مدت بھی میں پوری کروں سو مجھ پر کوئی جبر نہیں ہوگا، اور اللہ اس (بات) پر جو ہم کہہ رہے ہیں نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 موسیٰ نے کہا : یہ بات میرے اور آپ کے درمیان طے ہوگئی۔ دونوں مدتوں میں سے جو بھی میں پوری کردوں، تو مجھ پر کوئی زیادتی نہ ہوگی، اور جو بات ہم کر رہے ہیں، اللہ اس کا رکھوالا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

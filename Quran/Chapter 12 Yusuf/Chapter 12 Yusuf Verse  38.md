@@ -3224,6 +3224,12 @@ main apne baap dadaao ke deen ka paapandh hoon, yani ibraheem wa is’haaq aur y
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور میں نے تو اپنے باپ دادا، ابراہیم اور اسحاق اور یعقوب (علیھم السلام) کے دین کی پیروی کر رکھی ہے، ہمیں کوئی حق نہیں کہ ہم کسی چیز کو بھی اللہ کے ساتھ شریک ٹھہرائیں، یہ (توحید) ہم پر اور لوگوں پر اللہ کا (خاص) فضل ہے لیکن اکثر لوگ شکر ادا نہیں کرتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور میں نے اپنے باپ دادا ابراہیم، اسحاق اور یعقوب کے دین کی پیروی کی ہے۔ ہمیں یہ حق نہیں ہے کہ اللہ کے ساتھ کسی بھی چیز کو شریک ٹھہرائیں۔ یہ (توحید کا عقیدہ) ہم پر اور تمام لوگوں پر اللہ کے فضل کا حصہ ہے، لیکن اکثر لوگ (اس نعمت کا) شکر ادا نہیں کرتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

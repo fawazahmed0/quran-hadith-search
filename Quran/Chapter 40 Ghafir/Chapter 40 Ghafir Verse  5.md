@@ -3224,6 +3224,12 @@ khaum nuh ne aur un ke baadh ke gruhu ne bhi jhhutlaaya tha aur har ummath ne ap
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اِن سے پہلے قومِ نوح نے اور اُن کے بعد (اور) بہت سی امتّوں نے (اپنے رسولوں کو) جھٹلایا اور ہر امّت نے اپنے رسول کے بارے میں ارادہ کیا کہ اسے پکڑ (کر قتل کر دیں یا قید کر) لیں اور بے بنیاد باتوں کے ذریعے جھگڑا کیا تاکہ اس (جھگڑے) کے ذریعے حق (کا اثر) زائل کر دیں سو میں نے انہیں (عذاب میں) پکڑ لیا، پس (میرا) عذاب کیسا تھا؟
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان سے پہلے نوح کی قوم اور ان کے بعد بہت سے گروہوں نے بھی (پیغمبروں کو) جھٹلایا تھا اور ہر قوم نے اپنے پیغمبر کے بارے میں یہ ارادہ کیا تھا کہ انہیں گرفتار کرلے، اور انہوں نے باطل کا سہارا لے کر جھگڑے کیے تھے تاکہ اس کے ذریعے حق کو مٹا دیں۔ نتیجہ یہ ہوا کہ میں نے ان کو پکڑ میں لے لیا۔ اب (دیکھ لو کہ) میری سزا کسی (سخت) تھی۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

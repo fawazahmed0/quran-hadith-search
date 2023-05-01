@@ -3224,6 +3224,12 @@ pus agar tum ru gardaani karo, to karo, main to tumhe wo paighaam pahocha chuka 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر بھی اگر تم روگردانی کرو تو میں نے واقعۃً وہ (تمام احکام) تمہیں پہنچا دیئے ہیں جنہیں لے کر میں تمہارے پاس بھیجا گیا ہوں، اور میرا رب تمہاری جگہ کسی اور قوم کو قائم مقام بنا دے گا، اور تم اس کا کچھ بھی بگاڑ نہ سکو گے۔ بیشک میرا رب ہر چیز پر نگہبان ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر بھی اگر تم منہ موڑتے ہو تو جو پیغام دے کر مجھے تمہارے پاس بھیجا گیا تھا میں نے وہ تمہیں پہنچا دیا ہے، اور (تمہارے کفر کی وجہ سے) میرا پروردگار تمہاری جگہ کسی اور قوم کو یہاں بسا دے گا، اور تم اس کا کچھ نہ بگاڑ سکو گے۔ بیشک میرا پروردگار ہر چیز کی نگرانی کرتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

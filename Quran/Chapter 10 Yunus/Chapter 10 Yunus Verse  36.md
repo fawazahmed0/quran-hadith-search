@@ -3224,6 +3224,12 @@ aur un mein se aksar log sirf gumaan par chal rahe hai,yaqinan gumaan, haq (ki m
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان میں سے اکثر لوگ صرف گمان کی پیروی کرتے ہیں، بیشک گمان حق سے معمولی سا بھی بے نیاز نہیں کرسکتا، یقیناً اللہ خوب جانتا ہے جو کچھ وہ کرتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور (حقیقت یہ ہے کہ) ان (مشرکین) میں سے اکثر لوگ کسی اور چیز کے نہیں، صرف وہمی اندازے کے پیچھے چلتے ہیں، اور یہ یقینی بات ہے کہ حق کے معاملے میں وہمی انداہ کچھ بھی کام نہیں دے سکتا۔ یقین جانو جو کچھ یہ لوگ کر رہے ہیں، اللہ اس کا پورا پورا علم رکھتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

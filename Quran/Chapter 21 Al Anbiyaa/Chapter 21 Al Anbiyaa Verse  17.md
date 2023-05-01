@@ -3224,6 +3224,12 @@ agar hum yo hee khel tamaashe ka iraada karte to, ise apne paas se hee bana lete
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر ہم کوئی کھیل تماشا اختیار کرنا چاہتے تو اسے اپنی ہی طرف سے اختیار کر لیتے اگر ہم (ایسا) کرنے والے ہوتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر ہمیں کوئی کھیل بنانا ہوتا تو ہم خود اپنے پاس سے بنا لیتے، اگر ہمیں ایسا کرنا ہی ہوتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

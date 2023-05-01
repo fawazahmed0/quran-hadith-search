@@ -3224,6 +3224,12 @@ ab jo shaqs ose sunne ke baadh badal de us ka gunaah badalne waale par hee hoga 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جس شخص نے اس (وصیّت) کو سننے کے بعد اسے بدل دیا تو اس کا گناہ انہی بدلنے والوں پر ہے، بیشک اللہ بڑا سننے والا خوب جاننے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر جو شخص اس وصیت کو سننے کے بعد اس میں کوئی تبدیلی کرے گا، تو اس کا گناہ ان لوگوں پر ہوگا جو اس میں تبدیلی کریں گے یقین رکھو کہ اللہ (سب کچھ) سنتا جانتا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

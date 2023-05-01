@@ -3224,6 +3224,12 @@ unhone kaha ke hum aap par hargiz imaan laane ke nahi, ta waqt ye ke aap hamaare
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (کفّارِ مکّہ) کہتے ہیں کہ ہم آپ پر ہرگز ایمان نہیں لائیں گے یہاں تک کہ آپ ہمارے لئے زمین سے کوئی چشمہ جاری کر دیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور کہتے ہیں کہ : ہم تم پر اس وقت تک ایمان نہیں لائیں گے جب تک تم زمین کو پھاڑ کر ہمارے لیے ایک چشمہ نہ نکال دو ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

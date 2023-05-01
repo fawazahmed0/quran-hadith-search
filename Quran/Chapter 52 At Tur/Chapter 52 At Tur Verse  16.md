@@ -3224,6 +3224,12 @@ jaao dozakh mein ab tumhaara sabr karna aur na karna tumhaare liye yeksa hai, tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اس میں داخل ہو جاؤ، پھر تم صبر کرو یا صبر نہ کرو، تم پر برابر ہے، تمہیں صرف انہی کاموں کا بدلہ دیا جائے گا جو تم کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 داخل ہوجاؤ اس میں، پھر تم صبر کرو، یا نہ کرو، تمہارے لیے برابر ہے۔ تمہیں انہی کاموں کا بدلہ دیا جائے گا جو تم کیا کرتے تھے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

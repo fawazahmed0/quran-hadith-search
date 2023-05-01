@@ -3224,6 +3224,12 @@ kya ye nahi jante ke jo bhi Allah ki aur us ke rasol ki muqalifath karega,us ke 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا وہ نہیں جانتے کہ جو شخص اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی مخالفت کرتا ہے تو اس کے لئے دوزخ کی آگ (مقرر) ہے جس میں وہ ہمیشہ رہنے والا ہے، یہ زبردست رسوائی ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا انہیں یہ معلوم نہیں کہ جو شخص اللہ اور اس کے رسول سے ٹکر لے تو یہ بات طے ہے کہ اس کے لیے دوزخ کی آگ ہے جس میں وہ ہمیشہ رہے گا ؟ یہ بڑی بھاری رسوائی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

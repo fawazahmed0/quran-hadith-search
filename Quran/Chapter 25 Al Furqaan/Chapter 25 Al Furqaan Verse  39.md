@@ -3224,6 +3224,12 @@ aur hum ne un ke saamne misaale bayaan ki, phir har ek ko bilkul hee tabaah wa b
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے (ان میں سے) ہر ایک (کی نصیحت) کے لئے مثالیں بیان کیں اور (جب وہ سرکشی سے باز نہ آئے تو) ہم نے ان سب کو نیست و نابود کر دیا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ان میں سے ہر ایک کو سمجھانے کے لیے ہم نے مثالیں دیں، اور (جب وہ نہ مانے تو) ہر ایک کو ہم نے پیس کر رکھ دیا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

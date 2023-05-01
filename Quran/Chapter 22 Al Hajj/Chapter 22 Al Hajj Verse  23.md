@@ -3224,6 +3224,12 @@ imaan waalo aur nek kaam waalo ko Allah ta’ala un jannato mein le jayega, jin 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بیشک اللہ ان لوگوں کو جو ایمان لے آئے ہیں اور نیک اعمال انجام دیتے ہیں جنتوں میں داخل فرمائے گا جن کے نیچے سے نہریں جاری ہیں وہاں انہیں سونے کے کنگنوں اور موتیوں سے آراستہ کیا جائے گا، اور وہاں ان کا لباس ریشم ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (دوسری طرف) جو لوگ ایمان لائے ہیں اور جنہوں نے نیک کام کیے ہیں، اللہ ان کو ایسی جنتوں میں داخل کرے گا جن کے نیچے سے نہریں بہتی ہوں گی، جہاں انہیں سونے کے کنگنوں اور موتیوں سے سجایا جائے گا، اور جہاں ان کا لباس ریشم ہوگا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

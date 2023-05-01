@@ -3224,6 +3224,12 @@ sivaaye Allah ke tumhaara wo kaun sa lashkar hai jo tumhaari madad kar sa ke, ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا کوئی ایسا ہے جو تمہاری فوج بن کر (خدائے) رحمان کے مقابلہ میں تمہاری مدد کرے؟ کافر محض دھوکہ میں (مبتلا) ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا خدائے رحمن کے سوا وہ کون ہے جو تمہارا لشکر بن کر تمہاری مدد کرے ؟ کافر لوگ تو نرے دھوکے میں پڑے ہوئے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

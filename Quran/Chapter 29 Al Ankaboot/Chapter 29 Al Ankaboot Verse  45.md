@@ -3224,6 +3224,12 @@ jo kitaab aap ki taraf wahi ki gayi hai, ise padiye aur namaaz qaayam kare, yaqi
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(اے حبیبِ مکرّم!) آپ وہ کتاب پڑھ کر سنائیے جو آپ کی طرف (بذریعہ) وحی بھیجی گئی ہے، اور نماز قائم کیجئے، بیشک نماز بے حیائی اور برائی سے روکتی ہے، اور واقعی اللہ کا ذکر سب سے بڑا ہے، اور اللہ ان (کاموں) کو جانتا ہے جو تم کرتے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر) جو کتاب تمہارے پاس وحی کے ذریعے بھیجی گئی ہے اس کی تلاوت کرو، اور نماز قائم کرو۔ بیشک نماز بےحیائی اور برے کاموں سے روکتی ہے۔ اور اللہ کا ذکر سب سے بڑی چیز ہے۔ اور جو کچھ تم کرتے ہو، اللہ اس سب کو جانتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

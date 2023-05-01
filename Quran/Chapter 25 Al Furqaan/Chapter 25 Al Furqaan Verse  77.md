@@ -3224,6 +3224,12 @@ keh dijiye ke agar tumhaari dua elteja (pukaarna) na hoti to mera rab tumhari mu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فرما دیجئے: میرے رب کو تمہاری کوئی پرواہ نہیں اگر تم (اس کی) عبادت نہ کرو، پس واقعی تم نے (اسے) جھٹلایا ہے تو اب یہ (جھٹلانا تمہارے لئے) دائمی عذاب بنا رہے گا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (اے پیغمبر ! لوگوں سے) کہہ دو کہ : میرے پروردگار کو تمہاری ذرا بھی پرواہ نہ ہوتی، اگر تم اس کو نہ پکارے اب جبکہ (اے کافرو) تم نے حق کو جھٹلا دیا ہے تو یہ جھٹلانا تمہارے گلے پڑ کر رہے گا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

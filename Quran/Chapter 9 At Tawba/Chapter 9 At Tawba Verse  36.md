@@ -3224,6 +3224,12 @@ mahino ki ginti Allah ke nazdik kitabullah mein bara ki hai,osi din se jab se as
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک اللہ کے نزدیک مہینوں کی گنتی اللہ کی کتاب (یعنی نوشتۂ قدرت) میں بارہ مہینے (لکھی) ہے جس دن سے اس نے آسمانوں اور زمین (کے نظام) کو پیدا فرمایا تھا۔ ان میں سے چار مہینے (ذوالقعدہ، ذوالحجہ، محرم اور رجب) حرمت والے ہیں۔ یہی سیدھا حساب ہے۔ سو تم ان مہینوں میں (اَز خود جنگ و قتال میں ملوث ہو کر) اپنی جانوں پر ظلم نہ کرنا اور تم (بھی) تمام (محارِب) مشرکین سے اسی طرح (جوابی) جنگ کیا کرو جس طرح وہ سب (اکٹھے ہو کر) تم سب پر جنگ مسلط کرتے ہیں، اور جان لو کہ بے شک اللہ پرہیزگاروں کے ساتھ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حقیقت یہ ہے کہ اللہ کے نزدیک مہینوں کی تعداد بارہ مہینے ہے۔ جو اللہ کی کتاب (یعنی لوح محفوظ) کے مطابق اس دن سے نافذ چلی آتی ہے جس دن اللہ نے آسمانوں اور زمین کو پیدا کیا تھا۔ ان (بارہ مہینوں) میں سے چار حرمت والے مہینے ہیں، یہی دین (کا) سیدھا سادہ (تقاضا) ہے، لہذا ان مہینوں کے معاملے میں اپنی جانوں پر ظلم نہ کرو، اور تم سب ملکر مشرکوں سے اسی طرح لڑو جیسے وہ سب تم سے لڑتے ہیں، اور یقین رکھو کہ اللہ متقی لوگوں کے ساتھ ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

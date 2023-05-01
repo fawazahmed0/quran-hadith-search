@@ -3224,6 +3224,12 @@ aur in (Looth (alaihissalaam) ko, un ke mehmaano ke baare mein phuslaaya, pas hu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور بیشک اُن لوگوں نے لُوط (علیہ السلام) سے اُن کے مہمانوں کو چھین لینے کا ارادہ کیا سو ہم نے اُن کی آنکھوں کی ساخت مٹا کر انہیں بے نور کر دیا۔ پھر (اُن سے کہا:) میرے عذاب اور ڈرانے کا مزہ چکھو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور انہوں نے لوط کو ان کے مہمانوں کے بارے میں پھسلانے کی کوشش کی۔ جس پر ہم نے ان کی آنکھوں کو اندھا کردیا کہ : چکھو میرے عذاب اور میری تنبیہات کا مزہ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur us ne mujhe apni waaleda ka khidmath guzaar banaya hai, aur mujhe sarkash au
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اپنی والدہ کے ساتھ نیک سلوک کرنے والا (بنایا ہے) اور اس نے مجھے سرکش و بدبخت نہیں بنایا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور مجھے اپنی والدہ کا فرمانبردار بنایا ہے، اور مجھے سرکش اور سنگ دل نہیں بنایا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

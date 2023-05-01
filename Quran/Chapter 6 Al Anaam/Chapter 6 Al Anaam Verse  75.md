@@ -3224,6 +3224,12 @@ aur hum ne aise hee taur par Ibraheem ko asmaano aur zameen ki maqluqaath dikhla
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اسی طرح ہم نے ابراہیم (علیہ السلام) کو آسمانوں اور زمین کی تمام بادشاہتیں (یعنی عجائباتِ خلق) دکھائیں اور (یہ) اس لئے کہ وہ عین الیقین والوں میں ہوجائے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی طرح ہم ابراہیم کو آسمانوں اور زمین کی سلطنت کا نظارہ کراتے تھے، اور مقصد یہ تھا کہ وہ مکمل یقین رکھنے والوں میں شامل ہوں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

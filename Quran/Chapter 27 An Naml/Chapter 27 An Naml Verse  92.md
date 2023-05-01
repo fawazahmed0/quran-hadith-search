@@ -3224,6 +3224,12 @@ aur main Qur’aan ki tilaawath karta raho, jo raahe raasth par aa jaaye wo apne
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+نیز یہ کہ میں قرآن پڑھ کر سناتا رہوں سو جس شخص نے ہدایت قبول کی تو اس نے اپنے ہی فائدہ کے لئے راہِ راست اختیار کی، اور جو بہکا رہا تو آپ فرما دیں کہ میں تو صِرف ڈر سنانے والوں میں سے ہوں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ کہ میں قرآن کی تلاوت کروں۔ اب جو شخص ہدایت کے راستے پر آئے، وہ اپنے ہی فائدے کے لیے راستے پر آئے گا، اور جو گمراہی اختیار کرے، تو کہہ دینا کہ : میں تو بس ان لوگوں میں سے ہوں جو خبردار کرتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

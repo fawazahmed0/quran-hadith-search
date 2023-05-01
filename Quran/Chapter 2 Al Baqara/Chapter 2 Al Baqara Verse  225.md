@@ -3224,6 +3224,12 @@ Allah ta’ala tumhe tumhaari un qasmo par na pakdega jo puqta na ho, haan us ki
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ تمہاری بے ہودہ قَسموں پر تم سے مؤاخذہ نہیں فرمائے گا مگر ان کا ضرور مؤاخذہ فرمائے گا جن کا تمہارے دلوں نے ارادہ کیا ہو، اور اللہ بڑا بخشنے والا بہت حلم والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اللہ تمہاری لغو قسموں پر تمہاری گرفت نہیں کرے گا البتہ جو قسمیں تم نے اپنے دلوں کے ارادے سے کھائی ہوں گی ان پر گرفت کرے گا۔ اور اللہ بہت بخشنے والا، بڑا بردبار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ qurbaani ke oonto ko, hum ne tumhaare liye Allah ta’ala ki nishaaniyo mein sha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور قربانی کے بڑے جانوروں (یعنی اونٹ اور گائے وغیرہ) کو ہم نے تمہارے لئے اللہ کی نشانیوں میں سے بنا دیا ہے ان میں تمہارے لئے بھلائی ہے پس تم (انہیں) قطار میں کھڑا کر کے (نیزہ مار کر نحر کے وقت) ان پر اللہ کا نام لو، پھر جب وہ اپنے پہلو کے بل گر جائیں تو تم خود (بھی) اس میں سے کھاؤ اور قناعت سے بیٹھے رہنے والوں کو اور سوال کرنے والے (محتاجوں) کو (بھی) کھلاؤ۔ اس طرح ہم نے انہیں تمہارے تابع کر دیا ہے تاکہ تم شکر بجا لاؤ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور قربانی کے اونٹ اور گائے کو ہم نے تمہارے لیے اللہ کے شعائر میں شامل کیا ہے، تمہارے لیے ان میں بھلائی ہے۔ چنانچہ جب وہ ایک قطار میں کھڑے ہوں، ان پر اللہ کا نام لو، پھر جب (ذبح ہوکر) ان کے پہلو زمین پر گرجائیں تو ان (کے گوشت) میں سے خود بھی کھاؤ، اور ان محتاجوں کو بھی کھلاؤ جو صبر سے بیٹھے ہوں، اور ان کو بھی جو اپنی حاجت ظاہر کریں۔ اور ان جانوروں کو ہم نے اسی طرح تابع بنادیا ہے تاکہ تم شکر گزار بنو۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

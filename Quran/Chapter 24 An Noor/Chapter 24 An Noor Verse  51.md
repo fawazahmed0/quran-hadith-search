@@ -3224,6 +3224,12 @@ imaan waalo ka qaul to ye hai ke jab unhe is liye bulaaya jaata hai ke Allah aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ایمان والوں کی بات تو فقط یہ ہوتی ہے کہ جب انہیں اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی طرف بلایا جاتا ہے تاکہ وہ ان کے درمیان فیصلہ فرمائے تو وہ یہی کچھ کہیں کہ ہم نے سن لیا، اور ہم (سراپا) اطاعت پیرا ہو گئے، اور ایسے ہی لوگ فلاح پانے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مومنوں کی بات تو یہ ہوتی ہے کہ جب انہیں اللہ اور اس کے رسول کی طرف بلایا جاتا ہے تاکہ رسول ان کے درمیان فیصلہ کریں تو وہ یہ کہتے ہیں کہ : ہم نے (حکم) سن لیا، اور مان لیا۔ اور ایسے ہی لوگ ہیں جو فلاح پانے والے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

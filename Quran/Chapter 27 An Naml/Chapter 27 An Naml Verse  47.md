@@ -3224,6 +3224,12 @@ wo kehne lage hum to teri aur tere saathiyo ki badh shuguni le rahe hai? aap ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وہ کہنے لگے: ہمیں تم سے (بھی) نحوست پہنچی ہے اور ان لوگوں سے (بھی) جو تمہارے ساتھ ہیں۔ (صالح علیہ السلام نے) فرمایا: تمہاری نحوست (کا سبب) اللہ کے پاس (لکھا ہوا) ہے بلکہ تم لوگ فتنہ میں مبتلا کئے گئے ہو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انہوں نے کہا : ہم نے تو تم سے اور تمہارے ساتھیوں سے برا شگون لیا ہے، ۔ صالح نے کہا تمہارا شگون تو اللہ کے قبضے میں ہے، البتہ تم لوگوں کی آزمائش ہورہی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

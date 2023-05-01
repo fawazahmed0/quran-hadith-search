@@ -3224,6 +3224,12 @@ qayaal rakhiye ke ye kuffaar aap ko Allah ta’ala ki aayato ki tableegh se rok 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ (کفار) تمہیں ہرگز اللہ کی آیتوں (کی تعمیل و تبلیغ) سے باز نہ رکھیں اس کے بعد کہ وہ تمہاری طرف اتاری جا چکی ہیں اور تم (لوگوں کو) اپنے رب کی طرف بلاتے رہو اور مشرکوں میں سے ہرگز نہ ہونا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور جب اللہ کی آیتیں تم پر نازل کردی گئی ہیں تو اس کے بعد یہ لوگ تمہیں ہرگز ان (پر عمل کرنے) سے روکنے نہ پائیں۔ اور تم اپنے رب کی طرف لوگوں کو دعوت دیتے رہو، اور ہرگز ان مشرکین میں شامل نہ ہونا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

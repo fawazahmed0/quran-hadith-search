@@ -3224,6 +3224,12 @@ hum ne bani israel ke liye unki kitaab mein saaf faisla kar diya tha ke tum zame
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ہم نے کتاب میں بنی اسرائیل کو قطعی طور پر بتا دیا تھا کہ تم زمین میں ضرور دو مرتبہ فساد کرو گے اور (اطاعتِ الٰہی سے) بڑی سرکشی برتو گے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ہم نے کتاب میں فیصلہ کر کے بنو اسرائیل کو اس بات سے آگاہ کردیا تھا کہ تم زمین میں دو مرتبہ فساد مچاؤ گے، اور بڑی سرکشی کا مظاہرہ کرو گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

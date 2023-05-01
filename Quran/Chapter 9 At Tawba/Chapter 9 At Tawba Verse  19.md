@@ -3224,6 +3224,12 @@ kya tum ne hajiyo ko pani pila dena aur masjid haraam ki qidmath karna us ke bar
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا تم نے (محض) حاجیوں کو پانی پلانے اور مسجدِ حرام کی آبادی و مرمت کا بندوبست کرنے (کے عمل) کو اس شخص کے (اعمال) کے برابر قرار دے رکھا ہے جو اللہ اور یومِ آخرت پر ایمان لے آیا اور اس نے اللہ کی راہ میں جہاد کیا، یہ لوگ اللہ کے حضور برابر نہیں ہو سکتے، اور اللہ ظالم قوم کو ہدایت نہیں فرماتا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کیا تم لوگوں نے حاجیوں کو پانی پلانے اور مسجد حرام کے آباد رکھنے کو اس شخص کے (اعمال کے) برابر سمجھ رکھا ہے جو اللہ اور یوم آخرت پر ایمان لایا ہے، اور جس نے اللہ کے راستے میں جہاد کیا ہے۔ اللہ کے نزدیک یہ سب برابر نہیں ہوسکتے۔ اور اللہ ظالم لوگوں کو منزل مقصود تک نہیں پہنچاتا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

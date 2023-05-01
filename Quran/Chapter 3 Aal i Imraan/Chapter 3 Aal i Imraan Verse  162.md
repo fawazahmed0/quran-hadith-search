@@ -3224,6 +3224,12 @@ kya pas wo shaqs jo Allah ta’ala ki khush nudi ke darpe hai, us shaqs jaisa ha
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بھلا وہ شخص جو اللہ کی مرضی کے تابع ہو گیا اس شخص کی طرح کیسے ہو سکتا ہے جو اللہ کے غضب کا سزاوار ہوا اور اس کا ٹھکانا جہنم ہے، اور وہ بہت ہی بری جگہ ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا جو شخص اللہ کی خوشنودی کا تابع ہو وہ اس شخص کی طرح ہوسکتا ہے جو اللہ کی طرف سے ناراضی لے کر لوٹا ہو، اور جس کا ٹھکانا جہنم ہو ؟ اور وہ بہت برا ٹھکانا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ unhe Allah ke rasool ne farma diya tha ke Allah ta’ala ki oontni aur us ke pin
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ان سے اللہ کے رسول نے فرمایا: اللہ کی (اس) اونٹنی اور اس کو پانی پلانے (کے دن) کی حفاظت کرنا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تو اللہ کے پیغمبر نے ان سے کہا کہ : خبردار ! اللہ کی اونٹنی کا اور اس کے پانی پینے کا پورا خیال رکھنا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

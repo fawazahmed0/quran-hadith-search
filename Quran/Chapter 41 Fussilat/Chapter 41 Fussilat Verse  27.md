@@ -3224,6 +3224,12 @@ pas yaqinan hum un kaafiro ko saqth azaab ka maza chakayenge aur unhe un ke badh
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پس ہم کافروں کو سخت عذاب کا مزہ ضرور چکھائیں گے اور ہم انہیں اُن برے اعمال کا بدلہ ضرور دیں گے جو وہ کرتے رہے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس لیے ہم ان کافروں کو سخت عذاب کا مزہ چکھائیں گے اور یہ (دنیا میں) جو بدترین کام کیا کرتے تھے، اس کا پورا پورا بدلہ دیں گے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

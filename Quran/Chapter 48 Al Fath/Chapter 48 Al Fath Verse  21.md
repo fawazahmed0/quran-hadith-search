@@ -3224,6 +3224,12 @@ aur tumhe aur (ghanimate) bhi de, jin par ab tak tum ne qaabo nahi paaya, Allah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور دوسری (مکّہ، ہوازن اور حنین سے لے کر فارس اور روم تک کی بڑی فتوحات) جن پر تم قادر نہ تھے بیشک اللہ نے (تمہارے لئے) ان کا بھی احاطہ فرما لیا ہے، اور اللہ ہر چیز پر بڑی قدرت رکھنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ایک فتح اور بھی ہے جو ابھی تمہارے قابو میں نہیں آئی، لیکن اللہ نے اس کو اپنے احاطے میں لے رکھا ہے اور اللہ ہر چیز پر پوری قدرت طرح قادر ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

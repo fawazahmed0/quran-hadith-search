@@ -3224,6 +3224,12 @@ ye Qur’an ki ayate hai aur jo kuch aap ki taraf aap ke rub ki jaanib se utara 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ وہ ہے جس نے آسمانوں کو بغیر ستون کے (خلا میں) بلند فرمایا (جیسا کہ) تم دیکھ رہے ہو پھر (پوری کائنات پر محیط اپنے) تخت اقتدار پر (اپنی شان کے لائق) متمکن ہوا اور اس نے سورج اور چاند کو نظام کا پابند بنا دیا، ہر ایک اپنی مقررہ میعاد (میں مسافت مکمل کرنے) کے لئے (اپنے اپنے مدار میں) چلتا ہے۔ وہی (ساری کائنات کے) پورے نظام کی تدبیر فرماتا ہے، (سب) نشانیوں (یا قوانینِ فطرت) کو تفصیلاً واضح فرماتا ہے تاکہ تم اپنے رب کے روبرو حاضر ہونے کا یقین کر لو
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ وہ ہے جس نے ایسے ستونوں کے بغیر آسمانوں کو بلند کیا جو تمہیں نظر آسکیں، پھر اس نے عرش پر استوا فرمایا اور سورج اور چاند کو کام پر لگا دیا ہر چیز ایک معین میعاد تک کے لیے رواں دوان ہے۔ وہی تمام کاموں کی تدبیر کرتا ہے، وہی ان انشانیوں کو کھول کھول کر بیان کرتا ہے، تاکہ تم اس بات کا یقین کرلو کہ (ایک دن) تمہیں اپنے پروردگار سے جا ملنا ہے
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

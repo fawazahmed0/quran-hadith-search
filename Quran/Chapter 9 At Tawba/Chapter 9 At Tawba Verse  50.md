@@ -3224,6 +3224,12 @@ aap ko agar koi bhalai mil jae tuh unhe bora lagta hai aur koi borai pahoch jae 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اگر آپ کو کوئی بھلائی (یا آسائش) پہنچتی ہے (تو) وہ انہیں بری لگتی ہے اور اگر آپ کو مصیبت (یا تکلیف) پہنچتی ہے (تو) کہتے ہیں کہ ہم نے تو پہلے سے ہی اپنے کام (میں احتیاط) کو اختیار کر لیا تھا اور خوشیاں مناتے ہوئے پلٹتے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اگر تمہیں کوئی بھلائی مل جائے تو انہیں دکھ ہوتا ہے، اور اگر تم پر کوئی مصیبت آپڑے تو کہتے ہیں کہ : ہم نے تو پہلے ہی اپنا بچاؤ کرلیا تھا، اور (یہ کہہ کر) بڑے خوش خوش واپس جاتے ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

@@ -3224,6 +3224,12 @@ aur tum un logo ki tarah math ho jaana jinhone Allah (ke ehkaam) ko bhula diya, 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اُن لوگوں کی طرح نہ ہو جاؤ جو اللہ کو بھلا بیٹھے پھر اللہ نے اُن کی جانوں کو ہی اُن سے بھلا دیا (کہ وہ اپنی جانوں کے لئے ہی کچھ بھلائی آگے بھیج دیتے)، وہی لوگ نافرمان ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور تم ان جیسے نہ ہوجانا جو اللہ کو بھول بیٹھے تھے، تو اللہ نے انہیں خود اپنے آپ سے غافل کردیا۔ وہی لوگ ہیں جو نافرمان ہیں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

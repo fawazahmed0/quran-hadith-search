@@ -3224,6 +3224,12 @@ kya hum ne un par koyi daleel naazil ki hai, jo ose bayaan karti hai, jise ye Al
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+کیا ہم نے ان پر کوئی (ایسی) دلیل اتاری ہے جو ان (بتوں) کے حق میں شہادۃً کلام کرتی ہو جنہیں وہ اللہ کا شریک بنا رہے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بھلا کیا ہم نے ان پر کوئی ایسی دلیل نازل کی ہے جو اس شرک کا ارتکاب کرنے کو کہتی ہو جو یہ اللہ کے ساتھ کرتے رہے ہیں ؟
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

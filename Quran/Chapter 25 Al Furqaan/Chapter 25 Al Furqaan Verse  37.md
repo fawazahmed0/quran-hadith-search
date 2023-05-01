@@ -3224,6 +3224,12 @@ aur khaum Nuh ne bhi jab rasulo ko jhuta kaha, to hum ne unhe gharq kar diya aur
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور نوح (علیہ السلام) کی قوم کو (بھی)، جب انہوں نے رسولوں کو جھٹلایا (تو) ہم نے انہیں غرق کر ڈالا اور ہم نے انہیں (دوسرے) لوگوں کے لئے نشانِ عبرت بنا دیا اور ہم نے ظالموں کے لئے درد ناک عذاب تیار کر رکھا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور نوح کی قوم نے جب پیغمبروں کو جھٹلایا تو ہم نے انہیں غرق کردیا، اور ان کو لوگوں کے لیے عبرت کا سامان بنادیا۔ اور ہم نے ان ظالموں کے لیے ایک دردناک عذاب تیار کر رکھا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

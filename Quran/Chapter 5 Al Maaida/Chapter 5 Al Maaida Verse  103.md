@@ -3224,6 +3224,12 @@ Allah ta’ala ne, na buhaira17 ko mashro18 kiya hai aur na saayeba19 ko aur na 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اللہ نے نہ تو بحیرہ کو (اَمرِ شرعی) مقرر کیا ہے اور نہ سائبہ کو اور نہ وصیلہ کو اور نہ حام کو، لیکن کافر لوگ اللہ پر جھوٹا بہتان باندھتے ہیں، اور ان میں سے اکثر عقل نہیں رکھتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اللہ نے کسی جانور کو نہ بحیرہ بنانا طے کیا ہے، نہ سائبہ، نہ وصیلہ اور نہ حامی لیکن جن لوگوں نے کفر اپنایا ہوا ہے وہ اللہ پر جھوٹ باندھتے ہیں، اور ان میں سے اکثر لوگوں کو صحیح سمجھ نہیں ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

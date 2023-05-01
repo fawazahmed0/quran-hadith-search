@@ -3224,6 +3224,12 @@ ae imaan waalo! aisi baatein math pucho ke agar tum par zaaher kardi jaaye to tu
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! تم ایسی چیزوں کی نسبت سوال مت کیا کرو (جن پر قرآن خاموش ہو) کہ اگر وہ تمہارے لئے ظاہر کر دی جائیں تو تمہیں مشقت میں ڈال دیں (اور تمہیں بری لگیں)، اور اگر تم ان کے بارے میں اس وقت سوال کرو گے جبکہ قرآن نازل کیا جا رہا ہے تو وہ تم پر (نزولِ حکم کے ذریعے ظاہر (یعنی متعیّن) کر دی جائیں گی (جس سے تمہاری صواب دید ختم ہو جائے گی اور تم ایک ہی حکم کے پابند ہو جاؤ گے)۔ اللہ نے ان (باتوں اور سوالوں) سے (اب تک) درگزر فرمایا ہے، اور اللہ بڑا بخشنے والا بردبار ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! ایسی چیزوں کے بارے میں سوالات نہ کیا کرو جو اگر تم پر ظاہر کردی جائیں تو تمہیں ناگوار ہوں، اور اگر تم ان کے بارے میں ایسے وقت سوالات کرو گے جب قرآن نازل کیا جارہا ہو تو وہ تم پر ظاہر کردی جائیں گی۔ (البتہ) اللہ نے پچھلی باتیں معاف کردی ہیں۔ اور اللہ بہت بخشنے والا، بڑا بردبار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

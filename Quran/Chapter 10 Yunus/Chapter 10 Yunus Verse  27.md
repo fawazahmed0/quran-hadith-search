@@ -3224,6 +3224,12 @@ aur jin logo ne badh’kaam kiye un ki badhi ki saza us ke barabar milegi aur un
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور جنہوں نے برائیاں کما رکھی ہیں (ان کے لئے) برائی کا بدلہ اسی کی مثل ہوگا، اور ان پر ذلت و رسوائی چھا جائے گی ان کے لئے اللہ (کے عذاب) سے کوئی بھی بچانے والا نہیں ہوگا (یوں لگے گا) گویا ان کے چہرے اندھیری رات کے ٹکڑوں سے ڈھانپ دیئے گئے ہیں۔ یہی اہلِ جہنم ہیں، وہ اس میں ہمیشہ رہنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رہے وہ لوگ جنہوں نے برائیاں کمائی ہیں تو (ان کی) برائی کا بدلہ اسی جیسا برا ہوگا اور ان پر ذلت چھائی ہوئی ہوگی، اللہ (کے عذاب) سے انہیں کوئی بچانے والا نہیں ہوگا۔ ایسا لگے گا جیسے ان کے چہروں پر اندھیری رات کی تہیں چڑھادی گئی ہیں۔ وہ دوزخ کے باسی ہیں، وہ اس میں ہمیشہ رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

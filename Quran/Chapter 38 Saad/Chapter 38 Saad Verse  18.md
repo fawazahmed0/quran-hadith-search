@@ -3224,6 +3224,12 @@ hum ne pahaado ko us ke taabe kar rakha tha, ke us ke saath shaam ko aur subaah 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بے شک ہم نے پہاڑوں کو اُن کے زیرِ فرمان کر دیا تھا، جو (اُن کے ساتھ مل کر) شام کو اور صبح کو تسبیح کیا کرتے تھے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم نے پہاڑوں کو اس کام پر لگا دیا تھا کہ وہ شام کے وقت اور سورج کے نکلتے وقت ان کے ساتھ تسبیح کیا کریں۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

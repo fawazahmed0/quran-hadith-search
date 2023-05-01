@@ -3224,6 +3224,12 @@ jab wahaa phaonche to awaaz di gayi ke ba-barkath hai wo jo is aag mein hai aur 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+پھر جب وہ اس کے پاس آپہنچے تو آواز دی گئی کہ بابرکت ہے جو اس آگ میں (اپنے حجاب نور کی تجلی فرما رہا) ہے اور وہ (بھی) جو اس کے آس پاس (اُلوہی جلووں کے پرتَو میں) ہے، اور اللہ (ہر قسم کے جسم و مثال سے) پاک ہے جو سارے جہانوں کا رب ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 چنانچہ جب وہ اس آگ کے پاس پہنچے تو انہیں آواز دی گئی کہ : برکت ہو ان پر جو اس آگ کے اندر ہیں، اور اس پر بھیجو اس کے آس پاس ہے اور پاک ہے اللہ جو سارے جہانوں کا پروردگار ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

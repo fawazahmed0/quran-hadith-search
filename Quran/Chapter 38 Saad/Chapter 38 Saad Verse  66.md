@@ -3224,6 +3224,12 @@ jo parvardigaar hai asmaano aur zameen ka aur jo kuch un ke darmiyaan hai, wo za
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+آسمانوں اور زمین کا اور جو کائنات اِن دونوں کے درمیان ہے (سب) کا رب ہے بڑی عزت والا، بڑا بخشنے والا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو تمام آسمانوں اور زمین اور ان کے درمیان ہر چیز کا مالک ہے، جس کا اقتدار سب پر چھایا ہوا ہے، جو بہت بخشنے والا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

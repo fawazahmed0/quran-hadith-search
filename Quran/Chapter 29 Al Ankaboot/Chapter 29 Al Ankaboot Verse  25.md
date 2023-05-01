@@ -3224,6 +3224,12 @@ Aur usne kaha “ tumne duniya ki zindagi mein to Allah ko chodh kar buthon (ido
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور ابراہیم (علیہ السلام) نے کہا: بس تم نے تو اللہ کو چھوڑ کر بتوں کو معبود بنا لیا ہے محض دنیوی زندگی میں آپس کی دوستی کی خاطر پھر روزِ قیامت تم میں سے (ہر) ایک دوسرے (کی دوستی) کا انکار کر دے گا اور تم میں سے (ہر) ایک دوسرے پر لعنت بھیجے گا، تو تمہارا ٹھکانا دوزخ ہے اور تمہارے لئے کوئی بھی مددگار نہ ہوگا
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ابراہیم نے یہ بھی کہا کہ : تم نے اللہ کو چھوڑ کر بتوں کو (خدا) مانا ہوا ہے، جس کے ذریعے دنیوی زندگی میں تمہاری آپس کی دوستی قائم ہے۔ پھر قیامت کے دن تم ایک دوسرے کا انکار کرو گے، اور ایک دوسرے پر لعنت بھیجو گے، اور تمہارا ٹھکانا دوزخ ہوگا، اور تمہیں کسی بھی طرح کے مددگار میسر نہیں ہوں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

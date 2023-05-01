@@ -3224,6 +3224,12 @@ aye imaan waalo! tum apne aap ko aur apne ghar waalo ko us aag se bachaao jis ka
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اے ایمان والو! اپنے آپ کو اور اپنے اہل و عیال کو اس آگ سے بچاؤ جس کا ایندھن انسان اور پتھر ہیں، جس پر سخت مزاج طاقتور فرشتے (مقرر) ہیں جو کسی بھی امر میں جس کا وہ انہیں حکم دیتا ہے اللہ کی نافرمانی نہیں کرتے اور وہی کام انجام دیتے ہیں جس کا انہیں حکم دیا جاتا ہے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اے ایمان والو ! اپنے آپ کو اور اپنے گھر والوں کو اس آگ سے بچاؤ جس کا ایندھن انسان اور پتھر ہوں گے اس پر سخت کڑے مزاج کے فرشتے مقرر ہیں جو اللہ کے کسی حکم میں اس کی نافرمانی نہیں کرتے، اور وہی کرتے ہیں جس کا انہیں حکم دیا جاتا ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

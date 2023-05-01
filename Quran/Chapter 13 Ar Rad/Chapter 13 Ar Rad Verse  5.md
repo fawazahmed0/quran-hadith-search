@@ -3224,6 +3224,12 @@ agar tujhe tajjub ho to waaqei un ka ye kehna ajeeb hai ke kya jab hum mitthi ho
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اگر آپ (کفار کے انکار پر) تعجب کریں تو ان کا (یہ) کہنا عجیب (تر) ہے کہ کیا جب ہم (مر کر) خاک ہو جائیں گے تو کیا ہم اَز سرِ نو تخلیق کئے جائیں گے؟ یہی وہ لوگ ہیں جنہوں نے اپنے رب کا انکار کیا، اور انہی لوگوں کی گردنوں میں طوق (پڑے) ہوں گے اور یہی لوگ اہلِ جہنم ہیں، وہ اس میں ہمیشہ رہنے والے ہیں
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اگر تمہیں (ان کافروں پر) تعجب ہوتا ہے تو ان کا یہ کہنا (واقعی) عجیب ہے کہ : کیا جب ہم مٹی ہوجائیں گے تو کیا سچ مچ ہم نئے سرے سے پیدا ہوں گے ؟ یہ وہ لوگ ہیں جنہوں نے اپنے رب (کی قدرت) کا انکار کیا ہے، اور یہی وہ لوگ ہیں جن کے گلوں میں طوق پڑے ہوئے ہیں اور وہ دوزخ کے باسی ہیں۔ وہ ہمیشہ اسی میں رہیں گے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

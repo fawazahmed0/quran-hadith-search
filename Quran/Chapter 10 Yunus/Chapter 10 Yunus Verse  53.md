@@ -3224,6 +3224,12 @@ aur wo aap se daryaaft karte hai ke kya azaab waqei sach hai? aap farma dijiye k
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور وہ آپ سے دریافت کرتے ہیں کہ کیا (دائمی عذاب کی) وہ بات (واقعی) سچ ہے؟ فرما دیجئے: ہاں میرے رب کی قسم یقیناً وہ بالکل حق ہے۔ اور تم (اپنے انکار سے اللہ کو) عاجز نہیں کرسکتے
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور یہ لوگ تم سے پوچھتے ہیں کہ کیا یہ (آخرت کا عذاب) واقعی سچ ہے ؟ کہو دو کہ : میرے پروردگار کی قسم یہ بالکل سچ ہے، اور تم (اللہ کو) عاجز نہیں کرسکتے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>

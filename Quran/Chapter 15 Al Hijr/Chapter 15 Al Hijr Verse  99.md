@@ -3224,6 +3224,12 @@ aur apne rub ki ibaadath karte rahe, yahaa tak ke aap ko mauth aa jaaye
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+اور اپنے رب کی عبادت کرتے رہیں یہاں تک کہ آپ کو (آپ کی شان کے لائق) مقامِ یقین مل جائے (یعنی انشراحِ کامل نصیب ہو جائے یا لمحۂ وصالِ حق)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
+
+
+<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اپنے پروردگار کی عبادت کرتے رہو، یہاں تک کہ تم پر وہ چیز آجائے جس کا آنا یقینی ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>
