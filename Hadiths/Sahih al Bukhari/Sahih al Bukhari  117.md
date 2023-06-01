@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas şöyle demiştir: Bir gece teyzem, Nebi (Sallallahu aleyhi ve Sellem)'in eşi Meymûne bintİ'l-Hârîs'in evinde kaldım. Nebi (Sallallahu aleyhi ve Sellem) o gece (sıra Meymûne'de olduğu için) onun yanındaydı. Nebi (Sallallahu aleyhi ve Sellem) yatsı namazını (mescitte) kıldırdı, sonra evine gelerek dört rekat namaz kıldı. Sonra uyudu. Sonra kalktı ve "çocuk uyudu" (yahut buna benzer bir söz) dedi. Sonra namaza durdu, ben de (kalkıp) onun sol tarafına durdum, o beni sağına aldı, beş rekat namaz kıldı. Sonra iki rekat daha kıldı. Sonra uyudu, öyle ki onun horultusunu duydum. Sonra da namaza çıktı. Tekrar: 138, 183, 697, 698, 69
+İbn Abbas şöyle demiştir: Bir gece teyzem, Nebi (Sallallahu aleyhi ve Sellem)'in eşi Meymûne bintİ'l-Hârîs'in evinde kaldım. Nebi (Sallallahu aleyhi ve Sellem) o gece (sıra Meymûne'de olduğu için) onun yanındaydı. Nebi (Sallallahu aleyhi ve Sellem) yatsı namazını (mescitte) kıldırdı, sonra evine gelerek dört rekat namaz kıldı. Sonra uyudu. Sonra kalktı ve "çocuk uyudu" (yahut buna benzer bir söz) dedi. Sonra namaza durdu, ben de (kalkıp) onun sol tarafına durdum, o beni sağına aldı, beş rekat namaz kıldı. Sonra iki rekat daha kıldı. Sonra uyudu, öyle ki onun horultusunu duydum. Sonra da namaza çıktı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 3 Hadith 59</td></tr></tbody></table></div>
 

@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ عَمْرٌو أَخْبَرَنِي عَطَاءٌ، سَمِعَ جَابِرًا، رضى الله عنه قَالَ كُنَّا نَعْزِلُ وَالْقُرْآنُ يَنْزِلُ‏.‏ وَعَنْ عَمْرٍو، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، قَالَ كُنَّا نَعْزِلُ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم وَالْقُرْآنُ يَنْزِلُ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5209</td></tr><tr><td>Arabic No</td><td>5209</td></tr><tr><td>Reference</td><td>Book 67 Hadith 142</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا علي بن عبد الله، حدثنا سفيان، قال عمرو اخبرني عطاء، سمع جابرا، رضى الله عنه قال كنا نعزل والقران ينزل. وعن عمرو، عن عطاء، عن جابر، قال كنا نعزل على عهد النبي صلى الله عليه وسلم والقران ينزل
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5209</td></tr><tr><td>Arabic No</td><td>5209</td></tr><tr><td>Reference</td><td>Book 67 Hadith 142</td></tr></tbody></table></div>
 
@@ -30,7 +30,7 @@
 
 
 <div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+অন্য সূত্র থেকেও জাবির (রাঃ) এরূপ হাদীস বর্ণনা করেছেন। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে এবং কুরআন অবতীর্ণ হওয়াকালে ‘আযল করতাম। [৫২০৭; মুসলিম ত্বলাক (তালাক)/২১, হাঃ ১৪৪০, আহমাদ ১৪৩২২] (আধুনিক প্রকাশনী- ৪৮২৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5209</td></tr><tr><td>Arabic No</td><td>5209</td></tr><tr><td>Reference</td><td>Book 67 Hadith 142</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated Jabir:We used to practice coitus interrupt us while the Qur'an was being revealed. Jabir added: We used to practice coitus interrupt us during the lifetime of Allah's Messenger (ﷺ) while the Qur'an was being Revealed
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5209</td></tr><tr><td>Arabic No</td><td>5209</td></tr><tr><td>Reference</td><td>Book 67 Hadith 142</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] dari [Atha'] dari [Jabir] ia berkta; "Pada masa Nabi shallallahu 'alaihi wasallam, kami pernah melakukan 'Azl (mencabut penis saat ejakulasi)." Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Telah berkata [Amru] Telah mengabarkan kepadaku [Atha'] Ia mendengar [Jabir] radliallahu 'anhu berkata; Kami melakukan 'Azl, sedangkan Al Qur'an juga turun. Dan dari [Amru] dari [Atha'] dari [Jabir] ia berkata; Kami melakukan 'Azl di masa Nabi shallallahu 'alaihi wasallam dan Al Qur'an juga turun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5209</td></tr><tr><td>Arabic No</td><td>5209</td></tr><tr><td>Reference</td><td>Book 67 Hadith 142</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yine Amr ibn Dinar'dan; o da Atâ'dan tahdîs etti ki, Câbir(radıyallahü anh): Bizler Peygamber (sallallahü aleyhi ve sellem) zamanında Kur'ân inip dururken azl yapıyorduk, demiştir
+Ata'dan rivayete göre o, Cabir r.a.'ı şöyle derken dinlemiştir: "Biz Kur'an nazil oluyorken azl yapardık
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5209</td></tr><tr><td>Arabic No</td><td>5209</td></tr><tr><td>Reference</td><td>Book 67 Hadith 142</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hibban bin Musa] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem yolculuğa çıkacağı zaman eşleri arasında kura çekerdi. Kura kime çıkarsa onu beraberinde götürürdü. Her bir eşine bir gece ve gündüzünü paylaştırmıştı. Ancak Sevde binti Zem'a, Allah Resulü'nün rızasını umarak gününü ve gecesini Hz. Nebi'in eşi Aişe'ye bağışlamıştı. Tekrar: 2637, 2661, 2688, 2
+Aişe r.anha'dan rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem yolculuğa çıkacağı zaman eşleri arasında kura çekerdi. Kura kime çıkarsa onu beraberinde götürürdü. Her bir eşine bir gece ve gündüzünü paylaştırmıştı. Ancak Sevde binti Zem'a, Allah Resulü'nün rızasını umarak gününü ve gecesini Hz. Nebi'in eşi Aişe'ye bağışlamıştı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2593</td></tr><tr><td>Arabic No</td><td>2593</td></tr><tr><td>Reference</td><td>Book 51 Hadith 27</td></tr></tbody></table></div>
 

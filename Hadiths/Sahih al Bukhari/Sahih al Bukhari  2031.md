@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُبَاشِرُنِي وَأَنَا حَائِضٌ‏.‏ وَكَانَ يُخْرِجُ رَأْسَهُ مِنَ الْمَسْجِدِ وَهْوَ مُعْتَكِفٌ فَأَغْسِلُهُ وَأَنَا حَائِضٌ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا محمد بن يوسف، حدثنا سفيان، عن منصور، عن ابراهيم، عن الاسود، عن عايشة رضى الله عنها قالت كان النبي صلى الله عليه وسلم يباشرني وانا حايض. وكان يخرج راسه من المسجد وهو معتكف فاغسله وانا حايض
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
 
@@ -30,7 +30,7 @@
 
 
 <div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+এবং তিনি ই‘তিকাফরত অবস্থায় মাসজিদ হতে তাঁর মাথা বের করে দিতেন, আমি ঋতুমতী অবস্থায় তা ধুয়ে দিতাম। (২৯৫) (আধুনিক প্রকাশনীঃ ১৮৮৮, ইসলামিক ফাউন্ডেশনঃ ১৯০০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated 'Aisha:The Prophet (ﷺ) used to embrace me during my menses. He also used to put his head out of the mosque while he was in I'tikaf, and I would wash it during my menses
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam pernah mencumbui aku ketika aku sedang haidh dan Beliau juga pernah mengeluarkan kepala Beliau dari masjid ketika sedang beri'tikaf lalu aku membasuh rambut Beliau sedangkan aku saat itu sedang haidh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஃதிகாஃப் இருக்கும்போது பள்ளிவாசலிலிருந்து தமது தலையை நீட்டுவார்கள்; எனக்கு மாதவிடாய் ஏற்பட்டிருந்த நிலையில் அவர்களின் தலையை நான் கழுவிவிடுவேன். அத்தியாயம் :
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: எனக்கு மாதவிடாய் ஏற்பட்டிருந்தபோது நபி (ஸல்) அவர்கள் என்னைக் கட்டி அணைப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Aişe r.anha şöyle demiştir: Ben adetli iken (de) Nebi Sallallahu Aleyhi ve Sellem bana dokunurdu. [-2031-] Aişe (r.anha) sözlerine devamla şöyle demiştir: İtikafta iken mescid'den başını bana doğru uzatır, ben adetli olduğum halde onun başını yıkardım
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
 

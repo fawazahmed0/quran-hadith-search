@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al L
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ka'b İbn Malik r.a.'den nakledilmiştir: Ka'b İbn Malik "Ey Allah'ın Resulü! Ben tövbe ettiğimin göstergesi olarak, Allah ve Resulü'ne sadaka olarak bütün malımdan sıyrılıyorum" demişti. Nebi Sallallahu aleyhi ve sellem: "Malının birazını elinde tut. Bu senin için daha iyidir" buyurdu. Bunun üzerine Ka'b "O zaman Hayber'deki payımı elimde tutuyorum" dedi. Tekrar: 2947, 2948, 2949,
+Ka'b İbn Malik r.a.'den nakledilmiştir: Ka'b İbn Malik "Ey Allah'ın Resulü! Ben tövbe ettiğimin göstergesi olarak, Allah ve Resulü'ne sadaka olarak bütün malımdan sıyrılıyorum" demişti. Nebi Sallallahu aleyhi ve sellem: "Malının birazını elinde tut. Bu senin için daha iyidir" buyurdu. Bunun üzerine Ka'b "O zaman Hayber'deki payımı elimde tutuyorum" dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>2757</td></tr><tr><td>Reference</td><td>Book 55 Hadith 20</td></tr></tbody></table></div>
 

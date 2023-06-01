@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي، عَنْ يُونُسَ الأَيْلِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ أُسَامَةَ ـ رضى الله عنه ـ كَانَ رِدْفَ النَّبِيِّ صلى الله عليه وسلم مِنْ عَرَفَةَ إِلَى الْمُزْدَلِفَةِ، ثُمَّ أَرْدَفَ الْفَضْلَ مِنَ الْمُزْدَلِفَةِ إِلَى مِنًى‏.‏ قَالَ فَكِلاَهُمَا قَالَ لَمْ يَزَلِ النَّبِيُّ صلى الله عليه وسلم يُلَبِّي، حَتَّى رَمَى جَمْرَةَ الْعَقَبَةِ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا عبد الله بن محمد، حدثنا وهب بن جرير، حدثنا ابي، عن يونس الايلي، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس رضى الله عنهما ان اسامة رضى الله عنه كان ردف النبي صلى الله عليه وسلم من عرفة الى المزدلفة، ثم اردف الفضل من المزدلفة الى منى. قال فكلاهما قال لم يزل النبي صلى الله عليه وسلم يلبي، حتى رمى جمرة العقبة
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 
@@ -30,7 +30,7 @@
 
 
 <div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+‘ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, ‘আরাফাহ হতে মুয্দালিফা পর্যন্ত একই বাহনে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পিছনে উসামা ইবনু যায়দ (রাঃ) উপবিষ্ট ছিলেন। এরপর মুযদালিফা হতে মিনা পর্যন্ত ফযল [ইবনু ‘আব্বাস (রাঃ)]-কে তাঁর পিছনে আরোহণ করান। ইবনু ‘আব্বাস (রাঃ) বলেন, তাঁরা উভয়ই বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জামরা আকাবায় কঙ্কর নিক্ষেপ করা পর্যন্ত তালবিয়া পাঠ করছিলেন। (১৬৮৫, ১৬৮৫, ১৬৮৭, মুসলিম ১৫/৪৫, হাঃ ১২৮১, আহমাদ ১৮৩১) (আধুনিক প্রকাশনীঃ ১৪৪২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated 'Ubaidullah bin 'Abdullah:Ibn 'Abbas' said, "Usama rode behind Allah's Messenger (ﷺ) from 'Arafat to Al-Muzdalifa; and then Al-Fadl rode behind Allah's Messenger (ﷺ) from Al-Muzdalifa to Mina." Ibn 'Abbas added, "Both of them said, 'The Prophet kept on reciting Talbiya till he did the Rami of Jamrat-Al-'Aqaba
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Wahab bin Jarir] telah menceritakan kepada kami [bapakku] dari [Yunus Al Ailiyya] dari [Az Zuhriy] dari ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa [Usamah radliallahu 'anhu] pernah berboncengan dengan Nabi shallallahu 'alaihi wasallam dari 'Arafah hingga ke Al Muzdalifah, kemudian Beliau membonceng [Al Fadhal] dari Al Muzdalifah hingga ke Mina. Dia berkata; Pada kedua perjalanan itu senantiasa Nabi shallallahu 'alaihi wasallam bertalbiyyah hingga Beliau melempar jumrah Al 'Aqabah
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: உசாமா (ரலி) அவர்கள் நபி (ஸல்) அவர்களுடன் வாகனத்தின்பின் அமர்ந்து ‘அரஃபா’விலிருந்து ‘முஸ்தலிஃபா’வரை சென்றார்கள். பிறகு ஃபள்ல் (ரலி) அவர்கள் ‘முஸ்தலிஃபா’விலிருந்து ‘மினா’வரை சென்றார்கள். “நபி (ஸல்) அவர்கள் ஜம்ரத்துல் அகபாவில் கல்லெறியும்வரை தல்பியாவை நிறுத்தவில்லை” என இவ்விருவருமே கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha) ihramlı iken sarıya boyanmış elbise giymiş ve (ihramlı bir kadına) "Ağzını ve yüzünü peçe ile kapatma. Vers ve za'feranlı elbiseyi de giyme" demiştir. - Cabir r.a. şöyle demiştir: "Usfurla boyanmış elbisenin koku olduğu görüşünde değilim." - Hz. Aişe, ihramlı kadının, zinet takmasında, siyah ya da kırmızı elbise veya mest giymesinde bir sakınca görmemiştir. - ibrahim en-Nehaî, "İhramlının elbisesini değiştirmesinde sakınca yoktur" demiştir
+İbn Abbas r.a.'den nakledildiğine göre: Usame Arafat'tan Müzdelife'ye kadar Resûlullah Sallallahu Aleyhi ve Sellem'in terkisinde idi. Efendimiz Sallallahu Aleyhi ve Sellem daha sonra Müzdelife'den Mina'ya kadar Fadl'ı terkisine aldı. Usame ve Fadl, "Hz. Nebi, Akabe cemresine (büyük şeytana) taş atıncaya kadar telbiye etmeye devam etti" demişlerdir. 1543 nolu Hadisin geçtiği diğer yerler: 1686; 1544 nolu Hadisin geçtiği diğer yerler:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 

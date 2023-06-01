@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا عَبْدَانُ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي مَحْمُودُ بْنُ الرَّبِيعِ،، وَزَعَمَ، أَنَّهُ عَقَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم وَعَقَلَ مَجَّةً مَجَّهَا مِنْ دَلْوٍ كَانَ فِي دَارِهِمْ‏.‏ قَالَ سَمِعْتُ عِتْبَانَ بْنَ مَالِكٍ الأَنْصَارِيَّ، ثُمَّ أَحَدَ بَنِي سَالِمٍ قَالَ كُنْتُ أُصَلِّي لِقَوْمِي بَنِي سَالِمٍ، فَأَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ إِنِّي أَنْكَرْتُ بَصَرِي، وَإِنَّ السُّيُولَ تَحُولُ بَيْنِي وَبَيْنَ مَسْجِدِ قَوْمِي، فَلَوَدِدْتُ أَنَّكَ جِئْتَ فَصَلَّيْتَ فِي بَيْتِي مَكَانًا، حَتَّى أَتَّخِذَهُ مَسْجِدًا فَقَالَ ‏"‏ أَفْعَلُ إِنْ شَاءَ اللَّهُ ‏"‏‏.‏ فَغَدَا عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَبُو بَكْرٍ مَعَهُ بَعْدَ مَا اشْتَدَّ النَّهَارُ، فَاسْتَأْذَنَ النَّبِيُّ صلى الله عليه وسلم فَأَذِنْتُ لَهُ، فَلَمْ يَجْلِسْ حَتَّى قَالَ ‏"‏ أَيْنَ تُحِبُّ أَنْ أُصَلِّيَ مِنْ بَيْتِكَ ‏"‏‏.‏ فَأَشَارَ إِلَيْهِ مِنَ الْمَكَانِ الَّذِي أَحَبَّ أَنْ يُصَلِّيَ فِيهِ، فَقَامَ فَصَفَفْنَا خَلْفَهُ ثُمَّ سَلَّمَ، وَسَلَّمْنَا حِينَ سَلَّمَ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا عبدان، قال اخبرنا عبد الله، قال اخبرنا معمر، عن الزهري، قال اخبرني محمود بن الربيع،، وزعم، انه عقل رسول الله صلى الله عليه وسلم وعقل مجة مجها من دلو كان في دارهم. قال سمعت عتبان بن مالك الانصاري، ثم احد بني سالم قال كنت اصلي لقومي بني سالم، فاتيت النبي صلى الله عليه وسلم فقلت اني انكرت بصري، وان السيول تحول بيني وبين مسجد قومي، فلوددت انك جيت فصليت في بيتي مكانا، حتى اتخذه مسجدا فقال " افعل ان شاء الله ". فغدا على رسول الله صلى الله عليه وسلم وابو بكر معه بعد ما اشتد النهار، فاستاذن النبي صلى الله عليه وسلم فاذنت له، فلم يجلس حتى قال " اين تحب ان اصلي من بيتك ". فاشار اليه من المكان الذي احب ان يصلي فيه، فقام فصففنا خلفه ثم سلم، وسلمنا حين سلم
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>
 
@@ -30,7 +30,7 @@
 
 
 <div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+তিনি বলেছেন, আমি ‘ইতবান ইবনু মালিক আনসারী (রাযি.) যিনি বনূ সালিম গোত্রের একজন, তাঁকে বলতে শুনেছি, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট গিয়ে বললাম, আমার দৃষ্টি ক্ষীণ হয়ে গেছে এবং আমার বাড়ি হতে আমার কাওমের মাসজিদ পর্যন্ত পানি বাধা হয়ে দাঁড়িয়েছে। আমার একান্ত ইচ্ছা আপনি আমার বাড়িতে এসে এক জায়গায় সালাত আদায় করবেন যেটা আমি সালাত আদায় করার জন্য নির্দিষ্ট করে নিব। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ইন্শা আল্লাহ্, আমি তা করব। পরদিন রোদের তেজ বৃদ্ধি পেলে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং আবূ বাকর (রাযি.) আমার বাড়িতে এলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রবেশের অনুমতি চাইলে আমি তাঁকে দিলাম। তিনি না বসেই বললেনঃ তোমার ঘরের কোন্ স্থানে তুমি আমার সালাত আদায় পছন্দ কর? তিনি পছন্দ মত একটি স্থান নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সালাত আদায়ের জন্য ইঙ্গিত করে দেখালেন। অতঃপর তিনি দাঁড়ালেন আমরাও তাঁর পিছনে কাতারে দাঁড়ালাম। অবশেষে তিনি সালাম ফিরালেন, আমরাও তাঁর সালামের সময় সালাম ফিরালাম। (৪২৪; মুসলিম ১/১০, হাঃ ৩৩, ১৬৪৮১) (আধুনিক প্রকাশনীঃ৭৯২ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated Mahmud bin Ar-Rabi':I remember Allah's Messenger (ﷺ) and also the mouthful of water which he took from a bucket in our house and ejected (on me). I heard from 'Itban bin Malik Al-Ansari, who was one from Bani Salim, saying, "I used to lead my tribe of Bani Salim in prayer. Once I went to the Prophet (ﷺ) and said to him, 'I have weak eyesight and at times the rainwater flood intervenes between me and the mosque of my tribe and I wish that you would come to my house and pray at some place so that I could take that place as a place for praying (mosque). He said, "Allah willing, I shall do that." Next day Allah's Messenger (ﷺ) along with Abu Bakr, came to my house after the sun had risen high and he asked permission to enter. I gave him permission, but he didn't sit till he said to me, "Where do you want me to pray in your house?" I pointed to a place in the house where I wanted him to pray. So he stood up for the prayer and we aligned behind him. He completed the prayer with Taslim and we did the same simultaneously
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Mahmud bin Ar Rabi'], dia mengklaim bahwa ia telah membuat perjanjian dengan Rasulullah shallallahu 'alaihi wasallam dan meminta keberkahan kewat air yang diambil dari sumur yang ada di dalam mereka. Dia berkata, Aku mendengar ['Itban bin Malik Al Anshari] kemudian seseorang dari suku Bani Salim berkata, "Aku pernah memimpin shalat kaumku, Bani Salim. Pada kemudian hari aku menemui Nabi shallallahu 'alaihi wasallam, lalu aku berkata kepada beliau, "Wahai Rasulullah, aku adalah orang yang sudah lemah penglihatan sedangkan genangan-genangan dari saluran air sering menghalangi antara aku dan masjid kaumku. Seandainya tuan berkenan, bolehlah tuan datang berkunjung lalu shalat di rumahku pada suatu tempat yang akan aku jadikan masjid." Maka Beliau berkata, "Aku akan datang, Insyaallah." Kemudian beliau datang kepadaku bersama Abu Bakar di waktu siang yang terik. Nabi shallallahu 'alaihi wasallam lalu minta izin masuk dan aku pun mengizinkannya. Sebelum duduk beliau langsung bersabda: "Mana tempat yang kau sukai untuk aku shalat padanya di rumahmu ini?" Maka Itban memberi isyarat kepada Beliau tempat yang disukainya supaya Beliau shalat di tempat tersebut. Beliau lalu berdiri shalat dan kamipun berdiri shalat mengatur shaf di belakangnya. Kemudian Beliau mengakhiri shalat dengan salam, maka kamipun mengucapkan salam setelah Beliau salam
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-தொடர்ந்து மஹ்மூத் பின் அர்ரபீஉ (ரலி) அவர்கள் கூறினார்கள்: பனூ சா-ம் குலத்தைச் சேர்ந்தவரும் அன்சாரியுமான இத்பான் பின் மா-க் (ரலி) அவர்கள் கூறினார்கள்: நான் என் சமுதாயத்தாரான பனூ சா-ம் குலத்தாருக்கு (இமாமாக இருந்து) தொழுகை நடத்திவந்தேன். நான் நபி (ஸல்) அவர்களிடம் சென்று, “(அல்லாஹ்வின் தூதரே!) நான் என் கண் பார்வையை இழந்துவருகிறேன். (மழைக் காலங்களில்) என(து இல்லத்து)க்கும் என் சமுதாய மக்களின் பள்ளிவாசலுக்கும் குறுக்கே (உள்ள பள்ளத்தாக்கில்) தண்ணீர் ஓடுகிறது. (ஆகவே, என்னால் அவர்களின் பள்ளி வாசலுக்குச் செல்ல முடியவில்லை.) எனவே, நீங்கள் வந்து, என் இல்லத்தில் ஓர் இடத்தில் தொழ வேண்டும். அ(ந்த இடத்)தை நான் தொழும் இடமாக ஆக்கிக்கொள்ள வேண்டும் என ஆசைப் படுகிறேன்” என்று கூறினேன். அதற்கு நபி (ஸல்) அவர்கள், “இன்ஷா அல்லாஹ் (அவ்வாறே) செய்கிறேன்” என்று கூறினார்கள். மறுநாள் நண்பக-ல் என்னிடம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் அபூபக்ர் (ரலி) அவர்களும் வந்தனர். நபி (ஸல்) அவர்கள் (என் இல்லத்தினுள் வர) அனுமதி கேட்டார்கள். அவர்களுக்கு நான் அனுமதியளித்தேன் அவர்கள் உட்காரக்கூட இல்லை. (அதற்குள்) “(இத்பானே!) உங்கள் வீட்டில் எந்த இடத்தில் நான் தொழ வேண்டுமென நீங்கள் விரும்புகிறீர்கள்?” என்று கேட்டார்கள். அவர்கள் (என் வீட்டில்) எந்த இடத்தில் தொழ வேண்டும் என நான் விரும்பி னேனோ அந்த இடத்தை அவர்களுக்குச் சுட்டிக்காட்டினேன். (அந்த இடத்தில்) நபி (ஸல்) அவர்கள் (தொழ) நின்றார்கள். உடனே நாங்களும் அவர்களுக்குப் பின்னால் அணிவகுத்து நின்றோம். (தொழுகை முடியும்போது) அவர்கள் சலாம் கொடுத்தார்கள். அவர்கள் சலாம் கொடுத்தபோது நாங்களும் சலாம் கொடுத்தோம். அத்தியாயம் :
+முஹம்மத் பின் முஸ்-ம் அஸ் ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறியதாவது: மஹ்மூத் பின் அர்ரபீஉ (ரலி) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களை எனக்கு நினைவிருக்கிறது. அவர்கள் எங்கள் வீட்டி-ருந்த வாளியொன்றி -ருந்து நீர் அள்ளி ஒரு முறை உமிழ்ந்த தும் எனக்கு நினைவிருக்கிறது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Mahmud İbn er-Rabî' (r.a.), Resûlullah Sallallahu Aleyhi ve Sellem'in bir gün evlerine gelip kuyunun kovasından bir içim suyu ağzına alıp yüzüne püskürttüğünü hatırladığını ve bu günlerde de bunu hatırlayacak yaşta olduğunu anlatmaktadır. [-840-] Mahmud İbn Rebî' el~Ensârî (r.a.) şöyle demiştir: Ben Itbân İbn Mâlik (r.a.)'in şöyle dediğini işittim: "Ben bağlı bulunduğum Beni Seleme kabilesine imamlık yapardım. Bir gün Resûlullah Sallallahu Aleyhi ve Sellem'e gelerek şöyle dedim; "Ya Resulallah! Ben gözleri görmeyen bir a'mayım. Bazen öyle aşırı yağmur yağıyor ki evimle mescid arasında oluşan sel yüzünden evimden çıkıp mescid'e gidemiyorum. Ben zât-ı âlînizden şunu istirham ediyorum; Evimize buyurup bir köşesinde namaz kılsanız da orayı rnescid edinsem!" Bunun üzerine Resûlullah Sallallahu Aleyhi ve Sellem ona şöyle dedi: "İnşallah bu talebinizi yerine getiririm!" Bir süre sonra, öğle vakti civarı Resûlullah Sallallahu Aleyhi ve Sellem söylediği gibi benim yanıma geldi. Yanında Ebu Bekir de vardı. Resûlullah Sallallahu Aleyhi ve Sellem içeri girmek için izin istedi. Ben de kendilerini içeriye buyur ettim. Fakat hemen oturmadı ve oturmadan önce namaz kılmak istediği için şöyle buyurdu: "Namazı nerede kılmamı istersin?" İtbân, Nebi Sallallahu Aleyhi ve Sellem'e evinde uygun olan istediği bir yer gösterdi ve Resul-i Ekrem (Sallallahu aleyhi ve Sellem) namaz kılmak üzere kalktığında biz de kalkıp arkasında saf olduk. Namazı kılıp selâm verdi ve o selâm verince biz de selâm verdik
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>
 
@@ -70,6 +70,6 @@
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-انہوں نے بیان کیا کہ میں نے عتبان بن مالک انصاری سے سنا، پھر بنی سالم کے ایک شخص سے اس کی مزید تصدیق ہوئی۔ عتبان رضی اللہ عنہ نے کہا کہ میں اپنی قوم بنی سالم کی امامت کیا کرتا تھا۔ میں نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کی کہ یا رسول اللہ! میری آنکھ خراب ہو گئی ہے اور ( برسات میں ) پانی سے بھرے ہوئے نالے میرے اور میری قوم کی مسجد کے بیچ میں رکاوٹ بن جاتے ہیں۔ میں چاہتا ہوں کہ آپ میرے مکان پر تشریف لا کر کسی ایک جگہ نماز ادا فرمائیں تاکہ میں اسے اپنی نماز کے لیے مقرر کر لوں رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ انشاء اللہ تعالیٰ میں تمہاری خواہش پوری کروں گا صبح کو جب دن چڑھ گیا تو نبی کریم صلی اللہ علیہ وسلم تشریف لائے۔ ابوبکر رضی اللہ عنہ آپ صلی اللہ علیہ وسلم کے ساتھ تھے۔ آپ صلی اللہ علیہ وسلم نے ( اندر آنے کی ) اجازت چاہی اور میں نے دے دی۔ آپ صلی اللہ علیہ وسلم بیٹھے نہیں بلکہ پوچھا کہ گھر کے کس حصہ میں نماز پڑھوانا چاہتے ہو۔ ایک جگہ کی طرف جسے میں نے نماز پڑھنے کے لیے پسند کیا تھا۔ اشارہ کیا۔ آپ صلی اللہ علیہ وسلم ( نماز کے لیے ) کھڑے ہوئے اور ہم نے آپ صلی اللہ علیہ وسلم کے پیچھے صف بنائی۔ پھر آپ صلی اللہ علیہ وسلم نے سلام پھیرا اور جب آپ صلی اللہ علیہ وسلم نے سلام پھیرا تو ہم نے بھی پھیرا۔
+ہم سے عبدان نے بیان کیا، کہا کہ ہمیں عبداللہ بن مبارک نے خبر دی کہا کہ ہمیں معمر نے زہری سے خبر دی کہا کہ مجھے محمود بن ربیع نے خبر دی، وہ کہتے تھے کہ مجھے رسول اللہ صلی اللہ علیہ وسلم پوری طرح یاد ہیں اور آپ صلی اللہ علیہ وسلم کا میرے گھر کے ڈول سے کلی کرنا بھی یاد ہے ( جو آپ صلی اللہ علیہ وسلم نے میرے منہ میں ڈالی تھی ) ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>

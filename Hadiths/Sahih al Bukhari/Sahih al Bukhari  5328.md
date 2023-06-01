@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+وَحَدَّثَنِي حِبَّانُ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، أَنْكَرَتْ ذَلِكَ عَلَى فَاطِمَةَ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5328</td></tr><tr><td>Arabic No</td><td>5328</td></tr><tr><td>Reference</td><td>Book 68 Hadith 73</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+وحدثني حبان، اخبرنا عبد الله، اخبرنا ابن جريج، عن ابن شهاب، عن عروة، ان عايشة، انكرت ذلك على فاطمة
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5328</td></tr><tr><td>Arabic No</td><td>5328</td></tr><tr><td>Reference</td><td>Book 68 Hadith 73</td></tr></tbody></table></div>
 
@@ -30,7 +30,7 @@
 
 
 <div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+‘উরওয়াহ (রাঃ) হতে বর্ণিত যে, ‘আয়িশাহ (রাঃ) ফাতিমার কথাকে অগ্রাহ্য করেছেন। [৫৩২১, ৫৩২২] আধুনিক প্রকাশনী- ৪৯৩৪, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5328</td></tr><tr><td>Arabic No</td><td>5328</td></tr><tr><td>Reference</td><td>Book 68 Hadith 73</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated 'Urwa:Aisha disapproved of what Fatima used to say
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5328</td></tr><tr><td>Arabic No</td><td>5328</td></tr><tr><td>Reference</td><td>Book 68 Hadith 73</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah menceritakan kepadaku [Hibban] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Ibnu Juraij] dari [Ibnu Syihab] dari [Urwah] bahwa [Aiysah] mengingkari hal itu atas Fathimah
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5328</td></tr><tr><td>Arabic No</td><td>5328</td></tr><tr><td>Reference</td><td>Book 68 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+உர்வா பின் அஸ் ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள், ஃபாத்திமா பின்த் கைஸ் அவ்வாறு (மணவிலக்கு அளிக்கப்பட்ட பெண் கணவனின் இல்லத்திலிருந்து வெளியேறி மற்றோர் இடத்தில் ‘இத்தா’ மேற்கொள்ளலாம் என்று) கூறிவந்ததை நிராகரித்தார்கள்.86 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5328</td></tr><tr><td>Arabic No</td><td>5328</td></tr><tr><td>Reference</td><td>Book 68 Hadith 73</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Urve'den rivayete göre "Aişe, Fatıma'nın bu sözünü kesin olarak reddetmiştir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5328</td></tr><tr><td>Arabic No</td><td>5328</td></tr><tr><td>Reference</td><td>Book 68 Hadith 73</td></tr></tbody></table></div>
 

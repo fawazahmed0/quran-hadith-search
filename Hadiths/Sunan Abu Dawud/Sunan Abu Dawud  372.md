@@ -16,13 +16,13 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ حَمَّادِ بْنِ أَبِي سُلَيْمَانَ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَفْرُكُ الْمَنِيَّ مِنْ ثَوْبِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَيُصَلِّي فِيهِ ‏.‏ قَالَ أَبُو دَاوُدَ وَافَقَهُ مُغِيرَةُ وَأَبُو مَعْشَرٍ وَوَاصِلٌ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim ( 288 From Hadith Ibrahim By)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا موسى بن اسماعيل، حدثنا حماد بن سلمة، عن حماد بن ابي سليمان، عن ابراهيم، عن الاسود، عن عايشة، قالت كنت افرك المني من ثوب رسول الله صلى الله عليه وسلم فيصلي فيه . قال ابو داود وافقه مغيرة وابو معشر وواصل
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim ( 288 From Hadith Ibrahim By)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
 
 ## Bengali
 
@@ -30,7 +30,7 @@
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আল-আসওয়াদ (রহঃ) সূত্রে বর্ণিত। ‘আয়িশাহ্ (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাপড় থেকে বীর্য রগড়ে তুলে ফেলতাম। অতঃপর তিনি ঐ কাপড়েই সালাত আদায় করতেন।[1] সহীহ : মুসলিম। ইমাম আবূ দাউদ (রহঃ) বলেন, মুগীরাহ ও আবূ মা‘শার উপরোক্ত হাদীস বর্ণনায় একমত পোষণ করেছেন এবং আ‘মাশ হাকামের অনুরূপই বর্ণনা করেছেন।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim ( 288 From Hadith Ibrahim By)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aishah reported:I used to rub off the semen from the clothe of the Messenger of Allah (ﷺ). He would would pray in it. Abu Dawud said: Mughirah, Abu Ma'shar, and Wasil also narrated it to the same effect
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim ( 288 From Hadith Ibrahim By)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ Aishah reported:I used to rub off the semen from the clothe of the Messenger of 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad bin Salamah] dari [Hammad bin Abu Sulaiman] dari [Ibrahim] dari [Al-Aswad] dari [Aisyah] dia berkata; Saya pernah menggosok air mani pada pakaian Rasulullah shallallahu 'alaihi wasallam, lalu beliau shalat dengan pakaian tersebut. Abu Daud berkata; Hadits ini di sepakati pula oleh [Mughirah], [Abu Ma'syar] dan [Washil]
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim ( 288 From Hadith Ibrahim By)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (radıyallahü anhâ) şöyle demiştir: Ben Resûlüllah (sallallahü aleyhi ve sellem)'ın elbisesinden meniyi ovalardım. Resûlüllah da o elbisede namaz kılardı." Ebû Dâvûd rivâyet etmiştir. Dâvûd buyurdu ki: bu rivâyetinde Muğîre, Ebû Ma'şer ve Vâsıl muvafakat ettiler
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim ( 288 From Hadith Ibrahim By)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کے کپڑے سے منی کھرچ ڈالتی تھی، پھر آپ اسی میں نماز پڑھتے تھے۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim ( 288 From Hadith Ibrahim By)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 1 Hadith 372</td></tr></tbody></table></div>

@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ كَانَ يَقْتُلُ الْحَيَّاتِ‏.‏ فَحَدَّثَهُ أَبُو لُبَابَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ قَتْلِ جِنَّانِ الْبُيُوتِ، فَأَمْسَكَ عَنْهَا‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3313</td></tr><tr><td>Arabic No</td><td>3313</td></tr><tr><td>Reference</td><td>Book 59 Hadith 119</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا مالك بن اسماعيل، حدثنا جرير بن حازم، عن نافع، عن ابن عمر، انه كان يقتل الحيات. فحدثه ابو لبابة، ان النبي صلى الله عليه وسلم نهى عن قتل جنان البيوت، فامسك عنها
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3313</td></tr><tr><td>Arabic No</td><td>3313</td></tr><tr><td>Reference</td><td>Book 59 Hadith 119</td></tr></tbody></table></div>
 
@@ -30,7 +30,7 @@
 
 
 <div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+অতঃপর আবূ লুবাবাহ (রাঃ) তাঁকে একটি হাদীস শুনালেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘরে বসবাসকারী সাপ হত্যা করতে নিষেধ করেছেন। ফলে তিনি সাপ মারা বন্ধ করে দেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3313</td></tr><tr><td>Arabic No</td><td>3313</td></tr><tr><td>Reference</td><td>Book 59 Hadith 119</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated Nafi':Ibn 'Umar used to kill snakes but when Abu Lubaba informed him that the Prophet (ﷺ) had forbidden the killing of snakes living in houses, he gave up killing them
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3313</td></tr><tr><td>Arabic No</td><td>3313</td></tr><tr><td>Reference</td><td>Book 59 Hadith 119</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Abdullah İbn Ömer r.a.'in önceden yılanları öldürdüğü nakledilmiştir. [-3313-] Ancak Ebu Lübabe ona Resulullah Sallallahu Aleyhi ve Sellem'in ev yılanlarının öldürülmesini yasakladığını nakledince bundan vazgeçmiştir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3313</td></tr><tr><td>Arabic No</td><td>3313</td></tr><tr><td>Reference</td><td>Book 59 Hadith 119</td></tr></tbody></table></div>
 

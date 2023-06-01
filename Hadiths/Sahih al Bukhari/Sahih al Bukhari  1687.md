@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي، عَنْ يُونُسَ الأَيْلِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ أُسَامَةَ بْنَ زَيْدٍ ـ رضى الله عنهما ـ كَانَ رِدْفَ النَّبِيِّ صلى الله عليه وسلم مِنْ عَرَفَةَ إِلَى الْمُزْدَلِفَةِ، ثُمَّ أَرْدَفَ الْفَضْلَ مِنَ الْمُزْدَلِفَةِ إِلَى مِنًى ـ قَالَ ـ فَكِلاَهُمَا قَالاَ لَمْ يَزَلِ النَّبِيُّ صلى الله عليه وسلم يُلَبِّي حَتَّى رَمَى جَمْرَةَ الْعَقَبَةِ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا زهير بن حرب، حدثنا وهب بن جرير، حدثنا ابي، عن يونس الايلي، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس رضى الله عنهما ان اسامة بن زيد رضى الله عنهما كان ردف النبي صلى الله عليه وسلم من عرفة الى المزدلفة، ثم اردف الفضل من المزدلفة الى منى قال فكلاهما قالا لم يزل النبي صلى الله عليه وسلم يلبي حتى رمى جمرة العقبة
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -30,7 +30,7 @@
 
 
 <div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, ‘আরাফা হতে মুযদালিফা আসার পথে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সওয়ারীর পেছনে উসামাহ (রাঃ) উপবিষ্ট ছিলেন। এরপর মুযদালিফা হতে মিনার পথে তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফাযলকে সওয়ারীর পেছনে বসালেন। ইবনু ‘আব্বাস (রাঃ) বলেন, তারা উভয়েই বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জামরায়ে ‘আকাবাতে কঙ্কর না মারা পর্যন্ত অনবরত তালবিয়া পাঠ করছিলেন। (১৫৪৪) (আধুনিক প্রকাশনীঃ ১৫৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated 'Ubaidullah bin 'Abdullah:Ibn 'Abbas said, "Usama bin Zaid rode behind the Prophet (ﷺ) from 'Arafat to Al-Muzdalifa; and then from Al-Muzdalifa to Mina, Al-Fadl rode behind him." He added, "Both of them (Usama and Al-Fadl) said, 'The Prophet (ﷺ) was constantly reciting Talbiya till he did Rami of the Jamarat-Al-'Aqaba
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [bapakku] dari [Yunus Al Ailiy] dari [Az Zuhriy] dari ['Ubaidullah bin Abdullah] dari [Ibnu 'Abbas] radliallahu 'anhuma bahwa [Usamah bin Zaid radliallahu 'anhuma] pernah diboncengkan oleh Nabi Shallallahu'alaihiwasallam dari 'Arafah menuju Muzdalifah lalu Beliau membonceng [Al Fadhal] dari Muzdalifah menuju Mina. Dia berkata: "Selama dalam dua perjalanan itu Beliau senantiasa bertalbiyah hingga melempar jumrah 'Aqabah
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அரஃபாவிலிருந்து முஸ்தலிஃபாவரை நபி (ஸல்) அவர்களின் பின்னால் (வாகனத்தில்) உசாமா பின் ஸைத் (ரலி) அவர்கள் அமர்ந்திருந்தார்கள். பிறகு முஸ்தலிஃபாவிலிருந்து மினாவரை ஃபள்ல் (ரலி) அவர்களை நபி (ஸல்) அவர்கள் (தமது வாகனத்தில்) தமக்குப் பின்னால் ஏற்றிக்கொண்டார்கள். “நபி (ஸல்) அவர்கள் (துல்ஹஜ் பத்தாம் நாள்) ஜம்ரத்துல் அகபாவில் கல்லெறியும் வரை தல்பியா கூறிக்கொண்டேயிருந் தார்கள்” என அவ்விருவரும் கூறினர். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bab "Kim hac günlerine kadar umre ile faydalanmak isterse kolayına gelen bir kurban kesmesi gerekir. Kurban kesmeyen kimse, hac günlerinde üç, memleketine döndüğü zaman yedi olmak üzere oruç tutar ki hepsi tam on gündür. Bu söylenenler, ailesi Mescid-i Haram civarında oturmayanlar içindir."[Bakara]
+İbn Abbas r.a. şöyle anlatır: "Usame İbn Zeyd, Arafat'tan Müzdelife'ye kadar Resulullah'ın bineğinin arkasında - terkisinde idi. Daha sonra Hz. Nebi, Müzdelife'den Mina'ya kadar Fadl'ı bineğinin arkasına - terkisine almıştır. Her ikisi de, "Resulullah, Akabe cemresine gelene kadar telbiye getirdi" demiştir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا مُحَمَّدٌ، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ مَنْ حَلَفَ عَلَى يَمِينٍ وَهْوَ فِيهَا فَاجِرٌ، لِيَقْتَطِعَ بِهَا مَالَ امْرِئٍ مُسْلِمٍ، لَقِيَ اللَّهَ وَهْوَ عَلَيْهِ غَضْبَانُ ‏"‏‏.‏ قَالَ فَقَالَ الأَشْعَثُ بْنُ قَيْسٍ فِيَّ وَاللَّهِ كَانَ ذَلِكَ، كَانَ بَيْنِي وَبَيْنَ رَجُلٍ مِنَ الْيَهُودِ أَرْضٌ فَجَحَدَنِي، فَقَدَّمْتُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَلَكَ بَيِّنَةٌ ‏"‏‏.‏ قَالَ قُلْتُ لاَ‏.‏ قَالَ فَقَالَ لِلْيَهُودِيِّ ‏"‏ احْلِفْ ‏"‏‏.‏ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِذًا يَحْلِفَ وَيَذْهَبَ بِمَالِي‏.‏ قَالَ فَأَنْزَلَ اللَّهُ تَعَالَى ‏(‏إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلاً‏)‏ إِلَى آخِرِ الآيَةِ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>2667</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا محمد، اخبرنا ابو معاوية، عن الاعمش، عن شقيق، عن عبد الله رضى الله عنه قال قال رسول الله صلى الله عليه وسلم " من حلف على يمين وهو فيها فاجر، ليقتطع بها مال امري مسلم، لقي الله وهو عليه غضبان ". قال فقال الاشعث بن قيس في والله كان ذلك، كان بيني وبين رجل من اليهود ارض فجحدني، فقدمته الى النبي صلى الله عليه وسلم فقال لي رسول الله صلى الله عليه وسلم " الك بينة ". قال قلت لا. قال فقال لليهودي " احلف ". قال قلت يا رسول الله اذا يحلف ويذهب بمالي. قال فانزل الله تعالى (ان الذين يشترون بعهد الله وايمانهم ثمنا قليلا) الى اخر الاية
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>2667</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "If somebody takes a false oath in order to get the property of a Muslim (unjustly) by that oath, then Allah will be angry with him when he will meet Him." Al-Ash'ath informed me, "By Allah! This was said regarding me. There was a dispute about a piece of land between me and a man from the Jews who denied my right. I took him to the Prophet. Allah's Messenger (ﷺ) asked me, 'Do you have an evidence?' I replied in the negative. He said to the Jew, 'Take an oath.' I said, 'O Allah's Messenger (ﷺ)! He will surely take an oath and take my property unjustly." So, Allah revealed: "Verily! Those who purchase a little gain at the cost of Allah's covenant and their oaths
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>2667</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi Sallallahu Aleyhi ve Sellem "Ya iki şahit getirirsin, ya da o yemin eder" buyurmuştur. Kuteybe, Süfyan yoluyla İbn Şübrume'nin şöyle dediğini nakletmiştir: Ebu'z-Zinad bana bir şahidin şahitliği ve davacının yemin etmesi ile hüküm verilebileceğini söylemişti. Ben: "Eğer iki erkek bulunamazsa rıza göstereceğiniz şahitlerden bir erkek ile -biri yanılırsa diğerinin ona hatırlatması için- iki kadın olsun" [Bakara, 282] ayetini okudum. Sonra bir kişinin şahitliği ve davacının yemini ile yetinilecekse birinin ötekine hatırlatmasına niye ihtiyaç duyulsun. O tek olan kadının bile hatırlamasına ne gerek olur ki!" dedim
+Abdullah r.a.'dan rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem "Her kim bir müslümanın malını elinden almak için haksız yere yemin ederse Allah'ın huzuruna vardığında Allah'ın kendisine gazablandığını! kendisine kızmış olduğunu görür" buyurmuştu. Eş'as b. Kays "Allah'a yemin ederim ki bu hadis benimle ilgiliydi. Bir Yahudi ile benim ortak bir tarlamız vardı. Yahudi benim payımı inkar etti. Nebi s.a.v.'e gelerek durumu kendisine arz ettim. Nebi Sallallahu Aleyhi ve Sellem: "Delilin şahidin var mı?" diye sordu. "Hayır" dedim. Yahudiye "Yemin et" dedi. Bunun üzerine ben: "Ey Allah'ın Resulü! O çekinmeden yemin eder ve malımı elimden alır" dedim. Bunun üzerine: "Allah'a karşı verdikleri sözü ve yeminlerini az bir bedelle değiştirenlere gelince, işte bunların ahirette bir payı yoktur. Kıyamet günü Allah onlarla konuşmayacak, onlara bakmayacak ve onları temize çıkarmayacaktır. Onlar için acı bir azap vardır" [AI-i İmran 77] ayeti indirildi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>2667</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

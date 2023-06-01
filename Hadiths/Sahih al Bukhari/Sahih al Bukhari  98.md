@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, Telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: "Şahitlik ederim ki Nebi (Sallallahu aleyhi ve Sellem) (vaaz verdikten son­ra) kadınlara duyuramadığını düşünerek Bilal ile birlikte kadınların yanına gitti. Onlara sadaka vermelerini emretti. Kadınların kimi küpesini, kimi yüzüğünü çıkarıp atmaya başladılar. Bilal onları eteği içinde topluyordu. Tekrar: 8
+İbn Abbas r.a. şöyle demiştir: "Şahitlik ederim ki Nebi (Sallallahu aleyhi ve Sellem) (vaaz verdikten son­ra) kadınlara duyuramadığını düşünerek Bilal ile birlikte kadınların yanına gitti. Onlara sadaka vermelerini emretti. Kadınların kimi küpesini, kimi yüzüğünü çıkarıp atmaya başladılar. Bilal onları eteği içinde topluyordu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>98</td></tr><tr><td>Arabic No</td><td>98</td></tr><tr><td>Reference</td><td>Book 3 Hadith 40</td></tr></tbody></table></div>
 

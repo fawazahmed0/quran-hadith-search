@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، عَنْ أَبِي أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ‏.‏وَالْقَاسِمِ بْنِ مُحَمَّدٍ عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ بِلاَلاً، كَانَ يُؤَذِّنُ بِلَيْلٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ كُلُوا وَاشْرَبُوا حَتَّى يُؤَذِّنَ ابْنُ أُمِّ مَكْتُومٍ، فَإِنَّهُ لاَ يُؤَذِّنُ حَتَّى يَطْلُعَ الْفَجْرُ ‏"‏‏.‏ قَالَ الْقَاسِمُ وَلَمْ يَكُنْ بَيْنَ أَذَانِهِمَا إِلاَّ أَنْ يَرْقَى ذَا وَيَنْزِلَ ذَا‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1919</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 30 Hadith 28</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا عبيد بن اسماعيل، عن ابي اسامة، عن عبيد الله، عن نافع، عن ابن عمر.والقاسم بن محمد عن عايشة رضى الله عنها ان بلالا، كان يوذن بليل فقال رسول الله صلى الله عليه وسلم " كلوا واشربوا حتى يوذن ابن ام مكتوم، فانه لا يوذن حتى يطلع الفجر ". قال القاسم ولم يكن بين اذانهما الا ان يرقى ذا وينزل ذا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1919</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 30 Hadith 28</td></tr></tbody></table></div>
 
@@ -30,7 +30,7 @@
 
 
 <div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+কাসিম (রহ.) বলেন, এদের উভয়ের আযানের মাঝে শুধু এতটুকু ব্যবধান ছিল যে, একজন নামতেন এবং অন্যজন উঠতেন। (৬২২) (আধুনিক প্রকাশনীঃ ১৭৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1919</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 30 Hadith 28</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated 'Aisha:Bilal used to pronounce the Adhan at night, so Allah's Messenger (ﷺ)? said, "Carry on taking your meals (eat and drink) till Ibn Um Maktum pronounces the Adhan, for he does not pronounce it till it is dawn
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1919</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 30 Hadith 28</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah menceritakan kepada kami ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibu 'Umar] dan [Al Qasim bin Muhammad] dari ['Aisyah radliallahu 'anha] bahwa Bilal biasa melakukan adzan (pertama) di malam hari, maka Rasulullah shallallahu 'alaihi wasallam berkata: "Makan dan minumlah kalian hingga Ibnu Ummu Maktum melakukan adzan, karena dia tidak melakukan adzan kecuali sudah terbit fajar". Al Qasim berkata: "Jarak antara adzan keduanya itu tidaklah lama melainkan bila yang satunya naik maka yang satunya lagi turun (maksudnya naik ke dan turun dari menara)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1919</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 30 Hadith 28</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+இப்னு உமர் (ரலி), ஆயிஷா (ரலி) ஆகியோர் கூறியதாவது: பிலால் (ரலி) அவர்கள், (ஃபஜ்ர் நேரத்திற்குமுன்) இரவிலேயே தொழுகை அறிவிப்புச் செய்வார்கள்; அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘இப்னு உம்மி மக்(த்)தூம் தொழுகை அறிவிப்புச் செய்யும்வரை உண்ணுங்கள்; பருகுங்கள்! ஏனெனில், அவர்தான் ஃபஜ்ர் (வைகறை) நேரம் வந்ததும் தொழுகை அறிவிப்புச் செய்கிறார்” என்று குறிப்பிட்டார்கள். ‘‘அவர் தொழுகை அறிவிப்புச் செய்து விட்டு இறங்குவார்; இவர் தொழுகை அறிவிப்புச் செய்வதற்கு ஏறுவார் என்பதைத் தவிர இருவரின் அறிவிப்பு களுக்கிடையே (பெரிய) இடைவெளி இருக்காது” என்று காசிம் பின் முஹம்மத் (ரஹ்) அவர்கள் கூறியுள்ளார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1919</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 30 Hadith 28</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bir de el-Kaasım ibn Muhammed (106) Âişe (r.anha)'den (şöyle demiştir): Bilâl geceleyin ezan okur idi. Rasûlüllah(sallallahü aleyhi ve sellem): “Ümmü Mektûm oğlu ezan okuyuncaya kadar yiyiniz, içiniz- Çünkü Ümmü Mektûm oğlu fecr tulû' etmedikçe ezan okumaz" buyurdu. el-Kaasım: Bu ikisinin ezanı arasında ancak şunun (Ümmü Mektûm oğlu'nun) çıkması ve bunun (Bilâl'in) inmesi kadar zaman vardı, demiştir
+Aişe r.anha'nın şöyle dediği nakledilmiştir: "Bilal, ezanı gece vakti okurdu. Resulullah Sallallahu Aleyhi ve Sellem (insanların zihinlerindeki soru işaretlerine son vermek İçin) şöyle buyurdu: "Abdullah İbn Ümmi Mektum ezan okuyuncaya kadar yiyin ve için!" Hadisin ravilerinden Kasım İbn Muhammed şöyle demiştir: "Bilal ile İbn Ümmi Mektum'un ezanları arasında biri çıkıp diğeri inecek kadar bir süre vardı." باب: تأخير السحور. 18- Sahurda Acele Etmek
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1919</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 30 Hadith 28</td></tr></tbody></table></div>
 

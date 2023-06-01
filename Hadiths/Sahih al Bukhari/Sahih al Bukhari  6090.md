@@ -16,13 +16,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، عَنْ جَرِيرٍ، قَالَ مَا حَجَبَنِي النَّبِيُّ صلى الله عليه وسلم مُنْذُ أَسْلَمْتُ، وَلاَ رَآنِي إِلاَّ تَبَسَّمَ فِي وَجْهِي‏.‏ وَلَقَدْ شَكَوْتُ إِلَيْهِ أَنِّي لاَ أَثْبُتُ عَلَى الْخَيْلِ، فَضَرَبَ بِيَدِهِ فِي صَدْرِي وَقَالَ ‏ "‏ اللَّهُمَّ ثَبِّتْهُ وَاجْعَلْهُ هَادِيًا مَهْدِيًّا ‏"‏‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6090</td></tr><tr><td>Arabic No</td><td>6090</td></tr><tr><td>Reference</td><td>Book 78 Hadith 117</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا ابن نمير، حدثنا ابن ادريس، عن اسماعيل، عن قيس، عن جرير، قال ما حجبني النبي صلى الله عليه وسلم منذ اسلمت، ولا راني الا تبسم في وجهي. ولقد شكوت اليه اني لا اثبت على الخيل، فضرب بيده في صدري وقال " اللهم ثبته واجعله هاديا مهديا
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6090</td></tr><tr><td>Arabic No</td><td>6090</td></tr><tr><td>Reference</td><td>Book 78 Hadith 117</td></tr></tbody></table></div>
 
@@ -30,7 +30,7 @@
 
 
 <div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+একদিন আমি অভিযোগ করে বললামঃ আমি ঘোড়ার পিঠে চেপে বসে আঁকড়ে ধরে থাকতে পারি না। তখন তিনি আমার বুকে হাত রেখে দু‘আ করলেন। হে আল্লাহ! তাকে দৃঢ়চিত্ত করুন এবং তাকে সঠিক পথের সন্ধানদাতা ও সৎপথপ্রাপ্ত বানিয়ে দিন। [৩০৩৫] (আধুনিক প্রকাশনী- ৫৬৫১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6090</td></tr><tr><td>Arabic No</td><td>6090</td></tr><tr><td>Reference</td><td>Book 78 Hadith 117</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Narrated Jarir:The Prophet (ﷺ) did not screen himself from me (had never prevented me from entering upon him) since I embraced Islam, and whenever he saw me, he would receive me with a smile. Once I told him that I could not sit firm on horses. He stroked me on the chest with his hand, and said, "O Allah! Make him firm and make him a guiding and a rightly guided man
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6090</td></tr><tr><td>Arabic No</td><td>6090</td></tr><tr><td>Reference</td><td>Book 78 Hadith 117</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cerîr ibn Abdillah (radıyallahü anh) şöyle demiştir: Ben İslâm Dîni'ne girdiğimden beri Peygamber(sallallahü aleyhi ve sellem) beni meclisine girmekten men' etmemiş ve beni her gördüğünde de muhakkak yüzüme gülümsemiştir. kabilesinden yüzelli süvarinin başında Zu’l-Halasa putunu kırmaya gittim, Ahmesliler iyi ata binerlerdi, fakat) ben bir türlü at üzerinde duramazdım. Bunu Peygamber'e şikâyet ettim. Peygamber eliyle göğsüme vurdu da: "Allâhumme sebbithu ve'c'alhu hâdiyen mehdiyyen (Allah'ım! Sen Cerîr'i (doğru yolda ve at üstünde) sabit tut ve onu hidâyet edici ve hidâyet edilmiş kıl]" diye dua etti
+Cerir'den, dedi ki: "Müslüman olduğum andan itibaren Nebi Sallallahu Aleyhi ve Sellem beni meclisine girmekten alıkoymadı ve beni gördükçe mutlaka yüzüme karşı gülümsedi." [-6090-] "And olsun, ben ona atların üzerinde sebat edip duramadığımdan dolayı şikayette bulundum. Eliyle göğsüme vurdu ve: Allah'mi, ona sebat ver, onu hidayete ileten ve hi day ete iletiimiş kıl, buyurdu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6090</td></tr><tr><td>Arabic No</td><td>6090</td></tr><tr><td>Reference</td><td>Book 78 Hadith 117</td></tr></tbody></table></div>
 
@@ -70,6 +70,6 @@ Cerîr ibn Abdillah (radıyallahü anh) şöyle demiştir: Ben İslâm Dîni'ne 
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-میں نے نبی کریم صلی اللہ علیہ وسلم سے شکایت کی کہ میں گھوڑے پر جم کر نہیں بیٹھ پاتا تو نبی کریم صلی اللہ علیہ وسلم نے اپنا ہاتھ میرے سینے پر مارا اور دعا کی «اللهم ثبته واجعله هاديا مهديا» ”اے اللہ! اسے ثبات فرما، اسے ہدایت کرنے والا اور خود ہدایت پایا ہوا بنا۔“
+ہم سے ابن نمیر نے بیان کیا، کہا ہم سے ابن ادریس نے بیان کیا، ان سے اسماعیل نے، ان سے قیس نے اور ان سے جریر رضی اللہ عنہ نے بیان کیا کہ جب سے میں نے اسلام قبول کیا نبی کریم صلی اللہ علیہ وسلم نے ( اپنے پاس آنے سے ) کبھی نہیں روکا اور جب بھی آپ نے مجھے دیکھا تو مسکرائے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6090</td></tr><tr><td>Arabic No</td><td>6090</td></tr><tr><td>Reference</td><td>Book 78 Hadith 117</td></tr></tbody></table></div>

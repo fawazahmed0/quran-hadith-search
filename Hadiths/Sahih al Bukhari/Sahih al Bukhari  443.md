@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Khallad bin Yahya] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Hallâd İbn Yahya, Mis'ar ve Muharib İbn Disâr kanalıyla) Câbir İbn Abdillah'tan şöyle nakledilmiştir: Resulullah Sallallahu Aleyhi ve Sellem'in mescidde olduğu bir sırada onun yanına vardım. (Ravilerden Mis'ar, 'zannımca Muharib, Câbir'in kuşluk vakti geldiğini belirtti' demiştir.) Bana: 'iki rekat namaz kıl' diye emretti. Ondan alacağım vardı. Borcunu ödedi, bir miktar da fazla verdi. Tekrar: 1801, 2097, 2309, 2385. 2494, 2470, 2603, 2604, 2728. 2861, 2967, 3
+(Hallâd İbn Yahya, Mis'ar ve Muharib İbn Disâr kanalıyla) Câbir İbn Abdillah'tan şöyle nakledilmiştir: Resulullah Sallallahu Aleyhi ve Sellem'in mescidde olduğu bir sırada onun yanına vardım. (Ravilerden Mis'ar, 'zannımca Muharib, Câbir'in kuşluk vakti geldiğini belirtti' demiştir.) Bana: 'iki rekat namaz kıl' diye emretti. Ondan alacağım vardı. Borcunu ödedi, bir miktar da fazla verdi. Tekrar: 1801, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 8 Hadith 92</td></tr></tbody></table></div>
 
