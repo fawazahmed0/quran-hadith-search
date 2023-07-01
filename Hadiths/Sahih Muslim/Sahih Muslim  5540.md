@@ -18,13 +18,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+وَحَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ الصَّمَدِ، حَدَّثَنَا مَنْصُورٌ، عَنْ مُسْلِمِ بْنِ صُبَيْحٍ، قَالَ كُنْتُ مَعَ مَسْرُوقٍ فِي بَيْتٍ فِيهِ تَمَاثِيلُ مَرْيَمَ ‏.‏ فَقَالَ مَسْرُوقٌ هَذَا تَمَاثِيلُ كِسْرَى ‏.‏ فَقُلْتُ لاَ هَذَا تَمَاثِيلُ مَرْيَمَ ‏.‏ فَقَالَ مَسْرُوقٌ أَمَا إِنِّي سَمِعْتُ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَشَدُّ النَّاسِ عَذَابًا يَوْمَ الْقِيَامَةِ الْمُصَوِّرُونَ ‏"‏ ‏.‏ قَالَ مُسْلِمٌ قَرَأْتُ عَلَى نَصْرِ بْنِ عَلِيٍّ الْجَهْضَمِيِّ عَنْ عَبْدِ الأَعْلَى بْنِ عَبْدِ الأَعْلَى، حَدَّثَنَا يَحْيَى بْنُ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ أَبِي الْحَسَنِ، قَالَ جَاءَ رَجُلٌ إِلَى ابْنِ عَبَّاسٍ فَقَالَ إِنِّي رَجُلٌ أُصَوِّرُ هَذِهِ الصُّوَرَ فَأَفْتِنِي فِيهَا ‏.‏ فَقَالَ لَهُ ادْنُ مِنِّي ‏.‏ فَدَنَا مِنْهُ ثُمَّ قَالَ ادْنُ مِنِّي ‏.‏ فَدَنَا حَتَّى وَضَعَ يَدَهُ عَلَى رَأْسِهِ قَالَ أُنَبِّئُكَ بِمَا سَمِعْتُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏"‏ كُلُّ مُصَوِّرٍ فِي النَّارِ يَجْعَلُ لَهُ بِكُلِّ صُورَةٍ صَوَّرَهَا نَفْسًا فَتُعَذِّبُهُ فِي جَهَنَّمَ ‏"‏ ‏.‏ وَقَالَ إِنْ كُنْتَ لاَ بُدَّ فَاعِلاً فَاصْنَعِ الشَّجَرَ وَمَا لاَ نَفْسَ لَهُ ‏.‏ فَأَقَرَّ بِهِ نَصْرُ بْنُ عَلِيٍّ ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+وحدثنا نصر بن علي الجهضمي، حدثنا عبد العزيز بن عبد الصمد، حدثنا منصور، عن مسلم بن صبيح، قال كنت مع مسروق في بيت فيه تماثيل مريم . فقال مسروق هذا تماثيل كسرى . فقلت لا هذا تماثيل مريم . فقال مسروق اما اني سمعت عبد الله بن مسعود يقول قال رسول الله صلى الله عليه وسلم " اشد الناس عذابا يوم القيامة المصورون " . قال مسلم قرات على نصر بن علي الجهضمي عن عبد الاعلى بن عبد الاعلى، حدثنا يحيى بن ابي اسحاق، عن سعيد بن ابي الحسن، قال جاء رجل الى ابن عباس فقال اني رجل اصور هذه الصور فافتني فيها . فقال له ادن مني . فدنا منه ثم قال ادن مني . فدنا حتى وضع يده على راسه قال انبيك بما سمعت من رسول الله صلى الله عليه وسلم سمعت رسول الله صلى الله عليه وسلم يقول " كل مصور في النار يجعل له بكل صورة صورها نفسا فتعذبه في جهنم " . وقال ان كنت لا بد فاعلا فاصنع الشجر وما لا نفس له . فاقر به نصر بن علي
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+(…) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... নাযর ইবনু আনাস ইবনু মালিক (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি ইবনু আব্বাস (রাযিঃ) এর নিকট উপস্থিত ছিলাম। তিনি (অনেক বিষয়) ফাতাওয়া দিতে লাগলেন, কিন্তু (কোন ফাতাওয়ায়) এ কথা বলেননি যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পরিশেষে জনৈক লোক তাকে প্রশ্ন করলে সে বলল, আমি এসব (প্রাণীর) ছবি তৈরি করে থাকি। তখন ইবনু আব্বাস (রাযিঃ) তাকে বললেন, কাছে এসো। ব্যক্তিটি নিকটে আসলো। তখন ইবনু আব্বাস (রাযিঃ) বললেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি যে, দুনিয়াতে যে লোক (প্রাণীর) ছবি অঙ্কন করে, কিয়ামতের দিন তাতে প্রাণ ফুঁকে দিতে তাকে বাধ্য করা হবে। অথচ সে (তা) ফুঁকে দিতে পারবে না। (ইসলামিক ফাউন্ডেশন ৫৩৬০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Muslim b. Subaih reported:I was with Masriuq in the house which had the portrayals of Mary (hadrat Maryan). Thereupon Masriuq said: These are portraits of Kisra. I said: No, these are of Mary. Masruq said: I heard Abdullah b, Mas'ud as saying Allah's Messenger (ﷺ) had said: The most grievously tormented people on the Day of Resurrection would be the painters of pictures. (Muslim said): I read this before Nasr b. 'Ali at-Jahdami and he read it before other narrators, the last one being Ibn Sa'id b Abl at Hasan that a person came to Ibn 'Abbas and said: I am the person who paints pictures; give me a religious verdict about them. He (Ibn 'Abbas) said to him: Come near me (still further). He came near him so much so that he placed his hand upon his head and said: I am going to narrate to yor what I heard from Allah's Messenger (ﷺ). I heard him say: All the painters who make pictures would be in the fire of Hell. The soul will be breathed in every picture prepared by him and it shall punish him in the Hell, and he (Ibn 'Abbas) said: If you have to do it at all, then paint the pictures of trees and lifeless things; and Nasr b. 'Ali confirmed it
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -80,6 +80,6 @@
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-امام مسلم نے کہا : میں نے نصر بن علی جہضمی کے ساتھ عبد الاعلی بن عبد الاعلیٰ سے حدیث پڑھی کہ ہمیں یحییٰ بن ابی اسحٰق نے ( حضرت حسن بصری کے بھا ئی ) سعید بن ابو حسن سے روایت بیان کی ، کہا : ایک شخص حضرت ابن عباس رضی اللہ تعالیٰ عنہ کے پاس آیا اس نے کہا : میں یہ ( جانداروں کی ) تصویر یں بناتا ہوں ، آپ مجھے ان کے متعلق فتویٰ دیں ۔ حضرت ابن عباس رضی اللہ تعالیٰ عنہ نے کہا : میرے قریب آؤ وہ قریب ہوا انھوں نے پھر فرما یا میرے قریب آؤوہ ( مزید قریب آیا آپ نے اس کے سر پر ہاتھ رکھ کر فرمایا : "" میں تم کو وہ بات بتاتاہوں جو میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنی ، میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ فرما رہے تھے : "" ہر تصویر بنانے والا جہنم میں ہو گا اور اس کی بنا ئی ہو ئی تصویر کے بدلے میں اللہ تعا لیٰ ایک جاندار بنائے گا وہ اسے جہنم میں عذاب دے گا ۔ "" اور حضرت ابن عباس رضی اللہ تعالیٰ عنہ نے فرمایا : اگر تم نے ضرور ( یہی کا م ) کرنا ہے تو درختوں کی اور جن چیزوں میں جان نہیں ان کی تصویر بنا ؤ ۔ نصر بن علی نے ( جب میں نے ان کے سامنے یہ حدیث پڑھی ) اس کا اقرار کیا ( کہ انھوں نے عبد الاعلیٰ بن عبدالاعلیٰ سے اسی طرح روایت کی ۔)
+منصور نے مسلم بن صبیح ( ابو ضحیٰ ) سے روایت کی ، انھوں نے کہا : میں مسروق کے ساتھ ایک مکا ن میں تھا جس میں حضرت مریم علیہ السلام کی تصاویر تھیں ( یا مجسمے تھے ) مسروق نے کہا : یہ کسریٰ کی تصاویر ہیں ؟ میں نے کہا : نہیں یہ مریم علیہ السلام کی تصاویرہیں ۔ مسروق نے کہا : میں حضرت عبد اللہ بن مسعود رضی اللہ تعالیٰ عنہ سے سنا وہ کہہ رہے تھے : رسول اللہ صلی اللہ علیہ وسلم نے فرما یا : " قیامت کے دن سب سے زیادہ عذاب تصویریں ( یا مجسمے ) بنا نے والوں کو ہو گا ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

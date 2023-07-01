@@ -18,13 +18,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ، قَالَتْ أَتَيْتُ عَائِشَةَ فَإِذَا النَّاسُ قِيَامٌ وَإِذَا هِيَ تُصَلِّي فَقُلْتُ مَا شَأْنُ النَّاسِ وَاقْتَصَّ الْحَدِيثَ بِنَحْوِ حَدِيثِ ابْنِ نُمَيْرٍ عَنْ هِشَامٍ ‏.‏ أَخْبَرَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، قَالَ لاَ تَقُلْ كَسَفَتِ الشَّمْسُ وَلَكِنْ قُلْ خَسَفَتِ الشَّمْسُ ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا ابو بكر بن ابي شيبة، وابو كريب قالا حدثنا ابو اسامة، عن هشام، عن فاطمة، عن اسماء، قالت اتيت عايشة فاذا الناس قيام واذا هي تصلي فقلت ما شان الناس واقتص الحديث بنحو حديث ابن نمير عن هشام . اخبرنا يحيى بن يحيى، اخبرنا سفيان بن عيينة، عن الزهري، عن عروة، قال لا تقل كسفت الشمس ولكن قل خسفت الشمس
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... উরওয়াহ (রহঃ) থেকে বর্ণিত। তিনি বলেনكَسَفَتِ الشَّمْسُ বলবে না, বরং خَسَفَتِ الشَّمْسُ বলো। অর্থ একই সূর্যগ্রহণ লেগেছে। (ইসলামী ফাউন্ডেশন ১৯৭৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Asma' said:I came to 'A'isha when the people were standing (in prayer) and she was also praying. I said: What is this excitement of the people for? And the rest of the hadith was narrated like one, (narrated above). 'Urwa said: Do not say Kasafat-ush-Shamsu, but say Khasafat-ush-Shamsu
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Bize Yahya b. Habîb El - Hârisî rivâyet etti. ki); Bize Hâlid b. Haris rivâyet etti. ki): Bize İbn Cüreyc rivâyet etti. ki): Bana Mansûr b. Abdirrahman, annesi Safiyye binti Şey-be'den, o da Esma binti Ebi Bekir'den naklen rivâyet etti. Esma şöyle dedi: gün Peygamber (sallallahü aleyhi ve sellem) telâşlandı (Safiyye: Esma, Güneşin tutulduğu günü kastediyor, demiştir.) da, bir kadın gömleği alarak dışarı çıktı. (Arkadan) kendi gömleğini yetiştirdiler. Müteakiben cemaata uzun bir namaz kıldırdı. O derece ki (dışarıdan) onun rükû, ettiğini bilmeyen biri gelse kıyamının uzunluğundan dolayı rükû'a vardığını zannetmezdi.»
+Bize Ebû Bekir b. Ebi Şeybe ile Ebû Küreyb rivâyet ettiler. Dediler ki: Bize Ebû Üsâme, Hişâm'dan, o da Fâtıme'den, o da Esmâ'dan naklen rivâyet etti. Esma şöyle dedi: Âişe'ye geldim. Bir de baktım halk ayakta! Âişe de namaz kılıyor. Bu insanlara ne oluyor? dedim... hadisi İbn Nümeyr'in Hişâm'dan rivâyet ettiği hadis gibi anlattı
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -80,6 +80,6 @@
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-عروہ سے روایت ہے ، انھوں نے کہا : سورج کے لیے کسف نہ کہو ، بلکہ خسف کا لفظ استعمال کرو ۔ ( اردو میں دونوں کا معنی " گرہن " ہی ہے ۔)
+ابو اسامہ نے ہشام سے ، انھوں نے فاطمہ سے اور انھوں نے حضرت اسمارضی اللہ عنہا سے روایت کی ، انھوں نے کہا : میں حضرت عائشہ رضی اللہ عنہا کے پاس آئی تو اس وقت لوگ ( نماز میں ) کھڑے تھے اور وہ بھی نما ز پڑھ رہی تھیں ۔ میں نے پوچھا : لوگو ں کو کیا ہوا؟ اور ( آگے ) ہشام سے ابن نمیر کی ( سابقہ ) حدیث کی طرح حدیث بیان کی ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

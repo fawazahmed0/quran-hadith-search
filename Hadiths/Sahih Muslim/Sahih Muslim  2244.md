@@ -18,13 +18,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَزُهَيْرُ بْنُ حَرْبٍ قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ أَبِي وَائِلٍ، عَنْ أَبِي، الْهَيَّاجِ الأَسَدِيِّ قَالَ قَالَ لِي عَلِيُّ بْنُ أَبِي طَالِبٍ أَلاَّ أَبْعَثُكَ عَلَى مَا بَعَثَنِي عَلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ لاَ تَدَعَ تِمْثَالاً إِلاَّ طَمَسْتَهُ وَلاَ قَبْرًا مُشْرِفًا إِلاَّ سَوَّيْتَهُ ‏.‏ وَحَدَّثَنِيهِ أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، حَدَّثَنَا يَحْيَى، - وَهُوَ الْقَطَّانُ - حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي حَبِيبٌ، بِهَذَا الإِسْنَادِ وَقَالَ وَلاَ صُورَةً إِلاَّ طَمَسْتَهَا ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>969.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 120</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا يحيى بن يحيى، وابو بكر بن ابي شيبة وزهير بن حرب قال يحيى اخبرنا وقال الاخران، حدثنا وكيع، عن سفيان، عن حبيب بن ابي ثابت، عن ابي وايل، عن ابي، الهياج الاسدي قال قال لي علي بن ابي طالب الا ابعثك على ما بعثني عليه رسول الله صلى الله عليه وسلم ان لا تدع تمثالا الا طمسته ولا قبرا مشرفا الا سويته . وحدثنيه ابو بكر بن خلاد الباهلي، حدثنا يحيى، - وهو القطان - حدثنا سفيان، حدثني حبيب، بهذا الاسناد وقال ولا صورة الا طمستها
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>969.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 120</td></tr></tbody></table></div>
 
@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ বকর ইবনু খাল্লাদ আল বাহিলী (রহঃ) ..... হাবীব (রহঃ) থেকে একই সানাদে বর্ণিত। তিনি বলেন, মূর্তি বিলুপ্ত এবং ছবি ধ্বংস করে দিবে। (ইসলামী ফাউন্ডেশন ২১১৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>969.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 120</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Abu'l-Hayyaj al-Asadi told that 'Ali (b. Abu Talib) said to him:Should I not send you on the same mission as Allah's Messenger (ﷺ) sent me? Do not leave an image without obliterating it, or a high grave without levelling It. This hadith has been reported by Habib with the same chain of transmitters and he said: (Do not leave) a picture without obliterating it
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>969.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 120</td></tr></tbody></table></div>
 
@@ -56,7 +56,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain- berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Abu Wa'il] dari [Abul Hayyaj Al Asadi] ia berkata, [Ali bin Abu Thalib] berkata; "Maukah kamu aku utus sebagaimana Rasulullah shallallahu 'alaihi wasallam telah mengutusku? Hendaklah kamu jangan meninggalkan patug-patung kecuali kamu hancurkan, dan jangan pula kamu meninggalkan kuburan kecuali kamu ratakan." Dan telah menceritakan kepadaku [Abu Bakar bin Khallad Al Bahili] Telah menceritakan kepada kami [Yahya Al Qaththan] Telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Habib] dengan isnad ini, dan ia mengatan, "Dan jangan pula kamu tinggalkan gambar kecuali kamu menghapusnya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>969.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 120</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Bize Ebû Bekir b. Ebî Şeybe rivâyet etti. ki) -. Bize Hafs b. Gıyâs, İbn Cüreyc'den, o da Ebû'z - Zübeyr'den, o da Câbir'den naklen rivâyet etti. Câbir Şöyle dedi: (sallallahü aleyhi ve sellem), kabrin kireçlenmesini, üzerine oturulmasını ve üzerine bina yapılmasını nehiy buyurdu.»
+(Bana, bu hadîsi Ebû Bekir b. Hallâd-ı Bâhili de rivâyet etti. ki): Bize Yahya yani Kattan rivâyet etti. ki): Bize Süfyân rivâyet etti. ki): Bana Habîb bu isnâdla rivâyette bulundu. Ve: «Tarumar etmediğin hiç bir suret bırakmayasın.» dedi. düzeltmekten murâd: Pek fazla yükseltmeyip, bir karış kadar yerden kaldırmaktır. göre: Kabrin üzerini deve hörgücü gibi kamburlaştırmak müstehabdır. Zira Resûlüllah (sallallahü aleyhi ve sellem)'in kabri bu şekilde tesviye edilmiştir. Ekseri ulemânın ve İmâm Mâlik'in mezhepleri de budur. diğer bâzı ulemâya göre: Kabrin üzerini kambur değil, tavan şeklinde düz yapmak müsıehabdır. hadisdeki timsâl ve suretlerden murâd: Canlıların heykel ve suretleridir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>969.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 120</td></tr></tbody></table></div>
 
@@ -80,6 +80,6 @@
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-یحییٰ القطان نے کہا : ہمیں سفیان نے حبیب سے اسی سند کے ساتھ ( سابقہ حدیث کے مانند ) حدیث بیان کی اور انھوں نے ( لا تدع تمثالا الا طمسته کے بجائے ) ولا صورة الا طمستها ( کوئی تصویر نہ چھوڑنا مگر اسے مٹا دینا ) کہا ہے ۔
+وکیع نے سفیان سے ، انھوں نے حبیب بن ابی ثابت سے ، انھوں نے ابو وائل سے اور انھوں نے ابو الہیاج اسدی سے روایت کی ، انھوں نے کہا : حضرت علی بن ابی طالب رضی اللہ تعالیٰ عنہ نے مجھ سے کہا : کیا میں تمھیں اس ( مہم ) پر روانہ نہ کروں جس پر رسول اللہ صلی اللہ علیہ وسلم نے مجھے روانہ کیا تھا؟ ( وہ یہ ہے ) کہ تم کسی تصویر یا مجسمے کو نہ چھوڑنا مگر اسے مٹا دینا اور کسی بلند قبر کو نہ چھوڑنا مگر اسے ( زمین کے ) برابر کردینا ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>969.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 120</td></tr></tbody></table></div>

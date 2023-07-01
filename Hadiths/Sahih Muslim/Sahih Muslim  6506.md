@@ -18,13 +18,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ حَبِيبٍ، سَمِعْتُ أَبَا الْعَبَّاسِ، سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ، يَقُولُ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم ‏.‏ فَذَكَرَ بِمِثْلِهِ ‏.‏ قَالَ مُسْلِمٌ أَبُو الْعَبَّاسِ اسْمُهُ السَّائِبُ بْنُ فَرُّوخَ الْمَكِّيُّ ‏.‏ حَدَّثَنَا أَبُو كُرَيْبٍ، أَخْبَرَنَا ابْنُ بِشْرٍ، عَنْ مِسْعَرٍ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، عَنْ أَبِي إِسْحَاقَ، ح وَحَدَّثَنِي الْقَاسِمُ بْنُ زَكَرِيَّاءَ، حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، الْجُعْفِيُّ عَنْ زَائِدَةَ، كِلاَهُمَا عَنِ الأَعْمَشِ، جَمِيعًا عَنْ حَبِيبٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6506</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+حدثنا عبيد الله بن معاذ، حدثنا ابي، حدثنا شعبة، عن حبيب، سمعت ابا العباس، سمعت عبد الله بن عمرو بن العاص، يقول جاء رجل الى النبي صلى الله عليه وسلم . فذكر بمثله . قال مسلم ابو العباس اسمه السايب بن فروخ المكي . حدثنا ابو كريب، اخبرنا ابن بشر، عن مسعر، ح وحدثني محمد بن حاتم، حدثنا معاوية بن عمرو، عن ابي اسحاق، ح وحدثني القاسم بن زكرياء، حدثنا حسين بن علي، الجعفي عن زايدة، كلاهما عن الاعمش، جميعا عن حبيب، بهذا الاسناد مثله
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6506</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবু কুরায়ব (রহঃ), মুহাম্মাদ ইবনু হাতিম (রহঃ) ও কাসিম ইবনু যাকারিয়্যা (রহঃ) হাবীব (রহঃ) এর সূত্রে এ সানাদে হুবহু বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৬২৭৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6506</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+This hadith has been narrated on the authority of Habib with the several chains of transmitters
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6506</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Bize Ebû Küreyb rivâyet etti. ki): Bize İbn Bişr Mis'ar'dan naklen haber verdi. H. Muhammed b. Hatim de rivâyet etti. ki): Bize Muâviye b. Amr, Ebû İshâk'dan rivâyet etti. H. Kâsım b. Zekeriyyâ dahi rivâyet etti. ki): Bize Hüseyn b. Aliy El-Cu'fî Zâide'den rivâyet etti. Her iki râvi A'meş'den ve hepsi Habîb'den bu isnadla bu hadîsin mislini rivâyet etmişlerdir
+(M-5) Bize Ubeydullah b. Muâz rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Şu'be, Habib'den rivayet etti. (Demişki): Ben Ebû'l-Abbâs'dan dinledim. (Dediki): Ben Abdullah b. Amr b. Âs'ı şöyle derkçn işittim : Bir adam Nebi (Sallallahu Aleyhi ve Sellem)'e geldi... Râvi yukarıki hadîsin mislini anlatmıştır. Müslim derki: «Ebû'l-Abbâs'ın ismi, Sâib b. Ferrûh El-Mekkî'dir.»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6506</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -80,6 +80,6 @@
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ابن بشر نے مسعر سے ، ابواسحاق اور زائدہ دونوں نے اعمش سے ، سب نے حبیب سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔
+معاذ نے کہا : ہمیں شعبہ نے حبیب سے حدیث بیان کی ، انہوں نے کہا : میں نے ابوعباس سے سنا ، انہوں نے کہا : میں نے حضرت عبداللہ بن عمرو بن عاص رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے ، ایک شخص نبی صلی اللہ علیہ وسلم کے پاس آیا ، پھر اسی ( سابقہ حدیث ) کے مانند بیان کیا ۔ امام مسلم نے کہا : ابوعباس کا نام سائب بن فروخ مکی ہے ۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6506</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

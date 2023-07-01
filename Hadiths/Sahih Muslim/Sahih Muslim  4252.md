@@ -18,13 +18,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنَا سَعِيدُ، بْنُ أَبِي أَيُّوبَ أَنَّ يَزِيدَ بْنَ أَبِي حَبِيبٍ، أَخْبَرَهُ أَنَّ أَبَا الْخَيْرِ حَدَّثَهُ عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ، أَنَّهُ قَالَ نَذَرَتْ أُخْتِي ‏.‏ فَذَكَرَ بِمِثْلِ حَدِيثِ مُفَضَّلٍ وَلَمْ يَذْكُرْ فِي الْحَدِيثِ حَافِيَةً ‏.‏ وَزَادَ وَكَانَ أَبُو الْخَيْرِ لاَ يُفَارِقُ عُقْبَةَ ‏.‏ وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، وَابْنُ أَبِي خَلَفٍ، قَالاَ حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ، جُرَيْجٍ أَخْبَرَنِي يَحْيَى بْنُ أَيُّوبَ، أَنَّ يَزِيدَ بْنَ أَبِي حَبِيبٍ، أَخْبَرَهُ بِهَذَا الإِسْنَادِ، ‏.‏ مِثْلَ حَدِيثِ عَبْدِ الرَّزَّاقِ ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+وحدثني محمد بن رافع، حدثنا عبد الرزاق، اخبرنا ابن جريج، اخبرنا سعيد، بن ابي ايوب ان يزيد بن ابي حبيب، اخبره ان ابا الخير حدثه عن عقبة بن عامر الجهني، انه قال نذرت اختي . فذكر بمثل حديث مفضل ولم يذكر في الحديث حافية . وزاد وكان ابو الخير لا يفارق عقبة . وحدثنيه محمد بن حاتم، وابن ابي خلف، قالا حدثنا روح بن عبادة، حدثنا ابن، جريج اخبرني يحيى بن ايوب، ان يزيد بن ابي حبيب، اخبره بهذا الاسناد، . مثل حديث عبد الرزاق
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনু হাতিম ও ইবনু আবূ খালাফ (রহঃ) ...... ইয়াযীদ ইবনু আবূ হাবীব (রহঃ) এর সূত্রে উক্ত সানাদে আবদুর রাযাক (রহঃ) এর হাদীসের অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪১০৬, ইসলামিক সেন্টার ৪১০৪/ক)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+This hadith has been narrated on the authority of 'Uqba b. Amir Juhani. but in this no mention has been made of" barefoot
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -56,7 +56,7 @@
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+Dan telah menceritakan kepada kami [Zakaria bin Yahya bin Shalih Al Mishri] telah menceritakan kepada kami [Al Mufadlal] -yaitu Ibnu Fadlalah- telah menceritakan kepadaku [Abdullah bin 'Ayyasy] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin Amir] bahwa dia berkata, "Saudara perempuanku pernah bernadzar pergi ke Baitullah dengan berjalan kaki tanpa beralas kaki, lalu dia menyuruhku untuk memintakan fatwa kepada Rasulullah shallallahu 'alaihi wasallam perihal itu." Maka beliau bersabda: "Dia boleh berjalan kaki dan boleh pula naik kendaraan." Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepada kami [Sa'id bin Abu Ayyub] bahwa [Yazid bin Abu Habib] telah mengabarkan bahwa [Abu Al Khair] telah mengabarkan kepadanya dari ['Uqbah bin 'Amir Al Juhani] dia berkata, "Saudara perempuanku pernah bernadzar…" kemudian dia menyebutkan redaksi hadist seperti hadits Mufadlal, namun dalam haditsnya dia tidak menyebutkan, "Dengan tanpa beralas kaki." Dan dia menambahkan, "Abu Al Khair tidak membedakan antara haditsnya 'Uqbah. Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Ibnu Abu Khalaf] keduanya berkata; telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Yahya bin Ayyub] bahwa [Yazid bin Abu Habib] telah mengabarkan kepadanya dengan isnad seperti hadist Abdurrazaq
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+மேற்கண்ட ஹதீஸ் உக்பா பின் ஆமிர் அல்ஜுஹனீ (ரலி) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில் "காலணி அணியாமல்" எனும் குறிப்பு இல்லை. "(உக்பா (ரலி) அவர்களிடமிருந்து இந்த ஹதீஸை அறிவிக்கும்) அபுல்கைர் (ரஹ்) அவர்கள் உக்பா (ரலி) அவர்களைவிட்டுப் பிரியாதவராக இருந்தார்" எனும் தகவல் கூடுதலாக இடம்பெற்றுள்ளது. - மேற்கண்ட ஹதீஸ் மேலும் இரு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Hârûn b. Saîd El-Eylî ile Yûnus. b. Abdilâlâ ve Ahmed b. Îsâ rivâyet ettiler. Yûnus (Bize haber verdi) tâbirini kullandı. Ötekiler: Bize İbn Vehb rivâyet etti, dediler. ki): Bana Amr b. El-Hâris, Kâ'b b. Alkame'den, o da Abdurrahmân b. Şumâse'den, o da Ebû'l-Hayr'dan, o da Ukbe b. Amir'den, o da Resûlüllah (sallallahü aleyhi ve sellem)'den naklen haber verdi ki ; keffâreti, yemîn keffârefidir.» buyurmuşlar. beyânına göre ulemâ bu hadîsten ne murâd edildiği hususunda ihtilâf etmişlerdir. Şâfiîler'ce nezr-i lecâc kasdedilmiştir. lecâc: İnâd ye ısrar nezri demektir. Meselâ: Birisiyle konuşmak istemeyen kimsenin: «Filânla konuşursam üzerime hacc farzolsun» demesi bu kabildendir. Konuştuğu takdirde nezrini yapmakla yemîn kefareti vermek arasında muhayyer olur. İmara A'zam'in son kavline göre bir kimse nezri, olmasını istemediği bir şarta bağlarsa ona bir yemîn keffâreti kâfidir. Nezrettiği şeyi yapmakla dahi borcunu ödemiş olur. Meselâ: «Filân adamla konuşursam bir sene oruç tutmak borcum olsun!» diyen kimse isterse bir yemîn keffâreti verir; dilerse orucu tutar. Fakat olmasını dilediği bir şarta bağlar, meselâ: «Hastam düzelirse bir sene oruç borcum olsun» derse mutlaka nezrini îfası gerekir. İmâm Muhammed'in kavli de budur. Umumi belvâ dolayısiyle bâzı Hanefiyye ulemâsı bununla fetva vermişlerdir. ekserisi bu hadîsi mutlak nezir mânâsına almışlardır. İmâm Ahmed'le Şâfiîler'den bazıları ma'sıyeti nezir mânâsına hamletmişlerdir. Şarap içmeyi adamak bu kabildendir. ve hadîs İmâmlarından bir cemaate göre ise bu hadîs bütün adak nevilerine şamildir. Onlarca bir kimse nezrin hangi nev'ini yaparsa yapsın yemîn keffâreti vermekle nezrini îfâ arsında muhayyerdir
+Bana bu hadîsi Muhammed b. Hatim ile İbn Ebî Halef de rivâyet ettiler. (Dediler ki): Bize Ravh b. Ubâde rivâyet etti. ki): Bize İbn Cüreyc rivâyet etti. ki): Bana Yahya b. Eyyûb haber verdi. Ona da Yezîd b. Habîb bu isnâdla Abdurrazzâk hadîsi gibi ihbarda bulunmuş. hadîsi Buhârî «CezâüVSayd» ve «Nüzûr» bahislerinde; Ebû Dâvûd «Nüzûr»da tahrîc etmişlerdir. yapan kadın Hazret-i Ukbe'nin kız kardeşi Ümmü Hibbân binti Âmir'dir. Bir rivâyette bu kadının şişman olduğu, bu sebeple yürümek kendisine güç geldiği bildirilmiştir. Hadîsi muhtelif rivâyetleri vardır. Bunlardan birinde: emret de baş örtüsünü sarınsın, vasıtaya binsin ve üç gün oruç tutsun.» buyurulmuştur. Halbuki: Enes ve Ebû Hüreyre (radıyallahü anh) rivâyetlerinde ihtiyara doğrudan doğruya hayvana binmesi emrolunuyor, bir şey istenmiyordu. Bu bâbta Nevevî şunları söylemiştir: «Birinci hadîs yürümekten âciz olanlara hamledilmiştir. Böylesi vasıtaya binebilir; ama kurban kesmesi îcâbeder. Ukbe'nin kız kardeşi hadîsin gelince: Onun mânâsı, yürümeye kudreti olduğu zaman yürüsün, yürüyemediği yahut çok yorulduğu zaman vâsıtaya binsin. Bunun da hayvan kesmesi îcabeder; demektir. söylediğimiz her iki surette de hayvan kesmesi İmâm Şafiî'nin râcıh olan kavlidir. Ulemâdan bir cemaat da buna kaildir. Şâfiî'nin ikinci kavline göre ihtiyara hayvan kesmek vâcîb değil, mus-tehaptır. Yalın ayak yürüme meselesinde mutlaka yalın ayak bulunması şart değildir; ayakkabı da giyebilir. Ukbe'nin kız kardeşi hadîsinin «Süneni Ebî Dâvûd»daki rivâyetinde kadının âciz kaldığı için hayvana bindiği bildirilmiştir...»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -80,6 +80,6 @@ Bana Hârûn b. Saîd El-Eylî ile Yûnus. b. Abdilâlâ ve Ahmed b. Îsâ rivâ
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-رَوح بن عبادہ نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں ابن جریج نے حدیث سنائی ، ( کہا : ) مجھے یحییٰ بن ایوب نے خبر دی کہ انہیں یزید بن ابی حبیب نے اسی سند سے خبر دی ۔ ۔ عبدالرزاق کی حدیث کے مانند
+اوپر ‌والی ‌حدیث ‌اسی ‌سند ‌سے ‌مروی ‌ہے ‌
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>

@@ -18,13 +18,13 @@
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+وَحَدَّثَتْهُ زَيْنَبُ، عَنْ أُمِّهَا، وَعَنْ زَيْنَبَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَوْ عَنِ امْرَأَةٍ مِنْ بَعْضِ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم ‏.‏
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>1488.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 75</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+وحدثته زينب، عن امها، وعن زينب، زوج النبي صلى الله عليه وسلم او عن امراة من بعض ازواج النبي صلى الله عليه وسلم
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>1488.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 75</td></tr></tbody></table></div>
 
@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আর যায়নাব (রাযিঃ) এ হাদীসখানা তার মা উম্মু সালামাহ্ (রাযিঃ) এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিণী যায়নাব (রাযিঃ) থেকে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৩৫৮৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>1488.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 75</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+This hadith was narrated by Zainab from her mother and from Zainab, the wife of Allah's Apostle (ﷺ), or from some other lady from among the wives of the Prophet (ﷺ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>1488.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 75</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Bize Muhammed b. Müsennâ rivâyet etti. ki): Bize Muhammed b. Ca'fer rivâyet etti; ki): Bize Şu'be, Humeyd b. Nâfi'den naklen rivâyet etti. ki): Zeyneb binti Seleme'yi annesinden naklen rivâyet ederken dinledim. Bir kadının kocası Ölmüş. Kadinin gözüne bir şey olacağından korkmuşlar da Peygamber (sallallahü aleyhi ve sellem)'e gelerek sürme çekmek için ondan izin istemişler. Resûlüllah (sallallahü aleyhi ve sellem): . sizden biriniz evin en kötüsünde pırtıları içinde (yahut evinde en kötü pırtıları İçinde) bir sene beklerdi. Nihayet bir köpek geçerse bir tezek atar da çıkardı. (Şimdi) dört ay on gün çok mu geliyor?» buyurmuşlar
+(…) Bu hadîsi Zeyneb, annesi île Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Zeyneb'den, yahut Nebi (Sallallahu Aleyhi ve Sellem)'in zevcelerinden birinden naklen rivayet etmiştir. İzah 1489 da
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>1488.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 75</td></tr></tbody></table></div>
 
@@ -80,6 +80,6 @@ Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-حمید بن نافع سے روایت ہے ، انہوں نے کہا : میں نے زینب بنت ام سلمہ رضی اللہ عنہا سے سنا وہ اپنی والدہ سے حدیث بیان کر رہی تھیں کہ ایک عورت کا شوہر فوت ہو گیا ، انہیں اس کی آنکھ کے بارے میں ( بیماری لاحق ہونے کا ) خطرہ محسوس ہوا تو وہ نبی صلی اللہ علیہ وسلم کے پاس آئے ، اور آپ سے سرمہ لگانے کی اجازت مانگی ، اس پر رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : " تم میں سے کوئی اپنے گھر کے بدترین حصے میں اپنے ٹاٹوں میں ۔ ۔ یا فرمایا : اپنے بدترین ٹاٹوں میں اپنے گھر کے اندر ۔ ۔ ۔ سال بھر رہتی ، اس کے بعد جب کوئی کتا گزرتا تو وہ ایک لید پھینکتی اور باہر نکلتی تو کیا ( اب ) چار مہینے دس دن ( صبر ) نہیں ( کر سکتی)
+زینب نے انہیں ( حمید کو ) اپنی والدہ ( حضرت ام سلمہ رضی اللہ عنہا ) سے اور نبی صلی اللہ علیہ وسلم کی اہلیہ حضرت زینب رضی اللہ عنہا سے یا نبی صلی اللہ علیہ وسلم کی ازواج میں سے کسی سے یہی حدیث بیان کی
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>1488.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 75</td></tr></tbody></table></div>

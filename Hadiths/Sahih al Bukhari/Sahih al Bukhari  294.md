@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-el-Kâsım'dan Âişe r.anha'nın şöyle dediğini işittiği nakledilmiştir: "Hacca gitmek üzere niyet ederek yola koyulduk. Serife geldiğimiz zaman ay hâli oldum Mebi (Sallallahu aleyhi ve Sellem) yanıma geldiğinde ağlayıp duruyordum. Bana: Neyin var? Yoksa hayız mı oldun?' diye sordu. Ben de 'evet' dedim. Bunun üzerine şöyle buyurdu: 'Bu, Allah'ın Âdem'in kızları için takdir ettiği bir şeydir, Beytullahı tavaf dışında hacıların yaptığı her şeyi yap.' Âişe r.anha şöyle demiştir: "Nebi (Sallallahu aleyhi ve Sellem) hanımları için sığır kurban etti. Tekrar: 305, 316, 317, 319, 328, 1016, 1018, 1556, 1560, 1561, 1562, 1
+el-Kâsım'dan Âişe r.anha'nın şöyle dediğini işittiği nakledilmiştir: "Hacca gitmek üzere niyet ederek yola koyulduk. Serife geldiğimiz zaman ay hâli oldum Mebi (Sallallahu aleyhi ve Sellem) yanıma geldiğinde ağlayıp duruyordum. Bana: Neyin var? Yoksa hayız mı oldun?' diye sordu. Ben de 'evet' dedim. Bunun üzerine şöyle buyurdu: 'Bu, Allah'ın Âdem'in kızları için takdir ettiği bir şeydir, Beytullahı tavaf dışında hacıların yaptığı her şeyi yap.' Âişe r.anha şöyle demiştir: "Nebi (Sallallahu aleyhi ve Sellem) hanımları için sığır kurban etti. Tekrar: 305, 316, 317, 319, 328, 1016, 1018, 1556, 1560
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>294</td></tr><tr><td>Arabic No</td><td>294</td></tr><tr><td>Reference</td><td>Book 6 Hadith 1</td></tr></tbody></table></div>
 
