@@ -986,7 +986,7 @@ Bijna scheuren de bovenkanten van de hemelen, en de Engelen prijzen de Glorie va
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het is nabij dat de hemelen zullen worden uiteengescheurd boven hen, maar de engelen verheerlijken hun Heer met de lof die Hem toekomt en vragen vergiffenis voor hen die op aarde zijn. Ziet toe! Allah is de Vergevensgezinde, de Genadevolle
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En wiens woord is beter den dat van hem die oproept tot Allah en die goede werke
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wie spreekt beter woord dan hij die mensen tot Allah uitnodigt en goede werken doet en zegt: 'Waarlijk, ik behoor tot de Moslims
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

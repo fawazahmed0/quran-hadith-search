@@ -986,7 +986,7 @@ Zo verkiest jouw Heer jou en onderwijst Hij jou de uitleg van de vertellingen (d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zo zal uw Heer u verkiezen en u de verklaring der dingen onderwijzen en Zijn gunst aan u en aan de familie van Jacob vervohnaken, zoals Hij die voordien aan twee uwer voorvaderen, Abraham en Izaak had voltooid. Voorwaar, uw Heer is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

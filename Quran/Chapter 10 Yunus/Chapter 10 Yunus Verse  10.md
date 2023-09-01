@@ -986,7 +986,7 @@ Zij smeken daarin: "Soebhânaka Allahoemma," (Heilig bent U, O Allah) en hun beg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hun aanroep daarin zal zijn: 'Heilig zijt Gij, O Allah!' en hun groet 'Vrede'. En het einde van hun aanroep zal zijn: 'Alle lof komt Allah toe, de Heer der Werelden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

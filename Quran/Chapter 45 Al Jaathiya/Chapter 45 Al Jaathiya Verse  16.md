@@ -986,7 +986,7 @@ En voorzeker, Wij hebben de Kinderen van Israël de Schrift (de Taurât) en de h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij gaven het Boek en de heerschappij en het profetenambt aan de kinderen van Isra�l en Wij hadden hen van goede dingen voorzien: Wij begunstigden hen boven de andere volkeren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

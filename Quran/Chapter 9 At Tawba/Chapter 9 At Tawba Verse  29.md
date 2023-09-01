@@ -986,7 +986,7 @@ Doodt hen dan die niet in Allah en het Hiernamaals geloven en die niet voor verb
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bestrijdt diegenen onder de mensen van het Boek, die in Allah noch in de laatste Dag geloven, noch voor onwettig houden wat Allah en Zijn boodschapper voor onwettig hebben verklaard, noch de ware godsdienst belijden totdat zij de belasting met eigen hand betalen, terwijl zij onderdanig zign
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

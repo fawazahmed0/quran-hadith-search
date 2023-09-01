@@ -986,7 +986,7 @@ Zij vragen jou, zeg (O Moehammad): "Allah geeft jullie een antwoord over de Kal√
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij vragen om een uitspraak. Zeg: 'Allah geeft Zijn uitspraak betreffende 'Kalalah': Indien een man sterft en geen kind achterlaat en hij heeft een zuster, dan moet zij de helft van hetgeen hij nalaat ontvangen en hij zal van haar erven (alles) indien zij geen kind heeft. Maar als er twee zusters zijn, dan moeten zij twee derde van hetgeen hij nalaat ontvangen. En als er meer zijn - zowel mannen als vrouwen - dan zal de man evenveel als het aandeel van twee vrouwen ontvangen. Allah legt u dit uit, opdat gij niet zult afdwalen; Allah heeft kennis van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

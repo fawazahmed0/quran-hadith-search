@@ -986,7 +986,7 @@ Toen openbaarden Wij aan hem: "Bouw onder Ons toezicht en (volgens) Onze aanwijz
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen openbaarden Wij hem: 'Bouw de Ark onder Onze ogen en in overeenstemming met Onze openbaring. En wanneer Ons bevel komt en de oppervlakte der aarde overstroomt, neem dan aan boord twee (exemplaren) van wat nodig is en uw gezin, behalve degenen tegen wie het woord reeds is uitgevaardigd. En spreek Mij niet over de onrechtvaardigen, want zij zullen worden verdronken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

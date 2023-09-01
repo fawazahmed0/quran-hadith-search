@@ -986,7 +986,7 @@ Keert terug naar jullie vader en zegt hem: 'O onze vader, voorwaar, uw zoon heef
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Keert gij tot uw vader terug en zegt: ´Onze vader uw zoon heeft gestolen en wij hebben alleen hetgeen wij wisten vermeld en wij konden waarlijk over het ongeziene niet waken.´
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

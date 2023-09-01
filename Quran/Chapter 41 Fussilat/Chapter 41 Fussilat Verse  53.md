@@ -986,7 +986,7 @@ Wij zullen hun Onze Tekenen laten zien, aan de horizonten en in jullie zelf, tot
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Weldra zullen Wij hun Onze tekenen in henzelf en over afgelegen streken tonen, tot het hun duidelijk wordt dat dit de Waarheid is. Is het niet genoeg dat uw Heer Getuige over alle dingen is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

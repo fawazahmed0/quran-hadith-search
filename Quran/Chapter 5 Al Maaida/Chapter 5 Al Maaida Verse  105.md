@@ -986,7 +986,7 @@ O jullie die geloven! Aan jullie (de hoede over) jullie zelf. Er kan jullie geen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, past op uzelf. Hij die dwaalt kan u niet schaden wanneer gij juist geleid zijt. Tot Allah zult gij allen terugkeren, dan zal Hij u tonen wat gij gedaan hebt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

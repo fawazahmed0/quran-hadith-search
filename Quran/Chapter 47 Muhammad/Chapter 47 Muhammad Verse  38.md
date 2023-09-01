@@ -986,7 +986,7 @@ Weet dat jullie degenen zijn die opgeroepen worden om bijdragen te geven op de W
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ziet, gij zijt het, die geroepen wordt ter wille van Allah (een deel van uw vermogen) te geven, maar er zijn sommigen onder u die vrekkig zijn. En wie vrekkig is, is dit slechts tegen zichzelf. Allah is Zichzelf - genoeg en gij zijt nooddruftig. En indien gij u (van de Waarheid) afwendt, zal Hij een ander volk in uw plaats brengen en dezen zullen uw gelijken niet zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Wie Leiding volgt, volgt de Leiding waarlijk voor zichzelf, en wie dwaalt, dwaal
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degene die de rechte weg volgt, volgt deze slechts voor zijn eigen heil en hij die dwaalt, dwaalt alleen tegen zichzelf. En geen lastdrager zal de last dragen van een ander. En Wij straffen nimmer voordat Wij een boodschapper hebben gezonden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

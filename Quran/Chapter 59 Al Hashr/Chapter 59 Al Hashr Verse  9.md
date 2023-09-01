@@ -986,7 +986,7 @@ En degenen die vóór hen in de stad (Medinah) woonden en geloofden (de Anshâr)
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En degenen die zich in de stad hebben gehuisvest en(anderen) v��rgingen in het geloof, hebben diegenen lief, die tot hen de toevlucht nemen, en gevoelen geen behoefte in hun hart aan hetgeen hun gegeven wordt, zij geven anderen de voorkeur boven zichzelf, al verkeren zij zelf in armoede. En wie voor zijn eigen vrekkigheid wordt behoed, hij is voorzeker geslaagd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

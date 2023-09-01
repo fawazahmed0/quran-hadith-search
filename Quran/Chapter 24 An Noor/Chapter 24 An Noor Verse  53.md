@@ -986,7 +986,7 @@ En zij zweren bij Allah met hun duurste eden, dat als jij hen zou bevelen, zij (
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zweren hun plechtigste eden bij Allah; dat zij indien gij hen beveelt, zeker zullen oprukken. Zeg: 'Zweert niet: (maar) werkelijke gehoorzaamheid (is nodig).' Voorzeker Allah is goed op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

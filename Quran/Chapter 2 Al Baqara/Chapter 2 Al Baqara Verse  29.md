@@ -986,7 +986,7 @@ Hij is het Degeme Doe vppr jullie alles wat op aarde is geschapen heeft, daarna 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die alles, wat op aarde is, voor u schiep: daarna wendde Hij Zich tot de hemel en vervolmaakte deze tot zeven hemelen, want Hij heeft kennis van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

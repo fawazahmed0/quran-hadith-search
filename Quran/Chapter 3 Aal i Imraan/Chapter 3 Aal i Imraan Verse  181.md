@@ -986,7 +986,7 @@ Voorzeker, Allah heeft de uitspraken gehoord van degenen die zeiden: "Voorwaar, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voorzeker, Allah heeft de uiting gehoord van degenen, die zeiden: 'Allah is arm en wij zijn rijk.' Wij zullen hetgeen zij hebben gezegd en hun pogingen om de profeten onrechtvaardig te doden, optekenen en Wij zullen zeggen: 'Ondergaat de straf van het branden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

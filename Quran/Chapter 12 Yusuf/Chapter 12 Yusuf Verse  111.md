@@ -986,7 +986,7 @@ Voorzeker, cr is een lering in hun geschiedenissen voor de bezitters van verstan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er is in hun verhaal gewis een les voor mensen van begrip. Het is niet iets, dat is verzonnen, doch een vervulling van hetgeen er v��r is en een uiteenzetting van alle dingen en een leiding en een barmhartigheid voor een volk, dat gelooft
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

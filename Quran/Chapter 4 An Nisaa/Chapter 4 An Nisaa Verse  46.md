@@ -986,7 +986,7 @@ En onder de Joden, zijn or degenen die woorden (uit de Schrift) van hun juiste p
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er zijn onder de Joden, die woorden uit hun verband rukken. En zij zeggen: ' Wij horen en gehoorzamen niet' en 'luistert gij, zonder te horen' en 'Raainaa', terwijl zij woorden verdraaien en het geloof zoeken te schenden. En indien zij gezegd hadden: 'Wij horen en wij gehoorzamen' en 'hoort toe' en ,,Kijk ons aan' het dit beter en oprechter voor hen zijn geweest. Maar Allah heeft hen wegens hun ongeloof vervloekt, zij geloven dus slechts weinig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

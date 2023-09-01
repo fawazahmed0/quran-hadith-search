@@ -986,7 +986,7 @@ De moeders dienen hun kinderen twee volle jaren te zogen, voor wie die de zoging
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Moeders (gescheiden vrouwen) zullen haar kinderen twee volle jaren zogen, dit is voor hen, die de zoogtijd wensen te voltooien. En op de vader rust de zorg voor voedsel en kleding voor haar volgens gebruik. Geen ziel wordt belast boven haar vermogen. De moeder zal geen leed worden aangedaan wegens haar kind, noch zal de vader leed worden aangedaan wegens zijn kind en hetzelfde geldt voor de erfgenaam. Als beiden besluiten, het kind te spenen door wederzijdse overeenkomst en overleg, rust er geen schuld op hen. En als gij verkiest, een min voor uw kinderen te nemen, zal er geen blaam op u rusten, mits gij hetgeen gij overeenkomt naar billijkheid betaalt. En vreest Allan en weet, dat Allah ziet, wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

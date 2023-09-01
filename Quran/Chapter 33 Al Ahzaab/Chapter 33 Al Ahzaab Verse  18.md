@@ -986,7 +986,7 @@ Waarlijk, Allah kent degenen onder jullie die belemmeren, en die tot hun broeder
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah kent degenen onder u die de mensen tegenhouden, en hen, die tegen hun broeders zeggen: 'Komt naar ons toe,' en die zich weinig met de oorlog bemoeien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

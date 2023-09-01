@@ -986,7 +986,7 @@ Ik heb gezien dat zij en haar volk knielen voor de zon, naast Allah. En dat de S
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ik vond, dat zij en haar volk de zon aanbaden in plaats van Allah en Satan heeft hun werken voor schoonschijnend gemaakt en heeft hun de weg versperd, zodat zij geen rechte leiding volgen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

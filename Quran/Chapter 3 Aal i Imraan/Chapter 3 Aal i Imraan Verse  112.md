@@ -986,7 +986,7 @@ Zij werden met vernedering geslagen. waar zij zich ook bevonden, tenzij zij een 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waar zij zich ook bevinden, worden zij door vernedering getroffen, tenzij zij een verbond met Allah of een verbond met andere volkeren hebben. Zij keerden terug met Allah´s toorn en werden door armoede getroffen. Dat kwam, doordat zij de tekenen van Allah verwierpen en de profeten onrechtvaardig doodden. Dat kwam, doordat zij ongehoorzaam waren en (zijn gebod) overtraden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

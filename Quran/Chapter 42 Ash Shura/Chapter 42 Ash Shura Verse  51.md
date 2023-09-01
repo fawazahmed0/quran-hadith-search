@@ -986,7 +986,7 @@ Het past de mens niet dat Allah tot hem spreekt, behalve door middel van een ope
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het is voor een mens niet mogelijk dat Allah tot hem zou spreken anders dan door ingeving of van achter een sluier of door een boodschapper te zenden om door Zijn gebod te openbaren wat Hij wil. Voorwaar, Hij is de Verhevene, de Alwijze
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

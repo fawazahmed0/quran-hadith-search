@@ -986,7 +986,7 @@ En ik zeg niet tot jullie: 'Ik bezit de schatten van Allah.? En ik ken het onwaa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En ik zeg u niet: ´Ik bezit de schatten van Allah´, noch ken ik het onzienlijke, noch zeg ik: ´Ik ben een engel´.' 'Noch zeg ik over degenen, die gij minacht dat Allah hun geen goeds zal schenken. Allah weet het best, wat in hun innerlijk is. Anders zou ik zeker tot de onrechtvaardigen behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

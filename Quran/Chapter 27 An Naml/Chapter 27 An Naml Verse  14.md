@@ -986,7 +986,7 @@ En zij ontkenden ze, hoewel zij zelf ervan overtuigd waren, uit onrechtvaardighe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij verwierpen deze onrechtvaardig en aanmatigend terwijl hun zielen er van overtuigd waren. Ziet, hoe kwaad het einde was van de onruststokers
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

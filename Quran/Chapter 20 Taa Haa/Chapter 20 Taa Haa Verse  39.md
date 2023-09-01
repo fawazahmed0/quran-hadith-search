@@ -986,7 +986,7 @@ Leg uwen zoon in eene kist en werp hem in zee, en de rivier zal hem op het stran
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ´Plaats hem in het kistje en werp dit in de rivier, dan zal de rivier het op de oever werpen, zodat een vijand van Mij en van hem, hem zal opnemen´. En Ik omhulde u met Mijn liefde; opdat gij zoudt worden grootgebracht voor Mijn oog
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

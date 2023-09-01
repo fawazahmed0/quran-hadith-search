@@ -986,7 +986,7 @@ Of als (de gelijkenis, met) een regenstorm uit de hemel met daarin duisternissen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of, (dat zij) bij zware regen uit de hemel waarmede dichte duisternis, donder en bliksem komt, uit doodsangst hun vingers in de oren steken vanwege de donderslagen. Allah omringt de ongelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

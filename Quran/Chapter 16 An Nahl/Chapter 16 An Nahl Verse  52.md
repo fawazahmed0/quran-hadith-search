@@ -986,7 +986,7 @@ En aan Hem behoort wat er in de hemelen en (op) de aarde is en gehoorzaamheid be
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En aan Hem behoort hetgeen in de hemelen en op aarde is en Hem is voortdurende gehoorzaamheid verschuldigd. Wilt gij dan iets buiten Allah vrezen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

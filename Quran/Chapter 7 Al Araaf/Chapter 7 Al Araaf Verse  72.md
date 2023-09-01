@@ -986,7 +986,7 @@ Toen redden Wij hem (Hôed) en degenen met hem door Genade van Ons en Wij roeide
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij redden hem en degenen, die met hem waren door Onze barmhartigheid en Wij sneden de levenswortel af van degenen die Onze tekenen verloochenden. En dezen waren geen gelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

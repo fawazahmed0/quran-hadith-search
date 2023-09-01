@@ -986,7 +986,7 @@ Vraag hen: "Zijn zij (de mensen) moeilijker om te scheppen of dat (hemel en aard
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Vraag hun (de ongelovigen) of zij moeilijker zijn te scheppen, dan andere (dingen) die Wij hebben geschapen. Voorzeker, Wij hebben hen uit vaste klei geschapen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

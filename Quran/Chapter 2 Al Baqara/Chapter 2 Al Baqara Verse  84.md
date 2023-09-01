@@ -986,7 +986,7 @@ En (gedenkt) toen Wij jullie verbond aanvaardden: "Vergiet elkaars bloed niet en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Wij een verbond met u sloten: 'Gij zult uw bloed niet vergieten noch uw volk uit hun huizen verdrijven', toen hebt Gij dit bekrachtigd en gij waart er getuige van
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

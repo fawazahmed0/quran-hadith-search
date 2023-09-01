@@ -986,7 +986,7 @@ En verlangt hetgeen niet waarmee Allah somigen van jullie boven anderen bevoorre
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En begeert niet datgene, waarmede Allah sommigen uwer boven anderen deed uitblinken. Mannen zullen een aandeel hebben in hetgeen zij hebben verdiend en vrouwen zullen een aandeel hebben in hetgeen zij hebben verdiend. En vraagt om Allah´s overvloed. Waarlijk, Allah kent alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

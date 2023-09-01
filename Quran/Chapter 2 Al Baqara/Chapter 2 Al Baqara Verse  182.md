@@ -986,7 +986,7 @@ Maar degene die dan van de erflater partijdigheid of zonde vreest, en daarna ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar hij die vreest, dat degene, die het testament maakte, partijdig werd, of een fout heeft begaan, en die een schikking treft (tussen de belanghebbenden), die zal daarmede geen zonde begaan. Voorzeker, Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

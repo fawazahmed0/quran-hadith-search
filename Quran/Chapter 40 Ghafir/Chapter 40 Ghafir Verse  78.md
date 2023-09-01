@@ -986,7 +986,7 @@ En voorzeker, Wij hebben vóór jou Boodschappers gezonden. Over sommigen van he
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij zonden boodschappers v��r u, sommigen van hen hebben Wij vermeld en anderen hebben Wij niet genoemd en geen boodschapper kan een teken brengen zonder Allah´s gebod. En wanneer Allah´s gebod komt, wordt er in waarheid geoordeeld en dan gaan de leugenaars verloren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

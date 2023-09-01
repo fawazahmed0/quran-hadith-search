@@ -986,7 +986,7 @@ Hij zei: "Mijn Heer, de gevangenschap is mij liever dan wat waar zij mij toe uit
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij (Jozef) zeide: 'O mijn Heer, ik zou de gevangenis verkiezen boven hetgeen waartoe zij mij roepen; tenzij Gij haar list van mij afwendt zal ik mij tot haar neigen en tot de onwetenden behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

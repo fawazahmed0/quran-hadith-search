@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Wat vinden jullie indien Allah jullie horen en jullie zien w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Wat denkt gij? Als Allah uw gehoor en gezicht zou wegnemen en uw hart zou verzegelen, wie is dan God buiten Allah die het u kon teruggeven? Zie, hoe Wij de tekenen verklaren, toch wenden Zij zich af
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

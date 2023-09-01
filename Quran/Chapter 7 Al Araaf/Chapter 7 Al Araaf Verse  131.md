@@ -986,7 +986,7 @@ En wanneer dan het goede tot Hen kwam, zeiden zij: "Voor ons is dat (vanwege onz
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer er goeds tot hen kwam zeiden zij: 'Dit komt ons toe.' En als hen kwaad overkwam, schreven zij de tegenspoed toe aan Mozes en zijn metgezellen. Let op! Hun tegenspoed was eveneens van Allah. Maar de meesten hunner weten het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

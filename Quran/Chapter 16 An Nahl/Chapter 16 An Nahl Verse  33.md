@@ -986,7 +986,7 @@ Zij (de ongelovigen) wachten slechts tot de Engelen hen wegnemen, of het bevel v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij (de ongelovigen) wachten op niets anders dan dat de engelen over hen komen of dat het gebod van uw Heer zal worden uitgevoerd. Degenen, die v��r hen waren deden dat evenzo. Allah deed hun geen onrecht aan, maar zij deden zichzelf onrecht aan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

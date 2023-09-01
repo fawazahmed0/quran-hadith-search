@@ -986,7 +986,7 @@ En Fir'aun riep tot zijn volk, hij zei: "O mijn volk, is het koninkrijk van Mish
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Pharao riep tot zijn volk: 'O, mijn volk! Behoort het koninkrijk van Egypte niet aan mij toe? En stromen deze rivieren niet op mijn bevel? Kunt, gij dat niet inzien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

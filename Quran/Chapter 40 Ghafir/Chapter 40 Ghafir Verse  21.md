@@ -986,7 +986,7 @@ Reizen zij niet op de aarde zodat zij zien hoe het einde was van degenen vóór 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij niet over de aarde gereisd en gezien wat het einde was van hen die v��r hen waren? Zij waren machtiger dan dezen in kracht en in hun sporen op aarde. Toch greep Allah hen voor hun zonden en zij hadden niemand om hen tegen Allah te beschermen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

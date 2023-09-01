@@ -986,7 +986,7 @@ En als zij jou loochenen, zeg dan: "Voor mij mijn daden en voor jullie jullie da
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien zij u van leugen besehuldigen, zeg dan: 'Aan mij mijn werk en aan u uw werk. Gij hebt niets uitstaande met hetgeen ik doe noch heb ik iets uitstaande met hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En (gedenkt) toen Allah jullie beloofde dat er één van de twee groepen (van ju
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Allah u ��n der twee partijen beloofde dat zij de uwe zou zijn, wenstet gij, dat de partij zonder wapenen de uwe zou worden, maar Allah wilde door Zijn Woorden de waarheid bevestigen en de levenswortel der ongelovigen afsnijden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

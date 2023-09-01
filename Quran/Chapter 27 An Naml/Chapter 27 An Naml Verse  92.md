@@ -986,7 +986,7 @@ En de Koren voor te dragen. Hij die dan de Leiding volgt, volgt die voor zichzel
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de Koran te verkondigen.´´ Wie daarom leiding volgt, volgt haar ten eigen bate. En zeg tegen hem die dwaalt: 'Ik ben slechts een waarschuwer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

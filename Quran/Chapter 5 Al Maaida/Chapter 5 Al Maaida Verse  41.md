@@ -986,7 +986,7 @@ O Boodschapper! Laat je niet bedroeven door degenen die met elkaar wedijveren in
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij boodschapper, laat degenen, die gemakkelijk in het ongeloof vervallen u niet verdrieten, n.l. zij die met hun mond zeggen: 'Wij geloven,' maar in hun hart hebben zij niet geloofd. En onder de Joden zijn er die naar een leugen zouden willen luisteren, dezen luisteren terwille van een ander volk dat niet tot u is gekomen. Zij verdraaien woorden, nadat zij op hun juiste plaatsen waren gezet en zeggen: 'Als u dit wordt gegeven, neemt het dan aan, maar als het u niet wordt gegeven, past dan op.' En wie Allah wenst te beproeven, gij zult hem tegen Allah stellig niets baten. Dit zijn degenen, wier hart het Allah niet heeft behaagd te louteren; er zal voor hen schande in deze wereld en een grote straf in het Hiernamaals zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

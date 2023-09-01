@@ -986,7 +986,7 @@ Allah heeft voor geen mens twee harten in zijn binnenste gemaakt. En Hij heeft n
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah heeft voor geen man twee harten in zijn binnenste gemaakt, noch heeft Hij uw vrouwen van wie gij wegblijft door haar moeder te noemen, tot uw moeders gemaakt, noch heeft Hij uw aangenomen zonen tot uw (werkelijke) zonen gemaakt. Dat is slechts een woord dat men uit, maar Allah spreekt de waarheid, en Hij wijst de weg
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

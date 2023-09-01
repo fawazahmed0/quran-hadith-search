@@ -986,7 +986,7 @@ Wat jullie naast Hem aanbidden zijn slechts namen die jullie en jullie vaderen h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij aanbidt naast Allah niets, dan ijdele namen die gij hebt uitgedacht, gij en uw vaderen; Allah heeft daar geen gezag voor nedergezonden. De beslissing berust bij Allah alleen. Hij heeft bevolen dat gij naast Hem niets zult aanbidden. Dit is de juiste godsdienst, maar de meeste mensen beseffen het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

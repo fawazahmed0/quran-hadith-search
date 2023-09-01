@@ -986,7 +986,7 @@ Zeg: "Wie is de Heer van de hemelen en de aarde?" Zeg: "Allah." Zeg.- "Nemen jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Wie is de Heer der hemelen en der aarde?' Zeg: 'Allah.' Zeg: 'Hebt gij naast Hem dan helpers genomen, die voor zich over goed noch kwaad macht hebben?' Zeg: 'Kunnen de blinde en de ziende gelijk zijn?' Of kan de duisternis gelijk zijn aan het licht? Of schrijven zij aan Allah medegoden toe die iets, op Zijn schepping lijkende hebben geschapen, zodat beide scheppingen hun gelijk voorkomen? Zeg: 'Allah is de Schepper aller dingen en Hij is de Ene, de Opperste
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

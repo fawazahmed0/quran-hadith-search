@@ -986,7 +986,7 @@ En dat er ook onder de mensen, de dieren en het vee zijn die verschillende kleur
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ook mensen, beesten, vee zijn van verschillende kleur. Alleen Zijn dienaren die kennis bezitten, vrezen Allah. Voorwaar, Allah is Almachtig, Vergevensgezind
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

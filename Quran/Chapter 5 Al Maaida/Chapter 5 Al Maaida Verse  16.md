@@ -986,7 +986,7 @@ Allah leidt hen ermee die Zijn welbehagen zoeken naar wegen van vrede en Hij bre
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Allah leidt daarmede degenen die Zijn welbehagen zoeken op de paden van vrede en leidt hen uit de duisternis tot het licht door Zijn gebod en leidt hen naar het rechte pad
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

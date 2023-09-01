@@ -986,7 +986,7 @@ O mensen, vreest jullie Heer en weest bevreesd voor een Dag waarop een vader zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O mensen, vreest uw Heer, en ducht de Dag waarop geen vader zijn zoon iets zal baten, noch de zoon zijn vader van enig nut zal kunnen zijn. Allah´s belofte is zeker waar. Laat daarom het wereldse leven u niet misleiden, noch laat de Verleider u omtrent Allah bedriegen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

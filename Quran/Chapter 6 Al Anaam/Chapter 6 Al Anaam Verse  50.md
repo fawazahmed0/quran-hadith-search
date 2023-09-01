@@ -986,7 +986,7 @@ Zeg: "Ik zeg jullie niet dat de schatten ven Allah bij mij zijn en niet dat ik h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Ik zeg niet tot u, dat ik de schatten van Allah bezit, noch dat ik het onzienlijke ken, noch zeg ik tot u: ´Ik ben een engel´; ik volg slechts hetgeen mij wordt geopenbaard.' Zeg: 'Kunnen de blinde en de ziende gelijk zijn? Wilt gij dan niet nadenken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

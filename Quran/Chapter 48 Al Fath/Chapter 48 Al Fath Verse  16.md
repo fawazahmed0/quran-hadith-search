@@ -986,7 +986,7 @@ Zeg tot de achtergeblevenen van de bedoeïenen: "Jullie zullen worden opgeroepen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg tot de Arabieren der woestijn die werden achtergelaten: 'Gij zult tegen een volk van geduchte krijgslieden worden opgeroepen om te vechten totdat zij zich overgeven. Dan, als gij gehoorzaamt, zal Allah u een goede beloning geven, maar indien gij u omkeert zoals gij voorheen deedt, zal Hij u door een pijnlijke straf kastijden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

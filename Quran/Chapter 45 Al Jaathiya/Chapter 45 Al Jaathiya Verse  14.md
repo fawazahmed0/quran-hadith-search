@@ -986,7 +986,7 @@ Zeg tot degenen die geloven dat zij degenen vergeven die niet op de Dagen van Al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg tegen de gelovigen, dat zij diegenen, die de dagen van Allah niet vrezen, moeten vergeven, zodat Hij Zelf het volk moge vergelden voor hetgeen zij verrichten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

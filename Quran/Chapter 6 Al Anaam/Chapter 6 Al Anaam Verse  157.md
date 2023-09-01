@@ -986,7 +986,7 @@ Of dat zij zeggen: "Als de Schrift aan ons was neergezonden, dan zouden wij zeke
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of ingeval gij zoudt zeggen: 'Voorzeker, als ons het Boek was nedergezonden, zouden wij beter zijn geleid dan zij.' Er is nu een duidelijk bewijs, leiding en barmhartigheid van uw Heer tot u gekomen. Wie is onrechtvaardiger dan hij die de tekenen van Allah verwerpt en er zich van afkeert? Wij zullen degenen, die zich van Onze tekenen afwenden met een vreselijke straf vergelden omdat zij zich hebben afgewend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

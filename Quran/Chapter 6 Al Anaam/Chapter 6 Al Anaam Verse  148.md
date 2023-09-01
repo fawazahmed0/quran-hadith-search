@@ -986,7 +986,7 @@ Degenen die deelgenoten (aan Allah) toekenden, zullen zeggen: "Als Allah het had
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij die afgoderij bedrijven, zullen zeggen: 'Als Allah het had gewild hadden wij noch onze vaderen afgoderij bedreven, noch hadden wij iets onwettig verklaard.' Op dezelfde wijze loochenden ook zij die v��r hen waren, totdat zij Onze straf ondergingen. Zeg: 'Hebt gij enige kennis? Toont het ons dan. Gij volgt niets dan vermoedens en gij doet niets dan liegen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

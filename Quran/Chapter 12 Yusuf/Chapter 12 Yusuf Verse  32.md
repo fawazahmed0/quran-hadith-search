@@ -986,7 +986,7 @@ Zij zei: "Dit is degene vanwege wie juille mij verwijten. En voorzeker, ik heb g
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeide: 'Dit is hij nu over wie gij mij beschuldigdet, ik zocht hem werkelijk tegen zijn wil te verleiden, maar hij redde zich. En als hij nu niet doet wat ik hem verzoek, zal hij zeker gevangen genomen en vernederd worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

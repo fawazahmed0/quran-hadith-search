@@ -986,7 +986,7 @@ Zij (de Engelen) zullen zeggen: "Waren jullie Boodschappen niet tot jullie gekom
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zullen antwoorden: 'Kwamen uw boodschappers niet tot u met duidelijke bewijzen?' Zij zullen zeggen: 'Ja zeker.' De bewaarders zullen antwoorden: 'Bidt dan.' Maar het bidden der ongelovigen is nutteloos
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

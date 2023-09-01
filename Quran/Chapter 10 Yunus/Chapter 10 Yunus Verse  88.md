@@ -986,7 +986,7 @@ En Môesa zei: "Onze Heer, voorwaar, U heeft Fir'aun en zijn vooraanstaanden ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Mozes zeide: 'Onze Heer, Gij hebt Pharao en zijn leiders versieringen en rijkdommen in het tegenwoordige leven geschonken, zodat zij, Onze Heer, van Uw pad afleiden. Onze Heer, vernietig hun bezittingen en verhard hun hart, want zij zullen niet geloven voordat zij de pijnlijke straf zien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

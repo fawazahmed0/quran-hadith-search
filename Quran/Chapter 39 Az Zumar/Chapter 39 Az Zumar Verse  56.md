@@ -986,7 +986,7 @@ Zodat er voor geen ziel aanleiding zal zijn om te zeggen: "O wat heb ik een spij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Opdat geen ziel moge zeggen: 'O wat een spijt heb ik over hetgeen waarin ik te kort schoot tegenover Allah! En inderdaad behoorde ik tot de spotters
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En ik zal hen doen dwalen en ik zal hun ijdelheid opwekken en ik zal hen bevelen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En ik zal hen zeker doen dwalen en ijdele begeerten in hen opwekken en ik zal hen voorzeker ophitsen en zij zullen de oren van het vee afsnijden en ik zal hen voorzeker aansporen en zij zullen Allah´s schepping bederven.' Derhalve hij, die buiten Allah Satan tot vriend neemt, zal zeker zichtbaar verlies leiden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

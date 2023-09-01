@@ -986,7 +986,7 @@ En wanneer jij degenen ziet die beledigend spreken over Onze Verzen, wend je dan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer gij degenen ziet, die Onze tekenen bespotten, wendt u dan van hen af, totdat zij een ander gesprek beginnen. En als Satan het u doet vergeten zit dan niet, nadat het in uw herinnering opkomt, met het onrechtvaardige volk bijeen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

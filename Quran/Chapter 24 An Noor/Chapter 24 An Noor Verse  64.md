@@ -986,7 +986,7 @@ Weet: voorwaar, aan Allah behoort wat in de hemelen is en op de aarde. Waarlijk,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Luistert! aan Allah behoort wat in de hemelen en op aarde is. Hij kent uw toestand goed. En de Dag waarop zij tot Hem zullen worden teruggebracht, zal Hij hen onderrichten over hetgeen zij deden. Waarlijk Allah heeft kennis van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

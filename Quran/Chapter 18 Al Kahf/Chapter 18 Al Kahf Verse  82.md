@@ -986,7 +986,7 @@ En wat betreft de muur: die behoorde toe ann twee jongelingen die wees waren in 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wat de muur betreft, deze behoorde aan twee weesjongens in de stad en daaronder lag hun schat (begraven), hun vader was een rechtvaardig man derhalve behaagde het uw Heer dat zij volwassen zouden worden en dan hun schat zouden opgraven als een genade van uw Heer, en dit alles deed ik niet uit mezelf. Dit is de verklaring van datgene waarvoor gij geen geduld kondet tonen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

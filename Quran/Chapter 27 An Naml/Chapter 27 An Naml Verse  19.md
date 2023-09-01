@@ -986,7 +986,7 @@ Toen glimlachte hij (Soelaimân) om haar woorden, en zei: "Mijn Heer, maak mij d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarop glimlachte hij, zich verbazend over haar woorden en hij zeide: 'Mijn Heer, doe mij dankbaar zijn voor Uw gunst, die Gij mij en mijn ouders hebt bewezen en laat mij het goede doen dat U behaagt en laat mij door Uw barmhartigheid tot Uw rechtvaardige dienaren behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij (de ongelovigen) wachten slechts op het Uur dat plotseling tot hen zal komen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij (de ongelovigen) wachten op niets dan het Uur dat onverwachts over hen kan komen. De tekenen er van zijn reeds gekomen, maar hoe zal voor hen de herinnering zijn wanneer het (Uur) werkelijk tot hen komt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

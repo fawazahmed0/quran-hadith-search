@@ -986,7 +986,7 @@ En wij zeiden tot hem: Neem een handvol (of bundel) in uwe hand en sla er uwe vr
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (En Wij zeiden:) 'Neem een handvol gedroogde stengels in uw hand en sla er mee, en breek uw eed niet.' Wij vonden hem standvastig. Hij was een voortreffelijke dienaar en altijd tot Ons geneigd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

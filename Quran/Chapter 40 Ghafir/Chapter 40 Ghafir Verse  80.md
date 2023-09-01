@@ -986,7 +986,7 @@ En voor jullie zijn er baten in. En zodat jullie dàt door middel van hen zullen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gij hebt andere voordelen van hen - zodat gij door hen elke behoefte die in uw innerlijk is, tevreden moogt stellen. En door hen (te land) en op schepen (ter zee) wordt gij gedragen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

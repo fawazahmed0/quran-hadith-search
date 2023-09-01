@@ -986,7 +986,7 @@ Hij (Ya'q-ôeb) zei: "Ik zal hem niet aan jullie toevertrouwen, zoals ik jullie 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij (Jacob) antwoordde: 'Zal ik u hem toevertrouwen, zoals ik u voorheen zijn broeder toevertrouwde? Maar Allah is de beste Beschermer en Hij is de Genadigste der genadigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

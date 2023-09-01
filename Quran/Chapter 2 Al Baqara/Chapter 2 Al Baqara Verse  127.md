@@ -986,7 +986,7 @@ En (gedenkt) toen Ibrâhîm de grondvesten van het Huis legde, samen met Isma'î
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Abraham en Isma�l de muren van het Huis optrokken, biddende: 'Heer, aanvaard dit van ons, want Gij zijt de Alhorende, de Alwetende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

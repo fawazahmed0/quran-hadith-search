@@ -986,7 +986,7 @@ En voorzeker, Wij hebben Môesa het Boek (de Taurât) gegeven. Verkeer daarom (O
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, Wij gaven Mozes het Boek - twijfel dus niet aan de ontmoeting met Hem - en Wij maakten dit tot een richtsnoer voor de kinderen van Isra�l
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

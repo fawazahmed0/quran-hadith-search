@@ -986,7 +986,7 @@ En als jij (hen) kon zien wanneer zij voor hun Heer gebracht worden: Hij zal zeg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer gij het slechts zoudt kunnen zien, wanneer zij voor hun Heer zullen worden gebracht, zal Hij zeggen: 'Is dit niet de waarheid?' Zij zullen antwoorden: 'Ja zeker, bij onze Heer.' Hij zal zeggen: 'Ondergaat dan de straf, omdat gij placht te verwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

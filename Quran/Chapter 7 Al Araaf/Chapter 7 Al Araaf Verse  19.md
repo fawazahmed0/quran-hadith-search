@@ -986,7 +986,7 @@ En: "O Adam, verblijft in het Paradijs, jij en je vrouw, en eet wat jullie wille
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, Adam, vertoef met uw vrouw in de tuin en eet, wat gij wilt, maar nadert deze boom niet, anders zult gij tot de onrechtvaardigen behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

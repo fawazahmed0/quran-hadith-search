@@ -986,7 +986,7 @@ Voorwaar, zij die verbergen wat Wij hebben neergezonden van de duidelijke bewijz
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, degenen, die hetgeen Wij aan tekenen en leiding hebben nedergezonden, verbergen, nadat Wij zein het Boek aan de mensen duidelijk hebben gemaakt, zijn het, die Allah vervloekt en zij die het recht hebben te vervloeken, vervloeken hen ook
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

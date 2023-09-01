@@ -986,7 +986,7 @@ Hij (Hârôen) zei: "Zoon van mijn moeder, grijp mij niet bij mijn baard of bij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij antwoordde: 'O zoon van mijn moeder, grijp mij niet bij mijn baard noch bij mijn hoofd.' Ik was beducht dat gij zoudt zeggen: ´Gij hebt een scheuring teweeg gebracht onder de kinderen van Isra�l en hebt niet op mijn woord gewacht.´
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

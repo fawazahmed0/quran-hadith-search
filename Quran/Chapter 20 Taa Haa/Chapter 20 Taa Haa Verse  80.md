@@ -986,7 +986,7 @@ O Kinderen van Israël, Wij hebben jullie waarlijk van jullie vijand gered en Wi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O kinderen van Isra�l, Wij bevrijdden u van uw vijand en Wij gingen met u een verbond aan, aan de rechter zijde van de Berg (Sina�) en zonden manna en kwartels op u neder
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

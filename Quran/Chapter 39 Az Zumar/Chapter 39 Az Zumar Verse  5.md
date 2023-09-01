@@ -986,7 +986,7 @@ Hij heeft de hemelen en de aarde in Waarheid geschapen. Hij doet de nacht de dag
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij schiep de hemelen en de aarde in waarheid. Hij doet de nacht over de dag komen, en de dag over de nacht; en Hij heeft de zon en de maan in dienst gesteld; elk loopt een vaste baan. Voorzeker, Hij is de Almachtige, de Vergevensgezinde
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

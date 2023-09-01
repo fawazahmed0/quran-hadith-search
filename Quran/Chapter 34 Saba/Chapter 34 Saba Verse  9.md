@@ -986,7 +986,7 @@ Kijken zij dan niet naar wat voor hen en achter hen is van de hemel en de aarde?
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij dan niet gezien naar hetgeen v��r hen en achter hen, van de hemel en van de aarde is? Indien het Ons behaagde konden Wij de aarde met hen doen inzinken, of een deel van de hemel op hen doen nedervallen. Hierin is waarlijk een teken voor elke dienaar, die zich tot God wendt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Jij ziet velen ven hen degenen die ongelovig zijn als beschermers nemen. Slecht 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij zult velen hunner de ongelovigen tot vrienden zien nemen. Waarlijk slecht is hetgeen zij voor zichzelf deden zodat Allah toornig op hen is geworden en zij zullen in de straf verblijven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En wat de Tsamôed betreft: Wij hebben hun Leiding geschonken, maar zij gaven de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wat de Samoed betreft, Wij gaven leiding, maar zij verkozen blindheid boven het rechte pad, daarom trof hen de bliksem van de straf der vernedering, voor hetgeen Zij hadden verdiend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

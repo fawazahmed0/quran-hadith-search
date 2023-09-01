@@ -986,7 +986,7 @@ Het is niet een zonde voor de blinde, en niet voof de lamme. en niet voot de zie
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het doet de blinden, de lammen, de zieken of uzelven geen kwaad, dat gij in uw eigen huizen eet of in de huizen van uw broeders, of in de huizen van uw zusters, of in de huizen van uw vaders broeders, of in de huizen van uw vaders zusters, of in de huizen van uw moeders broeders, of in de huizen van uw moeders zusters, of in dat huis waarvan gij de sleutel in uw bezit hebt, of in het huis van een uwer vrienden. Het doet u geen kwaad of gij tezamen of afzonderlijk eet. Wanneer gij de huizen betreedt groet dan elkander met een groet van uw Heer, die vol van zegen en reinheid is. Zo maakt Allah u de geboden duidelijk, opdat gij het moogt begrijpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

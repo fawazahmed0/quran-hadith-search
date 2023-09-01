@@ -986,7 +986,7 @@ Wij zullen angst in de harten van de ongelovingen werpen wegens wat zij naast Al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij zullen de harten der ongelovigen met ontzag vervullen omdat zij aan Allah deelgenoten toeschrijven waarvoor Hij geen gezag heeft nedergezonden. Hun verblijfplaats is het Vuur en slecht is de woning der overtreders
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

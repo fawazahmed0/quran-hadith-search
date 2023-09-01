@@ -986,7 +986,7 @@ Voorwaar, de gelovigen zijn slechts degenen wiens harten sidderen wanneer Allah 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ware gelovigen zijn slechts degenen wier hart vol vrees klopt, wanneer de naam van Allah wordt genoemd en wanneer Zijn tekenen hun worden voorgelezen, doet dit hen in geloof toenemen en op hun Heer vertrouwen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorwaar, degenen die over de Verzen van Allah redetwisten zonder een bewijs dat
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij die over de tekenen van Allah twisten zonder dat hun het gezag daartoe verleend is, hebben in hun innerlijk niets dan trots, die zij niet kunnen verwerkelijken. Zoekt daarom uw toevlucht bij Allah. Waarlijk, Hij is de Alhorende, de Alziende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

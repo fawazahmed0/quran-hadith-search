@@ -986,7 +986,7 @@ En Wij zonden geen Boodschappers vóór jou, of zij aten voedsel en zij gingen o
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij zonden nooit boodschappers v��r u, of zij gebruikten voedsel en liepen op straat. En Wij gebruiken sommigen uwer tot een beproeving voor anderen. Zult gij geduldig zijn? Want uw Heer is Alziende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

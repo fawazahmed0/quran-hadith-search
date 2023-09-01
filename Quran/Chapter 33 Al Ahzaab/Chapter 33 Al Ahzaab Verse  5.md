@@ -986,7 +986,7 @@ Roept hen met de namen van hun vaders, dat is rechtvaardiger bij Allah. En als j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Noemt hen bij hun vaders naam dat is billijker in de ogen van Allah. Maar als gij hun vader niet kent, dan zijn zij uw broeders in het geloof en uw vrienden, en er is geen zonde voor u in datgene waarin gij u vergist, maar wel in hetgeen uw hart zich heeft voorgenomen. Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

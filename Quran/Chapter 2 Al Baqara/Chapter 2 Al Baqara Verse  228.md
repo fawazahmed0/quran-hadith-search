@@ -986,7 +986,7 @@ En de gescheiden vrouwen moeten voor zichzelf een Wachttijd ('Iddah) van drie ma
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De gescheiden vrouwen moeten drie menstruatieperioden wachten; en het is haar niet geoorloofd, hetgeen Allah in haar baarmoeder heeft geschapen, te verbergen, indien zij in Allah en de laatste dag geloven; en haar echtgenoten hebben het recht, haar (intussen) terug te nemen, indien zij verzoening wensen. En v��r haar geldt hetzelfde als tegen haar, hetgeen billijk is, de mannen hebben voorrang boven haar, Allah is Machtig, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

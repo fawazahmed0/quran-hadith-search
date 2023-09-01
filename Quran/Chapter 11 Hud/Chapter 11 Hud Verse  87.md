@@ -986,7 +986,7 @@ Zij zeiden: "'O Sjoe'aib, gebiedt jouw shalât dat wij verlaten wat onze voorvad
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij antwoordden: 'O Shoaib, beveelt uw gebed, dat wij hetgeen onze vaderen aanbaden, zouden verlaten of dat wij zouden ophouden met ons eigendom te doen wat wij willen? Gij zijt inderdaad verstandig, recht geleid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

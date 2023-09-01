@@ -986,7 +986,7 @@ En jij ziet toch dat zij in hun harten een ziekte hebben en zich naar hen (de vi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gij zult degenen in wier hart een ziekte is, zich tot hen zien haasten, zeggende: 'Wij vrezen, dat ons rampspoed zal overkomen.' Het is echter waarschijnlijk dat Allah een overwinning of iets anders tot stand zal brengen. Dan zullen zij berouw hebben over hetgeen zij in hun innerlijk verborgen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

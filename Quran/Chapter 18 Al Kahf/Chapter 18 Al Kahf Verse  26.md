@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Allah weet beter hoelang zij er verbleven, aan Hem behoort h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Allah weet het best, hoelang zij daar vertoefden.' Hem behoren de geheimen der hemelen en der aarde, hoe Ziende is Hij en hoe Horende! Zij hebben geen vriend buiten Hem en aan Zijn koninkrijk laat Hij niemand deelnemen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Jullie zullen zeker op de proef gesteld worden in jullie eigendommen en in julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij zult zeker worden beproefd in uw bezittingen en in uzelf en gij zult gewis vele pijnlijke dingen horen van degenen, aan wie het Boek was gegeven v��r u en van degenen, die afgoderij bedrijven. Maar als gij geduldig blijft en rechtvaardig handelt, dat is waarlijk een zaak van vastberadenheid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

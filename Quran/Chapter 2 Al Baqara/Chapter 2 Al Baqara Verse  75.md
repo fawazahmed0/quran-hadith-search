@@ -986,7 +986,7 @@ Hopen jullie dan nog dat zij (de Joden) in jullie (godsdienst) zullen geloven, t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Verwacht gij, dat zij u zullen geloven, terwijl een aantal hunner het woord van Allah heeft vernomen en het verdraait, nadat zij het hebben begrepen, tegen beter weten in
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

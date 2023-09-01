@@ -986,7 +986,7 @@ Voorwaar, de (slechte) geheime gesprekken zijn afkomstig van de Satan, om degene
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Geheime samenzwering gaat alleen uit van Satan, opdat hij verdriet moge veroorzaken aan de gelovigen maar het kan hun niet schaden dan met Allah´s toelating. Laat dus de gelovigen in Allah hun vertrouwen stellen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

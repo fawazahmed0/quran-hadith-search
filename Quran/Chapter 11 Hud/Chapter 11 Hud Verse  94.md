@@ -986,7 +986,7 @@ En toen Ons bevel was gekomen, redden Wij Sjoe'aib en degenen die met hem geloof
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Ons gebod kwam, redden Wij Shoaib en met hem de gelovigen door Onze barmhartigheid en kastijding greep de onrechtvaardigen zodat zij uitgestrekt in hun huizen lagen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

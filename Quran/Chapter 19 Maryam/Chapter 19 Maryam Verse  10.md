@@ -986,7 +986,7 @@ Hij zei: "O mijn Heer, geef mij een Teken." Hij (Allah) zei: "Jouw Teken is dat 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zeide: 'Mijn Heer, geef mij een teken.' (God) zei: 'Uw teken is dat gij voor drie opeenvolgende dagen en nachten tot niemand zult spreken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

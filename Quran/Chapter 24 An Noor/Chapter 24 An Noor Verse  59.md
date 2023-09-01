@@ -986,7 +986,7 @@ En wanneer de kinderen onder jullie de volwassenheid bereiken, laat hen dan toes
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer de kinderen onder u geslachtsrijpheid bereiken, moeten ook zij verlof vragen evenals ouderen dan zij om toestemming vragen. Zo maakt Allah u Zijn geboden duidelijk; Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

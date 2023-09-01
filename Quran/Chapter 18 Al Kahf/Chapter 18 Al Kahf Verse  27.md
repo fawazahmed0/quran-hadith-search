@@ -986,7 +986,7 @@ En draag voor van wat aan jou geopenbaard is van het Boek van jouw Heer. Niemand
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En verkondig hetgeen u door Uw Heer is geopenbaard in het Boek. Er is niemand, die Zijn woorden kan veranderen en gij zult geen toevlucht vinden buiten Hem
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

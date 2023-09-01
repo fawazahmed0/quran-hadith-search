@@ -986,7 +986,7 @@ En toen er tot hen een boodschapper van allah was gekomen, bevestigend wat bij b
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En nu er een boodschapper van Allah tot hen is gekomen, vervullend wat zij reeds bezaten, heeft een gedeelte der mensen van het Boek, Allah´s Boek achter zich geworpen, alsof zij het niet kenden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

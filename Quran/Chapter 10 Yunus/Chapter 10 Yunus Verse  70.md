@@ -986,7 +986,7 @@ Zij mogen tijdelijk in deze wereld genieten, maar daarna zullen zij tot ons teru
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zullen in deze wereld tijdelijk genieten, daarna zal hun terugkeer tot Ons zijn, dan zullen Wij hen een strenge straf doen ondergaan, omdat zij niet geloofden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

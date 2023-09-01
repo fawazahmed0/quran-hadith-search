@@ -986,7 +986,7 @@ Hij (de gezel) zei: "Zag jij (wat er gebeurde) toen wij ons naar de rots begaven
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij antwoordde: 'Zie, toen wij ons op de rots begaven vergat ik de vis - en slechts Satan deed mij vergeten er over te spreken - en de vis vond op bewonderenswaardige wijze zijn weg naar de zee
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

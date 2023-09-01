@@ -986,7 +986,7 @@ Toen een slaap u overviel, als een teeken van zekerheid van hem, en hij water va
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen Hij slaap over u deed komen als beveiliging van Hem en water van de wolken over u nederzond, opdat Hij u daardoor mocht reinigen en het vuil van Satan van u mocht verwijderen en opdat Hij uw hart mocht sterken en u mocht doen volhouden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En als jij het kon zien wanneer de zondaren hun hoofden buigen voor hun Heer (en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, kondet gij het slechts zien wanneer de schuldigen hun hoofd zullen buigen voor hun Heer, zeggende: 'Onze Heer, wij hebben gezien en wij hebben gehoord, zend ons nu terug opdat wij goede werken mogen verrichten; voorzeker wij zijn thans overtuigd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

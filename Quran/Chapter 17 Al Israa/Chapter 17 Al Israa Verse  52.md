@@ -986,7 +986,7 @@ Op de Dag waarop Hij jullie oproept en jullie dan (Zijn oproep) beantwoorden met
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Dag waarop Hij u zal roepen zult gij Hem met de lof die Hem toekomt antwoorden en gij zult denken dat gij slechts een korte wijle hebt vertoefd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En (zij zijn) degenen die gehoor geven aan hun Heer en de shalât onderhouden, e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voor degenen die naar hun Heer luisteren en hun gebeden houden en wier manier van handelen een zaak van wederzijds overleg is en voor degenen die geven van hetgeen waarmee Wij hen hebben voorzien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

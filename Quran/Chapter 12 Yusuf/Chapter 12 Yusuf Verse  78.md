@@ -986,7 +986,7 @@ Zij zeiden, "O al 'Azîz, voorwaar, hij heeft een oude vader, en neem daarom een
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'O Aziez, hij heeft een zeer oude vader, neem daarom ��n onzer in zijn plaats, want wij zien dat gij tot degenen behoort die goed doen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

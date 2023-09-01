@@ -986,7 +986,7 @@ En de donder roemt Hem met Zijn loflprijzing en (ook) de Engelen. uit vrees voor
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de donder verkondigt Zijn glorie met de lof die Hem toekomt, en de engelen doen het uit ontzag voor Hem en Hij zendt de bliksem en treft er mede, wie Hij wil; nog steeds redetwisten zij over Allah. terwijl Hij streng is in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

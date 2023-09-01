@@ -986,7 +986,7 @@ Gedenk, toen Mozes tot zijn gezin zeide: Waarlijk, ik bemerk vuur, ik zal u tijd
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gedenk toen Mozes tot zijn familieleden zeide: 'Ik zie een vuur. Ik zal u daarvan enig bericht brengen of ik breng wat vuur mee opdat gij u moogt verwarmen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

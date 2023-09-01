@@ -986,7 +986,7 @@ En (gedenkt) toen Ibrâhîm smeekte: "Mijn Heer, maak dit gebied tot een veilige
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Abraham bad: 'Mijn Heer, maak deze plaats toch tot een oord van vrede en geef vruchten aan haar bewoners, die aan Allah en de laatste dag geloven', zeide Hij: 'Ik zal voor een korte tijd ook aan hem, die niet gelooft weldaden schenken, daarna zal Ik hem in het Vuur drijven: het is een slechte verblijfplaats
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

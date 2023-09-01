@@ -986,7 +986,7 @@ En gedenkt de genieting van Allah voor jullie en Zijn verbond dat Hij met jullie
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gedenkt Allah´s gunst aan u en het verbond dat Hij met u sloot, toen gij zeidet: 'Wij horen en wij gehoorzamen.' En vreest Allah. Voorzeker, Allah weet goed, wat in uw innerlijk is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

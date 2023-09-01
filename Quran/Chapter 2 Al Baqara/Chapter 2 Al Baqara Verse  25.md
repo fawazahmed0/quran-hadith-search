@@ -986,7 +986,7 @@ En geef (O Moehammad) goede tijdingen aan degenen die geloven en goede werken ve
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En verkondig aan degenen, die geloven en goede werken doen de blijde tijding, dat er tuinen (het paradijs) voor hen zijn, waardoorheen rivieren vloeien. Telkens, wanneer hun van de vruchten hieruit wordt geschonken, zullen zij zeggen: 'Ziehier, hetgeen ons reeds voorheen werd gegeven'; en hun werd het soortgelijke gegeven. En zij zullen er reine metgezellen hebben en zij zullen er vertoeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

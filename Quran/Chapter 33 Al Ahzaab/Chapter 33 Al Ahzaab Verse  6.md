@@ -986,7 +986,7 @@ De Profeet is de gelovigen meer nabij dan zij zichzelf. En zijn echtgenetes zijn
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Profeet is dichter bij de gelovigen dan zij zelven, en zijn vrouwen zijn hun moeders. En bloedverwanten zijn nader bij elkander volgens het Boek van Allah, dan de gelovigen en de Mohadjirien tenzij gij uw vrienden een gunst bewijst. Dit is in het Boek neergeschreven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

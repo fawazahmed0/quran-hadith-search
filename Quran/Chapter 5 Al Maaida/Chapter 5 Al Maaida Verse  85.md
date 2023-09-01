@@ -986,7 +986,7 @@ Allah beloont hen dan voor wat zij zeiden met Tuinen (het Paradijs) waar onder d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Derhalve beloonde Allah hen voor hetgeen zij zeiden met tuinen, waardoorheen rivieren stromen. Daarin zullen zij vertoeven en dit is de beloning voor hen die goeddoen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

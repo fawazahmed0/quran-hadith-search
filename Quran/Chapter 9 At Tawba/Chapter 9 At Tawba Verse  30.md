@@ -986,7 +986,7 @@ En de Joden zeggen: "Oezair is de zoon van Allah," en de Christenen zeggen: "De 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de Joden zeggen: 'Ezra is de zoon van Allah' en de Christenen zeggen: 'De Messias is de zoon van Allah.' Dit is, hetgeen zij met hun mond zeggen. Zij spreken de woorden na van degenen die v��r hen ongelovig waren; Allah´s vloek zij over hen, hoe zijn zij afgekeerd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

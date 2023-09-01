@@ -986,7 +986,7 @@ En jij houdt je niet met een zaak bezig, en niets draag jij daarover van de Kora
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 In welke toestand gij u bevindt, of gij de Koran voordraagt, of iets anders doet; Wij zijn uw getuigen, terwijl gij u er in verdiept. Er is voor uw Heer zelfs geen gewicht van een atoom op aarde of in de hemel verborgen. En er is niets dat kleiner of groter is, of het staat in het duidelijke Boek vermeld
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

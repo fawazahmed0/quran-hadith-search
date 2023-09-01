@@ -986,7 +986,7 @@ Is dan hij, die zijn gezicht beschermt voor de slechte bestraffing op de Dag der
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is (deze beter) die voor zijn persoon bescherming zoekt op de Dag der Opstanding voor de vreselijke straf? - terwijl tot de onrechtvaardigen zal worden gezegd: 'Ondergaat (nu) wat gij verdiendet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En hij (Ibrâhîm) zei: "Voorwaar, wet jullie naast Allah hebben genomen zijn sl
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij (Abraham) zeide: 'Gij hebt naast Allah slechts afgoden voor u gekozen terwille van vriendschap onder elkander in het tegenwoordige leven. Doch op de Dag der Opstanding zult gij elkander verwerpen, en elkander vervloeken. En uw tehuis zal het Vuur zijn; en gij zult geen helper hebben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

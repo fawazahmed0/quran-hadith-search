@@ -986,7 +986,7 @@ En Wij vertellen jou alle geschiedenissen van de Boodschappers, waarmee Wij jouw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de tijdingen der boodschappers verhalen Wij u om daardoor uw hart te versterken. Hierdoor is de waarheid en een vermaning en een les voor de gelovigen tot u gekomen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

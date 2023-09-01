@@ -986,7 +986,7 @@ Allah, er is geen god dan Hij! Hij zal jullie bijeenbrengen op de Dag der Opstan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah! Er is geen God, dan Hij. Hij zal u zeker bijeenroepen op de Dag der Opstanding, waaromtrent geen twijfel is. En wie is waarachtiger in Zijn woord, dan Allah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

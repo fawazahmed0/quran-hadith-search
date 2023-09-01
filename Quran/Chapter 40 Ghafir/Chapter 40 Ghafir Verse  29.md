@@ -986,7 +986,7 @@ O mijn volk! heden is u het koninkrijk, en gij zijt machtig; maar wie zal ons te
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O mijn volk heden hebt gij de oppermacht en gij zijt de hoogsten in het land. Maar wie zal ons beschermen tegen de straf van Allah als zij over ons komt?' Pharao zeide: 'Ik wijs u alleen dat aan wat ik zelf zie en ik leid u slechts naar het pad der rechtschapenheid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

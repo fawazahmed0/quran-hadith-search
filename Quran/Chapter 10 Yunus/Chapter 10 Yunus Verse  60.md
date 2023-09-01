@@ -986,7 +986,7 @@ En wat zullen degenen die over Allah leugens verzinnen, denken op de Dag der Ops
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wat denken degenen die leugens tegen Allah verzinnen van de Dag der Opstanding? Voorzeker, Allah is genadevol tegenover het mensdom, maar de meesten hunner zijn niet dankbaar
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

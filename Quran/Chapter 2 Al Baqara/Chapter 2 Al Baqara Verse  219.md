@@ -986,7 +986,7 @@ Zij vragen jou over de wijn en het kansspel. Zeg: "In beide is grote zonde en nu
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij vragen u omtrent wijn en kansspel. Zeg hun: 'In beide is groot nadeel en ook enig voordeel voor de mensen, maar het nadeel is groter dan het voordeel.' En zij vragen u, wat zij moeten weggeven. Zeg hun: 'Hetgeen gij kunt missen.' Zo maakt Allah u Zijn geboden duidelijk, opdat gij over deze en de volgende wereld zult nadenken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

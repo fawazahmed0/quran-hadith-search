@@ -986,7 +986,7 @@ Ein de twee zeeën zijn niet gelijk, de éne is zoet, fris en aangenaam om van t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De twee wateren zijn niet gelijk; het ene zoet, smakelijk en goed om te drinken, en het andere zout en bitter. En uit elk eet gij vlees en vindt gij sieraden die gij draagt. En gij ziet er schepen die de golven door klieven opdat gij van Zijn overvloed moogt zoeken, en opdat gij dankbaar zult zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

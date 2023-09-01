@@ -986,7 +986,7 @@ En degenen die, als zij een zedeloosheid begaan hebben, of zichzelf onrecht aang
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij, die wanneer zij een slechte daad begaan of zichzelf onrecht aandoen Allah gedenken en om vergiffenis vragen voor hun zonden - wie kan deze zonden vergeven buiten Allah? - en niet volharden in hun (slechte) daden tegen beter weten in
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

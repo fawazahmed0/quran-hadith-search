@@ -986,7 +986,7 @@ Wij weten inderdaad (O Moehammad) dat jij treurt door degenen die (kwaad) spreke
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij weten zeer goed dat hetgeen zij zeggen u verdriet doet, doch zij verloochenen u (profeet) niet, maar het zijn de tekenen van Allah die de boosdoeners verwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

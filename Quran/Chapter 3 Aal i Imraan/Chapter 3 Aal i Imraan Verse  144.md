@@ -986,7 +986,7 @@ En Moehammad is niet meer dan een Boodschapper, vóór hem zijn de Boodschappers
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Mohammed is slechts een boodschapper. Waarlijk, alle boodschappers v��r hem zijn heengegaan. Zult gij u dan op de hielen omkeren als hij sterft of gedood wordt? Hij, die zich omkeert zal aan Allah in het geheel geen schade berokkenen. En Allah zal de dankbaren gewis belonen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

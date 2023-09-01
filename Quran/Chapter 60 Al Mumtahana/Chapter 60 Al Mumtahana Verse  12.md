@@ -986,7 +986,7 @@ O Boodschapper, als de gelovige vrouwen tot jou gekomen zijn om trouw aan jou te
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O profeet! Wanneer gelovige vrouwen tot u komen, haar eed van trouw aan u afleggende: dat zij niets met Allah zullen vereenzelvigen, en dat zij noch zullen stelen, noch overspel plegen, noch hun kinderen doden, noch laster die zij moedwillig hebben verzonnen, zullen uiten, noch ongehoorzaam zullen zijn aan u in wat recht is, neem dan haar trouw aan en vraag vergiffenis voor haar van Allah. Waarlijk, Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

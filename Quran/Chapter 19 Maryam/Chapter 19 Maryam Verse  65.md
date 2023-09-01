@@ -986,7 +986,7 @@ Hij is de Heer van hemel en aarde en van hetgeen daar tusschen is; aanbidt hem d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is de Heer der hemelen en der aarde en al hetgeen hier tussen is. Dien Hem derhalve en wees volhardend in Zijn aanbidding. Kent gij Zijn gelijke
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

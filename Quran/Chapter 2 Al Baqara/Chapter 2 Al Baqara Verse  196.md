@@ -986,7 +986,7 @@ En verricht de Haddj en de 'Oemrah voor Allah. En indien iemand dan verhinderd i
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voleindigt de Hadj (pilgrimstocht) en Omrah, ter wille van Allah, maar als gij verhinderd zijt, brengt dan het offer, dat gemakkelijk verkrijgbaar is en scheert uw hoofd niet, voordat het offer zijn bestemming heeft bereikt. En wie onder u ziek is of een kwaal in het hoofd heeft, moet een losprijs geven, �f door te vasten, �f door aalmoezen te geven, �f door een offer te brengen. En wanneer gij veilig zijt, moet hij die gebruik maakt van Omrah, tegelijk met de Hadj een offer brengen, dat gemakkelijk verkrijgbaar is. Maar degenen, die geen (offer) kunnen vinden, moeten drie dagen gedurende de bedevaart vasten en zeven dagen, wanneer (men) terugkeert; dit is tien dagen in het geheel. Dit is voor hem, wiens familie niet dicht bij de Heilige Moskee woont. En vreest Allah en weet, dat Allah streng is in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

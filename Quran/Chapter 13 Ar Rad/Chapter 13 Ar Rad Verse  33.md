@@ -986,7 +986,7 @@ Is Hij die waakt over wat elke ziel heeft verworven (gelijk aan de afgodsbeelden
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zal Hij, Die over elke ziel waakt ten aanzien van hetgeen zij verdient (hen dan laten gaan)? Toch kennen zij medegoden aan Allah toe. Zeg: 'Noemt hen.' Zoudt gij Hem willen inlichten over hetgeen Hem op aarde onbekend was? Of is het slechts een ledig gezegde? Neen, maar het plan der ongelovigen is voor hen schoonschijnend gemaakt en zij worden van de juiste weg teruggehouden. En hij, die Allah laat dwalen zal geen helper vinden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

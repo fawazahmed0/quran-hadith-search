@@ -986,7 +986,7 @@ Allah is Degene Die de hemelen en de aarde en wat tussen hen is heeft geschapen,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah is het, Die de hemelen en de aarde en hetgeen er tussen is in zes dagen schiep; daarna zette Hij Zich op de Troon. Gij hebt geen helper of bemiddelaar buiten Hem. Wilt gij dan geen lering (hieruit) trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

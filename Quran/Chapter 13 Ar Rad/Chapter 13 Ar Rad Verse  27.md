@@ -986,7 +986,7 @@ En degenen die ongelovig zijn, zeggen: "Waarom is er geen Teken aan hem (Moehamm
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En degenen die niet geloven, zeggen: 'Waarom is hem (de profeet) geen teken van zijn Heer nedergezonden?' Zeg: 'Allah laat diegene dwalen die Hij wil en leidt tot Zichzelf degene die zich bekeert
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

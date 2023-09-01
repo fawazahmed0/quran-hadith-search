@@ -986,7 +986,7 @@ En zij vragen aan jou (O Moehammad) om verhaasting van het slechte, vóór het g
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij vragen eerder het kwade van u dan het goede; hoewel er voor hen voorbeeldige straffen zijn voorgekomen. Voorwaar, uw Heer is vol van vergiffenis voor het mensdom, ondanks hun onrechtvaardigheid en voorwaar, uw Heer is streng in het vergelden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

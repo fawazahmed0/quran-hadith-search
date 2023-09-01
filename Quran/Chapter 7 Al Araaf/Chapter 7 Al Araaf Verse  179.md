@@ -986,7 +986,7 @@ En voorzeker, Wij hebben velen van de Djinn's en de mensen voor de Hel geschapen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Wij hebben menige djinn en mens geschapen wier einde de hel zal zijn. Zij hebben harten maar begrijpen er niet mede en zij hebben ogen maar zij zien er niet mede en zij hebben oren maar zij horen er niet mede. Zij zijn als vee, neen zij dwalen nog meer (dan dit), zij zijn de achtelozen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

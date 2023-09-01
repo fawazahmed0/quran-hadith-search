@@ -986,7 +986,7 @@ En Ibrâhîm's verzoek om vergeving voor zijn vader was slechts vanwege een belo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het vragen om vergiffenis door Abraham voor zijn vader, geschiedde alleen wegens een belofte die hij hem had afgelegd, maar toen het hem duidelijk werd dat deze een vijand van Allah was, trok hij zich van hem terug. Voorzeker, Abraham was uiterst zachtmoedig, verdraagzaam
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

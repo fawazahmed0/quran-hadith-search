@@ -986,7 +986,7 @@ Misschien zou jij een gedeelte van wat aan jou geopenbaard is willen weglaten, e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Zij verbeelden zich dat) gij misschien een gedeelte van hetgeen is geopenbaard, zult opgeven; uw hart wordt er door benauwd, omdat zij zeggen: 'Waarom is er tot hem geen schat nedergezonden of waarom is er geen engel met hem gekomen?' Voorwaar, gij zijt slechts een waarschuwer en Allah is Voogd over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

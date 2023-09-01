@@ -986,7 +986,7 @@ Voorwaar, Wij hebben de Taurât neergezonden met daarin leiding en licht. De pro
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, Wij zonden de Torah neder, waarin leiding en licht was, waarmede de profeten die gehoorzaam waren recht spraken voor de Joden en de Rabbijnen en de wetgeleerden, omdat hun de bewaking van Allah´s Boek was opgelegd en zij waren daarvan getuigen. Vreest daarom de mensen niet, doch vreest Mij en ruilt Mijn tekenen niet in tegen het wereldse. En wie niet rechtspreken volgens hetgeen Allah heeft nedergezonden, zij zijn ongelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

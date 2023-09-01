@@ -986,7 +986,7 @@ En voor de mens zijn er bewakers (Engelen), voor hem en achter hem, zij waken ov
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er zijn voor hem (de Boodschapper) bewakers (engelen) v��r en achter hem; zij bewaken hem door het gebod van Allah. Voorzeker, Allah verandert de toestand van een volk niet voordat zij hetgeen in hun hart is veranderen. En wanneer Allah een volk wenst te straffen, is er geen afwenden mogelijk, noch hebben zij een helper naast Hem
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zeg: "Wat dachten jullie: als Allah de dag zou doen voortduren tot de Dag der Op
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Vertelt mij, als Allah de dag voor u doet voortduren tot de Dag der Opstanding welke God is er dan naast Allah die u een nacht kan brengen waarin gij kunt rusten? Wilt gij dat niet inzien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

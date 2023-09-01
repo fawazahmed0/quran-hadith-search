@@ -986,7 +986,7 @@ En huwt niet met de veelgodenaanbidsters totdat zij gelovigen zijn geworden, en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En huwt geen afgodendienaressen voordat zij geloven; waarlijk een gelovige slavin is beter, dan een afgodendienares, ofschoon zij u moge behagen. En huwt haar (gelovige vrouwen) niet aan afgodendienaren uit, voordat zij geloven; waarlijk een gelovige slaaf is beter, dan een afgodendienaar, ofschoon hij u moge behagen. Zij noden tot het Vuur, maar Allah noodt u tot de Hemel en tot vergiffenis door Zijn gebod. En Hij maakt Zijn tekenen aan de mensen duidelijk, opdat zij lering zullen trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

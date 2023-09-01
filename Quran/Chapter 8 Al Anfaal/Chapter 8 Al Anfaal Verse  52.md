@@ -986,7 +986,7 @@ Zoals Fir'aun en zijn volgelingen cm degenen vóór hen gewoon waren: zij waren 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zoals het volk van Pharao en degenen die v��r hen waren; zij verwierpen de tekenen van Allah, daarom strafte Allah hen voor hun zonden. Voorzeker, Allah is Machtig, Streng in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

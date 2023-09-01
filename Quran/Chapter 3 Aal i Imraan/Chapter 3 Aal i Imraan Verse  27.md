@@ -986,7 +986,7 @@ U doet de dag de nacht bedekken en U doet de nacht de dag bedekken en U brengt d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij doet de nacht in de dag overgaan en de dag in de nacht. En Gij brengt het levende uit het dode voort en Gij brengt het dode uit het levende voort. En Gij geeft onbeperkt aan wie Gij wilt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

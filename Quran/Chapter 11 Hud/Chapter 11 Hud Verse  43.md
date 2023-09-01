@@ -986,7 +986,7 @@ Hij zei: "Ik zal een schuilplaats zoeken in de bergen die mij tegen het water za
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij antwoordde: 'Ik zal mijn toevlucht weldra op een berg zoeken, die mij tegen het water zal beschermen.' Hij antwoordde: 'Er is deze dag geen beschermer tegen het gebod van Allah, met uitzondering van degenen wie Hij barmhartigheid toont.' En een golf kwam tussen beiden, hij behoorde tot de drenkelingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

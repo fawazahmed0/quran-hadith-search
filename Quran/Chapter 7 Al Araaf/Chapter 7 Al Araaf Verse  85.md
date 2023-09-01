@@ -986,7 +986,7 @@ En tot (de bewoners van) Madyan (zonden Wij) hun broeder Sjoe'aib, Hij zei: "O m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En tot Midian hun broeder Shoaib. Hij zeide: 'O, mijn volk, aanbidt Allah, gij hebt geen god naast Hem. Er is inderdaad een duidelijk teken van uw Heer tot u gekomen. Geeft daarom volle maat en ruim gewicht en vermindert het aan de mensen verschuldigde niet en schept geen wanorde op aarde nadat zij geordend is. Dit is beter voor u, als gij gelovigen zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

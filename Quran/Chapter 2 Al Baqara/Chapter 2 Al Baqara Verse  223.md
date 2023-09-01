@@ -986,7 +986,7 @@ Jullie vrouwen zijn (als) akkers voor jullie, komt dan tot jullie akkers zoals j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Uw vrouwen zijn een akker voor u - komt daarom tot uw akker, zoals het u behaagt en doet goed voor uzelf en vreest Allah en weet, dat gij Hem zult ontmoeten en geef goede tijdingen aan de gelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

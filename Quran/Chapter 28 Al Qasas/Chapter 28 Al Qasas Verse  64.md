@@ -986,7 +986,7 @@ En er wordt gezegd: "Roept jullie deelgenoten aan!" Zij zullen hen aanroepen, ma
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er zal worden gezegd: 'Roept uw afgoden aan.' En zij zullen hen aanroepen maar deze zullen hen niet horen. Terwijl zij de straf zullen zien. Hadden zij slechts de leiding gevolgd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

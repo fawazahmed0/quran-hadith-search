@@ -986,7 +986,7 @@ Hij (Môesa) zei: "Als ik jou bierna over iets vraag, laat mij jou dan niet verg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mozes zeide: 'Indien ik u wederom iets vraag houd mij dan niet in uw gezelschap, dan hebt gij zeker een verontschuldiging van mijn kant
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

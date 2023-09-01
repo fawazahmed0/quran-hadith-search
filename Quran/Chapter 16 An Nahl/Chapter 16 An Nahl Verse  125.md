@@ -986,7 +986,7 @@ Nodig uit tot de Weg van jouw Heer, met wijsheid en goed onderricht, en wissel m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Roep tot de weg van uw Heer met wijsheid en goede raad en redetwist met hen op een gepaste wijze. Voorzeker uw Heer weet het beste wie van Zijn weg is afgedwaald; en Hij kent degenen goed die juist geleid zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

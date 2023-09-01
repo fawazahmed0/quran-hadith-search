@@ -986,7 +986,7 @@ Zie jij dan niet dat alles zich voor Allah neerknielt wat er in de hemel en op d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij dan niet gezien dat alles zich voor Allah nederwerpt, wat in de hemelen en op aarde is, de zon, de maan, de sterren, de bergen, de bomen, het vee en een groot deel der mensen; maar toch valt nog velen de kastijding ten deel. En die Allah vernedert, kan niemand verheffen. Voorwaar, Allah doet wat Hij wil
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

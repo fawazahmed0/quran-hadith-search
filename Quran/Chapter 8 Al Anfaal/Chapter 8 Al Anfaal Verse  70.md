@@ -986,7 +986,7 @@ O Profeet, zeg tot de gevangenen die zich in jouw handen bevinden: "Als Allah do
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O profeet, zeg tot de gevangenen die in uw handen zijn: 'Als Allah enig goed in uw hart vindt, zal Hij u beter geven dan hetgeen van u is weggenomen en zal Hij u vergeven'. Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

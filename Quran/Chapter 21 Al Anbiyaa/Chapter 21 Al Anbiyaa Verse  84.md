@@ -986,7 +986,7 @@ Toen verhoorden Wij hem en hieven de tegenspoed voor hem op. En Wij gaven hem zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij verhoorden daarom zijn gebed en bevrijdden hem van moeilijkheden en gaven hem de zijnen en het gelijke er van daarnevens, als een bewijs Onzer barmhartigheid en als een herinnering voor de vromen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

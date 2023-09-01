@@ -986,7 +986,7 @@ Zij zijn degenen van wie Wij het beste aanvaarden van wat zij verrichtten, en Wi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Van dezulken aanvaarden Wij de goede werken die zij verrichten en Wij zien hun slechte daden over het hoofd. Zij behoren tot de bewoners van het paradijs, volgens de ware belofte die hun was toegezegd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

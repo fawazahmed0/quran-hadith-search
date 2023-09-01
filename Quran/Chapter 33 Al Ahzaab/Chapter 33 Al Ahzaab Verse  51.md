@@ -986,7 +986,7 @@ Jij mag uitstel geven aan wie van hen jij wenst en jij mag tot jou nemen wie jij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij moogt verlaten wie gij wilt en tot u nemen wie gij wilt, er rust geen blaam op u wanneer gij haar terugneemt van wie gij u afzijdig hebt gehouden. Dit is het meest passend om hen verust te stellen, zodat zij niet treuren en allen tevreden mogen zijn met hetgeen gij haar geeft. En Allah weet wat in uw hart is; Allah is Alwetend, Verdraagzaam
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

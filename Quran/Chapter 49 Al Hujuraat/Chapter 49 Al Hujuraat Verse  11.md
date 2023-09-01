@@ -986,7 +986,7 @@ O jullie die geloven, laat een volk niet een ander volk beledigen, het kan zijn 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft! Laat een volk het andere volk dat waarschijnlijk beter is dan zij, niet bespotten, noch vrouwen andere vrouwen, die misschien beter zijn dan zij. En belastert elkander niet, noch noemt elkaar bij scheldnamen. Kwaad is (het geven van) een slechte naam na de aanvaarding van het geloof, en zij die geen berouw tonen zijn de onrechtvaardigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

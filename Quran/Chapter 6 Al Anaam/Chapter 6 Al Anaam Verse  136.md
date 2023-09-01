@@ -986,7 +986,7 @@ En zij hebben Allah een deel toebedacht van wat Hij heeft voortgebracht aan gewa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij hebben Allah een deel van de oogsten en van het vee aangewezen, dat Hij heeft voortgebracht en zij zeggen: 'Dit is voor Allah en dit is voor onze goden,' zoals zij het zich denken. Maar hetgeen voor hun afgoden is, bereikt Allah niet, terwijl hetgeen voor Allah is, hun afgoden wel bereikt. Slecht is hetgeen zij oordelen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

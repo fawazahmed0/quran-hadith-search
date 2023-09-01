@@ -986,7 +986,7 @@ Als jullie (ongelovigen) om een (beslissende) overwinning vragen, waarlijk, de b
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als gij een oordeel zoekt, dan is het oordeel reeds tot u gekomen. En als gij ophoudt, zal het beter voor u zijn, maar als gij terugkeert, zullen Wij ook terugkeren. En uw partij zal u in het geheel niet baten hoe talrijk zij ook moge zijn en Allah is voorzeker met de gelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hij (Ya'qôcb) zei: "Welnee, jullie hebben voor jullie zelf iets moois verzonnen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij (hun vader) zeide: 'Neen, uw ziel heeft een groot iets voor u gering gemaakt. Daarom is geduld passend. Het is mogelijk, dat Allah hen allen te zamen tot mij zal brengen; waarlijk Hij is de Alwetende, de Alwijze
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

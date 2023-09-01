@@ -986,7 +986,7 @@ En de bewoners van de Hel roepen tot de bewoners van het Paradijs: "Stort over o
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de bewoners van het Vuur zullen tot de bewoners van het paradijs roepen: 'Giet wat water over ons uit of iets, waarmnee Allah u heeft voorzien.' Zij zullen antwoorden: 'Allah heeft voorzeker dit voor de ongelovigen verboden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Allah zal de gelovigen niet in de toestand laten waarin jullie verkeren totdat H
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah is niet zo dat Hij de gelovigen in de toestand laat waarin zij verkeren, totdat Hij de kwaden van de goeden scheidt, noch is Allah zo, dat Hij u het ongeziene bekend maakt. Maar Allah kiest tot Zijn boodschappers, wie Hij wil. Gelooft daarom in Allah en Zijn boodschappers. Als gij gelooft en rechtvaardig zijt, zal er een grote beloning voor u zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En kijken zij niet naar het Koninkrijk van de hemelen en de aarde en naar alle d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij het koninkrijk der hemelen en der aarde en alle dingen die Allah geschapen heeft, niet bekeken? En dat hun termijn waarschijnlijk reeds naderbij is gekomen? In welk woord zullen zij dan daarna geloven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij zei: "O mijn Heer, hoe kan ik een kind krijgen terwijl geen man mij heeft aa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeide: 'Heer, hoe zal ik een zoon hebben, daar geen man mij heeft benaderd?' Hij zeide: 'Zo schept Allah, wat Hij wil. Wanneer Hij iets beslist, zegt Hij daartoe slechts: 'Wees' en het wordt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

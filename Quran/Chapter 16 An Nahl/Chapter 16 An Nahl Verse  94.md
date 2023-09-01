@@ -986,7 +986,7 @@ En zweert juillie eden niet als een list tussen jullie, zodat een voet uitglijdt
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En maakt uw eden niet tot een middel van bedrog onder elkander; anders zal uw voet uitglijden nadat hij stevig heeft gestaan en gij zult het kwade ondergaan omdat gij ook anderen van het pad van Allah hebt afgehouden; en er zal voor U een strenge straf zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

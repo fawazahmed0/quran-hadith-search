@@ -986,7 +986,7 @@ Als de Waarheid hun begeerten zou volgen zouden de hemelen en de ard en alles wa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien de Waarheid hun wensen had gevolgd, voorwaar dan zouden de hemelen en de aarde en al hetgeen daarin is, in wanorde zijn geraakt. Neen, Wij hebben hun een vermaning gezonden doch zij wenden zich ervan af
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

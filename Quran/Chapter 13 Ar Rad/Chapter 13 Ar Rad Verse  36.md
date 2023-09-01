@@ -986,7 +986,7 @@ Degenen aan wie Wij de Schrift hebben gegeven, verheugden zich over wat aan jou 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En degenen, wie Wij het Boek hebben gegeven, verheugen zich in hetgeen u is geopenbaard. En er zijn sommige der partijen die er een gedeelte van ontkennen. Zeg: 'Het is mij bevolen, Allah te aanbidden en niets met Hem te vereenzelvigen. Tot Hem roep ik en tot Hem is mijn terugkeer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

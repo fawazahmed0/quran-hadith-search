@@ -986,7 +986,7 @@ En degenen (de huichelaars) die een moskee hebben gebouwd om schade en ongeloof 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En degenen die een moskee hebben gebouwd om te schaden, om het ongeloof (te verbreiden) en om een splitsing onder de gelovigen te veroorzaken en als een hinderlaag voor hem, die voorheen tegen Allah en Zijn boodschapper oorlog voerde; zij zullen voorzeker zweren: 'Wij bedoelden slechts het goede,' maar Allah getuigt, dat zij leugenaars zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorwaar, degenen die de laster naar voren brachten zijn een groep onder jullie.
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, zij die de lastering voortbrachten waren een grote groep uit uw midden; beschouwt dit niet als een kwaad voor u - integendeel het is goed voor u. Elk hunner zal de straf voor de zonde die hij heeft begaan, ontvangen en hij, die onder hen het voornaamste deel ervan op zich nam zal een grotere straf ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ O mensen, waarlijk, de Boodschapper is tot jullie gekomen met de Waarheid van ju
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O mensdom, de boodschapper is inderdaad met waarheid van uw Heer gekomen, gelooft daarom; het zal beter voor u zijn. Maar als gij niet gelooft, voorwaar, aan Allah behoort wat in de hemelen en op aarde is en Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

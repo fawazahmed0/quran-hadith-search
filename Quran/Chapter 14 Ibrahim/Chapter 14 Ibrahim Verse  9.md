@@ -986,7 +986,7 @@ Is de geschiedenis van degenen voor jullie nog niet tot jullie gekomen, (over) h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zijn de tijdingen niet tot u gekomen van degenen die v��r u waren, het volk van Noach en van Aad en Samoed en degenen (die) na hen (kwamen)? Niemand behalve Allah kent ze. Hun boodschappers kwamen met duidelijke tekenen tot hen, maar zij deden hen zwijgen en zeiden: 'Wij geloven niet in hetgeen, waarmede gij zijt gezonden en wij zijn zeker in twijfel over hetgeen, waartoe gij ons roept
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

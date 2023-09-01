@@ -986,7 +986,7 @@ Is dan iemand die het welgevallen van Allah volgt als iemand die de woede van Al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is hij die het behagen van Allah zoekt en hij die de toorn van Allah tot zich trekt en wiens verblijfplaats de hel is, gelijk? Deze (laatste) is een slechte bestemming
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij zeggen: "(Zij waren met) drie, hun vierde was hun hond," en zij zeggen, "Vij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sommigen zullen zeggen: 'Er waren er drie en de vierde was hun hond.' En sommigen zullen zeggen: 'Er waren er vijf en de zesde was hun hond,' gissende in het wilde weg en sommigen zullen zeggen: 'Er waren er zeven, de achtste was hun hond.' Zeg: 'Mijn Heer kent hun getal het beste. Niemand kent hen, enkelen uitgezonderd.' Redetwist dus niet over hen er diep op ingaande en vraag evenmin van ��n hunner inlichtingen over hen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

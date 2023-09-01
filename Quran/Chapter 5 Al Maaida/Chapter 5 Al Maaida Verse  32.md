@@ -986,7 +986,7 @@ Daarom hebben Wij de Kinderem van Israel voorgeschreven dat voor wie een ziel do
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Deswegen schreven Wij de kinderen Isra�ls voor, dat wie ook een mens doodt, behalve wegens het doden van anderen of het scheppen van wanorde in het land, het ware alsof hij het gehele mensdom had gedood, en voor hem, die iemand het leven schenkt, alsof hij aan het gehele mensdom het leven heeft geschonken. En voorzeker Onze boodschappers kwamen met duidelijke tekenen tot hen en toch - werden daarna -velen hunner op aarde tot over treders
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En voorzeker, Onze gezanten (Engelen) kwamen tot Ibrâhîm met de verheugende ti
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voorzeker Onze boodschappers kwamen met blijde tijdingen tot Abraham. Zij zeiden: 'Vrede zij met u.' Hij antwoordde: 'Vrede zij met u' en terstond bracht hij een gebraden kalf
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

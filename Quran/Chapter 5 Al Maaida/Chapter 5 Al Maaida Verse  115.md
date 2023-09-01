@@ -986,7 +986,7 @@ Allah zei: "Ik zal hem tot jullie doen neerdalen, maar wie van jullie daarna ong
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah zeide: 'Waarlijk, Ik zal haar (de tafel) tot u nederzenden, maar wie uwer nadien ondankbaar wordt, zal Ik z� straffen als Ik geen ander onder de volkeren gestraft heb
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

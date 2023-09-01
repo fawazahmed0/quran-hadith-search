@@ -986,7 +986,7 @@ Zij, die wachten om te zien wat u overkomt, of God u de overwinning schenkt, zeg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen, die afwachten tot u een overwinning van Allah ten deel valt, zeggen: 'Waren wij niet met u?' En als de ongelovigen er aandeel in krijgen, zeggen zij (tot hen): 'Hebben wij niet de overhand over u gekregen en u beschermd tegen de gelovigen?' Allah zal op de Dag des Oordeels tussen u richten en Allah zal de ongelovigen op generlei wijze over de gelovigen doen zegevieren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

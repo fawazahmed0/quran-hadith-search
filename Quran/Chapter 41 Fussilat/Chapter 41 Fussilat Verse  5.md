@@ -986,7 +986,7 @@ En zij zeiden: "Onze harten zijn verhuld voor dat waar jij (O Moehammad) ons toe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeggen: 'Onze harten zijn gesluierd voor datgene waartoe gij ons roept en er is doofheid in onze oren en tussen u en ons is een scherm. Daarom ga door met uw werk, wij werken ook
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

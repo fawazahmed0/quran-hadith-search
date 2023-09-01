@@ -986,7 +986,7 @@ En zij vragen jou om de bestraffing te bespoedigen, Allah zet zijn belofte nooit
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij dringen bij u aan de straf te verhaasten, doch Allah zal nimmer Zijn Belofte breken. Voorwaar bij uw Heer is ��n dag gelijk duizend jaren van uw berekening
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

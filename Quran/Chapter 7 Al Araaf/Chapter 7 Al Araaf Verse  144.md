@@ -986,7 +986,7 @@ Hij (Allah) zei: "O Môesa. voorwaar, Ik heb jou uitverkoren beven de (andere) m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah zeide: 'O, Mozes, Ik heb u door Mijn boodschappen en Mijn woord boven de volkeren uitverkoren. Houd u daarom vast aan hetgeen Ik u heb gegeven en behoor tot de dankbaren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

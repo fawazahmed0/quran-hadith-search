@@ -986,7 +986,7 @@ En voorwaar, telkens wanneer ik hen opriep opdat U hun zou vergeven, stopten zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En telkens wanneer ik hen riep, opdat Gij hen zoudt vergeven stopten zij hun vingers in de oren, bedekten zich met hun kleren, volhardden (in hun ongeloof) en gedroegen zich laatdunkend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En Wij zullen voor hen metgezellen aanwijzen die voor hen schoonschijnend maken 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij stelden gezellen (duivelen) voor hen aan, die hetgeen v��r hen en achter hen was schoonschijnend maakten, en het woord werd tegen hen van kracht, met de volkeren van djinn en mensen die v��r hen leefden. Zeker, zij waren verliezers
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

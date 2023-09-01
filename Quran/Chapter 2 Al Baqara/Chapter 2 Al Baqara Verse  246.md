@@ -986,7 +986,7 @@ Heb jij niet gezien, (hoe het einde was van) de vooraanstaanden van de Kinderen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Weet gij niet van de leiders der kinderen Isra�ls na Mozes, toen zij tot ��n hunner profeten zeiden: 'Stel ons een koning aan, opdat wij ter wille van Allah kunnen strijden.' Hij zeide: 'Is het niet waarschijnlijk, dat gij niet zult willen vechten, wanneer het u wordt voorgeschreven?' Zij zeiden: 'Welke reden hebben wij om ons van het vechten voor Allah´s zaak te willen onthouden, wanneer wij van onze huizen en onze kinderen zijn verdreven?' Maar, toen het vechten hun werd bevolen, wendden zij zich af, met uitzondering van een klein aantal hunner; Allah kent de overtreders goed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

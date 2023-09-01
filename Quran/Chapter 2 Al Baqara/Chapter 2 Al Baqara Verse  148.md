@@ -986,7 +986,7 @@ En voor iedere gemeenschap is er een Qiblah. Wedijvert daarom met elkaar in goed
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Iedereen heeft een richting, waarheen hij zich wendt, wedijvert daarom met elkander in goede werken. Waar gij ook zijt, Allah zal u allen tezamen brengen. Voorzeker, Allah heeft macht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

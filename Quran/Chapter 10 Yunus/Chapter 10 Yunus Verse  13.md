@@ -986,7 +986,7 @@ En voorwaar, Wij hebben de generaties vóór hen vernietigd tom zij onrecht plee
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij vernietigden de geslachten die v��r u bestonden toen zij kwaad verrichtten en er kwamen tot hen boodschappers met duidelijke tekenen, maar zij wilden niet geloven. Zo vergelden Wij het schuldige volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

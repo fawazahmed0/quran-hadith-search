@@ -986,7 +986,7 @@ Er is voor de Profeet geen probleem in wat Allah hem verplicht heeft. Dat is de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er moet voor de profeet geen bezwaar zijn betreffende hetgeen Allah voor hem geordend heeft. Dit is ook de handelwijze van Allah met hen die v��rdien zijn heengegaan - en het gebod van Allah is een vastgestelde verordening
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

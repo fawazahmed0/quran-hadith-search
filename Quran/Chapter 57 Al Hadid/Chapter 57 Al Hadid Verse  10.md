@@ -986,7 +986,7 @@ En wat is er met jullie, dat jullie geen bijdragen geven op de Weg van Allah, te
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarom geeft gij niet terwille van Allah, terwijl aan Allah de erfenis van de hemelen en de aarde behoort? Degenen onder u die (geld) besteedden en streden v��r de overwinning zijn niet gelijk maar hoger in rang dan degenen die nadien (geld) besteedden en streden. En Allah heeft aan allen het goede beloofd. En Allah is op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

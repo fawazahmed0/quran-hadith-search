@@ -986,7 +986,7 @@ Voorwaar, Allah beschikt over de kennis van het Uur, en Hij zendt de regen neer,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Allah alleen bezit de kennis van het Uur. Hij zendt de regen neder en Hij weet wat zich in de baarmoeder bevindt. Geen ziel weet wat zij morgen zal doen, en geen ziel weet in welk land zij zal sterven. Voorwaar, Allah is Alwetend, Alkennend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

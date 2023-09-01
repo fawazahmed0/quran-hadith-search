@@ -986,7 +986,7 @@ En wanneer degenen die in Onze Tekenen geloven tot jou komen, zeg dan: Salâmoen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer degenen die in Onze tekenen geloven, tot u komen, zeg dan: 'Vrede zij u.' Uw Heer heeft barmhartigheid op zich genomen; dus wie uwer in onwetendheid kwaad doet en daarna berouw heeft en zich verbetert, (voor hem) is Hij Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

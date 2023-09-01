@@ -986,7 +986,7 @@ En hoe is het dan wanneer een ramp hen trof door wat hun handen gedaan hebben? D
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hoe kan het dan dat, wanneer een rampspoed over hen komt door hetgeen zij verdienden, zij zwerend tot u komen: 'Bij Allah, wij beoogden niets dan het goede (te doen) en verzoening
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

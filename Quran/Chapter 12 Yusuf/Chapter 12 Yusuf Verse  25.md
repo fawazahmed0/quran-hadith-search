@@ -986,7 +986,7 @@ En heiden renden naar de deur en zij scheurde zijn hemd aan de achterkant en zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij holden beiden naar de deur en zij scheurde zijn hemd van achteren en zij ontmoetten haar echtgenoot aan de deur. Zij zeide: 'Wat zal de straf zijn voor iemand die kwade bedoelingen had met uw vrouw, anders dan gevangenneming of een pijnlijke kastijding
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

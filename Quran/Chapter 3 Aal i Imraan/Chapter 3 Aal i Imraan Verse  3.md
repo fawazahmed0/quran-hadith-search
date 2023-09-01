@@ -986,7 +986,7 @@ Hij heeft aan jou het Boek met de Waarheid neergezonden, bevastigend wat daaraan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij heeft u het Boek met de waarheid nedergezonden, vervullende, hetgeen er aan voorafgaat en Hij zond voordien de Torah en het Evangelie als leiding voor het volk en Hij heeft het Verschil geopenbaard
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

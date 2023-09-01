@@ -986,7 +986,7 @@ Zeg: "O mensen, waarlijk, de Waarheid van jullie Heer is tot jullie gekomen. Wie
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'O, gij mensen, nu is de waarheid van uw Heer tot u gekomen. Wie daarom die leiding volgt, volgt haar ten bate van zijn eigen ziel en wie dwaalt, dwaalt slechts tot haar nadeel. En ik ben geen bewaker over u
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

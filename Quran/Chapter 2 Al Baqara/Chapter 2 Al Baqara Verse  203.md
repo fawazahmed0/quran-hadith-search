@@ -986,7 +986,7 @@ En gedenkt Allah gedurende een vastgesteld aantal dagen. Maar wie haast heeft om
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gedenkt Allah gedurende het vastgestelde aantal dagen, maar wie na twee dagen zich haast (om te vertrekken) het zal voor hem geen zonde zijn en wie achterblijft, ook voor hem zal het geen zonde zijn. Dit geldt voor hem, die God vreest. Vreest Allah en weet, dat gij voor Hem zult worden verzameld
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

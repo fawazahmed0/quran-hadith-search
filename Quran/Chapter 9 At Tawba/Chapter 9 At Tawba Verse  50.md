@@ -986,7 +986,7 @@ Wanneer jou iets goeds overkomt, dan maakt het lien nijdig, en wanneer tegensspo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien u iets goeds overkomt, verdriet het hen, maar als u een rampspoed overkomt, zeggen zij: 'Wij hadden inderdaad onze voorzorgen genomen.' En zij wenden zich juichend af
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Als de huichelaars, en degenen in wier harten een ziekte is, en de lasteraars in
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien de huichelaars en degenen in wier hart een ziekte is en degenen die opschudding in de stad veroorzaken, niet ophouden, zullen Wij u zeker tegen hen in beweging brengen; dan zullen zij slechts voor een korte tijd in uw nabijheid mogen vertoeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

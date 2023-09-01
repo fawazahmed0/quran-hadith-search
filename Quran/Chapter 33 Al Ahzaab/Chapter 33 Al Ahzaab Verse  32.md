@@ -986,7 +986,7 @@ O vrouwen van de Profeet, jullie zijn zoals geen van de andere vrouwen, als jull
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O vrouwen van de profeet, gij zijt niet zoals een andere vrouw. Indien gij godvruchtig zijt, spreekt dan niet op een verleidelijke manier, anders zal hij in wiens hart ziekte is, verwachtingen koesteren; maar spreekt een oprechte taal
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

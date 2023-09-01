@@ -986,7 +986,7 @@ Het bouwwerk dat zij hebben gebouwd zal een bron van onrust blijven in hun harte
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het gebouw dat zij hebben opgericht, zal een bron van onrust in hun hart blijven, tenzij hun hart in stukken wordt gescheurd. Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Wanneer Allah jullie helpt is er geen overwinnaar over jullie. En indien Hij jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als Allah u helpt, zal niemand u overweldigen, maar als Hij u verlaat, wie is er dan die u buiten Hem kan helpen? In Allah zullen de gelovigen hun vertrouwen leggen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En toen Ik de metgezellen (van 'Isa) inspireerde om in Mij le geloven en in Mijn
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Ik de discipelen bezielde om in Mij en Mijn boodschapper te geloven, zeiden zij: 'Wij geloven en getuigt Gij, dat wij ons hebben onderworpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

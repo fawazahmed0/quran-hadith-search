@@ -986,7 +986,7 @@ Of wie heeft jullie geleid in de duisternissen op het land en op de zee en wie h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij, Die u leidt in het duister van het land en van de zee, en Die u winden zendt als boodschappers van blijde tijdingen (regen) door Zijn barmhartigheid? Is er een God naast Allah? Verheven is Allah boven hetgeen zij met Hem vereenzelvigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

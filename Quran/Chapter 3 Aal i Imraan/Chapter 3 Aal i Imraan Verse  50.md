@@ -986,7 +986,7 @@ En als bevestiging van wat er voor mij is gekomen van de Taurât, opdat ik julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ik kom tot u met een teken van uw Heer bevestigende wat v��r mij was, namelijk, de Torah en om u iets, van wat u was verboden toe te staan; vreest daarom Allah en gehoorzaamt mij
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

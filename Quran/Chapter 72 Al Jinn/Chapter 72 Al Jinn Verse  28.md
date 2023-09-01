@@ -986,7 +986,7 @@ Om te doen weten dat zij de Boodschappen van hun Heer overbrachten. En Hij omvat
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Opdat Hij moge weten dat zij (Zijn boodschappers) de boodschappen van hun Heer hebben overgebracht. En Hij omvat alles wat met hen is - en Hij heeft alles berekend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

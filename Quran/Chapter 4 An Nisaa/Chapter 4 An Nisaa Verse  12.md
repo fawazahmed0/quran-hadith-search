@@ -986,7 +986,7 @@ En voor jullie (mannen) is de helft van wat jullie vrouwen nalaten indien zij ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gij zult de helft hebben van hetgeen uw vrouwen nalaten, indien zij geen kind hebben, maar indien zij een kind hebben, is er voor u een vierde van hetgeen zij nalaten na de betaling van enig legaat, dat zij hebben nagelaten of van schuld. En zij zullen een vierde hebben van hetgeen gij nalaat, als gij geen kind hebt, maar als gij een kind hebt, zo is er voor hen een achtste deel van hetgeen gij nalaat, na de betaling van enig legaat of van onverrekende schuld. En indien er een man of een vrouw is, van wie wordt ge�rfd en deze is ouderloos en kinderloos en heeft een broeder of een zuster, dan is er voor elk hunner een zesde deel. Maar als er meer dan dezen zijn, dan zijn zij deelgenoten in een derde na de betaling van enig legaat, dat is nagelaten of van schuld, zonder benadeling. Dit is gebod van Allah en Allah is Alwetend, Verdraagzaam
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

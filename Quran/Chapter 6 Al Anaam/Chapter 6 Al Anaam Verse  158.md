@@ -986,7 +986,7 @@ Zij wachten slechts tot dat de Engelen tot hen komen of dat (de bestraffing) jou
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Verwachten zij niets anders dan dat engelen tot hen zouden komen, of dat hun Heer zou verschijnen of dat enige der tekenen van uw Heer zouden plaatshebben? Op de dag, wanneer enige der tekenen van uw Heer zullen verschijnen, zal het geloven geen ziel baten die voorheen niet geloofde noch iets goeds door haar geloof verdiende. Zeg: 'Wacht, Wij wachten ook
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

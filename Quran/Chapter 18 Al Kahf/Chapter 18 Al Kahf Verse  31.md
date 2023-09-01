@@ -986,7 +986,7 @@ Zij zijn degenen voor wie er de Tuinen van 'Adn (het Paradijs) zijn, waar onder 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voor dezulken zijn de Tuinen der eeuwigheid, waardoor beken vloeien. Zij zullen daarin worden getooid met armbanden van goud en zullen groene gewaden van fijne zijde en zwaar brocaat dragen, terwijl zij op tronen zullen liggen. Hoe goed is de beloning en hoe schoon is de rustplaats
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

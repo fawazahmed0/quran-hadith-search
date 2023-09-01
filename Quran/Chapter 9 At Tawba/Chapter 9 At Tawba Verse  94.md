@@ -986,7 +986,7 @@ Zij zullen jullie verontschuldigen aanbieden wanneer jullie tot hen zijn terugge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zullen met uitvluchten tot u komen, wanneer gij tot hen wederkeert. Zeg: 'Maakt geen verontschuldigingen, wij zullen u niet geloven. Allah heeft ons reeds omtrent uw gedrag ingelicht. En Allah en Zijn boodschapper zullen u uw gedrag weldra tonen, dan zult gij tot Hem die het onzienlijke en het zienlijke kent, worden teruggebracht en Hij zal u over al hetgeen gij deedt, inlichten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

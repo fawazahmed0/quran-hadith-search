@@ -986,7 +986,7 @@ Toen wendde hij (Shâlih) zich van hen af en zei. "O mijn volk, voorzeker, ik he
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen wendde Salih zich van hen af en zeide: 'O, mijn volk, ik bracht u de boodschap van mijn Heer en bood u oprechte raad aan, maar gij houdt niet van oprechte raadgevers
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

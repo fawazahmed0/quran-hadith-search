@@ -986,7 +986,7 @@ En onder ben zijn er die de Profeet kwetsen en zij zeggen: "Hij is een oor (dat 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er zijn onder hen, die de profeet lastig vallen en zeggen: 'Hij luistert naar iedereen.' Zeg: 'Zijn luisteren is goed voor u, hij gelooft in Allah en hij gelooft de gelovigen en hij is een barmhartigheid voor de gelovigen onder u.' En zij, die de boodschapper van Allah lastig vallen, zullen een pijnlijke straf ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Dus wanneer jij en de mensen met jou aan boord van het schip zullen gaan, zeg da
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer gij de Ark zult hebben betrokken - gij en degenen die met u zijn zeg dan: 'Alle lof behoort aan Allah, Die ons van een boosaardig volk heeft gered
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

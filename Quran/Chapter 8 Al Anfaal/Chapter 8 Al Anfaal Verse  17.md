@@ -986,7 +986,7 @@ Het waren niet jullie die hen doodden, maar het was Allah die hen doodde, en het
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij dooddet hen niet, doch Allah was het, Die hen doodde. En gij wierpt niet toen gij wierpt, maar Allah was het die wierp, opdat Hij de gelovigen een grote gunst van Zich mocht bewijzen. Voorzeker, Allah is Alhorend, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

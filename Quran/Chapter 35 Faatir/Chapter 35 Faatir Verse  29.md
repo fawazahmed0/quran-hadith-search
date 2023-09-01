@@ -986,7 +986,7 @@ Voorwaar, degenen die het Boek van Allah (de Koran) voordragen en de shalât ond
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, zij die het Boek (de Koran) van Allah voordragen en het gebed naleven en heimelijk of openlijk geven van hetgeen Wij hun hebben geschonken, mogen hopen op een winst die nooit zal vergaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorwaar, Shafa en Marwah behoren tot de aan Allah gewijde Tekenen. Wie dan de H
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, Safaa en Marwah zijn onder de tekenen van Allah. Er rust derhalve op hem, die de Hadj (pelgrimstocht) doet, of (of soms) de Omrah verricht, geen blaam, indien hij om beiden (heen) loopt. En wie vrijwillig goed doet, voorzeker, Allah is Waarderend, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Waarschuw hen (O Moehammad) voor de Dag der Opstanding waarop de harten treurig 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarschuw hen voor de naderende Dag, wanneer het hart in de keel klopt terwijl zij vol verdriet zullen zijn. De onrechtvaardigen zullen geen boezemvrienden hebben, noch enige bemiddelaar naar wie zal worden geluisterd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

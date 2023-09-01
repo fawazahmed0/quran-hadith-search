@@ -986,7 +986,7 @@ De maand Ramadhân is het waarin de Koran is neergezonden, als Leiding voor de m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De maand Ramadaan is die, waarin de Koran als een richtsnoer voor de mensen werd nedergezonden en als duidelijke bewijzen van leiding en onderscheid. Wie onder u daarom deze maand beleeft, laat hem daarin vasten. Maar wie onder u ziek of op reis is, een aantal andere dagen. Allah wenst gemak voor u en geen ongemak, en opdat gij het aantal zult voltooien en opdat gij Allah´s grootheid zult prijzen, omdat Hij u terecht heeft geleid en opdat gij dankbaar zult zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

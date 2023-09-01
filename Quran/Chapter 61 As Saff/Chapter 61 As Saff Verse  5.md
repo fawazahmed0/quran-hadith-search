@@ -986,7 +986,7 @@ En (gedenkt) toen Môesa tot zijn volk zei: "O mijn volk, waarom kwetsen jullie 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Mozes tegen zijn volk zeide: 'O mijn volk, waarom ergert gij mij, wetende dat ik Allah´s boodschapper voor u ben?' En toen zij afdwaalden deed Allah hun hart zich afwenden, want Allah leidt het opstandige volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

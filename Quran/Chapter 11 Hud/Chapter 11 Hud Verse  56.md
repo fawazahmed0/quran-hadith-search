@@ -986,7 +986,7 @@ Voorwaar, ik verbouw op Allah, mijn Heer en jullie Heer. En er is geen levend we
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ik heb voorzeker mijn vertrouwen in Allah gesteld, Die mijn Heer en uw Heer is. Er is geen schepsel, dat zich op aarde beweegt, of Hij houdt het in Zijn macht. Voorzeker, mijn Heer is op het rechte pad
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

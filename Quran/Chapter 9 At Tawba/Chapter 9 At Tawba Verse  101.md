@@ -986,7 +986,7 @@ En onder de bedoeïenen in jouw omgeving bevinden zich huichelaars, en (ook) ond
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Van de u omringende woestijn-Arabieren zijn sommigen huichelaars evenals van het volk van Madina, dezen volharden in huichelarij. Gij kent hen niet; Wij kennen hen en Wij zullen hen hier dubbel straffen, daarna zullen zij aan een grote straf worden overgeleverd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

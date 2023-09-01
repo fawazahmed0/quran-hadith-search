@@ -986,7 +986,7 @@ En Wij lieten 'Isa, zoon van Maryam, in hun voetstappen volgen, ter bevestiging 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij deden Jezus, zoon van Maria in hun voetsporen treden, vervullende, hetgeen v��r hem in de Torah was (geopenbaard), en Wij gaven hem het Evangelie, dat licht en leiding bevatte, bevestigende hetgeen daarv��r in de Torah was en een leiding en een vermaning voor de godvrezenden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

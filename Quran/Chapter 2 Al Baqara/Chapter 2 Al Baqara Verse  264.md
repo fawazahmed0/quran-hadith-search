@@ -986,7 +986,7 @@ O jullie die geloven: maakt jullie liefdadigheid noch ongeldig door opscheppen, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, maakt uw aalmoezen niet waardeloos door verwijt of krenking, zoals hij, die zijn rijkdommen weggeeft, om op te vallen bij de mensen en hij gelooft niet in Allah en de laatste dag. Hij is als een gladde rots, die met aarde is bedekt, waarop een stortregen valt, welke haar kaal achterlaat. Zij hebben geen macht over wat zij verdienen. En Allah leidt het ongelovige volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

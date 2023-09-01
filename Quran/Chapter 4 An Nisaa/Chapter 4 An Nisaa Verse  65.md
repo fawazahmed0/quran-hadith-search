@@ -986,7 +986,7 @@ Bij jouw Heer, zij geloven niet totdat zij jou laten oordelen over waar zij over
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar neen, bij uw Heer, zij zullen geen gelovigen zijn, voordat zij u (profeet) tot rechter maken over al hun geschillen en in hun hart geen aarzeling vinden aangaande hetgeen gij oordeelt en zij zich geheel en al onderwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

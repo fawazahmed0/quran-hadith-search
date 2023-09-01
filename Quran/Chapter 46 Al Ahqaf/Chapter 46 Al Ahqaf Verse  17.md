@@ -986,7 +986,7 @@ En (slecht is) degene die tegen zijn ouders zegt: "Foei jullie! Waarschuwen jull
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar degene, die tot zijn ouders zegt: 'Foei gij beiden! Dreigt gij mij dat ik opgewekt zal worden, terwijl geslachten reeds v��r mij zijn vergaan' En beiden roepen tot Allah om hulp: 'Wee u! Geloof: want de belofte van Allah is waar.' Maar hij (de zoon) zegt: 'Dit zijn slechts fabelen der ouden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

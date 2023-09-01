@@ -986,7 +986,7 @@ En als twee partijen van gelovigen met elkaar slaags raken, sticht dan vrede tus
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien twee partijen van gelovigen beginnen te vechten treft dan een schikking onder hen, maar indien ��n hunner tegen de andere in overtreding is, bestrijdt dan de overtredende partij totdat zij tot de verordening van Allah terugkeert. En indien zij terugkomt, sluit dan een rechtvaardige vrede en behandelt hen billijk. Voorwaar, Allah heeft de rechtvaardigen lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En toen jouw Heer tot de Engelen zei: "Voorwaar, Ik zal op aarde een gevolmachti
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen uw Heer tot de engelen zeide: 'Ik wil een stedehouder op aarde plaatsen,' zeiden zij: 'Wilt Gij er iemand plaatsen die er onheil zal stichten en bloed zal vergieten, terwijl wij U verheerlijken met de lof die U toekomt en Uw Heiligheid prijzen,' antwoordde Hij: 'Ik weet wat gij niet weet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

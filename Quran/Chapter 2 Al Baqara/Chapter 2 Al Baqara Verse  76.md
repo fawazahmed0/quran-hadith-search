@@ -986,7 +986,7 @@ En wanneer zij degenen die geloven ontmoeten, zeggen zij: "Wij geloven," maar wa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer zij de gelovigen ontmoeten zeggen zij: 'Wij geloven' en wanneer zij onder elkander zijn zeggen zij: 'Verhaalt gij hun, wat Allah u heeft geopenbaard, zodat zij daardoor met u kunnen redetwisten voor uw Heer.' Wilt gij dan niet begrijpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

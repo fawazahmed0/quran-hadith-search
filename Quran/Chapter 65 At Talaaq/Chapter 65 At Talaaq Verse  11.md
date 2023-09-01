@@ -986,7 +986,7 @@ Een Boodschapper die voor jullie de verduidelijkende Verzen van Allah voordraagt
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Een boodschapper, die aan u de duidelijke woorden van Allah voordraagt, opdat hij degenen die geloven en goede daden verrichten uit de duisternis in het licht moge brengen; en wie in Allah gelooft en goed doet, hem zal Hij in tuinen toelaten waar doorheen rivieren stromen om daarin voor eeuwig te vertoeven. Allah heeft hem inderdaad een voortreffelijk onderhoud geschonken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

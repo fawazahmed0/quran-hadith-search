@@ -986,7 +986,7 @@ Zij zei: "Wee mij, zal ik een kind baren, terwijl ik een oude vrouw ben, en deze
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeide: 'O wonder! Zal ik een kind baren nu ik een oude vrouw ben en deze mijn echtgenoot een oude man is? Dit is inderdaad iets wonderbaarlijks
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

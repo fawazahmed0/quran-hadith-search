@@ -986,7 +986,7 @@ En toen zij vergaten waarmee zij gewaarschuwd waren, openden Wij voor hen vervol
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen zij dan hetgeen waarvoor zij waren gewaarschuwd vergaten, openden Wij hun de poorten van alle dingen (der wereld) totdat zij verheugd werden over hetgeen hun was gegeven, dan grepen Wij hen onverwachts aan en zie, zij werden wanhopig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

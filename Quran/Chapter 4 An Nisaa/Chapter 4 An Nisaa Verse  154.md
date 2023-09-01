@@ -986,7 +986,7 @@ En Wij verhieven (de berg) Thôer boven hen vanwege het verdrag met hen, en Wij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij verhieven de berg hoog boven hen tijdens het verbond met hen en Wij zeiden: 'Gaat de poort ootmoedig binnen' en: 'Overtreedt niet inzake de Sabbath'. En Wij sloten met hen een vast verbond
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

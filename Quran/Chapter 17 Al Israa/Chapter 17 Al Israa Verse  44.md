@@ -986,7 +986,7 @@ De zeven hemelen en de aarde en wie er in hen zijn, roepen Zijn Glorie uiten er 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De zeven hemelen en de aarde en degenen die daarin vertoeven prijzen Zijn heerlijkheid. En daar is niets dat Hem niet met de lof die Hem toekomt verheerlijkt; doch gij begrijpt hun verheerlijking niet. Voorwaar, Hij is Verdraagzaam, Vergevensgezind
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

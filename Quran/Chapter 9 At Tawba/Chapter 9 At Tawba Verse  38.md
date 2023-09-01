@@ -986,7 +986,7 @@ O jullie die geloven, wat is er met jullie dat wanneer er tot jullie wordt gezeg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, waarom buigt gij ter aarde wanneer er tot u wordt gezegd: 'Gaat op de weg van Allah voort?' Zijt gij met het tegenwoordige leven tevreden boven het Hiernamaals? Maar het genoegen van het tegenwoordige leven is vergeleken bij het Hiernamaals slechts nietig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

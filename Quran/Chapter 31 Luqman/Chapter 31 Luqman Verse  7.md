@@ -986,7 +986,7 @@ En wanneer Onze Verzen aan hem worden voorgedragen, dan wendt hij zich er hoogmo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer Onze woorden aan hem worden voorgedragen, wendt hij zich verachtelijk af alsof hij ze niet hoorde en zijn oren verstopt waren. Kondig hem daarom een pijnlijke straf aan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

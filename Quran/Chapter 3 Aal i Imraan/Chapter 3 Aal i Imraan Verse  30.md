@@ -986,7 +986,7 @@ Op de Dag dat iedere ziel aanwezig vindt wat zij van het goede verricht heeft en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Gedenkt) de Dag, waarop iedere ziel zich geplaatst zal vinden tegenover het goede dat zij heeft verricht en het kwade dat zij heeft gedaan, dan zal zij wensen dat er een grote afstand ware tussen haar en het kwade. En Allah waarschuwt u voor Hemzelf. En Allah is liefderijk jegens Zijn dienaren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

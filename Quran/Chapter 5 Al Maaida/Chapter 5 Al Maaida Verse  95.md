@@ -986,7 +986,7 @@ O jullie die geloven! Doodt geen wild indien jullie in de gewijde staat zijn. En
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, doodt geen wild, terwijl gij ter bedevaart zijt. En wie onder u het opzettelijk doodt diens vergoeding is een huisdier gelijk aan hetgeen hij heeft gedood - twee rechtvaardige mannen onder u zullen dat beoordelen; - hetwelk als offer naar de Kaba moet worden gebracht; of hij moet als boetedoening (een aantal) arme mensen voeden, of een gelijk aantal dagen vasten, opdat hij het gevolg van zijn daad zal ondergaan. Allah heeft vergeven wat voorbij is, maar wie er in terugvalt, hem zal Allah straffen. Allah is Machtig, de Meester der vergelding
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

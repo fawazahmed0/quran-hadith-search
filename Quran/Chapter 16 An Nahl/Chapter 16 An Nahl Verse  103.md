@@ -986,7 +986,7 @@ En voorzeker, Wij weten dat zij zeggen: "Voorwaar, het is slechts een mens die h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij weten inderdaad dat zij zeggen dat het slechts een man is, die hem (de profeet) onderwijst. De taal van hem die zij bedoelen is vreemd, terwijl dit de duidelijke Arabische taal is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

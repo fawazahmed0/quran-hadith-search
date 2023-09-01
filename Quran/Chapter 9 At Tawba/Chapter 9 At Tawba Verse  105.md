@@ -986,7 +986,7 @@ En zeg (O Moehammad): "Allah zal jullie werken zien en ook Zijn Boodschapper en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zeg: 'Werkt en Allah zal met Zijn boodschapper en de gelovigen uw werk zien. Weldra zult gij tot de Kenner van het onzienlijke en het zienlijke worden teruggebracht en dan zal Hij u inlichten over hetgeen gij hebt bedreven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

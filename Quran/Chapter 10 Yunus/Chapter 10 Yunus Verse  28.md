@@ -986,7 +986,7 @@ En op die Dag verzamelen Wij hen allen, vervolgerns zeggen Wij tot degenen die (
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de Dag waarop Wij hen allen zullen verzamelen, zullen Wij tot de afgodendienaren zeggen: 'Blijft ter plaatse, gij en uw deelgenoten.' Daarna zullen Wij hen ver van elkander scheiden en hun deelgenoten zullen zeggen: 'Voorzeker gij placht ons niet te aanbidden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

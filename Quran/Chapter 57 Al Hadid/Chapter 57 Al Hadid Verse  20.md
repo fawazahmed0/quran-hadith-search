@@ -986,7 +986,7 @@ Weet dat het wereldse leven slechts een spel is, een vermaak, een versiering en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Weet, dat het wereldse leven, alleen spel, vermaak, praalvertoon, pochelij onder elkander, wedijver in vermeerdering van rijkdom en kinderen, is als de regen waardoor het plantenleven de kwekers verblijdt. Dan droogt het op, gij ziet het geel worden en vergaan. En in het Hiernamaals is er een strenge straf en Allah´s vergiffenis en welbehagen. En het leven dezer wereld is niets anders dan een zaak van begoocheling
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

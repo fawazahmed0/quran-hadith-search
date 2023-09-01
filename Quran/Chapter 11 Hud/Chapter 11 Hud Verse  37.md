@@ -986,7 +986,7 @@ Bouw het schip onder Ons toezicht en Onze Openbaring en spreek Mij niet aan over
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En bouw de ark voor Onze ogen en volgens Onze voorschriften op. En roep Mij omtrent de onrechtvaardigen niet aan. Zij zullen zeker worden verdronken.´´
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

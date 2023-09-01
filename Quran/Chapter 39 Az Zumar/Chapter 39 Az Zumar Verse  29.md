@@ -986,7 +986,7 @@ Allah heeft een vergelijking gemaakt van een slaaf die aan meerdere meesters beh
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah geeft een gelijkenis; een man die aan meer aanspraak-hebbenden toebehoort, die het met elkander oneens zijn, en een man die geheel aan ��n man toebehoort. Zijn zij beiden in dezelfde toestand? Alle roem behoort aan Allah. Maar de meesten onder hen begrijpen dit niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

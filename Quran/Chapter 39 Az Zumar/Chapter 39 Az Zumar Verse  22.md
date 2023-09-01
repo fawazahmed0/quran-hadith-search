@@ -986,7 +986,7 @@ Is dan hij, wiens bart Allah heeft verruimd voor de Islam, zodat hij door een li
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij wiens hart Allah voor de Islam heeft verruimd, is in het licht van zijn Heer. Wee dan degenen, wier hart verhard is bij de gedachtenis aan Allah! Waarlijk, zij verkeren klaarblijkelijk in dwaling
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

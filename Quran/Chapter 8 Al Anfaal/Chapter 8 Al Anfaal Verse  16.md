@@ -986,7 +986,7 @@ En wie op die dag hen de rug toedraait, anders dan om een wending te maken (als 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wie op die dag zijn rug toekeert, tenzij hij voor het gevecht manoeuvreert of om plaats te nemen bij een andere groep, doet inderdaad de toorn van Allah over zich komen en de hel zal zijn tehuis zijn en dat is een slechte verblijfplaats
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Bij Allah, voorzeker, Wij zonden (Profeten) naar de gemeenschappen vóóoor jou 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bij Allah, Wij zonden (boodschappers) tot de volkeren die v��r u waren; maar Satan deed hun werken voor hen schoon schijnen. Daarom is hij nu (in deze wereld) hun vriend en (in het Hiernamaals) zullen zij een smartelijke straf ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

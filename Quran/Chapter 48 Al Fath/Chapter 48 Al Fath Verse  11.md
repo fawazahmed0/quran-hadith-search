@@ -986,7 +986,7 @@ Degenen onder de bedoeïenen die achtergebleven waren zullen tot jou zeggen: "On
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen onder de bewoners der woestijn die achterbleven, zullen tot u zeggen: 'Onze bezittingen en onze gezinnen hielden ons bezig (zodat wij u niet konden helpen); vraag daarom voor ons vergiffenis.' Zij zeggen met hun tong hetgeen niet in hun hart is. Zeg: 'Wie kan u iets baten tegen Allah indien Hij voor u voordeel of nadeel beoogt?' Neen, Allah is goed onderricht van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

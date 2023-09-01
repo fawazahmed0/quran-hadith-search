@@ -986,7 +986,7 @@ Voorwaar, het aantal maanden bij Allah is twaalf maanden, volgens de beschikking
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het aantal der maanden is volgens Allah´s verordening twaalf sinds de tijd waarop Hij de hemelen en de aarde schiep. Vier hiervan zijn heilig. Dit is het juiste geloof. Doet u zelf dus hierin geen onrecht aan. En bestrijdt de afgodendienaren allen tezamen, zoals zij u bestrijden en weet, dat Allah met de rechtvaardigen is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

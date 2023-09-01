@@ -986,7 +986,7 @@ Of wie heeft de hemelen en de aarde geschapen en water uit de hemel neergezonden
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij Die de hemelen en de aarde schiep en water uit de hemelen nederzendt waarmee Hij prachtige tuinen doet groeien? Gij zoudt hun bomen niet kunnen doen groeien. Is er een God naast Allah? Neen, zij zijn een volk dat het spoor bijster is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

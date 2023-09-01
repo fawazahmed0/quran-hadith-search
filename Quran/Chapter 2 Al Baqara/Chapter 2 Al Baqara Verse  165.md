@@ -986,7 +986,7 @@ En er zijn er onder de mensen die nasst Allah deelgenoten teokennen, die zij lie
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Onder de mensen zijn er, die voorwerpen van aanbidding buiten Allah nemen en ze liefhebben, zoals zij Allah behoren lief te hebben. Maar zij die geloven zijn sterker in hun liefde voor Allah. En als zij die overtreden (nu) de tijd kunnen zien wanneer zij de straf zullen zien, (dan zouden zij beseffen) dat alle macht aan Allah toebehoort en dat Allah streng is in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

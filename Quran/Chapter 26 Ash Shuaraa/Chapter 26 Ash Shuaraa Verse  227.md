@@ -986,7 +986,7 @@ Behalve degenen die geloven en goede daden verrichten en Allah vaak gedenken. En
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Behalve zij die geloven en goede werken doen, en Allah vaak gedenken, en zich verdedigen nadat hun onrecht is aangedaan, maar de onrechtvaardigen zullen weldra weten welke wending hun zaken zullen nemen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Behalve degene die berouw toont en gelooft en goede daden verricht. Voor diegene
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Met uitzondering van hen die berouw hebben en geloven en goede daden doen, voor dezulken zal Allah de slechte daden in goede daden veranderen, want Allah is Vergevensgezind, Barmhartig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

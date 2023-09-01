@@ -986,7 +986,7 @@ Voorwaar, degenen die niet in Allah en de I.aatste Dag geloven vragen jou om vri
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alleen degenen, die niet in Allah en de laatste Dag geloven en wier hart vol twijfel is, zullen u vragen om te worden vrijgesteld daar zij aarzelen in hun twijfel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

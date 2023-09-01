@@ -986,7 +986,7 @@ En voorzeker, Wij hebben Nôeh tot zijn volk gezonden. Toen zei hij: "O mijn vol
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij zonden Noach tot zijn volk, en hij zeide: 'O mijn volk, dien Allah. Gij hebt geen andere God buiten Hem. Wilt gij dan niet vrezen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Toen aanvaardde haar Heer haar vriendelijk en deed haar goed opgroeien. En Hij s
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarom nam haar Heer haar (Maria) met welbehagen aan en deed haar goed opgroeien en vertrouwde haar aan Zacharia toe. Telkens, wanneer Zacharia bij haar in de kamer ging, vond hij voedsel bij haar. Hij zeide: 'O, Maria, waar hebt gij dit vandaan?' Zij antwoordde: 'Het komt van Allah.' Voorzeker, Allah geeft volop aan wie Hij wil
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

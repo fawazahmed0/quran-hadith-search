@@ -986,7 +986,7 @@ Is er geen leiding voor hen in hoeveel generaties Wij vóór hen hebben vernieti
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Komen zij niet tot inzicht (door het feit) dat Wij zovele geslachten v��r hen hebben vernietigd in wier woonplaatsen zij nu rondlopen? Daarin zijn zeker tekenen. Willen zij dan niet luisteren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

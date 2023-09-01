@@ -986,7 +986,7 @@ Zie jij niet dat Allah weet wat er in de hemelen en op de aarde is? Er is geen g
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ziet gij niet, dat Allah alles weet wat in de hemelen en op aarde is? Er is geen geheim gesprek van drie (personen) zonder dat Hij de vierde is, noch van vijf, zonder dat Hij de zesde is, noch van minder noch van meer, zonder dat Hij met hen is, waar zij ook mogen zijn. Dan zal Hij hun op de Dag der Opstanding mededelen wat zij deden. Voorzeker, Allah heeft kennis van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

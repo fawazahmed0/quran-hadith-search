@@ -986,7 +986,7 @@ Als zij jou dan loochenen, zeg dan: "Jullie Heer is de Bezitter van Alomvattende
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien zij u verloochenen zeg: 'Uw Heer is de Heer der alomvattende Barmhartigheid doch Zijn straf zal van het schuldige volk niet worden afgewend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

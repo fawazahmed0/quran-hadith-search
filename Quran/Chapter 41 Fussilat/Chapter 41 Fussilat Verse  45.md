@@ -986,7 +986,7 @@ En voorzeker, Wij hebben Môesa de Schrift (de Taurât) gegeven, maar er werd ov
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij gaven Mozes het Boek, maar men verschilde er over van mening; en indien het woord van uw Heer er niet aan was voorafgegaan zou er zeker over hen geoordeeld zijn, want waarlijk zij verkeerden er in een verontrustende twijfel over
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

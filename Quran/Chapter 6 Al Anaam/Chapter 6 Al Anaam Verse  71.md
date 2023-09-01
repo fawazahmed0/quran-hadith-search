@@ -986,7 +986,7 @@ Zeg: "Roepen wij dat naast Allah aan dat ons geen goed kan doen en ons geen scha
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Zullen wij naast Allah datgene aanroepen wat ons noch bevoordelen noch schaden kan, dan worden wij, nadat Allah ons heeft geleid, van het rechte pad verwijderd, zoals iemand die de bozen hebben neergeveld op de aarde in een toestand van verbijstering en die metgezellen heeft die hem tot de weg roepen, zeggende: ´Kom tot ons´?' Zeg: 'De leiding van Allah is voorzeker de enige leiding en het is ons bevolen ons aan de Heer der Werelden te onderwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

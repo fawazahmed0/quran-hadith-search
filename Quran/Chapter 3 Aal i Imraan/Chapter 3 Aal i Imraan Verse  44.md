@@ -986,7 +986,7 @@ Dat zijn berichten over het verborgene die wij aan jou (O Moehammad) mededelen. 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dit is een van de tijdingen van het ongeziene, die wij u openbaren. En gij waart niet bij hen toen zij lootten (om te zien), wie hunner de voogd van Maria zou zijn, noch waart gij bij hen, toen zij met elkander redetwistten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

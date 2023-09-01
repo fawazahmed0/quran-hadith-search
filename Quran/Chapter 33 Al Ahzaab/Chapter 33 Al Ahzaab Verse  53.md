@@ -986,7 +986,7 @@ O jullie die geloven, gaat de huizen van de Profeet niet binnen, behalve als jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft! Gaat de huizen van de profeet niet binnen tenzij gij uitgenodigd wordt tot een maaltijd, doch niet wachtend tot deze gereed is. Wanneer gij zijt uitgenodigd, komt dan binnen; en wanneer gij gegeten hebt vertrekt dan en blijft niet praten. Dat is lastig voor de profeet; hij is verlegen voor u, maar Allah aarzelt niet om de waarheid (te zeggen). En als gij haar (zijn vrouwen) om iets vraagt, vraagt het dan van achter het gordijn. Dat is reiner voor uw hart en haar hart. En het past u niet de boodschapper van Allah lastig te vallen, noch dat gij ooit zijn vrouwen na hem zoudt huwen. Dat zou in de ogen van Allah inderdaad een grote (belediging) zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

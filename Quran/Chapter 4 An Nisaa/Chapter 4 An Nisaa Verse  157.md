@@ -986,7 +986,7 @@ En (wegens) hun uitspraak "Wij hebben de Masîh 'Isa, zoon van Maryam, gedood." 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En om hun zeggen: 'Wij hebben de Messias, Jezus, zoon van Maria, de boodschapper van Allah gedood', - maar zij doodden hem niet, noch kruisigden zij hem (ten dode), - doch het werd hun verward, en zij, die hierover van mening verschilden zijn zeker in twijfel, zij hebben er geen kennis van doch volgen slechts een vermoeden en zij doodden hem gewis niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

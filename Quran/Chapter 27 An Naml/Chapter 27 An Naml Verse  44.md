@@ -986,7 +986,7 @@ Er werd tegen haar gezegd: "Treed het paleis binnen." Toen zij het zag, dacht zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er werd tot haar gezegd 'Ga het paleis binnen.' En toen zij het zag, dacht zij dat het een massa water was, en zij raakte in verwarring. Hij zeide: 'Het is een paleis dat geplaveid is met glas.' Zij zeide: 'Mijn Heer, ik heb mijn ziel inderdaad onrecht aangedaan; en ik onderwerp mij met Salomo aan Allah, de Heer der Werelden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

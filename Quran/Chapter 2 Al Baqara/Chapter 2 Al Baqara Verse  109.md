@@ -986,7 +986,7 @@ Velen onder de lieden van de schrift wensen dat zij jullie, nadat jullie tot gel
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Velen van de mensen van het Boek, wensen, nadat gij gelovig geworden zijt, u uit afgunst weder tot ongelovigen te maken, nadat de Waarheid hun is duidelijk geworden. Maar vergeeft en weest toegefelijk totdat Allah Zijn gebod uitbrengt. Voorzeker, Allah heeft macht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

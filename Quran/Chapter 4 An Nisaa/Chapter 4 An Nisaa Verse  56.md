@@ -986,7 +986,7 @@ Voorwaar, degenen die niet in Onze Tekenen geloven zullen Wij in het vuur (de He
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gewis, degenen die Onze tekenen verwerpen zullen Wij weldra het Vuur doen binnengaan. Wij zullen hen telkens, wanneer hun huiden zijn verbrand, andere huiden er voor in de plaats geven; opdat zij de straf ten volle zullen ondergaan. Waarlijk, Allah is Almachtig, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

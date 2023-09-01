@@ -986,7 +986,7 @@ Voorwaar, gelovig aan Onze Verzen zijn slechts degenen die, wanneer zij ermee ve
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Slechts zij geloven in Onze tekenen, die, wanneer zij er aan herinnerd worden, zich met het gelaat ter aarde werpen en hun Heer verheerlijken met de lof die Hem toekomt, en die niet hoogmoedig zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

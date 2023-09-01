@@ -986,7 +986,7 @@ Hij is Degene Die Zijn Boodschapper heeft gezonden met de Leiding en de ware god
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het Die Zijn boodschapper heeft gezonden met leiding en de godsdienst der Waarheid, opdat hij deze moge doen zegevieren over alle andere godsdiensten, al zijn de afgodendienaren er afkerig van
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

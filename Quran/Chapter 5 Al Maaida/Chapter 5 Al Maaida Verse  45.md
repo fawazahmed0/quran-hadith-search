@@ -986,7 +986,7 @@ En Wij hebben daarin voor hen voorgeschreven: dat een ziel voor een ziel, een oo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij schreven hen daarin voor: Een leven voor een leven, oog om oog, neus om neus, oor om oor, tand om tand en (rechtvaardige) vergelding voor wonden. En hij, die van het recht hierop afziet, dit zal een verzoening voor zijn zonden zijn en wie niet rechtspreken bij hetgeen Allah heeft nedergezonden, zijn onrechtvaardigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Wees daarom geduldig, zoals de bezitters van standvastigheid (Oeloel'azmi) onder
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wees daarom geduldig (o profeet) zoals de boodschappers, die mannen van karaktervastheid waren, en wees omtrent hen niet haastig. De Dag, waarop zij zullen zien waarmede zij worden bedreigd, zal het hun toeschijnen alsof zij slechts een uur van een dag hadden geleefd (in deze wereld). De verkondiging is aan u en niemand wordt vernietigd dan het overtredende volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

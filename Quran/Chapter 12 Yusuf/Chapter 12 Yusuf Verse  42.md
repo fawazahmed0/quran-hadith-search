@@ -986,7 +986,7 @@ En bij zei tegen de andere, van wie hij dacht dat hij gered zou worden: "Noem mi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hij zeide tot degene van hen, van wie hij wist dat hij bevrijd zou worden: 'Vermeld mij bij uw heer.' Maar Satan deed hem vergeten het aan zijn heer te zeggen daarom bleef hij voor enige jaren in de gevangenis
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

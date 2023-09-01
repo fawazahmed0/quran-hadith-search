@@ -986,7 +986,7 @@ En degenen die geloven zeggen (tegen hun vijanden over de hypocrieten): "Zijn zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de gelovigen zullen zeggen: 'Zijn dit degenen die met hun ernstige eden bij Allah zwoeren dat zij waarlijk met u waren?' Hun werken zijn verloren gegaan en zij zijn verliezers geworden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

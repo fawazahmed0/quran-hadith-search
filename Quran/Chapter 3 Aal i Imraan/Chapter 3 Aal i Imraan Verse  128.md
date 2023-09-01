@@ -986,7 +986,7 @@ Het het is jouw zaak niet aan of Hij hun berouw aanvaardt of Hij hen bestraft, w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij hebt met de zaak niets uitstaande: Hij (Allah) moge Zich in barmhartigheid tot hen wenden of hen straffen, voorzeker zij zijn de boosdoeners
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

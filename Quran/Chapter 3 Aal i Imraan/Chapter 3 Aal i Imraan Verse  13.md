@@ -986,7 +986,7 @@ Er is waarlijk reeds vóór jullie een Teken geweest in de twee groepen (legers)
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker was er voor u een teken in de twee legers die elkander ontmoetten, het ene leger vechtend voor de zaak van Allah en het andere ongelovig, dezen zagen de anderen voor hun eigen ogen dubbel zo talrijk als zijzelf. En Allah versterkt met Zijn hulp, wie Hij wil. Daarin is zeker een les voor hen, die ogen hebben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

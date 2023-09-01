@@ -986,7 +986,7 @@ Is het bericht over degenen die vroeger ongelovig waren niet tot jullie gekomen?
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Heeft het verhaal u niet bereikt van degenen die vroeger ongelovig waren? Zo ondergingen zij het kwade gevolg van hun gedrag, en hen wacht een pijnlijke straf
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

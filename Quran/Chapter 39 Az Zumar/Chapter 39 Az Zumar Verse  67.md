@@ -986,7 +986,7 @@ En zij achten Hem niet met de achting die Hem toekomt, terwijl Hij de gehele aar
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij waarderen Allah niet volgens Zijn Waardigheid. De gehele aarde zal in Zijn greep zijn op de Dag der Opstanding, en de hemelen zullen worden opgerold in Zijn hand. Glorie zij Hem en verheven is Hij boven hetgeen zij met Hem vereenzelvigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

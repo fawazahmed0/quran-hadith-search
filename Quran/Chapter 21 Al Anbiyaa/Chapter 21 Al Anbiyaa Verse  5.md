@@ -986,7 +986,7 @@ Zij (de ongelovigen) zeggen zelfs: "Het verwardste gedroom is (deze Koran), hij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Neen,' zeggen zij, 'verwarde dromen; neen, hij heeft het verzonnen; neen, hij is een dichter. Laat hem ons een teken brengen zoals de vroegere (profeten) dit hebben gebracht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

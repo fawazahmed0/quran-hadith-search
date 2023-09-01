@@ -986,7 +986,7 @@ Terwijl reeds aan jou en aan degenen vóór jou is geopenbaard: "Als jij deelgen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voorwaar, aan u zoals aan hen die v��r u waren, is geopenbaard: 'Als gij deelgenoten aan God toeschrijft, zal uw werk stellig vruchteloos blijken en gij zult zeker tot de verliezers behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

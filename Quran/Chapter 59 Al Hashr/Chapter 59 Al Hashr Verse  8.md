@@ -986,7 +986,7 @@ Ook behoort een deel aan de arme Mohajerin die van hunne huizen en hunne bezitti
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Een deel behoort aan de arme vluchtelingen die van hun huizen en hun eigendommen zijn verdreven, terwijl zij de genade van Allah en Zijn welbehagen zochten en Allah en Zijn boodschapper hielpen; dit zijn de waarachtigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

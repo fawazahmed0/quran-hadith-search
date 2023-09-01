@@ -986,7 +986,7 @@ O mensen! Er wordt eren vergelijking gemaakt, luistert ernaar! Voorwaar, degenen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O mensen, een gelijkenis wordt gegeven, luistert er naar. Voorzeker, degenen die grij in plaats van Allah aanbidt kunnen zelfs geen vlieg scheppen, al zouden zij daar allen toe samenwerken. En indien een vlieg iets van hen zou wegnemen, zouden zij dat niet kunnen terugnemen. Zwak is zowel de zoeker als de gezochte
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

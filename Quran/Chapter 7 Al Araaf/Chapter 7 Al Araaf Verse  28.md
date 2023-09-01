@@ -986,7 +986,7 @@ En wanneer zij een gruweldaad bedrijven, dan zeggen zij: "Wij troffen dit bij on
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer zij een slechte daad begaan, zeggen zij: 'Wij zagen dit onze vaderen doen en Allah heeft het ons bevolen.' Zeg: 'Allah legt nooit slechte daden op. Zegt gij van Allah, hetgeen gij niet weet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

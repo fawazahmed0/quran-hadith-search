@@ -986,7 +986,7 @@ O jullie die geloven: voorwaar, de veelgodenaanbidders zijn onrein. Laat hen daa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, de afgodendienaren zijn voorzeker onrein. Zij zullen daarom na (verloop van) dit jaar de heilige Moskee niet naderen. En als gij armoede vreest, zal Allah u als Hij wil, uit Zijn overvloed verrijken. Voorzeker, Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

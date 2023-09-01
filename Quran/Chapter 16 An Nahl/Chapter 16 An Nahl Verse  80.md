@@ -986,7 +986,7 @@ En Allah maakte voor jullie jullie huizen tot plaatsen om uit te rusten en Hij m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Allah heeft van uw huizen een rustplaats voor u gemaakt, ook heeft Hij van de huiden van het vee woonplaatsen voor u gemaakt die gij licht vindt, op de tijd waarop gij reist en op de tijd waarop gij halt maakt; en van hun wol, hun vachten en hun haar maakt gij meubelen en gebruiksartikelen, voor een (bepaalde) tijd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Wie dan met jou (Mohammed) over ('Îsa) redetwist, nadat de kennis tot jou is ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zou men nu met u over hem (Jezus) redetwisten, nadat de kennis tot u gekomen is, zeg dan: 'Kom, laat ons onze kinderen en uw kinderen en onze vrouwen en uw vrouwen en ons volk en uw volk roepen; laat ons daarna vurig bidden en de vloek van Allah roepen over degenen, die liegen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Allah is Degene Die de winden zendt die dan wolken voortdrijven, waarna Hij hen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is Allah, Die de winden zendt welke de wolken doen oprijzen. Dan verspreidt Hij ze in de lucht zoals Hij wil, dan hoopt Hij ze laag boven laag op en gij ziet regen uit hun midden stromen. En wanneer Hij deze doet vallen op wie van Zijn dienaren Hij wil, ziet! verheugen zij zich
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

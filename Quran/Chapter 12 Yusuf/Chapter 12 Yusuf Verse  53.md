@@ -986,7 +986,7 @@ Ik verklaar dat ikzelf niet onschuldig ben. Voorwaar, de ziel spoort aan tot het
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En ik verklaar mijzelf niet vrij (van zwakheid) te zijn, want het menselijke, ik´ spoort tot het kwade aan, uitgezonderd dat waarover mijn Heer barmhartigheid betoont. Voorzeker, mijn Heer is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

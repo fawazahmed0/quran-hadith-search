@@ -986,7 +986,7 @@ En toen wij optrokken tegen Djâlôet en zijn legers, zeiden zij: "Onze Heer, sc
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen zij uitgingen om Djaloet en zijn strijdkrachten te ontmoeten, zeiden zij: 'Onze Heer, stort geduld over ons uit en maak onze voetstappen vast en help ons tegen het ongelovige volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

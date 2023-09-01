@@ -986,7 +986,7 @@ Was er maar een stad geweest, naast die van het volk van Yôenoes, die geloofde,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarom heeft, behalve het volk van Jonas geen stad geloofd, zodat hun geloof hen zou hebben kunnen helpen? Toen zij geloofden, verwijderden Wij de straf der schande in het tegenwoordige leven van hen en Wij lieten hen voor een wijle genieten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

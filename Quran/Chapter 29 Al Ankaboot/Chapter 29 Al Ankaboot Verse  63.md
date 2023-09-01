@@ -986,7 +986,7 @@ En als jij hun vraagt wie uit de hemel water doet neerkomen en dan de aarde daar
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als gij hun vraagt: 'Wie zendt water uit de hemel neder en geeft er leven door aan de aarde na haar dood?', zullen zij gewis zeggen: 'Allah'. Zeg: 'Alle roem behoort aan Allah.' Maar de meesten hunner begrijpen het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

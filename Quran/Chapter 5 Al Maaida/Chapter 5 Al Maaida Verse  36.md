@@ -986,7 +986,7 @@ Voorwaar, indien degenen die ongelovig zijn alles op aarde zouden hebben en het 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, al hadden de ongelovigen al hetgeen op aarde is en nog eens zoveel, om zich daarmede van de straf op de Dag der Opstanding vrij te kopen, dan zou het van hen toch niet worden aanvaard; er wacht hen een pijnlijke straf
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

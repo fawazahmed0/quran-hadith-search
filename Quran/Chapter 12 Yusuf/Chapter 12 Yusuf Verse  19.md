@@ -986,7 +986,7 @@ En er kwam een groep reizigers, en zijstuurden hun waterdrager, en hij liet zijn
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er kwam een karavaan langs en deze zond een waterputter, die zijn emmer nederliet. 'O, goed nieuws,' zeide hij. 'Hier is een jongeling.' En zij verborgen hem als een stuk koopwaar en Allah wist goed, wat zij deden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

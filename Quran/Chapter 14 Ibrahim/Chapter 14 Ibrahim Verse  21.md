@@ -986,7 +986,7 @@ En zij verschijnen allen voor Allah, en de zwakken zullen dan tot degenen die ho
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zullen allen voor Allah verschijnen, dan zullen de zwakken tot de hoogmoedigen zeggen: 'Wij waren voorzeker uw volgelingen; kunt gij ons dan tegen Allah´s straf niet helpen?' Zij zullen zeggen: 'Als Allah ons had geleid, hadden wij u zeker geleid. Het is voor ons gelijk of wij ongeduld tonen of wel geduldig blijven, want er is voor ons geen toevlucht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En wie dood was, en die Wij daarna tot leven brachten en voor wie Wij een licht 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is hij, die dood was en wie Wij het leven gaven en voor wie Wij een licht maakten waardoor hij onder de mensen wandelt, gelijk aan hem, wiens toestand zodanig is dat hij in de duisternissen verblijft waaruit hij niet kan wegkomen? Zo werd voor de ongelovigen schoonschijnend gemaakt hetgeen zij deden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

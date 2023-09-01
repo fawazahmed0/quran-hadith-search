@@ -986,7 +986,7 @@ Is iemand die weet dat wat een jou is neergezonden van jouw Heer de Waarheid is,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is dan hij die weet, dat hetgeen u van uw Heer is geopenbaard de waarheid is, gelijk aan hem die blind is? Alleen degenen die met begrip zijn begiftigd trekken er lering uit
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

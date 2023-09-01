@@ -986,7 +986,7 @@ Toen zij met hem weggingen en overeenkwamen om hem op de bodem van de put te wer
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen zij hem medenamen, kwamen zij overeen hem op de bodem van een diepe put neer te laten en Wij zonden hem een openbaring: 'Gij; zult hun van deze zaak vertellen zonder dat zij het beseffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

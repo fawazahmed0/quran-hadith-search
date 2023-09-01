@@ -986,7 +986,7 @@ Zij zeiden: "Ben jij tot ons gekomen opdat Wij Allah ah Enige aanbidden en verla
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'Zijt gij tot ons gekomen opdat wij Allah alleen moeten aanbidden en de goden die onze vaderen aanbaden zullen verlaten? Breng ons dan hetgeen waarmede gii ons bedreigt, als gij oprecht zigt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

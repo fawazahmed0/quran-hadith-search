@@ -986,7 +986,7 @@ Zij zijn degenen voor wie er in het lliernamaals niets dan de Hel is, en vruchte
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dezen zijn degenen, die in het Hiernamaals niets dan het Vuur zullen ontvangen en hetgeen zij in dit leven verrichtten zal teniet gaan en hetgeen zij doen is vergeefs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

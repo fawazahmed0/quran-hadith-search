@@ -986,7 +986,7 @@ En jullie kunnen je er niet voor verbergen dat jullie oren, en jullie ogen en ju
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij waart niet in staat u te verschuilen, opdat uw oren, uw ogen en uw huiden geen getuigenis tegen u zouden afleggen, maar gij dacht, dat Allah onbekend was met het geen gij deedt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

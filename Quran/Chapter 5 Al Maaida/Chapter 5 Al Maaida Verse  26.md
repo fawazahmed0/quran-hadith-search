@@ -986,7 +986,7 @@ Hij (Allah) zei: "Het is daarom dat (het land) voor veertig jaren voor hen verbo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah zeide: 'Voorzeker, dat (land) is voor hen voor veertig jaren verboden; dwalende zullen zij door het land trekken. Bekommer u daarom niet over het ongehoorzame volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

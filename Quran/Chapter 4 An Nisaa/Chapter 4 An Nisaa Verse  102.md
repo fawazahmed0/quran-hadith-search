@@ -986,7 +986,7 @@ En als jij bij hen bent (O Moehammad) en de shalât met hen verricht, laat dan e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer gij in hun midden zijt en het gebed voor hen leidt, laat een deel hunner bij u staan en hun wapenen meenemen. En wanneer zij hun prostratie hebben verricht, laat hen achter u gaan en laat die andere groep, die nog niet gebeden heeft naar voren komen en met u bidden en laat hen hun afweermiddelen en wapenen medenemen. De ongelovigen wensen, dat gij onachtzaam wordt op uw wapenen en uw bagage, zodat zij u plotseling overvallen. En als gij uw wapenen opzij legt indien de regen u stoort, of indien gij ziek zijt, zal dat voor u geen zonde zijn. Maar gij dient uw afweermiddelen steeds mede te nemen. Voorzeker, Allah heeft voor de ongelovigen een vernederende straf bereid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

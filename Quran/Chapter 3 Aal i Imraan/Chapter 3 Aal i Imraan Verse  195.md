@@ -986,7 +986,7 @@ En hun Heer heeft hun (smeekbede) verhoort, (zeggend:) "Voorwaar, Ik doe het wer
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hun Heer verhoorde hen, zeggende: 'Ik zal het werk van iedere werker onder u, hetzij man of vrouw, niet verloren doen gaan. - Gij behoort tot elkander. - En Ik zal van hen, die hun land verlieten en van hun huizen zijn verjaagd en voor Mijn zaak zign vervolgd en die hebben gevochten en zijn gedood, de fouten zeker bedekken en zal hen tuinen doen binnengaan, waar doorheen rivieren stromen: een beloning van Allah en bij Allah is de beste beloning
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

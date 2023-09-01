@@ -986,7 +986,7 @@ Hij zei: "Er zal geen voedsel tot jullie komen ah levensvoorziening" of ik zal j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij antwoordde: 'Het voedsel, dat u wordt gegeven, zal niet tot u komen, voordat ik u de verklaring er van heb gegeven. Dit is naar aanleiding van hetgeen mijn Heer mij heeft onderwezen. Ik heb van de godsdienst van het volk dat niet in Allah en in het Hiernamaals gelooft, afstand gedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

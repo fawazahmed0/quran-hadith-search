@@ -986,7 +986,7 @@ Voorwaar, Allah houdt de hemelen en de aarde vast, zodat zij niet vergaan; en ze
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, Allah houdt de hemelen en de aarde in stand opdat zij niet vergaan. En indien zij uit elkaar zouden vallen, zou niemand buiten Hem ze bij elkander kunnen houden. Voorwaar, Hij is Verdraagzaam, Vergevensgezind
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

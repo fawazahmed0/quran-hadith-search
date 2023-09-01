@@ -986,7 +986,7 @@ En Hij maakte bergen op haar en Hij zegende haar en Hij bepaalde de maat (van al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij heeft de bergen daarop gesteld en heeft deze gezegend en er op (de aarde) de voedingsmiddelen bepaald, in vier dagen, gelijkelijk voor de zoekenden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

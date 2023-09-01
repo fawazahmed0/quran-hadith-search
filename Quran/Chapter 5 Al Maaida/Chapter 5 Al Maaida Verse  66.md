@@ -986,7 +986,7 @@ En als zij zich aan de Taurât vastgehouden hadden en aan de Indjil en aan wat h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als zij de Torah en het Evangelie en hetgeen hun van hun Heer is nedergezonden, in acht hadden genomen, zouden zij zeker van wat boven hen is en van hetgeen onder hun voeten is, hebben gegeten. Onder hen is een groep die matig is, maar de handelwijze van velen hunner is slecht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

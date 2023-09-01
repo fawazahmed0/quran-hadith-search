@@ -986,7 +986,7 @@ En wanneer tegenslag de mens treft, dan roept hij Ons aan, liggend, zittend of s
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer de mens een moeilijkheid overkomt, bidt hij tot Ons, op zijn zijde liggende, of zittende, of staande, maar wanneer Wij zijn last van hem hebben verwijderd, gaat hij zijn gang, alsof hij Ons nooit v��r de verwijdering van zijn moeilijkheid had aangeroepen. Zo werd in de ogen der buitensporigen schoonschijnend gemaakt, wat zij deden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

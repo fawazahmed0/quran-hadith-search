@@ -986,7 +986,7 @@ O jullie die geloven, neemt geen volk waarop Allah vertoornd is tot vrienden. Wa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij die gelooft, bevriendt u niet met een volk op hetwelk Allah vertoornd is; zij wanhopen aan het Hiernamaals zoals de ongelovigen wanhopen aan hen, die in de graven liggen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Acht, in paren: van de schapen een koppcl en van de geiten een koppel. Zeg (O Mo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Acht, in paren: Twee van de schapen en twee van de geiten. Zeg: 'Zijn het de twee mannelijke dieren, die Hij heeft verboden, of de twee vrouwelijke dieren, ofwel, hetgeen de baarmoeders der twee vrouwelijke dieren bevatten? Onderricht mij met zekerheid, indien gij waarachtig zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

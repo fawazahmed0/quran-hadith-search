@@ -986,7 +986,7 @@ Nee, zij loochenden zelfs de kennis over hem (de Koran), die zij niet kunnen bev
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Neen, zij loochenen datgene waarvan zij de kennis niet konden omvatten, noch is de uiteindelijke betekenis er van tot hen gekomen. Zo deden ook degenen, die v��r hen waren. Maar ziet, wat het einde was van de overtreders
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

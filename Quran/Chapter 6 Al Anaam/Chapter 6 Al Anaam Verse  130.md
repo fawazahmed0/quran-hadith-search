@@ -986,7 +986,7 @@ O gemeenschap van djinn's en mensen. zijn er uit jullie midden geen gezanten tot
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gezelschap van djinn en mensen. Kwamen er niet uit uw midden boodschappers tot u die u Mijn tekenen verhaalden en die u voor de ontmoeting van deze Dag waarschuwden? Zij zullen zeggen: 'Wij getuigen tegen onszelven.' Het wereldse leven bedroog hen. En zij zullen tegen zichzelf getuigen, dat zij ongelovigen waren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En toen de metgezellen zeiden: "O 'Isa, zoon van Maryam, ben jij in staat om jou
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen de discipelen zeiden: 'O, Jezus, zoon van Maria, is uw Heer bij machte, ons een (met voedsel) gedekte tafel van de hemel neder te zenden?', antwoordde hij: 'Vreest Allah, als gij gelovigen zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

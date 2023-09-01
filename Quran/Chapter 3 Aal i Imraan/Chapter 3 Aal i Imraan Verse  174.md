@@ -986,7 +986,7 @@ En zij keerden terug (van de oorlog) met de genieting van Allah en (Zijn) Gunst:
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarom keerden zij met de gunst en genade van Allah terug, geen kwaad had hen aangeraakt en zij volgden Allah´s welbehagen; en Allah is de Heer van grote overvloed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

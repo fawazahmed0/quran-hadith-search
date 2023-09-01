@@ -986,7 +986,7 @@ Hij is degene die jullie (zielen) in de nacht wegneemt en Hij weet wat jullie ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die uw ziel in de nacht neemt en weet hetgeen gij overdag doet; daarna wekt Hij u weder op, opdat de vastgestelde termijn moge worden voltooid. Dan is uw terugkeer tot Hem. Daarna zal Hij u inlichten over hetgeen gij deedt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

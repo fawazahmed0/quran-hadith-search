@@ -986,7 +986,7 @@ Voorwaar, Hij heeft jullie het kadaver en het bloed en het vlees van het varken 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij heeft alleen het gestorvene, bloed, varkensvlees en hetgeen waarover de naam van een ander dan Allah is aangeroepen voor u verboden. Maar voor hem, die door noodzaak wordt gedreven (om te eten) terwijl hij niet wil, noch de grens wil overschrijden, is Allah voorzeker Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hij (Allah) zei: "Daal af uit het (Paradijs), want het past jou niet dat jij je 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Allah) zeide: 'Verwijder u van hier - het is niet aan u, hier hoogmoedig te zijn. Ga heen, gij behoort stellig tot degenen, die vernederd zullen worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

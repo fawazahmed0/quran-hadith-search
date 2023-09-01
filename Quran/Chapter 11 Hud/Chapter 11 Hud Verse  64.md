@@ -986,7 +986,7 @@ En: "O mijn volk, dit is een vrouwteskameel van Allah, als een Teken voor jullie
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En o, mijn volk, dit is de kamelin van Allah als teken voor u; laat haar daarom met rust opdat zij zich (in vrijheid) op Allah´s aarde moge voeden en doe haar geen kwaad, anders zal de eerste de beste straf u treffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

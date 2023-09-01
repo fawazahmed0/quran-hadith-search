@@ -986,7 +986,7 @@ Zij zeggen: "Als wij naar Medinah terugkeren, dan zal het sterke zeker het zwakk
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeggen: 'Als wij naar Madinah terugkeren zal de aanzienlijkste er zeker de minste uitdrijven;' maar eer behoort aan Allah, Zijn boodschapper en de gelovigen; de huichelaars echter weten het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

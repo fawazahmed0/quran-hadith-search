@@ -986,7 +986,7 @@ En de gelovige mannen en de gelovige vrouwen zijn elkaars helpers, zij roepen op
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de gelovigen, mannen en vrouwen, zijn vrienden van elkander. Zij sporen aan tot het goede en verbieden het kwade en houden het gebed en betalen de Zakaat en gehoorzamen Allah en Zijn boodschapper. Dezen zijn het, wie Allah barmhartigheid zal betonen. Voorzeker, Allah is Almachtig, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

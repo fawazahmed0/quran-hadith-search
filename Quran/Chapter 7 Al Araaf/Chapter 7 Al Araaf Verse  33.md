@@ -986,7 +986,7 @@ Zeg: "Mijn Heer heeft slechts de zedeloosheden verboden, wat er openlijk van is 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Mijn Heer heeft slechte daden, hetzij openlijk of in het geheim verboden en zonde en ongerechtvaardigde opstand; en dat gij datgene met Allah vereenzelvigt, waarvoor Hij u geen gezag heeft nedergezonden en dat gij van Allah dingen zegt, die gij niet weet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

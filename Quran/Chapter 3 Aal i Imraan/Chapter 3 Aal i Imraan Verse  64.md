@@ -986,7 +986,7 @@ Zeg: "O Lieden van de Schrift, komt tot een gelijkluidend woord tussen ons en ju
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'O, mensen van het Boek, komt tot ��n woord, waarin wij met elkander overeenstemmen: dat wij niemand dan Allah aanbidden en dat wij niets met Hem vereenzelvigen en dat sommigen onzer geen anderen tot goden nemen, buiten Allah.' Maar, als zij zich afwenden, zegt dan: 'Getuigt, dat wij Moslims zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

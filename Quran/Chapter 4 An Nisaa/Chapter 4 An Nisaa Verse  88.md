@@ -986,7 +986,7 @@ En hoe is het dat er bij jullie twee groepen zijn ten aanzien van de huichelaars
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarom zijt gij betreffende de huichelaars (in) twee partijen (verdeeld)? Allah heeft hen neergeslagen wegens hetgeen zij verdienden. Wenst gij hen te leiden, die Allah te gronde deed gaan? En voor hen, die Allah doet dwalen, zult gij geen uitweg vinden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

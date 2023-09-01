@@ -986,7 +986,7 @@ Zeg: "Wij geloven in Allah en in wat er tot ons neergezonden is en in wat er nee
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Wij geloven in Allah en in hetgeen ons werd geopenbaard en hetgeen werd geopenbaard aan Abraham, Isma�l, Iza�k, Jacob, en de stammen en hetgeen aan Mozes en Jezus en de profeten door hun Heer werd gegeven. Wij maken geen onderscheid tussen wie dan ook van hen. Aan Hem alleen onderwerpen wij ons
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

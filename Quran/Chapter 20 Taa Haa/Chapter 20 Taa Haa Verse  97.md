@@ -986,7 +986,7 @@ Hij (Môesa) zei: "Ga dan maar heen. Voorwaar, voor jou is er in het leven, dat 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mozes zeide: 'Ga dan heen, gedurende heel uw leven zult gij zeggen: ´Raak mij niet aan,´ en bovendien is er voor u een straf (bereid) waaraan gij niet zult ontkomen. Aanschouw thans uw god waarvan gij een toegewijd aanbidder zijt geworden. Wij zullen hem verbranden en daarna in zee strooien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

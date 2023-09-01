@@ -986,7 +986,7 @@ Zie jij niet dat Allah de wolken voortdrijft en hen dan bij elkaar voegt en hen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij niet gezien dat Allah de wolken voortdrijft, ze dan verzamelt en daarna ophoopt zodat gij regen uit hun midden ziet voortkomen? En Hij zendt van de hemel neder (wolken als) bergen waarin zich hagel bevindt en Hij treft daarmee wie Hij wil en wendt het af van wie Hij wil. De glans van de bliksem neemt het gezicht bijna weg
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

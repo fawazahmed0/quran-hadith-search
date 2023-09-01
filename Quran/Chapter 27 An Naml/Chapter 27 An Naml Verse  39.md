@@ -986,7 +986,7 @@ Een Ifrît van de Djinn's zei: "Ik zal hem naar jou brengen voordat jij van jouw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Een dappere van de djinn zeide: 'Ik zal deze tot u brengen voordat gij van uw kamp opstaat en zeker heb ik daar macht over en ik ben betrouwbaar
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

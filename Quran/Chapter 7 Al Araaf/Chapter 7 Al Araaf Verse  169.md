@@ -986,7 +986,7 @@ En na hen kwamen er opvolgers die de Schrift (de Taurâh) erfden. Zij namen verg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Na hen kwam er een boos geslacht dat het Boek erfde. Zij namen de goederen van deze wereld en zeiden: 'Het zal ons worden vergeven.' Maar als meer dergelijke goederen tot hen kwamen zouden zij deze ook hebben genomen. Werd de belofte in het Boek, dat zij van Allah slechts de waarheid zouden spreken, niet van hen afgenomen? En hebben zij hetgeen er in staat, niet gelezen? En het tehuis van het Hiernamaals is beter voor degenen, die (God) vrezen. Begrijpt gij dat niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

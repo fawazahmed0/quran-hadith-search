@@ -986,7 +986,7 @@ Werp neer wat in jouw rechterhand is, het zal wat zij wrochtten verslinden. Voor
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Werp hetgeen in uw rechter hand is; het zal wat zij hebben voortgebracht verslinden, want hetgeen zij hebben gemaakt is slechts toverkunst. En een tovenaar slaagt nooit waar hij ook moge komen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

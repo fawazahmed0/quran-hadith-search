@@ -986,7 +986,7 @@ En de ware belofte nabij komt. Dan zullen de blikken van degenen die ongelovig z
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als de ware Belofte nadert, dan ziet, de ogen der ongelovigen zullen verstard zijn. (Zij zullen zeggen): 'O! wee ons, wij waren hier inderdaad onachtzaam over, neen, wij waren onrechtvaardigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

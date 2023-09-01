@@ -986,7 +986,7 @@ Voorwaar, degenen die hun stemmen verzachten in de aanwezigheid van de Boodschap
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, zij die hun stem verzachten in het bijzijn van de boodschapper van Allah, zijn degenen wier hart Allah tot rechtvaardigheid heeft gezuiverd. Voor hen is er vergiffenis en een grote beloning
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

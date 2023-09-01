@@ -986,7 +986,7 @@ Zij zwoeren bij Allah wat zij zeiden, terwijl zij voorzeker het woord van ongelo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zweren bij Allah, dat zij niets zeiden, maar voorzeker zij spraken het woord des ongeloofs en na de Islam te hebben aanvaard, verwierpen zij deze en zij besloten tot hetgeen zij niet konden volbrengen. Zij koesterden haat alleen omdat Allah en Zijn boodschapper hen uit Zijn overvloed hadden verrijkt. Als zij berouw tonen zal het beter voor hen zijn, maar indien zij zich afwenden zal Allah hen met een pijnlijke straf in deze wereld en in het Hiernamaals straffen en zij zullen op aarde vriend noch helper hebben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

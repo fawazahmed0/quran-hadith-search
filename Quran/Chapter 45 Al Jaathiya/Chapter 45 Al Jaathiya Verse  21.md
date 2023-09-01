@@ -986,7 +986,7 @@ Dachten degenen die slechte daden verricht hebben, dat Wij hen hetzelfde zullen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Verbeelden diegenen die slechte daden doen, dat Wij hen zullen behandelen zoals hen, die geloven en goede werken verrichten, zodat hun leven en hun dood gelijk zullen zijn? Verkeerd is hun oordeel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

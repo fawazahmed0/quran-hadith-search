@@ -986,7 +986,7 @@ Hij drinkt het slokje voor slokje, en hij kan het bijna niet doorslikken. En de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zal het met kleine teugen drinken en zal het ternauwernood kunnen slikken. En de dood zal van elke kant tot hem komen en toch zal hij niet sterven. En daarnaast zal er een zware kastijding zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

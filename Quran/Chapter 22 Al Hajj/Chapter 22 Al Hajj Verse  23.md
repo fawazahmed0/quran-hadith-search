@@ -986,7 +986,7 @@ Voorwaar, Allah zal degenen die geloven en goede daden verrichten de Tuinen (het
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Doch Allah zal degenen die geloven en goede werken verrichten tuinen doen binnentreden waardoor rivieren stromen. Zij zullen daarin worden getooid met armbanden van goud en parels, en hun gewaden zullen van zijde zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

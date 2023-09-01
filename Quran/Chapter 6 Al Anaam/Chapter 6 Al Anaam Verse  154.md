@@ -986,7 +986,7 @@ Toen pven wij Môesa de Schrift (de Taurât), ter vervolmaking (van de gunst) vo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij gaven Mozes het Boek, als voltooiing van de gunst aan hem die goed wilde doen en een uitleg van alle dingen en een leidraad en een barmhartigheid, opdat zij in de ontmoeting van hun Heer mochten geloven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

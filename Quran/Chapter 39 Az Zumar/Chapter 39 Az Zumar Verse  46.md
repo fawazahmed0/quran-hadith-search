@@ -986,7 +986,7 @@ Zeg: "O Allah, de Schepper van de hemelen en de aarde, de Kenner van het onwaarn
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'O, Allah! Schepper der hemelen en der aarde! Kenner van het onzichtbare en het zichtbare! Slechts Gij oordeelt onder Uw dienaren over datgene waarin zij verschillen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

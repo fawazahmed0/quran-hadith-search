@@ -986,7 +986,7 @@ En wanneer bij haar de scheiding heeft gegeven dan is zij hem daarna niet (als e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien hij van haar (ten derden male) scheidt, is zij voor hem niet meer geoorloofd, voordat ze een andere echtgenoot heeft gehuwd en indien deze van haar scheidt, zal het voor hen geen zonde zijn, tot elkander terug te keren, indien zij er van overtuigd zijn, dat zij de door Allah voorgeschreven beperkingen in acht zullen nemen. Dit zijn Allah´s bepalingen, welke Hij aan de mensen, die kennis hebben duidelijk maakt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En Wij hebben slechts een Boodschapper gestuurd om gehoorzaamd te worden, met he
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij zenden geen boodschapper of hij moet worden gehoorzaamd volgens Allah´s gebod. Als zij tot u waren gekomen, toen zij hun ziel onrecht hadden aangedaan en Allah om vergiffenis hadden gevraagd en de boodschapper ook om vergiffenis voor hen had gevraagd, zouden zij Allah voorzeker Berouwaanvaardend, Genadevol hebben bevonden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

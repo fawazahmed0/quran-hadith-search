@@ -986,7 +986,7 @@ Zij zeiden: "O Nôeh, je hebt met ons getwist, en je hebt lang met ons getwist, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij antwoordden: 'O Noach, gij hebt inderdaad met ons getwist en veel getwist, breng ons nu de straf waarmede gij ons hebt gedreigd, als gij waarachtig zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En degenen die niet weten, zeiden: Waarom spreekt Allah niet tot ons en waarom k
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de onwetenden zeggen: 'Waarom spreekt Allah niet tot ons, of, komt er geen teken tot ons?' Zo spraken ook degenen, die v��r hen waren. Hun harten zijn aan elkander gelijk. Wij hebben de tekenen voorzeker duidelijk gemaakt, voor een volk, dat standvastig gelooft
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

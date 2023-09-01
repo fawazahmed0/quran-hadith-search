@@ -986,7 +986,7 @@ En (gedenkt) toen jullie zeiden: "O Môesa, wij zullen jou niet geloven totdat w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen gij zeidet: 'O Mozes, wij zullen u geenszins geloven, totdat wij Allah van aangezicht tot aangezicht zien', toen trof u een donderslag, terwijl gij toezaagt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

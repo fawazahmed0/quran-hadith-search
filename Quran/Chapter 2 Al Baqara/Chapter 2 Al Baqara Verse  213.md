@@ -986,7 +986,7 @@ De mensheid was een godsdienst (toegedaan, maar er ontstond oneningheid) waarop 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De mensheid was ��n gemeenschap. Daarna verwekte Allah profeten als brengers van goede tijdingen en als waarschuwers en zond met hen het Boek neder, dat de waarheid bevatte, om onder de mensen te richten over datgene waarin zij verschilden. En niemand verschilde er over, dan degenen aan wie het (Boek) was gegeven, nadat duidelijke tekenen tot hen waren gekomen, - uit afgunst jegens elkander. Dan heeft Allah door Zijn gebod de gelovigen geleid betreffende de waarheid, waarover zij hot oneens waren; en Allah leidt naar het rechte pad, wie Hij wil
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

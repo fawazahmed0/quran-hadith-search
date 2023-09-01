@@ -986,7 +986,7 @@ Zij zijn degenen wiens beloning vergeving van hun Heer is, en Tuinen (het Paradi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dezen zijn het, wier loon vergiffenis is van hun Heer; in tuinen waar doorheen rivieren stromen zullen zij vertoeven; hoe goed is het loon van degenen die werken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

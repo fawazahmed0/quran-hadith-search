@@ -986,7 +986,7 @@ En zijn volk kwam tot hem, zich tot hem haastend. En voorheen plachten zij slech
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zijn volk kwam haastig naar hem toe. Ook voordien plachten zij kwaad te doen. Hij (Lot) zeide: 'O, mijn volk, dit zijn mijn dochters, zij zijn te rein voor u. Vrees daarom Allah en onteer mij niet wegens mijn gasten. Is er onder u geen weldenkend man
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

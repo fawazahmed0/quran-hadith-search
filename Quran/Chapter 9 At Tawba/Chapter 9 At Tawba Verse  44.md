@@ -986,7 +986,7 @@ Degenen die in Allah en de Laatste Dag geloven zullen jou niet om vrijstelling v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen, die in Allah en de laatste Dag geloven zullen u niet om toestemming vragen om te worden vrijgesteld van het strijden met hun bezit en hun persoon. Allah kent de rechtvaardigen goed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

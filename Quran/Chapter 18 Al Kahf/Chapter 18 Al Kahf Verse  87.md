@@ -986,7 +986,7 @@ Hij zei: "Wat betreft degene die onrechtvaardig is: wij zullen hem straffen, waa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zeide: 'Wat betreft degene die kwaad doet, hem zullen wij straffen; daarna zal hij worden teruggebracht tot zijn Heer die hem straffen zal met een gestrengere straf
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

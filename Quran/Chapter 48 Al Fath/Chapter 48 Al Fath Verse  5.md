@@ -986,7 +986,7 @@ Opdat Hij de gelovige mannen en de gelovige vrouwen Tuinen (het Paradijs) zal do
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zodat Hij de gelovige mannen en vrouwen in tuinen moge toelaten waar doorheen rivieren vloeien om daarin te vertoeven, en hun feilen van hen moge wegnemen; dat is in de ogen van Allah de grootste zegepraal
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

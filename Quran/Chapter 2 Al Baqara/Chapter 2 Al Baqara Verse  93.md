@@ -986,7 +986,7 @@ En (gedenkt) toen Wij jullie verbond aanvaardden den Wij de (berg) Thôer boven 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Wij een verbond met U sloten en de berg (Sina�) hoog boven u verhieven, zeggende: 'Houdt stevig vast, hetgeen Wij u gegeven hebben en luistert,' zeiden zij: 'Wij horen, maar wij gehoorzamen niet'; hun hart was vervuld van het kalf, wegens hun ongeloof. Zeg: 'Slecht is hetgeen uw geloof u oplegt, zo gij al enig geloof bezit
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

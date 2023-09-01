@@ -986,7 +986,7 @@ En lees ben de geschiedenis van Noeh voor, toen Hij tot zijn volk zei: "O mijn v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En verkondig hun het verhaal van Noach, toen hij tot zijn volk zeide: 'O, mijn volk, als mijn houding en mijn vermaning door de tekenen van Allah u aanstoot geven - ik leg mijn vertrouwen in Allah - breng dan al uw plannen en uw afgoden bijeen; laat dan uw handelwijze duidelijk blijken, komt dan tegen mij op en geeft mij geen uitstel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

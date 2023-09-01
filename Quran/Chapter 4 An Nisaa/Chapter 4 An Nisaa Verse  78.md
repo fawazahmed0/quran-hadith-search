@@ -986,7 +986,7 @@ Waar jullie je ook bevinden, de dood zal jullie bereiken, al waren jullie in ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waar gij ook zijt, de dood zal u achterhalen, zelfs al waart gij in sterk gebouwde torens. En als hen iets goeds overkomt zeggen zij: 'Dit komt van Allah' en als hen iets kwaads overkomt zeggen zij: 'Dit komt van u' (van de profeet). Zeg: 'Alles komt van Allah'. Wat scheelt deze mensen, dat zij het woord niet willen begrijpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

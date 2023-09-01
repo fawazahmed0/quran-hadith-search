@@ -986,7 +986,7 @@ En wanneer tegenspoed de mens treft, dan roept hij Ons aan; maar wanneer Wij hem
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer nu de mens tegenspoed treft, roept hij Ons aan. Als Wij hem dan Onze gunst bewijzen zegt hij: 'Dit is mij alleen wegens mijn verdiensten geschonken.' Neen, het is slechts een beproeving; maar de meesten onder hen beseffen het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En voor hen die (gezien hun leeftijd) onzeker zijn omtrent de menstruatie van ju
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien gij twijfelt aangaande diegenen uwer vrouwen, die geen menstruatie meer verwachten, haar (wacht) periode is drie maanden, hetzelfde geldt ook voor degenen die haar menstruatie nog niet hebben gehad. En de wachtperiode voor de zwangeren duurt tot zij verlost zijn. En degenen die Allah vrezen, zal Hij van het nodige voorzien door Zijn gebod
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

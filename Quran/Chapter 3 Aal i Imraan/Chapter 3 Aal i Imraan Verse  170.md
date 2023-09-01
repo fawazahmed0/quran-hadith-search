@@ -986,7 +986,7 @@ Zij verheugen zich met wat Allah hen van Zijn gunsten gaf, an zij verheugen zich
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jubelend, over hetgeen Allah hun van Zijn overvloed heeft gegeven, zich verblijdend over degenen die achterbleven, en hen nog niet hebben ingehaald, dat er geen vrees over hen zal komen, noch dat zij zullen treuren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

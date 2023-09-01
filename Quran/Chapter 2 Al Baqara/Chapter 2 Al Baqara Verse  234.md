@@ -986,7 +986,7 @@ En degenen van jullie die worden weggenomen (overlijden) en echtgenoten achterla
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En diegenen uwer, die sterven en vrouwen achterlaten, (hun vrouwen) moeten vier maanden en tien dagen wachten. Wanneer zij het einde der wachtperiode hebben bereikt, zal er op u geen zonde rusten voor hetgeen zij voor zichzelf op behoorlijke wijze doen; Allah weet, wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

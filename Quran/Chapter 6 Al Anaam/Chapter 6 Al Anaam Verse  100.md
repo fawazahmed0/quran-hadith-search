@@ -986,7 +986,7 @@ En zij maakten de Djinn's tot deelgenoten van Allah, hoewel Hij hen schiep en zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij houden de djinn voor deelgenoten van Allah ofschoon Hij dezen schiep; en zij dichten Hem, zonder kennis, zonen en dochters toe. Heilig is Hij en verheven boven hetgeen zij Hem toeschrijven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

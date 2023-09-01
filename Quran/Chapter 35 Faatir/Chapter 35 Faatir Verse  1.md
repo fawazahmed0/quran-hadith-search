@@ -986,7 +986,7 @@ Alle tof zij Allah, de Schepper van de hemelen en de aarde. Hij heeft de Engelen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alle lof komt Allah toe, de Schepper der hemelen en der aarde, Die de engelen tot boodschappers maakt met twee, drie en vier vleugelen. En Hij voegt aan de schepping toe wat Hij wil; want Allah heeft macht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

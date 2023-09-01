@@ -986,7 +986,7 @@ En wanneer Mijn dienaren jou (O Moehammad) vragen stellen over Mij: voorwaar, Ik
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer Mijn dienaren u over Mij vragen, zeg dan: 'Ik ben nabij. Ik verhoor het gebed van de smekeling, wanneer hij Mij aanroept.' Daarom moeten zij naar Mij luisteren en in Mij geloven, opdat zij geleid zullen worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

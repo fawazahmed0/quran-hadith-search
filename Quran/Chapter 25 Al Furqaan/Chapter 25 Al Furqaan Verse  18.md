@@ -986,7 +986,7 @@ Zij zullen zeggen: "Heilig bent U, het past ons niet dat wij buiten U beschermer
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zullen antwoorden: 'Ere zij U; Het betaamde ons niet andere beschermers dan U te nemen, maar Gij hebt hen en hun vaderen doen genieten totdat zij de aanmaning vergaten en een verloren volk werden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En (gedenkt) toen Yôusef tot zijn vader zei: "O mijn vader, voorwaar, ik zag (i
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen Jozef tot zijn vader zeide: 'O mijn vader, (in mijn droom) zag ik elf sterren en de zon en de maan en ik zag ze zich voor mij nederwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

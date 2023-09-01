@@ -986,7 +986,7 @@ Het zijn alleen maar namen die jullie hebben verzonnen, jullie en jullie vaderen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dit zijn slechts namen die gij uitgedacht hebt - gij en uw vaderen - waarvoor Allah geen gezag heeft nedergezonden. Zij volgen slechts hun vermoedens en begeerten. En voorzeker de leiding van hun Heer is nu tot hen gekomen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

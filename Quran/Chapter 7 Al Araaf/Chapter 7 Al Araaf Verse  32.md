@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Wie heeft de mooie kleding die Allah voor Zijn dienaren heef
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Wie heeft de tooi van Allah, die Hij voor Zijn dienaren heeft voortgebracht en zuiver voedsel, verboden?' Zeg: 'Zij zijn ook voor de gelovigen in het tegenwoordige leven en voor hen alleen op de Dag der Opstanding.' Zo verklaren Wij de tekenen aan een volk dat begrip heeft
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En (gedenkt) toen Hij jullie tot opvolgers aanstelde na (de ondergang van) de 'A
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En herinnert u, toen Hij u na (het volk van) Aad tot opvolgers maakte en u vestigde in het land; gij bouwdet paleizen in de vlakten en gij hieuwt huizen uit de bergen. Gedenkt daarom de gunsten van Allah en wandelt niet op aarde, onheil stichtend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Toen kwam een van de twee (vrouwen) verlegen naar heen toelopen, en zei: "Voorwa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En een der twee vrouwen kwam verlegen naar hem toelopen. Zij zeide: 'Mijn vader roept u opdat hij u moge belonen omdat gij voor ons gedrenkt hebt.' Dan, toen hij tot hem kwam en hem het verhaal vertelde, zeide hij: 'Vrees niet, gij zijt een onrechtvaardig volk ontvlucht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

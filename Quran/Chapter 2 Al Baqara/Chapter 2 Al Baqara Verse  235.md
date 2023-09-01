@@ -986,7 +986,7 @@ En er rust geen zonde op jullie wanneer jullie de vrouwen indirect huwelijksaanz
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er zal geen schuld op u rusten, indien gii niet rechtstreeks spreekt over een huwelijksaanzoek aan die vrouwen, of indien gij dit in uw gedachten verborgen houdt. Allah weet, dat gij het haar zult zeggen. Maar belooft haar niets in het geheim tenzij gij op de goede wijze spreekt. En besluit niet tot de huwelijksband, voordat de voorgeschreven wachttijd ten einde is. En weet, dat Allah weet, wat in uw gedachten is en vreest derhalve voor Hem en weet, dat Allah Vergevensgezind, Verdraagzaam is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

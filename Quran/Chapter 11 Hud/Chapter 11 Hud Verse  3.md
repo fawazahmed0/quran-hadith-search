@@ -986,7 +986,7 @@ En als jullie je Heer om vergeving vragen en jullie je vervolgens berouwvol tot 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En vraagt vergiffenis aan uw Heer en wendt u tot Hem, Hij zal u voor een vastgestelde periode van het goede voorzien. En Hij schenkt Zijn genade aan ieder die zich hiervoor verdienstelijk maakt. En als gij u afwendt dan vrees ik, voorzeker, voor u de straf van de grote Dag
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

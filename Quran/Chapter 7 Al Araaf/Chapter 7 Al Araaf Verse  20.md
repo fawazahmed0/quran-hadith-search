@@ -986,7 +986,7 @@ Toen fluisterde de Satan hen in om te onthullen wat er van hun schaamte bedekt w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar Satan fluisterde hun (boze ingevingen) in opdat hij hun naaktheid zou openbaren die voor hen verborgen was, en zeide: 'Uw Heer heeft u deze boom alleen verboden, opdat gij geen engelen of eeuwig- levenden zoudt worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En waar jij ook vandaan vertrekt, wend jouw gezicht in de richting van de Masdji
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Vanwaar gij ook komt, wend uw aangezicht naar de Heilige Moskee; waar gij ook zijt, wendt uw aangezicht daarheen, opdat de mensen, met uitzondering van de onrechtvaardigen geen bezwaar tegen u mogen aanvoeren - vreest hen dus niet, maar vreest Mij - en opdat Ik Mijn gunst aan u moge voltooien en opdat gij juist geleid moogt worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

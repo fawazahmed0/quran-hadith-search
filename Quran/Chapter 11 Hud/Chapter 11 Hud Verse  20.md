@@ -986,7 +986,7 @@ Zij zijn degenen die niet in staat zijm (om de bestraffing) in deze wereld te on
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dezen kunnen in de wereld de straf niet ontvluchten, noch hebben zij enige vrienden naast Allah. De straf zal voor hen worden verdubbeld. Zij deden geen moeite om te horen, of te zien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

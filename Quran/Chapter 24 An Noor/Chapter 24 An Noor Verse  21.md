@@ -986,7 +986,7 @@ O jullie die geloven! Volgt niet in de voetstappen van de Satan. En wie de voets
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij die gelooft, volgt de voetstappen van Satan niet. Wie de voetstappen van Satan volgt die zal hij zeker onzedelijkheid en boosheid beyelen. En ware het niet door Allah´s genade en Zijn barmhartigheid voor u geweest, dan zou niemand uwer ooit rein zijn geworden, maar Allah reinigt wie Hij wil. Allah is Alhorend, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

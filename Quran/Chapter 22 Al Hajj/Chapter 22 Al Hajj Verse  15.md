@@ -986,7 +986,7 @@ En wie denkt dat Allah hem (Moehammad) niet zal helpen in de wereld en het Hiern
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Laat hij die denkt dat Allah hem (de profeet) in deze wereld of in het Hiernamaals niet zal helpen, op de een of andere wijze ten hemel gaan en (Gods hulp) tegenhouden; laat hem dan zien of zijn plan datgene verwijderen kan, wat zijn toorn opwekt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

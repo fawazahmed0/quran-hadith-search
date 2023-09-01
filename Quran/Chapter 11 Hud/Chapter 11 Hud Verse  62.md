@@ -986,7 +986,7 @@ En zij (de Tsamôed) zeiden: "O Shâlih, hiervoor was jij temidden van ons ieman
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'O Salih, gij waart onze hoop. Verbiedt gij ons datgene te aanbidden wat onze vaderen aanbaden? En wij zijn voorzeker in verontrustende twijfel over hetgeen, waartoe gij ons roept
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

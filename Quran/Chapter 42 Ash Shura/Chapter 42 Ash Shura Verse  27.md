@@ -986,7 +986,7 @@ En als Allah de voorzieningen aan Zijn dienaren had verruimd, dan zouden zij zek
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien Allah de voorziening voor Zijn dienaren zou hebben vergroot, zouden zij op aarde verderf hebben veroorzaakt: Hij zendt echter met mate neder zoals Hij dat wil. Hij kent en ziet Zijn dienaren inderdaad goed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En degenen die daarna gelovig zijn geworden en zijn uitgeweken en samen rnet jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En degenen die naderhand zullen geloven en hun huizen verlaten en tezamen met u strijden, zullen tot u behoren; en bloedverwanten staan nader tot elkander in het Boek van Allah. Voorzeker, Allah is de Oerkenner van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

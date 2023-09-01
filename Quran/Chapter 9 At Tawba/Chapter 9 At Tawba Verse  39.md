@@ -986,7 +986,7 @@ Als jullie niet uitrukken, dan zal Hij jullie met een pijnlijke bestraffing best
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als gij niet voortgaat te vechten zal Hij u met een pijnlijke straf straffen en zal Hij een ander volk in uw plaats stellen en gij zult Hem in het geheel niet deren. Allah heeft macht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

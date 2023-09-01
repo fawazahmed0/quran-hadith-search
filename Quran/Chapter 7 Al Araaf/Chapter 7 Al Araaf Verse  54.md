@@ -986,7 +986,7 @@ Voorwaar, jullie Heer is Allah, Degene Die de hemelen en de aarde in zes dagen (
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, uw Heer is Allah, Die de hemelen en de aarde in zes dagen schiep; daarna zette Hij Zich op deTroon neder. Hij doet de nacht de dag bedekken, die hem snel opvolgt. De zon en de maan en de sterren zijn door Zijn gebod in dienst gesteld. Voorwaar, van Hem is de schepping en het gebod. Gezegend is Allah, de Heer der Werelden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

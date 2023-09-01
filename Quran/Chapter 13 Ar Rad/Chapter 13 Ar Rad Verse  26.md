@@ -986,7 +986,7 @@ Allah verruimt de levensvoorziening voor wie Hij wil en Hij beperkt. Zij verheug
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah vergroot en vermindert de voorziening voor wie Hem behaagt. En zij (de mensen) verheugen zich in het tegenwoordige leven, terwijl het tegenwoordige leven slechts een (kortstondig) vermaak is vergeleken met het volgende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

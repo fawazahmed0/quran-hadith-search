@@ -986,7 +986,7 @@ En Hij voorziet hem van waar hij het niet verwacht, en (voor) wie op Allah vertr
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Hij zal hem onderhouden vanwaar gij het niet verwacht. En voor hem, die zijn vertrouwen in Allah stelt, is Allah toereikend. Voorwaar, Allah volbrengt Zijn voornemen, Hij heeft voor alles een maatstaf bepaald
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

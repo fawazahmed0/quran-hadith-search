@@ -986,7 +986,7 @@ En redetwist niet anders dan op de beste wijze met de lieden van de Schrift, beh
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En twist met de mensen van het Boek slechts op de goede wijze; doch zeg tegen de onrechtvaardigen: 'Wij geloven in hetgeen ons is geopenbaard en hetgeen u is geopenbaard; en onze God en uw God is E�n; en aan Hem onderwerpen wij ons
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En wie niet van jullie in staat is te huwen met vrije gelovige vrouwen: hij kan 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wie uwer het niet kan bekostigen vrije gelovige vrouwen te huwen, hij huwe hetgeen gij bezit, namelijk gelovige slavinnen. En Allah kent uw geloof het beste. Gij zijt van elkander; huwt haar daarom met de toestemming van haar meesters en geeft haar een huwelijksgift op de gebruikelijke wijze, kuis zijnde, geen ontucht plegende, noch er heimelijke minnaars op nahoudende. En indien zij, nadat zij gehuwd zijn zich schuldig maken aan ontrouw - geldt voor haar de helft van de straf, die voor de vrije vrouwen is voorgeschreven. Dit is voor degene uwer die vreest te zondigen. Maar het is beter voor u dat gij u weerhoudt en Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Op deze Dag, zal er van jullie geen losprijs worden aanvaard, en ook niet van de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Derhalve zal op deze Dag geen losgeld van u worden aangenomen, noch van degenen die ongelovig waren. Uw tehuis zal het Vuur zijn; dat is uw vriend en het is een slechte bestemming
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

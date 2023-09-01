@@ -986,7 +986,7 @@ Vervolgens deed Allah rust over zijn Boodschapper en over de gelovigen neerdalen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarna zond Allah Zijn vrede over de boodschapper en over de gelovigen neder en Hij zond scharen, die gij niet zaagt en Hij strafte de ongelovigen. En dit is de vergelding voor hen die niet geloven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

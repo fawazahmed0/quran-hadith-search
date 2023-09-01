@@ -986,7 +986,7 @@ Voorwaar, degenen die ongelovig zijn onder de Lieden van de Schrift en de veelgo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, de ongelovigen onder de mensen van het Boek en de afgodendienaren zullen in het Vuur der hel geworpen worden, daarin zullen zij verblijven. Zij zijn de slechtste der schepselen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

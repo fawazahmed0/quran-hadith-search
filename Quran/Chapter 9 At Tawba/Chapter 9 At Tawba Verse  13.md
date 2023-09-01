@@ -986,7 +986,7 @@ Waarom bestrijden jullie een volk dat hun eden breekt niet? Terwijl zij van plan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wilt gij een volk niet bestrijden dat zijn eden heeft gebroken en plannen smeedde om de boodschapper te verdrijven en dat het eerste was om tegen u te beginnen? Vreest gij hen? Neen, Allah is het meest waardig, dat gij Hem zoudt vrezen als gij gelovigen zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

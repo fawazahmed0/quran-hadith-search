@@ -986,7 +986,7 @@ En hij (de koning) zei: "Brengt hein (Yôesoef) bij mij." En toen de gezant bij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de koning zeide: 'Brengt hem tot mij.' Maar toen de boodschapper tot hem (Jozef) kwam, zeide hij: 'Ga terug naar uw heer en vraag hem hoe het met de vrouwen is gesteld die zich in de handen sneden, voorzeker mijn Heer kent haar sluwe plan goed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

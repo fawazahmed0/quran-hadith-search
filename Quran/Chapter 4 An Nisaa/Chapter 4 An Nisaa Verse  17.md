@@ -986,7 +986,7 @@ Voorwaar, Allah aanvaardt slechts het berouw van degenen die het slechte uit onw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, berouw bestaat bij Allah alleen van degenen, die in onwetendheid kwaad doen en dan daarna berouw hebben. Dezen zijn het, tot wie Allah Zich met barmhartigheid wendt; en Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorzeker, Allah gaf een grote gunst aan de gelovigen, toen Hij tot hen een Bood
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Allah heeft de gelovigen een gunst bewezen, daar Hij een boodschapper uit hun midden opwekte, die hun Zijn tekenen verkondigt, hen loutert en hun het Boek en de wijsheid onderwijst, hoewel zij voordien duidelijk dwaalden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

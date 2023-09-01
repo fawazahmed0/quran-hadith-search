@@ -986,7 +986,7 @@ En wie een gelovige opzettelijk doodt: zijn vergelding is de hel, hij is eeuwig 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wie een gelovige opzettelijk doodt, zijn vergelding zal de hel zijn; daarin zal hij vertoeven. Allah´s toorn is op hem; Hij heeft hem vervloekt en zal hem een grote straf bereiden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

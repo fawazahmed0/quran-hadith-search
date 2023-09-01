@@ -986,7 +986,7 @@ En wanneer jij hen ziet, wekken hun lichamen (hun uiterlijk vertoon) jouw verwon
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer gij hen ziet, behaagt hun uterlijk u en indien zij spreken luistert gij naar hen. Zij lijken op aangeklede stukken hout. Zij denken dat ieder gerucht tegen hen is. Zij zijn (uw) vijanden, neemt u daarom voor hen in acht. Allah´s vloek zij over hen! Hoe ver zijn zij afgewend (van de Waarheid)
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

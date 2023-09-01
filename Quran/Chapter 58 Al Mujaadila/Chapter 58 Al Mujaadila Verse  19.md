@@ -986,7 +986,7 @@ De Satan heeft hen overmeesterd, waarna hij hen de gedachtenis van Allah deed ve
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Satan heeft hen volledig in zijn macht, en heeft hen de gedachtenis aan Allah doen vergeten. Zij behoren tot Satans partij. Ziet toe, Satans partij is de verliezer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

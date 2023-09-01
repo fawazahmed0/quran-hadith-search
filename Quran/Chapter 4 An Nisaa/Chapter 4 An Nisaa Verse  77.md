@@ -986,7 +986,7 @@ Zie jij degenen niet tot wie gezegd werd: "Houdt jullie handen af (van de strijd
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ziet gij niet degenen, tot wie gezegd werd: 'Weerhoudt uw handen, houdt het gebed en betaalt de Zakaat? ' En wanneer het strijden hun is voorgeschreven, ziet, een deel hunner vreest de mensen zoals men Allah behoort te vrezen, of zelfs nog erger en zij zeggen: 'Onze Heer, waarom hebt Gij ons het strijden voorgeschreven? Waarom hebt Gij ons niet voor een korte tijd uitstel verleend?' Zeg: 'Het voordeel van deze wereld is gering en het Hiernamaals zal beter zijn voor hem die Allah vreest. En u zal niet het minste onrecht worden aangedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

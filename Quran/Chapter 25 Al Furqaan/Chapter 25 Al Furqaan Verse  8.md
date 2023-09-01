@@ -986,7 +986,7 @@ Of is hem geen schat geschonken of heeft hij geen tuin, waar hij van kan eten?" 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ofwel een schat had tot hem nedergeworpen moeten worden of hij had een tuin moeten hebben om (de vruchten) er van te eten.' En de onrechtvaardigen zeggen: 'Gij volgt slechts een betoverd man
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

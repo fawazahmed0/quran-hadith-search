@@ -986,7 +986,7 @@ En jullie Heer zei: "Roept Mij aan, Ik zal jullie verhoren. Voorwaar, degenen di
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En uw Heer zegt: 'Aanbidt Mij; Ik zal uw gebed verhoren. Maar zij die te hoogmoedig zijn om Mij te aanbidden, zullen veracht de hel binnengaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

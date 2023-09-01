@@ -986,7 +986,7 @@ Zij zeiden: "O volk van ons, voorwaar wij hebben over een Boek gehoord dat is ne
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'O, ons volk, wij hebben een Boek horen voorlezen, dat na Mozes nedergezonden is, en dat het voorafgaande vervult, het leidt tot de Waarheid en tot de rechte weg
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

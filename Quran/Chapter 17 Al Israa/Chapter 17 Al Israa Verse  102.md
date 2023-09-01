@@ -986,7 +986,7 @@ Hij (Môesa) zei: "Jij weet dan niemand anders die (Tekenen) heeft neergezonden 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zeide: 'Voorzeker gij weet dat niemand anders dan de Heer der Hemelen en der aarde deze tekenen heeft gezonden; en ik ben zeker dat gij, o Pharao, te gronde gaat
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

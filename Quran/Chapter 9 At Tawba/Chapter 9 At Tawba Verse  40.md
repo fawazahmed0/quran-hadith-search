@@ -986,7 +986,7 @@ Als jullie hem (de Profeet) niet helpen: waarlijk, Allah heeft hem reeds eerder 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als gij hem (de profeet) niet helpt, voorzeker Allah hielp hem, toen de ongelovigen hem verdreven - toen hij ��n van de twee was - en zij beiden in de grot waren en hij tot zijn metgezel zeide: 'Treur niet, want Allah is met ons.' Toen zond Allah Zijn vrede op hem neder en versterkte hem met scharen die gij niet zaagt en vernederde het woord van de ongelovigen en Allah´s woord is het allerhoogste. En Allah is Almachtig, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

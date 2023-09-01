@@ -986,7 +986,7 @@ Als hoogmoedigen op de aarde, en met een slechte list. Maar de slechte list tref
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Evenals in aanmatiging op aarde en in het smeden van boze plannen. Maar het slechte komplot is een val voor hen alleen die het maken. Verwachten zij slechts de handelwijze waarmee de vroegere (volkeren) werden behandeld? Gij zult in de handelwijze van Allah nooit een verandering aantreffen, noch zult gij de handelwijze van Allah ooit gewijzigd vinden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

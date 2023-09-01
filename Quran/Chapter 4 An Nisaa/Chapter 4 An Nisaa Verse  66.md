@@ -986,7 +986,7 @@ En indien Wij voor hen voorgeschreven hadden "Doodt elkaar" of "Verlaat jullie h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien Wij hun hadden geboden: 'Wijdt u ten dode' of: 'verlaat uw huizen' zouden zij het met uitzondering van weinigen hunner niet hebben gedaan en indien zij hetgeen hun gemaand was te doen, hadden gedaan, zou het voor hen zeker goed zijn geweest en het, beste ter versterking (van hun geloof)
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

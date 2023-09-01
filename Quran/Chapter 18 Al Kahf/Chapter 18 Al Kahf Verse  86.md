@@ -986,7 +986,7 @@ Totdat, toen hij de plaats van de zonsondergag bereikte, hij haar onder vond gaa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 totdat hij het verste punt in de richting van de ondergaande zon bereikte, en deze in een bron van modderig water zag ondergaan, waarbij hij een (ongelovig) volk aantrof. Wij zeiden: 'O, Zol-Qarnain, bestraf hen of behandel hen met vriendelijkheid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

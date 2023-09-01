@@ -986,7 +986,7 @@ En als Wij hem als een Koran in een vreemde taal hadden geopenbaard, dan hadden 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien Wij deze Koran in een vreemde taal hadden gegeven, zouden zij zeker hebben gezegd: 'Waarom zijn zijn verzen niet duidelijk gemaakt? Is Arabisch en niet-Arabisch gelijk?' Zeg: 'Het is een leiding en een genezing voor de gelovigen.' Maar de ongelovigen hebben doofheid in hun oren en het is duister voor hen. Zij worden aangeroepen vanaf een verre plaats
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

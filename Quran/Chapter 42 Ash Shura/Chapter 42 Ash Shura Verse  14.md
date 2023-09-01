@@ -986,7 +986,7 @@ Zij raakten pas verdeeld toen de kennis tot hen kwam, elkaar onrecht aandoend. E
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij waren slechts verdeeld, nadat de kennis tot hen was gekomen, door zelfzuchtige afgunst onder elkander. En ware het niet dat een Woord reeds van uw Heer was uitgegaan voor een vastgestelde tijd, dan zou de zaak voorzeker tussen hen geoordeeld zijn. En waarlijk, zij die het Boek erfden, na hen, zijn er in een verontrustende twijfel over
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

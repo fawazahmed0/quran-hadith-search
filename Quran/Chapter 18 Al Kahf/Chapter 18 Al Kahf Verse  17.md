@@ -986,7 +986,7 @@ En jij zou zien dat de zon, wanneer zij opging, zich aan de rechterkant van hun 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer de zon opgaat zult gij haar zich zien verwijderen rechts van de Spelonk en wanneer zij ondergaat, ziet gij haar zich naar links afwenden, daartussen in de holte van (de Spelonk) bevonden zij zich. Dit zijn de tekenen van Allah. Hij die door Allah wordt geleid, wordt juist geleid doch degene, die Hij laat dwalen, voor hem zult gij stellig geen vriend en leidsman vinden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

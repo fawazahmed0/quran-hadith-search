@@ -986,7 +986,7 @@ Of zeggen jullie (Joden en Christenen): "Voorwaar, Ibrâhîm en Isma'îl en Isha
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zegt gij, dat Abraham en Isma�l en Iza�k en Jacob en de stammen Joden of Christenen waren? Zeg: 'Weet gij het beter of Allah?' En wie is onrechtvaardiger, dan hij, die een getuigenis verbergt, die hij van Allah heeft? En Allah is niet onbekend met hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

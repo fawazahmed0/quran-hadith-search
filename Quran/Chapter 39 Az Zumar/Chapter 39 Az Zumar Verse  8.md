@@ -986,7 +986,7 @@ En als tegenspoed de mens treft, dan roept Hij zijn Heer aan, tot Hem terrugkere
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer een mens wordt benadeeld, roept hij zijn Heer aan, zich tot Hem wendend. Dan, wanneer Hij hem een gunst bewijst van Zichzelf, vergeet de mens waarvoor hij eerst (God) aanriep en stelt medegoden naast Allah, om de mensen van Zijn weg af te leiden. Zeg: 'Geniet door uw ongeloof voor een wijle, gij behoort zeker tot de bewoners van het Vuur
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

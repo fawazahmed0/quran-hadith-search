@@ -986,7 +986,7 @@ O jullie die geloven, het is jullie niet toegestaan vrouwen tegen hun wil te erv
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, het is u niet geoorloofd, vrouwen te erven tegen haar wil, noch moogt gij haar tegenhouden opdat gij een gedeelte van wat gij haar hebt gegeven, moogt terugnemen, tenzij zij schuldig zijn aan een schandelijk kwaad; en blijft met haar vriendelijk omgaan en als gij afkeer van haar hebt, kan het zijn, dat gij afkeer hebt van iets, waarin Allah veel goeds kan hebben gelegd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

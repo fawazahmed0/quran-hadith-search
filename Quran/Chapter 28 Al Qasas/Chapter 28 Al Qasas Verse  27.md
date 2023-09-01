@@ -986,7 +986,7 @@ Hij zei: "Voorwaar, ik wens dat jij met een van deze dochters van mij trouwt, op
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hij zeide: 'Ik zou u een dezer twee dochters van mij uithuwen, mits gij acht jaren voor mij werkt. En als gij er tien voltooit dan zou dit uit uw vrije wil geschieden. En ik zal u geen moeilijkheden opleggen; gij zult vinden, als Allah het wil, dat ik tot de rechtvaardigen behoor
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

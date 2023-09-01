@@ -986,7 +986,7 @@ En als zij handel of vermaak zien, dan lopen zij daarheen en laten jou staan (in
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar indien zji koopwaar of enig vermaak zien, gaan zij er haastig heen en laten u staan. Zeg: 'Hetgeen bij Allah is, is beter dan vermaak en handel, en Allah is de beste Onderhouder
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

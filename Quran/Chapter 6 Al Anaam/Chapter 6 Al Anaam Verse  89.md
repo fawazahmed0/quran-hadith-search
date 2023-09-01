@@ -986,7 +986,7 @@ Zij zijn degenen die Wij de Schrift en de Wijsheid en het Profeetschap gaven en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dezen zijn het, wie Wij het Boek en de heerschappij en het profetenambt gaven. Maar nu dezen er ondankbaar voor zijn, hebben Wij deze aan een volk toevertrouwd dat er niet ondankbaar voor zal zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En (gedenkt) toen Wij het Huis (de Ka'bah) tot een plaats van verzameling voor d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Wij het Huis tot een plaats van verzameling voor de mensheid en een toevluchtsoord maakten, zeggende: 'Neemt de plaats van Abraham als een plaats voor gebed'. En Wij geboden Abraham en Isma�l, zeggende: 'Reinigt Mijn Huis voor degenen, die de ommegang verrichten en voor degenen, die er toegewijd in verblijven en voor degenen, die zich neder buigen en zich ter aarde werpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

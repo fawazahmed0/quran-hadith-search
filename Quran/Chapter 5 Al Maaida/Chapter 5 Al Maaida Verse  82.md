@@ -986,7 +986,7 @@ Jij zult zeker vinden dat de mensen die het sterkst in vijandschap tegenover de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, gij zult de Joden en de afgodendienaren het meest vijandig jegens de gelovigen vinden. En gij zult degenen die zeggen: 'Wij zijn Christenen' het vriendschappelijkst vinden jegens de gelovigen. Dit is, wijl er onder hen geleerden en monniken zijn en wijl zij niet trots zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En vreest de Dag waarop geen ziel een andere ziel ergens mee kan bijstaan, en er
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En vreest de Dag, dat de ene ziel de andere niet zal kunnen helpen, waarop voor haar noch voorspraak zal worden aanvaard, noch een losprijs zal worden aangenomen, noch zij zullen worden geholpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

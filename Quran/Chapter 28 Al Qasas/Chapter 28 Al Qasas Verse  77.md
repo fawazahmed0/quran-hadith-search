@@ -986,7 +986,7 @@ En zoek met wat Allah jou gegeven heeft het Huis van het Hiernamaals en vergeet 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar zoek door hetgeen Allah u heeft gegeven het tehuis van het Hiernamaals; en vergeet uw deel aan de wereld niet, en doe goed (aan anderen) zoals Allah u goed gedaan heeft; en schep geen wanorde op aarde, want Allah heeft hen, die onheil stichten, niet lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

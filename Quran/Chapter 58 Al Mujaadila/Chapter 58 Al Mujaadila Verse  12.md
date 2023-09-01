@@ -986,7 +986,7 @@ O jullie die geloven, wanneer jullie een persoonlijk gesprek met de Boodschapper
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, indien gij de boodschapper (in het bijzonder) wiltraadplegen, geeft dan een liefdegift v��r uw raadpleging. Dat is beter voor u en reiner. Maar als gij niets bezit dan is Allah Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

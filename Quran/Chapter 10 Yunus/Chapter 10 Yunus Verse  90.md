@@ -986,7 +986,7 @@ En Wij brachten de Kinderen van Israël over de zee, waarop Fir'aun en zijn lege
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij brachten de kinderen Isra�ls over de zee; Pharao en zijn scharen vervolgden hen op een onrechtvaardige en aanvallende wijze, totdat hij toen hij bijna verdronk, zeide: 'Ik geloof dat er geen God is dan Hij, in Wie de kinderen Isra�ls geloven en ik behoor tot de Moslims
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

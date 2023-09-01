@@ -986,7 +986,7 @@ En als hun afkeer van jou zwaar voor jou is: als jij in staat zou zijn een grot 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als hun afkeer u onverdraaglijk is, breng hun dan een teken, indien gij een opening in de aarde of een ladder naar de hemelen kunt vinden. En indian Allah wilde zou Hij hen zeker onder ��n leiding hebben verzameld. Behoor dus niet tot de onwetenden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

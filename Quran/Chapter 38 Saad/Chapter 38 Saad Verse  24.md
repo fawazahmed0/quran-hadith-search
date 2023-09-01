@@ -986,7 +986,7 @@ Bij (Dâwôed) zei: "Voorzeker, hij heeft jou onrechtvaardig behandeld met de ei
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 David zeide: 'Voorzeker, hij heeft u onrecht aangedaan door uw ooi te eisen naast zijn eigen ooien. En voorzeker, vele der mededingers doen elkaar onrecht aan, met uitzondering van hen, die geloven en goede werken doen: en zij zijn slechts weinigen.' En David bemerkte, dat Wij hem hadden beproefd, daarom vroeg hij om vergiffenis van zijn Heer en zich tot Hem wendend, viel hij in gebed neder
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

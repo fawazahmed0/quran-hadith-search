@@ -986,7 +986,7 @@ Zie jij niet dat Allah water uit de hemel doet neerdalen en het daarna doet same
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij niet gezien, dat Allah water van de hemel nederzendt en het in de aarde doet binnendringen tot (het vormen van) bronnen? Ook worden er oogsten voortgebracht, die in hun kleuren vari�ren. Daarna drogen deze uit en gij ziet ze geel worden; dan doet Hij ze in stukken breken. Voorwaar daarin is een les voor de mensen van begrip
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

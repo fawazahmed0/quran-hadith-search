@@ -986,7 +986,7 @@ Onze Heer! Voorwaar, ik heb mijn kinderen achtergelaten in een onbegroeide valle
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Onze Heer, ik heb sommige van mijn kinderen in een onvruchtbaar dal dicht bij Uw heilig huis (de Kabah) gevestigd, onze Heer, opdat zij het gebed mogen houden. Stem het hart der mensen gunstig voor hen en voorzie hen van vruchten opdat zij dankbaar mogen zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

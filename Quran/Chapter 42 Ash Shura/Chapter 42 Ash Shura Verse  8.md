@@ -986,7 +986,7 @@ Als Allah het had gewild, dan had Hij hen (als behorend) tot één godsdienst (O
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien Allah wilde kon Hij hen tot een enkel volk hebben gemaakt, maar Hij laat in Zijn barmhartigheid toe wie Hij wil. Doch de onrechtvaardigen zullen geen beschermer of helper hebben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En jouw Heer was geen vernietiger van de steden vóórdat Hij tot hun hoofdstad 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En uw Heer is niet zo, dat Hij steden vernietigt, voordat Hij in de hoofdstad een boodschapper heeft verwekt die hun Ons woord verkondigt; noch verwoesten Wij steden tenzij de bewoners er van onrechtvaardig zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

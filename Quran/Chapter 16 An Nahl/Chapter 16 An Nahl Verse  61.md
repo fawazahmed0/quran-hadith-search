@@ -986,7 +986,7 @@ En als Allah de mensen voor hun onrechtvaardigheid zou straffen, zou Hij geen le
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien Allah de mensen voor hun onrechtvaardigheid zou straffen, zou Hij geen levend schepsel op aarde achterlaten, maar Hij geeft hun uitstel tot een vastgestelde termijn, en wanneer hun tijd is gekomen kunnen zij deze niet voor een enkel uur uitstellen of vervroegen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Alle lof zij Allah, die mij Isma'îl en Ishaq geschonken heeft, ondanks mijn oud
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alle lof behoort aan Allah, Die mij in weerwil van ouderdom Isma�l en Izaak heeft gegeven Waarlijk mijn Heer is de Verhoorder van het gebed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

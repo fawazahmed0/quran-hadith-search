@@ -986,7 +986,7 @@ Zien jullie niet dat Allah wat zich in de hemelen en op de aarde bevindt aan jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij niet gezien, dat Allah alles wat in de hemelen en op aarde is in uw dienst heeft gesteld en Zijn gunsten rijkelijk aan u heeft geschonken, zowel uiterlijk als innerlijk? En onder de mensen zijn er, die over Allah twisten, zonder kennis of enige leiding of een verlichtend Boek
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

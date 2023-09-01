@@ -986,7 +986,7 @@ Vraag aan de Kinderen van Israel hoeveel duidelijke bewijzen Wij hun hebben gege
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Vraag de kinderen Isra�ls, hoeveel duidelijke tekenen Wij hun hebben gegeven. Maar hij die de gunst van Allah verandert, nadat zij tot hem is gekomen, (wete) dat Allah streng is in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Degenen voor wie het Woord bewaarheid wordt, zullen zeggen: "Onze Heer, zij zijn
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij, tegen wie het Woord van kracht zal worden, zullen zeggen: 'Onze Heer, dit zijn degenen die wij deden dwalen. Wij deden hen dwalen zoals wij dwaalden. Wij betuigen onze onschuld aan U. Wij waren het niet die zij aanbaden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En Wij verdeelden hen in twaalf stammen als gemeenschappen en Wij openbaarden aa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij verdeelden hen in twaalf stammen, als afzonderlijke volkeren. En Wij openbaarden aan Mozes, toen zijn volk om drinken vroeg: 'Sla de rots met uw staf' en er ontsprongen twaalf bronnen aan: elke stam kende zijn drinkplaats. En Wij deden wolken hen overschaduwen en Wij zonden Manna en kwartels voor hen neder. 'Eet van de goede dingen, waarmede Wij u hebben voorzien.' En zij deden Ons geen onrecht aan, maar zij schaadden zichzelf
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

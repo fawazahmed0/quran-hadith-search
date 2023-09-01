@@ -986,7 +986,7 @@ Opdat, wanneer een ramp door wat hun handen eerder verricht hebben hen treft, zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien een ramp over hen zou komen wegens hetgeen zij verdienen, mogen zij niet meer zeggen: 'Onze Heer, waarom zondt Gij ons geen boodschapper, opdat wij Uwe tekenen hadden kunnen volgen en onder de gelovigen konden zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

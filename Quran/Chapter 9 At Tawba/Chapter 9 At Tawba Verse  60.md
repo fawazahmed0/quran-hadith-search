@@ -986,7 +986,7 @@ Voorwaar, de zakât is slechts voor de armen en de behoeftigen en de werkenden (
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De aalmoezen zijn alleen voor de armen en de behoeftigen en voor degenen die daarbij werkzaam zijn en voor degenen wier hart verzoend is en voor de slaven en voor degenen die schuld hebben en voor de zaak van Allah en voor de reiziger: dit is een gebod van Allah. En Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

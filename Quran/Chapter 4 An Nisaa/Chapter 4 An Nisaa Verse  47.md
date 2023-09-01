@@ -986,7 +986,7 @@ O jullie die de Schrift is gegeven! Gelooft in wat Wij jullie hebben neergezonde
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, mensen van het Boek, gelooft in hetgeen Wij hebben nedergezonden, vervullende hetgeen bij u is voordat Wij uw leiders vernietigen en neerwerpen of hen vervloeken, zoals Wij het volk van de Sabbath vervloekten. Allah´s gebod zal volbracht worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

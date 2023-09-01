@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Komt met jullie getuigen die kunnen getuigen dat Allah dat v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Brengt uw getuigen die getuigenis willen afleggen, dat Allah dit heeft verboden.´´ Als zij getuigen, getuig niet met hen, noch volg de boze neigingen van degenen die Onze tekenen verloochenen en van degenen, die niet in het Hiernamaals geloven en die medegoden aan hun Heer toeschrijven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

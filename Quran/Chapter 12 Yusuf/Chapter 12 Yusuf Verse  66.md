@@ -986,7 +986,7 @@ Hij (Ya'q-ôeb) zei: "Ik zal hem nooit met jullie mee laten gaan, vóórdat jull
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij (Jacob) zeide: 'Ik zal hem niet met u medezenden voordat gij mij een ernstige belofte aflegt in de naam van Allah, dat gij hem zeker tot mij zult brengen tenzij gij allen omsingeld zoudt worden.' En toen zij de belofte hadden afgelegd, zeide hij: 'Allah waakt over hetgeen wij zeggen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

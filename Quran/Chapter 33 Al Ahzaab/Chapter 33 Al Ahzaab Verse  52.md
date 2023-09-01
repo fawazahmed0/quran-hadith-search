@@ -986,7 +986,7 @@ Daarna (O Moehammad), zijn de (andere) vrouwen niet toegestaan en ook niet dat j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het is u hierna niet toegestaan vrouwen te huwen noch haar voor andere vrouwen te ruilen, zelfs al behaagt u haar schoonheid, met uitzondering van haar die uw rechterhand mocht bezitten. En Allah houdt de wacht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

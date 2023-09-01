@@ -986,7 +986,7 @@ Waarlijk, hij bedroog hen door misleiding, Toen zij dan van (de vruchten van) de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zo deed hij hen door bedrog vallen. En toen zij van de boom proefden werd hun naaktheid hun duidelijk en zij begonnen zich te bedekken met bladeren uit de tuin. En hun Heer riep hen en zeide: 'Verbood Ik u die boom niet en zeide Ik niet tot u: ´Voorwaar, Satan is een openlijke vijand voor u´
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

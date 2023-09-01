@@ -986,7 +986,7 @@ En niets verhinderde Ons de Tekenen neer te zenden dan dat de voorafgaaden hen l
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En niets weerhoudt Ons van het zenden van tekenen, behalve dat de vroegere volkeren ze hebben verloochend. En Wij gaven aan de Samoed de kamelin als een zichtbaar teken doch zij deden haar kwaad; Wij zenden slechts tekenen om te waarschuwen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

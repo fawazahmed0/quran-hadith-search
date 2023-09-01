@@ -986,7 +986,7 @@ Zij zeiden: "Roep voor ons jouw Heer aan, op dat Hij ons duidelijk maakt wat voo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'Bid voor ons tot uw Heer, opdat Hij het ons duidelijk make, wat voor een koe dit moet zijn.' Hij antwoordde: 'Hij zegt, dat het een koe moet zijn, noch oud, noch jong, volwassen, tussen beide in - doet nu, wat u geboden is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

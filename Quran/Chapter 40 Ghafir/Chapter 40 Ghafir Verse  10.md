@@ -986,7 +986,7 @@ Voorwaar, tot degenen die ongelovig waren zal (op die Dag) geroepen worden: "De 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De ongelovigen zullen worden toegesproken: 'Het misnoegen van Allah was groter dan uw eigen misnoegen toen gij tot het geloof werd geroepen doch gij dit verwierpt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

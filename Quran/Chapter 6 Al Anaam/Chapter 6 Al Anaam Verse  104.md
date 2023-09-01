@@ -986,7 +986,7 @@ Waarlijk, tot jullie zijn zichtbar bewijzen gekomen van jullie Heer. Wie goed zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er zijn inderdaad bewijzen van uw Heer tot u gekomen, wie dus ziet het is voor hemzelf en wie blind wordt het is tegen hemzelf. En ik ben geen bewaker over u
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

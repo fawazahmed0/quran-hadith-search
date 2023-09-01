@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Wie een vijand van Djibrîl is: voorwar, hij heeft hem (de K
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Al wie een vijand van Gabri�l is' - want waarlijk, hij openbaarde het op Allah´s bevel aan uw hart, vervullende datgene, wat voordien kwam, een leidraad zijnde en een blijde mare voor de gelovlgen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

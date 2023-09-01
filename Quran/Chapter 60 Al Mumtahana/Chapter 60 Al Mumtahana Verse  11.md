@@ -986,7 +986,7 @@ En als een van jullie echtgenotes is weggelopen naar de ongelovigen, en jullie (
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als enig bezit door uw vrouwen van u overgaat in de handen der ongelovigen geeft dan in het omgekeerde geval aan diegenen, wier vrouwen zijn weggegaan hetzelfde als z. aan hun vrouwen besteed hadden. En vreest Allah in Wie gij gelooft
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

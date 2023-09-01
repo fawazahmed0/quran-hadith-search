@@ -986,7 +986,7 @@ En Wij hebben hun duidelijke aanwijzingen gegeven over de zaak (de godsdienst). 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij gaven hun duidelijke uitleg over de godsdienst. En zij werden onenig slechts nadat kennis tot hen was gekomen door onderlinge afgunst. Voorwaar, uw Heer zal op de Dag der Opstanding over hen uitspraak doen omtrent datgene waarover zij het met elkaar oneens waren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

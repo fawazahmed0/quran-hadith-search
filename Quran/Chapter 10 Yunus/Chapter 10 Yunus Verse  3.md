@@ -986,7 +986,7 @@ Voorwaar, jullie Heer is Allah, Die de hemelen en de aarde in zes dagen (periode
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Allah is uw Heer, Die de hemelen en de aarde in zes dagen schiep, en Hij zette Zich op de troon, alles regelend. Er is geen bemiddelaar, dan met Zijn goedkeuring. Dit is Allah, uw Heer, aanbidt Hem daarom. Wilt gij dan geen lering trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

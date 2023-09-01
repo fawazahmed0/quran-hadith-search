@@ -986,7 +986,7 @@ Wij hebben hen beproefd zoals Wij de bezitters van de tuin hebben beproefd, toen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Wij zullen hen (de ongelovigen) op de proef stellen zoals Wij de eigenaars van een tuin beproefden toen zij zwoeren dat zij zeker het fruit daarvan in de vroege morgen zouden plukken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

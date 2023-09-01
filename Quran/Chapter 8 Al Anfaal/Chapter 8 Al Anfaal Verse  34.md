@@ -986,7 +986,7 @@ En welk argument hebben zij, dat Allah hen niet zal bestraffen terwijl zij (de m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarom zal Allah hen niet straffen, wanneer zij de mensen beletten de heilige moskee binnen te gaan en er geen bewakers van zijn? De bewakers er van zijn alleen de godvruchtigen, maar de meesten hunner beseffen het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

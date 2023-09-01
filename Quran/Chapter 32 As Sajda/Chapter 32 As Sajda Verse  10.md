@@ -986,7 +986,7 @@ En zij zeggen: "Wanneer wij in de aarde zijn vergaan, zullen wij dan zeker tot e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zeggen: 'Zullen wij, wanneer wij in de aarde verloren zijn, opnieuw worden geschapen?' Neen, zij geloven niet in de ontmoeting met hun Heer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

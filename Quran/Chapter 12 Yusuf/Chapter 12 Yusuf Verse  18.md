@@ -986,7 +986,7 @@ En zij kwamen met zijn hemd, met vals bloed (daarop). Hij zei: "Maar jullie hebb
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij brachten zijn hemd met bloed, dat niet van hem was. Hij (Jacob) zeide: 'Neen, gij hebt de zaak veel te licht opgevat. Daarom is geduld passend. En het is Allah Wiens hulp dient te worden gezocht over hetgeen gij beweert
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

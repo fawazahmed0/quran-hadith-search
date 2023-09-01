@@ -986,7 +986,7 @@ Zij vragen jou (Moehammad) over de nieuwe manen. Zeg: "Zij zijn tijdsaanduidinge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij vragen u betreffende de nieuwe manen. Zeg: 'Zij zijn tijdsaanwijzingen voor de mensen en voor de bedevaart.' Het is geen deugd, dat gij de huizen binnengaat aan de achterzijde: maar deugdzaamheid is in hem, die Allah vreest. Dus gaat de huizen door de deuren binnen en vreest, Allah, opdat gij zult slagen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

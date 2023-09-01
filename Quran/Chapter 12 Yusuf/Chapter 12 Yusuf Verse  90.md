@@ -986,7 +986,7 @@ Zij zeiden: "Ben jij echt Yôesoef?" Hij antwoordde: "Ik ben Yôesoef en dit is 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij vroegen. 'Zijt gij dan Jozef?' Hij zeide: 'Ik ben Jozef en dit is mijn broeder. Allah is ons inderdaad genadig geweest. Voorwaar, wie godvrezend en geduldig is - Allah doet het loon der goeden nooit verloren gaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

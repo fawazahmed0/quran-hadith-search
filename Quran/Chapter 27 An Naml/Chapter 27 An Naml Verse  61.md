@@ -986,7 +986,7 @@ Of wie heeft de aarde als een verblijfplaats gemaakt en daardoor rivieren getrok
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij Die de aarde tot een rustplaats maakte, er rivieren in plaatste en er hechte bergen op zette en een dam tussen de beide zee�n? Is er een God naast Allah? Neen, de meesten hunner (willen) het niet weten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

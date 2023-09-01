@@ -986,7 +986,7 @@ Zie jij degenen niet die het geheime gesprek verboden werd? Daarop vervielen zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij degenen niet waargenomen, wie de geheime samenzwering was verboden maar die daarna terugkeerden naar hetgeen hun verboden was en heimelijk beraadslagen in zonde, overtreding en ongehoorzaamheid jegens de boodschapper? En als zij tot u komen, groeten zij u met een groet, waar Allah u niet mee begroet; maar onder elkander zeggen zij: 'Waarom straft Allah ons niet voor hetgeen uw (tegen de profeet) zeggen?' Genoegzaam voor hen is de hel waarin zij zullen branden; en deze is een slechte bestemming
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

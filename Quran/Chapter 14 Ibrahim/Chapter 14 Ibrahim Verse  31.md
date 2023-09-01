@@ -986,7 +986,7 @@ Zeg (O Moehammad) tot mijn dienaren die geloven: "Onderhoudt de shalât en geeft
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg tot mijn gelovige dienaren dat zij het gebed behoren te onderhouden en van hetgeen Wij hun hebben gegeven heimelijk en openlijk besteden, voordat er een dag komt, waarop er handel noch vriendschap zal zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

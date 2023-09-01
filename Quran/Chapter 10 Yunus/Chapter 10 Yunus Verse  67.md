@@ -986,7 +986,7 @@ Hij is Degene Die de nacht voor jullie heeft gemaakt opdat jullie er rust in vin
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die de nacht voor u heeft gesteld, opdat gij er in moogt rusten en de dag vol van licht. Voorzeker, daarin zijn tekenen voor een volk, dat luistert
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

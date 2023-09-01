@@ -986,7 +986,7 @@ En degenen die de vorige dag zijn positie wensten gingen zeggen: "O wee, het is 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij, die zijn plaats de vorige dag hadden begeerd, begonnen (de volgende dag) te zeggen: 'O wee, Allah vergroot en verkleint de voorziening voor wie Hij wil van Zijn dienaren. Indien Allah ons niet genadig was geweest zou Hij ons ook in de aarde hebben doen verzinken. Wee, de ondankbaren slagen nooit
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

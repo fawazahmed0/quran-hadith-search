@@ -986,7 +986,7 @@ En vraag hen over de stad die dicht bij de zee lag, toen zij de Sabbat overtrade
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En vraag hun omtrent de stad, die aan de zee lag. Toen zij de Sabbath ontheiligden verscheen vis op hun Sabbath aan de oppervlakte van het water, maar de dag waarop zij geen Sabbath hielden kwam zij niet tot hen. Zo beproefden Wij hen omdat zij overtreders waren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

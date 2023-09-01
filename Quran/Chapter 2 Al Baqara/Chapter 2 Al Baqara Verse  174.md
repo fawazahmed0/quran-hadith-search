@@ -986,7 +986,7 @@ Voorwaar, degenen die verbergen wat Allah heeft neergezonden van de Schrift en d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, zij, die datgene verbergen, wat Allah heeft geopenbaard, namelijk het Boek en het voor een geringe prijs verruilen, vullen hun buik met niets, dan Vuur. Allah zal op de Dag der Opstanding niet tot hen spreken, noch zal Hij hen rein achten. Er wacht hun een pijnlijke straf
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

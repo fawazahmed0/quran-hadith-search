@@ -986,7 +986,7 @@ Hoe kan het zijn, dat wanneer zij de overhand over jullie hebben, zij niet waken
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hoe kan het zijn dat wanneer zij de overhand over u hebben, zij geen band van verwantschap en verbond tegenover u in acht zullen nemen? Zij behagen u met hun mond terwijl hun hart dit weigert en de meesten hunner overtreden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

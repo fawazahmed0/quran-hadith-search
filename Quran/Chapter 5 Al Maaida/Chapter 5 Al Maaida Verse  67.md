@@ -986,7 +986,7 @@ O Boodschapper! Verkondig wat jou van jouw Heer neergezonden is. En indien jij d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O boodschapper, verkondig hetgeen u van uw Heer is geopenbaard en indien gij dat niet doet, dan hebt gij Zijn boodschap niet overgebracht. Allah zal u tegen de mensen beschermen. Voorzeker, Allah leidt het ongelovige volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

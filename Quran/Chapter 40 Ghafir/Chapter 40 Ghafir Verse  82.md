@@ -986,7 +986,7 @@ Reizen zij dan niet op aarde en zien zij dan niet wat het einde was van degenen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij niet op aarde gereisd en gezien wat het einde was van degenen die voor hen waren? Zij waren groter in aantal dan dezen en machtiger in kracht, en in de sporen die zij op aarde achterlieten. Maar alles wat zij verwierven baatte hen niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

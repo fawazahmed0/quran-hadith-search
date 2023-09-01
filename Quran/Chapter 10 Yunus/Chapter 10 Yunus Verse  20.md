@@ -986,7 +986,7 @@ En zij zeggen: "Waarom is er niet een Teken aan hem neergezonden van zijn Heer."
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zeggen: 'Waarom is er geen teken van zijn Heer tot hem (de profeet) nedergezonden?' Zeg: 'Het onzienlijke behoort alleen Allah toe. Wacht, ik ben met u onder de wachtenden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

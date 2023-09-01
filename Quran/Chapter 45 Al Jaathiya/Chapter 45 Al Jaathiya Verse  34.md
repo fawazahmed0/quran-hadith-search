@@ -986,7 +986,7 @@ Op die Dag wordt gezegd: "Wij vergeten jullie zoals jullie de ontmoeting met dez
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er zal worden gezegd: 'Deze Dag zullen Wij u vergeten zoals gij de ontmoeting met deze Dag vergeten hebt. Uw toevlucht is (slechts) het Vuur en gij hebt daar geen helpers
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En (Wij vernietigden) de 'Âd en de Tsamôed. Dat is jullie waarlijk bekend gewo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En (Wij vernietigden) ook de Aad en de Samoed; en dit kunt gij aan hun woonplaatsen duidelijk zien. Satan deed hun daden hun goed voorkomen, en weerhield hen van het pad ofschoon zij het duidelijk konden zien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

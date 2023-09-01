@@ -986,7 +986,7 @@ Hij heeft jullie uit één ziet geschapen, daarna maakte Hij ervan zijn vrouw, e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij schiep u uit ��n ziel, dan maakte Hij daaruit echtgenoten; en Hij zond voor u acht stuks vee in paren neder. Hij vormde u in de baarmoeder van uw moeder, schepping naast schepping, in drievoudige duisternis. Zo is Allah uw Heer, van Hem is het koninkrijk. Er is geen God naast Hem. Waardoor wordt gij dan afgeleid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

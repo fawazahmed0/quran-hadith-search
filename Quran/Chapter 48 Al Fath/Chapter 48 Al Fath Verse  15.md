@@ -986,7 +986,7 @@ De achtergeblevenen zullen zeggen: "Wanneer jullie uittrekken naar de oorlogsbui
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij, die werden achtergelaten zullen zeggen, wanneer gij zoudt uitgaan op een expeditie waarbij gij gemakkelijk buit kunt maken: 'Sta ons toe u te volgen.' Zij wensen de uitspraak van Allah te veranderen. Zeg: 'Gij zult ons zeker niet volgen. Allah heeft het voorheen zo bepaald.' Dan zullen zij zeggen: 'Neen, doch gij benijdt ons.' Neen, zij begrijpen slechts weinig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

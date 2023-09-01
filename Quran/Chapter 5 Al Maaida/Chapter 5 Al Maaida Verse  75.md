@@ -986,7 +986,7 @@ De Masîh, zoon van Maryam, is niet anders dan een Boodschapper, hij werd waarli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Messias, de zoon van Maria was slechts een boodschapper; voorzeker, alle boodschappers v��r hem zijn heengegaan. En zijn moeder was een waarheidslievende vrouw. Zij plachten beiden voedsel tot zich te nemen. Zie, hoe Wij de tekenen voor hen (de mensen) verduidelijken, en zie, hoe zij zich afwenden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

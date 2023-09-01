@@ -986,7 +986,7 @@ En had jij maar, toen jij je tuin binnentrad, gezegd: 'Mâ sjâ'a Allah, lâ qoe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarom zeidet gij niet, toen gij de tuin binnentraadt: ´Het is zoals het Allah behaagt, er is geen God dan Allah?´ indien gij mij als uw mindere in rijkdom en nakomelingen ziet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

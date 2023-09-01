@@ -986,7 +986,7 @@ En wanneer zij hun eden breken, nadat zij een verbond hebben gesloten en zij zic
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar indien zij na hun verbond hun eden breken en uw godsdienst smaden, bestrijdt dan de leiders van het ongeloof - waarlijk, hun eden zijn niets - opdat zij mogen ophouden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

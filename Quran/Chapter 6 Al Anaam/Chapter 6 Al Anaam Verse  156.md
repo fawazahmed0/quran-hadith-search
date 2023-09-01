@@ -986,7 +986,7 @@ Opdat zij geen argument zullen hebben om te zeggen: "De Schrift is slechts neerg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Opdat gij niet zoudt zeggen: 'Het Boek was alleen geopenbaard voor twee volkeren die v��r ons leefden, en wij waren inderdaad met de inhoud er van onbekend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

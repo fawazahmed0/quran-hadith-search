@@ -986,7 +986,7 @@ Moehammad is de Boodschapper van Allah en degenen die met hem zijn, zijn streng 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mohammed is de boodschapper van Allah. En zij, die met hem zijn, zijn hard tegen de ongelovigen en zachtmoedig onder elkander. Gij ziet hen zich buigen en nederwerpen (in gebed), Allah´s genade en Zijn welbehagen zoekende - Op hun aangezicht zijn de sporen van het zich ter aarde werpen. Dit is hun beschrijving in de Torah. En hun beschrijving in het Evangelie is als het zaad van koren, dat zijn scheut uitspruit, en dien versterkt, waardoor zij dik wordt en op eigen stengel komt te staan, tot vreugde der zaaiers en woede der ongelovigen. Allah heeft aan de gelovigen die goede werken doen, vergiffenis en een grote beloning beloofd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Toen verhoorden Wij hem en Wij schonken hem Yahya en Wij maakten zijn vrouw gesc
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen verhoorden Wij zijn gebed en beloofden hem Johannes en Wij maakten zijn vrouw geschikt (een kind te krijgen). Zij plachten met elkander te wedijveren in goede werken en zij riepen Ons in hoop en vrees aan en waren nederig voor Ons
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

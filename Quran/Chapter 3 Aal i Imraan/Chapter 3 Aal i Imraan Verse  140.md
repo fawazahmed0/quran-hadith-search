@@ -986,7 +986,7 @@ Als jullie gewond raken: het is ook zo dat de mensen (vijanden) door een soortge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als gij (Moslims) letsel krijgt (in de strijd); dat volk (de tegenstander) is reeds een dergelijk letsel overkomen. Zulke dagen laten Wij onder de mensen wisselen, opdat Allah degenen, die geloven onderscheide en uit uw midden getuigen (martelaren) neme en Allah heeft de onrechtvaardigen niet lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

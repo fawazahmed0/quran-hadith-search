@@ -986,7 +986,7 @@ Voorwaar, de mannen die zich hebben overgegeven (aan Allalh) en de vrouwen die z
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, de Moslims en de Moslima´s en de gelovige mannen en vrouwen, de gehoorzame mannen en vrouwen, de waarachtige mannen en vrouwen, de standvastige mannen en vrouwen, de mannen en de vrouwen die nederig zijn, de mannen en de vrouwen die aalmoezen geven, de mannen en de vrouwen die vasten, de mannen en de vrouwen die hun kuisheid bewaren, de mannen en de vrouwen die Allah vaak gedenken - voor zulken heeft Allah vergiffenis en een grote beloning bereid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Er rust op jullie geen zonde als jullie (tijdens de Haddj) een gunst van jullie 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het is voor u geen zonde, wanneer gij de overvloed van uw Heer zoekt. Maar, wanneer gij van (de berg ) Arafaat weggaat, gedenkt dan Allah te het Sacrale Monument en gedenkt Hem, omdat Hij u heeft geleid, terwijl gij voordien tot de dwalenden behoordet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

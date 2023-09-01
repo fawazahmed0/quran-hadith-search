@@ -986,7 +986,7 @@ Twee mannen van degenen die (Allah) vreesden en aan wie Allah van Zijn gunsten g
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarop zeiden twee mannen van degenen die hun Heer vreesden en wie Allah Zijn gunst had bewezen: 'Gaat de poort (van de stad) binnen, hen tegemoet - wanneer gij er eenmaal binnen zijt, dan zult gij zeker overwinnaar worden. En stelt uw vertrouwen in Allah, als gij gelovigen zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

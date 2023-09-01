@@ -986,7 +986,7 @@ Allah geeft het licht aan de hemelen en de aarde. De gelijkenis van Zijn licht i
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah is het Licht van de hemelen en de aarde. De gelijkenis van Zijn Licht is als een nis waarin een lamp staat. De lamp is door een glas omsloten; het glas is als een schitterende ster. Het wordt, aangestoken met olie van een gezegende boom, een olijfboom, die van het Oosten noch van het Westen is, welks olie bijna zou lichten, zelfs al raakte vuur haar niet. Licht op Licht. Allah leidt tot Zijn Licht wie Hij wil. - Allah geeft gelijkenissen voor de mensen; Allah heeft kennis van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

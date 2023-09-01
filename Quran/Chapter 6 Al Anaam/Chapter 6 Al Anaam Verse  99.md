@@ -986,7 +986,7 @@ Hij is Degene Die water uit de hemel doet neerdalen en Wij laten daarmee allerle
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Hij is het, Die water uit de wolken nederzendt en daardoor elke soort van groei voortbrengt. En evenzo brengen Wij daarmee groen, waarvan Wij korenaren voortbrengen. En er komen uit de scheden van de dadelpalm laaghangende trossen. En Wij (brengen er) wijngaarden en de olijf en de granaatappel (mee voort) van gelijke en ongelijke soort. Kijkt naar het fruit ervan, wanneer het vrucht zet en naar het rijpen daarvan. Hierin zijn voorzeker tekenen voor een volk dat (wil) geloven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

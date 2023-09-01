@@ -986,7 +986,7 @@ En zij zeiden: "Er is niets dan ons wereldse leven, wij sterven en wij leven, en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zeggen: 'Er is niets dan dit tegenwoordige leven, wij leven en sterven; alleen de tijd vernietigt ons.' Maar zij hebben daaromtrent geen kennis, zij vermoeden slechts
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

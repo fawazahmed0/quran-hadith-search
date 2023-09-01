@@ -986,7 +986,7 @@ Voorwaar, degenen die geloven en die zijn uitgeweken (naar Medinah) en die hebbe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, degenen die hebben geloofd en hun huizen verlieten en met hun bezittingen en hun persoon voor de zaak van Allah hebben gestreden en degenen die schuilplaats verstrekten en hielpen, zijn vrienden van elkander. Maar degenen die geloven en die hun huizen niet verlieten, gij zijt in het geheel niet verantwoordelijk voor hun bescherming tenzij zij hun huizen verlaten. Maar als zij hulp inzake het geloof zoeken dan is het uw plicht hen te helpen behalve tegen een volk, met hetwelk gij een verbond hebt. Allah ziet, wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

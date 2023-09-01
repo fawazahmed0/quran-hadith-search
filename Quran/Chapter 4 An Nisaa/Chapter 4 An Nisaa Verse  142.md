@@ -986,7 +986,7 @@ Voorwaar, de huichelaars proberen Allah te misleiden, en Hij vargeldt hun (misle
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De huichelaars trachten Allah te bedriegen, maar Hij zal hen voor hun bedrog straffen. En wanneer zij zich oprichten om te bidden, staan zij loom, en tonen zich aan de mensen en gedenken Allah slechts weinig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

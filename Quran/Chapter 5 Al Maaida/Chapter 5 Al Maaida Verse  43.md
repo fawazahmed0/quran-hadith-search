@@ -986,7 +986,7 @@ Maar hoe komt het, dat zij zich door jou laten oordelen, terwijl zij de de TaurÃ
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hoe zullen zij u tot rechter maken wanneer zij de Torah bij zich hebben waarin AllahÂ´s oordeel is? Toch wenden zij zich af. En zij zijn geen gelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Wie een slechte daad heeft verricht wordt niet anders dan met haar gelijke vergo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wie kwaad doet zal naar evenredigheid hiervan worden vergolden; maar wie goed doet, man of vrouw, en gelovig is zal het paradijs binnengaan; daarin zullen zij van alles worden voorzien, zonder berekening
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Totdat de Boodschappers wanhoopten en dachten dat zij werden geloochend, toen kw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Totdat, wanneer de boodschappers wanhoopten en zij dachten dat zij voor leugenaars verden gehouden, Onze hulp tot hen kwam en dan werd gered, wie Ons behaagde. En Onze kastijding wordt van een zondig volk niet afgewend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

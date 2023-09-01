@@ -986,7 +986,7 @@ En van de kamelen een koppel en van de koei en een koppel. Zeg: "Heeft Hij de tw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En twee der kamelen en twee der runderen. Zeg: 'Zijn het de twee mannelijke dieren die Hij heeft verboden of de twee vrouwelijke dieren ofwel, hetgeen de baarmoeders der twee vrouwelijke dieren bevatten? Waart gij aanwezig toen Allah u dit oplegde? Wie is dan onrechtvaardiger dan hij die een leugen over Allah bedenkt om de mensen zonder kennis te doen dwalen?' Voorzeker, Allah leidt het onrechtvaardige volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

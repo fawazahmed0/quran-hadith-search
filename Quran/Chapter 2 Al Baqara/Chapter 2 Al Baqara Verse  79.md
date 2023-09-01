@@ -986,7 +986,7 @@ Wee dan degenen die de Schrift met hun eigen handen schrijven en vervolgens zegg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wee daarom degenen, die een boek met hun eigen handen schrijven en dan zeggen: 'Dit is van Allah', opdat zij er een onwaardige prijs voor kunnen nemen. Wee hun dan, voor hetgeen hun handen schrijven en wee hun voor hetgeen zij verdienen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En de bewoners van Madyan. En Môesa werd geloochend. Toen gaf Ik uitstel aan de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de inwoners van Midian eveneens. En Mozes werd ook verloochend. Maar Ik schonk de ongelovigen uitstel, daarna greep Ik hen, en hoe (groot) was toen Mijn afkeer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

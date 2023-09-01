@@ -986,7 +986,7 @@ Toen Allah hen in jouw slaap gering in aantal toonde (was jij aangemoedigd). En 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gedenk de tijd toen Allah hen (de vijanden) in uw ogen als weinigen toonde; had Hij hen u als velen getoond, dan zoudt gij voorzeker hebben geweifeld en met elkander over de zaak getwist; maar Allah bewaarde u; voorzeker, Hij heeft volle kennis over hetgeen in het innerlijk is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

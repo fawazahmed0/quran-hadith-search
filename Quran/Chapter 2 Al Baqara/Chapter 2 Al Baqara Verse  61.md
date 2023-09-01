@@ -986,7 +986,7 @@ En (gedenkt) toen jullie zeiden: "O Môesa! Wij verdragen het niet om van één 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen gij zeidet: 'O Mozes, wij verdragen niet langer ��n soort voedsel, bid daarom voor ons tot uw Heer, dat Hij van hetgeen op aarde groeit - groenten en komkommers en tarwe en linzen en uien - voor ons voortbrenge,' zeide Hij: 'Zoudt gij hetgeen minderwaardig is in ruil willen nemen voor hetgeen beter is? Gaat naar een stad, daar zult gij vinden, waarom gij vraagt.' En zij kwamen in vernedering en arrmoede en brachten Allah´s toorn over zich; dit kwam, omdat zij de tekenen van Allah verwierpen en de profeten onrechtvaardig doodden, want zij waren ongehoorzaam en telkens weer in overtreding
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

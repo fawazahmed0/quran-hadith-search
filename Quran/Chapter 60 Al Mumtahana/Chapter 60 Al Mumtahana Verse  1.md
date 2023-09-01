@@ -986,7 +986,7 @@ O jullie die geloven, neemt niet Mijn vijanden en jullie vijanden tot vrienden, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij die gelooft, neemt Mijn vijanden en uw vijanden niet tot vrienden! Biedt gij hun vriendschap aan, hoewel zij de Waarheid die tot u is gekomen hebben verworpen en de boodschapper en uzelf verdrijven, omdat gij in Allah uw Heer gelooft? Indien gij optreedt om voor Mijn zaak te strijden en Mijn welbehagen te zoeken, zoudt gij hun dan in het geheim vriendschap betuigen? En Ik weet het beste wat gij verbergt en wat gij openbaar maakt. En wie van u zo handelt, is zeker van de rechte weg afgedwaald
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

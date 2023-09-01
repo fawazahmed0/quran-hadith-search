@@ -986,7 +986,7 @@ Laat degenen die ongelovig zijn niet denken dat Ons uitstel geven beter voor hen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En laat de ongelovigen niet denken dat het uitstel, dat Wij hun geven, goed voor hen is; Wij geven hun slechts uitstel, zodat zij in zonde toenemen; er zal voor hen een vernederende straf zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

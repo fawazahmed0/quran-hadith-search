@@ -986,7 +986,7 @@ En waarlijk, degenen voor hen beraamden (reeds) listen, maar Allah beheerst alle
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En degenen, die v��r hen waren, verzonnen plannen, maar (het slagen van) alle plannen berust bij Allah. Hij weet wat elke ziel verdient en de ongelovigen zullen weldra weten voor wie de uiteindelijke woonplaats is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

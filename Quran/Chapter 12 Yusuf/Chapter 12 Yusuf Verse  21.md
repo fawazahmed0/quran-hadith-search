@@ -986,7 +986,7 @@ En degene uit Egypte die hem had gekocht, zei tot zijn vrouw: "Geef hem een eerv
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de Egyptenaar, die hem kocht, zeide tot zijn vrouw: 'Maak zijn verblijf behoorlijk. Het is waarschijnlijk dat hij ons van nut kan zijn, of dat wij hem als zoon aannemen.' En zo vestigden Wij Jozef in het land, opdat Wij hem in het verklaren der dingen mochten onderwijzen. Allah heeft macht over Zijn gebod, maar de meeste mensen weten het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

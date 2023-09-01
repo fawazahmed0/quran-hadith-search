@@ -986,7 +986,7 @@ En wanneer iedere onrecht plegende mens zou beschikken over alles wat er op de a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien elke ziel die onrechtvaardig handelt al hetgeen op aarde is, zou bezitten, zou zij er zich voorzeker mede trachten vrij te kopen. En wanneer zij de straf zien zullen zij hun spijt tonen. Er zal met rechtvaardigheid over hen worden gericht en hun zal geen onrecht worden aangedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

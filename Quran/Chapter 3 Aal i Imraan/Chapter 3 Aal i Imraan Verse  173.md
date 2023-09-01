@@ -986,7 +986,7 @@ Degenen tegen wie de mensen zeggen: "Voorwaar, de mensen hebben zich tegen julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen de mensen tot hen zeiden: 'De volkeren hebben zich tegen u verzameld, vreest hen daarom,' vermeerderde dit hun geloof en zij antwoordden: 'Allah is ons genoeg en Hij is een uitstekende Beschermer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

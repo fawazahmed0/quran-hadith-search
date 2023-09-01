@@ -986,7 +986,7 @@ En als zij zich dan afwenden: Wij hebben jou niet als waker over hen gezonden, j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar indien zij zich afwenden hebben Wij u niet als wachter over hen gezonden. Het is alleen uw plicht de boodschap over te brengen. En waarlijk, wanneer Wij de mens Onze barmhartigheid betuigen, verheugt hij zich er in. Maar indien hun een kwaad overkomt door hetgeen hun handen hebben bedreven, dan voorzeker, is de mens ondankbaar
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

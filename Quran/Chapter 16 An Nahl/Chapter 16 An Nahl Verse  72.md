@@ -986,7 +986,7 @@ En Allah heeft voor julliezelf uit julliezelf echtgenotes doen voortkomen en hij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Allah heeft uit uw midden echtgenoten voor u gemaakt en heeft u van uw echtgenoten kinderen en kleinkinderen geschonken en u van goede dingen voorzien. Willen zij dan in valse dingen geloven en de gunst van Allah verloochenen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

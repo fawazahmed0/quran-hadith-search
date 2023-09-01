@@ -986,7 +986,7 @@ Hebben zij voeten waarmee zij lopen? Of hebben zij handen waarmee zij grijpen? O
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij voeten waarmede zij lopen of hebben zij handen waarmede zij vasthouden, of hebben zij ogen waarmede zij zien of hebben zij oren waarmede zij horen? Zeg: 'Roept de deelgenoten aan. Smeedt plannen tegen mij (profeet) en geeft mij geen uitstel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

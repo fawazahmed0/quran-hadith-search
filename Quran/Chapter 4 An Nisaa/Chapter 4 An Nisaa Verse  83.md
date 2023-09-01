@@ -986,7 +986,7 @@ En wanneer zij met een zaak van veiligheid of vrees tot ben komen, dan verspreid
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als er enig nieuws tot hen komt, hetzij over vrede of over vrees, verspreiden zij het en indien zij het naar de boodschapper hadden verwezen en naar hun gezaghebbers dan zouden degenen, die het konden verwerken, het zeker hebben begrepen. En ware Allah´s genade en Zijn barmhartigheid niet over u, dan zoudt gij zeker met uitzondering van enkelen, Satan hebben gevolgd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

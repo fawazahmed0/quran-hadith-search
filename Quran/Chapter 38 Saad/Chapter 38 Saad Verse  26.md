@@ -986,7 +986,7 @@ O Dâwôed, Wij hebben jou tot gevolmachtigde op aarde aangesteld, oordeel daaro
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Wij zeiden): 'O David, Wij hebben u als stedehouder op aarde aangewezen, spreek daarom recht over de mensen naar waarheid en volg (hun) begeerten niet, anders zullen zij u van de weg van Allah afleiden.' Degenen, die van de weg van Allah afdwalen zullen gewis een strenge straf ontvangen, omdat zij de Dag des Oordeels vergeten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

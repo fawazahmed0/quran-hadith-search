@@ -986,7 +986,7 @@ En als jullie in twijfel verkeren over wat Wij hebben neergezonden aan Onze dien
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En, indien gij in twijfel zijt omtrent hetgeen Wij aan Onze dienaar hebben geopenbaard, probeert dan een dergelijk hoofdstuk voort te brengen en roept uw helpers buiten Allah, als gij waarachtig zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

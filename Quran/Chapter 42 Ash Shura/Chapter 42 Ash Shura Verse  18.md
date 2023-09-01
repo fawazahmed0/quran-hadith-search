@@ -986,7 +986,7 @@ Degenen die er niet in geloven vragen om het (Uur) te bespoedigen. En degenen di
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De ongelovigen vragen het te verhaasten maar de gelovigen vrezen er voor en weten dat het de Waarheid is. Ziet toe! Zij die over het Uur redetwisten zijn ver afgedwaald
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

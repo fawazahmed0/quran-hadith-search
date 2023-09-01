@@ -986,7 +986,7 @@ Zeg: "Als ik dwaal, dan dwaal ik slechts in het nadeel van mijzelf, en als ik de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Als ik dwaal, dwaal ik slechts door mijzelf; en indien ik goed geleid ben, is het door hetgeen mijn Heer mij heeft geopenbaard. Voorwaar, Hij is de Alhorende, de Nabijzijnde
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

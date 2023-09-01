@@ -986,7 +986,7 @@ Ik heb hen niet anders gezegd dan U mij heeft geboden te zeggen: 'Dient Allah, m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ik zeide niets tot hen, dan hetgeen Gij mij hebt geboden: 'Aanbidt Allah, mijn Heer en uw Heer.' En ik was getuige van hen, zolang ik in hun midden verbleef, maar nadat Gij mij deedt sterven, waart Gij de Bewaker over hen en Gij zijt Getuige van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

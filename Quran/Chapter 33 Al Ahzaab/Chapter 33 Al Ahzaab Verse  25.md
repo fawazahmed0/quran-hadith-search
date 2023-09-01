@@ -986,7 +986,7 @@ En Allah dreef de ongelovigen en hun woede (over hun verlies) terug; zij verkreg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah weerhield de ongelovigen in hun woede; zij verwierven geen voordeel. En Allah was toereikend (als Beschermer) voor de gelovigen in de slag. Allah is Sterk, Almachtig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

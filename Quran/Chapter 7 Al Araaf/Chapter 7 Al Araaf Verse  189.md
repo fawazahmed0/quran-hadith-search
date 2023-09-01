@@ -986,7 +986,7 @@ Hij is Degene Die jullie heeft geschapen uit één enkele ziel en Hij maakte daa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die u uit een enkele ziel heeft geschapen en daaruit haar gade maakte, opdat deze troost in haar mocht vinden. En nadat hij haar bekend heeft, draagt zij een lichte last en gaat er mede rond. En wanneer deze zwaar wordt, bidden zij beiden tot Allah hun Heer: 'Als Gij ons een goed kind geeft, zullen wij zeker tot de dankbaren behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Laten de gelovigen niet de ongelovigen in plaats van de gelovigen als beschermer
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Laat de gelovigen geen ongelovigen als vrienden verkiezen boven de gelovigen - en wie dat doet heeft geen deel aan Allah, tenzij gij u zorgvuldig voor hen hoedt. En Allah waarschuwt u voor Hemzelf en tot Allah zullen allen wederkeren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

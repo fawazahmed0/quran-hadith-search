@@ -986,7 +986,7 @@ O mensheid, Wij hebben jullie geschapen uit een man en een vrouw en Wij hebben j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, mensdom! Wij hebben u uit man en vrouw geschapen en Wij hebben u tot volkeren en stammen gemaakt, opdat gij elkander moogt kennen. Voorzeker, de godvruchtigste onder u is de eerwaardigste bij Allah. Voorwaar, Allah is Alwetend, Alkennend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

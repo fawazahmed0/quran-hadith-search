@@ -986,7 +986,7 @@ En toen Môesa op de met Ons afgesproken tijd was gekomen en zijn Heer tot hem h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Mozes op Onze vastgestelde tijd kwam en zijn Heer tot hem sprak, zeide hij: 'Mijn Heer, toon U aan mij, opdat ik U moge aanschouwen.' Hij (Allah) antwoordde: 'Gij zult Mij stellig niet kunnen aanschouwen, maar kijk naar de berg en als deze op zijn plaats blijft, dan zult gij Mij wel kunnen zien.' En toen zijn Heer Zich op de berg openbaarde, brak deze in stukken en Mozes viel bewusteloos neder. En toen hij tot zichzelf kwam, zeide hij: 'Heilig zijt Gij, ik wend mij tot U en ik ben de eerste der gelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

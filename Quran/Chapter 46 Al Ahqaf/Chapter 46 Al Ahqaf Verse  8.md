@@ -986,7 +986,7 @@ Of zeggen zij dat hij hem (de Koran) heeft verzonnen? Zeg: "Als ik hem had verzo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeggen zij: 'Hij heeft dit verzonnen,' Zeg: 'Als ik het heb verzonnen, kunt gij mij tegen Allah niets baten. Hij weet het beste, wat gij daaromtrent zegt. Hij is voldoende als Getuige tussen u en mij. Hij is de Vergevensgezinde, de Genadevolle
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En jouw Heer is de Behoefteloze, de Bezitter van Barmhartigheid. Als Hij wil, da
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En uw Heer is Onafhankelijk, Barmhartig. En als Hij het wil, kan Hij u wegnemen en u doen opvolgen wie Hij wil, zoals Hij u uit het nageslacht van andere mensen deed ontstaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

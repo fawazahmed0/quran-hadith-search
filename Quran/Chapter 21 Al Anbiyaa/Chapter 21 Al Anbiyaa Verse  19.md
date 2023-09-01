@@ -986,7 +986,7 @@ Aan Hem behoort wat in de hemelen en op de aarde is. En degenen die niet Hem zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hem behoort wat in de hemelen en op aarde is, en degenen die zich in Zijn tegenwoordigheid bevinden, zijn niet te trots om Hem te aanbidden, noch worden zij dit moede
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

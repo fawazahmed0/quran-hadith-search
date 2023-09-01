@@ -986,7 +986,7 @@ De pomen van de hemelen, zodat ik de God van Môesa kan zien. En voorwaar, ik ve
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De toegangswegen der hemelen, opdat ik de God van Mozes moge bereiken ofschoon ik zeker weet dat hij een leugenaar is.' Zo werd voor Pharao zijn slechte daad schoonschijnend gemaakt, hij werd van het rechte pad afgeleid en Pharao´s plan eindigde slechts in ondergang
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

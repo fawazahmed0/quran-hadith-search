@@ -986,7 +986,7 @@ Voorzeker, Wij hebben Onze Boodschappers met de duidelijke bewijzen gezonden en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Wij zonden Onze boodschappers met duidelijke bewijzen en openbaarden hun het Boek en de Weegschaal opdat het mensdom rechtvaardig moge zijn. Wij hebben ijzer nedergezonden, waardoor grote strijd doch ook grote voordelen voor het mensdom ontstaan, opdat Allah degenen moge onderscheiden, die in het ongeziene Hem en Zijn boodschappers helpen. Zeker, Allah is Sterk, Almachtig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

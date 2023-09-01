@@ -986,7 +986,7 @@ Fir'aun zei: "Geloven jullie hem vóór dat ik jullie toestemming heb gegeven? V
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Pharao zeide: 'Hebt gij v��r ik het u toestond in Hem geloofd? Dit is voorzeker een complot dat gij in de stad hebt gesmeed, opdat gij haar bewoners er uit moogt verdrijven maar gij zult het weldra te weten komen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

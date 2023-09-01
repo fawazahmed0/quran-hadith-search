@@ -986,7 +986,7 @@ Die onrechtvaardig uit hunne woningen werden verjaagd, en om geene andere redene
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen die ten onrechte uit hun huizen werden verdreven alleen omdat zij zeiden: 'Onze Heer is Allah.' - En indien Allah sommige mensen niet met behulp van anderen tegenhield, zouden ongetwijfeld kloosters, kerken, synagogen en moskee�n, waarin dikwijls de naam van Allah wordt herdacht, afgebroken zijn. Allah zal ongetwijfeld degene ondersteunen die Hem helpt - Allah is inderdaad Sterk, Almachtig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

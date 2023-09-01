@@ -986,7 +986,7 @@ En als jullie een gunst van Allah ten deel valt, dan zegt hij, alsof er tussen j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar als een genade van Allah tot u komt, zegt hij - alsof er geen vriendschap tussen u en hem bestond - 'Ware ik bij hen geweest, dan zou ik inderdaad een groot voordeel hebben bereikt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

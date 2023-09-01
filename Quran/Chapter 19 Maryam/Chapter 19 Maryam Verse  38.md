@@ -986,7 +986,7 @@ Hoeveel beter zullen zij luisteren en hoeveel scherper zullen zij zien op de Dag
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hoe helder zal hun horen en hun zien zijn op die Dag wanneer zij tot Ons zullen komen. Waarlijk, de onrechtvaardigen zijn in duidelijke dwaling
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

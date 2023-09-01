@@ -986,7 +986,7 @@ Bij Hem is jullie plaats van terugkeer van jullie allen, als een ware belofte va
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tot Hem is uw aller terugkeer, dit is de ware belofte van uw Heer. Voorzeker, Hij begint de schepping, daarna zet Hij haar voort, opdat Hij degenen die geloven en goede werken doen met rechtvaardigheid moge belonen. En de ongelovigen zullen een drank van kokend water en een pijnlijke straf ontvangen, daar zij (de waarheid) verwierpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

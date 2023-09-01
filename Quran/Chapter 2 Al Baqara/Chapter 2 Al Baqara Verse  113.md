@@ -986,7 +986,7 @@ En de Joden zeiden: "De christenen hebben geen grondslag" (voor hun beweringen).
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Joden zeggen: 'De Christenen hebben geen ware grondslag en de Christenen zeggen: 'De Joden hebben geen ware grondslag', terwijl zij beiden hetzelfde Boek lezen. Hetzelfde zeggen degenen, die geen kennis hebben. Maar Allah zal op de Dag der Opstanding uitspraak doen in hun geschil
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Als Allah jou (O Moehammad) dan (veilig) terugbrengt naar een groep van hen, dan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als Allah u tot een gedeelte hunner terugzendt en zij u om toestemming vragen om uit te trekken (tot het gevecht), zeg dan: 'Gij zult met mij niet uittrekken en gij zult nooit een vijand met mij bestrijden. Gij verkoost eerst thuis te blijven, zit daarom thans met degenen, die achterblijven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

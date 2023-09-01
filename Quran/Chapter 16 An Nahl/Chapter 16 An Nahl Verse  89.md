@@ -986,7 +986,7 @@ En op die dag zullen Wij uit het midden van iedere gemeenschap een getuige doen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En (gedenk) de dag waarop Wij onder elk volk een getuige tegen hen uit hun midden zullen verwekken en u (profeet) als getuige tegen dezen zullen brengen. Wij hebben u het Boek nedergezonden, alles verklarend, als leiding, barmhartigheid en blijde tijding voor hen die zich onderwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

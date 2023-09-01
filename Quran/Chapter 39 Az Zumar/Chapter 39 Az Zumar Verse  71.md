@@ -986,7 +986,7 @@ En degenen die ongelovig waren zullen in menigten naar de Hel gevoerd worden. To
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de ongelovigen zullen naar de hel worden gedreven, wanneer zij deze bereiken, zullen de poorten worden geopend en haar wachters zullen tot hen zeggen: 'Kwamen er geen boodschappers van uit uw midden tot u, de tekenen van uw Heer verkondigende en u waarschuwende voor de komst van deze Dag?' Zij zullen antwoorden: 'Ja zeker!' Maar nu is de uitspraak van de straf tegen de ongelovigen van kracht geworden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hun Boodschappers zeiden: "Is er twijfel over Allah, de Schepper van de hemel en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hun boodschappers antwoordden: 'Bestaat er twijfel over Allah, Schepper der hemelen en der aarde? Hij roept u, opdat Hij uw zonden moge vergeven en u uitstel moge verlenen voor een vastgestelde periode.' Zij zeiden: 'Gij zijt slechts mensen als wij; gij wenst ons afkerig te maken van hetgeen onze vaderen aanbaden. Brengt ons daarom een duidelijk bewijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

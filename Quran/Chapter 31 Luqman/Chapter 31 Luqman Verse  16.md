@@ -986,7 +986,7 @@ O mijn zoon! waarlijk, iedere zaak, hetzij die goed of kwaad zij, hetzij die de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O mijn lieve zoon! Al zou het het gewicht van een mosterdzaadje zijn, en al zou het zich in een rots bevinden of in de hemelen of op aarde, Allah zal het zeker openbaar maken. Voorwaar, Allah is Aldoordringend, Alkennend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Dit zijn twee tegenstanders die over hun Heer twisten. Voor degenen die niet gel
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hier zijn twee tegenstanders die redetwisten over hun Heer. Voor de ongelovigen zullen gewaden van Vuur worden gesneden en over hun hoofd zal kokend water worden uitgegoten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

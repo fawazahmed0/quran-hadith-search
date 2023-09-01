@@ -986,7 +986,7 @@ Voorwaar, jouw Heer weet dat jij bijna tweederde van de nacht, of de helft of ee
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk uw Heer weet dat gij bijna twee-derde van de nacht staat (te bidden), somsdehelft of ook wel een derde er van, en eveneens doet dit een deel van degenen die met u zijn. En Allah bepaalt de maat van dag en nacht. Hij weet, dat gij het niet kunt volhouden, en daarom heeft Hij Zich in barmhartigheid tot u gewend. Zegt dan zoveel van de Koran op als u gemakkelijk valt. Hij weet dat er enigen onder u ziek kunnen zijn, en anderen op reis door het land trekken, zoekende naar Allah´s genade, en weer anderen strijdend voor Allah´s zaak. Zegt er dus zoveel van (de Koran) op, als u gemakkelijk valt en onderhoudt het gebed, en betaalt de Zakaat, en sluit met Allah een goede lening. En wat goeds gij voor u uitzendt, gij zult betere en grotere beloning bij Allah vinden. En zoekt vergiffenis van Allah, voorwaar, Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

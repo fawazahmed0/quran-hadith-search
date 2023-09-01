@@ -986,7 +986,7 @@ En eet niet van hetgeen waarover (tijdens het slachten) de Naam van Allah niet i
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En eet niet van hetgeen, waarover de naam van Allah niet is uitgesproken, want dat is zeker ongehoorzaamheid. En de bozen sporen hun vrienden aan opdat zij met u mogen redetwisten. Als gij hen gehoorzaamt zult gij inderdaad afgodendienaren zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

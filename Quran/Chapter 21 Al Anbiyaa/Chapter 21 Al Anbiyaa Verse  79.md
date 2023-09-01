@@ -986,7 +986,7 @@ En Wij deden Soelaimân (de zaak) begrijpen. En aan ieder van hen gaven Wij wijs
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij schonken Salomo begrip van de zaak en aan elk hunner schonken Wij wijsheid en kennis. En Wij noopten de bergen en de vogels om samen met David Gods heerlijkheid te loven. En Wij waren het, Die dat deden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

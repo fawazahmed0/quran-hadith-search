@@ -986,7 +986,7 @@ O jullie die geloven! Komt de beloften na. Toegestaan voor jullie zijn de dieren
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, komt uw verdragen na. Viervoetige dieren buiten die welke u zijn aangegeven, zijn u geoorloofd; het wild is niet geoorloofd te achten terwijl gij ter bedevaart zijt. Voorwaar, Allah gebiedt wat Hij wil
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

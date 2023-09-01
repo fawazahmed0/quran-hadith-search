@@ -986,7 +986,7 @@ De gelijkenis van degenen aan wie de Taurât is opgedragen en zich er vervolgens
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen die belast zijn met de Torah en deze niet naleven, zijn als een ezel die boeken draagt. Slecht is de staat van het volk dat de tekenen van Allah verwerpt. En Allah leidt het onrechtvaardige volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

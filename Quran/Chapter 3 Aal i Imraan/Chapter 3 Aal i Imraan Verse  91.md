@@ -986,7 +986,7 @@ Voorwaar, degenen die ongelovig zijn en stefven terwijl zijn ongelovig zijn: van
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen die ongelovig zijn en als ongelovigen sterven, van geen hunner zal een aarde vol goud worden aanvaard als hij zich daarmede zou willen vrijkopen. Dezen zijn het wie een smartelijke straf wacht en er zullen voor hen geen helpers zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

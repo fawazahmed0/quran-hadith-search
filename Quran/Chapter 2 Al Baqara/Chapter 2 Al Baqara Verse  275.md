@@ -986,7 +986,7 @@ Degenen die van de rente eten zullen niet anders opstaan als degene die opstaat 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen, die woekerwinst maken, verrijzen zoals iemand, die door Satan met krankzinnigheid is geslagen. Dat komt, omdat zij zeggen: 'Handel is gelijk aan rente', terwijl Allah de heeft wettig en de rente onwettig heeft verklaard. Die daarom een vermaning van zijn Heer krijgt en er mee ophoudt, hem zal toebehoren, hetgeen hij vroeger heeft ontvangen en zijn zaak is bij Allah. En zij, die terugvallen, zij zijn de mensen van het Vuur, daarin zullen zij vertoeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

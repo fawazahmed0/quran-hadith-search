@@ -986,7 +986,7 @@ O jullie die geloven! Stelt getuigen onder jullie aan wanneer één van jullie d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, wanneer de dood ��n uwer nadert, ten tijde dat gij een testament maakt, zal er een getuigenis zijn van twee uwer rechtvaardige mannen; of van twee anderen die niet van uit uw midden zijn indien gij door het land reist en de rampspoed des doods u overvalt. Indien gij twijfelt, houdt hen na het gebed en laat hen zweren bij Allah, zeggende: 'Wij nemen hier geen waarde voor in ruil, hoewel hij een bloedverwant is, wij verbergen Allah´s getuigenis niet, wij zouden in dat geval tot de zondaars behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En streeft naar Allah volgens het streven waar Hij rechtop heeft. Hij heeft jull
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En strijdt voor de zaak van Allah zoals er voor behoort te worden gestreden. Hij heeft u verkozen en heeft u in de godsdienst geen lasten opgelegd - dit is het geloof van uw vader Abraham. Hij heeft u Moslims genoemd voorheen en in dit Boek, opdat Onze boodschapper getuige over u zij, en dat gij getuige moogt zijn over de mensheid. Onderhoudt het gebed, betaalt de Zakaat en houdt u aan Allah vast. Hij is uw Beschermer. Een uitmuntend Meester en een uitnemend Helper
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

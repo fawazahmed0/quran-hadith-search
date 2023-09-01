@@ -986,7 +986,7 @@ Allah heeft met betrekking tot (de erfenis) aan jullie kinderen voorgeschreven: 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah gebiedt u aangaande uw kinderen: voor het mannelijke kind evenveel als het deel van twee vrouwelijke kinderen, maar als er alleen meisjes zijn, meer dan twee, dan is er voor haar tweederde van de nalatenschap en als er slechts ��n is, voor haar is de helft. En voor elk zijner ouders is er een zesde deel der erfenis, als hij een kind heeft, maar als hij geen kind heeft en zijn ouders van hem erven, dan is er voor zijn moeder een derde deel en als hij broeders en zusters heeft, dan is er voor zijn moeder een zesde deel na de betaling van enig legaat, dat hij heeft nagelaten of van (niet vereffende) schuld. Uw ouders en uw kinderen, gij weet niet, wie van hen u het meest tot heil is. Dit is vastgesteld door Allah. Voorzeker, Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

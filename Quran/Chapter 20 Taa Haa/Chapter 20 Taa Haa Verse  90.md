@@ -986,7 +986,7 @@ En voorzeker, Hârôen had tevoren gezegd: "O mijn volk, jullie worden daarmee o
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En inderdaad had A�ron reeds tot hen gezegd: 'O mijn volk, voorzeker gij zijt daarmee op de proef gesteld. Voorwaar uw Heer is de Barmhartige; volgt mij derhalve en gehoorzaamt mijn bevel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Allah heeft zich geen kind genomen en er is geen god naast Hem! Dan zou iedere g
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah heeft zich geen zoon genomen, noch is er enige God naast Hem, anders zou elke God hetgeen Hij schiep, voor zich houden, en sommigen hunner zouden zeker anderen hebben overwonnen. Verheven is Allah boven al hetgeen zij beweren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

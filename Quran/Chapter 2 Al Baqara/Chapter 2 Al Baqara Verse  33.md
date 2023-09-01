@@ -986,7 +986,7 @@ Hij zei: "O Adam, noem hun de namen ervan." En toen hij hun de namen ervan had g
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zeide: 'O, Adam, zeg hun de namen van deze dingen', en toen hij de namen had genoemd, zeide Hij: 'Zeide Ik u niet: Waarlijk Ik ken de geheimen der hemelen en der aarde en Ik weet, wat gij onthult en wat gij verbergt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

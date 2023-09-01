@@ -986,7 +986,7 @@ Toen gcloofde niemand Môesa, behalve (enkele) jongelingen van zijn volk, terwij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En niemand geloofde Mozes, dan enige jongelingen van onder zijn volk, uit vrees voor Pharao en zijn leiders, in geval hij hen zou vervolgen. En waarlijk. Pharao was een tiran in het land en behoorde tot de buitensporigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

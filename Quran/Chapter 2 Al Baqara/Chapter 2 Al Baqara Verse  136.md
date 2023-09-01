@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Wij geloven in Allah en wat er aan ons is neergezonden en wa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zegt: 'Wij geloven in Allah en in hetgeen ons is geopenbaard en in hetgeen tot Abraham, Isma�l, Iza�k, Jacob en de stammen werd nedergezonden en in hetgeen aan Mozes en Jezus werd gegeven en in hetgeen aan alle andere profeten werd gegeven door hun Heer. Wij maken geen onderscheid tussen hen en aan Hem onderwerpen wij ons
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

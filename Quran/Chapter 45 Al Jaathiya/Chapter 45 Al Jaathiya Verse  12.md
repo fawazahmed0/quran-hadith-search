@@ -986,7 +986,7 @@ Allah is Degene Die de zee voor jullie dienstbaar heeft gemaakt, opdat de schepe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah is Hij, Die de zee in uw dienst heeft gesteld, zodat schepen er op varen door Zijn gebod opdat gij naar Zijn overvloed zult zoeken en dat gij dankbaar moogt zjin
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

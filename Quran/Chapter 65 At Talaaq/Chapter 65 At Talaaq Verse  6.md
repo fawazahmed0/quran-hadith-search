@@ -986,7 +986,7 @@ Laat hen (gedurende de wachttijd) wonen zoals jullie zelf wonen, naar jullie ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Herbergt haar (van wie gij scheidt) in de huizen waar gij vertoeft, overeenkomstig uw middelen; en doet haar geen kwaad om het haar moeilijk te maken. En als zij zwanger zijn, onderhoudt haar tot zij verlost zijn. En als zij haar kind voor u zogen geeft haar vergoeding en beraadslaagt tezamen in vriendelijkheid; maar als gij het lastig voor elkander maakt laat dan een andere vrouw het kind zogen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

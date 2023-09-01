@@ -986,7 +986,7 @@ Zeg (O Moehammad): "O Lieden van de Schrift! Jullie zijn niet (op de juiste weg)
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'O, mensen van het Boek, gij steunt op niets voordat gij de Torah en het Evangelie en hetgeen u van uw Heer is nedergezonden, onderhoudt. En waarlijk, hetgeen u van uw Heer is nedergezonden zal velen hunner in opstandigheid en ongeloof doen toenemen; treurt derhalve niet over het ongelovige volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

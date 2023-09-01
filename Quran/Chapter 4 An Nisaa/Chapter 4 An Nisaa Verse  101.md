@@ -986,7 +986,7 @@ En als jullie op de aarde rondtrekken, dan is het voor jullie geen zonde de shal
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer gij door het land reist, zal het voor u geen zonde zijn het gebed te bekorten, als gij vreest dat degenen, die niet geloven u last zullen veroorzaken. Voorwaar, de ongelovigen zijn een openlijke vijand voor u
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

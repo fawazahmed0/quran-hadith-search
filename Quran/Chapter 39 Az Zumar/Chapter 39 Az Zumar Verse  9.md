@@ -986,7 +986,7 @@ Is de gehoorzame die een gedeelte van de nacht, zich neerknielend en staand (in 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is hij, die God vereert in de uren der nacht, nederknielende en staande, die voor het Hiernamaals vreest en hoopt op de barmhartigheid van zijn Heer. Zeg: 'Zijn zij die weten gelijk aan hen die niet weten?' Maar alleen de verstandigen trekken er lering uit
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

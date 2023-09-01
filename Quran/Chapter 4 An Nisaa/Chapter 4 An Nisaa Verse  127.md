@@ -986,7 +986,7 @@ En zij vragen jou om een uitspraak (Fatwa) over de vrouwen. Zeg: "Allah geeft ui
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij (de gelovigen) vragen uw uitspraak over de vrouwen; Zeg: 'Allah geeft u Zijn uitspraak over haar; alsmede hetgeen u in het Boek (de Koran) is verkondigd over de weesmeisjes, aan wie gij het haar toegekende niet geeft en die gij wenst te huwen en over de zwakken onder de kinderen en dat gij de wezen rechtvaardig moet behandelen. En welke weldaad gij ook verricht, voorzeker, Allah weet het goed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

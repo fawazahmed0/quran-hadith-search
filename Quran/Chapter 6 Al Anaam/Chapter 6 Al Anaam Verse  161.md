@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Voorwaar, Mijn Heer heeft mij op een reht Pad geleid, de war
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Wat mij betreft, mijn Heer heeft mij op het rechte pad geleid - een goed geloof, de godsdienst van Abraham, de oprechte. En hij behoorde niet tot de afgodendienaren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

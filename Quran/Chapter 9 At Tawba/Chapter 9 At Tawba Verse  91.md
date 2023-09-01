@@ -986,7 +986,7 @@ Er rust geen zonde op de zwakken, de zieken, noch op degenen die niets kunnen vi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er rust op de zwakken en op de zieken en op degenen die niets vinden om weg te geven, geen schuld, indien zij oprecht zijn jegens Allah en Zijn boodschapper. Er rust geen blaam op degenen die goed doen; Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

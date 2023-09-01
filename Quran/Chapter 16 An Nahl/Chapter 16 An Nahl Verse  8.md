@@ -986,7 +986,7 @@ En het paard, de muilezel en de ezel, zodatiullie erop kunnen rijden en (zij zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En paarden en muildieren en ezels (heeft Hij) geschapen opdat gij er op moogt rijden en tot sieraad (voor u). En Hij zal ook wat gij nog niet kent, scheppen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

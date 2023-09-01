@@ -986,7 +986,7 @@ En zij hebben bij Allah dure eden gezworen dat indien er een Teken tot hen zou k
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zweren hun sterkste eden bij Allah, dat, indien er een teken tot hen zou komen, zij er gewis in zouden geloven. Zeg: 'Voorzeker, de tekenen zijn bij Allah.' En wat weet gij: Wanneer de tekenen komen, zullen zij stellig niet geloven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

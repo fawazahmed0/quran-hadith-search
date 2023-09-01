@@ -986,7 +986,7 @@ En zij zullen zeggen: "Alle lof zij Allah Die Zijn belofte aan ons heeft vervuld
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zullen zeggen: 'Alle lof behoort aan Allah, Die Zijn belofte aan ons heeft vervuld en ons het land als erfenis heeft gegeven om daarin te vertoeven, waar wij ook willen.' Hoe voortreffelijk is het loon der (rechtvaardige) werkers
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

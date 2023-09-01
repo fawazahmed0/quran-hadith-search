@@ -986,7 +986,7 @@ Maar als jullie niemand daar (thuis) in vinden: gaat er den niet binnen totdat j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien gij niemand daarin vindt, gaat ze niet binnen voordat gij toestemming krijgt. En als er tot u wordt gezegd: 'Gaat terug,' gaat dan terug want dit is voegzamer voor u. Allah is op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Dat zijn de Boodschappers van wie Wij sommigen boven anderen bevoorrecht hebben,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Van deze boodschappers hebbell wij sommigen boven anderen verheven; tot sommigen hunner sprak Allah en sommigen hunner verhief Hij in rang. En Wij gaven Jezus, zoon van Maria duidelijke tekenen en versterkten hem met de geest der heiligheid. En indien Allah wilde, zouden zij, die na hem kwamen, elkander niet hebben bestreden, nadat de duidelijke tekenen tot hen waren gekomen, maar zij twistten, daar sommigen hunner geloofden en anderen verwierpen. En indien Allah wilde, zouden zij elkander niet hebben bestreden, maar Allah doet, wat Hij wil
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En wanneer Wij hem genietingen doen proeven nadat tegenslagen hem troffen zal hi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als Wij, nadat tegenspoed hem heeft geraakt, voorspoed doen smaken, zal hij voorzeker zeggen: 'De rampspoed is van mij geweken.' Ziet! hij wordt jubelend en aanmatigend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

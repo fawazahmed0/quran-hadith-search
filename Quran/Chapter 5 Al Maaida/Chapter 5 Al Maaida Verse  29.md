@@ -986,7 +986,7 @@ Voorwaar, ik wil dat je mijn zonde en jouw zonde op je neemt en dat he dan tot d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ik wens, dat gij zowel met de zonde tegen mij, als met uw zonde terugkeert, zodat gij tot de bewoners van het Vuur zult behoren, dat is de beloning der misdadigers
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

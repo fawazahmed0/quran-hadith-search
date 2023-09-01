@@ -986,7 +986,7 @@ Voelen degenen die slechte daden beramen zich er dan veilig voor dat Allah hen n
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voelen degenen die boze plannen verzinnen, zich er dan veilig tegen dat Allah hen in de grond zal doen verzinken, of dat de straf over hen zal komen vanwaar zij het niet bemerken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

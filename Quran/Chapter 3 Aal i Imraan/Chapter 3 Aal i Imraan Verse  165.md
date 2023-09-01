@@ -986,7 +986,7 @@ En toen een ramp jullie troF (bij Oehoed), hoewel jullie (JE vijanden) met om du
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer u rampspoed overkomt - en gij hadt het dubbele er van aangedaan (aan uw vijanden) - zegt gij: 'Vanwaar komt dit?' Zeg: 'Het komt door uzelf.' Voorwaar, Allah heeft macht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

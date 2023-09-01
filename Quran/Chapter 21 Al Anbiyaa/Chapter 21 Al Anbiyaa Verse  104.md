@@ -986,7 +986,7 @@ Op dien dag zullen wij de hemelen oprollen, zoo als de engel Al Sijil het boek o
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Dag, waarop Wij de hemelen zullen oprollen zoals een schrijver zijn geschriften oprolt. Gelijk Wij de schepping eerst begonnen, aldus zullen Wij haar terugbrengen - een Belofte van Ons; voorwaar Wij zullen deze nakomen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

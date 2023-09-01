@@ -986,7 +986,7 @@ En toen Môesa tot hen kwam met Onze duidelijke Tekenen, zeiden zei: "Dit is sle
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Mozes met Onze duidelijke tekenen tot hen kwam, zeiden zij: 'Dit is niets dan verzonnen tovenarij, en wij hoorden nooit van iets dergelijks onder onze voorvaderen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij zeiden: "O Môesa, daarin is een heel sterk volk en wij zullen daarin nooit 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'O, Mozes, daarin is een trots en machtig volk en wij zullen er niet binnengaan voordat zij er uit weggaan. En indien zij er uit weggaan, zullen wij het binnentrekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

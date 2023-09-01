@@ -986,7 +986,7 @@ Nu heeft Allah jullie verlichting gegeven en Hij weet dat er onder jullie zwakke
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar nu heeft Allah uw last verlicht, want Hij weet dat er zwakheid in u is. Als er daarom honderd uwer zijn die standvastig zijn, zullen zij tweehonderd overweldigen en als er duizend uwer zijn zullen zij door het gebod van Allah twee duizend overwinnen. En Allah is met degenen die standvastig zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

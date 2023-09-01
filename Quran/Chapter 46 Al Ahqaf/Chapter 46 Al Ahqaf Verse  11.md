@@ -986,7 +986,7 @@ En degenen die niet geloofden, zeiden tegen degenen die geloofden: "Als hij (de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de ongelovigen zeggen over de gelovigen: 'Indien dit goed was, zouden zij ons daarin niet voorgegaan zijn. ' En omdat zij de rechte weg niet hebben gevolgd, zeggen zij: 'Dit is een oude leugen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

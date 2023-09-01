@@ -986,7 +986,7 @@ O jullie die geloven, wanneer tot jullie gezegd wordt: "Maakt ruimte in de plaat
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, als er u gezegd wordt: 'Maakt plaats in vergaderingen, maakt dan plaats; Allah zal rijkelijk plaats voor u maken. En als er gezegd wordt 'Staat op' staat dan op; Allah zal de gelovigen onder u en hen die kennis werd gegeven in rang verheffen. En Allah is goed op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

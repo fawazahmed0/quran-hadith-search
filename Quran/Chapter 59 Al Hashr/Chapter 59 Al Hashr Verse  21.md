@@ -986,7 +986,7 @@ Als Wij deze Koran tot een berg hadden neergezonden, dan had jij deze zich zeker
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien Wij deze Koran op een berg hadden doen neerkomen, dan hadt gij de berg zich zien vernederen en splijten uit vrees voor Allah. Deze gelijkenissen zetten Wij aan de mensen voor opdat zij er over nadenken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

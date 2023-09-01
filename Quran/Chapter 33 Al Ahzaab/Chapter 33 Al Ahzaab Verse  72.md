@@ -986,7 +986,7 @@ Voorvaar, Wij hebben de Amânah (godsdienstige plichten) aan de hemelen en de aa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Wij boden de hemelen, de aarde en de bergen aan, hun (iets) toe te vertrouwen, maar zij weigerden dit te dragen en vreesden er voor, maar de mens nam het op zich. Inderdaad, hij is zeer onrechtvaardig (jegens zichzelf), onwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

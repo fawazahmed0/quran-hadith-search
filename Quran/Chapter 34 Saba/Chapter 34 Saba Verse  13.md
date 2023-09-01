@@ -986,7 +986,7 @@ Zij maakten voor hem wat hij wilde; hoge gehouwen, beelden en schalen zo groot a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij maakten voor hem wat hij wenste, paleizen en standbeelden, en waterreservoirs en grote pannen: 'Betoon, O Huis van David, dankbaarheid,' doch slechts weinigen van Mijn dienaren zijn dankbaar
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

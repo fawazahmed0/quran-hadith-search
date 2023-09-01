@@ -986,7 +986,7 @@ En onder hen zijn er die naar jou luisteren; maar wanneer zij bij jou weggaan, z
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En sommigen onder hen luisteren naar u doch wanneer zij van u weggaan, zeggen zij tot hen aan wie kennis is gegeven: 'Wat zeide hij zo juist?' Allah heeft hun hart verzegeld, zij volgen hun eigen neigingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij zeiden: "De bestraffing van degene bij wie de drinkbeker in zijn proviandzak
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij antwoordden: 'De straf er voor zal zijn: hij, in wiens zadeltas ze wordt gevonden zal zelf de boete er voor zijn. Zo straffen wij de boosdoeners
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

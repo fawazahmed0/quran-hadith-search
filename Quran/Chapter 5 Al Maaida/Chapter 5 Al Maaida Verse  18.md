@@ -986,7 +986,7 @@ En de Joden en de Christenen zeiden: "Wij zijn zonen van Allah en Zijn geliefden
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Joden en de Christenen zeggen: 'Wij zijn Allah´s kinderen en Zijn geliefden.' Zeg: 'Waarom straft Hij u dan voor uw zonden? Neen, gij zijt mensen onder degenen die Hij schiep. Hij vergeeft, wie Hij wil en Hij straft, wie Hij wil. En aan Allah behoort het koninkrijk der hemelen en der aarde en wat daartussen is en tot Hem is de terugkeer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

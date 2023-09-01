@@ -986,7 +986,7 @@ En voorzeker, Wij hebben de kinderen van Adam geëerd. Wij brachten hen op het l
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En inderdaad hebben Wij de kinderen van Adam ge�erd en hen gedragen over land en zee, en hun van het goede gegeven en hen verheven boven velen dergenen die Wij hebben geschapen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

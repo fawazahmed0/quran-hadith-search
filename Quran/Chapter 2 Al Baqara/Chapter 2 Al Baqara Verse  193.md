@@ -986,7 +986,7 @@ En bestridjt hen tot er geen Fitnah (meer) is en de godsdienst aan Allah behoort
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En bestrijdt hen, totdat er geen vervolging meer is en de godsdienst alleen voor Allah wordt. Maar indien zij (met strijden) ophouden, dan is er geen vijandelijkheid meer toegestaan, behalve tegen de onrechtvaardigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

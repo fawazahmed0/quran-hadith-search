@@ -986,7 +986,7 @@ Voor degenen die ongelovig zijn, is het wereldse leven schoonschijnend gemaakt e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het leven dezer wereld is voor de ongelovigen schoonschijnend gemaakt en zij bespotten de gelovigen. Maar de godvrezenden zullen boven hen verheven zijn op de dag der opstanding: Allah schenkt Zijn gaven overvloedig aan wie Hij wil
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

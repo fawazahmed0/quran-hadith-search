@@ -986,7 +986,7 @@ En zo wekten Wij hen op, opdat zij elkaar zouden ondervragen. Eén van hen zei: 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij deden hen ontwaken, zodat zij elkander konden ondervragen. Een van hen zeide: 'Hoelang hebt gij hier vertoefd?' Anderen zeiden: 'Wij zijn een dag of een gedeelte van een dag gebleven.' Nog anderen zeiden: 'Uw God weet het best, hoe lang gij hier gebleven zijt. (Het is beter) ��n van ons met deze zilveren munt naar de stad te zenden en laat hij zien, wat het beste voedsel is en hiervan levensmiddelen meebrengen en laat hij zich vriendelijk gedragen en niemand omtrent ons inlichten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

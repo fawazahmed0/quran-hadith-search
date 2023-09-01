@@ -986,7 +986,7 @@ En (gedenkt) toen Allah een verbond met degenen die de Schrift gegeven waren slo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Allah een verbond sloot met degenen, die het Boek gegeven was, zeide Hij: 'Gij zult dit aan de mensen bekend maken en het niet verbergen.' Maar zij verwaarloosden dat voor luttel gewin. Kwaad was hetgeen zij in ruil namen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

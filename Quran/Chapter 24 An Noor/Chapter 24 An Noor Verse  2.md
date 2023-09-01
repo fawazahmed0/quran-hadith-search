@@ -986,7 +986,7 @@ De ontuchtige vrouw en de ontuchtige man, slaat hen ieder met honderd slagen. En
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Geselt iedere echtbreekster en echtbreker met honderd slagen. En laat medelijden met hen u van de gehoorzaamheid aan Allah niet afhouden indien gij in Allah en de Laatste Dag gelooft. En laat een groep gelovigen getuige zijn van hun bestraffing
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

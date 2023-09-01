@@ -986,7 +986,7 @@ O jullie die geloven! Weest standvastig voor Allah als rechtvaardige getuigen. E
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, weest oprecht voor Allah en getuigt met rechtvaardigheid. En laat de vijandschap van een volk u niet aansporen, om onrechtvaardig te handelen. Weest rechtvaardig, dat is dichter bij de vroomheid en vreest Allah, voorzeker, Allah is op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

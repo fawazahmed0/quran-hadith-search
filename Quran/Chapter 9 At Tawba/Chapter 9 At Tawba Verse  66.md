@@ -986,7 +986,7 @@ Verontschuldigt jullie maar niet, jullie zijn ongelovig geworden nadat jullie ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Biedt geen verontschuldiging aan. Gij hebt, na te hebben geloofd, verworpen. Als Wij een deel uwer vergeven, zullen Wij een ander deel uwer straffen, omdat zij schuldig waren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

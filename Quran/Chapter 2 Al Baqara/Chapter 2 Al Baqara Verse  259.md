@@ -986,7 +986,7 @@ Of degene die, toen hij langs een dorp kwam dat verlaten was en in ruïnes lag, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of, gelijk degene, die langs een stad komende, welke was ingestort, uitriep: 'Hoe zal Allah haar doen herleven na haar vernietiging?' Toen deed Allah hem sterven voor honderd jaren; daarna wekte Hij hem op en zeide: 'Hoelang zijt gij hier reeds?' Hij antwoordde: 'Ik ben een dag, of een gedeelte van een dag gebleven.' Hij zeide: 'Neen, gij zijt honderd jaren gebleven. Kijk nu naar uw voedsel en uw drank; zij zijn niet bedorven. En kijk naar uw ezel; (dit is) opdat Wij u tot een teken voor de mensen maken. En kijk naar de beenderen, hoe Wij ze in elkaar zetten en ze daarna met vlees bekleden.' En toen hem dit duidelijk werd zeide hij: 'Ik weet, dat Allah macht heeft over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

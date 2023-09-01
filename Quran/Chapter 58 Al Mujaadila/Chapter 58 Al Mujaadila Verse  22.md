@@ -986,7 +986,7 @@ Jij vindt geen volk dat in Allah en in de Laatste Dag gelooft dat degenen die Al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij zult geen mensen vinden die in Allah en de Laatste Dag geloven, terwijl zij iemand liefhebben die Allah en Zijn boodschapper tegenwerkt, zelfs al waren dezen hun vader of hun kinderen, of hun broeders, of hun verwanten. Dezen zijn degenen, in wier hart Allah geloof heeft ingegrift en die Hij gesterkt heeft met Zijn Geest. En Hij zal hen toelaten in tuinen waardoor rivieren stromen. Daarin zullen zij vertoeven. Allah heeft welbehagen in hen en zij hebben welbehagen in Hem. Zij behoren tot Allah´s partij. Voorwaar, Allah´s partij zal zegevieren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Degenen die hun eigendommen op de Weg van Allah uitgeven en dan bun vrijgevighei
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij, die hun rijkdommen ter wille van Allah besteden, en het besteden niet doen volgen door (anderen) te verwijten of te krenken, voor hen is er beloning bij hun Heer en zij zullen geen vrees hebben, noch zullen zij treuren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

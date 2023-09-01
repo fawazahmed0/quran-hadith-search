@@ -986,7 +986,7 @@ En waarschuw de mensen voor de Dag dat de bestraffing tot hen komt en waarop deg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En waarschuw de mensen voor de Dag waarop kastijding over hen zal komen; dan zullen de onrechtvaardigen zeggen: 'Onze Heer, schenk ons uitstel voor een korte periode. Wij zullen Uw roep beantwoorden en de boodschappers volgen.' 'Hebt gij voorheen niet gezworen, dat er voor u geen ondergang was
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

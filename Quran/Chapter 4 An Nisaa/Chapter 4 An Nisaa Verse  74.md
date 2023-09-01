@@ -986,7 +986,7 @@ Laat hem vechten op de Weg van Allah, die het wereldse leven ruilt voor het Hier
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Laten derhalve zij, die hun tegenwoordig leven voor het leven in het Hiernamaals willen offeren, voor de zaak van Allah strijden. En wie voor de zaak van Allah strijdt, hetzij hij gedood wordt of overwint, weldra zullen Wij hem een grote beloning geven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

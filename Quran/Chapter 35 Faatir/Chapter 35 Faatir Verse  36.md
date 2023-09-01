@@ -986,7 +986,7 @@ Maar degenen die ongelovig zijn, voor hen is er het vuur van de Hel en er is gee
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar voor de ongelovigen is het Vuur der hel. Voor hen zal de dood niet worden verordend opdat zij mochten sterven, noch zal de straf er van voor hen worden verlicht. Alzo straffen Wij iedere ondankbare
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

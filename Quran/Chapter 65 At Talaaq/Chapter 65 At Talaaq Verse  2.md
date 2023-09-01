@@ -986,7 +986,7 @@ Wanneer zij dan hun termijn bereikt hebben, behoudt hen dan volgens de voorschri
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als zij dan haar termijn bereikt hebben, neemt haar op een vriendelijke manier terug, of scheidt van haar op een behoorlijke wijze en roept twee rechtvaardigen vanuit uw midden tot getuigen en laat dit een ware getuigenis zijn voor Allah. Dit is een vermaning voor hem die in Allah en de laatste Dag gelooft. En voor hem die Allah vreest, zal Hij een uitweg bereiden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

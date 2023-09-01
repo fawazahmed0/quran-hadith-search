@@ -986,7 +986,7 @@ Allah, er is geen god dan Hij, de Levende, de Zelfstandige, sluimer noch slaap k
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah! Er is geen God dan Hij, de Levende, de Zelfbestaande. Sluimer, noch slaap overmant Hem. Al wat in de hemelen en wat op aarde is, behoort Hem. Wie kan bij Hem bemiddelen zonder Zijn verlof? Hij kent hetgeen voor hen is en wat achter hen is en zij kunnen niets van Zijn kennis omvatten, dan wat Hij wil. Zijn troon strekt zich uit over hemelen en aarde en het waken over beide vermoeit Hem niet; Hij is de Verhevene, de Grote
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

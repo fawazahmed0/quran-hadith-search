@@ -986,7 +986,7 @@ Toen zij wanhoopten aan de beslissing van hem (Yôesoef), overleg plegend in het
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen zij wanhoopten trokken zij zich terug om in afzondering te beraadslagen. De oudste zeide: 'Weet gij niet, dat uw vader een plechtige belofte in de naam van Allah van u heeft genomen en hoe gij voorheen in uw plicht tegenover Jozef hebt gefaald? Ik zal het land daarom niet verlaten voordat mijn vader het mij toestaat, of Allah voor mij beslist en Hij is de beste Beoordelaar
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

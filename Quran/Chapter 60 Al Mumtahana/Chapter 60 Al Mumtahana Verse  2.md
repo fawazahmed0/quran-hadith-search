@@ -986,7 +986,7 @@ Als zij de overhand over jullie krijgen, zullen zij vijanden voor jullie zijn. E
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als zij de overhand over u krijgen zullen zij als vijanden tegenover u handelen, en zij zullen hun handen en tong naar u uitsteken om u kwaad te berokkenen, en zij wensen vurig dat gij ongelovigen zult worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

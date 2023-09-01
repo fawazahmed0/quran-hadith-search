@@ -986,7 +986,7 @@ Allah is Degene Die de hemelen heeft verbeven, zonder steunpilaren die jullie zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah is Hij, Die de hemelen heeft doen verrijzen zonder pilaren die gij kunt zien. Daarna zette Hij Zich op de troon. En Hij heeft de zon en de maan in dienst gesteld; elk volgt zijn baan tot een vastgestelde termijn. Hij regelt het al. Hij legt de tekenen duidelijk uit, opdat gij zeker zult zijn van de ontmoeting met uw Heer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

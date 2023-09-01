@@ -986,7 +986,7 @@ Jij ziet de onrechtvaardigen bevreesd zijn voor wat zij hebben verricht en hij (
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij zult de onrechtvaardigen in vrees zien voor hetgeen zij hebben verdiend op de Dag des Oordeels en het zal hen zeker treffen. Maar degenen, die geloven en goede werken doen, zullen in de tuinen van het paradijs zijn. Zij zullen bij hun Heer alles vinden wat zij wensen. Dat is de grote genade
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

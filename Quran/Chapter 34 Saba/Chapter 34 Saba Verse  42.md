@@ -986,7 +986,7 @@ Op deze Dag zijn jullie niet bij machte om elkaar van nut te zijn en niet om elk
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (God zal zeggen) 'Heden hebt gij geen macht om elkander goed of kwaad te doen.' En Wij zullen tot de onrechtvaardigen zeggen: 'Ondergaat de straf van het Vuur die gij placht te verloochenen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

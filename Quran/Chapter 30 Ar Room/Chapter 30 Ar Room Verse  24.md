@@ -986,7 +986,7 @@ En tot Zijn Tekenen behoort dat Hij jullie de bliksem laat zien, om vrees en hoo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En tot Zijn tekenen behoort eveneens dat Hij u de bliksem toont als vrees en hoop. En dat Hij water uit de hemel nederzendt waarmede hij de aarde doet herleven na haar dood. Hierin zijn zeker tekenen voor een volk, dat wil begrijpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

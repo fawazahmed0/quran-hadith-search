@@ -986,7 +986,7 @@ En Verheven is Allah, de Ware Koning. En haast je niet met de Koran (O Moehammad
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Verheven zij Allah, de Ware Koning. En haast u niet met de Koran eer de openbaring er van aan u voltooid is en zeg: 'O mijn Heer, doe mij toenemen in kennis
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

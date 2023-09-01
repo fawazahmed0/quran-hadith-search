@@ -986,7 +986,7 @@ Zie jij niet dat Allah de nacht in de dag doet overgaan en Hij de dag doet overg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij niet gezien, dat Allah de nacht in de dag doet overgaan en de dag in de nacht en dat hij de zon en de maan in dienst heeft gesteld? Elk loopt voor een vastgestelde tijd; Allah is goed op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

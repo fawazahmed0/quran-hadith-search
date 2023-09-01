@@ -986,7 +986,7 @@ Het past de mens niet dat Allah hem de Schrift en de Wijsheid en het Profeetscha
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het betaamt een mens niet, als Allah hem het Boek en de macht en het profeetschap geeft, dat hij dan tot de mensen zou zeggen: 'Weest mijn dienaren buiten Allah´´; maar (veeleer): 'Weest aanbidders van de Heer, daar gij het Boek onderwijst en zelf bestudeert
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

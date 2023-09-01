@@ -986,7 +986,7 @@ O jullie die geloven! Ontheiligt niet de gewijde Tekenen van Allah en niet de ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, ontheiligt de tekenen van Allah niet, noch de heilige maand, noch de offerdieren, noch dieren met offertekens, noch degenen, die zich naar het heilige Huis begeven om genade van hun Heer en Zijn welbehagen te zoeken. Maar wanneer gij u van uw pelgrimskleed ontdoet, moogt gij jagen. En laat de vijandschap van een volk, omdat zij u de toegang tot de heilige Moskee verhinderen, u niet tot geweld aansporen. En helpt elkander in deugdzaamheid en vroomheid maar helpt elkander niet in zonde en overtreding. En vreest Allah. Waarlijk, Allah is streng in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

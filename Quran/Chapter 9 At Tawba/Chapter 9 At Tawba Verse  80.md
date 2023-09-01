@@ -986,7 +986,7 @@ Of jij nu vergeving voor hen vraagt, of geen vergeving voor hen vraagt (het maak
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of gij vergiffenis voor hen vraagt of dat gij geen vergiffenis voor hen vraagt - zelfs al vraagt gij zeventig maal vergiffenis voor hen - Allah zal hen toch niet vergeven. Dit is omdat zij in Allah en Zijn boodschapper niet geloven. Allah leidt het trouweloze volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

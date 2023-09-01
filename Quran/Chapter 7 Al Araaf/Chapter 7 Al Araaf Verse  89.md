@@ -986,7 +986,7 @@ Waarlijk, wij zouden een leugen ovet Allah verzinnen als wij zouden terugkeren t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien wij tot uw godsdienst terugvallen, nadat Allah ons er van heeft gered, dan hebben wij voorzeker een leugen aangaande Allah verzonnen. En het past ons niet er naar te willen terugkeren, behalve, wanneer Allah, onze Heer, dit zou willen. Onze Heer omvat alle dingen in Zijn kennis. Wij hebben in Allah ons vertrouwen gelegd. Oordeel daarom, onze Heer, tussen ons en ons volk in waarheid en Gij zijt de beste Rechter
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

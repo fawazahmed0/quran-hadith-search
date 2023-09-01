@@ -986,7 +986,7 @@ Maar wat betreft degenen die geloven en goede daden verrichten: Hij zal hun hun 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar degenen die geloven en goede werken verrichten, zal Hij hun beloning ten volle geven en meer dan dat uit Zijn overvloed, maar degenen die versmaadden en hoogmoedig waren, zal Hij met een pijnlijke straf straffen; zij zullen buiten Allah vriend, noch helper voor zich vinden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

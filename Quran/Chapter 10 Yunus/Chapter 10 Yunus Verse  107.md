@@ -986,7 +986,7 @@ En wanneer Allah jou met een tegenslag treft, dan is er niemand die deze kan weg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als Allah u door het kwade treft, is er niemand die dit kan verwijderen dan Hij; en als Hij het goede voor u wenst, is er niemand die Zijn genade kan beletten. Hij kent haar toe aan diegene van Zijn dienaren, die Hem behaagt. En Hij is de Vergevensgezinde, de Genadevolle
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

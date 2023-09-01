@@ -986,7 +986,7 @@ En voorzeker, Wij zonden hun broeder Shâlih naar de Tsamôcd. (Hij zei:) "Aanbi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij zonden zeker tot de Samoed hun broeder Salih, die zeide: 'Aanbidt Allah.' Maar ziet, zij werden in twee partijen gesplitst die met elkander twistten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

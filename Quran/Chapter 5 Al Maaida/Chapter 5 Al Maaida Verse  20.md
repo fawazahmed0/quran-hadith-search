@@ -986,7 +986,7 @@ En (gedenkt) toen Môesa tot zijn volk zei: "O mijn volk, gedenkt de genieting v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Mozes tot zijn volk zeide: 'O, mijn volk, herinner u Allah´s gunst aan u, toen Hij profeten onder u aanstelde en u koningen aanwees en Hij u gaf, wat Hij aan niemand onder de volkeren heeft gegeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

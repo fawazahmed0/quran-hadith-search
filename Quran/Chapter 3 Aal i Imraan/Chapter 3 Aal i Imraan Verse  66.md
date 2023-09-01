@@ -986,7 +986,7 @@ Zo, jullie zijn degenen die geredetwist hebben over iets waarover jullie kennis 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ziet, gij twist over hetgeen, waarvan gij kennis hebt. Waarom twist gij dan (eveneens) over hetgeen, waarvan gij geen kennis hebt? Allah weet en gij weet niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

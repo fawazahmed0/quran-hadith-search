@@ -986,7 +986,7 @@ En voorzeker, Wij hebben jullie geschapen, vervolgens hebben Wij jullie vormgege
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij schiepen u, daarna vormden Wij u; toen zeiden Wij tot de engelen: 'Onderwerpt u aan Adam' en zij onderwierpen zich, behalve Iblies; hij behoorde niet tot degenen die zich onderwierpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

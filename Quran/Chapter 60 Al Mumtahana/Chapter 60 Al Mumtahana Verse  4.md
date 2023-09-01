@@ -986,7 +986,7 @@ Waarlijk, er was voor jullie een goed voorbeeld in Ibrâhîm en degenen die met 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er is een goed voorbeeld voor u in Abraham en degenen die met hem waren toen zij tegen hun volk zeiden: 'Wij hebben niets uitstaande met u en hetgeen gij buiten Allah aanbidt. Wij verwerpen u en er is tussen u en ons eeuwige vijandschap en haat ontstaan, tenzij gij in Allah, de Enige gelooft.' - uitgezonderd het woord van Abraham tot zijn vader: 'Ik zal zeker om vergiffenis voor u vragen, ik heb niets van Allah ten uwen behoeve. - Onze Heer, in U stellen wij ons vertrouwen en tot U wenden wij ons, en naar U is de terugkeer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

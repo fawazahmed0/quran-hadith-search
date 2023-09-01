@@ -986,7 +986,7 @@ En het boek (met hun daden) zal voor hen geplaatst worden en jij zult de zondare
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En het Boek zal worden voorgelegd; dan zult gij de schuldigen zien vrezen wegens hetgeen daarin staat en zij zullen zeggen: 'Wee ons! Wat voor een boek is dit! Het slaat klein noch groot over, doch het somt alles op.' En zij zullen al hetgeen zij deden voor zich zien en uw Heer zal niemand onrecht aandoen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

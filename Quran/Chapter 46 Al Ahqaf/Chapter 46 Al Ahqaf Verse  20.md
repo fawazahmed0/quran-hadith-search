@@ -986,7 +986,7 @@ En op de Dag dat degenen die niet geloofden de Hel getoond zal worden, (wordt ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Dag, waarop de ongelovigen aan het Vuur zullen worden blootgesteld, zal er tot hen worden gezegd: 'Gij buittet uw goede dingen in het leven der wereld uit en gij hebt het genoten. Deze Dag zult gij met de straf der vernedering worden vergolden omdat gij ten onrechte op aarde hoogmoedig en opstandig waart
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

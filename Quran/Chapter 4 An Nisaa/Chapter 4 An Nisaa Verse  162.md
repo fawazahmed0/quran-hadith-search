@@ -986,7 +986,7 @@ Maar degenen onder hen die stevig gegrondvest zijn in kennis en (ook) de gelovig
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar degenen hunner, die een grondige kennis bezitten en de gelovigen, geloven in hetgeen u is geopenbaard en hetgeen v��r u werd nedergezonden; en degenen, die het gebed houden en degenen, die de Zakaat betalen en degenen, die in Allah en de laatste Dag geloven, dezen zullen Wij zeker een grote beloning geven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

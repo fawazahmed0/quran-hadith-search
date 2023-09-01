@@ -986,7 +986,7 @@ De berouwvollen en zij die God dienen en hem loven, en vasten en nederbuigen en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Die zich tot Allah bekeren, die aanbidden, die prijzen, die vasten, die zich nederbuigen, die zich ter aarde werpen, die tot het goede aansporen en het kwade verbieden, die de door Allah gestelde grenzen in acht nemen; breng aan de gelovigen blijde tijding
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

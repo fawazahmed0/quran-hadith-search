@@ -986,7 +986,7 @@ En alle gezichten zullen eerbiedig neerbuigen voor de Levende, de Zelfstandige. 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alle gezichten zullen zich verootmoedigen in tegenwoordigheid van de Levende, de Uitzichzelf - Bestaande. Voorzeker, hij die ongerechtigheid begaat zal verloren gaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

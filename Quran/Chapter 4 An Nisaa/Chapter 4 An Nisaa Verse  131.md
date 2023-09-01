@@ -986,7 +986,7 @@ En aan Allah behoort wat in de hemelen en op de aarde is. En voorzeker, Wij hebb
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aan Allah behoort, wat in de hemelen en wat op aarde is. En wij hebben zeker degenen aan wie v��r u het Boek werd gegeven en ook u geboden: Allah te vrezen. Maar als gij verwerpt - voorzeker wat in de hemelen en op de aarde is behoort aan Allah en Allah is Onafhankelijk, Lofwaardig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

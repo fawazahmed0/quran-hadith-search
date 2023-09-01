@@ -986,7 +986,7 @@ Is het voor hen niet voldoende dat Wij aan jou het Boek hebben neergezonden, dat
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is het niet genoeg voor hen dat Wij u het Boek hebben geopenbaard dat aan hen wordt voorgelezen? Voorwaar, hierin is barmhartigheid en aanzien voor een volk dat gelooft
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

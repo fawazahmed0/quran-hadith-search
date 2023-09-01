@@ -986,7 +986,7 @@ Is iemand aait wie Wij een goede belofte hebben gedaan en die (de vervulling) er
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Staat hij aan wie Wij een goede belofte hebben gedaan, die hij (vervuld) zal zien, gelijk met degenen, die Wij van de goederen dezer wereld hebben gegeven en zal hij dan op de Dag der Opstanding naar de hel worden gebracht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ O jullie die geloven, neemt geen boezemvrienden van buiten jullie kring; zij zul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij die gelooft, neemt buiten uw volk geen ander tot intieme vrienden; zij zullen niet in gebreke blijven u te benadelen. Zij houden van leedvermaak. Nijd laten zij blijken en wat hun innerlijk verbergt is nog erger. Wij hebben u onze geboden duidelijk gemaakt, indien gij ze wilt begrijpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

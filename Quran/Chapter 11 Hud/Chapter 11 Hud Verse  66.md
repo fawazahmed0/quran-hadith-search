@@ -986,7 +986,7 @@ En toen Ons bevel kwam, redden Wij Shâlih en degenen die met hem geloofden, doo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Ons gebod kwam, redden Wij Salih en met hem de gelovigen door Onze barmhartigheid en Wij redden hen van de schande van die dag. Voorzeker, uw Heer is Sterk, Almachtig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

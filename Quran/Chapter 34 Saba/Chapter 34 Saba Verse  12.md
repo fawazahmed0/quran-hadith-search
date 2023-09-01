@@ -986,7 +986,7 @@ En voor Soelaimân (onderwierpen Wij) de winden. Het waaien ervan in de ochtend 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En aan Salomo onderwierpen Wij de wind; de ochtendreis en de avondreis daarvan was een maand, en Wij deden een stroom van gesmolten koper voor hem vloeien. Er waren enige onder de djinn die door het gebod van zijn Heer onder hem werkten, en Wij zeiden: indien iemand van hen zich van Ons gebod zou afkeren, zouden Wij hem de straf van het brandend Vuur doen ondergaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

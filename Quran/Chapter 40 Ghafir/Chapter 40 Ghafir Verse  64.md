@@ -986,7 +986,7 @@ Allah is Degene Die voor jullie de aarde tot een stevige plaats heeft gemaakt en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah is het, Die de aarde voor u als een rustplaats heeft gemaakt en de hemelen als gewelf, Die u gevormd heeft en u een schone vorm heeft gegeven en u van goede dingen heeft voorzien. Dit is Allah uw Heer. Gezegend is Allah, de Heer der Werelden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

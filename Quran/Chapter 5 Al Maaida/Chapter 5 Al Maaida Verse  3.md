@@ -986,7 +986,7 @@ Verboden voor jullie zijn het kadaver, het bloed en het van de varkens en hetgee
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Verboden is u het gestorvene, het bloed en het varkensvlees en al waarover een andere naam dan die van Allah is aangeroepen; hetgeen is geworgd en is doodgeslagen en hetgeen is doodgevallen of hetgeen door de horens van dieren is gedood en hetgeen door een wild beest is aangevreten, behalve wat gij hebt geslacht. Verder hetgeen voor afgoden is geslacht en wat gij loot door pijlen, dit is een overtreding. Heden zullen de ongelovigen aan uw godsdienst wanhopen. Vreest dus niet hen, maar Mij. Nu heb Ik uw godsdienst voor u vervolmaakt, Mijn gunst aan u voltooid en de Islam voor u als godsdienst gekozen. Maar wie door honger wordt gedwongen zonder dat hij tot de zonde is geneigd, voorzeker, Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

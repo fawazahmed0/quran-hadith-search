@@ -986,7 +986,7 @@ En er is niets dat de aanvaarding van hun bijdragen tegenhoudt dan het feit dat 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En niets verhindert, dat hun gaven worden aangenomen behalve dat zij in Allah en de boodschapper niet geloven. En zij komen slechts in luiheid tot het gebed en zij geven niet, dan onwillig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

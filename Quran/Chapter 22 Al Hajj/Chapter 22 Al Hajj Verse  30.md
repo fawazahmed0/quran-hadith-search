@@ -986,7 +986,7 @@ Dat is het, en wie de gewijde zaken van Allah eert: dat is beter voor hem bij zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zo zij het. Wie dus de heilige geboden van Allah eert, het zal voor hem goed zijn in de ogen van zijn Heer. En wettig voor u is alle vee behalve hetgeen u anderszins is verkondigd. Vermijdt derhalve de onreinheid der afgodsbeelden en vermijdt het valse woord
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

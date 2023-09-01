@@ -986,7 +986,7 @@ En degenen die geloven zeggen: "Was er maar een Soerah neergezonden (die het voe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de gelovigen zeggen: 'Waarom is er geen Soerah geopenbaard?' Maar wanneer een beslissende Soerah wordt geopenbaard en daarin over vechten wordt gesproken, zult gij hen in wier hart een ziekte is naar u zien kijken als iemand die bezwijmt in de dood. Maar voor hen ware het beter
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

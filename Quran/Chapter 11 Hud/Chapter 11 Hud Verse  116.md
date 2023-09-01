@@ -986,7 +986,7 @@ Waren er maar onder de generaties vóór jullie bezitters van inzicht geweest, d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarom waren er onder de geslachten die v��r u waren dan geen verstandige mensen, die het verderf op aarde konden verhinderen op enkelen na, die Wij uit hun midden redden? Maar de onrechtvaardigen volgden datgene waarin hun overvloed werd verleend en zij waren schuldig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

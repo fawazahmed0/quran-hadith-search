@@ -986,7 +986,7 @@ En wanneer zij met elkaar redetwisten in de Hel, dan zeggen de zwakken tot degen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer zij met elkander in het Vuur zullen twisten, zullen de zwakken tot de trotsen zeggen: 'Voorzeker, wij waren uw volgelingen; wilt gij dan nu een gedeelte van het Vuur van ons wegnemen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

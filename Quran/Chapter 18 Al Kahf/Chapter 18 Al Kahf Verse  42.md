@@ -986,7 +986,7 @@ En zijn vruchten werden vernietigd. Toen begon hij zich in zijn handen te wringe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zijn fruit werd vernietigd en hij begon zijn handen te wringen wegens hetgeen hij aan de tuin had besteed, terwijl het latwerk eveneens was neergestort en hij zeide: 'Had ik maar niemand met mijn Heer vereenzelvigd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

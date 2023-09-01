@@ -986,7 +986,7 @@ Allah is Degene Die voor jullie de nacht heeft gemaakt opdat jullie er in zullen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah is Degene Die de nacht voor u aanwees opdat gij er in moogt rusten en de dag om u licht te geven. Voorwaar, Allah is vol genade voor de mensen, toch zijn de meeste mensen ondankbaar
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

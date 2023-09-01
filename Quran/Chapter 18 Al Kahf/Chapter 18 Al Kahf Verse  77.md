@@ -986,7 +986,7 @@ Zo gingen zij verder totdat zij enkele bewoners uit een stad ontmoetten en haar 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aldus vervolgden zij hun weg totdat zij bij de inwoners ener stad kwamen aan wie zij om eten vroegen, doch dezen weigerden hun gastvrijheid te betonen. Nu vonden zij daar een muur, die op het punt stond in te storten en hij herstelde deze. Mozes zeide: 'Indien gij wildet, hadt gij er loon voor kunnen vragen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

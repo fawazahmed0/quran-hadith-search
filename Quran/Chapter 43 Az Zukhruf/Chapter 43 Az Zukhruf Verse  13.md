@@ -986,7 +986,7 @@ Opdat jullie stevig op hun ruggen zullen zitten en dan de gunst van jullie Heer 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Opdat gij stevig op hun rug moogt zitten en dan, wanneer gij er stevig op zit, de gunst van uw Heer moogt gedenken en zeggen: 'Glorie zij Hem, Die dit in onze dienst heeft gesteld want wij konden die zelf niet onderwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

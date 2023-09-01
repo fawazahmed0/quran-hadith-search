@@ -986,7 +986,7 @@ En degenen die ongelovig zijn, zeggen: "Was de Koran maar in één keer volledig
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de ongelovigen zeggen: 'Waarom werd de Koran niet ineens aan hem geopenbaard?' Zo is het, opdat Wij daarmee uw hart mogen versterken. En Wij hebben hem duidelijk en geleidelijk uiteengezet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

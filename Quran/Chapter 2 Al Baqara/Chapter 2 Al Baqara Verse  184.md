@@ -986,7 +986,7 @@ Een zeker getal dagen zult gij vasten. Indien echter iemand onder u ziek of op r
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voor een zeker aantal dagen (zult gij vasten) maar wie onder u ziek is, of op reis, vaste een aantal andere dagen - er is een losprijs voor degenen, die niet kunnen vasten - het voeden van een arme. Maar hij, die vrijwillig goed doet, het zal beter voor hem zijn. Het vasten is goed voor u, indien gij het beseft
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

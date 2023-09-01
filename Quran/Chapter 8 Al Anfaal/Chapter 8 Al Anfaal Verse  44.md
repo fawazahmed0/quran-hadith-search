@@ -986,7 +986,7 @@ Toen Hij hen aan jullie toonde, toen jullie met hen tot een treffen kwamen, deed
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Hij hen in de tijd van uw ontmoeting als weinigen in uw ogen deed voorkomen en u als weinigen in hun ogen deed voorkomen, zodat Allah hetgeen gedaan moest worden tot stand mocht brengen. En tot Allah worden alle dingen teruggebracht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

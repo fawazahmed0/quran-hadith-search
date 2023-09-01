@@ -986,7 +986,7 @@ En zij (de Christenen) zeiden: "Allah heeft Zich een zoon genomen." Heilig is Hi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zeggen: 'Allah heeft Zich een zoon verwekt. Heilig is Hij. Neen, alles, wat in de hemelen en op aarde is, behoort Hem toe en alles gehoorzaamt Hem
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Toen zij aankwam, werd haar gezegd: "Es dit jouw troon?" Zij zei: "Het is alsof 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen zij kwam, werd haar gevraagd: 'Is uw troon als deze?' Zij antwoordde: 'Hij is als het ware dezelfde.' En ons is voordien kennis gegeven en wij zijn reeds onderdanig geworden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

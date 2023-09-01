@@ -986,7 +986,7 @@ En Wij plaatsten de Kinderen van Israël in voortreffelijke woonplaatsen en Wij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij wezen de kinderen Isra�ls een uitstekend tehuis aan en Wij voorzagen hen van goede dingen en zij verschilden niet van mening voordat de kennis tot hen kwam. Voorzeker, uw Heer zal op de Dag der Opstanding onder hen richten over hetgeen waarin zij verschilden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

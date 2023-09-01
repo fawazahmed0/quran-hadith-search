@@ -986,7 +986,7 @@ De Haddj is in de bekende maanden. Degene die zich dan tot het verrichten van de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De maanden der bedevaart zijn bekend, dus, wie besluit ter bedevaart te gaan in deze maanden, bedenke, dat er geen onreine taal, noch enige overtreding, noch enige twist gedurende de bedevaart mag zijn. En wat gij ook aan goeds doet, Allah weet het. En rust u uit met het nodige, maar de beste uitrusting is godsvrucht. En vreest Mij alleen, o mensen van begrip
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

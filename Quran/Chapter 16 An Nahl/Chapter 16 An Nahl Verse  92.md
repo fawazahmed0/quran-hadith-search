@@ -986,7 +986,7 @@ En weest niet als zij die haar garen weer op- splitst nadat zij het stevig gespo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En weest niet zoals zij die haar garen in stukken breekt nadat zij het sterk heeft gemaakt. Gij maakt uw eden onderling tot een middel van bedrog, uit vrees dat het ene volk machtiger dan het andere zou worden. Voorzeker, Allah beproeft u daarmee en op de Dag der Opstanding zal Hij het u duidelijk maken waarover gij verschildet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

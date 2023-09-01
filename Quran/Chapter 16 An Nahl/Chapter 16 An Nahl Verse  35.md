@@ -986,7 +986,7 @@ En degenen die (Allah) deelgenoten toekenden, zeiden: "Indien Allah gewild had, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De afgodendienaren zeggen: 'Als Allah het zo had gewild zouden wij niets buiten Hem hebben aanbeden, wij noch onze vaderen; noch zouden wij iets buiten Zijn wil hebben verboden.' Degenen, die v��r hen waren handelden evenzo. Maar zijn de boodschappers voor iets anders verantwoordelijk dan voor de duidelijke verkondiging
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

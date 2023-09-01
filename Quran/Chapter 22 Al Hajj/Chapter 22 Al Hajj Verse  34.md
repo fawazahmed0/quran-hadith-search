@@ -986,7 +986,7 @@ En voor iedere gemeenschap hebben Wij godsdienstige gebruiken (om te offoren) va
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voor elk volk hebben Wij handelingen van offer en wijdingen vastgesteld, opdat zij de naam van Allah mogen uitspreken over het vee dat Hij hun heeft gegeven. Uw God is dus E�n God, weest daarom onderdanig aan Hem. En geef blijde tijding aan de ootmoedigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

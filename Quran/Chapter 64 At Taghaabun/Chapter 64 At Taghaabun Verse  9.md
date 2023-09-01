@@ -986,7 +986,7 @@ Op een zekeren dag zal hij u verzamelen; zijnde de dag der algemeene verzameling
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer Hij u voor de Dag der Verzameling zal bijeenroepen, zal dit de tijd voor onthulling der gebreken zijn. En hij die gelooft in Allah en recht doet, - hem zal Hij zuiveren van zijn fouten en Hij zal hun tot tuinen toegang geven waardoor rivieren stromen, om daarin voor eeuwig te vertoeven. Dat is de grote zegepraal
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

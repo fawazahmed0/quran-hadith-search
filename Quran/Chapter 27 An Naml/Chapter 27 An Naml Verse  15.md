@@ -986,7 +986,7 @@ En voorzeker, Wij gaven kennis aan Dâwôed en Soelaimân, en beiden zeiden zij:
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij gaven kennis aan David en Salomo, en zij zeiden: 'Alle eer behoort aan Allah, Die ons boven vele van Zijn gelovige dienaren heeft verheven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

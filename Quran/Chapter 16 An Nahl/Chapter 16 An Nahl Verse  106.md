@@ -986,7 +986,7 @@ Wie aan Allah ongelovig is na geloofd te hebben, behalve wie gedwongen is terwij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wie Allah verwerpt, na te hebben geloofd - behalve hij die wordt gedwongen terwijl zijn hart in het geloof vrede blijft vinden - en zijn hart voor het ongeloof opent, op hem rust Allah´s toorn; en er zal een grote straf voor hem zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

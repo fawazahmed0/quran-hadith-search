@@ -986,7 +986,7 @@ En degenen onder jullie die weggenomen worden en echtgenotes achterlaten, moeten
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En degenen uwer, die wanneer zij sterven vrouwen achterlaten, moeten voor hun vrouwen een testament maken voor hun levensonderhoud gedurende ��n jaar, zonder dat zij worden uitgezet. Doch indien zij weggaan zal er geen schuld op u rusten, wegens datgene, wat zij omtrent zichzelf op behoorlijke wijze doen. En Allah is Almachtig, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Heeft het bericht hun niet bereikt over degenen vóór hen; het volk van Noeh, e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Heeft hen het verhaal niet bereikt van degenen, die v��r hen waren? Het volk van Noach en Aad en Samoed en het volk van Abraham en de bewoners van Midian en van de steden die verwoest werden? Hun boodschappers kwamen met duidelijke tekenen tot hen. Allah was het niet die hun onrecht aandeed, maar zij deden zichzelf onrecht aan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

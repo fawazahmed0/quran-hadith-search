@@ -986,7 +986,7 @@ Toen Hij hen dan gered had. handelden zij buitensporig op aarde, zonder recht. O
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar wanneer Hij hen heeft gered, ziet, beginnen zij ten onrechte een opstand in het land te ontketenen. O, gij mensen, voorzeker uw opstand keert zich slechts tegen u zelf. Thans geniet gij het genoegen van het tegenwoordige leven. Daarna zal uw terugkeer tot Ons zijn en Wij zullen u inlichten over hetgeen gij deedt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

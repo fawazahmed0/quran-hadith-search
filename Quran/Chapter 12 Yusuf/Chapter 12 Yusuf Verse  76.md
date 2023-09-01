@@ -986,7 +986,7 @@ Toen begon hij (Yôesoef) hun proviondzakken te onderzoeken, vóór de proviandz
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarna begon hij met (het onderzoek van) hun tassen alvorens de tas van zijn broeder (te onderzoeken); dan nam men hem (drinkbeker) uit zijn broeders tas. Zo maakten Wij plannen voor Jozef. Hij kon zijn broeder volgens de wet van de koning (van Egypte) niet houden, tenzij Allah het zo had gewild. Wij bevorderen in graden (van kennis en eer) wie Wij willen. Boven elke wetende staat de Alwetende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

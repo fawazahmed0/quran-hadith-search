@@ -986,7 +986,7 @@ Zij vragen jou wat zij als bijdrage moeten geven. Zeg: "Wat jullie aan goeds gev
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij vragen u, wat zij moeten besteden. Zeg hun: 'Welke rijkdom gij ook weggeeft, het moet zijn voor ouders, naaste verwanten, wezen, behoeftigen en reizigers. En welke weldaad gij ook doet - Allah weet het goed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

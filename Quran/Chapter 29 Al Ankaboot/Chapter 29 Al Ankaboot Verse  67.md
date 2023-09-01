@@ -986,7 +986,7 @@ En zim zij niet dat Wij, een gewijd veilig (land) hebben gemaakt, terwijl de men
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij niet gezien, dat Wij een veilig Heiligdom (Makka) hebben gemaakt, terwijl overal om hen heen mensen worden weggerukt? Geloven zij dan aan een leugen en ontkennen zij de gunsten van Allah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

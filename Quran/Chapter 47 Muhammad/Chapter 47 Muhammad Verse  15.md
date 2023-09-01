@@ -986,7 +986,7 @@ Is het (geluk van) het Paradijs dat aan de Moettaqôen beloofd is, waarin rivier
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het beeld van het paradijs dat aan de godvruchtigen is beloofd: er zijn daarin stromen water dat niet bederft; en stromen melk waarvan de smaak niet verandert en stromen wijn, smakelijk voor degenen die drinken en rivieren van zuivere honing. En zij zullen er allerlei vruchten in hebben en vergiffenis van hun Heer. Kunnen zij gelijk zijn aan degenen die in het Vuur vertoeven en die kokend water te drinken krijgen zodat het hun ingewanden verscheurt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorwaar, in de schepping van de hemelen en de aarde en de afwisseling van de na
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, in de schepping der hemelen en der aarde en in de wisseling van nacht en dag en in de schepen die de zee bevaren, met datgene wat de mensen tot voordeel strekt; en in het water dat Allah van de hemel nederzendt, waarmede Hij de aarde doet herleven na haar dood en daarop alle soorten dieren verspreidt, en in de verandering der winden, en in de wolken die tussen de hemel en de aarde in dienst zijn gesteld, zijn inderdaad tekenen voor een volk, dat begrijpt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

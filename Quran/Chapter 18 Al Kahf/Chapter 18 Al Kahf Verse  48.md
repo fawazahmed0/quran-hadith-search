@@ -986,7 +986,7 @@ En zij zullen voor jouw Heer in rijen opgesteld worden (en Allah zal tot hen zeg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zullen in rijen tot uw Heer worden gebracht. (Hij zal zeggen) Nu zijt gij tot Ons gekomen zoals Wij u in den beginne hebben geschapen. Doch gij dacht dat Wij nimmer een Uur voor u zouden vaststellen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

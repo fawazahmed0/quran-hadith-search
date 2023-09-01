@@ -986,7 +986,7 @@ Dat Huis van het Hiernamaals (het Paradijs) schenken Wij aan hen, die niet hoogm
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daar is het tehuis van het Hiernamaals! Wij geven het degenen die op aarde geen zelfverheffing wensen, noch wanorde stichten, en het einde is voor de godvruchtigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

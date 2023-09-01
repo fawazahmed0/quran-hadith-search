@@ -986,7 +986,7 @@ Allah is Degene Die de hemelen en de aarde heefl geschapen en Hij zendt uit de h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah is Hij, Die de hemelen en de aarde schiep en water uit die wolken doet nederkomen en er vruchten voor uw onderhoud mee voortbrengt en Hij heeft de schepen in uw dienst gesteld, opdat zij door Zijn gebod over de zee mogen varen en Hij heeft de rivieren eveneens in uw dienst gesteld
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

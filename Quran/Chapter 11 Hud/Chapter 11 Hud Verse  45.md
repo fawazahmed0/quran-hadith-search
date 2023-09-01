@@ -986,7 +986,7 @@ En Nôeh riep tot zijn Heer, hij zei: "O mijn Heer, voorwaar, mijn zoon behoort 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Noach riep zijn Heer aan en zeide: 'Mijn Heer, mijn zoon is voorwaar van mijn familie en Uw belofte is voorzeker waar en Gij zijt de Rechter der rechters
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

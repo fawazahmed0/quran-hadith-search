@@ -986,7 +986,7 @@ En degenen aan wie de kennis gegeven was, zeiden: "Wee jullie, de beloning van A
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar zij, aan wie kennis was gegeven, zeiden: 'Wee u, de beloning van Allah is beter voor degenen die geloven en goede werken doen; en het zal niemand worden geschonken behalve hun die geduldig zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Onder de gelovigen zijn er mannen die de belofte die zij aan Allah gedaan hebben
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er zijn mensen onder de gelovigen die trouw gebleven zijn aan het verbond dat zij met Allah hebben gesloten. Er zijn enigen onder hen die hun eed hebben gehouden, en anderen die nog wachten en geenszins veranderd zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

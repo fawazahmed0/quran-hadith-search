@@ -986,7 +986,7 @@ Waarlijk verloren zijn degenen die de ontmoeting met Allah loochenen, totdat wan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, zij, die de ontmoeting met Allah verloochenen, benadelen zich, totdat het uur onverwachts over hen komt, en zij zullen zeggen: 'O, wij hebben wroeging, vanwege onze tekortkoming hierin.' En zij zullen hun lasten op hun ruggen dragen. Ziet toe, wat zij dragen is zeker slecht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

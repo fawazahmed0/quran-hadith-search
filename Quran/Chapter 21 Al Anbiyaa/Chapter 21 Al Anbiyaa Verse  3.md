@@ -986,7 +986,7 @@ Achteloos zijn hun harken. En degenen die onrechtvaardig zijn verbergen (hun onr
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hun hart is achteloos. En de onrechtvaardigen plegen overleg in het geheim zeggende: 'Is deze (Mohammed) niet slechts een mens als gij? Wilt gij dan de tovenarij met open ogen tegemoet gaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

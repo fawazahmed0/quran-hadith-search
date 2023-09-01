@@ -986,7 +986,7 @@ En degenen die ongelovig zijn, zeggen: "Het Uur zal niet tot ons komen." Zeg: "W
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De ongelovigen zeggen: 'Het Uur zal niet over ons komen.' Zeg: 'Ja, bij mijn Heer, de Kenner van het onzichtbare, het zal beslist over u komen!' Voor Hem is niets in de hemelen of op de aarde verborgen, zelfs niet het gewicht van een atoom, noch bestaat er iets, groter of minder dan dit of het staat in een duidelijk Boek
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

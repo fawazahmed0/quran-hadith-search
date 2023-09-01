@@ -986,7 +986,7 @@ Zó hebben Wij aan jou een openbaring neergezonden, een zaak van Ons. Jij wist t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zo hebben Wij u een woord door ons gebod geopenbaard. Gij wist niet wat het Boek noch wat het geloof was. Maar Wij maakten het tot een licht waarbij Wij leiding verlenen aan diegenen Onzer dienaren die Wij willen. Voorzeker, gij leidt de mens zeker naar het rechte pad
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

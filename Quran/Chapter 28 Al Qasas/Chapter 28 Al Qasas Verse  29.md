@@ -986,7 +986,7 @@ En toen Môesa de termijn vervuld had, en niet zijn familie reisde, zag hij aan 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen Mozes de termijn had voltooid, en met zijn familie op reis ging, bemerkte hij een vuur in de richting van de berg Sina�. Hij zeide tot zijn familie: 'Wacht hier, ik zie een vuur, misschien kan ik u nieuws of wat vuur daarvan brengen opdat gij u moogt verwarmen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En blijft in jullie huizen en vertoont jullie veirsieringen niet zoals dat in de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Blijft in uw huizen en stelt uw schoonheid niet ten toon als in de vroegere dagen der onwetendheid; leeft het gebed na, en betaalt de Zakaat en gehoorzaamt Allah en Zijn boodschapper. O huisgenoten, Allah wenst alleen onreinheid van u te verwijderen, en u schoon en zuiver te maken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

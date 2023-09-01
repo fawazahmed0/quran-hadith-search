@@ -986,7 +986,7 @@ O jullie die geloven, behoedt julliezelf en jullie gezinsleden voor de Hel, die 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij die gelooft, redt u zelf en uw gezinnen van het Vuur, welks brandstof mensen en stenen zijn, waarover engelen zijn, hard en streng, die Allah niet ongehoorzaam zijn in hetgeen Hij hun beveelt, en volvoeren wat hun wordt geboden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

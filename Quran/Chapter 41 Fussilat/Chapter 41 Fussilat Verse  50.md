@@ -986,7 +986,7 @@ En als Wij hem Barmhartigheid van Ons doen proeven nadat tegenspoed hem trof, da
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als Wij hem barmhartigheid tonen nadat enige kommer over hem is gekomen, zal hij zeker zeggen: 'Dit komt mij toe en ik denk niet dat het Uur zal plaatsvinden. Maar indien ik tot mijn Heer word teruggebracht zal ik zeker bij Hem het allerbeste vinden.' Doch Wij zullen stellig de ongelovigen alles vertellen wat zij deden en Wij zullen hen zeker een zware straf doen ondergaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorwaar, Allah acht het niet beneden Zich om een mug tot gelijkenis te stellen,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, Allah acht het niet beneden zich, een mug of iets nog kleiners als gelijkenis te stellen. Zij die geloven weten, dat dit de Waarheid van hun Heer is, terwijl degenen, die niet geloven, zeggen:'Wat bedoelt Allah met zulk een voorbeeld?' Velen laat Hij daardoor dwalen en velen leidt Hij daardoor terecht - en niemand laat Hij daarmede dwalen, dan de ongehoorzamen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

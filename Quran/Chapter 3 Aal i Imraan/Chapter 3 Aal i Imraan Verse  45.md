@@ -986,7 +986,7 @@ De engelen zeiden verder; o Maria! God verkondigt u zijn woord; zijn naam zal zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen de engelen zeiden: 'O, Maria, waarlijk, Allah geeft u blijde tijding door Zijn woord: Zijn naam zal zijn: de Messias, Jezus, zoon van Maria, ge�erd in deze wereld en in de volgende en hij zal tot hen behoren die in Gods nabijheid zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

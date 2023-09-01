@@ -986,7 +986,7 @@ Of jij een huis van goud hebt, of naar de hemel opstijgt, en wij zullen jouw ops
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of tenzij gij een huis hebt van goud, of tenzij gij ten hemel stijgt, maar wij zullen in uw hemelvaart niet geloven tenzij gij ons een boek nederzendt dat wij kunnen lezen.' Zeg: 'Glorie zij mijn Heer: ik ben slechts mens en boodschapper
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

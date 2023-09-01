@@ -986,7 +986,7 @@ Voorzeker, zij zijn ongelovig die zeggen: "Allah is de Masîh, zoon van Maryam."
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij lasteren God, die zeggen: 'Waarlijk Allah, Hij is de Messias, de zoon van Maria,' terwijl de Messias zelf zeide: 'O, kinderen Isra�ls, aanbidt Allah, Die mijn Heer en uw Heer is.' Gewis, voor hem die iets met Allah vereenzelvigt, heeft Allah de Hemel verboden en het Vuur zal zijn verblijfplaats zijn. Er is voor de onrechtvaardigen geen helper
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

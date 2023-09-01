@@ -986,7 +986,7 @@ Hij (de Sâmiri) zei: "Ik doorzag wat zij niet doorzagen en ik nam een handvol u
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zeide: 'Ik zag wat zij niet konden zien. Ik volgde de voetstappen van de boodschapper naar mijn beste vermogen, doch dat heb ik thans opgegeven. Aldus heeft. mijn ziel het voor mij vergemakkelijkt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

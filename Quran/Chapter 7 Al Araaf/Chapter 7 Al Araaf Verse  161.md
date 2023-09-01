@@ -986,7 +986,7 @@ En (gedenkt) toen er tot hen werd gezegd: "Bewoont deze stad en eet van haar (op
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen er tot hen werd gezegd: 'Woont in deze stad en eet ervan waar gij ook wilt en zegt: ´God, verlicht onze last´, en gaat de poort in nederigheid binnen, Wij zullen u uw tekortkomingen vergeven. Wij zullen meer geven aan hen die goed doen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

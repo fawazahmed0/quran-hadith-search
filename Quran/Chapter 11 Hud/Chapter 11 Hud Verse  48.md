@@ -986,7 +986,7 @@ Er werd gezegd: "O Nôeh, ga van boord met veiligheid en de zegening van Ons ove
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er werd gezegd: 'O Noach, daal dan af (uit de ark) met Onze vrede en met zegeningen over u en over de volkeren die met u zijn. En er zullen andere volkeren zijn wie Wij een (aardse) voorziening zullen schenken, daarna zal een pijnlijke straf van Ons hen raken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

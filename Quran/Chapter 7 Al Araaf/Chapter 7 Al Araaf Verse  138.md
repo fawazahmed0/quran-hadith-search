@@ -986,7 +986,7 @@ En Wij brachten de Kinderen van Israël naar de overkant van de zee. En toen zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij deden de kinderen Isra�ls door de zee trekken en zij kwamen tot een volk dat aan zijn afgoden was gehecht. Zij zeiden: 'O, Mozes, maak ons een god zoals dit (volk) goden heeft.' Hij antwoordde: 'Gij zijt zeker een onwetend volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

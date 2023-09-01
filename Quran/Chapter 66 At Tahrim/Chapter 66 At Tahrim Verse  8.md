@@ -986,7 +986,7 @@ O jullie die geloven, toont Allah oprecht berouw, hopelijk zal jullie Heer julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij gelovigen, wendt u tot Allah in oprecht berouw. Het kan zijn dat uw Heer uw fouten van u zal verwijderen en u in tuinen toelaten waar doorheen rivieren stromen, op de Dag waarop Allah de profeet alsmede de gelovigen niet zal vernederen. Hun licht zal v��r hen en van hun rechter handen uitgaan. Zij zullen zeggen: 'Onze Heer, volmaak ons licht voor ons en vergeef ons; want Gij hebt macht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

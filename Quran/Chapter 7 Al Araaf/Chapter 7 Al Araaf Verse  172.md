@@ -986,7 +986,7 @@ En (gedenkt) toen jouw Heer het nageslacht van de Kinderen van Adam uit hun lend
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen uw Heer van Adams kinderen een nageslacht uit hun lendenen voortbracht, en hen deed getuigen over henzelf: 'Ben ik uw Heer niet?' antwoordden zij: 'Ja, wij getuigen' zodat gij op de Dag der Opstanding niet zoudt zeggen: 'Wij waren ons hiervan zeker niet bewust
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Welke zaak vormt de grootste getuigenis?" Zeg: "Allah is Get
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Wie is het gewichtigst als getuige?' Zeg: 'Allah is getuige tussen u en mij. En deze Koran is mij geopenbaard, opdat ik u en wie hij bereikt, moge waarschuwen. Getuigt gij werkelijk dat er andere goden buiten Allah zijn?' Zeg: 'Ik getuig niet.' Zeg: 'Hij is de ene God en ik heb niets uitstaande met datgene wat gij met Hem vereenzelvigt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

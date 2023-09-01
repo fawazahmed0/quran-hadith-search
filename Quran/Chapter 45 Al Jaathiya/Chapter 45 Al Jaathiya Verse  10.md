@@ -986,7 +986,7 @@ Voor hen is de Hel, en wat zij verricht hebben zal hun niets baten, noch dat wat
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij hebben de hel in het vooruitzicht; hetgeen zij verwierven zal hen niet baten noch de afgoden die zij buiten Allah tot beschermers namen, terwijl zij een grote straf zullen ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

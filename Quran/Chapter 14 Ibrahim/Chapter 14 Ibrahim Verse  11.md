@@ -986,7 +986,7 @@ Hun Boodschappers zeiden tot hen: "Wij zijn slechts mensen als jullie, maar Alla
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hun boodschappers zeiden tot hen: 'Wij zijn inderdaad stervelingen zoals gij, maar Allah bewijst gunsten aan wie van Zijn dienaren Hij wil. Het is niet aan ons u een bewijs te brengen, dan door het gebod van Allah. En in Allah behoren de gelovigen te vertrouwen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

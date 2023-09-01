@@ -986,7 +986,7 @@ O jullie die geloven! Laat de slaven waarover jullie beschikken en degenen onder
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij die gelooft, laten uw slaven en degenen uwer die de geslachtsrijpheid nog niet hebben bereikt driemaal uw toestemming vragen (bij u te mogen komen), v��r het morgengebed, wanneer gij wegens de middaghitte u van uw klederen ontdoet, en na het avondgebed. Drie priv�-tijden voor u. Op andere tijden is het noch voor u, noch voor hen hinderlijk, want sommigen uwer moeten met anderen omgaan; aldus maakt Allah u de geboden duidelijk; Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

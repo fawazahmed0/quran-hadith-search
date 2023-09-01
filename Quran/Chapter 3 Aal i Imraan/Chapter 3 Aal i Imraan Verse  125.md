@@ -986,7 +986,7 @@ Jawel, als jullie geduldig zijn en (Allah) vrezen en zij komen op jullie afgesto
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ja, indien gij geduldig en rechtvaardit zijt en zij (de ongelovigen) u dadelijk in wilde vaart aanvallen, zal uw Heer u met vijf duizend nedergezonden engelen bijstaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Roep daarom (op tot de Islam), en wees standvastig zoals jou is bevelen, en volg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nodig hen daarom hiertoe uit. En wees standvastig zoals u is geboden en volg hun slechte begeerten niet, maar zeg: 'Ik geloof in elk Boek dat Allah heeft neder gezonden en het is mij geboden rechtvaardig tegenover u te handelen. Allah is onze Heer en uw Heer. Aan ons onze werken en aan u uw werken. Laat er geen twist tussen u en ons bestaan. Allah zal ons tezamen brengen en tot Hem is de terugkeer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

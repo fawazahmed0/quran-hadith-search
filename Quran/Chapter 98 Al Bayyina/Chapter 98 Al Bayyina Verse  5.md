@@ -986,7 +986,7 @@ Zij werden niets anders bevolen dan Allah met zuivere aanbidding te aanbidden, a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En daarin werd hun slechts geboden Allah te aanbidden, oprecht zijnde in gehoorzaamheid jegens Hem, oprecht het gebed te onderhouden en de Zakaat te betalen. Dat is de ware godsdienst
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

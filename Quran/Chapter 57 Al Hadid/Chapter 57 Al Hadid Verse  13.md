@@ -986,7 +986,7 @@ Op die Dag zullen de huichelaars en de huichelaarsters tegen degenen die geloven
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Op de Dag, waarop huichelaars en huichelaarsters tot de gelovigen zullen zeggen: 'Laat ons iets van uw licht nemen,' zal er gezegd worden: 'Gaat terug en zoekt licht.' Dan zal er tussen hen een muur worden opgericht met een poort er in. Aan de binnenkant zal barmhartigheid zijn en aan de buitenkant zal straf zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

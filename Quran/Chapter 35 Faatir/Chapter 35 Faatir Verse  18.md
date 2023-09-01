@@ -986,7 +986,7 @@ En geen enkele lastdrager zal de last (zonden) van een andere dragen. En als een
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Geen lastdragende kan de last van een ander dragen en indien een zwaarbelaste (een ander) roept tot (verlichting van) zijn last, zal er niets van kunnen worden overgenomen, zelfs al is hij een bloedverwant; gij kunt slechts hen waarschuwen, die hun Heer in het verborgene vrezen en het gebed onderhouden. En wie zich reinigt, reinigt zich alleen in zijn eigen belang en tot Allah is de terugkeer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

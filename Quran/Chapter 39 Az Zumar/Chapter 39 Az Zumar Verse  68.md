@@ -986,7 +986,7 @@ En er zal op de bazuin geblazen worden, waarop allen die in de hemelen en op de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de bazuin zal worden geblazen en allen die in de hemelen en op aarde zijn, zullen bezwijmen, behalve degenen die Allah wil. Dan zal er nogmaals worden geblazen en ziet! Zij zullen staande herrijzen en wachten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

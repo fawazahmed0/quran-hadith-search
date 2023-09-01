@@ -986,7 +986,7 @@ Allah heeft het beste Woord nemgezonden in een Doek, op elkaar lijkende, herhale
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah heeft de beste verkondiging geopenbaard, een Boek (de Koran), overeenkomstig met zichzelf, vaak herhalend (vermaningen) waarbij de huid van hen die hun Heer vrezen ineenkrimpt, daarna ontspant zich hun huid en hun hart wordt zacht bij de gedachte aan Allah. Dit is de leiding van Allah, Hij leidt daarmee wie Hij wil. En wie Allah laat dwalen, zal geen leider hebben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

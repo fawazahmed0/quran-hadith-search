@@ -986,7 +986,7 @@ En zij zweren bij Allah de duurste eden: dat wanneer er een waarschuwer tot hen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zweren bij Allah hun plechtigste eden, dat indien een waarschuwer tot hen zou komen, zij de leiding beter zouden volgen dan andere volkeren. Maar toen een waarschuwer tot hen kwam, deed het hen slechts in afkeer toenemen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

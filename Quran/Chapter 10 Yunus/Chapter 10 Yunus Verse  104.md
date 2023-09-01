@@ -986,7 +986,7 @@ Zeg: "O mensen, als jullie twijfelen aan mijn godsdienst: ik aanbid niet wat jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'O gij mensen, als gij over mijn godsdienst in twijfel verkeert, (weet) dan dat ik niet aanbid degenen die gij naast Allah aanbidt, maar ik aanbid Allah Die u doet sterven en het is mij geboden tot de gelovigen te behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

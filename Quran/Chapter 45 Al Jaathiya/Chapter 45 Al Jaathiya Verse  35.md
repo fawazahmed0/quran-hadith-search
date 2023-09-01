@@ -986,7 +986,7 @@ Dit is omdat jullie de Verzen van Allah tot onderwerp van spot maakten en het we
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dit is omdat gij de tekenen van Allah bespottet, daardoor heeft het leven der wereld u misleid.' Daarom zullen zij op die Dag niet uit het Vuur worden genomen, noch zal hun verontschuldiging worden toegestaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

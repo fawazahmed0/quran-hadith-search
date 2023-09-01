@@ -986,7 +986,7 @@ Zodat zij getuigen zijn van de voordelen voor hen. En de Naam van Allah uitsprek
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Opdat zij van hun voordeel getuigenis afleggen en de naam van Allah uitspreken gedurende de vastgestelde dagen over het vee waarvan Hij hen heeft voorzien. Eet dan daarvan en spijzigt de behoeftigen in nood
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

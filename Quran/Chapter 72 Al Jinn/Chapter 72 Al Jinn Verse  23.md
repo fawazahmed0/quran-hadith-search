@@ -986,7 +986,7 @@ Ik kan niets meer doen, dan wat mij van God werd geopenbaard, en zijne zendingen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Mij is) slechts de verkondiging van Allah´s boodschap opgedragen.' En voor degenen die Allah en Zijn boodschapper niet gehoorzamen is het Vuur der hel, waarin zij lange tijd zullen vertoeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

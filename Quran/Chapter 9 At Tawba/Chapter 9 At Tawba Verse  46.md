@@ -986,7 +986,7 @@ En als zij (met jou ten strijde) zouden willen trokken, dan zouden zij daartoe z
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien zij hadden willen vertrekken, zouden zij er zeker enige voorbereiding voor hebben gemaakt, maar Allah was afkerig van hun vertrek. Hij hield hen daarom terug en er werd gezegd: 'Zit met de zittenden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

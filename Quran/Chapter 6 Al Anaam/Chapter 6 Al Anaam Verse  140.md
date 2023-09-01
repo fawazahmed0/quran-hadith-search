@@ -986,7 +986,7 @@ Waarlijk, degenen die hun kinderen hebben gedood uit dwaasheid, zonder kennis, h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij, die hun kinderen door gebrek aan kennis uit domheid doden en hetgeen, waarvan Allah hen heeft voorzien, onwettig maken, een leugen over Allah smedende, zijn inderdaad afgedwaald - noch kunnen zij recht geleid worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

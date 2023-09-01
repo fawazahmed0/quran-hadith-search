@@ -986,7 +986,7 @@ Weet dat er geen god is dan Allah en vraag om vergeving voor jouw zonden en voor
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Weet, dat er buiten Allah geen God bestaat en vraag bescherming voor uw tekortkoming en voor die van gelovige mannen en vrouwen. Allah kent de plaats uwer handelingen en uw rustplaats
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Verkeer daarom niet in twijfel over wat deze mensen aanbidden, zij aanbidden sle
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wees dus niet in twijfel, omtrent hetgeen deze mensen aanbidden: zij aanbidden slechts, zoals hun vaderen voorheen aanbaden en Wij zullen hun voorzeker hetgeen hen toekomt ten volle en onverminderd geven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Daarna verruilden degenen onder hen die onrecht pleegden (het Woord van Allah) v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar de onrechtvaardigen onder hen vervingen het woord door een ander dat niet tot hen was gesproken. Daarom zonden Wij een kastijding van de hemel over hen neder omdat zij onrechtvaardig waren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

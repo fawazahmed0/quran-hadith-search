@@ -986,7 +986,7 @@ En toen de nacht hem omhulde zag hij een ster, hij zei: "Dit is mijn Meet." Maar
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen de nacht over hem kwam, zag hij een ster. Hij zeide: 'Dit is mijn Heer.' Maar toen zij onderging, zeide hij: 'Ik heb de dingen, die ondergaan niet lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

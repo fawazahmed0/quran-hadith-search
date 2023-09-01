@@ -986,7 +986,7 @@ Allah heeft (geen bijgeloof) ingesteld zoals Behîrah, Sâ'ibah Washîlah an Hâ
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah heeft geen Bahira, Saiba, Wasila of Haam verordend, maar de ongelovigen verzinnen een leugen tegen Allah en de meesten hunner begrijpen dit niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

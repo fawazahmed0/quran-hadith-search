@@ -986,7 +986,7 @@ En een gelovige man van het volk van Fir'aun, die zijn geloof had verborgen, zei
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En een gelovig man uit het volk van Pharao die zijn geloof verborg, zeide: 'Wilt gij een man doden omdat hij zegt: ´Mijn Heer is Allah´; terwijl hij tot u gekomen is met duidelijke tekenen van uw Heer? Is hij een leugenaar, dan rust zijn leugen op hem; maar als hij oprecht is, dan zal iets van datgene, waarmee hij u bedreigt, u overkomen. Voorzeker, Allah leidt hem die buitensporig en een grote leugenaar is, niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

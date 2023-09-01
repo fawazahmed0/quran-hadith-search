@@ -986,7 +986,7 @@ En voorwaar, er zijn er onder de Lieden van de Schrift die zeker in Allah gelove
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voorzeker, onder de mensen van het Boek zijn er, die in Allah en in hetgeen u is geopenbaard en in hetgeen tot hen was neergedaald, geloven, zich voor Allah verootmoedigend. Zij ruilen de tekenen van Allah niet in voor een geringe prijs. Dezen zijn het, die hun beloning bij hun Heer zullen ontvangen. Voorzeker, Allah is vlug in het verrekenen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

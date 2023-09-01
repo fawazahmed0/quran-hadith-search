@@ -986,7 +986,7 @@ En (hij is) als een Boodschapper voor de Kinderen van Israël, (die zegt:) "Voor
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hij zal een boodschapper voor de kinderen Isra�ls zijn. 'Ik kom tot u met een teken van uw Heer; ik zal u uit klei de vorm van een vogel maken, dan adem ik daarin en hij zal een vogel worden, door Allah´s gebod. En ik genees de blinden en de melaatsen en doe de doden herleven en ik deel u mede, wat gij zult eten en wat gij in uw huizen zult opslaan. Voorzeker, daarin is voor u een teken, indien gij gelovigen zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

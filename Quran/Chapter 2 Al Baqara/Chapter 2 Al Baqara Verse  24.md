@@ -986,7 +986,7 @@ Als jullie dan daartoe niet in staat zijn, en jullie zullen er nooit toe in staa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Doch, indien gij het niet kunt doen - en gij zult het nimmer kunnen doen - wacht u dan voor het Vuur, dat voor de ongelovigen is bereid, welks brandstof mensen en stenen zign
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

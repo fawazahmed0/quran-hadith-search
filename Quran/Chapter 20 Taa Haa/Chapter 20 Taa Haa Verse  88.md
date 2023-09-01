@@ -986,7 +986,7 @@ Toen haalde de Sâmirî voor hen een beeld van een kalf (uit het vuur), met gelo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan maakte deze voor het volk een kalf - een beeld, dat een loeiend geluid voortbracht. En men zeide: 'Dit is uw God en de God van Mozes,' doch hij is hem vergeten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

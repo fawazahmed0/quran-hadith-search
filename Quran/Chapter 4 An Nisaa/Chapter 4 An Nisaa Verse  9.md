@@ -986,7 +986,7 @@ En laat degenen die een zwak nageslacht achterlaten bevreesd zijn en bezorgd zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En laat hen Allah vrezen, die, indien zij hun eigen zwakke nageslacht mochten achterlaten, bezorgd zouden zijn. Laat hen Allah daarom vrezen en laat hen het juiste woord spreken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

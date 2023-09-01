@@ -986,7 +986,7 @@ En laat je niet treurig maken (O Moehammed) door degenen die zich naar het ongel
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En laat degenen, die vlug tot ongeloof vervallen, u niet verdrieten; voorzeker, zij kunnen Allah niets aandoen. Allah wil hen aan het toekomstig leven geen deel doen hebben, er zal voor hen een strenge straf zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En hij kwam de stad binnen op een tijd dat haar mensen onachtzaam waren, en hij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hij ging de stad binnen op een tijdstip waarop de bewoners achteloos waren, en hij vond er twee vechtende mannen, de ene van zijn eigen volk en de andere van zijn vijanden. En hij die van zijn volk was zocht hulp tegen hem die tot zijn vijanden behoorde. Daarom stompte Mozes hem zodat deze stierf. Hij zeide: 'Dit is Satan´s werk, en deze is inderdaad een vijand en openbare verleider
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

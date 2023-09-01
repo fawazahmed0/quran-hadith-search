@@ -986,7 +986,7 @@ Voorwaar, het is Allah Die de graankorrel en de dadelpit doet ontkiemen Hij doet
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, het is Allah die de graankorrel en de dadelpit doet uitspruiten. Hij brengt de levenden uit de doden voort en is de Voortbrenger van doden uit de levenden. Dat is Allah, waarheen wordt gij dan afgewend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

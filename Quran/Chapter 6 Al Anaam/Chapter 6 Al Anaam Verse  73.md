@@ -986,7 +986,7 @@ Hij is Degene Die de hemelen on de aarde schiep met de Waarheid. En op de dag wa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Hij is het, Die de hemelen en de aarde in werkelijkheid schiep. En de dag, waarop Hij zegt: 'Wees', wordt het. Zijn woord is werkelijkheid; en aan Hem behoort het koninkrijk op de Dag waarop de bazuin zal worden geblazen. De Kenner v an het onzichtbare en het zichtbare. Hij is de Alwijze, de Al- kennende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorwaar, degenen die hun belofte aan Allah en hun eden voor een geringe prijs v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Die een geringe prijs (het wereldse) in ruil nemen voor hun verbond met Allah en voor hun eed, voor dezen is er geen voordeel in het Hiernamaals en Allah zal niet tot hen spreken, noch hen aanzien op de Dag des Oordeels, noch zal Hij hen als rein beschouwen en er zal een smartelijke straf voor hen zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hij is Degene Die de ongelovigen onder de mensen van de Schrift uit hun woonplaa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het Die de ongelovigen onder de mensen van het Boek, uit hun huizen zette bij de eerste verbanning. Gij dacht niet dat zij zouden weggaan en zij dachten dat hun vestingen hen zouden beschermen tegen Allah. Maar Allah kwam tot hen, vanwaar zij Hem niet verwachtten, en wierp schrik in hun hart, zodat zij hun huizen met hun eigen handen en met die van de gelovigen vernielden. Trekt er daarom een lering uit, o gij die ogen hebt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

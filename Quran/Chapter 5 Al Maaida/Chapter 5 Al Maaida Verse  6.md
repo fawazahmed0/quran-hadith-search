@@ -986,7 +986,7 @@ O jullie die geloven! Wanneer jullie je voorbereiden op de shalât, wast dan jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, wanneer gij u opricht tot het gebed, wast uw gezicht en uw handen tot aan de ellebogen en wrijft uw (natte) handen over uw hoofden en (wast) uw voeten tot aan de enkels. En als gij onrein zijt, reinigt u. En als gij ziek of op reis zijt en een uwer komt van de afzondering, of gij hebt vrouwen aangeraakt en gij vindt geen water, zoekt dan uw toevlucht tot zuivere aarde en veegt daarmede uw gezicht en handen af. Allah wenst u niet in moeilijkheden te brengen, maar Hij wenst u te reinigen en Zijn gunst aan u te vervolmaken, opdat gij dankbaar zult zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

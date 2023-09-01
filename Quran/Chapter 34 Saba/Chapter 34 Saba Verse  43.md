@@ -986,7 +986,7 @@ En als Onze duidelijke Verzen aan hen worden voorgedragen, zeggen zij: "Dit is n
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer Onze duidelijke woorden aan hen zijn verkondigd, zeggen zij: 'Dit is slechts een man, die u van hetgeen uw vaderen aanbaden, wenst af te leiden.' En zij zeggen: 'Dit is slechts een verzonnen leugen.' En de ongelovigen zeggen van de Waarheid als deze tot hen komt, 'Dit is niets dan zuiver tovenarij
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

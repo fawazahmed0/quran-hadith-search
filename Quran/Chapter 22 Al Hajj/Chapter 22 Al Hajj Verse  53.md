@@ -986,7 +986,7 @@ Zodat Hij wat de Satan inwerpt als een beproeving maakt voor degenen in wiens ha
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zodat Hij hetgeen Satan inblaast tot een beproeving moge maken voor degenen in wier hart een ziekte is en wier hart verhard is - voorzeker, de onrechtvaardigen zijn in groot verzet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

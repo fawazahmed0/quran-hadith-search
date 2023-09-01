@@ -986,7 +986,7 @@ Toen gaf hij hun vee voor hen te drinken. Toen trok hij zich terug in de schaduw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarop drenkte hij voor haar. Daarna ging hij opzij in de schaduw, en zeide: 'Mijn Heer, ik heb behoefte aan wat Gij mij voor goeds moogt nederzenden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

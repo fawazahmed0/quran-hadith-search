@@ -986,7 +986,7 @@ Zeg: "O Allah, Koning van het Koninkrijk, U schenkt het Koninkrijk aan wie U wil
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'O, Allah, Heer van het Koninkrijk, Gij geeft heerschappij aan wie Gij wilt en neemt terug van wie Gij wilt. Gij verheft, wie Gij wilt en vernedert, wie Gij wilt. Slechts in Uw hand is het goede. En Gij hebt macht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

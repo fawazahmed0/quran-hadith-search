@@ -986,7 +986,7 @@ En voor ieder hebben Wij gemaakt dat er Erfgenamen zijn voor wat de ouders en de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voor een ieder hebben Wij erfgenamen bepaald ten aanzien van hetgeen de ouders en de bloedverwanten nalaten; en van degenen met wie uw eden een overeenkomst hebben bekrachtigd, geeft ieder hunner daarom zijn deel. Waarlijk, Allah is Bewaker over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

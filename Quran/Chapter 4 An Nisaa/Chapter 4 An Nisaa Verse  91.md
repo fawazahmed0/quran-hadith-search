@@ -986,7 +986,7 @@ Jullie zullen anderen vinden, die wensen voor jullie veilig te zijn en voor hun 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij zult anderen vinden die veilig bij u willen zijn en bij hun eigen volk; telkens wanneer zij tot vijandigheid worden opgeroepen, doen zij blindelings mee. Als zij zich derhalve niet op een afstand van u houden, noch u vrede aanbieden, noch hun handen terughouden, grijpt hen dan aan en doodt hen waar gij hen ook vindt. Tegen dezen hebben Wij u duidelijk gezag gegeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

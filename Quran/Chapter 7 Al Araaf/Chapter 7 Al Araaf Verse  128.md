@@ -986,7 +986,7 @@ Môesa zei tot zijn volk: "Smeekt Allah om hulp en weest geduldig. Voorwaar, de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mozes zeide tot zijn volk: 'Zoekt de hulp van Allah en weest geduldig. Voorzeker, de aarde behoort aan Allah. Hij geeft haar als erfdeel aan wie Zijner dienaren Hij wil en de uiteindelijke overwinning is voor de godvrezenden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

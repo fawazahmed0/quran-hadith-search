@@ -986,7 +986,7 @@ Zij zijn degenen die niet geloven in de Tekenen van hun Heer en in de ontmoeting
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dezen zijn het die de tekenen van hun Heer en de ontmoeting met Hem verwerpen. Derhalve zijn hun werken verloren gegaan en op de Dag der Verrijzenis zullen Wij geen weegschaal voor hen oprichten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

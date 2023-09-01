@@ -986,7 +986,7 @@ De gelijkenis van degenen die op de Weg van Allah uitgeven is als de gelijkenis 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De gelijkenis van degenen, die hun rijkdommen voor de zaak van Allah besteden, is als de gelijkenis van een graankorrel, die zeven aren voortbrengt, in elke aar honderd korrels. Allah vermeerdert voor wie Hij wil; Allah is Alomvattend, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

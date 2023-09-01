@@ -986,7 +986,7 @@ Het is jullie verplicht wanneer de dood één van jullie nabij is, als hij bezit
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het is u voorgeschreven, dat wanneer de dood tot ��n uwer komt, en hij een vermogen nalaat, hij een testament opmake voor ouders en naaste familieleden, billijkerwijze. Dit is een verplichting voor de godvruchtigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

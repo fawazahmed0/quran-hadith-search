@@ -986,7 +986,7 @@ Dat was omdat hun Boodschappers tot hen waren gekomen met de duidelijke bewijzen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dat kwam omdat hun boodschappers tot hen kwamen met duidelijke tekenen, doch zij verwierpen ze; daarom greep Allah hen. Voorzeker, Hij is Machtig, Streng in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

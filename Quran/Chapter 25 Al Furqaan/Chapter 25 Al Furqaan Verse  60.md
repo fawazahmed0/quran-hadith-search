@@ -986,7 +986,7 @@ En als er tot hun gezegd wordt: "Kniel voor de Erbarmer," zeggen zij: "Wie is de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer er tot de ongelovigen wordt gezegd: 'Werpt u neder voor de Barmhartige,' zeggen zij: 'En wie is de Barmhartige? Zullen wij ons nederwerpen voor degene die gij ons gelast?' En dit vermeerdert slechts hun afkeer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

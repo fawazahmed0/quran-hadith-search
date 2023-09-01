@@ -986,7 +986,7 @@ O jullie die geloven, vermijdt veel van de kwade vermoedens. Voorwaar, een deel 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft! Vermijdt in het algemeen verdenking want achterdoeht is een zonde. En spionneert niet, noch belastert elkander. Lust iemand onder u het vlees van zijn dode broeder? Gij verafschuwt het zekerlijk. Vreest Allah voorzeker, Allah is Berouwaanvaardend, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

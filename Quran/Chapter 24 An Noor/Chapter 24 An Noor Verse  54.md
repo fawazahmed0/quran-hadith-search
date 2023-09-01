@@ -986,7 +986,7 @@ Zeg: "Gehoorzaamt Allah en gehoorzaamt de Boodschapper!" En als jullie je afwend
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Gehoorzaamt Allah en gehoorzaamt de boodschapper. Maar indien gij u afwendt is hij slechts verantwoordelijk voor datgene waarmee hij is belast, en gij zijt slechts verantwoordelijk voor datgene waarmee gij zijt belast. En indien gij hem gehoorzaamt, zult gij geleid worden. En de plicht van de boodschapper is slechts de duidelijke verkondiging
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

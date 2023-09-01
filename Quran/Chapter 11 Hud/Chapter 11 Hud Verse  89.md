@@ -986,7 +986,7 @@ En: "O mijn volk, laat mijn onenigheid (met jullie) er niet toe leiden dat julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, mijn volk, laat vijandigheid jegens mij u niet er toe leiden, dat hetzelfde u overkome als hetgeen het volk van Noach of het volk van Hoed of het volk van Salih overkwam; en het volk van Lot is niet ver van u
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

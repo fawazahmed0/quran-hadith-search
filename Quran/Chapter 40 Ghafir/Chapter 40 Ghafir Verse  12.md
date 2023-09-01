@@ -986,7 +986,7 @@ Dat is omdat jullie ongelovig waren toen Allah als Enige God werd aangeroepen. M
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dit kwam omdat gij niet geloofdet toen Allah de Ene werd genoemd, maar toen Hem medegoden werden toegeschreven, geloofdet gij. Nu behoort het oordeel aan Allah, de Allerhoogste, de Allergrootste
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

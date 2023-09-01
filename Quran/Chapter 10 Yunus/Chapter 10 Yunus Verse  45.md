@@ -986,7 +986,7 @@ En (gedenkt) de Dag waarop Hij hen bijeenbrengt, (dan is het voor hen) alsof zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de Dag, waarop Hij hen zal verzamelen, zal het hun toeschijnen, alsof zig slechts een uur van een dag (in de wereld) hadden vertoefd. Zij zullen elkander herkennen. Verliezers zijn zeker degenen die de ontmoeting met Allah loochenen en geen leiding willen volgen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

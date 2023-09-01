@@ -986,7 +986,7 @@ En het behoort tot Zijn Tekenen dat Hij van jullie eigen soort echtgenotes heeft
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En dit is onder Zijn tekenen, dat Hij uit uw midden echtgenoten voor u schiep, opdat gij er rust in moogt vinden, en Hij heeft liefde en tederheid onder u geplaatst. Daarin zijn zeker tekenen voor een volk, dat nadenkt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Allah beveelt rechtvaardigheid en het goede en het geven aan de verwanten en Hij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Allah gelast u goed met goed (te vergelden) en wel te doen aan anderen en te geven als aan verwanten; en verbiedt onbetamelijkheid, kwaad en opstand. Hij raadt u aan dat gij er lering uit trekt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

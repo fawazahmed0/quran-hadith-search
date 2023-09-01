@@ -986,7 +986,7 @@ En van degenen die zeggen: "Voorwaar, wij zijn Christenen," (zeggen Wij:) Wij sl
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En met degenen die zeggen: 'Wij zijn Christenen, sloten Wij (eveneens) een verbond, maar zij vergaten een deel van hetgeen hen was voorgehouden. Daarom deden Wij vijandschap en haat onder hen ontstaan, tot de Dag der Opstanding. Allah zal hen weldra laten weten, wat zij deden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

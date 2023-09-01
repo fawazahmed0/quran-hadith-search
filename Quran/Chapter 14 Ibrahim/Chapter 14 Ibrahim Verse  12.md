@@ -986,7 +986,7 @@ Waarom zouden wij niet op Allah ons vertrouwen stellen. terwijl Hij ons waarlijk
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En waarom zouden wij niet in Allah vertrouwen wanneer Hij ons onze wegen heeft getoond? En wij zullen voorzeker al het kwaad dat gij ons doet met geduld dragen. Laat daarom allen die willen vertrouwen, in Allah hun vertrouwen stellen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

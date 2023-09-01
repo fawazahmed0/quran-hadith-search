@@ -986,7 +986,7 @@ Of zeggen zij dat hij (Moehammad) een leugen over Allah verzonnen heeft? Als All
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeggen zij: 'Hij heeft een leugen over Allah verzonnen?' Als Allah het wilde kon Hij uw hart verzegelen. Maar Allah zal de leugen uitvagen en de Waarheid door Zijn woord bevestigen. Voorzeker, Hij weet wat in de harten is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

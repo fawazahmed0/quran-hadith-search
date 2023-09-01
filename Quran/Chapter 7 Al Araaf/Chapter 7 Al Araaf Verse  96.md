@@ -986,7 +986,7 @@ En ais de inwoners van de steden hadden geloofd en (Allah) hadden gcvreesd, dan 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien de mensen van die steden hadden geloofd en rechtvaardig waren geweest, zouden Wij zeker zegeningen van de hemel en van de aarde voor hen hebben gezonden, maar zij verloochenden (onze profeet); daarom grepen Wij hen vanwege hun daden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

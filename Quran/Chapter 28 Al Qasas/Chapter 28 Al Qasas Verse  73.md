@@ -986,7 +986,7 @@ En het behoort tot Zijn Barmhartigheid dat Hij voor jullie de nacht en de dag ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het is door Zijn barmhartigheid dat Hij nacht en dag voor u heeft ingesteld opdat gij er in moogt rusten en naar Zijn overvloed moogt uitzien, en opdat gij dankbaar moogt zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

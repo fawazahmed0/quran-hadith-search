@@ -986,7 +986,7 @@ Denken jullie dat jullie het Paradijs zulen binnengen, terwijl het gelijke dat t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Denkt gij dat gij de Hemel zult binnengaan, terwijl cle toestand dergenen, die v��r u gingen, nog niet over u is gekomen? Armoede en tegenslagen kwamen over hen en zij werden hevig geschokt, totdat de boodschapper en de gelovigen met hem zeiden: 'Wanneer komt Allah´s hulp?' Ja, voorzeker, de hulp van Allah is nabij
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Op deze dag dan redden Wij jouw lichaam opdat jij een Teken zult zijn voor hen d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Heden zullen Wij uw lichaam redden, opdat gij een teken moogt zijn voor degenen die na u komen. En waarlijk, het merendeel der mensen is achteloos ten opzichte van Onze tekenen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Toen de Boodschappers vóór hen en na hen waren gekomen (en zeiden:) "Aanbidt a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen hun boodschappers van v��r hen en achter hen tot hen kwamen, zeggende: 'Aanbidt niets dan Allah', zeiden zij: 'Als onze Heer het had gewild, zou Hij beslist engelen hebben nedergezonden. Derhalve verwerpen wij datgene waarmede gij gezonden zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

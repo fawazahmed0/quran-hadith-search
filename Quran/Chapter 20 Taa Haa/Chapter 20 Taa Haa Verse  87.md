@@ -986,7 +986,7 @@ Zij zeiden: "Wij hebben de afspraak met jou niet uit vrije wil afgezegd, maar wi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij antwoordden: 'Wij hebben niet uit eigen beweging onze belofte aan u gebroken, doch wij waren belast met een lading sieraden van het volk, derhalve wierpen wij deze weg, en dat heeft Saamiri voorgesteld
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

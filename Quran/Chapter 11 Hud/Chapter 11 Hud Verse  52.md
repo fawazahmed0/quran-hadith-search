@@ -986,7 +986,7 @@ En: "O mijn volk, vraagt vergeving aan jullie Heer, wendt jullie dan in berouw t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En o, mijn volk, vraag vergiffenis van uw Heer, wend u daarna tot Hem, Hij zal wolken die regelmatig regen nedergieten over u zenden en kracht bij uw kracht voegen. En wend u niet af als schuldigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

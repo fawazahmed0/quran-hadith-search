@@ -986,7 +986,7 @@ Is hij, die zijn bouwwcrk op vrees voor Allah heeft gegrondvest en op Zijn welbe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is daarom hij, die zijn gebouw op godsvrucht en op Zijn behagen stichtte, beter of hij, die zijn gebouw op een afbrokkelende, door water aangetaste rand stichtte, dat met hem in het Vuur der hel zal storten? En Allah leidt het onrechtvaardige volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

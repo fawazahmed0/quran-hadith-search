@@ -986,7 +986,7 @@ En enkele vrouwen in de stad zelden: "De vrouw van Al 'Azîz verleidt haar slaaf
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de vrouwen in de stad zeiden: 'De vrouw van Aziez zoekt haar slaaf tegen zijn wil te verleiden. Hij heeft haar met verliefdheid vervuld. Wij zien haar inderdaad klaarblijkelijk dwalen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

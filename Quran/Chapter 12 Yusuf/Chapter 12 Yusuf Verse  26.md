@@ -986,7 +986,7 @@ Hij (Yôesoef) zei: "Zij verleidde mij tegen mijn wil," en een getuige van haar 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij (Jozef) zeide: 'Zij is het die mij tegen mijn wil zocht te verleiden.' En een familielid van haar getuigde: 'Als zijn hemd van voren is gescheurd, heeft zij de waarheid gesproken en behoort hij tot de leugenaars
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

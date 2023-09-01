@@ -986,7 +986,7 @@ En Hij bestraft de huichelaars en de huichelaarsters, en de veelgodenaanbidders 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En dat Hij de huichelaars en huichelaarsters en de afgodendienaren en -dienaressen moge straffen, die boze gedachten jegens Allah koesteren. Over dezulken zal tegenspoed en de toorn van Allah komen. Hij heeft hen vervloekt en de hel voor hen gereed gemaakt. En dit is een slechte be stemming
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En wanneer jullie (dit) niet doen: weest op de hoogte van de oorlog van Allah en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar indien gij dit niet doet, bereidt u dan ten oorlog met Allah en Zijn boodschapper; indien gij berouw hebt is voor u het oorspronkelijke kapitaal: zo zult gij geen onrecht doen, noch zal u onrecht worden aangedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

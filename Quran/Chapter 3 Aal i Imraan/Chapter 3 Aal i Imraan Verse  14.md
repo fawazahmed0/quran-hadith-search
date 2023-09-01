@@ -986,7 +986,7 @@ Voor de mensen is de liefde voor begeerlijke (zaken) als vrouwen aantrekkelijk g
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voor de mensen is de liefde tot begeerten schoonschijnend gemaakt, vrouwen, kinderen, stapels goud en zilver, raspaarden, vee en akkers. Dat is de voorziening van het leven dezer wereld, maar Allah is het, bij Wie het juiste einddoel ligt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

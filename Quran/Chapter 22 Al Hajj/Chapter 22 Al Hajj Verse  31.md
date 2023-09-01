@@ -986,7 +986,7 @@ Als Hoenafâ tegenover Allah, zonder Hem deelgenoten toe te kennen, want wie aan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Oprecht zijnde voor Allah, niets met Hem vereenzelvigende. En wie iets met Allah vereenzelvigt, het is alsof hij van een hoogte valt en de vogels hem wegrukken of de wind hem wegblaast naar een afgelegen plaats
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

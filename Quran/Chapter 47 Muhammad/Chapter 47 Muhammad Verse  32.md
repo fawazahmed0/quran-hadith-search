@@ -986,7 +986,7 @@ Voorwaar, degenen die niet geloven en die afhouden van de Weg van Allah en die d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, zij die niet geloven en (anderen) van Allah´s pad afleiden en die de boodschapper tegenwerken, nadat de leiding hun duidelijk is geworden, zullen Allah stellig niet schaden doch Hij zal hun werken vruchteloos maken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

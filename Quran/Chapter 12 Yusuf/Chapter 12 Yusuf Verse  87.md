@@ -986,7 +986,7 @@ O mijn zonen, gaat heen om nieuws in te winnen over Yôesoef en zijn broeder en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O mijn zonen, gaat en zoekt naar Jozef en zijn broeder en wanhoopt niet aan de genade van Allah, want niemand wanhoopt aan Allah´s barmhartigheid dan het ongelovige volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

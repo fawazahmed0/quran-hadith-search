@@ -986,7 +986,7 @@ En nadert het bezit van de wees niet, tenzij op ten wijze die meet voordeel (aan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Beheert het eigendom van de wees, voordat hij volwassen is, niet anders dan op de beste wijze. En geeft de volle maat en het volle gewicht met rechtvaardigheid. Wij belasten geen ziel boven haar vermogen. En leeft, wanneer gij spreekt, rechtvaardigheid na, zelfs wanneer het een bloedverwant betreft en vervult het verbond van Allah. Dit is, hetgeen Hij u vermaant, opdat gij er lering uit moogt trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

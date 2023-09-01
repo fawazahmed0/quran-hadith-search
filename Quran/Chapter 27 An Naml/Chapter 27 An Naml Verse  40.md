@@ -986,7 +986,7 @@ Degene met kennis van Schrift zei: "ik zal hein in een oogwenk naar jou toebreng
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Iemand, die kennis van het geschrift had zeide: 'Ik zal hem tot u brengen v��r uw bode terugkeert,' en toen Salomo de troon naast zich zag geplaatst, zeide hij: 'Dit is bij de gratie van mijn Heer, opdat Hij mij moge beproeven of ik dankbaar of ondankbaar ben. En wie dankbaar is, is dankbaar voor het welzijn van zijn eigen ziel, maar wie ondankbaar is, waarlijk mijn Heer is Zichzelf-genoeg, Ge�erd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En voorzeker, voor (het volk van) Saba' is er in hun woonplaatsen een teken: twe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voorzeker, er was voor Saba een teken in hun woonplaatsen, twee tuinen aan de rechter- en aan de linkerhand; er werd gezegd: 'Eet van de spijzen van uw Heer en weest Hem dankbaar. Een schone stad en een vergevende Heer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

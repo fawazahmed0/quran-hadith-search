@@ -986,7 +986,7 @@ En zij worden in deze wereld en op de Dag der Opstanding achtervolgd door een vl
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er werd een vloek op hen gelegd in deze wereld en op de dag der Opstanding. Ziet! de Aad verwierpen hun Heer. Ziet! vervloekt zij de Aad, het volk van Hoed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En Wij brengen uit iedere gemeenschap een getuige (een Profeet) naar voren en Wi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij zullen uit elk volk een getuige nemen en Wij zullen zeggen: 'Brengt uw bewijs.' Dan zullen zij weten dat de Waarheid aan Allah behoort. En hetgeen zij plachten te verzinnen zal mislukken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

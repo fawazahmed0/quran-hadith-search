@@ -986,7 +986,7 @@ Hij is Degene Die het boek aan jou heeft neergezonden, met daarin eenduidige Ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die u het Boek heeft nedergezonden; er zijn verzen in, die onoverdrachtelijk zijn, zij vormen de grondslag van het Boek, en er zijn andere (verzen), die zinnebeeldig zijn. Maar degenen in wier hart dwaling is, volgen die, welke zinnebeeldig (bedoeld) zijn en zoeken tweedracht en de verkeerde uitleg. En niemand kent de juiste uitleg dan Allah en degenen, die vast gegrondvest zijn in kennis, die zeggen: 'Wij geloven er in; het geheel is van onze Heer'; en niemand trekt er lering uit, dan zij, die begrip hebben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

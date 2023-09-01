@@ -986,7 +986,7 @@ En degenen die na hen kwamen, zeiden: "Onze Heer, vergeef ons en onze broeders d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En degenen die na hen kwamen, zeggen: 'Onze Heer, vergeef ons en onze broeders, die ons voorafgingen in het geloof, en laat geen wrok in ons hart blijven tegen de gelovigen. Onze Heer! Gij zijt inderdaad Liefderijk, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

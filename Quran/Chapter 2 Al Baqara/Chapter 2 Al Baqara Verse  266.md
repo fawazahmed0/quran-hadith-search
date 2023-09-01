@@ -986,7 +986,7 @@ Wenst een van jullie een tuin met dadelpalmen en druivenranken waar de rivieren 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zou iemand uwer wensen dat er voor hem een tuin was met palmbomen en wijnstokken waardoor beken vloeien en waarin voor hem allerlei vruchten groeien, terwijl hij oud is en een zwak nakomelingschap heeft, en dat hem (de tuin) een vurige wervelwind treft en hem verschroeit? Zo zet Allah u Zijn woorden uiteen, op dat gij tot nadenken zult komen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

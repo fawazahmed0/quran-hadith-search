@@ -986,7 +986,7 @@ En zonder de gunst van Allah voor jou en Zijn Barmhartigheid, zou een groep van 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ware Allah´s genade en barmhartigheid niet over u, dan zou een gedeelte hunner hebben besloten u te vernietigen, maar zij vernietigen niemand dan zichzelf en zij kunnen u in het geheel niet schaden. En Allah heeft u het Boek en de Wijsheid nedergezonden en heeft u in hetgeen gij niet wist, onderwezen en Allah´s genade aan u is groot
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

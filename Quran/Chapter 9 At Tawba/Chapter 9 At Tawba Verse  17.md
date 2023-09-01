@@ -986,7 +986,7 @@ En het past de veelge de veelgodaanbidders niet dat zij de moskeeën van Allah v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De afgodendienaren kunnen de Moskee�n van Allah niet onderhouden, terwijl zij van ongeloof tegen zichzelf getuigen. Zij zijn het wier werken ijdel zullen zijn en zij zullen in het Vuur vertoeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

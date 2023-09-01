@@ -986,7 +986,7 @@ Voorwaar, Allah heeft van de gelovigen hun levens en bezittingen gekocht omdat e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, Allah heeft van de gelovigen hun persoon en hun bezittingen gekocht in ruil voor het paradijs - zij vechten voor de zaak van Allah en zij doden en worden gedood - een onfeilbare belofte in de Torah en het Evangelie en de Koran. En wie is getrouwer aan zijn belofte, dan Allah? - Verheugt u dan in de verbintenis, die gij met Hem hebt gesloten en dat is de grote zegepraal
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

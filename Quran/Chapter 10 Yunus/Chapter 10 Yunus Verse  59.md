@@ -986,7 +986,7 @@ Zeg: "Hebben jullie gezien wat Allah voor jullie heeft neergezonden aan voorzien
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Hebt gij overwogen, dat Allah u een voorziening heeft nedergezonden en dat gij daarna een gedeelte er van onwettig en een gedeelte er van wettig verklaardet?' Vraag (hen): 'Heeft Allah u dat toegestaan, of verzint gij leugens tegen Allah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

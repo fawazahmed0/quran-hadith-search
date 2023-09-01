@@ -986,7 +986,7 @@ En houdt jullie allen stevig vast aan het trouw (de godsdienst) van Allah en wee
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En houdt u allen tezamen vast aan het koord van Allah en weest niet verdeeld en gedenkt de gunst van Allah, die Hij u bewees toen gij vijanden waart en Hij uw harten verenigde, zo werdt gij door Zijn gunst broeders en gij waart aan de rand van een vuurput en Hij redde u er van. Zo legt Allah u Zijn geboden uit opdat gij zult worden geleid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

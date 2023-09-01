@@ -986,7 +986,7 @@ Ze zullen 's ochtends en 's avonds voor de Hel geplaatst worden. En de Dag waaro
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aan het Vuur zullen zij morgen en avond worden blootgesteld. En de Dag waarop het Uur zal komen, zal er worden gezegd: 'Doet Pharao´s volk de strengste straf ondergaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

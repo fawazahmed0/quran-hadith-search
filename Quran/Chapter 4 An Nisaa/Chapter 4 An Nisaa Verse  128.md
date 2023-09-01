@@ -986,7 +986,7 @@ En indien een vrouw van haar echtgenoot slechtheid of afkeer vreest, dan is er g
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als een vrouw mishandeling of onverschilligheid van haar man vreest, zal het geen blaam voor hen zijn als zij een verzoening met elkander tot stand brengen - verzoening is het beste. De mensen zijn tot gierigheid geneigd. En als gij goed doet en rechtvaardig zijt, waarlijk dan is Allah op de hoogts van wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

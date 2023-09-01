@@ -986,7 +986,7 @@ O jullie die geloven: geeft van de goede dingen die jullie verworven hebben en (
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, geeft van de goede dingen weg, die gij hebt verdiend en van hetgeen Wij voor u uit de aarde voortbrengen en zoekt niet hetgeen slecht is, om er van weg te geven, wanneer gij het zelf niet zoudt nemen, tenzij oogluikend; en weet, dat Allah Zichzelf-genoeg, Geprezen is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

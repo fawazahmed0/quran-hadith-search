@@ -986,7 +986,7 @@ En tot het volk van 'Âd (zonden Wij) hun broeder Hôed, hij zei: "O mijn volk, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En tot de Aad zeide hun broeder Hoed: 'O, mijn volk, aanbid Allah. Gij hebt geen God naast Hem. Gij verzint slechts leugens
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

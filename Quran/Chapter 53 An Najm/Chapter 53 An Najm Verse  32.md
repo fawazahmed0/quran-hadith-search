@@ -986,7 +986,7 @@ Wat hen betreft, die groote misdaden en hatelijke zonden vermijden en alleen lic
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij, die behalve kleine feilen, de ergste zonden en slechtheden vermijden - voorwaar, uw Heer is de Heer der Alomvattende Vergiffenis. Hij kende u toen H. u uit aarde deed ontstaan en toen gij een embryo waart in de baarmoeder uwer moeder. Prijst daarom uzelf niet om reinheid. Hij kent de godvruchtigen het beste
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

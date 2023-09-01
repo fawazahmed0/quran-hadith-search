@@ -986,7 +986,7 @@ En wie is er zondiger dan degene die verhindert dat in de Moskeeen van Allah Zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wie is onrechtvaardiger dan hij, die verbiedt, dat de naam van Allah wordt verheerlijkt in Allah´s bedehuizen en deze tracht te vernietigen? Zij behoorden (de bedehuizen) slechts in vreze binnen te gaan. Er is schande over hen in deze wereld en er zal een grote straf voor hen zijn in het Hiernamaals
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

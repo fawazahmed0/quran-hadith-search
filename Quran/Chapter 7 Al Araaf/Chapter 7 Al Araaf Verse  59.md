@@ -986,7 +986,7 @@ Voorzeker, Wij zonden Nôeh tot zijn volk en hij zei: "O mijn volk, aanbidt Alla
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij zonden Noach tot zijn volk en hij zeide: 'O, mijn volk, aanbidt Allah, gij hebt geen god naast Hem. Ik vrees voor u de straf van de grote Dag
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

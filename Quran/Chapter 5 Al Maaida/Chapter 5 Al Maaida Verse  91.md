@@ -986,7 +986,7 @@ Voorwaar, de Satan wil alleen maar vijandschap en haat onder jullie veroorzaken 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, door middel van wijn en hazardspel, wenst Satan onder u vijandschap en afgunst te zaaien en u af te houden van het gedenken van Allah en van het gebed. Zult gij dan worden weerhouden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

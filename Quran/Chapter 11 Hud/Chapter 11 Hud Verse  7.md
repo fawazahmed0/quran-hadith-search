@@ -986,7 +986,7 @@ En Hij is Degene die de hemelen en de aarde heeft geschapen in zes dagen (period
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Hij is het, Die de hemelen en de aarde in zes dagen schiep en Zijn troon rustte op water, opdat Hij u moge beproeven wiens gedrag het beste is. En indien gij (Profeet) zegt: 'Voorzeker, gij zult na de dood worden opgewekt,' zullen de ongelovigen zeggen: 'Dit is niets dan een zuiver bedrog
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

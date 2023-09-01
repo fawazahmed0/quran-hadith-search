@@ -986,7 +986,7 @@ Tuinen van 'Adn (het Paradijs) die de Barmhartige aan zijn dienaren in het onwaa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tuinen der eeuwigheid, dat is een belofte van het Onzienlijke, welke de Barmhartige aan Zijn dienaren heeft gedaan. Voorwaar, Zijn belofte zal zeker worden vervuld
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

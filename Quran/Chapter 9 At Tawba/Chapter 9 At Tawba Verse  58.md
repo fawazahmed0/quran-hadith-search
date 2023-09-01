@@ -986,7 +986,7 @@ En onder ben zijn er die aanmerkingen op jou maken over (de verdeling van) de za
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er zijn onder hen die u inzake aalmoezen belasteren. Als hun ervan wordt gegeven zijn zij tevreden, maar als hun er niet van wordt gegeven, ziet, worden zij boos
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

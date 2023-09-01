@@ -986,7 +986,7 @@ Daarna vervingen Wij het slechte door het goede, totdat zij (in aantal en welvaa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarna verwisselden Wij het boze met het goede, totdat zij groeiden en zeiden: 'Lijden en geluk wedervoeren onze vaderen ook.' Dan grepen Wij hen plotseling terwijl zij er niet aan dachten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Wij (Engelen) dalen slechts op bevel van jouw Heer neer. Aan Hem behoort alles w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij (engelen) dalen slechts neder op bevel van uw Heer. Aan Hem behoort al hetgeen v��r ons is en al hetgeen achter ons is en al hetgeen er tussen ligt; en uw Heer vergeet nimmer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

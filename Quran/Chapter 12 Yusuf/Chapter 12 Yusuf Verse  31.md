@@ -986,7 +986,7 @@ Toen zij hoorde over hun kwaadsprekerij, liet zij hen komen en zij zette voor he
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen zij van hun plannen hoorde, nodigde zij haar uit en bereidde haar een maaltijd en gaf ieder een mes en zeide dan (tot Jozef): 'Ga naar hen toe.' En toen zij hem zagen achtten zij hem grotelijks en zij sneden zich in de handen en zeiden: 'Allah zij verheerlijkt. Dit is geen mens, dit is een edele engel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

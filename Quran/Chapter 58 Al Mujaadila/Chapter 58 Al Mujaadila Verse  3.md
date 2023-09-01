@@ -986,7 +986,7 @@ En degenen die de Zhihâr uitspreken over hun vrouwen en daarna willen terugkome
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen, die hun vrouwen moeders noemen en willen terugnemen wat zij zeiden, moeten hiervoor een slaaf bevrijden voordat zij elkander aanraken. Dit is een vermaning voor u. En Allah is goed op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

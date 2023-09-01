@@ -986,7 +986,7 @@ En oordeel (O Moehammad) onder hen met wat Allah neergezonden heeft, en volg nie
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En spreek recht tussen hen naar hetgeen Allah u heeft geopenbaard en volg hun boze neigingen niet en wees op uw hoede dat zij u niet afleiden van hetgeen Allah u heeft geopenbaard. Maar indien zij zich afwenden, weet dan, dat Allah hen voor sommige hunner zonden wenst te treffen. En een groot aantal mensen is inderdaad ongehoorzaam
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

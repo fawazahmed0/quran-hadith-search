@@ -986,7 +986,7 @@ En Wij hebben Môesa voorzeker het Boek gegeven en Wij deden na hem de Boodschap
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Wij gaven Mozes het Boek en deden boodschappers de een na de ander zijn voetsporen volgen. En Wij gaven aan Jezus, zoon van Maria, duidelijke tekenen en versterkten hem met de geest der heiligheid. Telkens als een boodschapper tot u kwam, met hetgeen uw ziel niet behaagde, hebt gij u laatdunkend gedragen, sommigen hunner hebt gij verloochend en anderen gedood
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

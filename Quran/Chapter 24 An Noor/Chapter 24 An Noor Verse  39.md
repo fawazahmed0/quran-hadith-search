@@ -986,7 +986,7 @@ En degenen die ongelovig zijn: hun daden zijn als een luchtspiegeling op de woes
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar de daden der ongelovigen zijn als een luchtspiegeling op een vlakte. De dorstige denkt dat het water is, wanneer hij er bij komt ontdekt hij echter dat het niets is. Maar hij vindt Allah in zijn nabijheid, Die hem zijn rekening ten volle vereffent; en Allah is snel in het afrekenen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

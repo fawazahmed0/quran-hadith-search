@@ -986,7 +986,7 @@ En jij zult hen zeker bevinden als de mensen die het meest begerig zijn naar het
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, gij zult hen (Joden) het meest van alle mensen verlangend naar het leven vinden, zelfs meer dan de afgodendienaren. Ieder van hen wenst, dat hem een leven van duizend jaren geschonken moge worden, doch al ware hem zulk een lang leven vergund, dan zou het hem tegen de straf toch niet beschermen. Allah ziet hetgeen zij doen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

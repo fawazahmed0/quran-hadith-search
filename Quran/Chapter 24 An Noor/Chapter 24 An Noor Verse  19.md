@@ -986,7 +986,7 @@ Voorwaar, degenen die er van houden dat de gruweldaad zich verspreidt onder dege
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij die graag willen dat onbetamelijkheid zich onder de gelovigen moge verspreiden, zullen in deze wereld en in het Hiernamaals een pijnlijke straf ondergaan. Allah weet, en gij weet niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zeg: "Komt, ik zal voorlezen wat jullie Heer jullie verboden heeft verklaard: da
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Komt, ik zal u verkondigen, wat uw Heer heeft verboden;' n.l. dat gij iets met Hem vereenzelvigt en dat gij uw ouders niet goed behandelt en dat gij uw kinderen uit armoede doodt. - Wij zijn het, Die voor u en voor hen zorgen - en dat gij onbetamelijke daden hetzij openlijk of in het geheim begaat en dat gij een ziel ten onrechte doodt die Allah heilig heeft verklaard. Dit is, hetgeen Hij u heeft bevolen, opdat gij moogt begrijpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

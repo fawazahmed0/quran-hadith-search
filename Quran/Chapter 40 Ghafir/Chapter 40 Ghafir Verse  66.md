@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Voorwaar, het is mij verboden dat ik degenen aanbid die jull
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Het is mij verboden diegenen te aanbidden die gij naast Allah aanroept daar er duidelijke bewjizen van mijn Heer tot mij zijn gekomen; en het is mij geboden mij te onderwerpen aan de Heer der Werelden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

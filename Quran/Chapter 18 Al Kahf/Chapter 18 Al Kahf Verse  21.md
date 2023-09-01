@@ -986,7 +986,7 @@ Zo brachten Wij hen de hoogte, opdat zij weten dat de belofte van Allah Waarheid
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dit hebben wij hun bekend gemaakt, opdat zij zouden weten, dat de belofte van Allah waarheid is en dat er omtrent het Uur geen twijfel bestaat. Alsdan redetwisten de mensen over hen, zeggende: 'Richt een gedenkteken voor hen op.' Hun Heer weet wat het beste is. Degenen, die de overhand behielden, zeiden: 'Wij zullen voorzeker een bedehuis boven hen (boven hun graf) oprichten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

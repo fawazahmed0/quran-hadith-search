@@ -986,7 +986,7 @@ Daarop zeiden Wij: "O Adam, voorwaar, dit is zeker een vijand van jou en jouw vr
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarom zeiden Wij: 'O Adam, deze is voor u en uw vrouw een vijand; laat hij u derhalve niet uit de tuin verdrijven, anders zult gij ongelukkig worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

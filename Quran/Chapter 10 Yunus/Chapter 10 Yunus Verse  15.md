@@ -986,7 +986,7 @@ En wanneer Onze duidelijke Verzen aan hen worden voorgelezen, dan zeggen degenen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer hun Onze duidelijke tekenen worden voorgedragen, zeggen degenen, die niet naar de ontmoeting met Ons uitzien: 'Breng een andere Koran dan deze, of verander hem.' Zeg: 'Het staat niet aan mij, hem te veranderen uit mijzelf. Ik volg slechts hetgeen mij is geopenbaard. Voorzeker, ik vrees, als ik mijn Heer niet gehoorzaam, de straf van de grote Dag
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

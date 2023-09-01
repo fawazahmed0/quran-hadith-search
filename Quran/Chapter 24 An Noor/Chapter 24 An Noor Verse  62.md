@@ -986,7 +986,7 @@ Voorwaar, de gelovigen zijn slechts degenen die in Allah en Zijn Boodschapper ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij alleen zijn gelovigen die in Allah en Zijn boodschapper geloven, en die, wanneer zij wegens iets dat voor allen belangrijk is, bij hem (de profeet) zijn, zich niet verwijderen voordat zij hem om toestemming hebben gevraagd. Zij die u om verlof vragen zijn degenen die werkelijk in Allah en Zijn boodschapper geloven. Wanneer zij daarom uw toestemming vragen terwille van hun zaken, geef dan toestemming aan wie hunner gij wilt en vraag voor hen vergiffenis van Allah, voorzeker, Allah is Vergevensgezind, Barmhartig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

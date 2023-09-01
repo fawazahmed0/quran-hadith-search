@@ -986,7 +986,7 @@ En toen (de vervulling) van de eerste van de twee beloften kwam, stuurden Wij ju
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen dan ook de tijd voor de eerste van de twee bedreigingen kwam, zonden Wij Onze dienaren, toegerust met grote macht tegen u uit, die de huizen binnendrongen; dit was een belofte die in vervulling ging
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

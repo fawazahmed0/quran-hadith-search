@@ -986,7 +986,7 @@ Toen hij ben van proviand voorzien had, stopte Yôesoef zijn drinkbeker in de pr
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen hij hen van hun provisie had voorzien, legde hij een drinkbeker in zijn broeders zadeltas. Toen riep een omroeper: 'O, karavaan, gij zijt waarlijk dieven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

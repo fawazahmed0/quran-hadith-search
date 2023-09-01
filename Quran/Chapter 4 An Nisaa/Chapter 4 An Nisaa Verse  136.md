@@ -986,7 +986,7 @@ O jullie die geloven! Gelooft in Allah en Zijn Boodschapper en in wat Hij aan Zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij die gelooft, gelooft in Allah en Zijn boodschapper en in het Boek dat Hij Zijn boodschapper heeft geopenbaard, en in het Boek, dat Hij voordien openbaarde. En wie Allah en Zijn engelen en Zijn Boeken en Zijn boodschappers en de laatste Dag verwerpt, is waarlijk ver afgedwaald
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

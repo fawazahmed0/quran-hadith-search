@@ -986,7 +986,7 @@ En als er een oplezing (een geopenbaard boak) zou zijn, waardoor de bergen verpl
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als er een Koran was, waarmede de bergen konden worden verzet, de aarde kon worden gespleten, of de doden tot spreken konden worden gebracht, (zouden zij er nog niet in geloven). 'Neen, de zaak berust geheel bij Allah!' Zijn de gelovigen het niet te weten gekomen dat, indien Allah het wilde, Hij het gehele mensdom zou hebben geleid? En de ongelovigen zullen onophoudelijk door rampen getroffen worden wegens hun daden, of het zult bij hun huizen neerkomen, totdat de belofte van Allah tot stand komt. Voorzeker, Allah faalt niet in Zijn belofte
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

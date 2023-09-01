@@ -986,7 +986,7 @@ En degenen die volgden zeiden: "Was er voor ons nog maar één keer (de gelegenh
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zullen de volgelingen zeggen: 'Indien wij slechts terug konden keren, zouden wij hen verzaken, zoals zij ons hebben verzaakt'. Zo zal Allah aan hen hun werken tonen tot wroeging en zij zullen het Vuur niet kunnen ontkomen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

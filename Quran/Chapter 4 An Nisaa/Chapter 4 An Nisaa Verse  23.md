@@ -986,7 +986,7 @@ Voor jullie verboden (om te trouwen zijn): jullie moeders en jullie dochters en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Verboden zijn u uw moeders en uw dochters en uw zusters en uw vaders zusters en uw moeders zusters en uw broeders dochters en uw zusters dochters en uw minnen en uw zoogzusters en de moeders uwer vrouwen en uw stiefdochters, die uw beschermelingen zijn door uw vrouwen tot wie gij zijt ingegaan, maar als gij niet tot haar zijt ingegaan zal er geen zonde op u rusten en de vrouwen uwer eigen zonen (zign ook verboden) alsmede twee zusters tezamen te hebben, met uitzondering van wat reeds voorbij is; gewis, Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

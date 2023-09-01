@@ -986,7 +986,7 @@ O Kinderen van Adam, voorzeker, Wij hebben voor jullie kleding neergezonden om j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O kinderen van Adam! Wij hebben u inderdaad kleding nedergezonden om uw naaktheid te bedekken, ook om sierlijk te zijn, doch het kleed van godsvrucht is het beste. Dit is een teken van Allah, opdat zij er lering uit mogen trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

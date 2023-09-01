@@ -986,7 +986,7 @@ En tot Zijn Tekenen behoort de schepping van de hemelen en de aardeen het versch
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En tot Zijn tekenen behoort ook de schepping der hemelen en der aarde, en de verscheidenheid van uw talen en (huids) - kleuren. En dit zijn voorzeker tekenen voor degenen, die willen begrijpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

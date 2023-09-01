@@ -986,7 +986,7 @@ Wij hebben de hemelen en de aarde en wat er tussen hen is slechts in Waarheid ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij hebben de hemelen en de aarde en alles wat er tussen is niet anders dan in waarheid geschapen en voor een vastgestelde tijd; maar de ongelovigen wenden zich af van hetgeen, waardoor zij zijn gewaarschuwd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

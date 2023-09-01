@@ -986,7 +986,7 @@ Zie jij niet dat Allah uit de hemel water doet neerdalen waarmee Wij vruchten me
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij niet gezien, dat Wij water van de hemel nederzenden en dat Wij daardoor vruchten voortbrengen van verschillende kleuren (en soorten); en in de bergen zijn streken van wit en rood, van donker of ravenzwart en van nog verschillende tinten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

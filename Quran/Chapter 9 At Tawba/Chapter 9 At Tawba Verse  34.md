@@ -986,7 +986,7 @@ O jullie die geloven, voorwaar, de meesten van de schriftgeleerden en de monnike
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, velen der priesters en monniken verteren de rijkdommen der mensen door valse middelen en leiden de mensen van de weg van Allah af. En degenen, die goud en zilver ophopen en het niet voor de zaak van Allah besteden, deel hun het nieuws van een pijnlijke straf mee
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

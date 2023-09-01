@@ -986,7 +986,7 @@ Die van den godsdienst hun spel en het onderwerp hunner spotternijen hebben gema
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen, die hun godsdienst tot tijdverdrijf en tot vermaak namen en wie het leven van de wereld had bedrogen, Wij zullen hen deze Dag vergeten, zoals zij de ontmoeting op deze dag vergaten en zoals zij Onze tekenen verwierpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

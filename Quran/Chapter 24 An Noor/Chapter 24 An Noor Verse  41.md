@@ -986,7 +986,7 @@ Zie jij niet dat alles in de hemelen en op de aarde Allah prijst en (ook) de vog
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ziet gij niet, dat alles in de hemelen en op aarde, ook de vogels met hun uitgespreide vleugels Allah verheerlijken? Een ieder kent zijn eigen bidden en lofzang. En Allah weet goed wat zij doen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

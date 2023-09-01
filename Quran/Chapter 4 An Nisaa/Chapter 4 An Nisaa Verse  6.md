@@ -986,7 +986,7 @@ Onderzoekt (de lichamelijke en geestelijke vorderingen van) de wezen, totdat zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En ondervraagt de wezen, wanneer zij de huwbare leeftijd bereikt hebben: als gij in hen rijpheid van verstand vindt stelt hun dan hun eigendom ter hand; en verteert het niet in buitensporigheid en haast, omdat zij opgroeien. En laat hij, die rijk is zich onthouden en laat hij die arm is naar billijkheid er gebruik van maken. En wanneer gij hun eigendommen overhandigt, neemt er dan getuigen bij. Allah is toereikend om rekenschap te vragen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

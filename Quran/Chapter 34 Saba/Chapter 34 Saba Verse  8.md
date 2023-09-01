@@ -986,7 +986,7 @@ Heeft hij een leugen over Allah verzonnen, of is hij bezeten? Neel Degenen die n
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Heeft hij een leugen uitgedacht over Allah, of is hij een waanzinnige?' Neen, zij die niet in het Hiernamaals geloven zullen onder de straf lijden, en zij zijn ver afgedwaald
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

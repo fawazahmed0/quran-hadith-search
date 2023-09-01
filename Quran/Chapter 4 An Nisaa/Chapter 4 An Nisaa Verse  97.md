@@ -986,7 +986,7 @@ Voorwaar, (tot) degenen waarvan de zielen door de Engelen worden meegenomen, en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar de engelen zullen tot hen die ze doen sterven, terwijl dezen hun eigen ziel onrecht aandoen, zeggen: 'In welke toestand waart gij?' Zij zullen antwoorden: 'Wij waren in het land machteloos.' Zij (de engelen) zullen echter zeggen: 'Was Allah´s aarde u niet groot genoeg om daarop te verhuizen?' Zij zijn het, wier tehuis de hel zal zijn en dat is een kwade bestemming
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

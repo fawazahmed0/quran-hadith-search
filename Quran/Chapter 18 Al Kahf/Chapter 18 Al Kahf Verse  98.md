@@ -986,7 +986,7 @@ Hij (Dzôelqarnain) zei: "Dit is Barmhartigheid van mijn Heer. Maar als de belof
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zeide: 'Dit is een genade van mijn Heer. Maar wanneer de belofte van mijn Heer vervuld zal worden, zal Hij dit uiteen doen vallen. En de belofte van mijn Heer is werkelijkheid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

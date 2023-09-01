@@ -986,7 +986,7 @@ En (ook) tegenover de drie die waren achtergebleven totdat de aardc mct (al) haa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En (Hij heeft Zich met barmhartigheid) tot de drie die waren achtergelaten gewend, totdat de aarde met haar uitgestrektheid hun te eng werd en hun eigen leven voor hen te moeilijk en zij geloofden dat er tegen Allah geen schuilplaats is, behalve bij Hem. Toen wendde Hij Zich met barmhartigheid tot hen, opdat zij zich mochten bekeren. Voorzeker, Allah is Berouwaanvaardend, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

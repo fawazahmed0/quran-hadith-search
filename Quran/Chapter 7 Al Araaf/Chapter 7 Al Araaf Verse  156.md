@@ -986,7 +986,7 @@ En schrijf ons in deze wereld het goede voor en (ook) in het Hiernamaals. Voorwa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En verorden het goede voor ons in deze wereld en in het Hiernamaals; wij zijn tot U gekomen.' Allah antwoordde: 'Ik zal Mijn straf opleggen aan wie Ik wil, maar Mijn barmhartigheid omvat alle dingen. Zo zal Ik het verordenen voor degenen die Mij vrezen en de Zakaat betalen en voor hen die in Onze tekenen geloven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

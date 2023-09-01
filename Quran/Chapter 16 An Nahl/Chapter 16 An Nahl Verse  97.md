@@ -986,7 +986,7 @@ Wie het goede doet, man of vrouw, en hij gelooft: voorwaar, aan hem geven Wij ee
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Die juist handelt, hetzij man of vrouw en een gelovige is, hun zullen Wij voorzeker een goed leven schenken; en gewis zullen Wij hen belonen naar hun beste werken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

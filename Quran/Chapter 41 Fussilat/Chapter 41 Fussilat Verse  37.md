@@ -986,7 +986,7 @@ En tot Zijn Tekenen behoren de nacht en de dag, en de zon en de maan. Knielt jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En onder Zijn tekenen zijn de dag en de nacht, de zon en de maan; derhalve werpt u niet neder voor de zon of de maan maar werpt u neder voor Allah Die hen schiep, indien gij Hem wilt aanbidden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

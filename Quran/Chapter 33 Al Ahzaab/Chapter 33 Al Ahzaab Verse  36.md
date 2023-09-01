@@ -986,7 +986,7 @@ En het past een gelovige man en een gelovige vrouw niet, wanneer Allah en Zijn B
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En het betaamt de gelovige man of vrouw niet, wanneer Allah en Zijn boodschapper over een zaak hebben beslist, dat er voor hen een keuze zou zijn in die zaak. En wie Allah en Zijn boodschapper niet gehoorzaamt, is zeker klaarblijkelijk afgedwaald
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

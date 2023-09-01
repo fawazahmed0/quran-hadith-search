@@ -986,7 +986,7 @@ De huichelaars en de huichelaarsters zijn eender, zij sporen aan tot het verwerp
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De huichelaars, mannen en vrouwen zijn allen met elkander verbonden. Zij sporen aan tot het kwade en verbieden het goede en houden hun handen gesloten (om geen aalmoezen te geven). Zij vergaten Allah, daarom heeft Hij hen vergeten. Voorzeker, de huichelaars zijn ongehoorzaam
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

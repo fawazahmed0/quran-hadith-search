@@ -986,7 +986,7 @@ En Allah doet nooit een volk dwalen nadat Hij hen heeft geleid, totdat Hij hun d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Allah laat een volk niet dwalen nadat Hij het heeft geleid, voordat Hij hun heeft duidelijk gemaakt, waartegen zij zich behoren te behoeden. Voorzeker, Allah heeft kennis van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

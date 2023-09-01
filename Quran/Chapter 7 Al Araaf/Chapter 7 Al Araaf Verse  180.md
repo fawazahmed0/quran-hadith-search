@@ -986,7 +986,7 @@ En aan Allah behoren de Schone Namen, roept Hem daarmee aan en verlaat degenen d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aan Allah behoren alle goede eigenschappen. Roept Hem daarbij aan. En laat degenen, die ten opzichte van Zijn eigenschappen van de rechte weg afwijken, met rust. Hun zal worden vergolden naar hetgeen zij hebben bedreven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

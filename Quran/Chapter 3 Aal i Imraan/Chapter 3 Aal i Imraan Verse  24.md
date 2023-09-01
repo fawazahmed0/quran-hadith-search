@@ -986,7 +986,7 @@ Dat is omdat zij zeggen: "De Hel zal ons niet aanraken, behalve een vastgesteld 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dat komt, doordat zij zeggen: 'Het Vuur zal ons slechts voor een luttel aantal dagen deren.' En wat zij plachten te verzinnen, heeft hen in hun godsdienst bedrogen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

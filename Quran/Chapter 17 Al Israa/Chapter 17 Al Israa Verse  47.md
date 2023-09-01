@@ -986,7 +986,7 @@ Wij weten beter hoe zij over hem horen, wanneer zij naar jou lijken te luisteren
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij weten het best waar zij op letten terwijl zij naar u luisteren, en wanneer zij in het geheim beraadslagen en wanneer de onrechtvaardigen zeggen: 'Gij volgt slechts een betoverd man
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

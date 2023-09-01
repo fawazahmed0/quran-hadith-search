@@ -986,7 +986,7 @@ Er is voor degenen die geloven en goede werken verrichten geen zonde door wat zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Op de gelovigen die goede werken verrichten zal geen zonde rusten voor hetgeen zij eten mits zij Allah vrezen en geloven en goede werken doen en nogmaals vrezen en geloven en zelfs nogmaals vrezen en goeddoen. En Allah heeft degenen die goeddoen lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

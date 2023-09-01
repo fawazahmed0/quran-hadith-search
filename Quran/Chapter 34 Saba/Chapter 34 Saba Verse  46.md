@@ -986,7 +986,7 @@ Zeg: "Voorwaar, ik vermaan jullie tot slechts één ding: dat jullie je gelweeë
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Ik raad u aan slechts ��n ding te doen; dat gij paarsgewijze en alleen voor Allah staat en dan nadenkt. En (gij zult weten) dat er geen krankzinnigheid in uw metgezel is; hij is voor u slechts een waarschuwer v��r een strenge straf (komt)
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

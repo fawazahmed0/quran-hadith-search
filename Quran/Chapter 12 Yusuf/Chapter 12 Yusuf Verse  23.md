@@ -986,7 +986,7 @@ En zij in wier huis bij verbleef, probeerde hem te verleiden, tegen zijn wil en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij, in wier huis hij was, zocht hem (tegen zijn wil) te verleiden. Zij grendelde de deuren en zeide: 'Kom nu.' Hij antwoordde: 'Dat verhoede Allah, hij is mijn heer. Hij heeft mijn verblijf waardig gemaakt. Voorwaar, de boosdoeners slagen nooit
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

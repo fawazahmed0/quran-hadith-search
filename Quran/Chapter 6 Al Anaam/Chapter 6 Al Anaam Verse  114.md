@@ -986,7 +986,7 @@ Zal ik een anderen rechter naast God zoeken, om tusschen ons te richten? Hij is 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zal ik als rechter iemand anders zoeken dan Allah, terwijl Hij het is, Die u het Boek heeft nedergezonden dat uitvoerig is verklaard? En degenen, wie Wij het Boek gaven weten dat het van uw Heer is nedergezonden met de waarheid; behoort daarom niet tot degenen die twijfelen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

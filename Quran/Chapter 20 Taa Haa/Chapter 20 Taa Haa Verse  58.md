@@ -986,7 +986,7 @@ Dan zullen wij zeker met eenzelfde soort tovenarij voor jou komen, maak maar een
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, wij zullen gelijkwaardige toverkunst tegenover (de uwe) stellen; maak derhalve een afspraak met ons die wij noch gij zullen verzuimen na te komen op een plaats (voor beiden) gelijk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

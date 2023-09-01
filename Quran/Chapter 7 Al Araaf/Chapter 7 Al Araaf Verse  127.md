@@ -986,7 +986,7 @@ En de vooraanstaanden van het volk van Fir'aun zeiden: "Laat u Môesa en zijn vo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de leiders van het volk van Pharao zeiden: 'Wilt gij Mozes en zijn volk in het land wanorde laten scheppen en u en uw goden laten verzaken?' Hij antwoordde: 'Wij zullen hun zonen doden en hun vrouwen sparen. Zeker wij hebben macht over hen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En Môesa koos uit zijn volk zeventig mannen op de door Ons bepaalde tijd (om Al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Mozes koos voor Onze ontmoeting zeventig mannen van zijn volk. Maar toen de aardbeving hen achterhaalde, zeide hj: 'Mijn Heer, als het U had behaagd, kondet, Gij hen en mij voordien reeds hebben vernietigd. Wilt Gij ons verdelgen voor hetgeen de dommen onder ons hebben gedaan? Dit is niets dan een beproeving van U. Gij laat daardoor dwalen wie Gij wilt en Gij leidt wie Gij wilt. Gij zijt onze Beschermer , vergeef one daarom en toon ons barmhartigheid en Gij zijt de Beste Vergevensgezinde
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

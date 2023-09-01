@@ -986,7 +986,7 @@ Nôeh zei: "Mijn Heer, zij gehoorzamen mij niet, en zij volgen degene wiens bezi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Noach zeide: 'Mijn Heer, zij gehoorzamen mij niet, en volgen iemand wiens bezit en kinderen slechts tot zijn ondergang hebben bijgedragen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

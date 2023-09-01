@@ -986,7 +986,7 @@ Allah getuigt dat er geen god is dan Hij en (ook) de Engelen en de bezitters van
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah getuigt, dat er geen God is dan Hij en de engelen en degenen, die kennis bezitten, getuigen dit eveneens, handhavende de rechtvaardigheid: er is geen God dan Hij, de Almachtige, de Alwijze
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij zeiden: "Roep voor ons jouw Heer aan, opdat Hij ons duidelijk maakt wat haar
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'Bid voor ons tot uw Heer, dat Hij het ons duidelijk make, welke kleur zij heeft' Hij antwoordde: 'Hij zegt, dat het een gele koe is met een diepe kleur, aangenaam voor hen, die haar zien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

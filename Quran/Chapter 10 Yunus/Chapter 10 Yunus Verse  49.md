@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Ik heb voor mijzelf geen macht om schade te voorkomen, noch 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Ik heb voor mij zelf geen macht over schade of voordeel, behalve, wat Allah wil. Er is voor elk volk een vastgestelde termijn; wanneer hun termijn is verlopen kunnen zij hem geen uur uitstellen, noch kunnen zij hem vervroegen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

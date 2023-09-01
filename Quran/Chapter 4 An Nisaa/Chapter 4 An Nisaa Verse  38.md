@@ -986,7 +986,7 @@ En (ook voor) degenen die van bun bezittingen uitgeven om de mensen het te laten
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voor degenen, die hun rijkdommen besteden om door de mensen te worden gezien en niet in Allah noch in de laatste Dag geloven. En wie Satan als metgezel heeft, heeft een kwade metgezel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

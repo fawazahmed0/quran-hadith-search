@@ -986,7 +986,7 @@ Zij zullen zeggen: "Onze Heer, U heeft ons twee maal doen sterven en ons twee ma
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zullen zeggen: 'Onze Heer, Gij deedt ons tweemaal sterven en Gij hebt ons tweemaal in het leven teruggeroepen en wij bekennen onze zonden. Is er nu een uitweg
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

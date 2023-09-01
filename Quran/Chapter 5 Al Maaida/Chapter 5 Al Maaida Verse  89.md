@@ -986,7 +986,7 @@ Allah rekent jullie de onnadenkendheid bij jullie eden niet aan, maar Hij rekent
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah zal u niet ter verantwoording roepen voor uw ijdele eden, maar Hij zal u ter verantwoording roepen voor de eden welke gij in ernst aflegt. De boetedoening er voor is: tien armen te spijzigen met het gemiddelde voedsel waarmede gij uw huisgezinnen voedt, of hen te kleden, of het vrijmaken van een slaaf. Maar wie dat niet kan doen zal drie dagen vasten. Dit is de boete voor uw eden, wanneer gij zweert. Maar houdt uw eden. Zo legt Allah u Zijn tekenen uit, opdat gij dankbaar moogt zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

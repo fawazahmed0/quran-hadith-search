@@ -986,7 +986,7 @@ En geeft bijdragen van waar Wij jullie mee voorzien hebben, voordat de dood tot 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En besteedt uit datgene waarvan Wij u voorzien hebben voordat de dood ��n uwer overvalt en deze zegt: 'Mijn Heer! Waarom hebt Gij mij niet voor een wijle uitstel verleend, opdat ik aalmoezen zou kunnen geven en tot de rechtvaardigen behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

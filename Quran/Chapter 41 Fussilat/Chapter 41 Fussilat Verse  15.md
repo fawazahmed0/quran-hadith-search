@@ -986,7 +986,7 @@ Wat de 'Âd betreft: zij waren hoogmoedig op de aarde, zonder recht, en zij zeid
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar de Aad handelden ten onrechte laatdunkend op aarde en zeiden: 'Wie is machtiger dan wij?' Wisten zij niet dat Allah, Die hen schiep machtiger was dan zij? Doch zij plachten Onze tekenen te verwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

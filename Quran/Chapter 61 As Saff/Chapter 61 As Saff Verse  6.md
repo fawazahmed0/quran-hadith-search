@@ -986,7 +986,7 @@ En (gedenkt) toen 'Îsa, de zoon van Maryam, zei: "O Kinderen van Israël, voorw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Jezus, zoon van Maria, zeide: 'O kinderen van Isra�l, Ik ben Allah´s boodschapper voor u, datgene bevestigend wat v��r mij in de Torah was, en een blijde tijding gevende van een boodschapper die na mij komen zal, zijn naam zal Ahmad zijn.' En als hij tot hen komen zal met duidelijke bewijzen zullen zij zeggen: 'Dit is louter bedrog
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

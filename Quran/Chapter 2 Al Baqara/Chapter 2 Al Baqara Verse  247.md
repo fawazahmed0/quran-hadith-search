@@ -986,7 +986,7 @@ En hun Profeet zei tot hen: "Voorwaar, Allah heeft voor jullie Thâlôet aangewe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hun profeet zeide tot hen: 'Waarlijk, Allah heeft Taloet (Saul) als koning over u aangesteld.' Zij zeiden: 'Hoe kan hij over ons regeren, terwijl wij meer recht op heerschappij hebben dan hij en hem geen overvloed van rijkdommen is gegeven?' Hij zeide: 'Voorzeker, Allah heeft hem boven u gekozen en heeft hem overvloedig toegerust met kennis en kracht.' En Allah geeft Zijn heerschappij aan wie Hij wil en Allah is Milddadig, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

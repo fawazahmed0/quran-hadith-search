@@ -986,7 +986,7 @@ Voorwaar, degenen die Onze Verzen loochenen en die zich er hooghartig van afwend
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, voor hen die Onze tekenen verloochenen en er zich hoogmoedig van afwenden, zullen de poorten van de Hemel niet worden geopend, noch zullen zij in het paradijs komen; eer zou een kameel door het oog van een naald gaan. En zo vergelden Wij de daden der schuldigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

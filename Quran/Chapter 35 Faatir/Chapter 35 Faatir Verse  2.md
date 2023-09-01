@@ -986,7 +986,7 @@ Wat Allah voor de mensen schenkt aan Barmhartigheid, niemand kan het tegenhouden
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wat Allah de mens aan barmhartigheid schenkt, is door niemand tegen te houden; en wat Hij terug houdt, kan buiten Hem, niemand schenken; Hij is de Almachtige, de Alwijze
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

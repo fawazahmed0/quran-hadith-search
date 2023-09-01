@@ -986,7 +986,7 @@ Of voelen jullie je er veilig voor dat Hij Die in de hemel is, niet een vulkanis
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voelt gij u veilig voor Hem Die in de Hemel is, dat Hij niet tegen u een orkaan zal zenden? Dan zult gij weten, hoe (mijn) waarschuwing was
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zo gingen zij verder tot zij aan boord van de boot gingen en hij er een gat in m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aldus vertrokken beiden totdat zij in een boot stapten en hij maakte er een gat in. Waarop Mozes uitriep: 'Hebt gij er een gat in gemaakt teneinde de opvarenden er van te doen verdrinken? Voorwaar, gij hebt iets gruwelijks bedreven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En (gedenkt) toen Wij zeiden: "Gaat deze stad binnen en eet daarvan (het land) v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Wij zeiden: 'Gaat in deze stad en eet er overvloedig, waar gij ook wilt; treedt de poort onderdanig binnen en vraagt om vergiffenis. Wij zullen u uw fouten vergeven en Wij zullen meer geven aan degenen, die goed doen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

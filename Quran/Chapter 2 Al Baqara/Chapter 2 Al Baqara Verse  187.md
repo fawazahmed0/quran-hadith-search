@@ -986,7 +986,7 @@ Het is jullie in de nachten van het vasten toegestaan omgang te hebben met julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het is u veroorloofd, om op de nacht van het vasten tot uw vrouwen in te gaan. Zij zijn een gewaad voor u en gij zijt haar een gewaad. Allah weet, dat gij onrechtvaardig hebt gehandeld tegenover uzelf en heeft Zich met barmhartigheid tot u gewend en u verlichting geschonken. Daarom moogt gij nu tot haar ingaan en betrachten, hetgeen Allah u heeft verordend; en eet en drinkt, totdat bij de dageraad de witte draad zich onderscheidt van de zwarte draad. Voltooit dan het vasten tot het vallen van de avond. En verbreng uw tijd niet met uw vrouwen wanneer u in de Moskee�n ??? houdt. Dit zijn de beperkingen van Allah - dus nadert deze niet. Zo zet Allah zijn geboden uiteen voor de mensen, opdat zij vroom zullen zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

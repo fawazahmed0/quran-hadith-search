@@ -986,7 +986,7 @@ rui de koning zei: "Brengt hem bij mij, ik maak hem tot mijn vertrouweling. En t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de koning zeide: 'Brengt hem bij mij, ik wil hem voor mijzelf houden.' En toen hij tot hem (Jozef) had gesproken, zeide hij: 'Gij zijt van deze dag af een man van positie en vertrouwen bij ons
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

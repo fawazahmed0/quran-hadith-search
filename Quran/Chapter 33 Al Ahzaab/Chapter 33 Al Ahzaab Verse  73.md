@@ -986,7 +986,7 @@ God zal de huichelachtige mannen en de huichelachtige vrouwen, en de afgodendien
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het gevolg er van is dat Allah huichelachtige mannen en vrouwen, en afgodendienaren en afgodendienaressen zal straffen. En Allah wendt zich in barmhartigheid tot gelovige mannen en vrouwen, en Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

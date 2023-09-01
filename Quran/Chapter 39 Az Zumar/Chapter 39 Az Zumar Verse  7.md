@@ -986,7 +986,7 @@ Als jullie niet geloven: voorwaar, Allah heeft jullie niet nodig. En de ondankba
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien gij ondankbaar zijt; Allan is zeker onafhankelijk van u. Maar Hij houdt niet van ondankbaarheid onder Zijn dienaren. En als gij dankbaar zijt, zal Hij in u behagen hebben - En geen lastdragende kan de last van een ander dragen - Dan is uw terugkeer tot uw Heer: en Hij zal u mededelen wat gij deedt. Zeker, Hij weet goed wat in uw innerlijk is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

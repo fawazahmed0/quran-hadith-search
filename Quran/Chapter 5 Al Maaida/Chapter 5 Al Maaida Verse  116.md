@@ -986,7 +986,7 @@ En toen zei Allah: "O 'Isa, zoon van Maryam, heb jij tegen de mensen gezegd: "Ne
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer Allah zal zeggen: 'O Jezus, zoon van Maria, hebt gij tot de mensen gezegd: ´Beschouwt mij en mijn moeder als twee Goden naast Allah,´? zal hij antwoorden: 'Heilig zijt Gij! Ik zou nooit kunnen zeggen, waarop ik geen recht had. Indien ik het had gezegd zoudt Gij het zeker hebben geweten. Gij weet, wat in mijn innerlijk is en ik weet niet, wat in U is. Gij zijt de Kenner van het onzienlijke
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

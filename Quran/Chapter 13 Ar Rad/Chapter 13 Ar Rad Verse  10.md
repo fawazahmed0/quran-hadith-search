@@ -986,7 +986,7 @@ Hij van u die zijne woorden verbergt, en hij die ze in het openbaar verkondigt; 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voor Hem is hij gelijk die onder u het woord verbergt en hij die het openlijk uit; alsook hij, die zich ´s nachts verbergt en hij, die overdag (openlijk) voortgaat
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

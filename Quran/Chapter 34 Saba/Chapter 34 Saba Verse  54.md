@@ -986,7 +986,7 @@ En tussen hen en wat zij verlangen is een belemmering gemakt, zoals dat bij hun 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er is een hinderpaal (afscheiding) gemaakt tussen hen en hetgeen zij verlangen zoals met hun gelijken v��r hen was gedaan. Zij verkeerden inderdaad in een verontrustende twijfel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

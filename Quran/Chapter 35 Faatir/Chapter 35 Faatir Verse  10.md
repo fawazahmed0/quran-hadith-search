@@ -986,7 +986,7 @@ Wie eer wenst: aan Allah behoort alle eer. Tot Hem stijgt het goede woord op, en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wie eer wenst (wete), dat alle eer aan Allah behoort. Tot Hem stijgt het reine woord en de goede daad verheft het (tot Hem). En zij, die slechte plannen maken, hun wacht een strenge straf en hun plan zal te niet worden gedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

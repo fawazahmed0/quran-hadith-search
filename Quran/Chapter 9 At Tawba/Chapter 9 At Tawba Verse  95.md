@@ -986,7 +986,7 @@ Zij zullen tegenover jou bij Allah zweren, wanneer jullie tot hen zijn terugkeer
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zullen, wanneer gij tot hen weder keert, u bij Allah zweren, dat gij hen met rust moogt laten. Laat hen daarom alleen. Voorzeker, zij zijn onrein en hun huis is de hel, een vergelding voor wat zij deden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En waar jullie ook van mening over verschillen: de beslissing daarover is aan Al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En waarover gij ook moogt verschillen, de beslissing ervan rust bij Allah. Zeg: 'Zo is Allah, mijn Heer. In Hem stel ik mijn vertrouwen, en tot Hem wend ik mij
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

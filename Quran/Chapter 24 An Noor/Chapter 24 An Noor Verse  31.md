@@ -986,7 +986,7 @@ En zeg tegen de gelovige vrouwen, dat zij hun ogen neerslaan en hun kuisheid bew
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zeg tot de gelovige vrouwen dat zij ook haar ogen neergeslagen houden en hun passies beheersen, en dat zij haar schoonheid niet tonen dan hetgeen ervan zichtbaar moet zijn, en dat zij haar hoofddoeken over haar boezem laten hangen, en dat zij haar schoonheid niet tonen behalve aan haar echtgenoot of haar vader of de vader van haar echtgenoot, of haar zonen of de zonen van haar echtgenoot, of haar broeders, of de zonen van haar broeders, of de zonen van haar zusters of haar vrouwen, of haar slaven, of zulke mannelijke bedienden die geen geslachtsdrang hebben, of de jonge kinderen die van de naaktheid van een vrouw niets afweten. En laat haar niet met haar voeten slaan, opdat hetgeen zij van haar schoonheid bedekken openbaar moge worden. En wendt u allen tezamen tot Allah, o gelovigen, opdat gij moogt slagen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

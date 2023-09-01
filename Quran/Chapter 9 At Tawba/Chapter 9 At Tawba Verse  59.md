@@ -986,7 +986,7 @@ En als zij tevreden zouden zijn met wat Allah en zijn Boodschapper hun hebben ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waren zij slechts tevreden geweest met hetgeen Allah en Zijn boodschapper hun hadden gegeven en hadden zij gezegd: 'Allah is ons toereikend: Allah zal ons van Zijn overvloed geven evenals Zijn boodschapper. Voorzeker, tot Allah zijn wij geneigd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

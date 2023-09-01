@@ -986,7 +986,7 @@ Zeg: "Mijn Heer, oordeel naar de Waarheid. En onze Heer, de Barmhartige, is Dege
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Mijn Heer, oordeel in waarheid.' En 'Onze Heer is de Barmhartige Wiens hulp moet worden ingeroepen tegen hetgeen gij zegt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

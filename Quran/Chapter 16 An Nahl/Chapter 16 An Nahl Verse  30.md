@@ -986,7 +986,7 @@ En er zal tot degenen die (Allah) vreesden gezegd worden: "Wat is het dat jullie
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wordt er tot degenen, die rechtvaardig handelden gezegd: 'Wat heeft uw Heer geopenbaard?', dan zullen zij zeggen: 'Het beste.' Er is voor degenen, die goed doen, goeds in deze wereld doch het tehuis van het Hiernamaals is nog beter. Het tehuis der godvrezenden is inderdaad uitstekend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

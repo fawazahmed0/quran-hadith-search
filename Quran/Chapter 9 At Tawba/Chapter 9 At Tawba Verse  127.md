@@ -986,7 +986,7 @@ En wanneer een hoofdstuk wordt neergezonden, dan kijken zij elkaar aan (zeggende
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer er een Soerah wordt nedergezonden kijken zij elkander aan zeggende: 'Ziet iemand ons?' Dan wenden zij zich af. Allah heeft hun hart afgewend, omdat zij tot een volk behoren dat niet begrijpen wil
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

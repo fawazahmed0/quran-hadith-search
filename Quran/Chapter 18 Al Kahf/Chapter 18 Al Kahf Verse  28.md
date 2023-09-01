@@ -986,7 +986,7 @@ En wees zelf geduldig met degenen die hun Heer in de morgen en de avond aanroepe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Blijf bij degenen die hun Heer ´s morgens en ´s avonds aanroepen en die Zijn welbehagen zoeken en laat uw ogen niet van hen afdwalen door het zoeken van de praal dezer wereld en gehoorzaam niet aan hem, wiens hart Wij achteloos hebben gemaakt voor de gedachte aan Ons, noch degene die zijn begeerte volgt en wiens geval het ergste is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

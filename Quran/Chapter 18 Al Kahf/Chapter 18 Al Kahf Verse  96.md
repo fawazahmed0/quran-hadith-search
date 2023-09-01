@@ -986,7 +986,7 @@ Brengt mij brokken ijzer." Totdat, toen hij (de ruimte) tussen de twee hellingen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Brengt mij blokken ijzer.' (Zij deden dit) totdat hij de ruimte tussen de beide rotsen had opgevuld; toen zeide hij: 'Blaast.' totdat (het ijzer) wit gloeiend werd, nu zeide hij: 'Brengt mij gesmolten koper, opdat ik het er overheen giete
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

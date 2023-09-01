@@ -986,7 +986,7 @@ En het past de bewoners van Medinah niet, noch ben die in de omgeving verblijven
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het betaamt het volk van Madinah en de hen omringende woestijn-Arabieren niet, dat zij achter de boodschapper van Allah zouden blijven, of dat zij hun eigen leven in plaats van het zijne zouden verkiezen. Dit is zo, omdat dorst, noch vermoeienis, noch honger hen in de weg van Allah teistert, noch betreden zij een spoor, dat de ongelovigen vertoornt, noch berokkenen zij een vijand enige schade, of er wordt daarmede voor hen een goede daad opgetekend. Voorzeker, Allah doet de beloning van degenen, die goed doen niet verloren gaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

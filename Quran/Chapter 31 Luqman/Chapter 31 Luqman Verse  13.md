@@ -986,7 +986,7 @@ En (gedenkt) toen Loeqmân tot zijn zoon zei, hem raad gevende: "O mijn zoon, ke
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen Loqmaan tot zijn zoon, terwijl hij hem raad gaf, zeide: 'O mijn lieve zoon, ken geen medegoden aan Allah toe; afgoderij is inderdaad een grote ongerechtigheid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

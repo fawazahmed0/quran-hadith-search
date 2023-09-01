@@ -986,7 +986,7 @@ En zij vragen jou wat hun toegestaan is. Zeg: "Jullie toegestaan zijn alle goede
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij vragen u, wat hun geoorloofd is. Zeg: Alle goede dingen zijn u geoorloofd en hetgeen gij dieren en roofvogels hebt geleerd terwille van de jacht, zoals Allah u heeft onderwezen. Eet dus van hetgeen zij voor u vangen en spreekt er Allah´s Naam over uit. En vreest Allah. Voorzeker, Allah is vlug in het verrekenen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

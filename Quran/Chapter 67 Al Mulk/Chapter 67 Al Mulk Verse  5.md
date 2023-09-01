@@ -986,7 +986,7 @@ En voorzeker, Wij hebben de nabije hemel met lampen (sterren) gesierd en Wij maa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voorwaar, Wij hebben de naastbije hemel met lampen versierd, Wij hebben hem tot een middel gemaakt om de satans te verdrijven en voor hen hebben Wij de straf van het razende Vuur bereid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

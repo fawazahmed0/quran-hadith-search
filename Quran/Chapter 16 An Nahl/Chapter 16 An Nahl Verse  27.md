@@ -986,7 +986,7 @@ Vervolgens zal Hij hen op de Dag der Opstanding vernederen, en zeggen: "Waar zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan zal Hij hen op de Dag der Opstanding vernederen en Hij zal zeggen: 'Waar zijn Mijn medegoden, ter wille van wie gij placht te strijden?' Degenen, die met kennis zign begiftigd zullen antwoorden: 'Schande en kwelling zullen deze Dag voorzeker over de ongelovigen zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

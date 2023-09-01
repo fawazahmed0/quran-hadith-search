@@ -986,7 +986,7 @@ Het is niet aan jou hen te leiden, maar Allah leidt wie Hij wil, en wat jullie a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hen te leiden is niet uw plicht, maar Allah leidt wie Hij wil. En welke rijkdommen gij ook weggeeft, het komt u ten goede en gij geeft alleen om Allah´s welbehagen te zoeken. En welke rijkdommen gij ook besteedt, het zal u ten volle worden terugbetaald en u zal geen onrecht worden aangedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

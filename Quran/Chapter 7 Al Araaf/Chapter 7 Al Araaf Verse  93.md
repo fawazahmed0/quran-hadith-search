@@ -986,7 +986,7 @@ Hij (Sjoe'ajb) wendde zich men van hen af, en hij zei: "O mijn volk, voorzeker, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarna wendde hij zich van hen af en zeide: 'O mijn volk, ik heb u inderdaad de boodschap van mijn Heer overgebracht en ik gaf u oprechte raad. Hoe moet ik dan om een ongelovig volk treuren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

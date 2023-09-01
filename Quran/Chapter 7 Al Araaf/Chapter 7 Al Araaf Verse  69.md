@@ -986,7 +986,7 @@ En verhaasde het jullie, dat er tot jullie een vermaning van jullie Heer is geko
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Verwondert gij u, dat er een waarschuwing van uw Heer tot u is gekomen door een man uit uw midden, opdat hij u moge waarschuwen? ' Hij maakte u na het volk van Noach tot erfgenamen en deed u overvloedig in kracht toenemen. Gedenkt daarom de gunsten van Allah, opdat gij moogt slagen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

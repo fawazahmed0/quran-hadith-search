@@ -986,7 +986,7 @@ Allah maakt een vergelijking: een slaaf waarover beschikt wordt heeft geen macht
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah geeft de gelijkenis van een slaaf, die nergens macht over heeft; en van iemand die Wij van een ruim levensonderhnud hebben voorzien, die er heimelijk en openlijk van besteedt. Zijn zij gelijk? Alle lof komt Allah toe! Maar de meesten hunner weten het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

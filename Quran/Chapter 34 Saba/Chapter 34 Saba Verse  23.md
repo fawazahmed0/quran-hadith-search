@@ -986,7 +986,7 @@ En de voorspraak baat bij Hem niet, behalve aan wie Hij toestemming heeft gegeve
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Geen voorspraak geldt bij Hem, behalve voor degenen aan wie Hij het toestaat, tot zij, wanneer de vrees van hun hart wordt weggenomen, zeggen: 'Wat zeide uw Heer?' Zij zullen antwoorden: 'De Waarheid.' En Hij is de Hoogverhevene, de Grote
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

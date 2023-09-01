@@ -986,7 +986,7 @@ Zie jij degenen die huichelen niet? Zij zeggen tot hun broeders die ongelovig zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij de huichelaars gezien? Zij zeggen tegen hun ongelovige broeders onder de mensen van het Boek: 'Indien gij verdreven wordt, zullen wij zeker met u medegaan, en wij zullen nooit iemand ten (nadele van) uw zaak gehoorzamen en als gij wordt aangevallen zullen wij u beslist helpen.' Maar Allah is getuige dat zij leugenaars zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

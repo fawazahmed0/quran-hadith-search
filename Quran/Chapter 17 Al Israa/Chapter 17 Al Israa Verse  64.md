@@ -986,7 +986,7 @@ En rui van hen op wie jij kan met jouw stem, en val hen aan met je paarden en je
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En bekoor met uw stem wie gij kunt en spoor uw ruiterij en uw voetvolk tegen hen aan en wees hun deelgenoot in hun weelde en hun kinderen, en doe hun beloften,' - maar Satan geeft slechts bedriegelijk beloften
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

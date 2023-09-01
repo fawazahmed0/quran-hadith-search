@@ -986,7 +986,7 @@ Indien zij maar in Allah geloofd hadden en in de Profeet en in wat aan hem neerg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien zij in Allah en deze profeet en hetgeen hem werd geopenbaard hadden geloofd, zouden zij hen niet tot vrienden hebben genomen, doch velen hunner zijn ongehoorzaam
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En onder hen zijn or die naar jou luisteren, maar Wij hebben over hun harten slu
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er zijn sommigen hunner, die naar u luisteren, maar Wij hebben sluiers om hun hart gelegd en hun oren verstopt, zodat zij niet begrijpen. En al zagen zij elk teken, zouden zij er toch niet in geloven; wanneer zij tot u komen redetwisten zij met u, en de ongelovigen zeggen: 'Dit zijn niets dan fabelen der ouden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

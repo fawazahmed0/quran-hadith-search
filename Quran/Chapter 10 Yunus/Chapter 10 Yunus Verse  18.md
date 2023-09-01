@@ -986,7 +986,7 @@ En zij aanbidden naast Allah wat hen niet schaadt en niet baat, en zij zeggen: "
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij bidden buiten Allah om tot datgene wat hen schaden noch baten kan en zij zeggen: 'Dezen zijn onze bemiddelaars bij Allah.' Zeg: 'Wilt gij Allah over iets, dat Hij in de hemelen of op aarde nog niet zou kennen, inlichten?' Heilig is Hij en hoog verheven boven al hetgeen zij met Hem vereenzelvigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

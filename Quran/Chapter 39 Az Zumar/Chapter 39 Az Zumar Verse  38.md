@@ -986,7 +986,7 @@ En als jij hun vraagt wie de hemelen en de aarde heeft geschapen, dan zullen zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien gij hun vraagt: 'Wie heeft de hemelen en de aarde geschapen?', zullen zij voorzeker antwoorden: 'Allah'. Zeg: 'Vertelt mij (dan) wat gij naast Allah aanroept, kunnen zij, indien Allah mij zou willen benadelen, Zijn schade verwijderen? Of als Hij mij barmhartigheid wil tonen, kunnen zij Zijn barmhartigheid dan tegenhouden?' Zeg: 'Allah is mij voldoende. In Hem zullen de vertrouwenden hun vertrouwen stellen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

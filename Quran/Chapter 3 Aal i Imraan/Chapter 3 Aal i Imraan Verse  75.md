@@ -986,7 +986,7 @@ En onder de Lieden van de Schrift is er degene die, als jij hem een schat toever
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Onder de mensen van het Boek is hij, die, als gij hem een schat toevertrouwt, u deze zal teruggeven, en er zijn er onder, die, als gij hun een dinar toevertrouwt, deze niet aan u zullen teruggeven, tenzij gij er voortdurend om vraagt. Dat komt, omdat zij (de Joden) zeggen: 'Wij zijn niet aansprakelijk voor de zaak van de ongeletterden.' Daarmede uiten zij tegen beter weten in een leugen tegen Allah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

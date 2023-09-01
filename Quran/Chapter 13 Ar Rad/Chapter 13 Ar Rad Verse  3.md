@@ -986,7 +986,7 @@ Hij is Degene Die die de aarde heeft uitgespreid en daarop stevige bergen en riv
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Hij is het, Die de aarde uitspreidde, er bergen op verhief en rivieren op vormde. En Hij maakte er elke vruchtensoort in twee geslachten op. Hij doet de nacht de dag bedekken. Voorwaar, daarin zijn tekenen voor een volk, dat nadenkt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

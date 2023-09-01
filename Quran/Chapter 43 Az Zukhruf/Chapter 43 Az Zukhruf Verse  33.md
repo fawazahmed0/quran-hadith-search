@@ -986,7 +986,7 @@ En als de mensheid dan niet tot één (ongelovige) godsdienst zou worden, dan ha
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ware er niet (het gevaar) dat alle mensen ��n groep zouden vormen, Wij zouden voor degenen die de Barmhartige verwerpen, daken voor hun huizen en trappen waarop zij naar boven konden lopen van zilver hebben gemaakt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Proeft dan (de bestraffing), omdat jullie ie de ontmoeting van deze Dag van jull
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ondergaat daarom (de straf) omdat gij de ontmoeting van deze Dag vergat. Voorzeker nu hebben Wij u vergeten. Ondergaat de duurzame straf voor hetgeen gij deedt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

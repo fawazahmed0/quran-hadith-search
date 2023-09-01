@@ -986,7 +986,7 @@ Of (de toestand van de ongelovige is) als de donkerten in de diepe zee, bedekt d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of als duisternis in een diepe zee, bedekt door golf boven golf waarboven wolken zijn: duisternis boven duisternis. Wanneer men zijn hand uitstrekt kan men haar bijna niet zien; en hij, wie Allah geen licht geeft, voor hem is er geen licht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En jullie Heer heeft bepaald dat jullie niets dan Hem alleen aanbidden, en goedh
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Uw Heer heeft u bevolen, zeggende: 'Aanbidt niemand anders dan Mij en betoont vriendelijkheid jegens de ouders. Indien ��n hunner bij u een hoge leeftijd bereikt of beiden doen dit, zeg dan nimmer tot hen 'Foei' noch stoot hen af, doch spreek tot hen een welgevallig woord
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

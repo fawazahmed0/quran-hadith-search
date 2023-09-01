@@ -986,7 +986,7 @@ Vervolgens deden Wij Onze Boodschappers elkaar in hun sporen opvolgen. En Wij de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan deden Wij Onze boodschappers in hun voetsporen treden en Wij deden Jezus, de zoon van Maria, opvolgen en Wij gaven hem het Evangelie. En Wij legden zachtmoedigheid en barmhartigheid in het hart zijner volgelingen. Doch het kloosterleven schreven Wij hun niet voor, maar zij vonden dit zelf uit om Allah´s welbehagen te zoeken. Zij namen dit echter niet in acht zoals het behoorde. Toen gaven Wij de gelovigen onder hen een beloning, maar velen onder hen waren overtreders
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Stellen jullie het geven van drinken aan de bedevaartgangers en het onderhouden 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Acht gij het geven van dranken aan de bedevaartgangers en het bezoeken van de heilige Moskee gelijk aan de werken van hem die in Allah en de laatste Dag gelooft en voor de zaak van Allah strijdt? Zij zijn in de ogen van Allah niet gelijk. En Allah leidt het onrechtvaardige volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

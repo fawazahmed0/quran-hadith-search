@@ -986,7 +986,7 @@ Hij is Degenen Die Verheven is boven alle rangen, de Bezitter van de Troon. Hij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Verheven boven alle graden is de Heer van de Troon. Hij zendt het woord door Zijn gebod aan wie Hij wil van Zijn dienaren, opdat hij moge waarschuwen voor de Dag der Ontmoeting
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

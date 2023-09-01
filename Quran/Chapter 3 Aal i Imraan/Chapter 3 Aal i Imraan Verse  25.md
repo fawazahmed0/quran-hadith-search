@@ -986,7 +986,7 @@ En wat (zal er met hen gebeuren) wanneer Wij hen bij elkaar brengen op een Dag w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hoe zal het dan zijn, wanneer Wij hen verzamelen op de Dag, waarover geen twijfel bestaat en waarop elke ziel voor hetgeen zij verdient ten volle zal worden betaald en hun geen onrecht zal worden aangedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

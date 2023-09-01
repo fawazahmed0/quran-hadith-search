@@ -986,7 +986,7 @@ En op de Dag waarop Hij allen bijéén zal brengen (zal Hij zeggen:) "O Bemeensc
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Dag, waarop Hij hen allen tezamen zal verzamelen, (zal Hij zeggen): 'O, gezelschap van djinn, gij hebt een grote hoeveelheid mensen tot u getrokken.' En hun vrienden onder de mensen zullen zeggen: 'Onze Heer, wij hebben van elkander geprofiteerd, maar nu hebben wij de termijn welke Gij voor ons hebt vastgesteld bereikt.' Hij zal zeggen: 'Het Vuur is uw tehuis waarin gij zult vertoeven, behalve wat Allah moge behagen.' Voorzeker, uw Heer is Alwijs, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

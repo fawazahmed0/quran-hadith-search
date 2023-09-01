@@ -986,7 +986,7 @@ En als (Medinah) langs alle kanten binnengevallen zou worden, en zij gevraagd zo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als men uit de omgeving bij hen zou binnendringen en hun zou worden gevraagd, onlusten te veroorzaken, zouden zij dat terstond hebben gedaan en zij zoudlen slechts weinig hebben getalmd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Degene Die de aarde voor jullie heeft gemaakt tot een tapijt en de hemel tot een
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Die u de aarde tot een legerstede maakte en de hemel tot een gewelf en Die water van de wolken deed nederkomen en daardoor vruchten voortbracht, als voedsel voor u. Plaatst derhalve geen gelijken nevens Allah, tegen beter weten in
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

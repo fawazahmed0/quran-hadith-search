@@ -986,7 +986,7 @@ Wie is dan onrechtvaardiger dan hij die liegt over Allah en de Waarheid loochent
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wie is onrechtvaardiger dan hij, die een leugen over Allah verzint of de Waarheid verloochent wanneer zij tot hem komt? Is er voor de ongelovigen geen plaats in de hel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

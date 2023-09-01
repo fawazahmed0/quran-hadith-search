@@ -986,7 +986,7 @@ En gedenkt de broeder van de 'Âd (de Profeet Hôed) toen hij zijn volk waarschu
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gedenk de broeder van Aad, toen hij zijn volk in de zandheuvels waarschuwde - en er zijn waarschuwers v��r en na hem geweest - 'Dient Allah alleen, want ik vrees de straf van een grote Dag voor u
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

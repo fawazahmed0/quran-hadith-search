@@ -986,7 +986,7 @@ En zij zeiden: "Als wij de leiding met jou volgen, dan worden wij uit ons land g
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij (de bewoners van Mekka) zeggen: 'Als wij de leiding met u zouden volgen, zouden wij van ons land worden weggevoerd.' Hebben Wij voor hen geen veilig heiligdom opgericht waarheen allerlei vruchten worden gebracht als een voorziening van Ons? Maar de meesten onder hen begrijpen het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

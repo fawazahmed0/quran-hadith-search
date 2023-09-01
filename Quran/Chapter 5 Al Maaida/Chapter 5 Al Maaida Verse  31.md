@@ -986,7 +986,7 @@ Toen stuurde Allah een raaf, die over de grond kreste om hem te laten zien hoe h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen zond Allah een raaf, die in de grond krabde, om hem te beduiden, hoe het lijk van zijn broeder te verbergen. Hij zeide: 'Ware ik maar de raaf gelijk, zodat ik het lijk van mijn broeder kon verbergen.' En toen kreeg hij berouw
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

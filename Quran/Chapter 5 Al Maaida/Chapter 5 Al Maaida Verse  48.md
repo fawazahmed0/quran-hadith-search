@@ -986,7 +986,7 @@ En Wij hebben aan jou het Boek (de Koran) met de Waarheid neergezonden, ter beve
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij hebben u het Boek (de Koran) met de waarheid geopenbaard vervullende hetgeen daarv��r in het Boek (de Bijbel) was (verkondigd) en als bewaker daarover. Richt daarom tussen hen naar hetgeen Allah heeft geopenbaard en volg hun boze neigingen niet tegen de waarheid die tot u is gekomen. Voor iedereen bepaalden Wij een wet en een weg. En indien Allah had gewild zou Hij u allen tot ��n volk hebben gemaakt, maar Hij wenst u te beproeven met hetgeen Hij u heeft gegeven. Wedijvert dus met elkander in goede werken. Tot Allah zult gij allen terugkeren, dan zal Hij u datgene mededelen, waarover gij van mening verschilt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

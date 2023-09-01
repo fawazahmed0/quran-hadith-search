@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Gelooft er in of gelooft niet." Voorwaar, degenen aan wie er
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Hetzij gij er wel of niet in gelooft, degenen aan wie voordien kennis was geschonken werpen zich met hun aangezicht ter aarde wanneer deze hun wordt voorgelezen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

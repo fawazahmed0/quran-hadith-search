@@ -986,7 +986,7 @@ En Hij is Degene Die de sterren voor jullie maakte, opdat jullie door de duister
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die de sterren voor u heeft gemaakt, opdat gij daardoor de juiste richting in de duisternissen van het land en van de zee moogt volgen. Wij hebben de tekenen uitgelegd aan een volk, dat kennis bezit
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

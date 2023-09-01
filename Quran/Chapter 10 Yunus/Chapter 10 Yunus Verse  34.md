@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Zijn er onder jullie afgoden die de schepping beginnen en de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Is er ��n uwer afgoden die de schepping voortbrengt en deze daarna voortzet?' Zeg: 'Allah is het, Die de schepping voortbrengt, en deze voortzet. Hoe zijt gij dan afgewend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

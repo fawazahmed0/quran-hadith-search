@@ -986,7 +986,7 @@ En Wij hebben de nacht en de dag tot twee Tekenen gemaakt. En het Teken van de n
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij hebben de nacht en de dag gemaakt tot twee tekenen, het teken van de nacht hebben Wij donker en het teken van de dag hebben Wij licht gemaakt, opdat gij overvloed moogt zoeken van uw Heer en opdat gij de jaren kunt tellen en (de tijd kunt) berekenen. En Wij hebben alles duidelijk verklaard
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

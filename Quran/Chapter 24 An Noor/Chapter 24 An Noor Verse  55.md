@@ -986,7 +986,7 @@ En Allah heeft degenen onder jullie die geloven en goede werken verrichten beloo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah heeft aan degenen onder u die geloven en goede werken verrichten beloofd, dat Hij hen voorzeker tot stedehouders op aarde zal stellen, zoals Hij degenen die v��r hen waren tot stedehouders maakte en dat Hij de godsdienst, die Hij voor hen heeft gekozen, zeker zal bevestigen, en dat Hij hun na hun vrees, vrede en veiligheid zal geven; Mij zullen zij aanbidden en niets met Mij vereenzelvigen. Maar wie daarna het geloof verwerpen, zullen overtreders zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

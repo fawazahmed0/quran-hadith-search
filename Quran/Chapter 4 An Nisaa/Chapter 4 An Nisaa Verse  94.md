@@ -986,7 +986,7 @@ O jullie die geloven, als jullie je op de Weg van Allah rondtrekken (om te strij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, wanneer gij voor Allah´s zaak oprukt, onderzoekt dan en zegt niet tegen iemand die u met de vredesgroet begroet: 'Gij zijt geen gelovige'. Zoekt gij de goederen van dit leven? Bij Allah zijn goede dingen in overvloed. Zo waart gij voordien maar Allah bewees u Zijn gunst; stelt daaromtrent een nauwkeurig onderzoek in. Voorzeker, Allah weet, wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

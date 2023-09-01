@@ -986,7 +986,7 @@ Toen jouw zuster heenging en (tegen de familie van Fir'aun) zei: 'Zal ik hem naa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen uw zuster voorbijkwam en zeide: ´Zal ik u iemand noemen die hem zal verzorgen?´ Aldus schonken Wij u terug aan uw moeder opdat haar oog zou worden verfrist en zij niet zou treuren. En gij dooddet een man, doch Wij verlosten u van smart. En Wij beproefden u op verschillende manieren. En gij vertoefdet jaren te midden van het volk van Midian. Dan zijt gij, o Mozes, herwaarts gekomen zoals besloten was
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

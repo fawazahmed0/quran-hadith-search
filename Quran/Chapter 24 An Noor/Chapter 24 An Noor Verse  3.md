@@ -986,7 +986,7 @@ De ontuchtige man trouwt niet, behalve met een ontuchtige vrouw of een veelgoden
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De echtbreker zal alleen een echtbreekster of een afgodendienares huwen, en met de echtbreekster zal alleen een echtbreker of een afgodendienaar huwen. En dit is de gelovigen verboden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

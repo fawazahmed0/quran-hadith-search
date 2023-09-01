@@ -986,7 +986,7 @@ En (gedenkt) toen de Satan hun daden voor hen schoonschijnend maakte, en zei: "E
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen deed Satan hun hun daden schoon schijnen en zeide: 'Niemand onder de mensen zal deze dag de overhand over u hebben want ik ben uw metgezel.' Maar toen de twee legers elkander in het zicht kwamen, wendde hij zich af en zeide: 'Voorzeker, ik heb niets met u uitstaande, waarlijk, ik zie wat gij niet ziet, ik vrees Allah en Allah is streng in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

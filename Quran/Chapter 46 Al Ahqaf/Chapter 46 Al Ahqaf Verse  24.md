@@ -986,7 +986,7 @@ En toen zij die ( bestraffing) als een wolk zagen die zich naar hun valleien ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen zij een wolk naar hun valleien zagen komen, zeiden zij: 'Dit is een wolk, die ons regen zal geven.' Neen, dat is hetgeen gij zocht te verhaasten, een wind, die een smartelijke straf bevat
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

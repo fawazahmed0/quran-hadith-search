@@ -986,7 +986,7 @@ Vervolgens zonden Wij na hen Môesa met Onze Tekenen tot Fir'aun en zijn vooraan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen zonden Wij na hen (de vorige boodschappers) Mozes met Onze tekenen naar Pharao en zijn leiders, maar zij geloofden er niet in. Ziet hoe het einde was van de onruststokers
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

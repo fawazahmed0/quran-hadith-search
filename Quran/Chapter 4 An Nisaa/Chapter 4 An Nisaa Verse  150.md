@@ -986,7 +986,7 @@ Voorwaar, degenen die niet in Allah geloven en Zijn Boodschapper: zij willen ond
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, degenen die Allah en Zijn boodschappers verwerpen en onderscheid wensen te maken tussen Allah en Zijn boodschappers, zeggende: 'Wij geloven in sommige en niet in andere,' zij willen een tussenweg volgen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

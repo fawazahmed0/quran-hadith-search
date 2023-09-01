@@ -986,7 +986,7 @@ Het past de Profect en degenen die geloven niet dat zij de veelgodenaanbidders o
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het is de profeet en de gelovigen niet geoorloofd om vergiffenis te vragen voor de afgodendienaren, zelfs al waren dezen verwanten, nadat hun (de gelovigen) duidelijk is geworden, dat zij (afgodendienaren) het volk der hel zullen zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

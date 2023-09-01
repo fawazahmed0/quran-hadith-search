@@ -986,7 +986,7 @@ Toen hij een vuur zag, en tot zij familie zei "Blijft hier, want ik zie een vuur
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen hij een vuur zag, zeide hij tot de zijnen: 'Blijft hier, ik bespeur een vuur; misschien zal ik u daarvan een vuurbrand kunnen brengen of door het vuur de weg vinden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

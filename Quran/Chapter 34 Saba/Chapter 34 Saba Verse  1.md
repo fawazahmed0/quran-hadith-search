@@ -986,7 +986,7 @@ Alle lof zij Allah, Degene aan Wie wat er in de hemelen en op de aarde is behoor
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alle roem komt Allah toe aan Wie alles behoort wat in de hemelen en op aarde is en Hem komt alle Lof toe in het Hiernamaals; Hij is de Alwijze, de Alkennende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

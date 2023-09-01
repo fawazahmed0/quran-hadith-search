@@ -986,7 +986,7 @@ De Satan zei, nadat de zaak besloten was: "Voorwaar, Allah heeft jullie een ware
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer de zaak is beslist zal Satan zeggen: 'Allah deed u een ware belofte, ik echter beloofde u en faalde, maar ik had geen macht over u dan dat ik u riep en gij mij gehoorzaamdet. Verwijt mij daarom niet, maar beschuldigt uzelf. Ik kan u niet bijstaan noch kunt gij mij bijstaan. Ik verwerp dat gij mij voordien met Allah hebt vereenzelvigd. Er zal voor de onrechtvaardigen gewis een smartelijke straf zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

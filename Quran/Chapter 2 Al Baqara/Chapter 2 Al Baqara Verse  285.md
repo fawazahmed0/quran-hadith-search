@@ -986,7 +986,7 @@ De Boodschapper gelooft in wat hem van zijn Heer is geopenbaard, en (ook) de gel
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Deze boodschapper gelooft in hetgeen hem van zijn Heer is geopenbaard en ook de gelovigen, allen geloven in Allah, Zijn engelen, Zijn boeken en Zijn boodschappers, zeggende: 'Wij maken geen verschil tussen Zijn boodschappers'; en zij zeggen: 'Wij hebben gehoord en gehoorzaamd, Heer, wij vragen U vergiffenis en tot U is (onze) terugkeer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

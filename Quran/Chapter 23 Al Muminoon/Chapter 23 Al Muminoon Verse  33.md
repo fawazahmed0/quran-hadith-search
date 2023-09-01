@@ -986,7 +986,7 @@ En de vooraanstanden, die niet geloofden, van zijn volk en die de ontmoeting in 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de hoofden van zijn volk, die ongelovig waren en die de ontmoeting in het Hiernamaals loochenden en wie Wij in dit leven overvloed (van het goede der aarde) hadden gegeven, zeiden: 'Dit is slechts een mens, zoals gij. Hij eet van hetgeengij eet en drinkt van hetgeen gij drinkt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En tussen hen is een afscheiding en op de A'raf bevinden zich mannen, zij kennen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er zal een scheiding tussen beiden zijn; en er zullen op de verheven plaatsen mannen zijn die allen aan hun merktekenen herkennen. En zij zullen tot de bewoners van het paradijs roepen: 'Vrede zij over u.´´ Dezen zullen het paradijs nog niet zijn binnengegaan, maar zij hopen het
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

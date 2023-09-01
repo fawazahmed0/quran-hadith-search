@@ -986,7 +986,7 @@ En de vruchtbare streek brengt haar gewassen vooit met verlof van haar Heer. En 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En het goede land - de plantengroei komt er in overvloed van voort door het gebod van zijn Heer - en hetgeen slecht is levert alleen schaarste op. Zo wisselen Wij de tekenen af voor een volk dat dankbaar is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

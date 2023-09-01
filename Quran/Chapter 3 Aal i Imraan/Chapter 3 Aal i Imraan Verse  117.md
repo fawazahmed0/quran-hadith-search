@@ -986,7 +986,7 @@ De gelijkenis van wat zij tijdens dit wereldse leven uitgeven is als die van de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De gelijkenis van hetgeen zij voor het tegenwoordige leven besteden is als de wind, gepaard aan een hevige koude, die de oogst treft van een volk, dat zichzelf onrecht heeft aangedaan en deze vernietigt. En Allah had hun geen onrecht aangedaan, maar zij doen zichzelf onrecht aan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

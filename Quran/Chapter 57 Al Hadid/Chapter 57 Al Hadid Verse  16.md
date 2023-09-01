@@ -986,7 +986,7 @@ Is het voor degenen die geloven nog geen tijd, dat hun harten zich vernederen vo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is voor de gelovigen de tijd nog niet aangebroken dat hun hart nederig worde om Allah gedachtig te zijn en de Waarheid (op te nemen), die nedergedaald is? En laten zij niet worden zoals zij die het Boek v��rdien ontvingen - voor dezen was de termijn (te) lang geworden waardoor hun hart werd verhard en velen van hen ongehoorzaam werden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

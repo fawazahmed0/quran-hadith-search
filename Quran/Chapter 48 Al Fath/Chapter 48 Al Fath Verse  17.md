@@ -986,7 +986,7 @@ Het is geen zonde voor de blinde, en niet voor de lamme, en niet voor de zieke (
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er rust geen schuld op de blinde, noch op de lamme, noch op de zieke. En wie Allah en Zijn boodschapper gehoorzaamt, hem zal Hij in tuinen toelaten waar doorheen rivieren stromen: maar wie zich omkeert, hem zal Hij door een smartelijke straf straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Verricht daarin nooit de shalât. Waarlijk, een moskee die vanaf de eerste dag i
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sta er nooit in (voor het gebed). Een Moskee, die van het begin af op godsvrucht was gesticht is zeker waardiger dat gij er in zijt. Er zijn daarin mensen die gaarne gelouterd willen worden en Allah heeft degenen, die zich louteren lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

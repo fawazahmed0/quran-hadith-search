@@ -986,7 +986,7 @@ Voorzeker, zij waren ongelovig, degenen die zeiden: "Voorwaar, Allah is de Masî
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, zij lasteren God die zeggen: 'De Messias, zoon van Maria, is zeker Allah.' Zeg: 'Wie heeft dan macht tegen Allah, als Hij de Messias, zoon van Maria en zijn moeder en allen die op aarde zijn, teniet wil doen?' Aan Allah behoort het koninkrijk der hemelen en der aarde en al wat daartussen is. Hij schept wat Hij wil en Allah heeft macht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

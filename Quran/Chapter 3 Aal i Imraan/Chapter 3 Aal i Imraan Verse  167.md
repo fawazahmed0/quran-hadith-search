@@ -986,7 +986,7 @@ En opdat Hij degenen die huichelen gekend deed worden, en er werd hun gezegd: "K
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En opdat Hij de huichelaars mocht doen onderkennen. En er werd tot hen gezegd: 'Komt en vecht voor Allah´s zaak en verdedigt u.' Zij zeiden: 'Als wij wisten dat het vechten was, zouden wij u zeker hebben gevolgd.' Zij stonden op die dag dichter bij het ongeloof dan bij het geloof. Zij zeggen met hun mond wat niet in hun hart is. Doch Allah weet goed wat zij verbergen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

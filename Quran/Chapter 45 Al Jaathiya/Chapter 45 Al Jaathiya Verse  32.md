@@ -986,7 +986,7 @@ En toen er gezegd werd: "De belofte van Allah is waar en aan het Uur is geen twi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen er werd gezegd: 'De belofte van Allah is zeker waar en aan het Uur is geen twijfel,' zeidet gij: 'Wij weten niet wat het Uur is: wij vermoeden het slechts en zijn er niet zeker van
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

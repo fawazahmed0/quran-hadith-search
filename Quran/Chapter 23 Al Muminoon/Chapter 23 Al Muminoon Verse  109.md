@@ -986,7 +986,7 @@ Voorwaar, er is een groep onder Mijn dienaren die zegt: "Onze Heer, wij geloofde
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, er was een gedeelte van Mijn dienaren dat placht te zeggen: 'O, onze Heer, wij hebben geloofd, vergeef ons daarom en wees Barmhartig jegens ons. En Gij zijt de Beste der barmhartigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

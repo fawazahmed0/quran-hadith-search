@@ -986,7 +986,7 @@ En Fir'aun zei: "O vooraanstaanden, ik weet geen andere god dan ikzelf voor jull
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Pharao zeide: 'O leiders, ik erken geen God voor u naast mij; stook voor mij een vuur O Hamaan, om stenen van klei te bakken en bouw een toren, opdat ik moge opklimmen naar de God van Mozes want waarlijk ik beschouw hem als een leugenaar
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Allah neemt de zielen weg bij hun sterven en bij degenen die niet stemen in hun 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah neemt de zielen van de mensen op wanneer zij sterven en ook van hen die niet sterven tijdens hun slaap. Dan houdt Hij die, die Hij ten dode heeft opgeschreven en zendt de overigen tot een bepaalde tijd (in het lichaam) terug. Hierin zijn stellig tekenen voor een volk dat nadenkt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

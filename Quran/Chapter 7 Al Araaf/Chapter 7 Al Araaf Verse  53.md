@@ -986,7 +986,7 @@ Zij wachten op niets anders dan het gevolg ervan. De Dag waarop het gevolg ervan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wachten zij slechts op (een andere) verklaring daarvan? De Dag, waarop deze komen zal, zullen degenen die het voorheen vergaten, zeggen: 'De boodschappers van onze Heer brachten inderdaad de waarheid, zullen wij dan enige bemiddelaars hebben, die voor ons zullen bemiddelen? Of konden wij worden teruggezonden (naar de aarde), opdat wij anders mochten doen, dan hetgeen wij deden?' Zij deden hun ziel inderdaad tekort en hetgeen zij verzonnen is voor hen verloren gegaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

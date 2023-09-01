@@ -986,7 +986,7 @@ Onze Heer, maak ons beiden tot mensen die zich overgeven aan U en (maak) onze na
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Heer, maak ons beiden aan U onderdanig en maak van ons nageslacht een volk, dat U onderdanig zij. En toon ons onze wijzen van aanbidding en wend U met barmhartigheid tot ons, zeker, Gij zijt Berouwaanvaardend en Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

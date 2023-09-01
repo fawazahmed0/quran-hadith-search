@@ -986,7 +986,7 @@ En als zij jou loochenen; zij loochenden ook degenen vóór hen: hun Boodschappe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien dezen u verloochenen, verloochenden ook zij, die voor hen waren. Hun boodschappers kwamen tot hen met duidelijke bewijzen en met de Geschriften en met een verlichtend Boek
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

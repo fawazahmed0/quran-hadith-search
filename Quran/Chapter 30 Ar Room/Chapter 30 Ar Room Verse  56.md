@@ -986,7 +986,7 @@ En degenen aan wie de kennis en het geloof zijn gegeven, zullen zeggen: "Voorzek
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar zij wie wijsheid en geloof was gegeven, zullen zeggen: 'Volgens het Boek van Allah zijt gij inderdaad tot de Dag der Opstanding gebleven. En dit is de Dag der Opstanding, maar gij wist het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

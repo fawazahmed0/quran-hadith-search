@@ -986,7 +986,7 @@ O jullie die geloven, voorwaar, er zijn er onder jullie vrouwen en jullie kinder
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij gelovigen, er zijn onder uw echtgenoten en kinderen die uw vijanden zijn, neemt u dus voor hen in acht. En indien gij verontschuldigt en door de vingers ziet en vergeeft; dan is Allah Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

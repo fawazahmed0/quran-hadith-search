@@ -986,7 +986,7 @@ Voor iedere gemeenschap hebben Wij godsdienstige gebruiken vastgesteld, die zij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voor elk volk hebben Wij wijdingen vastgesteld die zij moeten volgen; laat hen daarom niet met u er over redetwisten; doch nodigt hen tot uw Heer, waarlijk gij volgt de juiste leiding
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

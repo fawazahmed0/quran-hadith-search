@@ -986,7 +986,7 @@ Voorwaar, jij kunt slechts waarschuwen wie de Vermaning volgt en de Erbarmer vre
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij kunt slechts hem waarschuwen die de vermaning zou willen volgen en de Barmhartige in het verborgene vrezen. Geef hem daarom blijde tijdingen van vergiffenis en een ruime beloning
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

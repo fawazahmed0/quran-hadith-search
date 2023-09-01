@@ -986,7 +986,7 @@ En Wij openbaarden aan Môesa en zijn broeder: "Bouwt voor jullie volk huizen in
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij openbaarden aan Mozes en zijn broeder: 'Neemt gij beiden huizen voor uw volk in Egypte en bouwt uw huizen tegenover elkaar en houdt het gebed. En geeft de gelovigen blijde tijdingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

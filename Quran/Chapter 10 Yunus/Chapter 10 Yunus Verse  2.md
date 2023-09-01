@@ -986,7 +986,7 @@ Is het voor de mensen iets verwonderlijks dat Wij aan een man uit hun midden ope
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is het vreemd voor de mensen, dat Wij een man uit hun midden openbaarden: 'Waarschuw het mensdom en geef blijde tijding aan degenen die geloven, dat zij een ware rang bij hun Heer zullen hebben'? De ongelovigen zeggen: 'Voorzeker, deze is een openlijke tovenaar
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

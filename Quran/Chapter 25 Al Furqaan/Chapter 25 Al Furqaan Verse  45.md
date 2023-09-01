@@ -986,7 +986,7 @@ Zie jij niet hoe jouw Heer de schaduwen verlengt? En als Hij het had gewild, had
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij niet gezien hoe uw Heer de schaduw verlengt? - En indien Hij het had gewild, kon Hij haar onbeweeglijk hebben gemaakt - Dan hebben Wij de zon tot een leider er van gemaakt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

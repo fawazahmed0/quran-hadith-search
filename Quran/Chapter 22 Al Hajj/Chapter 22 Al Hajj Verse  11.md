@@ -986,7 +986,7 @@ En er zijn eronder mensen die Allah op de rand aanbidden: als hem iets goeds ove
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En onder de mensen zijn er die Allah weifelend aanbidden. Indien het hun wel gaat, zijn zij daarmede tevreden, maar indien zo iemand een beproeving ten deel valt, keert hij terug tot zijn vroegere wandel. Hij verliest deze wereld zowel als het Hiernamaals. Dat is een duidelijk verlies
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

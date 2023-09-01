@@ -986,7 +986,7 @@ En dit is een Boek dat Wij neergezonden hebben, gezegend en bevestigend wat er (
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En dit Boek vol zegeningen, hebben Wij geopenbaard, vervullende, hetgeen er aan voorafging, opdat gij de moeder der steden (Mekka) en wat er omheen is zoudt waarschuwen. En degenen die in het Hiernamaals geloven, geloven er in en zij waken over hun gebed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Als jullie je afwenden, dan heb ik jullie doorgegeven waar ik tot jullie mee gez
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien gij u afwendt, dan heb ik u hetgeen waarmede ik tot u ben gezonden medegedeeld, en mijn Heer zal een ander volk uw plaats doen innemen. Gij kunt Hem in het geheel niet deren. Voorzeker, mijn Heer is Bewaker over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

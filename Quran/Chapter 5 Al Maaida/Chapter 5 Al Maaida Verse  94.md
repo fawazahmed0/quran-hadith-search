@@ -986,7 +986,7 @@ O jullie die geloven! Allah wil jullie alleen maar beproeven met wat ven de jach
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij gelovigen, voorzeker, Allah zal u beproeven door het wild, hetwelk uw handen of lansen kunnen vangen, opdat Allah degenen zal onderscheiden die Hem in het verborgene vrezen. Derhalve zal voor hen, die na deze (waarschuwing) overtreden, een pijnlijke straf zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Waarlijk, degenen vôôr hen beraamden ook (tegen Allah), maar Allah greep hun b
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen, die v��r hen waren, smeedden ook plannen, maar Allah vernietigde hun gebouw tot in de grondvesten zodat het dak van boven op hen viel; en de straf kwam over hen vanwraar zij het niet vermoedden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

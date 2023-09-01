@@ -986,7 +986,7 @@ En voorzeker, Wij hadden hun werkelijk macht en welvaart gegeven die Wij niet aa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij hadden hen stevig gevestigd in hetgeen waarin Wij u niet hebben gevestigd en Wij hadden hun oren, ogen en een hart gegeven. Maar hun oren, noch hun ogen noch hun hart baatten hen iets, daar zij de tekenen van Allah verwierpen en hetgeen waarover zij plachten te spotten, (de straf) omringde hen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

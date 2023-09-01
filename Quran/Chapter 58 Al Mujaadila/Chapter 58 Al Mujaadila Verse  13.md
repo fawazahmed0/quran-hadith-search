@@ -986,7 +986,7 @@ Zijn jullie bevreesd voor (armoede) door iets uit te geven aan liefdadigheid, v√
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zijt gij bezorgd inzake het geven van liefdegiften voor uw bijzondere raadpleging? Indien gij dat niet doet en Allah heeft zich met barmhartigheid tot u gewend, houdt dan het Gebed en betaalt de Zakaat en gehoorzaamt Allah en Zijn boodschapper. En Allah is goed op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

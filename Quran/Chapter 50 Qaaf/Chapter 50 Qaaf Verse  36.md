@@ -986,7 +986,7 @@ En hoeveel generaties vóór hen hebben Wij niet vernietigd, die machtiger waren
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar hoevele geslachten hebben Wij (niet) v��r hen vernietigd, die machtiger in gezag waren dan dezen! Zij trokken door het land, maar was er een toevluchtsoord voor hen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hij zei: "O mijn volk, wat denken jullie, als ik op een duidelijk bewijs van mij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zeide: 'O, mijn volk, zeg mij, als ik een duidelijk bewijs van mijn Heer heb ontvangen en Hij mij barmhartigheid heeft geschonken, wie zal mij dan naast Allah helpen als ik Hem niet gehoorzaam? Gij zult slechts tot mijn ondergang bijdragen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

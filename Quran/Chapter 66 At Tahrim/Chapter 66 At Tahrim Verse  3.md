@@ -986,7 +986,7 @@ En (gedenkt) toen de Boodschapper in het geheim een gebeurtenis aan één van zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen de profeet een woord aan een zijner vrouwen toevertrouwde en zij het daarna ruchtbaar maakte (aan een andere), deelde Allah hem dit mede. Hij maakte een deel er van bekend en verzweeg een deel ervan. En toen hij het haar vertelde, zeide zij: 'Wie gaf u hiervan kennis? ' Hij zeide: 'De Alwetende, de van alles op de hoogte, heeft mij er bericht van gegeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

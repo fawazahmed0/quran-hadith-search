@@ -986,7 +986,7 @@ O jullie die geloven, de Qishâsh inzake doodslag is jullie verplicht: de vrije 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij die gelooft, vergelding inzake doodslag is u voorgeschreven: de vrije man tegen de vrije man, de slaaf tegen de slaaf en de vrouw tegen de vrouw. Maar, indien iemand kwijtschelding is verleend door zijn broeder, dan moet de eis billijk zijn, en betaling moet hem worden gedaan met goedheid. Dit is verzachting en barmhartigheid van uw Heer. Wie daarna overtreedt, hem wacht een pijnlijke straf
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

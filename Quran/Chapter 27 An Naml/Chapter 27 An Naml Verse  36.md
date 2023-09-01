@@ -986,7 +986,7 @@ Maar toen hij (de gezant) bij Soelaimân kwam, zei hij: "Zouden jullie mij met b
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen de gezant (der koningin) tot Salomo kwam, zeide deze: 'Schenkt gij mij rijkdommen? Maar datgene wat Allah mij geschonken heeft is beter dan wat Hij u heeft gegeven. Neen, gij verheft u op uw gaven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

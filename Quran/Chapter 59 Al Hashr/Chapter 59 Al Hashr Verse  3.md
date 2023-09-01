@@ -986,7 +986,7 @@ En als Allah voor hen de verdrijving niet had bepaald, dan zou Hij hen zeker heb
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien Allah hun geen verbanning voorgeschreven had, zou Hij hen zeker in deze wereld (nog zwaarder) hebben bestraft. En voor hen is in het Hiernamaals de straf van het Vuur
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

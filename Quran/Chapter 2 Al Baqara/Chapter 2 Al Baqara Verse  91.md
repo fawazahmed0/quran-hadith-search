@@ -986,7 +986,7 @@ en als er tot hen gezegd wordt: "Gelooft in wat Allah heeft neergezonden," zegge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer er tot hen wordt gezegd: 'Gelooft in hetgeen Allah heeft geopenbaard,' zeggen zij: 'Wij geloven slechts in hetgeen ons is geopenbaard,' maar zij verwerpen hetgeen daarna is geopenbaard, hoewel het de Waarheid is, vervullende wat zij reeds bezaten. Zeg hun 'Waarom hebt gij dan de vroegere profeten van Allah gedood, als gij inderdaad gelovigen waart
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

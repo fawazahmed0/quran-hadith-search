@@ -986,7 +986,7 @@ O jullie die geloven, als er gelovige vrouwen, als uitgewekenen, tot jullie geko
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft wanneer gelovige vrouwen tot u komen als vluchtelingen, beproeft haar (geloof); Allah kent hun geloof het beste. Als gij dan vindt dat zij gelovig zijn, zendt haar niet terug naar de ongelovigen. Deze vrouwen zijn voor hen niet wettig, noch zijn de ongelovigen wettig voor deze vrouwen. Maar betaalt (aan de echtgenoten) wat zij besteed hebben. En het is geen zonde voor u haar te huwen als gij haar haar huwelijksgift hebt gegeven. En houdt niet vast aan huwelijksbanden met ongelovige vrouwen; maar vraagt om hetgeen gij besteed hebt; en laten zij vragen om hetgeen zij besteed hebben. Dat is het gebod van Allah. Hij spreekt recht over u. En Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

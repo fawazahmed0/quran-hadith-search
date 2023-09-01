@@ -986,7 +986,7 @@ En wie wil dat Allah hem leidt, diens borst verruimt Hij voor de Islam; en wie H
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wie Allah ook wenst te leiden, Hij verruimt zijn hart voor de Islam en wie Hij wenst te laten dwalen, zijn hart maakt Hij eng en gesloten alsof hij een hoogte aan het beklimmen was. Zo legt Allah degenen die niet geloven, onreinheid op
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

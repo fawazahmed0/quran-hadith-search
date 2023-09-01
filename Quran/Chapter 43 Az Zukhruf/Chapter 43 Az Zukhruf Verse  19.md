@@ -986,7 +986,7 @@ En zij maken de Engelen, degenen die dienaren van de Erbarmer zijn, tot vrouwen.
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij maakten de engelen, die dienaren zijn van de Barmhartige, tot vrouwelijke wezens. Waren zij dan van hun schepping getuige? Hun getuigenis zal worden opgetekend en zij zullen tot rekenschap worden geroepen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

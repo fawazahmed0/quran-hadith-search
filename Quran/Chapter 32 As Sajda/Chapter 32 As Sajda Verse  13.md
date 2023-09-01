@@ -986,7 +986,7 @@ En als Wij wilden, dan zouden Wij zeker iedere ziel haar Leiding geven, maar het
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien Wij het wilden, zouden Wij aan elke ziel haar leiding kunnen geven, maar Mijn woord werd bewaarheid: 'Ik zal de hel met djinn en mensen allen tezamen vullen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

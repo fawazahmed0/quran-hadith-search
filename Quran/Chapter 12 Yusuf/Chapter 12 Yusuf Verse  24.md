@@ -986,7 +986,7 @@ En voorzeker, zij begeerde hem. Als hij geen Teken van zijn Heer had gezien. zou
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij nam een besluit betreffende hem en hij nam een besluit betreffende haar. Als hij geen duidelijk teken van zijn Heer had gezien, (kon hij zo´n vastberadenheid niet hebben getoond). Zo kwam het dat Wij het kwaad en de onbetamelijkheid van hem mochten afwenden. Voorzeker hij was een Onzer uitverkoren dienaren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

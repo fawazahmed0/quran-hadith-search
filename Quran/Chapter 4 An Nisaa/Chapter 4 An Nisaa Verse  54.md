@@ -986,7 +986,7 @@ Of zijn zij jaloers op de mensen vanwege wat Allah hen van Zijn gunst heeft gege
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of benijden zij de mensen om hetgeen Allah hun vanuit Zijn overvloed heeft gegeven? Waarlijk, Wij gaven aan de kinderen van Abraham het Boek en de Wijsheid en Wij gaven hun ook een groot koninkrijk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zo maakten Wij jullie tot een gematigd volk, opdat jullie getuigen zullen zijn v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zo hebben Wij u tot een verheven volk gemaakt, opdat gij getuige zult zijn tegenover de mensen en de Gezant zij een getuige tegenover u. Wij bepaalden de Qiblah, die gij volgdet slechts, opdat Wij hem, die de gezant van Allah volgt, onderscheiden van degene die hem de rug toekeert. En dit is inderdaad zeer moeilijk, behalve voor hen, die Allah heeft geleid. En Allah zal u uw geloof niet doen verliezen; voorzeker, Allah is Liefderijk en Genadevol jegens de mensen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

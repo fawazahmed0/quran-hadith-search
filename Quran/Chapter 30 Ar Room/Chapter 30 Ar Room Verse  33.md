@@ -986,7 +986,7 @@ En wanneer tegenspoed de mensen treft, dan roepen zij hun Heer aan, als berouwvo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als een ramp over de mensen komt roepen zij hun Heer aan, zich tot Hem bekerende; en als Hij hen van Zijn barmhartigheid heeft doen smaken, ziet! dan schrijft een gedeelte hunner aan hun Heer medegoden toe
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

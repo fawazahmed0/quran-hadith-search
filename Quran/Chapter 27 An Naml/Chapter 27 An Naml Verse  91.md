@@ -986,7 +986,7 @@ Waarlijk, mij is bevolen den Heer van dit grondgebied (van Mekka) te vereeren, d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Het is mij geboden alleen de Heer dezer stad die Hij heilig heeft verklaard te aanbidden, en aan Hem behoren alle dingen, en het is mij geboden tot de Moslims te behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

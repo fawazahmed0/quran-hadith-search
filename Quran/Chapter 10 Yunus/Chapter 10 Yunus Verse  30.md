@@ -986,7 +986,7 @@ Op die Dag zal iedere ziel worden beproefd met wat zij voorheen heeft gedaan en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarna zal iedere ziel ondervinden wat zij heeft gedaan. En zij zullen tot Allah, hun ware Meester worden teruggebracht en al hetgeen zij plachten te verzinnen zal verloren gaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

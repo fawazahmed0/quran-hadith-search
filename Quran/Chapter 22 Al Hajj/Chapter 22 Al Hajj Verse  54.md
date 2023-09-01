@@ -986,7 +986,7 @@ En zodat degenen die kennis gegeven is, zullen weten dat het de Waarheid van jou
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En opdat degenen aan wie kennis is gegeven mogen weten dat het (de verkondiging) de waarheid is van uw Heer, opdat zij er in mogen geloven en hun hart nederig voor Hem moge worden. Waarlijk Allah leidt degenen die geloven naar het rechte pad
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

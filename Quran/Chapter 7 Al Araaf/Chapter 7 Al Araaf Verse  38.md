@@ -986,7 +986,7 @@ Hij (Allah) zegt: "Treedt de gemeenschappen van de Djinn's en de mensen binnen d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zal zeggen: 'Gaat onder de volkeren van djinn en mensen die v��r u heengingen, het Vuur binnen.' Steeds wanneer een volk er binnengaat zal het zijn zustervolk vervloeken, totdat, wanneer zij er allen opeenvolgend in zijn aangekomen, de laatsten over de eersten hunner zullen zeggen: 'Onze Heer, dezen deden ons dwalen, geef hun daarom een dubbele straf van het Vuur.' Hij (Allah) zal zeggen: 'Er is voor iedereen het dubbele, maar gij weet het niet.´´
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

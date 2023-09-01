@@ -986,7 +986,7 @@ En het was dankzij de Barmhartigheid van Allah dat jij zacht met hen was en als 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Door de barmhartigheid van Allah zijt gij (de Profeet) zachtmoedig jegens hen (gelovigen); als gij ruw en hardvochtig waart geweest zouden zij zich zeker uit uw omgeving hebben verwijderd. Vergeef hen daarom en vraag voor hen vergiffenis en raadpleeg hen in belangrijke zaken en wanneer gij vastbesloten zijt, leg dan uw vertrouwen in Allah. Voorzeker, Allah heeft degenen lief die vertrouwen in Hem hebben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

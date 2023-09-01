@@ -986,7 +986,7 @@ Zeg: "O mensen, voorwaar, ik ben de Boodschapper van Allah voor jullie allen. (A
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'O mensdom, ik ben u allen tot een boodschapper van Allah, aan Wie het koninkrijk der hemelen en der aarde behoort. Er is geen God naast Hem. Hij geeft het leven en doet sterven. Gelooft daarom in Allah en Zijn boodschapper, de reine Profeet, die in Allah en Zijn woorden gelooft en volgt hem opdat gij recht geleid moogt worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

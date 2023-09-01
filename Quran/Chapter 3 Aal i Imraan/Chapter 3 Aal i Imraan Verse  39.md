@@ -986,7 +986,7 @@ Toen riepen de Engelen tot hem, toen hij in de gebedsruimte (Mihrâb) in gehed s
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de engelen riepen tot hem, terwijl hij in de kamer stond te bidden: 'Allah geeft u de blijde tijding over Johannes, die Allah´s woord zal vervullen - en hij zal edel, kuis en een profeet onder de rechtvaardigen zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

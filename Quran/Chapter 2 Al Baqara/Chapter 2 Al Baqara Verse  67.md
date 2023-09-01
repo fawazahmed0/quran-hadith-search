@@ -986,7 +986,7 @@ En (gedenkt) toen Môesa tot zijn volk zei: "Voorwaar, Allah beveelt jullie dat 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Mozes tot zijn volk zeide: 'Waarlijk, Allah gebiedt u, een koe te slachten', zeiden zij: 'Drijft gij de spot met ons?' Hij zeide: 'Ik zoek toevlucht bij Allah, om niet tot de onwetenden te behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

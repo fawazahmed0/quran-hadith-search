@@ -986,7 +986,7 @@ Als jij dan in twijfel verkeert over wat Wij aan jou hebben neergezonden, vraag 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als gij over hetgeen Wij tot u hebben nedergezonden twijfelt, vraagt dan degenen die het Boek v��r u hebben gelezen. Inderdaad, de waarheid is van uw Heer tot u gekomen; behoor daarom niet tot de twijfelaars
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

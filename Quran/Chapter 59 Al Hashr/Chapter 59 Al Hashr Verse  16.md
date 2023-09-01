@@ -986,7 +986,7 @@ Zoo hebben de huichelaars de Joden bedrogen; gelijk de duivel, toen hij tot een 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Evenals Satan, wanneer hij tegen de mens zegt: 'Verwerp (de waarheid)'; maar wanneer deze haar verwerpt zegt hij: 'Ik heb niets met u uitstaande, voorzeker, ik vrees Allah, de Heer der Werelden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Wanneer de vrouwen scheiding (aankondigen) en zij hebben hun termijn (de wachtti
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer gij van uw vrouwen scheidt en zij het einde van de haar voorgeschreven periode bereiken, behoudt haar dan op een behoorlijke manier, of zendt haar op een betamelijke manier weg, maar behoudt haar niet tot haar nadeel, waardoor gij de perken te buiten gaat. Wie zulks doet, doet gewis zijn eigen ziel onrecht. En drijft niet de spot met Allah´s geboden en gedenkt Allah´s gunst aan u en (gedenkt) het Boek en de wijsheid, die Hij u heeft nedergezonden, waarmede Hij u vermaant. En vreest Allah en weet, dat Allah de Kenner is van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

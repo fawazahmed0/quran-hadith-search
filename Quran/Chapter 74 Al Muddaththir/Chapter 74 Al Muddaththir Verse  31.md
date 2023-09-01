@@ -986,7 +986,7 @@ En Wij hebben geen anderen dan Engelen aangesteld als wachters van de Hel. En Wi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij hebben niets dan engelen tot wachters van het Vuur gemaakt. En Wij hebben hun getal niet vastgesteld, dan tot beproeving der ongelovigen, opdat wie het Boek is gegeven zekerheid mogen verkrijgen en dat de gelovigen in geloof mogen toenemen en opdat de mensen van het Boek en de gelovigen niet zullen twijfelen. En dat degenen in wier hart een ziekte is en degenen die ongelovig zijn, mogen zeggen: 'Wat bedoelt Allah met deze gelijkenis?' Zo laat Allah dwalen wie Hij wil en leidt wie Hij wil. Niemand kent de legerscharen van uw Heer dan Hij. Dit is niets dan een vermaning voor de mensheid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

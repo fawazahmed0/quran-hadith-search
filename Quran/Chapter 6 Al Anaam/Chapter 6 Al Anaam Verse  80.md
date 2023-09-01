@@ -986,7 +986,7 @@ En zijn volk redetwistte met hem, hij zei: "Redetwisten jullie met mij over Alla
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zijn volk redetwistte met hem. Hij zeide: 'Redetwist gij met mij omtrent Allah, terwijl Hij mij recht heeft geleid? En ik vrees hetgeen gij met Hem vereenzelvigt niet, tenzij mijn Heer iets wenst. Mijn Heer omvat alle dingen in Zijn kennis. Wilt gij er dan geen lering uit trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

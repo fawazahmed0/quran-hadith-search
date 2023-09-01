@@ -986,7 +986,7 @@ Wie de beloning van het Hiernamaals wenst, voor hem vermeerderen Wij zijn beloni
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wie de oogst van het Hiernamaals wenst, diens oogst doen Wij toenemen, doch wie naar de oogst der wereld verlangt ook hem geven Wij daarvan, maar hij zal in het Hiernamaals geen deel hebben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

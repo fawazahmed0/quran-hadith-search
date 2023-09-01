@@ -986,7 +986,7 @@ O mensen, gedenkt de gunst van Allah voor jullie. Is er een andere schepper dan 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O mensen, herinnert u de gunst van Allah jegens u. Is er een andere Schepper buiten Allah die u levensonderhoud geeft van de hemelen en de aarde? Er is geen God naast Hem. Waarheen wordt gij dan afgewend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

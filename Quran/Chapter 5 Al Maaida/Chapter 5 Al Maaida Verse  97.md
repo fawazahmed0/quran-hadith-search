@@ -986,7 +986,7 @@ Allah maakte de Ka'bah, het Gewijde Huis, als een plaats voor de mensen om te st
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah heeft de Kaaba, het onschendbare Huis tot behoud van de mensheid gemaakt, alsook de heilige maand en het offer, en de kamelen met de halsbanden. Dit is, opdat gij zult begrijpen, dat Allah weet, wat in de hemelen en wat op aarde is en dat Allah kennis heeft van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

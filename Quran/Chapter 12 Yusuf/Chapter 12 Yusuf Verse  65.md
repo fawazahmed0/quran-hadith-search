@@ -986,7 +986,7 @@ Toen zij hun proviandzak openmaakten, vonden zij hun ruilmiddelen, en zij zeiden
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen zij hun reisgoederen openden, vonden zij hun geld aan hen teruggegeven. Zij riepen uit: 'O, onze vader, wat kunnen wij meer wensen? Hier is ons geld aan ons teruggegeven. Wij zullen (nogmaals) koren voor onze familie halen en op onze broeder passen en wij zullen als toegift de maat van een kameellast ontvangen. Dat is een maat die gemakkelijk verkrijgbaar is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

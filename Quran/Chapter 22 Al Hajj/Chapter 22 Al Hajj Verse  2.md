@@ -986,7 +986,7 @@ Op die Dag zullen jullie het zien: ieder zogende vrouw zal haar zuigeling verona
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Dag waarop elke zogende vrouw haar zuigeling zal vergeten en elke zwangere vrouw zich zal ontdoen van haar dracht; en gij zult mensen bedwelmd zien, terwijl zij niet dronken zijn, doch de kastijding van uw Heer is gestreng
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

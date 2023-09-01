@@ -986,7 +986,7 @@ De verstoting is twee maal (mogelijk). Daarna is er (de keus tussen) terugname v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is de echtscheiding twee keer geschied, behoud haar dan op behoorlijke wijze of zend haar met vriendelijkheid weg. En het is u niet geoorloofd, iets te nemen van hetgeen gij haar hebt gegeven, tenzij beiden vrezen, Allah´s bepalingen niet in acht te kunnen nemen. Indien gij (familieleden) vreest, dat zij Allah´s bepalingen niet in acht kunnen nemen, dan zal er voor geen van hen beiden zonde zijn in hetgeen zij teruggeeft om daardoor vrij te worden. Dit zijn de door Allah voorgeschreven beperkingen, overschrijdt ze daarom niet; wie de door Allah voorgeschreven grenzen overschrijden, zijn overtreders
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

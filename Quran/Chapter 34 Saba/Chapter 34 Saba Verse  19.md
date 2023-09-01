@@ -986,7 +986,7 @@ En zij zeiden: "Onze Heer, maak onze reis lang." En zij deden zichzelf onrecht a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar zij zeiden: 'Onze Heer, maak langere afstanden tussen onze reizen.' En zij deden zich daarmee onrecht aan, daarom maakten Wij hen tot sagen en legenden, terwijl Wij hen volledig hadden verpletterd. Daarin zijn zeker tekenen voor een ieder die geduldig en dankbaar is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

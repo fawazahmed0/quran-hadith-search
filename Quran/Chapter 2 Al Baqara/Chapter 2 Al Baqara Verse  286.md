@@ -986,7 +986,7 @@ Allah belast niemand dan volgens zijn vermogen. Voor hem is hetgeen (de beloning
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah belast geen ziel boven haar vermogen. Voor haar is wat zij verdient en tegen haar is ook wat zij verdient. 'Onze Heer, straf ons niet als wij vergeten of een fout hebben begaan, Heer, en belast ons niet, zoals Gij degenen, die v��r ons waren hebt belast; onze Heer belast ons niet met datgene, waarvoor wij de kracht niet hebben (het te dragen), wis onze fouten uit en schenk ons vergiffenis en wees ons barmhartig; Gij zijt onze Meester, help ons daarom tegen het ongelovige volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

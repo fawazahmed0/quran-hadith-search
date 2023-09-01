@@ -986,7 +986,7 @@ Vreest daarom Allah volgens jullie vermogen; en luistert en gehoorzaamt; en geef
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Weest godvruchtig naar vermogen, luistert, gehoorzaamt en geeft weg, dat is beter voor u. En degenen die voor eigen vrekkigheid zijn behoed zullen slagen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

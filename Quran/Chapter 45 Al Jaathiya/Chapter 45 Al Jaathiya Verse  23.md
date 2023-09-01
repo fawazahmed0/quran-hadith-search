@@ -986,7 +986,7 @@ Heb jij degene gezien die zijn begeerten tot god heeft genomen, en die door Alla
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij hem gezien, die zijn eigen begeerte tot zijn God maakt, en die Allah liet dwalen, ondanks zijn kennis, en wiens oren en wiens hart Hij heeft verzegeld en op wiens ogen Hij een sluier heeft gelegd? Wie zal hem buiten Allah kunnen leiden? Wilt gij dan geen lering hieruit trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

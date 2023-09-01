@@ -986,7 +986,7 @@ En hij bouwde het schip en telkens wanneer de vooraanstaanden van zijn volk voor
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hij was de ark aan het bouwen en steeds wanneer de leiders van zijn volk hem voorbijgingen, bespotten zij hem. Hij zeide: 'Als gij ons bespot, zullen wij u (later) bespotten zoals gij (ons) nu doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

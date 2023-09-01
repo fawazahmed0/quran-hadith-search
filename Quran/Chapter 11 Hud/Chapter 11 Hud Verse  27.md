@@ -986,7 +986,7 @@ En de vooraanstaanden van zijn volk, die ongelovig waren, zeiden: "Wij zien dat 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De leiders der ongelovigen onder zijn volk antwoordden: 'Wij zien in u slechts een man zoals wij en wij zien dat niemand u heeft gevolgd, behalve de minsten en de eenvoudigen van geest onder ons. En wij zien u niet uitmunten boven ons; neen, wij geloven dat gij een leugenaar zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En zij (de ongelovigen) zeggen: "Waarom hebben zij geen Engel tot hem (Moehammad
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeggen: 'Waarom is er geen engel tot hem (de Profeet) nedergezonden?' En indien Wij een engel zenden dan wordt de zaak afgedaan en er wordt hun geen uitstel gegeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

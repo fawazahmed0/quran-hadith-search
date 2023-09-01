@@ -986,7 +986,7 @@ En hoeveel steden hebben Wij niet vernietigd die overdreven met hun genietingen?
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hoeveel steden hebben Wij niet vernietigd die trots waren op hun middelen van bestaan! En ginds waren hun woonplaatsen die tot op enkele na niet meer bewoond zijn geworden. En Wij zijn het Die de erfgenamen werden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

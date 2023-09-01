@@ -986,7 +986,7 @@ Mijn Heer, vergeef mij en mijn ouders en wie mijn huis binnentreedt als gelovige
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mijn Heer, vergeef mij, en mijn ouders, en hem die gelovend mijn huis binnentreedt, ook de gelovige mannen en vrouwen; en doe de onrechtvaardigen slechts in verderf toenemen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

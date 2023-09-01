@@ -986,7 +986,7 @@ Hij (Nôeh) zei: "O mijn Heer, voorwaar, ik zoek mijin toevlucht bij U tegen dat
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zeide: 'Mijn Heer, ik zoek mijn toevlucht tot U om niet te vragen waar ik geen kennis van heb. En indien Gij mij niet vergeeft noch mij barmhartigheid betoont, zal ik onder de verliezers zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

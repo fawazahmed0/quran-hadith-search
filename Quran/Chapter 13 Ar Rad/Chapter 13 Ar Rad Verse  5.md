@@ -986,7 +986,7 @@ En als jij je verbaast, nog verbazender zijn dan hun woorden: "Wanneer wij tot a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien gij u verwondert, dan is hun zeggen verwonderlijker: 'Wanneer wij stof zijn geworden, zullen wij dan opnieuw worden geschapen?' Deze zijn het, die hun Heer hebben verworpen, daarom zullen zij ketenen om hun hals hebben en de bewoners van het Vuur zijn; daarin zullen zij vertoeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

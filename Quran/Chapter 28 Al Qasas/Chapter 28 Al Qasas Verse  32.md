@@ -986,7 +986,7 @@ Stop jouw hand onder jouw kraag, en hij zal wit schijnen, zonder ziek te zijn. E
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Steek uw hand in uw boezem; zij zal zonder ziekte wit te voorschijn komen - en wees niet bang voor gevaar - dit zijn twee tekenen van uw Heer aan Pharao en zijn leiders. Waarlijk, zij zijn een opstandig volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

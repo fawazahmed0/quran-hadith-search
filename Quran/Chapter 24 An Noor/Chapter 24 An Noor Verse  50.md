@@ -986,7 +986,7 @@ Is er een ziekte in hun harten, of twijfelen zij, of vrezen zij dat Allah en Zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is er een ziekte in hun hart? Of twijfelen zij, of vrezen zij dat Allah en Zijn boodschapper onrechtvaardig jegens hen zullen zijn? Neen, zij zijn zelf de onrechtvaardigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

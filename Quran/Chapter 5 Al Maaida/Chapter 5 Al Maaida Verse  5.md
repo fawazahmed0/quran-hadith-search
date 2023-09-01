@@ -986,7 +986,7 @@ Op deze dag zijn alle goede (zaken) voor jullie toegestaan gemaakt, en het voeds
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alle goede dingen zijn u deze dag geoorloofd. Het voedsel der mensen van het Boek is u geoorloofd en uw voedsel is hun toegestaan. En geoorloofd zijn voor u kuise, gelovige vrouwen en kuise vrouwen uit het midden dergenen, wie het Boek was gegeven v��r u, wanneer gij haar haar huwelijksgift geeft, een geldig huwelijk aangaande en geen ontucht plegende, noch heimelijk minnaressen nemende. En wie het geloof verwerpt, diens werk is waarlijk tevergeefs en hij zal in het Hiernamaals onder de verliezers zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

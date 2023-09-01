@@ -986,7 +986,7 @@ Wat jullie van eigendommen van de mensen gegevon hebben als rente om te vermeerd
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wat gij ook uitleent met rente opdat het moge toenemen door hetgeen andere (mensen) bezitten; het neemt niet toe bij Allah; maar wat gij in Zakaat geeft, Allah´s welbehagen zoekend, dezen zullen hun bezit vermeerderd zien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ De strijd is jullie verplicht, terwijl jullie er een afkeer van hebben. Maar het
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Vechten is u geboden ofschoon gij er afkerig van zijt; maar het kan zijn, dat gij tegenzin hebt in iets terwijl het goed voor u is en het kan zijn, dat u iets behaagt terwijl het slecht voor u is. Allah weet het en gij weet het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

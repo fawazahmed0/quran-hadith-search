@@ -986,7 +986,7 @@ Is hij (niet beter) die op een duidelijk bewijs van zijn Heer steunt en die een 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Is hij dan (aan hen gelijk), die een duidelijk bewijs van zijn Heer bezit en wie een groot getuige van Hem volgt, en die voorafgegaan is door het Boek van Mozes, als richtsnoer en tot barmhartigheid? Dezen geloven in hem. En wie van de volkeren hem verwerpt, het Vuur zal zijn bestemming zijn. Koester dus geen twijfel daaromtrent. Voorzeker dit is de waarheid van uw Heer, maar de meeste mensen willen niet geloven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

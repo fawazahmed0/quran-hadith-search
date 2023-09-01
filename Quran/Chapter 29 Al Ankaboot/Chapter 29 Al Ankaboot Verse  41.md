@@ -986,7 +986,7 @@ De gelijkenis met degenen die helpers naast Allah nemen, is als die met een spin
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De gelijkenis van hen, die helpers verkiezen naast Allah, is als de gelijkenis van de spin die zich een huis maakt: en het zwakste der huizen is zeker het huis van de spin, als zij het slechts wisten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En toen hij het water van Madyan bereikte, vond hij daar een groep mensen die hu
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen hij bij de bron van Midian aankwam, vond hij daar een groep mannen die hun vee drenkten. En hij vond naast hen twee vrouwen die (haar kudden) terughielden. Mozes zeide tot haar: 'Wat scheelt u?' Zij antwoordden: 'Wij kunnen niet drenken, totdat de herders hun kudden terugnemen want onze vader is een zeer oude man
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij (de Engelen) zeiden: "O Lôeth, voorwaar, wij zijn de gezanten van jouw Heer
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij (de boodschappers) zeiden: 'O Lot, Wij zijn de boodschappers van uw Heer, zij zullen u stellig niet bereiken. Vertrek met uw familie gedurende de nacht, laat niemand uwer omkijken dan uw vrouw. Zeker zal haar overkomen wat hun gaat overkomen. Voorwaar, de vastgestelde tijd is de ochtendstond. Is de morgen niet nabij
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

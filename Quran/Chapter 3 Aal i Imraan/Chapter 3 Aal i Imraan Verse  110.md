@@ -986,7 +986,7 @@ Jullie zijn de beste gemeenschap die uit de mensen is voortgebracht, (zolang) ju
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij (Moslims) zijt het beste volk dat voor de mensheid (ter lering) is verwekt; gij gebiedt wat goed is, verbiedt wat kwaad is en gelooft in Allah. En, indien de mensen van het Boek hadden geloofd, zou het zeker beter voor hen zijn geweest. Sommigen hunner zijn gelovigen, maar de meesten hunner zijn overtreders
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

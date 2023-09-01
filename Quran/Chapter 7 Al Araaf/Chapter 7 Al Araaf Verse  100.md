@@ -986,7 +986,7 @@ Is het degenen die de aarde beërven na (de ondergang van) haar bewoners niet du
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Doet het degenen, die de aarde beerven na haar (vroegere) bewoners niet inzien, dat, indien Wij het willen, Wij hen om hun zonden treffen en hun hart verzegelen, zodat zij niet meer horen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

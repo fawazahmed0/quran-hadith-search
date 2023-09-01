@@ -986,7 +986,7 @@ En (Hij maakte) onder het vee rijdieren en slachtdiejren. Eet van dat waar Allah
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Hij schiep onder het vee lastvee en slachtvee. Eet van hetgeen Allah u heeft voorzien en volgt de voetstappen van Satan niet. Voorzeker, hij is een openlijke vijand voor u
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

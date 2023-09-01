@@ -986,7 +986,7 @@ Op de Dag waarop Allah hen allen zal doen opstaan, zullen zij voor Hem zweren zo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Dag waarop Allah hen allen zal opwekken, zullen zij tot Hem zweren zoals zij dit tot u deden en zij zullen denken dat zij iets bereiken. Ziet toe, zij zijn zeker leugenaars
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

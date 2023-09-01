@@ -986,7 +986,7 @@ En zo hebben Wij voor iedere Profeet een vijand gemaakt; Satans van onder de men
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Op dezelfde wijze hebben Wij een vijand voor elke profeet gemaakt, bozen van onder de mensen en de djinn. Zij fluisteren elkander vergulde woorden in om te bedriegen - en als uw Heer had gewild, zouden zij het niet hebben gedaan; laat hen daarom met rust met hetgeen zij verzinnen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

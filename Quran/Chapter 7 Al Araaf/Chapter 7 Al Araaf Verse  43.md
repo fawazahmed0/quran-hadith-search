@@ -986,7 +986,7 @@ En Wij nemen uit hun harten weg wat er aan wrok is, onder (het Paradijs) door st
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Welke wrok er ook in hun hart moge zijn, wij zullen deze van hen verwijderen. Er zullen rivieren voor hen vloeien. En zij zullen zeggen: 'Alle lof komt Allah toe, Die ons hiertoe heeft geleid. En als Allah ons niet had terechtgewezen, hadden wij geen leiding kunnen vinden. De boodschappers van onze Heer brachten inderdaad de waarheid.' En er zal hen worden toegeroepen: 'Dit is het paradijs, dat u als erfdeel is gegeven, voor hetgeen gij deedt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

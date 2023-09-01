@@ -986,7 +986,7 @@ De achterblijvers (in de tijd van de Slag bij Tahôek) verheugden zich er over d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij die achter de boodschapper van Allah bleven verheugden zich over hun thuiszitten en waren er afkerig van met hun eigendommen en hun persoon voor de zaak van Allah te strijden. En zij zeiden: 'Trekt niet uit in de hitte.' Zeg: 'Het Vuur der hel is heter.' Konden zij dit slechts begrijpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

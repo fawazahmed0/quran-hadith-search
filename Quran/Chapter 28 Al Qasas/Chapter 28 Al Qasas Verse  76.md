@@ -986,7 +986,7 @@ Voorwaar, Qârôen behoorde tot het volk van Môesa, maar Hij bedroog hen. En Wi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Korach behoorde voorwaar tot het volk van Mozes, maar hij gedroeg zich aanmatigend tegenover hen. En Wij hadden hem zoveel schatten gegeven dat zijn sleutels zeker een last waren geweest voor een groep sterke mannen. Toen zijn volk tot hem zeide: 'Poch niet, want Allah houdt niet van degenen die pochen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

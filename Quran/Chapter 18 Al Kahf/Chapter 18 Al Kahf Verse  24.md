@@ -986,7 +986,7 @@ Tenzij gij er bijvoegt: Indien het Gode behaagt. En herdenk uwen Heer als gij di
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zonder (er bij te zeggen): 'Indien het Allah behaagt.' En wanneer gij het vergeet, gedenk dan uw Heer en zeg: 'Ik hoop, dat mijn Heer mij nog dichter dan thans naar de rechte weg zal leiden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

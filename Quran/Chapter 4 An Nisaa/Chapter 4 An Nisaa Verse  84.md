@@ -986,7 +986,7 @@ Strijd dan (O Moehammad) op de Weg van Allah, jij wordt slechts voor jezelf aans
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Strijd daarom voor de zaak van Allah - slechts gij wordt verantwoordelijk gesteld - en spoor de gelovigen aan. Het kan zijn, dat Allah de macht der ongelovigen zal beteugelen en Allah is sterker in macht en streng in het opleggen van straf
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

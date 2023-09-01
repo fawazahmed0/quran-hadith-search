@@ -986,7 +986,7 @@ Hebben zij deelgenoten die hun in de godsdienst dat voorschrijven waartoe Allah 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij (afgodendienaren) dan medegoden, die hun een godsdienst hebben voorgeschreven welke Allah verboden heeft? Ware Ons gebod voor het laatste gericht niet uitgevaardigd,dan zou de zaak onder hen geoordeeld zijn geweest. Want de onrechtvaardigen zullen zeker een pijnlijke straf ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

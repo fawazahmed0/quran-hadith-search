@@ -986,7 +986,7 @@ Hij (Allah) zei: "Wij zallen jou versterken met jouw broeder en Wij zullen julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 God zeide: 'Wij zullen uw arm door uw broeder versterken en Wij zullen u beiden macht geven zodat zij u niet zullen kunnen bereiken. Door Onze tekenen zult gij beiden en zij die u volgen overwinnaars worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

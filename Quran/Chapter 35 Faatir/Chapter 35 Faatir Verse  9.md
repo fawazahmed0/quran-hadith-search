@@ -986,7 +986,7 @@ En Allah is het Degene Die de winden heeft gezonden opdat deze wolken voortdrijv
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En het is Allah Die de winden zendt zodat zij wolken doen opstijgen, dan drijven Wij deze (de wolken) naar een verdord land en geven leven aan de aarde na haar dood. Zo is de Opstanding
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

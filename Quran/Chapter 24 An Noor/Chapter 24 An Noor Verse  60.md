@@ -986,7 +986,7 @@ En de oudere vrouwen die niet meer hopen te trouwen, voor hen is het geen overtr
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bejaarde vrouwen die geen hoop op het huwelijk koesteren - op haar rust geen schuld als zij zonder haar schoonheid te tonen, zich van kledingstukken ontdoen. Maar als zij zich inhouden is dit beter voor haar. Allah is Alhorend, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

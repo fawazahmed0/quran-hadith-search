@@ -986,7 +986,7 @@ En zij zeiden: "O tovenaar, roep voor ons jouw Heer aan op grond van wat Hij jou
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zeiden (tot Mozes): 'O, gij tovenaar, bid voor ons tot uw Heer overeenkomstig het verdrag dat Hij met u heeft gesloten, wij zullen zeker de leiding volgen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zeg (O Moehammad): "De Heilige Geest (Djibrll) van jouw Heer deed hem met de Waa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'De Geest van heiligheid heeft het van uw Heer met waarheid nedergebracht, opdat Hij degenen die geloven, moge versterken en als leiding en blijde tijding voor hen die zich onderwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Ik zal degenen die zich onterecht hoogmoedig op aarde gedragen van Mijn Tekeeien
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ik zal voorzeker degenen, die ten onrechte trots handelen op aarde weldra van Mijn tekenen afkeren; en hoewel zij alle tekenen zien, zullen zij er niet in geloven, en als zij het pad der rechtvaardigheid zien zullen zij dit als weg niet aanvaarden, maar indien zij het pad der dwaling zien, zullen zij deze als weg wel inslaan. Dat komt, omdat zij Onze tekenen verloochenden en er onachtzaam op waren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

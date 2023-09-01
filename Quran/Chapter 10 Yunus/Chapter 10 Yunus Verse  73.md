@@ -986,7 +986,7 @@ Toen loochenden zij hem (Noeh) waarop Wij hem redden en degenen die met hem in h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar zij verloochenden hem; daarom redden Wij hem en degenen die met hem in de ark waren. En dezen maakten Wij tot de stedehouders, terwijl Wij degenen die Onze tekenen verloochenden lieten verdrinken. Zie! hoe het einde was van degenen, die werden gewaarschuwd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

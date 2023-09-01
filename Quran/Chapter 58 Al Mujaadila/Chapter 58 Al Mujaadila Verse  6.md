@@ -986,7 +986,7 @@ Op een zekeren dag zal God hen allen ten leven opwekken, en hij zal hun verklare
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De Dag, waarop Allah hen allen tezamen zal opwekken, zal Hij hun over alles wat zij deden, inlichten. Allah heeft het opgetekend, terwijl zij het vergeten zijn. En Allah is Getuige van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

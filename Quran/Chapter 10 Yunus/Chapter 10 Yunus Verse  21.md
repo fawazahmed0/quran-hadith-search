@@ -986,7 +986,7 @@ En als Wij de mensen Barmhartigheid deden proeven nadat tegenspoed hen had getro
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer Wij mensen barmhartigheid doen smaken nadat tegenspoed hen overviel, zie! zij beginnen tegen Onze tekenen plannen te smeden. Zeg: 'Allah is vlugger in het maken van plannen.' Voorzeker Onze boodschappers schrijven al hetgeen gij verzint op
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

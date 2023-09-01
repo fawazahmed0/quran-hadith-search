@@ -986,7 +986,7 @@ Laat daarom hen bezittingen en hun kinderen geen (goede) indruk op jou maken. Al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Laat daarom hun rijkdommen noch hun kinderen uw verwondering opwekken. Allah wenst hen er slechts mede te straffen en hun ziel zal heengaan, terwijl zij ongelovigen Zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

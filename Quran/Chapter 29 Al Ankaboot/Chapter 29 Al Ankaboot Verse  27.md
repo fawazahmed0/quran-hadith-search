@@ -986,7 +986,7 @@ En Wij schonken hem Ishâq en Ya'qôeb. En Wij hebben ender zijn nakomelingen he
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij gaven hem Izaak en Jacob, en Wij plaatsten het profetenambt en het Boek onder zijn nageslacht, en Wij gaven hem zijn beloning in dit leven en in het Hiernamaals zal hij zeker tot de rechtvaardigen behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorwaar, wat jullie naast Allah aanbidden zijn slechts afgoden, en jullie verzi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij aanbidt naast Allah slechts afgoden en gij verzint leugens. Zij die gij naast Allah aanbidt hebben geen macht over uw onderhoud. Zoekt daarom levensonderhoud van Allah en aanbidt Hem en weest Hem dankbaar want tot Hem zult gij worden teruggebracht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

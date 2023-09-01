@@ -986,7 +986,7 @@ En laat degenen die gierig zijn (en achterhouden van) wat Allah hun gegeven heef
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En laat degenen, die gierig zijn, ten opzichte van wat Allah hun van Zijn overvloed heeft gegeven, niet denken, dat het goed voor hen is, neen, het is slecht voor hen. Hetgene, waarmee zij gierig zijn zal op de Dag der Opstanding als een halsband om hun nek worden gelegd. En aan Allah behoort het erfdeel der hemelen en der aarde en Allah is goed op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

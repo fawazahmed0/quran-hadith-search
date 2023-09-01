@@ -986,7 +986,7 @@ En wij gaven jullie schaduw door middel van de wolk en Wij deden Manna en kwarte
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij deden de wolken een schaduw over u zign en zonden u manna en kwartels, (zeggende): 'Eet van de goede dingen, waarmede Wij u hebben voorzien.' Zij schaadden Ons niet, maar zij plachten hun eigen ziel te schaden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

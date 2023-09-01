@@ -986,7 +986,7 @@ Slecht is het, waarvoor zij hun zielen verkocht hebben; dat zij niet geloven in 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kwaad is datgene, waarvoor zij hun ziel hebben verkocht; daar zij verwerpen, hetgeen Allah heeft geopenbaard, er afkerig van zijnde, dat Allah Zijn genade doet dalen over diegenen Zijner dienaren, die Hij wil. Daardoor brachten zij toorn op toorn over zich en er is een vernederende kastijding voor de ongelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

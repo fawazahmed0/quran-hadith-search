@@ -986,7 +986,7 @@ En de Joden zeiden: "De Hand van Allah is gebonden (gierig)." Hun handen zijn ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de Joden zeggen: 'De hand van Allah is gebonden.' Hun handen zijn gebonden en zij zijn vervloekt voor hetgeen zij zeggen. Neen, Zijn handen zijn wijd open, Hij geeft, zoals Hij wil. En hetgeen u van uw Heer is nedergezonden zal velen hunner in opstandigheid en ongeloof doen toenemen. En Wij hebben vijandschap en haat onder hen gezaaid tot aan de Dag der Opstanding. Telkens wanneer zij het oorlogsvuur ontsteken, dooft Allah het en zij pogen wanorde te scheppen op aarde en Allah heeft de onruststokers niet lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

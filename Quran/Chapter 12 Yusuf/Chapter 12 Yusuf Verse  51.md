@@ -986,7 +986,7 @@ Hij (de koning) zei (tot de vrouwen): "Wat was er met jullie toen jullie probeer
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij, (de koning) zeide tot de vrouwen: 'Wat was het geval met u toen gij Jozef tegen zijn wil zocht te verleiden?' Zij zeiden: 'Allah zij verheerlijkt. Wij hebben geen kwaad van hem geweten.' De vrouw van de Aziez zeide: 'Nu is de waarheid aan het licht gekomen. Ik was het die hem tegen zijn wil zocht te verleiden en hij behoort zeker tot de waarachtigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

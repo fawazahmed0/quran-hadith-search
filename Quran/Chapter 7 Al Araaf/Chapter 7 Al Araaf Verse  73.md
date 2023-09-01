@@ -986,7 +986,7 @@ En tot de Tsamôed (zonden Wij) hun broeder Shâlih. Hij zei: "O mijn volk, aanb
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Naar de Samoed (kwam) hun broeder Salih. Hij zeide: 'O mijn volk, aanbidt Allah; gij hebt geen andere god naast Hem. Voorwaar er is een duidelijk bewijs van uw Heer tot u gekomen; deze kamelin is van Allah, een teken voor u. Laat haar daarom met rust opdat zij zich van Allah´s aarde moge voeden en doet haar geen leed, anders zal een pijnlijke straf u bereiken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

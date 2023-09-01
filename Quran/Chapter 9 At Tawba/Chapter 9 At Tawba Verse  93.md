@@ -986,7 +986,7 @@ Voorwaar, slechts tegen degenen die jou om vrijstelling vragen terwijl zij rijk 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De aanleiding tot verwijt is alleen tegen degenen die u om verlof vragen, terwijl zij rijk zijn. Zij verkozen om met de achterblijvenden te zijn. En Allah heeft op hun hart een zegel gelegd, derhalve begrijpen zij niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

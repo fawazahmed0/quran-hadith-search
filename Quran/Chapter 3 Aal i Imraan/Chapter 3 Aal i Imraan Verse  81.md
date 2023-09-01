@@ -986,7 +986,7 @@ En (gedenkt) toen Allah een overeenkomst aanging met de Profeten (en zei): "Wat 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Allah met de profeten een verbond sloot, zeide Hij: 'Voorwaar, Ik heb u het Boek en de Wijsheid geschonken en daarna zal een boodschapper tot u komen, vervullend hetgeen bij u is, in hem zult gij geloven en hem zult gij helpen.' En Hij zeide: 'Hebt gij bekrachtigd en daarmede Mijn verbond aanvaard?' Zij antwoordden: 'Wij bekrachtigen het.' Hij zeide: 'Getuigt dan en Ik ben met u onder de getuigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

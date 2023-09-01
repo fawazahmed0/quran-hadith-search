@@ -986,7 +986,7 @@ O mens, vreest jullie Heer die jullie schiep uit één enkele ziel (en die) daar
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij mensen, vreest uw Heer, Die u van ��n enkele ziel schiep en daaruit haar gezellin schiep en uit hen beiden mannen en vrouwen verspreidde en vreest Allah in Wiens naam gij een beroep op elkander doet en (weest plichtsgetrouw) betreffende de familiebanden. Voorwaar, Allah is Bewaker over u
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

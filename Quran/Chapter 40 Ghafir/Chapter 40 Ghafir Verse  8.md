@@ -986,7 +986,7 @@ Onze Heer, doe hen en wie rechtschapen waren van hun vaderen en hun echtgenotes 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Onze Heer, en doe hen de tuinen der Eeuwigheid ingaan, die Gij hun hebt beloofd, alsook de deugdzamen onder hun ouders, hun echtgenoten en hun kinderen. Zeker, Gij zijt de Almachtige, de Alwijze
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Is het dan inderdaad niet zo dat jullie de mensen benaderen en op de weg struikr
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nadert gij mannen met wellust en rooft gij op de weg, en begaat gij zelfs gruweldaden in uw bijeenkomsten?' Maar het antwoord van zijn volk was niet anders dan dat zij zeiden: 'Breng de straf van Allah over ons als gij de waarheid spreekt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

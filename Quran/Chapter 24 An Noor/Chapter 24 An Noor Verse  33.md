@@ -986,7 +986,7 @@ En laat degenen die geen (mogelijkheid) vinden tot het huwelijk kuis blijven, to
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En laat degenen, die geen mogelijkheid tot trouwen vinden, zich kuis houden totdat Allah hen uit Zijn overvloed verrijkt. En de slaven die een acte van vrijmaking wensen, voorziet hen daarvan indien gij enig goed in hen ziet; en geeft hun van de rijkdommen van Allah, die Hij u heeft geschonken. En dwingt uw slavinnen, terwijl zij kuis wensen te zijn, niet tot ontucht om de goederen van het tegenwoordige leven te zoeken. Maar indien iemand haar dwingt, dan zal Allah na die dwang (voor haar) Vergevensgezind, Barmhartig zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

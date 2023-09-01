@@ -986,7 +986,7 @@ Voorzeker, Allah heeft het berouw van de Profeet aanvaard en van de Uitgewekenen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah heeft zich voorzeker met barmhartigheid tot de profeet gewend en tot de Migranten en de Hulpgevers, die deze (profeet) in het uur van nood volgden, nadat het hart van een gedeelte hunner bijna was bezweken. Toen vergaf Hij hen. Voorzeker, Hij is Liefderijk, Genadevol jegens hen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

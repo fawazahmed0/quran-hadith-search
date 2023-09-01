@@ -986,7 +986,7 @@ Zeg: "Mijn Heer heeft rechtvaardigheid bevolen." En: "Richt jullie aangezicht (t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Mijn Heer heeft rechtvaardigheid bevolen. En dat gij uw aandacht behoorlijk richt, ter gelegenheid van aanbidding en Hem aanroept in zuivere gehoorzaamheid aan Hem. Zoals Hij u deed ontstaan, zo zult gij wederkeren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

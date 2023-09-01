@@ -986,7 +986,7 @@ En hun Profeet zei tot hen: "Voorwaar, een teken van zijn koningschap is dat de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hun profeet zeide tot hen: 'Het teken van zijn heerschappij is, dat u een hart zal worden gegeven, waarin de kalmte van uw Heer zal zijn, het beste van de nalatenschap der volgelingen van Mozes en der volgelingen van A�ron, (een hart) door de engelen gebracht. Voorzeker, hierin is voor u een teken, als gij gelovigen zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

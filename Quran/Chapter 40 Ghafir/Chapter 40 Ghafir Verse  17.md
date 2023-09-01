@@ -986,7 +986,7 @@ Op die Dag zal iedere ziel vergolden worden voor wat zij heeft verricht. Op die 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Op deze Dag zal elke ziel worden beloond voor hetgeen zij heeft verdiend. Geen onrecht zal geschieden op deze Dag. Voorzeker, Allah is snel in het beoordelen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

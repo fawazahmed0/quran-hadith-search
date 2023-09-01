@@ -986,7 +986,7 @@ En als zij met jou redetwisten, zeg dan: "Ik heb mijn aangezicht overgegeven aan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zeg wanneer zij met u redetwisten: 'Ik, en degenen die mij volgen hebben zich aan Allah onderworpen.' En zeg tot degenen aan wie het Boek is gegeven en tot de onwetenden: 'Hebt gij u onderworpen?' Als zij zich onderwerpen, dan zijn zij op de rechte weg, maar indien zij zich afwenden, dan is uw plicht slechts de duidelijke verkondiging ervan; en Allah ziet zijn dienaren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

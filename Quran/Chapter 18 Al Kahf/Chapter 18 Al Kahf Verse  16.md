@@ -986,7 +986,7 @@ En als jullie je van ben (de ongelovigen) afwenden en van wat zij aanbidden, beh
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer gij u van hen en van hetgeen zij nevens Allah aanbidden verwijdert, neemt dan uw toevlucht tot de Spelonk en uw Heer zal Zijn barmhartigheid jegens u vermeerderen en uw aangelegenheden gunstig doen verlopen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

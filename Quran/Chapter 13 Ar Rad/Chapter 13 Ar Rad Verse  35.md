@@ -986,7 +986,7 @@ De beschrijving van het Paradijs dat aan de Moettaqôen beloofd is: er stromen r
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het beeld van de Hemel die de godvrezenden is beloofd, is, dat er stromen in vloeien, en dat zijn fruit en schaduw eeuwigdurend zijn. Dit is het loon van de rechtvaardig en maar het loon van de ongelovigen is het Vuur
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

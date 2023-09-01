@@ -986,7 +986,7 @@ En weest niet zoals degenen die hun huizen verlieten, trots en vol ijdel vertoon
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En weest niet zoals degenen die pochend uit hun huizen kwamen om door de mensen te worden gezien en om anderen van het pad van Allah af te leiden; en Allah omvat al hetgeen zij doen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

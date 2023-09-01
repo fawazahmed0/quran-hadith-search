@@ -986,7 +986,7 @@ o Lieden van de Schrift, overdrijft niet in jullie godsdienst en zeg niets over 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, mensen van het Boek, overdrijft in uw godsdienst niet en zegt van Allah niets dan de waarheid. Voorwaar, de Messias, Jezus, zoon van Maria was slechts een boodschapper van Allah en Zijn woord tot Maria gegeven als barmhartigheid van Hem. Gelooft dus in Allah en Zijn boodschappers en zegt niet: 'Drie (in ��n).' Houdt op, dat is beter voor u. Voorwaar, Allah is de enige God. Het is verre van Zijn heiligheid, dat Hij een zoon zou hebben. Aan Hem behoort wat in de hemelen en op aarde is en Allah is als Bewaarder afdoende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Als God zal zeggen: o Jezus! zoon van Maria: gedenk mijne gunst omtrent u en omt
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer Allah zal zeggen: 'O Jezus, zoon van Maria, gedenk Mijn gunst aan u en uw moeder, toen Ik u met de geest van heiligheid versterkte, dat gij als kind en op middelbare leeftijd tot het volk spraakt en toen Ik u het Boek en de wijsheid en de Torah en het Evangelie onderwees en toen gij door Mijn gebod uit klei de vorm van een vogel maakte, dan er in blies en het een vogel werd door Mijn gebod; en toen gij de blinden en de melaatsen door Mijn gebod hebt genezen en de doden opgewekt; en toen Ik de kinderen Isra�ls er van weerhield, (u te doden), toen gij met duidelijke tekenen tot hen kwaamt en degenen onder hen die verwierpen, zeiden: 'Dit is niets, dan klaarblijkelijke tovenarij
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

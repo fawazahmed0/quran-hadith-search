@@ -986,7 +986,7 @@ En jullie zullen nooit in staat zijn rechtvaardig te zijn voor de vrouwen, hoeze
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij kunt geen volkomen gelijkheid tussen vrouwen handhaven, hoe gaarne gij het ook zoudt wensen. Maar neigt niet geheel tot ��n, zodat gij de andere in onzekerheid laat. En als gij u betert en vroom zijt, dan is Allah voorzeker Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

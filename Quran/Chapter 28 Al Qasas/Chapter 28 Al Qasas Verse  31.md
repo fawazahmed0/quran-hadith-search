@@ -986,7 +986,7 @@ En werp jouw staf neer!" Toen hij deze zag, bewoog die alsof zij een slang was, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Werp uw staf neder.' En toen hij hem zag bewegen als een slang, vluchtte hij en keerde niet om. 'O Mozes, kom en vrees niet, want gij behoort tot hen die veilig zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

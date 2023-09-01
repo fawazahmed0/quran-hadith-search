@@ -986,7 +986,7 @@ Voorwaar, aan Allah behoort de heerschappij van de hemelen en de aarde, Hij doet
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gewis, Allah is het, aan Wie het koninkrijk der hemelen en der aarde behoort. Hij schenkt het leven en veroorzaakt de dood. En gij hebt geen vriend of helper naast Allah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

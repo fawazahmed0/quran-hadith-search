@@ -986,7 +986,7 @@ Hij (Fir'aun) zei: "Geloven jullie hem voordat ik jullie toestemming geef? Voorw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Pharao zeide tot hen: 'Gelooft gij in hem voordat ik u toestemming geef? Hij is zeker uw leider die u tovenarij heeft onderwezen. Maar gij zult het weldra te weten komen. Ik zal zeker uw handen en uw voeten van links en rechts afhakken, en u allen doen kruisigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

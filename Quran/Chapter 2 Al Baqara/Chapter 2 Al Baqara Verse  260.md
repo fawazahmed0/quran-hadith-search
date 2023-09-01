@@ -986,7 +986,7 @@ En toen Ibrâhîm zei: "Mijn Heer, toon mij hoe U de doden doet leven." Hij (All
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Abraham zeide: 'Mijn Heer, toon mij, hoe Gij de doden tot leven opwekt.' Hij zeide: 'Gelooft gij dan niet?' Hij zeide: 'Ja, maar opdat mijn hart rustig zij.' Hij antwoordde: 'Neem vier vogels en maak ze aan u gehecht. Zet dan ieder hunner op een heuvel; roep hen dan; ze zullen haastig tot u komen. En weet, dat Allah Almachtig, Alwijs is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

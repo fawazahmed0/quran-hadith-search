@@ -986,7 +986,7 @@ Daarna deden Wij degenen die Wij verkozen van Onze dienaren het Boek erven. En o
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan gaven Wij het Boek als erfdeel aan diegenen Onzer dienaren die Wij uitkozen. En onder hen zijn er die zich zelven te kort doen, anderen die de middenweg bewandelen en nog anderen die in goedheid en deugd uitmunten naar Allah´s gebod. Dat is de grote genade
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En laat hen van jullie die bemiddeld en gefortuncerd zijn niet zweren niet uit t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En laat hen, die rijkdommen en overvloed onder u bezitten niet ophouden te geven aan verwanten en behoeftigen en hun die hun huizen terwille van Allah hebben verlaten. Laten zij vergeven en over het hoofd zien. Wenst gij niet dat Allah u zou vergeven? Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

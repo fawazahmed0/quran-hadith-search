@@ -986,7 +986,7 @@ En (Wij vervloekten hen) wegens hun verbreken van het verbond en hun niet gelove
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Om hun schending van hun verbond en de verwerping van Allah´s tekenen en het ten onrechte doden van de profeten en omdat ze zeggen: 'Onze harten zijn gesluierd' - neen, Allah heeft deze wegens hun ongeloof verzegeld, derhalve geloven zij slechts weinig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

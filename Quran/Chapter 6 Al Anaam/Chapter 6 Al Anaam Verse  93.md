@@ -986,7 +986,7 @@ En wie is er meer onrechtvaardig dan degene die een leugen tegen Allah heeft ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wie is onrechtvaardiger dan hij die een leugen over Allah uitdenkt of zegt: 'Het is mij geopenbaard,' terwijl hem niets is geopenbaard en die zegt: 'Ik zal iets nederzenden dat gelijk is aan hetgeen Allah heeft nedergezonden?' O, kondet gij het waarnemen, wanneer de onrechtvaardigen in doodsstrijd zijn en de engelen hun handen uitstrekken, (zeggende): 'Geeft uw zielen op. Deze dag zal u de straf der schande worden toegekend, voor hetgeen gij ten onrechte tegen Allah zeidet en omdat gij u hoogmoedig van Zijn tekenen afwenddet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

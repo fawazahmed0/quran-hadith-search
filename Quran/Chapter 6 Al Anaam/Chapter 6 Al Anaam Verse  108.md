@@ -986,7 +986,7 @@ En bespot niet degenen die naast Allah (goden) aanroepen zodat zij niet Allah vi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En scheldt degenen, die zij naast Allah aanroepen niet uit, anders zullen zij uit nijd in hun onwetendheid Allah uitschelden. Zo hebben Wij voor elk volk hun daden schoon doen schijnen. Dan zullen zij tot hun Heer terugkeren en Hij zal hen inlichten over hetgeen zij plachten te doen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

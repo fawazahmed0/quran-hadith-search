@@ -986,7 +986,7 @@ En zij zeiden: "Dit vee an (deze) gewassen zijn voorbehouden, niemand eet er van
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeggen: 'Dit en dat vee en die en die oogsten zijn verboden, niemand zal er van eten, dan wie het ons belieft' - alzo beweren zij - en er is vee, welks ruggen verboden zijn en er is vee, waarover zij de naam van Allah niet uitspreken en zij bedenken een leugen over Hem. Hij zal hen weldra vergelden, hetgeen zij verzinnen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

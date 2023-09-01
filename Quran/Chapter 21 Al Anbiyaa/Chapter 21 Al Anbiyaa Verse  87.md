@@ -986,7 +986,7 @@ En (gedenkt) Dzôennôen toen hij kwaad wegging en meende dat Wij geen macht ove
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Zonnoen (Jonas) toen hij in toorn heenging en dacht dat Wij geen macht over hem hadden en in de duisternis uitriep, zeggende: 'Er is geen God dan Gij. Heilig zijt Gij. Ik behoorde inderdaad tot de onrechtvaardigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

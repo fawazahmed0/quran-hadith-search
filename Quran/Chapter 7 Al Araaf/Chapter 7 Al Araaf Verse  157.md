@@ -986,7 +986,7 @@ Die den gezant volgen; den ongeletterden gezant, dien zij in hunne boeken, in de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hun, die de boodschapper, de reine profeet volgen, die zij in de Torah en het Evangelie beschreven vinden, legt hij het goede op en verbiedt het kwade, veroortooft hun de goede dingen en verbiedt de slechte en ontheft hen van de last en de kluisters die hen bonden. Zij, die in hem geloven en hem eren en ondersteunen en het licht dat met hem is nedergezonden volgen, zullen gewis slagen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

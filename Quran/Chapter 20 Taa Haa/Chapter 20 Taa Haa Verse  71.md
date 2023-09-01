@@ -986,7 +986,7 @@ Hij (Fir'aun) zei: "Geloven jullie hem voordat ik jullie toestemming gegeven heb
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Pharao zeide tot hen: 'Gelooft gij in Hem eer ik u daartoe verlof geef? Hij moet uw meester zijn die u in de toverkunst heeft onderwezen. Daarom zal ik uw handen en voeten aan de tegenovergestelde kant afhakken en ik zal u voorzeker aan de stammen van palmbomen kruisigen; en gij zult met zekerheid weten wie van ons gestrenger en langduriger is in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorwaar, degenen die niet geloven en van de Weg van Allah en de Masdjid al Har√
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker degenen die niet geloven en mensen afhouden van de weg van Allah en van de Heilige Moskee (te Mekka) - die Wij gelijk voor alle mensen hebben aangewezen, hetzij degene die er in (de stad) vertoeft of (de vreemdeling) die van buiten komt - en hij die in de Moskee onrechtvaardig naar goddeloosheid streeft - hem zullen Wij een pijnlijke straf doen ondergaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

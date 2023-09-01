@@ -986,7 +986,7 @@ Zeg: "Zal ik een andere Heer dan Allah zoeken, terwijl Hij de Heer van alle zake
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Zal ik een andere Heer begeren buiten Allah, terwijl Hij de Heer aller dingen is?' En geen ziel handelt dan voor zichzelf alleen, noch draagt een lastdrager de last van anderen. Dan zal uw terugkeer tot uw Heer zijn en Hij zal u verklaren, waarover gij twisttet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

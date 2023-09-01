@@ -986,7 +986,7 @@ O jullie die geloven. Weest standvastigen ten aanzien van de gerechtigheid, als 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, weest voorstanders der rechtvaardigheid, getuigen voor Allah, zelfs al was het tegen uzelf, of ouders en verwanten. Hetzij rijk of arm, Allah is beter dan beiden. Volgt niet de begeerten, opdat gij niet onrechtvaardig zult zijn. En als gij de waarheid omzeilt of er u van afwendt, Allah is goed op de hoogte van wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

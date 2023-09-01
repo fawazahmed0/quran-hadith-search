@@ -986,7 +986,7 @@ En Wij hebben hun geen onrecht aangedaan, maar zij hebben zichzelf onrecht aange
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij deden hun geen onrecht maar zij deden zichzelf onrecht aan. En hun goden, die zij naast Allah aanriepen, baatten hen in het geheel niet toen het gebod van uw Heer kwam; zij voegden hun slechts verderf toe
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

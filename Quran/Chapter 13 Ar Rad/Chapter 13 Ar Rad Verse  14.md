@@ -986,7 +986,7 @@ Aan Hem is de ware smeekbede gericht, en degenen die zij naast Hem aanbidden ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tot Hem is het ware gebed. En degenen, die zij buiten Hem aanroepen, verhoren hen in het geheel niet, doch zij zijn als iemand die zijn handen uitstrekt naar het water, opdat het zijn mond zal bereiken, maar het kan hem nooit bereiken. En het aanroepen der ongelovigen gaat slechts verloren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

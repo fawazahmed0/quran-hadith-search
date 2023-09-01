@@ -986,7 +986,7 @@ Toegestaan voor jullie is de jacht op de waterdieren, wat daarvan eetbaar is, al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De vangst uit zee en het eten ervan is wettig voor u als voorziening voor u zelf en de reizigers, doch zolang gij ter bedevaart zijt is het wild van het land u verboden. En vreest Allah, tot Wie gij zult worden verzameld
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

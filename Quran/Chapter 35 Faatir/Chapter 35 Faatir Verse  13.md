@@ -986,7 +986,7 @@ Hij doet de nacht overgaan in de dag en Hij doet de dag overgaan in de nacht en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij dompelt de nacht in de dag en de dag in de nacht. En Hij heeft de zon en de maan in dienst gesteld; elk volgt haar baan, voor een vastgestelde termijn. Alzo is Allah, uw Heer, van Hem is het Koninkrijk en zij, die gij buiten Hem aanroept, bezitten niets
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

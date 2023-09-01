@@ -986,7 +986,7 @@ Wij zonden toen een zeer koude stormwind over hen, tijdens enkele sombere dagen,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarom zonden Wij tegen hen een razende wind gedurende verscheidene noodlottige dagen, opdat Wij hen in dit leven de straf der vernedering mochten doen ondergaan. De straf van het Hiernamaals zal zeker nog vernederender zijn en zij zullen niet worden geholpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

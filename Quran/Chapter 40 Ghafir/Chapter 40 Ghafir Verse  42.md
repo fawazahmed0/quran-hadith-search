@@ -986,7 +986,7 @@ Jullie roepen mij op om aan Allah ongelovig te zijn en om Hem deelgenoten toe te
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gij nodigt mij uit, Allah te verwerpen en iets met Hem te vereenzelvigen waarvan ik geen kennis heb. En ik roep u tot de Almachtige, de Vergevensgezinde
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hot is de Masih niet te min om een dienaar van Allah te zijn en de Engelen on de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, de Messias zal het nooit versmaden, een dienaar van Allah te zijn, noch zullen de nabijzijnde engelen dit doen en wie het versmaadt Hem te aanbidden, en hoogmoedig is, Hij zal hen toch allen tot Zich roepen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

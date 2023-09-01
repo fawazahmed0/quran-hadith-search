@@ -986,7 +986,7 @@ Zie jij degenen die zich (in vriendschap) wendden tot een volk waarop Allah vert
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij degenen niet gezien, die zich bevrienden met een volk, waarop Allah vertoornd was? Zij zijn noch de uwen noch de hunnen, zij zweren bij de leugen tegen beter weten in
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

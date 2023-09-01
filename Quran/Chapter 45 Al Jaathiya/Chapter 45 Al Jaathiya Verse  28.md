@@ -986,7 +986,7 @@ En jij zult alle volken zien neerknielen, ieder volk zal tot hun boek geroepen w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gij zult ieder volk zien knielen. Elk volk zal tot zijn boek worden geroepen en er zal tot hen worden gezegd: 'Heden zult gij voor hetgeen gij deedt worden beloond
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

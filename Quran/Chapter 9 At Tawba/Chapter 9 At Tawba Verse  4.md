@@ -986,7 +986,7 @@ Behalve met de veelgodenaanbidders met wie jullie een verbond zijn aangepan, (en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Met uitzondering van diegenen der afgodendienaren met wie gij een verbond hebt gesloten en die in niets hebben gefaald, noch iemand tegen u hebben geholpen. Vervult daarom aan dezen het verbond tot hun bepaalde termijn. Voorzeker, Allah heeft de godvruchtigen lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

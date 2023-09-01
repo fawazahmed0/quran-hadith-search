@@ -986,7 +986,7 @@ En Wij beloofden Môesa (een periode van) dertig dagen en Wij vervolmaakten deze
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij maakten met Mozes een overeenkomst van dertig nachten en vulden ze met tien nachten aan. Aldus werd de periode, die door zijn Heer was vastgesteld tot veertig nachten aangevuld. En Mozes zeide tot zijn broeder A�ron: 'Wees mijn plaatsvervanger onder mijn volk in mijn afwezigheid en beheer wel en volg de weg der onruststokers niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En zit niet op iedere weg, terwijl jullie degenen bedreigen en afhouden van het 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wacht niet op de wegen om degenen die in Hem geloven te bedreigen en van het pad van Allah af te houden en het oneffen te maken. En gedenkt, hoe gij weinigen waart en Hij u vermenigvuldigde. En ziet wat het einde was van de onruststokers
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij treden de Tuinen van "Adn (het paradijs) binnen en (ook) degenen die oprecht
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tuinen der eeuwigheid. Zij en degenen van hun vaderen en hun echtgenoten en hun kinderen rechtvaardig zijn zullen deze binnengaan. En engelen zullen van iedere poort tot hen komen, (zeggende)
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

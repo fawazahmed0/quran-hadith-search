@@ -986,7 +986,7 @@ En Wij hebben de Kinderen van Israel op de hoogte gebracht in de Schrift: "Julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij maakten aan de kinderen van Isra�l in het Boek bekend: 'Voorwaar, tweemaal zult gij op de aarde verderf teweeg brengen en voorzeker zult gij uitermate aanmatigend worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

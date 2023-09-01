@@ -986,7 +986,7 @@ O mijn Heer, voorzeker, U heeft mij een gedeelte van het koninkrijk gegeven en U
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, mijn Heer, Gij hebt mij macht gegeven en de verklaring van dromen onderwezen. O, Schepper der hemelen en der aarde, Gij zijt mijn Beschermer in deze wereld en in het Hiernamaals. Doe mij sterven als Moslim en verenig mij met de rechtvaardigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

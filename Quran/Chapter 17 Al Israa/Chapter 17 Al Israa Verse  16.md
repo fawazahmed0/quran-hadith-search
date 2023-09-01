@@ -986,7 +986,7 @@ En als Wij een (volk in een) stad willen vernietigen, bevelen Wij hen die daarin
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer Wij Ons voornemen een stad te verwoesten, zenden Wij Ons gebod tot haar machthebbers, maar zij overtreden dit, derhalve wordt de verordening tegen haar van kracht, en verwoesten Wij haar geheel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En als zij op de schepen varen, dan roepen zij Allah aan. Hem zuiver aanbiddend.
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer zij aan boord van een schip gaan, roepen zij Allah aan, oprecht zijnde in gehoorzaamheid aan Hem. Maar wanneer Hij hen veilig aan wal brengt, zie, zij schrijven deelgenoten aan Hem toe
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

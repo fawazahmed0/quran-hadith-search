@@ -986,7 +986,7 @@ Voorwaar, Degene Die de Koran voor jou tot een verplichting heeft gemaakt, zal j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Hij, Die de verkondiging van de Koran u oplegde, zal u tot de plaats van terugkeer brengen. Zeg: 'Mijn Heer weet het beste wie de ware leiding heeft gebracht en wie op een openlijk dwaalspoor is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

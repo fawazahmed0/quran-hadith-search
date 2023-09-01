@@ -986,7 +986,7 @@ En wie door Allah tot dwaling gebracht wordt: voor hem is er daarna geen helper.
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij die Allah laat dwalen, zal buiten Hem geen beschermer hebben. En gij zult de onrechtvaardigen zien die, wanneer zij de straf zullen aanschouwen, zeggen: 'Is er geen weg tot terugkeer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

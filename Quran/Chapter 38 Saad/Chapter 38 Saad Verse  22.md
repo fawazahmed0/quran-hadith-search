@@ -986,7 +986,7 @@ Toen zij bij Dâwôed binnenkwamen, schrok Hij van ten, zij zeiden: "Wees niet b
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hoe zij bij David binnenkwamen en hij hen vreesde. Zij zeiden: 'Vrees niet, wij zijn twee procesvoerders, waarvan de ene de ander onrecht heeft aangedaan; spreek daarom recht tussen ons in waarheid en handel niet onrechtvaardig en leid ons naar het rechte pad
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

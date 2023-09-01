@@ -986,7 +986,7 @@ Voorwaar, het uitstellen (van de gewijde maanden) is slechts oen toename van het
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, het uitstellen (van een heilige maand) is een toevoeging aan het ongeloof. Degenen, die niet geloven worden daardoor op een dwaalspoor gebracht. Het ene jaar staan zij het toe en het andere jaar verbieden zij het, opdat zij betreffende het aantal dat Allah heilig heeft gemaakt mogen overeenkomen, waardoor zij hetgeen Allah heeft verboden wettig maken. Het boze hunner daden werd voor hen schoonschijnend gemaakt. Allah leidt het ongelovige volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorzeker, wij zonden Môesa met Onze Tekenen, (zeggend:) "Voer jouw volk vanuit
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij zonden Mozes met Onze tekenen, zeggende: 'Breng uw volk uit de duisternis tot het licht en herinner hen aan de dagen van Allah.' Daarin zijn voorzeker tekenen voor ieder die geduldig en dankbaar is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

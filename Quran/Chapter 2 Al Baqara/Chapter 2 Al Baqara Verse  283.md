@@ -986,7 +986,7 @@ En wanneer jullie op reis zijn, en jullie junnen geen schrijver vinden, dan kan 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien gij op reis zijt en geen schrijver vindt, laat er dan een onderpand voor worden gegeven. En indien ��n uwer de ander iets toevertrouwt, laat dan degene aan wie het toevertrouwd is, het toevertrouwde teruggeven en laat hem Allah zijn Heer vrezen. Verbergt geen getuigenis; en wie dat wel doet diens hart is zeker zondig en Allah weet goed, wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

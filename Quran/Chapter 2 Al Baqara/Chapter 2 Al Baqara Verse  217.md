@@ -986,7 +986,7 @@ Zij vragen jou over de strijd in de Gewijde maanden. Zeg (O Moehammad): "De stri
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij vragen u omtrent het vechten in de heilige maand. Zeg: 'Het vechten hierin is een grote overtreding, maar de mensen van de weg van Allah af te houden en Hem ondankbaar te zijn en (de toegang tot) de Heilige Moskee (te verhinderen) en haar mensen er van te verdrijven, is bij Allah een grotere zonde; en vervolging is erger dan doden.' En zij zullen niet ophouden, u te bevechten, totdat zij u van uw geloof hebben afgebracht, als zij kunnen. Maar wie onder u zich van zijn geloof afkeert en sterft als een ongelovige - diens werken zullen tevergeefs zijn in deze wereld en in de toekomende. Dezulken zijn de bewoners van het Vuur en zij zullen daarin verblijven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

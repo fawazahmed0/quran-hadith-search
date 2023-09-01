@@ -986,7 +986,7 @@ Als Allah een zoon zou wensen te nemen, dan zou Hij kiezen wat Hij wilde van wat
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Had Allah een zoon begeerd dan zou Hij uit wat Hij geschapen heeft kunnen nemen, wie Hij wilde. Heilig is Hij. Hij is Allah, de Ene, de Opperste
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

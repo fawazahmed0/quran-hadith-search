@@ -986,7 +986,7 @@ Mog ejullie Heer jullie begenadigen. En als jullie terugkeren (naar jullie zonde
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het kan zijn dat uw Heer u barmhartigheid zal tonen; doch indien gij terugkeert, zullen Wij ook terugkeren en Wij hebben de hel tot een kerker voor de ongelovigen gemaakt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

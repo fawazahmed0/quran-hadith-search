@@ -986,7 +986,7 @@ En degenen die op de Weg van Allah uitwijken en vervolgens gedood worden of ster
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen die hun huizen verlaten terwille van Allah, en dan sneuvelen of sterven, voorwaar voor hen zal Allah een goede voorziening verschaffen. En voorzeker Allah is de Beste der Voorzieners
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

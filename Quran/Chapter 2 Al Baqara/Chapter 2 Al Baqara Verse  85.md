@@ -986,7 +986,7 @@ Daarna zijn jullie (Joden) degenen geworden die elkaar doden en een deel van jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toch zijt gij het volk, dat uw eigen broeders doodt en een gedeelte van uw volk uit hun huizen verdrijft, elkaar tegen hen helpende in zonde en overtreding. En, indien zij als gevangenen tot u terugkomen, koopt gij hen vrij, terwijl juist hun verdrijving voor u verboden was. Gelooft gij dan slechts in een gedeelte van het Boek en verwerpt gij een ander gedeelte? Er is geen beloning voor degenen uwer, die zulks doen, behalve schande in dit leven; en op de Dag van Opstanding zullen zij de strengste kastijding moeten ondergaan, want Allah is niet onachtzaam betreffende hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

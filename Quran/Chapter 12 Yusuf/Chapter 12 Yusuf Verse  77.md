@@ -986,7 +986,7 @@ Zij zeiden: "Als hij steelt, voorzeker een broeder van hem heeft eerder gestolen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij (zijn broeders) zeiden: 'Als deze heeft gestolen, had zijn broeder voorheen ook diefstal gepleegd.' Maar Jozef hield het in zijn hart geheim en onthulde het hun niet. Hij zeide: 'Gij verkeert in een slechte toestand. Allah weet het beste wat gij beweert
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

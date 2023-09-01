@@ -986,7 +986,7 @@ En toen hij hen had voorzien van proviand, zei hij: "Brengt mij jullie broeder v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen hij hen van levensmiddelen had voorzien, zeide hij: 'Brengt mij uw broeder van vaderskant. Ziet gij niet, dat ik u met volle maat geef en dat ik een goed gastheer ben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

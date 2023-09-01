@@ -986,7 +986,7 @@ Voorwaar, Fir'aun wag hoogmoedig in het land en hij verdeelde haar mensen in par
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, Pharao handelde aanmatigend in het land en deed het volk er van in partijen scheiden; van een groep die hij als zwak beschouwde doodde hij de zonen en spaarde de vrouwen. Zeker, hij behoorde tot de onheilstichters
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

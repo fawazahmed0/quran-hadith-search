@@ -986,7 +986,7 @@ En noch jullie bezittingen, noch jullie kinderen zijn het die jullie dichter bij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Noch uw rijkdommen noch uw kinderen kunnen u tot Onze nabijheid brengen, maar zij die geloven en goede werken doen, zullen een veelvuldige beloning ontvangen, voor hetgeen zij deden en zullen veilig zijn in verheven woningen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

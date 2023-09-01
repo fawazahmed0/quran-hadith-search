@@ -986,7 +986,7 @@ Toen zeiden de vooraanstanden, die niet geloofden, van zijn volk: "Deze (man) is
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de hoofden van zijn volk, die ongelovig waren, zeiden: 'Hij is slechts een mens zoals gij, hij zou zich boven u willen verheffen. En indien het Allah had behaagd, had Hij voorzeker engelen nedergezonden. Wij hebben nooit van zulk (een boodschapper) onder onze voorvaderen gehoord
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En (gedenkt) toen Wij ben redden van de volgelingen van Fir'aun, zij kwelden jul
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen Wij u van Pharao´s volk verlosten dat u aan een marteling onderwierp en uw zonen doodde en uw vrouwen spaarde. En daarin lag voor u een zware beproeving van uw Heer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

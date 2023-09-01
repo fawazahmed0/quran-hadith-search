@@ -986,7 +986,7 @@ En wanneer Wij de bestraffing van hen uitstellen tot een bepaald tijdstip, dan z
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als Wij hun straf tot een bepaalde tijd uitstellen, zeggen zij: 'Wie weerhoudt haar?' Ziet toe! de dag waarop zij over hen komt zal niemand haar kunnen afwenden, en hetgeen zij plachten te bespotten zal op hen nederkomen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

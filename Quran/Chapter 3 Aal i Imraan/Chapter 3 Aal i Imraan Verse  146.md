@@ -986,7 +986,7 @@ En hoevelen van de Profeten vochten er niet, vergezeld van vele mensen en zij ve
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er zijn vele profeten geweest aan wier zijden talrijke aanbidders van de Heer streden. Zij verslapten door niets wat hen op de weg van Allah overkwam, noch verzwakten zij, noch vernederden zij zich. En Allah heeft de geduldigen lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

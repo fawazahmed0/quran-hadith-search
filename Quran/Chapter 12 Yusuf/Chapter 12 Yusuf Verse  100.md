@@ -986,7 +986,7 @@ En hij bracht zijn ouders naar de slaapplaats. En zij wierpen zich ter aarde voo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij hief zijn ouders op de troon en zij wierpen zich voor hem neder. En hij zeide: 'O mijn vader, dit is de vervulling van mijn vroegere droom. Mijn Heer heeft deze verwezenlijkt. En Hij schonk mij een gunst toen Hij mij uit de gevangenis verloste en u uit de woestijn bracht, nadat Satan tweedracht tussen mij en mijn broeders had gezaaid. Voorzeker, mijn Heer is goedertieren voor wie Hij wil. Waarlijk, Hij is de Alwetende, de Alwijze
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Toen zij bij hem (Yôesoef) binnenkwamen, zeiden zij: "O al 'Azîz, wij en onze 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen zij (opnieuw) voor hem (Jozef) kwamen, zeiden zij: 'O, Aziez, armoede heeft ons en onze familie getroffen en wij hebben een armzalige geldsom meegebracht, geef ons daarvoor de volle maat en wees liefdadig. Voorzeker, Allah beloont de liefdadigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

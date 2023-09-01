@@ -986,7 +986,7 @@ En wie is verder afgedwaald dan hij die naast Allah afgoden aanbidt die hem, tot
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wie is verder afgedwaald dan hij die buiten Allah (afgoden) aanroept, die tot de Dag der Opstanding hem nooit zullen kunnen antwoorden en die niet wet,en dat men hen aanroept
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

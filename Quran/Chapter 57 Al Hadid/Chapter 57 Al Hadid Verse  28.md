@@ -986,7 +986,7 @@ O jullie die geloven, vreest Allah en gelooft in Zijn Boodschapper, dan zal Hij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij gelovigen, vreest Allah en gelooft in Zijn boodschapper. Hij zal u een dubbel aandeel van Zijn barmhartigheid geven en u een licht verschaffen waarin gij wandelen zult en Hij zal u vergeven: - Voorwaar, Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

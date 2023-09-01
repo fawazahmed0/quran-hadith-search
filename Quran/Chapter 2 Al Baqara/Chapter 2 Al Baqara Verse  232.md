@@ -986,7 +986,7 @@ En wanneer jullie de vrouwen scheiding hebben gegeven en zij hun termijn hebben 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer gij van vrouwen scheidt en zij het einde van haar wachtperiode hebben bereikt, verhindert haar niet, haar (aanstaande) man te huwen, als zij met elkander op de gebruikelijke wijze tot overeenstemming zijn gekomen. Dit is een vermaning voor hem, die onder u in Allah en de laatste dag gelooft. Het is beter en reiner voor u; Allah weet en gij niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

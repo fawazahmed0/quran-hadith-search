@@ -986,7 +986,7 @@ Alif Lâm Mîm Râ. Dit zijnde Verzen van Het Boek. En wat am jou van jouw Heer 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alif Laam Miem Raa. Dit zijn de verzen van het Boek. En hetgeen u door uw Heer is geopenbaard is waar, maar de meeste mensen geloven niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

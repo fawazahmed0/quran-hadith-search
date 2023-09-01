@@ -986,7 +986,7 @@ Allah zei: "Dit is een Dag waarop hun waarachtigheid de waarachtigen zal baten; 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah zal zeggen: 'Dit is een dag waarop waarachtigheid de waarachtigen zal baten. Voor hen zijn tuinen, waar doorheen rivieren stromen; zij zullen daarin voor eeuwig vertoeven.' Allah heeft behagen in hen en zij hebben behagen in Hem, dit is de grote zegepraal
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En noem (de Namen van) jouw Heer in jezelf met nederigheid en vrees, en zonder l
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gedenk uw Heer, ´s morgens en ´s avonds in uw gedachte met nederigheid en vrees en zonder luidruchtigheid van spraak en behoor niet tot de onachtzamen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

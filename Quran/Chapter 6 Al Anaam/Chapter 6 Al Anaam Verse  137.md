@@ -986,7 +986,7 @@ En zo deden hun leiders het doden van hun kinderen voor velen van de veelgodenaa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Op dezelfde manier hebben voor velen der afgodendienaren hun afgoden het doden hunner kinderen schoonschijnend gemaakt, opdat zij hen mogen vernietigen en verwarring in hun godsdienst doen ontstaan. En als Allah het wilde, zouden zij dit niet hebben gedaan, laat hen daarom met rust met hetgeen zij verzinnen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En de vrouw van Fir'aun zei: "Hij is een verkoeling voor mijn en jouw oog. Doodt
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Pharao´s vrouw zeide: '(Dit kind is) een troost voor de ogen voor u en voor mij. Dood hem niet. Hij kan nuttig voor ons zijn of wij kunnen hem als zoon opnemen.' Maar zij doorzagen het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorzeker, voorheen probeerden zij reeds twee dracht te zaaien en zij verzonnen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, zij zochten voordien reeds tweedracht te scheppen en zij smeedden complotten tegen u, totdat de waarheid kwam en het voornemen van Allah de overhand kreeg, ofschoon zij er afkerig van waren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

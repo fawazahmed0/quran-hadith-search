@@ -986,7 +986,7 @@ En God zal tot hunne aanbidders zeggen: Thans hebben deze u van leugen overtuigd
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zo hebben dezen wat gij zegt, verloochend, zodat gij de straf niet kunt afwenden of hen helpen. En wie onder u onrechtvaardig is, Wij zullen hem een zware straf doen ondergaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

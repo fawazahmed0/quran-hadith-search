@@ -986,7 +986,7 @@ En degenen die uitweken omwille van Allah nadat ben onrecht was aangedaan zullen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En degenen, die (hun) huizen ter wille van Allah hebben verlaten, nadat hun onrecht was aangedaan, Wij zullen hun voorzeker een goed tehuis in de wereld geven; waarlijk de beloning van het Hiernamaals is groter; wisten zij het slechts
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

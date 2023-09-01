@@ -986,7 +986,7 @@ Ook toen uw Heer tot de engelen sprak: Waarlijk ik ben met u; bevestigt dus hen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen uw Heer aan de engelen openbaarde: 'Ik ben met u; versterkt de gelovigen. Ik boezem ontzag in de harten der ongelovigen. Slaat daarom hun hoofd af en slaat alle toppen van hun vingers af
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

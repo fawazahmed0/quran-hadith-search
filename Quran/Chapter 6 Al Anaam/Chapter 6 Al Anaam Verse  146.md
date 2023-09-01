@@ -986,7 +986,7 @@ En voor de Joden verboden Wij alle (dieren) met (ongesplitste) hoeven. En van de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij verboden de Joden alle dieren die klauwen hebben en Wij verboden hun het vet van runderen, schapen en geiten, anders dan wat hun ruggen of hun ingewanden dragen of hetgeen met een been is gemengd. Dit is de vergelding, welke Wij hun voor hun opstandigheid gaven. En Wij zijn voorzeker Waarachtig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

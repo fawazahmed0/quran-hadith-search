@@ -986,7 +986,7 @@ En stuur degenen niet weg die in de ochtend en de avond hun Heer aanroepen en Zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En verdrijf niet degenen die hun Heer morgen en avond aanroepen, Zijn aangezicht zoekend. Gij zijt volstrekt niet verantwoordelijk voor hen, noch zijn zij enigermate verantwoordelijk voor u. Zoudt gij hen verdrijven, dan zult gij tot de onrechtvaardigen behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

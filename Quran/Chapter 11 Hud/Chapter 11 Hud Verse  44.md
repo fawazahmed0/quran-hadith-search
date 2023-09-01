@@ -986,7 +986,7 @@ En er werd gezegd: "O aarde, slikje water in," en: "O hemel, droog op." En het w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er werd gezegd: ' O, aarde, slok op uw water en o, hemel, houd op (met regenen).' En het water werd tot zakken gebracht en het gebod was vervuld. En de Ark kwam op (de berg) Al-Djoedie te rusten. En er werd gezegd: 'Vervloekt zij het onrechtvaardige volk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

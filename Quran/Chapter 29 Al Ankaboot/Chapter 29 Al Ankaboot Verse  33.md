@@ -986,7 +986,7 @@ En toen Onze gezanten naar Lôeth kwamen, was hij bedroefd vanwege hen, en hij h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Onze boodschappers tot Lot kwamen was hij verdrietig wegens hen en voelde zich daardoor in moeilijkheid. En zij zeiden: 'Vrees niet, noch treur. Voorzeker, wij zullen u en uw familie redden, behalve uw vrouw die tot de achterblijvenden behoort
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

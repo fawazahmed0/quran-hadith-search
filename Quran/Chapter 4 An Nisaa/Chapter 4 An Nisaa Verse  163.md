@@ -986,7 +986,7 @@ Voorwaar, Wij hebben aan jou geopenbaard zoals Wij aan Nôeh en de Profeten na h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, Wij hebben u de openbaring gezonden, zoals Wij Noach en de profeten na hem openbaring zonden en Wij gaven een openbaring aan Abraham en Isma�l en Iza�k en Jacob en de stammen; en aan Jezus, Job, Jonas, A�ron en Salomo en Wij gaven David een psalmen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hij is Degene Die jullie heeft aangesteld als gevolmachtigden op aarde. Wie dan 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die u tot stedehouders op aarde heeft gemaakt. Hij die niet gelooft, zijn ongeloof zal tegen hem zijn en het ongeloof der ongelovigen doet hen slechts in weerzinwekkendheid toenemen in de ogen van hun Heer, en het ongeloof der ongelovigen doet hen slechts toenemen in verlies
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

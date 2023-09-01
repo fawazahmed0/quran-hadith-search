@@ -986,7 +986,7 @@ En Wij hebben de mens bevolen goed te zijn voor zijn ouders, maar indien zij jou
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij hebben de mens geboden zijn ouders goed te doen; en indien zij trachten u er toe te brengen dat gij iets met Mij vereenzelvigt waarvan gij geen kennis hebt, gehoorzaam hen dan niet. Tot Mij is uw terugkeer, en Ik zal u vertellen wat gij deedt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

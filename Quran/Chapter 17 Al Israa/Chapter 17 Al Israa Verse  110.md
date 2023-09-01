@@ -986,7 +986,7 @@ Zeg: "Roept Allah aan of roept de Barmhartige aan. Waarbij jullie Hem ook aanroe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Roept Allah aan of roept Rahmaan aan, bij welke naam gij Hem ook noemt, Hij heeft de schoonste namen.' En zeg uw gebed niet te luid en evenmin te zacht, doch zoek een middenweg
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

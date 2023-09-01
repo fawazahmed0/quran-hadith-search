@@ -986,7 +986,7 @@ En hoeveel Engelen zijn er niet in de hemelen wier voorspraak niets baat, behalv
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hoevele engelen zijn er niet in de hemelen wier voorspraak van geen nut zal zijn, behalve nadat Allah verlof heeft gegeven aan wie Hij wil en wie Hem behaagt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

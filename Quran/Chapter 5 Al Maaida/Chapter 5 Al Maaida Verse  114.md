@@ -986,7 +986,7 @@ Isa, zoon van Maryam, zei: "O Allah, onze Heer, doe een tafel uit de hemel neerd
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jezus, de zoon van Maria, zeide: 'O Allah, onze Heer, zend ons een (met voedsel) gedekte tafel van de hemel neder, opdat het voor de eersten en de laatsten onzer een feest moge zijn en een teken van U en tot onderhoud van ons, want Gij zijt de Beste der onderhouders
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

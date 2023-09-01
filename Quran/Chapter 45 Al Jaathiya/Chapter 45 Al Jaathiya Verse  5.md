@@ -986,7 +986,7 @@ En (ook) in de afwisseling van de nacht en de dag, en in wat Allah heeft neergez
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En in de wisseling van nacht en dag en de voorziening die Allah uit de hemel nederzendt waardoor Hij de aarde doet herleven na haar dood en in de verandering van de winden, zijn eveneens tekenen voor een volk, dat zijn verstand gebruikt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

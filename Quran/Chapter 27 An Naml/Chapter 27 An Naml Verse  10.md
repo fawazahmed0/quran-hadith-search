@@ -986,7 +986,7 @@ Werp jouw staf neer." Maar toen hij deze zag, bewoog zij alsof het een slang was
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Werp uw staf neder.' Maar toen hij de staf zich als een slang zag bewegen, wendde hij zich af en wilde zich niet omkeren. (En Allah zeide) 'O Mozes, vrees niet, voorwqwaar bij Mij vrezen de boodschappers niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

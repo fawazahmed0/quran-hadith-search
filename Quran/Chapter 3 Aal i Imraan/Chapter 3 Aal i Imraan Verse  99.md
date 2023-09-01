@@ -986,7 +986,7 @@ Zeg: "O Lieden van de Schrift, waarom houden jullie wie gelooft op de Weg can Al
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'O, mensen van het Boek waarom houdt gij de mensen af van het (rechte) pad van Allah en wenst gij het krom te maken, terwijl gij er getuige van zijt? Allah is niet onachtzaam over hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En Hij vervolmaakte hen, de zeven hemelen, in twee dagen (perioden) en Hij openb
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'Wij komen gewillig.' Zo voltooide Hij hen als de zeven hemelen in twee dagen, en Hij wees elke hemel zijn werk aan. En Wij versierden de laagste hemel met lichten ter bescherming. Dat is de verordening van de Almachtige, de Alwetende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

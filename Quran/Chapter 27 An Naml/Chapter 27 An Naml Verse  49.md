@@ -986,7 +986,7 @@ Zij zeiden: "Zweert onder elkaar bi Allah dat wij zeker een nachtelijke aanval d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'Zweert tot elkander bij Allah, dat wij zeker Salih en zijn familie in de nacht zullen aanvallen en daarna zullen wij tot zijn bloedverwanten zeggen: 'Wij waren geen getuigen van de vernietiging van zijn familie en wij spreken zeker de waarheid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hij heeft de Engelen doen neerdalen met de Openbaring van Zijn bevel. naar wie H
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zendt door Zijn gebod engelen met een Openbaring neder tot wie van Zijn dienaren Hij wil (zeggende): 'Waarschuwt, dat er buiten Mij geen God is, vreest daarom Mij alleen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

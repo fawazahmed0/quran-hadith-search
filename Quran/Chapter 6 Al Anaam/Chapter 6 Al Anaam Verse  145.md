@@ -986,7 +986,7 @@ Zeg: "Ik vind in wat aan mij is geopenbaard geen verbod dat een eter iets eet, b
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Ik vind in hetgeen mij is geopenbaard niets, dat een eter is verboden te eten, met uitzondering van het gestorvene of vloeiend bloed of varkensvlees, want dit alles is onrein - of, wat in overtreding is, waarover een andere naam dan Allah´s is aangeroepen. Maar wie door noodzaak wordt gedreven en niet begerig is noch de grens overschrijdt: uw Heer is dan voorzeker Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

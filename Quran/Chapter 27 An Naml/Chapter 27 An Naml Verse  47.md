@@ -986,7 +986,7 @@ Zij zeiden: "Wij verwachtten van jou en degenen die met jou zijn een slecht lot.
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij antwoordden: 'Wij voorzien kwaad wegens u en degenen die met u zijn.' Hij zeide: 'Uw kwade verwachting is bij Allah. Neen, gij zijt een volk dat beproefd wordt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

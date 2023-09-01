@@ -986,7 +986,7 @@ Zij menen jou een dienst te bewijzen door Moslim te worden. Zeg: "Bewijst mij ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij achten het een gunst voor u dat zij de Islam hebben omhelsd. Zeg: 'Acht het aannemen van de Islam geen gunst voor mij. Neen, Allah heeft u een gunst bewezen doordat Hij u tot het geloof heeft geleid als gij waarachtig zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

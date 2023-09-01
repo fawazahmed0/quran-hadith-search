@@ -986,7 +986,7 @@ Wat Allah ook aan buit aan Zijn Boodschapper gegeven heeft, afkomstig van de bew
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wat Allah aan Zijn boodschapper heeft gegeven als buit van het volk van de stadsgebieden, is voor Allah en Zijn boodschapper en voor de naaste familieleden en de wezen en de armen en de reiziger, opdat het niet alleen in omloop moge zijn tussen de rijken onder u. En wat de boodschapper u ook moge geven, neemt het en wat Hij u ook verbiedt, onthoudt u daarvan. En vreest Allah, zeker, Allah is streng in het straffen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

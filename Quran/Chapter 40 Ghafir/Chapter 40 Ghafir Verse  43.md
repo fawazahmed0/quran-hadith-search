@@ -986,7 +986,7 @@ Het is zeker dat jullie mij oproepen tot dat wat geen aanroep (kan verhoren) in 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeker, datgene waartoe gij mij uitnodigt heeft geen macht in deze wereld of in het Hiernamaals; voorwaar, onze terugkeer is tot Allah, en de overtreders zullen de bewoners van het Vuur zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

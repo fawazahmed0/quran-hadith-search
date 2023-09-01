@@ -986,7 +986,7 @@ Dus eet en drink en verkoel jouw ogen. Maar als jij iemand ziet, zeg dan: "Voorw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Eet en drink en koel uw oog. En indien gij iemand ziet, beduid hem dan: ´Ik heb de Barmhartige gelofte gedaan te vasten; derhalve zal ik heden met niemand spreken.´
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

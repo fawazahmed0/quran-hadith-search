@@ -986,7 +986,7 @@ Iedere ziet zal de dood proeven, en voorwaar: pas op de Dag der Opstanding zulle
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Elke ziel zal de dood ondergaan. En voorzeker zal u op de Dag der Opstanding uw beloning ten volle worden uitbetaald. Wie daarom van het Vuur wordt verwijderd en de Hemel binnengelaten, heeft inderdaad zijn doel bereikt. Het leven dezer wereld is niets dan een middel tot bedrog
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

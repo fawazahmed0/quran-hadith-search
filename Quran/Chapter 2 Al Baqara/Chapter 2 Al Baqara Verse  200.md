@@ -986,7 +986,7 @@ Wanneer jullie dan jullie (Haddj-)rituelen hebben voltooid, gedenkt dan Allah zo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer gij uw wijdingen hebt verricht, gedenkt dan Allah, zoals gij uw vaderen gedenkt en zelfs meer dan dat. En er zijn mensen, die zeggen: 'Onze Heer, schenk ons (veel) in deze wereld', maar voor hen is er geen aandeel in het Hiernamaals
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

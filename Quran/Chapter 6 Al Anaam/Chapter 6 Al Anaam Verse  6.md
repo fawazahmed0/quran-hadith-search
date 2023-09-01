@@ -986,7 +986,7 @@ Hebben zij niet gezien hoevelen Wij vernietigden van voor hen, gemeenschappen di
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zien zij niet, hoeveel geslachten Wij v��r hen hebben vernietigd? Wij hadden hun zulke macht op de aarde gegeven als Wij u niet hebben geschonken en Wij zonden wolken over hen die regelmatig regen deden neerstromen en Wij deden rivieren onder hen vloeien; daarna vernietigden Wij hen vanwege hun zonden en deden een ander geslacht na hen ontstaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

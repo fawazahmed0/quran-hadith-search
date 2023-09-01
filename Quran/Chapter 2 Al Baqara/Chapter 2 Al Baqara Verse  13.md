@@ -986,7 +986,7 @@ En als er tot hen wordt gezegd: "Gelooft zoals de mensen gcloven," dan zeggen zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer hun wordt gezegd: 'Gelooft, zoals andere mensen geloven', zeggen zij: 'Zullen wij geloven, zoals de dwazen hebben geloofd?' Ziet toe! Zij zijn het die dwaas zijn, doch zij weten het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

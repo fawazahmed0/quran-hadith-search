@@ -986,7 +986,7 @@ En toen tot hen werd gczcgd: "Komt tot wat Allah geopenbaard heeft en tot Zijn B
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer er tot hen wordt gezegd: 'Komt tot hetgeen Allah heeft geopenbaard en tot de boodschapper,' zeggen zij: 'Voor ons is datgene waarin wij onze vaderen zagen geloven, voldoende.' Zelfs indien hun vaderen niets wisten en geen leiding hadden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

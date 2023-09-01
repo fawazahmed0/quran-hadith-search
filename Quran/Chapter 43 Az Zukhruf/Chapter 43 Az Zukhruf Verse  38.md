@@ -986,7 +986,7 @@ Totdat, wanneer hij tot Ons komt, hij (tot zijn metgezel) zegt: "O wee, was de a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer zo iemand bij Ons komt, zegt hij tegen zijn metgezel: 'O, ware er tussen u en mij een afstand van het Oosten naar het Westen geweest. Wat is dit een boze metgezel
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

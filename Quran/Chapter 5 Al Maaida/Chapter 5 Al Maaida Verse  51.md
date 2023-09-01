@@ -986,7 +986,7 @@ O jullie die geloven! Neemt niet de Joden en de Christenen als beschermers, zij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, neemt de Joden en de Christenen niet tot vrienden. Zij zijn elkanders vrienden. En wie uwer hen tot vrienden neemt, is inderdaad ��n hunner. Voorwaar, Allah leidt het overtredende volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

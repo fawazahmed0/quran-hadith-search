@@ -986,7 +986,7 @@ Hij geeft jullie een vergelijking met julliezelf. Zijn er voor jullie die over s
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij geeft een gelijkenis uit uzelf. Hebt gij onder uw ondergeschikten deelgenoten in hetgeen waarvan Wij u hebben voorzien, zodat gij dienaangaande gelijken wordt en vreest gij hen, zoals gij elkander vreest? - Zo leggen Wij de tekenen uit aan een volk dat begrijpt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

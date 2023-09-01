@@ -986,7 +986,7 @@ Dit is een Verkondiging voor de mensen, opdat zij daardoor gewaarschuwd zullen w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dit is een aankondiging voor de mensen opdat zij er door mogen worden gewaarschuwd en opdat zij mogen weten dat Hij de Enige God is en opdat degenen die begrip hebben er lering uit mogen trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

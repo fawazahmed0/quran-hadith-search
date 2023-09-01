@@ -986,7 +986,7 @@ Hij is het die jullie in staat stelt om over land en over de zee te reizen, totd
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die u in staat stelt door het land en op zee te reizen, totdat, wanneer gij op de schepen zijt en zij met een mooie bries varen en (de opvarenden) er zich in verheugen, hen een geweldige wind achterhaalt en de golven van alle zijden over hen komen en zij overtuigd zijn dat zij verloren zijn; dan roepen zij Allah in oprechte aanbidding aan: 'Als Gij ons hiervan redt, zullen wij zeker tot de dankbaren behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

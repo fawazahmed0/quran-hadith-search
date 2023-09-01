@@ -986,7 +986,7 @@ En jij zult zien hoe zij naar haar (de Hel) worden gesleept, vrezend door de ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gij zult hen aan het Vuur zien blootgesteld, door schande vernederd, terwijl zij er met neergeslagen ogen naar kijken. De gelovigen zullen zeggen: 'De verliezers zijn inderdaad zij die zichzelf en hun familie op de Dag der Opstanding hebben verloren.' Ziet toe! de onrechtvaardigen zullen een blijvende straf ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

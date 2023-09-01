@@ -986,7 +986,7 @@ En de bewoners van het Paradijs roepen tot de bewoners van de Hel: "Wij hebben w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De bewoners van het paradijs zullen naar de bewoners van de hel roepen: 'Wij hebben bevonden waar te zijn, wat onze Heer ons beloofde. Hebt gij ook bevonden, waar te zijn wat uw Heer u beloofde?' Zij zullen zeggen: 'Ja.' Dan zal er een woordvoerder onder hen verkondigen: 'De vloek van Allah rust op de onrechtvaardigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

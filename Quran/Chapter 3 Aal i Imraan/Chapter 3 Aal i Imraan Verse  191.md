@@ -986,7 +986,7 @@ Degenen die Allah gedenken terwijl zij staan en zitten on op hun zij liggen en n
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij die staande, zittende en op hun zijden liggende Ailah gedenken, en nadenken over de schepping der hemelen en der aarde, zeggende: 'Onze Heer, Gij hebt dit niet tevergeefs geschapen; neen, heilig zijt Gij; red ons daarom van de straf van het Vuur
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

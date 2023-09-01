@@ -986,7 +986,7 @@ En de kamelen (om te offeren) hebben Wij voor jullie gemaakt als behorend tot de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En onder de heilige tekenen van Allah hebben Wij voor u de offerkamelen aangewezen. In hen is er veel voordeel voor u. Spreekt daarom de naam van Allah over hen uit terwijl zij in rijen staan opgesteld. En wanneer ze op hun zij neervallen, eet er van en voedt de rijken en de armen. Aldus hebben Wij hen aan u dienstbaar gemaakt, opdat gij dankbaar moogt zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

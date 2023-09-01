@@ -986,7 +986,7 @@ Toen hij de leeftijd had bereikt waarop hij hem (Ibrâhîm) kon helpen, zei hij:
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen deze de knapenleeftijd bereikte, zeide hij: 'O mijn lieve zoon, ik heb in een droom gezien, dat ik u heb te offeren. Zie, wat zegt gij daarvan?' Deze antwoordde: 'O mijn vader doe zoals u bevolen is, gij zult mij, indien Allah het wil, zeker geduldig vinden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

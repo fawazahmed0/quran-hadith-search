@@ -986,7 +986,7 @@ Als er andere goden dan Allah in zouden zijn, dan zou zij (de hemelen en de aard
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Indien er naast Allah andere Goden waren in (de hemel en op aarde) zouden dezen voorzeker tot chaos zijn vervallen. Verheven is Allah, de Heer van de Troon, boven hetgeen zij zeggen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

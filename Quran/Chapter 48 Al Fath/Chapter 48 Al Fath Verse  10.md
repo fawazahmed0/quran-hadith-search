@@ -986,7 +986,7 @@ Voorwaar, degenen die jou trouw hebben gezworen: voorwaar, zij hebben Allah trou
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, zij die u trouw zweren, zweren trouw aan Allah; Allah´s hand rust op hun handen. Doch wie zijn eed schendt, doet dit tot zijn eigen nadeel en wie zijn belofte aan Allah vervult, Hij zal hem een grote beloning geven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Heb jij degenen niet gezien die dachten dat zij geloofden in wat aan jou geopenb
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kent gij niet degenen, die beweren dat zij geloven in hetgeen u is geopenbaard en hetgeen v��r u is geopenbaard? Zij wensen recht te zoeken bij de opstandigen ofschoon het hun was geboden, dezen te verwerpen. En Satan wenst hen ver van het rechte pad te doen afdwalen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

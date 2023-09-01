@@ -986,7 +986,7 @@ Voorzeker, het welgevallen van Allah was met de gelovigen toen zij jou trouw zwo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, Allah had aan de gelovigen welgevallen, toen zij u onder de boom trouw zwoeren en Hij wist wat in hun hart was en Hij zond op hen kalmte neder en Hij beloonde hen met een spoedige overwinning
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

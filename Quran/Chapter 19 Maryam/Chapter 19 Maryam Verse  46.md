@@ -986,7 +986,7 @@ Hij zei: "Haatjij mijn poden. O (Ibrâhîm? Als jij niet ophoudt, zal ik jou zek
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Antwoordde hij: 'Verzaakt gij mijn goden, o Abraham? Indien gij niet ophoudt, zal ik u zeker uitbannen. Laat mij een tijd met rust
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

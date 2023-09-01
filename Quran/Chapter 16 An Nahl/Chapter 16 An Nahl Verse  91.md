@@ -986,7 +986,7 @@ En komt het verbond met Allah na wanneer jullie je verbonden hebben, en breekt n
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En vervult het verbond met Allah, wanneer gij een verbond sluit; en breekt geen eden na hun bekrachtiging, terwijl gij Allah tot uw Borg hebt gemaakt. Voorzeker, Allah weet wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

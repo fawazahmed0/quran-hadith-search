@@ -986,7 +986,7 @@ En de engel antwoordde hem: O Zacharias! waarlijk wij brengen u tijdingen van ee
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (God antwoordde) 'O Zacharia, Wij brengen u blijde tijding omtrent een zoon wiens naam Jahja (Johannes) zal zijn. Wij hebben voordien niemand aan hem gelijk gemaakt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

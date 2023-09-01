@@ -986,7 +986,7 @@ En als je kun vraagt wie de hemelen en de aarde heeft geschapen en wie de zon en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als gij hen vraagt: 'Wie heeft de hemelen en de aarde geschapen, en de zon en de maan in dienst gesteld?' zullen zij gewis zeggen, 'Allah'. Hoe worden zij dan (van het goede pad) afgewend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

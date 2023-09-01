@@ -986,7 +986,7 @@ Toch namen zij naast Hem goden die niets schiepen en die niet bij machte zijn ze
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toch hebben zij (de mensen) naast Hem goden genomen die niets kunnen scheppen, doch zelf geschapen zijn, en die geen macht hebben om zichzelf goed of kwaad te doen, noch macht hebben over dood, leven of opstanding
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En wie de Boodschapper tegenwerkt nadat de Leiding hem duidelijk is geworden en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hij, die zich tegen de boodschapper verzet nadat diens leiding hem duidelijk is geworden en die een andere weg dan die der gelovigen volgt, Wij zullen hem laten volgen wat hij wil en Wij zullen hem in de hel werpen. Dat is een kwade bestemming
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

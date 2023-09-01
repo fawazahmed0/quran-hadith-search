@@ -986,7 +986,7 @@ En (gedenkt) toen Môesa tot zijn volk zei: "O mijn volk! Voorwaar, jullie hebbe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Mozes tot zijn volk zeide: 'O mijn volk, gij hebt uzelf onrecht aangedaan door het kalf te aanvaarden: derhalve keert terug tot Uw Schepper en doodt uw eigen ik, dat is het beste voor u in het oog van uw Schepper'. Daarna wendde Hij zich genadig tot u. Voorzeker, Hij is Berouwaanvaardend, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

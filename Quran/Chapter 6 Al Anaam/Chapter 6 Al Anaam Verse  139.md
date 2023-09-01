@@ -986,7 +986,7 @@ En zij zeiden: "Wat zich in de buiken van dit vee bevindt is voorbehouden aan on
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zeggen: 'Hetgeen in de baarmoeders van dit en dat vee is, is uitsluitend voor onze mannen en is onze vrouwen verboden, maar als het dood geboren wordt hebben zij allen er deel aan.' Hij zal hen naar hun bewering belonen. Voorzeker, Hij is Alwijs, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

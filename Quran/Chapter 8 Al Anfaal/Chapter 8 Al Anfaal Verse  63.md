@@ -986,7 +986,7 @@ En Hij bracht hun harten tot elkaar. En al had jij alles wat er op de aarde is b
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 en Hij heeft hun harten verenigd. Indien gij al hetgeen op aarde is had besteed, kondet gij hun harten niet hebben verzoend, maar Allah heeft hen verenigd. Voorzeker, Hij is Almachtig, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

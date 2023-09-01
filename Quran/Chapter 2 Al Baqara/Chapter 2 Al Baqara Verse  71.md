@@ -986,7 +986,7 @@ Hij (Môesa) zei: "Hij zegt dat het een koe is die niet bestemd is om de aarde o
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij antwoordde: 'Hij zegt, dat het een koe is, die nog nooit afgericht is geweest, om de aarde te beploegen, of de akkers te bevloeien, een koe, gaaf en vlekkeloos.' Zij zeiden: 'Nu hebt gij het precies gezegd.' Toen slachtten zij haar, doch liever hadden zij het niet gedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

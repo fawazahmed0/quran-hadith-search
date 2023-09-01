@@ -986,7 +986,7 @@ En wie door Allah geleid wordt, hij is de welgeleide; maar wie (door Hem) tot dw
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hij die Allah leidt, is goed geleid, doch voor hem die Hij laat dwalen zult gij buiten Hem geen helper vinden. En Wij zullen hen verzamelen op de Dag der Opstanding, op hun aangezicht, blind, stom en doof voorover liggend. Hun verblijfplaats zal de hel zijn; telkenmale als het Vuur afneemt, zullen Wij de vlam voor hen aanwakkeren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

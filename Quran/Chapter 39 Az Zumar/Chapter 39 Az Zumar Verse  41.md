@@ -986,7 +986,7 @@ Voorwaar, Wij hebben in Waarheid het Boek aan jou gezonden. Wie dan de Leiding a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorwaar, Wij hebben u ten bate der mensen het Boek met Waarheid nedergezonden. Hij die deze leiding volgt, volgt haar ten bate van zijn eigen ziel en wie dwaalt, dwaalt ten nadele van haar. En gij zijt geen voogd over hen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

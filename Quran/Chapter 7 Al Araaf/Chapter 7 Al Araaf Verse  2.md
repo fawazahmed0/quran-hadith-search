@@ -986,7 +986,7 @@ Een boek werd u nedergezonden; laat dus geen twijfel daaromtrent in uwe borst be
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Dit is) een (volmaakt) Boek, dat aan u is geopenbaard - laat er daarom in uw hart geen twijfel zijn om er mede te waarschuwen; - dit is een aanmaning voor de gelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

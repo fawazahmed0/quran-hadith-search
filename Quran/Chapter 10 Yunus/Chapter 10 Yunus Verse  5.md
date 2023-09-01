@@ -986,7 +986,7 @@ Hij is Degene Die de zon heeft gemaakt tot een (stralend) schijnsel en de maan t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die de zon tot een stralend licht maakte en de maan tot een helder licht en er stadia voor verordende, zodat gij het getal der jaren en het berekenen (van de tijd) mocht kennen. Allah heeft dit niet dan in waarheid geschapen. Hij zet de tekenen uiteen voor een volk, dat wil weten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

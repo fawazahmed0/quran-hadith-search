@@ -986,7 +986,7 @@ Gaat daarom naar hem toe. en zegt: 'Voorwaar, wij zijn Boodschappers van jouw He
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gaat dus naar hem toe en zegt: ´Wij zijn de boodschappers van uw Heer; laat derhalve de kinderen van Isra�l met ons weggaan, en doe hun geen leed aan. Wij hebben u, voorwaar, een teken gebracht van uw Heer; vrede rust op hem die de leiding volgt;´
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

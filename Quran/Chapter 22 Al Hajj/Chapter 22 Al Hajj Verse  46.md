@@ -986,7 +986,7 @@ Hebben zij dan niet rondgereisd op de aarde, zodat zij harten kregen om te begri
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij dan niet in het land gereisd zodat zij hart moesten hebben waarmee zij konden begrijpen en oren om er mee te horen? Voorzeker, het zijn niet de ogen die blind zijn doch het hart in (hun) borst is blind
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

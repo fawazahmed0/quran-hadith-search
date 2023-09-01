@@ -986,7 +986,7 @@ O jullie die geloven! Weest niet als degenen die ongelovig zijn en (die) over hu
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O gij die gelooft, weest niet als de ongelovigen die over hun broeders, wanneer zij door het land reizen of ten strijde trekken, zeggen: 'Waren zij bij ons gebleven, zij zouden niet zijn gestorven of gedood; opdat Allah dit tot een oorzaak van wroeging in hun (der ongelovigen) hart moge maken. Allah geeft leven en veroorzaakt de dood; Allah ziet, wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

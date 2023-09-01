@@ -986,7 +986,7 @@ O jullie die geloven! Wie van jullie zijn godsdienst afvallig is: Allah zal een 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, wie onder u zich van zijn godsdienst afkeert, laat hem weten, dat Allah weldra een ander volk zal voortbrengen dat Hij zal liefhebben en die Hem zullen liefhebben vriendelijk en nederig zijnde jegens de gelovigen en hard en streng jegens de ongelovigen. Zij zullen voor Allah´s zaak strijden en het verwijt van een berisper niet vrezen. Dit is Allah´s genade; Hij schenkt deze aan wie Hij wil en Allah is Milddadig, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

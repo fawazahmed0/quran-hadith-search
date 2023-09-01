@@ -986,7 +986,7 @@ Zij vragen jou (O Moehammad) over het Uur: "Wanneer zal het plaatsvinden?" zeg: 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Vragen zij u omtrent het uur, wanneer het zal plaatsvinden? Zeg: 'De kennis daarvan is slechts bij mijn Heer. Niemand dan Hij kan het op zijn tijd openbaren. Het rust zwaar op de hemel en op de aarde. Het zal slechts onverwacht tot u komen. Zij ondervragen u of gij er goed van op de hoogte zijt. Zeg: 'De kennis er van is slechts bij Allah, maar de meeste mensen weten het niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

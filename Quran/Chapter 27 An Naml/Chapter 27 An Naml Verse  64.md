@@ -986,7 +986,7 @@ Of wie is de schepping begonnen en heeft haar vervolgens herhaald; en wie heeft 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij Die de schepping voortbrengt en dat dan herhaalt, en u (voedsel) voorziet uit de hemel en de aarde? Is er een God naast Allah?' Zeg: 'Geeft uw bewijs hiervoor als gij waarachtig zijt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Als zij zich dan afwenden, zeg dan: "Allah is mij voldoende, geen god is er dan 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar indien zij zich afwenden zeg dan: 'Allah is mij toereikend. Er is geen God naast Hem. In Hem leg ik mijn vertrouwen want Hij is de Heer van de grote heerschappij
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

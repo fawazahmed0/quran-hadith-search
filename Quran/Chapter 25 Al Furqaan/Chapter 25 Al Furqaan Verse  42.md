@@ -986,7 +986,7 @@ Hij had ons bijna van onze goden doen afdwalen, als wij niet geduldig met hen ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij had ons inderdaad bijna van onze Goden doen afdwalen, als wij jegens hen niet standvastig waren gebleven.' Maar zij zullen weldra te weten komen, wanneer zij de straf zullen aanschouwen, wie het meest afgedwaald is van het rechte pad
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

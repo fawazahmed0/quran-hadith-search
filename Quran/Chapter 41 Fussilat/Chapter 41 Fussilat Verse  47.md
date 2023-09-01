@@ -986,7 +986,7 @@ Tot Hem wordt de kennis over het Uur teruggebracht. En er komen geen vruchten ui
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Naar Hem alleen wordt de kennis van het Uur verwezen. En geen vruchten komen voort uit hun bloemscheden noch wordt een enkele vrouw zwanger noch wordt zij verlost, dan met Zijn kennis. En de Dag waarop Hij tot hen zal roepen: 'Waar zijn Mijn medegoden?' zullen zij antwoorden: 'Wij verklaren U, dat niemand van ons getuige is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hij schiep de hemelen en de aarde, zonder pilaren die jullie kunnen zien, en Hij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij heeft de hemelen geschapen zonder enige voor u zichtbare pilaren en Hij heeft op aarde hechte bergen gemaakt opdat zij niet beven met u, en Hij heeft er allerlei dieren over verspreid. Wij hebben water uit de wolken nedergezonden en hebben allerlei edele soorten daarin (de aarde) doen groeien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

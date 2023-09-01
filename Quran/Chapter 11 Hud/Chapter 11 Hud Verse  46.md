@@ -986,7 +986,7 @@ Hij (Allah) zei: "O Nôeh, voorwaar, hij behoort niet tot jouw familie, voorwaar
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij (God) zeide: 'O, Noach, hij behoort niet tot uw gezin omdat zijn daden niet goed zijn; daarom vraag Mij niet over hetgeen waarvan gij geen kennis bezit. Ik geef u raad om niet tot de onwetenden te behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

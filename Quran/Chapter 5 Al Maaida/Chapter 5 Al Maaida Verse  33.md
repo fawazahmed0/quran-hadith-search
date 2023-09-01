@@ -986,7 +986,7 @@ Voorwaar, de vergelding van degenen die oorlog voeren tegen Allah en Zijn Boodsc
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De vergelding dergenen die oorlog tegen Allah en Zijn boodschappers voeren en er naar streven wanorde in het land te scheppen, is slechts dat zij gedood of gekruisigd worden, of dat hun handen en hun voeten de ene rechts en de andere links, worden afgesneden, of dat zij het land worden uitgezet. Dat zal voor hen een schande in deze wereld zijn en in het Hiernamaals zullen zij een grote straf ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hopelijk kan ik goede werken verrichten voor wat ik nagelaten heb." Zeker niet! 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Opdat ik recht doe in hetgeen ik heb achtergelaten.' (Dan wordt er gezegd): 'In geen geval; het is slechts een woord dat hij uit.' En achter hen is een hindernis tot de Dag waarop zij gewekt zullen worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

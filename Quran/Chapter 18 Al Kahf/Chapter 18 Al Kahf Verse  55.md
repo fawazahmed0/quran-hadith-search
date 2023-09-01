@@ -986,7 +986,7 @@ En er is niets dat de mens verhindert om te geloven als de Leiding tot hen komt 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En niets belet de mensen te geloven wanneer de leiding tot hen komt en hun Heer vergiffenis te vragen, dan (dat zij vragen) dat de weg der voorvaderen over hen kome of dat de straf voor hun ogen kome
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

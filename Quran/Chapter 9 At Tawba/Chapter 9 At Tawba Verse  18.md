@@ -986,7 +986,7 @@ Voorwaar, de moskeeën van Allah worden slechts verzorgd door wie in Allah en de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alleen hij kan de Moskee�n onderhouden die in Allah en de laatste Dag gelooft en het gebed houdt en de Zakaat betaalt en niemand vreest behalve Allah. Dezen zijn het die tot de geleiden behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

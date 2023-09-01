@@ -986,7 +986,7 @@ Behalve degenen die berouw hebben getoond, zich gebeterd hebben en (de Waarheid)
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar zij, die berouw hebben en zich beteren en (de Waarheid) verkondigen, dezen zijn het, tot wie Ik Mij met vergiffenis wend - Ik ben Berouwaanvaardend, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

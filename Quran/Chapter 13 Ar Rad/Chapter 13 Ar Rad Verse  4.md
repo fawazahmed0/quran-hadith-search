@@ -986,7 +986,7 @@ En op de aarde zijn streken naast elkaar, en druivenstruiken, en planten en dade
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er zijn op aarde aan elkaar grenzende streken en tuinen van wijnstokken, en korenvelden en dadelpalmen, met ��n wortel of met verschillende wortels, zij worden met hetzelfde water besproeid en toch doen Wij sommigen er van in fruit boven anderen uitmunten. Daarin zijn tekenen voor een volk, dat begrijpt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

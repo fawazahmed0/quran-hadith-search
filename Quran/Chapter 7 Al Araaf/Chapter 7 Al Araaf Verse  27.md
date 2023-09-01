@@ -986,7 +986,7 @@ OKinderen van Adam, laat de Satan jullie niet in verzoeking brengen, zoals hij j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O kinderen van Adam, laat Satan u niet verleiden, zoals hij uw ouders uit het paradijs verdreef en hen van hun kleding beroofde, opdat hij hun hun naaktheid mocht tonen. Waarlijk, hij ziet u, hij en zijn stam, vanwaar gij hen niet ziet. Voorzeker, Wij hebben de duivelen vrienden gemaakt voor hen, die niet geloven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

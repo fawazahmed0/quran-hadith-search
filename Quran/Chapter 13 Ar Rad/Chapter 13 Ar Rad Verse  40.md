@@ -986,7 +986,7 @@ En als Wij jou een deel laten zien van wat Wij hen aangezegd hebben, of jou doen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of Wij u sommige der dingen doen zien waarmede Wij hen hebben bedreigd, of u doen sterven - op u rust (alleen) de verkondiging (der boodschap) en op Ons de verrekening
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

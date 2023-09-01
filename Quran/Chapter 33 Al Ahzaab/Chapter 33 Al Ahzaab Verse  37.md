@@ -986,7 +986,7 @@ En (gedenk) toen jij (O Moehammad) zei tot degene die door Allah begenadigd was 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En herinnert u, toen gij tot hem, wie Allah gunsten had bewezen en wie gij ook gunsten had bewezen, zeidet: 'Behoud uw vrouw voor u en vrees Allah.' Gij verborgt in uw hart wat Allah aan het licht zou brengen, en gij vreesdet de mensen terwijl Allah er meer recht op heeft dat gij Hem zoudt vrezen. Toen Zaid van haar scheidde, verenigden Wij haar met u in de echt, opdat er voor de gelovigen geen bezwaar mocht zijn ten opzichte van de vrouwen van hun aangenomen zonen, als zij van haar zijn gescheiden. Allah´s gebod moet worden nageleefd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En jij (O Moehammad) zal de Engelen zien rondgaan om de Troon, de Glorie van hun
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gij zult de engelen om de Troon zien dringen, hun Heer lovende met de roem, die Hem toekomt. En er zal tussen hen met Waarheid worden geoordeeld. En er zal worden gezegd: 'Alle lof behoort aan Allah, de Heer der Werelden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

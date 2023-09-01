@@ -986,7 +986,7 @@ En voorzeker, de Boodschappers van voor jou werden inderdaad geloochend en zij w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gewis, de boodschappers v��r u werden ook verloochend en gekweld, niettemin bleven zij geduldig in datgene, waarvoor zij waren verloochend; totdat onze hulp tot hen kwam. Er is niemand die de woorden van Allah kan veranderen. En er zijn reeds tijdingen omtrent die boodschappers tot u gekomen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

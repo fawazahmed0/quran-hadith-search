@@ -986,7 +986,7 @@ Daarna verwisselden degenen die onrecht pleegden het Woord met iets anders dan w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar de onrechtvaardigen vervingen het woord door een ander, dat niet tegen hen gesproken was. Daarom zonden Wij over de onrechtvaardigen een grote straf vanuit de hemel, omdat zij plachten te overtreden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

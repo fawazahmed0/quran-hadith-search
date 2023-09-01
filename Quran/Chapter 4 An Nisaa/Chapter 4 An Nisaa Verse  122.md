@@ -986,7 +986,7 @@ Degenen die geloven en goede werken verrichten: Wij zullen hen in Tuinen (het Pa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen, die geloven en goede werken verrichten, zullen Wij in tuinen toelaten, waar doorheen rivieren stromen en zij zullen daar voor eeuwig vertoeven. De belofte van Allah is werkelijkheid en wie is waarachtiger in woord, dan Allah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

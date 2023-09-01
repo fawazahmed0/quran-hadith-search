@@ -986,7 +986,7 @@ Voorwaar, de mannen die bijdragen geven en de vrouwen die bijdragen geven en All
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De mannen en vrouwen die aalmoezen geven en degenen die met Allah een goede lening sluiten - deze zal voor hen vermenigvuldigd worden, bovendien zullen zij een eervolle beloning ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

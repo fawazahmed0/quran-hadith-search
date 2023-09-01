@@ -986,7 +986,7 @@ En vreest de Dag waarop jullie tot Allah teruggevoerd zullen worden: dan zal ied
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En vreest de dag, waarop gij tot Allah zult worden teruggebracht; dan zal aan elke ziel ten volle worden betaald hetgeen zij heeft verdiend; en onrecht zal hen niet worden aangedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Al werd de zee inkt om de Woorden van mijn Heer (op te schri
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Al ware de oceaan inkt voor de Woorden van mijn Heer, zo zou de oceaan zijn uitgeput eer de Woorden van mijn Heer ten einde komen - zelfs al zouden Wij er evenveel ter aanvulling toevoegen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

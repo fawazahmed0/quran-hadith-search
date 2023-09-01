@@ -986,7 +986,7 @@ Het is geen zonde voor hen (vrouwen van de Profeet) om met hun vaders, hun zonen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er rust op haar (uw vrouwen) geen schuld als zij zich tonen aan haar vaders of haar zonen of haar broeders of de zonen van haar broeders, of de zonen van haar zusters en hun vrouwen of hun ondergeschikten. Maar vreest Allah. Voorwaar, Allah is Getuige van alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

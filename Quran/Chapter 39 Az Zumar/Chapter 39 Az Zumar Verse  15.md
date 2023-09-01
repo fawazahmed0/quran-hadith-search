@@ -986,7 +986,7 @@ Aanbidt den maar naast Hem wat jullie willen." Zeg: "Voorwaar, de verliezers zij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Aanbidt wie gij wilt buiten Hem. Op de Dag der Opstanding zullen zij de verliezers zijn, die zichzelf en hun familie hebben benadeeld.' Ziet toe, dit is het duidelijke verlies
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

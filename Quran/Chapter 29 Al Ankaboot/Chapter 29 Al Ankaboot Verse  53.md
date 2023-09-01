@@ -986,7 +986,7 @@ En zij vragen jou om de bestraffing te laten bespoedigen. En als er geen vastges
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij vragen u de straf te verhaasten; en indien er geen termijn was genoemd zou de straf reeds over hen zijn gekomen; toch zal deze hen zeker onverwachts overvallen terwijl zij het niet voorzien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

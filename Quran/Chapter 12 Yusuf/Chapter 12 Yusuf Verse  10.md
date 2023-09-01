@@ -986,7 +986,7 @@ Eén van hen zei: "Doodt Yôesoef niet, maar werpt hem op de bodem van de put, o
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E�n hunner zeide: 'Doodt Jozef niet, maar als gij iets moet doen werpt hem dan op de bodem van een diepe put; iemand uit een karavaan zal hem opnemen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

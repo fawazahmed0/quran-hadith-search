@@ -986,7 +986,7 @@ Hij wendt zich trotsch af, ten einde de menschen van Gods weg af te leiden. Scha
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zich hooghartig afkerend ten einde anderen af te leiden van Allah´s weg. Voor hem is er schande in deze wereld en op de Dag der Verrijzenis zullen Wij hem de straf van het branden doen ondergaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

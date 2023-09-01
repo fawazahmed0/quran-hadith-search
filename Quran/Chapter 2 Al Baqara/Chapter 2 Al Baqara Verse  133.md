@@ -986,7 +986,7 @@ Of waren jullie getuigen toen Ya'qoeb de dood nabij was (en) hij tot zijn kinder
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of waart gij aanwezig, toen de dood tot Jacob kwam en hij tot zijn zonen zeide: 'Wat zult gij na mij aanbidden?' Zij antwoordden: 'Wij zullen uw God aanbidden, de God uwer vaderen, Abraham, Isma�l en Iza�k, de enige God, aan Hem zijn wij onderworpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ O Profeet als jullie van de vrouwen scheiden, scheidt dan van hen met inachtnemi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, profeet, indien gij van de vrouwen scheidt, scheidt dan van haar voor de vastgestelde periode en berekent de periode, en vreest Allah uw Heer. Verdrijft haar niet uit haar vertrekken, noch behoeven zij uit zichzelf weg te gaan (v��r de bepaalde termijn) tenzij zij zich openlijk onbetamelijk gedragen. Dit zijn Allah´s vastgestelde grenzen; en wie de door Allah bepaalde grenzen overschrijdt doet zeker zijn eigen ziel onrecht aan. Gij weet niet; misschien zal Allah daarna iets beters teweegbrengen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

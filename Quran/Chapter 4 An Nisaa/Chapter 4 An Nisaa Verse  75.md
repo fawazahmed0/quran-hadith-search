@@ -986,7 +986,7 @@ En waarom zouden jullie niet vechten op de Weg van Allah (ter verdediging) van d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En waarom strijdt gij niet voor de zaak van Allah en voor de zwakken -- mannen, vrouwen en kinderen - die zeggen: 'Onze Heer, neem ons uit deze stad waarvan de bewoners onderdrukkers zijn en schenk ons een vriend en een helper uwerzijds
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

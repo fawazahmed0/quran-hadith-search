@@ -986,7 +986,7 @@ Zoals Fir'aun en zijn volgelingen en degenen vóór hen; zij loochhenden de Teke
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zoals het volk van Pharao en degenen, die v��r hen waren; zij verloochenden de tekenen van hun Heer daarom vernietigden Wij hen voor hun zonden. En Wij verdronken het volk van Pharao want zij waren allen onrechtvaardig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

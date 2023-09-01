@@ -986,7 +986,7 @@ En wanneer er een Teken tot hen komt, dan zeggen zei: "Wij zullen nooit geloven 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer er tot hen een teken komt, zeggen zij: 'Wij zullen niet geloven voordat ons hetzelfde is gegeven als hetgeen Allah´s boodschappers is gegeven.' Allah weet het beste waar Zijn boodschapte plaatsen. Vernedering bij Allah en een strenge straf zal de overtreders voorzeker treffen, wegens hetgeen zij beramen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

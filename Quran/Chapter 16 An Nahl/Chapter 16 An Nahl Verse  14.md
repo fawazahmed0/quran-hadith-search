@@ -986,7 +986,7 @@ En Hij is Degene Die de zee diemtbau heeft getnaakt, opdat jullie uit haar vers 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Hij is het, Die de zee tot uw beschikking heeft gesteld opdat gij er vers vlees van moogt eten en er sieraden uit moogt nemen die gij draagt. En gij ziet er de schepen over varen opdat gij van Zijn overvloed moogt zoeken en dankbaar moogt zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En voorzeker, jullie komen een voor een tot Ons, zoals Wij jullie de eerste keer
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nu zijt gij ��n voor ��n tot Ons gekomen zoals Wij u eerst schiepen en gij hebt, hetgeen Wij u schonken achter u gelaten en Wij zien de bemiddelaren, waarvan gij beweerdet dat zij deelgenoten waren in uw zaken, niet bij u. Voorzeker is nu (de band) tussen u afgesneden en hetgeen gij placht te beweren is verloren gegaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

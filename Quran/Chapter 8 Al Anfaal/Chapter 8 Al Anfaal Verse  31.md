@@ -986,7 +986,7 @@ En wanneer Onze Verzen aan ben worden voorgedragen, dan zeggen zij: "Wij hebben 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wanneer Onze verzen worden voorgelezen aan hen, zeggen zij: 'Wij hebben het gehoord. Als wij willen kunnen wij gewis iets dergelijks uiten. Dit zijn niets dan fabelen der ouden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

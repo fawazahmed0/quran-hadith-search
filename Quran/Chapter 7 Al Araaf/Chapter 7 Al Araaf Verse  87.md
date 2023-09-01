@@ -986,7 +986,7 @@ En als er een groep onder jullie is die gelooft in hetgeen waarmee ik (Sjoe'aib)
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als er een groep onder u is die gelooft in hetgeen waarmede ik ben gezonden en een andere groep die dit niet gelooft, wacht dan geduldig totdat Allah onder ons richt. Want Hij is de beste Rechter
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

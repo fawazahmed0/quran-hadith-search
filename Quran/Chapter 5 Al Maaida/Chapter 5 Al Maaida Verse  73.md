@@ -986,7 +986,7 @@ Voorzeker zij zijn ongelovig die zeggen: "Allah is één derde van drie (goden).
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk zij lasteren God, die zeggen: 'Allah is E�n der Drie.' Er is geen God dan de enige God. En indien zij niet ophouden met hetgeen zij beweren, zal de ongelovigen een smartelijke straf overkomen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

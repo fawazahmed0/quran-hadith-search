@@ -986,7 +986,7 @@ Keer naar Hen terug, wij komen zeker met troepen naar hen, waartegen zij geen ve
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gaat tot hen terug, want wij zullen zeker tot hen komen met scharen waartegen zij geen macht zullen hebben, wij zullen hen met ontering daaruit (de stad) verdrijven en zij zullen vernederd worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

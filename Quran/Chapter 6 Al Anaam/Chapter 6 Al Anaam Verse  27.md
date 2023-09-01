@@ -986,7 +986,7 @@ En als jij (hen) kon zien wanneer zij bij de Hel geplaatst worden en zij dan zeg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als gij het slechts zoudt kunnen zien, wanneer zij voor het Vuur zullen worden gebracht! Zij zullen dan zeggen: 'O, mochten wij slechts worden teruggezonden, dan zouden wij de tekenen van onze Heer niet meer verloochenen en wij zouden tot de gelovigen behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

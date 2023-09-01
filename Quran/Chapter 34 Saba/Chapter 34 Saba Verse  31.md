@@ -986,7 +986,7 @@ En degenen die ongelovig zijn, zeggen: "Wij zullen nooit in deze Koran geloven, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de ongelovigen zeggen: 'Wij zullen stellig aan deze verkondiging niet geloven, noch in hetgeen er aan voorafging.' En kondet gij slechts zien wanneer de onrechtvaardigen voor hun Heer zullen worden gebracht, terwijl zij de schuld op elkander zullen werpen. De zwakken zullen tot de hoogmoedigen zeggen: 'Waart gij niet geweest dan zouden wij zeker tot de gelovigen behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

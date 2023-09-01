@@ -986,7 +986,7 @@ O Kinderen van Adam, wanneer er Boodschappers uit jullie midden tot jullie komen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, kinderen van Adam, als boodschappers vanuit uw midden tot u komen, die Mijn tekenen aan u voordragen, dan, wie Allah zal vrezen en goede daden verrichten, over hen zal geen vrees komen, noch zullen zij treuren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ De huichelaars vrezen dat er over hen een Soerah (hoofdstuk) wordt neergezonden 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De huichelaars vrezen, dat een Soerah tegen hen zou worden geopenbaard die hen zou onderrichten over hetgeen in hun hart is. Zeg (tot hen): 'Spot maar, voorzeker, Allah zal al hetgeen gij vreest aan het licht brengen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

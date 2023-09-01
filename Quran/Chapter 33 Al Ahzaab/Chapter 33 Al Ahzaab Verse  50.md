@@ -986,7 +986,7 @@ O Profeet, voorwaar. Wij hebben jou jouw echtgenotes die jij hun bruidschat hebt
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O profeet, Wij hebben voor u uw vrouwen wettig gemaakt, aan wie gij haar huwelijksgiften hebt gegeven, en degenen die uw rechterhand bezit van haar, die Allah u als een oorlogsbuit heeft gegeven en de dochters van uw ooms en tantes van vaderszijde en de dochters van uw ooms en tantes van moederszijde die met u emigreerden, en elke gelovige vrouw indien zij zich aan de profeet toevertrouwt als de profeet haar wenst te huwen; dit is slechts voor u en niet voor de gelovigen. Wij hebben reeds kenbaar gemaakt wat Wij omtrent hun (gelovige) vrouwen en degenen die hun rechterhand bezit, hebben verordend, opdat er geen blaam u aankleve. Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

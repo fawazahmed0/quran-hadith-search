@@ -986,7 +986,7 @@ Zij zijn degenen die niet geloofden en die jullie afhielden van de Masdjid Al Ha
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zijn het die niet geloofden en u van de Heilige Moskee afhielden en de offeranden verhinderden hun bestemming te bereiken. En ware het niet om de gelovige mannen en vrouwen die gij niet kent en die gij hadt kunnen vertrappen zodat wegens hen een blaam aan u kon hebben gekleefd zonder dat gij het wist, (zou Hij u hebben toegestaan te vechten, maar Hij deed dat niet) opdat Hij in Zijn barmhartigheid zou opnemen wie Hij wil. Als zij gescheiden waren zouden Wij de ongelovigen onder hen voorzeker met een smartelijke straf hebben gestraft
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

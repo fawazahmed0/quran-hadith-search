@@ -986,7 +986,7 @@ En zij vragen jou over de menstruatie (Haid). Zeg: "Dat is een onreinheid, vermi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij vragen u omtrent de menstruatie. Zeg (hun): 'Het is iets schadelijks, blijft dus gedurende de menstruatie van de vrouwen weg en gaat niet tot haar in, voordat zij hersteld zijn. Maar wanneer zij zich hebben gereinigd, gaat tot haar in, zoals Allah het u heeft bevolen. Allah bemint hen, die zich tot Hem wenden en zich rein houden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

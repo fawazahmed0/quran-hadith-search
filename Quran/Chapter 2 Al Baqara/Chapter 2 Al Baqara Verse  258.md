@@ -986,7 +986,7 @@ Weet jij niet van degene die met Ibrâhîm over zijn Heer redetwistte, omdat All
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebt gij niet vernomen van hem, die met Abraham over zijn Heer redetwistte, omdat Allah hem het koninkrijk had gegeven? Toen Abraham zeide: 'Mijn Heer is Hij, die het leven geeft en doet sterven', zeide hij: 'Ik geef leven en doe sterven.' Abraham zeide: 'Nu, Allah doet de zon van het Oosten opgaan, doet gij haar van het Westen opgaan.' Daarop verstomde de ongelovige in verbazing. En Allah leidt het onrechtvaardige volk niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Allah is Degene Die jullie heeft geschapen en jullie daarop voorzag. Vervolgens 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is Allah, Die u schept en dan voor u zorgt en daarna doet Hij u sterven en dan zal Hij u doen herleven. Is er een onder uw afgoden, die iets dergelijks kan doen? Heilig is Hij en verheven boven hetgeen zij (met Hem) vereenzelvigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

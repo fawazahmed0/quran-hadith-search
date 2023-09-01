@@ -986,7 +986,7 @@ Zeg: "Zijn er onder jullie afgoden die naar de Waarheid leiden? Zeg: "Allah leid
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Is er ��n uwer afgoden, die tot de waarheid leidt?' Zeg: 'Allah is het, Die tot de waarheid leidt. Is daarom Hij, Die tot de waarheid leidt waardiger om te worden gevolgd, ofwel hij, die zelf de weg niet vindt, tenzij hij wordt geleid? Wat is er met u? Hoe oordeelt gij
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

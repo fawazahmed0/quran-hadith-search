@@ -986,7 +986,7 @@ En wie daartoe geen mogelijkheid vindt (moet) dan gedurende twee opeenvolgende m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar wie geen slaaf vindt, laat hem twee achtereenvolgende maanden vasten, voordat zij elkander aanraken. En wie dat niet doen kan, moet zestig arme mensen voeden. Dit is een bevel, opdat gij moogt geloven aan Allah en Zijn boodschapper. Dit zijn de verordeningen van Allah; en er is een pijnlijke straf voor de ongelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zouden zij een andere godsdient dan die van Allah zoeken, terwijl degenen die er
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zoeken zij een godsdienst anders, dan die van Allah, terwijl al hetgeen in de hemelen en op aarde is zich willens of onwillens aan Hem moet onderwerpen? En tot Hem zullen zij worden teruggebracht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

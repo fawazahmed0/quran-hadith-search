@@ -986,7 +986,7 @@ Voorwaar, de gelijkenis van het wereldse leven is als water dat Wij uit de hemel
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De gelijkenis van het tegenwoordige leven is slechts als water, dat Wij uit de wolken nederzenden, daarna groeit hierdoor het gewas van de aarde weelderig, waarvan mensen en vee eten, totdat, wanneer de aarde haar sier ontvangt en er schoon uitziet en haar eigenaars denken, dat zij er macht over bezitten, Ons gebod bij dag of bij nacht tot haar komt, dan maken Wij haar tot een gemaaid veld, alsof er de vorige dag niets was geweest. Zo leggen Wij de tekenen uit aan een volk, dat nadenkt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

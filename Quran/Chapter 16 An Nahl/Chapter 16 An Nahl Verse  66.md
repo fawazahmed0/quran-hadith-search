@@ -986,7 +986,7 @@ En voorwaar, voor jullie is er in het vee een lering: Wij geven jullie van wat e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ook het vee bevat voorzeker een les voor u. Wij geven u van hetgeen in hun buik is, van tussen het uitwerpsel en het bloed, n.l. melk, zuiver en aangenaam voor degenen die drinken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

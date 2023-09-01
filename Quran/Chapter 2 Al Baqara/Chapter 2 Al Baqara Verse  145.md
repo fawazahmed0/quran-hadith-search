@@ -986,7 +986,7 @@ En als jij aan degenen aan wie de Schrift is gegeven alle Tekenen brengt, dan no
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zelfs al bracht gij elk teken aan degenen aan wie het Boek is gegeven, zouden zij nooit uw Qiblah volgen, noch kunt gij hun Qiblah volgen, noch zijn er onder hen, die de Qiblah van anderen volgen. En indien gij aan hun wens zoudt voldoen, nadat kennis tot u is gekomen, zoudt gij zeker tot de onrechtvaardigen behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

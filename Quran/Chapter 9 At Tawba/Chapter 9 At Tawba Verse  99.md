@@ -986,7 +986,7 @@ En onder de bedoeïenen zijn er die geloven in Allah en de Laatste Dag en die hu
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En er zijn onder de woestijn-Arabieren, die in Allah en de laatste Dag geloven en die hetgeen zij weggeven als middelen beschouwen tot Allah´s nabijheid en tot de zegeningen van de profeet. Ziet toe! Het is stellig voor hen een middel tot Zijn nabijheid. Allah zal hen weldra tot Zijn barmhartigheid toelaten. Allah is Vergevensgezind, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Degenen die ongelovig zijn onder de Lieden van de schrift (de Joden en de christ
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij die niet geloven onder de mensen van het Boek, en de afgodendienaren, gunnen niet, dat iets goeds tot u nedergezonden wordt van uw Heer; maar Allah kiest voor Zijn barmhartigheid, wie Hij wil en Allah is de Heer van grote genade
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

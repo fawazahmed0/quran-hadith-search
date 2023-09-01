@@ -986,7 +986,7 @@ Zij (de Joden en de Christenen) zeggen: "Allah heeft Zich een zoon genomen." Hei
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeggen: 'Allah heeft een zoon tot Zich genomen. Heilig is Hij, Hij is Zichzelf genoeg. Aan Hem behoort wat in de hemelen en op aarde is. Gij hebt hier geen gezag over. Zegt gij over Allah wat gij niet weet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

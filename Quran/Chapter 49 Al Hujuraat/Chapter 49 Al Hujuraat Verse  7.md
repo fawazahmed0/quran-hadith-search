@@ -986,7 +986,7 @@ En weet dat onder jullie zich de Boodschapper van Allah bevindt. Als hij jullie 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En weet, dat de boodsehapper van Allah onder u is; als hij in verschillende opzichten aan uw wensen gehoor zou geven zoudt gij zeker in moeilijkheden zijn geraakt, maar Allah heeft in uw hart het geloof dierbaar en schoon gemaakt, en ongeloof, buitensporigheid en ongehoorzaamheid afkeurenswaardig. Zo zijn zij, die het rechte pad volgen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En Wij maakten stevige bergen op de aarde, zodat zij niet met hen schudt. En Wij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij hebben op aarde onwrikbare bergen geplaatst, opdat zij niet met hen (de mensen) zouden beven; en Wij hebben er wijde wegen gemaakt, opdat zij de juiste richting zouden volgen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

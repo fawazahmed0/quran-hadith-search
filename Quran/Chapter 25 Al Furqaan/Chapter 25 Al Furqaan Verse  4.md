@@ -986,7 +986,7 @@ En degenen die ongelovig zijn, zeggen: "Dit is slechts een leugen die hij verzon
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De ongelovigen zeggen: 'Dit is niets dan een leugen, die hij (de Profeet) verzonnen heeft en andere mensen hebben hem er bij geholpen.' Maar zij uiten daarmee onrechtvaardigheid en leugen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

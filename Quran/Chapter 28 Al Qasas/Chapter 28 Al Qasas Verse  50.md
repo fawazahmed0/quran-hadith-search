@@ -986,7 +986,7 @@ Als zij jou den geen antwoord geven, weet dan dat zij slechts hun begeerten volg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar als zij u niet antwoorden, weet dan dat zij slechts hun eigen begeerten volgen. En wie dwaalt meer dan hij die zijn eigen neigingen volgt zonder de leiding van Allah? Voorwaar, Allah leidt de onrechtvaardige mensen niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

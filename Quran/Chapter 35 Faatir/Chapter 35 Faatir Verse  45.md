@@ -986,7 +986,7 @@ En als Allah de mensen zou grijpen wegens wat zij bedreven hebben, dan zott Hij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien Allah de mensen zou straffen voor hetgeen zij doen, zou Hij geen schepsel op de oppervlakte ervan achterlaten; maar Hij schenkt hun uitstel tot een vastgestelde tijd; en wanneer die vastgestelde tijd komt: voorwaar Allah kent Zijn dienaren goed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

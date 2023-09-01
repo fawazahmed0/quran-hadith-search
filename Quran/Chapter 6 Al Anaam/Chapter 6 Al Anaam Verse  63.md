@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Wie redt jullie uit de duisternissen van het land en de zee 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Wie verlost u van de rampen van het land en van de zee wanneer gij Hem in nederigheid en in het geheim aanroept? (zeggende): ´Indien Hij ons hiervan redt zullen wij zeker tot de dankbaren behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

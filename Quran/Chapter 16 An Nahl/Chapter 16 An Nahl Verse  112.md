@@ -986,7 +986,7 @@ En Allah geeft een voorbeeld: een veilige en rustige stad had haar voorzieningen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Allah geeft de gelijkenis van een stad, die in rust en vrede was en wier voorziening in overvloed van alle kanten tot haar kwam; maar zij was ondankbaar voor de gunsten van Allah en daarom deed Allah honger en vrees over haar komen voor hetgeen zij deed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

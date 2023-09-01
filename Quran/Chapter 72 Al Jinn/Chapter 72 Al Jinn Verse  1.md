@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Het is aan mij geopenbaard dat een aantal Djinn's heeft meeg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Het is aan mij geopenbaard dat een groep der djinn heeft geluisterd (naar de Koran), en zij zeiden: ´Waarlijk, wij hebben een wonderbaarlijke verkondiging gehoord
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En op de Dag waarop Hij hen en wat zij naast Allah aanbidden zal verzamelen, zal
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de Dag waarop Hij de ongelovigen en degenen die zij naast Allah aanbidden zal verzamelen, zal Hij vragen: 'Waart gij het, die deze mijn dienaren deedt dwalen, of dwaalden zij zelf van het rechte pad af
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

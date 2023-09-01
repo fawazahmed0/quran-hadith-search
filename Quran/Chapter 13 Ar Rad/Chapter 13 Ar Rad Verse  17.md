@@ -986,7 +986,7 @@ Hij (Allah) deed water uit de hemel neerdalen, dat daarna in beddingen naar hun 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij zendt water van de hemel neder, zodat stromen overeenkomstig hun afmeting vloeien en de vloed zwellend schuim draagt. En van hetgeen zij (de mensen) in het vuur verhitten om sieraden en gereedschappen te vervaardigen komt een soortgelijk schuim. Zo licht Allah de waarheid en de valsheid toe. Wat nu het schuim betreft, het gaat als uitschot weg, maar wat betreft hetgeen de mensen tot nut strekt, dit blijft op aarde. Zo geeft Allah de gelijkenissen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

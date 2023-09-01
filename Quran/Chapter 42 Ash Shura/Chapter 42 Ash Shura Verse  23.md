@@ -986,7 +986,7 @@ Dat is wat Allah als verheugende tijding aan zijn dienaren verkondigt, degenen d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dit is het waarvan Allah aan Zijn dienaren die geloven en goede werken doen, de blijde tijdingen geeft. Zeg: 'Ik vraag u geen loon voor (mijn prediking), behalve liefde van verwanten.' En hij die het goede verricht zullen Wij in goedheid doen toenemen. Voorzeker, Allah is Vergevensgezind, Waarderend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

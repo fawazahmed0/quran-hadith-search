@@ -986,7 +986,7 @@ Maar indien van deze twee ontdekt wordt dat zij schuldig zijn aan zonde (mijneed
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar indien ontdekt wordt, dat de twee schuldig zijn aan zonde dan moeten twee anderen hun plaats innemen uit het midden van degenen, tegen wie de twee eersten hebben getuigd; en de laatste twee moeten bij Allah zweren en zeggen: 'Waarlijk, ons getuigenis is oprechter dan de getuigenis van hen (de eersten) en wij zijn geen overtreders, want dan zouden wij inderdaad tot de onrechtvaardigen behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

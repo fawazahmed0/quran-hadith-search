@@ -986,7 +986,7 @@ Of hebben zij naast Hem goden genomen? Zeg (O Moehammad): "Brengt jullie bewijs,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij Goden buiten Hem genomen? Zeg: 'Komt met uw bewijzen.' Hier is de verkondiging dergenen die v��r mij waren. Doch de meesten hunner kennen de waarheid niet en zij zijn er afkerig van
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

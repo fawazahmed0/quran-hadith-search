@@ -986,7 +986,7 @@ En op de Dag dat Wij de bergen verplaatsen, zal jij de aarde duidelijk zien. En 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En (gedenk) de dag waarop Wij de bergen zullen verzetten en gij de aarde zult zien oprijzen en Wij hen (de mensen) zullen verzamelen en niemand hunner zullen Wij achterlaten
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

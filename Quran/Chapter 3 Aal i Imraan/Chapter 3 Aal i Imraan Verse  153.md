@@ -986,7 +986,7 @@ Herinnert u, hoe gij tegen de hoogte opgeklommen zijt, en naar geen uwer omzaagt
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen gij wegvluchttet en naar niemand omzaagt, terwijl de boodschapper u van verre nariep, gaf Hij u smart op smart, opdat gij niet zoudt treuren over hetgeen was verloren, noch over hetgeen met u gebeurde. En Allah is goed op de hoogte van hetgeen gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Of voelen jullie je er veilig voor, dat Hij jullie nog een andere keer (naar de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Of weet gij dan zo zeker dat Hij u daarin niet voor de tweede maal zal terugzenden en dan een stormwind tegen u doen opkomen en u verdrinken wegens uw ongeloof, zodat gij daarin geen helper voor u tegen Ons zult vinden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

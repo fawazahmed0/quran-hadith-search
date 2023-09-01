@@ -986,7 +986,7 @@ En Hij heeft jullie al in het Boek (de Koran) geopenbaard, dat als jullie de Ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Hij heeft u reeds in het Boek ( Koran) geopenbaard, dat wanneer gij hoort dat Allah´s tekenen worden verloochend en bespot, gij niet (eerder) met hen samen zult zijn, dan dat zij zieh met een ander onderwerp bezig houden, anders zoudt gij hun gelijk zijn. Voorzeker, Allah zal de huichelaars en de ongelovigen allen tezamen in de hel bijeenbrengen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

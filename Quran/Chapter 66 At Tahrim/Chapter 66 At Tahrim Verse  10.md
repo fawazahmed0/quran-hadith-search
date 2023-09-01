@@ -986,7 +986,7 @@ Allah heeft degenen die niet geloven de vrouw van Nôeh en de vrouw van Lôeth a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah vergelijkt de ongelovigen met de vrouw van Noach en met die van Lot. Zij behoorden aan twee Onzer rechtvaardige dienaren maar zij waren hun ontrouw. Daarom baatten haar echtgenoten haar niet tegen Allah, en er werd tot hen gezegd: 'Gaat het Vuur in tezamen met degenen die er binnengaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

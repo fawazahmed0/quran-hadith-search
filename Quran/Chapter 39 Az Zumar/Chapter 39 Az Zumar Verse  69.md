@@ -986,7 +986,7 @@ En de aarde zal schijnen met het licht van haar geer en de boeken zullen naar vo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de aarde zal door het licht van haar Heer schitteren, en het Boek zal nedergelegd worden en de profeten en de getuigen zullen worden gebracht en er zal tussen hen met rechtvaardigheid geoordeeld worden en hun zal geen onrecht worden aangedaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

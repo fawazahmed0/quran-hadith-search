@@ -986,7 +986,7 @@ Voor degenen die aan hun Heer gehoor geven, is er het goede (het Paradijs). En d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er zal voor degenen die aan hun Heer gehoor geven het goede zijn, en degenen, die Hem geen gehoor geven - deze zouden, indien zij al hetgeen op aarde is en het gelijke er aan toegevoegd, bezaten, het gaarne als losprijs aanbieden. Dezen zijn het die een boze afrekening zullen ontvangen en hun tehuis is de hel. En dit is een slechte rustplaats
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ O jullie die geloven, weest helpers van (de godsdienst van) Allah, zoals 'Îsa, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, weest Allah´s helpers, zoals toen Jezus, zoon van Maria, tot zijn discipelen zeide: 'Wie zijn mijn helpers terwille van Allah?' De discipelen antwoordden: 'Wij zijn Allah´s helpers!' Toen geloofde een gedeelte van de kinderen Isra�ls, terwijl een ander deel niet geloofde maar Wij hielpen de gelovigen tegen hun vijand en zij werden overwinnaars
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

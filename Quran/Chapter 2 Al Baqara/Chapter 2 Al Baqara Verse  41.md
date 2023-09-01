@@ -986,7 +986,7 @@ En gelooft in wat Ik aan jullie heb neergezonden (de Koran), als bevestiging van
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gelooft in hetgeen Ik heb geopenbaard, vervullende datgene, wat gij reeds bezit en weest niet de eersten, die het verwerpen; verruilt evenmin mijn tekenen voor geringe prijs en zoekt bescherming in Mij alleen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

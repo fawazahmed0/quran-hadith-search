@@ -986,7 +986,7 @@ Voorwaar, degenen die niet geloven besteden hun bezittingen om (de mensen) van h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, de ongelovigen besteden hun rijkdommen om anderen van de weg van Allah af te leiden. Zij zullen doorgaan ze te verspillen maar daarna zullen zij spijt hebben en worden overwonnen. En zij die verwerpen zullen in de hel worden verzameld
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

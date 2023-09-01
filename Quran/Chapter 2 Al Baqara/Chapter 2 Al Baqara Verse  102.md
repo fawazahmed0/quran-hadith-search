@@ -986,7 +986,7 @@ An zij volgden wat de satans voorlazen ten tijde van soelaiman 's koninkrijk en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij volgen dezelfde weg, die de duivels volgden tegen de regering van Salomo - en Salomo was niet ongelovig, maar ongelovig waren de duivels en zij leerden de mensen leugen en bedrog. En (zij handelen naar) hetgeen aan de twee engelen, Haroet en Maroet te Babylon was geopenbaard. Maar deze beiden leerden niemand, voordat zij hadden gezegd: 'Wij zijn slechts een beproeving; weest daarom niet ongelovig'. Zo leren zij (de mensen) van hen datgene waarmede zij een geschil maken tussen een man en zijn vrouw, maar zij schaden er niemand mede, tenzij door Allah´s bevel; maar dezen leren wat hen schaadt en geen goed doet, hoewel zij weten, dat hij, die in deze zaken handelt geen voordeel heeft in het Hiernamaals; slecht is hetgene waarvoor zij hun ziel hebben verkocht; hadden zij het slechts ingezien
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

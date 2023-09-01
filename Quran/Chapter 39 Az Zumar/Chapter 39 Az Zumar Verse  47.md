@@ -986,7 +986,7 @@ En voorwaar, als aan degenen die onrecht pleegden alles zou toebehoren wat zich 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien de onrechtvaardigen bezaten al hetgeen op de aarde is en nog eens zoveel daarbij, zullen zij dit op de Dag der Opstanding als losprijs voor de vreselijke straf willen aanbieden. En wat zij nooit dachten zal hun door Allah onthuld worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

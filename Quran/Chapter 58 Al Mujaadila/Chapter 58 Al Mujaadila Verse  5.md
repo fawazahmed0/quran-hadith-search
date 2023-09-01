@@ -986,7 +986,7 @@ Voorwaar, degenen die zich verzetten tegen Allah en Zijn Boodschapper zullen ver
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen, die tegen Allah en Zijn boodschapper ingaan, zullen zeker vernederd worden zoals degenen die hen vooraf gingen vernederd werden; want Wij hebben reeds duidelijke tekenen nedergezonden. En de ongelovigen zullen een onterende straf ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

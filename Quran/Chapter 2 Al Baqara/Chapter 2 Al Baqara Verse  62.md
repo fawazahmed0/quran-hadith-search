@@ -986,7 +986,7 @@ Voorwaar, degenen die geloven, en degenen die het Jodendom belijden en de Christ
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, de gelovigen, de Joden, de Christenen en de Sabianen - wie onder hen ook in Allah en de laatste Dag geloven en goede daden verrichten, zullen hun beloning bij hun Heer ontvangen en er zal geen vrees over hen komen, noch zullen zij treuren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

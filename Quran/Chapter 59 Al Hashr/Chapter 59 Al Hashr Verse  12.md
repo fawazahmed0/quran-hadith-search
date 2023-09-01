@@ -986,7 +986,7 @@ Als zij worden verdreven, dan zullen zij niet met hen wegtrekken; en als zij wor
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Als zij (de ongelovigen) verbannen zouden worden, zouden (de huichelaars) nooit met hen medegaan en als zij aangevallen zouden worden, zouden zij hen nooit helpen. En indien zij hielpen zouden zij zeker op de vlucht slaan en dan zullen zij niet geholpen worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

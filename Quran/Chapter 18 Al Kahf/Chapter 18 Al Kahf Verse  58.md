@@ -986,7 +986,7 @@ En jouw Heer is de Vergevensgezind, Bezitter van de Barmhartigheid. Indien Hij h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Doch uw Heer is Vergevensgezind, Barmhartig. Indien Hij hen ter verantwoording zou roepen voor hetgeen zij hebben verdiend, dan zou Hij ongetwijfeld hun straf hebben verhaast. Neen, voor hen is een vastgestelde tijd waaraan zij niet kunnen ontkomen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

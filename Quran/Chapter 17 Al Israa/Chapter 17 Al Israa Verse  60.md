@@ -986,7 +986,7 @@ En (gedenk) toen Wij zeiden dat jouw Heer de mensheid omvat. En Wij hebben jou d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Wij tot u zeiden: 'Voorzeker, uw Heer heeft het volk in Zijn hand.' Wij gaven het visioen dat Wij u toonden slechts als een beproeving voor de mensen, evenals de gevloekte boom in de Koran. En Wij waarschuwen hen, doch het doet hen slechts in grotere overtreding toenemen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

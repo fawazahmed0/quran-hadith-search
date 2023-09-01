@@ -986,7 +986,7 @@ En wat is er met jullie, dat jullie niet eten van hetgeen waarover de Naam van A
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En welke reden hebt gij, dat gij niet van datgene zoudt eten, waarover de naam van Allah is uitgesproken, terwijl Hij u reeds heeft uitgelegd wat Hij u heeft verboden, - met uitzondering van datgene waartoe gij gedwongen zijt. En voorzeker, velen misleiden door hun boze neigingen zonder kennis. Waarlijk, uw Heer kent de overtreders het beste
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

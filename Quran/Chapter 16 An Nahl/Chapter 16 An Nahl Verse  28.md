@@ -986,7 +986,7 @@ Zij welken de engelen des doods bij het sterven zullen afwachten omdat zij onrec
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen, die de engelen doen sterven terwijl zij hun ziel onrecht aandoen zullen onderdanigheid aanbieden (en zeggen): 'Wij deden geen kwaad.' Neen, Allah weet, wat gij deedt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

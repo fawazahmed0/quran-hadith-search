@@ -986,7 +986,7 @@ En (gedenkt) de Dag dat degenen die niet geloofden voor de Hel geplaatst zullen 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de Dag, waarop de ongelovigen aan het Vuur zullen worden blootgesteld zal er worden gezegd: 'Is dit niet de waarheid?' Zij zullen antwoorden: 'Ja zeker, bij onze Heer.' Hij zal zeggen: 'Ondergaat dan de straf omdat gij (ons woord) verwierpt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

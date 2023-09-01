@@ -986,7 +986,7 @@ Gelooft in Allah en Zijn Boodschapper en geeft bijdragen van dat waarover Hij ju
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gelooft in Allah en Zijn boodschapper en geeft weg van datgene waarvan Hij u erfgenamen heeft gemaakt. En zij onder u die geloven en besteden (als weldaad) zullen een grote beloning ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

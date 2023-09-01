@@ -986,7 +986,7 @@ De vergelijking met degenen die niet in hun Heer geloven, is alsof hun daden als
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De toestand dergenen die in hun Heer niet geloven, is, dat hun werken als as zijn waarop de wind hevig waait op een stormachtige dag. Zij zullen over hetgeen zij verdienen geen macht bezitten. Dit is inderdaad de volstrekte ondergang
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij (de Engelen) zeiden: "Verbaas jij je over de beschikking van Allah? Het is A
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zeiden: 'Verwondert gij u over Allah´s gebod? De barmhartigheid van Allah en Zijn zegeningen zijn over u, o bewoners van dit huis. Voorzeker, Hij is Geprezen, Glorierijk
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Niet gelijk zijn de (thuis-)zittenden van de gelovigen, behalve gabrekkigen, aan
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Diegenen der gelovigen die niets doen, met uitzondering der onbekwamen, zijn niet gelijk aan degenen die met hun rijkdommen en hun persoon terwille van Allah strijden. Allah heeft degenen, die met hun rijkdommen en hun persoon strijden doen uitmunten boven de rustenden en aan ieder heeft Allah het goede beloofd. Allah zal de strijders boven de stilzittenden doen uitblinken door een grote beloning
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En laat degenen met rust die hun godsdienst tot spel en vennaak nemen, het werel
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Laat degenen die hun geloof tot een spel en tijdverdrijf hebben gemaakt en wie het wereldse leven heeft bedrogen, met rust. En waarschuw hiermee, opdat een ziel niet moge worden overgeleverd voor hetgeen zij heeft gedaan. Zij zal naast Allah geen helper of bemiddelaar hebben. En indien zij (zelfs) alles als losprijs zou aanbieden, zal deze van haar niet worden aanvaard. Dezen zijn het, die zijn overgeleverd voor hetgeen zij verdienden. Zij zullen een drank van kokend water en een smartelijke straf ontvangen, omdat zij verwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

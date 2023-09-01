@@ -986,7 +986,7 @@ En: "O mijn volk, werkt volgens jullie vermogen, ook ik werk, later zullen julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En o, mijn volk, handel op uw wijze, ik handel op de mijne. Gij zult weldra te weten komen over wie een vernederende straf komt en wie een leugenaar is. En wacht af, ik wacht gewis met u
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

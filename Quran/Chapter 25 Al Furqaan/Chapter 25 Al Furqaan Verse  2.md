@@ -986,7 +986,7 @@ Hij is Degene aan wie het koninkrijk van de hemelen en de aarde toebehoort. En H
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aan Wie het Koninkrijk der hemelen en der aarde toebehoort, Hij heeft zich geen zoon genomen noch heeft Hij een mededinger in Zijn Koninkrijk, Hij heeft alles geschapen, en het de juiste maat gegeven
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

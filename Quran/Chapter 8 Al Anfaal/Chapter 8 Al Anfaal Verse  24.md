@@ -986,7 +986,7 @@ O julliel die geloven, geeft gehoor aan Allah en aan de Boodschapper wanneer hij
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, geeft gehoor aan Allah en de boodschapper wanneer Hij u roept, opdat Hij u leven moge geven en weet, dat Allah tussen een man en zijn hart komt en dat Hij het is tot Wie gij zult worden vergaderd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

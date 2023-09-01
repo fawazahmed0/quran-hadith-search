@@ -986,7 +986,7 @@ En degenen die volgengen waren, zuilen tot degenen die hoogmoedig weren zeggen: 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de zwakkelingen zullen tot de hoogmoedigen zeggen: 'Maar het kwam door uw listige plannen, bij dag en nacht beraamd, waarbij gij ons geboodt niet in Allah te geloven en gelijken aan Hem op werpen.' En zij zullen berouw tonen wanneer zij de straf zullen zien. En Wij zullen zware kettingen leggen om de halzen der ongelovigen. Zij zullen slechts worden gestraft voor hetgeen zij deden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorzeker, Allah heeft jullie reeds in vele veldslagen geholpen en op de dag van
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, Allah heeft u op menig slagveld geholpen en op de dag van Honain, toen uw grote aantal u verheugde, maar dit baatte u niets en de aarde werd ondanks haar uitgestrektheid voor u te eng; toen hebt gij u vluchtende afgewend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

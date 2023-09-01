@@ -986,7 +986,7 @@ Ah, jullie zijn degenen die van hen houden, maar zij houden niet van jullie en j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ziet, gij hebt hen lief, maar zij hebben u niet lief. En gij gelooft in het gehele Boek; wanneer zij u ontmoeten zeggen zij: 'Wij geloven.' maar wanneer zij alleen zijn, bijten zij op hun vingertoppen van razernij over u. Zeg: 'Sterft in uw razernij.' Waarlijk, Allah weet goed wat in de harter is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Hij (Iblîs) zei: "Ziet U? Dat is degene die U boven mij geëerd hebt. Indien U 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hij zeide: 'Hebt Gij hem boven mij ge�erd? Indien Gij mij tot de Dag der Opstanding uitstel verleent, zal ik voorzeker zijn nakomelingen mij doen volgen, op enkelen na
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

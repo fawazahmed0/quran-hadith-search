@@ -986,7 +986,7 @@ Degenen die geloven en die zijn uitgeweken en die strijden op de Weg van Allah m
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij, die geloven en van hun woonplaatsen verhuizen en met hun bezit en met hun persoon voor de zaak van Allah strijden, hebben in de ogen van Allah de hoogste rang. Dezen zullen zegevieren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

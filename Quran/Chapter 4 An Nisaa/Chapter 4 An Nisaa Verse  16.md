@@ -986,7 +986,7 @@ En als twee personen van jullie daaraan schildig zijn: straft hen beiden: en als
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En als twee temiffen van u zich hieraan schuldig maken, straft hen beiden. En als zij berouw hebben en zich verbeteren, laat hen dan met rust, voorzeker, Allah is Berouwaanvaardend, Genadevol
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

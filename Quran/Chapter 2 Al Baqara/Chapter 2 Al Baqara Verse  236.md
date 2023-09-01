@@ -986,7 +986,7 @@ Er rust geen zonde op jullie wanneer jullie de vrouwen scheiding geven voordat j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het zal voor u geen zonde zijn, indien gij van uw vrouw scheidt, voordat gij haar hebt benaderd of voor haar een bruidsschat hebt vastgesteld. Maar maakt een voorziening voor haar, de rijke naar zijn middelen en de arme naar zijn middelen, een gebruikelijke voorziening - dit is een verplichting voor de deugdzamen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

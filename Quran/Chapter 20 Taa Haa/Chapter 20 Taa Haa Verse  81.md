@@ -986,7 +986,7 @@ Eet van de gome dingen, waarmee Wij jullie hebben voorzien en overdrijft niet zo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Eet van de goede dingen die Wij u hebben verschaft en overtreedt niet hier in, anders zal Mijn toorn op u nederdalen en degene op wie Mijn toorn nederdaalt gaat ten onder
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

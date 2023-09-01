@@ -986,7 +986,7 @@ Over de wereld en het Hiernamaals. En zij vragen jou over de wezen. Zeg: "Het ju
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij vragen u omtrent de wezen. Zeg hun: 'De bevordering van hun welzijn is een goede daad. En als gij met hen omgaat zijn zij uw broeders. En Allah weet de kwaadstichters van de vredestichters te onderscheiden. En indien Allah het had gewild, zou Hij het u moeilijk hebben gemaakt. Voorzeker, Allah is Almachtig, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En Hij is Degene Die tuinen heeft voortgebracht, gestuttc en niet gestutte, en d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het, Die tuinen doet ontstaan, wel of niet gestut en de dadelpalm en de korenvelden, waarvan de vruchten van verschillende soorten zijn en de olijf en de granaatappel van gelijke en ongelijke soort. Eet de vruchten ervan wanneer zij vruchten dragen, maar betaalt op de dag van de oogst, wat Hem verschuldigd is en verkwist het niet. Voorzeker, Allah heeft de verkwisters niet lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En het behoort tot Zijn Tekenen dat jij de droge aarde ziet, en als Wij er dan w
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dit behoort tot Zijn tekenen, dat gij de aarde droog en verschroeid ziet, maar wanneer Wij er water op nederzenden, beweegt zij zich en zet uit. Zeker Hij, Die haar leven geeft, zal ook de doden opwekken. Voorwaar, Hij heeft macht over alle dingen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

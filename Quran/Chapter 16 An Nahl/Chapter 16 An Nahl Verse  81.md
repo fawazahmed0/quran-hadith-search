@@ -986,7 +986,7 @@ En Allah gaf jullie uit wat Hij schiep schaduwen en Hij maakte voor jullie in de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Allah heeft van hetgeen Hij heeft geschapen dingen voor u gemaakt die schaduw geven, en Hij heeft in de bergen schuilplaatsen voor u gemaakt; Hij heeft klederen voor u gemaakt die u tegen hitte beschermen en harnassen die u in uw oorlogen beschermen. Zo volmaakt Hij Zijn gunsten aan u, opdat gij u moogt onderwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

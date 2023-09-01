@@ -986,7 +986,7 @@ Zij bestrijden jullie niet gezamenlijk, behalve in versterkte steden of van acht
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zullen u niet bestrijden zelfs allen tezamen, tenzij in versterkte steden of achter muren, ofschoon zij onderling grote dapperheid tonen. Gij denkt dat zij eensgezind zijn maar hun harten zijn verdeeld. Dat is omdat zij een volk zijn dat niet begrijpt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

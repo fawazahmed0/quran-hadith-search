@@ -986,7 +986,7 @@ Wees daarom geduldig: voorwaar, de belofte van Allah is waar. En vraag vergeving
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Heb geduld, voorzeker, Allah´s belofte is waar. En vraag bescherming tegen uw zonde en eert uw Heer ´s morgens en ´s avonds met de lof die Hem toekomt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

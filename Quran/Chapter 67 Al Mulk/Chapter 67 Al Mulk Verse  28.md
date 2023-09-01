@@ -986,7 +986,7 @@ Zeg: "Wat dachten jullie, als Allah mij en wie met mij zijn vernietigt of als Hi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Vertel mij, indien Allah mij en degenen die met mij zijn, zou vernietigen - veeleer zal Hij ons genadig zijn - wie zal de ongelovigen tegen een pijnlijke straf kunnen beschermen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

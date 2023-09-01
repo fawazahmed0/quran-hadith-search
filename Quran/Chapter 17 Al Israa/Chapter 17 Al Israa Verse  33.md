@@ -986,7 +986,7 @@ En doodt geen ziel waarvan Allah (het doden) verboden heeft verklaard, behalve v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En doodt niemand die Allah heilig heeft verklaard, tenzij het met recht geschiedt. En wie onrechtvaardig is gedood, aan diens erfgenaam hebben Wij zeker gezag verleend, doch laat hem bij het doden niet buitensporig zijn, want hij wordt (door de wet) gesteund
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

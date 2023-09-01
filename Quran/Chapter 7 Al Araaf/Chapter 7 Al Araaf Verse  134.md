@@ -986,7 +986,7 @@ En toen de plaag ben overviel, zeiden zij: "O Môesa, roep jou Heer aan krachten
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen de straf op hen viel, zeiden zij: 'O, Mozes, bid voor ons tot uw Heer, zoals Hij u heeft beloofd. Als gij de plaag van ons verwijdert, zullen wij u zeker geloven en wij zullen de kinderen Isra�ls voorzeker met u laten gaan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

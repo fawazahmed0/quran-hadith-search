@@ -986,7 +986,7 @@ Er in zijn duidelijk Tekenen, (zoals) de standplaats van Ibrâhîm, en hij die e
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarin zijn duidelijke tekenen: het is de plaats van Abraham en wie het binnengaat is in vrede. En de bedevaart naar het Huis is door Allah aan de mensen opgelegd die er een weg naartoe kunnen vinden. En wie niet gelooft, Allah is voorzeker Onafhankelijk van alle werelden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Zij verlangen ernaar dat jullie ongelovig worden, zoals zij ongelovig zijn, zoda
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij wensen dat gij verwerpt, evenals zij hebben verworpen, zodat gij aan hen gelijk zult worden. Neemt derhalve geen vrienden uit hun midden totdat zij voor de zaak van Allah werken. En indien zij tot vijandschap vervallen, grijpt hen dan en doodt hen waar gij hen ook vindt; en neemt vriend noch helper uit hun midden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Behalve degenen die zich aansluiten bij een volk, waarmee jullie een wederzijds 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Behalve degenen die tot een volk behoren waarmee gij een verbond gesloten hebt, of zij die tot u komen terwijl hun hart zich verzet u te bestrijden of hun eigen volk aan te vallen. En indien Allah wilde, zou Hij hun macht tegen u hebben gegeven; dan zouden zij zeker tegen u hebben gevochten. Dus, als zij zich van u op een afstand houden en u niet bestrijden en u vrede aanbieden - heeft Allah u niet toegestaan iets tegen hen te ondernemen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

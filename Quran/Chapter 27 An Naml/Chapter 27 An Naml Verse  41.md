@@ -986,7 +986,7 @@ Hij (Soelaimân) zei: "Maak haar troon onherkenbaar voor haar, zodat wij zien of
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En hij (Salomo) zeide: 'Zorgt dat haar eigen troon haar tegenstaat. Wij zullen zien of zij de rechte weg volgt of dat zij behoort tot degenen die van de rechte weg worden afgeleid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

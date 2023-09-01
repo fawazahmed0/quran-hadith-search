@@ -986,7 +986,7 @@ En (gedenkt) toen Wij een paar van de Djinn's bij jou brachten, om naar de Koran
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Wij een aantal van de djinn naar u deden komen, die de Koran wensten te horen en, toen zij bij u kwamen, zeiden zij: 'Weest stil' en toen het (de prediking) be�indigd was, gingen zij naar hun volk terug en waarschuwden dit
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

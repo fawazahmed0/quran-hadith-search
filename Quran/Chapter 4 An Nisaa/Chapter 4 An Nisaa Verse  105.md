@@ -986,7 +986,7 @@ Wij hebben jou liet Boek met de Waarheid neergezonden zodat jij kunt oordelen tu
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wij hebben u waarlijk het Boek (de Koran), dat. de waarheid bevat, nedergezonden, opdat gij tussen de mensen zoudt richten door hetgeen Allah u heeft onderwezen. En wees geen pleiter voor de oneerlijken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

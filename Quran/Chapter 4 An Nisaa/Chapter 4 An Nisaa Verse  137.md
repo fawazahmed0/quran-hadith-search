@@ -986,7 +986,7 @@ Voorwaar, degenen die geloven en do ongelovig worden en dan geloven en dan (weer
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voorzeker, degenen die geloven, daarna verwerpen, dan wederom geloven dan wederom verwerpen en daarna in ongeloof toenemen, hen zal Allah niet vergeven, noch zal Hij hen op de rechte weg leiden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

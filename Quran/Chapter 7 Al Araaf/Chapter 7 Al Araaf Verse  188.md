@@ -986,7 +986,7 @@ Zeg: "Ik heb geen inacht om voor mijzelf iets van nut te verwerven of schade af 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Ik heb buiten hetgeen Allah wil, geen macht over goed of kwaad voor mijzelf. En als ik het onzienlijke kende zou ik een overvloed van goed hebben bemachtigd en het kwade zou mij niet hebben gedeerd. Ik ben slechts een waarschuwer en een drager van goede tijding voor een volk dat gelooft
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

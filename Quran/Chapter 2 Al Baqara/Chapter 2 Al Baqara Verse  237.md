@@ -986,7 +986,7 @@ En wanneer jullie hun scheiding geven voor-dat jullie hen hebben aangeraakt en t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En indien gij van haar scheidt, voor gij haar hebt benaderd maar haar een bruidsschat hebt toegekend, (geeft) dan de helft van hetgeen gij hebt vastgesteld, tenzij zij het u kwijtschelden, of degene, die de huwelijksband in handen heeft het u zou kwijtschelden. En, indien gij kwijtscheldt is dit dichter bij de godsvrucht. En vergeet niet, elkander goed te doen. Voorzeker, Allah ziet, wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En (vanwege) hun nemen van rente, hoewel dat hun verboden was en hun onrechtmati
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En om het nemen van rente, ofschoon het hun was verboden en het onrechtvaardig opslokken van ´s mensen rijkdommen, hebben Wij voor degenen onder hen die niet geloven een pijnlijke straf bereid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

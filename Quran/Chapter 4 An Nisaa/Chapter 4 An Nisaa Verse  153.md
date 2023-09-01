@@ -986,7 +986,7 @@ En de Lieden van de Schrift vragen jou om aan hen een Boek uit de Hemel neer te 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 De mensen van het Boek vragen u een Boek uit de hemel op hen te doen nederdalen. Zij vroegen Mozes meer dan dit, zij zeiden: 'Toon ons Allah openlijk.' Toen trof hen de bliksem wegens hun overtreding. Daarna, hoewel duidelijke tekenen tot hen gekomen waren, namen zij toch het (gouden) kalf (ter aanbidding) aan, doch Wij vergaven hun dat. En Wij bekleedden Mozes met duidelijk gezag
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

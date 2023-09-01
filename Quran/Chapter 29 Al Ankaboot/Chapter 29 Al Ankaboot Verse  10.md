@@ -986,7 +986,7 @@ En er zijn er onder de mensen, die zeggen: "Wij geloven in Allah," en als zij da
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Onder de mensen zijn er die zeggen: 'Wij geloven in Allah', maar als zij vervolgd worden om Allah´s zaak, zien zij de vervolging van de mens als een straf van Allah. Maar als hulp van uw Heer komt, zeggen zij: 'Voorzeker, wij waren met U.' Weet Allah niet het best wat in het innerlijk aller schepselen is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

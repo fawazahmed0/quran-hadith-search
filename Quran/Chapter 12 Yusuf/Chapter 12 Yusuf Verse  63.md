@@ -986,7 +986,7 @@ Toen zij bij hun vader terugkeerden, zeiden zij: "O onze vader, het graan wordt 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen zij tot hun vader terugkeerden, zeiden zij: 'Onze vader, een (verdere) maat is ons ontzegd, zend daarom onze broeder met ons mede, opdat wij onze maat (koren) mogen verkrijgen en wij zullen zeker op hem passen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

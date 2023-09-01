@@ -986,7 +986,7 @@ En toen Tâlôet met de legers was uitgetrokken, zei hij: "Voorwaar, Allah zal j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Taloet met de strijdkrachten uitrukte, zeide hij: 'Voorzeker, Allah zal u door een stroom beproeven: dus hij die er van drinkt, is niet met mij, behalve wanneer hij maar een handvol neemt, en hij die er niets van neemt, is zeker met mij.' Maar behoudens enigen hunner dronken zij er van. En toen zij de rivier overstaken, hij en de gelovigen met hem - zeiden zij: 'Wij hebben vandaag geen macht over Djaloet (Goliath) en zijn strijdkrachten.' Maar zij, die er zeker van waren, dat zij Allah zouden ontmoeten, zeiden: 'Hoevele kleine groepen hebben niet onder Allah´s bevel over een grote groep gezegevierd.' En Allah is met de geduldigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

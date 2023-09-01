@@ -986,7 +986,7 @@ Zij zeggen 'gehoorzaamheid," maar wanneer zij bij jou wegtrekken, bekonkelt een 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij zeggen: 'Gehoorzaamheid', maar wanneer zij van u weggaan, smeedt een deel hunner plannen in de nacht tegen hetgeen gij hebt gezegd. Allah tekent op, al hetgeen zij beramen gedurende de nacht. Wend u dus van hen af en stelt uw vertrouwen in Allah alleen. Allah is toereikend als Voogd
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

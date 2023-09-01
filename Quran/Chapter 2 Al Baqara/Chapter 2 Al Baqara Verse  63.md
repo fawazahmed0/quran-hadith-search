@@ -986,7 +986,7 @@ En (gedenkt) toen Wij jullie belofte aanvaardden en de (berg) Thôer boven julli
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Wij een verbond met u aangingen en de berg hoog boven u verhieven, zeiden Wij: 'Houdt vast, wat Wij u hebben gegeven en bedenkt wat het bevat, zodat gij behoed zult worden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

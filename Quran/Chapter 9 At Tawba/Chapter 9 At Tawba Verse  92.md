@@ -986,7 +986,7 @@ En (ook) niet op degenen die, toon zij naar jou kwamen opdat jij lien zou vervoe
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Noch op degenen, die tot u kwamen en verzochten dat gij hun een rijdier zoudt verschaffen, en gij antwoorddet: 'Ik kan niets vinden waarop ik u kan doen rijden.' Zij gingen met hun ogen vol tranen terug uit spijt, dat zij niets konden vinden om hiertoe zelf bij te dragen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

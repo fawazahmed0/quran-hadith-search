@@ -986,7 +986,7 @@ En zij hebben Allah niet waarheidsgetrouw ingeschat, toen zij zeiden: "Allah hee
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En zij schatten de juiste waarde van Allah niet wanneer zij zeggen: 'Allah heeft aan niemand iets geopenbaard.' Zeg: 'Wie openbaarde het Boek dat Mozes bracht als licht en leiding voor de mensen - dat gij op papieren schrijft, en bekend maakt, terwijl gij toch veel verbergt en (waardoor) aan u is onderwezen, hetgeen gij noch uw vaderen wisten?' - Zeg: 'Allah'. Laat hen dan met rust om zich met hun ledig spel te vermaken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

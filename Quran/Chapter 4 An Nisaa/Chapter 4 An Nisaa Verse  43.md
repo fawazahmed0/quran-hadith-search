@@ -986,7 +986,7 @@ O jullie die geloven, nadert niet de shalât terwijl jullie dronken zijn, totdat
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O, gij die gelooft, komt niet tot het gebed als gij bedwelmd zijt; totdat gij weet wat gij zegt, noch, wanneer gii onrein zijt tot gij u hebt gebaad, tenzij gij onderweg zijt. En indien gij ziek zijt, of op reis, of een uwer van de afzondering komt, of gij hebt vrouwen aangeraakt en gij vindt geen water, neemt dan uw toevlucht tot zuivere aarde en veegt er uw gezicht en handen mee af. Waarlijk, Allah is Inschikkelijk, Vergevensgezind
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

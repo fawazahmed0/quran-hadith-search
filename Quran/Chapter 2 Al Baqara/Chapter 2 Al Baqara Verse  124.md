@@ -986,7 +986,7 @@ En (gedenkt) toen Ibrâhîm door zijn Heer beproefd werd met enkele woorden (geb
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Abrahams Heer hem met zekere opdrachten beproefde en Abraham deze vervulde, zeide Hij: 'Ik zal u tot leider der mensen maken'. Abraham vroeg: 'En ook aran onder mijn nakomelingen?' Hij zeide: 'Mijn verbond betreft de overtreders niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

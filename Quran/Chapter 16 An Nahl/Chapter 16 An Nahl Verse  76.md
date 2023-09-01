@@ -986,7 +986,7 @@ En Allah maakt een vergelijking met twee mannen: een van de twee is stom en hij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Allah geeft een gelijkenis van twee mannen: een hunner is stom, heeft nergens macht over en is een last voor zijn meester; waar hij hem ook heenzendt, hij brengt (hem) niets goeds mee. Kan deze gelijk zijn aan hem die rechtvaardigheid gelast en die zelf op het rechte pad is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

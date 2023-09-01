@@ -986,7 +986,7 @@ En Allah heeft jullie uit aarde geschapen, vervolgens uit een druppel en daarop 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah schiep u uit stof, dan uit een levenskiem, daarna maakte Hij u tot paren. En geen vrouw wordt zwanger of brengt voort, zonder dat Hij het weet. En niemands leven wordt verkort of verlengd zonder dat het in het Boek is vermeld. Voorzeker, dit is gemakkelijk voor Allah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

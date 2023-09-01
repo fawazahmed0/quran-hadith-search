@@ -986,7 +986,7 @@ De armen die in den godsdienstoorlog bezig zijn, kunnen het land niet doorloopen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Aalmoezen zijn) voor de armen, die gebonden zijn (door hun dienst) aan Allah, en in het land niet kunnen rondtrekken. De onwetende beschouwt hen als rijken wegens hun hescheidenheid. Gij zult hen aan hun tekenen herkennen, daar zij niet op een opdringerige wijze bij de mensen vragen. En welke rijkdommen gij ook besteedt, voorzeker, Allah weet het goed
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

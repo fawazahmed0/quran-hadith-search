@@ -986,7 +986,7 @@ Is hij dan, wiens slechte daden (door de Satan) schoonschijnend zijn gemaakt en 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij wiens boze daden schoonschijnend zijn gemaakt, zodat hij deze als goed beschouwt (kan de leiding vinden). Zeker, Allah laat dwalen wie Hij wil en leidt wie Hij wil. Laat uw ziel dus niet wegkwijnen uit verdriet over hen. Voorzeker, Allah weet wat zij doen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

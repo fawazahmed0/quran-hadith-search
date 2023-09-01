@@ -986,7 +986,7 @@ En tot de Tsamôed zonden Wij hun broeder Shâlih, hij zei: "O mijn volk, aanbid
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En tot de Samoed zeide hun broeder Salih: 'O, mijn volk, aanbid Allah; gij hebt geen God naast Hem. Hij wekte u op vanuit de aarde en vestigde u er. Vraagt vergiffenis aan Hem en bekeert u tot Hem. Voorwaar, mijn Heer is nabij, Verhorende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Wees daarom geduldig (O Moehammad) met wat zij zeggen en prijs de lof van jouw H
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Verdraag (Mohammed) lijdzaam hetgeen zij zeggen en verheerlijk uw Heer met de lof die Hem toekomt voor het opgaan der zon en voor haar ondergang en verheerlijk Hem in de uren van de nacht en op de gedeelten van de dag, opdat gij gelukkig moogt zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

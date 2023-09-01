@@ -986,7 +986,7 @@ Het is geen vroomheid dat jullie je gezichten naar het Oosten en het Westen wend
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het is geen deugd, dat gij uw gezicht naar het Oosten of naar het Westen wendt, maar waarlijke deugd is in hem, die in Allah, de Laatste Dag, de engelen, het Boek en de profeten gelooft en die van zijn vermogen geeft uit liefde voor Hem aan de verwanten, de wezen, de armen, de reiziger, de bedelaars en voor het vrijkopen van slaven en die het gebed onderhoudt en de Zakaat betaalt; verder in degenen, die hun belofte nakomen, wanneer zij een belofte doen en de geduldigen in armoede, in kwellingen en in oorlogstijd; dezen zijn het, die bewezen hebben, waarachtig te zijn en dezen zijn vromen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

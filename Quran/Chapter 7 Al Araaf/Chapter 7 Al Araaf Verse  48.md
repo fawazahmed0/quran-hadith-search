@@ -986,7 +986,7 @@ En zij die zich op de A'râf bevinden, roepen tot mannen die zij bij hun kenmerk
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de bewoners van de verheven plaatsen zullen tot de mensen die zij aan hun merktekenen herkennen roepen: 'Uw aantal, noch datgene waarover gij hoogmoedig waart, heeft u kunnen helpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

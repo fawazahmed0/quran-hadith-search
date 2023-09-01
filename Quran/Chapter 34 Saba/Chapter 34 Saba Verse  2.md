@@ -986,7 +986,7 @@ Hij kent wat de aarde ingaat en wat er uit voortkomt en wat neerdaalt uit de hem
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij weet alles wat de aarde binnengaat en wat er uit voortkomt en wat van de hemel nederdaalt en wat er naar opstijgt; Hij is de Barmhartige, de Vergevensgezinde
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

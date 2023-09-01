@@ -986,7 +986,7 @@ Het is Allah Die jullie schept en jullie vervolgens wegneemt. En onder jullie zi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Allah schept u, dan doet Hij u sterven, en er zijn sommigen onder u die een hoge ouderdom bereiken, waardoor zij na kennis te hebben vergaard, niets meer weten. Voorzeker, Allah is Alwetend, Almachtig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

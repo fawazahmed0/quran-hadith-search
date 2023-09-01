@@ -986,7 +986,7 @@ Zeg: "Ik ben slechts een mens zoals jullie, aan mij is geopenbaard dat jullie Go
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Ik ben slechts een mens zoals gij. Het is mij geopenbaard dat uw God slechts ��n God is; weest derhalve oprecht jegens Hem en vraagt vergiffenis van Hem.' En wee de afgodendienaren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En zo hebben Wij sommigen van hen door anderen beproefd, opdat zij zouden zeggen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En op deze wijze hebben Wij sommigen hunner door anderen beproefd, zodat zij kunnen zeggen: 'Zijn dezen het, die Allah onder ons heeft begunstigd?' Kent Allah degenen die dankbaar zijn niet het beste
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

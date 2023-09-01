@@ -986,7 +986,7 @@ En (ook verboden zijn:) de getrouwde vrouwen, behalve de slavinnen onder jullie 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En getrouwde vrouwen, met uitzondering van haar, die gij bezit. Dit is een gebod van Allah voor u. Degenen, die daar buiten vallen, zijn u toegestaan; dat gij zoekt door middel van wat gij bezit haar behoorlijk te huwen en geen overspel te plegen. En geeft haar een huwelijksgift, tegenover de voordelen, die gij van haar hebt, dit is verplicht; er zal na het vaststellen daarvan geen zonde op u rusten in alles wat gij onderling overeenkomt. Voorzeker, Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

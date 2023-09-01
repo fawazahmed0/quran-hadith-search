@@ -986,7 +986,7 @@ Degenen waarvan, als de Naam van Allah genoemd wordt de harten trillen en die ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wier harten vervuld zijn van vrees wanneer Allah´s naam wordt genoemd, en die geduldig dragen al hetgeen hun overkomt, die het gebed onderhouden, en geven van hetgeen Wij hun hebben toebedeeld
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

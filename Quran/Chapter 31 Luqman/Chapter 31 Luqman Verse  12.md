@@ -986,7 +986,7 @@ En voorzeker, Wij hebben Loeqmân de wijsheid geschonken: wees Allah dankbaar. E
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij schonken wijsheid aan Loqmaan, zeggende: 'Wees Allah dankbaar, want hij die dankbaar is, is dankbaar voor zichzelf, en die ondankbaar is: Allah is Zichzelf-genoeg, Geprezen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

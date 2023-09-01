@@ -986,7 +986,7 @@ En jij was niet op de zijkant van Thôer toen Wij riepen. Maar het is dank zij d
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En gij waart niet aan de bergkant toen Wij (naar Mozes) riepen. Maar uit barmhartigheid van uw Heer zijt gij gezonden, opdat gij een volk naar hetwelk geen waarschuwer kwam v��r u moogt waarschuwen opdat zij er lering uit mogen trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

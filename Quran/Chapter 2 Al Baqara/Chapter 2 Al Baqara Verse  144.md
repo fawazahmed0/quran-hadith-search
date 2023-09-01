@@ -986,7 +986,7 @@ Waarlijk, Wij hebben gezien hoe jouw gezicht voortdurend tot de hemel wendde, da
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Waarlijk, Wij zien uw aangezicht zich naar de hemel wenden, daarom zullen Wij u tot beheerder maken van de Qiblah, die u behaagt. Wend daarom uw aanaangezicht naar de Heilige Moskee en waar gij ook moogt zijn, wendt uw aangezicht daarheen. En voorzeker, zij wie het Boek is gegeven, weten, dat dit de Waarheid is van hun Heer; Allah is niet achteloos ten aanzien van wat zij doen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

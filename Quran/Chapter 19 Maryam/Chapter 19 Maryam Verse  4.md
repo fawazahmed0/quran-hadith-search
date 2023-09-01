@@ -986,7 +986,7 @@ Hij (Zakariyyâ) zei: "O mijn Heer, voorwaar, mijn botten zijn zwak en mijn haar
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeide hij: 'Mijn Heer, het gebeente in mij is zwak geworden en mijn hoofd glanst met grijze haren, niettemin ben ik niet wanhopig, mijn Heer, bij mijn aanroep tot U
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

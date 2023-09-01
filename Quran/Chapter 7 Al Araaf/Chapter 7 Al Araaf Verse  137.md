@@ -986,7 +986,7 @@ En aan het volk dat onderdrukt was geweest, deden Wij gebieden ten Oosten en ten
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Wij deden de mensen die voor zwak werden gehouden de oostelijke en westelijke gedeelten van het land, welke Wij zegenden, erven. En het genadevolle woord van uw Heer werd voor de kinderen Isra�ls vervuld omdat zij geduldig waren geweest; en Wij vernietigden al hetgeen Pharao en zijn volk hadden gebouwd en al hetgeen zij hadden opgericht
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En ieder bestraften Wij voor zijn zonde. Daarom waren er onder hen over wie Wij 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zo grepen Wij iedereen om zijn zonden en onder hen waren er, die een rukwind achterhaalde, en onder hen waren er die de aardbeving overviel, en onder hen waren er die Wij in de aarde deden verzinken, en onder hen waren er die Wij deden verdrinken. Allah was het niet, die hen onrecht aandeed, maar zij handelden onrechtvaardig jegens zichzelf
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

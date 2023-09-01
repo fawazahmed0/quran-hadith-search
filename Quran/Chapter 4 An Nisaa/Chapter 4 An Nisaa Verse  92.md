@@ -986,7 +986,7 @@ En nooit mag een gelovige een (andere) gelovige te doden, behalve per vergissing
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Het betaamt een gelovige niet, een andere gelovige te doden, tenzij dit bij vergissing gebeurt. En wie een gelovige bij vergissing doodt moet een gelovige slaaf bevrijden en bloedgeld betalen ter overhandiging aan de erfgenamen, tenzij deze het uit liefdadigheid kwijtschelden. Maar indien hij (de gedode) tot een u vijandig gezind volk behoort en een gelovige is, dan moet (de overtreder) een gelovige slaaf bevrijden en als hij van een volk is waarmede gij een verbond hebt, dan moet een bloedgeld aan zijn familie worden betaald en een gelovige slaaf worden bevrijd. Maar wie er geen vindt, moet twee maanden achtereenvolgens vasten - een boete van Allah. En Allah is Alwetend, Alwijs
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Voorwaar, degenen die Allah en Zijn Boodschapper beledigen: Allah zal hen vervlo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Betreffende hen, die Allah en Zijn boodschapper lastig vallen, Allah heeft hen in deze wereld en in het Hiernamaals vervloekt en heeft een vernederende straf voor hen bereid
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

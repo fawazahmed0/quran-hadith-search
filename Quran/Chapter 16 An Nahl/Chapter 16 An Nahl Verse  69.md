@@ -986,7 +986,7 @@ Eet dan van alle vruchten en volg de wegen die jouw Heer makkelijk maakte."' Er 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Eet dan van alle soorten vruchten en volgt onderdanig de wegen van uw Heer.' Er komt uit hun buik een vloeistof (honing) van verschillende tinten voort waarin genezing is voor de mens. Voorzeker, daarin is een teken voor een volk dat nadenkt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

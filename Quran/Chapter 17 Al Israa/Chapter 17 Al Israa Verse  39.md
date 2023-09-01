@@ -986,7 +986,7 @@ Dat is (een deel) van de Wijsheid die Allah aan jou openbaarde. En neem geen and
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dit is hetgeen uw Heer u van de wijsheid heeft geopenbaard. En stel naast Allah geen andere god aan, anders zult gij in zelfverwijt verworpen in de Hel terechtkomen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

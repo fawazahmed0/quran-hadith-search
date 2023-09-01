@@ -986,7 +986,7 @@ Op die Dag zullen er gezichten wit geworden zijn en zullen er gezichten zwart ge
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Op den dag, waarop sommige gezichten verlicht en andere gezichten verduisterd zullen zign. Wat hen betreft, wier gezicht verduisterd zal zijn: 'Hebt gij verworpen, nadat gij hadt geloofd? Ondergaat dan de straf, omdat gij placht te verwerpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

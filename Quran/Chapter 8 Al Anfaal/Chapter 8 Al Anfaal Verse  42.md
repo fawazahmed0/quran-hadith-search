@@ -986,7 +986,7 @@ Toen jullie je op de nabijgelegen rand van de vallei bevonden en zij zich op de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen gij op de nabijzijnde kant waart en zij zich op de andere zijde bevonden en de karavaan beneden u was; en indien gij een onderlinge afspraak hadt gemaakt, zoudt gij ten opzichte van die afspraak zeker (van mening) hebben verschild. Maar (dit gebeurde) zodat Allah hetgeen gedaan moest worden tot stand zou brengen, zodat hij die zou omkomen door een duidelijk teken zou sterven en dat hij die zou leven door een even duidelijk teken zou blijven leven. En voorzeker, Allah is Alhorend, Alwetend
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

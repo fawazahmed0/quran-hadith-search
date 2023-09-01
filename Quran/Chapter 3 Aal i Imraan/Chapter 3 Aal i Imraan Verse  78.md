@@ -986,7 +986,7 @@ En voorwaar, onder hen is er een groep die de Schrift verdraait met hun tongen, 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En voorzeker, onder hen zijn er, die hun tong verdraaien, terwijl zij het Boek voordragen, opdat gij het van het Boek moogt achten, hoewel het niet van het Boek is. En zij zeggen: 'Dit is van Allah,' ofschoon het niet van Allah is en zij uiten een leugen tegen Allah, tegen beter weten in
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

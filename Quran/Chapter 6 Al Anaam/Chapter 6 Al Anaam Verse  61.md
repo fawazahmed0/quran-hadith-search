@@ -986,7 +986,7 @@ En Hij is de Krachtige, boven Zijn dienaren en hij stelt Wakers (Engelen) over j
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is oppermachtig over Zijn dienaren en Hij zendt bewakers over u, totdat, wanneer de dood tot een uwer komt, Onze boodschappers zijn ziel wegnemen; zij falen daarin niet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

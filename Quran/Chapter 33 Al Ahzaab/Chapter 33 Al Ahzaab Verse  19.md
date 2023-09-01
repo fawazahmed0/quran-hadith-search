@@ -986,7 +986,7 @@ Zij (de huichelaars) zijn gicrig tegenover jullie. Wanneer den de angst (voor de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zij zijn terughoudend in hun hulp voor u. Maar als het gevaar komt, ziet gij hen naar u kijken met rollende ogen als van iemand die bezwijmt bij de doodsstrijd. En als de vrees is weggevaagd, treffen zij u met hun scherpe tong door hun zucht naar rijkdommen. Zulken hebben niet oprecht geloofd; daarom heeft Allah hun werken vruchteloos gemaakt. Dit is gemakkelijk voor Allah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

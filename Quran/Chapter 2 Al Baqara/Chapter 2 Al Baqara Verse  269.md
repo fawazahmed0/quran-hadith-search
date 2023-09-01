@@ -986,7 +986,7 @@ Hij (Allah) geeft de Wijsheid aan wie Hij wijl en wie de Wijsheid geschonken wor
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij schenkt wijsheid aan wie Hij wil en wie wijsheid is geschonken is inderdaad overvloedig begiftigd en niemand trekt er lering uit, behalve zij, die begrip hebben
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

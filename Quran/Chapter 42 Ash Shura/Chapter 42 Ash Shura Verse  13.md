@@ -986,7 +986,7 @@ Hij heeft jullie de godsdienst uitgelegd: wat Hij heeft opgedragen aan Nôeh, en
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij schreef u dezelfde godsdienst voor, die Hij aan Noach oplegden en die Wij bovendien aan u openbaren en die Wij Abraham, Mozes en Jezus oplegden: 'Bevestigt deze godsdienst en weest er niet in verdeeld.' Voor de afgodendienarenis dat moeilijk waartoe gij hen roept. Allah kiest voor Zich wie Hij wil en leidt hem die zich (in berouw) tot Hem wendt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

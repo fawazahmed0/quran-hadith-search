@@ -986,7 +986,7 @@ Weet zij (de huichelaars) wenden hun borsten af om zich voor hem (Moehammad) te 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Let op, zij verbergen hun vijandschap voor Hem in hun innerlijk. Ja, wanneer zij zich met hun kleding bedekken, weet Hij wat zij verbergen en wat zij tonen. Voorzeker, Hij weet goed wat in het innerlijk is
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

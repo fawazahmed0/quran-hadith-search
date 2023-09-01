@@ -986,7 +986,7 @@ En geen ziel kan sterven, behalve met het verlof Allah, zoals vastgelegd. En wie
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Geen ziel kan sterven zonder Allah´s toestemming, daar de tijd is vastgesteld. En wie de beloning van de tegenwoordige wereld wenst, zullen Wij er van geven; en wie de beloning van het Hiernamaals wenst, hem zullen Wij daar van geven en Wij zullen de dankbaren gewis belonen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

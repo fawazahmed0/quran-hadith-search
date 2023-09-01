@@ -986,7 +986,7 @@ En voorzekerm Allah heeft Zijn belofte aan jullie vervuld toen jullie met Zijn t
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Allah heeft Zijn belofte aan u gehouden, toen gij hen met Zijn verlof dooddet totdat gij onstandvastig werdt en het over het gebod onder elkander oneens werdt en gij niet gehoorzaamdet, nadat Hij u hetgeen u behaagde had laten zien. Onder u waren er die deze tegenwoordige wereld begeerden en er waren onder u die het Hiernamaals begeerden. Toen wendde Hij u van hen af, opdat Hij u mocht beproeven; maar Hij heeft het u vergeven. Allah is Genadevol jegens de gelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

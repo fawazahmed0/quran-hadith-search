@@ -986,7 +986,7 @@ Heilig is Degene Die 's nachts Zijn dienaar (Moehammad) van de Masdjid al Harâm
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Heilig is Hij Die Zijn dienaar bij nacht voerde van de Heilige Moskee naar de Verre Moskee welker omgeving Wij hebben gezegend, opdat Wij hem enkele Onzer tekenen zouden tonen. Voorwaar, Hij is de Alhorende, de Alziende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

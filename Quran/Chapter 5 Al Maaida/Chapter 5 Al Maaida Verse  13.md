@@ -986,7 +986,7 @@ Maar omdat zij hun verbond verbraken, hebben Wij hen vervloekt en hebben Wij hun
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En wegens hun breken van het verbond hebben Wij hen vervloekt en hun hart verhard. Zij rukken de woorden uit hun verband en hebben een deel van hetgeen hun was vermaand, vergeten. En gij zult hen altijd oneerlijk bevinden op enkelen na, derhalve vergeef hen en wend u van hen af. Voorzeker, Allah heeft degenen, die goeddoen, lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

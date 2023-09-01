@@ -986,7 +986,7 @@ Er is geen goed in veel van hun heimelijke gesprekken, behalve wie aanmaant tot 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Er steekt in de beraadslagingen (der huichelaars) niets goeds; in tegenstelling tot diegenen die tot liefdadigheid of goedheid, of het stichten van vrede onder de mensen aansporen. En wie dit doet wijl hij Allah´s welbehagen zoekt, hem zullen Wij een grote beloning schenken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

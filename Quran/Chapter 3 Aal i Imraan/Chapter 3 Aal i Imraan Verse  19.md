@@ -986,7 +986,7 @@ Voorwaar, de (enige) Godsdienst bij Allah is de Islam en degenen die de Schrift 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Gewis, de ware godsdienst voor Allah is de Islam. En degenen, aan wie het Boek was gegeven, verschilden eerst onderling uit afgunst, nadat kennis tot hen was gekomen. En wie de tekenen van Allah verwerpt, (wete) dat Allah vlug is in het verrekenen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ Allah heeft de huichelaars, de huichetaarsters en de ongelovigen het vuur van de
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah belooft de huichelaars, mannen en vrouwen en de ongelovigen het Vuur der hel, waarin zij zullen vertoeven. Het zal hun genoeg zijn. Allah heeft hen vervloekt, en zij zullen een blijvende straf ontvangen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

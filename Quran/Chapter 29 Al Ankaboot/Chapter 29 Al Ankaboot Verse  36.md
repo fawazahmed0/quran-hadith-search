@@ -986,7 +986,7 @@ En naar Madyan (stuurden Wij) hun broeder Sjoe'aib. En hij zei: "O mijn volk, aa
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En tot Midian, (zonden Wij) hun broeder Shoaib, die zeide: 'O mijn volk, dien Allah en vrees de laatste dag en wandel niet op aarde onheil stichtende
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

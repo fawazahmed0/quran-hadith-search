@@ -986,7 +986,7 @@ Zeg (O Moehammad): "'O Lieden van de Schrift! Wreken jullie je alleen maar op on
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'O, mensen van het Boek, gij haat ons slechts, omdat wij in Allah geloven en in hetgeen ons is nedergezonden en in hetgeen voordien was nedergezonden of doordat de meesten van u ongehoorzaam zijn
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

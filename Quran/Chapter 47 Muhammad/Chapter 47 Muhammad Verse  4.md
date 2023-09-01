@@ -986,7 +986,7 @@ Wanneer jullie degenen die ongelovig zijn (op het slagveld) ontmoeten: doodt hen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanneer gij de ongelovigen (in oorlog) ontmoet, treft dan hun nek en wanneer gij overwinnaar zijt, bindt hen dan vast. En wanneer de oorlog opgehouden is, laat hen dan vrij uit gunst of voor een losprijs. Zo zij het. En indien Allah wilde, had Hij hen Zelf kunnen bestraffen. Doch Hij wilde sommigen uwer door anderen op de proef stellen. En degenen die terwille van Allah worden gedood, hun werken zal Hij zeker niet vruchteloos maken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

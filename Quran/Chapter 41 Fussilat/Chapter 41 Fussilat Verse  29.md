@@ -986,7 +986,7 @@ En degenen die niet geloofden zeiden:'"Onze Heer, laat ons degenen van de mensen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En de ongelovigen zullen zeggen: 'Onze Heer, toon ons degenen der djinn en der mensen die ons deden dwalen, opdat wij hen onder onze voeten mogen plaatsen zodat zij tot de vernederden behoren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

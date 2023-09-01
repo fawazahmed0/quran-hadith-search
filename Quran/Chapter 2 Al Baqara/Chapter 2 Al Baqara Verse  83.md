@@ -986,7 +986,7 @@ En (gedenkt) toen Wij het verbond van de Kinderen van Israël aanvardden (zeggen
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Wij een verbond sloten met de kinderen Isra�ls, zeiden Wij, dat gij niemand zult aanbidden, dan Allah alleen en dat gij goed zult zijn voor uw ouders, uw verwanten, de wezen en de armen; spreekt goed tegen de mensen en houdt het gebed en geeft de Zakaat. Doch gij wenddet u af, - behalve weinigen onder u, en gij zijt afkerig
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

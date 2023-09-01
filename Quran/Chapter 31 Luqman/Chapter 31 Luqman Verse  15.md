@@ -986,7 +986,7 @@ En als zij jou dwingen dat jij iets aan Mij toekent, zonder dat jij er kennis ov
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar indien (uw ouders) trachten u iets met Mij te doen vereenzelvigen, waarvan gij geen kennis hebt, gehoorzaam hen niet. Doch leef met hen samen in de wereld op een behoorlijke wijze en volg de weg van hem die zich tot Mij richt. Dan zult gij tot Mij terugkeren en Ik zal u inlichten over hetgeen gij deedt
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

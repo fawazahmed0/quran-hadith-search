@@ -986,7 +986,7 @@ Maar degenen die geloven en goede werken verrichten en die geloven in wat aan Mo
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maar zij, die geloven en goede werken doen en in hetgeen aan Mohammed is ge openbaard, geloven - dit is de Waarheid van hun Heer - hun fouten zal Hij van hen wegnemen en hun toestand verbeteren
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

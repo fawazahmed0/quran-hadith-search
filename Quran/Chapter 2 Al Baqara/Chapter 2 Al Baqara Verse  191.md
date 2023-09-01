@@ -986,7 +986,7 @@ En doodt hen waar jullie hen ook aantreffen en verdrijft hen zoals zij jullie he
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En doodt hen, waar gij hen ook ontmoet en drijft hen uit, vanwaar zij u hebben uitgedreven; want vervolging is erger dan doden. En bevecht hen niet nabij de heilige Moskee, voordat zij u daarin bevechten. Maar indien zij u bevechten, bevecht hen dan - zo is de vergelding voor de ongelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

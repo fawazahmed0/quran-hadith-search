@@ -986,7 +986,7 @@ En toen Wij voor Ibrâhîm de plaats vastelden van het Huis (zeiden Wij:) "Ken M
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen Wij Abraham de plaats voor het Huis (de Kaaba) aanwezen zeggende: 'Vereenzelvig niets met Mij, en houd Mijn Huis rein voor degenen die de rondgang verrichten en degenen die opstaan (voor gebed) en neerbuigen en zich ter aarde werpen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

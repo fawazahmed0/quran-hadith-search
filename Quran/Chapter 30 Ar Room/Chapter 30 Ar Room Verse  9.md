@@ -986,7 +986,7 @@ En reizen zij (ongelovigen) niet op de aarde, zodat zij zien hoe het einde was v
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hebben zij niet op aarde gereisd, zodat zij mochten zien hoe het einde was van degenen die v��r hen waren? Zij waren sterker in macht dan dezen, zij maakten het land vruchtbaar en bebouwden het, meer dan dezen het deden. En hun boodschappers kwamen tot hen met duidelijke tekenen. En Allah was het niet Die hun onrecht aandeed, maar zij waren het die hun eigen ziel onrecht aandeden
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

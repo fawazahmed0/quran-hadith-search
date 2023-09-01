@@ -986,7 +986,7 @@ En aanbidt Allah en kent Hem in niets een deelgenoot toe, en weest goed voor de 
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En aanbidt Allah en vereenzelvigt niets met Hem en bewijst vriendelijkheid aan ouders, verwanten, wezen, de behoeftigen en aan de nabuur, die een vreemdeling is en de nabuur die een bloedverwant is en aan de metgezel, de reiziger en aan degenen die onder uw macht zijn. Voorzeker, Allah heeft de pochers en de opscheppers niet lief
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

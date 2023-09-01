@@ -986,7 +986,7 @@ O mensen, als jullie in twijfel verkeren over de Opstanding: voorwaar, Wij schie
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O mensen, indien gij in twijfel verkeert over de Opstanding, bedenkt, dat Wij u hebben geschapen uit stof, daarna uit een levenskiem, dan van een klonter bloed, daarna uit een klomp vlees, volkomen en onvolkomen in maaksel, opdat Wij het u duidelijk maken. En Wij laten wat Ons behaagt gedurende een vastgestelde tijd in de baarmoeder blijven, dan brengen Wij u als zuigelingen voort, dan (doen Wij u opgroeien) zodat gij volwassen wordt. En daar zijn er onder u die door de dood worden achterhaald en anderen die zulk een hoge ouderdom bereiken, dat zij, na geweten te hebben, niets meer weten. En gij ziet de aarde levenloos, doch wanneer Wij er regen op doen nederdalen, beweegt zij zich, zwelt op en brengt iedere mooie soort planten voort
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

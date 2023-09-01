@@ -986,7 +986,7 @@ Môesa zei tot hen: "Wee jullie, verzint geen leugens over Allah, want dan zal H
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mozes zeide tot hen: 'Wee u; verzint geen leugen over Allah, anders zal Hij u door een kastijding verdelgen. Hij die een leugen verzint, slaagt nimmer
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

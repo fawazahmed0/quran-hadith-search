@@ -986,7 +986,7 @@ En ik volgde de godsdienst van mijn vaderen: (Ibrâhîm, Ishâq en Ya'qôeb, het
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En ik volg de godsdienst van mijn vaderen, Abraham, Izaak en Jacob. Het betaamt ons niet dat wij iets met Allah vereenzelvigen. Dit behoort tot Allah´s genade voor ons en de mensheid, maar de meeste mensen zijn niet dankbaar
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

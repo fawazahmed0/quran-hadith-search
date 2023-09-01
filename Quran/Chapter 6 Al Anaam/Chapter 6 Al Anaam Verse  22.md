@@ -986,7 +986,7 @@ En op de Dag dat Wij hen allen bijeenbrengen, zullen Wij tegen degenen die deelg
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Gedenk) de Dag, waarop Wij hen allen zullen verzamelen, dan zullen Wij zeggen tot degenen, die afgoderij pleegden: 'Waar zijn uw mededingers, die gij beweerdet (te bezitten)
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

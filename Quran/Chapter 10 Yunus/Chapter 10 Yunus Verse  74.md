@@ -986,7 +986,7 @@ Daarna zonden Wij na hem Boodschappers tot hun volk zodat zij niet de duidelijke
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen zonden Wij na hem andere boodschappers naar hun volk en deze kwamen tot hen met duidelijke bewijzen. Maar dezen wilden in datgene niet geloven wat zij voorheen hadden verloochend. Zo verzegelen Wij het hart der overtreders
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

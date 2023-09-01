@@ -986,7 +986,7 @@ Behalve wie jouw Heer begenadigd heeft. En daarom heeft Hij hen geschapen. En he
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Met uitzondering van degenen, die uw Heer barmhartigheid heeft betoond - hiervoor heeft Hij hen geschapen - maar het woord van uw Heer: 'Voorwaar Ik zal de hel met djinn en mensen allen tezamen vullen,' is vervuld
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

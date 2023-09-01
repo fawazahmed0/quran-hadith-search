@@ -986,7 +986,7 @@ Toen verhardden jullie harten zich daarna, zodat zij als steen werden of zelfs h
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarna verhardde zich uw hart. Zij zijn als stenen, of nog harder, want er zijn stenen, waaruit stromen ontspringen en er zijn er zeker, die splijten en er vloeit water uit. En sommige zijn er die uit vrees voor Allah neervallen. En Allah is niet achteloos, ten opzichte van wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

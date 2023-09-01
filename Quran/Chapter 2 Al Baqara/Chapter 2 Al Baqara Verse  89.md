@@ -986,7 +986,7 @@ En wanneer er een boek tot ben komt van Allah, bevestigend wat zich bij hen bevi
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En toen een Boek van Allah tot hen kwam, vervullend datgene, dat bij hen was, hoewel zij voordien om overwinning over de ongelovigen plachten te bidden, toen dat tot hen kwam, herkenden zij dat niet en verwierpen het. Gods vloek rust derhalve op de ongelovigen
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

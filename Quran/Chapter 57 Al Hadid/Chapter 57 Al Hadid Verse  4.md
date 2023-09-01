@@ -986,7 +986,7 @@ Hij is Degene Die de hemelen en de aarde heeft geschapen in zes dagen (perioden)
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hij is het Die de hemelen en de aarde in zes dagen schiep; daarna zette Hij zich op de Troon neder. Hij weet wat de aarde ingaat en wat er uit voortkomt, en wat van de hemelen nederkomt en wat er naar toe opstijgt. Hij is met u waar gij ook zijn moogt, want Allah ziet alles wat gij doet
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

@@ -986,7 +986,7 @@ En Hij is Degene Die de winden zendt als aankondigers van verheugende tijdingen,
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En Hij is het, Die de winden als blijde tijdingen voor Zijn barmhartigheid uitzendt; totdat, wanneer zij zware wolken dragen, Wij ze naar een dor land drijven, daarna zenden Wij er water uit neder, dan brengen Wij alle soorten vruchten voort; zo wekken Wij de doden op, opdat gij er lering uit moogt trekken
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

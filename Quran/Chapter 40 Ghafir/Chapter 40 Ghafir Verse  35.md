@@ -986,7 +986,7 @@ Zij, die Gods teekenen betwisten, zonder dat er een bewijs tot hen is gekomen, z
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degenen die twisten over de tekenen van Allah zonder dat enig gezag (daarover) tot hen kwam; dit is afkeurenswaardig in de ogen van Allah en de gelovigen. Alzo verzegelt Allah het hart van iedere hoogmoedige en onderdrukker
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 

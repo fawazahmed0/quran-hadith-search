@@ -986,7 +986,7 @@ Zeg (O Moehammad): "Hebben jullie jullie afgoden gezien die jullie naast Allah a
 <div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeg: 'Licht (mij) in over de goden, die gij naast Allah aanroept- Toont mij aan hetgeen zij van de aarde hebben geschapen. Of hebben zij een aandeel aan de hemelen?' Hebben Wij hun een Boek gegeven waaruit zij een bewijs hebben? Neen, de boosdoeners beloven elkander slechts bedrog
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
 
 ## English
 
